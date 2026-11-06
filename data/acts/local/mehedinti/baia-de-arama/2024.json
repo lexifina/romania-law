@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-2-2024",
+"path": "local/mehedinti/baia-de-arama/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 2/2024",
+"short": "HCL Baia de Aramă nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-09",
+"latest": "2024-03-09",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/138540",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-3-2024",
 "path": "local/mehedinti/baia-de-arama/2024/3",
 "kind": "local",
@@ -179,6 +202,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-10-2024",
+"path": "local/mehedinti/baia-de-arama/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 10/2024",
+"short": "HCL Baia de Aramă nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-09",
+"latest": "2024-03-09",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/141548",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-11-2024",
 "path": "local/mehedinti/baia-de-arama/2024/11",
 "kind": "local",
@@ -289,6 +335,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-16-2024",
+"path": "local/mehedinti/baia-de-arama/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 16/2024 privind aprobarea cesiunii contractului de închiriere înregistrat sub nr. 1633/16.09.2003",
+"short": "HCL Baia de Aramă nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/147078",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-17-2024",
+"path": "local/mehedinti/baia-de-arama/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 17/2024 privind aprobarea cesiunii contractului de închiriere înregistrat sub nr. 648/08.04.2004",
+"short": "HCL Baia de Aramă nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/147079",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-18-2024",
 "path": "local/mehedinti/baia-de-arama/2024/18",
 "kind": "local",
@@ -311,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-19-2024",
+"path": "local/mehedinti/baia-de-arama/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 19/2024 pentru modificarea HCL nr. 19/31.03.2021 privind aprobarea concesionării prin licitație publică a pajiștilor proprietatea publică a orașului Baia de Aramă, județul Mehedinți, modificată și completată prin HCL nr. 12/31.03.2022, HCL nr. 43/31.08.2022, respectiv HCL nr. 23/28.04.2023",
+"short": "HCL Baia de Aramă nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/147081",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-20-2024",
 "path": "local/mehedinti/baia-de-arama/2024/20",
 "kind": "local",
@@ -330,6 +442,28 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-21-2024",
+"path": "local/mehedinti/baia-de-arama/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 21/2024 privind alegerea președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/147083",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -421,6 +555,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-26-2024",
+"path": "local/mehedinti/baia-de-arama/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 26/2024 privind aprobarea cesiunii contractului de închiriere înregistrat sub nr. 2617/16.08.2004",
+"short": "HCL Baia de Aramă nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/150659",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-27-2024",
 "path": "local/mehedinti/baia-de-arama/2024/27",
 "kind": "local",
@@ -462,6 +618,28 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-29-2024",
+"path": "local/mehedinti/baia-de-arama/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 29/2024 privind aprobarea repartizării unor locuințe din fondul locativ al orașului Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/150662",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -531,6 +709,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-33-2024",
+"path": "local/mehedinti/baia-de-arama/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 33/2024 privind alegerea președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/158226",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-34-2024",
+"path": "local/mehedinti/baia-de-arama/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 34/2024 privind aprobarea repartizării unor locuințe din fondul locativ al orașului Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/158227",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-35-2024",
 "path": "local/mehedinti/baia-de-arama/2024/35",
 "kind": "local",
@@ -575,6 +797,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-37-2024",
+"path": "local/mehedinti/baia-de-arama/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 37/2024 privind schimbarea din funcție a președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/161401",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-38-2024",
+"path": "local/mehedinti/baia-de-arama/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 38/2024 privind alegerea președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/161402",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-39-2024",
 "path": "local/mehedinti/baia-de-arama/2024/39",
 "kind": "local",
@@ -594,6 +860,50 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-40-2024",
+"path": "local/mehedinti/baia-de-arama/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 40/2024 privind desființarea ,,Serviciului Local de Salubrizare și Iluminat Public Baia de Aramă\" - serviciu cu personalitate juridică, organizat în subordinea Consiliului local al orașului Baia de Aramă, conform prevederilor art. XXIX , alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+"short": "HCL Baia de Aramă nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/161404",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-41-2024",
+"path": "local/mehedinti/baia-de-arama/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 41/2024 privind închirierea, prin licitație publică, a unui spațiu aparținând domeniului public al orașului Baia de Aramă, județul Mehedinți",
+"short": "HCL Baia de Aramă nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/161405",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -641,6 +951,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-44-2024",
+"path": "local/mehedinti/baia-de-arama/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 44/2024 pentru revocarea Hotărârii Consiliului Local al orașului Baia de Aramă nr. 40/30.06.2024 privind desființarea ,,Serviciului Local de Salubrizare și Iluminat Public Baia de Aramă\" - serviciu cu personalitate juridică, organizat în subordinea Consiliului local al orașului Baia de Aramă, conform prevederilor art. XXIX , alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+"short": "HCL Baia de Aramă nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/163498",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-45-2024",
+"path": "local/mehedinti/baia-de-arama/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 45/2024 privind aprobarea exceptării ,,Serviciului Local de Salubrizare și Iluminat Public Baia de Aramă\" - serviciu cu personalitate juridică, organizat în subordinea Consiliului local al orașului Baia de Aramă, de la aplicarea prevederilor art. XXIX alin. (1) din Legea nr. 296/2023 privind unele măsuri fiscal bugetare pentru asigurarea sustenabilității financiare a României pe termen lung, cu modificările și completările ulterioare",
+"short": "HCL Baia de Aramă nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/163499",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-46-2024",
 "path": "local/mehedinti/baia-de-arama/2024/46",
 "kind": "local",
@@ -660,6 +1014,28 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-47-2024",
+"path": "local/mehedinti/baia-de-arama/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 47/2024 privind aprobarea efectuării unor lucrări de explorare, constituite din foraje geologice, pe drumul de exploatare DE Baloși - Ocne - proprietatea publică a orașului Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/164591",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -729,6 +1105,73 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-51-2024",
+"path": "local/mehedinti/baia-de-arama/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 51/2024 privind aprobarea repartizării unor locuințe din fondul locativ al orașului Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/167915",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-52-2024",
+"path": "local/mehedinti/baia-de-arama/2024/52",
+"kind": "local",
+"year": "2024",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 52/2024 privind aprobarea cesiunii contractului de închiriere înregistrat sub nr. 1642/16.09.2003",
+"short": "HCL Baia de Aramă nr. 52/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/167916",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-53-2024",
+"path": "local/mehedinti/baia-de-arama/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 53/2024",
+"short": "HCL Baia de Aramă nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/167917",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-54-2024",
 "path": "local/mehedinti/baia-de-arama/2024/54",
 "kind": "local",
@@ -774,6 +1217,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-56-2024",
+"path": "local/mehedinti/baia-de-arama/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 56/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Grădiniței cu Program Normal ,,Tabor” și în Consiliul de Administrație al Școlii Primare ,,Tabor” pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/172343",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-57-2024",
+"path": "local/mehedinti/baia-de-arama/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 57/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Comisia pentru Evaluarea și Asigurarea Calității constituită la nivelul Grădiniței cu Program Normal ,,Tabor\" și în Comisia pentru Evaluarea și Asigurarea Calității constituită la nivelul Școlii Primare ,,Tabor\" pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/172344",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-58-2024",
 "path": "local/mehedinti/baia-de-arama/2024/58",
 "kind": "local",
@@ -796,6 +1283,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-59-2024",
+"path": "local/mehedinti/baia-de-arama/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 59/2024 privind alegerea președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/172433",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-60-2024",
 "path": "local/mehedinti/baia-de-arama/2024/60",
 "kind": "local",
@@ -815,6 +1324,50 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-61-2024",
+"path": "local/mehedinti/baia-de-arama/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 61/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Grădiniței cu Program Normal ,,Tabor” și în Consiliul de Administrație al Școlii Primare ,,Tabor” pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/172435",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-62-2024",
+"path": "local/mehedinti/baia-de-arama/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 62/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Comisia pentru Evaluarea și Asigurarea Calității constituită la nivelul Grădiniței cu Program Normal ,,Tabor\" și în Comisia pentru Evaluarea și Asigurarea Calității constituită la nivelul Școlii Primare ,,Tabor\" pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/172436",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -862,6 +1415,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-65-2024",
+"path": "local/mehedinti/baia-de-arama/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 65/2024",
+"short": "HCL Baia de Aramă nr. 65/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/173708",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-66-2024",
 "path": "local/mehedinti/baia-de-arama/2024/66",
 "kind": "local",
@@ -881,6 +1457,116 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-67-2024",
+"path": "local/mehedinti/baia-de-arama/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 67/2024 privind alegerea președintelui de ședință",
+"short": "HCL Baia de Aramă nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/176707",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-68-2024",
+"path": "local/mehedinti/baia-de-arama/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 68/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Colegiului Tehnologic ,,Constantin Brâncoveanu” pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/176708",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-69-2024",
+"path": "local/mehedinti/baia-de-arama/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 69/2024 privind desemnarea reprezentantului Consiliului Local al orașului Baia de Aramă în Comisia pentru Evaluarea și Asigurarea Calității constituită la nivelul Colegiului Tehnologic ,,Constantin Brâncoveanu\", pentru anul școlar 2024 - 2025",
+"short": "HCL Baia de Aramă nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/176709",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-70-2024",
+"path": "local/mehedinti/baia-de-arama/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 70/2024 privind alegerea viceprimarului orașului Baia de Aramă, județul Mehedinți",
+"short": "HCL Baia de Aramă nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/176710",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-71-2024",
+"path": "local/mehedinti/baia-de-arama/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 71/2024 pentru completarea HCL nr. 71/29.11.2021 privind încheierea Acordului de cooperare între UAT Oraș Baia de Aramă, județul Mehedinți și Filiala Județeană Mehedinți a Asociației Comunelor din România, în vederea realizării serviciilor de audit public intern",
+"short": "HCL Baia de Aramă nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/178028",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -950,6 +1636,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--baia-de-arama-75-2024",
+"path": "local/mehedinti/baia-de-arama/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 75/2024 pentru modificarea HCL nr. 72/29.11.2021 privind stabilirea unor măsuri în vederea funcționării în bune condiții a activităților Serviciului Local de Salubrizare și Iluminat Public Baia de Aramă, modificată prin HCL nr. 31/31.05.2022, HCL nr. 60/29.11.2022, HCL nr. 37/13.07.2023 și HCL nr. 68/29.11.2023",
+"short": "HCL Baia de Aramă nr. 75/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/179888",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-76-2024",
+"path": "local/mehedinti/baia-de-arama/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 76/2024 privind darea în administrare a unor echipamente către Spitalul Orășenesc Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 76/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/179889",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--baia-de-arama-77-2024",
 "path": "local/mehedinti/baia-de-arama/2024/77",
 "kind": "local",
@@ -991,6 +1721,28 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-79-2024",
+"path": "local/mehedinti/baia-de-arama/2024/79",
+"kind": "local",
+"year": "2024",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 79/2024 privind stabilirea salariilor de bază pentru funcțiile publice si contractuale din cadrul aparatului de specialitate al primarului orașului Baia de Aramă, din cadrul serviciilor publice subordonate fără personalitate juridică și din cadrul serviciilor publice cu personalitate juridică",
+"short": "HCL Baia de Aramă nr. 79/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/179892",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1079,6 +1831,50 @@
 "council_name": "Consiliul Local al Orașului Baia de Aramă",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-84-2024",
+"path": "local/mehedinti/baia-de-arama/2024/84",
+"kind": "local",
+"year": "2024",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 84/2024 privind constituirea Comisiei de Analiză a Locuințelor din Fondul Locativ al orașului Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 84/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/185321",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--baia-de-arama-85-2024",
+"path": "local/mehedinti/baia-de-arama/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 85/2024 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Spitalului Orășenesc Baia de Aramă",
+"short": "HCL Baia de Aramă nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-04",
+"latest": "2025-02-04",
+"portal": "https://emol.ro/baiadearama-mh/registru-hcl/185322",
+"council": "mehedinti/baia-de-arama",
+"council_name": "Consiliul Local al Orașului Baia de Aramă",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

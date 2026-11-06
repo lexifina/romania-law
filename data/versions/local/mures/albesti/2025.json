@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-54-2025",
+   "path": "local/mures/albesti/2025/54",
+   "short": "HCL Albești nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 54/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/231942",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/231942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-55-2025",
    "path": "local/mures/albesti/2025/55",
    "short": "HCL Albești nr. 55/2025",
@@ -88,6 +103,21 @@
      "from": "2025-11-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/235975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-60-2025",
+   "path": "local/mures/albesti/2025/60",
+   "short": "HCL Albești nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 60/2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/235976",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/235976",
      "sha256": null
     }
    ]

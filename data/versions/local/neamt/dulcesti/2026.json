@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/dulcesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--dulcesti-67-2026",
+   "path": "local/neamt/dulcesti/2026/67",
+   "short": "HCL Dulcești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 67/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-67-DIN-27.08.2026-INDICATORI-MODERNIZARE-INFRASTRUCTURA-RUTIERA.pdf",
+     "sha256": "981c5a8543f9249d4d58aa02b2ae1796bced7012d4c583f1e9222a661c30e74b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-68-2026",
+   "path": "local/neamt/dulcesti/2026/68",
+   "short": "HCL Dulcești nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 68/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-68-DIN-27.08.2026-MODIFICARE-REGULAMENT-CL.pdf",
+     "sha256": "3d12edb2d2b18d086ee7654382ecb5ba11355e1e83004e9993e9228838db8ef8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-69-2026",
+   "path": "local/neamt/dulcesti/2026/69",
+   "short": "HCL Dulcești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 69/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-69-DIN-03.09.2026-TRANZACTIE-SC-CONDOR-SRL.pdf",
+     "sha256": "8a76d81bc985b20990720cf8a6cae657b166c7223da078642dd098ae84f18029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-70-2026",
+   "path": "local/neamt/dulcesti/2026/70",
+   "short": "HCL Dulcești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 70/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-70-DIN-03.09.2026-NEASUMARE-PROCEDURI-PROGRAM-SCOLI.pdf",
+     "sha256": "44eed103d994a9e5ff782a658e84d2d023570a13887578bc2aebcd3c919db05c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-71-2026",
+   "path": "local/neamt/dulcesti/2026/71",
+   "short": "HCL Dulcești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 71/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-71-DIN-28.09.2026-RECTIFICARE-BUGET-DE-VENITURI-SI-CHELTUIELI.pdf",
+     "sha256": "e9aa364b7fab0f0408be009137633a8365d8027271562f298c1aebf0d65744d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-72-2026",
+   "path": "local/neamt/dulcesti/2026/72",
+   "short": "HCL Dulcești nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 72/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-72-DIN-28.09.2026-ORGANIGRAMA-SI-STAT-DE-FUNCTII.pdf",
+     "sha256": "a02cdba801ac8a713b12beb998982c9ba5114a721b16c9bebd7ada35a215d5d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-74-2026",
+   "path": "local/neamt/dulcesti/2026/74",
+   "short": "HCL Dulcești nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 74/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-74-DIN-28.09.2026-REPREZENTANT-CL-IN-CA-AL-SCOLII-GIMNAZIALE.pdf",
+     "sha256": "277f1ba7c53308decf64408747f8a8e0507af5cc47cd5d618b277aec88f9d3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-75-2026",
+   "path": "local/neamt/dulcesti/2026/75",
+   "short": "HCL Dulcești nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 75/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-75-DIN-28.09.2026-TRANSFER-DREPT-PROPRIETATE-CNAIR-S.A.pdf",
+     "sha256": "0f392dbfdb3760b968d0760fc767466fcafd2a2c26fac301f2002d16b02c17c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--dulcesti-76-2026",
+   "path": "local/neamt/dulcesti/2026/76",
+   "short": "HCL Dulcești nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dulcești nr. 76/2026",
+   "url": "https://comunadulcesti.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://comunadulcesti.ro/wp-content/uploads/HCL-NR.-76-DIN-28.09.2026-DEVIZ-GENERAL-CENRTU-COMUNITAR-INTEGRAT.pdf",
+     "sha256": "d138b2269553dbd643c404a3045b4ed345a81ac9075cd6d1508cdb43557752cc"
+    }
+   ]
+  }
+ ]
+}

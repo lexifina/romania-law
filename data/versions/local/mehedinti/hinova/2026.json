@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/hinova/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--hinova-1-2026",
+   "path": "local/mehedinti/hinova/2026/1",
+   "short": "HCL Hinova nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 1/2026 privind aprobarea acoperirii deficitului 2025. NR. HCL nr. 1 din 12.01.2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-12",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._1_din_12.01.2026_privind_aprobarea_acoperirii_deficitului_2025.pdf",
+     "sha256": "5601a7d6e98b0e9a9d182ea708698d499c1d946d19bffd02e99bf81c36cb3966"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--hinova-14-2026",
    "path": "local/mehedinti/hinova/2026/14",
    "short": "HCL Hinova nr. 14/2026",
@@ -14,6 +29,96 @@
      "units": 1,
      "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._14_din_12.03.2026_privind_taxele_si_impozitele_pe_anul_2026.pdf",
      "sha256": "30b944627923f691e61159441e8e04d07d760ee71bca5469d0a9697651dd0ee2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-17-2026",
+   "path": "local/mehedinti/hinova/2026/17",
+   "short": "HCL Hinova nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 17/2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.17_din_07.04.2026_privind_masuri_conf._OUG_nr.7.pdf",
+     "sha256": "0c9330890d6abd7e9a5a45bf995a13d9e3d4ff79830b9b8e5cee3d239039592b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-18-2026",
+   "path": "local/mehedinti/hinova/2026/18",
+   "short": "HCL Hinova nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 18/2026 privind organigrama si statul de functii nr.18/30.04.2026 NR. NR.18/2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_privind_organigrama_si_statul_de_functii_nr._18_din_30.04.2026.pdf",
+     "sha256": "4aa1f4b634cd3fb8f5339ade9f8c29975dc98459bf94c200ad3529cfd211fe74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-19-2026",
+   "path": "local/mehedinti/hinova/2026/19",
+   "short": "HCL Hinova nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 19/2026 privind alegerea presedintelui de sedinta nr.19/30.04.2026 NR. NR.19/2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_privind_alegerea_presedintelui_de_sedinta_nr.19_din_30.04.2026.pdf",
+     "sha256": "7fdadafd3119e0459d9d4f249a751f8a34b70f2884f2d7354f7397862c8b9bb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-2-2026",
+   "path": "local/mehedinti/hinova/2026/2",
+   "short": "HCL Hinova nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 2/2026 privind desemnare consilieri locali pentru evaluare secretar NR. HCL nr. 2 din 29.01.2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._2_din_29.01.2026_privind_desemnare_consilieri_locali_pentru_eval_lb7QFJN.pdf",
+     "sha256": "ec5d64fa505559c8c7b05e5ee55a925e650ff2e80b0763452facbec6ee5e0712"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-3-2026",
+   "path": "local/mehedinti/hinova/2026/3",
+   "short": "HCL Hinova nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 3/2026 privind alegerea presedintelui de sedinta NR. HCL nr. 3 din 29.01.2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._3_din_29.01.2026_privind_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "b94bbf71da2a891654a3973538f242325897f441def555942852b1b1250299e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-4-2026",
+   "path": "local/mehedinti/hinova/2026/4",
+   "short": "HCL Hinova nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 4/2026 privind actualizarea Planului de analiza si acoperire a riscurilor NR. HCL nr. 4 din 29.01.2026",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._4_din_29.01.2026_privind_actualizarea_Planului_de_analiza_si_aco_LbPYKGF.pdf",
+     "sha256": "43389b60a80cd5608415c7d14dfd6e8d9887bcd0a04a66fba6cfc066e4bc667b"
     }
    ]
   }

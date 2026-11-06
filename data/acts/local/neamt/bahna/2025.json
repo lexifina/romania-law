@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-neamt--bahna-68-2025",
+"path": "local/neamt/bahna/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 68/2025 privind aprobarea raportului de evaluare si concesionarea suprafetei de 2424 mp teren intravilan din satul Bahna",
+"short": "HCL Bahna nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/238470",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bahna-69-2025",
+"path": "local/neamt/bahna/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 69/2025 privind aprobarea raportului de evaluare si concesionarea unei suprafaţe de 1300 m.p., situat în intravilanul satului BAHNA, comuna Bahna, judeţul Neamt",
+"short": "HCL Bahna nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/238471",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bahna-70-2025",
 "path": "local/neamt/bahna/2025/70",
 "kind": "local",
@@ -66,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Bahna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bahna-71-2025",
+"path": "local/neamt/bahna/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 71/2025 privind alegerea președintelui de sedință",
+"short": "HCL Bahna nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/244678",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-neamt--bahna-73-2025",
+"path": "local/neamt/bahna/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 73/2025 privind rectificarea bugetului local al Comunei BAHNA și aprobarea includerii obiectivului de investiții „DOTAREA CU AUTOUTILITARĂ A SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ AL COMUNEI BAHNA, JUDEȚUL NEAMȚ” în lista de investiții a Comunei BAHNA",
+"short": "HCL Bahna nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/244680",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bahna-74-2025",
 "path": "local/neamt/bahna/2025/74",
 "kind": "local",
@@ -111,6 +199,74 @@
 "council_name": "Consiliul Local al Comunei Bahna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bahna-75-2025",
+"path": "local/neamt/bahna/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 75/2025 privind aprobarea implementarii proiectului de investitii cu titlul „DOTAREA CU AUTOUTILITARĂ A SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ AL COMUNEI BAHNA, JUDEȚUL NEAMȚ”",
+"short": "HCL Bahna nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/244682",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bahna-76-2025",
+"path": "local/neamt/bahna/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 76/2025",
+"short": "HCL Bahna nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/244683",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--bahna-77-2025",
+"path": "local/neamt/bahna/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bahna nr. 77/2025",
+"short": "HCL Bahna nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/bahna-nt/registru-hcl/244684",
+"council": "neamt/bahna",
+"council_name": "Consiliul Local al Comunei Bahna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/mures/miercurea-nirajului/2025",
+ "acts": [
+  {
+   "slug": "hcl-mures--miercurea-nirajului-1-2025",
+   "path": "local/mures/miercurea-nirajului/2025/1",
+   "short": "HCL Miercurea Nirajului nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 1/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.-1-din-23-ianuarie-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.-1-din-23-ianuarie-2025.pdf",
+     "sha256": "42bd3b9fc34162fe7823279046bd40eb62be74f8ea72907d50424a52f22ae3e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-80-2025",
+   "path": "local/mures/miercurea-nirajului/2025/80",
+   "short": "HCL Miercurea Nirajului nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 80/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.80-din-28-septemrie-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.80-din-28-septemrie-2025.pdf",
+     "sha256": "a38e9f15dfd2aa78625aaa428ba05c210693b75300ab19ce7f7a0f97262e2b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-81-2025",
+   "path": "local/mures/miercurea-nirajului/2025/81",
+   "short": "HCL Miercurea Nirajului nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 81/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.81-din-28-septemrie-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-28",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2025/12/Hot.-nr.81-din-28-septemrie-2025.pdf",
+     "sha256": "2a22b4f91228be30f6f1037184fe9eb7e0815c4dd2796c73e6e874d1a121c76b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-82-2025",
+   "path": "local/mures/miercurea-nirajului/2025/82",
+   "short": "HCL Miercurea Nirajului nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 82/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.82-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.82-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "fd33f13d6776faa1b96685fdf65fd934d7bdc12306ccf9cf4e1f591603108643"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-83-2025",
+   "path": "local/mures/miercurea-nirajului/2025/83",
+   "short": "HCL Miercurea Nirajului nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 83/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.83-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.83-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "9aa5388ee767988c37c61faf7d776218f39dfd54c1fcfdecd70b81382524d90b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-84-2025",
+   "path": "local/mures/miercurea-nirajului/2025/84",
+   "short": "HCL Miercurea Nirajului nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 84/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.84-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.84-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "14a3a4d6caccce1b93b212e65b104f31affa3b4d1ec572ea8072337bb832261f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-85-2025",
+   "path": "local/mures/miercurea-nirajului/2025/85",
+   "short": "HCL Miercurea Nirajului nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 85/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.85-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.85-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "d93a17d6d53b290b5c831ec214e9627f963475d460e2f855f8a4c75d1944e030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-86-2025",
+   "path": "local/mures/miercurea-nirajului/2025/86",
+   "short": "HCL Miercurea Nirajului nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 86/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.86-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.86-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "46d91a8b2ec0112a6ff9b44cab68d3b7910e42f06f4f5d5c49d31be9b1039eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-87-2025",
+   "path": "local/mures/miercurea-nirajului/2025/87",
+   "short": "HCL Miercurea Nirajului nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 87/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.87-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.87-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "a0ebe8509b367ca87a7ecd5a61acceb5f345de6d3435b1b8bced11cf791ddc62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-88-2025",
+   "path": "local/mures/miercurea-nirajului/2025/88",
+   "short": "HCL Miercurea Nirajului nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 88/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.88-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.88-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "5e0456b632d4ebd4f595c9cacb2fbb8ca51dd2e4d2d8697b69d51b760761b48c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-89-2025",
+   "path": "local/mures/miercurea-nirajului/2025/89",
+   "short": "HCL Miercurea Nirajului nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 89/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.89-din-15-Octombrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/HOTARAREA-Nr.89-din-15-Octombrie-2025_Redacted.pdf",
+     "sha256": "25a6cf3cb5342ad6cf651da3fd5c7f3fe86a111c0f96944008e10b04228d5fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-90-2025",
+   "path": "local/mures/miercurea-nirajului/2025/90",
+   "short": "HCL Miercurea Nirajului nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 90/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/Hot-Nr.90-din-27-Noiembrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/Hot-Nr.90-din-27-Noiembrie-2025_Redacted.pdf",
+     "sha256": "e1abceb827218b079cfe292c3b0b96af3411e5405663d77bb69760461b6a47af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--miercurea-nirajului-91-2025",
+   "path": "local/mures/miercurea-nirajului/2025/91",
+   "short": "HCL Miercurea Nirajului nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 91/2025",
+   "url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/Hot-Nr.91-din-27-Noiembrie-2025_Redacted.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://miercureanirajului.ro/wp-content/uploads/2026/01/Hot-Nr.91-din-27-Noiembrie-2025_Redacted.pdf",
+     "sha256": "d12740dacf2ffe77fc41e792947abd46ec125cd9babb13c01e45b73d9569b3df"
+    }
+   ]
+  }
+ ]
+}

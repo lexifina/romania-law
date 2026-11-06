@@ -180,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--poroina-mare-33-2023",
+"path": "local/mehedinti/poroina-mare/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 33/2023 privind desemnarea împuterniciților Primarului Comunei Poroina Mare pentru constatarea contravențiilor și aplicarea sancțiunilor contravenționale pentru nerespectarea Normelor de gospodărire, menţinere a curăţeniei, protecţia mediului în comuna Poroina Mare;",
+"short": "HCL Poroina Mare nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/134074",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--poroina-mare-34-2023",
 "path": "local/mehedinti/poroina-mare/2023/34",
 "kind": "local",

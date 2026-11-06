@@ -3,6 +3,36 @@
  "shard": "local/mehedinti/tamna/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--tamna-46-2025",
+   "path": "local/mehedinti/tamna/2025/46",
+   "short": "HCL Tâmna nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 46/2025 privind aprobarea organigramei și a statului de funcții ale Primăriei Comunei Tâmna, județul Mehedinți, începând cu data de 01 septembrie 2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/227719",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/227719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-47-2025",
+   "path": "local/mehedinti/tamna/2025/47",
+   "short": "HCL Tâmna nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 47/2025 pentru aprobarea Regulamentului privind decontarea cheltuielilor de transport",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/227720",
+   "versions": [
+    {
+     "from": "2025-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/227720",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--tamna-48-2025",
    "path": "local/mehedinti/tamna/2025/48",
    "short": "HCL Tâmna nr. 48/2025",
@@ -13,6 +43,261 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/tamna-mh/registru-hcl/229745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-49-2025",
+   "path": "local/mehedinti/tamna/2025/49",
+   "short": "HCL Tâmna nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 49/2025 privind aprobarea studiului de fezabilitate , a indicatorilor tehnico-economici și a devizului general la obiectivul de investiții ''CONSTRUIRE TEREN SPORT SCOALA GIMNAZIALA IZVORALU,COMUNA TAMNA, JUDEȚUL MEHEDINȚI”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/229746",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/229746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-50-2025",
+   "path": "local/mehedinti/tamna/2025/50",
+   "short": "HCL Tâmna nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 50/2025 privind aprobarea devizului general al obiectivului de investitii,,Alimentare cu apa in satul Colaret comuna Tamna, Judetul Mehedinti dupa majorarea TVA-ului la 21%",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/229747",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/229747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-51-2025",
+   "path": "local/mehedinti/tamna/2025/51",
+   "short": "HCL Tâmna nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 51/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Tâmna, pentru lunile noiembrie 2025 - ianuarie 2026",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/232922",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/232922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-52-2025",
+   "path": "local/mehedinti/tamna/2025/52",
+   "short": "HCL Tâmna nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 52/2025 privind validarea Dispozițiilor Primarului nr. 265 /09.10.2025 si nr. 266/09.10.2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/232923",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/232923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-53-2025",
+   "path": "local/mehedinti/tamna/2025/53",
+   "short": "HCL Tâmna nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 53/2025 privind rectificarea bugetului local de venituri și cheltuieli -octombrie 2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/232924",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/232924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-54-2025",
+   "path": "local/mehedinti/tamna/2025/54",
+   "short": "HCL Tâmna nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 54/2025 privind aprobarea proiectului tehnic si a devizul general la obiectivul de investiții ''Foraj suplimentar de alimentare cu apa si marire capacitate inmagazinare in satul Plopi, comuna Tamna, Judetul Mehedinti”",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/232925",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/232925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-55-2025",
+   "path": "local/mehedinti/tamna/2025/55",
+   "short": "HCL Tâmna nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 55/2025 privind aprobarea proiectului tehnic si a devizului general la obiectivul de investiții ''Alimentare apa in satul Adunatii Teiului ,comuna Tamna ,Judetul Mehedinti”",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/232926",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/232926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-56-2025",
+   "path": "local/mehedinti/tamna/2025/56",
+   "short": "HCL Tâmna nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 56/2025 privind aprobarea proiectului tehnic și a devizului general la obiectivul de investiții “REALIZARE INSTALAȚIE ELECTRICĂ DE UTILIZARE - BRANȘAMENT ALIMENTARE CU ENERGIE ELECTRICĂ TÂRG COMERCIAL SĂPTĂMÂNAL”, în comuna Tâmna, județul Mehedinți, finanțat din bugetul local al comunei Tâmna",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238762",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238762",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-57-2025",
+   "path": "local/mehedinti/tamna/2025/57",
+   "short": "HCL Tâmna nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 57/2025 privind aprobarea studiului de fezabilitate, indicatorilor tehnico-economici și devizului general la obiectivul de investiții ''AMENAJARE LOC DE JOACĂ ȘCOALA PRIMARĂ PLOPI, COMUNA TÂMNA, JUDEȚUL MEHEDINȚI”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238763",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-58-2025",
+   "path": "local/mehedinti/tamna/2025/58",
+   "short": "HCL Tâmna nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 58/2025 privind aprobarea studiului de fezabilitate, proiectului tehnic, indicatorilor tehnico-economici și devizului general la obiectivul de investiții ''LUCRĂRI DE MODERNIZARE ULIȚE ȘI DRUMURI COMUNALE”, în comuna Tâmna, sat Cremenea, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238764",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-59-2025",
+   "path": "local/mehedinti/tamna/2025/59",
+   "short": "HCL Tâmna nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 59/2025 privind rectificarea bugetului local de venituri și cheltuieli - noiembrie 2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238765",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-60-2025",
+   "path": "local/mehedinti/tamna/2025/60",
+   "short": "HCL Tâmna nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 60/2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238766",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-61-2025",
+   "path": "local/mehedinti/tamna/2025/61",
+   "short": "HCL Tâmna nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 61/2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/238767",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/238767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-62-2025",
+   "path": "local/mehedinti/tamna/2025/62",
+   "short": "HCL Tâmna nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 62/2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/243136",
+   "versions": [
+    {
+     "from": "2025-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/243136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-63-2025",
+   "path": "local/mehedinti/tamna/2025/63",
+   "short": "HCL Tâmna nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 63/2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/243137",
+   "versions": [
+    {
+     "from": "2025-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/243137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-64-2025",
+   "path": "local/mehedinti/tamna/2025/64",
+   "short": "HCL Tâmna nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 64/2025",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/243138",
+   "versions": [
+    {
+     "from": "2025-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/243138",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--tamna-65-2025",
+   "path": "local/mehedinti/tamna/2025/65",
+   "short": "HCL Tâmna nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 65/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/tamna-mh/registru-hcl/243139",
+   "versions": [
+    {
+     "from": "2025-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/tamna-mh/registru-hcl/243139",
      "sha256": null
     }
    ]

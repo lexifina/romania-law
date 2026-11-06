@@ -3,6 +3,261 @@
  "shard": "local/mehedinti/bala/2021",
  "acts": [
   {
+   "slug": "hcl-mehedinti--bala-66-2021",
+   "path": "local/mehedinti/bala/2021/66",
+   "short": "HCL Bala nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 66/2021",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39946",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-67-2021",
+   "path": "local/mehedinti/bala/2021/67",
+   "short": "HCL Bala nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 67/2021",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39947",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-68-2021",
+   "path": "local/mehedinti/bala/2021/68",
+   "short": "HCL Bala nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 68/2021 Proiect de hotarire privind desemnarea unui representant al Consiliului Local care va face parte din comisia de evaluare a probei interviu pentru ocuparea functiilor de director si director adjunct din unitatile de invatamint preuniversitar de stat",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39948",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-69-2021",
+   "path": "local/mehedinti/bala/2021/69",
+   "short": "HCL Bala nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 69/2021 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2022",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39949",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-70-2021",
+   "path": "local/mehedinti/bala/2021/70",
+   "short": "HCL Bala nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 70/2021 privind aprobarea depunerii cererii de finantare prin Programul National de Investitii,,Anghel Saligny\" pentru obiectivul de investitii ,,Infintare Retea Inteligenta de Gaze Naturale in comuna Bala ,judetul Mehedinti\"",
+   "url": "https://emol.ro/bala-mh/registru-hcl/39950",
+   "versions": [
+    {
+     "from": "2021-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/39950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-71-2021",
+   "path": "local/mehedinti/bala/2021/71",
+   "short": "HCL Bala nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 71/2021 privind aprobarea indicatorilor tehnico-economici și a documentației tehnico-economice a obiectivului de investiții “Modernizarea sistemului de iluminat public stradal în Comuna Bala, Județul Mehedinți” și participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/bala-mh/registru-hcl/41197",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/41197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-72-2021",
+   "path": "local/mehedinti/bala/2021/72",
+   "short": "HCL Bala nr. 72/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 72/2021 privind aprobarea demolarii punții metalice din satul Rudina , comuna Bala judetul Mehedinți in cadrul obiectivului de investiții Construire pod peste paraul Ohaba(Rudina)",
+   "url": "https://emol.ro/bala-mh/registru-hcl/41198",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/41198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-73-2021",
+   "path": "local/mehedinti/bala/2021/73",
+   "short": "HCL Bala nr. 73/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 73/2021 privind aderarea Comunei Bala LA GRUPUL DE ACTIUNE LOCALA TINUTUL CLOSANI 2023-2027",
+   "url": "https://emol.ro/bala-mh/registru-hcl/43210",
+   "versions": [
+    {
+     "from": "2021-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/43210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-74-2021",
+   "path": "local/mehedinti/bala/2021/74",
+   "short": "HCL Bala nr. 74/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 74/2021 privind modificarea HCL nr.62/01.11.2021 prin care s-a aprobat ajustarea prin actualizarea preturilor aferente materialelor pentru restul de executat la obiectivul de investitii,,Modernizare Drum Comunal DC 54 Runcsor-Dilma 10,047 km",
+   "url": "https://emol.ro/bala-mh/registru-hcl/43211",
+   "versions": [
+    {
+     "from": "2021-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/43211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-75-2021",
+   "path": "local/mehedinti/bala/2021/75",
+   "short": "HCL Bala nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 75/2021 Proiect de hotarire privind aprobarea indicatorilor tehnico - economici în vederea realizării obiectivului de investiţii \" Modernizare drumuri locale in sat Rudina din comuna Bala , judetul Mehedinti \"",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44578",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-76-2021",
+   "path": "local/mehedinti/bala/2021/76",
+   "short": "HCL Bala nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 76/2021 privind rectificarea bugetului local de venituri si cheltuieli la Capitolul 11.02.02.sume defalcate din TVA pentru finantarea cheltuielilor descentralizate la nivelul comunelor,oraselor,municipiilor prin diminuare cu suma de 140.080 lei in TRIM IV 2021",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44579",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-77-2021",
+   "path": "local/mehedinti/bala/2021/77",
+   "short": "HCL Bala nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 77/2021 privind rectificarea bugetului local de venituri si cheltuieli prin suplimentare inTRIM IV 2021cu suma de 8.010 lei la Capitolul 04.02.01 cotele defalcate din impozitul pe venit",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44580",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-78-2021",
+   "path": "local/mehedinti/bala/2021/78",
+   "short": "HCL Bala nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 78/2021 privind rectificarea bugetului local de venituri si cheltuieli prin suplimentare la capitolul 11.02.02=sume defalcate din TVA pentru finantarea cheltuielilor descentralizate la nivelul comunelor,oraselor,municipiilor-pentru finantarea burselor scolare in trim IV-2021 cu suma de 17 mii lei",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44581",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-79-2021",
+   "path": "local/mehedinti/bala/2021/79",
+   "short": "HCL Bala nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 79/2021 Proiect de hotarire privind aprobarea planului de deszapezire pe drumurile din administrarea comunei Bala in perioada de iarna din anul 2022",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44582",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-80-2021",
+   "path": "local/mehedinti/bala/2021/80",
+   "short": "HCL Bala nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 80/2021 Privind alocarea unor sume din bugetul local in vederea organizarii festivitatilor ocazionate de sarbatorilre de iarna",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44583",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-81-2021",
+   "path": "local/mehedinti/bala/2021/81",
+   "short": "HCL Bala nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 81/2021 privind clasificarea drumurilor de interes local ca strazi",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44584",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-82-2021",
+   "path": "local/mehedinti/bala/2021/82",
+   "short": "HCL Bala nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 82/2021",
+   "url": "https://emol.ro/bala-mh/registru-hcl/44585",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/44585",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--bala-83-2021",
    "path": "local/mehedinti/bala/2021/83",
    "short": "HCL Bala nr. 83/2021",
@@ -13,6 +268,36 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/bala-mh/registru-hcl/45400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-84-2021",
+   "path": "local/mehedinti/bala/2021/84",
+   "short": "HCL Bala nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 84/2021 privind rectificarea bugetului local de venituri si cheltuieli prin suplimentare in TRIM IV -2021 cu suma de 275 mii lei la capitolul 11.02.06 = sume defalcate din TVA pentru echilibrarea bugetelor locale",
+   "url": "https://emol.ro/bala-mh/registru-hcl/45401",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/45401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-85-2021",
+   "path": "local/mehedinti/bala/2021/85",
+   "short": "HCL Bala nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 85/2021 privind aprobarea achizitionarii programului electronic ,,Monitorul Oficial Local'' la nivelul primariei comunei Bala,judetul Mehedinti",
+   "url": "https://emol.ro/bala-mh/registru-hcl/45402",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/45402",
      "sha256": null
     }
    ]

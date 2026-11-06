@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/floresti/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-10-2026",
+   "path": "local/mehedinti/floresti/2026/10",
+   "short": "HCL Florești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 10/2026 privind înființarea Serviciului Public de Alimentare cu Apă și Canalizare, cu personalitate juridică, de interes local, specializat, înfiinţat și organizat în subordinea Consiliului Local Floresti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/271366",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/271366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-11-2026",
+   "path": "local/mehedinti/floresti/2026/11",
+   "short": "HCL Florești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 11/2026 privind aprobarea sefului de serviciu si economistului pentru infiintarea si functionarea Serviciul Public de Alimentare cu Apă și Canalizare din Comuna Floresti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/271367",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/271367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-12-2026",
+   "path": "local/mehedinti/floresti/2026/12",
+   "short": "HCL Florești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 12/2026 privind unele măsuri organizatorice pentru Serviciul Public de Alimentare cu Apă și Canalizare din Comuna Floresti, judetul Mehedinti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/271368",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/271368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-13-2026",
+   "path": "local/mehedinti/floresti/2026/13",
+   "short": "HCL Florești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 13/2026 privind aprobarea diminuarii preturilor de vanzare cu 50% din pretul initial in vederea scoaterii la licitatie publica in vederea vanzarii bunurilor: deseuri din plastic si fieroase, autoGreder AB NORD VERK si buldoexcavator JCB 3III",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/271369",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/271369",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-14-2026",
    "path": "local/mehedinti/floresti/2026/14",
    "short": "HCL Florești nr. 14/2026",
@@ -63,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-18-2026",
+   "path": "local/mehedinti/floresti/2026/18",
+   "short": "HCL Florești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 18/2026 privind aprobarea comisioanelor BCR SA aferente serviciilor de plată electronică prin platforma www.ghiseul.ro pentru UAT Comuna Floresti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/283491",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/283491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-19-2026",
+   "path": "local/mehedinti/floresti/2026/19",
+   "short": "HCL Florești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2026 privind aprobarea preluării în folosință gratuită a unui microbuz hibrid școlar achiziționat în cadrul proiectului „Transport școlar verde pentru elevii din județul Mehedinți”, precum și asumarea costurilor de funcționare a acestuia pe o perioadă de 3 ani",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/283859",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/283859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-20-2026",
    "path": "local/mehedinti/floresti/2026/20",
    "short": "HCL Florești nr. 20/2026",
@@ -73,6 +163,66 @@
      "from": "2026-10-21",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/289366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-21-2026",
+   "path": "local/mehedinti/floresti/2026/21",
+   "short": "HCL Florești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 21/2026 privind desemnarea reprezentanților Consiliului Local Floresti în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcției de director la Școala Gimnazială Floresti",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/289367",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/289367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-22-2026",
+   "path": "local/mehedinti/floresti/2026/22",
+   "short": "HCL Florești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 22/2026 privind aprobarea studiului de fezabilitate, a bugetului, precum și a indicatorilor tehnico-economici asociați proiectului ,,Sisteme de stocare pentru CEF autoconsum”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/289368",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/289368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-23-2026",
+   "path": "local/mehedinti/floresti/2026/23",
+   "short": "HCL Florești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 23/2026 privind însușirea Acordului de cooperare privind organizarea şi exercitarea activității de urbanism si amenajarea teritoriului",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/289369",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/289369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-24-2026",
+   "path": "local/mehedinti/floresti/2026/24",
+   "short": "HCL Florești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 24/2026 privind modificarea și aprobarea Organigramei și Statului de funcții pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Florești, Județul Mehedinți",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/294839",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/294839",
      "sha256": null
     }
    ]
@@ -93,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-6-2026",
+   "path": "local/mehedinti/floresti/2026/6",
+   "short": "HCL Florești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 6/2026 privind implementarea proiectului „DOTARE SERVICIU VOLUNTAR PENTRU SITUATII DE URGENTA DIN COMUNA FLORESTI, JUDETUL MEHEDINTI”",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/255851",
+   "versions": [
+    {
+     "from": "2026-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/255851",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-7-2026",
    "path": "local/mehedinti/floresti/2026/7",
    "short": "HCL Florești nr. 7/2026",
@@ -103,6 +268,21 @@
      "from": "2026-04-16",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/260601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-8-2026",
+   "path": "local/mehedinti/floresti/2026/8",
+   "short": "HCL Florești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 8/2026 privind aprobarea măsurilor necesare în vederea încadrării în numărul maxim de posturi redus în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 7/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/263342",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/263342",
      "sha256": null
     }
    ]

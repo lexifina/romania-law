@@ -3,6 +3,50 @@
 "shard": "local/mehedinti/eselnita/2022",
 "acts": [
 {
+"slug": "hcl-mehedinti--eselnita-135-2022",
+"path": "local/mehedinti/eselnita/2022/135",
+"kind": "local",
+"year": "2022",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 135/2022 privind scoaterea la licitație publică în vederea vânzării terenului în suprafață de 505 mp, înscris CF 53900, nr. cadastral 53900, intravilan, situat în comuna Eșelnița, ZONA DEALUL Bisericii, categoria fâneață, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 135/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82855",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-136-2022",
+"path": "local/mehedinti/eselnita/2022/136",
+"kind": "local",
+"year": "2022",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 136/2022 privind scoaterea la licitație publică în vederea vânzării terenului în suprafață de 1234 mp, înscris CF 53901, nr. cadastral 53901, intravilan, situat în comuna Eșelnița, ZONA DEALUL Bisericii, categoria fâneață, lot ce face parte din domeniul privat al comunei Eșelnița",
+"short": "HCL Eșelnița nr. 136/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82856",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-137-2022",
 "path": "local/mehedinti/eselnita/2022/137",
 "kind": "local",
@@ -22,6 +66,94 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-138-2022",
+"path": "local/mehedinti/eselnita/2022/138",
+"kind": "local",
+"year": "2022",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 138/2022 privind aprobarea prețului de vânzare a arborilor care se valorifică pe fir din pădurea de folosință forestiera a comunei Eșelnița",
+"short": "HCL Eșelnița nr. 138/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82858",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-139-2022",
+"path": "local/mehedinti/eselnita/2022/139",
+"kind": "local",
+"year": "2022",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 139/2022 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2023-2024",
+"short": "HCL Eșelnița nr. 139/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82859",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-140-2022",
+"path": "local/mehedinti/eselnita/2022/140",
+"kind": "local",
+"year": "2022",
+"number": "140",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 140/2022 privind aprobarea acordării de cadouri copiilor de la Grădinița Arlechino și Școala Gimnazială Eșelnița din comuna Eșelnița, cu ocazia sărbătorilor de iarnă",
+"short": "HCL Eșelnița nr. 140/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-15",
+"latest": "2022-12-15",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/82860",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-141-2022",
+"path": "local/mehedinti/eselnita/2022/141",
+"kind": "local",
+"year": "2022",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 141/2022 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Eșelnița nr. 141/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/86653",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +179,117 @@
 }
 },
 {
+"slug": "hcl-mehedinti--eselnita-143-2022",
+"path": "local/mehedinti/eselnita/2022/143",
+"kind": "local",
+"year": "2022",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 143/2022",
+"short": "HCL Eșelnița nr. 143/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90858",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-144-2022",
+"path": "local/mehedinti/eselnita/2022/144",
+"kind": "local",
+"year": "2022",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 144/2022 privind indexarea impozitelor și taxelor locale pentru anul 2023 cu rata inflației de 5,1%",
+"short": "HCL Eșelnița nr. 144/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90859",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-145-2022",
+"path": "local/mehedinti/eselnita/2022/145",
+"kind": "local",
+"year": "2022",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 145/2022 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Eșelnița nr. 145/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90860",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-146-2022",
+"path": "local/mehedinti/eselnita/2022/146",
+"kind": "local",
+"year": "2022",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 146/2022 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Eșelnița nr. 146/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90861",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-147-2022",
+"path": "local/mehedinti/eselnita/2022/147",
+"kind": "local",
+"year": "2022",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 147/2022 privind prelungirea contractului de servicii (consultanță, asistență și reprezentare juridică) pentru anul 2023",
+"short": "HCL Eșelnița nr. 147/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90862",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-148-2022",
 "path": "local/mehedinti/eselnita/2022/148",
 "kind": "local",
@@ -67,6 +310,138 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-149-2022",
+"path": "local/mehedinti/eselnita/2022/149",
+"kind": "local",
+"year": "2022",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 149/2022 privind demararea procedurii de licitație publică în vederea încheierii unui contract de prestări servicii cu o firmă specializată pentru asigurarea serviciilor de paza a obiectivelor, bunurilor și valorilor publice și private ale comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 149/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90864",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-150-2022",
+"path": "local/mehedinti/eselnita/2022/150",
+"kind": "local",
+"year": "2022",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 150/2022 privind acordarea unui stimulent financiar pentru nou născuți",
+"short": "HCL Eșelnița nr. 150/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90865",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-151-2022",
+"path": "local/mehedinti/eselnita/2022/151",
+"kind": "local",
+"year": "2022",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 151/2022 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2022",
+"short": "HCL Eșelnița nr. 151/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90866",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-152-2022",
+"path": "local/mehedinti/eselnita/2022/152",
+"kind": "local",
+"year": "2022",
+"number": "152",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 152/2022 privind aprobarea virarilor de credite bugetare pe anul 2022",
+"short": "HCL Eșelnița nr. 152/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90867",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-153-2022",
+"path": "local/mehedinti/eselnita/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 153/2022 privind aprobarea achiziționării unui autoturism DACIA DUSTER, necesar pentru buna desfășurare a activității instituției Primăriei Comunei Eșelnița, județul Mehedinți",
+"short": "HCL Eșelnița nr. 153/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90868",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-154-2022",
+"path": "local/mehedinti/eselnita/2022/154",
+"kind": "local",
+"year": "2022",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 154/2022 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2023/2024",
+"short": "HCL Eșelnița nr. 154/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-20",
+"latest": "2023-02-20",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/90869",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

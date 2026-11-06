@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--giulesti-37-2023",
+   "path": "local/maramures/giulesti/2023/37",
+   "short": "HCL Giulești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 37/2023",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/126074",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/126074",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--giulesti-38-2023",
    "path": "local/maramures/giulesti/2023/38",
    "short": "HCL Giulești nr. 38/2023",
@@ -43,6 +58,21 @@
      "from": "2023-10-25",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/126075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-39-2023",
+   "path": "local/maramures/giulesti/2023/39",
+   "short": "HCL Giulești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 39/2023",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/126076",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/126076",
      "sha256": null
     }
    ]
@@ -148,6 +178,36 @@
      "from": "2023-12-04",
      "units": 1,
      "source_url": "https://emol.ro/giulesti-mm/registru-hcl/131639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-47-2023",
+   "path": "local/maramures/giulesti/2023/47",
+   "short": "HCL Giulești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 47/2023",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/132423",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/132423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--giulesti-48-2023",
+   "path": "local/maramures/giulesti/2023/48",
+   "short": "HCL Giulești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Giulești nr. 48/2023",
+   "url": "https://emol.ro/giulesti-mm/registru-hcl/132424",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/giulesti-mm/registru-hcl/132424",
      "sha256": null
     }
    ]

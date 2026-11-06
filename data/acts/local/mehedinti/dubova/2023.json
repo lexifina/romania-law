@@ -137,6 +137,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-87-2023",
+"path": "local/mehedinti/dubova/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 87/2023",
+"short": "HCL Dubova nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/129388",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-88-2023",
 "path": "local/mehedinti/dubova/2023/88",
 "kind": "local",
@@ -182,6 +205,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-90-2023",
+"path": "local/mehedinti/dubova/2023/90",
+"kind": "local",
+"year": "2023",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 90/2023 privind aprobarea concesionarii prin licitatie publica deschisă a terenului de 350 m.p. cu NC 51148 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, extravilan",
+"short": "HCL Dubova nr. 90/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/129391",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-91-2023",
+"path": "local/mehedinti/dubova/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 91/2023 privind aprobarea concesionarii prin licitatie publica deschisă a terenurilor apartinand comunei Dubova, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/129392",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-92-2023",
 "path": "local/mehedinti/dubova/2023/92",
 "kind": "local",
@@ -223,6 +290,28 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-94-2023",
+"path": "local/mehedinti/dubova/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 94/2023 privind revocarea Hotărârii Consiliului Local Dubova nr. 43/31.05.2023 privind aprobarea concesionarii prin licitatie publica deschisă a terenului de 28175 m.p. cu NC 50510 Comuna DUBOVA, sat Eibenthal, domeniul privat al Comunei Dubova, extravilan",
+"short": "HCL Dubova nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/132760",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

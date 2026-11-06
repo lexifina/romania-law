@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--livezile-24-2023",
+"path": "local/mehedinti/livezile/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 24/2023 privind propunere de concesiune suprafață islaz comunal , în vederea construirii unui parc fotovoltaic",
+"short": "HCL Livezile nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/113354",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--livezile-25-2023",
 "path": "local/mehedinti/livezile/2023/25",
 "kind": "local",
@@ -132,6 +154,50 @@
 "council_name": "Consiliul Local al Comunei Livezile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--livezile-27-2023",
+"path": "local/mehedinti/livezile/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 27/2023 privind alegere președinte de ședință",
+"short": "HCL Livezile nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/122604",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--livezile-28-2023",
+"path": "local/mehedinti/livezile/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Livezile nr. 28/2023 privind desemnare reprezentant consiliu de administrație la Școala Gimnazială Livezile",
+"short": "HCL Livezile nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-11",
+"latest": "2023-10-11",
+"portal": "https://emol.ro/livezile-mh/registru-hcl/122605",
+"council": "mehedinti/livezile",
+"council_name": "Consiliul Local al Comunei Livezile",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

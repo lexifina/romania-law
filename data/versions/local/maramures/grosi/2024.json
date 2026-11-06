@@ -3,6 +3,141 @@
  "shard": "local/maramures/grosi/2024",
  "acts": [
   {
+   "slug": "hcl-maramures--grosi-62-2024",
+   "path": "local/maramures/grosi/2024/62",
+   "short": "HCL Groși nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 62/2024 privind aprobarea cuantumului indemnizației lunare de care vor beneficia membrii consiliului local al comunei Groși",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/175818",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/175818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-63-2024",
+   "path": "local/maramures/grosi/2024/63",
+   "short": "HCL Groși nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 63/2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/175819",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/175819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-64-2024",
+   "path": "local/maramures/grosi/2024/64",
+   "short": "HCL Groși nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 64/2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/175820",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/175820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-65-2024",
+   "path": "local/maramures/grosi/2024/65",
+   "short": "HCL Groși nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 65/2024 privind desemnarea reprezentantului comunei Groși, ca membru în Adunarea Generală a ADI-Maramureș, pentru mandatul 2024– 2028",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/175821",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/175821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-66-2024",
+   "path": "local/maramures/grosi/2024/66",
+   "short": "HCL Groși nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 66/2024 privind participarea la Programul privind creșterea eficienţei energetice a infrastructurii de iluminat public",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/177146",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/177146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-67-2024",
+   "path": "local/maramures/grosi/2024/67",
+   "short": "HCL Groși nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 67/2024 privind aprobarea contului de execuție a bugetului la data de 30 septembrie 2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/179106",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/179106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-68-2024",
+   "path": "local/maramures/grosi/2024/68",
+   "short": "HCL Groși nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 68/2024 privind aprobarea rectificării bugetului local al Comunei Groşi pe anul 2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/179107",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/179107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-69-2024",
+   "path": "local/maramures/grosi/2024/69",
+   "short": "HCL Groși nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 69/2024 privind aprobarea modificării contractului nr. 285/16.02.2024 privind sortarea și contractului nr. 286/16.02.2024 privind transferul",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/179108",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/179108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-70-2024",
+   "path": "local/maramures/grosi/2024/70",
+   "short": "HCL Groși nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 70/2024 privind adoptarea strategiei de contractare, a caietului de sarcini si a contractului pentru activităţile de sortare şi transfer a deşeurilor municipale din zona 1 a jud. Maramureş, UAT Cerneşti şi UAT Coroieni",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/179109",
+   "versions": [
+    {
+     "from": "2024-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/179109",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-71-2024",
    "path": "local/maramures/grosi/2024/71",
    "short": "HCL Groși nr. 71/2024",
@@ -33,6 +168,66 @@
    ]
   },
   {
+   "slug": "hcl-maramures--grosi-73-2024",
+   "path": "local/maramures/grosi/2024/73",
+   "short": "HCL Groși nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 73/2024 privind acceptarea ofertelor de donație a terenului în suprafață de 1029 mp, înscris în Cartea Funciară nr. 52647 Groși, nr. cadastral 52647, aferent străzii Mesteacănului",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/181032",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/181032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-74-2024",
+   "path": "local/maramures/grosi/2024/74",
+   "short": "HCL Groși nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 74/2024 privind aprobarea rectificării bugetului local al Comunei Groşi pe anul 2024",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182233",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-75-2024",
+   "path": "local/maramures/grosi/2024/75",
+   "short": "HCL Groși nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 75/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182234",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-76-2024",
+   "path": "local/maramures/grosi/2024/76",
+   "short": "HCL Groși nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 76/2024 privind aprobarea Planului Urbanistic Zonal pentru PARCELARE TEREN ȘI CONSTRUIRE ANSAMBLU REZIDENȚIAL LOCUINȚE INDIVIDUALE CUPLATE ȘI IZOLATE",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182235",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182235",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-77-2024",
    "path": "local/maramures/grosi/2024/77",
    "short": "HCL Groși nr. 77/2024",
@@ -48,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--grosi-78-2024",
+   "path": "local/maramures/grosi/2024/78",
+   "short": "HCL Groși nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 78/2024 privind constatarea apartenenței la domeniul privat al comunei Groși, în administrarea Consiliului local Groși, a imobilului provenit din renunțarea la dreptul de proprietate privată pentru terenul aferent străzii Mesteacănului, conform anexei care face parte integrantă din prezenta hotărâre",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182237",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--grosi-79-2024",
    "path": "local/maramures/grosi/2024/79",
    "short": "HCL Groși nr. 79/2024",
@@ -58,6 +268,36 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/grosi-mm/registru-hcl/182238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-80-2024",
+   "path": "local/maramures/grosi/2024/80",
+   "short": "HCL Groși nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 80/2024 privind acceptarea ofertei de donație a terenului în suprafață de 1029 mp, înscris în Cartea Funciară nr. 52647 Groși, nr. cadastral 52647, aferent străzii Mesteacănului",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182635",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--grosi-81-2024",
+   "path": "local/maramures/grosi/2024/81",
+   "short": "HCL Groși nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Groși nr. 81/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat, la finalizarea procedurilor de achiziție publică, precum și susținerea cheltuielilor neeligibile pentru obiectivul de investiții „Înființare pistă de biciclete în comuna Groși, județul Maramureș”",
+   "url": "https://emol.ro/grosi-mm/registru-hcl/182636",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/grosi-mm/registru-hcl/182636",
      "sha256": null
     }
    ]

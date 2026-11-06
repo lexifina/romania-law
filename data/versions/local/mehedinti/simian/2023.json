@@ -3,6 +3,276 @@
  "shard": "local/mehedinti/simian/2023",
  "acts": [
   {
+   "slug": "hcl-mehedinti--simian-163-2023",
+   "path": "local/mehedinti/simian/2023/163",
+   "short": "HCL Șimian nr. 163/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 163/2023 PRIVIND APROBAREA REDUCERII CU 10% A NR.MAX.AL POSTURILOR AFERENTE COM.SIMIAN",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.163-07.11.2023-PRIVIND-APROBAREA-REDUCERII-CU-10-A-NR.MAX_.AL-POSTURILOR-AFERENTE-COM.SIMIAN-1.pdf",
+     "sha256": "7e8dd8898151e9d87351a44b78116bb92077057fd16e20d30a4efc2a5a383859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-164-2023",
+   "path": "local/mehedinti/simian/2023/164",
+   "short": "HCL Șimian nr. 164/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 164/2023 PRIVIND ATESTAREA APARTENENTEI UNOR IMOBILE-TERENURI",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.164-07.11.2023-PRIVIND-ATESTAREA-APARTENENTEI-UNOR-IMOBILE-TERENURI-2.pdf",
+     "sha256": "6e6647b34109c8b6a92c496ba2c5213a4127bc6ef2781325001a66de59145713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-165-2023",
+   "path": "local/mehedinti/simian/2023/165",
+   "short": "HCL Șimian nr. 165/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 165/2023 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.165-29.11.2023-PRIVIND-ALEGEREA-PRESEDINTELUI-DE-SEDINTA-2.pdf",
+     "sha256": "2c2fa53d2a7c719e913fd067c4e2cb8caa03e534a13bb97a8fcf0bce8fe8fff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-166-2023",
+   "path": "local/mehedinti/simian/2023/166",
+   "short": "HCL Șimian nr. 166/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 166/2023 PRIVIND MODIFICAREA SI COMPLETAREA ART.28 PCT.21,24,25 SI ART.30 PCT.13",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.166-29.11.2023-PRIVIND-MODIFICAREA-SI-COMPLETAREA-ART.28-PCT.212425-SI-ART.30-PCT.13-1.pdf",
+     "sha256": "de69a7267c9ed8fb15fe36b89a2d84169d36fe98b66dc58fd59b86015d3b12e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-167-2023",
+   "path": "local/mehedinti/simian/2023/167",
+   "short": "HCL Șimian nr. 167/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 167/2023 PRIVIND ACCEPTAREA OFERTEI DE DONATIE",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.167-29.11.2023-PRIVIND-ACCEPTAREA-OFERTEI-DE-DONATIE-1.pdf",
+     "sha256": "84c96ed476a71b1011a27f5c0d10cc342cff8c5e2f34e2a925bab55bc7b494d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-168-2023",
+   "path": "local/mehedinti/simian/2023/168",
+   "short": "HCL Șimian nr. 168/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 168/2023 PRIVIND APROBAREA MODALITATII DE EFECTUARE A PAZEI IN COM.SIMIAN",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.168-29.11.2023-PRIVIND-APROBAREA-MODALITATII-DE-EFECTUARE-A-PAZEI-IN-COM.SIMIAN-2.pdf",
+     "sha256": "3e9d0939426eb8db3e19b1689958215854935b8e6335b27e562fd284d131f059"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-169-2023",
+   "path": "local/mehedinti/simian/2023/169",
+   "short": "HCL Șimian nr. 169/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 169/2023 PRIVIND MANDATAREA REPR.LEGAL CONS.LOCAL",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.169-29.11.2023-PRIVIND-MANDATAREA-REPR.LEGAL-CONS.LOCAL_-1.pdf",
+     "sha256": "490140b891d6a387057139155f86c4802a0753180b233b0b94131a3a1d19a660"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-170-2023",
+   "path": "local/mehedinti/simian/2023/170",
+   "short": "HCL Șimian nr. 170/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 170/2023 PRIVIND ACCEPTAREA OFERTEI DE DONATIE",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.170-29.11.2023-PRIVIND-ACCEPTAREA-OFERTEI-DE-DONATIE-1.pdf",
+     "sha256": "49c56c090915ebc0350ce98058cb1e6e5d9fb63cd1d5b8846c9ca05d2c6b5b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-171-2023",
+   "path": "local/mehedinti/simian/2023/171",
+   "short": "HCL Șimian nr. 171/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 171/2023 PRIVIND ACCEPTAREA OFERTEI DE DONATIE",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.171-29.11.2023-PRIVIND-ACCEPTAREA-OFERTEI-DE-DONATIE-1.pdf",
+     "sha256": "2c40a6689d2e91349081216f256ff05566caa06f64b7a54bc0252a0574484bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-172-2023",
+   "path": "local/mehedinti/simian/2023/172",
+   "short": "HCL Șimian nr. 172/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 172/2023 PRIVIND TRECEREA DIN DOM.PUBLIC IN DOM.PRIVAT",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.172-29.11.2023-PRIVIND-TRECEREA-DIN-DOM.PUBLIC-IN-DOM.PRIVAT-1.pdf",
+     "sha256": "e8816de9646a0abd57e88b6133ae42f2b96cd0e1427369e3cbe1ddfb59fd1d5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-173-2023",
+   "path": "local/mehedinti/simian/2023/173",
+   "short": "HCL Șimian nr. 173/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 173/2023 PRIVIND MODIFICAREA SI COMPLETAREA ART.19 ALIN.10 DIN HCL NR.108-2023",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+     "sha256": "6549cfdebcde3e9869304369d847fa76dc2313952b20206fc48aa38f446a042a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-174-2023",
+   "path": "local/mehedinti/simian/2023/174",
+   "short": "HCL Șimian nr. 174/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 174/2023 PRIVIND ACCEPTAREA OFERTEI DE DONATIE",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.174-29.11.2023-PRIVIND-ACCEPTAREA-OFERTEI-DE-DONATIE-1.pdf",
+     "sha256": "cfc6a18cc02ed206919ba9fe716a4fcbdc77f68ef918a1417be30a3a72b151f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-176-2023",
+   "path": "local/mehedinti/simian/2023/176",
+   "short": "HCL Șimian nr. 176/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 176/2023 PRIVIND MODIFICAREA ORGANIGRAMEI SI A STATUTULUI DE FUNCTII",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.176-29.11.2023-PRIVIND-MODIFICAREA-ORGANIGRAMEI-SI-A-STATUTULUI-DE-FUNCTII-2.pdf",
+     "sha256": "062254b72aaa0a6ff84c3cbaecf8c17d45d99f732d5ad7d8b642ae38164ccafb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-177-2023",
+   "path": "local/mehedinti/simian/2023/177",
+   "short": "HCL Șimian nr. 177/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 177/2023 PRIVIND ACCEPTAREA OFERTEI DE DONATIE",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.177-29.11.2023-PRIVIND-ACCEPTAREA-OFERTEI-DE-DONATIE-1.pdf",
+     "sha256": "e0ac6e07a2a145a8b315b7a78701d946c140d832e9bf9e9319e5980ed054c68f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-178-2023",
+   "path": "local/mehedinti/simian/2023/178",
+   "short": "HCL Șimian nr. 178/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 178/2023 PRIVIND STABILIREA LOCATIEI PENTRU COLECTAREA SEPARATA A DESEURILOR",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.178-29.11.2023-PRIVIND-STABILIREA-LOCATIEI-PENTRU-COLECTAREA-SEPARATA-A-DESEURILOR-1.pdf",
+     "sha256": "4a0cd475e1f9935c3a16183ebd8403612d891ee1b9b779090df9759872495d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-179-2023",
+   "path": "local/mehedinti/simian/2023/179",
+   "short": "HCL Șimian nr. 179/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 179/2023 PRIVIND MANDATAREA REPR.LEGAL CONS.LOCAL",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.179-29.11.2023-PRIVIND-MANDATAREA-REPR.LEGAL-CONS.LOCAL_-1.pdf",
+     "sha256": "d2d92c9265cdd4503cfad956fd98ce05990e012cd94153f87412d0f084ceac91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-180-2023",
+   "path": "local/mehedinti/simian/2023/180",
+   "short": "HCL Șimian nr. 180/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 180/2023 PRIVIND APROBAREA IND.TEHNICO-ECO.LA OB.”CONSTRUIRE FOISOR SI AMENAJARE TEREN ZONA BISERICA”",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.180-08.12.2023-PRIVIND-APROBAREA-IND.TEHNICO-ECO.LA-OB.CONSTRUIRE-FOISOR-SI-AMENAJARE-TEREN-ZONA-BISERICA-2.pdf",
+     "sha256": "6db5a72bc779382f45041cafa4f50ba30c442e5d925776917b8ba57c32275061"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-181-2023",
+   "path": "local/mehedinti/simian/2023/181",
+   "short": "HCL Șimian nr. 181/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 181/2023 PRIVIND RECTIFICAREA BUGETULUI DE VENITURI SI CHELTUIELI",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.181-08.12.2023-PRIVIND-RECTIFICAREA-BUGETULUI-DE-VENITURI-SI-CHELTUIELI-2.pdf",
+     "sha256": "824dd7d19bce8cbaaab71d87f46b4490f032397de4db879611c6722f5c5749f7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--simian-183-2023",
    "path": "local/mehedinti/simian/2023/183",
    "short": "HCL Șimian nr. 183/2023",
@@ -14,6 +284,36 @@
      "units": 1,
      "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.183-21.12.2023-PRIVIND-APROBAREA-PRELUNGIRII-VALABILITATII-PUG-AL-COM.SIMIAN-1.pdf",
      "sha256": "e3509348bb9968dedfbd16673340411f1f219ad4558f8743aae9f77cf37a52a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-185-2023",
+   "path": "local/mehedinti/simian/2023/185",
+   "short": "HCL Șimian nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 185/2023 PRIVIND APROBAREA INDEXARII SUMELOR",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.185-21.12.2023-PRIVIND-APROBAREA-INDEXARII-SUMELOR-1.pdf",
+     "sha256": "2b60ca6d3616875b21b25422c403380633fe1238365aba177a7a15876be47868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-186-2023",
+   "path": "local/mehedinti/simian/2023/186",
+   "short": "HCL Șimian nr. 186/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 186/2023 PRIVIND APROBAREA CONTULUI DE EXECUTIE A BUGETULUI COM.SIMIAN",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2024/03/HCL-NR.186-21.12.2023-PRIVIND-APROBAREA-CONTULUI-DE-EXECUTIE-A-BUGETULUI-COM.SIMIAN-2.pdf",
+     "sha256": "5392cf01f3124eb8a4299da6a678ecf33505bcd50c3191fecb932abce9837016"
     }
    ]
   }

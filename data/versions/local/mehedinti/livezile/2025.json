@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-24-2025",
+   "path": "local/mehedinti/livezile/2025/24",
+   "short": "HCL Livezile nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 24/2025 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/228679",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/228679",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-25-2025",
    "path": "local/mehedinti/livezile/2025/25",
    "short": "HCL Livezile nr. 25/2025",
@@ -88,6 +103,21 @@
      "from": "2025-11-12",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/228680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-26-2025",
+   "path": "local/mehedinti/livezile/2025/26",
+   "short": "HCL Livezile nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 26/2025 privind desemnare reprezentant consiliu de administrație la Școala Gimnazială Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/228681",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/228681",
      "sha256": null
     }
    ]
@@ -118,6 +148,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/232962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-29-2025",
+   "path": "local/mehedinti/livezile/2025/29",
+   "short": "HCL Livezile nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 29/2025 privind desemnarea reprezentantului consiliului local în Comisia pentru evaluarea şi asigurarea calităţii (CEAC) și comisia pentru prevenirea și eliminarea violenței , a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității , din cadrul Școlii Gimnaziale Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/232963",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/232963",
      "sha256": null
     }
    ]
@@ -193,6 +238,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/238444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-35-2025",
+   "path": "local/mehedinti/livezile/2025/35",
+   "short": "HCL Livezile nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 35/2025 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/238445",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/238445",
      "sha256": null
     }
    ]

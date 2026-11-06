@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-27-2024",
+"path": "local/maramures/giulesti/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 27/2024",
+"short": "HCL Giulești nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/173413",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-28-2024",
 "path": "local/maramures/giulesti/2024/28",
 "kind": "local",
@@ -66,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-29-2024",
+"path": "local/maramures/giulesti/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 29/2024 privind modificarea prin act adițional a contractului de închiriere din data de 12.08.2024",
+"short": "HCL Giulești nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/173415",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -198,6 +243,94 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-36-2024",
+"path": "local/maramures/giulesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 36/2024 privind alegerea președintelui de ședință",
+"short": "HCL Giulești nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/208837",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-37-2024",
+"path": "local/maramures/giulesti/2024/37",
+"kind": "local",
+"year": "2024",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 37/2024 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local Giulești, Maramureș",
+"short": "HCL Giulești nr. 37/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/208838",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-38-2024",
+"path": "local/maramures/giulesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 38/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Giulești, Maramureș",
+"short": "HCL Giulești nr. 38/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/208839",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-39-2024",
+"path": "local/maramures/giulesti/2024/39",
+"kind": "local",
+"year": "2024",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 39/2024 privind alegerea Viceprimarului comunei Giulești, județul Maramureș",
+"short": "HCL Giulești nr. 39/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-19",
+"latest": "2024-11-19",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/208840",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

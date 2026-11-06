@@ -246,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-56-2022",
+"path": "local/mehedinti/dubova/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 56/2022 privind aprobarea prelungirii contractului de inchiriere a Caselor de vara nr. 1 si 2 situate in comuna Dubova, jud. Mehedinti",
+"short": "HCL Dubova nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/77506",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-57-2022",
 "path": "local/mehedinti/dubova/2022/57",
 "kind": "local",
@@ -376,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-63-2022",
+"path": "local/mehedinti/dubova/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 63/2022 privind vânzarea cu respectarea dreptului de preempțiune pentru d-ul Tutilescu Marian-Grigore, a terenului, aferent construcției unei case de vacanta, în suprafață totală de 360 mp, teren situat în intravilan, nr. cadastral 51199, aparținând domeniului privat al comunei Dubova",
+"short": "HCL Dubova nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-23",
+"latest": "2022-12-23",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/82654",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

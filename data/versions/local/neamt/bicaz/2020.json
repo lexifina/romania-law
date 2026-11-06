@@ -16,6 +16,81 @@
      "sha256": "bee5c5f2a0a35372c3a16fb4d005d07785f2c130eabfcfc67f6d488d0ad7b84b"
     }
    ]
+  },
+  {
+   "slug": "hcl-neamt--bicaz-41-2020",
+   "path": "local/neamt/bicaz/2020/41",
+   "short": "HCL Bicaz nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 41/2020 pentru Situatii de Urgenta(nr.41/09.09.2020) privind aprobarea scenariului de functionare pentru fiecare unitate de invatamant din judetul Neamt, pentru inceputul anului scolar 2020-2021",
+   "url": "http://www.primariabicaz.ro/",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 1,
+     "source_url": "https://www.primariabicaz.ro/wp-content/uploads/2020/09/hotarare.pdf",
+     "sha256": "55f07b5d6d41ca30e7302527c35b4b41d9422acf857b3d70e73df40387f34fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bicaz-58-2020",
+   "path": "local/neamt/bicaz/2020/58",
+   "short": "HCL Bicaz nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 58/2020 pentru Situatii de Urgenta (nr. 58/09.10.2020) privind actualizarea secenariului de functionare pentru unitatile de invatamant din judetul Neamt, pentru anul scolar 2020 – 2021, si stabilirea unor masuri",
+   "url": "http://www.primariabicaz.ro/",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 1,
+     "source_url": "https://www.primariabicaz.ro/wp-content/uploads/2020/10/Hotarare-CJSUNT.pdf",
+     "sha256": "27077a9d8695b5d9df1e9cb6a2cb3718282a42ca07438111b6e5178289f33bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bicaz-79-2020",
+   "path": "local/neamt/bicaz/2020/79",
+   "short": "HCL Bicaz nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 79/2020 pentru Situatii de Urgenta(nr. 79 din 03.11.2020), privind stabilirea unor masuri in domeniul sanatatii publice",
+   "url": "http://www.primariabicaz.ro/",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://www.primariabicaz.ro/wp-content/uploads/2020/11/HCJSU-nr.-79_2020.pdf",
+     "sha256": "2be55c30b5abba14add933aad2da6da722de2f212cc9afe9e554f2b0b47fc875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bicaz-80-2020",
+   "path": "local/neamt/bicaz/2020/80",
+   "short": "HCL Bicaz nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 80/2020 pentru Situatii de Urgenta(nr. 80 din 03.11.2020), privind completarea hotararii nr. 75 din 30.10.2020, a Comitetului Judetean pentru Situatii de Urgenta Neamt",
+   "url": "http://www.primariabicaz.ro/",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 1,
+     "source_url": "https://www.primariabicaz.ro/wp-content/uploads/2020/11/HCJSU-nr.-80_2020.pdf",
+     "sha256": "c475f8c96949e83a12035b6bf0f1f503acfae7293a9a0842f7ad9201e5043c01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bicaz-86-2020",
+   "path": "local/neamt/bicaz/2020/86",
+   "short": "HCL Bicaz nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Bicaz nr. 86/2020 pentru Situatii de Urgenta(nr.86 din 10.11.2020) privind stabilirea unor masuri in domeniul sanatatii publice",
+   "url": "http://www.primariabicaz.ro/",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://www.primariabicaz.ro/wp-content/uploads/2020/11/hotarare.pdf",
+     "sha256": "b31c2d427ecb2dc2fef1f9845a19108ab94dfea2590e74381b4ffb1158e23abc"
+    }
+   ]
   }
  ]
 }

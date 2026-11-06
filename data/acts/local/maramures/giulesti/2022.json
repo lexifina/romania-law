@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-25-2022",
+"path": "local/maramures/giulesti/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 25/2022 privind înscrierea în domeniul public a comunei Giulești, în administrare Consiliului Local a terenului situate în comuna Giulești, sat Giulești, CF 3152",
+"short": "HCL Giulești nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/75599",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-26-2022",
 "path": "local/maramures/giulesti/2022/26",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-27-2022",
+"path": "local/maramures/giulesti/2022/27",
+"kind": "local",
+"year": "2022",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 27/2022 privind aprobarea documentației de atribuire pentru concesionarea prin licitație publică a clădirii, ce aparține domeniului public al comunei Giulești, județul Maramureș, înscris în Cartea Funciară nr. 53421",
+"short": "HCL Giulești nr. 27/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/75601",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-31-2022",
+"path": "local/maramures/giulesti/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 31/2022 privind conferirea titlului de Cetățean de Onoare al comunei Giulești, județul Maramureș, artistului de muzică folk Ducu Bertzi",
+"short": "HCL Giulești nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/75605",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mures--alunis-21-2026",
+"path": "local/mures/alunis/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 21/2026 privind alocarea unor fonduri cuprinse în bugetul local al comunei Aluniș pe anul 2026, pentru finanțarea proiectului ”Călător în lumea copilăriei” organizat cu ocazia Zilei de 1 iunie- Ziua Internațională a Copilului",
+"short": "HCL Aluniș nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287193",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--alunis-22-2026",
 "path": "local/mures/alunis/2026/22",
 "kind": "local",
@@ -90,6 +112,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--alunis-24-2026",
+"path": "local/mures/alunis/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 24/2026 privind reorganizarea aparatutului de specialitate al Primarului comunei Aluniș, aprobarea Organigramei și a Statului de Funcții",
+"short": "HCL Aluniș nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287196",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -333,6 +377,50 @@
 "council_name": "Consiliul Local al Comunei Aluniș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--alunis-36-2026",
+"path": "local/mures/alunis/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 36/2026 privind aprobarea unui post de asistent personal pentru îngrijirea unei persoane cu handicap",
+"short": "HCL Aluniș nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287216",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--alunis-37-2026",
+"path": "local/mures/alunis/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aluniș nr. 37/2026 privind acordarea pentru anul școlar 2026-2027 a pachetului cu rechizite școlare, elevilor înscriși în unitățile preuniversitare de stat de pe raza comunei Aluniș, județul Mureș",
+"short": "HCL Aluniș nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/alunis-ms/registru-hcl/287217",
+"council": "mures/alunis",
+"council_name": "Consiliul Local al Comunei Aluniș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

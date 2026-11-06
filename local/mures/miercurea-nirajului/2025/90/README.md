@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Miercurea Nirajului nr. 90/2025
+
+HCL Miercurea Nirajului nr. 90/2025 · 1 versions, from 2025-11-27 (latest in force: 2025-11-27) · <https://miercureanirajului.ro/wp-content/uploads/2026/01/Hot-Nr.90-din-27-Noiembrie-2025_Redacted.pdf>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-mures--miercurea-nirajului-90-2025` (tags `hcl-mures--miercurea-nirajului-90-2025/<day>`; `python tools/on.py <day> hcl-mures--miercurea-nirajului-90-2025`).
+
+## Decisions made by hand
+
+- HCL Miercurea Nirajului nr. 90/2025: listed from Consiliul Local al Orașului Miercurea Nirajului (miercureanirajului.ro); an individual decision: metadata only.
+- HCL Miercurea Nirajului nr. 90/2025: dated from 27 November 2025, the day it was adopted (the register gives no later day of publication).
+- HCL Miercurea Nirajului nr. 90/2025: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

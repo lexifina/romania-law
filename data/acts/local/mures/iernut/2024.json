@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/iernut/2024",
+"acts": [
+{
+"slug": "hcl-mures--iernut-444-2024",
+"path": "local/mures/iernut/2024/444",
+"kind": "local",
+"year": "2024",
+"number": "444",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 444/2024",
+"short": "HCL Iernut nr. 444/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-29",
+"latest": "2024-10-29",
+"portal": "https://primariaiernut.ro/documente/procesele-verbale-ale-sedintelor-autoritatii-deliberative-aferente-anului-2024/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

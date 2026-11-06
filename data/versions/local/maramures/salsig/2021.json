@@ -3,6 +3,66 @@
  "shard": "local/maramures/salsig/2021",
  "acts": [
   {
+   "slug": "hcl-maramures--salsig-52-2021",
+   "path": "local/maramures/salsig/2021/52",
+   "short": "HCL Sălsig nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 52/2021 privind actualizarea indicatorilor tehnico-economici aprobați prin H.C.L",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%2052%20din%2020.09.2021.pdf",
+     "sha256": "c9a6936f951aa851384b2f0ba6b25235f99f82eeafff6b30608fc0a92c5f61a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-55-2021",
+   "path": "local/maramures/salsig/2021/55",
+   "short": "HCL Sălsig nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 55/2021 privind desemnarea reprezentanților Consiliului Local Salsig, in Consiliul de Administrație al Scolii Gimnaziale Salsig Având in vedere proiectul de hotarare initiat de primarul comunei si înregistrat sub nr.55 din 16.09.2021, referatul de aprobare al primarului comunei întocmit in calitate de inițiator si înregistrat sub nr.3201 din 16.09.2021 privind desemnarea reprezentanților Consiliului Local",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-09-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%2055%20din%2020.09.2021.pdf",
+     "sha256": "e4c38559d66eab7f58c18580359a76c7d9104658c61b47d672264b8b5cec1728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-56-2021",
+   "path": "local/maramures/salsig/2021/56",
+   "short": "HCL Sălsig nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 56/2021 privind alegerea președintelui de ședința, pe o perioada de 3 luni Având in vedere proiectul de hotarare nr.56/08.10.2021 initiat de primarul comunei, insotit de referatul de aprobare al acestuia înregistrat sub nr. 3978 din 08.10.2021; -raportul de specialitate înregistrat sub nr.3979 din 08.10.2021; Ținând cont de raportul de avizare al Comisiei pentru administrație publica, juridica si de disci",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2056.pdf",
+     "sha256": "b4d194da3dab276068d80c60d87e1853f1e40644b51d36a29ad4e01e8304350a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-57-2021",
+   "path": "local/maramures/salsig/2021/57",
+   "short": "HCL Sălsig nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 57/2021 privind rectificarea bugetului local al comunei Salsig Având in vedere proiectul de hotarare initiat de primarul comunei înregistrat sub nr.57 din 08.10.2021 insotit de referatul de aprobare al primarului comunei înregistrat sub nr.3980 din 08.10.2021 prin care se propune rectificarea bugetului local al comunei Salsig; -raportul compartimentului financiar-contabil din cadrul aparatului de speciali",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2057.pdf",
+     "sha256": "5a2743059f7d0ab7346e6119be8b6220fe888309bf8b0799be5240c899d41cca"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--salsig-58-2021",
    "path": "local/maramures/salsig/2021/58",
    "short": "HCL Sălsig nr. 58/2021",
@@ -14,6 +74,36 @@
      "units": 1,
      "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2058.pdf",
      "sha256": "6966cac04063dc2b50d4e7f96c5dde370d86f086854d89d74648eaafadedae82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-59-2021",
+   "path": "local/maramures/salsig/2021/59",
+   "short": "HCL Sălsig nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 59/2021 privind nominalizarea consilierilor locali care vor face parte din componenta Comisiei de recepție finala la terminarea lucrărilor pentru obiectivul de investiție „Sala multiconfesionala de rugăciune in comuna Salsig, județul Maramureș\" Având in vedere proiectul de hotarare nr.59/08.10.2021 initiat de primarul comunei si referatul de aprobare al acestuia elaborat in calitate de inițiator, înregist",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2059.pdf",
+     "sha256": "e572c5a3965d8298d44b0e9d79fcebd5edbc16f0f4d10656e2ba11123556adf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-60-2021",
+   "path": "local/maramures/salsig/2021/60",
+   "short": "HCL Sălsig nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 60/2021 privind identificarea - fara elemente de carte funciara -a unor imobile, apartinand domeniului public al comunei Salsig Având in vedere proiectul de hotarare nr.60/15.10.2021 initiat de primarul comunei si referatul de aprobare al acestuia înregistrat sub nr.4036 din 15.10.2021 privind identificarea -fara elemnte de carte funciara - a unor imobile apartinand domeniului public al comunei Salsig; -r",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.60.pdf",
+     "sha256": "58302282c5ae86cd8c9a457f23d259c015c8ece76ee03c5d4f187a74bc821db7"
     }
    ]
   },
@@ -33,6 +123,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--salsig-64-2021",
+   "path": "local/maramures/salsig/2021/64",
+   "short": "HCL Sălsig nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 64/2021 privind aprobarea neasumarii responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente Programului pentru scoli al României și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul U.A.T",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.64.pdf",
+     "sha256": "b87d29fd7bed997108e070d74da391f37bf3c6ed72962db5938339a710d4c68e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-65-2021",
+   "path": "local/maramures/salsig/2021/65",
+   "short": "HCL Sălsig nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 65/2021 privind rectificarea bugetului local al comunei Salsig Având in vedere proiectul de hotarare initiat de primarul comunei înregistrat sub nr.66 din 07.12.2021 insotit de referatul de aprobare al primarului comunei înregistrat sub nr. 4487 din 07.12.2021 prin care se propune rectificarea bugetului local al comunei Salsig; -raportul compartimentului financiar-contabil din cadrul aparatului de special",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.%2065.pdf",
+     "sha256": "382e875ce1f13e579e08e388b1550adb9b3159650cd3016b4dd982d5aad7bafc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--salsig-66-2021",
    "path": "local/maramures/salsig/2021/66",
    "short": "HCL Sălsig nr. 66/2021",
@@ -44,6 +164,66 @@
      "units": 1,
      "source_url": "http://www.salsig.ro/HOTARAREA%20NR.66.pdf",
      "sha256": "73d57a166d3e58f9eb809599d9aa4c2fc2369ab255efb52d848f016eab6ff2b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-67-2021",
+   "path": "local/maramures/salsig/2021/67",
+   "short": "HCL Sălsig nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 67/2021 privind alegerea președintelui de ședința, pe o perioada de 3 luni Având in vedere proiectul de hotarare nr.73 din 27.12.2021 initiat de primarul comunei, insotit de referatul de aprobare al acestuia înregistrat sub nr. 4659 din 27.12.2021; -raportul de specialitate înregistrat sub nr.4660 din 27.12.2021; Ținând cont de raportul de avizare al Comisiei pentru administrație publica, juridica si de d",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.67.pdf",
+     "sha256": "b641d204ca2f469f4263fd603e4b60c977c38ce73de471e07e56f68cce486265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-68-2021",
+   "path": "local/maramures/salsig/2021/68",
+   "short": "HCL Sălsig nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 68/2021 privind identificarea cu date de carte funciară a unor imobile având categoria de folosință „pășune\" - apartinand domeniului privat al comunei Salsig și insusirea documentațiilor cadastrale întocmite în vederea înscrierii acestora in sistemul integrat de cadastru și carte funciară Având in vedere proiectul de hotarare nr.69 din 21.12.2021 initiat de primarul comunei si insotit de referatul de apro",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.68.pdf",
+     "sha256": "7475684ae08fda81af03d76f98bb645ba453acda7b8227cb52d4fbc989f0ec66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-69-2021",
+   "path": "local/maramures/salsig/2021/69",
+   "short": "HCL Sălsig nr. 69/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 69/2021 privind insusirea documentației cadastrale pentru imobilul „teren\" in suprafața de 27000 mp., situat in extravilanul comunei Salsig - în vederea înscrierii acestuia, in sistemul integrat de cadastru și carte funciară si atestarea apartenenței la domeniul privat al comunei Salsig Având in vedere proiectul de hotarare nr.70 din 21.12.2021 initiat de primarul comunei si referatul de aprobare al acest",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.69.pdf",
+     "sha256": "4c97df89a590fb624e2bd482098a49c33773f4093062e38418c751bfaab8d4a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-70-2021",
+   "path": "local/maramures/salsig/2021/70",
+   "short": "HCL Sălsig nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 70/2021 privind rectificarea bugetului local al comunei Salsig Având in vedere proiectul de hotarare înregistrat sub nr.71 din 21.12.2021 si initiat de primarul comunei cu privire la rectificarea bugetului local al comunei Salsig, referatul de aprobare al primarului comunei, înregistrat sub nr.4639 din 21.12.2021 prin care se propune rectificarea bugetului local al comunei Salsig; -raportul compartimentul",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2021-12-27",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/HOTARAREA%20NR.70.pdf",
+     "sha256": "229fe294d1d39dcf1210277ac0748dec84c533d1f1076d77c68b1352c1e7fff6"
     }
    ]
   }

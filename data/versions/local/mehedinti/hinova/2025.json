@@ -3,6 +3,36 @@
  "shard": "local/mehedinti/hinova/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--hinova-36-2025",
+   "path": "local/mehedinti/hinova/2025/36",
+   "short": "HCL Hinova nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 36/2025 privind rectificarea bugetului local pe anul 2025 NR. HCL nr. 36/27.06.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.36_din_27.06.2025_privind_rectificarea_bugetului_local_pe_anul_2025.pdf",
+     "sha256": "4c6cc4338409e84085bb75c756c26924c3493edcffde2d7faa5e6abb1537c041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-37-2025",
+   "path": "local/mehedinti/hinova/2025/37",
+   "short": "HCL Hinova nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 37/2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._37_din_15.07.2025_TRASEU_EUROVELO_6.pdf",
+     "sha256": "969f615039185293d11517fc4d0889e6768a37e584c4d41494c928b7dae043a6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--hinova-38-2025",
    "path": "local/mehedinti/hinova/2025/38",
    "short": "HCL Hinova nr. 38/2025",
@@ -14,6 +44,411 @@
      "units": 1,
      "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._38_din_15.07.2025_privind_PUZ-CONSTRUIRE_CASE_SEZONIERE.pdf",
      "sha256": "30f62b6a76bc227a659e11894c035235bca79fe850805a802e2dc3d5e79126f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-39-2025",
+   "path": "local/mehedinti/hinova/2025/39",
+   "short": "HCL Hinova nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 39/2025 privind rectificarea bugetului local pe anul 2025 NR. HCL nr.39/15.07.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._39_din_15.07.2025_privind_rectificarea_bugetului_local_pe_anul_2025.pdf",
+     "sha256": "450ca3fd1abbe42975fe7a1566c24166e7e91e3c179dfda3508f0fabf5a2dec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-40-2025",
+   "path": "local/mehedinti/hinova/2025/40",
+   "short": "HCL Hinova nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 40/2025 privind Infiintare canalizare si statie epurare sat Hinova NR. HCL nr.40/15.07.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._40_din_15.07.2025_privind_Infiintare_canalizare_si_statie_epurar_tH6Um7g.pdf",
+     "sha256": "1596eb0611f7834767a79ae07697355a68b4ec18859019bee3691fda4b0dd0a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-41-2025",
+   "path": "local/mehedinti/hinova/2025/41",
+   "short": "HCL Hinova nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 41/2025 privind alegerea presedintelui de sedinta NR. HCL nr. 41/15.07.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._41_din_15.07.2025_privind_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "9f38719e4642b3ba3a611623b78e7b82689520142c3bfb5fb00b9cca61661df7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-42-2025",
+   "path": "local/mehedinti/hinova/2025/42",
+   "short": "HCL Hinova nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 42/2025 privind Construire teren multifunctional sat Hinova NR. HCL nr.42/23.07.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.42_din_23.07.2025_privind_Construire_teren_multifunctional_sat_Hinova.pdf",
+     "sha256": "0fd859d248f7ac64876f5594036571289401ee424b75126b7980c0cae6f2049d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-43-2025",
+   "path": "local/mehedinti/hinova/2025/43",
+   "short": "HCL Hinova nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 43/2025 privind actualizare indicatori-Construire teren multifunctional in sat Hinova NR. HCL nr.43/26.08.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.43_din_26.08.2025-actualizare_indicatori-Construire_teren_multifu_P2J3sGx.pdf",
+     "sha256": "8321c12e49ca1b196104c3f465149df054dd83183f29b8701efb52887b90dc84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-44-2025",
+   "path": "local/mehedinti/hinova/2025/44",
+   "short": "HCL Hinova nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 44/2025 privind organigrama si statul de functii NR. HCL nr.44/26.08.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.44_din_26.08.2025_privind_organigrama_si_statul_de_functii.pdf",
+     "sha256": "2e3f784cb07204982458684ffccbebb478f6074c49b47be02300b88eaa8e3762"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-45-2025",
+   "path": "local/mehedinti/hinova/2025/45",
+   "short": "HCL Hinova nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 45/2025 privind revocare HCL 33 din 12.06.2025 NR. HCL nr. 45/26.08.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._45_din_26.08.2025_privind_revocare_HCL_33_din_12.06.2025.pdf",
+     "sha256": "90fcbcef40e73e26a4ef063042e5d5c8e51750ac80ffe8cfd5e0a20b7bc210ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-46-2025",
+   "path": "local/mehedinti/hinova/2025/46",
+   "short": "HCL Hinova nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 46/2025 privind reprezentant in AGA-SECOM NR. HCL nr. 46/26.08.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.46_din_26.08.2025_privind_reprezentant_in_AGA-SECOM.pdf",
+     "sha256": "9a32fb7f213d0f35dc9626e3beab799c8f43d26830d0c19b80acef02d5b1d8d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-47-2025",
+   "path": "local/mehedinti/hinova/2025/47",
+   "short": "HCL Hinova nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 47/2025 privind actualizare deviz general-CAMIN CULTURAL HINOVA NR. HCL nr. 47/23.09.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.47_din_23.09.2025_privind_actualizare_deviz_general-CAMIN_CULTURAL_HINOVA.pdf",
+     "sha256": "ec0c4484dbd02d412d1f263682d3e96ab3c9922de5118952d42d9438932574c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-48-2025",
+   "path": "local/mehedinti/hinova/2025/48",
+   "short": "HCL Hinova nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 48/2025 privind completare inventar bunuri domeniul privat Hinova NR",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.48_din_22.10.2025_privind_completare_inventar_bunuri_domeniul_pri_4IVUSdA.pdf",
+     "sha256": "8812f4c6aa822f9d47b3a8de2513ee67683d3942ac19dd399c9f6c312aa2dc4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-49-2025",
+   "path": "local/mehedinti/hinova/2025/49",
+   "short": "HCL Hinova nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 49/2025 privind rectificarea bugetului local pe anul 2025 NR. HCL nr. 49/16.10.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._49_din_16.10.2025_privind_rectificarea_bugetului_local_pe_anul_2025.pdf",
+     "sha256": "778b3c993fe1476bef70c05e28bb32e61c67a374c1dc30ea93e369578b487538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-50-2025",
+   "path": "local/mehedinti/hinova/2025/50",
+   "short": "HCL Hinova nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 50/2025 privind actualizare deviz Construire teren in Com",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._50_din_22.10.2025_privind_actualizare_deviz_Construire_teren_in__NDnWEZb.pdf",
+     "sha256": "50be2ba515b6b50e2a031ad6868035b9a97fd20d07365b8beaae0e17663ddc7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-51-2025",
+   "path": "local/mehedinti/hinova/2025/51",
+   "short": "HCL Hinova nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 51/2025 privind alegerea presedintelui de sedinta NR. HCL nr.51/22.10.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.51_din_22.10.2025_privind_alegerea_presedintelui_de_sedinta.pdf",
+     "sha256": "582aa30925f69c77d3d72b659c7585490d4b6dcd51d94bcb287a9cbfe8365855"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-52-2025",
+   "path": "local/mehedinti/hinova/2025/52",
+   "short": "HCL Hinova nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 52/2025 privind salubrizarea NR. HCL nr.52/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.52_din_26.11.2025_privind_salubrizarea.pdf",
+     "sha256": "bbbeb60820fb15047edff633f95f4b64295ce5974f1b3d259815692919ad1ad2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-53-2025",
+   "path": "local/mehedinti/hinova/2025/53",
+   "short": "HCL Hinova nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 53/2025 privind reorganizarea retelei scolare NR. HCL nr. 53/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.53_din_26.11.2025_privind_reorganizarea_retelei_scolare_2026-2027.pdf",
+     "sha256": "f7f7267eb487b4a5526fa7d6669af871c5e932f1d30bad8c678b78d017b08452"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-54-2025",
+   "path": "local/mehedinti/hinova/2025/54",
+   "short": "HCL Hinova nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 54/2025 privind aprobarea Strategiei locale 2021-2027 NR. HCL nr.54/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.54_din_26.11.2025_privind_aprobarea_Strategiei_locale_2021-2027_.pdf",
+     "sha256": "230c4fdc95f1bca3eb39af237edcbf3bc980fb16aa78da5c58c67b54c91afc6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-55-2025",
+   "path": "local/mehedinti/hinova/2025/55",
+   "short": "HCL Hinova nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 55/2025 privind aprobarea acordarii unor pachete de Craciun NR. HCL nr.55/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.55_din_26.11.2025_privind_aprobarea_acordarii_unor_pachete_de_Craciun.pdf",
+     "sha256": "178eebf69cf0d75b4850e779bf4780bf0d769753e1d01c2b53e7b061746a3097"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-56-2025",
+   "path": "local/mehedinti/hinova/2025/56",
+   "short": "HCL Hinova nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 56/2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.56_din_26.11.2025-actualizare_deviz_MODERNIZARE_DRUMURI_SATESTI_I_H7oCKnM.pdf",
+     "sha256": "e2d61e144ea10df8e036dd1981a2c26cc88817e8b9dd7ce806c6a6ef5ec425ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-57-2025",
+   "path": "local/mehedinti/hinova/2025/57",
+   "short": "HCL Hinova nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 57/2025 privind acordare ajutor deces VMI NR. HCL nr.57/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.57_din_26.11.2025_privind_acordare_ajutor_deces_VMI.pdf",
+     "sha256": "a982dc9efef181ef5d9dc0b443bc6337c7f880e7e1f3736f51f0e0900705f128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-58-2025",
+   "path": "local/mehedinti/hinova/2025/58",
+   "short": "HCL Hinova nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 58/2025 privind rectificarea bugetului 2025 NR. HCL nr.58/26.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.58_din_26.11.2025_privind_rectificarea_bugetului_2025.pdf",
+     "sha256": "7c458cd2131327ad471bd9e88dbc7832714678b9b466f41b911e1731ee531e92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-59-2025",
+   "path": "local/mehedinti/hinova/2025/59",
+   "short": "HCL Hinova nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 59/2025 privind investitia Valorificarea durabila a patrimoniului cultural NR. HCL NR.59/28.11.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._59_din_28.11.2025.pdf",
+     "sha256": "17626ebb2f0a7f5ab5001538adda2bd0265d95ffeee232a7d5d952571952f7a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-60-2025",
+   "path": "local/mehedinti/hinova/2025/60",
+   "short": "HCL Hinova nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 60/2025 privind rectificarea bugetului local 2025 NR. HCL nr.60/10.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.60_din_10.12.2025_privind_rectificarea_bugetului_local_2025.pdf",
+     "sha256": "672bc3e2e1fe0e570880088af8981f95aa89d1067c28b7e6239e80a381d44767"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-61-2025",
+   "path": "local/mehedinti/hinova/2025/61",
+   "short": "HCL Hinova nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 61/2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._61_din_10.12.2025.pdf",
+     "sha256": "d08bd0d125d80303cba867da7f0e9c7b24a209befdb251dc2b953c7651ea8d2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-62-2025",
+   "path": "local/mehedinti/hinova/2025/62",
+   "short": "HCL Hinova nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 62/2025 privind aderarea la OMD MH NR. HCL nr.62/10.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr._62_din_10.12.2025_privind_aderarea_la_OMD_MH.pdf",
+     "sha256": "b1dec4f909ec28ccc8c934fc5bd4322cd7b047ac5244ca77a117d9051e1bbe54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-63-2025",
+   "path": "local/mehedinti/hinova/2025/63",
+   "short": "HCL Hinova nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 63/2025 privind Sistem video in Comuna Hinova NR. HCL nr.63/15.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.63_din_15.12.2025_privind_aporb._cererii_de_finantare_Sistem_vide_f6RA2V1.pdf",
+     "sha256": "93b3d1a4d20eea16f2c489b15db23ef3df7209dffefa8bd8101a13abbfa74727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-64-2025",
+   "path": "local/mehedinti/hinova/2025/64",
+   "short": "HCL Hinova nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 64/2025 privind Planul de actiuni sau de lucrari 2026 pentru beneficiarii VMI si Legea 272/2003 NR. 64/23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_64_din_23.12.2025_privind_aprobarea_Planului_de_actiuni_si_lucrari_2_AL2iCR5.pdf",
+     "sha256": "1aecb4913b015843db381130a8f21a92e78526175edcaa1c3fa7313b46505356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-65-2025",
+   "path": "local/mehedinti/hinova/2025/65",
+   "short": "HCL Hinova nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 65/2025 privind planul local de actiuni in domeniul sericiilor sociale NR. HCL nr.65 din 23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.65_din_23.12.2025_privind_planul_local_de_actiuni_in_domeniul_ser_zT3ysDy.pdf",
+     "sha256": "370746ddb739abdb29b11d103094ca265a6dcdb88bbaa65b24d6d2387335490f"
     }
    ]
   },
@@ -33,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--hinova-67-2025",
+   "path": "local/mehedinti/hinova/2025/67",
+   "short": "HCL Hinova nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 67/2025 privind reoganizarea retelei scolare 2026-2027 NR. HCL NR.67/23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.67_din_23.12.2025_privind_reoganizarea_retelei_scolare_2026-2027.pdf",
+     "sha256": "f3219293373f8de5ab956699a4720a27bb223b9505822138b048b8c068884e65"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--hinova-68-2025",
    "path": "local/mehedinti/hinova/2025/68",
    "short": "HCL Hinova nr. 68/2025",
@@ -44,6 +494,51 @@
      "units": 1,
      "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_68_din_23.12.2025_privind_impozitele_si_taxele_locale_pe_anul_2026.pdf",
      "sha256": "65329b53fdd71a333dd35c2b1b705f369f9367baf3656b91e58b076d3142b365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-69-2025",
+   "path": "local/mehedinti/hinova/2025/69",
+   "short": "HCL Hinova nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 69/2025 privind planul anual de achizitii publice 2026 NR. HCL nr.69 din 23.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.69_din_23.12.2025_privind_planul_anual_de_achizitii_publice_2026.pdf",
+     "sha256": "0c367bd194ca95f089172437884ab05f2d16c52ccbb16aa251dee91e4f6f9ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-70-2025",
+   "path": "local/mehedinti/hinova/2025/70",
+   "short": "HCL Hinova nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 70/2025 privind pr",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.70_din_23.12.2025_privind_pr._Construire_teren_sport_multifunctio_A14jhbc.pdf",
+     "sha256": "f903f0e758c6334fc131d155ef19c122fb58dde25d3f5dab764b09ad664aa900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--hinova-71-2025",
+   "path": "local/mehedinti/hinova/2025/71",
+   "short": "HCL Hinova nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Hinova nr. 71/2025 privind organigrama si statul de functii NR. HCL nr.71 din 31.12.2025",
+   "url": "https://comunahinova.ro/monitorOficial/Hotararile%20autoritatii%20deliberative/",
+   "versions": [
+    {
+     "from": "2025-12-31",
+     "units": 1,
+     "source_url": "https://comunahinova.ro/media/monitor_oficial/HCL_nr.71_din_31.12.2025_privind_organigrama_si_statul_de_functii.pdf",
+     "sha256": "c095c4a767440432897b68b0e28db58c86962ada06cf0290e276e1ff5e76ecb8"
     }
    ]
   }

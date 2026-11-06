@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-49-2024",
+   "path": "local/maramures/miresu-mare/2024/49",
+   "short": "HCL Mireșu Mare nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 49/2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/176309",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/176309",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-50-2024",
    "path": "local/maramures/miresu-mare/2024/50",
    "short": "HCL Mireșu Mare nr. 50/2024",
@@ -268,6 +283,21 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/181931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-67-2024",
+   "path": "local/maramures/miresu-mare/2024/67",
+   "short": "HCL Mireșu Mare nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 67/2024 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 01.02.2025 - 30.04.2025",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/183014",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/183014",
      "sha256": null
     }
    ]

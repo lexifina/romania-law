@@ -18,6 +18,126 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sapanta-72-2025",
+   "path": "local/maramures/sapanta/2025/72",
+   "short": "HCL Săpânța nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 72/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-72-din-data-de-31.07.2025.pdf",
+     "sha256": "9a9fa9dc374b8679491652702cde2b595d3a6777ff86c3307bcf1be93d9c321a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-73-2025",
+   "path": "local/maramures/sapanta/2025/73",
+   "short": "HCL Săpânța nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 73/2025 privind rectificare de buget local pentru anul 2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-73-din-data-de-31.07.2025-privind-rectificare-de-buget-local-pentru-anul-2025.pdf",
+     "sha256": "1c26a2f43a8a03cd292e43c48980da8e553fbec7c4c9f4a90104b677ab4eeeab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-74-2025",
+   "path": "local/maramures/sapanta/2025/74",
+   "short": "HCL Săpânța nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 74/2025 privind aprobarea organizării și desfășurării anuale ale festivalului tradițional al Comunei Săpânța",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-74-din-data-de-31.07.2025-privind-aprobarea-organizarii-si-desfasurarii-anuale-ale-festivalului-traditional-al-Comunei-Sapanta.pdf",
+     "sha256": "2effa6c81b313200524bb49b2fbadf457ee340189291c61b3129f4fdd4ad140a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-75-2025",
+   "path": "local/maramures/sapanta/2025/75",
+   "short": "HCL Săpânța nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 75/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-75-din-data-de-29.08.2025.pdf",
+     "sha256": "bff3f55db368ed4062c2d406af4213cf28f6b8a7061200333e898d96c000c599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-76-2025",
+   "path": "local/maramures/sapanta/2025/76",
+   "short": "HCL Săpânța nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 76/2025 privind aprobarea incheierii contractelor de salubrizare",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-76-din-data-de-29.08.2025-privind-aprobarea-incheierii-contractelor-de-salubrizare.pdf",
+     "sha256": "4710a7c116579e81e555b0e74aa27094796bd3e8901b3650f8326c63f64ffba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-77-2025",
+   "path": "local/maramures/sapanta/2025/77",
+   "short": "HCL Săpânța nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 77/2025 privind scoaterea din fondul forestier a suprafețelor de tern situate de la cariera de piatră”Podul Tufelor”de către Comuna Săpânța",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-77-din-data-de-29.08.2025-privind-scoaterea-din-fondul-forestier-a-suprafetelor-de-tern-situate-de-la-cariera-de-piatraPodul-Tufelorde-catre-Comuna-Sapanta.pdf",
+     "sha256": "8f7002110c0c63ea018b3b26a2db5c59aaaa5cc65fb3800ebdfe832af23c795a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-79-2025",
+   "path": "local/maramures/sapanta/2025/79",
+   "short": "HCL Săpânța nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 79/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-79-din-data-de-03.10.2025.pdf",
+     "sha256": "6790e232764b6fd9f0da77e20f288fafc0a4d947a64744ca25f9d2a7b32acdd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-80-2025",
+   "path": "local/maramures/sapanta/2025/80",
+   "short": "HCL Săpânța nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 80/2025 privind modificarea Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului Comunei Săpânța,jud. Maramureș",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-80-din-data-de-03.10.2025-privind-modificarea-Organigramei-si-a-Statului-de-functii-ale-aparatului-de-specialitate-al-Primarului-Comunei-Sapantajud.-Maramures.pdf",
+     "sha256": "bf6d54277cf70e191aff05b22090abee060a84c617714a78d463c06a588117f6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sapanta-81-2025",
    "path": "local/maramures/sapanta/2025/81",
    "short": "HCL Săpânța nr. 81/2025",
@@ -33,6 +153,171 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sapanta-82-2025",
+   "path": "local/maramures/sapanta/2025/82",
+   "short": "HCL Săpânța nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 82/2025 privind numirea unui reprezentant din cadrul Consiliului Local al Comunei Săpânța în Consiliul de Administrație al Școlii",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-82-din-data-de-03.10.2025-privind-numirea-unui-reprezentant-din-cadrul-Consiliului-Local-al-Comunei-Sapanta-in-Consiliul-de-Administratie-al-Scolii.pdf",
+     "sha256": "2c22a5f6ef4c81d21258f7c87f5b9f6d486c5a72df9152191cdd3eb8d663dd4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-83-2025",
+   "path": "local/maramures/sapanta/2025/83",
+   "short": "HCL Săpânța nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 83/2025 privind aprobarea contractării unui împrumut financiar în valoare de 2.600.000 lei de la RoCredit IFN S.A.-Sucursala Sighetu Marmației",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-83-din-data-de-10.10.2025-privind-aprobarea-contractarii-unui-imprumut-financiar-in-valoare-de-2.600.000-lei-de-la-RoCredit-IFN-S.A.-Sucursala-Sighetu-Marmatiei.pdf",
+     "sha256": "f800a620daebf78e680a85988bc77f5ffdc49d16bba1872eaf267aa0f4fe00d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-84-2025",
+   "path": "local/maramures/sapanta/2025/84",
+   "short": "HCL Săpânța nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 84/2025 privind rectificare buget local pentru anul 2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-84-din-data-de-10.10.2025-privind-rectificare-buget-local-pentru-anul-2025.pdf",
+     "sha256": "926baa5ff197c8083ac8942275051965fb5992e496146f6e64131f668fe8d722"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-85-2025",
+   "path": "local/maramures/sapanta/2025/85",
+   "short": "HCL Săpânța nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 85/2025 privind aprobarea rectificării bugetului de venituri și cheltuieli al comunei Săpânța, pe anul 2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-85-din-data-de-10.10.2025-privind-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-al-comunei-Sapanta-pe-anul-2025.pdf",
+     "sha256": "655a12519194ed20f93147b1eafe803add6fb8454eceec7b5d468ee621f58c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-87-2025",
+   "path": "local/maramures/sapanta/2025/87",
+   "short": "HCL Săpânța nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 87/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-87-din-data-de-03.11.2025.pdf",
+     "sha256": "8104a77c0937b7ebd96d4703d2f5bda0433aa9eca97654bf8f1129257f9b6b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-88-2025",
+   "path": "local/maramures/sapanta/2025/88",
+   "short": "HCL Săpânța nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 88/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-88-din-data-de-03.11.2025.pdf",
+     "sha256": "8875caa05a2a4aa56f87e81b13a9a4081ad26f2f76c31a1b1055200c22c33052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-89-2025",
+   "path": "local/maramures/sapanta/2025/89",
+   "short": "HCL Săpânța nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 89/2025 privind acordarea ajutoarelor umanitare de urgență în vederea construiri refacerii locuinței afectate de o situație de necesitate deosebită",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-03",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-89-din-data-de-03.11.2025-privind-acordarea-ajutoarelor-umanitare-de-urgenta-in-vederea-construiri-refacerii-locuintei-afectate-de-o-situatie-de-necesitate-deosebita.pdf",
+     "sha256": "4baf71e64de8dfd4dba9d252dfd72c9b65313d657bf3ee28e04adeff17bbc559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-90-2025",
+   "path": "local/maramures/sapanta/2025/90",
+   "short": "HCL Săpânța nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 90/2025 privind solicitarea prelungirii scrisorii de garanție de la FNGCIMM SA IFN",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-90-din-data-de-20.11.2025-privind-solicitarea-prelungirii-scrisorii-de-garantie-de-la-FNGCIMM-SA-IFN.pdf",
+     "sha256": "1c3dcebac231787a636c703c7fc0b09bfc9ea8526663b1e36d13da13decdbba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-91-2025",
+   "path": "local/maramures/sapanta/2025/91",
+   "short": "HCL Săpânța nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 91/2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-91-din-data-de-10.12.2025.pdf",
+     "sha256": "3757f62474476b8dac686172214cf2d9e43a1555ba0f717dd11271399cdd8d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-92-2025",
+   "path": "local/maramures/sapanta/2025/92",
+   "short": "HCL Săpânța nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 92/2025 privind rectificare de buget local pentru anul 2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-92-din-data-de-10.12.2025-privind-rectificare-de-buget-local-pentru-anul-2025.pdf",
+     "sha256": "4145244b31ab05a8c2f48a6257b3cd7ba0d6dc80ce59ad8fe2cc785922dc89e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-93-2025",
+   "path": "local/maramures/sapanta/2025/93",
+   "short": "HCL Săpânța nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 93/2025 privind aprobarea Rețelei Școlare a unităților de învățământ din cadrul comunei Săpânța pentru anul școlar 2026-2027",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-10",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-93-din-data-de-10.12.2025-privind-aprobarea-Retelei-Scolare-a-unitatilor-de-invatamant-din-cadrul-comunei-Sapanta-pentru-anul-scolar-2026-2027.pdf",
+     "sha256": "f88ac67d3bc0130f79c398c92afbce1dd023c2f2bf2fd7af418378c2f5b0fb6c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sapanta-94-2025",
    "path": "local/maramures/sapanta/2025/94",
    "short": "HCL Săpânța nr. 94/2025",
@@ -44,6 +329,21 @@
      "units": 1,
      "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-94-din-data-de-22.12.2025-privind-stabilirea-impozitelor-si-taxelor-localeprecum-si-a-taxelor-speciale-pe-anul-2026.pdf",
      "sha256": "34a839fdacbd9090ae6625d447726b8255533dfe23cb830089495a1b2b935f3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sapanta-95-2025",
+   "path": "local/maramures/sapanta/2025/95",
+   "short": "HCL Săpânța nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săpânța nr. 95/2025 privind rectificare de buget local pentru anul 2025",
+   "url": "https://primariacomuneisapanta.ro/monitorul-oficial/hotarari-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariacomuneisapanta.ro/wp-content/uploads/2026/03/Hotararea-nr.-95-din-data-de-22.12.2025-privind-rectificare-de-buget-local-pentru-anul-2025.pdf",
+     "sha256": "e8b28e645ca98b541d952f4990c5de81a56b42b640fba89ff3f3b459473afad0"
     }
    ]
   }

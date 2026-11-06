@@ -69,6 +69,51 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-29-2026",
+"path": "local/maramures/giulesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 29/2026",
+"short": "HCL Giulești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/275764",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-30-2026",
+"path": "local/maramures/giulesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 30/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni - august - octombrie 2026",
+"short": "HCL Giulești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/281635",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-31-2026",
 "path": "local/maramures/giulesti/2026/31",
 "kind": "local",
@@ -201,6 +246,28 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-37-2026",
+"path": "local/maramures/giulesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 37/2026 privind organizarea verificărilor în teren asupra modului de utilizare a apei din sistemul public și stabilirea responsabilităților personalului desemnat, cu respectarea competențelor legale privind constatarea și sancționarea contravențiilor",
+"short": "HCL Giulești nr. 37/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-28",
+"latest": "2026-08-28",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/283968",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-38-2026",
 "path": "local/maramures/giulesti/2026/38",
 "kind": "local",
@@ -267,6 +334,29 @@
 }
 },
 {
+"slug": "hcl-maramures--giulesti-41-2026",
+"path": "local/maramures/giulesti/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 41/2026",
+"short": "HCL Giulești nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/289242",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--giulesti-42-2026",
 "path": "local/maramures/giulesti/2026/42",
 "kind": "local",
@@ -286,6 +376,51 @@
 "council_name": "Consiliul Local al Comunei Giulești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-43-2026",
+"path": "local/maramures/giulesti/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 43/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni - noiembrie 2026 - ianuarie 2027",
+"short": "HCL Giulești nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/297335",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--giulesti-44-2026",
+"path": "local/maramures/giulesti/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Giulești nr. 44/2026",
+"short": "HCL Giulești nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-02",
+"latest": "2026-11-02",
+"portal": "https://emol.ro/giulesti-mm/registru-hcl/297336",
+"council": "maramures/giulesti",
+"council_name": "Consiliul Local al Comunei Giulești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

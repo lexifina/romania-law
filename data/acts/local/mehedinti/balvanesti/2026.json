@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-16-2026",
+"path": "local/mehedinti/balvanesti/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 16/2026 privind aprobarea reorganizării aparatului de specialitate al Primarului comunei Bâlvănești, județul Mehedinți, a Organigramei și a Statului de funcții",
+"short": "HCL Bâlvănești nr. 16/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-30",
+"latest": "2026-06-30",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/276720",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-17-2026",
 "path": "local/mehedinti/balvanesti/2026/17",
 "kind": "local",
@@ -136,6 +158,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-21-2026",
+"path": "local/mehedinti/balvanesti/2026/21",
+"kind": "local",
+"year": "2026",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 21/2026 privind aprobarea indicatorilor tehnico-economici,a devizului general și demararea lucrărilor pentru obiectivul de investiții: „Întreținere și reparații drumuri, comuna Bâlvănești, județul Mehedinți”",
+"short": "HCL Bâlvănești nr. 21/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/283813",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-22-2026",
+"path": "local/mehedinti/balvanesti/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 22/2026 privind rectificarea bugetului local si utilizarea unei sume in anul 2026 din excedentul Bugetului local al comunei Balvanesti din anul 2025 si anii anteriori",
+"short": "HCL Bâlvănești nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/283814",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-23-2026",
 "path": "local/mehedinti/balvanesti/2026/23",
 "kind": "local",
@@ -177,6 +243,204 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-25-2026",
+"path": "local/mehedinti/balvanesti/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 25/2026 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Bâlvănești",
+"short": "HCL Bâlvănești nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/286098",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-26-2026",
+"path": "local/mehedinti/balvanesti/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 26/2026 privind desemnarea reprezentantului Consiliului Local al Comunei Bâlvănești in Consiliul de Administrație al Școlii Gimnaziale Bâlvănești, pentru anul scolar 2026-2027",
+"short": "HCL Bâlvănești nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-31",
+"latest": "2026-08-31",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/286099",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-27-2026",
+"path": "local/mehedinti/balvanesti/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 27/2026 privind respingerea plângerii prealabile formulată împotriva Hotărârilor Consiliului Local al comunei Bâlvănești nr. 21 și nr. 22 din 30.07.2026",
+"short": "HCL Bâlvănești nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-13",
+"latest": "2026-09-13",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/287363",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-28-2026",
+"path": "local/mehedinti/balvanesti/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 28/2026 privind aprobarea proiectului „Infiintare capacitate de producere a energiei electrice produsa din surse regenerabile pentru autoconsum in cadrul UAT BALVANESTI, JUDETUL MEHEDINTI”, a documentației tehnico-economice și a finanțării cheltuielilor neacoperite de ajutorul public nerambursabil",
+"short": "HCL Bâlvănești nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/291304",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-29-2026",
+"path": "local/mehedinti/balvanesti/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 29/2026 privind desemnarea reprezentantului titular și a membrului supleant ai Consiliului Local al comunei Bâlvănești în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile de învățământ preuniversitar de stat",
+"short": "HCL Bâlvănești nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/291305",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-30-2026",
+"path": "local/mehedinti/balvanesti/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 30/2026 privind desemnarea unui reprezentant al Consiliului Local in Comisia pentru Evaluarea si Asigurarea Calității din cadrul Școlii Gimnaziale Bâlvănești",
+"short": "HCL Bâlvănești nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/295859",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-31-2026",
+"path": "local/mehedinti/balvanesti/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 31/2026 privind alegerea președintelui de ședință a Consiliul Local Bâlvănești, județul Mehedinți pentru perioada noiembrie 2026- ianuarie 2027",
+"short": "HCL Bâlvănești nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/295860",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-32-2026",
+"path": "local/mehedinti/balvanesti/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 32/2026 de validare a Dispozitiei nr.98 din 19.10.2026 privind rectificarea bugetului local al comunei Balvanesti pe anul 2026",
+"short": "HCL Bâlvănești nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/295861",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-33-2026",
+"path": "local/mehedinti/balvanesti/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 33/2026 privind revocarea HCL nr.22 din 30.07.2026 si aprobarea rectificarii bugetului local cu utilizarea unei sume in anul 2026",
+"short": "HCL Bâlvănești nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/295862",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

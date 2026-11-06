@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--baia-de-arama-47-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/47",
+   "short": "HCL Baia de Aramă nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 47/2022 privind desemnarea reprezentanților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Colegiului Tehnologic ,,Constantin Brâncoveanu” pentru anul 2022 - 2023",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/74144",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/74144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-48-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/48",
+   "short": "HCL Baia de Aramă nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 48/2022 privind desemnarea reprezentantului Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Grădiniței cu Program Normal ,,Tabor” pentru anul 2022 - 2023",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/74145",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/74145",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-49-2022",
    "path": "local/mehedinti/baia-de-arama/2022/49",
    "short": "HCL Baia de Aramă nr. 49/2022",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--baia-de-arama-54-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/54",
+   "short": "HCL Baia de Aramă nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 54/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/77893",
+   "versions": [
+    {
+     "from": "2022-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/77893",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-55-2022",
    "path": "local/mehedinti/baia-de-arama/2022/55",
    "short": "HCL Baia de Aramă nr. 55/2022",
@@ -133,6 +178,21 @@
      "from": "2022-11-13",
      "units": 1,
      "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/77896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-58-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/58",
+   "short": "HCL Baia de Aramă nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 58/2022 privind anularea procedurii de concesionare prin licitație publică a pajiștilor proprietatea publică a orașului Baia de Aramă, județul Mehedinți",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/79273",
+   "versions": [
+    {
+     "from": "2022-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/79273",
      "sha256": null
     }
    ]
@@ -303,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--baia-de-arama-70-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/70",
+   "short": "HCL Baia de Aramă nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 70/2022",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/84835",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/84835",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--baia-de-arama-71-2022",
    "path": "local/mehedinti/baia-de-arama/2022/71",
    "short": "HCL Baia de Aramă nr. 71/2022",
@@ -313,6 +388,21 @@
      "from": "2023-01-20",
      "units": 1,
      "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/84836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--baia-de-arama-72-2022",
+   "path": "local/mehedinti/baia-de-arama/2022/72",
+   "short": "HCL Baia de Aramă nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Baia de Aramă nr. 72/2022 pentru modificarea HCL nr. 7/II/27.11.2020 privind desemnarea reprezentaților Consiliului Local al orașului Baia de Aramă în Consiliul de Administrație al Spitalului Orășenesc Baia de Aramă",
+   "url": "https://emol.ro/baiadearama-mh/registru-hcl/84837",
+   "versions": [
+    {
+     "from": "2023-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/baiadearama-mh/registru-hcl/84837",
      "sha256": null
     }
    ]

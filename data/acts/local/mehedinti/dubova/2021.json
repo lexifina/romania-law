@@ -158,6 +158,51 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-106-2021",
+"path": "local/mehedinti/dubova/2021/106",
+"kind": "local",
+"year": "2021",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 106/2021",
+"short": "HCL Dubova nr. 106/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/43075",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-107-2021",
+"path": "local/mehedinti/dubova/2021/107",
+"kind": "local",
+"year": "2021",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 107/2021 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 263 m.p. cu NC 52863 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 107/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/43076",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-108-2021",
 "path": "local/mehedinti/dubova/2021/108",
 "kind": "local",
@@ -180,6 +225,51 @@
 }
 },
 {
+"slug": "hcl-mehedinti--dubova-109-2021",
+"path": "local/mehedinti/dubova/2021/109",
+"kind": "local",
+"year": "2021",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 109/2021 privind aprobarea vanzarii cu drept de preemptiune SC N&C Consulting SRL a terenului de 1411 m.p. cu NC 52923 Comuna Dubova, sat Dubova, domeniul privat al Comunei Dubova",
+"short": "HCL Dubova nr. 109/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/43078",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-110-2021",
+"path": "local/mehedinti/dubova/2021/110",
+"kind": "local",
+"year": "2021",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 110/2021",
+"short": "HCL Dubova nr. 110/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/43079",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--dubova-111-2021",
 "path": "local/mehedinti/dubova/2021/111",
 "kind": "local",
@@ -199,6 +289,28 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-112-2021",
+"path": "local/mehedinti/dubova/2021/112",
+"kind": "local",
+"year": "2021",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 112/2021 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 74 m.p. cu NC 50921 Comuna DUBOVA, sat Dubova",
+"short": "HCL Dubova nr. 112/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-08",
+"latest": "2021-12-08",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/43538",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +378,50 @@
 "council_name": "Consiliul Local al Comunei Dubova",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-116-2021",
+"path": "local/mehedinti/dubova/2021/116",
+"kind": "local",
+"year": "2021",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 116/2021 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 90 m.p. cu NC 52927 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 116/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-18",
+"latest": "2021-12-18",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/45305",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--dubova-117-2021",
+"path": "local/mehedinti/dubova/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dubova nr. 117/2021 privind aprobarea vânzarii prin licitatie publica deschisă a terenului de 126 m.p. cu NC 52904 Comuna DUBOVA, sat Dubova, domeniul privat al Comunei Dubova, intravilan",
+"short": "HCL Dubova nr. 117/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-18",
+"latest": "2021-12-18",
+"portal": "https://emol.ro/dubova-mh/registru-hcl/45306",
+"council": "mehedinti/dubova",
+"council_name": "Consiliul Local al Comunei Dubova",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

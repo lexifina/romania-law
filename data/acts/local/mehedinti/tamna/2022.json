@@ -25,6 +25,51 @@
 }
 },
 {
+"slug": "hcl-mehedinti--tamna-18-2022",
+"path": "local/mehedinti/tamna/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 18/2022 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Tâmna nr. 18/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-01",
+"latest": "2022-08-01",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/65039",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-19-2022",
+"path": "local/mehedinti/tamna/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 19/2022",
+"short": "HCL Tâmna nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-01",
+"latest": "2022-08-01",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/65040",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-20-2022",
 "path": "local/mehedinti/tamna/2022/20",
 "kind": "local",
@@ -88,6 +133,73 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-23-2022",
+"path": "local/mehedinti/tamna/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 23/2022 privind aprobarea realizarii de principiu unor lucrări de reabilitare și amenajarea clădirii în care a funcționat fosta Școală Generală I-IV din satul Boceni, comuna Tâmna, județul Mehedinți, precum și schimbarea destinației prin transformarea acesteia în Cămin Cultural",
+"short": "HCL Tâmna nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/70244",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-24-2022",
+"path": "local/mehedinti/tamna/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 24/2022",
+"short": "HCL Tâmna nr. 24/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-05",
+"latest": "2022-09-05",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/70245",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-25-2022",
+"path": "local/mehedinti/tamna/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 25/2022 privind alegerea preşedintelui de şedinţă pentru şedinţele",
+"short": "HCL Tâmna nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/73240",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -220,6 +332,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-32-2022",
+"path": "local/mehedinti/tamna/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 32/2022 privind alegerea preşedintelui de şedinţă pentru şedinţele",
+"short": "HCL Tâmna nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-11",
+"latest": "2023-01-11",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/84662",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

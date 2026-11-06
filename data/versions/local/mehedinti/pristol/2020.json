@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/pristol/2020",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--pristol-47-2020",
+   "path": "local/mehedinti/pristol/2020/47",
+   "short": "HCL Pristol nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 47/2020",
+   "url": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2021/02/HCL-nr.-47-din-14.12.2020.pdf",
+     "sha256": "1d2681e000976704c5cf479ef6f99b6ae5aeb3089510af519d946120ad6289f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--pristol-48-2020",
+   "path": "local/mehedinti/pristol/2020/48",
+   "short": "HCL Pristol nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 48/2020",
+   "url": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2021/02/HCL-nr.-48-din-14.12.2020.pdf",
+     "sha256": "07c3d23e5d06887ede061c8156cfac3d09b4de30b0c6e48eb8f4a5d8f9363754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--pristol-49-2020",
+   "path": "local/mehedinti/pristol/2020/49",
+   "short": "HCL Pristol nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 49/2020",
+   "url": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2021/02/HCL-nr.-49-din-21.12.2020.pdf",
+     "sha256": "60e9fc05b42e50417bc8b7307b60a3a09a660d5644832c068711397f51291acd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--pristol-50-2020",
+   "path": "local/mehedinti/pristol/2020/50",
+   "short": "HCL Pristol nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 50/2020",
+   "url": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2021/02/HCL-nr.-50-din-22.12.2020.pdf",
+     "sha256": "e5486c116afe25d4db77f0db8de2912b57e45c97ff5d05df94ed51f2db0fea9b"
+    }
+   ]
+  }
+ ]
+}

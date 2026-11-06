@@ -3,6 +3,96 @@
  "shard": "local/maramures/farcasa/2020",
  "acts": [
   {
+   "slug": "hcl-maramures--farcasa-40-2020",
+   "path": "local/maramures/farcasa/2020/40",
+   "short": "HCL Fărcașa nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 40/2020 privind alocarea unor compensaţii băneşti pentru membrii Serviciului voluntar pentru situaţii de urgenţă Fărcaşa pentru participarea la intervenții",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10610",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-41-2020",
+   "path": "local/maramures/farcasa/2020/41",
+   "short": "HCL Fărcașa nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 41/2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10611",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-42-2020",
+   "path": "local/maramures/farcasa/2020/42",
+   "short": "HCL Fărcașa nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 42/2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10612",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-43-2020",
+   "path": "local/maramures/farcasa/2020/43",
+   "short": "HCL Fărcașa nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 43/2020 privind achiziționarea serviciilor juridice de reprezentare a Consiliului local al comunei Fărcașa și a Comunei Fărcașa în dosarul nr. 1304/100/2020, precum și pentru exercitarea tuturor căilor de atac împotriva Încheierii Oficiului de cadastru și publicitate imobiliară—Biroul de cadastru și publicitate imobiliară Baia Mare nr. 40610/2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10613",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-44-2020",
+   "path": "local/maramures/farcasa/2020/44",
+   "short": "HCL Fărcașa nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 44/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10614",
+   "versions": [
+    {
+     "from": "2020-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-45-2020",
+   "path": "local/maramures/farcasa/2020/45",
+   "short": "HCL Fărcașa nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 45/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10617",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-46-2020",
    "path": "local/maramures/farcasa/2020/46",
    "short": "HCL Fărcașa nr. 46/2020",
@@ -13,6 +103,156 @@
      "from": "2020-10-16",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-47-2020",
+   "path": "local/maramures/farcasa/2020/47",
+   "short": "HCL Fărcașa nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 47/2020 privind necesitatea accesări și implementării unui proiect în cadrul Programului Operațional Competitivitate, Axa prioritară 2-Tehnologia Informației și Comunicațiilor (TIC) pentru o economie digital competitivă, Prioritatea de investiții 2c-Consolidarea aplicațiilor TIC pentru e-guvernare, e-învățare, e-incluziune, e-cultură, e-sănătate, Acțiunea 2.3.3-Îmbunătățirea conținutului digital și a infrastructurii TIC sistemice în domeniul e-guvernare, e-învățare, e-incluziune, e-cultură, e-sănătate-Secțiunea E-Educație",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10619",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-48-2020",
+   "path": "local/maramures/farcasa/2020/48",
+   "short": "HCL Fărcașa nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 48/2020 privind stabilirea structurii pe specialități a membrilor Comisiei sociale de analiză a solicitărilor pentru atribuirea unei locuințe pentru tineri prin ANL",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/10620",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/10620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-49-2020",
+   "path": "local/maramures/farcasa/2020/49",
+   "short": "HCL Fărcașa nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 49/2020 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14423",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-50-2020",
+   "path": "local/maramures/farcasa/2020/50",
+   "short": "HCL Fărcașa nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 50/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14424",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-51-2020",
+   "path": "local/maramures/farcasa/2020/51",
+   "short": "HCL Fărcașa nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 51/2020 privind alegerea viceprimarului comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14425",
+   "versions": [
+    {
+     "from": "2020-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-52-2020",
+   "path": "local/maramures/farcasa/2020/52",
+   "short": "HCL Fărcașa nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 52/2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14435",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-53-2020",
+   "path": "local/maramures/farcasa/2020/53",
+   "short": "HCL Fărcașa nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 53/2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14436",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-54-2020",
+   "path": "local/maramures/farcasa/2020/54",
+   "short": "HCL Fărcașa nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 54/2020 privind modificarea componenței comisiei locale de ordine publică la nivelul comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14437",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-55-2020",
+   "path": "local/maramures/farcasa/2020/55",
+   "short": "HCL Fărcașa nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 55/2020 privind reducerea impozitului anual pe clădiri pentru clădirile nerezidențiale, ca urmare a efectelor epidemiei coronavirusului SARS-COV-2",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14438",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-56-2020",
+   "path": "local/maramures/farcasa/2020/56",
+   "short": "HCL Fărcașa nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 56/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14444",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14444",
      "sha256": null
     }
    ]
@@ -43,6 +283,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-59-2020",
+   "path": "local/maramures/farcasa/2020/59",
+   "short": "HCL Fărcașa nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 59/2020 privind aprobarea închirierii unui spațiu proprietate publică a comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/14447",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/14447",
      "sha256": null
     }
    ]

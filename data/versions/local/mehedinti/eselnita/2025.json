@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-101-2025",
+   "path": "local/mehedinti/eselnita/2025/101",
+   "short": "HCL Eșelnița nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 101/2025 privind acordarea mandatului special în Adunarea Generală a ADIS Mehedinți în vederea încetării parțiale a Contractului de delegare nr. 817/1180/11.12.2019",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/238907",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/238907",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-102-2025",
    "path": "local/mehedinti/eselnita/2025/102",
    "short": "HCL Eșelnița nr. 102/2025",
@@ -28,6 +43,66 @@
      "from": "2025-12-03",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/238909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-103-2025",
+   "path": "local/mehedinti/eselnita/2025/103",
+   "short": "HCL Eșelnița nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 103/2025",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/244450",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-104-2025",
+   "path": "local/mehedinti/eselnita/2025/104",
+   "short": "HCL Eșelnița nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 104/2025",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/244454",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-105-2025",
+   "path": "local/mehedinti/eselnita/2025/105",
+   "short": "HCL Eșelnița nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 105/2025",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/244456",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-106-2025",
+   "path": "local/mehedinti/eselnita/2025/106",
+   "short": "HCL Eșelnița nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 106/2025",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/244458",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244458",
      "sha256": null
     }
    ]
@@ -93,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-111-2025",
+   "path": "local/mehedinti/eselnita/2025/111",
+   "short": "HCL Eșelnița nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 111/2025 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2026-2027",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/244469",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244469",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-112-2025",
    "path": "local/mehedinti/eselnita/2025/112",
    "short": "HCL Eșelnița nr. 112/2025",
@@ -133,6 +223,36 @@
      "from": "2025-12-29",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/244487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-95-2025",
+   "path": "local/mehedinti/eselnita/2025/95",
+   "short": "HCL Eșelnița nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 95/2025",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/236217",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/236217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-96-2025",
+   "path": "local/mehedinti/eselnita/2025/96",
+   "short": "HCL Eșelnița nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 96/2025 privind aprobarea acordării de cadouri copiilor de la Grădinița Arlechino și Școala Gimnazială Eșelnița din comuna Eșelnița, cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/236218",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/236218",
      "sha256": null
     }
    ]

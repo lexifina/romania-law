@@ -3,6 +3,141 @@
  "shard": "local/mures/ibanesti/2024",
  "acts": [
   {
+   "slug": "hcl-mures--ibanesti-65-2024",
+   "path": "local/mures/ibanesti/2024/65",
+   "short": "HCL Ibănești nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 65/2024 privind aprobarea unui schimb de terenuri",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179564",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-66-2024",
+   "path": "local/mures/ibanesti/2024/66",
+   "short": "HCL Ibănești nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 66/2024 pentru ratificarea Dispoziţiei nr.198 din 07.10.2024 privind rectificarea bugetului local al comunei Ibăneşti pe anul 2024 emisă de primarul comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179565",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-67-2024",
+   "path": "local/mures/ibanesti/2024/67",
+   "short": "HCL Ibănești nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 67/2024 pentru ratificarea Dispoziţiei nr.215 din 28.10.2024 privind rectificarea bugetului local al comunei Ibăneşti pe anul 2024 emisă de primarul comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179566",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-68-2024",
+   "path": "local/mures/ibanesti/2024/68",
+   "short": "HCL Ibănești nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 68/2024 privind însuşirea şi aprobarea documentaţiei cadastrale de dezmembrare a unui imobil aparţinând domeniului public al Comunei Ibăneşti",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179567",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-69-2024",
+   "path": "local/mures/ibanesti/2024/69",
+   "short": "HCL Ibănești nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 69/2024 pentru aprobarea Regulamentului privind procedura de înregistrare, evidenţă şi radiere a vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ-teritorială a Comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179568",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-70-2024",
+   "path": "local/mures/ibanesti/2024/70",
+   "short": "HCL Ibănești nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 70/2024 Privind atestarea inventarului bunurilor care aparțin domeniului public al comunei Ibănești, județul Mureș",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179569",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-71-2024",
+   "path": "local/mures/ibanesti/2024/71",
+   "short": "HCL Ibănești nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 71/2024 privind aprobarea Regulamentului de Organizare și Funcționare al Serviciului Public Comunitar Local de Evidență a Persoanelor Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179570",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-72-2024",
+   "path": "local/mures/ibanesti/2024/72",
+   "short": "HCL Ibănești nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 72/2024 privind avizarea încheierii unui act adiţional la contractul de delegare a gestiunii activităților de sortare a deșeurilor reciclabile, compostare a biodeșeurilor și transfer a deșeurilor prin exploatarea Stației de Sortare, Compostare și Transfer Cristești din județul Mureș",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179571",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-73-2024",
+   "path": "local/mures/ibanesti/2024/73",
+   "short": "HCL Ibănești nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 73/2024 privind rectificarea bugetului local al comunei Ibănești pe anul 2024",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/179572",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/179572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--ibanesti-74-2024",
    "path": "local/mures/ibanesti/2024/74",
    "short": "HCL Ibănești nr. 74/2024",
@@ -33,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--ibanesti-76-2024",
+   "path": "local/mures/ibanesti/2024/76",
+   "short": "HCL Ibănești nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 76/2024 privind aprobarea structurii rețelei școlare a unităților de învățământ preuniversitar de pe raza Comunei Ibănești, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182681",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--ibanesti-77-2024",
    "path": "local/mures/ibanesti/2024/77",
    "short": "HCL Ibănești nr. 77/2024",
@@ -58,6 +208,96 @@
      "from": "2025-04-04",
      "units": 1,
      "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-79-2024",
+   "path": "local/mures/ibanesti/2024/79",
+   "short": "HCL Ibănești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 79/2024 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al Comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182684",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-80-2024",
+   "path": "local/mures/ibanesti/2024/80",
+   "short": "HCL Ibănești nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 80/2024 Privind constituirea pentru anul 2025 a fondului de accesibilizare a pădurilor aflate în proprietatea publică și privată a Comunei Ibănești şi în administrarea Direcției Silvice Mureș, prin Ocoalele Silvice Gurghiu și Fâncel, în procent de 1% din valoarea masei lemnoase vândute şi încasate, în condiţiile legii, provenite din produse principale şi accidentale I",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182685",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-81-2024",
+   "path": "local/mures/ibanesti/2024/81",
+   "short": "HCL Ibănești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 81/2024 privind rectificarea bugetului local al comunei Ibănești pe anul 2024",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182686",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-82-2024",
+   "path": "local/mures/ibanesti/2024/82",
+   "short": "HCL Ibănești nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 82/2024 privind valorificarea volumului unor partizi de masă lemnoasă pentru anul 2025",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182687",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-83-2024",
+   "path": "local/mures/ibanesti/2024/83",
+   "short": "HCL Ibănești nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 83/2024 privind aprobarea unor măsuri în vederea înscrierii definitive în Cartea Funciară a dreptului de proprietate asupra unui imobil (drum), însuşirea şi aprobarea documentaţiei cadastrale de dezmembrare a imobilului aparţinând domeniului public al Comunei Ibăneşti",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182688",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-84-2024",
+   "path": "local/mures/ibanesti/2024/84",
+   "short": "HCL Ibănești nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 84/2024",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/182689",
+   "versions": [
+    {
+     "from": "2025-04-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/182689",
      "sha256": null
     }
    ]

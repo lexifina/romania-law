@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/tautii-magheraus/2025",
+ "acts": [
+  {
+   "slug": "hcl-maramures--tautii-magheraus-48-2025",
+   "path": "local/maramures/tautii-magheraus/2025/48",
+   "short": "HCL Tăuții-Măgherăuș nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Tăuții-Măgherăuș nr. 48/2025 PRIVIND ACTUALIZAREA INDICATORILOR TEHNICO-ECONOMICI PENTRU OBIECTIVUL DE INVESTIȚII ”EXTINDEREA REȚELEI DE CANALIZARE MENAJERĂ ÎN LOCALITATEA BOZÂNTA MARE, ORAȘUL TĂUȚII MĂGHERĂUȘ” Vizualizează",
+   "url": "https://tautiimagheraus.ro/hotarari/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://tautiimagheraus.ro/wp-content/uploads/2026/04/HCL-48-actual-indicatori-Th-ec-extindere-canalizare-Bozanta-Mare.pdf",
+     "sha256": "6087911e241a1f19671f7f8f9f05fbcb381b16823a8ccade2fb036e3d35ac918"
+    }
+   ]
+  }
+ ]
+}

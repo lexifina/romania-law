@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-5-2026",
+"path": "local/mures/chiheru-de-jos/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 5/2026 privind implementarea proiectului „DOTAREA COMPARTIMENTULUI CULTURĂ și ADMINISTRATIV AL COMUNEI CHIHERU DE JOS, JUDEȚUL MUREȘ”",
+"short": "HCL Chiheru de Jos nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273285",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-6-2026",
 "path": "local/mures/chiheru-de-jos/2026/6",
 "kind": "local",
@@ -66,6 +88,94 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-7-2026",
+"path": "local/mures/chiheru-de-jos/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 7/2026 privind modificarea art.5 din HCL nr. 71 din 22.12.2025, privind însușirea Raportului de evaluare nr. 40/24.10.2025, întocmit de expert autorizat ANEVAR și stabilirea prețului de vânzare al terenului intravilan, având categoria de folosință curți contrucții. în suprafață de 16/757 mp situat în localitatea Câmpu Cetății, comuna Eremitu, proprietate privată a comunei Chiheru de Jos, evidențiat în CF. nr. 52256-Eremitu",
+"short": "HCL Chiheru de Jos nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273410",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-8-2026",
+"path": "local/mures/chiheru-de-jos/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 8/2026 privind modificarea art.5 din HCL nr.72 din 22.12.2025, privind însușirea Raportului de evaluare nr. 41/24.10.2025, întocmit de expert autorizat ANEVAR și stabilirea prețului de vânzare al terenului intravilan, având categoria de folosință curți construcții, în suprafață de 854 mp. situat în localitatea Câmpu Cetății, comuna Eremitu, proprietate privată a comunei Chiheru de Jos, evidențiat în CF. nr. 52255-Eremitu",
+"short": "HCL Chiheru de Jos nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273411",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-9-2026",
+"path": "local/mures/chiheru-de-jos/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 9/2026 privind modificarea art.5 din HCL nr. 73 din 22.12.2025, privind însușirea Raportului de evaluare nr. 42/24.10.2025, întocmit de expert autorizat ANEVAR și stabilirea prețului de vânzare al terenului intravilan curți construcții și fâneță în suprafață de 2,700 mp, situat în Câmpu Cetății, comuna Eremitu, proprietate privată a comunei Chiheru de Jos, evidențiat în CF. nr.52123 Eremitu",
+"short": "HCL Chiheru de Jos nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/273412",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-10-2026",
+"path": "local/mures/chiheru-de-jos/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 10/2026 privind aplicarea numărului maxim de posturi stabilit pentru UAT Comuna Chiheru de Jos, județul Mureș, conform OUG nr. 7/2026",
+"short": "HCL Chiheru de Jos nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277353",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-14-2026",
+"path": "local/mures/chiheru-de-jos/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 14/2026 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2026 pentru beneficiarii Legii nr. 196/2016, privind venitul minim de incluziune",
+"short": "HCL Chiheru de Jos nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277367",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-15-2026",
 "path": "local/mures/chiheru-de-jos/2026/15",
 "kind": "local",
@@ -179,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-17-2026",
+"path": "local/mures/chiheru-de-jos/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 17/2026 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277374",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-18-2026",
 "path": "local/mures/chiheru-de-jos/2026/18",
 "kind": "local",
@@ -220,6 +374,29 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-20-2026",
+"path": "local/mures/chiheru-de-jos/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 20/2026",
+"short": "HCL Chiheru de Jos nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/277396",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

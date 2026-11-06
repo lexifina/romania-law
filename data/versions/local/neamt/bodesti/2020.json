@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-56-2020",
+   "path": "local/neamt/bodesti/2020/56",
+   "short": "HCL Bodești nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 56/2020 privind alegerea președintelui de ședință care va conduce lucrările Consiliului Local al comunei Bodești în perioada noiembrie, decembrie 2020 și ianuarie 2021",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20396",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-57-2020",
+   "path": "local/neamt/bodesti/2020/57",
+   "short": "HCL Bodești nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 57/2020 privind alegerea viceprimarului comunei Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20397",
+   "versions": [
+    {
+     "from": "2020-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20397",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-58-2020",
    "path": "local/neamt/bodesti/2020/58",
    "short": "HCL Bodești nr. 58/2020",
@@ -153,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-61-2020",
+   "path": "local/neamt/bodesti/2020/61",
+   "short": "HCL Bodești nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 61/2020 privind desemnarea din partea Consiliului local Bodești a doi reprezentanți în Consiliul de administrație al Școlii Gimnaziale Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20401",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-62-2020",
+   "path": "local/neamt/bodesti/2020/62",
+   "short": "HCL Bodești nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 62/2020 privind desemnarea reprezentaților Consiliului Local în Comisia pentru evaluarea și asigurarea calității din cadrul Școlii Gimnaziale comuna Bodești",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20402",
+   "versions": [
+    {
+     "from": "2020-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-63-2020",
    "path": "local/neamt/bodesti/2020/63",
    "short": "HCL Bodești nr. 63/2020",
@@ -193,6 +253,21 @@
      "from": "2020-12-23",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-66-2020",
+   "path": "local/neamt/bodesti/2020/66",
+   "short": "HCL Bodești nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 66/2020 privind aprobarea rețelei școlare din comuna Bodești, județul Neamț pentru anul 2021-2022",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/20411",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/20411",
      "sha256": null
     }
    ]

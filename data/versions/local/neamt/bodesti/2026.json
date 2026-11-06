@@ -3,6 +3,36 @@
  "shard": "local/neamt/bodesti/2026",
  "acts": [
   {
+   "slug": "hcl-neamt--bodesti-45-2026",
+   "path": "local/neamt/bodesti/2026/45",
+   "short": "HCL Bodești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 45/2026 privind alegerea preşedintelui de şedinţă care va conduce lucrările Consiliului local al comunei Bodești în perioada august, septembrie și octombrie anul 2026",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/277342",
+   "versions": [
+    {
+     "from": "2026-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/277342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-46-2026",
+   "path": "local/neamt/bodesti/2026/46",
+   "short": "HCL Bodești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 46/2026 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții „Demolare corp C1 reconstruire Școală Generală cu clasele I-IV din sat Bodești, comuna Bodești, județul Neamt”, inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 626/2023 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/278459",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/278459",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-47-2026",
    "path": "local/neamt/bodesti/2026/47",
    "short": "HCL Bodești nr. 47/2026",
@@ -78,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-52-2026",
+   "path": "local/neamt/bodesti/2026/52",
+   "short": "HCL Bodești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 52/2026 privind aprobarea listei solicitanţilor care au acces și nu au acces la locuinţe pentru tineri destinate închirierii construite prin ANL",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/282329",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/282329",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-53-2026",
    "path": "local/neamt/bodesti/2026/53",
    "short": "HCL Bodești nr. 53/2026",
@@ -88,6 +133,21 @@
      "from": "2026-08-05",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/282330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-54-2026",
+   "path": "local/neamt/bodesti/2026/54",
+   "short": "HCL Bodești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 54/2026 privind acordarea unui mandat special in Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara “AQUA NEAMT” in vederea exercitarii votului",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/284552",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/284552",
      "sha256": null
     }
    ]
@@ -153,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-59-2026",
+   "path": "local/neamt/bodesti/2026/59",
+   "short": "HCL Bodești nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 59/2026 privind aprobarea neasumării responsabilităţii organizării si derulării procedurilor de atribuirea contractelor/acordurilor - cadru pentru achiziţia produselor si a contractelor/acordurilor - cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivel local, aferente Programului pentru Şcoli al României, în anul școlar 2026-2027, 2027-2028 și 2028-2029",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/289928",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/289928",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-60-2026",
    "path": "local/neamt/bodesti/2026/60",
    "short": "HCL Bodești nr. 60/2026",
@@ -163,6 +238,21 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/289934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-61-2026",
+   "path": "local/neamt/bodesti/2026/61",
+   "short": "HCL Bodești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 61/2026 privind desemnarea unui reprezentant și a unui membru supleant în comisia de evaluare a probei de interviu pentru concursul de ocupare a funcțiilor de director și director adjunct",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/289943",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/289943",
      "sha256": null
     }
    ]

@@ -3,6 +3,171 @@
  "shard": "local/mehedinti/malovat/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--malovat-42-2024",
+   "path": "local/mehedinti/malovat/2024/42",
+   "short": "HCL Malovăț nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 42/2024 privind mandatarea reprezentantului Unității Administrativ Teritoriale Malovăț în Adunarea Generală a Asociației de DEZVOLTARE INTERCOMUNITARĂ ,,ZONA METROPOLITANĂ DROBETA TURNU SEVERIN”, pentru a vota punctele de pe ordinea de zi a Adunării Generale a Asociației, din data de 31.10.20204",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/170606",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/170606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-43-2024",
+   "path": "local/mehedinti/malovat/2024/43",
+   "short": "HCL Malovăț nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 43/2024 privind achiziționarea unui autoturism prin Programul Rabla Plus și aprobarea cheltuielilor necesare privind înmatricularea și asigurarea autoturismului",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/172469",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/172469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-44-2024",
+   "path": "local/mehedinti/malovat/2024/44",
+   "short": "HCL Malovăț nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 44/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț pentru anul 2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/172470",
+   "versions": [
+    {
+     "from": "2024-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/172470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-45-2024",
+   "path": "local/mehedinti/malovat/2024/45",
+   "short": "HCL Malovăț nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 45/2024 privind alegerea președintelui de ședință pentru perioada noiembrie 2024 -ianuarie 2025",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174785",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-46-2024",
+   "path": "local/mehedinti/malovat/2024/46",
+   "short": "HCL Malovăț nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 46/2024 privind aprobarea Regulamentului de Organizare si Functionare al Consiliului Local al Comunei Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174786",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-47-2024",
+   "path": "local/mehedinti/malovat/2024/47",
+   "short": "HCL Malovăț nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 47/2024 privind aprobarea numarului si denumirii comisiilor de specialitate ale Consiliului local al comunei Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174787",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-48-2024",
+   "path": "local/mehedinti/malovat/2024/48",
+   "short": "HCL Malovăț nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 48/2024 privind alegerea Viceprimarului Comunei Malovat",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174788",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-49-2024",
+   "path": "local/mehedinti/malovat/2024/49",
+   "short": "HCL Malovăț nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 49/2024 privind aprobarea Dispoziției nr.201/16.10.2024 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț pe anul 2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174789",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-50-2024",
+   "path": "local/mehedinti/malovat/2024/50",
+   "short": "HCL Malovăț nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 50/2024 privind aprobarea Dispoziției nr.206/21.10.2024 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț pe anul 2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174790",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-51-2024",
+   "path": "local/mehedinti/malovat/2024/51",
+   "short": "HCL Malovăț nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 51/2024 privind aprobarea devizului general și a indicatorilor tehnico- economici, cuprinși în acesta, privind cheltuielile de capital necesare realizarii obiectivului de investitii „ Construire împrejmuire și amenajare curte Școala Primară Malovăț ” faza SF",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/174892",
+   "versions": [
+    {
+     "from": "2024-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/174892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-52-2024",
+   "path": "local/mehedinti/malovat/2024/52",
+   "short": "HCL Malovăț nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 52/2024 privind aprobarea participarii Comunei Malovat, Judetul Mehedinti, in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul „Modernizarea si eficientizarea sistemului de iluminat public, in comuna Malovat, Judetul Mehedinti”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/176516",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/176516",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--malovat-53-2024",
    "path": "local/mehedinti/malovat/2024/53",
    "short": "HCL Malovăț nr. 53/2024",
@@ -13,6 +178,126 @@
      "from": "2024-12-23",
      "units": 1,
      "source_url": "https://emol.ro/malovat-mh/registru-hcl/179458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-54-2024",
+   "path": "local/mehedinti/malovat/2024/54",
+   "short": "HCL Malovăț nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 54/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț pentru anul 2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/179459",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/179459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-55-2024",
+   "path": "local/mehedinti/malovat/2024/55",
+   "short": "HCL Malovăț nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 55/2024 privind aprobarea documentatiei tehnico-economice aferenta investitiei proiectului Alimentare cu apă din subteran în satul Bobaița, comuna Malovăț, județul Mehedinți și declararea de utilitate publică și de interes local a obiectivului de investiție",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/179460",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/179460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-56-2024",
+   "path": "local/mehedinti/malovat/2024/56",
+   "short": "HCL Malovăț nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 56/2024 privind aprobrea modificarii HCL 41/26.09.2024 cu noul termen de prelungire a aplicarii amnistiei fiscale pentru data de 19.12.2024, referitor la anularea obligațiilor accesorii aferente obligațiilor fiscale principale restante la data de 31 august 2024 datorate bugetului local de către de catre contribuabilii de pe raza administrativ-teritorială a comunei Malovăț",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/179461",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/179461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-57-2024",
+   "path": "local/mehedinti/malovat/2024/57",
+   "short": "HCL Malovăț nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 57/2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/183722",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/183722",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-58-2024",
+   "path": "local/mehedinti/malovat/2024/58",
+   "short": "HCL Malovăț nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 58/2024 privind aprobarea Devizului general actualizat cât și a indicatorilor tehnico- economici, cuprinși în acesta privind cheltuielile de capital necesare realizarii obiectivului de investitii Modernizare loc de joacă în localitatea Malovăț, comuna Malovăț, județul Mehedinți aprobat pentru finanțare prin Programul Național pentru Dezvoltare Rurală, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/183723",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/183723",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-59-2024",
+   "path": "local/mehedinti/malovat/2024/59",
+   "short": "HCL Malovăț nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 59/2024 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț pentru anul 2024",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/183724",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/183724",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-60-2024",
+   "path": "local/mehedinti/malovat/2024/60",
+   "short": "HCL Malovăț nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 60/2024 privind aprobarea participarii Comunei Malovat, Judetul Mehedinti, in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul „Modernizarea si eficientizarea sistemului de iluminat public, in comuna Malovat, Judetul Mehedinti -Etapa II”",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/183725",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/183725",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--malovat-61-2024",
+   "path": "local/mehedinti/malovat/2024/61",
+   "short": "HCL Malovăț nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 61/2024 privind aprobarea Devizului general actualizat și a indicatorilor tehnico-economici cuprinși în acesta, pentru obiectivul de investiții „ Reabilitarea sediului administrativ al Primăriei Malovăț, comuna Malovăț, județul Mehedinți , precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/malovat-mh/registru-hcl/183726",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/malovat-mh/registru-hcl/183726",
      "sha256": null
     }
    ]

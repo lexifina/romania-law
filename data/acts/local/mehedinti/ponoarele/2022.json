@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ponoarele-33-2022",
+"path": "local/mehedinti/ponoarele/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 33/2022 privind alegerea presedintelui de sedinta pe o perioada de 3 luni",
+"short": "HCL Ponoarele nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/ponoarele-mh/registru-hcl/77693",
+"council": "mehedinti/ponoarele",
+"council_name": "Consiliul Local al Comunei Ponoarele",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ponoarele-34-2022",
 "path": "local/mehedinti/ponoarele/2022/34",
 "kind": "local",

@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "cnsc-decizie-2025-401",
+   "path": "cnsc/decizie/2025/401",
+   "short": "Decizia CNSC nr. 401/C2/4278 din 11.02.2025",
+   "title": "Decizia CNSC nr. 401/C2/4278 din 11.02.2025: contestația PSG ONE SRL , TRANSGUARD SECURITY SRL, AMBASADOR GROUP SECURITY SRL în contradictoriu cu DRUMURI JUDETENE CONSTANTA SA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTY1NzIzZWYtMjA4Mi00NGZkLWFkOTAtNzVhNTg5M2RhMzUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDEucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZTY1NzIzZWYtMjA4Mi00NGZkLWFkOTAtNzVhNTg5M2RhMzUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV80MDEucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "39a9af4b8f70b7649ca17b22674d30b66410b76efb343b81b9d8436b61593683"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-620",
    "path": "cnsc/decizie/2025/620",
    "short": "Decizia CNSC nr. 620/C10/2549 din 04.03.2025",

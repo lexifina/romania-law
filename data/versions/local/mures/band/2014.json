@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/mures/band/2014",
+ "acts": [
+  {
+   "slug": "hcl-mures--band-17-2014",
+   "path": "local/mures/band/2014/17",
+   "short": "HCL Band nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 17/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/06/Hotararea-17-30.05.2014.pdf",
+     "sha256": "24aad37a831be45bd3a64ebf8e81a9d68f4146f6d8bae7c2d2a25e4fa079d5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-18-2014",
+   "path": "local/mures/band/2014/18",
+   "short": "HCL Band nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 18/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/06/Hotararea-18-30.05.2014.pdf",
+     "sha256": "920740bb1de77e61f9e78578a3b139b12d4736336e68e9ca0917e49cf5fd003a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-30-2014",
+   "path": "local/mures/band/2014/30",
+   "short": "HCL Band nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 30/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-30-11.06.2014.pdf",
+     "sha256": "67dac9ee2ba499313f303edd415d49fe28ac9a3465f68e7a5c0e27b0d5d1a12d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-31-2014",
+   "path": "local/mures/band/2014/31",
+   "short": "HCL Band nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 31/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-31-11.06.2014.pdf",
+     "sha256": "3bcfe2a5fedeb346ed17e7a2d3daf1234035edd5280f31ad04678d95f617f29e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-32-2014",
+   "path": "local/mures/band/2014/32",
+   "short": "HCL Band nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 32/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-32-30.06.2014.pdf",
+     "sha256": "bc75388bd25c04ad7b2ec9629f6f6bd2fd1ffe4b0a417da435d5a23d8584898c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-33-2014",
+   "path": "local/mures/band/2014/33",
+   "short": "HCL Band nr. 33/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 33/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-33-30.06.2014.pdf",
+     "sha256": "841d947da18a9383fd7c9660b8561b42d5bc14fd7715b84e5b3815baeff093d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-34-2014",
+   "path": "local/mures/band/2014/34",
+   "short": "HCL Band nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 34/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-34-30.06.2014.pdf",
+     "sha256": "d001479a27915323981e8f66fd50c841063d25e8c02a85a2aa8a8ad1a09e8f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-35-2014",
+   "path": "local/mures/band/2014/35",
+   "short": "HCL Band nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 35/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-35-30.06.2014.pdf",
+     "sha256": "61bf5dc9d2d37a2dc510a6be83cae3ed746c86d26e084d07db056204b19d1f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-36-2014",
+   "path": "local/mures/band/2014/36",
+   "short": "HCL Band nr. 36/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 36/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-36-30.06.2014.pdf",
+     "sha256": "4b926c5c657e7dd34bd0a07245b673a4a3293deaa61b049da67261c5dda90a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-37-2014",
+   "path": "local/mures/band/2014/37",
+   "short": "HCL Band nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 37/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-37-30.06.2014.pdf",
+     "sha256": "f0515bd8cd12111dd2d91a9d2971885c7dc46f4cedd355d8c2760511d7728c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-38-2014",
+   "path": "local/mures/band/2014/38",
+   "short": "HCL Band nr. 38/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 38/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-38-30.06.2014.pdf",
+     "sha256": "c3284846465b27846e7c8dce8dc64cde41047f83cd91ab7ffb6dd4663675979e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-39-2014",
+   "path": "local/mures/band/2014/39",
+   "short": "HCL Band nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 39/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-39-30.06.2014.pdf",
+     "sha256": "079ad4e12b5c4f54b1875a594fe46146fe8402f828ebc6275266a29b6dcc2f69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--band-40-2014",
+   "path": "local/mures/band/2014/40",
+   "short": "HCL Band nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Band nr. 40/2014",
+   "url": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+   "versions": [
+    {
+     "from": "2014-06-30",
+     "units": 1,
+     "source_url": "http://www.comunaband.ro/wp-content/uploads/2014/09/Hotararea-40-30.06.2014.pdf",
+     "sha256": "a9137d65ce7e6c42b55740637baee307f9997026e0ce2470b0740819a204157c"
+    }
+   ]
+  }
+ ]
+}

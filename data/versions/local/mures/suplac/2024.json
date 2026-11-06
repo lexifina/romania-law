@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/suplac/2024",
+ "acts": [
+  {
+   "slug": "hcl-mures--suplac-54-2024",
+   "path": "local/mures/suplac/2024/54",
+   "short": "HCL Suplac nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Suplac nr. 54/2024 compensarea chiriei datorate cu contravaloarea lucrărilor de reparații",
+   "url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#88839",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://suplac.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2613#88839",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

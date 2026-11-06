@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/floresti/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--floresti-15-2025",
+"path": "local/mehedinti/floresti/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2025 privind aprobarea documentatiei de atribuire a scoaterii la licitatie publica in vederea vanzarii bunurilor: deseuri din plastic si fieroase, autoGreder AB NORD VERK si buldoexcavator JCB 3III",
+"short": "HCL Florești nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/214565",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-16-2025",
 "path": "local/mehedinti/floresti/2025/16",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-19-2025",
+"path": "local/mehedinti/floresti/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2025 la proiectul de hotărâre privind aprobarea concesionării prin licitație publica pentru imobilul identificat in Cartea Funciara 50211, nr. cadastral 50211",
+"short": "HCL Florești nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-11",
+"latest": "2025-11-11",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/222923",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +289,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--floresti-28-2025",
+"path": "local/mehedinti/floresti/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 28/2025",
+"short": "HCL Florești nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-19",
+"latest": "2025-11-19",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/236014",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--floresti-29-2025",
 "path": "local/mehedinti/floresti/2025/29",
 "kind": "local",
@@ -264,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Florești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--floresti-30-2025",
+"path": "local/mehedinti/floresti/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Florești nr. 30/2025 privind aprobarea implementării proiectului ”Digitalizarea serviciilor publice în Comuna Florești, județul Mehedinți” din cadrul Intervenției „Sat inteligent, comunitate digitalizată” prin Grupul de Acțiune Locală ȚINUTUL CLOȘANI",
+"short": "HCL Florești nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/floresti-mh/registru-hcl/239501",
+"council": "mehedinti/floresti",
+"council_name": "Consiliul Local al Comunei Florești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

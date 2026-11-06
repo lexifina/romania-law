@@ -3,6 +3,606 @@
  "shard": "local/maramures/ulmeni/2026",
  "acts": [
   {
+   "slug": "hcl-maramures--ulmeni-1-2026",
+   "path": "local/maramures/ulmeni/2026/1",
+   "short": "HCL Ulmeni nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 1/2026 privind aprobarea predării în administrare către Vital SA a extinderilor rețelelor de apă și canalizare, în vederea extinderii ariei delegării serviciului, finalizate de către Primăria Oraș Ulmeni după data începerii operării serviciului în UAT Ulmeni (mai 2010)",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291088",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-10-2026",
+   "path": "local/maramures/ulmeni/2026/10",
+   "short": "HCL Ulmeni nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 10/2026 privind încadrarea lucrărilor ce fac obiectul proiectului „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată în județul Maramureș”",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291103",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-11-2026",
+   "path": "local/maramures/ulmeni/2026/11",
+   "short": "HCL Ulmeni nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 11/2026 privind aprobarea propunerii de scoatere definitivă din circuitul agricol a suprafeței de 3.403 mp de pășune înscrisă în CF 52115 - Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291104",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-12-2026",
+   "path": "local/maramures/ulmeni/2026/12",
+   "short": "HCL Ulmeni nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 12/2026 privind aprobarea propunerii de scoatere definitivă din circuitul agricol a suprafeței de 3.829 mp de pășune înscrisă în CF 53440 - Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291105",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-13-2026",
+   "path": "local/maramures/ulmeni/2026/13",
+   "short": "HCL Ulmeni nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 13/2026 privind aprobarea Planului de Analiză și Acoperire a Riscurilor pe anul 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291106",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-14-2026",
+   "path": "local/maramures/ulmeni/2026/14",
+   "short": "HCL Ulmeni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 14/2026 privind aprobarea valorificării masei lemnoase din fondul forestier proprietate publică a UAT Orașul Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291107",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-15-2026",
+   "path": "local/maramures/ulmeni/2026/15",
+   "short": "HCL Ulmeni nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 15/2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291108",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-16-2026",
+   "path": "local/maramures/ulmeni/2026/16",
+   "short": "HCL Ulmeni nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 16/2026 privind însușirea unei documentații cadastrale, având ca obiect atribuirea unui număr cadastral imobilului „Strada Petre Dulfu”, din loc. Ulmeni, UAT Orașul Ulmeni, jud. Maramureș",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291109",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-17-2026",
+   "path": "local/maramures/ulmeni/2026/17",
+   "short": "HCL Ulmeni nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 17/2026 privind însușirea unei documentații cadastrale, având ca obiect atribuirea unui număr cadastral imobilului „Strada Trenului”, din loc. Ulmeni, UAT Orașul Ulmeni, jud. Maramureș",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291110",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-18-2026",
+   "path": "local/maramures/ulmeni/2026/18",
+   "short": "HCL Ulmeni nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 18/2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291113",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-19-2026",
+   "path": "local/maramures/ulmeni/2026/19",
+   "short": "HCL Ulmeni nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 19/2026 privind modificarea HCL nr. 11/17.02.2026 privind aprobarea propunerii de scoatere definitivă din circuitul agricol a suprafeței de 3.403 mp de pășune înscrisă în CF 52115 - Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291114",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-2-2026",
+   "path": "local/maramures/ulmeni/2026/2",
+   "short": "HCL Ulmeni nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 2/2026 privind aprobarea Rețelei Școlare a Orașului Ulmeni pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291089",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-20-2026",
+   "path": "local/maramures/ulmeni/2026/20",
+   "short": "HCL Ulmeni nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 20/2026 privind modificarea HCL nr. 12/17.02.2026 privind aprobarea propunerii de scoatere definitivă din circuitul agricol a suprafeței de 3.829 mp de pășune înscrisă în CF 53440 - Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291115",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-21-2026",
+   "path": "local/maramures/ulmeni/2026/21",
+   "short": "HCL Ulmeni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 21/2026 privind revocarea HCL nr. 59/16.12.2025 pentru aprobarea trecerii unui teren din domeniul public în domeniul privat al Orașului Ulmeni în vederea valorificării",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291116",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-22-2026",
+   "path": "local/maramures/ulmeni/2026/22",
+   "short": "HCL Ulmeni nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 22/2026 privind aprobarea bugetului local al Orașului Ulmeni pe anul 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291117",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-23-2026",
+   "path": "local/maramures/ulmeni/2026/23",
+   "short": "HCL Ulmeni nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 23/2026 privind aprobarea indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE ȘI MODERNIZARE DRUMURI DE INTERES LOCAL ÎN UAT ORAȘUL ULMENI, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291118",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-24-2026",
+   "path": "local/maramures/ulmeni/2026/24",
+   "short": "HCL Ulmeni nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 24/2026 privind aprobarea indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE ȘI MODERNIZARE DRUMURI DE INTERES LOCAL ÎN UAT ORAȘUL ULMENI, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291119",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-25-2026",
+   "path": "local/maramures/ulmeni/2026/25",
+   "short": "HCL Ulmeni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 25/2026 privind privind aprobarea indicatorilor tehnico - economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE ȘI MODERNIZARE DRUMURI DE INTERES LOCAL ÎN UAT ORAȘUL ULMENI, JUDEȚUL MARAMUREȘ”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291120",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-26-2026",
+   "path": "local/maramures/ulmeni/2026/26",
+   "short": "HCL Ulmeni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 26/2026 privind rectificarea bugetului local al Orașului Ulmeni, pentru anul 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291121",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-27-2026",
+   "path": "local/maramures/ulmeni/2026/27",
+   "short": "HCL Ulmeni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 27/2026 privind aprobarea devizului general actualizat la faza finalizare achiziții publice și modificare cotă TVA, pentru proiectul „EFICIENTIZAREA ȘI MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC ÎN UAT ORAȘUL ULMENI, JUDEȚUL MARAMUREȘ - etapa a 2 - a”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291135",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-28-2026",
+   "path": "local/maramures/ulmeni/2026/28",
+   "short": "HCL Ulmeni nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 28/2026 privind stabilirea unor măsuri privind delegarea gestiunii activităților componente ale serviciului de salubrizare privind transferul, sortarea, tratarea mecano-biologică, compostarea, operarea centrelor de colectare cu aport voluntar și eliminarea prin depozitare a deșeurilor municipale în județul Maramureș",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291136",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-29-2026",
+   "path": "local/maramures/ulmeni/2026/29",
+   "short": "HCL Ulmeni nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 29/2026 privind însușirea unei documentații cadastrale, având ca obiect atribuirea unui număr cadastral imobilului „Teren lângă pod”, din loc. Ulmeni, UAT Orașul Ulmeni, jud. Maramureș",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291137",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291137",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-3-2026",
+   "path": "local/maramures/ulmeni/2026/3",
+   "short": "HCL Ulmeni nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 3/2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291090",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-30-2026",
+   "path": "local/maramures/ulmeni/2026/30",
+   "short": "HCL Ulmeni nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 30/2026 privind aprobarea indicatorilor tehnico - economici actualizați și a devizului general pentru proiectul „Realizare piste de biciclete în UAT Orașul Ulmeni, județul Maramureș, ca urmare a schimbării soluției tehnice",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291145",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-31-2026",
+   "path": "local/maramures/ulmeni/2026/31",
+   "short": "HCL Ulmeni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 31/2026 privind rectificarea bugetului local al Orașului Ulmeni pe anul fiscal 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292215",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-32-2026",
+   "path": "local/maramures/ulmeni/2026/32",
+   "short": "HCL Ulmeni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 32/2026 privind rectificarea bugetului local al Orașului Ulmeni pe anul fiscal 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292186",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-33-2026",
+   "path": "local/maramures/ulmeni/2026/33",
+   "short": "HCL Ulmeni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 33/2026 privind înregistrarea Oraşului Ulmeni, județul Maramureș, în Sistemul Național Electronic de Plată (SNEP) on – line a impozitelor și taxelor locale („Ghișeul.ro”) utilizând cardul bancar,instalarea unui terminal de plată (POS) precum și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292187",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-34-2026",
+   "path": "local/maramures/ulmeni/2026/34",
+   "short": "HCL Ulmeni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 34/2026 privind aprobarea solicitării unei scrisori de garanție de la FNGCIMM SA IFN",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292198",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-35-2026",
+   "path": "local/maramures/ulmeni/2026/35",
+   "short": "HCL Ulmeni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 35/2026 privind rectificarea bugetului local al Orașului Ulmeni pe anul fiscal 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292213",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-36-2026",
+   "path": "local/maramures/ulmeni/2026/36",
+   "short": "HCL Ulmeni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 36/2026 privind desemnarea reprezentanților Consiliului Local al Orașului Ulmeni, ca membri în Consiliile de Administrație și în Comisiile de Evaluare și Asigurare a Calității a unităților de învățământ preuniversitar pentru anul școlar 2026 - 2027",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292214",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-37-2026",
+   "path": "local/maramures/ulmeni/2026/37",
+   "short": "HCL Ulmeni nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 37/2026 privind stabilirea sancțiunilor pentru faptele care constituie contravenții în domeniul Gospodăririi Orașului Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292236",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-38-2026",
+   "path": "local/maramures/ulmeni/2026/38",
+   "short": "HCL Ulmeni nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 38/2026 privind aprobarea vânzării directe a unui teren în suprafață de 463 mp",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292237",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-39-2026",
+   "path": "local/maramures/ulmeni/2026/39",
+   "short": "HCL Ulmeni nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 39/2026 privind participarea la Programul - cheie 1: Surse regenerabile de energie și stocarea energiei, apelul de proiecte „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici ai proiectului „ÎNFIINȚAREA UNEI CAPACITĂȚI DE PRODUCȚIE A ENERGIEI ELECTRICE DIN SURSA SOLARĂ, CU CAPACITĂȚI DE STOCARE INTEGRATE, PENTRU ACOPERIREA CONSUMULUI PROPRIU ÎN ORAȘUL ULMENI, JUDEȚUL MARAMUREȘ”",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292238",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-4-2026",
+   "path": "local/maramures/ulmeni/2026/4",
+   "short": "HCL Ulmeni nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 4/2026 privind aprobarea proiectului „Achiziție utilaje pentru dezvoltarea serviciilor publice în orașul Ulmeni”",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291091",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-40-2026",
+   "path": "local/maramures/ulmeni/2026/40",
+   "short": "HCL Ulmeni nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 40/2026 privind aprobarea inițierii demersurilor necesare scoaterii definitive din circuitul agricol a suprafeței de 36.189 mp pășune, înscrisă în CF 53441 - Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292239",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-41-2026",
+   "path": "local/maramures/ulmeni/2026/41",
+   "short": "HCL Ulmeni nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 41/2026 privind rectificarea bugetului local al Orașului Ulmeni pe anul fiscal 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292240",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-42-2026",
+   "path": "local/maramures/ulmeni/2026/42",
+   "short": "HCL Ulmeni nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 42/2026 privind aprobarea vânzării directe a unui teren în suprafață de 225 mp",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292241",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-43-2026",
+   "path": "local/maramures/ulmeni/2026/43",
+   "short": "HCL Ulmeni nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 43/2026 privind aprobarea vânzării directe a unui teren în suprafață de 263 mp",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292242",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-44-2026",
+   "path": "local/maramures/ulmeni/2026/44",
+   "short": "HCL Ulmeni nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 44/2026 privind aprobarea desfășurării activităților de organizare și exploatare a jocurilor de noroc tip loto și pariuri pe raza UAT Orașul Ulmeni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/292243",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/292243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-45-2026",
+   "path": "local/maramures/ulmeni/2026/45",
+   "short": "HCL Ulmeni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 45/2026 privind mandatarea reprezentantului UAT Ulmeni, să voteze în AGA ADIGIDM MM modificarea tarifului pentru activitatea de transfer a deșeurilor municipale, zona de colectare 1 - Sârbi, UAT Cernești și UAT Coroieni",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/295988",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/295988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--ulmeni-46-2026",
    "path": "local/maramures/ulmeni/2026/46",
    "short": "HCL Ulmeni nr. 46/2026",
@@ -13,6 +613,81 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/295989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-5-2026",
+   "path": "local/maramures/ulmeni/2026/5",
+   "short": "HCL Ulmeni nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 5/2026 privind aprobarea bugetului creditelor externe și interne pe anul 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291093",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-6-2026",
+   "path": "local/maramures/ulmeni/2026/6",
+   "short": "HCL Ulmeni nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 6/2026 privind aprobarea majorării bugetului creditelor externe și interne pe anul 2026",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291096",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-7-2026",
+   "path": "local/maramures/ulmeni/2026/7",
+   "short": "HCL Ulmeni nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 7/2026 privind aprobarea utilizării excedentului bugetar",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291097",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-8-2026",
+   "path": "local/maramures/ulmeni/2026/8",
+   "short": "HCL Ulmeni nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 8/2026 privind preluarea prin transfer, cu titlu gratuit, a unui microbuz școlar de la comuna Ardusat",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291098",
+   "versions": [
+    {
+     "from": "2026-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--ulmeni-9-2026",
+   "path": "local/maramures/ulmeni/2026/9",
+   "short": "HCL Ulmeni nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Ulmeni nr. 9/2026 privind actualizarea indicatorilor tehnico - economici și a devizului general, pentru proiectul „Înființarea și dotarea unui centru de colectare prin aport voluntar în Orașul Ulmeni”",
+   "url": "https://emol.ro/ulmeni-mm/registru-hcl/291102",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmeni-mm/registru-hcl/291102",
      "sha256": null
     }
    ]

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/greci/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--greci-80-2025",
+"path": "local/mehedinti/greci/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Greci nr. 80/2025 privind stabilirea impozitelor și taxelor locale datorate bugetului local al comunei Greci, județul Mehedinți, începând cu anul fiscal 2026 Având în vedere: - Referatul de aprobare întocmit de primarul comunei Greci, județul Mehedinți din care rezultă motivele și necesitatea adoptării Proiectului de hotărâre privind stabilirea impozitelor și taxelor locale datorate bugetului local al comunei Greci",
+"short": "HCL Greci nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://comunagreci.ro/wp-content/uploads/2026/02/HCL-Impozite-locale-2026.pdf",
+"council": "mehedinti/greci",
+"council_name": "Consiliul Local al Comunei Greci",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -93,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--oprisor-19-2025",
+   "path": "local/mehedinti/oprisor/2025/19",
+   "short": "HCL Oprișor nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 19/2025 privind desemnarea reprezentantului Consiliului Local Oprișor în Consiliul de Administrație al Școlii Gimnaziale Oprișor, județul Mehedinți, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253611",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-20-2025",
+   "path": "local/mehedinti/oprisor/2025/20",
+   "short": "HCL Oprișor nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 20/2025 privind alegerea președintelui de ședință al Consiliului Local Oprișor, pentru perioada noiembrie 2025-ianuarie 2026",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253612",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-21-2025",
+   "path": "local/mehedinti/oprisor/2025/21",
+   "short": "HCL Oprișor nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 21/2025 privind desemnarea reprezentantului Consiliului Local Oprișor în „COMISIA PENTRU EVALUAREA ȘI ASIGURAREA CALITĂȚII ” a Școlii gimnaziale Oprișor, județul Mehedinți, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253628",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253628",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--oprisor-22-2025",
    "path": "local/mehedinti/oprisor/2025/22",
    "short": "HCL Oprișor nr. 22/2025",
@@ -123,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--oprisor-24-2025",
+   "path": "local/mehedinti/oprisor/2025/24",
+   "short": "HCL Oprișor nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 24/2025 privind aprobarea achiziționării de cadouri pentru elevii și preșcolarii din Comuna Oprișor-cu ocazia organizării Pomului de iarnă în anul 2025",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253641",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253641",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--oprisor-25-2025",
    "path": "local/mehedinti/oprisor/2025/25",
    "short": "HCL Oprișor nr. 25/2025",
@@ -133,6 +193,21 @@
      "from": "2026-02-18",
      "units": 1,
      "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-26-2025",
+   "path": "local/mehedinti/oprisor/2025/26",
+   "short": "HCL Oprișor nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 26/2025 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat pentru anul școlar 2026-2027 de pe raza Comunei Oprișor, județul Mehedinți",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253643",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253643",
      "sha256": null
     }
    ]
@@ -178,6 +253,21 @@
      "from": "2026-02-18",
      "units": 1,
      "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-30-2025",
+   "path": "local/mehedinti/oprisor/2025/30",
+   "short": "HCL Oprișor nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 30/2025 privind aprobarea concesionării prin atribuire directă a unui spațiu în vederea deschiderii unui cabinet medical pentru a asigura continuitatea asistenței medicale în Comuna Oprișor, județul Mehedinți",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/253662",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/253662",
      "sha256": null
     }
    ]

@@ -78,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-105-2021",
+   "path": "local/maramures/sacalaseni/2021/105",
+   "short": "HCL Săcălășeni nr. 105/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 105/2021",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/45041",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/45041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-106-2021",
+   "path": "local/maramures/sacalaseni/2021/106",
+   "short": "HCL Săcălășeni nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 106/2021 privind aprobarea documentației ”Studiu de Oportunitate” privind necesitatea concesionării imobilului în suprafață totală de 335.000 m2, identificat prin Cărțile Funciare nr. 53297, 53298, 53299, 53300 și 53301, în vederea realizării investiției „Centru de produse vegetale”, aprobarea proiectului ”Documentație de atribuire-Caiet de sarcini” privind această concesiune, a raportului de evaluare și a comisiei de evaluare a ofertelor",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/45042",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/45042",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-107-2021",
    "path": "local/maramures/sacalaseni/2021/107",
    "short": "HCL Săcălășeni nr. 107/2021",
@@ -193,6 +223,51 @@
      "from": "2021-11-23",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/42574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-95-2021",
+   "path": "local/maramures/sacalaseni/2021/95",
+   "short": "HCL Săcălășeni nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 95/2021",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/42575",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/42575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-96-2021",
+   "path": "local/maramures/sacalaseni/2021/96",
+   "short": "HCL Săcălășeni nr. 96/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 96/2021",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/42576",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/42576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-97-2021",
+   "path": "local/maramures/sacalaseni/2021/97",
+   "short": "HCL Săcălășeni nr. 97/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 97/2021",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/42577",
+   "versions": [
+    {
+     "from": "2021-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/42577",
      "sha256": null
     }
    ]

@@ -135,6 +135,29 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-56-2021",
+"path": "local/maramures/grosi/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 56/2021",
+"short": "HCL Groși nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/39514",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--grosi-57-2021",
 "path": "local/maramures/grosi/2021/57",
 "kind": "local",

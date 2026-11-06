@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/darvari/2026",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--darvari-23-2026",
+   "path": "local/mehedinti/darvari/2026/23",
+   "short": "HCL Dârvari nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dârvari nr. 23/2026 privind alegerea președintelui de ședință",
+   "url": "https://primariadirvari.ro/index.php/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariadirvari.ro/wp-content/uploads/2026/10/HCL-nr.-23-din-24.09.2026-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "6d87579b15fa286eb9c1024b8710df22a3284559c6ba5494d8a824759cd46786"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--darvari-24-2026",
+   "path": "local/mehedinti/darvari/2026/24",
+   "short": "HCL Dârvari nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dârvari nr. 24/2026 privind desemnarea reprez. CLD în Consiliu de Adm. al Șc. Gimn. DÂRARI pt anul 2026-2027",
+   "url": "https://primariadirvari.ro/index.php/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariadirvari.ro/wp-content/uploads/2026/10/HCL-nr.-24-din-24.09.2026-privind-desemnarea-reprez.-CLD-in-Consiliu-de-Adm.-al-Sc.-Gimn.-DARARI-pt-anul-2026-2027.pdf",
+     "sha256": "78d68f112dffa21fbf29b5e61771f3d6aeecc996ae1d2a7c1de67f9565d9f2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--darvari-26-2026",
+   "path": "local/mehedinti/darvari/2026/26",
+   "short": "HCL Dârvari nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dârvari nr. 26/2026 privind aprob. Stud. de Fezab., a Dev. Gen. și a Ind. Tehn. Ec. pt Ob. de Inv. ÎNFIIȚARE CAPACIT. DE PROD.ENERG.ELECTRICĂ DIN SURSE REGEN",
+   "url": "https://primariadirvari.ro/index.php/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariadirvari.ro/wp-content/uploads/2026/10/HCL-nr.-26-din-24.09.2026-privind-aprob.-Stud.-de-Fezab.-a-Dev.-Gen.-si-a-Ind.-Tehn.-Ec.-pt-Ob.-de-Inv.-INFIITARE-CAPACIT.-DE-PROD.ENERG_.ELECTRICA-DIN-SURSE-REGEN.pdf",
+     "sha256": "0a0640c2cf8de1729ecfa04567e4e5d85791def1b8abed1107b539000d362a4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--darvari-27-2026",
+   "path": "local/mehedinti/darvari/2026/27",
+   "short": "HCL Dârvari nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dârvari nr. 27/2026 privind Particip. la Progr",
+   "url": "https://primariadirvari.ro/index.php/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://primariadirvari.ro/wp-content/uploads/2026/10/HCL-nr.-27-din-24.09.2026-privind-Particip.-la-Progr.-Cheie-1.pdf",
+     "sha256": "9ffdee8fb431c2afa31745c1e29243ed97844f267fff0bd684fc29448d28251b"
+    }
+   ]
+  }
+ ]
+}

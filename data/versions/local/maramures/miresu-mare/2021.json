@@ -3,6 +3,21 @@
  "shard": "local/maramures/miresu-mare/2021",
  "acts": [
   {
+   "slug": "hcl-maramures--miresu-mare-53-2021",
+   "path": "local/maramures/miresu-mare/2021/53",
+   "short": "HCL Mireșu Mare nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 53/2021 privind desemnarea reprezentanților Consiliului local al comunei Mireșu Mare care să facă parte din Consiliul de Administrație al Școlii Gimnaziale Mireșu Mare in anul scolar 2021 - 2022;",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/36500",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/36500",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-54-2021",
    "path": "local/maramures/miresu-mare/2021/54",
    "short": "HCL Mireșu Mare nr. 54/2021",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-60-2021",
+   "path": "local/maramures/miresu-mare/2021/60",
+   "short": "HCL Mireșu Mare nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 60/2021 privind aprobarea incheierii acordului de reabilitare si utilizare drumuri cu S.C.BEGU TRANS S.R.L",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/38965",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/38965",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-61-2021",
    "path": "local/maramures/miresu-mare/2021/61",
    "short": "HCL Mireșu Mare nr. 61/2021",
@@ -118,6 +148,21 @@
      "from": "2021-10-25",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/38967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-63-2021",
+   "path": "local/maramures/miresu-mare/2021/63",
+   "short": "HCL Mireșu Mare nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 63/2021 privind desemnarea reprezentantului Consiliului Local în Comisia de evaluare a probei de interviu la concursul pentru ocuparea funcției de director al Școlii Gimnaziale Mireșu Mare",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/40510",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/40510",
      "sha256": null
     }
    ]

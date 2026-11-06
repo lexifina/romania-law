@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/vrata/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--vrata-1-2026",
+   "path": "local/mehedinti/vrata/2026/1",
+   "short": "HCL Vrata nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 1/2026 privind acoperirea definitivă din excedentul bugetului local a anului precedent cu sumele repartizate din aceasta în cursul anului 2025-în sumă 2.592.391,79 lei, a deficitului secțiunilor de funcționare și dezvoltare și aprobarea unui împrumut temporar în valoare de 123.000 lei din excedentul anului 2025 pentru acoperirea golurilor de casa pentru anul 2026",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272448",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272448",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-10-2026",
    "path": "local/mehedinti/vrata/2026/10",
    "short": "HCL Vrata nr. 10/2026",
@@ -33,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--vrata-12-2026",
+   "path": "local/mehedinti/vrata/2026/12",
+   "short": "HCL Vrata nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 12/2026 privind aprobarea măsurilor necesare în vederea încadrării în numărul maxim de posturi redus în conformitate cu prevederile Ordonanței de Urgență a Guvernului nr. 7 / 2026 pentru modificarea și completarea unor acte normative precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ-teritoriale",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272466",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-13-2026",
+   "path": "local/mehedinti/vrata/2026/13",
+   "short": "HCL Vrata nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 13/2026 privind alegerea preşedintelui de şedinţă pentru şedinţele din lunile (mai, iunie si iulie 2026) in cadrul Consiliului Local al comunei Vrata, judeţul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272467",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272467",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--vrata-14-2026",
    "path": "local/mehedinti/vrata/2026/14",
    "short": "HCL Vrata nr. 14/2026",
@@ -43,6 +88,111 @@
      "from": "2026-06-04",
      "units": 1,
      "source_url": "https://emol.ro/vrata-mh/registru-hcl/272472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-2-2026",
+   "path": "local/mehedinti/vrata/2026/2",
+   "short": "HCL Vrata nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 2/2026 privind aprobarea Planului de acţiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apti de munca, potrivit Legii nr. 196/2016 privind venitul minim de incluziune, pentru anul 2026",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272450",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-3-2026",
+   "path": "local/mehedinti/vrata/2026/3",
+   "short": "HCL Vrata nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 3/2026 privind alegerea preşedintelui de şedinţă pentru şedinţele din lunile (februarie, martie si aprilie 2026) in cadrul Consiliului Local al comunei Vrata, judeţul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272451",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-4-2026",
+   "path": "local/mehedinti/vrata/2026/4",
+   "short": "HCL Vrata nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 4/2026 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru semestrul II al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la ComunaVrata, judetul Mehedinti",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272452",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-5-2026",
+   "path": "local/mehedinti/vrata/2026/5",
+   "short": "HCL Vrata nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 5/2026 privind aprobarea aprobarea Programului de acțiune comunitară destinat prevenirii sau reducerii riscului de sărăcie și excluziune socială, la nivelul comunei Vrata, pentru anul 2025",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272453",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-6-2026",
+   "path": "local/mehedinti/vrata/2026/6",
+   "short": "HCL Vrata nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 6/2026 privind aprobarea implementării Proiectului “Digitalizarea serviciilor publice locale in cadrul Initiativei Smart Village”",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272454",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-7-2026",
+   "path": "local/mehedinti/vrata/2026/7",
+   "short": "HCL Vrata nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 7/2026 privind aprobarea Planului pentru asigurarea resurselor umane, materiale si financiare destinate prevenirii si gestionarii situatiilor de urgenta pentru anul 2026",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272458",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--vrata-8-2026",
+   "path": "local/mehedinti/vrata/2026/8",
+   "short": "HCL Vrata nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vrata nr. 8/2026 privind aprobarea raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap pentru semestrul II anul 2025",
+   "url": "https://emol.ro/vrata-mh/registru-hcl/272459",
+   "versions": [
+    {
+     "from": "2026-06-04",
+     "units": 1,
+     "source_url": "https://emol.ro/vrata-mh/registru-hcl/272459",
      "sha256": null
     }
    ]

@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ilovat-14-2020",
+"path": "local/mehedinti/ilovat/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 14/2020 privind aprobarea caietului de sarcini ,modelului de contract de delegare a gestiunii privind concesionarea serviciului de iluminat public,a regulamentului de organizare si functionare si a indicatorilor de performanta generali si garantati",
+"short": "HCL Ilovăț nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/15781",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-15-2020",
 "path": "local/mehedinti/ilovat/2020/15",
 "kind": "local",
@@ -330,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Ilovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-23-2020",
+"path": "local/mehedinti/ilovat/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 23/2020 privind alegerea viceprimarului Consiliului Local Ilovat",
+"short": "HCL Ilovăț nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/20654",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

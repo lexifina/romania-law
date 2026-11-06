@@ -3,6 +3,186 @@
  "shard": "local/mehedinti/balta/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--balta-39-2025",
+   "path": "local/mehedinti/balta/2025/39",
+   "short": "HCL Balta nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 39/2025",
+   "url": "https://emol.ro/balta-mh/registru-hcl/235708",
+   "versions": [
+    {
+     "from": "2025-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/235708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-40-2025",
+   "path": "local/mehedinti/balta/2025/40",
+   "short": "HCL Balta nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 40/2025 privind desemnarea reprezentantului Cosiliului Local Balta în Comisia pentru prevenirea și eliminarea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității construita la nivelul Școlii Gimnaziale Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254139",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-41-2025",
+   "path": "local/mehedinti/balta/2025/41",
+   "short": "HCL Balta nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 41/2025 privind alocarea din bugetul local al Comunei Balta 2025 a sumei de 10.000 Ron pentru Bradul de Crăciun - cadouri pentru copii",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254140",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-42-2025",
+   "path": "local/mehedinti/balta/2025/42",
+   "short": "HCL Balta nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 42/2025 privind aprobarea decontării navetei personalului didactic și didactic auxiliar pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254141",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-43-2025",
+   "path": "local/mehedinti/balta/2025/43",
+   "short": "HCL Balta nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 43/2025 privind trecerea din domeniul public în domeniul privat al Comunei Balta a imobilului identificat la poziția nr. 32 din HCL nr. 26/02.11.1999 privind Inventarul actualizat al bunurilor care alcătuiesc domeniul public al Comunei Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254142",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-44-2025",
+   "path": "local/mehedinti/balta/2025/44",
+   "short": "HCL Balta nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 44/2025 privind alocarea din bugetul local al Comunei Balta 2025 a sumei de 25.000 lei pentru reparații lăcașe de cult Parohia Balta",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254143",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-45-2025",
+   "path": "local/mehedinti/balta/2025/45",
+   "short": "HCL Balta nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 45/2025 privind revocarea HCL nr. 32/15.09.2025 actualizarea și completarea Nomenclatorului stradal al comunei Balta, județul Mehedinți la HCL nr. 40/2022 și HCL nr. 6/2025",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254144",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-46-2025",
+   "path": "local/mehedinti/balta/2025/46",
+   "short": "HCL Balta nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 46/2025 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balta",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254145",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-47-2025",
+   "path": "local/mehedinti/balta/2025/47",
+   "short": "HCL Balta nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 47/2025 privind demararea procedurilor în vederea realizării obiectivului de investiții Servicii integrate de proiectare, amenajare, consolidare teren și construire bază sportivă (stadion) în comuna Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254146",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-48-2025",
+   "path": "local/mehedinti/balta/2025/48",
+   "short": "HCL Balta nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 48/2025 privind acceptarea ofertei de donație a unui teren în suprafață de 300 mp intravilan, situat în satul Balta, comuna Balta, județul Mehedinți, înscris în CF 51257, în punctul numit Plaț casă - teren neîmprejmuit",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254155",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-50-2025",
+   "path": "local/mehedinti/balta/2025/50",
+   "short": "HCL Balta nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 50/2025 privind stabilirea și aplicarea taxei pentru serviciul de salubrizare a gospodăriilor și unităților economice pe raza comunei Balta, județul Mehedinți",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254157",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254157",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-51-2025",
+   "path": "local/mehedinti/balta/2025/51",
+   "short": "HCL Balta nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 51/2025",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254158",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254158",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balta-52-2025",
    "path": "local/mehedinti/balta/2025/52",
    "short": "HCL Balta nr. 52/2025",
@@ -28,6 +208,96 @@
      "from": "2026-02-20",
      "units": 1,
      "source_url": "https://emol.ro/balta-mh/registru-hcl/254160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-54-2025",
+   "path": "local/mehedinti/balta/2025/54",
+   "short": "HCL Balta nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 54/2025 privind revocarea HCL nr.12/17.03.2025 cu privire la aprobarea taxelor și tarifelor Serviciului Public de Alimentare cu Apă al comunei Balta, județul Mehedinți pentru anul 2025",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254162",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-55-2025",
+   "path": "local/mehedinti/balta/2025/55",
+   "short": "HCL Balta nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 55/2025 privind aprobarea încheierii unui acord de cooperare cu Filiala Județeană Mehedinți a Asociației Comunelor din România pentru organizarea și exercitarea activității de audit public intern",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254163",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-56-2025",
+   "path": "local/mehedinti/balta/2025/56",
+   "short": "HCL Balta nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 56/2025 privind rectificarea bugetului de venituri și cheltuieli al UAT Balta",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254164",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-57-2025",
+   "path": "local/mehedinti/balta/2025/57",
+   "short": "HCL Balta nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 57/2025 privind stabilirea nivelurilor pentru valorile impozabile, impozitele și taxelor locale și a altor taxe asimilate acestora, aplicabile începând cu anul 2026",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254165",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-58-2025",
+   "path": "local/mehedinti/balta/2025/58",
+   "short": "HCL Balta nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 58/2025 privind alocarea din bugetul local al comunei Balta 2025 a sumei de 20.000 lei pentru achiziționare și montare sistem burlane pentru Biserica Nouă din Gornovița",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254166",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balta-59-2025",
+   "path": "local/mehedinti/balta/2025/59",
+   "short": "HCL Balta nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Balta nr. 59/2025 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Balta, județul Mehedinți, pentru anul 2026-2027",
+   "url": "https://emol.ro/balta-mh/registru-hcl/254167",
+   "versions": [
+    {
+     "from": "2026-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/balta-mh/registru-hcl/254167",
      "sha256": null
     }
    ]

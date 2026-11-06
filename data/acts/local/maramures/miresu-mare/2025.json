@@ -70,6 +70,28 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-81-2025",
+"path": "local/maramures/miresu-mare/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 81/2025 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 30.11.2025 - 28.02.2026",
+"short": "HCL Mireșu Mare nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/235533",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-82-2025",
 "path": "local/maramures/miresu-mare/2025/82",
 "kind": "local",
@@ -155,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Mireșu Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-86-2025",
+"path": "local/maramures/miresu-mare/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 86/2025 privind aprobarea statului de personal din cadrul aparatului de specialitate al primarului comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+"short": "HCL Mireșu Mare nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/235538",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

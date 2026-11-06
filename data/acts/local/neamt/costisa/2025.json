@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/neamt/costisa/2025",
+"acts": [
+{
+"slug": "hcl-neamt--costisa-85-2025",
+"path": "local/neamt/costisa/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Costișa nr. 85/2025 privind acordarea unui mandat special",
+"short": "HCL Costișa nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": null,
+"council": "neamt/costisa",
+"council_name": "Consiliul Local al Comunei Costișa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

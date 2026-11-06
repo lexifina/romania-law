@@ -3,6 +3,28 @@
 "shard": "local/neamt/gadinti/2021",
 "acts": [
 {
+"slug": "hcl-neamt--gadinti-62-2021",
+"path": "local/neamt/gadinti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 62/2021 privind alegerea președintelui de sedinta pentru lunile: noiembrie, decembrie a.c. și ianuarie 2022",
+"short": "HCL Gâdinți nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/38015",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-67-2021",
 "path": "local/neamt/gadinti/2021/67",
 "kind": "local",

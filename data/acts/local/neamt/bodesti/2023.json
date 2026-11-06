@@ -3,6 +3,72 @@
 "shard": "local/neamt/bodesti/2023",
 "acts": [
 {
+"slug": "hcl-neamt--bodesti-94-2023",
+"path": "local/neamt/bodesti/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 94/2023 privind aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Bodești",
+"short": "HCL Bodești nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149121",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-95-2023",
+"path": "local/neamt/bodesti/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 95/2023 privind încheierea unor contracte de consultanţă, asistenţă şi reprezentare juridică",
+"short": "HCL Bodești nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149122",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-96-2023",
+"path": "local/neamt/bodesti/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 96/2023 privind participarea comunei Bodesti la Programul-cheie 1: Surse regenerabile de energie și stocarea energiei din Fondul pentru Modernizare aprobat prin Ordinul Ministrului Energiei,nr. 1431 din 1 noiembrie 2023 si aprobarea indicatorilor tehnico-economici, pentru investitia: ,,Infiintare capacitati de producere a energiei electrice pentru consum propriu din surse regenerabile in Comuna Bodesti, Judetul Neamt”",
+"short": "HCL Bodești nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149123",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-97-2023",
 "path": "local/neamt/bodesti/2023/97",
 "kind": "local",
@@ -22,6 +88,94 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-98-2023",
+"path": "local/neamt/bodesti/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 98/2023 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiție „REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+"short": "HCL Bodești nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149277",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-99-2023",
+"path": "local/neamt/bodesti/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 99/2023 privind declararea Comunei Bodești ca „Zonă sigură pentru femei”",
+"short": "HCL Bodești nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149278",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-100-2023",
+"path": "local/neamt/bodesti/2023/100",
+"kind": "local",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 100/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile ȋn anul 2024",
+"short": "HCL Bodești nr. 100/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149280",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-101-2023",
+"path": "local/neamt/bodesti/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 101/2023 privind participarea comunei Bodesti la Programul-cheie 1: Surse regenerabile de energie și stocarea energiei din Fondul pentru Modernizare aprobat prin Ordinul Ministrului Energiei, nr.1431 din 1 noiembrie 2023 si aprobarea indicatorilor tehnico-economici, pentru investitia: ,,Infiintare capacitati de producere a energiei electrice pentru consum propriu din surse regenerabile in Comuna Bodesti, Judetul Neamt”",
+"short": "HCL Bodești nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149281",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +201,182 @@
 }
 },
 {
+"slug": "hcl-neamt--bodesti-103-2023",
+"path": "local/neamt/bodesti/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 103/2023 privind aprobarea indicatorilor tehnico-economici actualizați pentru obiectivul de investiție „REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+"short": "HCL Bodești nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149283",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-104-2023",
+"path": "local/neamt/bodesti/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 104/2023 privind aprobarea modificării organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Bodești",
+"short": "HCL Bodești nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149332",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-105-2023",
+"path": "local/neamt/bodesti/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 105/2023 privind aprobarea finalizării proiectului „Construire și dotare grădiniță în comuna Bodești, județul Neamț”, cod SMIS 124112",
+"short": "HCL Bodești nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149333",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-106-2023",
+"path": "local/neamt/bodesti/2023/106",
+"kind": "local",
+"year": "2023",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 106/2023 privind aprobarea finalizării proiectului „REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+"short": "HCL Bodești nr. 106/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149334",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-107-2023",
+"path": "local/neamt/bodesti/2023/107",
+"kind": "local",
+"year": "2023",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 107/2023 privind aprobarea actualizării documentației tehnico-economică, pentru obiectivul de investiții \"Extinedere alimentare cu apa potabilă în comuna Bodești, județul Neamț”",
+"short": "HCL Bodești nr. 107/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149335",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-108-2023",
+"path": "local/neamt/bodesti/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 108/2023 privind aprobarea suplimentarii cheltuielilor neeligibile aferente proiectului “REABILITAREA, MODERNIZAREA, EXTINDEREA SI DOTAREA SCOLII GIMNAZIALE, COMUNA BODESTI, JUDETUL NEAMT\", cod SMIS 124077",
+"short": "HCL Bodești nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149362",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-109-2023",
+"path": "local/neamt/bodesti/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 109/2023 privind modificarea Hotărârii de Consiliu Local nr. 58/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate, cu modificările ulterioare",
+"short": "HCL Bodești nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149363",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-110-2023",
+"path": "local/neamt/bodesti/2023/110",
+"kind": "local",
+"year": "2023",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 110/2023 privind rectificarea bugetului local aprobat pentru anul 2023",
+"short": "HCL Bodești nr. 110/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-01",
+"latest": "2024-04-01",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/149364",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--bodesti-111-2023",
 "path": "local/neamt/bodesti/2023/111",
 "kind": "local",
@@ -66,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Bodești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-112-2023",
+"path": "local/neamt/bodesti/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 112/2023 privind aprobarea documentatiei tehnico-economice (faza DALI) si a indicatorior tehnico- economici pentru obiectivul de investitie „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ DE BAZĂ ÎN COMUNA BODEȘTI, JUDEȚUL NEAMȚ”",
+"short": "HCL Bodești nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/150383",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--bodesti-113-2023",
+"path": "local/neamt/bodesti/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bodești nr. 113/2023 privind aprobarea implementării proiectului „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ DE BAZĂ ÎN COMUNA BODEȘTI, JUDEȚUL NEAMȚ”",
+"short": "HCL Bodești nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-16",
+"latest": "2024-04-16",
+"portal": "https://emol.ro/bodesti-nt/registru-hcl/150384",
+"council": "neamt/bodesti",
+"council_name": "Consiliul Local al Comunei Bodești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

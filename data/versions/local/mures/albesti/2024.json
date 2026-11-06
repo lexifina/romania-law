@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-53-2024",
+   "path": "local/mures/albesti/2024/53",
+   "short": "HCL Albești nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 53/2024 privind desemnarea consilierilor locali din cadrul Consiliului Local al Comunei Albești pentru a face parte din Comisia de evaluare a performanţelor profesionale individuale ale Secretarului general al comunei Albești, pe perioada mandatului 2024-2028",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/180906",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/180906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-54-2024",
+   "path": "local/mures/albesti/2024/54",
+   "short": "HCL Albești nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 54/2024 privind desemnarea reprezentanţilor Consiliului Local al Comunei Albești în Consiliul de Administraţie din cadrul Şcolii Gimnaziale Albești pentru anul școlar 2024-2025",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/180907",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/180907",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-55-2024",
    "path": "local/mures/albesti/2024/55",
    "short": "HCL Albești nr. 55/2024",
@@ -133,6 +163,36 @@
      "from": "2024-12-09",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/180910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-58-2024",
+   "path": "local/mures/albesti/2024/58",
+   "short": "HCL Albești nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 58/2024",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/182184",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/182184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-59-2024",
+   "path": "local/mures/albesti/2024/59",
+   "short": "HCL Albești nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 59/2024 privind scutirea de la plata impozitului pe clădiri și teren a unui imobil aparţinând “Fundației Metro Ministries-Filiala Albești.”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/182185",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/182185",
      "sha256": null
     }
    ]

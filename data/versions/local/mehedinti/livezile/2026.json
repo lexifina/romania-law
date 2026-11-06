@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-13-2026",
+   "path": "local/mehedinti/livezile/2026/13",
+   "short": "HCL Livezile nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 13/2026 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/276128",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/276128",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-14-2026",
    "path": "local/mehedinti/livezile/2026/14",
    "short": "HCL Livezile nr. 14/2026",
@@ -123,6 +138,66 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-19-2026",
+   "path": "local/mehedinti/livezile/2026/19",
+   "short": "HCL Livezile nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 19/2026 privind desemnare reprezentant consiliu de administrație la Școala Gimnazială Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/286104",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/286104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-20-2026",
+   "path": "local/mehedinti/livezile/2026/20",
+   "short": "HCL Livezile nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 20/2026 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/290753",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/290753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-21-2026",
+   "path": "local/mehedinti/livezile/2026/21",
+   "short": "HCL Livezile nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 21/2026 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a participării la finanțarea obiectivului „Capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru comuna Livezile, județul Mehedinți”",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/290754",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/290754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-22-2026",
+   "path": "local/mehedinti/livezile/2026/22",
+   "short": "HCL Livezile nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 22/2026 privind desemnarea reprezentantului titular și reprezentantului supleant în Comisia de evaluare a probei de interviu pentru concursul de director la Școala Gimnazială Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/290755",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/290755",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-23-2026",
    "path": "local/mehedinti/livezile/2026/23",
    "short": "HCL Livezile nr. 23/2026",
@@ -193,6 +268,21 @@
      "from": "2026-06-09",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/261460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-8-2026",
+   "path": "local/mehedinti/livezile/2026/8",
+   "short": "HCL Livezile nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 8/2026 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/261461",
+   "versions": [
+    {
+     "from": "2026-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/261461",
      "sha256": null
     }
    ]

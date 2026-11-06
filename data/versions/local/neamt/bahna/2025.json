@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bahna-68-2025",
+   "path": "local/neamt/bahna/2025/68",
+   "short": "HCL Bahna nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 68/2025 privind aprobarea raportului de evaluare si concesionarea suprafetei de 2424 mp teren intravilan din satul Bahna",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/238470",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/238470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-69-2025",
+   "path": "local/neamt/bahna/2025/69",
+   "short": "HCL Bahna nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 69/2025 privind aprobarea raportului de evaluare si concesionarea unei suprafaţe de 1300 m.p., situat în intravilanul satului BAHNA, comuna Bahna, judeţul Neamt",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/238471",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/238471",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bahna-70-2025",
    "path": "local/neamt/bahna/2025/70",
    "short": "HCL Bahna nr. 70/2025",
@@ -43,6 +73,21 @@
      "from": "2025-12-17",
      "units": 1,
      "source_url": "https://emol.ro/bahna-nt/registru-hcl/238472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-71-2025",
+   "path": "local/neamt/bahna/2025/71",
+   "short": "HCL Bahna nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 71/2025 privind alegerea președintelui de sedință",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/244678",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/244678",
      "sha256": null
     }
    ]
@@ -63,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bahna-73-2025",
+   "path": "local/neamt/bahna/2025/73",
+   "short": "HCL Bahna nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 73/2025 privind rectificarea bugetului local al Comunei BAHNA și aprobarea includerii obiectivului de investiții „DOTAREA CU AUTOUTILITARĂ A SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ AL COMUNEI BAHNA, JUDEȚUL NEAMȚ” în lista de investiții a Comunei BAHNA",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/244680",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/244680",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bahna-74-2025",
    "path": "local/neamt/bahna/2025/74",
    "short": "HCL Bahna nr. 74/2025",
@@ -73,6 +133,51 @@
      "from": "2026-04-30",
      "units": 1,
      "source_url": "https://emol.ro/bahna-nt/registru-hcl/244681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-75-2025",
+   "path": "local/neamt/bahna/2025/75",
+   "short": "HCL Bahna nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 75/2025 privind aprobarea implementarii proiectului de investitii cu titlul „DOTAREA CU AUTOUTILITARĂ A SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ AL COMUNEI BAHNA, JUDEȚUL NEAMȚ”",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/244682",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/244682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-76-2025",
+   "path": "local/neamt/bahna/2025/76",
+   "short": "HCL Bahna nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 76/2025",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/244683",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/244683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bahna-77-2025",
+   "path": "local/neamt/bahna/2025/77",
+   "short": "HCL Bahna nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bahna nr. 77/2025",
+   "url": "https://emol.ro/bahna-nt/registru-hcl/244684",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bahna-nt/registru-hcl/244684",
      "sha256": null
     }
    ]

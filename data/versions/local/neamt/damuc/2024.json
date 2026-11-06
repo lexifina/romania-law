@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/damuc/2024",
+ "acts": [
+  {
+   "slug": "hcl-neamt--damuc-23-2024",
+   "path": "local/neamt/damuc/2024/23",
+   "short": "HCL Dămuc nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dămuc nr. 23/2024",
+   "url": "https://comunadamuc.ro/wp-content/uploads/2026/06/Hcl-nr-23-din-25.04.2024-privind-participarea-comunei-Damuc-la-infiintarea-GAL-.pdf",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://comunadamuc.ro/wp-content/uploads/2026/06/Hcl-nr-23-din-25.04.2024-privind-participarea-comunei-Damuc-la-infiintarea-GAL-.pdf",
+     "sha256": "eca94fdd86ea5c110b00e45a1a404adce3ba9dcc74c8fb53e2cb6f02da9f6859"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--damuc-43-2024",
+   "path": "local/neamt/damuc/2024/43",
+   "short": "HCL Dămuc nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dămuc nr. 43/2024 privind retragerea comunei Tupilați din cadrul Asociației de Dezvoltare Intercomunitară AQUA NEAMȚ și modificarea Actelor Statutare ale Asociației de Dezvoltare Intercomunitară ”AQUA NEAMȚ” Consiliul local DĂMUC; Având în vedere Hotărârea Consiliului Local Tupilați nr. 20 din 27.03.2024 de retragere din cadrul Asociației de Dezvoltare Intercomunitară AQUA NEAMȚ, primită la Asociație la data de 24",
+   "url": "https://comunadamuc.ro/wp-content/uploads/2026/06/Hcl-nr-43-din-13.08.2024-privind-aprobarea-retragere-Comuna-Tupilati-din-cadrul-AQUA-NEAMT.pdf",
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "units": 1,
+     "source_url": "https://comunadamuc.ro/wp-content/uploads/2026/06/Hcl-nr-43-din-13.08.2024-privind-aprobarea-retragere-Comuna-Tupilati-din-cadrul-AQUA-NEAMT.pdf",
+     "sha256": "fcedf0dbba71e89c60f26e76638d52c72630f90f61ee2238bfcbd6969f12f5e3"
+    }
+   ]
+  }
+ ]
+}

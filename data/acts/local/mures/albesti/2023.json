@@ -3,6 +3,28 @@
 "shard": "local/mures/albesti/2023",
 "acts": [
 {
+"slug": "hcl-mures--albesti-48-2023",
+"path": "local/mures/albesti/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2023 privind desemnarea persoanei responsabile și a înlocuitorului acesteia, pentru ținerea Registrului de evidență a datoriei publice locale și a Registrului de evidență a garanțiilor locale a comunei Albești",
+"short": "HCL Albești nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-05",
+"latest": "2023-10-05",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/123653",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-49-2023",
 "path": "local/mures/albesti/2023/49",
 "kind": "local",
@@ -400,6 +422,28 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-67-2023",
+"path": "local/mures/albesti/2023/67",
+"kind": "local",
+"year": "2023",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 67/2023 privind desemnarea unui reprezentant al instituției Primăria Comunei Albești care să participe la procedurile judiciare(cu excepția primarului) în dosarul nr.1129/P/2020 la Parchetul de pe lângă Judecătoria Sighișoara, și deliberarea asupra aspectelor legate de latura civilă a cauzei",
+"short": "HCL Albești nr. 67/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-04",
+"latest": "2024-01-04",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/136214",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

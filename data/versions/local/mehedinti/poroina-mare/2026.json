@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--poroina-mare-22-2026",
+   "path": "local/mehedinti/poroina-mare/2026/22",
+   "short": "HCL Poroina Mare nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 22/2026 privind desemnarea reprezentantului Consiliului Local al comunei Poroina Mare in Consiliul de administratie, Comisia pentru evaluarea si asigurarea calitatii, Comisia pentru prevenirea si combaterea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii, precum si in Grupul de actiune pentru facilitarea comunicarii in vederea adaptarii masurilor legale necesare pentru prevenirea si combaterea violentei si cresterea gradului de siguranta scolara din cadrul Scolii Primare Poroina Mare, pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/290575",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/290575",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--poroina-mare-23-2026",
    "path": "local/mehedinti/poroina-mare/2026/23",
    "short": "HCL Poroina Mare nr. 23/2026",
@@ -193,6 +208,21 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/290576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--poroina-mare-24-2026",
+   "path": "local/mehedinti/poroina-mare/2026/24",
+   "short": "HCL Poroina Mare nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 24/2026 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a participării la finanțarea obiectivului „Înființarea capacității de stocare a energiei electrice pentru centrala fotovoltaică a UAT Poroina Mare”",
+   "url": "https://emol.ro/poroinamare-mh/registru-hcl/290577",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/poroinamare-mh/registru-hcl/290577",
      "sha256": null
     }
    ]

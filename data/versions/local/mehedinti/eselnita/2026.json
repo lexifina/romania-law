@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-101-2026",
+   "path": "local/mehedinti/eselnita/2026/101",
+   "short": "HCL Eșelnița nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 101/2026 privind încheierea unui acord de parteneriat între ASOCIAȚIA TRAVEL PRO și UAT COMUNA EȘELNIȚA în vederea implementării proiectului „Oamenii Eșelnița-Memoria Vie a Comunității” privind promovarea patrimoniului cultural și identității locale a Comunei Eșelnița",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292032",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292032",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-102-2026",
    "path": "local/mehedinti/eselnita/2026/102",
    "short": "HCL Eșelnița nr. 102/2026",
@@ -28,6 +43,51 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-103-2026",
+   "path": "local/mehedinti/eselnita/2026/103",
+   "short": "HCL Eșelnița nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 103/2026 privind demararea procedurii de licitație publică în vederea întocmirii documentației tehnice-studiu de fezabilitate, Proiect tehnic pentru obținerea autorizației de securitate la incendiu în conformitate cu Ordinul nr. 180/2022 a Ministerul Afacerilor Interne-MAI pentru ȘCOALA GIMNAZIALĂ EȘELNIȚA în urma finalizării proiectului „Investiții în clădirile publice în vederea asigurării/creșterii eficienței energetice și măsuri pentru utilizarea unor surse regenerabile de energie-Școala Generală Eșelnița în comuna Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292056",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-104-2026",
+   "path": "local/mehedinti/eselnita/2026/104",
+   "short": "HCL Eșelnița nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 104/2026 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292072",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-105-2026",
+   "path": "local/mehedinti/eselnita/2026/105",
+   "short": "HCL Eșelnița nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 105/2026 privind modificarea art.2 din HCL nr. 87 din 27.08.2026 privind aprobarea demarării procedurii de licitație publică în vederea achiziționării pe SEAP a unui sistem de supraveghere video și a celui de anifracție pentru Școala Gimnazială Eșelnița",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292076",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292076",
      "sha256": null
     }
    ]
@@ -63,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--eselnita-108-2026",
+   "path": "local/mehedinti/eselnita/2026/108",
+   "short": "HCL Eșelnița nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 108/2026 privind aprobarea achiziționării unui container tip locuință în vederea asigurării adăpostului de urgență pentru numita BĂRBOSU Constanța-Izabela persoană fără adăpost",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292080",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292080",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--eselnita-109-2026",
    "path": "local/mehedinti/eselnita/2026/109",
    "short": "HCL Eșelnița nr. 109/2026",
@@ -73,6 +148,96 @@
      "from": "2026-10-16",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/293528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-110-2026",
+   "path": "local/mehedinti/eselnita/2026/110",
+   "short": "HCL Eșelnița nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 110/2026 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2027/2028",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296896",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-111-2026",
+   "path": "local/mehedinti/eselnita/2026/111",
+   "short": "HCL Eșelnița nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 111/2026",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296897",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-112-2026",
+   "path": "local/mehedinti/eselnita/2026/112",
+   "short": "HCL Eșelnița nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 112/2026 privind aprobarea demarării procedurii de licitație publică în SEAP în vederea achiziționării servicii de consultanță în domeniul achizițiilor publice pentru obiectivul de investiții „Instalare capacitate de STOCARE a energiei din surse solare pentru autoconsumul comunei Eșelnița” prin apelul de proiecte-Sprijinirea investițiilor în dezvoltare de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice, finanțat prin Fondul de Modernizare",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296899",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-113-2026",
+   "path": "local/mehedinti/eselnita/2026/113",
+   "short": "HCL Eșelnița nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 113/2026 privind scoaterea la licitație publică în vederea vânzării terenului în suprafață de 457 mp, înscris CF 50627, nr. cadastral 50627, intravilan, situat în comuna Eșelnița, ZONA STADION-lot 4, categoria curții-construcții, lot ce face parte din domeniul privat al comunei Eșelnița",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296910",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-114-2026",
+   "path": "local/mehedinti/eselnita/2026/114",
+   "short": "HCL Eșelnița nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 114/2026 privind aprobarea rectificării Bugetului de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296914",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-115-2026",
+   "path": "local/mehedinti/eselnita/2026/115",
+   "short": "HCL Eșelnița nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 115/2026 privind externalizarea serviciilor pentru efectuarea operațiunilor de contabilitate, conducerea contabilității, întocmirea situațiilor financiare, etc către un expert contabil autorizat în cadrul Primăriei Comunei Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/296915",
+   "versions": [
+    {
+     "from": "2026-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/296915",
      "sha256": null
     }
    ]
@@ -118,6 +283,21 @@
      "from": "2026-09-08",
      "units": 1,
      "source_url": "https://emol.ro/eselnita-mh/registru-hcl/286610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--eselnita-99-2026",
+   "path": "local/mehedinti/eselnita/2026/99",
+   "short": "HCL Eșelnița nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 99/2026 privind nominalizarea reprezentanți Consiliului Local Eșelnița în Comisia de evaluare a probei de intervi pentru concursul de ocupare a postului de director la ȘCOALA GIMNAZIALĂ EȘELNIȚA din comuna Eșelnița, județul Mehedinți",
+   "url": "https://emol.ro/eselnita-mh/registru-hcl/292025",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/eselnita-mh/registru-hcl/292025",
      "sha256": null
     }
    ]

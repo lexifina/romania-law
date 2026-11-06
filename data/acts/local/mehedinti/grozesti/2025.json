@@ -3,6 +3,160 @@
 "shard": "local/mehedinti/grozesti/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--grozesti-63-2025",
+"path": "local/mehedinti/grozesti/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 63/2025 privind aprobarea extinderii sistemului de supraveghere video si a sistemului antiefractie la sediul Scolii Gimnaziale Grozesti",
+"short": "HCL Grozești nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/224999",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-64-2025",
+"path": "local/mehedinti/grozesti/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 64/2025 privind „Realizarea unui parc fotovoltaic destinat acoperirii parțiale a consumului de energie generat de iluminatul public din nordul comunei Grozești, judetul Mehedinti”",
+"short": "HCL Grozești nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/225000",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-65-2025",
+"path": "local/mehedinti/grozesti/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 65/2025 privind „Realizarea unui parc fotovoltaic destinat acoperirii parțiale a consumului de energie generat de iluminatul public din sudul comunei Grozești, judetul Mehedinti”",
+"short": "HCL Grozești nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/225001",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-66-2025",
+"path": "local/mehedinti/grozesti/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 66/2025 privind „Realizarea unui parc fotovoltaic destinat acoperirii parțiale a consumului de energie generat de cladirile publice din comuna Grozești, judetul Mehedinti”",
+"short": "HCL Grozești nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-26",
+"latest": "2025-09-26",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/225002",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-67-2025",
+"path": "local/mehedinti/grozesti/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 67/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Grozesti",
+"short": "HCL Grozești nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/233150",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-68-2025",
+"path": "local/mehedinti/grozesti/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 68/2025 privind modificarea organigramei si a statului de funcţii publice si in regim contractual al aparatului de specialitate al primarului Comunei Grozești, județul Mehedinți",
+"short": "HCL Grozești nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/233151",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-69-2025",
+"path": "local/mehedinti/grozesti/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 69/2025 privind aprobarea transferului Cererii de finantare a proiectului ,,Construire și dotare Centru Comunitar Integrat, comuna Grozești, Jud. Mehedinți\" din cadrul PLANULUI NAȚIONAL DE REDRESARE ȘI REZILIENȚĂ in cadrul Primariei Comunei Grozesti, in vederea finantarii din bugetul local al Comunei Grozesti",
+"short": "HCL Grozești nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/233152",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-70-2025",
 "path": "local/mehedinti/grozesti/2025/70",
 "kind": "local",
@@ -25,6 +179,138 @@
 }
 },
 {
+"slug": "hcl-mehedinti--grozesti-71-2025",
+"path": "local/mehedinti/grozesti/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 71/2025 privind mandatarea reprezentantului Consiliului Local al Comunei Grozesti în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificării Contractului de delegare prin concesiune a serviciului public de salubrizare nr. 817/1180 din 23.10.2019 Lot 3- Zona Strehaia",
+"short": "HCL Grozești nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/233154",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-72-2025",
+"path": "local/mehedinti/grozesti/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 72/2025 privind modificarea HCL nr.58 din 16.09.2025 privind desemnarea reprezentantului Consiliului Local al comunei Grozesti în cadrul Consiliului de Administraţie al Scolii Gimnaziale Grozesti",
+"short": "HCL Grozești nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/233155",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-73-2025",
+"path": "local/mehedinti/grozesti/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 73/2025 privind alegerea presedintelui de sedinta",
+"short": "HCL Grozești nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/238755",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-74-2025",
+"path": "local/mehedinti/grozesti/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 74/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Grozesti",
+"short": "HCL Grozești nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/238756",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-75-2025",
+"path": "local/mehedinti/grozesti/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 75/2025 privind respingerea cererii de ajustare a tarifelor de colectare separata si transport separat al deseurilor reziduale si de colectare separata si transport separat al deseurilor reciclabile de hartie, metal, plastic si sticla, precum si mandatarea reprezentantului uat Comuna Grozesti în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți",
+"short": "HCL Grozești nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/238757",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-76-2025",
+"path": "local/mehedinti/grozesti/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 76/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Grozesti",
+"short": "HCL Grozești nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/240669",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--grozesti-77-2025",
 "path": "local/mehedinti/grozesti/2025/77",
 "kind": "local",
@@ -44,6 +330,72 @@
 "council_name": "Consiliul Local al Comunei Grozești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-78-2025",
+"path": "local/mehedinti/grozesti/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 78/2025 privind rectificarea bugetului local de venituri si cheltuieli al comunei Grozesti",
+"short": "HCL Grozești nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-23",
+"latest": "2026-01-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/242555",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-79-2025",
+"path": "local/mehedinti/grozesti/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 79/2025 privind mandatarea reprezentantului UAT Comuna Grozești în Adunarea Generală a ADIS Mehedinți în vederea exprimării votului „pentru” încetarea Contractului de delegare nr.817/1180/11.12.2019 exclusiv pentru aria de operare a UAT Oraș Strehaia",
+"short": "HCL Grozești nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-23",
+"latest": "2026-01-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/242556",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--grozesti-80-2025",
+"path": "local/mehedinti/grozesti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grozești nr. 80/2025 privind aprobarea mandatului special al reprezentantului UAT Comuna Grozești în AGA ADIS Mehedinți, în vederea exprimării votului „pentru” atribuirea în gestiune directa a activităților de colectare separată și transport separat al deșeurilor municipale pentru aria de operare a UAT Oraș Strehaia",
+"short": "HCL Grozești nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-23",
+"latest": "2026-01-23",
+"portal": "https://emol.ro/grozesti-mh/registru-hcl/242557",
+"council": "mehedinti/grozesti",
+"council_name": "Consiliul Local al Comunei Grozești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

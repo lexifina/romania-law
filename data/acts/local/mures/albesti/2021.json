@@ -3,6 +3,28 @@
 "shard": "local/mures/albesti/2021",
 "acts": [
 {
+"slug": "hcl-mures--albesti-51-2021",
+"path": "local/mures/albesti/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 51/2021 privind desemnarea reprezentantului Consiliului Local al comunei Albesti în comisiile de evaluare a probei de interviu a concursului pentru ocuparea funcțiilor de director și director adjunct din unitățile din sistemul național de învățământ preuniversitar de stat din județul Mureș, sesiunea 2021",
+"short": "HCL Albești nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-14",
+"latest": "2021-10-14",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/38375",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--albesti-52-2021",
 "path": "local/mures/albesti/2021/52",
 "kind": "local",
@@ -198,6 +220,74 @@
 "council_name": "Consiliul Local al Comunei Albești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--albesti-61-2021",
+"path": "local/mures/albesti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 61/2021 privind redimensionarea și înlocuirea garanției constituite de VES SA în vederea eșalonării la plată stabilite prin decizia 5795/10.07.2019",
+"short": "HCL Albești nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/43205",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--albesti-62-2021",
+"path": "local/mures/albesti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 62/2021",
+"short": "HCL Albești nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/43206",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--albesti-63-2021",
+"path": "local/mures/albesti/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Albești nr. 63/2021",
+"short": "HCL Albești nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://emol.ro/albesti-ms/registru-hcl/43207",
+"council": "mures/albesti",
+"council_name": "Consiliul Local al Comunei Albești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/rastolita/2020",
+ "acts": [
+  {
+   "slug": "hcl-mures--rastolita-1-2020",
+   "path": "local/mures/rastolita/2020/1",
+   "short": "HCL Răstolița nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Răstolița nr. 1/2020 pentru Situatii de Urgenta Rastolita privind masuri combatere CORONAVIRUS",
+   "url": "http://www.comunarastolita.ro/",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "http://www.comunarastolita.ro/download/Hotararea%20nr.%201%20din%2011%20martie%202020%20a%20Comitetului%20Local%20pentru%20Situatii%20de%20Urgenta%20Rastolita%20privind%20masuri%20combatere%20CORONAVIRUS.pdf",
+     "sha256": "1e1039d79359ca91df94d973157c8697c650ba3533e51e29a54a448d32eed636"
+    }
+   ]
+  }
+ ]
+}

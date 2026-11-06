@@ -3,6 +3,36 @@
  "shard": "local/mures/albesti/2020",
  "acts": [
   {
+   "slug": "hcl-mures--albesti-45-2020",
+   "path": "local/mures/albesti/2020/45",
+   "short": "HCL Albești nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 45/2020 privind aprobarea anulării unor creanțe ale SC Rallax SRL, Asociația Târnava Mică Filiala Boiu și SC Teleson Net SRL",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12650",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-46-2020",
+   "path": "local/mures/albesti/2020/46",
+   "short": "HCL Albești nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 46/2020 privind transformarea unui post aferent unei functii publice din aparatul de specialitate al primarului Comunei Albesti",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12651",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12651",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-47-2020",
    "path": "local/mures/albesti/2020/47",
    "short": "HCL Albești nr. 47/2020",
@@ -13,6 +43,66 @@
      "from": "2020-11-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/12652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-48-2020",
+   "path": "local/mures/albesti/2020/48",
+   "short": "HCL Albești nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 48/2020",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12653",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-49-2020",
+   "path": "local/mures/albesti/2020/49",
+   "short": "HCL Albești nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 49/2020 privind desemnarea reprezentanţilor Consiliului Local al comunei Albesti în Consiliul de Administraţie şi în Comisia pentru Evaluarea şi Asigurarea Calităţii constituite în cadrul Şcolii gimnaziale Albesti",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12654",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-50-2020",
+   "path": "local/mures/albesti/2020/50",
+   "short": "HCL Albești nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 50/2020",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12655",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-51-2020",
+   "path": "local/mures/albesti/2020/51",
+   "short": "HCL Albești nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 51/2020 privind aprobarea prelungirii contractului de închiriere încheiat între Parohia Ortodoxă Română Boiu și Primăria comunei Albești, pentru construcția Sala de sport aferentă Școlii Gimnaziale Boiu unde aceasta îşi desfăşoară activitatea, situat în comuna Albești, sat Boiu nr.204",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12656",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12656",
      "sha256": null
     }
    ]
@@ -43,6 +133,21 @@
      "from": "2020-11-19",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/12658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-54-2020",
+   "path": "local/mures/albesti/2020/54",
+   "short": "HCL Albești nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 54/2020",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/12659",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/12659",
      "sha256": null
     }
    ]

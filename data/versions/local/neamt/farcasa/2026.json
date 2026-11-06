@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/farcasa/2026",
+ "acts": [
+  {
+   "slug": "hcl-neamt--farcasa-11-2026",
+   "path": "local/neamt/farcasa/2026/11",
+   "short": "HCL Farcașa nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Farcașa nr. 11/2026",
+   "url": "https://primariafarcasa.ro/wp-content/uploads/2026/05/Hotarare-nr.-11-din-10.03.2026-aprobare-si-acordare-mandat-special.pdf",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://primariafarcasa.ro/wp-content/uploads/2026/05/Hotarare-nr.-11-din-10.03.2026-aprobare-si-acordare-mandat-special.pdf",
+     "sha256": "5e419f1594ab5185f295454529473a58fe0870be95720bdd8daf13ad6c19ce27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--farcasa-38-2026",
+   "path": "local/neamt/farcasa/2026/38",
+   "short": "HCL Farcașa nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Farcașa nr. 38/2026",
+   "url": "https://primariafarcasa.ro/wp-content/uploads/2026/06/Hotarare-nr.-38-din-07.05.2026-aprobare-buget-local-an-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://primariafarcasa.ro/wp-content/uploads/2026/06/Hotarare-nr.-38-din-07.05.2026-aprobare-buget-local-an-2026.pdf",
+     "sha256": "2246f23404b321f64922b42a6e559a4fbbf7509352cbf157949c66e8c3256c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--farcasa-48-2026",
+   "path": "local/neamt/farcasa/2026/48",
+   "short": "HCL Farcașa nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Farcașa nr. 48/2026",
+   "url": "https://primariafarcasa.ro/wp-content/uploads/2026/07/Hcl-nr.-48-din-27.05.2026-buget-rectificat-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-05-27",
+     "units": 1,
+     "source_url": "https://primariafarcasa.ro/wp-content/uploads/2026/07/Hcl-nr.-48-din-27.05.2026-buget-rectificat-2026.pdf",
+     "sha256": "9203d47bee207c816a6d7fe4e61b99923ec7d138020cb0f235726d32e7fee61e"
+    }
+   ]
+  }
+ ]
+}

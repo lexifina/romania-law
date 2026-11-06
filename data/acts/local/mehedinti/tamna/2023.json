@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--tamna-23-2023",
+"path": "local/mehedinti/tamna/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 23/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Tâmna nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/111620",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-24-2023",
 "path": "local/mehedinti/tamna/2023/24",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-25-2023",
+"path": "local/mehedinti/tamna/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 25/2023 privind mandatarea reprezentantului Consiliului Local al comunei Tamna în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi pentru a vota aprobarea modificării Contractului de Delegare a Gestiunii serviciilor publice de alimentare cu apă şi de canalizare nr. 20 din 06.11.2009",
+"short": "HCL Tâmna nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-10",
+"latest": "2023-07-10",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/111622",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--tamna-27-2023",
+"path": "local/mehedinti/tamna/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 27/2023 privind revocarea HCL nr.11/20.03.2023 privind desemnarea consilierilor locali din cadrul Consiliului local Tamna pentru a face parte din comisia de evaluare a performantelor individuale ale secretarului",
+"short": "HCL Tâmna nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/117826",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-28-2023",
+"path": "local/mehedinti/tamna/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 28/2023 privind revocarea HCL nr.13/20.03.2023 privind mandatarea reprezentantului Consiliului local al comunei Tamna in Adunarea Generala a Asociatiei pentru Managementul Serviciilor de Apa si Canalizare Mehedinti pentru a vota aprobarea modificarii Contractului de delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare nr.20/06.11.2009",
+"short": "HCL Tâmna nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/117827",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-29-2023",
 "path": "local/mehedinti/tamna/2023/29",
 "kind": "local",
@@ -88,6 +176,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-30-2023",
+"path": "local/mehedinti/tamna/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 30/2023 privind alegerea preşedintelui de şedinţă pentru şedinţele consiliului Local Tamna,Judetul Mehedinti pe durata a 3 luni",
+"short": "HCL Tâmna nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/120645",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +242,52 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-33-2023",
+"path": "local/mehedinti/tamna/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 33/2023",
+"short": "HCL Tâmna nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/125900",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-34-2023",
+"path": "local/mehedinti/tamna/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 34/2023",
+"short": "HCL Tâmna nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/125901",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -201,6 +357,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--tamna-38-2023",
+"path": "local/mehedinti/tamna/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 38/2023 privind mandatarea reprezentantului Consiliului Local al Comunei Tamna în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți, pentru a vota aprobarea modificării Contractului de delegare prin concesiune a serviciului public de salubrizare nr. 817/1180 din 11.12.2019 Lot 3- Zona Strehaia",
+"short": "HCL Tâmna nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-28",
+"latest": "2023-11-28",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/130309",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--tamna-39-2023",
 "path": "local/mehedinti/tamna/2023/39",
 "kind": "local",
@@ -242,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Tâmna",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--tamna-41-2023",
+"path": "local/mehedinti/tamna/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tâmna nr. 41/2023 privind alegerea preşedintelui de şedinţă pentru şedinţele consiliului Local Tamna,Judetul Mehedinti pe durata a 3 luni",
+"short": "HCL Tâmna nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/tamna-mh/registru-hcl/133952",
+"council": "mehedinti/tamna",
+"council_name": "Consiliul Local al Comunei Tâmna",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

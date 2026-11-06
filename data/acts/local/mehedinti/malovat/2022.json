@@ -3,6 +3,248 @@
 "shard": "local/mehedinti/malovat/2022",
 "acts": [
 {
+"slug": "hcl-mehedinti--malovat-40-2022",
+"path": "local/mehedinti/malovat/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 40/2022 privind alegerea președintelui de ședință pentru perioada noiembrie-decembrie 2022, ianuarie 2023",
+"short": "HCL Malovăț nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77886",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-41-2022",
+"path": "local/mehedinti/malovat/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 41/2022 privind modificarea HCL nr.38/23.09.2022 privind utilizarea excedentului bugetar din anul 2021",
+"short": "HCL Malovăț nr. 41/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77887",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-42-2022",
+"path": "local/mehedinti/malovat/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 42/2022 privind aprobarea Dispoziției nr.177/26.09.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 42/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77888",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-43-2022",
+"path": "local/mehedinti/malovat/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 43/2022 privind aprobarea Dispoziției nr.179/28.09.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77889",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-44-2022",
+"path": "local/mehedinti/malovat/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 44/2022 privind aprobarea Dispoziției nr.209/13.10.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77890",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-45-2022",
+"path": "local/mehedinti/malovat/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 45/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț în 2022",
+"short": "HCL Malovăț nr. 45/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/77891",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-46-2022",
+"path": "local/mehedinti/malovat/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 46/2022 privind aprobarea devizului general și a indicatorilor tehnico- economici, cuprinși în acesta, privind cheltuielile de capital necesare realizării obiectivului de investiții „Rigolă carosabilă din punctul „ La Lache”, localitatea Malovăț, comuna Malovăț, județul Mehedinți” faza Proiect tehnic",
+"short": "HCL Malovăț nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/79089",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-47-2022",
+"path": "local/mehedinti/malovat/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 47/2022 privind modificarea HCL nr.41/31.10.2022 privind utilizarea excedentului bugetar din anul 2021",
+"short": "HCL Malovăț nr. 47/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/79090",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-48-2022",
+"path": "local/mehedinti/malovat/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 48/2022 privind aprobarea Devizului general actualizat la finalizarea execuției lucrărilor la obiectivului de investiții ”Modernizare drumuri de interes local în comuna, comuna Malovăț, județul Mehedinți”",
+"short": "HCL Malovăț nr. 48/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/79091",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-49-2022",
+"path": "local/mehedinti/malovat/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 49/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Malovăț în 2022",
+"short": "HCL Malovăț nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/79092",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-50-2022",
+"path": "local/mehedinti/malovat/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 50/2022 privind rectificarea bugetului SPAA Malovăț de venituri și cheltuieli în 2022",
+"short": "HCL Malovăț nr. 50/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-22",
+"latest": "2022-11-22",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/80439",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--malovat-51-2022",
 "path": "local/mehedinti/malovat/2022/51",
 "kind": "local",
@@ -22,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Malovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-52-2022",
+"path": "local/mehedinti/malovat/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 52/2022 privind mandatarea reprezentantului Consiliului Local al comunei Malovăț în Adunarea Generală a Asociaţiei pentru Managementul Serviciilor de Apă şi de Canalizare Mehedinţi, pentru a vota aprobarea modificării Actului Constitutiv şi Statutului Asociaţiei",
+"short": "HCL Malovăț nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/82837",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +311,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--malovat-54-2022",
+"path": "local/mehedinti/malovat/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 54/2022 privind aprobarea Dispoziției nr.236/24.11.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/82839",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-55-2022",
+"path": "local/mehedinti/malovat/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 55/2022 privind aprobarea Dispoziției nr.237/28.11.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/82840",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--malovat-56-2022",
 "path": "local/mehedinti/malovat/2022/56",
 "kind": "local",
@@ -66,6 +374,72 @@
 "council_name": "Consiliul Local al Comunei Malovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-57-2022",
+"path": "local/mehedinti/malovat/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 57/2022 privind privind aprobarea studiului de fezabilitate/indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Asfaltare drumuri comunale/sătești din comuna Malovăț, județul Mehedinți, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Malovăț nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/82842",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-58-2022",
+"path": "local/mehedinti/malovat/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 58/2022 privind aprobarea Dispoziției nr.246/15.12.2022 a Primarului comunei Malovăț prin care s-a dispus rectificarea bugetului local al comunei Malovăț pe anul 2022",
+"short": "HCL Malovăț nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/84160",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--malovat-59-2022",
+"path": "local/mehedinti/malovat/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malovăț nr. 59/2022 privind rectificarea bugetului local Malovăț de venituri și cheltuieli în 2022",
+"short": "HCL Malovăț nr. 59/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/malovat-mh/registru-hcl/84161",
+"council": "mehedinti/malovat",
+"council_name": "Consiliul Local al Comunei Malovăț",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

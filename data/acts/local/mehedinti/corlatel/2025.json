@@ -3,6 +3,28 @@
 "shard": "local/mehedinti/corlatel/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--corlatel-23-2025",
+"path": "local/mehedinti/corlatel/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 23/2025 privind atribuirea în folosință gratuită a unui teren din domeniul privat al comunei",
+"short": "HCL Corlățel nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-09",
+"latest": "2025-10-09",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/225943",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--corlatel-24-2025",
 "path": "local/mehedinti/corlatel/2025/24",
 "kind": "local",

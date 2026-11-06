@@ -153,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--farcasa-59-2021",
+   "path": "local/maramures/farcasa/2021/59",
+   "short": "HCL Fărcașa nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 59/2021 privind modificarea și completarea Regulamentului de organizare și funcționare a Consiliului local al comunei Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/42988",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/42988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-60-2021",
+   "path": "local/maramures/farcasa/2021/60",
+   "short": "HCL Fărcașa nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 60/2021 privind modificarea organigramei și statului de funcții la nivelul instituției publice Comuna Fărcașa",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/42989",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/42989",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--farcasa-61-2021",
    "path": "local/maramures/farcasa/2021/61",
    "short": "HCL Fărcașa nr. 61/2021",
@@ -163,6 +193,111 @@
      "from": "2021-11-19",
      "units": 1,
      "source_url": "https://emol.ro/farcasa-mm/registru-hcl/42990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-62-2021",
+   "path": "local/maramures/farcasa/2021/62",
+   "short": "HCL Fărcașa nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 62/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/46070",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/46070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-63-2021",
+   "path": "local/maramures/farcasa/2021/63",
+   "short": "HCL Fărcașa nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 63/2021 privind aprobarea prețului de referință a masei lemnoase pentru anul 2022",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47573",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-64-2021",
+   "path": "local/maramures/farcasa/2021/64",
+   "short": "HCL Fărcașa nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 64/2021 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli al României, la nivel local, pentru anii școlari 2022-2023, 2023-2024, 2024-2025, 2025-2026",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47574",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-65-2021",
+   "path": "local/maramures/farcasa/2021/65",
+   "short": "HCL Fărcașa nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 65/2021 privind modificarea Hotărârii Consiliului local al comunei Fărcașa nr.82 din 28 septembrie 2017 privind stabilirea unor măsuri pentru acordarea ajutoarelor de urgență în temeiul art.28 alin (2) din Legea nr.416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47575",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-66-2021",
+   "path": "local/maramures/farcasa/2021/66",
+   "short": "HCL Fărcașa nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 66/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47576",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-67-2021",
+   "path": "local/maramures/farcasa/2021/67",
+   "short": "HCL Fărcașa nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 67/2021",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47577",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--farcasa-68-2021",
+   "path": "local/maramures/farcasa/2021/68",
+   "short": "HCL Fărcașa nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Fărcașa nr. 68/2021 privind aprobarea reţelei şcolare la nivelul comunei Fărcaşa pentru anul şcolar 2022-2023",
+   "url": "https://emol.ro/farcasa-mm/registru-hcl/47578",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/farcasa-mm/registru-hcl/47578",
      "sha256": null
     }
    ]

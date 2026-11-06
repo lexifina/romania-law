@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/iernut/2020",
+ "acts": [
+  {
+   "slug": "hcl-mures--iernut-361-2020",
+   "path": "local/mures/iernut/2020/361",
+   "short": "HCL Iernut nr. 361/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 361/2020",
+   "url": "https://primariaiernut.ro/documente/procesele-verbale-ale-sedintelor-autoritatii-deliberative-aferente-anului-2020/",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/03/ORDINUL-PREFECTULUI-JUDETUL-MURES-NR.361din22.10.2020-PRIVIND-CONSTATAREA-CA-LEGAL-CONSTITUIT-A-CONSILIULUI-LOCAL-AL-ORASULUI-IERNUT.pdf",
+     "sha256": "ef0cffd41760b7f0f9075d81d8950c1578524bd2fc099468ec9277a4f5666bb4"
+    }
+   ]
+  }
+ ]
+}

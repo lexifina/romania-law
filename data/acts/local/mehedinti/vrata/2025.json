@@ -3,6 +3,138 @@
 "shard": "local/mehedinti/vrata/2025",
 "acts": [
 {
+"slug": "hcl-mehedinti--vrata-22-2025",
+"path": "local/mehedinti/vrata/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 22/2025 privind completarea Capitolului VIII-alte taxe locale din HCL nr.54/18.12.2024 privind stabilirea impozitelor si taxelor locale pentru anul 2025",
+"short": "HCL Vrata nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-01",
+"latest": "2025-08-01",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/219794",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-23-2025",
+"path": "local/mehedinti/vrata/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 23/2025 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2025",
+"short": "HCL Vrata nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253026",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-24-2025",
+"path": "local/mehedinti/vrata/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 24/2025 privind alegerea preşedintelui de şedinţă pentru şedinţele din lunile (august, septembrie si octombrie 2025) in cadrul Consiliului Local al comunei Vrata, judeţul Mehedinti;",
+"short": "HCL Vrata nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253027",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-25-2025",
+"path": "local/mehedinti/vrata/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 25/2025 privind analiza stadiului de înscriere a datelor în Registrul agricol pentru semestrul I al anului 2025 şi stabilirea măsurilor pentru eficientizarea acestei activităţi la Comuna Vrata, judetul Mehedinti",
+"short": "HCL Vrata nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253028",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-26-2025",
+"path": "local/mehedinti/vrata/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 26/2025 privind aprobarea raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap pentru semestrul I an 2025",
+"short": "HCL Vrata nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253029",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-27-2025",
+"path": "local/mehedinti/vrata/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 27/2025 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2025",
+"short": "HCL Vrata nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253030",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vrata-28-2025",
 "path": "local/mehedinti/vrata/2025/28",
 "kind": "local",
@@ -25,6 +157,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vrata-29-2025",
+"path": "local/mehedinti/vrata/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 29/2025 privind desemnarea reprezentantului Consiliului Local al comunei Vrata în Consiliul de Administraţie al Şcolii Gimnaziale Vrata, în anul şcolar 2025-2026",
+"short": "HCL Vrata nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253031",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-30-2025",
+"path": "local/mehedinti/vrata/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 30/2025 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2025",
+"short": "HCL Vrata nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253033",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vrata-31-2025",
 "path": "local/mehedinti/vrata/2025/31",
 "kind": "local",
@@ -44,6 +220,72 @@
 "council_name": "Consiliul Local al Comunei Vrata",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-32-2025",
+"path": "local/mehedinti/vrata/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 32/2025 privind alegerea preşedintelui de şedinţă pentru şedinţele din lunile pentru lunile noiembrie -decembrie anul 2025 si ianuarie anul 2026",
+"short": "HCL Vrata nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253035",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-33-2025",
+"path": "local/mehedinti/vrata/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 33/2025 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate, pentru anul şcolar 2026-2027",
+"short": "HCL Vrata nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253036",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-34-2025",
+"path": "local/mehedinti/vrata/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 34/2025 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2025",
+"short": "HCL Vrata nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253037",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +330,94 @@
 "council_name": "Consiliul Local al Comunei Vrata",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-37-2025",
+"path": "local/mehedinti/vrata/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 37/2025 privind înfiinţarea Serviciului Public Comunitar Local de Evidenţă a Persoanelor al comunei Vrata, judeţul Mehedinti",
+"short": "HCL Vrata nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253040",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-38-2025",
+"path": "local/mehedinti/vrata/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 38/2025 privind aprobarea proiectului ”REABILITARE SI MODERNIZARE SCOALA GENERALA CU CLASELE I-IV, SAT VRATA, COMUNA VRATA, JUDETUL MEHEDINTI”",
+"short": "HCL Vrata nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253041",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-39-2025",
+"path": "local/mehedinti/vrata/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 39/2025 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local Vrata pe anul 2025",
+"short": "HCL Vrata nr. 39/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253042",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vrata-40-2025",
+"path": "local/mehedinti/vrata/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vrata nr. 40/2025 privind aprobarea organizarii reţelei şcolare de învăţământ preuniversitar de stat acreditate, pentru anul şcolar 2026-2027",
+"short": "HCL Vrata nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-13",
+"latest": "2026-02-13",
+"portal": "https://emol.ro/vrata-mh/registru-hcl/253043",
+"council": "mehedinti/vrata",
+"council_name": "Consiliul Local al Comunei Vrata",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

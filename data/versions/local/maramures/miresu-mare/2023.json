@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--miresu-mare-71-2023",
+   "path": "local/maramures/miresu-mare/2023/71",
+   "short": "HCL Mireșu Mare nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 71/2023 privind stabilirea salariilor de bază pentru personalul încadrat în funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Mireșu Mare, judeţul Maramureș și a indemnizației consilierilor locali",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/131182",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/131182",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--miresu-mare-72-2023",
    "path": "local/maramures/miresu-mare/2023/72",
    "short": "HCL Mireșu Mare nr. 72/2023",
@@ -193,6 +208,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/miresumare-mm/registru-hcl/134716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--miresu-mare-79-2023",
+   "path": "local/maramures/miresu-mare/2023/79",
+   "short": "HCL Mireșu Mare nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 79/2023 privind alegerea unui președinte de ședință a Consiliului Local al Comunei Mireșu Mare, județul Maramureș, pentru perioada 30.12.2023 - 30.03.2024",
+   "url": "https://emol.ro/miresumare-mm/registru-hcl/134717",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/miresumare-mm/registru-hcl/134717",
      "sha256": null
     }
    ]

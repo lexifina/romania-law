@@ -3,6 +3,51 @@
  "shard": "local/mehedinti/cujmir/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--cujmir-17-2024",
+   "path": "local/mehedinti/cujmir/2024/17",
+   "short": "HCL Cujmir nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 17/2024 Privind stabilirea situațiilor deosebite, actualizarea metodologiei, cuantumul maxim si procedura de acordare a ajutoarelor de urgență din bugetul local în baza Legii 196/2016",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/162257",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/162257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-18-2024",
+   "path": "local/mehedinti/cujmir/2024/18",
+   "short": "HCL Cujmir nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 18/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/164664",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/164664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-19-2024",
+   "path": "local/mehedinti/cujmir/2024/19",
+   "short": "HCL Cujmir nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 19/2024 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2024",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/164665",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/164665",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-20-2024",
    "path": "local/mehedinti/cujmir/2024/20",
    "short": "HCL Cujmir nr. 20/2024",
@@ -63,6 +108,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--cujmir-24-2024",
+   "path": "local/mehedinti/cujmir/2024/24",
+   "short": "HCL Cujmir nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 24/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/176265",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/176265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-25-2024",
+   "path": "local/mehedinti/cujmir/2024/25",
+   "short": "HCL Cujmir nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 25/2024 privind organizarea comisiilor de specialitate ale Consiliului Local Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/176266",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/176266",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-26-2024",
    "path": "local/mehedinti/cujmir/2024/26",
    "short": "HCL Cujmir nr. 26/2024",
@@ -73,6 +148,66 @@
      "from": "2024-11-13",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/176267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-27-2024",
+   "path": "local/mehedinti/cujmir/2024/27",
+   "short": "HCL Cujmir nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 27/2024 privind completarea Comisiilor de specialitate din cadrul Consiliului Local al comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182274",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-28-2024",
+   "path": "local/mehedinti/cujmir/2024/28",
+   "short": "HCL Cujmir nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 28/2024 privind alegerea viceprimarului Comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182275",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-29-2024",
+   "path": "local/mehedinti/cujmir/2024/29",
+   "short": "HCL Cujmir nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 29/2024 privind aprobarea revizuirii Regulamentului de organizare și funcționare a Consiliului Local al comunei Cujmir, județul Mehedinți",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182276",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-30-2024",
+   "path": "local/mehedinti/cujmir/2024/30",
+   "short": "HCL Cujmir nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 30/2024 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2024",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182277",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182277",
      "sha256": null
     }
    ]
@@ -93,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--cujmir-32-2024",
+   "path": "local/mehedinti/cujmir/2024/32",
+   "short": "HCL Cujmir nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 32/2024 privind darea în administrare către Liceul Teoretic Cujmir a imobilului Sală de sport școlară cu 102 locuri",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182279",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-33-2024",
+   "path": "local/mehedinti/cujmir/2024/33",
+   "short": "HCL Cujmir nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 33/2024 privind modificarea Hotărârii Consiliului local al Comunei CUJMIR nr. 23 din 24.09.2024 privind acordarea unor facilități fiscale ca urmare a achitării până la data de 25.11.2024 a obligațiilor bugetare principale, restante la data de 31 august 2024 la bugetul local al comunei Cujmir",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/182280",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/182280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--cujmir-34-2024",
    "path": "local/mehedinti/cujmir/2024/34",
    "short": "HCL Cujmir nr. 34/2024",
@@ -103,6 +268,21 @@
      "from": "2024-12-20",
      "units": 1,
      "source_url": "https://emol.ro/cujmir-mh/registru-hcl/184437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--cujmir-35-2024",
+   "path": "local/mehedinti/cujmir/2024/35",
+   "short": "HCL Cujmir nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 35/2024 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2024",
+   "url": "https://emol.ro/cujmir-mh/registru-hcl/184438",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/cujmir-mh/registru-hcl/184438",
      "sha256": null
     }
    ]

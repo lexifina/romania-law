@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-15-2022",
+"path": "local/mehedinti/balvanesti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 15/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti",
+"short": "HCL Bâlvănești nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-17",
+"latest": "2022-10-17",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/66073",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-16-2022",
+"path": "local/mehedinti/balvanesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 16/2022 privind privind alegerea viceprimarului comunei Balvanesti",
+"short": "HCL Bâlvănești nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-17",
+"latest": "2022-10-17",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/66074",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-17-2022",
 "path": "local/mehedinti/balvanesti/2022/17",
 "kind": "local",
@@ -135,6 +179,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balvanesti-21-2022",
+"path": "local/mehedinti/balvanesti/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 21/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti,in anul scolar 2022-2023",
+"short": "HCL Bâlvănești nr. 21/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-17",
+"latest": "2022-10-17",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/70341",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balvanesti-22-2022",
 "path": "local/mehedinti/balvanesti/2022/22",
 "kind": "local",
@@ -154,6 +220,29 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-23-2022",
+"path": "local/mehedinti/balvanesti/2022/23",
+"kind": "local",
+"year": "2022",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 23/2022",
+"short": "HCL Bâlvănești nr. 23/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-17",
+"latest": "2022-10-17",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/74284",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -242,6 +331,50 @@
 "council_name": "Consiliul Local al Comunei Bâlvănești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-28-2022",
+"path": "local/mehedinti/balvanesti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 28/2022 privind alocarea unei sume de bani pentru cumpararea de cadouri elevilor si copiilor prescolari de la Scoala Gimnaziala Balvanesti cu ocazia sarbatorilor de iarna 2022",
+"short": "HCL Bâlvănești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/81685",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balvanesti-29-2022",
+"path": "local/mehedinti/balvanesti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 29/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti,in anul scolar 2022-2023",
+"short": "HCL Bâlvănești nr. 29/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-28",
+"latest": "2022-11-28",
+"portal": "https://emol.ro/balvanesti-mh/registru-hcl/81686",
+"council": "mehedinti/balvanesti",
+"council_name": "Consiliul Local al Comunei Bâlvănești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

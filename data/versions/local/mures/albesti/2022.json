@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mures--albesti-76-2022",
+   "path": "local/mures/albesti/2022/76",
+   "short": "HCL Albești nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 76/2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83611",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83611",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--albesti-77-2022",
    "path": "local/mures/albesti/2022/77",
    "short": "HCL Albești nr. 77/2022",
@@ -88,6 +103,81 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/albesti-ms/registru-hcl/83614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-80-2022",
+   "path": "local/mures/albesti/2022/80",
+   "short": "HCL Albești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 80/2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83615",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-81-2022",
+   "path": "local/mures/albesti/2022/81",
+   "short": "HCL Albești nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 81/2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83616",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-82-2022",
+   "path": "local/mures/albesti/2022/82",
+   "short": "HCL Albești nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 82/2022 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând “Fundației Maranatha Romale din Sighişoara”",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83617",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-83-2022",
+   "path": "local/mures/albesti/2022/83",
+   "short": "HCL Albești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 83/2022",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83618",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--albesti-84-2022",
+   "path": "local/mures/albesti/2022/84",
+   "short": "HCL Albești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Albești nr. 84/2022 privind scutirea de la plata impozitului pe clădiri a unui imobil aparţinând Fundaţiei “Pentru Familia Creştină” Sighişoara",
+   "url": "https://emol.ro/albesti-ms/registru-hcl/83619",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/albesti-ms/registru-hcl/83619",
      "sha256": null
     }
    ]

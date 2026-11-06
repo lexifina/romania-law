@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ilovat-10-2025",
+"path": "local/mehedinti/ilovat/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 10/2025 privind aprobarea schimbării instalației electrice interioare la Școala Gimnazială Ilovăț",
+"short": "HCL Ilovăț nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/216988",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-11-2025",
 "path": "local/mehedinti/ilovat/2025/11",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Ilovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-12-2025",
+"path": "local/mehedinti/ilovat/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 12/2025 privind aprobarea bugetului local și a bugetului de venituri proprii pe anul 2025 al comunei Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/216990",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -69,6 +113,116 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ilovat-14-2025",
+"path": "local/mehedinti/ilovat/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 14/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+"short": "HCL Ilovăț nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/216995",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-15-2025",
+"path": "local/mehedinti/ilovat/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 15/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, în comuna Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217006",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-16-2025",
+"path": "local/mehedinti/ilovat/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 16/2025 privind aprobarea Planului anual al achizițiilor publice pentru anul 2025",
+"short": "HCL Ilovăț nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217007",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-17-2025",
+"path": "local/mehedinti/ilovat/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 17/2025 privind transformarea unei funcții publice vacante într-o funcție publică de nivel inferior în cadrul Primăriei Comunei Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217008",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-18-2025",
+"path": "local/mehedinti/ilovat/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 18/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, în comuna Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217009",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-19-2025",
 "path": "local/mehedinti/ilovat/2025/19",
 "kind": "local",
@@ -88,6 +242,28 @@
 "council_name": "Consiliul Local al Comunei Ilovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-20-2025",
+"path": "local/mehedinti/ilovat/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 20/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+"short": "HCL Ilovăț nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217011",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +289,72 @@
 }
 },
 {
+"slug": "hcl-mehedinti--ilovat-22-2025",
+"path": "local/mehedinti/ilovat/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 22/2025 privind închirierea, prin licitație publică, a unui spațiu (Brutărie Ilovăț) aparținând domeniului public al comunei Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217041",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-23-2025",
+"path": "local/mehedinti/ilovat/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 23/2025 privind alegerea președintelui de ședință, pentru ședințele Consiliului Local al Comunei Ilovăț pentru o perioadă de 3 luni, respectiv pentru lunile Iunie 2025, Iulie 2025 și August 2025",
+"short": "HCL Ilovăț nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217042",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-24-2025",
+"path": "local/mehedinti/ilovat/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 24/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+"short": "HCL Ilovăț nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217043",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--ilovat-25-2025",
 "path": "local/mehedinti/ilovat/2025/25",
 "kind": "local",
@@ -132,6 +374,50 @@
 "council_name": "Consiliul Local al Comunei Ilovăț",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-26-2025",
+"path": "local/mehedinti/ilovat/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 26/2025 privind modificarea și completarea HCL Nr. 22 din 14.05.2025 privind închirierea prin licitație publică a unui spațiu (fosta Brutărie Ilovăț) aparținând domeniului public al comunei Ilovăț, județul Mehedinți",
+"short": "HCL Ilovăț nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217014",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--ilovat-27-2025",
+"path": "local/mehedinti/ilovat/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 27/2025 privind aprobarea organigramei și a statului de funcții ale Primăriei Ilovăț, județul Mehedinți începând cu data de 01 iulie 2025",
+"short": "HCL Ilovăț nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-16",
+"latest": "2025-07-16",
+"portal": "https://emol.ro/ilovat-mh/registru-hcl/217045",
+"council": "mehedinti/ilovat",
+"council_name": "Consiliul Local al Comunei Ilovăț",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

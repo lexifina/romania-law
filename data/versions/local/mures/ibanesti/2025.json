@@ -3,6 +3,66 @@
  "shard": "local/mures/ibanesti/2025",
  "acts": [
   {
+   "slug": "hcl-mures--ibanesti-65-2025",
+   "path": "local/mures/ibanesti/2025/65",
+   "short": "HCL Ibănești nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 65/2025 privind aprobarea strategiei de tarifare aferente Planului de afaceri şi Strategiei privind redevenţa şi formula de ajustare tarifară",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/233562",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/233562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-66-2025",
+   "path": "local/mures/ibanesti/2025/66",
+   "short": "HCL Ibănești nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 66/2025 privind rectificarea bugetului local al comunei Ibănești pe anul 2025",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/233563",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/233563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-67-2025",
+   "path": "local/mures/ibanesti/2025/67",
+   "short": "HCL Ibănești nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 67/2025 privind aprobarea aderării Comunei Ibănești în calitate de membru la “Asociația Zona Mureșului Superior”",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/233564",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/233564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-68-2025",
+   "path": "local/mures/ibanesti/2025/68",
+   "short": "HCL Ibănești nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 68/2025 privind însuşirea Acordului de cooperare privind organizarea şi exercitarea activităţii de audit public intern",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/233565",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/233565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--ibanesti-69-2025",
    "path": "local/mures/ibanesti/2025/69",
    "short": "HCL Ibănești nr. 69/2025",
@@ -33,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-mures--ibanesti-71-2025",
+   "path": "local/mures/ibanesti/2025/71",
+   "short": "HCL Ibănești nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 71/2025 pentru actualizarea statului de funcții, aprobat prin Hotărârea Consiliului Local nr.35/29.05.2025 privind aprobarea reorganizării aparatului de specialitate al Primarului Comunei Ibănești și modificarea organigramei și a statului de funcții cu modificările și completările ulterioare",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/238204",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/238204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-72-2025",
+   "path": "local/mures/ibanesti/2025/72",
+   "short": "HCL Ibănești nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 72/2025 privind aprobarea înființării în cadrul Asociației de Dezvoltare Intercomunitară ”VALEA REGILOR” a Serviciului public pentru gestionarea câinilor fără stăpân și construcția unui adăpost de câini fără stăpân”",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/238205",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/238205",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--ibanesti-73-2025",
    "path": "local/mures/ibanesti/2025/73",
    "short": "HCL Ibănești nr. 73/2025",
@@ -43,6 +133,111 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-74-2025",
+   "path": "local/mures/ibanesti/2025/74",
+   "short": "HCL Ibănești nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 74/2025 privind aprobarea preţurilor de referinţă ale materialului lemons exploatat de pe terenurile forestiere aflate în proprietatea comunei Ibăneşti, pentru anul de producţie 2026",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241195",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-75-2025",
+   "path": "local/mures/ibanesti/2025/75",
+   "short": "HCL Ibănești nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 75/2025 privind stabilirea modului de valorificare a volumului unor partizi de masă lemnoasă",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241196",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-76-2025",
+   "path": "local/mures/ibanesti/2025/76",
+   "short": "HCL Ibănești nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 76/2025 privind constituirea pentru anul 2026 a fondului de accesibilizare a pădurilor aflate în proprietatea publică și privată a Comunei Ibănești şi în administrarea Direcției Silvice Mureș, prin Ocoalele Silvice Gurghiu și Fâncel",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241197",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-77-2025",
+   "path": "local/mures/ibanesti/2025/77",
+   "short": "HCL Ibănești nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 77/2025 pentru modificarea și completarea anexei nr. 2 la Hotărârea Consiliului Local nr. 107 din 18.12.2018 privind modificarea HCL nr. 51 din 11 iulie 2017 privind modul de stabilire a salariilor de bază pentru funcțiile publice și funcțiile de specialitate din cadrul Aparatului de specialitate al primarului Comunei Ibănești",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241198",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241198",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-78-2025",
+   "path": "local/mures/ibanesti/2025/78",
+   "short": "HCL Ibănești nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 78/2025 pentru modificarea și actualizarea HCL nr. 62 din 18.11.2024 privind aprobarea participării Comunei Ibănești, județul Mures, în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru Proiectul “MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL, IN COMUNA IBANESTI JUDETUL MURES-ETAPA II”",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241199",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-79-2025",
+   "path": "local/mures/ibanesti/2025/79",
+   "short": "HCL Ibănești nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 79/2025 privind aprobarea studiului de fezabilitate actualizat, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții \"Extindere rețea de canalizare menajeră - etapa 3, în comuna Ibănești, județul Mureș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241200",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-80-2025",
+   "path": "local/mures/ibanesti/2025/80",
+   "short": "HCL Ibănești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 80/2025 privind rectificarea bugetului local al comunei Ibănești pe anul 2025",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/241201",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/241201",
      "sha256": null
     }
    ]
@@ -88,6 +283,21 @@
      "from": "2026-01-13",
      "units": 1,
      "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/245360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ibanesti-84-2025",
+   "path": "local/mures/ibanesti/2025/84",
+   "short": "HCL Ibănești nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ibănești nr. 84/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/ibanesti-ms/registru-hcl/245361",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ibanesti-ms/registru-hcl/245361",
      "sha256": null
     }
    ]

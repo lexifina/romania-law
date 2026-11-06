@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/pristol/2025",
+"acts": [
+{
+"slug": "hcl-mehedinti--pristol-30-2025",
+"path": "local/mehedinti/pristol/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 30/2025",
+"short": "HCL Pristol nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://www.primariapristol.ro/hcl-2025/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--pristol-31-2025",
+"path": "local/mehedinti/pristol/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 31/2025",
+"short": "HCL Pristol nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://www.primariapristol.ro/hcl-2025/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--pristol-32-2025",
+"path": "local/mehedinti/pristol/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 32/2025",
+"short": "HCL Pristol nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-22",
+"latest": "2025-09-22",
+"portal": "https://www.primariapristol.ro/hcl-2025/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

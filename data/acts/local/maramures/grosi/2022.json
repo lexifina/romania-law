@@ -26,6 +26,28 @@
 }
 },
 {
+"slug": "hcl-maramures--grosi-67-2022",
+"path": "local/maramures/grosi/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 67/2022 privind constituirea grupului de lucru în vederea ducerii la îndeplinire a prevederilor Ordinului nr. 3494/2020 privind modificarea şi completarea Normelor metodologice de aplicare a Legii nr. 350/2001 privind amenajarea teritoriului şi urbanismul şi de elaborare şi actualizare a documentaţiilor de urbanism, aprobate prin Ordinul viceprim - ministrului, ministrul dezvoltării regionale şi administraţiei publice nr. 233/2016",
+"short": "HCL Groși nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/77539",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-maramures--grosi-68-2022",
 "path": "local/maramures/grosi/2022/68",
 "kind": "local",
@@ -45,6 +67,50 @@
 "council_name": "Consiliul Local al Comunei Groși",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-maramures--grosi-69-2022",
+"path": "local/maramures/grosi/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 69/2022 privind aprobarea concesionării directe a spațiului cu destinația de cabinet medical pentru medicină de familie din localitatea Groși, comuna Groși, județul Maramureș",
+"short": "HCL Groși nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/79005",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-maramures--grosi-70-2022",
+"path": "local/maramures/grosi/2022/70",
+"kind": "local",
+"year": "2022",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Groși nr. 70/2022 privind vânzarea prin licitație publică a terenului în suprafata de 592 mp, compus din două parcele înscrise în CF nr. 55307 Groși, nr. cad 55307 și CF nr. 52048 Groși, nr. cad 52048 proprietatea privată a comunei Groși, județul Maramureș",
+"short": "HCL Groși nr. 70/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/grosi-mm/registru-hcl/79006",
+"council": "maramures/grosi",
+"council_name": "Consiliul Local al Comunei Groși",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/burila-mare/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--burila-mare-1-2024",
+   "path": "local/mehedinti/burila-mare/2024/1",
+   "short": "HCL Burila Mare nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 1/2024",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.1-din-8.01.2024.pdf",
+     "sha256": "403125f9e2399e4509cd947dde40783d2f7641a4880dfbbfec5a88450d2905de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-2-2024",
+   "path": "local/mehedinti/burila-mare/2024/2",
+   "short": "HCL Burila Mare nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 2/2024",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.2-din-12.01.2024.pdf",
+     "sha256": "14f2f39fc028a506861944bbbaa5036cb058fce8b6bb09ec1d55543602f5b865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-6-2024",
+   "path": "local/mehedinti/burila-mare/2024/6",
+   "short": "HCL Burila Mare nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 6/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3eb87bcaf4ab3552bff76ff6e5196dc6268e88d01c2159586385b3cfd23452e8"
+    }
+   ]
+  }
+ ]
+}

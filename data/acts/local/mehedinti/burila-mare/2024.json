@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/burila-mare/2024",
+"acts": [
+{
+"slug": "hcl-mehedinti--burila-mare-1-2024",
+"path": "local/mehedinti/burila-mare/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 1/2024",
+"short": "HCL Burila Mare nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+"council": "mehedinti/burila-mare",
+"council_name": "Consiliul Local al Comunei Burila Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--burila-mare-2-2024",
+"path": "local/mehedinti/burila-mare/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 2/2024",
+"short": "HCL Burila Mare nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-12",
+"latest": "2024-01-12",
+"portal": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+"council": "mehedinti/burila-mare",
+"council_name": "Consiliul Local al Comunei Burila Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--burila-mare-6-2024",
+"path": "local/mehedinti/burila-mare/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 6/2024",
+"short": "HCL Burila Mare nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": null,
+"council": "mehedinti/burila-mare",
+"council_name": "Consiliul Local al Comunei Burila Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

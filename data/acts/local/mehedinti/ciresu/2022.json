@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/ciresu/2022",
+"acts": [
+{
+"slug": "hcl-mehedinti--ciresu-1-2022",
+"path": "local/mehedinti/ciresu/2022/1",
+"kind": "local",
+"year": "2022",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cireșu nr. 1/2022 privind rectificare buget local",
+"short": "HCL Cireșu nr. 1/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/ciresu-mh/registru-hcl/79675",
+"council": "mehedinti/ciresu",
+"council_name": "Consiliul Local al Comunei Cireșu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

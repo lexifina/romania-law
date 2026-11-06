@@ -3,6 +3,171 @@
  "shard": "local/mehedinti/breznita-motru/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--breznita-motru-17-2025",
+   "path": "local/mehedinti/breznita-motru/2025/17",
+   "short": "HCL Breznița-Motru nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 17/2025 privind participarea comunei Breznița-Motru, judetul Mehedinti la Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2025-2030",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/210233",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/210233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-18-2025",
+   "path": "local/mehedinti/breznita-motru/2025/18",
+   "short": "HCL Breznița-Motru nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 18/2025 privind aprobarea apartenentei la domeniul public al Comunei Breznița -Motru judetul Mehedinti, a unor imobile (drumuri), din comuna Breznița-Motru, clasificarea acestora și declararea ca bunuri imobile de utilitate publică",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/214757",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/214757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-19-2025",
+   "path": "local/mehedinti/breznita-motru/2025/19",
+   "short": "HCL Breznița-Motru nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 19/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Breznița-Motru, pentru lunile Iulie 2025 - Septembrie 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/218600",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/218600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-20-2025",
+   "path": "local/mehedinti/breznita-motru/2025/20",
+   "short": "HCL Breznița-Motru nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 20/2025 privind aprobarea Devizului general reactualizat și a Anexei 2.2 a reactualizată pentru obiectivul de investiții \"Sistem de alimentare cu apă în comuna Breznița-Motru, județul Mehedinți\", aprobat pentru finanțare prin Programul național de investiții \"Anghel Saligny\"",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/220468",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/220468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-21-2025",
+   "path": "local/mehedinti/breznita-motru/2025/21",
+   "short": "HCL Breznița-Motru nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 21/2025 privind rectificarea bugetului local de venituri și cheltuieli - august 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/220469",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/220469",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-22-2025",
+   "path": "local/mehedinti/breznita-motru/2025/22",
+   "short": "HCL Breznița-Motru nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 22/2025 privind rectificarea bugetului local de venituri și cheltuieli - septembrie 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/224875",
+   "versions": [
+    {
+     "from": "2025-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/224875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-23-2025",
+   "path": "local/mehedinti/breznita-motru/2025/23",
+   "short": "HCL Breznița-Motru nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 23/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Breznița-Motru, pentru lunile Octombrie 2025 - Decembrie 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/227911",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/227911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-24-2025",
+   "path": "local/mehedinti/breznita-motru/2025/24",
+   "short": "HCL Breznița-Motru nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 24/2025 privind rectificarea bugetului local de venituri și cheltuieli - luna octombrie 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/227912",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/227912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-25-2025",
+   "path": "local/mehedinti/breznita-motru/2025/25",
+   "short": "HCL Breznița-Motru nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 25/2025 privind aprobarea achiziționării de servicii de specialitate, consultanță și proiectare în vederea depunerii și implementării Cererii de finanțare precum și includerea în cadrul Programului privind Fondul de Modernizare în România, finanțat prin Ministerul Energiei a obiectivului de investiții “ÎNFIINȚARE CAPACITĂȚI DE PRODECERE ENERGIE DIN SURSE REGENERABILE DE ENERGIE, PENTRU CONSUM PROPRIU ÎN COMUNA BREZNIȚA-MOTRU, JUDEȚUL MEHEDINȚI”",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/227913",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/227913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-26-2025",
+   "path": "local/mehedinti/breznita-motru/2025/26",
+   "short": "HCL Breznița-Motru nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 26/2025 privind aprobarea Notei conceptuale si a Temei de proiectare pentru obiectivul de investitii “ ÎNFIINȚARE CAPACITĂȚI DE PRODUCERE ENERGIE DIN SURSE REGENERABILE DE ENERGIE PENTRU CONSUM PROPRIU IN COMUNA BREZNIȚA-MOTRU, JUDEȚUL MEHEDINTI”",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/230077",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/230077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-27-2025",
+   "path": "local/mehedinti/breznita-motru/2025/27",
+   "short": "HCL Breznița-Motru nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 27/2025 privind rectificarea bugetului local de venituri și cheltuieli aferent anului 2025 pentru Primăria Comunei Breznița-Motru, județul Mehedinți",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/233238",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/233238",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--breznita-motru-28-2025",
    "path": "local/mehedinti/breznita-motru/2025/28",
    "short": "HCL Breznița-Motru nr. 28/2025",
@@ -13,6 +178,126 @@
      "from": "2025-10-31",
      "units": 1,
      "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/233239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-29-2025",
+   "path": "local/mehedinti/breznita-motru/2025/29",
+   "short": "HCL Breznița-Motru nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 29/2025 privind aprobarea sumei de 30.000 lei din bugetul local al comunei Breznița-Motru, pentru montare/demontare și întreținere iluminat festiv, cu ocazia sărbătorilor de iarnă în comuna Breznița-Motru",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/236674",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/236674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-30-2025",
+   "path": "local/mehedinti/breznita-motru/2025/30",
+   "short": "HCL Breznița-Motru nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 30/2025 privind aprobarea sumei de 19.000 lei din bugetul local al comunei Breznița-Motru, pentru achiziționarea de cadouri, cu ocazia Pomului de Crăciun pe anul 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/236675",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/236675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-31-2025",
+   "path": "local/mehedinti/breznita-motru/2025/31",
+   "short": "HCL Breznița-Motru nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 31/2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/236676",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/236676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-32-2025",
+   "path": "local/mehedinti/breznita-motru/2025/32",
+   "short": "HCL Breznița-Motru nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 32/2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/236677",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/236677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-33-2025",
+   "path": "local/mehedinti/breznita-motru/2025/33",
+   "short": "HCL Breznița-Motru nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 33/2025 privind mandatarea reprezentantului UAT Comuna Breznița-Motru în Adunarea Generală a ADIS Mehedinți în vederea exprimării votului „pentru” încetarea Contractului de delegare nr.817/1180/11.12.2019 exclusiv pentru aria de operare a UAT Oraș Strehaia",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/240869",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/240869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-34-2025",
+   "path": "local/mehedinti/breznita-motru/2025/34",
+   "short": "HCL Breznița-Motru nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 34/2025 privind aprobarea mandatului special al reprezentantului UAT Comuna Breznița-Motru în AGA ADIS Mehedinți, în vederea exprimării votului „pentru” atribuirea în gestiune directă a activităților de colectare separată și transport separat al deșeurilor municipale pentru aria de operare a UAT Oraș Strehaia",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/240870",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/240870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-35-2025",
+   "path": "local/mehedinti/breznita-motru/2025/35",
+   "short": "HCL Breznița-Motru nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 35/2025 privind rectificarea bugetului local de venituri și cheltuieli - luna decembrie 2025",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/240871",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/240871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--breznita-motru-36-2025",
+   "path": "local/mehedinti/breznita-motru/2025/36",
+   "short": "HCL Breznița-Motru nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Breznița-Motru nr. 36/2025 privind stabilirea impozitelor si taxelor locale, precum şi a altor taxe, pentru anul 2026, la nivelul comunei Breznița-Motru, judetul MEHEDINTI",
+   "url": "https://emol.ro/breznita-motru-mh/registru-hcl/244776",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/breznita-motru-mh/registru-hcl/244776",
      "sha256": null
     }
    ]

@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-10-2026",
+   "path": "local/maramures/somcuta-mare/2026/10",
+   "short": "HCL Șomcuta Mare nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 10/2026 privind acordarea unui mandat special Primarului să voteze în cadrul Adunării Generale a Asociației pentru aprobarea aderării Comunei Groși la Asociația de Dezvoltare Intercomunitară și pentru aprobarea modificării prin act adițional a Statutului Asociației, precum și pentru semnarea Actului adițional și a Statutului Asociației actualizat",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/251901",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/251901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-100-2026",
+   "path": "local/maramures/somcuta-mare/2026/100",
+   "short": "HCL Șomcuta Mare nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 100/2026 privind aprobarea bugetului multianual, pentru perioada 2026-2028, a obiectivului de investitii ,,Documentații tehnice și lucrări de reparații la Școala Generală din localitatea Finteușu Mare''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293945",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-101-2026",
+   "path": "local/maramures/somcuta-mare/2026/101",
+   "short": "HCL Șomcuta Mare nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 101/2026 privind aprobarea bugetului multianual, pentru perioada 2026-2028, a obiectivului de investitii ,,Documentații tehnice și lucrări de reparații interioare aferente imobilului Corp C, strada Someș, nr. 17''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293946",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293946",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-102-2026",
    "path": "local/maramures/somcuta-mare/2026/102",
    "short": "HCL Șomcuta Mare nr. 102/2026",
@@ -43,6 +88,36 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/295772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-104-2026",
+   "path": "local/maramures/somcuta-mare/2026/104",
+   "short": "HCL Șomcuta Mare nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 104/2026 Privind aprobarea vânzarii prin licitatie publica a imobilului teren intravilan, aparținând domeniului privat al Orașului Șomcuta Mare, înscris în CF nr. 55256 Șomcuta Mare, nr. cad. 55256",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/295773",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/295773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-105-2026",
+   "path": "local/maramures/somcuta-mare/2026/105",
+   "short": "HCL Șomcuta Mare nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 105/2026 Privind aprobarea vânzarii prin licitatie publica a imobilului teren intravilan, aparținând domeniului privat al Orașului Șomcuta Mare, înscris în CF nr. 55257 Șomcuta Mare, nr. cad. 55257",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/295774",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/295774",
      "sha256": null
     }
    ]
@@ -153,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-17-2026",
+   "path": "local/maramures/somcuta-mare/2026/17",
+   "short": "HCL Șomcuta Mare nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 17/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/255880",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/255880",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-18-2026",
    "path": "local/maramures/somcuta-mare/2026/18",
    "short": "HCL Șomcuta Mare nr. 18/2026",
@@ -163,6 +253,21 @@
      "from": "2026-03-04",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/255881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-19-2026",
+   "path": "local/maramures/somcuta-mare/2026/19",
+   "short": "HCL Șomcuta Mare nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 19/2026 privind aprobarea prelungirii contractelor de inchiriere, pentru terenurile avand categoria de folosinta ,,pajiste-pasune’’",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/262277",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262277",
      "sha256": null
     }
    ]
@@ -183,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-20-2026",
+   "path": "local/maramures/somcuta-mare/2026/20",
+   "short": "HCL Șomcuta Mare nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 20/2026 privind vanzarea prin licitatie publica a imobilului teren intravilan, apartinand domeniului privat al Orasului Somcuta Mare, inscris in CF nr. 55004, nr. top. 55004, situat pe strada Garii, loc. Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/262278",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262278",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-21-2026",
    "path": "local/maramures/somcuta-mare/2026/21",
    "short": "HCL Șomcuta Mare nr. 21/2026",
@@ -193,6 +313,36 @@
      "from": "2026-04-14",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262279",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-22-2026",
+   "path": "local/maramures/somcuta-mare/2026/22",
+   "short": "HCL Șomcuta Mare nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 22/2026 privind stabilirea prețului de închiriere al terenurilor având categoria de folosință ,,pasune”, aparținând domeniului privat al Orașului Șomcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/262280",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-23-2026",
+   "path": "local/maramures/somcuta-mare/2026/23",
+   "short": "HCL Șomcuta Mare nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 23/2026 privind declararea ca locuinţă de necesitate a unei locuinţe sociale și repartizarea nominală pe locaţii a persoanei şi familiei din Orașul Șomcuta Mare care va primi o locuinţă de necesitate",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/262281",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262281",
      "sha256": null
     }
    ]
@@ -243,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-27-2026",
+   "path": "local/maramures/somcuta-mare/2026/27",
+   "short": "HCL Șomcuta Mare nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 27/2026 privind aprobarea prelungirii unui contract de închiriere a unei locuințe realizate prin ANL în cadrul Programului de construire de locuințe destinate închirierii, situate în Orașul Șomcuta Mare, str. Târgului, nr. 7C",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/262650",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/262650",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-28-2026",
    "path": "local/maramures/somcuta-mare/2026/28",
    "short": "HCL Șomcuta Mare nr. 28/2026",
@@ -268,6 +433,21 @@
      "from": "2026-05-05",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/265653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-3-2026",
+   "path": "local/maramures/somcuta-mare/2026/3",
+   "short": "HCL Șomcuta Mare nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 3/2026 privind aprobarea cuantumului chiriei aferentă locuinţelor pentru tineri destinate închirierii, realizate de Agenţia Naţională pentru Locuinţe în Orașul Șomcuta Mare actualizată cu indicele de inflației pentru anul 2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/251894",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/251894",
      "sha256": null
     }
    ]
@@ -378,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-37-2026",
+   "path": "local/maramures/somcuta-mare/2026/37",
+   "short": "HCL Șomcuta Mare nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 37/2026 privind stabilirea componenței Comisiei de evaluare a programelor, proiectelor și acțiunilor sportive cu finanțare nerambursabilă de la bugetul local și a Comisiei de soluționare a contestațiilor",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/266748",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/266748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-38-2026",
    "path": "local/maramures/somcuta-mare/2026/38",
    "short": "HCL Șomcuta Mare nr. 38/2026",
@@ -423,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-40-2026",
+   "path": "local/maramures/somcuta-mare/2026/40",
+   "short": "HCL Șomcuta Mare nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 40/2026 Privind identificarea unei suprafețe de teren proprietatea Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/270536",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/270536",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-41-2026",
    "path": "local/maramures/somcuta-mare/2026/41",
    "short": "HCL Șomcuta Mare nr. 41/2026",
@@ -433,6 +643,21 @@
      "from": "2026-05-28",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/270537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-42-2026",
+   "path": "local/maramures/somcuta-mare/2026/42",
+   "short": "HCL Șomcuta Mare nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 42/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/270538",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/270538",
      "sha256": null
     }
    ]
@@ -483,6 +708,66 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-46-2026",
+   "path": "local/maramures/somcuta-mare/2026/46",
+   "short": "HCL Șomcuta Mare nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 46/2026 privind aprobarea închirierii prin licitație publică a unui spatiu, apartinand domeniului privat al Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/272500",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/272500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-47-2026",
+   "path": "local/maramures/somcuta-mare/2026/47",
+   "short": "HCL Șomcuta Mare nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 47/2026 Privind identificarea unei suprafețe de teren proprietatea Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/273041",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/273041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-48-2026",
+   "path": "local/maramures/somcuta-mare/2026/48",
+   "short": "HCL Șomcuta Mare nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 48/2026 privind efectuarea demersurilor necesare trecerii unui teren din intravilanul in extravilanul Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/273042",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/273042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-49-2026",
+   "path": "local/maramures/somcuta-mare/2026/49",
+   "short": "HCL Șomcuta Mare nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 49/2026 privind aprobarea finanțărilor nerambursabile de la bugetul local pe anul 2026 pentru activități nonprofit de interes general, în domeniul sport, acordate în baza Legii nr. 350/2005 și a Ghidului solicitanților",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/273043",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/273043",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-5-2026",
    "path": "local/maramures/somcuta-mare/2026/5",
    "short": "HCL Șomcuta Mare nr. 5/2026",
@@ -493,6 +778,21 @@
      "from": "2026-02-06",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/251896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-50-2026",
+   "path": "local/maramures/somcuta-mare/2026/50",
+   "short": "HCL Șomcuta Mare nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 50/2026 privind aprobarea contractării unui împrumut în valoare de 500.000 lei, în conformitate cu prevederile art. XXXI din Ordonanța de urgență a Guvernului nr. 89/2025",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/273044",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/273044",
      "sha256": null
     }
    ]
@@ -543,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-54-2026",
+   "path": "local/maramures/somcuta-mare/2026/54",
+   "short": "HCL Șomcuta Mare nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 54/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/276689",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/276689",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-55-2026",
    "path": "local/maramures/somcuta-mare/2026/55",
    "short": "HCL Șomcuta Mare nr. 55/2026",
@@ -553,6 +868,21 @@
      "from": "2026-07-10",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/276690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-56-2026",
+   "path": "local/maramures/somcuta-mare/2026/56",
+   "short": "HCL Șomcuta Mare nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 56/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/277810",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/277810",
      "sha256": null
     }
    ]
@@ -588,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-59-2026",
+   "path": "local/maramures/somcuta-mare/2026/59",
+   "short": "HCL Șomcuta Mare nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 59/2026 privind aprobarea vânzarii, în urma organizării licitației publice, a imobilului teren intravilan în suprafață de 1197 mp, aparținând domeniului privat al Orașului Șomcuta Mare, înscris în CF nr. 55004 Șomcuta Mare, nr. cad. 55004 situat pe str. Gării, loc. Șomcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/277813",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/277813",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-6-2026",
    "path": "local/maramures/somcuta-mare/2026/6",
    "short": "HCL Șomcuta Mare nr. 6/2026",
@@ -598,6 +943,21 @@
      "from": "2026-02-06",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/251897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-60-2026",
+   "path": "local/maramures/somcuta-mare/2026/60",
+   "short": "HCL Șomcuta Mare nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 60/2026 privind aprobarea demersurilor necesare in vederea accesarii unui credit pentru finantarea lucrarilor la obiectivul de investitie Modernizare strazi (lucrari de arta, rigola carosabila) in Orasul Somcuta Mare, judetul Maramures",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/277814",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/277814",
      "sha256": null
     }
    ]
@@ -618,6 +978,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-62-2026",
+   "path": "local/maramures/somcuta-mare/2026/62",
+   "short": "HCL Șomcuta Mare nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 62/2026 privind aprobarea proiectului tehnic, a indicatorilor tehnico-economici si a devizului general pentru obiectivul de investitie: „Cresterea eficientei energetice a infrastructurii de iluminat public in Somcuta Mare, jud. Maramures”",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/278608",
+   "versions": [
+    {
+     "from": "2026-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/278608",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-63-2026",
    "path": "local/maramures/somcuta-mare/2026/63",
    "short": "HCL Șomcuta Mare nr. 63/2026",
@@ -633,6 +1008,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-64-2026",
+   "path": "local/maramures/somcuta-mare/2026/64",
+   "short": "HCL Șomcuta Mare nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 64/2026 Privind aprobarea solicitarii trecerii unui teren din domeniul public al statului in domeniul public al Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/279368",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/279368",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-65-2026",
    "path": "local/maramures/somcuta-mare/2026/65",
    "short": "HCL Șomcuta Mare nr. 65/2026",
@@ -643,6 +1033,36 @@
      "from": "2026-08-20",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/279369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-66-2026",
+   "path": "local/maramures/somcuta-mare/2026/66",
+   "short": "HCL Șomcuta Mare nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 66/2026 privind darea in folosinta gratuita catre Parohia Ortodoxa Romana Somcuta Mare a terenurilor apartinand domeniului public, cu destinatia ,,cimitir''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/279370",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/279370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-67-2026",
+   "path": "local/maramures/somcuta-mare/2026/67",
+   "short": "HCL Șomcuta Mare nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 67/2026 privind actualizarea HCL nr. 53/2025 privind organizarea Comisiilor de specialitate ale Consiliului Local Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/283904",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/283904",
      "sha256": null
     }
    ]
@@ -738,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-73-2026",
+   "path": "local/maramures/somcuta-mare/2026/73",
+   "short": "HCL Șomcuta Mare nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 73/2026 privind completarea inventarului domeniului public al Orasului Somcuta Mare, cu obiectivul ,,CENTRU DE ZI DE ASISTENTA SI RECUPERARE PENTRU PERSOANELE VARSTNICE IN ORASUL SOMCUTA MARE''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/283910",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/283910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-74-2026",
    "path": "local/maramures/somcuta-mare/2026/74",
    "short": "HCL Șomcuta Mare nr. 74/2026",
@@ -748,6 +1183,21 @@
      "from": "2026-09-03",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/283911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-75-2026",
+   "path": "local/maramures/somcuta-mare/2026/75",
+   "short": "HCL Șomcuta Mare nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 75/2026 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/283912",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/283912",
      "sha256": null
     }
    ]
@@ -783,6 +1233,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-78-2026",
+   "path": "local/maramures/somcuta-mare/2026/78",
+   "short": "HCL Șomcuta Mare nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 78/2026 Privind aprobarea solicitarii trecerii unui teren din domeniul public al statului in domeniul public al Orasului Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/286900",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/286900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-79-2026",
+   "path": "local/maramures/somcuta-mare/2026/79",
+   "short": "HCL Șomcuta Mare nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 79/2026 Privind identificarea topografică a unui imobil situat pe teritoriul administrativ al Orașului Șomcuta Mare, ca și imobil aparținând domeniului privat la Orașului Șomcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/286901",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/286901",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-8-2026",
    "path": "local/maramures/somcuta-mare/2026/8",
    "short": "HCL Șomcuta Mare nr. 8/2026",
@@ -813,6 +1293,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-81-2026",
+   "path": "local/maramures/somcuta-mare/2026/81",
+   "short": "HCL Șomcuta Mare nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 81/2026 privind aprobarea bugetului multianual pentru investitia - Servicii de elaborare Amenajament pastoral pentru 2105 ha pasuni ale UAT Oras Somcuta Mare",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/286903",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/286903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-82-2026",
+   "path": "local/maramures/somcuta-mare/2026/82",
+   "short": "HCL Șomcuta Mare nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 82/2026 privind aprobarea finanțărilor nerambursabile de la bugetul local pe anul 2026 pentru activități nonprofit de interes general, în domeniul cultural, acordate în baza Legii nr. 350/2005 și a Ghidului solicitanților",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/287168",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/287168",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-83-2026",
    "path": "local/maramures/somcuta-mare/2026/83",
    "short": "HCL Șomcuta Mare nr. 83/2026",
@@ -823,6 +1333,21 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/289112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-84-2026",
+   "path": "local/maramures/somcuta-mare/2026/84",
+   "short": "HCL Șomcuta Mare nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 84/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/289113",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/289113",
      "sha256": null
     }
    ]
@@ -843,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-86-2026",
+   "path": "local/maramures/somcuta-mare/2026/86",
+   "short": "HCL Șomcuta Mare nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 86/2026 privind aprobarea acordării unui sprijin financiar unităților de cult aparținând cultelor religioase recunoscute din România, din bugetul local al UAT Orașul Șomcuta Mare pe anul 2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/289115",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/289115",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-87-2026",
    "path": "local/maramures/somcuta-mare/2026/87",
    "short": "HCL Șomcuta Mare nr. 87/2026",
@@ -853,6 +1393,21 @@
      "from": "2026-10-05",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/289116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-88-2026",
+   "path": "local/maramures/somcuta-mare/2026/88",
+   "short": "HCL Șomcuta Mare nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 88/2026 Privind aprobarea devizului general actualizat pentru obiectivul de investiție ,,Modernizare străzi (lucrări de artă, rigolă carosabilă) în Orașul Șomcuta Mare, jud. Maramureș''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/289117",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/289117",
      "sha256": null
     }
    ]
@@ -873,6 +1428,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--somcuta-mare-9-2026",
+   "path": "local/maramures/somcuta-mare/2026/9",
+   "short": "HCL Șomcuta Mare nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 9/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/251900",
+   "versions": [
+    {
+     "from": "2026-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/251900",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--somcuta-mare-90-2026",
    "path": "local/maramures/somcuta-mare/2026/90",
    "short": "HCL Șomcuta Mare nr. 90/2026",
@@ -883,6 +1453,111 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-91-2026",
+   "path": "local/maramures/somcuta-mare/2026/91",
+   "short": "HCL Șomcuta Mare nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 91/2026 privind aprobarea intabularii in cartea funciara a Orasului Somcuta Mare a imobilului constructie ,,CRESA IN LOCALITATEA SOMCUTA MARE''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293936",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-92-2026",
+   "path": "local/maramures/somcuta-mare/2026/92",
+   "short": "HCL Șomcuta Mare nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 92/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293937",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-93-2026",
+   "path": "local/maramures/somcuta-mare/2026/93",
+   "short": "HCL Șomcuta Mare nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 93/2026 privind aprobarea bugetului multianual, pentru perioada 2026-2028, a obiectivului de investitii ,,Lucrari de reparatii curente la strazile din localitatea Ciolt\"",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293938",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-94-2026",
+   "path": "local/maramures/somcuta-mare/2026/94",
+   "short": "HCL Șomcuta Mare nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 94/2026 privind aprobarea bugetului multianual, pentru perioada 2026-2028, a obiectivului de investitii ,,Servicii de mentenanta insule ecologice\"",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293939",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-95-2026",
+   "path": "local/maramures/somcuta-mare/2026/95",
+   "short": "HCL Șomcuta Mare nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 95/2026 privind aprobarea bugetului multianual, pentru perioada 2026-2028, a obiectivului de investitii ,,Lucrari de reparatii curente la strazile din localitatea Hovrila''",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293940",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-96-2026",
+   "path": "local/maramures/somcuta-mare/2026/96",
+   "short": "HCL Șomcuta Mare nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 96/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293941",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--somcuta-mare-97-2026",
+   "path": "local/maramures/somcuta-mare/2026/97",
+   "short": "HCL Șomcuta Mare nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Șomcuta Mare nr. 97/2026",
+   "url": "https://emol.ro/somcutamare-mm/registru-hcl/293942",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/somcutamare-mm/registru-hcl/293942",
      "sha256": null
     }
    ]

@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-maramures--miresu-mare-54-2020",
+"path": "local/maramures/miresu-mare/2020/54",
+"kind": "local",
+"year": "2020",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 54/2020",
+"short": "HCL Mireșu Mare nr. 54/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/11055",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-maramures--miresu-mare-55-2020",
 "path": "local/maramures/miresu-mare/2020/55",
 "kind": "local",
@@ -156,6 +179,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-maramures--miresu-mare-61-2020",
+"path": "local/maramures/miresu-mare/2020/61",
+"kind": "local",
+"year": "2020",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mireșu Mare nr. 61/2020 privind desemnarea a doi consilieri locali reprezentanți ai Consiliului Local al comunei Mireșu Mare, care fac part din Consiliul de administrație al Școlii Gimnaziale Mireșu Mare, in anul scolar 2020 - 2021",
+"short": "HCL Mireșu Mare nr. 61/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-16",
+"latest": "2020-11-16",
+"portal": "https://emol.ro/miresumare-mm/registru-hcl/11121",
+"council": "maramures/miresu-mare",
+"council_name": "Consiliul Local al Comunei Mireșu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

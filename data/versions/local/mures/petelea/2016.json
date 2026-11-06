@@ -3,6 +3,111 @@
  "shard": "local/mures/petelea/2016",
  "acts": [
   {
+   "slug": "hcl-mures--petelea-1-2016",
+   "path": "local/mures/petelea/2016/1",
+   "short": "HCL Petelea nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 1/2016 Privind acoperirea definitiva din excedentul bugetului local pe anul 2014 a deficitului sectiunii de dezvoltare pe anul 2015)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%201%20din%2008.01.2016.pdf",
+     "sha256": "cc6643fb74d921533a441eea5b3c1cd0306791539416eede6d0427a659733fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-10-2016",
+   "path": "local/mures/petelea/2016/10",
+   "short": "HCL Petelea nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 10/2016 Privind includerea in domeniul privat al Comunei Petelea a imobilului “Chiosc” amplasat in fosta statie de autobuz din centrul Comunei Petelea)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%2010%20din%2028.01.2016.pdf",
+     "sha256": "00fda7730f6d1ee65b8c56f68dc769436bd9bd2b9449d53edb4207a64fb353a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-11-2016",
+   "path": "local/mures/petelea/2016/11",
+   "short": "HCL Petelea nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 11/2016 Privind alegerea unui nou presedinte de sedinta pentru perioada 1 februarie 2016 – 30 aprilie 2016)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%2011%20din%2028.01.2016.pdf",
+     "sha256": "64ad450979133fba693a3a5f854b2a7e8c13d34f2a57839f62d6ebdba5ddf039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-12-2016",
+   "path": "local/mures/petelea/2016/12",
+   "short": "HCL Petelea nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 12/2016 Privind aprobarea bugetului local al Comunei Petelea pentru anul 2016)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%2012%20din%2028.01.2016.pdf",
+     "sha256": "dec13b738c09640b75d6699894342dc198e53f2e9ef40fa7dec0091ec04c3ed5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-2-2016",
+   "path": "local/mures/petelea/2016/2",
+   "short": "HCL Petelea nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 2/2016 Privind aprobarea utilizarii excedentului rezultat la inchiderea exercitiului bugetar al anului 2015)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%202%20din%2008.01.2016.pdf",
+     "sha256": "fcd903f41ae0dedc919a2d37c67a07228c5e2781a215bf91a48165a85a41036f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-3-2016",
+   "path": "local/mures/petelea/2016/3",
+   "short": "HCL Petelea nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 3/2016 Privind privind validarea mandatului de consilier local al d-lui Hagymas Alexandru-Simion)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%203%20din%2028.01.2016.pdf",
+     "sha256": "00d113c1d7f759882257d9c200006fa4c8ff05b26bce5c6acb520d49846b4a77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-4-2016",
+   "path": "local/mures/petelea/2016/4",
+   "short": "HCL Petelea nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 4/2016 Privind aprobarea utilizarii excedentului rezultat la inchiderea exercitiului bugetar al anului 2015 la Capitolul fonduri externe nerambursabile – sursa D)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%204%20din%2028.01.2016.pdf",
+     "sha256": "7528b181f598ccb1f34c0310c851c7807fe7dcc7e30cab25306b0beb4352a930"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--petelea-5-2016",
    "path": "local/mures/petelea/2016/5",
    "short": "HCL Petelea nr. 5/2016",
@@ -14,6 +119,66 @@
      "units": 1,
      "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%205%20din%2028.01.2016.pdf",
      "sha256": "8f7937f7774e1253c56294d2786023b0209cb801bb7732f7e028841aa9578005"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-6-2016",
+   "path": "local/mures/petelea/2016/6",
+   "short": "HCL Petelea nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 6/2016 Privind aprobarea actului aditional nr. 2/2016 la contractul de asistenta juridica nr. 884761/2014)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%206%20din%2028.01.2016.pdf",
+     "sha256": "60ce925655bd501718cc2a56820b6c74126c4809b54a037d00a235408779d734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-7-2016",
+   "path": "local/mures/petelea/2016/7",
+   "short": "HCL Petelea nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 7/2016 Privind actualizarea Planului de analiza si acoperire a riscurilor in Comuna Petelea)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%207%20din%2028.01.2016.pdf",
+     "sha256": "8f70ee487279e3244d2d0e5048545a139b4000b23d5910fb6f0ad4d4f1788f54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-8-2016",
+   "path": "local/mures/petelea/2016/8",
+   "short": "HCL Petelea nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 8/2016 Privind aprobarea raportului de analiza a dotarii cu mijloace de aparare impotriva incendiilor in comuna Petelea)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%208%20din%2028.01.2016.pdf",
+     "sha256": "33216e5bbaa3612c2966f7fed229684d3c98e3336d2bddcda0c2df94c9d7ddfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--petelea-9-2016",
+   "path": "local/mures/petelea/2016/9",
+   "short": "HCL Petelea nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Petelea nr. 9/2016 Privind constituirea Grupului Local de Lucru si aprobarea Planului Local de actiune privind incluziunea cetatenilor romani de etnie roma din Comuna Petelea pentru anul 2016)",
+   "url": "https://www.primariapetelea.ro/monitor-oficial-local/hotararile-consiliului-local/2-registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://primariapetelea.ro/PDF/HOTARARI%20SI%20ANEXE/2016/Hotararea%20nr.%209%20din%2028.01.2016.pdf",
+     "sha256": "ae576070b116476d5a1c9e716f5f8ce6af58e23179b2c59e3b110aa270cfdf19"
     }
    ]
   }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mures/iernut/2020",
+"acts": [
+{
+"slug": "hcl-mures--iernut-361-2020",
+"path": "local/mures/iernut/2020/361",
+"kind": "local",
+"year": "2020",
+"number": "361",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Iernut nr. 361/2020",
+"short": "HCL Iernut nr. 361/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-22",
+"latest": "2020-10-22",
+"portal": "https://primariaiernut.ro/documente/procesele-verbale-ale-sedintelor-autoritatii-deliberative-aferente-anului-2020/",
+"council": "mures/iernut",
+"council_name": "Consiliul Local al Orașului Iernut",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

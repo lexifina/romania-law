@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sovata/2024",
+ "acts": [
+  {
+   "slug": "hcl-mures--sovata-1-2024",
+   "path": "local/mures/sovata/2024/1",
+   "short": "HCL Sovata nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 1/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.1-DIN-25.04.2024-26042024175202.pdf",
+     "sha256": "22f617f99933caeca78a5e5d953b2e5917fa72c2a525d638b530c5a709c01bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-122-2024",
+   "path": "local/mures/sovata/2024/122",
+   "short": "HCL Sovata nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 122/2024",
+   "url": "https://primariasovata.ro/wp-content/uploads/hcl-nr.-122-30.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/hcl-nr.-122-30.09.2024.pdf",
+     "sha256": "3e7c06abf779a52960925e9d1c27540b01af40f0aac245845c1317ab84003305"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-3-2024",
+   "path": "local/mures/sovata/2024/3",
+   "short": "HCL Sovata nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 3/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.3-DIN-30.04.2024-02052024143831.pdf",
+     "sha256": "235d3b8ea9b904080e4e8f63606f37439a18cc7c013574c95d0a22b04a27621c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-4-2024",
+   "path": "local/mures/sovata/2024/4",
+   "short": "HCL Sovata nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 4/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.4-DIN-30.04.2024-02052024143925.pdf",
+     "sha256": "84d259f254d03cec556dbe368713daffe9ae59fe00bff196363b18603834a08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-5-2024",
+   "path": "local/mures/sovata/2024/5",
+   "short": "HCL Sovata nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 5/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.5-DIN-30.04.2024-02052024144007.pdf",
+     "sha256": "c65c9d864790ab8930548a786ef0866d52a550b72d8cdb43d53dc3d54e90df92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-6-2024",
+   "path": "local/mures/sovata/2024/6",
+   "short": "HCL Sovata nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 6/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.6-DIN-21.05.2024-21052024200912.pdf",
+     "sha256": "a31d182ac88c82d45cd96d3c8d8b7276943461e093523ada06dcb11917660b33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-7-2024",
+   "path": "local/mures/sovata/2024/7",
+   "short": "HCL Sovata nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 7/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/h-nr.-7-23.05.2024-BEC-10-Sovata.pdf",
+     "sha256": "67f3e002321d4fc4eeb9c64019dd574dcae7dbc2ae0d8b4cae9419d0c0759a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-8-2024",
+   "path": "local/mures/sovata/2024/8",
+   "short": "HCL Sovata nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 8/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/hot.-BEC-10-Sovata-nr.-8-30.05.2024.pdf",
+     "sha256": "8c6ea2df0a2deaf42911b8091e4cc40e2a691542989d2c9162005bdedf6209e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sovata-9-2024",
+   "path": "local/mures/sovata/2024/9",
+   "short": "HCL Sovata nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 9/2024",
+   "url": "https://primariasovata.ro/document-category/hotarari-alegeri-locale-2024/",
+   "versions": [
+    {
+     "from": "2024-06-03",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/HOTARAREA-NR.9-DIN-03.06.2024-03062024181945.pdf",
+     "sha256": "99f665a6f44eed9594f920f3557781ebcdd18b0b6752be4851bdf536c418bf26"
+    }
+   ]
+  }
+ ]
+}

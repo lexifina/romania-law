@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/mures/band/2014",
+"acts": [
+{
+"slug": "hcl-mures--band-17-2014",
+"path": "local/mures/band/2014/17",
+"kind": "local",
+"year": "2014",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 17/2014",
+"short": "HCL Band nr. 17/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-30",
+"latest": "2014-05-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-18-2014",
+"path": "local/mures/band/2014/18",
+"kind": "local",
+"year": "2014",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 18/2014",
+"short": "HCL Band nr. 18/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-30",
+"latest": "2014-05-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-30-2014",
+"path": "local/mures/band/2014/30",
+"kind": "local",
+"year": "2014",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 30/2014",
+"short": "HCL Band nr. 30/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-11",
+"latest": "2014-06-11",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-31-2014",
+"path": "local/mures/band/2014/31",
+"kind": "local",
+"year": "2014",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 31/2014",
+"short": "HCL Band nr. 31/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-11",
+"latest": "2014-06-11",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-32-2014",
+"path": "local/mures/band/2014/32",
+"kind": "local",
+"year": "2014",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 32/2014",
+"short": "HCL Band nr. 32/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-33-2014",
+"path": "local/mures/band/2014/33",
+"kind": "local",
+"year": "2014",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 33/2014",
+"short": "HCL Band nr. 33/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-34-2014",
+"path": "local/mures/band/2014/34",
+"kind": "local",
+"year": "2014",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 34/2014",
+"short": "HCL Band nr. 34/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-35-2014",
+"path": "local/mures/band/2014/35",
+"kind": "local",
+"year": "2014",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 35/2014",
+"short": "HCL Band nr. 35/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-36-2014",
+"path": "local/mures/band/2014/36",
+"kind": "local",
+"year": "2014",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 36/2014",
+"short": "HCL Band nr. 36/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-37-2014",
+"path": "local/mures/band/2014/37",
+"kind": "local",
+"year": "2014",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 37/2014",
+"short": "HCL Band nr. 37/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-38-2014",
+"path": "local/mures/band/2014/38",
+"kind": "local",
+"year": "2014",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 38/2014",
+"short": "HCL Band nr. 38/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-39-2014",
+"path": "local/mures/band/2014/39",
+"kind": "local",
+"year": "2014",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 39/2014",
+"short": "HCL Band nr. 39/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--band-40-2014",
+"path": "local/mures/band/2014/40",
+"kind": "local",
+"year": "2014",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Band nr. 40/2014",
+"short": "HCL Band nr. 40/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-06-30",
+"latest": "2014-06-30",
+"portal": "https://comunaband.ro/informatii-publice/hotarari-ale-consiliului-local/page/16/",
+"council": "mures/band",
+"council_name": "Consiliul Local al Comunei Band",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

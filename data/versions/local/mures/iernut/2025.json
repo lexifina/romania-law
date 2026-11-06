@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/iernut/2025",
+ "acts": [
+  {
+   "slug": "hcl-mures--iernut-23-2025",
+   "path": "local/mures/iernut/2025/23",
+   "short": "HCL Iernut nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Iernut nr. 23/2025 privind aprobarea statutului orașului Iernut Consiliul Local al orașului Iernut, întrunit în ședința ordinară de lucru, în data de 24.02.2025; Având în vedere Referatul de aprobare nr.3347/20.02.2025 al Primarului orașului Iernut, dl Moldovan Horațiu-Octavian, privind statutului orașului Iernut; Ținând cont de Raportul de specialitate nr.3348/20.02.2025 al Compartimentului Juridic din cadrul Orașu",
+   "url": "https://primariaiernut.ro/documente/hotararea-nr-23-24-02-2025-privind-aprobarea-statutului-orasului-iernut/",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://primariaiernut.ro/wp-content/uploads/2025/05/Hotarare-privind-aprobarea-statutului-orasului-Iernut.pdf",
+     "sha256": "ca172c3debc4624f19189593860147412be043487b7eae91ee4d55c6d621432a"
+    }
+   ]
+  }
+ ]
+}

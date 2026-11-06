@@ -1,0 +1,381 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/prunisor/2024",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--prunisor-1-2024",
+   "path": "local/mehedinti/prunisor/2024/1",
+   "short": "HCL Prunișor nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 1/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-1-09.01.2024-1.pdf",
+     "sha256": "5cb97c0938a80e2d2ac824dbdaeee9f86db23303920390dfefe4de427b598e25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-10-2024",
+   "path": "local/mehedinti/prunisor/2024/10",
+   "short": "HCL Prunișor nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 10/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-10-30.01.2024.pdf",
+     "sha256": "7cdd528dbff9fe0db2c471376dc7359ee96a1eee3faa1fbba24262791430763a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-11-2024",
+   "path": "local/mehedinti/prunisor/2024/11",
+   "short": "HCL Prunișor nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 11/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-11-07.02.2024.pdf",
+     "sha256": "fde33b89d8ae34fafb0ffa18b671f37830538a155f555310e675258f11464502"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-12-2024",
+   "path": "local/mehedinti/prunisor/2024/12",
+   "short": "HCL Prunișor nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 12/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-12-09.02.2024.pdf",
+     "sha256": "8af049cd6dff3fc9432d861014276d27f7f6a1060540c27e470f5fc111f4bf40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-13-2024",
+   "path": "local/mehedinti/prunisor/2024/13",
+   "short": "HCL Prunișor nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 13/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-13-09.02.2024.pdf",
+     "sha256": "a7c5bd8a2e30611f64251a844ec9ddcce827b82312061279a440e2a198355e13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-14-2024",
+   "path": "local/mehedinti/prunisor/2024/14",
+   "short": "HCL Prunișor nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 14/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-14-09.02.2024.pdf",
+     "sha256": "16ca82653d5c9707adbf3c25d65bc320405c494c6b27a2802eab916ce2b81ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-15-2024",
+   "path": "local/mehedinti/prunisor/2024/15",
+   "short": "HCL Prunișor nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 15/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-15-09.02.2024.pdf",
+     "sha256": "537ca648724677d5aad05b865cf85103def2b162c3ef4f012272f853ae3b739d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-16-2024",
+   "path": "local/mehedinti/prunisor/2024/16",
+   "short": "HCL Prunișor nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 16/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-16-09.02.2024.pdf",
+     "sha256": "78a131e4498b21c7625e8c3aecd159350956d0428e29a955c924d5209c6909d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-17-2024",
+   "path": "local/mehedinti/prunisor/2024/17",
+   "short": "HCL Prunișor nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 17/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-17-09.02.2024.pdf",
+     "sha256": "c098fd93c7ed2672e92fd7bfd6dcd1ba395f80c42d664925f63a60ccbe916ff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-18-2024",
+   "path": "local/mehedinti/prunisor/2024/18",
+   "short": "HCL Prunișor nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 18/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-18-26.03.2024.pdf",
+     "sha256": "b0cfe8f976c5302c06f3439c0a1a0454b25ed40f7368e9d03d2a12cdc4fae4ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-19-2024",
+   "path": "local/mehedinti/prunisor/2024/19",
+   "short": "HCL Prunișor nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 19/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-03-26",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-19-26.03.2024.pdf",
+     "sha256": "fc7db6ac937d9098ef541e8bbd7face5c370057b842c2fec296aee0e52fda2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-2-2024",
+   "path": "local/mehedinti/prunisor/2024/2",
+   "short": "HCL Prunișor nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 2/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-2-09.01.2024.pdf",
+     "sha256": "46ed935e70ee89e170cf211764ad36573a8f7ae603d1dd3008bc79bbb1066dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-20-2024",
+   "path": "local/mehedinti/prunisor/2024/20",
+   "short": "HCL Prunișor nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 20/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-20-30.04.2024.pdf",
+     "sha256": "a1dbfa2eceff543788de3e9f315f8f6899243ac5f6980dd6b9fc2ba296382791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-21-2024",
+   "path": "local/mehedinti/prunisor/2024/21",
+   "short": "HCL Prunișor nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 21/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-21-30.04.2024.pdf",
+     "sha256": "6a53e2dd1cbea56a4c5ee9d3329571a133ebd36bdf08d82960aa7d4353bd3e7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-22-2024",
+   "path": "local/mehedinti/prunisor/2024/22",
+   "short": "HCL Prunișor nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 22/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-22-31.05.2024.pdf",
+     "sha256": "dc069a81e86441f6d883e435fad9218ec972342d7c67871a69d9aff34838c1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-23-2024",
+   "path": "local/mehedinti/prunisor/2024/23",
+   "short": "HCL Prunișor nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 23/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-23-31.05.2024.pdf",
+     "sha256": "732df8c772f2bf063d9ed7204a271916fcaa2c149bda71e267b0f6222b567587"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-24-2024",
+   "path": "local/mehedinti/prunisor/2024/24",
+   "short": "HCL Prunișor nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 24/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-24-31.05.2024.pdf",
+     "sha256": "13852bc5ee95defefc4053c0e779e986235f11331c60a9e71dee2befd664e199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-25-2024",
+   "path": "local/mehedinti/prunisor/2024/25",
+   "short": "HCL Prunișor nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 25/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-05-31",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-25-31.05.2024.pdf",
+     "sha256": "29cce832f4f75abeb74616163d115616bd9808b368dbb3130932add22957108f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-3-2024",
+   "path": "local/mehedinti/prunisor/2024/3",
+   "short": "HCL Prunișor nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 3/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-3-09.01.2024.pdf",
+     "sha256": "4ea84d6cbb6cd9bddb001d5e441b3302cd02ac9fb147d3ac91290b7f94ca9bd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-4-2024",
+   "path": "local/mehedinti/prunisor/2024/4",
+   "short": "HCL Prunișor nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 4/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-4-30.01.2024.pdf",
+     "sha256": "799b21cfd95b91c8bfe91c3157a98e122c58ae729e3422b78c08390a8e52c620"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-5-2024",
+   "path": "local/mehedinti/prunisor/2024/5",
+   "short": "HCL Prunișor nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 5/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-5-30.01.2024.pdf",
+     "sha256": "58ac547c1e9bd4ac5f930d3fa2ad1a83599c6e52da2a3c5abd6cd71d0b9556a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-6-2024",
+   "path": "local/mehedinti/prunisor/2024/6",
+   "short": "HCL Prunișor nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 6/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-6-30.01.2024.pdf",
+     "sha256": "5fba789e77dab37a0b9afcc91706ec1ac61c5aef1a32f4583f02b619b6230a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-7-2024",
+   "path": "local/mehedinti/prunisor/2024/7",
+   "short": "HCL Prunișor nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 7/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-7-30.01.2024.pdf",
+     "sha256": "e12bd5e021acabcb8a365e5de83990dfefcf4f7f37b079b3239135cde54ebb30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-8-2024",
+   "path": "local/mehedinti/prunisor/2024/8",
+   "short": "HCL Prunișor nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 8/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-8-30.01.2024.pdf",
+     "sha256": "1d4501a54a0df3c30c5eccd5ece2563f8e0d73ef3399b1d09e41f95d7c92913e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--prunisor-9-2024",
+   "path": "local/mehedinti/prunisor/2024/9",
+   "short": "HCL Prunișor nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Prunișor nr. 9/2024",
+   "url": "https://primaria-prunisor.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://primaria-prunisor.ro/storage/formidable/77/HCL-nr.-9-30.01.2024.pdf",
+     "sha256": "661d67f8e75c3d68e2d20dab9ac856291684c6a0d8e7fdd4183c0713b5539380"
+    }
+   ]
+  }
+ ]
+}

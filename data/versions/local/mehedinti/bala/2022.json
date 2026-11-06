@@ -286,6 +286,21 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-mehedinti--bala-63-2022",
+   "path": "local/mehedinti/bala/2022/63",
+   "short": "HCL Bala nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bala nr. 63/2022 privind rectificarea bugetului local al comunei Bala pentru anul 2022",
+   "url": "https://emol.ro/bala-mh/registru-hcl/83986",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bala-mh/registru-hcl/83986",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

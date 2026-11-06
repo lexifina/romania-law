@@ -3,6 +3,72 @@
 "shard": "local/neamt/gadinti/2022",
 "acts": [
 {
+"slug": "hcl-neamt--gadinti-54-2022",
+"path": "local/neamt/gadinti/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 54/2022 privind aprobarea depunerii proiectului cu titlul “Ecosistem digital interconectat si integrat in cadrul Județului Neamț” în cadrul apelului de proiecte PNRR/2022/C10/ I.1 /I.1.2 și a cheltuielilor legate de proiect",
+"short": "HCL Gâdinți nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/75295",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-55-2022",
+"path": "local/neamt/gadinti/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 55/2022 privind alegerea președintelui de ședință pentru lunile: noiembrie, decembrie 2022 și ianuarie 2023",
+"short": "HCL Gâdinți nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/75296",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-56-2022",
+"path": "local/neamt/gadinti/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 56/2022 privind aprobarea execuției bugetare pentru trimestrul III al anului 2022",
+"short": "HCL Gâdinți nr. 56/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-19",
+"latest": "2022-10-19",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/75297",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-57-2022",
 "path": "local/neamt/gadinti/2022/57",
 "kind": "local",
@@ -25,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-neamt--gadinti-58-2022",
+"path": "local/neamt/gadinti/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 58/2022",
+"short": "HCL Gâdinți nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/79507",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-neamt--gadinti-59-2022",
 "path": "local/neamt/gadinti/2022/59",
 "kind": "local",
@@ -44,6 +133,50 @@
 "council_name": "Consiliul Local al Comunei Gâdinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-60-2022",
+"path": "local/neamt/gadinti/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 60/2022 privind aprobarea rectificării bugetului local pe anul 2022",
+"short": "HCL Gâdinți nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/79509",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--gadinti-61-2022",
+"path": "local/neamt/gadinti/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 61/2022 privind aprobarea colaborării comunei Gâdinți cu Ministerul Muncii și Solidarității Sociale (MMSS)",
+"short": "HCL Gâdinți nr. 61/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-16",
+"latest": "2022-11-16",
+"portal": "https://emol.ro/gadinti-nt/registru-hcl/79510",
+"council": "neamt/gadinti",
+"council_name": "Consiliul Local al Comunei Gâdinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,66 @@
  "shard": "local/mehedinti/ponoarele/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ponoarele-22-2026",
+   "path": "local/mehedinti/ponoarele/2026/22",
+   "short": "HCL Ponoarele nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 22/2026 privind aprobarea amplasării containerelor pentru colectarea deșeurilor textile pe domeniul public al Comunei Ponoarele, județul Mehedinți",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/274393",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/274393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-23-2026",
+   "path": "local/mehedinti/ponoarele/2026/23",
+   "short": "HCL Ponoarele nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 23/2026 privind aprobarea Notei conceptuale și a Temei de proiectare pentru obiectivul de investiții „Construire teren multisport, comuna Ponoarele, jud. Mehedinți”",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/274394",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/274394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-24-2026",
+   "path": "local/mehedinti/ponoarele/2026/24",
+   "short": "HCL Ponoarele nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 24/2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/274395",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/274395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-25-2026",
+   "path": "local/mehedinti/ponoarele/2026/25",
+   "short": "HCL Ponoarele nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 25/2026 privind rectificarea bugetului local de venituri și cheltuieli al comunei Ponoarele, județul Mehedinți, pe anul 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/274396",
+   "versions": [
+    {
+     "from": "2026-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/274396",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-26-2026",
    "path": "local/mehedinti/ponoarele/2026/26",
    "short": "HCL Ponoarele nr. 26/2026",
@@ -13,6 +73,36 @@
      "from": "2026-07-27",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/279892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-27-2026",
+   "path": "local/mehedinti/ponoarele/2026/27",
+   "short": "HCL Ponoarele nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 27/2026 privind încheierea unui contract de asistență și reprezentare juridică a UAT Ponoarele, parte vătămată, în Dosarul nr.148/181/2025",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/281154",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/281154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-28-2026",
+   "path": "local/mehedinti/ponoarele/2026/28",
+   "short": "HCL Ponoarele nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 28/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni, care să conducă ședințele Consiliului Local Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/281155",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/281155",
      "sha256": null
     }
    ]
@@ -63,6 +153,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-32-2026",
+   "path": "local/mehedinti/ponoarele/2026/32",
+   "short": "HCL Ponoarele nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 32/2026 privind rectificarea bugetului local de venituri și cheltuieli al comunei Ponoarele, județul Mehedinți, pe anul 2026",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/285187",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/285187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-33-2026",
+   "path": "local/mehedinti/ponoarele/2026/33",
+   "short": "HCL Ponoarele nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 33/2026 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Consiliul de administrație al Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2026 - 2027",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/285188",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/285188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-34-2026",
+   "path": "local/mehedinti/ponoarele/2026/34",
+   "short": "HCL Ponoarele nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 34/2026 privind desemnarea reprezentantului Consiliului local al comunei Ponoarele în Comisia pentru evaluarea si asigurarea calitatii (CEAC) constituită la nivelul Şcolii Gimnaziale “Dr. Alexandru M. Popescu” Ponoarele pentru anul scolar 2026 - 2027",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/285189",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/285189",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-35-2026",
    "path": "local/mehedinti/ponoarele/2026/35",
    "short": "HCL Ponoarele nr. 35/2026",
@@ -78,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ponoarele-36-2026",
+   "path": "local/mehedinti/ponoarele/2026/36",
+   "short": "HCL Ponoarele nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 36/2026 privind aprobarea Planului de analiză şi acoperire a riscurilor în comuna Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/289833",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/289833",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ponoarele-37-2026",
    "path": "local/mehedinti/ponoarele/2026/37",
    "short": "HCL Ponoarele nr. 37/2026",
@@ -88,6 +238,51 @@
      "from": "2026-11-05",
      "units": 1,
      "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/289834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-38-2026",
+   "path": "local/mehedinti/ponoarele/2026/38",
+   "short": "HCL Ponoarele nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 38/2026 privind desemnarea unui reprezentant al Consiliului Local al Comunei Ponoarele în Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director al Școlii Gimnaziale „Dr. Alexandru M. Popescu” Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/289835",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/289835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-39-2026",
+   "path": "local/mehedinti/ponoarele/2026/39",
+   "short": "HCL Ponoarele nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 39/2026 privind aderarea UAT comuna Ponoarele la sistemul prin cooperare pentru organizarea și exercitarea activității de urbanism si amenajarea teritoriului la nivelul Filialei Județene Mehedinți a Asociației Comunelor din România",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/289836",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/289836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ponoarele-40-2026",
+   "path": "local/mehedinti/ponoarele/2026/40",
+   "short": "HCL Ponoarele nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ponoarele nr. 40/2026 privind alegerea președintelui de ședință pe o perioadă de 3 luni, care să conducă ședințele Consiliului Local Ponoarele",
+   "url": "https://emol.ro/ponoarele-mh/registru-hcl/296087",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ponoarele-mh/registru-hcl/296087",
      "sha256": null
     }
    ]

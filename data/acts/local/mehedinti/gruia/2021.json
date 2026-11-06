@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--gruia-57-2021",
+"path": "local/mehedinti/gruia/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 57/2021 privind desemnarea reprezentantului Consiliului Local Gruia ca membru in Comisia de evaluare a probei de interviu, la concursului pentru ocuparea functiilor de director/director adjunct din unitatile de invatamant preuniversitar de stat din localitatea Gruia",
+"short": "HCL Gruia nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/39951",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--gruia-58-2021",
 "path": "local/mehedinti/gruia/2021/58",
 "kind": "local",
@@ -396,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Gruia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--gruia-74-2021",
+"path": "local/mehedinti/gruia/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gruia nr. 74/2021 privind activitatea desfasurata de asistentii persoanali ai persoanelor cu handicap grav din comuna Gruia jud. Mehedinti pe semestrul II 2021",
+"short": "HCL Gruia nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/gruia-mh/registru-hcl/45298",
+"council": "mehedinti/gruia",
+"council_name": "Consiliul Local al Comunei Gruia",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

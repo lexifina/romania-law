@@ -3,6 +3,231 @@
  "shard": "local/neamt/gadinti/2023",
  "acts": [
   {
+   "slug": "hcl-neamt--gadinti-51-2023",
+   "path": "local/neamt/gadinti/2023/51",
+   "short": "HCL Gâdinți nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 51/2023 privind aprobarea execuției bugetare pentru trimestrul III al anului 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/125213",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/125213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-52-2023",
+   "path": "local/neamt/gadinti/2023/52",
+   "short": "HCL Gâdinți nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 52/2023 privind alegerea președintelui de ședință pentru lunile: noiembrie, decembrie 2023 și ianuarie 2024",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/125214",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/125214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-53-2023",
+   "path": "local/neamt/gadinti/2023/53",
+   "short": "HCL Gâdinți nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 53/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Gâdinți, județul Neamț, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/127954",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/127954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-54-2023",
+   "path": "local/neamt/gadinti/2023/54",
+   "short": "HCL Gâdinți nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 54/2023 privind stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului comunei Gâdinți, județul Neamț, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/127955",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/127955",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-55-2023",
+   "path": "local/neamt/gadinti/2023/55",
+   "short": "HCL Gâdinți nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 55/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/127956",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/127956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-56-2023",
+   "path": "local/neamt/gadinti/2023/56",
+   "short": "HCL Gâdinți nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 56/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/129884",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/129884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-57-2023",
+   "path": "local/neamt/gadinti/2023/57",
+   "short": "HCL Gâdinți nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 57/2023 privind aprobarea dezmembrării în două loturi distincte a lotului de teren în suprafață de 972 mp aparținând domeniului privat al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/129885",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/129885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-58-2023",
+   "path": "local/neamt/gadinti/2023/58",
+   "short": "HCL Gâdinți nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 58/2023 privind aprobarea dezmembrării în cinci loturi distincte a lotului de teren în suprafață de 1706 mp aparținând domeniului privat al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/129886",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/129886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-59-2023",
+   "path": "local/neamt/gadinti/2023/59",
+   "short": "HCL Gâdinți nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 59/2023 privind modificarea și completarea Hotărârii Consiliului local nr.57/2023 privind aprobarea dezmembrării în două loturi distincte a lotului de teren în suprafață de 972 mp aparținând domeniului privat al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133330",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-60-2023",
+   "path": "local/neamt/gadinti/2023/60",
+   "short": "HCL Gâdinți nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 60/2023 privind modificarea și completarea Hotărârii Consiliului local nr.58/2023 privind aprobarea dezmembrării în cinci loturi distincte a lotului de teren în suprafață de 1706 mp aparținând domeniului privat al comunei Gâdinți",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133331",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-61-2023",
+   "path": "local/neamt/gadinti/2023/61",
+   "short": "HCL Gâdinți nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 61/2023 privind aprobarea achiziției serviciilor de elaborare Studiu de fezabilitate, depunere Cerere de finanțare, managementul proiectului pentru obiectivul Construire centrală electrică fotovoltaică (CEF) < 1MV la nivelul comunei Gâdinți, județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133332",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-62-2023",
+   "path": "local/neamt/gadinti/2023/62",
+   "short": "HCL Gâdinți nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 62/2023 privind acordarea unui mandat special reprezentantului Comunei Gâdinți să voteze, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”, pentru adoptarea proiectului de hotărâre privind stabilirea și aprobarea tarifelor aferente Contractului de delegare nr. 159/1035/04.04.2018, Zona 2 județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133333",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-63-2023",
+   "path": "local/neamt/gadinti/2023/63",
+   "short": "HCL Gâdinți nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 63/2023 privind acordarea unui mandat special reprezentantului Comunei Gâdinți să voteze, în Adunarea Generală a Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”, pentru adoptarea proiectului de hotărâre privind ajustare tarifelor aferente Contractului de delegare nr. 159/1035/04.04.2018, Zona 2 județul Neamț",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133334",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-64-2023",
+   "path": "local/neamt/gadinti/2023/64",
+   "short": "HCL Gâdinți nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 64/2023 privind acordarea unui mandat special reprezentantului legal al Comunei Gâdinți în Adunarea Generală a Asociației de dezvoltare intercomunitară ”PROTECȚIA ANIMALELOR NEAMȚ” , pentru a vota proiectul de hotărâre privind aprobarea primirii unor noi membri unități administrativ-teritoriale din Județul Neamț și modificarea Statutului Asociației, conform Deciziei Consiliului Director",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133335",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-65-2023",
+   "path": "local/neamt/gadinti/2023/65",
+   "short": "HCL Gâdinți nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 65/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/133336",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/133336",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-66-2023",
    "path": "local/neamt/gadinti/2023/66",
    "short": "HCL Gâdinți nr. 66/2023",
@@ -18,6 +243,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--gadinti-67-2023",
+   "path": "local/neamt/gadinti/2023/67",
+   "short": "HCL Gâdinți nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 67/2023 privind aprobarea rectificării bugetului local pe anul 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/134673",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/134673",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--gadinti-68-2023",
    "path": "local/neamt/gadinti/2023/68",
    "short": "HCL Gâdinți nr. 68/2023",
@@ -28,6 +268,21 @@
      "from": "2024-01-03",
      "units": 1,
      "source_url": "https://emol.ro/gadinti-nt/registru-hcl/134674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--gadinti-69-2023",
+   "path": "local/neamt/gadinti/2023/69",
+   "short": "HCL Gâdinți nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gâdinți nr. 69/2023 privind aprobarea execuției bugetare pentru trimestrul IV al anului 2023",
+   "url": "https://emol.ro/gadinti-nt/registru-hcl/134675",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/gadinti-nt/registru-hcl/134675",
      "sha256": null
     }
    ]

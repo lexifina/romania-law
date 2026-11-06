@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sovata/2020",
+ "acts": [
+  {
+   "slug": "hcl-mures--sovata-27-2020",
+   "path": "local/mures/sovata/2020/27",
+   "short": "HCL Sovata nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Sovata nr. 27/2020 cu privire la aprobarea documentației topo-cadastrală a imobilului, C1 – atelier, situat în Sovata, str. Principală, nr.161 Consiliul Local al Orașului Sovata întrunit în ședință ordinară, Examinând Referatul de aprobare nr.4495/12.02.2020 al Primarului Orașului Sovata, în calitate de inițiator; Analizând Raportul de specialitate nr.4516/12.02.2020 al Serviciului Juridic, prin care se propune apro",
+   "url": "http://www.primariasovata.ro/document-category/hotarari-alegeri-locale-2020/",
+   "versions": [
+    {
+     "from": "2020-02-18",
+     "units": 1,
+     "source_url": "https://primariasovata.ro/wp-content/uploads/H27-18022020.pdf",
+     "sha256": "699a2616ba3e100c3cc3f8c6afd08fd9f90c113464923059809dcc6170539ecd"
+    }
+   ]
+  }
+ ]
+}

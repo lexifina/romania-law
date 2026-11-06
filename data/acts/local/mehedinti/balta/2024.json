@@ -3,6 +3,204 @@
 "shard": "local/mehedinti/balta/2024",
 "acts": [
 {
+"slug": "hcl-mehedinti--balta-43-2024",
+"path": "local/mehedinti/balta/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 43/2024 privind revocarea HCL nr. 42/18.09.2024",
+"short": "HCL Balta nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/balta-mh/registru-hcl/190965",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-44-2024",
+"path": "local/mehedinti/balta/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 44/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Balta nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/balta-mh/registru-hcl/190966",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-45-2024",
+"path": "local/mehedinti/balta/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 45/2024 privind modificarea ș completarea organigramei și statului de funcții pentru aparatul de specialitate al primarului comunei Balta, județul Mehedinți",
+"short": "HCL Balta nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/190967",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-46-2024",
+"path": "local/mehedinti/balta/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 46/2024 privind modificarea Hotărârii Consiliului Local al Comunei Balta nr. 63/14.11.2023 referitoare la aprobarea proiectului „Înființare capacitate de producere a energiei electrice produsă din surse regenerabile pentru autoconsum în cadrul UAT Balta, județul Mehedinți”",
+"short": "HCL Balta nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191085",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-47-2024",
+"path": "local/mehedinti/balta/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 47/2024 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Balta, pentru perioada noiembrie 2024-ianuarie 2025",
+"short": "HCL Balta nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191110",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-48-2024",
+"path": "local/mehedinti/balta/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 48/2024 privind constituirea comisiilor de specialitate ale Consiliului Local al comunei Balta, județul Mehedinți",
+"short": "HCL Balta nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191111",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-49-2024",
+"path": "local/mehedinti/balta/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 49/2024 privind aprobarea revizuirii, modificării și completării Regulamentului de organizare și funcționare al Consiliului local al Comunei Balta, Județul Mehedinți",
+"short": "HCL Balta nr. 49/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191112",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-50-2024",
+"path": "local/mehedinti/balta/2024/50",
+"kind": "local",
+"year": "2024",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 50/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balta",
+"short": "HCL Balta nr. 50/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191113",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-51-2024",
+"path": "local/mehedinti/balta/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 51/2024 privind alocarea din bugetul local al Comunei Balta 2024 a sumei de 5000 ron pentru Bradul de Crăciun-cadouri pentru copii",
+"short": "HCL Balta nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191114",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balta-52-2024",
 "path": "local/mehedinti/balta/2024/52",
 "kind": "local",
@@ -47,6 +245,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--balta-54-2024",
+"path": "local/mehedinti/balta/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 54/2024 privind noul termen pentru anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 actualizată cu OUG nr.132/22.11.2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Balta nr. 54/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191151",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--balta-55-2024",
 "path": "local/mehedinti/balta/2024/55",
 "kind": "local",
@@ -66,6 +286,160 @@
 "council_name": "Consiliul Local al Comunei Balta",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-56-2024",
+"path": "local/mehedinti/balta/2024/56",
+"kind": "local",
+"year": "2024",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 56/2024 privind desemnarea reprezentantului Consiliului Local Balta, în Consiliul de Administrației al Școlii Gimnaziale Balta pentru anul școlar 2024-2025",
+"short": "HCL Balta nr. 56/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191168",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-57-2024",
+"path": "local/mehedinti/balta/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 57/2024 privind stabilirea coeficienților și salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Balta precum și a salariaților instituțiilor și serviciilor publice din subordinea Consiliului Local al Comunei Balta",
+"short": "HCL Balta nr. 57/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191170",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-58-2024",
+"path": "local/mehedinti/balta/2024/58",
+"kind": "local",
+"year": "2024",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 58/2024 privind reabilitare primărie veche cu destinație Consiliul Local Balta",
+"short": "HCL Balta nr. 58/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191171",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-59-2024",
+"path": "local/mehedinti/balta/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 59/2024 privind aprobarea încheierii contractului de prestări servicii financiar-contabile în cadrul UAT Balta",
+"short": "HCL Balta nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191172",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-60-2024",
+"path": "local/mehedinti/balta/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 60/2024 privind aprobarea criteriilor și procedura de organizare și desfășurare a concursului pentru ocuparea funcției contractuale de muncitor din cadrul „Serviciului Public de Alimentare cu Apă al comunei Balta” serviciul public de interes local, specializat, cu personalitate juridică, organizat în subordinea Consiliului Local al comunei Balta, județul Mehedinți",
+"short": "HCL Balta nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191173",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-61-2024",
+"path": "local/mehedinti/balta/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 61/2024 privind rectificarea bugetului de venituri și cheltuieli al Comunei Balta",
+"short": "HCL Balta nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191180",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--balta-62-2024",
+"path": "local/mehedinti/balta/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Balta nr. 62/2024 privind rectificarea bugetului de venituri și cheltuieli al comunei Balta",
+"short": "HCL Balta nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-06",
+"latest": "2025-02-06",
+"portal": "https://emol.ro/balta-mh/registru-hcl/191181",
+"council": "mehedinti/balta",
+"council_name": "Consiliul Local al Comunei Balta",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

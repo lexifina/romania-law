@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--isverna-27-2020",
+   "path": "local/mehedinti/isverna/2020/27",
+   "short": "HCL Isverna nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 27/2020 privind constituirea comisiilor de specialitate",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/15267",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/15267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--isverna-28-2020",
+   "path": "local/mehedinti/isverna/2020/28",
+   "short": "HCL Isverna nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 28/2020 privind alegerea viceprimarului comunei Isverna",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/15268",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/15268",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--isverna-29-2020",
    "path": "local/mehedinti/isverna/2020/29",
    "short": "HCL Isverna nr. 29/2020",
@@ -28,6 +58,21 @@
      "from": "2020-11-06",
      "units": 1,
      "source_url": "https://emol.ro/isverna-mh/registru-hcl/15269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--isverna-30-2020",
+   "path": "local/mehedinti/isverna/2020/30",
+   "short": "HCL Isverna nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 30/2020",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/15270",
+   "versions": [
+    {
+     "from": "2020-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/15270",
      "sha256": null
     }
    ]

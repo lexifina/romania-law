@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--balvanesti-15-2022",
+   "path": "local/mehedinti/balvanesti/2022/15",
+   "short": "HCL Bâlvănești nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 15/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/66073",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/66073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-16-2022",
+   "path": "local/mehedinti/balvanesti/2022/16",
+   "short": "HCL Bâlvănești nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 16/2022 privind privind alegerea viceprimarului comunei Balvanesti",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/66074",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/66074",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-17-2022",
    "path": "local/mehedinti/balvanesti/2022/17",
    "short": "HCL Bâlvănești nr. 17/2022",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--balvanesti-21-2022",
+   "path": "local/mehedinti/balvanesti/2022/21",
+   "short": "HCL Bâlvănești nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 21/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti,in anul scolar 2022-2023",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/70341",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/70341",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--balvanesti-22-2022",
    "path": "local/mehedinti/balvanesti/2022/22",
    "short": "HCL Bâlvănești nr. 22/2022",
@@ -103,6 +148,21 @@
      "from": "2022-10-17",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/74283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-23-2022",
+   "path": "local/mehedinti/balvanesti/2022/23",
+   "short": "HCL Bâlvănești nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 23/2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/74284",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/74284",
      "sha256": null
     }
    ]
@@ -163,6 +223,36 @@
      "from": "2022-10-31",
      "units": 1,
      "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/78179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-28-2022",
+   "path": "local/mehedinti/balvanesti/2022/28",
+   "short": "HCL Bâlvănești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 28/2022 privind alocarea unei sume de bani pentru cumpararea de cadouri elevilor si copiilor prescolari de la Scoala Gimnaziala Balvanesti cu ocazia sarbatorilor de iarna 2022",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/81685",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/81685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--balvanesti-29-2022",
+   "path": "local/mehedinti/balvanesti/2022/29",
+   "short": "HCL Bâlvănești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bâlvănești nr. 29/2022 privind desemnarea reprezentantului Consiliului Local al Comunei Balvanesti in Consiliul de Administratie al Scolii Gimnaziale Balvanesti,in anul scolar 2022-2023",
+   "url": "https://emol.ro/balvanesti-mh/registru-hcl/81686",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/balvanesti-mh/registru-hcl/81686",
      "sha256": null
     }
    ]

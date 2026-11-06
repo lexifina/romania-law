@@ -3,6 +3,21 @@
  "shard": "local/maramures/sacalaseni/2023",
  "acts": [
   {
+   "slug": "hcl-maramures--sacalaseni-100-2023",
+   "path": "local/maramures/sacalaseni/2023/100",
+   "short": "HCL Săcălășeni nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 100/2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/130485",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130485",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-101-2023",
    "path": "local/maramures/sacalaseni/2023/101",
    "short": "HCL Săcălășeni nr. 101/2023",
@@ -13,6 +28,21 @@
      "from": "2023-12-04",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-102-2023",
+   "path": "local/maramures/sacalaseni/2023/102",
+   "short": "HCL Săcălășeni nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 102/2023 privind aprobarea celei de-a unsprezecea rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135498",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135498",
      "sha256": null
     }
    ]
@@ -33,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-104-2023",
+   "path": "local/maramures/sacalaseni/2023/104",
+   "short": "HCL Săcălășeni nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 104/2023 privind alegerea președintelui de ședință pentru luna Ianuarie 2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135659",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-105-2023",
    "path": "local/maramures/sacalaseni/2023/105",
    "short": "HCL Săcălășeni nr. 105/2023",
@@ -43,6 +88,21 @@
      "from": "2023-12-29",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-106-2023",
+   "path": "local/maramures/sacalaseni/2023/106",
+   "short": "HCL Săcălășeni nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 106/2023 privind vânzarea prin licitație publică a mijlocului fix Autobuz M3 clasa III, marca SCANIA",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135661",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135661",
      "sha256": null
     }
    ]
@@ -63,6 +123,51 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-108-2023",
+   "path": "local/maramures/sacalaseni/2023/108",
+   "short": "HCL Săcălășeni nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 108/2023 privind prelungirea duratei documentului „ACORD DE COOPERARE PRIVIND PRESTAREA UNOR ACTIVITĂŢI ÎN INTERES COMUNITAR”- prestări servicii, încheiat cu Filiala Județeană Maramureș a Asociației Comunelor din România",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135663",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-109-2023",
+   "path": "local/maramures/sacalaseni/2023/109",
+   "short": "HCL Săcălășeni nr. 109/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 109/2023 privind aprobarea celei de-a douăsprezecea rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135664",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-110-2023",
+   "path": "local/maramures/sacalaseni/2023/110",
+   "short": "HCL Săcălășeni nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 110/2023 privind aprobarea documentației pentru atestarea comunei Săcălășeni ca stațiune turistică de interes local și depunerea acesteia la Ministrul Economiei, Antreprenoriatului și Turismului în vederea inițierii unei Hotărâri a Guvernului României pentru atestarea stațiunii turistice",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/135665",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/135665",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-111-2023",
    "path": "local/maramures/sacalaseni/2023/111",
    "short": "HCL Săcălășeni nr. 111/2023",
@@ -73,6 +178,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/136657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-92-2023",
+   "path": "local/maramures/sacalaseni/2023/92",
+   "short": "HCL Săcălășeni nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 92/2023 privind aprobarea transmiterii cu titlu gratuit către Școala Gimnazială Săcălășeni, a microbuzului școlar marca FORD, tipul TRANSIT, având numărul de identificare WFOXXXTTFXAA81255",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/125603",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/125603",
      "sha256": null
     }
    ]
@@ -123,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-maramures--sacalaseni-96-2023",
+   "path": "local/maramures/sacalaseni/2023/96",
+   "short": "HCL Săcălășeni nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 96/2023 privind alegerea președintelui de ședință pentru luna Decembrie 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/130481",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-97-2023",
+   "path": "local/maramures/sacalaseni/2023/97",
+   "short": "HCL Săcălășeni nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 97/2023 privind aprobarea celei de-a zecea rectificări a bugetului local al Comunei Săcălășeni pe anul 2023",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/130482",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130482",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-maramures--sacalaseni-98-2023",
    "path": "local/maramures/sacalaseni/2023/98",
    "short": "HCL Săcălășeni nr. 98/2023",
@@ -133,6 +283,21 @@
      "from": "2023-12-04",
      "units": 1,
      "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--sacalaseni-99-2023",
+   "path": "local/maramures/sacalaseni/2023/99",
+   "short": "HCL Săcălășeni nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălășeni nr. 99/2023 privind stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Săcălășeni, judeţul Maramureș, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/sacalaseni-mm/registru-hcl/130484",
+   "versions": [
+    {
+     "from": "2023-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaseni-mm/registru-hcl/130484",
      "sha256": null
     }
    ]

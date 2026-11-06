@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--isverna-2-2021",
+"path": "local/mehedinti/isverna/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 2/2021 privind desemnarea reprezentantului Consiliului Local Isverna in Consiliul de administratie al Scolii Gimnaziale Isverna",
+"short": "HCL Isverna nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20745",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-3-2021",
+"path": "local/mehedinti/isverna/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 3/2021 Proiect de hotarire privind alegerea presedintelui de sedinta pe lunile februarie, martie, aprilie 2021",
+"short": "HCL Isverna nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20746",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--isverna-4-2021",
 "path": "local/mehedinti/isverna/2021/4",
 "kind": "local",
@@ -66,6 +110,29 @@
 "council_name": "Consiliul Local al Comunei Isverna",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--isverna-6-2021",
+"path": "local/mehedinti/isverna/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Isverna nr. 6/2021",
+"short": "HCL Isverna nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-04",
+"latest": "2021-02-04",
+"portal": "https://emol.ro/isverna-mh/registru-hcl/20981",
+"council": "mehedinti/isverna",
+"council_name": "Consiliul Local al Comunei Isverna",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

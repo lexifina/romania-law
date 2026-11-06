@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-neamt--bodesti-92-2022",
+   "path": "local/neamt/bodesti/2022/92",
+   "short": "HCL Bodești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 92/2022 privind stabilirea structurii de specialitate și adoptarea graficul - calendar de lucru a comisiei sociale de analiză a solicitărilor privind repartizarea de locuinţe construite prin Agenţia Naţională pentru Locuinţe, în vederea închirierii",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98382",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98382",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--bodesti-93-2022",
    "path": "local/neamt/bodesti/2022/93",
    "short": "HCL Bodești nr. 93/2022",
@@ -208,6 +223,21 @@
      "from": "2022-11-18",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-95-2022",
+   "path": "local/neamt/bodesti/2022/95",
+   "short": "HCL Bodești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 95/2022 privind închirierea unei suprafeţe de teren din domeniul privat al comunei Bodești, judeţul Neamț",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98385",
+   "versions": [
+    {
+     "from": "2022-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98385",
      "sha256": null
     }
    ]
@@ -253,6 +283,21 @@
      "from": "2022-12-19",
      "units": 1,
      "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--bodesti-99-2022",
+   "path": "local/neamt/bodesti/2022/99",
+   "short": "HCL Bodești nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bodești nr. 99/2022 privind aprobarea listei solicitanţilor care au acces și nu au acces la locuinţe pentru tineri destinate închirierii construite prin ANL",
+   "url": "https://emol.ro/bodesti-nt/registru-hcl/98462",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bodesti-nt/registru-hcl/98462",
      "sha256": null
     }
    ]

@@ -641,6 +641,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-30-2021",
+"path": "local/mehedinti/vanju-mare/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 30/2021 privind concesionare teren domeniul privat",
+"short": "HCL Vânju Mare nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/25988",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-31-2021",
 "path": "local/mehedinti/vanju-mare/2021/31",
 "kind": "local",
@@ -795,6 +817,50 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-38-2021",
+"path": "local/mehedinti/vanju-mare/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 38/2021 privind stabilirea cuantumului redevenței aferente contractelor de concesiune",
+"short": "HCL Vânju Mare nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/25398",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-39-2021",
+"path": "local/mehedinti/vanju-mare/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 39/2021 privind concesionarea terenului în suprafață de 3000mp",
+"short": "HCL Vânju Mare nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/25399",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-40-2021",
 "path": "local/mehedinti/vanju-mare/2021/40",
 "kind": "local",
@@ -814,6 +880,28 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-41-2021",
+"path": "local/mehedinti/vanju-mare/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 41/2021 privind plata sumei de 40.840,80lei",
+"short": "HCL Vânju Mare nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-15",
+"latest": "2021-06-15",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/26440",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -839,6 +927,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-43-2021",
+"path": "local/mehedinti/vanju-mare/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 43/2021 privind rectificarea bugetului local",
+"short": "HCL Vânju Mare nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/28321",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-44-2021",
 "path": "local/mehedinti/vanju-mare/2021/44",
 "kind": "local",
@@ -861,6 +971,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-45-2021",
+"path": "local/mehedinti/vanju-mare/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 45/2021 privind rectificarea bugetului local",
+"short": "HCL Vânju Mare nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-13",
+"latest": "2021-07-13",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/29562",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-46-2021",
 "path": "local/mehedinti/vanju-mare/2021/46",
 "kind": "local",
@@ -880,6 +1012,51 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-47-2021",
+"path": "local/mehedinti/vanju-mare/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 47/2021",
+"short": "HCL Vânju Mare nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/31785",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-48-2021",
+"path": "local/mehedinti/vanju-mare/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 48/2021 privind plata sumei de 900.000,00 lei pentru plata parţială la obiectivul Reabilitare şi modernizare străzi, în oraşul Vânju Mare-zona sud, judeţul Mehedinţi",
+"short": "HCL Vânju Mare nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-11",
+"latest": "2021-08-11",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/33455",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -927,6 +1104,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-51-2021",
+"path": "local/mehedinti/vanju-mare/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 51/2021 privind redistribuirea sumei de 38 200 lei pentru plată obiective de investiţie",
+"short": "HCL Vânju Mare nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/33707",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-52-2021",
 "path": "local/mehedinti/vanju-mare/2021/52",
 "kind": "local",
@@ -946,6 +1145,117 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-53-2021",
+"path": "local/mehedinti/vanju-mare/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 53/2021",
+"short": "HCL Vânju Mare nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/33709",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-54-2021",
+"path": "local/mehedinti/vanju-mare/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 54/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Construire Grup Sanitar Liceul Teoretic Dr.V.Gomoiu, Oraş Vânju Mare, judeţul Mehedinţi\"",
+"short": "HCL Vânju Mare nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/35711",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-55-2021",
+"path": "local/mehedinti/vanju-mare/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 55/2021 privind desemnarea reprezentanţilor Consiliului Local Vânju Mare în Consiliul de Administraţie al Liceului Teoretic Dr.V.Gomoiu Vânju Mare",
+"short": "HCL Vânju Mare nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/36165",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-56-2021",
+"path": "local/mehedinti/vanju-mare/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 56/2021 privind desemnarea reprezentantului Consiliului Local Vânju Mare în Consiliul de Administraţie al Şcolii Gimnaziale Vânju Mare",
+"short": "HCL Vânju Mare nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/36166",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-57-2021",
+"path": "local/mehedinti/vanju-mare/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 57/2021 privind rectificarea bugetului local",
+"short": "HCL Vânju Mare nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/36167",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -971,6 +1281,116 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-59-2021",
+"path": "local/mehedinti/vanju-mare/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 59/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Construire Extindere Scoala Gimnaziala, Oraş Vânju Mare, judeţul Mehedinţi\"",
+"short": "HCL Vânju Mare nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/37467",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-60-2021",
+"path": "local/mehedinti/vanju-mare/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 60/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Construire Gradinita cu 4 gupe Vanju Mare, Oraş Vânju Mare, judeţul Mehedinţi\"",
+"short": "HCL Vânju Mare nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/37468",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-61-2021",
+"path": "local/mehedinti/vanju-mare/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 61/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Reabilitare si Modernizare strazi in orasul Vanju Mare, zona Sud, judetul Mehedinti \"",
+"short": "HCL Vânju Mare nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/37469",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-62-2021",
+"path": "local/mehedinti/vanju-mare/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 62/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Modernizare targ saptamanal, oras Vanju Mare, judetul Mehedinti \"",
+"short": "HCL Vânju Mare nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/37470",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-63-2021",
+"path": "local/mehedinti/vanju-mare/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 63/2021 privind rectificarea bugetului local",
+"short": "HCL Vânju Mare nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-07",
+"latest": "2021-10-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/37471",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-64-2021",
 "path": "local/mehedinti/vanju-mare/2021/64",
 "kind": "local",
@@ -993,6 +1413,72 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-65-2021",
+"path": "local/mehedinti/vanju-mare/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 65/2021 privind alegerea președintelui de ședință",
+"short": "HCL Vânju Mare nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/39062",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-66-2021",
+"path": "local/mehedinti/vanju-mare/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 66/2021 privind aprobarea unui post de asistent personal",
+"short": "HCL Vânju Mare nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/39063",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-67-2021",
+"path": "local/mehedinti/vanju-mare/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 67/2021 privind aprobarea unui post de asistent personal",
+"short": "HCL Vânju Mare nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/39064",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-68-2021",
 "path": "local/mehedinti/vanju-mare/2021/68",
 "kind": "local",
@@ -1012,6 +1498,50 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-69-2021",
+"path": "local/mehedinti/vanju-mare/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 69/2021 privind rectificarea bugetului local",
+"short": "HCL Vânju Mare nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/39066",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-70-2021",
+"path": "local/mehedinti/vanju-mare/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 70/2021 privind desemnarea unui consilier local în Comisia de evaluare a probei de interviu pentru concursul de ocupare a funcţiilor de director/director adjunct din unităţile de învăţământ preuniversitar de stat din oraşul Vânju Mare",
+"short": "HCL Vânju Mare nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/39984",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1056,6 +1586,116 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-73-2021",
+"path": "local/mehedinti/vanju-mare/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 73/2021 privind revocarea HCL nr.30/2021",
+"short": "HCL Vânju Mare nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/42819",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-74-2021",
+"path": "local/mehedinti/vanju-mare/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 74/2021 privind rectificarea bugetului local cu suma de 934,08 mii lei",
+"short": "HCL Vânju Mare nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/42820",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-75-2021",
+"path": "local/mehedinti/vanju-mare/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 75/2021 privind rectificarea bugetului local cu suma de 423,95mii lei",
+"short": "HCL Vânju Mare nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/43370",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-76-2021",
+"path": "local/mehedinti/vanju-mare/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 76/2021 privind rectificarea bugetului local cu suma de 71,56 mii lei",
+"short": "HCL Vânju Mare nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-20",
+"latest": "2021-12-20",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/44638",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-77-2021",
+"path": "local/mehedinti/vanju-mare/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 77/2021 privind rectificarea bugetului local cu suma de 1.123,47 mii lei",
+"short": "HCL Vânju Mare nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/44995",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1125,6 +1765,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-81-2021",
+"path": "local/mehedinti/vanju-mare/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 81/2021",
+"short": "HCL Vânju Mare nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/45657",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-82-2021",
 "path": "local/mehedinti/vanju-mare/2021/82",
 "kind": "local",
@@ -1169,6 +1832,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--vanju-mare-84-2021",
+"path": "local/mehedinti/vanju-mare/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 84/2021 privind actualizarea indicatorilor tehnico-economici la obiectivul de investiţii \" Construire Gradinita cu 4 gupe Vanju Mare, Oraş Vânju Mare, judeţul Mehedinţi\"",
+"short": "HCL Vânju Mare nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/45660",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--vanju-mare-85-2021",
 "path": "local/mehedinti/vanju-mare/2021/85",
 "kind": "local",
@@ -1188,6 +1873,50 @@
 "council_name": "Consiliul Local al Orașului Vânju Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-86-2021",
+"path": "local/mehedinti/vanju-mare/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 86/2021 privind actualizarea indicatorilor tehnico-economici şi cofinanţării investiţiei finanţate prin M.D.L.P.A prin Programul Naţional de Dezvoltare Locală II la obiectivul de investiţii \" Construire Extindere Scoala Gimnaziala, Oraş Vânju Mare, judeţul Mehedinţi\"",
+"short": "HCL Vânju Mare nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/45662",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--vanju-mare-87-2021",
+"path": "local/mehedinti/vanju-mare/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Vânju Mare nr. 87/2021 privind rectificarea bugetului local cu suma de 1.191,74 mii lei",
+"short": "HCL Vânju Mare nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://emol.ro/vanjumare-mh/registru-hcl/45663",
+"council": "mehedinti/vanju-mare",
+"council_name": "Consiliul Local al Orașului Vânju Mare",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

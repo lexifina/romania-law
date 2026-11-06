@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/pristol/2020",
+"acts": [
+{
+"slug": "hcl-mehedinti--pristol-47-2020",
+"path": "local/mehedinti/pristol/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 47/2020",
+"short": "HCL Pristol nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--pristol-48-2020",
+"path": "local/mehedinti/pristol/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 48/2020",
+"short": "HCL Pristol nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-14",
+"latest": "2020-12-14",
+"portal": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--pristol-49-2020",
+"path": "local/mehedinti/pristol/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 49/2020",
+"short": "HCL Pristol nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--pristol-50-2020",
+"path": "local/mehedinti/pristol/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pristol nr. 50/2020",
+"short": "HCL Pristol nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primariapristol.ro/category/monitorul-oficial-local/",
+"council": "mehedinti/pristol",
+"council_name": "Consiliul Local al Comunei Pristol",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

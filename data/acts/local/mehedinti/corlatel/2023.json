@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--corlatel-17-2023",
+"path": "local/mehedinti/corlatel/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 17/2023",
+"short": "HCL Corlățel nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-17",
+"latest": "2023-05-17",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/104919",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--corlatel-18-2023",
 "path": "local/mehedinti/corlatel/2023/18",
 "kind": "local",
@@ -88,6 +111,28 @@
 "council_name": "Consiliul Local al Comunei Corlățel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-19-2023",
+"path": "local/mehedinti/corlatel/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 19/2023 privind desemnarea unui membru supleant în Comisia pentru agricultură, buget și activități economico-financiare, amenajarea teritoriului și urbanism a Consiliului local Corlățel",
+"short": "HCL Corlățel nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/116284",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--corlatel-24-2023",
+"path": "local/mehedinti/corlatel/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 24/2023 privind desemnarea reprezentantului Consiliului local Corlățel în Consiliul de administrație al Școlii Profesionale Corlățel",
+"short": "HCL Corlățel nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-18",
+"latest": "2023-09-18",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/120840",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--corlatel-25-2023",
 "path": "local/mehedinti/corlatel/2023/25",
 "kind": "local",
@@ -264,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Corlățel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--corlatel-29-2023",
+"path": "local/mehedinti/corlatel/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corlățel nr. 29/2023 privind mandatarea reprezentantului Consiliului Local Corlățel în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Salubritate Mehedinți pentru a vota aprobarea modificării Contractului de delegare prin concesiune a serviciului public de salubrizare nr. 707/213 din 23.10.2019 Lot 4 - Zona Vânju Mare",
+"short": "HCL Corlățel nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/corlatel-mh/registru-hcl/132752",
+"council": "mehedinti/corlatel",
+"council_name": "Consiliul Local al Comunei Corlățel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

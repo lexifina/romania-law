@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--isverna-2-2021",
+   "path": "local/mehedinti/isverna/2021/2",
+   "short": "HCL Isverna nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 2/2021 privind desemnarea reprezentantului Consiliului Local Isverna in Consiliul de administratie al Scolii Gimnaziale Isverna",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/20745",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/20745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--isverna-3-2021",
+   "path": "local/mehedinti/isverna/2021/3",
+   "short": "HCL Isverna nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 3/2021 Proiect de hotarire privind alegerea presedintelui de sedinta pe lunile februarie, martie, aprilie 2021",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/20746",
+   "versions": [
+    {
+     "from": "2021-01-27",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/20746",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--isverna-4-2021",
    "path": "local/mehedinti/isverna/2021/4",
    "short": "HCL Isverna nr. 4/2021",
@@ -43,6 +73,21 @@
      "from": "2021-02-04",
      "units": 1,
      "source_url": "https://emol.ro/isverna-mh/registru-hcl/20980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--isverna-6-2021",
+   "path": "local/mehedinti/isverna/2021/6",
+   "short": "HCL Isverna nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Isverna nr. 6/2021",
+   "url": "https://emol.ro/isverna-mh/registru-hcl/20981",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/isverna-mh/registru-hcl/20981",
      "sha256": null
     }
    ]

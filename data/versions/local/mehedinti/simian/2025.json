@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/simian/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--simian-174-2025",
+   "path": "local/mehedinti/simian/2025/174",
+   "short": "HCL Șimian nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 174/2025",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-174-DIN-02-12-2025.pdf",
+     "sha256": "0878455fea08dcd881c98c5ea8b3f474d335d5ab6b014bad498059c79a0643d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-175-2025",
+   "path": "local/mehedinti/simian/2025/175",
+   "short": "HCL Șimian nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 175/2025",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-175-DIN-02-12-2025.pdf",
+     "sha256": "40f0450e966779df60026a9b50c4d8733c7c7be4e5006d0fc0124600145a31a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-177-2025",
+   "path": "local/mehedinti/simian/2025/177",
+   "short": "HCL Șimian nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 177/2025",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-177-DIN-02-12-2025.pdf",
+     "sha256": "e393b8913d70c54594e8019115013d177e68008950cf0fc43b7f1de97e96ad53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-178-2025",
+   "path": "local/mehedinti/simian/2025/178",
+   "short": "HCL Șimian nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 178/2025",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-178DIN-02-12-2025.pdf",
+     "sha256": "5529ea39eab13e4e270365ddf3cf0fe265c86c80431762380156f3dc1a8144eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-179-2025",
+   "path": "local/mehedinti/simian/2025/179",
+   "short": "HCL Șimian nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 179/2025",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-179-DIN-02-12-2025.pdf",
+     "sha256": "b37b167a01e6be532abc21b5be6e0546bb26886df6d93e5b2cd596d99086e963"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-180-2025",
+   "path": "local/mehedinti/simian/2025/180",
+   "short": "HCL Șimian nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 180/2025 PRIVIND RECTIFICAREA BUGETULUI",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-180-11.12-2025-PRIVIND-RECTIFICAREA-BUGETULUI.pdf",
+     "sha256": "c4442ba206f0d7226d6805cdde15ef4ab1f400bb568deb519f83abb12e412687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-181-2025",
+   "path": "local/mehedinti/simian/2025/181",
+   "short": "HCL Șimian nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 181/2025 privind incetarea contractului de delegare prin concesiune pe zona de operare UAT Strehaia",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-nr.-181-11-12-2025-privind-incetarea-contractului-de-delegare-prin-concesiune-pe-zona-de-operare-UAT-Strehaia.pdf",
+     "sha256": "65e60e82a227952c242c4af9c024df89a4e2fde4c0765c03152feae3f329ef65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--simian-182-2025",
+   "path": "local/mehedinti/simian/2025/182",
+   "short": "HCL Șimian nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șimian nr. 182/2025 privind aprobarea mandatului special al reprezentantului UAT in AGA ADIS",
+   "url": "https://www.primaria-simian.ro/hotarari-consiliul-local-2016-2020/",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://www.primaria-simian.ro/wp-content/uploads/2026/01/HCL-NR.-182-11-12-2025-privind-aprobarea-mandatului-special-al-reprezentantului-UAT-in-AGA-ADIS.pdf",
+     "sha256": "253d727473a77741c1a19c2630e90f8b91c0f7d8a916aa89e5f3a4ec9f63fbfc"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/floresti/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--floresti-15-2025",
+   "path": "local/mehedinti/floresti/2025/15",
+   "short": "HCL Florești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 15/2025 privind aprobarea documentatiei de atribuire a scoaterii la licitatie publica in vederea vanzarii bunurilor: deseuri din plastic si fieroase, autoGreder AB NORD VERK si buldoexcavator JCB 3III",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/214565",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/214565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-16-2025",
    "path": "local/mehedinti/floresti/2025/16",
    "short": "HCL Florești nr. 16/2025",
@@ -43,6 +58,21 @@
      "from": "2025-11-11",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/222922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-19-2025",
+   "path": "local/mehedinti/floresti/2025/19",
+   "short": "HCL Florești nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 19/2025 la proiectul de hotărâre privind aprobarea concesionării prin licitație publica pentru imobilul identificat in Cartea Funciara 50211, nr. cadastral 50211",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/222923",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/222923",
      "sha256": null
     }
    ]
@@ -168,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--floresti-28-2025",
+   "path": "local/mehedinti/floresti/2025/28",
+   "short": "HCL Florești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 28/2025",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/236014",
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/236014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--floresti-29-2025",
    "path": "local/mehedinti/floresti/2025/29",
    "short": "HCL Florești nr. 29/2025",
@@ -178,6 +223,21 @@
      "from": "2025-12-24",
      "units": 1,
      "source_url": "https://emol.ro/floresti-mh/registru-hcl/239500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--floresti-30-2025",
+   "path": "local/mehedinti/floresti/2025/30",
+   "short": "HCL Florești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Florești nr. 30/2025 privind aprobarea implementării proiectului ”Digitalizarea serviciilor publice în Comuna Florești, județul Mehedinți” din cadrul Intervenției „Sat inteligent, comunitate digitalizată” prin Grupul de Acțiune Locală ȚINUTUL CLOȘANI",
+   "url": "https://emol.ro/floresti-mh/registru-hcl/239501",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/floresti-mh/registru-hcl/239501",
      "sha256": null
     }
    ]

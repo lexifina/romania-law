@@ -3,6 +3,96 @@
 "shard": "local/mures/chiheru-de-jos/2025",
 "acts": [
 {
+"slug": "hcl-mures--chiheru-de-jos-29-2025",
+"path": "local/mures/chiheru-de-jos/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 29/2025",
+"short": "HCL Chiheru de Jos nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247351",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-30-2025",
+"path": "local/mures/chiheru-de-jos/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 30/2025",
+"short": "HCL Chiheru de Jos nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247354",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-31-2025",
+"path": "local/mures/chiheru-de-jos/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 31/2025 privind rectificarea bugetului local al comunei Chiheru de Jos pe anul 2025",
+"short": "HCL Chiheru de Jos nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247362",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-32-2025",
+"path": "local/mures/chiheru-de-jos/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 32/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al UAT comuna Chiheru de Jos pentru trimestrul I anul 2025",
+"short": "HCL Chiheru de Jos nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247364",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-33-2025",
 "path": "local/mures/chiheru-de-jos/2025/33",
 "kind": "local",
@@ -91,6 +181,51 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-37-2025",
+"path": "local/mures/chiheru-de-jos/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 37/2025",
+"short": "HCL Chiheru de Jos nr. 37/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247370",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-38-2025",
+"path": "local/mures/chiheru-de-jos/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 38/2025 privind alegerea președintelui de ședință pentru o perioadă de 3 luni",
+"short": "HCL Chiheru de Jos nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247371",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-39-2025",
 "path": "local/mures/chiheru-de-jos/2025/39",
 "kind": "local",
@@ -113,6 +248,140 @@
 }
 },
 {
+"slug": "hcl-mures--chiheru-de-jos-40-2025",
+"path": "local/mures/chiheru-de-jos/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 40/2025 privind rectificarea bugetului local al comunei Chiheru de Jos pe anul 2025",
+"short": "HCL Chiheru de Jos nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247411",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-41-2025",
+"path": "local/mures/chiheru-de-jos/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 41/2025",
+"short": "HCL Chiheru de Jos nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247412",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-42-2025",
+"path": "local/mures/chiheru-de-jos/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 42/2025",
+"short": "HCL Chiheru de Jos nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247554",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-43-2025",
+"path": "local/mures/chiheru-de-jos/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 43/2025 privind aprobarea Planului de acțiuni sau lucrări de interes local pentru anul 2025 pentru beneficiarii Legii nr. 196/2016, privind venitul minim de incluziune",
+"short": "HCL Chiheru de Jos nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-20",
+"latest": "2026-01-20",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247555",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-44-2025",
+"path": "local/mures/chiheru-de-jos/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 44/2025 privind aprobarea actualizării planului anual de achiziții publice pe anul 2025",
+"short": "HCL Chiheru de Jos nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247565",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-45-2025",
+"path": "local/mures/chiheru-de-jos/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 45/2025 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al UAT Chiheru de Jos pentru trimestrul II anul 2025",
+"short": "HCL Chiheru de Jos nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247566",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mures--chiheru-de-jos-46-2025",
 "path": "local/mures/chiheru-de-jos/2025/46",
 "kind": "local",
@@ -132,6 +401,51 @@
 "council_name": "Consiliul Local al Comunei Chiheru de Jos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-47-2025",
+"path": "local/mures/chiheru-de-jos/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 47/2025 privind aprobarea necesității și oportunității participării UAT Chiheru de Jos, în cadrul „Program Incluziune și Demnitate Socială (PIDS) 2021-2027” cu proiectul: „Servicii de îngrijire la domiciliu pentru persoane vârstnice din comuna Chiheru de Jos”",
+"short": "HCL Chiheru de Jos nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247569",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mures--chiheru-de-jos-48-2025",
+"path": "local/mures/chiheru-de-jos/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chiheru de Jos nr. 48/2025",
+"short": "HCL Chiheru de Jos nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/chiherudejos-ms/registru-hcl/247570",
+"council": "mures/chiheru-de-jos",
+"council_name": "Consiliul Local al Comunei Chiheru de Jos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 }
 ]

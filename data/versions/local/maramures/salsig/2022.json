@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/maramures/salsig/2022",
+ "acts": [
+  {
+   "slug": "hcl-maramures--salsig-2-2022",
+   "path": "local/maramures/salsig/2022/2",
+   "short": "HCL Sălsig nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 2/2022 privind aprobarea bugetului local al comunei Salsig si al Serviciului Public Local Salsig, pentru anul 2022 Având în vedere proiectul de hotarare nr.3 din 12.01.2022 initiat de primarul comunei si insotit de referatul de aprobare înregistrat sub nr.120 din 12.01.2022 prin care se propune aprobarea bugetului local al comunei Salsig si al Serviciului Public Local Salsig, pentru anul 2022; raportul c",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/Hotararea%20Nr.2%20din%2026.01.2022.pdf",
+     "sha256": "10a17c3808939e670d5639927575387617a2973f5a68b3dea90dae25cb581de6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-3-2022",
+   "path": "local/maramures/salsig/2022/3",
+   "short": "HCL Sălsig nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 3/2022 privind aprobarea „Programului anual al achizițiilor publice ale comunei Salsig, pentru anul 2022\" Având în vedere proiectul de hotarare nr.4 din 12.01.2022 initiat de primarul comunei si referatul de aprobare al acestuia înregistrat sub nr.122 din 12.01.2022 prin care se propune aprobarea „Programului anual al achizițiilor publice ale comunei Salsig, pentru anul 2022\" ; -raportul compartimentului",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/Hotararea%20Nr.3%20din%2026.01.2022.pdf",
+     "sha256": "57bf815392bd702bb6639484459c7b374a858958844fac7dbebc96f183572798"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-4-2022",
+   "path": "local/maramures/salsig/2022/4",
+   "short": "HCL Sălsig nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 4/2022 privind aprobarea utilizării excedentului bugetar din anul 2021, în anul 2022 Având în vedere proiectul de hotarare nr.5 din 12.01.2022 initiat de primarul comunei si referatul de aprobare elaborat in calitatea sa de inițiator, înregistrat sub nr. 124 din 12.01.2022; -raportul compartimentului financiar-contabil înregistrat sub nr.125 din 12.01.2022; Ținând cont de rapoartele de avizare ale „Comis",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/Hotararea%20Nr.%204%20din%2026.01.2022.pdf",
+     "sha256": "9a4e1c48c7ca92518250d9bf692ad610932b3042758a2a4872a2dacde170877a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-5-2022",
+   "path": "local/maramures/salsig/2022/5",
+   "short": "HCL Sălsig nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 5/2022 privind achiziționarea unor servicii juridice constând în consultanță juridică de specialitate, asistență juridică și reprezentare în fața instanțelor de judecată a intereselor Unității administrativ-teritoriale Comuna Sălsig, Primarului comunei Sălsig si Consiliului Local Sălsig, inclusiv promovarea in justiție de acțiuni noi pentru recuperarea prejudiciilor constatate de Camera de Conturi Maramu",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/Hotararea%20Nr.%205%20din%2026.01.2022.pdf",
+     "sha256": "d52fe3d83312bfe9f06483ac75f3d243ba177b8321f380e44aa94bf40a34f036"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-maramures--salsig-6-2022",
+   "path": "local/maramures/salsig/2022/6",
+   "short": "HCL Sălsig nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Sălsig nr. 6/2022 privind identificarea cu date de carte funciară a unui imobil apartinand domeniului public al comunei Salsig și insusirea documentației cadastrale întocmite în vederea înscrierii acesteia in sistemul integrat de cadastru și carte funciară Având in vedere proiectul de hotarare nr.7 din 17.01.2022 initiat de primarul comunei si referatul de aprobare al acestuia înregistrat sub nr. 157 din 17.01.2022",
+   "url": "http://www.salsig.ro/html/monitorul_local.html",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "http://www.salsig.ro/Hotararea%20Nr.%206%20din%2026.01.2022.pdf",
+     "sha256": "545ef1ef9d0b17c612fe145088c35b58fd51ecd2c410dc8de849d734329dac2d"
+    }
+   ]
+  }
+ ]
+}

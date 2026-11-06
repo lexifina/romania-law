@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/ilovat/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--ilovat-10-2025",
+   "path": "local/mehedinti/ilovat/2025/10",
+   "short": "HCL Ilovăț nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 10/2025 privind aprobarea schimbării instalației electrice interioare la Școala Gimnazială Ilovăț",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216988",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216988",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-11-2025",
    "path": "local/mehedinti/ilovat/2025/11",
    "short": "HCL Ilovăț nr. 11/2025",
@@ -13,6 +28,21 @@
      "from": "2025-07-16",
      "units": 1,
      "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-12-2025",
+   "path": "local/mehedinti/ilovat/2025/12",
+   "short": "HCL Ilovăț nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 12/2025 privind aprobarea bugetului local și a bugetului de venituri proprii pe anul 2025 al comunei Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216990",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216990",
      "sha256": null
     }
    ]
@@ -33,6 +63,81 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ilovat-14-2025",
+   "path": "local/mehedinti/ilovat/2025/14",
+   "short": "HCL Ilovăț nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 14/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/216995",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/216995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-15-2025",
+   "path": "local/mehedinti/ilovat/2025/15",
+   "short": "HCL Ilovăț nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 15/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, în comuna Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217006",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-16-2025",
+   "path": "local/mehedinti/ilovat/2025/16",
+   "short": "HCL Ilovăț nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 16/2025 privind aprobarea Planului anual al achizițiilor publice pentru anul 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217007",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-17-2025",
+   "path": "local/mehedinti/ilovat/2025/17",
+   "short": "HCL Ilovăț nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 17/2025 privind transformarea unei funcții publice vacante într-o funcție publică de nivel inferior în cadrul Primăriei Comunei Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217008",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-18-2025",
+   "path": "local/mehedinti/ilovat/2025/18",
+   "short": "HCL Ilovăț nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 18/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026, în comuna Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217009",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217009",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-19-2025",
    "path": "local/mehedinti/ilovat/2025/19",
    "short": "HCL Ilovăț nr. 19/2025",
@@ -43,6 +148,21 @@
      "from": "2025-07-17",
      "units": 1,
      "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-20-2025",
+   "path": "local/mehedinti/ilovat/2025/20",
+   "short": "HCL Ilovăț nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 20/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217011",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217011",
      "sha256": null
     }
    ]
@@ -63,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--ilovat-22-2025",
+   "path": "local/mehedinti/ilovat/2025/22",
+   "short": "HCL Ilovăț nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 22/2025 privind închirierea, prin licitație publică, a unui spațiu (Brutărie Ilovăț) aparținând domeniului public al comunei Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217041",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-23-2025",
+   "path": "local/mehedinti/ilovat/2025/23",
+   "short": "HCL Ilovăț nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 23/2025 privind alegerea președintelui de ședință, pentru ședințele Consiliului Local al Comunei Ilovăț pentru o perioadă de 3 luni, respectiv pentru lunile Iunie 2025, Iulie 2025 și August 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217042",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-24-2025",
+   "path": "local/mehedinti/ilovat/2025/24",
+   "short": "HCL Ilovăț nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 24/2025 privind rectificarea bugetului local al Primăriei Ilovăț pentru anul în curs",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217043",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217043",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--ilovat-25-2025",
    "path": "local/mehedinti/ilovat/2025/25",
    "short": "HCL Ilovăț nr. 25/2025",
@@ -73,6 +238,36 @@
      "from": "2025-07-16",
      "units": 1,
      "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-26-2025",
+   "path": "local/mehedinti/ilovat/2025/26",
+   "short": "HCL Ilovăț nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 26/2025 privind modificarea și completarea HCL Nr. 22 din 14.05.2025 privind închirierea prin licitație publică a unui spațiu (fosta Brutărie Ilovăț) aparținând domeniului public al comunei Ilovăț, județul Mehedinți",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217014",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--ilovat-27-2025",
+   "path": "local/mehedinti/ilovat/2025/27",
+   "short": "HCL Ilovăț nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilovăț nr. 27/2025 privind aprobarea organigramei și a statului de funcții ale Primăriei Ilovăț, județul Mehedinți începând cu data de 01 iulie 2025",
+   "url": "https://emol.ro/ilovat-mh/registru-hcl/217045",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ilovat-mh/registru-hcl/217045",
      "sha256": null
     }
    ]

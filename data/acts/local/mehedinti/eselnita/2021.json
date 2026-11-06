@@ -3,6 +3,226 @@
 "shard": "local/mehedinti/eselnita/2021",
 "acts": [
 {
+"slug": "hcl-mehedinti--eselnita-125-2021",
+"path": "local/mehedinti/eselnita/2021/125",
+"kind": "local",
+"year": "2021",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 125/2021 privind privind aprobarea efectuarii lucrarii de investitii si demararea procedurii de licitatie publica in vederea realizarii instalatiei de climatizare la Sala de Sport din cadrul Scolii Gimnaziale Eselnita",
+"short": "HCL Eșelnița nr. 125/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41570",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-126-2021",
+"path": "local/mehedinti/eselnita/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 126/2021 privind privind aprobarea intocmirii documentatiei tehnice ( proiect tehnic ) in vederea realizarii obiectivului de investitii „ Realizarea infrastructurii (apa,canal,astfaltare, ) -str. Salcimilor prelungire pana in DN57”",
+"short": "HCL Eșelnița nr. 126/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41571",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-127-2021",
+"path": "local/mehedinti/eselnita/2021/127",
+"kind": "local",
+"year": "2021",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 127/2021 privind obtinerea acordului de principiu pentru realizarea studiilor preliminare in vederea realizarii si finantarii unor parcuri eoliene de catre GENERAL CAPITAL GROUP",
+"short": "HCL Eșelnița nr. 127/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41572",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-128-2021",
+"path": "local/mehedinti/eselnita/2021/128",
+"kind": "local",
+"year": "2021",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 128/2021 privind aprobarea depunerii cererii de finanţare prin Programul Naţional de Investiţii \"Anghel Saligny\" pentru obiectivul de investiţii – „PUNTE PIETONALA PESTE RAUL ESELNITA din comuna ESELNITA, judetul MEHEDINTI”",
+"short": "HCL Eșelnița nr. 128/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41573",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-129-2021",
+"path": "local/mehedinti/eselnita/2021/129",
+"kind": "local",
+"year": "2021",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 129/2021 privind aprobarea virarilor de credite bugetare pe anul 2021",
+"short": "HCL Eșelnița nr. 129/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41574",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-130-2021",
+"path": "local/mehedinti/eselnita/2021/130",
+"kind": "local",
+"year": "2021",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 130/2021 privind aprobarea acordarii indemnizatiei echivalenta cu salariul net al asistentului personal al persoanei cu handicap grav,pentru BUREAC SIMINICA FINCA din Eselnita",
+"short": "HCL Eșelnița nr. 130/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41575",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-131-2021",
+"path": "local/mehedinti/eselnita/2021/131",
+"kind": "local",
+"year": "2021",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 131/2021 privind privind aprobarea acordarii indemnizatiei echivalenta cu salariul net al asistentului personal al persoanei cu handicap grav,pentru ANTONESCU RODICA din Eselnita",
+"short": "HCL Eșelnița nr. 131/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41576",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-132-2021",
+"path": "local/mehedinti/eselnita/2021/132",
+"kind": "local",
+"year": "2021",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 132/2021 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pentru anul 2021",
+"short": "HCL Eșelnița nr. 132/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41577",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-133-2021",
+"path": "local/mehedinti/eselnita/2021/133",
+"kind": "local",
+"year": "2021",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 133/2021 privind aprobarea rectificarii Bugetului de venituri si cheltuieli pentru anul 2021",
+"short": "HCL Eșelnița nr. 133/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41578",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-134-2021",
+"path": "local/mehedinti/eselnita/2021/134",
+"kind": "local",
+"year": "2021",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 134/2021 privind aprobarea intocmirii documentatiei tehnice ( proiect tehnic) si demararea procedurii de licitatie publica in vederea realizarii obiectivului de investitii CONSTRUIRE TEREN DE SPORT – MINIFOTBAL CU GAZON ARTIFICIAL in spatele PARCULUI DE JOACA PENTRU COPII din comuna Eselnita, judetul Mehedinti",
+"short": "HCL Eșelnița nr. 134/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41579",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--eselnita-135-2021",
 "path": "local/mehedinti/eselnita/2021/135",
 "kind": "local",
@@ -66,6 +286,28 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-138-2021",
+"path": "local/mehedinti/eselnita/2021/138",
+"kind": "local",
+"year": "2021",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 138/2021 privind aprobarea completarii Programului anual de achizitii directe pe anul 2021",
+"short": "HCL Eșelnița nr. 138/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41583",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +396,50 @@
 "council_name": "Consiliul Local al Comunei Eșelnița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-143-2021",
+"path": "local/mehedinti/eselnita/2021/143",
+"kind": "local",
+"year": "2021",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 143/2021 privind desemnarea unui reprezentant al Consiliului Local Eselnita care sa faca parte din Comisia de evaluare a probei de interviu, in calitate de membru pentru unitatea de invatamant preuniversitar de stat cu personalitate juridica din localitatea Eselnita",
+"short": "HCL Eșelnița nr. 143/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41588",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--eselnita-144-2021",
+"path": "local/mehedinti/eselnita/2021/144",
+"kind": "local",
+"year": "2021",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Eșelnița nr. 144/2021 privind aprobarea demararii procedurii de licitatie publica in vederea achizitionarii pe SEAP a unei CENTRALE TERMICE la sediul PRIMARIEI COMUNEI EȘELNIȚA",
+"short": "HCL Eșelnița nr. 144/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-04",
+"latest": "2021-11-04",
+"portal": "https://emol.ro/eselnita-mh/registru-hcl/41589",
+"council": "mehedinti/eselnita",
+"council_name": "Consiliul Local al Comunei Eșelnița",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

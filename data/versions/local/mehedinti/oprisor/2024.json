@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/oprisor/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--oprisor-21-2024",
+   "path": "local/mehedinti/oprisor/2024/21",
+   "short": "HCL Oprișor nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 21/2024 privind alegerea președintelui de ședință pe lunile noiembrie-decembrie 2024, ianuarie 2025",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/177542",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/177542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--oprisor-22-2024",
    "path": "local/mehedinti/oprisor/2024/22",
    "short": "HCL Oprișor nr. 22/2024",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--oprisor-24-2024",
+   "path": "local/mehedinti/oprisor/2024/24",
+   "short": "HCL Oprișor nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 24/2024 privind alegerea viceprimarului comunei Oprisor pe perioada mandatului 2024-2028",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182597",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182597",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--oprisor-25-2024",
    "path": "local/mehedinti/oprisor/2024/25",
    "short": "HCL Oprișor nr. 25/2024",
@@ -43,6 +73,21 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--oprisor-26-2024",
+   "path": "local/mehedinti/oprisor/2024/26",
+   "short": "HCL Oprișor nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Oprișor nr. 26/2024 privnd desemnarea unui consilier local in Consiliul de administratie al scolii Oprisor, pe mandatul 2024-2028",
+   "url": "https://emol.ro/oprisor-mh/registru-hcl/182599",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/oprisor-mh/registru-hcl/182599",
      "sha256": null
     }
    ]

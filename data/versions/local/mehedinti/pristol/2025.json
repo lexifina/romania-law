@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/pristol/2025",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--pristol-30-2025",
+   "path": "local/mehedinti/pristol/2025/30",
+   "short": "HCL Pristol nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 30/2025",
+   "url": "https://www.primariapristol.ro/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2025/11/HCL-Pristol-nr.-30-din-22.09.2025-indicatori-si-anexe-canalizare-2025.pdf",
+     "sha256": "8cc2f399ed450954ba7e1e5f72007c0cead79a27c286f31addffae1647639602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--pristol-31-2025",
+   "path": "local/mehedinti/pristol/2025/31",
+   "short": "HCL Pristol nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 31/2025",
+   "url": "https://www.primariapristol.ro/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2025/11/HCL-Pristol-nr.-31-din-22.09.2025-cofinantare-canalizare-dupa-lucrari.pdf",
+     "sha256": "1d9f7e11a7b659789861c6e48e29cac74bbab0c20431ffe69e330074d7106227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--pristol-32-2025",
+   "path": "local/mehedinti/pristol/2025/32",
+   "short": "HCL Pristol nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pristol nr. 32/2025",
+   "url": "https://www.primariapristol.ro/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 1,
+     "source_url": "https://www.primariapristol.ro/wp-content/uploads/2025/11/HCL-Pristol-nr.-32-din-22.09.2025-actualizare-cav-cu-anexe.pdf",
+     "sha256": "67f712ac24cb48266387ba28b92e54193248d60a463a1be84aa414d3441f648c"
+    }
+   ]
+  }
+ ]
+}

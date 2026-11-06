@@ -312,6 +312,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--poroina-mare-22-2026",
+"path": "local/mehedinti/poroina-mare/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 22/2026 privind desemnarea reprezentantului Consiliului Local al comunei Poroina Mare in Consiliul de administratie, Comisia pentru evaluarea si asigurarea calitatii, Comisia pentru prevenirea si combaterea violentei, a faptelor de coruptie si discriminarii in mediul scolar si promovarea interculturalitatii, precum si in Grupul de actiune pentru facilitarea comunicarii in vederea adaptarii masurilor legale necesare pentru prevenirea si combaterea violentei si cresterea gradului de siguranta scolara din cadrul Scolii Primare Poroina Mare, pentru anul scolar 2026-2027",
+"short": "HCL Poroina Mare nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/290575",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--poroina-mare-23-2026",
 "path": "local/mehedinti/poroina-mare/2026/23",
 "kind": "local",
@@ -331,6 +353,28 @@
 "council_name": "Consiliul Local al Comunei Poroina Mare",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--poroina-mare-24-2026",
+"path": "local/mehedinti/poroina-mare/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poroina Mare nr. 24/2026 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a participării la finanțarea obiectivului „Înființarea capacității de stocare a energiei electrice pentru centrala fotovoltaică a UAT Poroina Mare”",
+"short": "HCL Poroina Mare nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/poroinamare-mh/registru-hcl/290577",
+"council": "mehedinti/poroina-mare",
+"council_name": "Consiliul Local al Comunei Poroina Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,516 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/burila-mare/2023",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--burila-mare-19-2023",
+   "path": "local/mehedinti/burila-mare/2023/19",
+   "short": "HCL Burila Mare nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 19/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.19-din-31.03.2023-.pdf",
+     "sha256": "3afabfec8c6ec2bf7223f9cb85665eea7f689f3a98cdb7e4b3b5f4e2ec7362ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-20-2023",
+   "path": "local/mehedinti/burila-mare/2023/20",
+   "short": "HCL Burila Mare nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 20/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.20-din-31.03.2023.pdf",
+     "sha256": "ae132fe84f56c7d24f74050179c0d0b102c5aefc5b15f95b2800df3e1837d03b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-23-2023",
+   "path": "local/mehedinti/burila-mare/2023/23",
+   "short": "HCL Burila Mare nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 23/2023",
+   "url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.23-din-15.05.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.23-din-15.05.2023.pdf",
+     "sha256": "dd46e0dff47b7cd4436dd21ee08229e2a310f9923aecbce712067731e3c89897"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-24-2023",
+   "path": "local/mehedinti/burila-mare/2023/24",
+   "short": "HCL Burila Mare nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 24/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.24-din-15.05.2023.pdf",
+     "sha256": "2080f4cf27377c10fd91d21fe0a1fc2ff6b4c3033d43a4c2f05bfff13c235598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-25-2023",
+   "path": "local/mehedinti/burila-mare/2023/25",
+   "short": "HCL Burila Mare nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 25/2023",
+   "url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.25-din-15.05.2023-.pdf",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.25-din-15.05.2023-.pdf",
+     "sha256": "21d320453a26c10eae91f8893d1ddb63b2087c91d7de1f56f4a56582204bd47e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-26-2023",
+   "path": "local/mehedinti/burila-mare/2023/26",
+   "short": "HCL Burila Mare nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 26/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.26-din-15.05.2023.pdf",
+     "sha256": "6cd49eb3bd46bd309b785c42647c0afc138d467e80f2c2544488f47d1716c873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-27-2023",
+   "path": "local/mehedinti/burila-mare/2023/27",
+   "short": "HCL Burila Mare nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 27/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.27-din-29.05.2023.pdf",
+     "sha256": "079274fdacbf7e4718b8167f10db4246866f58f7f777ae00ee0d254c2360ee73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-28-2023",
+   "path": "local/mehedinti/burila-mare/2023/28",
+   "short": "HCL Burila Mare nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 28/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.28-din-29.05.2023.pdf",
+     "sha256": "0790af6be69f726e8960ec8402e77fbd92ab06112876f059f9963c02356f74ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-29-2023",
+   "path": "local/mehedinti/burila-mare/2023/29",
+   "short": "HCL Burila Mare nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 29/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.29-din-31.07.2023.pdf",
+     "sha256": "c1f7b5dd27f2e1a8743ef3636e13eedce36f247260d24d91572c1866480c8191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-30-2023",
+   "path": "local/mehedinti/burila-mare/2023/30",
+   "short": "HCL Burila Mare nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 30/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.30-din-31.07.2023.pdf",
+     "sha256": "ed5c3a3c771207c9f26df79778010530e684fea2b56dd3edb2bb9d03861cc7f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-31-2023",
+   "path": "local/mehedinti/burila-mare/2023/31",
+   "short": "HCL Burila Mare nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 31/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.31-din-31.07.2023.pdf",
+     "sha256": "675ed49e59295acbd040275c0b0a514d7168a8ab2702dd3074dcbdafcac32b0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-32-2023",
+   "path": "local/mehedinti/burila-mare/2023/32",
+   "short": "HCL Burila Mare nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 32/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.32-din-31.07.2023.pdf",
+     "sha256": "86d30eac4f7f7cdcca8a74d9a29042b36b368df525ab2964d00cacea2697cd3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-33-2023",
+   "path": "local/mehedinti/burila-mare/2023/33",
+   "short": "HCL Burila Mare nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 33/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.33-din-30.08.2023.pdf",
+     "sha256": "dd90c49c392adb3569e3d6526277cf5ff161626ef860bd41d896507831af5b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-34-2023",
+   "path": "local/mehedinti/burila-mare/2023/34",
+   "short": "HCL Burila Mare nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 34/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.34-din-27.09.2023.pdf",
+     "sha256": "a561dd23d6c8b27fab3138ad5f2c830a04ba7c3e4b1175ff685a5c074a409162"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-35-2023",
+   "path": "local/mehedinti/burila-mare/2023/35",
+   "short": "HCL Burila Mare nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 35/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.35-din-27.09.2023.pdf",
+     "sha256": "469de519404f0c289f4ae0db3d6e425852e8e169c5931acd95c022448dce7967"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-36-2023",
+   "path": "local/mehedinti/burila-mare/2023/36",
+   "short": "HCL Burila Mare nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 36/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.36-din-27.09.2023.pdf",
+     "sha256": "51e9e1ba0323f4611901d987f1a4cb53630264e97acd1f01f9d8c32d40b63442"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-37-2023",
+   "path": "local/mehedinti/burila-mare/2023/37",
+   "short": "HCL Burila Mare nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 37/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.37-din-27.09.2023.pdf",
+     "sha256": "ace400724c39dfaac02ffe54093a76bd33b1fefbe1e14dac2d4ba604d74664cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-38-2023",
+   "path": "local/mehedinti/burila-mare/2023/38",
+   "short": "HCL Burila Mare nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 38/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.38-din-27.09.2023.pdf",
+     "sha256": "253c36067776c87d44a2e4ec9078c60c68d8377eb47c21414018f1c95ee59405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-39-2023",
+   "path": "local/mehedinti/burila-mare/2023/39",
+   "short": "HCL Burila Mare nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 39/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.39-din-27.09.2023.pdf",
+     "sha256": "b6b5c68d900b00f3d1702808f319ff5e9b14162f2220373ef301071f11fe13b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-40-2023",
+   "path": "local/mehedinti/burila-mare/2023/40",
+   "short": "HCL Burila Mare nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 40/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.40-din-25.10.2023.pdf",
+     "sha256": "6d4caddee0cb9c5f7e6183a0947c5b9bceb2f0f45cfe253e246b497d5cf47e7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-41-2023",
+   "path": "local/mehedinti/burila-mare/2023/41",
+   "short": "HCL Burila Mare nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 41/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.41-din-25.10.2023.pdf",
+     "sha256": "6e2438370fa8a8c0df793f15fc3de0b3feeb2256b1665061f1161d3ff6348b1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-42-2023",
+   "path": "local/mehedinti/burila-mare/2023/42",
+   "short": "HCL Burila Mare nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 42/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.42-din-25.10.2023.pdf",
+     "sha256": "d8b1a5fcf996e9cc7c40554cbf6408e291c225a76143495d4226398372c6fe4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-43-2023",
+   "path": "local/mehedinti/burila-mare/2023/43",
+   "short": "HCL Burila Mare nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 43/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.43-din-27.11.2023.pdf",
+     "sha256": "de892abfe995d90e930e05d7cca1aee40892a8e4dfa7971b1d6dccfc2513a61d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-44-2023",
+   "path": "local/mehedinti/burila-mare/2023/44",
+   "short": "HCL Burila Mare nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 44/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.44-din-27.11.2023.pdf",
+     "sha256": "782435ce48b57b183a3305d92cf264199df5fea92ccf9fde8a6f1eba96902654"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-45-2023",
+   "path": "local/mehedinti/burila-mare/2023/45",
+   "short": "HCL Burila Mare nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 45/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.45-din-27.11.2023.pdf",
+     "sha256": "6bc2708a21e069ce0889338fc487ebad691e122e0972833a32f77eab038729fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-46-2023",
+   "path": "local/mehedinti/burila-mare/2023/46",
+   "short": "HCL Burila Mare nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 46/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.46-din-27.11.2023.pdf",
+     "sha256": "9136c110e8fefd8f239b8bb1608f2a79278c2e1d56df9c9864d3c7f9ef58dd99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-47-2023",
+   "path": "local/mehedinti/burila-mare/2023/47",
+   "short": "HCL Burila Mare nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 47/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.47-din-27.11.2023.pdf",
+     "sha256": "6721489dccdf8ffff5e61ef62fce215ae9894eb2f5932c279ab57eb3b781a3e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-48-2023",
+   "path": "local/mehedinti/burila-mare/2023/48",
+   "short": "HCL Burila Mare nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 48/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-11-27",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.48-din-27.11.2023.pdf",
+     "sha256": "ef4c96d9fb1c2f460040b237f1105e3baa2431f036cb3f188fcce5b44abaab56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-49-2023",
+   "path": "local/mehedinti/burila-mare/2023/49",
+   "short": "HCL Burila Mare nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 49/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.49-din-05.12.2023.pdf",
+     "sha256": "7b22add77c196dd20f5be854ca3f60b147a56053aefe8781625d1b9e9521c131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-50-2023",
+   "path": "local/mehedinti/burila-mare/2023/50",
+   "short": "HCL Burila Mare nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 50/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2023/12/Hotararea-Nr.50-din-19.12.2023.pdf",
+     "sha256": "660905889b43b42235992c7a9f20190dcfe85ac408a3f029c4eeb42588ec5410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-51-2023",
+   "path": "local/mehedinti/burila-mare/2023/51",
+   "short": "HCL Burila Mare nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 51/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.51-din-22.12.2023.pdf",
+     "sha256": "cf7f07e7f62f610044be744762650543f9f0af3fff329832eb7f6bb243d46af0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-52-2023",
+   "path": "local/mehedinti/burila-mare/2023/52",
+   "short": "HCL Burila Mare nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 52/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.52-din-22.12.2023.pdf",
+     "sha256": "ab77ff04bfa9d390efa692d228a031cd8c2fceea43623f62e986eb0a4fbf6482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-53-2023",
+   "path": "local/mehedinti/burila-mare/2023/53",
+   "short": "HCL Burila Mare nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 53/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.53-din-28.12.2023.pdf",
+     "sha256": "9990bc71f3f127df3e489408cf867eb4ee943e6223a212e87784ed16b47506ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--burila-mare-54-2023",
+   "path": "local/mehedinti/burila-mare/2023/54",
+   "short": "HCL Burila Mare nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Burila Mare nr. 54/2023",
+   "url": "https://primariaburilamare.ro/hotarari-consiliul-local/",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://primariaburilamare.ro/wp-content/uploads/2024/01/Hotararea-Nr.54-din-28.12.2023.pdf",
+     "sha256": "624ce9a88fa943c5fafb5e14b2f0c0a522ba37cac17f2cd733890ca72eda8113"
+    }
+   ]
+  }
+ ]
+}

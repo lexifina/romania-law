@@ -3,6 +3,94 @@
 "shard": "local/mehedinti/cujmir/2026",
 "acts": [
 {
+"slug": "hcl-mehedinti--cujmir-17-2026",
+"path": "local/mehedinti/cujmir/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 17/2026 privind darea în administrare către Liceul Teoretic Cujmir a imobilului Școala Generală Aurora (construcții și teren) aparținând domeniului public al Comunei Cujmir",
+"short": "HCL Cujmir nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-11",
+"latest": "2026-05-11",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/267587",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-18-2026",
+"path": "local/mehedinti/cujmir/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 18/2026 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2026",
+"short": "HCL Cujmir nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/274943",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-19-2026",
+"path": "local/mehedinti/cujmir/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 19/2026 privind aprobarea modificării Organigramei si a Ștatului de funcții ale aparatului de specialitate al primarului comunei Cujmir",
+"short": "HCL Cujmir nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/274944",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-20-2026",
+"path": "local/mehedinti/cujmir/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 20/2026 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2026",
+"short": "HCL Cujmir nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-24",
+"latest": "2026-06-24",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/275219",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-21-2026",
 "path": "local/mehedinti/cujmir/2026/21",
 "kind": "local",
@@ -25,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--cujmir-22-2026",
+"path": "local/mehedinti/cujmir/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 22/2026 privind emiterea autorizației anuale de funcționare unor operatori de jocuri de noroc pe raza comunei Cujmir",
+"short": "HCL Cujmir nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-10",
+"latest": "2026-07-10",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/279419",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--cujmir-23-2026",
 "path": "local/mehedinti/cujmir/2026/23",
 "kind": "local",
@@ -44,6 +154,292 @@
 "council_name": "Consiliul Local al Comunei Cujmir",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-24-2026",
+"path": "local/mehedinti/cujmir/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 24/2026 privind aprobarea modificării Organigramei si a Ștatului de funcții ale aparatului de specialitate al primarului comunei Cujmir",
+"short": "HCL Cujmir nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-14",
+"latest": "2026-08-14",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/283166",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-25-2026",
+"path": "local/mehedinti/cujmir/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 25/2026 privind aprobarea preluării în folosință gratuită a unui microbuz hibrid școlar achiziționat în cadrul proiectului „Transport școlar verde pentru elevii din județul Mehedinți”, precum și asumarea costurilor de funcționare a acestuia pe o perioadă de 3 ani",
+"short": "HCL Cujmir nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-20",
+"latest": "2026-08-20",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/283898",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-26-2026",
+"path": "local/mehedinti/cujmir/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 26/2026 privind alegerea președintelui de ședință pentru ședințele Consiliului Local al Comunei Cujmir",
+"short": "HCL Cujmir nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/286520",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-27-2026",
+"path": "local/mehedinti/cujmir/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 27/2026 privind aprobarea întocmirii documentației tehnico-econonice faza Studiu de Fezabilitate pentru obiectivul de investiții „Realizare sistem de alimentare cu apă și canalizare în sat Cujmir, comuna Cujmir”",
+"short": "HCL Cujmir nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-07",
+"latest": "2026-09-07",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/286521",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-28-2026",
+"path": "local/mehedinti/cujmir/2026/28",
+"kind": "local",
+"year": "2026",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 28/2026 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2026",
+"short": "HCL Cujmir nr. 28/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/287862",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-29-2026",
+"path": "local/mehedinti/cujmir/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 29/2026 privind desemnarea a doi reprezentanți ai Consiliului Local al Comunei Cujmir in componenta Consiliului de Administrație al Liceului Teoretic Cujmir pentru anul școlar 2026-2027",
+"short": "HCL Cujmir nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/287863",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-30-2026",
+"path": "local/mehedinti/cujmir/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 30/2026 privind aprobarea reorganizării aparatului de specialitate al primarului comunei Cujmir și al Serviciului Public Comunitar Local Evidenta a Persoanei Cujmir precum si aprobarea Organigramei, Ștatului de funcții și Regulamentului de Organizare și Funcționare în conformitate cu prevederile Legii 165/2026",
+"short": "HCL Cujmir nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/287864",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-31-2026",
+"path": "local/mehedinti/cujmir/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 31/2026 privind declararea ca fiind bun de uz și interes public local și apartenenta la domeniul public al comunei Cujmir a unui imobil teren cu construcție situat în intravilanul satului Cujmir, comuna Cujmir, județul Mehedinți",
+"short": "HCL Cujmir nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-18",
+"latest": "2026-09-18",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/287865",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-32-2026",
+"path": "local/mehedinti/cujmir/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 32/2026 privind desemnarea reprezentanților Consiliului Local al Comunei Cujmir în vederea constituirii Comisiei de evaluare a probei de interviu pentru Concursul pentru ocuparea funcției de director la Liceul Teoretic Cujmir",
+"short": "HCL Cujmir nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/290776",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-33-2026",
+"path": "local/mehedinti/cujmir/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 33/2026 privind aprobarea Studiului de fezabilitate, a indicatorilor tehnico-economici și a cheltuielilor aferente proiectului „SURSE REGENERABILE DE ENERGIE ȘI STOCAREA ENERGIEI, ÎN COMUNA CUJMIR, JUDEȚUL MEHEDINȚI”, în vederea depunerii spre finanțare în cadrul Fondului pentru modernizare – Programul „Sprijinirea investițiilor în noi capacități de producere a energiei electrice produsă din surse regenerabile de energie solară, cu capacități de stocare integrate, pentru autoconsum pentru entități publice”",
+"short": "HCL Cujmir nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-09",
+"latest": "2026-10-09",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/292680",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-34-2026",
+"path": "local/mehedinti/cujmir/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 34/2026 privind aprobarea rectificării bugetului local al Comunei Cujmir pentru anul 2026",
+"short": "HCL Cujmir nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/294765",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-35-2026",
+"path": "local/mehedinti/cujmir/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 35/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestrul I al anului 2026",
+"short": "HCL Cujmir nr. 35/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/294766",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--cujmir-36-2026",
+"path": "local/mehedinti/cujmir/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cujmir nr. 36/2026 privind aprobarea alocării unui spațiu pentru depozitarea deșeurilor textile, situat în intravilanul satului Cujmir, comuna Cujmir, județul Mehedinți",
+"short": "HCL Cujmir nr. 36/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-27",
+"latest": "2026-10-27",
+"portal": "https://emol.ro/cujmir-mh/registru-hcl/294767",
+"council": "mehedinti/cujmir",
+"council_name": "Consiliul Local al Comunei Cujmir",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

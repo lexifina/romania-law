@@ -3,6 +3,66 @@
  "shard": "local/mures/ideciu-de-jos/2026",
  "acts": [
   {
+   "slug": "hcl-mures--ideciu-de-jos-12-2026",
+   "path": "local/mures/ideciu-de-jos/2026/12",
+   "short": "HCL Ideciu de Jos nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 12/2026",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-12-ianuarie-2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-12-ianuarie-2026-1.pdf",
+     "sha256": "6662376b200fd077f2f6c84cbc71bc42dafc90bb7882d62f578c7bd77fca81bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-13-2026",
+   "path": "local/mures/ideciu-de-jos/2026/13",
+   "short": "HCL Ideciu de Jos nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 13/2026 privind aprobarea documentației de atribuire pentru închirierea unor bunurilor proprietate privată a comunei Ideciu de Jos, situate în incinta Ștrandului Ideciu de Jos Consiliul Local al comunei Ideciu de Jos, jud. Mureș, Analizând Referatul de aprobare al Primarului Comunei Ideciu de Jos, raportul de specialitate, precum și avizul comisiilor de specialitate; Având în vedere Raportul de evaluare î",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-13-februarie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-13-februarie-2026.pdf",
+     "sha256": "1ac03558e2b8a90fb533e4a55117ac37fdd3df2bf8613ddb32ebe06ed0a65be6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-14-2026",
+   "path": "local/mures/ideciu-de-jos/2026/14",
+   "short": "HCL Ideciu de Jos nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 14/2026 privind aprobarea inițierii procedurii de închiriere prin atribuire directă a unor suprafețe având categoria de folosință pășune din domeniul privat al Comunei Ideciu de Jos, județul Mureș Consiliul Local al Comunei Ideciu de Jos, jud. Mureș",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-14-februarie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/03/HCL-14-februarie-2026.pdf",
+     "sha256": "727b42aa2042d870cc13d316cc7eda64d5147a452920b0deb7e4857e54f7a437"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-19-2026",
+   "path": "local/mures/ideciu-de-jos/2026/19",
+   "short": "HCL Ideciu de Jos nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 19/2026 Privind cuprinderea in domeniul public al U.A.T",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-19-februarie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-19-februarie-2026.pdf",
+     "sha256": "557ec7b16bfab55e59c78aa35eb9783a3dc34a1002fe50e96e718e5cc603feb1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mures--ideciu-de-jos-21-2026",
    "path": "local/mures/ideciu-de-jos/2026/21",
    "short": "HCL Ideciu de Jos nr. 21/2026",
@@ -14,6 +74,51 @@
      "units": 1,
      "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-21-februarie-2026.pdf",
      "sha256": "0d5858829744ed5fdb834470d02daf03b34f914508d587e17cb1119883cf5b90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-22-2026",
+   "path": "local/mures/ideciu-de-jos/2026/22",
+   "short": "HCL Ideciu de Jos nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 22/2026 privind aprobarea angajării serviciilor de asistență și reprezentare juridică a UAT Ideciu de Jos în vederea recuperării prejudiciului cauzat de SC BNG CONS SRL și SC IZOMAR TOTAL CONS SRL Consiliul Local al comunei Ideciu de Jos, jud. Mureș, - Referatul de aprobare al inițiatorului ; - Raportul de specialitate al compartimentului de specialitate; - Avizul comisiilor de specialitate; - Prevederile",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-22-februarie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-22-februarie-2026.pdf",
+     "sha256": "80e07680e2bc0f732ae37533ae70c07076072c203d39157f0824a57bfff5b3c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-24-2026",
+   "path": "local/mures/ideciu-de-jos/2026/24",
+   "short": "HCL Ideciu de Jos nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 24/2026 privind aprobarea înființării unor noi cărți funciare, ca urmare a dezmembrării a 3 (trei) imobile, identificate în CF nr.52982 Ideciu de Jos, CF nr. 53021 Ideciu de Jos, CF nr. 53024 Ideciu de Jos Având în vedere referatul de aprobare al primarului comunei Ideciu de Jos, in calitatea sa de initiator, raportul de specialitate și avizul favorabil al comisiilor de specialitate; Potrivit prevederilor",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-24-martie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-24-martie-2026.pdf",
+     "sha256": "c160c32e2dd92bc7ca4d1abb07a04c31a7be467cc6b0066a322d0c787124d141"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--ideciu-de-jos-25-2026",
+   "path": "local/mures/ideciu-de-jos/2026/25",
+   "short": "HCL Ideciu de Jos nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ideciu de Jos nr. 25/2026 privind modificarea Anexei nr. 1 la HCL Ideciu de Jos nr. 13 din 31.01.2025 Consiliul Local al comunei Ideciu de Jos, județul Mureș, Având în vedere: - Referatul de aprobare al primarului comunei Ideciu de Jos; - Raportul de specialitate din cadrul Aparatului de specialitate al Primarului comunei Ideciu de Jos; - precum și avizul favorabil al comisiilor de specialitate ale Consiliului Local al com",
+   "url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-25-martie-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://ideciudejos.ro/wp-content/uploads/2026/04/HCL-25-martie-2026.pdf",
+     "sha256": "db5bb83c58de226553e0d8aeef79190281ab3201a019fe991a09917bfa03ff28"
     }
    ]
   }

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-18-2022",
+   "path": "local/mehedinti/livezile/2022/18",
+   "short": "HCL Livezile nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 18/2022 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/60859",
+   "versions": [
+    {
+     "from": "2022-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/60859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-19-2022",
    "path": "local/mehedinti/livezile/2022/19",
    "short": "HCL Livezile nr. 19/2022",
@@ -78,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-23-2022",
+   "path": "local/mehedinti/livezile/2022/23",
+   "short": "HCL Livezile nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 23/2022 privind prelungirea scrisorii de garantare pentru proiectul reabilitare,modernizare,extindere și dotare cămine culturale în comuna Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/68609",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/68609",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-24-2022",
    "path": "local/mehedinti/livezile/2022/24",
    "short": "HCL Livezile nr. 24/2022",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--livezile-25-2022",
+   "path": "local/mehedinti/livezile/2022/25",
+   "short": "HCL Livezile nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 25/2022 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/68611",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/68611",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--livezile-26-2022",
    "path": "local/mehedinti/livezile/2022/26",
    "short": "HCL Livezile nr. 26/2022",
@@ -103,6 +148,21 @@
      "from": "2022-09-29",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/73842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-27-2022",
+   "path": "local/mehedinti/livezile/2022/27",
+   "short": "HCL Livezile nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 27/2022 privind desemnare reprezentant consiliu de administrație la Școala Gimnazială Livezile",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/73843",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/73843",
      "sha256": null
     }
    ]
@@ -163,6 +223,21 @@
      "from": "2022-11-24",
      "units": 1,
      "source_url": "https://emol.ro/livezile-mh/registru-hcl/80827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--livezile-32-2022",
+   "path": "local/mehedinti/livezile/2022/32",
+   "short": "HCL Livezile nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Livezile nr. 32/2022 privind alegere președinte de ședință",
+   "url": "https://emol.ro/livezile-mh/registru-hcl/80828",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/livezile-mh/registru-hcl/80828",
      "sha256": null
     }
    ]
