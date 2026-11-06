@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/neamt/roman/2005",
+ "acts": [
+  {
+   "slug": "hcl-neamt--roman-10-2005",
+   "path": "local/neamt/roman/2005/10",
+   "short": "HCL Roman nr. 10/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2005 Privind închierea contului de executie bugetara pe anul 2004",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/010%20HCL%202005-02%20cont%20executie%202004.pdf",
+     "sha256": "e53d422df483f41032a8035e051747260222310c6141c10b1aaf3d65d5e9b69c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2005",
+   "path": "local/neamt/roman/2005/107",
+   "short": "HCL Roman nr. 107/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2005 Privind rectificarea bugetului local pe anul 2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/107%20HCL%202005-12%20rectificare%20buget%20local.pdf",
+     "sha256": "3aec5ff86e2f5f21fb90f1fcb0ebeca9ca67b960dd53a017abc0f1fefb34750d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2005",
+   "path": "local/neamt/roman/2005/11",
+   "short": "HCL Roman nr. 11/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2005 Privind aprobarea inventarierii anuale a patrimoniului Primariei Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/011%20HCL%202005-02%20inventariere%20anuala.pdf",
+     "sha256": "259b3cbe5e7bc43235c72ff8c2c88c4c99de4725825c91c4438a0b10c2339836"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2005",
+   "path": "local/neamt/roman/2005/113",
+   "short": "HCL Roman nr. 113/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2005 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/113%20HCL%202005-12%20modificare%20buget.pdf",
+     "sha256": "854cc1e5008725bf8a95715d0ca76517d7694a7b50968e339d6179d6edbbb337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2005",
+   "path": "local/neamt/roman/2005/19",
+   "short": "HCL Roman nr. 19/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-02-24",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/019%20HCL%202005-02%20impozite%20si%20taxe%20locale.pdf",
+     "sha256": "40011b507b137ec17bec77041fdcde4d16f28cb9b2b5c902cc8578199b6126ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2005",
+   "path": "local/neamt/roman/2005/21",
+   "short": "HCL Roman nr. 21/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2005 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-03-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/021%20HCL%202005-03%20modificare%20buget.pdf",
+     "sha256": "3b8bf8605ba0ecccdd38f6c588e550f39eb633e29bc231ff16fe40241ace3839"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2005",
+   "path": "local/neamt/roman/2005/32",
+   "short": "HCL Roman nr. 32/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2005 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/032%20HCL%202005-03%20efectuare%20cheltuieli.pdf",
+     "sha256": "d8bad8eb7f7c5868fe62d422270e92b082f67fbec5abbf7fdad5d0b5bc2aceb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2005",
+   "path": "local/neamt/roman/2005/40",
+   "short": "HCL Roman nr. 40/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2005 Privind modificarea bugetului local pe anul 2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-04-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/040%20HCL%202005-04%20modificare%20buget.pdf",
+     "sha256": "d8450922a03afa5e27543f3bb5247494eb68639daa59a6158c9368a7c7131847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2005",
+   "path": "local/neamt/roman/2005/46",
+   "short": "HCL Roman nr. 46/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2005 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-05-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/046%20HCL%202005-05%20efectuare%20cheltuieli.pdf",
+     "sha256": "52e2efbaba0ea0bb9897cc271653b631d0db069f9d49e5d6d2ed1d40869e3e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2005",
+   "path": "local/neamt/roman/2005/96",
+   "short": "HCL Roman nr. 96/2005",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2005 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+   "versions": [
+    {
+     "from": "2005-10-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/096%20HCL%202005-10%20modificare%20buget.pdf",
+     "sha256": "f9f53ed8fe99222fc688793e98144c0546e81a7f93322aacf7c664a13d8b0fed"
+    }
+   ]
+  }
+ ]
+}

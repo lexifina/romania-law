@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Roman nr. 176/2010 privind modificarea bugetului local pe anul 2010 și a listelor de investiții din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 21949 din 10.12.2010 inițiată de către prof. Laurențiu-Dan Leoreanu - Primarul municipiului Roman și întocmită de către Direcția Economică; Văzând avizul favorabil nr. 76 din 16.12.2010 al comisiei pentru buget-finanțe, avizul favora
+
+HCL Roman nr. 176/2010 · 1 versions, from 2010-12-16 (latest in force: 2010-12-16) · <http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-neamt--roman-176-2010` (tags `hcl-neamt--roman-176-2010/<day>`; `python tools/on.py <day> hcl-neamt--roman-176-2010`).
+
+## Decisions made by hand
+
+- HCL Roman nr. 176/2010: listed from Consiliul Local al Municipiului Roman (primariaroman.ro); an individual decision: metadata only.
+- HCL Roman nr. 176/2010: dated from 16 December 2010, the day it was adopted (the register gives no later day of publication).
+- HCL Roman nr. 176/2010: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

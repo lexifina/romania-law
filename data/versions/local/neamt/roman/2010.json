@@ -768,6 +768,81 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-155-2010",
+   "path": "local/neamt/roman/2010/155",
+   "short": "HCL Roman nr. 155/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2010 Privind modificarea bugetului local pe anul 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/155%20HCL%202010-11%20modificare%20buget%20local.pdf",
+     "sha256": "99a3355808664601416e444b24e582cf94a73f207b6f57292d4a9a31a06b048e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2010",
+   "path": "local/neamt/roman/2010/156",
+   "short": "HCL Roman nr. 156/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-11-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/156%20HCL%202010-11%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "8e3ae580e5a8a6659ddad732bd9b89467fcbbd3b05852af56e9b1146947f5af4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2010",
+   "path": "local/neamt/roman/2010/157",
+   "short": "HCL Roman nr. 157/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/157%20HCL%202010-12%20modificare%20HCL%2010_2003.pdf",
+     "sha256": "1c06e26241b7d7b9391ffd9ca2bab3b51eb26b1003093c5a63c3eace0adefc69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2010",
+   "path": "local/neamt/roman/2010/158",
+   "short": "HCL Roman nr. 158/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2010 Privind aprobarea comodatãrii unui spaþiu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/158%20HCL%202010-12%20aprobare%20comodatare%20spatiu.pdf",
+     "sha256": "a227b11a1a5628644145595ea0fcaff6bc55ef5a7536175e84ec99e62f384c64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2010",
+   "path": "local/neamt/roman/2010/159",
+   "short": "HCL Roman nr. 159/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2010 Privind aprobarea dãrii în administrare a Centrului de Primire Urgenþe cãtre Spitalul Municipal de Urgenþã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/159%20HCL%202010-12%20dare%20in%20administrare%20CPU.pdf",
+     "sha256": "f720d19636302c0c681c37d6e8d73a4773c861e2046fa837ee552babdae1d939"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-16-2010",
    "path": "local/neamt/roman/2010/16",
    "short": "HCL Roman nr. 16/2010",
@@ -779,6 +854,141 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/016%20HCL%202010-01%20taxa%20concesiune%20cabinete%20medicale.pdf",
      "sha256": "de3c7950ff45f04f11e9ac00cfbcb5464dae54c1780cd519cba6b3d97ae15130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2010",
+   "path": "local/neamt/roman/2010/160",
+   "short": "HCL Roman nr. 160/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2010 Privind reglementarea condiþiilor de punere pe piaþã a unor plante, produse ºi substanþe asimilate plantelor, substanþelor ºi preparatelor stupefiante sau psihotrope pe teritoriul municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/160%20HCL%202010-12%20reglementare%20plante%20halucinogene.pdf",
+     "sha256": "3d3134f99819076f8e14045b80d47dc8d968d548d9e3fdfcbf7bf4e8266cd1aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-161-2010",
+   "path": "local/neamt/roman/2010/161",
+   "short": "HCL Roman nr. 161/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2010 Privind aprobarea redenumirii unor unitãþi ºcolare din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/161%20HCL%202010-12%20renumirea%20unor%20unitati%20scolare.pdf",
+     "sha256": "d1231e507257f0246fd6152172703cc0bc1cdebdaeff0d9622036e2d07495ee4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2010",
+   "path": "local/neamt/roman/2010/162",
+   "short": "HCL Roman nr. 162/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2010 Privind modificarea bugetului local pe anul 2010 ºi a listelor de investiþii din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/162%20HCL%202010-12%20modificare%20buget%20local%20si%20liste%20investitii.pdf",
+     "sha256": "73059bbcb61548e62fd44d1be4c9fb3d0fdee83ec3e5203a5b875e17ee940d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-163-2010",
+   "path": "local/neamt/roman/2010/163",
+   "short": "HCL Roman nr. 163/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 163/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/163%20HCL%202010-12%20aprobare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "4bcb012d63c9eb25e5c0d783524725c33913aa98e10deb098ddf4be0ff1a09b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-164-2010",
+   "path": "local/neamt/roman/2010/164",
+   "short": "HCL Roman nr. 164/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2010 Privind aprobarea alocãrii fondurilor necesare finalizãrii unor lucrãri (consolidarea ºi repunerea în funcþiune a apartamentelor blocului de locuinþe nr. 15B din Aleea Revoluþiei, municipiul Roman, judeþul Neamþ)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/164%20HCL%202010-12%20alocare%20fonduri%20finalizare%20lucrari.pdf",
+     "sha256": "609d3711133bb4ebbfd1e11745243ac244a9531523dec03940cec0cb4db49aa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-165-2010",
+   "path": "local/neamt/roman/2010/165",
+   "short": "HCL Roman nr. 165/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 165/2010 privind aprobarea unor documentații de urbanism CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 21892 din 09.12.2010 înaintată de către Primarul Municipiului Roman – prof. Laurențiu-Dan Leoreanu, precum și raportul de specialitate nr. 21893 din 09.12.2010 al Arhitectului șef; Văzând avizul favorabil nr. 74 din 15.12.2010 al Comisiei pentru urbanism și administrarea teritori",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/165%20HCL%202010-12%20documentatii%20urbanism.pdf",
+     "sha256": "1d4b8bfff64564d86d109d4fed1c57d405a13ffe317ec0736de65c1044d6f381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2010",
+   "path": "local/neamt/roman/2010/166",
+   "short": "HCL Roman nr. 166/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2010 privind aprobarea vânzării unor terenuri CONSILIUL LOCAL AL MUNICIPIULUI ROMAN; Examinând expunerea de motive nr. 21894 din 09.12.2010 înaintată de către Primarul Municipiului Roman – Primarul Municipiului Roman, precum și raportul comun nr. 21895 din 09.10.2010 al Direcției de Urbanism și Amenajarea Teritoriului și al Direcției Economice; Văzând avizul favorabil nr. 75 din 15.12.2010 al Comisiei",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/166%20HCL%202010-12%20vanzare%20terenuri.pdf",
+     "sha256": "22f46773f44f3de1f310bf28fe05eda2d3ced4fda66d2e9b767c9de20b643774"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2010",
+   "path": "local/neamt/roman/2010/167",
+   "short": "HCL Roman nr. 167/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/167%20HCL%202010-12%20modificare%20HCL%2060_2005.pdf",
+     "sha256": "9bf53e93c26e70609aaa5a7b8272528477d63e464ab89b65b320540e3dfd326a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-169-2010",
+   "path": "local/neamt/roman/2010/169",
+   "short": "HCL Roman nr. 169/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2010 pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/169%20HCL%202010-12%20concesionari%20terenuri.pdf",
+     "sha256": "2008842695609440514801e40cd91938b3152a9878eae040462ff05a963edc18"
     }
    ]
   },
@@ -798,6 +1008,186 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-170-2010",
+   "path": "local/neamt/roman/2010/170",
+   "short": "HCL Roman nr. 170/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2010 pentru închirierea spaþiilor aflate în administrarea Consiliului Local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/170%20HCL%202010-12%20aprobare%20model%20contract%20inchiriere%20spatii.pdf",
+     "sha256": "a526ca7d8ef4c53263330031da08fbd515d5e8e5b48ffca05b0af7aecbd9e2f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-176-2010",
+   "path": "local/neamt/roman/2010/176",
+   "short": "HCL Roman nr. 176/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 176/2010 privind modificarea bugetului local pe anul 2010 și a listelor de investiții din bugetul local CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 21949 din 10.12.2010 inițiată de către prof. Laurențiu-Dan Leoreanu - Primarul municipiului Roman și întocmită de către Direcția Economică; Văzând avizul favorabil nr. 76 din 16.12.2010 al comisiei pentru buget-finanțe, avizul favora",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/176%20HCL%202010-12%20modificare%20buget%20local%20si%20liste%20investitii.pdf",
+     "sha256": "55dab42c5c307c50595cb8efcc67340fcb7e8afbbb9fe47309491cec800c00b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2010",
+   "path": "local/neamt/roman/2010/177",
+   "short": "HCL Roman nr. 177/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2010 Nr. 177 din 16.12.2010 privind aprobarea unui act adițional la contractul de Delegare a Serviciilor Publice de Alimentare cu Apă și de Canalizare nr. 28 din 10.09.2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/177%20HCL%202010-12%20aprobare%20act%20aditional%20Apa%20Canal.pdf",
+     "sha256": "794e45b8fac401e0005ae1e82ec1ec192f63f408cd7eefc86d4c7c5bc3dd5ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2010",
+   "path": "local/neamt/roman/2010/18",
+   "short": "HCL Roman nr. 18/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2010 Privind concesionarea unui spaþiu medical",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/018%20HCL%202010-01%20concesiune%20cabinet%20medical.pdf",
+     "sha256": "3a6206bc4f846708192ab56aeb4f8541c2ef0fbf2df8f40f0ab94ab40299f440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2010",
+   "path": "local/neamt/roman/2010/181",
+   "short": "HCL Roman nr. 181/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2010 privind clasificarea unui drum de interes local de pe raza Municipiului Roman, județulNeamț, în categoria drumurilor comunale CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 22183 din 15.12.2010 înaintată de către Primarul Municipiului Roman - prof. Laurentiu-Dan Leoreanu, precum și raportul de specialitate nr. 22184 din 15.12.2010 întocmit de către Direcția Tehnică; Văzând",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/181%20HCL%202010-12%20clasificare%20drum%20comunal.pdf",
+     "sha256": "0155eb05e24ab86f6dfe51b52305f980e2bfd983cc7ae9cf84eb183542c91880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2010",
+   "path": "local/neamt/roman/2010/19",
+   "short": "HCL Roman nr. 19/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2010 Privind numirea reprezentanþilor Consiliului Local Roman în Consiliul Consultativ al Spitalului Municipal de Urgenþã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/019%20HCL%202010-01%20desemnare%20reprezentanti%20la%20spital.pdf",
+     "sha256": "fbb31b298cbc0323dbd56f8de9ed6380fcaa3a454ef68fb6a3197e2f011fef4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-20-2010",
+   "path": "local/neamt/roman/2010/20",
+   "short": "HCL Roman nr. 20/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 20/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/020%20HCL%202010-01%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "942b8c402f8f75ed7c87f3b25ebde43cfc7bcf665d88de26799aaefe35dcb8ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2010",
+   "path": "local/neamt/roman/2010/21",
+   "short": "HCL Roman nr. 21/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/021%20HCL%202010-02%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "42ea03271999a1c68fb65a15b6becef58fc5c33030168fd29f423d58223a72cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2010",
+   "path": "local/neamt/roman/2010/22",
+   "short": "HCL Roman nr. 22/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2010 Privind aprobarea trecerii unui teren în administrarea Oficiului de Cadastru ºi Publicitate Imobiliarã - Neamþ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/022%20HCL%202010-02%20dare%20in%20administrare%20teren%20OCPI.pdf",
+     "sha256": "82e9516eee677b7249fc406aad9914d8e80110d2dbe486104807c8f105fccdac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2010",
+   "path": "local/neamt/roman/2010/24",
+   "short": "HCL Roman nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-02-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/024%20HCL%202010-02%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "87250c0af19adb3a744d841ef27cbd236b5d2aa9b7af9ea1befae52ab24558f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2010",
+   "path": "local/neamt/roman/2010/25",
+   "short": "HCL Roman nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2010 Privind constat ãrii încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/025%20HCL%202010-03%20incetare%20mandat%20Carpusor.pdf",
+     "sha256": "28b737cb84b92cb73d634fdc102ec0810cd45a353d46163173edf013cae89a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2010",
+   "path": "local/neamt/roman/2010/26",
+   "short": "HCL Roman nr. 26/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2010 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/026%20HCL%202010-03%20validare%20mandat.pdf",
+     "sha256": "57fe7d6845a434e36f9cd2449e0b8b6cae1156b99ed78a36704dfd7ed71c1abe"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-27-2010",
    "path": "local/neamt/roman/2010/27",
    "short": "HCL Roman nr. 27/2010",
@@ -809,6 +1199,66 @@
      "units": 4,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/027%20HCL%202010-03%20acordare%20facilitati%20fiscale.pdf",
      "sha256": "d9b82147beae7ccd59eca61a8ed9a769ee1902d25d30f13fd4cf777cae15c160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2010",
+   "path": "local/neamt/roman/2010/28",
+   "short": "HCL Roman nr. 28/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2010 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/028%20HCL%202010-03%20concesionari%20terenuri.pdf",
+     "sha256": "4d1ea8a3cf56b849fcc466499eae921014bdf5c1ff7e277755cb73fd2172c49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2010",
+   "path": "local/neamt/roman/2010/29",
+   "short": "HCL Roman nr. 29/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/029%20HCL%202010-03%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "59f33593b4c2268b5d79e3f168b955a55c764791135f37e9b7313b4685352ecb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2010",
+   "path": "local/neamt/roman/2010/31",
+   "short": "HCL Roman nr. 31/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/031%20HCL%202010-03%20modificare%20HCL%20103_2008.pdf",
+     "sha256": "6175298ad867e5629a549099cc65120418e06ee47a5ad1d3ec7b023e61fd9b71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2010",
+   "path": "local/neamt/roman/2010/32",
+   "short": "HCL Roman nr. 32/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2010 Privind darea în folosinþã gratuitã Inspectoratului de Jandarmi Judeþean Neamþ a unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/032%20HCL%202010-03%20dare%20in%20folosinta%20imobil%20Jandarmi.pdf",
+     "sha256": "16c3a4a00254262a065c91d244efceb4aba3c855c0a5e4b5f3a1f747038c9081"
     }
    ]
   },
@@ -843,6 +1293,126 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-35-2010",
+   "path": "local/neamt/roman/2010/35",
+   "short": "HCL Roman nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/035%20HCL%202010-03%20%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "db1abf19d40fb9c9d91461dfb13ca5a280e8a997b5e7fee0ce8171a41504231e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2010",
+   "path": "local/neamt/roman/2010/36",
+   "short": "HCL Roman nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2010 Privind aprobarea bugetului general consolidat pe anul 2010, a listelor de investiþii din bugetul local, din fondul de rulment, taxe speciale ºi a bugetelor pe programe",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/036%20HCL%202010-03%20aprobare%20buget%20local.pdf",
+     "sha256": "2bef33c4d0a7c13def81e2bdad91c0d2548cb502146830c97f2c21b40457a8f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2010",
+   "path": "local/neamt/roman/2010/37",
+   "short": "HCL Roman nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2010 Privind aprobarea bugetului activitãþii generale pe anul 2010 al S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/037%20HCL%202010-03%20aprobare%20buget%20Municipal%20Locato%20Serv.pdf",
+     "sha256": "7a98dc8d56fb1e76ebca093cb0233da91fda66705220939fab686435415b1c04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2010",
+   "path": "local/neamt/roman/2010/38",
+   "short": "HCL Roman nr. 38/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2010 Privind aprobarea bugetului de venituri ºi cheltuieli pe anul 2010 al S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/038%20HCL%202010-03%20aprobare%20buget%20Acvaserv%20SRL.pdf",
+     "sha256": "1830b87084118a5bcc8f286f40158005a7997bc1234350c7ebaf17a0e6138c0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2010",
+   "path": "local/neamt/roman/2010/4",
+   "short": "HCL Roman nr. 4/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "096ccbde8fc0b393c4a8c1603e5252c960be0f02a344c5a0b682ed4bb98bc823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2010",
+   "path": "local/neamt/roman/2010/41",
+   "short": "HCL Roman nr. 41/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/041%20HCL%202010-03%20completare%20HCL%2081_2009.pdf",
+     "sha256": "5c3560488bfbe52e8c8a180ad26142c07d8f7beb9e8468134c682a648f8082ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2010",
+   "path": "local/neamt/roman/2010/42",
+   "short": "HCL Roman nr. 42/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2010 Privind aprobarea inventarului par",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/042%20HCL%202010-03%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "ede2bdcffe18a285d426baefe9542fe6edc77304e4fb1cdfb891eb1537f0b3af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2010",
+   "path": "local/neamt/roman/2010/43",
+   "short": "HCL Roman nr. 43/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2010 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/043%20HCL%202010-03%20concesiuni%20terenuri.pdf",
+     "sha256": "1e5691b0a44baa55fd41716e433822ed97f5b7cd9744fd6d133c5606c38a3bb8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-44-2010",
    "path": "local/neamt/roman/2010/44",
    "short": "HCL Roman nr. 44/2010",
@@ -854,6 +1424,171 @@
      "units": 3,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/044%20HCL%202010-03%20modificare%20HCL%20133_2009.pdf",
      "sha256": "0ca4e578eb0302c6fd94effde199776ed7e95836a0a37de66c04d60185d0a348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2010",
+   "path": "local/neamt/roman/2010/45",
+   "short": "HCL Roman nr. 45/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2010 Privind executarea lucrãrilor de intervenþie în vederea creºterii performanþelor energetice a blocurilor de locuinþe",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/045%20HCL%202010-03%20izolare%20termica.pdf",
+     "sha256": "0277c10c3dcce9b01c01ee8a087404895291c774f7c45c2bcff3bcaab4d29304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2010",
+   "path": "local/neamt/roman/2010/46",
+   "short": "HCL Roman nr. 46/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "94410b2cb17a6a97d099f4633410a60478b8872284d9c5b0e281e373d023291d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2010",
+   "path": "local/neamt/roman/2010/47",
+   "short": "HCL Roman nr. 47/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-03-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/047%20HCL%202010-03%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "30391cdd93d5ba8aef2336e00ce2fc361ad3672f9a29c244e9943f2c1f3f4f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2010",
+   "path": "local/neamt/roman/2010/48",
+   "short": "HCL Roman nr. 48/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "43dea345c919129fff80870d3d008f8a186217c4f3f389f9ba1817bd626c522d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2010",
+   "path": "local/neamt/roman/2010/5",
+   "short": "HCL Roman nr. 5/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2010 Privind aprobarea concesionãrii ºi închirierii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/005%20HCL%202010-01%20concesionari%20terenuri%20pentru%20constructii.pdf",
+     "sha256": "cfb4592517d1a4191bef4d780756cab6e52180631f61e3f36c99ca0ed52a7a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-50-2010",
+   "path": "local/neamt/roman/2010/50",
+   "short": "HCL Roman nr. 50/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 50/2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/050%20HCL%202010-04%20modificare%20organigrama.pdf",
+     "sha256": "6b03eb1dbd682089bc02b07659f0b844637bebafa6002c8a5e4eee1dbd709f17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2010",
+   "path": "local/neamt/roman/2010/51",
+   "short": "HCL Roman nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/051%20HCL%202010-04%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "5a7229f31057991c56335fed75c6b9bd7f1d773809cf37ca87dae1947256a219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-52-2010",
+   "path": "local/neamt/roman/2010/52",
+   "short": "HCL Roman nr. 52/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2010 Privind aprobarea Raportului de evaluare al Comisiei de Evaluare ºi atribuirea contractului de delegare a gestiunii serviciului de transport public local prin curse regulate unui operator de transport",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/052%20HCL%202010-04%20aprobare%20Raport%20evaluare.pdf",
+     "sha256": "c26fd7bba8797f8aa0d6ccd3ab58a342063d264e581d72862c82b4e8b4bb6b80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2010",
+   "path": "local/neamt/roman/2010/53",
+   "short": "HCL Roman nr. 53/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2010 PRIVIND APROBAREA CHELTUIELILOR CE VOR FI EFECTUATE ÎN CADRUL PROIECTULUI \"MICROHIDROCENTRALA PE RÂUL MOLDOVA, MUNICIPIUL ROMAN\" CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Analizând expunerea de motive nr. 7358 din 20.04.2010 înaintată de către Primarul Municipiului Roman – prof. Laurențiu-Dan Leoreanu, precum și raportul de specialitate nr. 7359 din 20.04.2010 al Serviciului \"Unitatea de Implementare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-04-22",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/053%20HCL%202010-04%20cheltuieli%20Microhidrocentrala.pdf",
+     "sha256": "96894405bd37d9df3461c25564e7431c516f720e6e83185d3e0976f09c9048e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2010",
+   "path": "local/neamt/roman/2010/54",
+   "short": "HCL Roman nr. 54/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2010 Privind aprobarea unor documenta",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/054%20HCL%202010-05%20documentatii%20urbanism.pdf",
+     "sha256": "759ad889d2b18e079221df96ab427c97a12adb41124052c040b04b3bfae92a38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2010",
+   "path": "local/neamt/roman/2010/55",
+   "short": "HCL Roman nr. 55/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/055%20HCL%202010-05%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "3fe1cd1c79b2d73109ad505815b5decfa5ade6ea6db5f2d062a9ff3fcc01f643"
     }
    ]
   },
@@ -873,6 +1608,171 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-58-2010",
+   "path": "local/neamt/roman/2010/58",
+   "short": "HCL Roman nr. 58/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/058%20HCL%202010-05%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "8d47084f3f49b62f3079e21dce0800880d07d9d52854cfbf266115fb419be1c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2010",
+   "path": "local/neamt/roman/2010/59",
+   "short": "HCL Roman nr. 59/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2010 Privind modificarea bugetului local pe anul 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-05-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/059%20HCL%202010-05%20modificare%20buget%20local.pdf",
+     "sha256": "2bcd64f58f38474afb5469bde676cc5aa79397cf92656588a49a9ee7db4fd757"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2010",
+   "path": "local/neamt/roman/2010/6",
+   "short": "HCL Roman nr. 6/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2010 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/006%20HCL%202010-01%20documentatii%20urbanism.pdf",
+     "sha256": "05fe523099aedf72c47ce6fcb6c73f244ba76e681d74756c9dc730416a5542af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2010",
+   "path": "local/neamt/roman/2010/60",
+   "short": "HCL Roman nr. 60/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2010 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/060%20HCL%202010-05%20incetare%20mandat%20Farcas.pdf",
+     "sha256": "320a67c6ba5294f7bbc104c3f4f031a2f529594b2861f5deeccefac3eaf2ec7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2010",
+   "path": "local/neamt/roman/2010/61",
+   "short": "HCL Roman nr. 61/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2010 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/061%20HCL%202010-05%20validare%20mandat%20Cosmescu.pdf",
+     "sha256": "e3dd7704626258136869119c85f1af38c87765e7f4c737807cee2ccb9d521e04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2010",
+   "path": "local/neamt/roman/2010/62",
+   "short": "HCL Roman nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2010 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/062%20HCL%202010-06%20concesiuni%20teren%20constructii.pdf",
+     "sha256": "c03b8470c47684294cca14b70bf9b8f372294585e86f4ab24593f7bd4051922e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2010",
+   "path": "local/neamt/roman/2010/63",
+   "short": "HCL Roman nr. 63/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2010 Privind aprobarea trecerii unui teren din administrarea Liceului cu Program Sportiv Roman în administrarea Consiliului Local Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/063%20HCL%202010-06%20trecere%20teren%20LPS_CLR.pdf",
+     "sha256": "9890d0a113f847faae3e88d4ba9337b07b39d3b584c896e5f1d23e4bc56e2873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2010",
+   "path": "local/neamt/roman/2010/64",
+   "short": "HCL Roman nr. 64/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/064%20HCL%202010-06%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "ed31742e45c0975c2d81eb3638e0434afce1c91ba467e78459fc7a8e7a152aa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2010",
+   "path": "local/neamt/roman/2010/69",
+   "short": "HCL Roman nr. 69/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2010 Privind numirea reprezentanþilor Consiliului Local Roman în Consiliul Consultativ al Spitalului de Psihiatrie \"Sf. Nicolae\" Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/069%20HCL%202010-06%20numire%20reprezentanti%20CLR%20Spital%20Psi.pdf",
+     "sha256": "6388ead9d7718d88e716a6abd7583c02c29b3789b0f464a3a9e11693fc64b6bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2010",
+   "path": "local/neamt/roman/2010/7",
+   "short": "HCL Roman nr. 7/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2010 Nr. 7 din 28.01.2010 Privind aprobarea modificării Hotărârii Consiliului Local nr. 43 din 26.05.2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/007%20HCL%202010-01%20modificarea%20HCL%2043%20din%202005.pdf",
+     "sha256": "1f9c572670e252e273e9585c310915c21cdfa1145877bfce6d72b46d19d0e8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2010",
+   "path": "local/neamt/roman/2010/70",
+   "short": "HCL Roman nr. 70/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2010 Privind schimbarea destinaþiei unor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/070%20HCL%202010-06%20schimbare%20destinatie%20imobile.pdf",
+     "sha256": "b5ab68beae30f830e58d64ca737b357a5bfe0fd0fddb37c3a91c3f91e3b826e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-71-2010",
    "path": "local/neamt/roman/2010/71",
    "short": "HCL Roman nr. 71/2010",
@@ -884,6 +1784,381 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/071%20HCL%202010-06%20taxa%20utilizare%20canalizatie.pdf",
      "sha256": "782692aedbed58e499c193d3b10391dfcd049e2f8097bbfd51582f0ceeb337ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2010",
+   "path": "local/neamt/roman/2010/72",
+   "short": "HCL Roman nr. 72/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2010 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/072%20HCL%202010-06%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "09bc469acbc62eee100b03b515d73b9a2afcf6d6fc5507960845aea6775f2b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2010",
+   "path": "local/neamt/roman/2010/73",
+   "short": "HCL Roman nr. 73/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2010 Privind modificarea bugetului local pe anul 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/073%20HCL%202010-06%20modificare%20buget%20local.pdf",
+     "sha256": "07150fee64b0744855685fe2bc6e8aee459209c8b2087e48c9226c6fa64fbc02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2010",
+   "path": "local/neamt/roman/2010/74",
+   "short": "HCL Roman nr. 74/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2010 Nr. 74 din 28.06.2010 privind modificarea și completarea H.C.L nr. 192/2009 privind administrarea unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/074%20HCL%202010-06%20modificare%20HCL%20192_2009.pdf",
+     "sha256": "f166415166649f17b49d710fd3130940c10510d1dc4bdbf2c84da067ba6703f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2010",
+   "path": "local/neamt/roman/2010/75",
+   "short": "HCL Roman nr. 75/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2010 Privind preluarea managementului asistenþei medicale din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/075%20HCL%202010-06%20preluare%20Spital.pdf",
+     "sha256": "061e1ee8194fc56c021baa2082f713c1ce4f9b251458477ffe2c509d4405ac1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2010",
+   "path": "local/neamt/roman/2010/76",
+   "short": "HCL Roman nr. 76/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2010 Privind actualizarea Programului Local multianual privind creºterea performanþei energetice la blocurile de locuinþe din municipiul Roman, reactualizat pânã în luna iunie 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/076%20HCL%202010-07%20Program%20anual%20energetic%20bloc.pdf",
+     "sha256": "19c4918dafc58e53c66c5c628f1a65345db4151b4b0dfc0e5526bb84748b8731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2010",
+   "path": "local/neamt/roman/2010/77",
+   "short": "HCL Roman nr. 77/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2010 Privind stabilirea denumirii unor strãzi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/077%20HCL%202010-07%20stabilire%20denumire%20strazi.pdf",
+     "sha256": "701e72bb2ff3436c24a8314628b6737767ccfa8c4148ea59bb4dbf2426a81629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2010",
+   "path": "local/neamt/roman/2010/79",
+   "short": "HCL Roman nr. 79/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/079%20HCL%202010-06%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "ae80d33953ec4883bf699414d8a4ea816ecb06271581abfd02d458b491985b64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2010",
+   "path": "local/neamt/roman/2010/8",
+   "short": "HCL Roman nr. 8/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/008%20HCL%202010-01%20modificare%20HCL%20116%20din%202009.pdf",
+     "sha256": "f96474f6738bdcf2eaaa6aa90d5e5d2690653818a39a627af7268f549b0990b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2010",
+   "path": "local/neamt/roman/2010/80",
+   "short": "HCL Roman nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2010 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/080%20HCL%202010-07%20concesiuni%20terenuri%20constructii.pdf",
+     "sha256": "f9c09434dfa87d14c60ceb3a164a4e6f969874009dc11a615480ade3b65fe0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2010",
+   "path": "local/neamt/roman/2010/83",
+   "short": "HCL Roman nr. 83/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2010",
+   "url": null,
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d7660fbb2e32895ea6a27a1203f7eb326b1b289958db5290047bfecbf9f01693"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-85-2010",
+   "path": "local/neamt/roman/2010/85",
+   "short": "HCL Roman nr. 85/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 85/2010 Privind aprobarea indicatorilor tehnico-economici pentru unele obiective de investiþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/085%20HCL%202010-07%20studii%20de%20fezabilitate.pdf",
+     "sha256": "da2ed2f4ab544fa36fa0f576d5743cca166c3b48da21ba9f34429792e9dda60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2010",
+   "path": "local/neamt/roman/2010/86",
+   "short": "HCL Roman nr. 86/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2010 Privind modificarea bugetului local pe anul 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/086%20HCL%202010-07%20modificare%20buget%20local.pdf",
+     "sha256": "fff5477c501ba15ab3f84cb02d92242d55ed95eff58090ff8307dc8e202ea869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2010",
+   "path": "local/neamt/roman/2010/87",
+   "short": "HCL Roman nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2010 Privind rectificarea bugetului activitãþii generale pe anul 2010 al S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/087%20HCL%202010-07%20rectificare%20buget%20Municipal%20Locato.pdf",
+     "sha256": "c304e291f7a4bd5d2228fe0ac990cf2c8bdd4d1e7ac80588b93d684a259111c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2010",
+   "path": "local/neamt/roman/2010/88",
+   "short": "HCL Roman nr. 88/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2010 Privind rectificarea bugetului de venituri ºi cheltuieli pe anul 2010 al S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-07-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/088%20HCL%202010-07%20rectificare%20buget%20Acvaserv.pdf",
+     "sha256": "acf51fb425c2e98eac07696ae871da02159b62797193ed600f39f665dc59ae0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2010",
+   "path": "local/neamt/roman/2010/9",
+   "short": "HCL Roman nr. 9/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2010 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/009%20HCL%202010-01%20aprobare%20domeniu%20privat.pdf",
+     "sha256": "9905542d3fd0a4df2974fcae1f47e1a540523d183697178ca515cef3c1119169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-90-2010",
+   "path": "local/neamt/roman/2010/90",
+   "short": "HCL Roman nr. 90/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 90/2010 Privind aprobarea traseului variantei de ocolire Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/090%20HCL%202010-08%20artera%20ocolotoare.pdf",
+     "sha256": "1c10fd5348635a91594d617d700a570525530b6ce3a48db9369c4968f1ac917f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-91-2010",
+   "path": "local/neamt/roman/2010/91",
+   "short": "HCL Roman nr. 91/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 91/2010 privind aprobarea indicatorilor tehnico - economici ai investiției și a noilor valori ale bugetului proiectului: “Reabilitarea, modernizarea și echiparea clădirii destinate serviciilor sociale în municipiul Roman\" CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Analizând expunerea de motive nr. 13126 din 30.07.2010 înaintată de către Primarul municipiului Roman – prof. Laurențiu-Dan Leoreanu, precum și rapo",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/091%20HCL%202010-08%20cladiri%20servicii%20sociale.pdf",
+     "sha256": "776efa5c38b7efba608ac9c2d3109b7d0f182943505f09f871dc41ba3e840bca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2010",
+   "path": "local/neamt/roman/2010/92",
+   "short": "HCL Roman nr. 92/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2010 Privind modificarea bugetului local pe anul 2010",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/092%20HCL%202010-08%20modificare%20buget%20local.pdf",
+     "sha256": "33a657daa7673139ef243fd47632f1aeed3f78758c983235605f3e9e88524fa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2010",
+   "path": "local/neamt/roman/2010/93",
+   "short": "HCL Roman nr. 93/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2010 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/093%20HCL%202010-09%20incetare%20mandat%20Balan.pdf",
+     "sha256": "d35974ef01ed7c028f9d6a5dd3e5a790732c7d6273aa4748755f294dd5117119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2010",
+   "path": "local/neamt/roman/2010/94",
+   "short": "HCL Roman nr. 94/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2010 Privind validarea unui mandar de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/094%20HCL%202010-09%20validare%20mandat%20Boloca.pdf",
+     "sha256": "d28fab81ccccf6e5b0429b0d2df9f1baadc300047ff19e1b88952da93ed847e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2010",
+   "path": "local/neamt/roman/2010/95",
+   "short": "HCL Roman nr. 95/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2010 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/095%20HCL%202010-09%20incetare%20mandat%20Micu.pdf",
+     "sha256": "05bc0d9c44035778025d13c3d10c52caa88163e7671a0cc881934f4485f54a45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2010",
+   "path": "local/neamt/roman/2010/96",
+   "short": "HCL Roman nr. 96/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2010 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+     "sha256": "c37f0d56569b4a191fcc954510055b3163cea1d4f4311ec47770c61d418dd393"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-97-2010",
+   "path": "local/neamt/roman/2010/97",
+   "short": "HCL Roman nr. 97/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2010 Privind aprobarea unei documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/097%20HCL%202010-09%20documentatii%20urbanism.pdf",
+     "sha256": "42f7ad9990cf9369d3ad6b25d2eefeec2a098c7fcff9b6619123d150c9e13c28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2010",
+   "path": "local/neamt/roman/2010/98",
+   "short": "HCL Roman nr. 98/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2010 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/098%20HCL%202010-09%20concesiuni%20terenuri.pdf",
+     "sha256": "737e228842430ab4ea66d5e454289679b8fc92eae330e1bf421fb1ed1fc2f66f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2010",
+   "path": "local/neamt/roman/2010/99",
+   "short": "HCL Roman nr. 99/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2010 Privind aprobarea vânzãrii unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2010/",
+   "versions": [
+    {
+     "from": "2010-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2010/099%20HCL%202010-09%20vanzari%20terenuri.pdf",
+     "sha256": "6ef78b7a71a5d4f99363e1ea5ac9ffd7aab5027ecbc3a9bfa399e9c319fc92ef"
     }
    ]
   }

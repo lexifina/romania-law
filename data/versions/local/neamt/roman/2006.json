@@ -3,6 +3,246 @@
  "shard": "local/neamt/roman/2006",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2006",
+   "path": "local/neamt/roman/2006/1",
+   "short": "HCL Roman nr. 1/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/001%20HCL%202006-01%20modif%20%20HCL%2080-2005.pdf",
+     "sha256": "5e577c0833a09ca49739c95cbc683afa301cac43bba05cc26fd8f504b4780617"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-100-2006",
+   "path": "local/neamt/roman/2006/100",
+   "short": "HCL Roman nr. 100/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 100/2006 Privind aprobarea vânzarii unor spatii cu destinatie de locuinta din municipiul Roman, aleea Dumbrava Rosie, nr. 1, catre actualii chiriasi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/100%20HCL%202006-10%20%20vanzare%20locuinte%20chiasi%20spital.pdf",
+     "sha256": "1301684d1035c976b1df4f02594cbfea560870e14a466e812e7498bddafbc33c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-102-2006",
+   "path": "local/neamt/roman/2006/102",
+   "short": "HCL Roman nr. 102/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 102/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/102%20HCL%202006-10%20modificare%20HCL%2051_2005.pdf",
+     "sha256": "0757b7e39fbd69632056121353b2e8d3c1b1aa5c874981eb9fdf754caa334d0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-103-2006",
+   "path": "local/neamt/roman/2006/103",
+   "short": "HCL Roman nr. 103/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 103/2006 Privind aprobarea listei de acces si a listei de repartizare a locuintelor pentru tineret destinate închirierii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/103%20HCL%202006-10%20aprobare%20liste%20ANL%202006.pdf",
+     "sha256": "efee4813561605b188d59c0d5e3e608910ed49772fd94478656f4251af9c8334"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-104-2006",
+   "path": "local/neamt/roman/2006/104",
+   "short": "HCL Roman nr. 104/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/104%20HCL%202006-19%20aprobare%20contract%20v%20c%20cabinete%20medicale.pdf",
+     "sha256": "a04a3df0c802517d02fea1a68d827e03c0d2296f737cb0fbd905441e626ae125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2006",
+   "path": "local/neamt/roman/2006/107",
+   "short": "HCL Roman nr. 107/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "634433455995c51d0f684eda1b280116e82dc01cfca33a0df9fd69814f36f689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-108-2006",
+   "path": "local/neamt/roman/2006/108",
+   "short": "HCL Roman nr. 108/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 108/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "bf6f79889c464b6ac34e218be3ff69e87fe1edc16022603beaac6ca575fdecb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-109-2006",
+   "path": "local/neamt/roman/2006/109",
+   "short": "HCL Roman nr. 109/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2006 Privind desemnarea reprezentantului legal al Consiliului Local Roman în Comisia judeteana privind incluziune sociala",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/109%20HCL%202006-11%20desemnare%20reprez%20CLR%20com%20jud%20Incluziune%20sociala.pdf",
+     "sha256": "7e273aa4807505307bc0e399fd4f2acc711e82b0e00646030fd5c94f86b875c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-110-2006",
+   "path": "local/neamt/roman/2006/110",
+   "short": "HCL Roman nr. 110/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 110/2006 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/110%20HCL%202006-11%20cheltuieli%20buget%20local.pdf",
+     "sha256": "c5feca1965c80771050f72f18347009f54d4073c77f21ee5a690f04906238083"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-111-2006",
+   "path": "local/neamt/roman/2006/111",
+   "short": "HCL Roman nr. 111/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2006 Privind avizarea Proiectelor Planurilor de Scolarizare ale scolilor si liceelor din municipiul Roman pentru anul de învatamânt 2007-2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/111%20HCL%202006-11%20Program%20scolarizare%20municipiul%20Roman.pdf",
+     "sha256": "69922aa941e0ea23b6dbc2662470e6898fe7483d8924114b43f68b6425a35f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-112-2006",
+   "path": "local/neamt/roman/2006/112",
+   "short": "HCL Roman nr. 112/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 112/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/112%20HCL%202006-11%20concesiuni%20teren%20constructii.pdf",
+     "sha256": "89009c312650593ea4580cc9ca96f9e9ba534d3b9329a9e2a74ffbf59cb68136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2006",
+   "path": "local/neamt/roman/2006/113",
+   "short": "HCL Roman nr. 113/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2006 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/113%20HCL%202006-11%20documentatii%20urbanism.pdf",
+     "sha256": "5771901f0571a85f15ebfb77ed7511337ae376c198664b92e35c7e1ac04a3fe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2006",
+   "path": "local/neamt/roman/2006/114",
+   "short": "HCL Roman nr. 114/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2006 Privind aprobarea efectuarii unui schimb de terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/114%20HCL%202006-11%20schimb%20teren.pdf",
+     "sha256": "d39fd41ad14787c561ef5ed7aa1f8c3cb85218f756f821d42d563b0e230275a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2006",
+   "path": "local/neamt/roman/2006/115",
+   "short": "HCL Roman nr. 115/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/115%20HCL%202006-11%20racordare%20canal.pdf",
+     "sha256": "d2beb84f5a8c586e463a0e0b8ee89259a9ca5b1da1f5ac47377cc304fdb2993e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-116-2006",
+   "path": "local/neamt/roman/2006/116",
+   "short": "HCL Roman nr. 116/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 116/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/116%20HCL%202006-11%20modificare%20buget.pdf",
+     "sha256": "40b8febf383fb10c64736e93bd5ac687f369309e9f31afa6f86fbf2c6db5dea4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2006",
+   "path": "local/neamt/roman/2006/118",
+   "short": "HCL Roman nr. 118/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2006 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/118%20HCL%202006-11%20cheltuieli%20buget%20local.pdf",
+     "sha256": "5a53a135a2ab23697ae1140f5c2ad2fd7c4c7d55ac5cf65fa4237302e653337b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-119-2006",
    "path": "local/neamt/roman/2006/119",
    "short": "HCL Roman nr. 119/2006",
@@ -14,6 +254,36 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/119%20HCL%202006-11%20instituire%20contraventii%20auto.pdf",
      "sha256": "fb704d7479b02e3a6cf949f855cfc9c4608403eb2083d550cfb15a174e74782a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-120-2006",
+   "path": "local/neamt/roman/2006/120",
+   "short": "HCL Roman nr. 120/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 120/2006 Privind aprobarea cuantumului chiriei pentru locuintele construite pentru tineri, destinate închirierii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/120%20HCL%202006-11%20chirii%20ANL.pdf",
+     "sha256": "63d713152ddd5ce0f8b22c99d4409f9a4ef89c9983859c706a843cb316add61b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2006",
+   "path": "local/neamt/roman/2006/124",
+   "short": "HCL Roman nr. 124/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2006 Privind aprobarea modelului de contract de reprezentare a Consiliului Local în adunarea generala a actionarilor/asociatiilor la societatilor comerciale unde Consiliul Local este actionar/asociat unic",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/124%20HCL%202006-10%20model%20contract%20reprezentanti%20AGA.pdf",
+     "sha256": "3010c99f66c99d09a4d6aeea104d24e104ece8df0afbb4b1035e70a13d4d3677"
     }
    ]
   },
@@ -33,6 +303,81 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-127-2006",
+   "path": "local/neamt/roman/2006/127",
+   "short": "HCL Roman nr. 127/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 127/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/127%20HCL%202006-11%20pret%20apa%20si%20canal.pdf",
+     "sha256": "a0105673fa2787aea2155eb79985c18753763e408351ce28a4951b70afc60e9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2006",
+   "path": "local/neamt/roman/2006/128",
+   "short": "HCL Roman nr. 128/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5285c164f3f7a7466b232b03e09d3e12b897d53a6af7fa8a47973931c579cb2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2006",
+   "path": "local/neamt/roman/2006/129",
+   "short": "HCL Roman nr. 129/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/129%20HCL%202006-12%20rectificare%20buget.pdf",
+     "sha256": "0597ae20852a7516f45fa734a332fff13624510ab15b71409b4d7e1925d9524a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2006",
+   "path": "local/neamt/roman/2006/29",
+   "short": "HCL Roman nr. 29/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/029%20HCL%202006-03%20concesiuni%20teren.pdf",
+     "sha256": "57c446715806d3c473b9feb3f40b0743a0e468e68f0ea6fd7aa2bcc091ba320a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2006",
+   "path": "local/neamt/roman/2006/30",
+   "short": "HCL Roman nr. 30/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2006 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/030%20HCL%202006-03%20documentatii%20urbanism.pdf",
+     "sha256": "395670cb1ae44140557115f326b74eaa62726df816fe9f086d74448ce59724cc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-31-2006",
    "path": "local/neamt/roman/2006/31",
    "short": "HCL Roman nr. 31/2006",
@@ -44,6 +389,261 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/031%20HCL%202006-03%20modif%20HCL%2049_2003%20si%20HCL%2030_2005.pdf",
      "sha256": "27258f849223df3e73d667456cacd248cc7d745a88c15b0a43a627bec8f481d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-33-2006",
+   "path": "local/neamt/roman/2006/33",
+   "short": "HCL Roman nr. 33/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 33/2006 Nr. 33 din 31.03.2006 Privind modificarea HCL nr. 51/26.05.2005 privind aprobarea concesionării serviciilor regulate de transport public local de călători",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/033%20HCL%202006-03%20Modif%20HCL%2051_2005.pdf",
+     "sha256": "3b807467ab9f417fbda66df2f13e197d370d989a295b177e4a15b3ad4cf1aa78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2006",
+   "path": "local/neamt/roman/2006/34",
+   "short": "HCL Roman nr. 34/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2006 Privind aprobarea criteriilor pentru stabilirea ordinii de prioritate în solutionarea cererilor de locuinta si în repartizarea locuintelor pentru tineri, destinate închirierii si a punctajelor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/034%20HCL%202006-03%20aprobare%20criterii%20locuinte.pdf",
+     "sha256": "0deafe06e281c34c543f17fd8f609c7598d640eae9e51a426d46dfa43b4bf887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2006",
+   "path": "local/neamt/roman/2006/36",
+   "short": "HCL Roman nr. 36/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2006 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/036%20HCL%202006-03%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "63de9475b70fb1b5876f3a74a5ff0750632bff8bd1e0bf8fdad0a7aa9512ea16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2006",
+   "path": "local/neamt/roman/2006/37",
+   "short": "HCL Roman nr. 37/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0644ec36d5beff568df4937c1570bc391259a8bfb7d20e69ad48d54142b0e47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2006",
+   "path": "local/neamt/roman/2006/38",
+   "short": "HCL Roman nr. 38/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/038%20HCL%202006-03%20modificare%20buget.pdf",
+     "sha256": "51a6b490bcae725ff809685d6188f80dd1eeb374cd70d7ef665fd5e4e8ff04c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2006",
+   "path": "local/neamt/roman/2006/39",
+   "short": "HCL Roman nr. 39/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "86bf9585acfdc975a201a5db113c05425b3399805321d4f086d68c852659c701"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2006",
+   "path": "local/neamt/roman/2006/4",
+   "short": "HCL Roman nr. 4/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2006 Privind aprobarea bugetului local pentru anul 2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/004%20HCL%202006-01%20buget%202006.pdf",
+     "sha256": "a3c9f01c8abfcb1e5ae165afd250b5412aecb3080186b85c819290e9093e0715"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2006",
+   "path": "local/neamt/roman/2006/40",
+   "short": "HCL Roman nr. 40/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2006 Privind aprobarea organizarii campionatului de fotbal în sala – editia 2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/040%20HCL%202006-03%20campionat%20de%20fotbal.pdf",
+     "sha256": "333169b5744efcfb29590d38a3f492d94c3a300a2f5c2baf245bb98aa8207000"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2006",
+   "path": "local/neamt/roman/2006/41",
+   "short": "HCL Roman nr. 41/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2006 Privind aprobarea trecerii în administrarea directa a Consiliului Local Roman si vânzarii unui spatiu Partidului Democrat – Filiala Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-03-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/041%20HCL%202006-03%20vanzare%20spatiu%20PD.pdf",
+     "sha256": "cfc712eb8cc02dd05ebfb6aa48191090e9684e56b10af19b67d9647a33b73c51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2006",
+   "path": "local/neamt/roman/2006/42",
+   "short": "HCL Roman nr. 42/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2006 Privind aprobarea încheierii contractului de finantare în vederea realizarii “Planului de modernizare a Parcului Municipal Roman”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-04-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/042%20HCL%202006-04%20Aprobare%20finantare%20Parc%20Municipal.pdf",
+     "sha256": "ee1f4eabf380a81fa1bcc18cd78b03c7145ffb9f3524b7f10e90789a649765b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2006",
+   "path": "local/neamt/roman/2006/45",
+   "short": "HCL Roman nr. 45/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2006 Nr. 45 din 08.05.2006 Privind aprobarea modificării și completării Hotărârii Consiliului Local nr.106/14.11.2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-08",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/045%20HCL%202006-05%20modif%20HCL%20106_2005.pdf",
+     "sha256": "34426b55e1675319328d09170f46f60e1b6604215b403701f1ae9a20dc65aeb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2006",
+   "path": "local/neamt/roman/2006/46",
+   "short": "HCL Roman nr. 46/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2006 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-08",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/046%20HCL%202006-05%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "5e2d66472883871fff9b2aa7027b0d9dbeb1780a38f607ef1eb6a063cf9861d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2006",
+   "path": "local/neamt/roman/2006/47",
+   "short": "HCL Roman nr. 47/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/047%20HCL%202006-05%20concesiuni%20teren.pdf",
+     "sha256": "c98366c248d89a1fa61ef9a070f0b5416581a7a70384a9fe69e1841382c64d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2006",
+   "path": "local/neamt/roman/2006/48",
+   "short": "HCL Roman nr. 48/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2006 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/048%20HCL%202006-05%20documentatii%20urbanism.pdf",
+     "sha256": "da2ee3cc7445e05528b5e1f574f982624ed7e2967be2fc03eaa6750eeacfe566"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2006",
+   "path": "local/neamt/roman/2006/49",
+   "short": "HCL Roman nr. 49/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/049%20HCL%202006-05%20modificare%20buget.pdf",
+     "sha256": "90191250f16b41a780d84329c63a802df1cd4907d8c8c650192240893cf27606"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2006",
+   "path": "local/neamt/roman/2006/5",
+   "short": "HCL Roman nr. 5/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/005%20HCL%202006-01%20modif%20organigrama.pdf",
+     "sha256": "50b8b39b487a7647f10822a0877d70d494ebd45d0468d31b13939cc21f59b9ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2006",
+   "path": "local/neamt/roman/2006/51",
+   "short": "HCL Roman nr. 51/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6e1b2c2d3bf36d57d1c67bf18a90077905fabf2e2ec997169405f2d310fe4455"
     }
    ]
   },
@@ -63,6 +663,186 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-53-2006",
+   "path": "local/neamt/roman/2006/53",
+   "short": "HCL Roman nr. 53/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2006 Privind închiderea Parcului Zoologic din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/053%20HCL%202006-05%20Inchidere%20Parc%20Zoo.pdf",
+     "sha256": "1207c1d7cb3755a53ea2100754930ee65692cfb497420ee53c54a402a2cee879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2006",
+   "path": "local/neamt/roman/2006/54",
+   "short": "HCL Roman nr. 54/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2006 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/054%20HCL%202006-05%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "2edfa07dd486a513952fa8721a0e5f61b1fbdbf3c708373c127b80673c5998da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2006",
+   "path": "local/neamt/roman/2006/56",
+   "short": "HCL Roman nr. 56/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2006 Nr. 56 din 25.05.2006 privind trecerea din domeniul public în domeniul privat al municipiului Roman a unor imobile revendicate în temeiul Legii nr. 10/2001 privind regimul juridic al unor imobile preluate abuziv de către stat în perioada 1945-1989",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-05-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/056%20HCL%202006-05%20trecere%20in%20privat%20revendicari.pdf",
+     "sha256": "355cacae2694f7b1664a585475fb67e6c73a4028f849e6f6b0488ae3e3c1475c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2006",
+   "path": "local/neamt/roman/2006/58",
+   "short": "HCL Roman nr. 58/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2006 Privind aprobarea încheierii unui Acord de Parteneriat",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/058%20HCL%202006-06%20acord%20parteneriat%20reabilitare%20scoli.pdf",
+     "sha256": "a523b3f8d82993b15a017a6ce4691b293a597f67e3bf54354fdbde8d263984ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2006",
+   "path": "local/neamt/roman/2006/60",
+   "short": "HCL Roman nr. 60/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-13",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/060%20HCL%202006-06%20modificare%20buget.pdf",
+     "sha256": "e97e67e3de4005142f081b5ea0dce4cdc3f7c0317c9a958b228313f668214b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2006",
+   "path": "local/neamt/roman/2006/61",
+   "short": "HCL Roman nr. 61/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2006 Privind constarea încetarii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/061%20HCL%202006-06%20incetare%20mandat.pdf",
+     "sha256": "aee568dea9171fe3d618a7797db384bcca6916dab5669d69c942486fd07b7a4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2006",
+   "path": "local/neamt/roman/2006/62",
+   "short": "HCL Roman nr. 62/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2006 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-19",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/062%20HCL%202006-06%20validare%20mandat.pdf",
+     "sha256": "514a3a4454e47f62f4e87af35c1217420391a9a01469ca093ff4fcb1aefdd68c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2006",
+   "path": "local/neamt/roman/2006/63",
+   "short": "HCL Roman nr. 63/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-06-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d0028df32b4d2dd2341c522606529017caa37925a122486156add747a84a7ce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2006",
+   "path": "local/neamt/roman/2006/64",
+   "short": "HCL Roman nr. 64/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2006 Privind aprobarea mutarii sectiei PSIHIATRIE a Spitalului municipal Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/064%20HCL%202006-06%20mutare%20Psihiatrie.pdf",
+     "sha256": "f1f93c64be071a71c970d1c6b272726e99a2b02e126b2ca8c1209398dcd6220c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2006",
+   "path": "local/neamt/roman/2006/65",
+   "short": "HCL Roman nr. 65/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/065%20HCL%202006-06%20concesiuni%20teren.pdf",
+     "sha256": "4a1445cdfab7bfb12f15cd944e367a7f4d16ca12c631201f74f0523f030fb938"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2006",
+   "path": "local/neamt/roman/2006/66",
+   "short": "HCL Roman nr. 66/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2006 Privind aprobarea închirierii unui imobil catre Agentia de Plati si Interventie în Agricultura Neamt",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/066%20HCL%202006-06%20transmitere%20imobil%20APIA%20Neamt.pdf",
+     "sha256": "3079804032897b853c51df58c5291d3763cc2c660db1cfb14b112bffe9e021a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2006",
+   "path": "local/neamt/roman/2006/68",
+   "short": "HCL Roman nr. 68/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2006 Privind aprobarea situatiilor deosebite pentru care se pot acorda ajutoare de urgenta",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/068%20HCL%202006-06%20criterii%20ajutoare%20de%20urgenta.pdf",
+     "sha256": "e27cc79616869b6f49af0e55d8d3365e7dc6f81caaa6832c3877874a5133821c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-69-2006",
    "path": "local/neamt/roman/2006/69",
    "short": "HCL Roman nr. 69/2006",
@@ -78,6 +858,216 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-70-2006",
+   "path": "local/neamt/roman/2006/70",
+   "short": "HCL Roman nr. 70/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2006 Privind numirea a doi reprezentanti în Consiliul Consultativ al Spitalului Municipal Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/070%20HCL%202006-06%20reprezentanti%20C%20A%20spital.pdf",
+     "sha256": "d2146cba2b68beab622b3641c4cb5ef319b8cc304a893b062abcf1dbc167cde9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2006",
+   "path": "local/neamt/roman/2006/71",
+   "short": "HCL Roman nr. 71/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/071%20HCL%202006-06%20modificare%20buget.pdf",
+     "sha256": "8bccda345848ddc4e92df9037822d48ac93415e0ea0eec446e057687e6af001b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2006",
+   "path": "local/neamt/roman/2006/72",
+   "short": "HCL Roman nr. 72/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2006 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-06-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/072%20HCL%202006-06%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "dd4ad92afe784058fc854872807ad565cf97b97d7884e26a20cbe12f94620b61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2006",
+   "path": "local/neamt/roman/2006/73",
+   "short": "HCL Roman nr. 73/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/073%20HCL%202006-07%20concesiuni%20teren.pdf",
+     "sha256": "096a6cfc6626e7f589ab2daaa113f54a817e761a73cbd7324c3ffb3bfacec5c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2006",
+   "path": "local/neamt/roman/2006/74",
+   "short": "HCL Roman nr. 74/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2006 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/074%20HCL%202006-07%20documentatii%20urbanism.pdf",
+     "sha256": "829c90897adaec3436cfe46b2567bc3f89c456426b02ff7ec7bee40169dae2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2006",
+   "path": "local/neamt/roman/2006/75",
+   "short": "HCL Roman nr. 75/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2006 Privind aprobarea efectuarii unui schimb de terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/075%20HCL%202006-07%20schim%20de%20teren.pdf",
+     "sha256": "f89baec83d8b863198ec84430672e91cac854a3a5be7bc9d761c170103e76b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2006",
+   "path": "local/neamt/roman/2006/78",
+   "short": "HCL Roman nr. 78/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a40a306e245b65e18be17a99fedf11a2874ebffba35e9067dc2dcdffdef67597"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2006",
+   "path": "local/neamt/roman/2006/80",
+   "short": "HCL Roman nr. 80/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2006 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/080%20HCL%202006-07%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "a648a22746006bdf4f9b6eef0f55f72e7a195f1d95a5de942c8c0e7a9ec7c819"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2006",
+   "path": "local/neamt/roman/2006/81",
+   "short": "HCL Roman nr. 81/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/081%20HCL%202006-07%20modificare%20buget.pdf",
+     "sha256": "3e390f514b0c40940bfb66db68a50e896f0d7e9486ebf6f937055131d7686f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2006",
+   "path": "local/neamt/roman/2006/82",
+   "short": "HCL Roman nr. 82/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/082%20HCL%202006-09%20concesiuni.pdf",
+     "sha256": "b732cb18fdaf2b8b573381420ce1edbec9fc3df3f10bfe7e1d129cb313ddcdf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2006",
+   "path": "local/neamt/roman/2006/83",
+   "short": "HCL Roman nr. 83/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2006 Privind aprobarea închirierii unor locatii pentru publicitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/083%20HCL%202006-09%20inchirieri%20locatii%20publicitate.pdf",
+     "sha256": "9d4fe4c8b5d6687b69037b94e0b335f20641d1bed7672705061adf4721ebc8fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2006",
+   "path": "local/neamt/roman/2006/84",
+   "short": "HCL Roman nr. 84/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2006 Privind aprobarea solicitarii transmiterii unor bunuri din domeniul public al judetului Neamt în domeniul public al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/084%20HCL%202006-09%20transmitere%20domeniu%20public%20conducte%20apa.pdf",
+     "sha256": "872a297622bf2115340996ee127e1537346031fa782dfeee03c9b5e90e566204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2006",
+   "path": "local/neamt/roman/2006/86",
+   "short": "HCL Roman nr. 86/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2006 Privind aprobarea alocarii din bugetul local a sumelor necesare pentru acoperirea cheltuielilor Asociatiei „Roman 2000”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/086%20HCL%202006-09%20%20cheltuieli%20BCC.pdf",
+     "sha256": "3a6d4cab65407908a135772e33d388b23a424153b1e144e4099de76f54700cbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2006",
+   "path": "local/neamt/roman/2006/87",
+   "short": "HCL Roman nr. 87/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2006 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/087%20HCL%202006-09%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "2307130495a782674b2ed0b201e97af8957c34329bb191dcba7d9eec6da9f672"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-88-2006",
    "path": "local/neamt/roman/2006/88",
    "short": "HCL Roman nr. 88/2006",
@@ -89,6 +1079,156 @@
      "units": 4,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/088%20HCL%202006-09%20%20taxa%20speciala%20stare%20civila.pdf",
      "sha256": "b39be78be0fed68d5f6bbb605fd7610f8f6841485edd5c717f3027d11f565d00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-90-2006",
+   "path": "local/neamt/roman/2006/90",
+   "short": "HCL Roman nr. 90/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 90/2006 Privind aprobarea alocarii din bugetul local, pentru anul 2007, a fondurilor necesare asigurarii pazei centralelor termice date în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/090%20HCL%202006-09%20cheltuieli%20paza%20centrale.pdf",
+     "sha256": "088f34de494950255957dda900ec6490a770e8606819c27aebdf191943e03856"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-91-2006",
+   "path": "local/neamt/roman/2006/91",
+   "short": "HCL Roman nr. 91/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 91/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a2b252a5afdc03f53aebe1fce52b84e0ff954dc6a0c8ec679fca3ca8c5e55d40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2006",
+   "path": "local/neamt/roman/2006/92",
+   "short": "HCL Roman nr. 92/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2006 Privind modificarea bugetului local si utilizarea unei sume din fondul de rulment",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/092%20HCL%202006-10%20modificare%20buget.pdf",
+     "sha256": "f6bb8eefec40a709303b828da2203d2124cc92917acb37d7179c150ac96bad17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-93-2006",
+   "path": "local/neamt/roman/2006/93",
+   "short": "HCL Roman nr. 93/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 93/2006 Privind aprobarea pretului local de facturare a energiei termice furnizata populatiei în sistem centralizat în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/093%20HCL%202006-10%20pret%20gigacalorie.pdf",
+     "sha256": "1ad1e5e617d553a6bd1bf88798cab8b906f52c141dc9e71d4e973d7be92905df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2006",
+   "path": "local/neamt/roman/2006/94",
+   "short": "HCL Roman nr. 94/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2006 Pentru aprobarea Studiului de Fezabilitate privind modernizarea strazii Anton Pann",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/094%20HCL%202006-10%20studiu%20de%20fezabilitate%20a%20A%20Pann.pdf",
+     "sha256": "f21b16aa5b92f686f988513cd107eee02b9fa1cf3a8c2bba5df5dde21855939c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2006",
+   "path": "local/neamt/roman/2006/95",
+   "short": "HCL Roman nr. 95/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/095%20HCL%202006-10%20modificare%20HCL%2042%20din%202005.pdf",
+     "sha256": "892a03bfe7fe75793a9ff005d7b2cd1499ac509a70e7d235e68546e551c97fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2006",
+   "path": "local/neamt/roman/2006/96",
+   "short": "HCL Roman nr. 96/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2006",
+   "url": null,
+   "versions": [
+    {
+     "from": "2006-10-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5c78909983ebaee7157976778b2bd6e1f4014ff0696957cd9d2cf809df506c26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-97-2006",
+   "path": "local/neamt/roman/2006/97",
+   "short": "HCL Roman nr. 97/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2006 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/097%20HCL%202006-10%20concesiuni.pdf",
+     "sha256": "8a7feb286fbe62515cfb6b4a65cc523965ff165e4c57517a93f696b361b7abd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2006",
+   "path": "local/neamt/roman/2006/98",
+   "short": "HCL Roman nr. 98/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2006 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/098%20HCL%202006-10%20documentatii%20urbanism.pdf",
+     "sha256": "a050d0570ff789f4385bd2cb4b31e0ea245ad47a2abff16cdf758919e35536ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2006",
+   "path": "local/neamt/roman/2006/99",
+   "short": "HCL Roman nr. 99/2006",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2006 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2006/",
+   "versions": [
+    {
+     "from": "2006-10-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2006/099%20HCL%202006-10%20modificare%20buget.pdf",
+     "sha256": "e720db4f32ae784b443afa255400a495506db91a80e396bc706832e740b9ad92"
     }
    ]
   }

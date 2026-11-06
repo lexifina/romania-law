@@ -3,6 +3,66 @@
  "shard": "local/neamt/roman/2008",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2008",
+   "path": "local/neamt/roman/2008/1",
+   "short": "HCL Roman nr. 1/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2008 Privind acordarea unui mandat special",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/001%20HCL%202008-01%20Reprezentare%20CLR%20in%20CA%20Aqua%20NT.pdf",
+     "sha256": "9b7a1ead470b7e1b1e236f70e2ca4012bc02c8744960a4c049dcc5b9db9fce1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-10-2008",
+   "path": "local/neamt/roman/2008/10",
+   "short": "HCL Roman nr. 10/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/010%20HCL%202008-01%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "3b3a79a8a29cd9a9991b9ecd4a124c30ebebcd433a9f1fa367d48f1e00f24015"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-100-2008",
+   "path": "local/neamt/roman/2008/100",
+   "short": "HCL Roman nr. 100/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 100/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/100%20HCL%202008-08%20transmitere%20ANL%20in%20domeniul%20%20public%20al%20statului.pdf",
+     "sha256": "e9d0f26af2121426cfae399cdb7e6c93456123200b31df8a9ba15a194f5e54a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-102-2008",
+   "path": "local/neamt/roman/2008/102",
+   "short": "HCL Roman nr. 102/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 102/2008 Privind externalizarea unui serviciu nemedical",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/102%20HCL%202008-08%20externalizare%20spalatorie%20spital.pdf",
+     "sha256": "47d134c8dee7bf465d9af979e33072c87b26b1dffdef864071b2c0c8ef7ad203"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-104-2008",
    "path": "local/neamt/roman/2008/104",
    "short": "HCL Roman nr. 104/2008",
@@ -14,6 +74,681 @@
      "units": 4,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/104%20HCL%202008-08%20aprobare%20tarife%20terenuri%20de%20sport.pdf",
      "sha256": "97d9c49a2f67590e7aca3f8d519c428ba2b99497421f071cd5dc6f0bc5ce1dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-105-2008",
+   "path": "local/neamt/roman/2008/105",
+   "short": "HCL Roman nr. 105/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 105/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/105%20HCL%202008-08%20aprobare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "91ac446940b8861955661cd1eb6a705dda0418b8554aacfb12af1dd33e606dd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-106-2008",
+   "path": "local/neamt/roman/2008/106",
+   "short": "HCL Roman nr. 106/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": "99ddc98389a00c591078740096f5d1dcd246935515ac5fefb5ff8a751aad236b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2008",
+   "path": "local/neamt/roman/2008/107",
+   "short": "HCL Roman nr. 107/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/107%20HCL%202008-08%20participare%20CLR%20la%20APASERV.pdf",
+     "sha256": "ca9522c6d68c5d9c561af672517b26f80ad8ab202a5f4afa8d6b3d5b67122a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2008",
+   "path": "local/neamt/roman/2008/11",
+   "short": "HCL Roman nr. 11/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2008 Privind bugetului general consolidat pe anul 2008 ºi a listelor de investiþii din bugetul local ºi din fondul de rulment",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/011%20HCL%202008-01%20aprobare%20buget%20si%20fond%20rulment.pdf",
+     "sha256": "6580d28887ff4f3aede0f66805d190b4465ae1434c58f8450e1ea07ebb44b0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-111-2008",
+   "path": "local/neamt/roman/2008/111",
+   "short": "HCL Roman nr. 111/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 111/2008 Privind acordarea unui mandat special",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/111%20HCL%202008-08%20mandat%20special.pdf",
+     "sha256": "f6b98f0d814f06721941388f41cee2d63a28540c43edbdeb3d66c4e680d3e0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-112-2008",
+   "path": "local/neamt/roman/2008/112",
+   "short": "HCL Roman nr. 112/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 112/2008 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/112%20HCL%202008-09%20incetare%20mandat.pdf",
+     "sha256": "8289c7622fc2f27e7895fb1c140011e759bcfafbaf94ad707b760188037522f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-113-2008",
+   "path": "local/neamt/roman/2008/113",
+   "short": "HCL Roman nr. 113/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/113%20HCL%202008-09%20validare%20mandat.pdf",
+     "sha256": "0c63e1639a3b18e1afb1975f912c7a9d58b04a399b4e20e02ba36f12f51d1eaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2008",
+   "path": "local/neamt/roman/2008/114",
+   "short": "HCL Roman nr. 114/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2008 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/114%20HCL%202008-09%20incetare%20mandat.pdf",
+     "sha256": "712a035c4a02788595426a71fb4d001b92eb2858b51c8ce9daca83957d8a992b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2008",
+   "path": "local/neamt/roman/2008/115",
+   "short": "HCL Roman nr. 115/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/115%20HCL%202008-09%20validare%20mandat.pdf",
+     "sha256": "c7ab1fb40107177e7e1402d3d3c41ffaac684935c19b922d111d3e6484b5ee48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-116-2008",
+   "path": "local/neamt/roman/2008/116",
+   "short": "HCL Roman nr. 116/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 116/2008 pentru realizarea obiectivului de investiþii \"Amenajarea de spaþii verzi în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/116%20HCL%202008-09%20amenajare%20spatii%20verzi.pdf",
+     "sha256": "fc8b51ade09832be73718b81f7e7fd3de55c4c0ce28021d51441a36bc7a734ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-117-2008",
+   "path": "local/neamt/roman/2008/117",
+   "short": "HCL Roman nr. 117/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 117/2008 Privind aprobarea unei cofinan þãri (reabilitare strãzile Pãcii, Martir Cloºca ºi Alba Iulia)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/117%20HCL%202008-09%20aprobare%20cofinantare%20STR.pdf",
+     "sha256": "51fd82e965a3be4f256faff4af1fd4c1931f2a775511b47ebf0949aa12a4ff17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-118-2008",
+   "path": "local/neamt/roman/2008/118",
+   "short": "HCL Roman nr. 118/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 118/2008 Privind aprobarea unui studiu de fezabilitate (reabilitare strãzile Pãcii, Martir Cloºca ºi Alba Iulia)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/118%20HCL%202008-09%20studiu%20fezabilitate%20STR.pdf",
+     "sha256": "c1a77cda4ae3a69b7caa1e826e40a78a3f3254de519946ba617b8e1fbf5382e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-119-2008",
+   "path": "local/neamt/roman/2008/119",
+   "short": "HCL Roman nr. 119/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2008 Privind aprobarea unui acord de parteneriat",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/119%20HCL%202008-09%20acord%20parteneriat%20STR.pdf",
+     "sha256": "7471f5ee0fd0c2d24e4859938e6c6a4277fcc625a40a85bf644c6c15e1204ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-120-2008",
+   "path": "local/neamt/roman/2008/120",
+   "short": "HCL Roman nr. 120/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 120/2008 Privind aprobarea unei cofinanþãri (alimentare cu gaz metan str. Nouã)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/120%20HCL%202008-09%20aprobare%20cofinantare%20GAZ.pdf",
+     "sha256": "f2c7a9857aa4286fb391c674c90191f81750220c7ffed986c978ff1cde088b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2008",
+   "path": "local/neamt/roman/2008/121",
+   "short": "HCL Roman nr. 121/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2008 Privind aprobarea unui studiu de fezabilitate (alimentare cu gaz metan str. Nouã)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/121%20HCL%202008-09%20studiu%20fezabilitate%20GAZ.pdf",
+     "sha256": "a7c11c530cdcd90fa2910223ae6acb7ce5af712b5d4c6a221623316780bf5d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-122-2008",
+   "path": "local/neamt/roman/2008/122",
+   "short": "HCL Roman nr. 122/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 122/2008 Privind aprobarea unui acord de parteneriat (alimentare cu gaz metan str. Nouã)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/122%20HCL%202008-09%20acord%20parteneriat%20GAZ.pdf",
+     "sha256": "4c0ab7cbbff66ae1167ac18686802d107fe1306c8fa9f028e430214a8048eef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-123-2008",
+   "path": "local/neamt/roman/2008/123",
+   "short": "HCL Roman nr. 123/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 123/2008 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/123%20HCL%202008-09%20incetare%20mandat.pdf",
+     "sha256": "bbed3808671150984bd947fa978dc1734e28c6081a86893800128665b7468538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2008",
+   "path": "local/neamt/roman/2008/124",
+   "short": "HCL Roman nr. 124/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/124%20HCL%202008-09%20validare%20mandat.pdf",
+     "sha256": "ee21ea1a0329831dac68352b94746273f72f8ac9c6836045d5b10ed046262289"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-127-2008",
+   "path": "local/neamt/roman/2008/127",
+   "short": "HCL Roman nr. 127/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 127/2008 Privind aprobarea unui traseu pentru un vehicul cu tracþiune animalã special",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/127%20HCL%202008-09%20aprobare%20traseu%20caleasca.pdf",
+     "sha256": "98a29a3d36cb30a3592b28ddab6934249bccb42fc17e0a0f325a86f273f4bdaa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2008",
+   "path": "local/neamt/roman/2008/129",
+   "short": "HCL Roman nr. 129/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/129%20HCL%202008-09%20concesiuni%20teren.pdf",
+     "sha256": "96e86133457df40ba1e27ba20e8c1ce9f1ea3e6dfe808f87bc16bcb12a284ea5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2008",
+   "path": "local/neamt/roman/2008/13",
+   "short": "HCL Roman nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2008 Privind aprobarea înfiinþãrii „Asociaþiei Sportive Club Municipal Roman”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/013%20HCL%202008-01%20infiintare%20Club%20Municipal.pdf",
+     "sha256": "711090ec4167c86f2b934bc71574c1cc4da092dd54f3208c4f7fd5521e4e63e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-130-2008",
+   "path": "local/neamt/roman/2008/130",
+   "short": "HCL Roman nr. 130/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 130/2008 Privind aprobarea trecerii unui teren din domeniul public al municipiului în domeniul public al statului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/130%20HCL%202008-09%20transmitere%20teren%20Clubul%20Copiilor.pdf",
+     "sha256": "7911550d322f30c167295a7d1f3c0fb7f5e3aa29fd609a75dffabd98fa35f796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-131-2008",
+   "path": "local/neamt/roman/2008/131",
+   "short": "HCL Roman nr. 131/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 131/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/131%20HCL%202008-09%20modificare%20buget%20local.pdf",
+     "sha256": "d2475d55f2bff9a6f48c9a0f6a9519e7554d080d32d343e549ae98c664b11e19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-133-2008",
+   "path": "local/neamt/roman/2008/133",
+   "short": "HCL Roman nr. 133/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 133/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/133%20HCL%202008-09%20efectuare%20cheltuieli.pdf",
+     "sha256": "c5de5cbd5fe405e621f68ed12b0f2eb9aee645c7a7bc3385fe8009759fb39c62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2008",
+   "path": "local/neamt/roman/2008/134",
+   "short": "HCL Roman nr. 134/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2008 Nr. 134 din 18.09.2008 privind aprobarea modificării Hotărârii Consiliului Local nr. 110 din 28.11.2002",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/134%20HCL%202008-09%20comisie%20licitatii.pdf",
+     "sha256": "ea562ed95fd3f0dc77b58e5f838fb5d08494e5db939bc1fc06c3a0195200744d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2008",
+   "path": "local/neamt/roman/2008/135",
+   "short": "HCL Roman nr. 135/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2008 Privind încheierea unui contract de asociere",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/135%20HCL%202008-09%20contract%20asociere.pdf",
+     "sha256": "457cbbb2a31e5fad83b6b2c511b7c8636317a6bc5941a1568823539fa102a450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-14-2008",
+   "path": "local/neamt/roman/2008/14",
+   "short": "HCL Roman nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 14/2008 Privind clarificarea situaþiei juridice a unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/014%20HCL%202008-01%20clarificare%20situatie%20terenuri.pdf",
+     "sha256": "7d59ed092faf6be504cf68900a6280c924623d2418fbc04165579f421b18a3a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-140-2008",
+   "path": "local/neamt/roman/2008/140",
+   "short": "HCL Roman nr. 140/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2008 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/140%20HCL%202008-09%20inventar%20%20domeniu%20privat.pdf",
+     "sha256": "78fc158cb000a303bc009e718949635439ba9638f8524ef37d4adf8ad6ce8bbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-141-2008",
+   "path": "local/neamt/roman/2008/141",
+   "short": "HCL Roman nr. 141/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 141/2008 Privind încheierea unui contract de asociere în participaþiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/141%20HCL%202008-09%20asociere%20Codec%20Spat.pdf",
+     "sha256": "c1c2a9f327f8970de5bca1f7ea76830c37940198d27d2dab7a39b6dd016a0174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2008",
+   "path": "local/neamt/roman/2008/143",
+   "short": "HCL Roman nr. 143/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/143%20HCL%202008-09%20documentatii%20urbanism.pdf",
+     "sha256": "5ad4c2c3d5d561778e3667478c9f44a4684d0ebed2c937ae2fdcba36d8c244c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-144-2008",
+   "path": "local/neamt/roman/2008/144",
+   "short": "HCL Roman nr. 144/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 144/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/144%20HCL%202008-09%20completare%20HCL%2045%20din%201999%20Seminar.pdf",
+     "sha256": "3e1a47a01d5786a150be2a72194c9312982ce1f4f05bdc46d83bcfbda1271a6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2008",
+   "path": "local/neamt/roman/2008/146",
+   "short": "HCL Roman nr. 146/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2008 Privind aprobare unor studii de fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/146%20HCL%202008-09%20studii%20de%20fezabilitate.pdf",
+     "sha256": "0d5b9dd15183af1883b15fb334772f76caea70c45ed47848e835d84b4d77b296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2008",
+   "path": "local/neamt/roman/2008/147",
+   "short": "HCL Roman nr. 147/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/147%20HCL%202008-09%20efectuare%20cheltuieli.pdf",
+     "sha256": "1a45179fe88b4fe800150a7f1b20a165ac1aa712951fdca36b66c37509bacc52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2008",
+   "path": "local/neamt/roman/2008/148",
+   "short": "HCL Roman nr. 148/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2008 Privind aprobarea unui Acord de parteneriat între",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/148%20HCL%202008-09%20acord%20parteneriat.pdf",
+     "sha256": "7b3cd9a3e1ff454f9802ba58e2c9aa65e0e5c92df7f32c04b1b657cc8001b833"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2008",
+   "path": "local/neamt/roman/2008/149",
+   "short": "HCL Roman nr. 149/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2008 Privind solicitarea trecerii unui imobil aflat în proprietatea statului în administrarea directã a Consiliului Local Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/149%20HCL%202008-09%20solicitare%20stat%20imobil.pdf",
+     "sha256": "02d27144e556abcfefc4f6d3fc17dcfd165d108388810eb63463f5277949c7e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2008",
+   "path": "local/neamt/roman/2008/15",
+   "short": "HCL Roman nr. 15/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/015%20HCL%202008-02%20documentatii%20urbanism.pdf",
+     "sha256": "447bf9f7c197c52448ba639d79d5a920797690542c054ee45ca782d73d2d7e92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2008",
+   "path": "local/neamt/roman/2008/150",
+   "short": "HCL Roman nr. 150/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2008 Privind solicitarea trecerii unui imobil aflat în proprietatea publicã a Judeþului Neamþ, în proprietatea municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/150%20HCL%202008-09%20solicitare%20prefectura%20imobil.pdf",
+     "sha256": "c65b5da60309839241dbb76338de59e1f33476a46eeea4f04fc0a59aaaa5ea61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2008",
+   "path": "local/neamt/roman/2008/154",
+   "short": "HCL Roman nr. 154/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2008 Privind aprobarea unei cofinanþãri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/154%20HCL%202008-10%20aprobare%20cofinanta.pdf",
+     "sha256": "9d55bc671d475963cbd7ceeb09a37197165efc92d0d8501bcf72322644b84b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2008",
+   "path": "local/neamt/roman/2008/156",
+   "short": "HCL Roman nr. 156/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/156%20HCL%202008-10%20documentatii%20urban.pdf",
+     "sha256": "f6c7d1056db7a92795ef10743926c72855bcff4976644c7e36d3de218ae59b77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2008",
+   "path": "local/neamt/roman/2008/157",
+   "short": "HCL Roman nr. 157/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/157%20HCL%202008-10%20concesiuni%20terenur.pdf",
+     "sha256": "680fc9b8d06d994f7291219697fcfc3430f266711abbdc9b2e8f85edb3b8de48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-158-2008",
+   "path": "local/neamt/roman/2008/158",
+   "short": "HCL Roman nr. 158/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 158/2008 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/158%20HCL%202008-10%20inventar%20domeniu%20p.pdf",
+     "sha256": "a430f0ee83420f13da69fc0f169e0211f2a8b8c20517b499c4115370d8580524"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2008",
+   "path": "local/neamt/roman/2008/159",
+   "short": "HCL Roman nr. 159/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/159%20HCL%202008-10%20modificare%20buget%20l.pdf",
+     "sha256": "f7ce8550d0b91c62e954798e6f7fa588b12de9880c08cc8bb139c3e777421fd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2008",
+   "path": "local/neamt/roman/2008/16",
+   "short": "HCL Roman nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2008 Privind modificarea duratei unui contract de concesiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/016%20HCL%202008-02%20modificare%20durata%20concesiune.pdf",
+     "sha256": "0d19a4814c31bf650c6ac9a6f4f401af59fb60906e0d9cbe6badfa9c9217e3ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2008",
+   "path": "local/neamt/roman/2008/160",
+   "short": "HCL Roman nr. 160/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2008 Privind aprobarea unui studiu de fezabilitate pentru \"Adapost pentru gestionarea câinilor fãrã stãpân\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/160%20HCL%202008-10%20studiu%20de%20fezabili.pdf",
+     "sha256": "20da2e04640f3c9211af013be47e587b83af540dfe40f4a6fc25af70b7ad656d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2008",
+   "path": "local/neamt/roman/2008/162",
+   "short": "HCL Roman nr. 162/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2008 Privind aprobarea îndreptãrii unei erori materiale",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/162%20HCL%202008-10%20indreptare%20eroare.pdf",
+     "sha256": "a559eb71b3602887a5f7f34c1c2ef13e7c874bd2f23743ff0f161d2647c2f384"
     }
    ]
   },
@@ -33,6 +768,111 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-164-2008",
+   "path": "local/neamt/roman/2008/164",
+   "short": "HCL Roman nr. 164/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2008 Privind aprobarea unei cofinanþãri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/164%20HCL%202008-11%20Aprobare%20cofinantare%20Sistem%20informatic.pdf",
+     "sha256": "7b0d0238c963e0abddbd6f3570e1197025ece9fc895a497f87958db20c25f133"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2008",
+   "path": "local/neamt/roman/2008/166",
+   "short": "HCL Roman nr. 166/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2008 Privind aprobarea studiului de fezabilitate pentru construire locuinþe sociale în strada Islazului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/166%20HCL%202008-11%20Studiu%20fezabilitat.pdf",
+     "sha256": "9b5a7910772057274dfca746828dd6ef8c16e7322da1425ee2018ed0565bde13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2008",
+   "path": "local/neamt/roman/2008/167",
+   "short": "HCL Roman nr. 167/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2008 Privind aprobarea studiului de fezabilitate pentru construire locuinþe sociale în strada Primãverii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/167%20HCL%202008-11%20Studiu%20fezabilitat.pdf",
+     "sha256": "4ee185559955fc15665f1b127ae98b7e22aab1d42370c26e1db8571848cb7b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-168-2008",
+   "path": "local/neamt/roman/2008/168",
+   "short": "HCL Roman nr. 168/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 168/2008 Privind aprobarea Documentatiei de avizare a lucrarilor de interventie - „Amenajare E85, sector Roman-Musat – Nicolae Titulescu - Rahovei – parcari, spații verzi, mobilier urban – Municipiul Roman” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinand expunerea de motive nr. 19571 din 13.11.2008 inițiată de prof. Laurențiu-Dan Leoreanu și întocmită de Direcția Tehnică; Văzând avizul favorabil nr. 58 din",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/168%20HCL%202008-11%20documentatie%20amena.pdf",
+     "sha256": "b95a6936020e1e7b91ddfe09b100c1a04af96ee93f2c2afd9c7740928bca2b79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-169-2008",
+   "path": "local/neamt/roman/2008/169",
+   "short": "HCL Roman nr. 169/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/169%20HCL%202008-11%20Efectuare%20cheltuie.pdf",
+     "sha256": "06b89bec0101e4f65b3742ab07622d62763bb6860fa216f16e13eb29db1e9025"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-17-2008",
+   "path": "local/neamt/roman/2008/17",
+   "short": "HCL Roman nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 17/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/017%20HCL%202008-02%20scutire%20IT%202008.pdf",
+     "sha256": "f80e73965787b5512c3aafb452164a372e3f7bd7daf745155f719b445b09d31f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-170-2008",
+   "path": "local/neamt/roman/2008/170",
+   "short": "HCL Roman nr. 170/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2008 Privind modificarea bugetului local pe anul 2008 ºi a listelor de investiþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/170%20HCL%202008-03%20modificare%20buget%20l.pdf",
+     "sha256": "89f56349743baf9ca4ec103cf9ce021bd606ac80bf24745c7a06b615f21ee17a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-172-2008",
    "path": "local/neamt/roman/2008/172",
    "short": "HCL Roman nr. 172/2008",
@@ -44,6 +884,126 @@
      "units": 4,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/172%20HCL%202008-11%20criterii%20administr.pdf",
      "sha256": "b72f62cc53ad027ddaebf6ae7b64dc968d913b59b44e876cb07bfac9351a5b2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-174-2008",
+   "path": "local/neamt/roman/2008/174",
+   "short": "HCL Roman nr. 174/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 174/2008 Privind modificarea listei cu obiectivele de investiþii ce se vor finanþa din împrumut",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/174%20HCL%202008-12%20modificare%20lista%20imprumut.pdf",
+     "sha256": "1a22bb52a07ee81acf7e098d1e91f3dbf2ea7f58013de1e00d16f35b1f6f1f70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-176-2008",
+   "path": "local/neamt/roman/2008/176",
+   "short": "HCL Roman nr. 176/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 176/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/176%20HCL%202008-12%20reducere%20IT%202009.pdf",
+     "sha256": "f0a9d4ec0366846abe4e4a62450a287da7b09e8c6eb495d091b61afe06084b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-177-2008",
+   "path": "local/neamt/roman/2008/177",
+   "short": "HCL Roman nr. 177/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 177/2008 Privind aprobarea proiectului de Stemă a municipiului Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 20894 din 08.12.2008 inițiată de prof. Laurențiu-Dan Leoreanu – Primarul municipiului Roman și întocmită de arhitect Ana-Maria Alexe, precum și raportul de specialitate nr. 20895 din 08.12.2008 întocmit de Aparatul Permanent de Lucru al Consiliului Local Roman; Văzând",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/177%20HCL%20200-12%20aprobare%20Stema%20Roman.pdf",
+     "sha256": "eb80dd13f167651d2b8bb619615f396bfd43e106f111bc13ab1ba724176e27e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-178-2008",
+   "path": "local/neamt/roman/2008/178",
+   "short": "HCL Roman nr. 178/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 178/2008 Privind reorganizarea Serviciului Voluntar pentru Situaþii de Urgenþã al Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/178%20HCL%202008-12%20reorganizare%20SVSU.pdf",
+     "sha256": "e90840f6be80f3dc3cb1c4e2461571f4c7c79fa772de3800f7e6099e089f3bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-179-2008",
+   "path": "local/neamt/roman/2008/179",
+   "short": "HCL Roman nr. 179/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 179/2008 Privind aprobarea trecerii din domeniul public în domeniul privat al municipiului ºi casarea unei conducte termice",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/179%20HCL%202008-12%20casare%20conducta.pdf",
+     "sha256": "0ea43dfc92134942f50f1a84f308c1ecbc163b0ef9f8614633254522eee935ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-180-2008",
+   "path": "local/neamt/roman/2008/180",
+   "short": "HCL Roman nr. 180/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 180/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/180%20HCL%202008-12%20documentatii%20de%20urbanism.pdf",
+     "sha256": "cb4d7869192de8acb6075666ee5c473e62ba862afa7b0d00fafaa0bf530f7b66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2008",
+   "path": "local/neamt/roman/2008/181",
+   "short": "HCL Roman nr. 181/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/181%20HCL%202008-12%20concesionare%20terenuri.pdf",
+     "sha256": "84f1072fb5b07c06f0370259240e9fc60e4dd57cd4eaa023724e122d6991cb01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-182-2008",
+   "path": "local/neamt/roman/2008/182",
+   "short": "HCL Roman nr. 182/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 182/2008 Privind participarea municipiului Roman la programul SUST INNOV",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/182%20HCL%202008-12%20participare%20SUST%20INNOV.pdf",
+     "sha256": "7c3941f333452d734d23fb6b106bb7b4ef639819e0481f6db7d5c41777a48177"
     }
    ]
   },
@@ -63,6 +1023,291 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-184-2008",
+   "path": "local/neamt/roman/2008/184",
+   "short": "HCL Roman nr. 184/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 184/2008 Privind mutarea unei unitãþi de învãþãmânt preuniversitar de stat din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/184%20HCL%202008-12%20mutare%20gradinita.pdf",
+     "sha256": "d49e69544542126f02e5b0331c3e563ea698b8cfe70c3d0b28185e776c0151e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-186-2008",
+   "path": "local/neamt/roman/2008/186",
+   "short": "HCL Roman nr. 186/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 186/2008 Privind aprobarea participãrii Consiliului Local al municipiului Roman ca membru fondator la constituirea unei asociaþii sportive",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/186%20HCL%20200-12%20infiintare%20asociatie%20sportiva.pdf",
+     "sha256": "6310b130a23fe7e0ae7db18e1f14f16b99abc7e0f14b79014e531cda572509d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-188-2008",
+   "path": "local/neamt/roman/2008/188",
+   "short": "HCL Roman nr. 188/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 188/2008 Privind darea în administrare a unor bunuri cãtre S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/188%20HCL%202008-12%20dare%20in%20administrare%20bunuri%20Municipal%20Locato%20Serv.pdf",
+     "sha256": "cbab6ae0f4de5fd7ca3fbe9ca79ca6269aa546ec659a168dba32ace199a6e868"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-189-2008",
+   "path": "local/neamt/roman/2008/189",
+   "short": "HCL Roman nr. 189/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 189/2008 Privind delegarea de gestiune prin concesiune a Serviciului public de gestionare a câinilor fãrã stãpân din Municipiul Roman, cãtre S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/189%20HCL%202008-12%20delegare%20gestiune%20caini%20fara%20stapan.pdf",
+     "sha256": "396eb871c0062da12a55ecc9e5de9ffb750bc9cbae4436453967621193a5d0d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2008",
+   "path": "local/neamt/roman/2008/19",
+   "short": "HCL Roman nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2008 Privind aprobarea concesionãrii Serviciului public de administrare a cimitirelor umane din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/019%20HCL%202008-02%20concesionare%20cimitir.pdf",
+     "sha256": "beb57ac197f1c28afcd25a7028995d2c02baa269cd086d2bd4fb8a2c8861f15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-190-2008",
+   "path": "local/neamt/roman/2008/190",
+   "short": "HCL Roman nr. 190/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 190/2008 Privind delegarea de gestiune prin concesiune a Serviciului public de administrare a cimitirelor umane ºi a spaþiului locativ de pe raza municipiului Roman, cãtre S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/190%20HCL%202008-12%20delegare%20gestiune%20cimitir%20si%20fond%20locativ.pdf",
+     "sha256": "4a43822bd89f66abe4e4412911cb94c3259fd42dfb9487f846e92e27d6b7bc97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-191-2008",
+   "path": "local/neamt/roman/2008/191",
+   "short": "HCL Roman nr. 191/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 191/2008 Privind stabilirea remuneraþiei lunare a directorilor generali ai societãþilor comerciale la care Municipiul Roman are calitatea de acþionar unic sau majoritar",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/191%20HCL%202008-12%20remuneratie%20directori%20societati%20ale%20municipiului%20Roman.pdf",
+     "sha256": "61376078d0cae4a588c830f19a0a82a97da42772edda2d2abc9c5f3ac7bad394"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-192-2008",
+   "path": "local/neamt/roman/2008/192",
+   "short": "HCL Roman nr. 192/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 192/2008 Privind aprobarea Contractului cadru de furnizare / prestare a serviciului de alimentare cu apã ºi de canalizare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/192%20HCL%202008-12%20contract%20cadru%20apa.pdf",
+     "sha256": "63c09ef6e26b8fa1c3687ec7e65284707b083ec3855a3e5a6ee871aa32379dff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-193-2008",
+   "path": "local/neamt/roman/2008/193",
+   "short": "HCL Roman nr. 193/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 193/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/193%20HCL%202008-12%20modificare%20buget%20local.pdf",
+     "sha256": "1b6e4566ade4009d7b88078f7451388a084ce0aecaf17a28fdc2a3b97731bd6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-194-2008",
+   "path": "local/neamt/roman/2008/194",
+   "short": "HCL Roman nr. 194/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 194/2008 Privind aprobarea Protocolului de cooperare între Consiliul Local Roman ºi Inspectoratul de Poliþie Neamþ, pentru sistemul de siguranþã a traficului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/194%20HCL%202008-12%20protocol%20CLR%20cu%20IJP%20Neamt.pdf",
+     "sha256": "e23106ca3bc9eff0c714666600d6924e3475305417748aef7b5f9e54cc436402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2008",
+   "path": "local/neamt/roman/2008/195",
+   "short": "HCL Roman nr. 195/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2008 Privind aprobarea unei documenta",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/195%20HCL%202008-12%20aprobare%20documentatii%20urbanism%20PUZ.pdf",
+     "sha256": "24a2cdb1831d613efaeafd717885b35c748ae3fcb6d7fb6d88a1078cee839c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-196-2008",
+   "path": "local/neamt/roman/2008/196",
+   "short": "HCL Roman nr. 196/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 196/2008 Privind aprobarea \"Planului de Investiþii Prioritare Alimentare cu Apã ºi Canalizare, Judeþ Neamþ\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/196%20HCL%202008-12%20aprobare%20Plan%20de%20Investitii%20Prioritare.pdf",
+     "sha256": "66319ded21e0d224b37248cae99db16071189299dba973dcd520b80c1932152e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-198-2008",
+   "path": "local/neamt/roman/2008/198",
+   "short": "HCL Roman nr. 198/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 198/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9ed4a7e6b431017f73a3d5cbc6328f5c5aa49e3429efe9eefa688199bba1b41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2008",
+   "path": "local/neamt/roman/2008/2",
+   "short": "HCL Roman nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2008 Privind aprobarea contractului-cadru pentru vânzarea unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-11",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/002%20HCL%202008-01%20aprobare%20contract%20cadru%20teren.pdf",
+     "sha256": "1b4301f7b6d4489bf37c27bed3685acd98464d1a42aa19ee73c29050472b2ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2008",
+   "path": "local/neamt/roman/2008/21",
+   "short": "HCL Roman nr. 21/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/021%20HCL%202008-02%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "819befc5ddbc4418eab1843d287eb2bd1c2a048478cc0b9e0e7bc0a1749bf11f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2008",
+   "path": "local/neamt/roman/2008/22",
+   "short": "HCL Roman nr. 22/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2008 Privind constarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/022%20HCL%202008-02%20incetare%20mandat.pdf",
+     "sha256": "002aaca791f678df2725107af3c0b8be1d9d25f52be8191ad119733384859fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2008",
+   "path": "local/neamt/roman/2008/23",
+   "short": "HCL Roman nr. 23/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/023%20HCL%202008-02%20validare%20mandat.pdf",
+     "sha256": "ca804896658308a7ad1d5bc0e71436487f7eba23e47988d0b42a313ae48740b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2008",
+   "path": "local/neamt/roman/2008/24",
+   "short": "HCL Roman nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/024%20HCL%202008-02%20documentatii%20urbanism.pdf",
+     "sha256": "267f750b94a37faaed0d81ce3a324297b97781f2bc1d98fe9ca8d65b830f7380"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2008",
+   "path": "local/neamt/roman/2008/25",
+   "short": "HCL Roman nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/025%20HCL%202008-02%20concesiuni%20teren.pdf",
+     "sha256": "0ff3525cd149705858a88b6f186167232adc3289db4b4d4eaf7350436c814046"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-26-2008",
    "path": "local/neamt/roman/2008/26",
    "short": "HCL Roman nr. 26/2008",
@@ -74,6 +1319,111 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/026%20HCL%202008-02%20aprobarea%20unor%20tarife.pdf",
      "sha256": "4db6f83c69b7d2e84bc39b4af784288e51fd1ea6f8ab2fefb442bcd3da75f354"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2008",
+   "path": "local/neamt/roman/2008/27",
+   "short": "HCL Roman nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2008 Privind vânzarea prin licitaþie publicã a unor spaþii comerciale ºi de prestãri servicii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/027%20HCL%202008-02%20modif%20HCL%20105%20din%202002.pdf",
+     "sha256": "3995befd3dd5a97f7cd049596d366d17e74049b21ef5206e44c4d4eb32b3609b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2008",
+   "path": "local/neamt/roman/2008/28",
+   "short": "HCL Roman nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/028%20HCL%202008-02%20modificare%20HCL%2070_2004.pdf",
+     "sha256": "e7159753f794376fbbb69b91b17b21981cfa5b43241de14fe487fcacca6c518e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2008",
+   "path": "local/neamt/roman/2008/29",
+   "short": "HCL Roman nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2008 Privind aprobarea unor studii de fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/029%20HCL%202008-02%20studii%20fezabilitate.pdf",
+     "sha256": "47df6e2c44219eb684b75aeb40e4296436389315c86a50a9900f20858a4ba3cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2008",
+   "path": "local/neamt/roman/2008/3",
+   "short": "HCL Roman nr. 3/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2008 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/003%20HCL%202008-01%20incetare%20mandat.pdf",
+     "sha256": "b54f98132244208a9585e369f47239ad0cd7d727f3bacd1318cf1d953d6a59ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2008",
+   "path": "local/neamt/roman/2008/30",
+   "short": "HCL Roman nr. 30/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2008",
+   "url": null,
+   "versions": [
+    {
+     "from": "2008-02-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f87fbc62b80ec8a27ac0aa4e48d8d50873dedb4acc5d8d1a814bb9dd4e195ab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2008",
+   "path": "local/neamt/roman/2008/31",
+   "short": "HCL Roman nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2008 Privind aprobarea funcþiilor publice, organigramei, statului de funcþii ºi numãrului de personal pentru aparatul de specialitate al Primarului muncipiului Roman ºi serviciilor publice subordonate descentralizate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/031%20HCL%202008-02%20organigrama.pdf",
+     "sha256": "0e711655182cd77e61c2934277a3a8c2ca23a8757fdad08154912dc9505b3100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2008",
+   "path": "local/neamt/roman/2008/32",
+   "short": "HCL Roman nr. 32/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/032%20HCL%202008-02%20%20cheltuieli%20bug.pdf",
+     "sha256": "1399543a271793cbe411c5700b4035a16ba2f30019b266749d9d5d5a84dbcf0e"
     }
    ]
   },
@@ -93,6 +1443,261 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-34-2008",
+   "path": "local/neamt/roman/2008/34",
+   "short": "HCL Roman nr. 34/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2008 Privind desemnarea unui consilier în calitate de observator la concursul pentru ocuparea funcþiilor de director ºi director adjunct la unitãþile ºcolare din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/034%20HCL%202008-03%20desemnare%20observator.pdf",
+     "sha256": "e764bcc03d738bfa739ef0c30b6d09b57b4597f8a8f5b0321ee21b622b5aadfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2008",
+   "path": "local/neamt/roman/2008/35",
+   "short": "HCL Roman nr. 35/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2008 Privind constarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/035%20HCL%202008-03%20incetare%20mandat.pdf",
+     "sha256": "c7fc885c5c39a16dad9ba879a51d8db9ccb099128ee9d8eb33f462f2912bd57e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2008",
+   "path": "local/neamt/roman/2008/36",
+   "short": "HCL Roman nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/036%20HCL%202008-03%20validare%20mandat.pdf",
+     "sha256": "f1bd615310b7b4311f3ca948816cc1071c12591804569a85504e3d37f623ed81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2008",
+   "path": "local/neamt/roman/2008/37",
+   "short": "HCL Roman nr. 37/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2008 Privind constarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/037%20HCL%202008-03%20incetare%20mandat.pdf",
+     "sha256": "3e9955c71ac1fdfe7ea0dc42741a263cd732cb63429122da8f6467f5cb2b7585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2008",
+   "path": "local/neamt/roman/2008/38",
+   "short": "HCL Roman nr. 38/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/038%20HCL%202008-03%20validare%20mandat.pdf",
+     "sha256": "325b42eb97d8ed0e1687c96fdbcbdb35a3a4c89edd63b8c5a76a52eed2e50ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2008",
+   "path": "local/neamt/roman/2008/39",
+   "short": "HCL Roman nr. 39/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2008 Nr. 39 din 27.03.2008 privind modificarea Hotărârii nr.73 din 7.06.2007 privind aprobarea studiului de fezabilitate pentru consolidarea blocului nr.3, sc. C, D și E, str. Nicolae Titulescu, municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/039%20HCL%202008-03%20modificare%20HCL%2073%20din%202007.pdf",
+     "sha256": "a2b500823f8ef74c9dc3b928b0fc4380834b26677718eb05fd2deb75d8ca0af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2008",
+   "path": "local/neamt/roman/2008/4",
+   "short": "HCL Roman nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/004%20HCL%202008-01%20validare%20mandat.pdf",
+     "sha256": "947dd5876c32d9ba0515920d5fa866199553eb5c8033a2fea917360cf1713b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2008",
+   "path": "local/neamt/roman/2008/40",
+   "short": "HCL Roman nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/040%20HCL%202008-03%20documentatii%20urbanism.pdf",
+     "sha256": "3480d85f55f3bd516599b4851458712c77fc6d499991e25be88f8a147a1cbbeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2008",
+   "path": "local/neamt/roman/2008/41",
+   "short": "HCL Roman nr. 41/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2008 Nr. 41 din 27.03.2008 privind aprobarea completării anexei la Hotărârea Consiliului Local nr. 112/27.09.2007 privind aprobarea vânzării unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/041%20HCL%202008-03%20completare%20HCL%20112%20din%202007.pdf",
+     "sha256": "1eba04b5b9cbcd01ecd2d5e489538a9b55064c71de69156468052a4f4750dcad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2008",
+   "path": "local/neamt/roman/2008/42",
+   "short": "HCL Roman nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/042%20HCL%202008-03%20concesiuni%20teren.pdf",
+     "sha256": "9a1212d132746b0ba2fcfd758e005fa95abb23c0c272c3a6acf8bcea63635441"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2008",
+   "path": "local/neamt/roman/2008/43",
+   "short": "HCL Roman nr. 43/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/043%20HCL%202008-03%20modificare%20buget%20local.pdf",
+     "sha256": "5a3f2e8963314169d10da2ce0158a1ad954e6830431bbafee237321cccaf93e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2008",
+   "path": "local/neamt/roman/2008/44",
+   "short": "HCL Roman nr. 44/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/044%20HCL%202008-03%20%20cheltuieli%20buget.pdf",
+     "sha256": "f4cc7255906b1c36619e85991df2c59f91d67b4e3613fd717fd72a9121909c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2008",
+   "path": "local/neamt/roman/2008/45",
+   "short": "HCL Roman nr. 45/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2008 Privind aprobarea încheierii unui Contract de Asociere în Participaþiune",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/045%20HCL%202008-03%20contract%20asociere%20participatiune.pdf",
+     "sha256": "bada2e06fb3821e730779a8b264c1a54e21520ad470ce72b40739a8f0524bf28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2008",
+   "path": "local/neamt/roman/2008/46",
+   "short": "HCL Roman nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2008 Privind aprobarea încheierii unui Protocol de Colaborare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/046%20HCL%202008-03%20protocol%20de%20colaborare%20Casa%20de%20Cultura.pdf",
+     "sha256": "8f38f3f22959af8058d95eae4308472d596550bb1d04ef6b49a91a4fae4e7623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2008",
+   "path": "local/neamt/roman/2008/48",
+   "short": "HCL Roman nr. 48/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2008 Privind aprobarea organizãrii campionatului de fotbal în salã – ediþia 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/048%20HCL%202008-03%20campionat%20de%20fotbal.pdf",
+     "sha256": "48b37f5930a1d7c3e43cb4bb606a5cd976a22c47f154f7bbfff67314fd56cb52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2008",
+   "path": "local/neamt/roman/2008/49",
+   "short": "HCL Roman nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2008 Privind aprobarea documentaþiilor de concesionare pentru administrarea ºi exploatarea unor parcãri publice din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/049%20HCL%202008-03%20Concesiune%20parcari.pdf",
+     "sha256": "07846f3efe5b4f3dc827f54dc4792e1c8bcb4e03cf6c0ac75ba9f8c74c7c4880"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2008",
+   "path": "local/neamt/roman/2008/5",
+   "short": "HCL Roman nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/005%20HCL%202008-01%20concesionari%20teren.pdf",
+     "sha256": "2f85200044830b79157af64480b0cf2e0ee85ff214a12517c1f386e543c27532"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-52-2008",
    "path": "local/neamt/roman/2008/52",
    "short": "HCL Roman nr. 52/2008",
@@ -108,6 +1713,141 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-53-2008",
+   "path": "local/neamt/roman/2008/53",
+   "short": "HCL Roman nr. 53/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2008 Privind rectificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/053%20HCL%202008-04%20modificare%20buget%20local.pdf",
+     "sha256": "24eee7d26e1cfe450069a33709cc70e100a731975cd1835ba28c4df8a2d8a5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-54-2008",
+   "path": "local/neamt/roman/2008/54",
+   "short": "HCL Roman nr. 54/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2008 Privind constarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/054%20HCL%202008-04%20incetare%20mandat.pdf",
+     "sha256": "11256ea04f6f8af52d2aaae799c6148d855e2e56917a502a2bd809d9a1027d04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2008",
+   "path": "local/neamt/roman/2008/55",
+   "short": "HCL Roman nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2008 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/055%20HCL%202008-03%20validare%20mandat.pdf",
+     "sha256": "607e154411986610c16a7fec4f1e9667f9c90e98e6979636d0c7c53a84fb66d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2008",
+   "path": "local/neamt/roman/2008/56",
+   "short": "HCL Roman nr. 56/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2008 Privind aprobarea Raportului de evaluare al Comisiei de evaluare ºi atribuirea contractului de delegare a gestiunii serviciului de transport public local prin curse regulate unui operator de transport",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/056%20HCL%202008-04%20Raport%20evaluare%20operator%20transport.pdf",
+     "sha256": "fb8c5bfc57419503ebf2d035dfafa5f2320ca3ac14ec5e8a3108e176e5cd8c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2008",
+   "path": "local/neamt/roman/2008/58",
+   "short": "HCL Roman nr. 58/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/058%20HCL%202008-04%20documentatii%20urbanism.pdf",
+     "sha256": "82ce9f556d858343d685740a9661bb3b9616ae988b2f171a4323c88060a67035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2008",
+   "path": "local/neamt/roman/2008/59",
+   "short": "HCL Roman nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/059%20HCL%202008-04%20concesionari%20terenuri.pdf",
+     "sha256": "2465ad67ec73f8fc130bd2938a02449535cbeeef788e80ab0b89d812b003f08b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2008",
+   "path": "local/neamt/roman/2008/6",
+   "short": "HCL Roman nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/006%20HCL%202008-01%20documentatii%20urbanism.pdf",
+     "sha256": "3e9cf3611aeca6ef94780f071c9dfc4932d5fce57f90ebc1a90e2d7a73349874"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2008",
+   "path": "local/neamt/roman/2008/60",
+   "short": "HCL Roman nr. 60/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2008 Privind aprobarea contului de execuþie bugetarã pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/060%20HCL%202008-04%20aprobare%20cont%20executie.pdf",
+     "sha256": "9484c8fec0f396343f4d445a791b5a05988092b56d009ec70dd2453e16b5c46a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2008",
+   "path": "local/neamt/roman/2008/61",
+   "short": "HCL Roman nr. 61/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-04-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/061%20HCL%202008-04%20%20cheltuieli%20buget.pdf",
+     "sha256": "4baee6ffdf27da9b272a5d9a41a6eabf650111394164303557b11da420838fcc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-63-2008",
    "path": "local/neamt/roman/2008/63",
    "short": "HCL Roman nr. 63/2008",
@@ -119,6 +1859,381 @@
      "units": 11,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/063%20HCL%202007-04%20impozite%20si%20taxe%20locale.pdf",
      "sha256": "1cc1db4ed84dccb465202ec741c0e422239ef2c1cdef82f68d9377d762d7a96a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-64-2008",
+   "path": "local/neamt/roman/2008/64",
+   "short": "HCL Roman nr. 64/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 64/2008 Privind aprobarea trecerii unui imobil din domeniul privat în domeniul public al Municipiului Roman ºi transmiterea acestuia din domeniul public al Municipiului Roman ºi din administrarea Consiliului Local Roman, în domeniul public al statului ºi în administrarea Ministerului Agriculturii ºi Dezvolt",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/064%20HCL%202008-05%20transmitere%20teren%20APIA.pdf",
+     "sha256": "11afd4a8bf3b215350fd3e5efdd32c83521f1a80798afd4a5f34354c50742304"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-65-2008",
+   "path": "local/neamt/roman/2008/65",
+   "short": "HCL Roman nr. 65/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 65/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/065%20HCL%202008-05%20documentatii%20de%20urbanism.pdf",
+     "sha256": "7d1c3a3c97a61e54db9ace8b539f738ac4d557caf477221b63af434a141d8c02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-66-2008",
+   "path": "local/neamt/roman/2008/66",
+   "short": "HCL Roman nr. 66/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2008 Privind î nfiinþare – Parc zona ªtrand",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/066%20HCL%202008-05%20Infiintare%20PARC%20Zona%20Strand.pdf",
+     "sha256": "13a0204e50e9b19faf8c9e830770b5b78fa019978c1b5d9add44ea59b2d2c452"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2008",
+   "path": "local/neamt/roman/2008/67",
+   "short": "HCL Roman nr. 67/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2008 Privind aprobarea unor studii de fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/067%20HCL%202008-05%20aprobare%20Studii%20de%20Fezabilitate.pdf",
+     "sha256": "b3cb1f352344ac312fc03660d788611207301224cbade784606afd8dea2f9bcd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2008",
+   "path": "local/neamt/roman/2008/68",
+   "short": "HCL Roman nr. 68/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2008 Privind modificarea listei cu obiectivele de investiþii ce se vor finanþa din împrumut",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/068%20HCL%202008-05%20modificare%20lista%20investitii%20imprumut.pdf",
+     "sha256": "da0df93db7cc4e8507379c828ee6aba5f092b6ea79a33850fc31fb831ff6fabf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2008",
+   "path": "local/neamt/roman/2008/7",
+   "short": "HCL Roman nr. 7/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2008 Privind aprobarea rapoartelor de evaluare a unor terenuri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/007%20HCL%202008-01%20aprobare%20rapoarte%20evaluare.pdf",
+     "sha256": "cd9714ed71dede4f1ff295d9595bcbd2a7acfd0734834b165c362a1b49438a32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2008",
+   "path": "local/neamt/roman/2008/70",
+   "short": "HCL Roman nr. 70/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/070%20HCL%202008-03%20modificare%20buget%20local.pdf",
+     "sha256": "44f524187174580cdd600d196aad646aea14bca24cc4df7133678aa9c7a4ef91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2008",
+   "path": "local/neamt/roman/2008/71",
+   "short": "HCL Roman nr. 71/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2008 Privind alegerea comisiei de validare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/071%20HCL%202008-06%20alegerea%20comisiei%20de%20validare.pdf",
+     "sha256": "7ecff2c29db46462cd1ded0c5532cb3ba7f0b356e8d107b0df933a52f0bbe0d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2008",
+   "path": "local/neamt/roman/2008/72",
+   "short": "HCL Roman nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2008 Privind validarea alegerii consilierilor locali",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/072%20HCL%202008-06%20validarea%20consilierilor%20locali.pdf",
+     "sha256": "3c3265bc833fd7b4f70f09a1de566d9be36440b8408ee2c6be4a72a83cb7fa6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2008",
+   "path": "local/neamt/roman/2008/73",
+   "short": "HCL Roman nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2008 Privind declararea ca legal constituit",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/073%20HCL%202008-06%20declararea%20legal%20constituita%20CLR.pdf",
+     "sha256": "d67cd5c7d71e229451b594ff24ff7a0470c58b01122c817670eb062ba07cfd74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2008",
+   "path": "local/neamt/roman/2008/74",
+   "short": "HCL Roman nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2008 Privind alegerea preºedintelui de ºedinþã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/074%20HCL%202008-06%20alegerea%20presedintelui%20de%20sedinta.pdf",
+     "sha256": "4c324b02a168e928c1db854124edb3547017d8c878e659e415ba0be5e02fe106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2008",
+   "path": "local/neamt/roman/2008/75",
+   "short": "HCL Roman nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2008 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/075%20HCL%202008-07%20incetare%20mandat.pdf",
+     "sha256": "d45ddb810d6ec9261f9265b02ada8822d556336ffabfa7d6febd5eaa81761503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2008",
+   "path": "local/neamt/roman/2008/76",
+   "short": "HCL Roman nr. 76/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2008 Privind validarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/076%20HCL%202008-07%20validare%20mandat.pdf",
+     "sha256": "ef766791595561bb24f56b7e5ce696f94c9a3ec98fa80639edd6eed1d64dd0a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2008",
+   "path": "local/neamt/roman/2008/77",
+   "short": "HCL Roman nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2008 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/077%20HCL%202008-07%20incetare%20mandat.pdf",
+     "sha256": "e025c08a4973e229ba098f86b5994a9f957f18676b8eecdba4dbed85b515691c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2008",
+   "path": "local/neamt/roman/2008/78",
+   "short": "HCL Roman nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2008 Privind validarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/078%20HCL%202008-07%20validare%20mandat.pdf",
+     "sha256": "ac16ede02e0efa21a7a4a9bc30f3511c1c2662260a3751134bf3b89697201449"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2008",
+   "path": "local/neamt/roman/2008/79",
+   "short": "HCL Roman nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2008 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/079%20HCL%202008-07%20incetare%20mandat.pdf",
+     "sha256": "f3a80c60603a4ab288a79c7a44bb2d25fd200e431cd038b9e21256f49faefba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2008",
+   "path": "local/neamt/roman/2008/8",
+   "short": "HCL Roman nr. 8/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2008 Privind aprobarea unui spor salarial pentru personalul Poliþiei Comunitare Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/008%20HCL%202008-01%20acordare%20spor%20politie.pdf",
+     "sha256": "985b86a27771a6a0ef9796d3ffe1563cc370d5238a47fa3f516cf90c400f3c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2008",
+   "path": "local/neamt/roman/2008/80",
+   "short": "HCL Roman nr. 80/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2008 Privind validarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/080%20HCL%202008-07%20validare%20mandat.pdf",
+     "sha256": "edbe0f7a032107942829f341e86333ecdebb3f3deef4c7bff8ab9e0bdef4e54c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-81-2008",
+   "path": "local/neamt/roman/2008/81",
+   "short": "HCL Roman nr. 81/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 81/2008 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/081%20HCL%202008-07%20incetare%20mandat.pdf",
+     "sha256": "63a44d05745892aecf13d1f7c581200635a7642505132ddc34a8c3a9177e5201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2008",
+   "path": "local/neamt/roman/2008/82",
+   "short": "HCL Roman nr. 82/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2008 Privind validarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/082%20HCL%202008-07%20validare%20mandat.pdf",
+     "sha256": "d029873317d5940fac41e6313f561074cbd0956de27b22493902e37881a63960"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2008",
+   "path": "local/neamt/roman/2008/83",
+   "short": "HCL Roman nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2008 Privind alegerea viceprimarului municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/083%20HCL%202008-07%20alegerea%20viceprimarului.pdf",
+     "sha256": "0acd2dd906c3da390072150e2cfe49cfacdaed03f463331ae55ea5b2290bbf73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2008",
+   "path": "local/neamt/roman/2008/84",
+   "short": "HCL Roman nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2008 Privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/084%20HCL%202008-07%20organizarea%20comisiilor%20de%20specialitate.pdf",
+     "sha256": "94f06713fc161148aada6653722ca34c0f89a3d21a7cc81f4581011ea8882887"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2008",
+   "path": "local/neamt/roman/2008/86",
+   "short": "HCL Roman nr. 86/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2008 Privind aprobarea efectuării unor cheltuieli în cadrul proiectului „Complex de Servicii Sociale Integrate” CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 109515 din 07.07.2008 întocmită de către Direcția Generală de Asistență Socială și înaintată de Primarul municipiului Roman; Văzând avizul favorabil nr. 28 din 09.07.2008 al Comisiei pentru buget finanțe precum și avizul",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/086%20HCL%202008-07%20cheltuieli%20Complex%20Servicii%20Sociale.pdf",
+     "sha256": "95d81874128a85f3a3155539d801e78dc557c1978c158041b7176e6d0b839475"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2008",
+   "path": "local/neamt/roman/2008/87",
+   "short": "HCL Roman nr. 87/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/087%20HCL%202008-07%20documentatii%20urbanism.pdf",
+     "sha256": "f8dd2ed4dfd31dc752158a20a919f86d95db23bcb8c002cecded59c8975fa951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2008",
+   "path": "local/neamt/roman/2008/88",
+   "short": "HCL Roman nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/088%20HCL%202008-07%20concesionari%20terenuri.pdf",
+     "sha256": "7a3b820e34d06ae640541860e4ed2564d36634477a5b6b1d9e7d5745efc1eb30"
     }
    ]
   },
@@ -149,6 +2264,66 @@
      "units": 4,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/094%20HCL%202005-08%20aprobare%20tarife%20terenuri%20de%20sport.pdf",
      "sha256": "f0a746bfa7c3f4a2c5399084ba03d63dbf248bff56614c6c0130300f8c0971ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2008",
+   "path": "local/neamt/roman/2008/95",
+   "short": "HCL Roman nr. 95/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2008 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-07-10",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/095%20HCL%202008-04%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "3f8d7fadb634bf9bdf2b0a70a51135cdfe75db66d87cddc991e89a61461ebaab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2008",
+   "path": "local/neamt/roman/2008/96",
+   "short": "HCL Roman nr. 96/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2008 Privind modificarea bugetului local pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/096%20HCL%202008-08%20modificare%20buget%20local.pdf",
+     "sha256": "144b4c0571ea49f20862123fb5c8e155b4bdc13d0173d04469e7e4972c7cff57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2008",
+   "path": "local/neamt/roman/2008/98",
+   "short": "HCL Roman nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2008 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/098%20HCL%202008-08%20documentatii%20urbanism.pdf",
+     "sha256": "2f7cfdaf37c0c826857aec1b9c71dc3c032daf80864fd173144fac3458a33d9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2008",
+   "path": "local/neamt/roman/2008/99",
+   "short": "HCL Roman nr. 99/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2008 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2008-08-06",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/099%20HCL%202008-08%20concesiuni%20terenuri%20pentru%20constructii.pdf",
+     "sha256": "c0aa6221aa6e2c09a5106515cd2c2696f65005f55e927154fbf33bfbd80fc97d"
     }
    ]
   }

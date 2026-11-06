@@ -3,6 +3,50 @@
 "shard": "local/neamt/roman/2003",
 "acts": [
 {
+"slug": "hcl-neamt--roman-27-2003",
+"path": "local/neamt/roman/2003/27",
+"kind": "local",
+"year": "2003",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2003 privind modificarea cuantumului chiriilor pentru spatiile disponibile si terenurile aferente chioscurilor din incinta institutiilor de învãtãmânt",
+"short": "HCL Roman nr. 27/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-03-27",
+"latest": "2003-03-27",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-35-2003",
+"path": "local/neamt/roman/2003/35",
+"kind": "local",
+"year": "2003",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2003 privind stabilirea unui normativ pentru consumul de carburant - DACIA PAPUC 1307",
+"short": "HCL Roman nr. 35/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-04-24",
+"latest": "2003-04-24",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-neamt--roman-51-2003",
 "path": "local/neamt/roman/2003/51",
 "kind": "local",
@@ -23,6 +67,28 @@
 "flags": {
 "text_pending": "ocr",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-neamt--roman-88-2003",
+"path": "local/neamt/roman/2003/88",
+"kind": "local",
+"year": "2003",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2003 Privind modificarea HCL nr. 88/14.10.2003 privind darea în administrare a unor imobile",
+"short": "HCL Roman nr. 88/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-10-14",
+"latest": "2003-10-14",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2005",
+"acts": [
+{
+"slug": "hcl-neamt--roman-10-2005",
+"path": "local/neamt/roman/2005/10",
+"kind": "local",
+"year": "2005",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2005 Privind închierea contului de executie bugetara pe anul 2004",
+"short": "HCL Roman nr. 10/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-02-24",
+"latest": "2005-02-24",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-11-2005",
+"path": "local/neamt/roman/2005/11",
+"kind": "local",
+"year": "2005",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2005 Privind aprobarea inventarierii anuale a patrimoniului Primariei Municipiului Roman",
+"short": "HCL Roman nr. 11/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-02-24",
+"latest": "2005-02-24",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-19-2005",
+"path": "local/neamt/roman/2005/19",
+"kind": "local",
+"year": "2005",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2005",
+"short": "HCL Roman nr. 19/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-02-24",
+"latest": "2005-02-24",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-21-2005",
+"path": "local/neamt/roman/2005/21",
+"kind": "local",
+"year": "2005",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2005 Privind modificarea bugetului local",
+"short": "HCL Roman nr. 21/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-03-10",
+"latest": "2005-03-10",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-32-2005",
+"path": "local/neamt/roman/2005/32",
+"kind": "local",
+"year": "2005",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2005 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+"short": "HCL Roman nr. 32/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-03-31",
+"latest": "2005-03-31",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-40-2005",
+"path": "local/neamt/roman/2005/40",
+"kind": "local",
+"year": "2005",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2005 Privind modificarea bugetului local pe anul 2005",
+"short": "HCL Roman nr. 40/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-04-27",
+"latest": "2005-04-27",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-46-2005",
+"path": "local/neamt/roman/2005/46",
+"kind": "local",
+"year": "2005",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2005 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+"short": "HCL Roman nr. 46/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-05-26",
+"latest": "2005-05-26",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-96-2005",
+"path": "local/neamt/roman/2005/96",
+"kind": "local",
+"year": "2005",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2005 Privind modificarea bugetului local",
+"short": "HCL Roman nr. 96/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-10-27",
+"latest": "2005-10-27",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-107-2005",
+"path": "local/neamt/roman/2005/107",
+"kind": "local",
+"year": "2005",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2005 Privind rectificarea bugetului local pe anul 2005",
+"short": "HCL Roman nr. 107/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-12-02",
+"latest": "2005-12-02",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-113-2005",
+"path": "local/neamt/roman/2005/113",
+"kind": "local",
+"year": "2005",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 113/2005 Privind modificarea bugetului local",
+"short": "HCL Roman nr. 113/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-12-20",
+"latest": "2005-12-20",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2005/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

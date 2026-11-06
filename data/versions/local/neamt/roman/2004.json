@@ -3,6 +3,96 @@
  "shard": "local/neamt/roman/2004",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-109-2004",
+   "path": "local/neamt/roman/2004/109",
+   "short": "HCL Roman nr. 109/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2004 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-10-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/109%20HCL%202004-10%20efectuare%20cheltuieli.pdf",
+     "sha256": "2926c88b8e7baf1e9f4e392843766398944acc22d0ae9a4b78713837036002ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-115-2004",
+   "path": "local/neamt/roman/2004/115",
+   "short": "HCL Roman nr. 115/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 115/2004 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/115%20HCL%202004-12%20modificare%20buget.pdf",
+     "sha256": "7a6e0bd0529fdfd3bf399e632b976d5e1be6a6e129d996d2dc38469e21c78419"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2004",
+   "path": "local/neamt/roman/2004/121",
+   "short": "HCL Roman nr. 121/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2004 Privind aprobarea conditiilor de executie a retelelor de comunicatii prin cablu de catre operatorii de comunicatii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/121%20HCL%202004-12%20conditii%20retele%20cablu.pdf",
+     "sha256": "a88822505dbfec22076d92d3f957f61583d295aa5a81cf7dbdf373093b3f919b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2004",
+   "path": "local/neamt/roman/2004/124",
+   "short": "HCL Roman nr. 124/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2004 Privind aprobarea bugetului local pentru anul 2005",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/124%20HCL%202004-12%20buget%202005.pdf",
+     "sha256": "9521740b0e87f8e52e63f9e059f2be615d1fbdad5fb9a0e4876e3e967e5f3f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2004",
+   "path": "local/neamt/roman/2004/125",
+   "short": "HCL Roman nr. 125/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2004 Privind stabilirea cuantumului indemnizatiei de sedinta pentru consilieri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/125%20HCL%202004-12%20indemnizatie%20consilieri.pdf",
+     "sha256": "911d785edf9aa8117d7ffc71e98ef392aae9f0fba562472d8aa709f2d5be9efa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2004",
+   "path": "local/neamt/roman/2004/129",
+   "short": "HCL Roman nr. 129/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2004 Privind constituirea retelei scolare din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/129%20HCL%202004-12%20retea%20scolara.pdf",
+     "sha256": "16509fbf553646bc9c74509b72784a3bb37b70d4bd6e2476730324cfd9f64a10"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-18-2004",
    "path": "local/neamt/roman/2004/18",
    "short": "HCL Roman nr. 18/2004",
@@ -29,6 +119,36 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2005/080%20HCL%202005-09%20impozite%20si%20taxe%20locale.pdf",
      "sha256": "f157151d894a94a44b1e167083bb4bb9127b722a96688d2ee320223d61f9f3ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2004",
+   "path": "local/neamt/roman/2004/82",
+   "short": "HCL Roman nr. 82/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2004 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/82%20HCL%202004-09%20efectuare%20cheltuieli.pdf",
+     "sha256": "4a475fde8e2c3853fc4100e48a14320efdb4752b73c28991fef26e57a22b21e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2004",
+   "path": "local/neamt/roman/2004/88",
+   "short": "HCL Roman nr. 88/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2004 Privind modificarea bugetului local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2004/",
+   "versions": [
+    {
+     "from": "2004-09-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/88%20HCL%202004-09%20modificare%20buget.pdf",
+     "sha256": "0308e2fecaaa91322eb9f2a09bcaa2ef6cd5295c301606be4c566327fbff66a0"
     }
    ]
   }

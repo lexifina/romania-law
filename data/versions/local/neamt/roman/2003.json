@@ -3,6 +3,36 @@
  "shard": "local/neamt/roman/2003",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-27-2003",
+   "path": "local/neamt/roman/2003/27",
+   "short": "HCL Roman nr. 27/2003",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2003 privind modificarea cuantumului chiriilor pentru spatiile disponibile si terenurile aferente chioscurilor din incinta institutiilor de învãtãmânt",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+   "versions": [
+    {
+     "from": "2003-03-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2003/36%20HCL%202003-04%20modificare%20HCL%2027%20din%202003%20chirii%20teren%20chioscuri.PDF",
+     "sha256": "6a2e76f78684e0a3323a5e0fa2b05a9a5ddb5de5b5d02df9cf14fd859cc56850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2003",
+   "path": "local/neamt/roman/2003/35",
+   "short": "HCL Roman nr. 35/2003",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2003 privind stabilirea unui normativ pentru consumul de carburant - DACIA PAPUC 1307",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+   "versions": [
+    {
+     "from": "2003-04-24",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2003/45%20HCL%202003-05%20modificare%20HCL%2035%20din%202003%20cota%20carburant.PDF",
+     "sha256": "6a1ea381c7dec899cf852a2597f75c5356b54d63bd266cc73c1784a8b0e62b80"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-51-2003",
    "path": "local/neamt/roman/2003/51",
    "short": "HCL Roman nr. 51/2003",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2004/09%20HCL%202004-01%20modificare%20HCL%2051%20din%202003.PDF",
      "sha256": "bce2abb70bd71aaccab1728afff8ed9860660fee04ba8e10a9c2d468a19cc215"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2003",
+   "path": "local/neamt/roman/2003/88",
+   "short": "HCL Roman nr. 88/2003",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2003 Privind modificarea HCL nr. 88/14.10.2003 privind darea în administrare a unor imobile",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+   "versions": [
+    {
+     "from": "2003-10-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2003/97%20HCL%202003-11%20modificare%20HCL%2088%20din%202003%20dare%20in%20administrare.doc.PDF",
+     "sha256": "758df0a9c77d1d5f0b30f6203f3f5d40be439cd818fe6297944e8d8458d65662"
     }
    ]
   }

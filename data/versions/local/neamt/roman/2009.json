@@ -3,6 +3,36 @@
  "shard": "local/neamt/roman/2009",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2009",
+   "path": "local/neamt/roman/2009/1",
+   "short": "HCL Roman nr. 1/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2009 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/001%20HCL%202009-01%20incetare%20mandat.pdf",
+     "sha256": "0fcc2e99e59a21efceb792d68ca240356c4b78cc51ad7d29f61f527c4136123c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-10-2009",
+   "path": "local/neamt/roman/2009/10",
+   "short": "HCL Roman nr. 10/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2009 Privind aprobarea sporului salarial de 10% pentru personalul Poliþiei Comunitare Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/010%20HCL%202009-01%20spor%20politia%20comunitara.pdf",
+     "sha256": "7dac972efd4bcfd397c514a79d75856cf239c737768f0a04c9b33fa02dc67c28"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-103-2009",
    "path": "local/neamt/roman/2009/103",
    "short": "HCL Roman nr. 103/2009",
@@ -14,6 +44,141 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/103%20HCL%202009-06%20aprobare%20tarife.pdf",
      "sha256": "b86bb9b83420f833f8a5b9b69312b4d8f06fbfde6d8385530c86d77da36cf9f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-104-2009",
+   "path": "local/neamt/roman/2009/104",
+   "short": "HCL Roman nr. 104/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 104/2009 Privind aprobarea efectu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/104%20HCL%202009-06%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "29c6f0b7702884d849eb851cc42827deb1e66b17f91f4a4387e346f937e56d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-105-2009",
+   "path": "local/neamt/roman/2009/105",
+   "short": "HCL Roman nr. 105/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 105/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "beaae66d6dbee972723f0662cf280a50e3a8af9aa847340e63d933bd66a5919a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-106-2009",
+   "path": "local/neamt/roman/2009/106",
+   "short": "HCL Roman nr. 106/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 106/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5578224f45a9b67b2767445077007055e28331d567e4f9092caad6c2bebe4132"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-107-2009",
+   "path": "local/neamt/roman/2009/107",
+   "short": "HCL Roman nr. 107/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 107/2009 Privind aprobarea preluãrii unei suprafeþe de teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/107%20HCL%202009-06%20preluare%20teren%20LPS.pdf",
+     "sha256": "19b76c87988e27c0acf5412c7779c7464f037ff83a999499834e49edf6a74f69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-108-2009",
+   "path": "local/neamt/roman/2009/108",
+   "short": "HCL Roman nr. 108/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 108/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/108%20HCL%202009-06%20modificare%20buget%20local.pdf",
+     "sha256": "ad3592a52203b18667eb0336dc5dd061c8459e8dd9ea6f9371ab4131bfecc27f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-109-2009",
+   "path": "local/neamt/roman/2009/109",
+   "short": "HCL Roman nr. 109/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 109/2009 Privind aprobarea contului de execuþie bugetarã pe anul 2008",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/109%20HCL%202009-06%20aprobare%20cont%20de%20executie.pdf",
+     "sha256": "ac829f6851efab3a02738441aff60b7406a87a79e1f6afa93f7ccb4d23cf1767"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2009",
+   "path": "local/neamt/roman/2009/11",
+   "short": "HCL Roman nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2009 Privind schimbarea denumirii unor strãzi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/011%20HCL%202009-01%20schimbare%20strazi.pdf",
+     "sha256": "9d46e5a3e0464b0d743d29bd66f24b8f50443a17995e7458b699e41a166810d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-110-2009",
+   "path": "local/neamt/roman/2009/110",
+   "short": "HCL Roman nr. 110/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 110/2009 Privind aprobarea Programului local multianual pentru creºterea performanþei energetice a blocurilor de locuinþe din municipiul Roman pentru anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/110%20HCL%202009-06%20program%20reabilitare%20termica.pdf",
+     "sha256": "7a2f841257ef17356ee9f6a1cb8473e25d6c0bccbe8cfcc9e6bc7cc6a0d5a3c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-114-2009",
+   "path": "local/neamt/roman/2009/114",
+   "short": "HCL Roman nr. 114/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 114/2009 Privind stabilirea destinaþiei locuinþelor situate în str. Fabricii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/114%20HCL%202009-06%20Gazduire%20Fabricii.pdf",
+     "sha256": "174a4a319327768ff357a7f7f9035ce58a3db32401dc2e20216b890a7a385865"
     }
    ]
   },
@@ -48,6 +213,201 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-119-2009",
+   "path": "local/neamt/roman/2009/119",
+   "short": "HCL Roman nr. 119/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 119/2009 Privind aprobarea vânzãrii unui spaþiu cu destinaþia de locuinþã din municipiul Roman, Aleea Dumbrava Roºie, nr. 1, cãtre actualul chiriaº",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/119%20HCL%202009-06%20vanzare%20locuinta%20de%20serviciu.pdf",
+     "sha256": "9b1f20aaf5ca41eeaf1491542268b9f8daf9d4adced15d3ddf8880d7150e2b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-12-2009",
+   "path": "local/neamt/roman/2009/12",
+   "short": "HCL Roman nr. 12/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/012%20HCL%202009-01%20transmitere%20ANL%20in%20domeniul%20%20public%20al%20statului.pdf",
+     "sha256": "4d470791ad9fe620730bc9692eb0865d789199da777b8bd3ae47fe043d713e36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-120-2009",
+   "path": "local/neamt/roman/2009/120",
+   "short": "HCL Roman nr. 120/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 120/2009 Privind aprobarea atribuirii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/120%20HCL%202009-06%20concesionari%20terenuri.pdf",
+     "sha256": "3c755cf0c92f02bf85dbdb4799eb3692c09046fb8a5e993b8fb392501dcdb8e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-121-2009",
+   "path": "local/neamt/roman/2009/121",
+   "short": "HCL Roman nr. 121/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 121/2009 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/121%20HCL%202009-06%20documentatii%20de%20urbanism.pdf",
+     "sha256": "0482d44b389e4cc64203a8eeed1a902b92780c54b243e6961438112b2ad1bf5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-124-2009",
+   "path": "local/neamt/roman/2009/124",
+   "short": "HCL Roman nr. 124/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 124/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/124%20HCL%202009-06%20protocol%20Acvaserv.pdf",
+     "sha256": "2a06cfaf0912f5f95b3d4e987c979bcde67841416eb82ef2b08c41c86522837c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2009",
+   "path": "local/neamt/roman/2009/125",
+   "short": "HCL Roman nr. 125/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2009 Privind desemnarea reprezentanþilor Consiliului Local ºi ai agenþilor economici în Consiliile de Administraþie ale unitãþilor de învãþãmânt din Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2008/",
+   "versions": [
+    {
+     "from": "2009-09-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2008/125%20HCL%202008-09%20Repr%20CLR%20si%20ag%20econ%20in%20CA%20invat.pdf",
+     "sha256": "142efd0270c35021bf881a38fd26ba53160de506dfd928c42de3fb0075cc9451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-126-2009",
+   "path": "local/neamt/roman/2009/126",
+   "short": "HCL Roman nr. 126/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 126/2009 Privind aprobarea unor mãsuri referitoare la lucrãrile edilitare realizate cu afectarea reþelei stradale a Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-24",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/126%20HCL%202009-06%20masuri%20lucrari%20edilitare.pdf",
+     "sha256": "e6cf0d2d6f53af88b1354aec3386a89c2636c94f80fa3982b0c12da68ca9d432"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-127-2009",
+   "path": "local/neamt/roman/2009/127",
+   "short": "HCL Roman nr. 127/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 127/2009 Privind aprobarea trecerii unui",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/127%20HCL%202009-06%20trecere%20teren%20in%20domeniu%20privat.pdf",
+     "sha256": "65c353b05063d12f8312e69801a943f215ef3fc4e1caae5d2487f521c708f093"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2009",
+   "path": "local/neamt/roman/2009/128",
+   "short": "HCL Roman nr. 128/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2009 Privind transmiterea în folosinþã gratuitã Companiei Naþionale de Investiþii - CNI SA a terenului în suprafaþã de 3.000 mp, pe durata construirii obiectivului \"Bazin de înot didactic-ºcolar\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/128%20HCL%202009-06%20transmitere%20in%20folosinta%20gratuita%20teren.pdf",
+     "sha256": "dcbaef51234ceb1e48bd7613666d1fa24395b25cbb6a93855e5fe28824e0859a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2009",
+   "path": "local/neamt/roman/2009/129",
+   "short": "HCL Roman nr. 129/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2009 Privind asumarea finanþãrii unor lucrãri, a întreþinerii ºi exploatãrii de cãtre Consiliul local al municipiului Roman a obiectivului \"Bazin de înot didactic-ºcolar\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/129%20HCL%202009-06%20finantare%20bazin%20inot.pdf",
+     "sha256": "564d97c7b87302606f22cc7356b2423e1118a08bd67a1bdc9e894c679982b824"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2009",
+   "path": "local/neamt/roman/2009/13",
+   "short": "HCL Roman nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9901780738916aac6b50c927045c703e9463b678fdd1d73fca69496c8afe4ef1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-131-2009",
+   "path": "local/neamt/roman/2009/131",
+   "short": "HCL Roman nr. 131/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 131/2009 Privind aprobarea efectuãrii unor lucrãri din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/131%20HCL%202009-06%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "fad0cea3a96af601bd8578e50646ad06e96c1da40184920d319c57e06127b7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-132-2009",
+   "path": "local/neamt/roman/2009/132",
+   "short": "HCL Roman nr. 132/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 132/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/132%20HCL%202009-06%20modificare%20buget%20local.pdf",
+     "sha256": "d12931fb66656b001bcb9fb997d13f110ed790397916abb607eb69f730765893"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-134-2009",
    "path": "local/neamt/roman/2009/134",
    "short": "HCL Roman nr. 134/2009",
@@ -59,6 +419,321 @@
      "units": 3,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/134%20HCL%202009-06%20Statutul%20municipiului%20Roman.pdf",
      "sha256": "ac82840d8813cb6ac2f9d58a7a4adfb72d09e5e079756e10f5ad34a48d042678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2009",
+   "path": "local/neamt/roman/2009/135",
+   "short": "HCL Roman nr. 135/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-06-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/135%20HCL%202009-06%20comisie%20circulatie.pdf",
+     "sha256": "924796a5dd5c4013b0bbe9d0826707fbb86f1948f8b44c2e8d19069ddbac062a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-139-2009",
+   "path": "local/neamt/roman/2009/139",
+   "short": "HCL Roman nr. 139/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 139/2009 Pentru aprobarea studiului de fezabilitate ºi ai indicatorilor tehnico-economici pentru obiectivul de investiþii \"LOCUINÞE PENTRU TINERI - str. Moldovei\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/139%20HCL%202009-07%20studiu%20fezabilitate%20ANL%20Moldovei.pdf",
+     "sha256": "d28452302ba3cfbbb4e95d6a34d3a94b9f052b946374dab23a5235f1205945c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-14-2009",
+   "path": "local/neamt/roman/2009/14",
+   "short": "HCL Roman nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 14/2009 Privind aprobarea unor reglementãri privind circulaþia pe drumurile publice din municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/014%20HCL%202009-01%20reglementari%20circulatie%20pe%20drumurile%20publice.pdf",
+     "sha256": "82d5b26b04bb030418686a73c56676942defa30bb79480b37845b56142122236"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-140-2009",
+   "path": "local/neamt/roman/2009/140",
+   "short": "HCL Roman nr. 140/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2009 Pentru aprobarea indicatorilor tehnico-economici pentru obiectivul de investiþii \"CONSTUIRE SALÃ SPORT - COLEGIUL TEHNIC \"MIRON COSTIN\"\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/140%20HCL%202009-07%20aprobare%20indicatori%20Miron%20Costin.pdf",
+     "sha256": "8ea1512d2c72e62563d9b1764c8cc1ac08536e4a2fccffe1291a9ec51256043d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-142-2009",
+   "path": "local/neamt/roman/2009/142",
+   "short": "HCL Roman nr. 142/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/142%20HCL%202009-07%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "d6b65faf1452ac92cf236c808daacb1791c54d09756019881315c9bab15f152a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2009",
+   "path": "local/neamt/roman/2009/143",
+   "short": "HCL Roman nr. 143/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/143%20HCL%202009-07%20modificare%20buget%20local.pdf",
+     "sha256": "d9ceab9e78945bc384ad8b2d1420c8f3e76d474516d519ea6b7c42cf3c598a80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-146-2009",
+   "path": "local/neamt/roman/2009/146",
+   "short": "HCL Roman nr. 146/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 146/2009 Privind aprobarea concesionãrii a unui spaþiu cu destinaþia de cabinet medical din cadrul Policlinicii Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/146%20HCL%202009-07%20concesionare%20cabinet%20medical.pdf",
+     "sha256": "2b3e927d9f82cc8aac6cd49469dc8763889994673d6109bf05747e459c8f8900"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-147-2009",
+   "path": "local/neamt/roman/2009/147",
+   "short": "HCL Roman nr. 147/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 147/2009 Privind aprobarea unei cofinanþãri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/147%20HCL%202009-07%20aprobare%20cofinantare.pdf",
+     "sha256": "f29907124d42f51127b7dcd290f62847170da219ea5eaef1e5da84304856a063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2009",
+   "path": "local/neamt/roman/2009/15",
+   "short": "HCL Roman nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2009 Privind numirea reprezentantului Consiliului Local al municipiului Roman la Asociaþia de Dezvoltare Intercomunitara \"Aqua Neamþ\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/015%20HCL%202009-01%20desemnare%20reprezentant%20AQUA%20NEAMT.pdf",
+     "sha256": "b9a81979e1055b7d2ec7b97bcfd207c2b0da3c93c080dbbeee08f3c811e34993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2009",
+   "path": "local/neamt/roman/2009/150",
+   "short": "HCL Roman nr. 150/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2009 pentru aprobarea Documentațiilor de Avizare a Lucrărilor de Intervenții privind Reabilitarea termică a blocurilor de locuințe nr. 25 și 32 din b-dul Roman Mușat, municipiul Roman CONSILIUL LOCAL AL MUNICIPIULUI ROMAN Examinând expunerea de motive nr. 11984 din 17.07.2009 inițiată de Primarul Municipiului Roman și întocmită de Directia Tehnică; Vazând avizul favorabil nr. 67 din 20.07.2009 al Comis",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-20",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/150%20HCL%202009-07%20studiu%20fezabilitate%20reabilitare%20termica.pdf",
+     "sha256": "7e4c47a11a680307061940562419af27022630cd8b93c79120dc95945bd37562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-151-2009",
+   "path": "local/neamt/roman/2009/151",
+   "short": "HCL Roman nr. 151/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 151/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a6794d759db562545bd0374d13aa6d93877d72dbbe2dc8d8e65cbf6ccf68e244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2009",
+   "path": "local/neamt/roman/2009/152",
+   "short": "HCL Roman nr. 152/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2009 Privind aplicarea la \"Programul de înlocuire sau de completare a sistemelor clasice de încãlzire cu sisteme care utilizeazã energie solarã, energie geotermalã ºi energie eolianã ori alte sisteme care conduc la îmbunãtãþirea calitãþii aerului, apei ºi solului\", program finanþat de Administraþia Fondu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/152%20HCL%202009-07%20aplicare%20si%20finantare.pdf",
+     "sha256": "8a9a81821035eda183b69fcec0a52632ca94cab465f9abf2f06da877a18da695"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2009",
+   "path": "local/neamt/roman/2009/153",
+   "short": "HCL Roman nr. 153/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2009 Privind aprobarea studiului de fezabilitate privind realizarea obiectivului de investiþii \"Noi capacitãþi de producþie a energiei termice prin valorificarea resurselor de energii regenerabile pentru Spitalul Municipal, Sala Polivalentã ºi Liceul cu program Sportiv din municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/153%20HCL%202009-07%20studiu%20fezabilitate%20energie%20regenerabila.pdf",
+     "sha256": "686e0676f143dd67367e92ff95976992b5ba55d8559f5292882a002194d713a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2009",
+   "path": "local/neamt/roman/2009/154",
+   "short": "HCL Roman nr. 154/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2009 Privind regimul juridic, amenajarea, întreþinerea ºi exploatarea locurilor de parcare de pe raza Municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/154%20HCL%202009-07%20regulament%20parcari.pdf",
+     "sha256": "ef8a14bc20a65e48630e2f2a5b7a0db5975465653f592e9daa073c68ab6a82d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-155-2009",
+   "path": "local/neamt/roman/2009/155",
+   "short": "HCL Roman nr. 155/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 155/2009 Privind transmiterea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/155%20HCL%202009-08%20transmitere%20CNI%20sala%20sport%20MC.pdf",
+     "sha256": "6b9c5f1690a0779c839c7eeeed5d43150a570f36b277b1c3ce7b9f9082b2232d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-156-2009",
+   "path": "local/neamt/roman/2009/156",
+   "short": "HCL Roman nr. 156/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 156/2009 Privind asumarea finanþãrii unor lucrãri, a întreþinerii ºi exploatãrii de cãtre Consiliul local al municipiului Roman a obiectivului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/156%20HCL%202009-08%20finantare%20sala%20sport%20MC.pdf",
+     "sha256": "387bb18aacb7fd263eab4d2add21ac3c8673875909de3b48ce76b7e12af01687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2009",
+   "path": "local/neamt/roman/2009/157",
+   "short": "HCL Roman nr. 157/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2009 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/157%20HCL%202009-08%20inventar%20partial%20teren%20privat.pdf",
+     "sha256": "56d2786b9b5ab9882da612a12260deaec6476aef74405af5aa2aaca31fcc172d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-159-2009",
+   "path": "local/neamt/roman/2009/159",
+   "short": "HCL Roman nr. 159/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 159/2009 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/159%20HCL%202009-08%20concesiuni%20teren.pdf",
+     "sha256": "5dbb7a17f12828ca91d930c56c2d8002ed8350619755bfcfa8decc160024ea4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2009",
+   "path": "local/neamt/roman/2009/16",
+   "short": "HCL Roman nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "98b3d1aa59d61fbe3897c25e10319191e1de8ae8f782938ca7890ef63d87e3b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2009",
+   "path": "local/neamt/roman/2009/160",
+   "short": "HCL Roman nr. 160/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2009 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/160%20HCL%202009-0%20documentatii%20urbanism.pdf",
+     "sha256": "db06b0a27e9cf6d55a42b23f70711fdaf6c0c475f0a47b55fc17fc8b58f69855"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-161-2009",
+   "path": "local/neamt/roman/2009/161",
+   "short": "HCL Roman nr. 161/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2009 Privind aprobarea concesionãrii a unui teren pentru realizarea unui obiectiv de investiþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/161%20HCL%202009-08%20concesionare%20teren%20reciclare.pdf",
+     "sha256": "d3c17860593e2a9d4939ec0859081f013b8385cce33411ed419852c7004507b7"
     }
    ]
   },
@@ -78,6 +753,51 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-166-2009",
+   "path": "local/neamt/roman/2009/166",
+   "short": "HCL Roman nr. 166/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2009 Privind aprobarea unei cofinanþãri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/166%20HCL%202009-08%20%20aprobare%20cofinantare%20Sc%20Speciala.pdf",
+     "sha256": "f5ef03b8b511d4a42d5c37d5439e0b7d658bd7cfcacd14e841e8d311bab176ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2009",
+   "path": "local/neamt/roman/2009/167",
+   "short": "HCL Roman nr. 167/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/167%20HCL%202009-08%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "4234fa005c8229502e0c9a2188aa699d9d4154b50220e401784a38bc511d2531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-168-2009",
+   "path": "local/neamt/roman/2009/168",
+   "short": "HCL Roman nr. 168/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 168/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/168%20HCL%202009-08%20modificare%20buget%20local.pdf",
+     "sha256": "4c267c1d997b5bab108a1166c26bc9e7e60e37ed00c6f58e36a718c1c76dbce1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-17-2009",
    "path": "local/neamt/roman/2009/17",
    "short": "HCL Roman nr. 17/2009",
@@ -89,6 +809,201 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/017%20HCL%202009-01%20regulament%20iluminat%20public.pdf",
      "sha256": "68817255f153f06c2d13514d9b916a2a32d515e94f11066525352985fa08a702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-170-2009",
+   "path": "local/neamt/roman/2009/170",
+   "short": "HCL Roman nr. 170/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 170/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/170%20HCL%202009-08%20transmitere%20ANL%20in%20domeniul%20%20public%20al%20statului.pdf",
+     "sha256": "74e8d69b13b95d7efc59a6d26cb8ee4fcdf5642dfaae29d983626c0e487f6ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-171-2009",
+   "path": "local/neamt/roman/2009/171",
+   "short": "HCL Roman nr. 171/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 171/2009 Privind aprobarea studiului de",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/171%20HCL%202009-09%20studiu%20fezabilitate%20Parcuri.pdf",
+     "sha256": "ad6734b3967346794e89f3ff82b64433a59fe2017029b8eb0b56301c1e7138cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-172-2009",
+   "path": "local/neamt/roman/2009/172",
+   "short": "HCL Roman nr. 172/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 172/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2818f14b36754a1ec342e49fc9129de8349caf3d7beca413fd50b772d7734113"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-174-2009",
+   "path": "local/neamt/roman/2009/174",
+   "short": "HCL Roman nr. 174/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 174/2009 Privind aprobarea efectuãrii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/174%20HCL%202009-09%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "60092e87aa2496b1d14e8766bae0daa7bb02222d0ac3a20c8b07931bb888c11d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-175-2009",
+   "path": "local/neamt/roman/2009/175",
+   "short": "HCL Roman nr. 175/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 175/2009 Privind acordarea unor titluri de \"Cetãþean de onoare\" al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/175%20HCL%202009-09%20acordare%20Cetatean%20de%20Onoare.pdf",
+     "sha256": "72b13e7bf8c518b4d1de011b481874d6802c387d86d4b41e568c5c5da6e7e0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-176-2009",
+   "path": "local/neamt/roman/2009/176",
+   "short": "HCL Roman nr. 176/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 176/2009 Privind aprobarea structurii pe specialitãþi a membrilor comisiei sociale pentru repartizarea de locuinþe pentru tineri destinate închirierii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/176%20HCL%202009-09%20numire%20comisie%20ANL.pdf",
+     "sha256": "4c71b6be0e70355fa52f0dd7f794ee6c149006def126daaf027756efaf582912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-179-2009",
+   "path": "local/neamt/roman/2009/179",
+   "short": "HCL Roman nr. 179/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 179/2009 Privind aprobarea participãrii Municipiului Roman la Programul de îmbunãtãþire a calitãþii mediului prin împãdurirea terenurilor agricole degradate, program finanþat de Administraþia Fondului pentru Mediu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/179%20HCL%202009-09%20program%20impadurire.pdf",
+     "sha256": "db4169d7ea6deae27b120c0cd5a0725bab6c0de6cba5717309df153d5dd08b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2009",
+   "path": "local/neamt/roman/2009/18",
+   "short": "HCL Roman nr. 18/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/018%20HCL%202009-01%20modificare%20organigrama.pdf",
+     "sha256": "a840898177a6e8239230cbbf460e0f9d5856da5365bb1ce028e99094fd6eb883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-180-2009",
+   "path": "local/neamt/roman/2009/180",
+   "short": "HCL Roman nr. 180/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 180/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/180%20HCL%202009-09%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "983e215e7ab5ea344378e5d4106fcbdc94e8fe818b278ceaf1e2b24a97a869c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-181-2009",
+   "path": "local/neamt/roman/2009/181",
+   "short": "HCL Roman nr. 181/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 181/2009 Privind susþinerea Programului BIBLIONET",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/181%20HCL%202009-09%20participare%20Biblionet.pdf",
+     "sha256": "148573d543085aaa8a2680c00452ab586faa6e9f6197901681722a37c016d815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-182-2009",
+   "path": "local/neamt/roman/2009/182",
+   "short": "HCL Roman nr. 182/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 182/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/182%20HCL%202009-09%20modificare%20buget%20local.pdf",
+     "sha256": "59ca91b97b0debf22b4c2844d658e2530db0bbe5671cec81450ec2abdf290b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-183-2009",
+   "path": "local/neamt/roman/2009/183",
+   "short": "HCL Roman nr. 183/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 183/2009 Privind aprobarea \"Criteriilor pentru stabilirea ordinii de prioritate în soluþionarea cererilor de locuinþe ºi în repartizarea locuinþelor pentru tineri destinate închirierii în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/183%20HCL%202009-09%20criterii%20ANL.pdf",
+     "sha256": "7715298a2c713102334d02596b0336a44be35b19ccdcc43858a8b4411e0f21ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-185-2009",
+   "path": "local/neamt/roman/2009/185",
+   "short": "HCL Roman nr. 185/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 185/2009 Privind aprobarea Studiului de fezabilitate ºi a indicatorilor tehnico-economici în vederea aplicãrii \"Programului de îmbunãtãþire a calitãþii mediului prin împãdurirea terenurilor agricole degradate\", finanþat de Administraþia Fondului pentru Mediu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/185%20HCL%202009-10%20aprobare%20SF%20impadurire.pdf",
+     "sha256": "ef494058a422318cccdc0b71884b58e5886ad2beb3be47cd43c9d107140ae43b"
     }
    ]
   },
@@ -108,6 +1023,306 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-187-2009",
+   "path": "local/neamt/roman/2009/187",
+   "short": "HCL Roman nr. 187/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 187/2009 Nr. 187 din 12.10.2009 privind aprobarea achiziționării unor terenuri pentru modernizarea Arterei Roman-Est",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/187%20HCL%202009-10%20cumparare%20teren%20Artera.pdf",
+     "sha256": "bad642aa5da4b4c2d7bdc21ec9ca8314abfa87ad3f5906ee4964dfaa73208f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-188-2009",
+   "path": "local/neamt/roman/2009/188",
+   "short": "HCL Roman nr. 188/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 188/2009 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/188%20HCL%202009-10%20concesionari%20terenuri.pdf",
+     "sha256": "e7e943d7d1ca59dacfc7ea179e6c10efd0dc0a027ca67ca9ef32ecd79b6aa85c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-189-2009",
+   "path": "local/neamt/roman/2009/189",
+   "short": "HCL Roman nr. 189/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 189/2009 Privind aprobarea modificarii \"Bugetului în afara bugetului local\" ºi a \"Bugetului local\" pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/189%20HCL%202009-10%20modificare%20buget.pdf",
+     "sha256": "2a7ecacb5c54060212af366f3ae84f811212cbd11536960977e931862d33af39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2009",
+   "path": "local/neamt/roman/2009/19",
+   "short": "HCL Roman nr. 19/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2009 Privind aprobarea s",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/019%20HCL%202009-01%20preluare%20cinematograf%20Unirea.pdf",
+     "sha256": "ce7360aa2307afabafca66c79435b083b69ee305d9c817579084bf1c13bc4a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-190-2009",
+   "path": "local/neamt/roman/2009/190",
+   "short": "HCL Roman nr. 190/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 190/2009 Privind aprobarea listei solicitanþilor care au acces ºi a celor care nu au acces la o locuinþã realizatã prin programul A.N.L",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/190%20HCL%202009-10%20liste%20ANL.pdf",
+     "sha256": "9deefdb23992e4df44f6c135d12160eb93acbe58e70125df9527a10280763fe6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-193-2009",
+   "path": "local/neamt/roman/2009/193",
+   "short": "HCL Roman nr. 193/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 193/2009 Privind schimbarea destina",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-10-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/193%20HCL%202009-10%20schimbare%20destinatie%20spatiu.pdf",
+     "sha256": "289d6af24d66e4614e46983f5ff57bbc6bdf3b0cb0aa35091ab703a72425908d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-195-2009",
+   "path": "local/neamt/roman/2009/195",
+   "short": "HCL Roman nr. 195/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 195/2009 Privind modificarea bugetului local pe anul 2009, a bugetului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/195%20HCL%202009-11%20modificare%20buget%20local.pdf",
+     "sha256": "d1706cbd00c4399be64301f469636b2242732144b3243bb953a8795be44d3119"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-197-2009",
+   "path": "local/neamt/roman/2009/197",
+   "short": "HCL Roman nr. 197/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 197/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "768391db6ef78aedfdb798006fbf2357ed2a2578eb48ccfcd793a03bfe9426ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-198-2009",
+   "path": "local/neamt/roman/2009/198",
+   "short": "HCL Roman nr. 198/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 198/2009 Privind aprobarea înþelegerii de cooperare între municipiul Roman ºi oraºul Cortona din Republica Italianã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/198%20HCL%202009-11%20Infratire%20Cortona.pdf",
+     "sha256": "d7b4d4466126d7a148edb267b3096e71869e35bf2c73fb3a7c689c93174bbf05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-199-2009",
+   "path": "local/neamt/roman/2009/199",
+   "short": "HCL Roman nr. 199/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 199/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f2f976c3d01cf9ec59b50d35c2ac218023c0a6f1fda8bf6062e9e499b03d91d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2009",
+   "path": "local/neamt/roman/2009/2",
+   "short": "HCL Roman nr. 2/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2009 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/002%20HCL%202009-01%20validare%20mandat.pdf",
+     "sha256": "41539441ded7c56b3aef58b601145208c5550dbba29a454950ddb197f0edde2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-20-2009",
+   "path": "local/neamt/roman/2009/20",
+   "short": "HCL Roman nr. 20/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 20/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b3ae0ff240b97976e8a6c02011a9095983501c8efcbb958624a30453ca88fff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-201-2009",
+   "path": "local/neamt/roman/2009/201",
+   "short": "HCL Roman nr. 201/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 201/2009 Privind aprobarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/201%20HCL%202009-12%20concesiuni%20terenuri.pdf",
+     "sha256": "e4b47a312ba9d1c5d72716b0d5f8ef59c4cfe2ac0c42995a58c4696936cf26c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-202-2009",
+   "path": "local/neamt/roman/2009/202",
+   "short": "HCL Roman nr. 202/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 202/2009 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/202%20HCL%202009-12%20documentatii%20urbanism.pdf",
+     "sha256": "9decea4fe7a6e0eeb6c80acc7bceae8c2a5ec48bdcdeb348eff6d1eb6a6384a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-203-2009",
+   "path": "local/neamt/roman/2009/203",
+   "short": "HCL Roman nr. 203/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 203/2009 Privind stabilirea denumirii unor noi piaþete ºi strãzi",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/203%20HCL%20Denumire%20noi%20piatete%20si%20strazi.pdf",
+     "sha256": "6cb365443c74d728b3fbb642e3908e8358daf1a875e8ffa7b968bc1699aa4dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-204-2009",
+   "path": "local/neamt/roman/2009/204",
+   "short": "HCL Roman nr. 204/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 204/2009 Privind aprobarea transmiterii unor imobile cu destinaþia de locuinþã aflate în proprietatea publicã a municipiului Roman în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/204%20HCL%202009-12%20transmitere%20blocuri%20ANL.pdf",
+     "sha256": "4dd61fc2109c519c07a566ef5514aa55652d3e176d2636be705fe54713f71250"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-205-2009",
+   "path": "local/neamt/roman/2009/205",
+   "short": "HCL Roman nr. 205/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 205/2009 Privind aprobarea inventarului parþial al terenurilor proprietatea privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/205%20HCL%202009-12%20inventar%20domeniu%20privat.pdf",
+     "sha256": "0ffb792844ea00ffffba0667647667e3d5d3a05a387391c1de84d86f4898d8be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-207-2009",
+   "path": "local/neamt/roman/2009/207",
+   "short": "HCL Roman nr. 207/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 207/2009 Privind zonarea fiscalã a teritoriului municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/207%20HCL%202009-12%20zonarea%20fiscala%20a%20municipiului.pdf",
+     "sha256": "5381800eb52c414a16be1bde5c3d316a149cd5a5abe2b428f5d6e7c4a21f5a05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-208-2009",
+   "path": "local/neamt/roman/2009/208",
+   "short": "HCL Roman nr. 208/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 208/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1af2db0865bb549795e1003ef5dd959056e8b5ee2bc827f6b3d91debd590aaea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-21-2009",
+   "path": "local/neamt/roman/2009/21",
+   "short": "HCL Roman nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 21/2009 Privind aprobarea trecerii unor imobile din domeniul public al municipiului în domeniul public al statului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/021%20HCL%202009-01%20transmitere%20gradinite.pdf",
+     "sha256": "ed5270661988ddc13a02646d268c4b537a827b76858db8abc0a1d759c06ff5dd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-210-2009",
    "path": "local/neamt/roman/2009/210",
    "short": "HCL Roman nr. 210/2009",
@@ -119,6 +1334,21 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/210%20HCL%202009-12%20ajustare%20tarife%20salubrizare.pdf",
      "sha256": "6c9728dab67382af5e5d9fd052397217dc11ba113f81071c2bc4d7a27af6aa35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-212-2009",
+   "path": "local/neamt/roman/2009/212",
+   "short": "HCL Roman nr. 212/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 212/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "783c230f56e99a72ad353ccf0f3b6e42a903f927e8a2c5af30eee02d6e16fa6d"
     }
    ]
   },
@@ -138,6 +1368,216 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-215-2009",
+   "path": "local/neamt/roman/2009/215",
+   "short": "HCL Roman nr. 215/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 215/2009 Privind aprobarea preþului de vânzare a locuinþelor construite de Agenþia Naþionalã pentru Locuinþe în Municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/215%20HCL%202009-12%20aprobare%20pret%20ANL.pdf",
+     "sha256": "cb57d0a3d29439a4eb726b2a03d6afcbadd80e926a14c4b1f1fb4d36e08ebb3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-216-2009",
+   "path": "local/neamt/roman/2009/216",
+   "short": "HCL Roman nr. 216/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 216/2009 Privind modificarea <bugetului local> ºi a <bugetului în afara bugetului local> ºi a listelor de investiþii pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/216%20HCL%202009-12%20modificare%20buget%20local.pdf",
+     "sha256": "f440228cb0f2344b559afa166b8fcad161c70063632add113598deb0baa60082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-217-2009",
+   "path": "local/neamt/roman/2009/217",
+   "short": "HCL Roman nr. 217/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 217/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/217%20HCL%202009-12%20%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "66f5bdc57e0759692a7d5bfc2713352b3ae3df86fac139a066b9c9db843e6f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-22-2009",
+   "path": "local/neamt/roman/2009/22",
+   "short": "HCL Roman nr. 22/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2009 Privind aprobarea inventarului parþial al terenurilor proprietate privatã a municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/022%20HCL%202009-01%20inventar%20domeniu%20privat.pdf",
+     "sha256": "23186d2f837c0da68e380906265890ace4937005ac65ffee2b0170d2dbd2bc05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-220-2009",
+   "path": "local/neamt/roman/2009/220",
+   "short": "HCL Roman nr. 220/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 220/2009 Privind darea în folosinþã gratuitã Poliþiei Municipiului Roman a spaþiilor în suprafaþã utilã totalã de 84,00 m.p. situate în imobilul din str",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/220%20HCL%202009-12%20dare%20in%20folosinta%20spatiu%20Politie.pdf",
+     "sha256": "590afaae9121d83108b5fe9ccfe6ff72caef463773a94021b1b101e8fc81ddcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-222-2009",
+   "path": "local/neamt/roman/2009/222",
+   "short": "HCL Roman nr. 222/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 222/2009 Privind aprobarea inventarului par",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/222%20HCL%202009-12%20inventar%20domeniu%20privat.pdf",
+     "sha256": "d88c924d0d55b14e615ab4a63d7fbe971a309fc0dbebd16e767a6d3399720e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-224-2009",
+   "path": "local/neamt/roman/2009/224",
+   "short": "HCL Roman nr. 224/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 224/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/224%20HCL%202009-12%20revocare%20213%20din%202009.pdf",
+     "sha256": "a2cc20ead39a3c817c79241f2cf7499d36b1ca024d140a39e67e26dd10c25b82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-225-2009",
+   "path": "local/neamt/roman/2009/225",
+   "short": "HCL Roman nr. 225/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 225/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/225%20HCL%202009-12%20modificare%20buget%20local.pdf",
+     "sha256": "b1fad860c904c71bce348e224394fa1527d7d9a36cdd0660b30db5f3733bf713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-226-2009",
+   "path": "local/neamt/roman/2009/226",
+   "short": "HCL Roman nr. 226/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 226/2009 Privind stabilirea destinaþiei unor locuinþe ºi stabilirea titularului dreptului de administrare al acestora",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-12-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/226%20HCL%202009-12%20stabilire%20locuinte%20ca%20locuinte%20sociale.pdf",
+     "sha256": "d2979c5f2e6059d1ea7922dcba2d3ab21a26b8d871d3db15a7c9cd596c067d41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-23-2009",
+   "path": "local/neamt/roman/2009/23",
+   "short": "HCL Roman nr. 23/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 23/2009 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/023%20HCL%202009-01%20aprobare%20PUD.pdf",
+     "sha256": "416fb91d846aee729ac02d186c550d25d234ece3ddec36f3456684439dbd4030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2009",
+   "path": "local/neamt/roman/2009/24",
+   "short": "HCL Roman nr. 24/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2009 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/024%20HCL%202009-01%20concesiuni%20terenuri.pdf",
+     "sha256": "7d6d87b0093f0a3d384e019a39bfcc69b6deccdd882b1ccb0b9d7176c514f722"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2009",
+   "path": "local/neamt/roman/2009/25",
+   "short": "HCL Roman nr. 25/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/025%20HCL%202009-01%20cheltuieli%20buget%20local.pdf",
+     "sha256": "fefb4b0cca8243e68b528e42c6e85ed1469b2eedf467ee6d73cb443c6409ab94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-26-2009",
+   "path": "local/neamt/roman/2009/26",
+   "short": "HCL Roman nr. 26/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 26/2009 Privind constatarea",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/026%20HCL%202009-02%20incetare%20mandat.pdf",
+     "sha256": "6aaaece0969e704f75df5d9f9412f007e83d7f39918d9ef8a768cf9821cf1bce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2009",
+   "path": "local/neamt/roman/2009/27",
+   "short": "HCL Roman nr. 27/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2009 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/027%20HCL%202009-02%20validare%20mandat.pdf",
+     "sha256": "a648b890b33a3c9fb96726331fe3597bdce0a2302365ba186ea4d3c02ab62a8a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-29-2009",
    "path": "local/neamt/roman/2009/29",
    "short": "HCL Roman nr. 29/2009",
@@ -149,6 +1589,51 @@
      "units": 3,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/029%20HCL%202009-02%20modificare%20HCL%2035%20din%202007%20Trasee.pdf",
      "sha256": "4c17cb3ad8d931956c57c91c7bac8473cd2b1da2cf8c107e35baf0d749a81253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-3-2009",
+   "path": "local/neamt/roman/2009/3",
+   "short": "HCL Roman nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 3/2009 Privind constatarea încetãrii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/003%20HCL%202009-01%20incetare%20mandat.pdf",
+     "sha256": "f5735725bdc33aad1e539691644997ddf4caebd60933bebae5868f655295c24f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-31-2009",
+   "path": "local/neamt/roman/2009/31",
+   "short": "HCL Roman nr. 31/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 31/2009 Nr. 31 din 18.02.2009 pentru modificarea Hotărârii Consiliului Local al municipiului Roman nr. 62/2008 privind constituirea Asociației de Dezvoltare Intercomunitară „ECONEAMȚ”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/031%20HCL%202009-02%20modificare%20HCL%2062_2008%20Econeamt.pdf",
+     "sha256": "e472e78f0dc8db31232ed5ce7479ca07926ab574d1214ebfbb64e7e0ed012227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2009",
+   "path": "local/neamt/roman/2009/32",
+   "short": "HCL Roman nr. 32/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2009 Privind aprobarea Master Planului pentru Sistem Integrat de Gestionare a Deºeurilor pentru Judeþul Neamþ",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/032%20HCL%202009-02%20Master%20Plan%20deseuri.pdf",
+     "sha256": "e0f0ba8f47715f411d4951907f2e65cf8d62d9d80ae561cadabd7783379c858e"
     }
    ]
   },
@@ -168,6 +1653,141 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-34-2009",
+   "path": "local/neamt/roman/2009/34",
+   "short": "HCL Roman nr. 34/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2009 Privind solicitatea trecerii unui imobil din domeniul public al statului ºi administrarea Agenþiei Naþionale pentru Ocuparea Forþei de Muncã Bucureºti în domeniul public al municipiului Roman - ca unitate administrativ teritorialã ºi administrarea directã a Consiliului Local Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/034%20HCL%202009-02%20solicitare%20stat%20imobil.pdf",
+     "sha256": "4144568e6a88dc590ded47e6a179a768ecc62371c7090f6665b301b62e13d2e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-35-2009",
+   "path": "local/neamt/roman/2009/35",
+   "short": "HCL Roman nr. 35/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 35/2009 Privind aprobarea Studiului de Fezabilitate \"Înfiinþare ºi amenajare de spaþii verzi ºi locuri de joacã în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/035%20HCL%202009-02%20studiu%20fezabilitate%20spatii%20verzi%20si%20locuri%20de%20joaca.pdf",
+     "sha256": "f5a6bc71156be383f1503660ad005e24c4a7a8c21b3175f45ad7cddd33b13a6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-36-2009",
+   "path": "local/neamt/roman/2009/36",
+   "short": "HCL Roman nr. 36/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 36/2009 Privind aprobarea preþului pentru depozitarea gunoiului menajer ºi industrial provenit de la persoanele fizice ºi juridice din Municipiul Roman ºi revocarea unei hotãrâri",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/036%20HCl%202009-02%20pret%20gunoi%20menajer%20si%20industrial.pdf",
+     "sha256": "0e228e5ee09857443a6b5f8d42e5513bb2bd9f0e01bf2060ba16d35528770b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2009",
+   "path": "local/neamt/roman/2009/37",
+   "short": "HCL Roman nr. 37/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2009 Privind aprobarea indicatorilor tehnico-economici precum ºi unele mãsuri pentru realizarea obiectivului de investiþii \"Înfiinþare ºi amenajare de spaþii verzi ºi locuri de joacã în Municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/037%20HCL%202009-02%20indicatori%20spatii%20verzi%20si%20locuri%20joaca.pdf",
+     "sha256": "3f24648b8f2aae79a9f4f53ddffacceda5baa2842bba4abeae2e74f037034a1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-38-2009",
+   "path": "local/neamt/roman/2009/38",
+   "short": "HCL Roman nr. 38/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 38/2009 Privind aprobarea trecerii unui teren din domeniul public al municipiului Roman în domeniul public al statului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/038%20HCL%202009-02%20trecere%20teren%20in%20domeniu%20public%20al%20statului.pdf",
+     "sha256": "f2d958b998683116154b110ae62e84de0a50a1333430df2f7487ff2177398405"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-39-2009",
+   "path": "local/neamt/roman/2009/39",
+   "short": "HCL Roman nr. 39/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 39/2009 Privind aprobarea Rapoartelor de evaluare ale Comisiei de Evaluare ºi atribuirea contractelor de delegare a gestiunii serviciului de transport public local prin curse regulate unor operatori de transport",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/039%20HCL%202009-02%20aprobare%20rapoarte%20evaluare.pdf",
+     "sha256": "df915d281ea9675f72a8889dd9be7afdba457c085c8717c1a79501c8a0f032de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-4-2009",
+   "path": "local/neamt/roman/2009/4",
+   "short": "HCL Roman nr. 4/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 4/2009 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/004%20HCL%202009-01%20validare%20mandat.pdf",
+     "sha256": "7c996b6252ca981d67d0c3312f098c190afbf177c49be28bb5c8ca27e07a620b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2009",
+   "path": "local/neamt/roman/2009/40",
+   "short": "HCL Roman nr. 40/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2009 Privind aprobarea Documentaþiei de atribuire pentru contractul de concesiune serviciul public de salubritate – pentru activitatea de Precolectare, colectare ºi transportul deºeurilor municipale, inclusiv a deºeurilor toxice periculoase din deºeurile menajere, cu excepþia celor cu regim special, din",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/040%20HCL%202009-02%20concesiune%20serviciu%20salubritate.pdf",
+     "sha256": "a24c541953f7ea919b3bb539b723047a033dc4b5c7ecf0206bd793c556eafc43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2009",
+   "path": "local/neamt/roman/2009/41",
+   "short": "HCL Roman nr. 41/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/041%20HCL%202009-02%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "97679c8fbd8d03da202d9e8f2109fefa05d7f717679ad111e9e8df37a911d79e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-42-2009",
    "path": "local/neamt/roman/2009/42",
    "short": "HCL Roman nr. 42/2009",
@@ -179,6 +1799,156 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/042%20HCL%202009-02%20ajustare%20tarife%20salubrizare.pdf",
      "sha256": "a071570a8d5238ba99cabf048d73e634c2861e2380fdd9db900c986e528fc6bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2009",
+   "path": "local/neamt/roman/2009/43",
+   "short": "HCL Roman nr. 43/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2009 Privind aprobarea v",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/043%20HCL%202009-03%20vanzare%20bunuri%20salubritate.pdf",
+     "sha256": "8be6b0ea0bdac6a5123e33166aa524b77273bf09f4dbb8452ccce32683864155"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2009",
+   "path": "local/neamt/roman/2009/44",
+   "short": "HCL Roman nr. 44/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "61183505fae540db283adb8ce13709f0ab4c0808cadaea7c1424be26c9334957"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2009",
+   "path": "local/neamt/roman/2009/45",
+   "short": "HCL Roman nr. 45/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/045%20HCL%202008-12%20modificare%20HCL%20137%20din%202007.pdf",
+     "sha256": "1494a4177b7445a7bf41420f68e3ef817084efeb7a4577f2ba02e7d759808a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2009",
+   "path": "local/neamt/roman/2009/46",
+   "short": "HCL Roman nr. 46/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/046%20HCL%202009-03%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "c7c7ab3eafaeb17adc4ee7c0a7f82473f7d5b29a64c17ed02ecb369eb9f2230e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2009",
+   "path": "local/neamt/roman/2009/47",
+   "short": "HCL Roman nr. 47/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2009 Privind aprobarea \"Planului integrat de de zvoltare urban ã pentru zona de acþiune centru - favorit\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/047%20HCL%202009-03%20Plan%20Integrat%20Dezvoltare.pdf",
+     "sha256": "fcce649de2ca00c8e3737bc221bbce6b95c6b6c2e58533b0dff7d35481791346"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2009",
+   "path": "local/neamt/roman/2009/48",
+   "short": "HCL Roman nr. 48/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2009 Privind aprobarea realizãrii obiectivului de investiþii \"Reabilitarea infrastructurii publice urbane a municipiului Roman - zonele: Scuar Hotel Roman, Pietonal ªtefan cel Mare - tronsoanele I ºi IV, Centru istoric Urban ªtefan cel Mare, zona Cartierelor Favorit ºi Cuza-Vodã\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/048%20HCL%202009-03%20Reabilitare%20strazi.pdf",
+     "sha256": "5943a707d759b5659c352832919d7e133c0eb67fbe0a523b2f6234ae7b54c117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-49-2009",
+   "path": "local/neamt/roman/2009/49",
+   "short": "HCL Roman nr. 49/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 49/2009 Privind aprobarea studiului de fezabilitate ºi a indicatorilor tehnico-economici pentru obiectivul de investiþii \"Reabilitarea infrastructurii publice urbane a municipiului Roman - zonele: Scuar Hotel Roman, Pietonal ªtefan cel Mare - tronsoanele I ºi IV, Centru istoric Urban ªtefan cel Mare, zona C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/049%20HCL%202009-3%20SF%20Reabilitare%20strazi.pdf",
+     "sha256": "f4dfe3f21959dfba1548f7f95999c83df63488586c5ce8ded71f1a9bca891882"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2009",
+   "path": "local/neamt/roman/2009/5",
+   "short": "HCL Roman nr. 5/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2009 Privind modul de organizare a apãrãrii împotriva incendiilor în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/005%20HCL%202009-01%20organizare%20impotriva%20incendiilor.pdf",
+     "sha256": "583b343e158fe3eeb9e5555b523244fad8740127b9a75efaa8d47505ca7af7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-50-2009",
+   "path": "local/neamt/roman/2009/50",
+   "short": "HCL Roman nr. 50/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 50/2009 Privind aprobarea realizãrii obiectivului de investiþii \"Creºterea siguranþei ºi prevenirea criminalitãþii în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/050%20HCL%202009-03%20Prevenire%20criminalitate.pdf",
+     "sha256": "b2cd7022de9b9d9a800554ea43eabd24386a820bd3bdf726ab8817a1249f5c7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2009",
+   "path": "local/neamt/roman/2009/51",
+   "short": "HCL Roman nr. 51/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2009 Privind aprobarea studiului de fezabilitate ºi a indicatorilor tehnico-economici pentru obiectivul de investiþii \"Creºterea siguranþei ºi prevenirea criminalitãþii în municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/051%20HCL%202009-03%20SF%20Prevenire%20criminalitate.pdf",
+     "sha256": "9520946aee51850d0678dae34747835c7af9ae639919093c69f80d583ac9f9f2"
     }
    ]
   },
@@ -198,6 +1968,111 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-54-2009",
+   "path": "local/neamt/roman/2009/54",
+   "short": "HCL Roman nr. 54/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 54/2009 Privind aprobarea unui studiu de fezabilitate (Construire drum legãturã între strada Cucutei ºi DJ 207A)",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/054%20HCL%202009-03%20aprobare%20studiu%20fezabilitate.pdf",
+     "sha256": "7cae998e29d1f83f74e34b82290a29d0ab8117897ffc7558249c8fbbbdeeeb16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-55-2009",
+   "path": "local/neamt/roman/2009/55",
+   "short": "HCL Roman nr. 55/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 55/2009 Privind acordarea de gratuitãþi pe mijloacele de transport urban de cãlãtori unor categorii sociale",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/055%20HCL%202009-03%20gratuitati%20transport%20urban.pdf",
+     "sha256": "fb83fa6ba4cf023660f4bdb4d46c5dc58447a1ddee5b4c86ff6d7f947b94ef33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-56-2009",
+   "path": "local/neamt/roman/2009/56",
+   "short": "HCL Roman nr. 56/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 56/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/056%20HCL%202009-03%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "6255c9b70e660865b6d4e8076a95e64e975638574c71e022b3bb01a49682d73c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-57-2009",
+   "path": "local/neamt/roman/2009/57",
+   "short": "HCL Roman nr. 57/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 57/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d1aac3bb2965bf8671f1adb0f2c5ceb23d1f3f4068828a7bf14f00ad6f841cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2009",
+   "path": "local/neamt/roman/2009/58",
+   "short": "HCL Roman nr. 58/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/058%20HCL%202009-03%20separare%20apa.pdf",
+     "sha256": "a1030081e1a5725d444fd21d6142656102143adb041b3247e5e3cf22628b947c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2009",
+   "path": "local/neamt/roman/2009/59",
+   "short": "HCL Roman nr. 59/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4ceeaa1ab9a9465acc61543127360af08fed948ed7b721ed268968dff6ef4736"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2009",
+   "path": "local/neamt/roman/2009/6",
+   "short": "HCL Roman nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2009 Privind numirea cadrului tehnic sau a personalului de specialitate cu atribuþii în domeniul apãrãrii împotriva incendiilor",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/006%20HCL%202009-01%20numire%20cadru%20tehnic%20PSI.pdf",
+     "sha256": "931fdc32b5f8f48e7a709cbba029ab91040d794e28e11e1b4346dd251dd8f73d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-60-2009",
    "path": "local/neamt/roman/2009/60",
    "short": "HCL Roman nr. 60/2009",
@@ -209,6 +2084,51 @@
      "units": 3,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/060%20HCL%202009-03%20Regulament%20facilitati%20fiscale.pdf",
      "sha256": "c31fd30373b3c83fbd80c6edee66bf1dfffc78fd2c3201b9a2b33f4c83668f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-61-2009",
+   "path": "local/neamt/roman/2009/61",
+   "short": "HCL Roman nr. 61/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 61/2009 Privind aprobarea transmiterii în folosinþã gratuitã a unui spaþiu dintr-un imobil cãtre Asociaþia Sportivã Fotbal Club Municipal Petrotub Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/061%20HCL%202009-03%20transmitere%20spatiu%20Laminorul.pdf",
+     "sha256": "d7403e889c917d34aa351b367599af08f8e3861f3f605c6da991297f19913eba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-62-2009",
+   "path": "local/neamt/roman/2009/62",
+   "short": "HCL Roman nr. 62/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2009 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/062%20HCL%202009-03%20concesionari%20terenuri.pdf",
+     "sha256": "cf3b05308e965a93786865b20f3333df7163c4ba969ac050bde8f54035fce25e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-63-2009",
+   "path": "local/neamt/roman/2009/63",
+   "short": "HCL Roman nr. 63/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 63/2009 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/063%20HCL%202009-03%20documentatii%20urbanism.pdf",
+     "sha256": "73f668997ced370204b2f379389e9f7699af276bb7cb2d0ea383fea807b6b4f4"
     }
    ]
   },
@@ -228,6 +2148,231 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-66-2009",
+   "path": "local/neamt/roman/2009/66",
+   "short": "HCL Roman nr. 66/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 66/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/066%20HCL%202009-03%20modificare%20HCL%20155%20din%202008.pdf",
+     "sha256": "86e275e244a7f1a0e548bad0644831575b67c134bb807d6d60747e8dcfabba7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-67-2009",
+   "path": "local/neamt/roman/2009/67",
+   "short": "HCL Roman nr. 67/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 67/2009 Privind aprobarea bugetului general consolidat pe anul 2009 ºi a listelor de investiþii din bugetul local ºi din fondul de rulment",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/067%20HCL%202009-03%20aprobare%20buget%20si%20fond%20rulment.pdf",
+     "sha256": "cbdd79a0bf94c70eef7eb9e2b7275da7de9089f693092a80cf84ebe1e5e0814a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-68-2009",
+   "path": "local/neamt/roman/2009/68",
+   "short": "HCL Roman nr. 68/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 68/2009 Nr. 68 din 14.04.2009 Privind modificarea Hotărârii Consiliului Local al municipiului Roman nr. 147 din 15.11.2007 privind constituirea Asociației de dezvoltare intercomunitară „AQUA NEAMȚ”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/068%20HCL%202009-04%20modificare%20Aqua%20Neamt.pdf",
+     "sha256": "c29151369691db39a3529d43a06a0e39257a9fb2cfa68ecda4750b3312ccbe97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2009",
+   "path": "local/neamt/roman/2009/69",
+   "short": "HCL Roman nr. 69/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Reabilitarea, modernizarea ºi echiparea clãdirii destinate serviciilor sociale din municipiul Roman, str. Speranþei, nr. 11\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/069%20HCL%202009-04%20studiu%20fezabilitate%20%20Cantina.pdf",
+     "sha256": "2373e18bf0245e67a21b9b6d2bb7958b828dd5b53ce40d401520b28ff0756052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2009",
+   "path": "local/neamt/roman/2009/7",
+   "short": "HCL Roman nr. 7/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2009 Privind adoptarea unor mãsuri de optimizare a capacitãþii de apãrare împotriva incendiilor pe teritoriul municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/007%20HCL%202009-01%20masuri%20optimizare%20si%20aparare%20incendii.pdf",
+     "sha256": "7d828e65e19ccd7b17ea9cc5caeef0bf160d07edac708524023bcbfef5fcb6f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2009",
+   "path": "local/neamt/roman/2009/70",
+   "short": "HCL Roman nr. 70/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Moderizarea, reabilitarea ºi dotarea ªcolii cu clasele I-VIII, nr. 5, Roman\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/070%20HCL%202009-04%20studiu%20fezabilitate%20Scoala%205.pdf",
+     "sha256": "8562198dc10210d09b7b20802580bcd4f0e0ce91c71334f2424e9631ec6922f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-71-2009",
+   "path": "local/neamt/roman/2009/71",
+   "short": "HCL Roman nr. 71/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 71/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Dezvoltarea, modernizarea ºi reabilitarea Colegiului tehnic \"Miron Costin\" Roman pentru îmbunãtãþirea calitãþii în educaþie\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/071%20HCL%202009-04%20studiu%20fezabilitate%20Miron%20Costin.pdf",
+     "sha256": "d380588cac467db8c19c33f1db12a5f6dda907ec345dd671d2a3f9c7a29ce338"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2009",
+   "path": "local/neamt/roman/2009/72",
+   "short": "HCL Roman nr. 72/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Îmbunãtãþirea calitãþii în educaþie prin reabilitarea, modernizarea ºi dotarea ªcolii cu clasele I-VIII, nr. 1, Roman\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/072%20HCL%202009-04%20studiu%20fezabilitate%20Scoala%201.pdf",
+     "sha256": "1a009ec5c59902488764827a912e134e53ba80e3bbb44f450dc4b211bb843c7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-73-2009",
+   "path": "local/neamt/roman/2009/73",
+   "short": "HCL Roman nr. 73/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 73/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Reabilitarea, modernizarea ºi dotarea Colegiului Naþional \"Roman-Vodã\" în vederea îmbunãtãþirii calitãþii infrastructurii educaþionale\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/073%20HCL%202009-04%20studiu%20fezabilitate%20CNRV.pdf",
+     "sha256": "08209f7a6189948f58c3a72a8a878bf1d1b014f07b22f7c79bf802273ff82cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-74-2009",
+   "path": "local/neamt/roman/2009/74",
+   "short": "HCL Roman nr. 74/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 74/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "351d08e6437c6f0f7ace6977ce7cb025c2afcd0806e362a44142907c1117148c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-75-2009",
+   "path": "local/neamt/roman/2009/75",
+   "short": "HCL Roman nr. 75/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 75/2009 Privind aprobarea studiului de fezabilitate, a realizãrii obiectivului de investiþii \"Consolidarea, modernizarea, dezvoltarea ºi echiparea Seminarului Teologic Ortodox \"Sf. Gheorghe\" Roman\" ºi a cheltuielilor aferente",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/075%20HCL%202009-04%20studiu%20fezabilitate%20Seminar.pdf",
+     "sha256": "0e967037c42e6108174e63384632af5a3d6ace8c2e72f5bbc3734905edc2be58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-76-2009",
+   "path": "local/neamt/roman/2009/76",
+   "short": "HCL Roman nr. 76/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 76/2009 Privind aprobarea asocierii Municipiului Roman la Asociaþia de Dezvoltare Intercomunitarã \"Roman Metropolitan\", precum ºi aprobarea Actului Constitutiv ºi a Statutului Asociaþiei de Dezvoltare Intercomunitarã \"Roman Metropolitan\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/076%20HCL%202009-04%20Roman%20Metropolitan.pdf",
+     "sha256": "cca03a26253f73c467f819d7b6d4ce99ade86b18e0e4e856c20c3da2ad55c3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-77-2009",
+   "path": "local/neamt/roman/2009/77",
+   "short": "HCL Roman nr. 77/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 77/2009 Privind utilizarea fondului de rulment pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/077%20HCL%202009-04%20utilizare%20fond%20rulment.pdf",
+     "sha256": "9da657a4f45555a9606fd60180bfd4a9018228ff166a20b84ae179bd6ec6da82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-78-2009",
+   "path": "local/neamt/roman/2009/78",
+   "short": "HCL Roman nr. 78/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 78/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/078%20HCL%202009-03%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "04af9b3f6577d528946f0482608da92094b6d39b2ed4a6f64b3d484d78e32f42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-79-2009",
+   "path": "local/neamt/roman/2009/79",
+   "short": "HCL Roman nr. 79/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 79/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f649eab63bf676f60d37037c3f3046c6751d44e7afc67b865c1ce4e49cf4bd47"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-8-2009",
    "path": "local/neamt/roman/2009/8",
    "short": "HCL Roman nr. 8/2009",
@@ -239,6 +2384,231 @@
      "units": 1,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/008%20HCL%202009-01%20aprobare%20tarife%20Polivalenta%20si%20terenuri%20de%20sport.pdf",
      "sha256": "d7b091866cb5ec8b8e130aea28c23e8770a8b51e156f32a14efbb1c4a994d152"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-80-2009",
+   "path": "local/neamt/roman/2009/80",
+   "short": "HCL Roman nr. 80/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 80/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3449586abcd44e55a74fa1a293c98ad71e1e26e089bd5065ee9d4a3cfc613137"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-82-2009",
+   "path": "local/neamt/roman/2009/82",
+   "short": "HCL Roman nr. 82/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 82/2009 Privind aprobarea unui",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/082%20HCL%202009-04%20studiu%20de%20fezabilitate.pdf",
+     "sha256": "13683832783f0c512328f3b41dc9a59128873d57091d00a4f43bbe3b510898cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-83-2009",
+   "path": "local/neamt/roman/2009/83",
+   "short": "HCL Roman nr. 83/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 83/2009 Privind aprobarea achiziþionãrii unui teren pentru realizarea Arterei Roman-Est",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/083%20HCL%202009-04%20achizitionare%20teren.pdf",
+     "sha256": "eb15ebb828720ad29f0479cecccfee05346ec9c14cad7f927ceb04d7a616ed40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-84-2009",
+   "path": "local/neamt/roman/2009/84",
+   "short": "HCL Roman nr. 84/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 84/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/084%20HCL%202009-04%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "3e98de619253c7106178e2f1b7badc9015f53a49168f429f3a1e27ec3d2dae73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2009",
+   "path": "local/neamt/roman/2009/86",
+   "short": "HCL Roman nr. 86/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "68885b60cafe10074550277b04dad81489d7a8a908690d24679c259d01e02f1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2009",
+   "path": "local/neamt/roman/2009/87",
+   "short": "HCL Roman nr. 87/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2009 Privind aprobarea concesionãrii unor terenuri pentru construcþii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/087%20HCL%202009-04%20concesiuni%20teren.pdf",
+     "sha256": "0c362c83fd4a38444f231803c7118bc646651e88678831456efb9a5c4b5c7cae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-88-2009",
+   "path": "local/neamt/roman/2009/88",
+   "short": "HCL Roman nr. 88/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 88/2009 Privind aprobarea unor documentaþii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/088%20HCL%202009-04%20documentatii%20urbanism.pdf",
+     "sha256": "59345713ab014411eded24bd0e9f6864d259637714d880695d7b02971cb2ee80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-89-2009",
+   "path": "local/neamt/roman/2009/89",
+   "short": "HCL Roman nr. 89/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 89/2009 Privind modificarea bugetului local pe anul 2009",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/089%20HCL%202009-04%20modificare%20buget%20local.pdf",
+     "sha256": "e66f1bef3f767671e01d84be884193320c0c7a18b8325a88ed918fa112cadec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-92-2009",
+   "path": "local/neamt/roman/2009/92",
+   "short": "HCL Roman nr. 92/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 92/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2da388c8713808c16fd9d750d97830eea83615c32364c2062daeb5980ea1508f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-94-2009",
+   "path": "local/neamt/roman/2009/94",
+   "short": "HCL Roman nr. 94/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 94/2009 Privind aprobarea concesionãrii a unui spaþiu cu destinaþia de cabinet medical din cadrul Policlinicii Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/094%20HCL%202009-04%20concesionare%20cabinet%20medical.pdf",
+     "sha256": "aaa72ec3ab558470e673d04036244043934f205875024ba7964f17ae4e420ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-95-2009",
+   "path": "local/neamt/roman/2009/95",
+   "short": "HCL Roman nr. 95/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 95/2009 Privind darea în administrare a unui imobil cãtre ªcoala de Artã Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/095%20HCL%202009-04%20dare%20in%20administrare%20Scoala%20Arta.pdf",
+     "sha256": "2859d5edbb25e382d79c96f41ee2778941b718c7eb5e5e4814406a354059a29e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-96-2009",
+   "path": "local/neamt/roman/2009/96",
+   "short": "HCL Roman nr. 96/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 96/2009 Privind delegarea gestiunii serviciului de alimentare cu apã ºi de canalizare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/096%20HCL%202009-05%20delegare%20serviciu%20apa%20canal.pdf",
+     "sha256": "9276924bf7350a5e7dded4a3ee1cee5b2569d3ae790bdb7158f72f4b3a471c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-97-2009",
+   "path": "local/neamt/roman/2009/97",
+   "short": "HCL Roman nr. 97/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 97/2009 Privind aprobarea Master Planului Judeþului Neamþ pentru apã ºi apã uzatã",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/097%20HCL%202009-05%20MASTER%20PLAN%20Jud%20Neamt.pdf",
+     "sha256": "c05cf0911c0c7667190787b8d3ad17d879c724f86ca34e8bb466712c70ca55b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-98-2009",
+   "path": "local/neamt/roman/2009/98",
+   "short": "HCL Roman nr. 98/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 98/2009 Privind aprobarea efectuãrii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/098%20HCL%202009-05%20efectuare%20cheltuieli%20buget%20local.pdf",
+     "sha256": "ff23766ef212cb23cdd7aa8afa39a66ac441eb04dee561925b7c8ba784555e77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-99-2009",
+   "path": "local/neamt/roman/2009/99",
+   "short": "HCL Roman nr. 99/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 99/2009 Privind aprobarea unui studiu de fezabilitate \"Microhidrocentralã pe râul Moldova - municipiul Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2009/",
+   "versions": [
+    {
+     "from": "2009-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2009/099%20HCL%202009-05%20studiu%20fezabilitate.pdf",
+     "sha256": "2de4f1b30da7ea0ec16383d7959e6808823115d9b26eeb4c5f175a991a8c75ea"
     }
    ]
   }

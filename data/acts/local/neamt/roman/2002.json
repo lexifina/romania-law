@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/neamt/roman/2002",
+"acts": [
+{
+"slug": "hcl-neamt--roman-27-2002",
+"path": "local/neamt/roman/2002/27",
+"kind": "local",
+"year": "2002",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2002 Privind modificarea si completarea HCL nr. 27 din 28.03.2002",
+"short": "HCL Roman nr. 27/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-03-28",
+"latest": "2002-03-28",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-neamt--roman-62-2002",
+"path": "local/neamt/roman/2002/62",
+"kind": "local",
+"year": "2002",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roman nr. 62/2002 Privind modificarea si completarea HCL nr .62 din 11 iulie 2002",
+"short": "HCL Roman nr. 62/2002",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2002-07-11",
+"latest": "2002-07-11",
+"portal": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2003/",
+"council": "neamt/roman",
+"council_name": "Consiliul Local al Municipiului Roman",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,2496 @@
+{
+ "country": "RO",
+ "shard": "local/olt/caracal/2025",
+ "acts": [
+  {
+   "slug": "hcl-olt--caracal-1-2025",
+   "path": "local/olt/caracal/2025/1",
+   "short": "HCL Caracal nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 1/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-01-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.01din31.01.2025.pdf",
+     "sha256": "f4db521e3e2d7bf96e8b91b65e6d774a9e86254ebabd210c5bd41ad5731b719a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-10-2025",
+   "path": "local/olt/caracal/2025/10",
+   "short": "HCL Caracal nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 10/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-24-27-11-2024/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.10din31.01.2025.pdf",
+     "sha256": "481097f82de09fbd8f9a191e35fd40daec54defd7f77bb31a0a37a4538fc7ebe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-100-2025",
+   "path": "local/olt/caracal/2025/100",
+   "short": "HCL Caracal nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 100/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.100din30.07.2025.pdf",
+     "sha256": "1c8ad1f26e2e1b2582a7e4cb48f25a6fd527104566d98777c8ab4bd46f19e20c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-101-2025",
+   "path": "local/olt/caracal/2025/101",
+   "short": "HCL Caracal nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 101/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-52-21-05-2019/",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/08/HCLnr.101din21.08.2025.pdf",
+     "sha256": "ffb828b8951196c6299bb4a0e4a224147f4f9aa7d461cbfd1f77d99eeacb0657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-102-2025",
+   "path": "local/olt/caracal/2025/102",
+   "short": "HCL Caracal nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 102/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-169-27-09-2024/",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/08/HCLnr.102din21.08.2025.pdf",
+     "sha256": "02170d30ea27d766dcacfff0439cfee6d3cf49249fde69339cb0c1edd3b98f4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-103-2025",
+   "path": "local/olt/caracal/2025/103",
+   "short": "HCL Caracal nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 103/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-04-31-10-2024/",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/08/HCLnr.103din21.08.2025.pdf",
+     "sha256": "32eb34c4e399ff047b70a1b995c0239383b98a7befc6505f6bd76d6051a8e912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-11-2025",
+   "path": "local/olt/caracal/2025/11",
+   "short": "HCL Caracal nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 11/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-28-18-12-2024/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.11din31.01.2025.pdf",
+     "sha256": "972b33e5c94f9d4ea80ee80d910e1d944f512282065e822f98e6eeed0a4e25be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-112-2025",
+   "path": "local/olt/caracal/2025/112",
+   "short": "HCL Caracal nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 112/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.112din29.08.2025.pdf",
+     "sha256": "ef66cc8e793b784a890408a700b30403ec0404e7d2709899381e1d3e3e3fdae8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-115-2025",
+   "path": "local/olt/caracal/2025/115",
+   "short": "HCL Caracal nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 115/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.115din29.08.2025.pdf",
+     "sha256": "d8d3089d6012b61db453027b1d779ff502b38c197866093a3ee9b89d0290342d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-118-2025",
+   "path": "local/olt/caracal/2025/118",
+   "short": "HCL Caracal nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 118/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-52-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.118din03.09.2025.pdf",
+     "sha256": "cc2defaf7207c2178acc56b5cd23ebe6e49838974431aac2a5293bb60081f2c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-119-2025",
+   "path": "local/olt/caracal/2025/119",
+   "short": "HCL Caracal nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 119/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-53-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.119din03.09.2025.pdf",
+     "sha256": "d1d80d31be71389b5af01a0d34343a95f5586b5401f96b4d67b2678d7dc92da0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-121-2025",
+   "path": "local/olt/caracal/2025/121",
+   "short": "HCL Caracal nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 121/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-51-21-03-2024/",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.121din17.09.2025.pdf",
+     "sha256": "aaf1669464dc52e9fecdd28e69bc5dc08a7d558a138711f571f15b6ad76e45b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-122-2025",
+   "path": "local/olt/caracal/2025/122",
+   "short": "HCL Caracal nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 122/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-209-16-11-2023/",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.122din17.09.2025.pdf",
+     "sha256": "aca17ac25bf8eb7fffa6af517db3a003788ccc38a0f5c00de78681561b3102f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-123-2025",
+   "path": "local/olt/caracal/2025/123",
+   "short": "HCL Caracal nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 123/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-123-05-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.123din17.09.2025.pdf",
+     "sha256": "af876504e53eda4b7b76d787c076b6f77031827f5ad815e6d067121bc7a18b9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-124-2025",
+   "path": "local/olt/caracal/2025/124",
+   "short": "HCL Caracal nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 124/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-124-23-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/09/HCLnr.124din23.09.2025.pdf",
+     "sha256": "0e05805011c08dcac39364fbc0c1a8f6df169790299f14d7c4d5a9ee942a2d2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-125-2025",
+   "path": "local/olt/caracal/2025/125",
+   "short": "HCL Caracal nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 125/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-125-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.125din30.09.2025.pdf",
+     "sha256": "86c9f88fd44743c636d2340c2c56171eeec45d50452901adb1851ddc0968923b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-126-2025",
+   "path": "local/olt/caracal/2025/126",
+   "short": "HCL Caracal nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 126/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-126-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.126din30.09.2025.pdf",
+     "sha256": "d0b1d8b758c5fb848b3590e156eb4597e7cf4ffb4480a421d47eb83c7db20848"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-127-2025",
+   "path": "local/olt/caracal/2025/127",
+   "short": "HCL Caracal nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 127/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-127-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.127din30.09.2025.pdf",
+     "sha256": "a28019acc7a4888ada16f764b875dbe3165b593b203b965cdea70f4b27f9bf2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-128-2025",
+   "path": "local/olt/caracal/2025/128",
+   "short": "HCL Caracal nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 128/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-128-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.128din30.09.2025.pdf",
+     "sha256": "3939866e6b0c3e36b41feb0e065f9236c71d090baa7dd6dcd499e0b3a34664c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-129-2025",
+   "path": "local/olt/caracal/2025/129",
+   "short": "HCL Caracal nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 129/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-129-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.129din30.09.2025-1.pdf",
+     "sha256": "51761c43020f3131bbc963616f253bc5e4af4eb2718f43289032767bb4b2611a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-13-2025",
+   "path": "local/olt/caracal/2025/13",
+   "short": "HCL Caracal nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 13/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.13din31.01.2025.pdf",
+     "sha256": "b05d226051bf2c346df5498492fb070a10a7e04306fb5c4d079d25c60c3ad18d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-130-2025",
+   "path": "local/olt/caracal/2025/130",
+   "short": "HCL Caracal nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 130/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.130din30.09.2025.pdf",
+     "sha256": "6548f900a2f4e5fdcce4f57ca08b6c975a43738d375a325b12f84a89f61d9b98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-131-2025",
+   "path": "local/olt/caracal/2025/131",
+   "short": "HCL Caracal nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 131/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-131-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.131din30.09.2025.pdf",
+     "sha256": "958b2f6041c279403be01fd82e7ed3e4991023479c60a33a705eb3a01c8ba435"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-132-2025",
+   "path": "local/olt/caracal/2025/132",
+   "short": "HCL Caracal nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 132/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-132-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.132din30.09.2025.pdf",
+     "sha256": "dd4f73f6cf484f1f0591a66866aefd0159dac4663b56fb0595fe66ad42726243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-133-2025",
+   "path": "local/olt/caracal/2025/133",
+   "short": "HCL Caracal nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 133/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-133-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.133din30.09.2025.pdf",
+     "sha256": "13f746e4c4c9a4e3c1d62f2c2730f4c62b06efa989fbabd73fa24e5e8401cfa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-134-2025",
+   "path": "local/olt/caracal/2025/134",
+   "short": "HCL Caracal nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 134/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-01-16-01-2024/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.134din30.09.2025.pdf",
+     "sha256": "a820ab4be34a60b6faaafa3065ab0723e27f410bef8ed25fcf715b7da63a7b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-135-2025",
+   "path": "local/olt/caracal/2025/135",
+   "short": "HCL Caracal nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 135/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-135-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.135din30.09.2025.pdf",
+     "sha256": "e96d3911251351869c18a230a67799f09215b9e4a957aebb7c5057f7448831ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-136-2025",
+   "path": "local/olt/caracal/2025/136",
+   "short": "HCL Caracal nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 136/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.136din30.09.2025.pdf",
+     "sha256": "ec4d6577d19dd6a90535420e8163a3405300b0b3ce99b8e3ad0726a9b6935054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-137-2025",
+   "path": "local/olt/caracal/2025/137",
+   "short": "HCL Caracal nr. 137/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 137/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-137-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.137din30.09.2025.pdf",
+     "sha256": "b41dc0d5ff0a705eb27b309f0679e0f5b3d3177151447a681ea5de0bdeb6fb56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-138-2025",
+   "path": "local/olt/caracal/2025/138",
+   "short": "HCL Caracal nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 138/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.138din30.09.2025.pdf",
+     "sha256": "1a1f830a73bc595df86e6c809c51a4f405db91f4ac074dc7b251db49f2e419f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-139-2025",
+   "path": "local/olt/caracal/2025/139",
+   "short": "HCL Caracal nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 139/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-139-03-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.139din03.10.2025.pdf",
+     "sha256": "ba0ee4612f5075ea0fc8f54e46d7d318500c964dc09c45a08e4e3dd820410ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-14-2025",
+   "path": "local/olt/caracal/2025/14",
+   "short": "HCL Caracal nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 14/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-14-31-01-202/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.14din31.01.2025.pdf",
+     "sha256": "3f76f5b707ddd82e3607bc11313f9424c023ef79d8222eecd1a4c885ed46c12a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-140-2025",
+   "path": "local/olt/caracal/2025/140",
+   "short": "HCL Caracal nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 140/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-140-03-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.140din03.10.2025.pdf",
+     "sha256": "3962583f6758f2012d8b1108773578f5d58cac2566f12c3ba9b2fa7a56a2d440"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-141-2025",
+   "path": "local/olt/caracal/2025/141",
+   "short": "HCL Caracal nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 141/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-38-18-12-2024/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.141din03.10.2025.pdf",
+     "sha256": "02bdbf3b120cc4c3eb4a94298041a2727a210442fccced93ade363465b165c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-142-2025",
+   "path": "local/olt/caracal/2025/142",
+   "short": "HCL Caracal nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 142/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-29-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.142din03.10.2025.pdf",
+     "sha256": "da1f7e05118779b76152323ec086cdb6510a2432ee6edab679a5e11c56a2b1d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-143-2025",
+   "path": "local/olt/caracal/2025/143",
+   "short": "HCL Caracal nr. 143/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 143/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-143-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.143din17.10.2025.pdf",
+     "sha256": "732b57c8cfb05a6fbfa74411f191bde1083459c7852ac8e6315a5c7b133d005a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-144-2025",
+   "path": "local/olt/caracal/2025/144",
+   "short": "HCL Caracal nr. 144/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 144/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-144-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.144din17.10.2025.pdf",
+     "sha256": "c23d6ef93ac68a666da2f27237ba4af4672f67dd7d6aa85162880f5c91008616"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-145-2025",
+   "path": "local/olt/caracal/2025/145",
+   "short": "HCL Caracal nr. 145/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 145/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-145-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.145din17.10.2025.pdf",
+     "sha256": "5bd56bdf2b8e1e6c95a89a0876216df9c30e0f2b978422dfb8bdbfa4450e5caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-146-2025",
+   "path": "local/olt/caracal/2025/146",
+   "short": "HCL Caracal nr. 146/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 146/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-146-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.146din17.10.2025.pdf",
+     "sha256": "e40c3ca5939ca0111990510d84cc28ce04c34d7c0c93753b744a9869aab52ddc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-147-2025",
+   "path": "local/olt/caracal/2025/147",
+   "short": "HCL Caracal nr. 147/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 147/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-147-17-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.147din17.10.2025.pdf",
+     "sha256": "a0caa804b48e42b7974f32d5f3287d623d89652cd0c3d34e0397f22b0ad0e336"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-148-2025",
+   "path": "local/olt/caracal/2025/148",
+   "short": "HCL Caracal nr. 148/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 148/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-148-23-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/10/HCLnr.148din23.10.2025.pdf",
+     "sha256": "0f0e8e09ce0b98a3f91ce993fd127d8776e1fc3a648b50206fe53cb23dd5d3cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-149-2025",
+   "path": "local/olt/caracal/2025/149",
+   "short": "HCL Caracal nr. 149/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 149/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-149-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.149din31.10.2025.pdf",
+     "sha256": "4986a53789357e7fe54f5879dfd09b4c5348387f70089d845fc75b66b7fa39dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-15-2025",
+   "path": "local/olt/caracal/2025/15",
+   "short": "HCL Caracal nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 15/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-03-31-10-2024/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.15din31.01.2025.pdf",
+     "sha256": "ab0ca994ce578393a76e24559580ee43ae975d6eef4b7496cb73ddcf4ae88319"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-150-2025",
+   "path": "local/olt/caracal/2025/150",
+   "short": "HCL Caracal nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 150/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-150-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.150din31.10.2025.pdf",
+     "sha256": "cfaba07dc8b5089e119e9c0cbbdd3e2ff14d9b23396569aeed5d30618769385a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-151-2025",
+   "path": "local/olt/caracal/2025/151",
+   "short": "HCL Caracal nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 151/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-151-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.151din31.10.2025.pdf",
+     "sha256": "a3cd037e7c2a2da8373d0aafc76e2aaa01cd053dbdcf3ac3a2b9ba5a08b1b4a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-152-2025",
+   "path": "local/olt/caracal/2025/152",
+   "short": "HCL Caracal nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 152/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.152din31.10.2025.pdf",
+     "sha256": "d330f8281c4b0338b882005fdf843a5b4021bcdd3b618df91b9095244068f107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-153-2025",
+   "path": "local/olt/caracal/2025/153",
+   "short": "HCL Caracal nr. 153/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 153/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-153-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.153din31.10.2025.pdf",
+     "sha256": "36d607ff5f76e4c6b05c4512dfb9887afbada8ab0e28c03a9742f099e060fab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-154-2025",
+   "path": "local/olt/caracal/2025/154",
+   "short": "HCL Caracal nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 154/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-154-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.154din31.10.2025.pdf",
+     "sha256": "671ec2486d4984c03e94966304c5cce0c9a049d30563be69d9425ff871ef5aa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-155-2025",
+   "path": "local/olt/caracal/2025/155",
+   "short": "HCL Caracal nr. 155/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 155/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2007/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.155din31.10.2025.pdf",
+     "sha256": "9a3b566612859fc972be43b2abf52fc3d6ea3854600e8527358db16d7910bf33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-156-2025",
+   "path": "local/olt/caracal/2025/156",
+   "short": "HCL Caracal nr. 156/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 156/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-156-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.156din31.10.2025.pdf",
+     "sha256": "8e31acac4fead85544cb83430b4fb76267b48170d92a5b9eb8f85bfe4fd5dd7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-157-2025",
+   "path": "local/olt/caracal/2025/157",
+   "short": "HCL Caracal nr. 157/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 157/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-157-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.157din31.10.2025.pdf",
+     "sha256": "58121ed4362780b6618e3b53959435426f2fa3e31adbe37de44e520ad84f764c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-158-2025",
+   "path": "local/olt/caracal/2025/158",
+   "short": "HCL Caracal nr. 158/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 158/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-158-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.158din31.10.2025.pdf",
+     "sha256": "717ba7ebcdfdf121485b446d8fe238f6cd3e8395bfc0176f8218d6a3d56efa8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-159-2025",
+   "path": "local/olt/caracal/2025/159",
+   "short": "HCL Caracal nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 159/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-159-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.159din31.10.2025.pdf",
+     "sha256": "6585640af37e28f1688dfed87a2a21a4ee18027cefbcf23162f3193e368f681b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-16-2025",
+   "path": "local/olt/caracal/2025/16",
+   "short": "HCL Caracal nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 16/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-241-27-12-2022/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.16din31.01.2025.pdf",
+     "sha256": "4cd0f0fc9cb768c362dfae08ec330256fb62f6d4107e7ab00fc509a65ffbc028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-160-2025",
+   "path": "local/olt/caracal/2025/160",
+   "short": "HCL Caracal nr. 160/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 160/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-160-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.160din31.10.2025.pdf",
+     "sha256": "f8ad7a7aacd764beeefcd35c75ea204b6380e7764890d4b767757e2ed99ba729"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-161-2025",
+   "path": "local/olt/caracal/2025/161",
+   "short": "HCL Caracal nr. 161/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 161/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-161-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.161din31.10.2025.pdf",
+     "sha256": "99f457928be08cdc2b687ff76cb0720fc7a88e662c3249136805221b23af3461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-162-2025",
+   "path": "local/olt/caracal/2025/162",
+   "short": "HCL Caracal nr. 162/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 162/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-162-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.162din31.10.2025.pdf",
+     "sha256": "5049e6e666914a5c69bc3d950bd9b6a10bbb1050bfd4a34ddcd3f14d7b31e3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-163-2025",
+   "path": "local/olt/caracal/2025/163",
+   "short": "HCL Caracal nr. 163/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 163/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-163-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.163din31.10.2025.pdf",
+     "sha256": "465a9d7b4865aeee7cdbc0839ff6efc464061b1c0f2225260246a3b0dead869c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-164-2025",
+   "path": "local/olt/caracal/2025/164",
+   "short": "HCL Caracal nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 164/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-164-31-10-2025/",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.164din31.10.2025.pdf",
+     "sha256": "69ee378e17548a5dfab677e90fc712c437ba54cbe154cf653ce7e6c6ca75ec3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-165-2025",
+   "path": "local/olt/caracal/2025/165",
+   "short": "HCL Caracal nr. 165/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 165/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-165-06-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.165din06.11.2025.pdf",
+     "sha256": "97579064ea4682d08338fb62d85b1fe480ec0e50ba52963bf2d0c4806051a51f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-166-2025",
+   "path": "local/olt/caracal/2025/166",
+   "short": "HCL Caracal nr. 166/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 166/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-221-27-11-2023-copy-copy-copy/",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.166din14.11.2025.pdf",
+     "sha256": "caac22ce7526d43edbf9f1d41fe4e501eea0b496160d171a756f8321d32d8c31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-167-2025",
+   "path": "local/olt/caracal/2025/167",
+   "short": "HCL Caracal nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 167/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-167-26-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/11/HCLnr.167din26.11.2025.pdf",
+     "sha256": "a454edfac0291896a9c709db17b645c77fb1176bfb8ec208323054c07516c2a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-168-2025",
+   "path": "local/olt/caracal/2025/168",
+   "short": "HCL Caracal nr. 168/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 168/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-168-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.168din28.11.2025.pdf",
+     "sha256": "1c984ddadbfc1767666e4beefd27d98a92004bd762f5273d7cdaea15f1df7221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-169-2025",
+   "path": "local/olt/caracal/2025/169",
+   "short": "HCL Caracal nr. 169/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 169/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-169-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.169din28.11.2025.pdf",
+     "sha256": "4a8da198935e68b4f63d3c4ef75245c1a6e3df5b6c7d97647a0b021beb243a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-17-2025",
+   "path": "local/olt/caracal/2025/17",
+   "short": "HCL Caracal nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 17/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-17-06-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.17din06.02.2025.pdf",
+     "sha256": "3536b0f5c4d83f383c54b69d539bcc1ebe625f9f01aabb5e78fcb3eeb73734fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-170-2025",
+   "path": "local/olt/caracal/2025/170",
+   "short": "HCL Caracal nr. 170/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 170/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.170din28.11.2025.pdf",
+     "sha256": "a30a6ea68175ef71b232ff93f8721f1fe1c6bd2cd109b7d42418f92e50053edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-171-2025",
+   "path": "local/olt/caracal/2025/171",
+   "short": "HCL Caracal nr. 171/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 171/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-171-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.171din28.11.2025.pdf",
+     "sha256": "b13b0e9ad8e447504370976d80bf36e38f4048515bae08ca63e271a20c22a8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-172-2025",
+   "path": "local/olt/caracal/2025/172",
+   "short": "HCL Caracal nr. 172/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 172/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-172-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.172din28.11.2025.pdf",
+     "sha256": "844b08594970e40e1a20413b1ddfb35c62d1f7840c40e0b2880043c265ba2658"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-173-2025",
+   "path": "local/olt/caracal/2025/173",
+   "short": "HCL Caracal nr. 173/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 173/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-173-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.173din28.11.2025.pdf",
+     "sha256": "6986fb716daa44d6bc2e6939adc468986056e1573be3f70168c85d6be488e3b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-174-2025",
+   "path": "local/olt/caracal/2025/174",
+   "short": "HCL Caracal nr. 174/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 174/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-157-31-10-2019/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.174din28.11.2025.pdf",
+     "sha256": "eb586bca654fd301a7c26f5b04918a9a2a5c3e12642d8fde222a2dab195e1e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-175-2025",
+   "path": "local/olt/caracal/2025/175",
+   "short": "HCL Caracal nr. 175/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 175/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-175-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.175din28.11.2025.pdf",
+     "sha256": "dae5b1c71c1d6164d72bc2c4a86c41de44f7b8f70bb82e3a2eab4b89a3123820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-176-2025",
+   "path": "local/olt/caracal/2025/176",
+   "short": "HCL Caracal nr. 176/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 176/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-176-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.176din28.11.2025.pdf",
+     "sha256": "d10087814ae0ea629d183affe77d70004dc0e3d6e7866bea7e7de8893da71728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-177-2025",
+   "path": "local/olt/caracal/2025/177",
+   "short": "HCL Caracal nr. 177/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 177/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-177-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.177din28.11.2025.pdf",
+     "sha256": "126532e4c62aae5e98ed418c86d43aea360a97f5cd3475c11be04f6093b4c2bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-178-2025",
+   "path": "local/olt/caracal/2025/178",
+   "short": "HCL Caracal nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 178/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-178-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.178din28.11.2025.pdf",
+     "sha256": "949cc14594999877ce39fc23f1ca4a9f0d8d6213ff5d1890cb1cc0a8035b30c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-179-2025",
+   "path": "local/olt/caracal/2025/179",
+   "short": "HCL Caracal nr. 179/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 179/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-179-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.179din28.11.2025.pdf",
+     "sha256": "8b09b9d15a115c9530d3cbf44b14fdb6f24a98cde3e25ec8c2232a52afb14624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-18-2025",
+   "path": "local/olt/caracal/2025/18",
+   "short": "HCL Caracal nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 18/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-18-06-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.18din06.02.2025.pdf",
+     "sha256": "29e436a65e5551c003ab9af52620dd60c45a73f497b9e2989b3ec79574859c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-180-2025",
+   "path": "local/olt/caracal/2025/180",
+   "short": "HCL Caracal nr. 180/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 180/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-180-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.180din28.11.2025.pdf",
+     "sha256": "49a0391a8765aee0d3a5882df50bd7c8d25d93d5aebadbc47ec7e13e4b4a1ff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-181-2025",
+   "path": "local/olt/caracal/2025/181",
+   "short": "HCL Caracal nr. 181/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 181/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-181-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.181din28.11.2025.pdf",
+     "sha256": "cdb8cf56f93dbed80290931e82bbbd5f5dd72a240466fc2233b920948786aed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-182-2025",
+   "path": "local/olt/caracal/2025/182",
+   "short": "HCL Caracal nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 182/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-182-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.182din28.11.2025.pdf",
+     "sha256": "4a23533f4d8aa7a954349e9ec2263d683da570a6ee2f9a61776a7390b11ff112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-183-2025",
+   "path": "local/olt/caracal/2025/183",
+   "short": "HCL Caracal nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 183/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-183-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.183din28.11.2025.pdf",
+     "sha256": "9c785ba159c513bf1d17b1c7e3490ac19820bf487575baf63ccb5007b094b9f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-184-2025",
+   "path": "local/olt/caracal/2025/184",
+   "short": "HCL Caracal nr. 184/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 184/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-184-28-11-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.184din28.11.2025.pdf",
+     "sha256": "2e6e594447c58b1136e6ec5cb947ba33a5c61764c329f7ac6208732d1c7e88f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-185-2025",
+   "path": "local/olt/caracal/2025/185",
+   "short": "HCL Caracal nr. 185/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 185/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-185-28-11-202/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.185din28.11.2025.pdf",
+     "sha256": "20266247d5dc02616400fd3219ba36fd1fd76bafd3e63702b3d762dcdbea3b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-186-2025",
+   "path": "local/olt/caracal/2025/186",
+   "short": "HCL Caracal nr. 186/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 186/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2013/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.186din19.12.2025.pdf",
+     "sha256": "9e9efca805ebfa2d47186f4447a58f078a872ef2722ce56f16d6e6629c687f99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-187-2025",
+   "path": "local/olt/caracal/2025/187",
+   "short": "HCL Caracal nr. 187/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 187/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-187-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.187din19.12.2025.pdf",
+     "sha256": "0f7cb84fc87b828dc0dbf0caf554c9b66b1cdbf9520a35fc06fe658311c762a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-188-2025",
+   "path": "local/olt/caracal/2025/188",
+   "short": "HCL Caracal nr. 188/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 188/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.188din19.12.2025.pdf",
+     "sha256": "d983b0d7eab8cf0df70008f9f59812ea751c4e28feaba08a6725435bbfe90b03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-189-2025",
+   "path": "local/olt/caracal/2025/189",
+   "short": "HCL Caracal nr. 189/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 189/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-189-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.189din19.12.2025.pdf",
+     "sha256": "9a20ae187f09c4aff5427ce7a1f27fe14a49a4289635c5d1da77aab0a3217a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-19-2025",
+   "path": "local/olt/caracal/2025/19",
+   "short": "HCL Caracal nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 19/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-19-06-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.19din06.02.2025.pdf",
+     "sha256": "f2d3ed470857615d3d5079959a5c581b89aa217e55131d32b845158fc1d26aa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-190-2025",
+   "path": "local/olt/caracal/2025/190",
+   "short": "HCL Caracal nr. 190/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 190/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-190-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.190din19.12.2025.pdf",
+     "sha256": "b9bd500a749f3e893bc391b36ff1f423d4239bf24fa853b688066e66733499d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-191-2025",
+   "path": "local/olt/caracal/2025/191",
+   "short": "HCL Caracal nr. 191/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 191/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-191-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.191din19.12.2025.pdf",
+     "sha256": "185cbf9934a8935d0a2794167f106ddd73e60410cd68465c690887a2b42f8d38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-192-2025",
+   "path": "local/olt/caracal/2025/192",
+   "short": "HCL Caracal nr. 192/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 192/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-192-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.192din19.12.2025.pdf",
+     "sha256": "b5028c5b86ee30edb4f3fe625c5f9196cc067a51e7a8777a3d1b043f8b216e16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-193-2025",
+   "path": "local/olt/caracal/2025/193",
+   "short": "HCL Caracal nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 193/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-193-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.193din19.12.2025.pdf",
+     "sha256": "39d9cb75e006e601905ff2bad57daa3a02447600d9a748e77735d50c4e608b04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-194-2025",
+   "path": "local/olt/caracal/2025/194",
+   "short": "HCL Caracal nr. 194/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 194/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-194-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.194din19.12.2025.pdf",
+     "sha256": "50b7c8c381571ff78e1c70423578c5af874197c2409eb0e236456ae40e39321f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-195-2025",
+   "path": "local/olt/caracal/2025/195",
+   "short": "HCL Caracal nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 195/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-195-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.195din19.12.2025.pdf",
+     "sha256": "81534b21a0a9b010858a18530132a66034463280f0a11e03acfd6b30a093612a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-196-2025",
+   "path": "local/olt/caracal/2025/196",
+   "short": "HCL Caracal nr. 196/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 196/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-196-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.196din19.12.2025.pdf",
+     "sha256": "6e9ebbfbad2e76c6dd36df4ba2ca54949b455464524d247a3cf82a2742e2bec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-197-2025",
+   "path": "local/olt/caracal/2025/197",
+   "short": "HCL Caracal nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 197/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-197-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.197din19.12.2025.pdf",
+     "sha256": "c102a7217bb7295264768350fafa6e0d5f023a21c839658d069863863e1d936a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-198-2025",
+   "path": "local/olt/caracal/2025/198",
+   "short": "HCL Caracal nr. 198/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 198/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-198-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.198din19.12.2025.pdf",
+     "sha256": "158b20d6455cffb160d02034143e2ef654806df786c108c51a3e58634a9978a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-199-2025",
+   "path": "local/olt/caracal/2025/199",
+   "short": "HCL Caracal nr. 199/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 199/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-199-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.199din19.12.2025.pdf",
+     "sha256": "8df81d41707a9abd3e475fee0b8f8a7b0f035ee884cab8f3ce487a90620f4318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-2-2025",
+   "path": "local/olt/caracal/2025/2",
+   "short": "HCL Caracal nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 2/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-02-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.02din31.01.2025.pdf",
+     "sha256": "5ea54dab9128cce82f24c7785c821befa3dca85458f6dd591bd25f6cace160b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-20-2025",
+   "path": "local/olt/caracal/2025/20",
+   "short": "HCL Caracal nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 20/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-20-20-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.20din20.02.2025.pdf",
+     "sha256": "b6ce46f73334778873a17f4f8070fbb05ef5e14e41cd248bcc5729808a7c24cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-200-2025",
+   "path": "local/olt/caracal/2025/200",
+   "short": "HCL Caracal nr. 200/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 200/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-200-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.200din19.12.2025.pdf",
+     "sha256": "16f49713cfce2c301fccbafe93b511ea26848f11d0caa9dc9af3f13da453b008"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-201-2025",
+   "path": "local/olt/caracal/2025/201",
+   "short": "HCL Caracal nr. 201/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 201/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-201-19-12-2025/",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/HCLnr.201din19.12.2025.pdf",
+     "sha256": "e24d4dcd2833b5377b50e8570c7111fdd307b6bfb6a9127ce81a2911c1b20790"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-202-2025",
+   "path": "local/olt/caracal/2025/202",
+   "short": "HCL Caracal nr. 202/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 202/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-201-19-12-2025-2/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/12/hcl_nr.202_din_29.12.2025.pdf",
+     "sha256": "c1013f2994ce29462b50a53bfe1d9fa23aa1d83a144e9f7a7c8d59cd36257db5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-21-2025",
+   "path": "local/olt/caracal/2025/21",
+   "short": "HCL Caracal nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 21/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-21-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.21din27.02.2025.pdf",
+     "sha256": "2b317b672b79b11405b2db559219bfa5699bf7f746f86cce5b625652fbfd1101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-22-2025",
+   "path": "local/olt/caracal/2025/22",
+   "short": "HCL Caracal nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 22/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-22-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.22din27.02.2025.pdf",
+     "sha256": "bfa33e08d45bb84d80db476c089ec0b28d1de82438aefc92d5f18dfffa910d3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-23-2025",
+   "path": "local/olt/caracal/2025/23",
+   "short": "HCL Caracal nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 23/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-23-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.23din27.02.2025.pdf",
+     "sha256": "cab547551bdc3ce3f22e53ab895b34b8234cf3e3fac6ccd40301d86c76f54840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-24-2025",
+   "path": "local/olt/caracal/2025/24",
+   "short": "HCL Caracal nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 24/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-01-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.24din27.02.2025.pdf",
+     "sha256": "6f2116422eb2706659fbfc5e15e5bd931866704b4a698f2d1f38caac4c8ea4a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-25-2025",
+   "path": "local/olt/caracal/2025/25",
+   "short": "HCL Caracal nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 25/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-25-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.25din27.02.2025.pdf",
+     "sha256": "ca5525a8b1bddadd550628a037662b4363feecae49230505e4179f8f6ac008d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-26-2025",
+   "path": "local/olt/caracal/2025/26",
+   "short": "HCL Caracal nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 26/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-26-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.26din27.02.2025.pdf",
+     "sha256": "879a7864b0867bd28f54da769d33bf8758f9f20a875491439a7ec893e3f84731"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-27-2025",
+   "path": "local/olt/caracal/2025/27",
+   "short": "HCL Caracal nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 27/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-27-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.27din27.02.2025.pdf",
+     "sha256": "55bd537ea778e0cd83af92e036c00c98227d8023977113e164353dbbb38eb602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-28-2025",
+   "path": "local/olt/caracal/2025/28",
+   "short": "HCL Caracal nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 28/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-150-31-10-2019/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.28din27.02.2025.pdf",
+     "sha256": "1b4ac8e4a2343e0497102b00bc249ba58e85bc744785a6a13b7c74687128d0e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-29-2025",
+   "path": "local/olt/caracal/2025/29",
+   "short": "HCL Caracal nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 29/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-14-31-01-202/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.29din27.02.2025.pdf",
+     "sha256": "4bd5c3fafe5e5747006dfcf8636fdd9de133032da638bc10ba507cc314a15927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-3-2025",
+   "path": "local/olt/caracal/2025/3",
+   "short": "HCL Caracal nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 3/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-03-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.03din31.01.2025.pdf",
+     "sha256": "d0585ac9fefb80f4f697c4486d7a69ea92c74c71a4a1d4036e62c5f047330ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-30-2025",
+   "path": "local/olt/caracal/2025/30",
+   "short": "HCL Caracal nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 30/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-03-31-10-2024/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.30din27.02.2025.pdf",
+     "sha256": "bb8372e569e5e03c765f7a51cc48427d74d1e4bcb319b36b7d4c5cbaa6e7d6da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-31-2025",
+   "path": "local/olt/caracal/2025/31",
+   "short": "HCL Caracal nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 31/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-31-27-02-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.31din27.02.2025.pdf",
+     "sha256": "27d3210c950902828b139eb97a8e2c59cd7a7848ec907805a7544d445594fe54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-32-2025",
+   "path": "local/olt/caracal/2025/32",
+   "short": "HCL Caracal nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 32/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.32din17.03.2025.pdf",
+     "sha256": "9437ae5ca56273fc8542a71c5dc9e71af9fb4fe022a68e5f0dbbc5913a411dd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-33-2025",
+   "path": "local/olt/caracal/2025/33",
+   "short": "HCL Caracal nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 33/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.33din31.03.2025.pdf",
+     "sha256": "5b7221e54fa5f9b8286c52b596655a1491748c85cbd2881063482ed19997b022"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-34-2025",
+   "path": "local/olt/caracal/2025/34",
+   "short": "HCL Caracal nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 34/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-34-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.34din31.03.2025.pdf",
+     "sha256": "dd084ac532bc010214224488baab13b5816889d558c112688d6f3aa822c21296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-35-2025",
+   "path": "local/olt/caracal/2025/35",
+   "short": "HCL Caracal nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 35/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-35-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.35din31.03.2025.pdf",
+     "sha256": "6ba388a35b612e34ee098f33882602217384e0d9605aa6756a39043452ee8bb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-36-2025",
+   "path": "local/olt/caracal/2025/36",
+   "short": "HCL Caracal nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 36/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-36-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.36din31.03.2025.pdf",
+     "sha256": "88995af3f0d198cdb01409186d6535ae3adce712a5d0254caa13392f4a8a0656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-37-2025",
+   "path": "local/olt/caracal/2025/37",
+   "short": "HCL Caracal nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 37/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-37-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.37din31.03.2025.pdf",
+     "sha256": "b29732f25b7c0f857e93c7aa8796ddef67340ea5e5429b70f75f468daf09d54a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-38-2025",
+   "path": "local/olt/caracal/2025/38",
+   "short": "HCL Caracal nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 38/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-38-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.38din31.03.2025.pdf",
+     "sha256": "8b0cdacc2d35f0353f5877a4464b3b95d1d8ac3f68eb5496ddd1df37c453ebdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-39-2025",
+   "path": "local/olt/caracal/2025/39",
+   "short": "HCL Caracal nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 39/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-39-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.39din31.03.2025.pdf",
+     "sha256": "712b408e4de1622fd9224e8af63b0019414ac9ab3814125960aa0887acdcf362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-4-2025",
+   "path": "local/olt/caracal/2025/4",
+   "short": "HCL Caracal nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 4/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-04-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.04din31.01.2025.pdf",
+     "sha256": "e25d693a1302ae764dc37b107b5fc1fcf063d294817b290329cf1a3d6c20816c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-40-2025",
+   "path": "local/olt/caracal/2025/40",
+   "short": "HCL Caracal nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 40/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-40-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.40din31.03.2025.pdf",
+     "sha256": "f76e16402e751076e03376de210a5decc8ea90943e42e6b624e7a29bd14cfca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-41-2025",
+   "path": "local/olt/caracal/2025/41",
+   "short": "HCL Caracal nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 41/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-41-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.41din31.03.2025.pdf",
+     "sha256": "77ab41a8b89a6567cb0014ca33f0bccfd2f3c3574c995344ac6378e94a30fd60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-42-2025",
+   "path": "local/olt/caracal/2025/42",
+   "short": "HCL Caracal nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 42/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.42din31.03.2025.pdf",
+     "sha256": "a11be0174a27b1a26f25012942fa2bfdb0c4b33d1d10088df6aa9c9b601344ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-43-2025",
+   "path": "local/olt/caracal/2025/43",
+   "short": "HCL Caracal nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 43/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-43-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.43din31.03.2025.pdf",
+     "sha256": "e03272ddbcbc626424033ef47993790ae01083c7ac3a249be64593f77de57138"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-44-2025",
+   "path": "local/olt/caracal/2025/44",
+   "short": "HCL Caracal nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 44/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-44-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.44din31.03.2025.pdf",
+     "sha256": "a0ba470b2cb9a8a7c34db1113d3d7460498dd89fd4ddf482a7eb29e4ab1f87a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-45-2025",
+   "path": "local/olt/caracal/2025/45",
+   "short": "HCL Caracal nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 45/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-45-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.45din31.03.2025.pdf",
+     "sha256": "ad0ebaf69c99b70c41f80676c4a814a937dbd9737062b06f0bfd4218f906140b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-46-2025",
+   "path": "local/olt/caracal/2025/46",
+   "short": "HCL Caracal nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 46/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-46-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.46din31.03.2025.pdf",
+     "sha256": "7f488f54a0a45dfddaa136c81a271b2475822053ba2ec41f29b17a1515336c11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-47-2025",
+   "path": "local/olt/caracal/2025/47",
+   "short": "HCL Caracal nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 47/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-47-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.47din31.03.2025.pdf",
+     "sha256": "073b1c8e9e5ec6997312ab68e6b87bb9e5fdb25177d462f4c5513450fd48f965"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-48-2025",
+   "path": "local/olt/caracal/2025/48",
+   "short": "HCL Caracal nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 48/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-48-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.48din31.03.2025.pdf",
+     "sha256": "0e8e5c025eae74dd4a25596a99edebbd89e93c159196460d40bc7310d1f4b37e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-49-2025",
+   "path": "local/olt/caracal/2025/49",
+   "short": "HCL Caracal nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 49/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.49din31.03.2025.pdf",
+     "sha256": "0d2fccc453193c1b35f3f2f6ef4161904e1bfb2c14c01a897099f13cc70bae71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-5-2025",
+   "path": "local/olt/caracal/2025/5",
+   "short": "HCL Caracal nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 5/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-05-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.05din31.01.2025.pdf",
+     "sha256": "a2b0c1b5f9803a831fb0c57f86bb68b983ffd1b067df7e63a7763dce9bd650f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-50-2025",
+   "path": "local/olt/caracal/2025/50",
+   "short": "HCL Caracal nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 50/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-50-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.50din31.03.2025.pdf",
+     "sha256": "ed622fd75f1fffb8cb6f4f2a0fd0874b9918e022c27077b465581a44b9a40980"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-51-2025",
+   "path": "local/olt/caracal/2025/51",
+   "short": "HCL Caracal nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 51/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-51-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.51din16.04.2025.pdf",
+     "sha256": "75ff37d41b5738a1e95f6aad5f519444a521a96951b0607e2ab1ed425bb61cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-52-2025",
+   "path": "local/olt/caracal/2025/52",
+   "short": "HCL Caracal nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 52/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-52-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.52din16.04.2025.pdf",
+     "sha256": "f1bc98922281d152c20fec9f6cf3cc8c3799a6b256f6da93e5c5df02cba36b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-53-2025",
+   "path": "local/olt/caracal/2025/53",
+   "short": "HCL Caracal nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 53/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-53-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.53din16.04.2025.pdf",
+     "sha256": "96dcdcff3e3971dfdd11578cd1d55a9e957ceb8bf7157fbf4bbd7201f95f4b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-54-2025",
+   "path": "local/olt/caracal/2025/54",
+   "short": "HCL Caracal nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 54/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-54-16-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.54din16.04.2025.pdf",
+     "sha256": "3fa230bdf0e5907e37aab50f6a5d64a1a1f7896bf86e06a1920edff5fed0fbb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-55-2025",
+   "path": "local/olt/caracal/2025/55",
+   "short": "HCL Caracal nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 55/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-55-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.55din29.04.2025.pdf",
+     "sha256": "3415a45cbd5acdb60fd08eff9ee8215986ef3a7e214c3597962f4b1c8e4f5404"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-56-2025",
+   "path": "local/olt/caracal/2025/56",
+   "short": "HCL Caracal nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 56/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.56din29.04.2025.pdf",
+     "sha256": "505b56222fc5a7175de766df5470fa2d7162c67f5a227f193748fb14da4947b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-57-2025",
+   "path": "local/olt/caracal/2025/57",
+   "short": "HCL Caracal nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 57/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-57-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.57din29.04.2025.pdf",
+     "sha256": "9b16275d81e459dc007fc08369567b0d352a7e0c5a5ac276fa0ceabc7358c318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-58-2025",
+   "path": "local/olt/caracal/2025/58",
+   "short": "HCL Caracal nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 58/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-58-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.58din29.04.2025.pdf",
+     "sha256": "6d16687f54b86bd5b7ed22d8bd72fd98a4a7af60c2ac1f3f894a19ff425574cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-59-2025",
+   "path": "local/olt/caracal/2025/59",
+   "short": "HCL Caracal nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 59/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-59-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.59din29.04.2025.pdf",
+     "sha256": "1f0a8780ba588e3bb4963ddde511ada7d7fb1dd79098caff819c0947adbd4954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-6-2025",
+   "path": "local/olt/caracal/2025/6",
+   "short": "HCL Caracal nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 6/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-06-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/hcl-06-contract-arendare-SC-SOFIR-AGRO-SRL.pdf",
+     "sha256": "200fd3be21b99c4ea5947228205b8e3dd287970edf670461bfda68f126e67ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-60-2025",
+   "path": "local/olt/caracal/2025/60",
+   "short": "HCL Caracal nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 60/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.60din29.04.2025.pdf",
+     "sha256": "1e5c022177f95d283ffe975ad4ee033cbb602a04858260e9c06938c76c8836c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-61-2025",
+   "path": "local/olt/caracal/2025/61",
+   "short": "HCL Caracal nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 61/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-61-29-04-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.61din29.04.2025.pdf",
+     "sha256": "c711c42e186fa27b52d1b065681433431ad63434daeeb0d9aeeb204c3227d876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-62-2025",
+   "path": "local/olt/caracal/2025/62",
+   "short": "HCL Caracal nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 62/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-39-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/04/HCLnr.62din29.04.2025.pdf",
+     "sha256": "f5732b79ed3d96d60691feb40fa9e4bf9c5cf03e334f81c04990a8efb0f3097b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-67-2025",
+   "path": "local/olt/caracal/2025/67",
+   "short": "HCL Caracal nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 67/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/05/HCLnr.67din13.05.2025.pdf",
+     "sha256": "a09d32e1e2b8b66decadd4f884c932d969831858584f24ac02ecc1c3bc7c5468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-68-2025",
+   "path": "local/olt/caracal/2025/68",
+   "short": "HCL Caracal nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 68/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-177-27-09-2024/",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/05/HCLnr.68din13.05.2025.pdf",
+     "sha256": "b81332afb061dc4546d719e5058cf257ee22aff57a694fc6efb57a26a2f9e6cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-7-2025",
+   "path": "local/olt/caracal/2025/7",
+   "short": "HCL Caracal nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 7/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-07-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.07din31.01.2025.pdf",
+     "sha256": "be97789a9035239d90f6e9206f6e1c42324935f8f3d3a2a9e5b5e4004ab9bb1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-73-2025",
+   "path": "local/olt/caracal/2025/73",
+   "short": "HCL Caracal nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 73/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/05/HCLnr.73din28.05.2025.pdf",
+     "sha256": "ea9144ed2fa875f5de13f2315e01bb93b7f00bdb36e55544b89a07744db55382"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-75-2025",
+   "path": "local/olt/caracal/2025/75",
+   "short": "HCL Caracal nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 75/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-86-28-06-2019/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/05/HCLnr.75din28.05.2025.pdf",
+     "sha256": "f03212b64193f68a92ede4282289d0832fff936c53edb3a66b26556ee095b65b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-8-2025",
+   "path": "local/olt/caracal/2025/8",
+   "short": "HCL Caracal nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 8/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-08-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.08din31.01.2025.pdf",
+     "sha256": "322c023e89e3371cf8c88cf236eff976401c6b311bbf1962f1f3e4f4c756d596"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-80-2025",
+   "path": "local/olt/caracal/2025/80",
+   "short": "HCL Caracal nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 80/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-43-31-03-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/05/HCLnr.80din28.05.2025.pdf",
+     "sha256": "9273a0862dca227c1935ff888df4e280d7f0d0f05a38440b1af6b77a9224397e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-83-2025",
+   "path": "local/olt/caracal/2025/83",
+   "short": "HCL Caracal nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 83/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.83din25.05.2025-1.pdf",
+     "sha256": "ab3364b861bd98e762585b890d71d56d5fd515569685e7d47f9a5d36109c9ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-84-2025",
+   "path": "local/olt/caracal/2025/84",
+   "short": "HCL Caracal nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 84/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.84din25.05.2025.pdf",
+     "sha256": "7e8e15e0075908c9307481ef6bab13d14895e594b777ceb88dcb94527ae0c64b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-85-2025",
+   "path": "local/olt/caracal/2025/85",
+   "short": "HCL Caracal nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 85/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.85din25.05.2025.pdf",
+     "sha256": "ce5e65224ca9359895a2bdb0788d9dd54bd410d6c019db0838fcc2d05ef404fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-87-2025",
+   "path": "local/olt/caracal/2025/87",
+   "short": "HCL Caracal nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 87/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.87din25.05.2025.pdf",
+     "sha256": "02121784e8a09d951bdebb501b7434508a3bf6436e8bb35a680755a0d4dd9dbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-88-2025",
+   "path": "local/olt/caracal/2025/88",
+   "short": "HCL Caracal nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 88/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2014/",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.88din25.05.2025.pdf",
+     "sha256": "f8d34f00b980574dcf98493a89a2a5c37e224341acb0863042bdcec455806ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-9-2025",
+   "path": "local/olt/caracal/2025/9",
+   "short": "HCL Caracal nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 9/2025",
+   "url": "https://www.primariacaracal.ro/hotarari-consiliul-local-2017/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/02/HCLnr.09din31.01.2025.pdf",
+     "sha256": "25631ae7e80e68a6afd3dbd65a875953fca642d95fc1881b5a4b7fba1d5703cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-92-2025",
+   "path": "local/olt/caracal/2025/92",
+   "short": "HCL Caracal nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 92/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-12-31-01-2025/",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.92din25.05.2025-1.pdf",
+     "sha256": "224811144156f7d84a7c747e10ae813c0ac83726dada7218cfbf632c283f2861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-95-2025",
+   "path": "local/olt/caracal/2025/95",
+   "short": "HCL Caracal nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 95/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-152-30-08-2024/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.95din30.07.2025.pdf",
+     "sha256": "c27d73d5fab3932e9ec90f2535e7a76f9872e45ffde6e257b8a67bb579e5167c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-97-2025",
+   "path": "local/olt/caracal/2025/97",
+   "short": "HCL Caracal nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 97/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.97din30.07.2025.pdf",
+     "sha256": "18a7f5943827da70540bf275efc202f932e40a4a1cb0bebf2b719b27d65c38c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-98-2025",
+   "path": "local/olt/caracal/2025/98",
+   "short": "HCL Caracal nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 98/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-33-14-02-2024/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.98din30.07.2025.pdf",
+     "sha256": "2f5e63af8a603a78d09ce88193d469c10af57d977171796127c656b28d2df648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-olt--caracal-99-2025",
+   "path": "local/olt/caracal/2025/99",
+   "short": "HCL Caracal nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Caracal nr. 99/2025",
+   "url": "https://www.primariacaracal.ro/hcl-nr-32-17-03-2025/",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacaracal.ro/wp-content/uploads/2025/07/HCLnr.99din30.07.2025.pdf",
+     "sha256": "8d6eedd79ca50142a75388cd77a74add04392b7e5c4fc6352912c36de602dccc"
+    }
+   ]
+  }
+ ]
+}

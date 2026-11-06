@@ -3,6 +3,426 @@
  "shard": "local/neamt/roman/2007",
  "acts": [
   {
+   "slug": "hcl-neamt--roman-1-2007",
+   "path": "local/neamt/roman/2007/1",
+   "short": "HCL Roman nr. 1/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 1/2007 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/001%20HCL%202007-01%20concesiuni%20teren.pdf",
+     "sha256": "3143df4cf6f71d23fdc85bb8107bff75455c40c8b2fef301e68dc340ea3b6e95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-10-2007",
+   "path": "local/neamt/roman/2007/10",
+   "short": "HCL Roman nr. 10/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 10/2007 Privind aprobarea extinderii spatiului cabinetului medical dr",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/010%20HCL%202007-01%20extindere%20spatiu%20medical.pdf",
+     "sha256": "f9f16dea8cc27e0f13885a26cb5f82ff3c703d9b733c01c47fa8b9a67240b205"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-11-2007",
+   "path": "local/neamt/roman/2007/11",
+   "short": "HCL Roman nr. 11/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 11/2007 Privind aprobarea bugetului general consolidat pe anul 2007 si aprobarea utilizarii fondului de rulment",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/011%20HCL%202007-02%20aprobare%20buget%20si%20fond%20rulment.pdf",
+     "sha256": "db2b9ac42f44fa954ef5e900cfe26e22d79d4ef15ab8892fe9941a1e2e9c6a53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-12-2007",
+   "path": "local/neamt/roman/2007/12",
+   "short": "HCL Roman nr. 12/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 12/2007 Privind aprobarea întocmirii unui studiu de fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/012%20HCL%202007-02%20centru%20expozitional.pdf",
+     "sha256": "03e48e5728b49225c7db4726f48d51525b1bab0aea112c69975d98fa90711ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-125-2007",
+   "path": "local/neamt/roman/2007/125",
+   "short": "HCL Roman nr. 125/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 125/2007 Privind privind transmiterea in folosinta gratuita a unei suprafete de teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/125%20HCL%202007-10%20transmitere%20teren%20Apele%20Romane.pdf",
+     "sha256": "64658281b423cc9fbc91d51651fa30488b735165dabe232b9b431f5c9372fd95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-126-2007",
+   "path": "local/neamt/roman/2007/126",
+   "short": "HCL Roman nr. 126/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 126/2007 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/126%20HCL%202007-10%20concesionari%20terenuri.pdf",
+     "sha256": "81362b9bb571879b3a34a3ba70f679882a831f6ddbe1560ca218f96650d8dfe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-127-2007",
+   "path": "local/neamt/roman/2007/127",
+   "short": "HCL Roman nr. 127/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 127/2007 Privind aprobarea inchirierii unor locatii pentru amplasare panouri, casete si mash-uri publicitare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/127%20HCL%202007-10%20locatii%20publicitate.pdf",
+     "sha256": "a6f4c274dab689987f8c82832cf3715307843d3fd2af5e26bfffbd8ff41e9779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-128-2007",
+   "path": "local/neamt/roman/2007/128",
+   "short": "HCL Roman nr. 128/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 128/2007 Privind aprobarea unei documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/128%20HCL%202007-10%20documentatii%20urbanism.pdf",
+     "sha256": "5ecafb0b0c860f0cb7d550a671959985bfba324876f3fd5a7fc954636f9aad50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-129-2007",
+   "path": "local/neamt/roman/2007/129",
+   "short": "HCL Roman nr. 129/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 129/2007 Privind aprobarea Caietului de sarcini si numirea comisiei de licitatie pentru cncesionarea unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/129%20HCL%202007-10%20caiet%20sarcini%20concesiuni.pdf",
+     "sha256": "5a7f47ff663741a118b65078c0b280e55747228c5550016827a7c6ef450e7505"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-13-2007",
+   "path": "local/neamt/roman/2007/13",
+   "short": "HCL Roman nr. 13/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 13/2007 Privind suplimentarea unor venituri si cheltuieli",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-09",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/013%20HCL%202007-02%20suplimentare%20buget.pdf",
+     "sha256": "93c26f9aaae9657d50a506d1fdcba694a231a85cc151000f1b1dade62f7483fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-130-2007",
+   "path": "local/neamt/roman/2007/130",
+   "short": "HCL Roman nr. 130/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 130/2007 Nr. 130 din 25.10.2007 Privind modificarea Hotărârii Consiliului Local nr. 49/26.05.2005 privind aprobarea înființării Serviciului Public de Poliție Comunitară – Roman, a organigramei și statului de funcții",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/130%20HCL%202007-10%20modif%20organigrama%20politia%20comunitara.pdf",
+     "sha256": "63c0125c5cd9cf3db6c8cbb3adfb2349e9f0ee1c90bd9ba368a36e1a59395e47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-131-2007",
+   "path": "local/neamt/roman/2007/131",
+   "short": "HCL Roman nr. 131/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 131/2007 Privind aprobarea infiintarii Serviciului Voluntar pentru Situatii de Urgenta al municipiului Roman, a oraganigramei, statului de functii, Regulamentului de organizare si functionare si a Statutului personalului voluntar",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/131%20HCL%202007-10%20infiintare%20SV.pdf",
+     "sha256": "33db6e9e515a5fa1180127b58edaa21fc088cd98f5a1f2945b207b46bd791990"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-134-2007",
+   "path": "local/neamt/roman/2007/134",
+   "short": "HCL Roman nr. 134/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 134/2007 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/134%20HCL%202007-10%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "69fc210438701b02bde8001e7df37954aff125965fb69296d64aaa48e159c48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-135-2007",
+   "path": "local/neamt/roman/2007/135",
+   "short": "HCL Roman nr. 135/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 135/2007 Privind numirea unei comisii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/135%20HCL%202007-10%20comisie%20subventii%20locuinte.pdf",
+     "sha256": "162bab131670e3f9f067d6a2d486faac1321eee15c51555aabe8ee29657eb613"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-136-2007",
+   "path": "local/neamt/roman/2007/136",
+   "short": "HCL Roman nr. 136/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 136/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/136%20HCL%202007-10%20modif%20HCL%20114%20din%202005%20taxi%20hotel.pdf",
+     "sha256": "d07b13d64dcf56626e914724859f789a7d7e572801578456b743bc809bd73f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-140-2007",
+   "path": "local/neamt/roman/2007/140",
+   "short": "HCL Roman nr. 140/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 140/2007 Privind aprobarea unor studii de fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/140%20HCL%202007-11%20aprobare%20studii%20fezabilitate.pdf",
+     "sha256": "a7f7795eacae2e68412e3a420b8eadc929f5f5d3fe8903ec94e2daf744207340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-141-2007",
+   "path": "local/neamt/roman/2007/141",
+   "short": "HCL Roman nr. 141/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 141/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/141%20HCL%202007-11%20modificare%20HCL%2071%20din%202005.pdf",
+     "sha256": "693dac19f72b1e5c9adacff168181ba9a49d8ab119dd18bc21278fc3e2280297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-142-2007",
+   "path": "local/neamt/roman/2007/142",
+   "short": "HCL Roman nr. 142/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 142/2007 Privind completarea unei comisii de licitatie",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/142%20HCL%202007-11%20completare%20comisie%20HCL%20129%20din%202007.pdf",
+     "sha256": "cce1fb35d20e13c257c5649ae00fae745955076d3733002c564f780dbeca0539"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-143-2007",
+   "path": "local/neamt/roman/2007/143",
+   "short": "HCL Roman nr. 143/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 143/2007 Privind aprobarea casarii unui imobil apartinand domeniului privat al municipiului Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/143%20HCL%202007-11%20casare%20imobil%20Teatru%20de%20Vara.pdf",
+     "sha256": "c0314f95e5fe1df6ddb8ea46bddb8b7cc524f32e81d4bed22fece4fd4f60235b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-144-2007",
+   "path": "local/neamt/roman/2007/144",
+   "short": "HCL Roman nr. 144/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 144/2007 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/144%20HCL%202007-11%20documentatii%20urbanism.pdf",
+     "sha256": "1d9184eea4c707abf4e30b14ba5871893c31899643625b7403f4e41b96d702b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-145-2007",
+   "path": "local/neamt/roman/2007/145",
+   "short": "HCL Roman nr. 145/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 145/2007 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/145%20HCL%202007-11%20concesiuni%20terenuri.pdf",
+     "sha256": "8bb0f2c063deb86c3af6c5549233833e1e601e08a5f0e0db5ac1da91e17a1d02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-148-2007",
+   "path": "local/neamt/roman/2007/148",
+   "short": "HCL Roman nr. 148/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 148/2007 Privind aprobarea efectuarii unor cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/148%20HCL%202007-11%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "23911fa95d397c10fdbcdf4edc8bb3c02ea786df3b54120eadb67c2efebb8b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-149-2007",
+   "path": "local/neamt/roman/2007/149",
+   "short": "HCL Roman nr. 149/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 149/2007 Privind modificarea bugetului local pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/149%20HCL%202007-11%20modiicare%20buget%20local.pdf",
+     "sha256": "de4aa215c772ecdbd276142f59ae2f7df36156ab6709a5d841de206c151644a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-15-2007",
+   "path": "local/neamt/roman/2007/15",
+   "short": "HCL Roman nr. 15/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 15/2007 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/015%20HCL%202007-02%20concesiuni%20teren.pdf",
+     "sha256": "6ae72ea7c0c01e54d8d3d9386c468db861f914ca0d7a86bc36f521205964234c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-150-2007",
+   "path": "local/neamt/roman/2007/150",
+   "short": "HCL Roman nr. 150/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 150/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1cb40f84f8640ae2f598e66357e8a872b72469ed2d0372f12812d291059067b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-152-2007",
+   "path": "local/neamt/roman/2007/152",
+   "short": "HCL Roman nr. 152/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 152/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "182165aa359087f5cb50db2c2f897d1e9f8c0e31693cb4005f0b304361ad0a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-153-2007",
+   "path": "local/neamt/roman/2007/153",
+   "short": "HCL Roman nr. 153/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 153/2007 Privind imputernicirea unei persoane si modul de reprezentare a Consiliului Local Roman in dosarul nr. 4542/103/2007 CA",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/153%20HCL%202007-11%20reprezentare%20proces%20prime%20vacanta.pdf",
+     "sha256": "3ccb8d30a43e508fba1ace5798795644e739f2f640710c70b9ebc2da652f0cb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-154-2007",
+   "path": "local/neamt/roman/2007/154",
+   "short": "HCL Roman nr. 154/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 154/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-11-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3af767500462ae8ad3185f9538c69ac3eaacb6b333c2ab21ce0f795e30ca0cfa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-156-2007",
    "path": "local/neamt/roman/2007/156",
    "short": "HCL Roman nr. 156/2007",
@@ -14,6 +434,216 @@
      "units": 5,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/156%20HCL%202007-12%20fond%20premiere.pdf",
      "sha256": "343be7601f6e73985ed0aec5a5b35b50644870e19de0690457edb08be46a0cd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-157-2007",
+   "path": "local/neamt/roman/2007/157",
+   "short": "HCL Roman nr. 157/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 157/2007 Privind modificarea bugetului local pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/157%20HCL%202007-12%20modiicare%20buget%20local.pdf",
+     "sha256": "4892291782655a4b8a9133e083d2d8dafcf5d2184d4d34c94cdafaa419bad02c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-16-2007",
+   "path": "local/neamt/roman/2007/16",
+   "short": "HCL Roman nr. 16/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 16/2007 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/016%20HCL%202007-02%20documentatii%20urbanism.pdf",
+     "sha256": "f45f12f81ed8e43f6fc58d1554e410024c91bebcf2bbe33f063bc74c421c3efe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-160-2007",
+   "path": "local/neamt/roman/2007/160",
+   "short": "HCL Roman nr. 160/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 160/2007 Privind modificarea bugetului local pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/160%20HCL%202007-12%20modiicare%20buget%20local.pdf",
+     "sha256": "bfcd31eda0923342dce75a2b90025278cee49a9db9fe17d6ddfe643f58db1296"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-161-2007",
+   "path": "local/neamt/roman/2007/161",
+   "short": "HCL Roman nr. 161/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 161/2007 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/161%20HCL%202007-12%20aprobare%20documentatii%20de%20urbanism.pdf",
+     "sha256": "5f6c3d27e9bba0efd2b678bce2621bd9e05461659490bb2a956bf6621fb2fe32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-162-2007",
+   "path": "local/neamt/roman/2007/162",
+   "short": "HCL Roman nr. 162/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 162/2007 Privind apobarea trecerii unui teren din domeniul public al municipiului Roman in domeniul public al statului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/162%20HCL%202007-12%20trecere%20in%20domeniu%20public%20al%20statului.pdf",
+     "sha256": "f0bbc2eb8842b162fe246d4e9a5abc98ee57d91c87992bfbe1655f4ea2c4c41e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-163-2007",
+   "path": "local/neamt/roman/2007/163",
+   "short": "HCL Roman nr. 163/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 163/2007 Privind aprobarea concesionarii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/163%20HCL%202007-12%20concesionari%20terenuri.pdf",
+     "sha256": "135a89eac9a833260db2d56172ad26a7ccda87f9942a9913a70856e9a4045351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-164-2007",
+   "path": "local/neamt/roman/2007/164",
+   "short": "HCL Roman nr. 164/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 164/2007 Privind aprobarea documentatiei de atribuire a contractului de concesiune a unui loc de parcare pentru taxi, a caietului de sarcini si a componentei comisiei de licitatie",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/164%20HCL%202007-12%20concesionare%20loc%20parcare%20taxi.pdf",
+     "sha256": "2d22695ae61b1eab5e269accb99d2fe6b32c92529315d3266124c2ba10459ab2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-166-2007",
+   "path": "local/neamt/roman/2007/166",
+   "short": "HCL Roman nr. 166/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 166/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/166%20HCL%202007-12%20buget%20%20Acvaserv%20pe%20anul%202008.pdf",
+     "sha256": "6b7bae5396db9131d11960e6e8a5a20806608e2650d6a5b22ba1e431b9a296d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-167-2007",
+   "path": "local/neamt/roman/2007/167",
+   "short": "HCL Roman nr. 167/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 167/2007 Privind aprobarea studiului \"Strategia de dezvoltare durabila a municipiului Roman\"",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/167%20HCL%202007-12%20Studiu%20Strategia%20Dezvoltare.pdf",
+     "sha256": "24da490004530eaacdc1859e78c346a531dfd1087060e2831d86ffe1115f179e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-168-2007",
+   "path": "local/neamt/roman/2007/168",
+   "short": "HCL Roman nr. 168/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 168/2007 Privind aprobarea Studiului de Fezabilitate si asocierea Consiliului Local Roman cu",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/168%20HCL%202007-12%20studiu%20fez%20asoc%20CLR%20cu%20CJN.pdf",
+     "sha256": "c1e48459d3b9d19e74874f4fb6c2b4ad6c08f84a6f9c63d04c029b3a837a1ed8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-169-2007",
+   "path": "local/neamt/roman/2007/169",
+   "short": "HCL Roman nr. 169/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 169/2007 Privind aprobarea Contractului de prestare a serviciului de salubritate in municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/169%20HCL%202007-12%20Contract%20servicii%20Salubritate.pdf",
+     "sha256": "4d4e864432bed74a92fe844f684bb816b23e38fcf13894f0d8787ee16d39078b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-18-2007",
+   "path": "local/neamt/roman/2007/18",
+   "short": "HCL Roman nr. 18/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 18/2007 Privind aprobarea efectuarii unor cheltuieli în cadrul proiectului „COMPLEX DE SERVICII SOCIALE INTEGRATE”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/018%20HCL%202007-02%20cheltuieli%20complex%20serv%20soc%20integrate.pdf",
+     "sha256": "4e08264505788d47dfb698e1806f799610dcc0908b563df314b814a34328917b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-19-2007",
+   "path": "local/neamt/roman/2007/19",
+   "short": "HCL Roman nr. 19/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 19/2007 Privind aprobarea organizarii campionatului de fotbal în sala – editia 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/019%20HCL%202007-02%20campionat%20de%20fotbal.pdf",
+     "sha256": "e6de964e5cf31da0ff880bd56e0600ad94b40395e87e1bf69067f5910ba7f1df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-2-2007",
+   "path": "local/neamt/roman/2007/2",
+   "short": "HCL Roman nr. 2/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 2/2007 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/002%20HCL%202007-01%20documentatii%20urbanism.pdf",
+     "sha256": "a30e111aaaafe7ac6c4e8ffecbd4a2ca7063499940b6e702ec1eae9a8f6c035b"
     }
    ]
   },
@@ -48,6 +678,141 @@
    ]
   },
   {
+   "slug": "hcl-neamt--roman-22-2007",
+   "path": "local/neamt/roman/2007/22",
+   "short": "HCL Roman nr. 22/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 22/2007 Privind aprobarea transmiterii în folosinta gratuita a unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/022%20HCL%202007-02%20Transmitere%20imobil%20Agentie%20Mediu.pdf",
+     "sha256": "357964cf2c09c920398bf04ee3ebce464df401ab51365c3f518797c27174fbcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-24-2007",
+   "path": "local/neamt/roman/2007/24",
+   "short": "HCL Roman nr. 24/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 24/2007 Privind aprobarea unor Studii de Fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/024%20HCL%202007-02%20aprobare%20studii%20fezabilitate.pdf",
+     "sha256": "bd8681d342767276955c9e8cb2ca0f1107fa427a6d1433ba74f39fe54f306f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-25-2007",
+   "path": "local/neamt/roman/2007/25",
+   "short": "HCL Roman nr. 25/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 25/2007 Privind aprobarea încetarii dreptului de administrare asupra unui imobil înainte de termen",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-02-28",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/025%20HCL%202007-02%20retragere%20administrare%20I%20Nanu%20azil.pdf",
+     "sha256": "9644d7847e1a9a91c31d67e95ccf88b83979b33007ff7dcc15500a727a766037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-27-2007",
+   "path": "local/neamt/roman/2007/27",
+   "short": "HCL Roman nr. 27/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 27/2007 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/027%20HCL%202007-03%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "e8433a1764d073ff2fea58fe74460dbe73596ac5568e23e7cb84b653988cf260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-28-2007",
+   "path": "local/neamt/roman/2007/28",
+   "short": "HCL Roman nr. 28/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 28/2007 Privind aprobarea încetarii dreptului de administrare asupra unui imobil înainte de termen",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/028%20HCL%202007-03%20incetare%20drept%20de%20administrare%20imobil.pdf",
+     "sha256": "be314ce4d7e86a18a97ed9266a6d3ab7a9a4f39fcb4e45a14821314318c0b232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-29-2007",
+   "path": "local/neamt/roman/2007/29",
+   "short": "HCL Roman nr. 29/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 29/2007 Privind aprobarea preluarii în administrare a unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/029%20HCL%202007-03%20preluare%20in%20administrare%20imobil%20Club%20Petrotub.pdf",
+     "sha256": "433d96a7a0d6d39e5cef357d7deaad71430bb5ef670feec24a5291cb9158a05b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-30-2007",
+   "path": "local/neamt/roman/2007/30",
+   "short": "HCL Roman nr. 30/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 30/2007 Privind conferirea unui titlu de „Cetatean de Onoare al Municipiului Roman”",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/030%20HCL%202007-03%20cetatean%20de%20onoare.pdf",
+     "sha256": "0f04535dc0080de022e8b64fc260909cc4aca53ad22c50e79fa9bd1fc6088268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-32-2007",
+   "path": "local/neamt/roman/2007/32",
+   "short": "HCL Roman nr. 32/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 32/2007 Privind aprobarea concesionarii si închirierii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/032%20HCL%202007-03%20concesionari%20terenuri.pdf",
+     "sha256": "daf594744253450a6655f869baab5c188f49da46802c4ee41bf2254e81054b0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-34-2007",
+   "path": "local/neamt/roman/2007/34",
+   "short": "HCL Roman nr. 34/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 34/2007 Privind stabilirea unor masuri de sprijin pentru persoanele evacuate ca urmare a aplicarii legilor de restituire",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/034%20HCL%202007-03%20masuri%20familii%20evacuate%20case%20retrocedate.pdf",
+     "sha256": "b5cd7fc2b8eab49109219188102f6f56c8825ccd7d1c31ad37e037ff282d442b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-neamt--roman-36-2007",
    "path": "local/neamt/roman/2007/36",
    "short": "HCL Roman nr. 36/2007",
@@ -59,6 +824,216 @@
      "units": 6,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/036%20HCL%202007-03%20gestionare%20caini%20comunitari.pdf",
      "sha256": "04ecf52f3cda28ce66914baea990b8b7cd3cb231aa8393cf630e5b4a4dad199b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-37-2007",
+   "path": "local/neamt/roman/2007/37",
+   "short": "HCL Roman nr. 37/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 37/2007 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/037%20HCL%202007-03%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "fb10d90e921f7e913cf4591a9d0126bd0f34b55abb0c860fcd2537458c1556cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-40-2007",
+   "path": "local/neamt/roman/2007/40",
+   "short": "HCL Roman nr. 40/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 40/2007 Privind aprobarea trecerii unui imobil din domeniul public în domeniul privat al municipiului Roman si administrarea Consiliului Local Roman precum si casarea acestuia",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/040%20HCL%202007-03%20casare%20imobile%20Sucedava%20142.pdf",
+     "sha256": "009da743dff6ed840cdf182f31d76d5a6203223d3d252553ae6078f64e696de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-41-2007",
+   "path": "local/neamt/roman/2007/41",
+   "short": "HCL Roman nr. 41/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 41/2007 pentru furnizarea Serviciului Public Local de Apa si Canalizare",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/041%20HCL%202007-03%20infiintare%20operator%20apa%20canal.pdf",
+     "sha256": "c73700705fc38cd98621fb75a95c8176edfce8df8aa8586fa9f9a78f15f11936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-42-2007",
+   "path": "local/neamt/roman/2007/42",
+   "short": "HCL Roman nr. 42/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 42/2007 Privind transmiterea unui imobil în administrarea S.C",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-03-30",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/042%20HCL%202007-03%20transmitere%20in%20administrare%20sediu%20PD.pdf",
+     "sha256": "704ef9e1c984adcb362c10c591888f9fc06453534544c150cd86a11d1be578d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-43-2007",
+   "path": "local/neamt/roman/2007/43",
+   "short": "HCL Roman nr. 43/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 43/2007 Privind aprobarea contractarii unui împrumut intern în valoare de 14.000.000 lei (echivalent 4.000.000 euro) de contract",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-04-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/043%20HCL%202007-04%20aprobare%20imprumut%20reparatii%20strazi.pdf",
+     "sha256": "a57f3c015a018c8bd0a22112c0038b4d80a134571d4c1629fc12220fd10369e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-44-2007",
+   "path": "local/neamt/roman/2007/44",
+   "short": "HCL Roman nr. 44/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 44/2007 Privind aprobarea trecerii în administrarea Agentiei de Plati si Interventie pentru Agricultura a unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-04-17",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/044%20HCL%202007-04%20transmitere%20teren%20APIA.pdf",
+     "sha256": "4066b266b6056607b97c4e81ae70d4fc306cd5f33741f9cce1a15f80de03a35f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-45-2007",
+   "path": "local/neamt/roman/2007/45",
+   "short": "HCL Roman nr. 45/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 45/2007 Privind aprobarea concesionarii si închirierii unor terenuri pentru constructii",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/045%20HCL%202007-05%20concesiuni%20teren.pdf",
+     "sha256": "79649ebe16b1db12043c18cef5b4fe08c83dae37f796ab09d8470e88e19b2bad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-46-2007",
+   "path": "local/neamt/roman/2007/46",
+   "short": "HCL Roman nr. 46/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 46/2007 Privind aprobarea unor documentatii de urbanism",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/046%20HCL%202007-05%20documentatii%20urbanism.pdf",
+     "sha256": "3accd1ff6a7a45bfcbf50786a36b5f1c09740d1440f84f4884609ddfb776deec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-47-2007",
+   "path": "local/neamt/roman/2007/47",
+   "short": "HCL Roman nr. 47/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 47/2007 Privind trecerea unui teren din domeniul public în domeniul privat al municipiului",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/047%20HCL%202007-05%20trecere%20teren%20domeniu%20public%20in%20privat.pdf",
+     "sha256": "7ed95185823cf1f1b22ec8627008ee52237ad0f17987c08808796ba470d2a98c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-48-2007",
+   "path": "local/neamt/roman/2007/48",
+   "short": "HCL Roman nr. 48/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 48/2007 Privind aprobarea efectuarii unei cheltuieli din bugetul local",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/048%20HCL%202007-05%20%20cheltuieli%20buget%20local.pdf",
+     "sha256": "c622a65c2470e6ffe3c3bdfd093c7c3541ea54360cb06ff26f4ef859fe3f24cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-5-2007",
+   "path": "local/neamt/roman/2007/5",
+   "short": "HCL Roman nr. 5/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 5/2007 Privind aprobarea transmiterii în folosinta gratuita a unui teren",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/005%20HCL%202007-01%20transmitere%20in%20folosinta%20teren.pdf",
+     "sha256": "58098ce8e0dcbdffebc2c2cc930f4363474572881d06040a2ae50a1d08f3b912"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-51-2007",
+   "path": "local/neamt/roman/2007/51",
+   "short": "HCL Roman nr. 51/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 51/2007 Privind aprobarea transmiterii în folosinta gratuita a unor spatii dintr-un imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/051%20HCL%202007-05%20transmitere%20imobil%20petrotub%20si%20cjp.pdf",
+     "sha256": "700e23d3334b8a58f1888acd9d9255b7088470bf92e4eb9382d07e017cb70db7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-52-2007",
+   "path": "local/neamt/roman/2007/52",
+   "short": "HCL Roman nr. 52/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 52/2007 Privind aprobarea studiului de impact pentru conservarea biodiversitatii în Parcul Municipal Roman si efectuarea unor lucrari de îndepartare a vegetatiei parazite",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/052%20HCL%202007-05%20aprobare%20studiu%20parc.pdf",
+     "sha256": "defc99fb3106537a70d2683060ab9bbcc8de40abb3a6f0149bfaa7c01df93669"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-53-2007",
+   "path": "local/neamt/roman/2007/53",
+   "short": "HCL Roman nr. 53/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 53/2007 Privind mandatarea Primarului municipiului Roman de a initia asocierea cu unitatile administrativ teritoriale din zona pentru crearea unui depozit de deseuri menajere în municipiul Roman",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/053%20HCL%202007-05%20mandatare%20primar%20depozit%20deseuri.pdf",
+     "sha256": "f8cfbf380c984c56991d22f7d77b952823c8e0f6ea3e11092530f32c6e6c05c3"
     }
    ]
   },
@@ -89,6 +1064,201 @@
      "units": 3,
      "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/056%20HCL%202007-05%20modificare%20HCL%2089%20din%202006.pdf",
      "sha256": "fedfdac73bc65cd1b0d97f644534fb0017383377c7e82da890b08509b7f08135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-57-2007",
+   "path": "local/neamt/roman/2007/57",
+   "short": "HCL Roman nr. 57/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 57/2007",
+   "url": null,
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3ec123a846caadc46544c9ee07891b82855280f171e5146a13b91f8c69f6b0db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-58-2007",
+   "path": "local/neamt/roman/2007/58",
+   "short": "HCL Roman nr. 58/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 58/2007 Privind aprobarea unor documentatii tehnico-economice",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/058%20HCL%202007-05%20documentatii%20tehnico%20economice.pdf",
+     "sha256": "5404fa428680dad43cbd646b22171b8fa9b458262bcc423269c2de7c09908d89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-59-2007",
+   "path": "local/neamt/roman/2007/59",
+   "short": "HCL Roman nr. 59/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 59/2007 Privind constarea încetarii de drept a unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/059%20HCL%202007-05%20incetare%20mandat.pdf",
+     "sha256": "05b77ead0d159c7aa65441228b3fc9525cee007b1893c20d5ee78b1a4573b52f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-6-2007",
+   "path": "local/neamt/roman/2007/6",
+   "short": "HCL Roman nr. 6/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 6/2007 Privind aprobarea transmiterii în folosinta gratuita a unui imobil",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/006%20HCL%202007-01%20transmitere%20imobil%20PACEA.pdf",
+     "sha256": "973a618e08430eccf5babfe6b078b8230813ad2aa4769d7733a6c4fcaa5ed7af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-60-2007",
+   "path": "local/neamt/roman/2007/60",
+   "short": "HCL Roman nr. 60/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 60/2007 Privind validarea unui mandat de consilier",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-05-14",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/060%20HCL%202007-05%20validare%20mandat.pdf",
+     "sha256": "be8fc281a77a290a29502b7084bb612aa4d3f83ea8c421a16401c90e9ffc97bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-69-2007",
+   "path": "local/neamt/roman/2007/69",
+   "short": "HCL Roman nr. 69/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 69/2007 Privind modificarea listei cu obiectivele de investitii ce se vor finanta din împrumut",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-06-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/069%20HCL%202007-06%20modificare%20lista%20investitii.pdf",
+     "sha256": "f42010a5a57a4ac043d3c83f2e6c2d1839b672205f8ca5714764e2abacb479da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-7-2007",
+   "path": "local/neamt/roman/2007/7",
+   "short": "HCL Roman nr. 7/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 7/2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/007%20HCL%202007-01%20modificare%20IT%20locale.pdf",
+     "sha256": "d3439a8a77c1d055a6dbac6e8e058a41abcecb467e047f1c02f742c66c656bfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-70-2007",
+   "path": "local/neamt/roman/2007/70",
+   "short": "HCL Roman nr. 70/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 70/2007 Privind aprobarea contului de executie bugetara pe anul 2006",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-06-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/070%20HCL%202007-06%20aprobare%20cont%20executie.pdf",
+     "sha256": "9b7a4985a83dc194e79fcb1bebecdbb38615ecc3b3813327beb246c3f6775f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-72-2007",
+   "path": "local/neamt/roman/2007/72",
+   "short": "HCL Roman nr. 72/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 72/2007 Privind modificarea bugetului local pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-06-07",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/072%20HCL%202007-06%20modificare%20buget%20local.pdf",
+     "sha256": "7dc699390868c24c8ddac45e0bfd76fbb0f9746338ccfe5f184f7f07e979682f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-8-2007",
+   "path": "local/neamt/roman/2007/8",
+   "short": "HCL Roman nr. 8/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 8/2007 Privind stabilirea unor masuri de sprijin pentru locatarii blocului nr. 3 din str",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/008%20HCL%202007-01%20masuri%20N%20Titulescu%203.pdf",
+     "sha256": "2097d9904a8bc72a31f41a6fa689f4ccf239ca83a2883046d8fe923cf1f892e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-86-2007",
+   "path": "local/neamt/roman/2007/86",
+   "short": "HCL Roman nr. 86/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 86/2007 Privind modificarea bugetului local pe anul 2007",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-07-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/086%20HCL%202007-07%20modiicare%20buget%20local.pdf",
+     "sha256": "b0044395224fa671dfc8f3b311609ce7eda8500232f2696ab8b86c529c265f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-87-2007",
+   "path": "local/neamt/roman/2007/87",
+   "short": "HCL Roman nr. 87/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 87/2007 Pentru aprobarea unor Studii de Fezabilitate",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-07-12",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/087%20HCL%202007-07%20studii%20fezabilitate.pdf",
+     "sha256": "9ff4e455235e190f99aee687aac9b24f9036addeb27030b35281ccea31443219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-neamt--roman-9-2007",
+   "path": "local/neamt/roman/2007/9",
+   "short": "HCL Roman nr. 9/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Roman nr. 9/2007 Privind aprobarea participarii Consiliului Local Roman la înfiintarea Societatii Comerciale “WWE - Roman SRL“",
+   "url": "http://primariaroman.ro/consiliul-local/hotarari-ale-consiliul-local/h-c-l-2007/",
+   "versions": [
+    {
+     "from": "2007-01-25",
+     "units": 1,
+     "source_url": "http://primariaroman.ro/wp-content/uploads/ConsLoc/HCL/2007/009%20HCL%202007-01%20asociere%20CLR%20WWE.pdf",
+     "sha256": "36050fa7da42da15c2502b393bead92ea38dfda432c86954f810cd60559036a2"
     }
    ]
   }
