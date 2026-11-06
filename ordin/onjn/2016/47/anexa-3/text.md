@@ -113,7 +113,7 @@ CONȚINUTUL, RAPOARTELE ȘI ACCESUL la informații transmise de către organizat
 ├──────────────┼───────────────┼──────────┼─────────┼─────────────────────┼────────────────┼───────┼───────┼─────────────────────────────┼───────────────────┤
 │              │CNP            │          │         │Înregistrare         │Număr           │   1   │   1   │Acest câmp conține codul     │                   │
 │              │               │          │         │                     │                │       │       │numeric personal pentru      │                   │
-│              │               │          │         │                     │                │       │       │cetățenii români.            │1900806182888      │
+│              │               │          │         │                     │                │       │       │cetățenii români.            │[CNP omis]      │
 ├──────────────┼───────────────┼──────────┼─────────┼─────────────────────┼────────────────┼───────┼───────┼─────────────────────────────┼───────────────────┤
 │              │Rezidență      │          │         │                     │                │       │       │Rezidență fiscală a          │                   │
 │              │fiscală        │          │         │Înregistrare         │Șir de caractere│   1   │   1   │jucătorului                  │România            │
