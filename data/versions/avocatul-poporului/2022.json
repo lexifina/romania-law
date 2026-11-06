@@ -1051,6 +1051,561 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-148-2022",
+   "path": "avocatul-poporului/recomandare/2022/148",
+   "short": "Recomandarea Avocatul Poporului nr. 148/2022",
+   "title": "Către primarul comunei Tamași, județul Bacău",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-148-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-148-2022.pdf",
+     "sha256": "b75533ab3ddbad3ad8f332ef22f774f9ab8773b8cde03e0f1ded96917cf1da11"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-149-2022",
+   "path": "avocatul-poporului/recomandare/2022/149",
+   "short": "Recomandarea Avocatul Poporului nr. 149/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 149 din 2022-10-11",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-149-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-149-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-15-2022",
+   "path": "avocatul-poporului/recomandare/2022/15",
+   "short": "Recomandarea Avocatul Poporului nr. 15/2022",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-15-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-15-2022.pdf",
+     "sha256": "9391431db378749b03cb997a8f2fcee39ac31e76c36da839b1b8589e3b70a255"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-150-2022",
+   "path": "avocatul-poporului/recomandare/2022/150",
+   "short": "Recomandarea Avocatul Poporului nr. 150/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 150 din 2022-10-11",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-150-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-150-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-151-2022",
+   "path": "avocatul-poporului/recomandare/2022/151",
+   "short": "Recomandarea Avocatul Poporului nr. 151/2022",
+   "title": "Către directorul general al Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-151-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-151-2022.pdf",
+     "sha256": "78a90b81e425a9df9763f949948f5c4011745ea0ae34ef98442eb184c1285d0b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-152-2022",
+   "path": "avocatul-poporului/recomandare/2022/152",
+   "short": "Recomandarea Avocatul Poporului nr. 152/2022",
+   "title": "Către directorul Direcției Regim Permise de Conducere și Înmatriculare a Vehiculelor",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-152-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-152-2022.pdf",
+     "sha256": "39cac23b1773864d26e38d7e75be0922966212da5bc141264990b7c060c297fd"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-153-2-2022",
+   "path": "avocatul-poporului/recomandare/2022/153-2",
+   "short": "Recomandarea Avocatul Poporului din 2022-10-11",
+   "title": "Către directorul executiv al Direcției Generale de Asistență Socială și Protecția Copilului Sector 5",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-5.pdf",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-5.pdf",
+     "sha256": "f8d991eaadc101feacdc349860eb532c0402957438a402f30c8e6d616819d684"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-153-2022",
+   "path": "avocatul-poporului/recomandare/2022/153",
+   "short": "Recomandarea Avocatul Poporului nr. 153/2022",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 4",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-4.pdf",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-4.pdf",
+     "sha256": "dff2f7a519f94f6443b352c83532299d404ee5b0ddc9a9afa5b22997f11f4f3c"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-153-3-2022",
+   "path": "avocatul-poporului/recomandare/2022/153-3",
+   "short": "Recomandarea Avocatul Poporului din 2022-10-11",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecția Copilului Sector 6",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-6.pdf",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-153-2022-DGASPC-Sector-6.pdf",
+     "sha256": "4d0a50a5d8a18fc8e0927f838272572f77b006596697bccec32031b960b3815b"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-154-2022",
+   "path": "avocatul-poporului/recomandare/2022/154",
+   "short": "Recomandarea Avocatul Poporului nr. 154/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 154 din 2022-10-17",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-154-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-154-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-155-2022",
+   "path": "avocatul-poporului/recomandare/2022/155",
+   "short": "Recomandarea Avocatul Poporului nr. 155/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 155 din 2022-10-05",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-155-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-155-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-156-2022",
+   "path": "avocatul-poporului/recomandare/2022/156",
+   "short": "Recomandarea Avocatul Poporului nr. 156/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 156 din 2022-10-19",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-156-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-156-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-157-2022",
+   "path": "avocatul-poporului/recomandare/2022/157",
+   "short": "Recomandarea Avocatul Poporului nr. 157/2022",
+   "title": "Către ministrul muncii și solidarității sociale",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-157-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-157-2022.pdf",
+     "sha256": "82f80465ee691e730bcd1c7981e6b5b451930f8a8d25fcee377c1a2d0a216a03"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-158-2022",
+   "path": "avocatul-poporului/recomandare/2022/158",
+   "short": "Recomandarea Avocatul Poporului nr. 158/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 158 din 2022-10-14",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-158-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-158-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-159-2022",
+   "path": "avocatul-poporului/recomandare/2022/159",
+   "short": "Recomandarea Avocatul Poporului nr. 159/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 159 din 2022-11-01",
+   "url": "https://avp.ro/wp-content/uploads/2022/10/Rec-159-2022-1.pdf",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/10/Rec-159-2022-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-16-2022",
+   "path": "avocatul-poporului/recomandare/2022/16",
+   "short": "Recomandarea Avocatul Poporului nr. 16/2022",
+   "title": "Către directorul general al Direcției Generale de Asistență Socială și Protecţia Copilului Bistrița-Năsăud",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-16-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-16-2022.pdf",
+     "sha256": "6cc19edc41ef13bc53e4e0220d0d71b7e626518585b98704d1be9942ddc0c88f"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-160-2022",
+   "path": "avocatul-poporului/recomandare/2022/160",
+   "short": "Recomandarea Avocatul Poporului nr. 160/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 160 din 2022-10-31",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-160-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-160-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-161-2022",
+   "path": "avocatul-poporului/recomandare/2022/161",
+   "short": "Recomandarea Avocatul Poporului nr. 161/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 161 din 2022-10-31",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-161-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-161-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-162-2022",
+   "path": "avocatul-poporului/recomandare/2022/162",
+   "short": "Recomandarea Avocatul Poporului nr. 162/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 162 din 2022-10-31",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-162-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-162-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-163-2022",
+   "path": "avocatul-poporului/recomandare/2022/163",
+   "short": "Recomandarea Avocatul Poporului nr. 163/2022",
+   "title": "Către primarul Municipiului Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-163-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-15",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-163-2022.pdf",
+     "sha256": "68b36817103141221d63302727a562d539e38a7a3c25a1e92d54e2fd2ab04057"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-164-2022",
+   "path": "avocatul-poporului/recomandare/2022/164",
+   "short": "Recomandarea Avocatul Poporului nr. 164/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 164 din 2022-11-02",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-164-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-164-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-165-2022",
+   "path": "avocatul-poporului/recomandare/2022/165",
+   "short": "Recomandarea Avocatul Poporului nr. 165/2022",
+   "title": "Către directorul Școlii Profesionale Răscruci, comuna Bonțida, județul Cluj",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-165-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-165-2022.pdf",
+     "sha256": "70e593d72a6e95b77c4ff00d177a67a119b85bd19f7dc957dc67e92684b58a13"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-166-2-2022",
+   "path": "avocatul-poporului/recomandare/2022/166-2",
+   "short": "Recomandarea Avocatul Poporului din 2022-11-22",
+   "title": "Recomandarea Avocatului Poporului din 2022-11-22",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-166-2022-Penitenciar-Rahova.pdf",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-166-2022-Penitenciar-Rahova.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-166-2022",
+   "path": "avocatul-poporului/recomandare/2022/166",
+   "short": "Recomandarea Avocatul Poporului nr. 166/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 166 din 2022-11-28",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-166-2022-ANP.pdf",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-166-2022-ANP.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-167-2-2022",
+   "path": "avocatul-poporului/recomandare/2022/167-2",
+   "short": "Recomandarea Avocatul Poporului din 2022-11-23",
+   "title": "Recomandarea Avocatului Poporului din 2022-11-23",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-167-2022-Penitenciar-Ploiesti.pdf",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-167-2022-Penitenciar-Ploiesti.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-167-2022",
+   "path": "avocatul-poporului/recomandare/2022/167",
+   "short": "Recomandarea Avocatul Poporului nr. 167/2022",
+   "title": "Către directorul Administrației Naționale a Penitenciarelor",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-167-2022-ANP.pdf",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-167-2022-ANP.pdf",
+     "sha256": "46f652f24959b47baf32854fa887e090abc0bf20e5488bb1671ddb9c86b6bb99"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-168-2022",
+   "path": "avocatul-poporului/recomandare/2022/168",
+   "short": "Recomandarea Avocatul Poporului nr. 168/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 168 din 2022-06-14",
+   "url": "https://avp.ro/wp-content/uploads/2022/11/Rec-168-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-06-14",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/11/Rec-168-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-169-2022",
+   "path": "avocatul-poporului/recomandare/2022/169",
+   "short": "Recomandarea Avocatul Poporului nr. 169/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 169 din 2022-11-11",
+   "url": "https://avp.ro/wp-content/uploads/2022/12/Rec-169-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/12/Rec-169-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-17-2022",
+   "path": "avocatul-poporului/recomandare/2022/17",
+   "short": "Recomandarea Avocatul Poporului nr. 17/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 17 din 2022-03-02",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-17-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-17-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-170-2022",
+   "path": "avocatul-poporului/recomandare/2022/170",
+   "short": "Recomandarea Avocatul Poporului nr. 170/2022",
+   "title": "Către directorul Colegiului Tehnic „Ioan C. Ștefănescu” Iași",
+   "url": "https://avp.ro/wp-content/uploads/2022/12/Rec-170-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-09-27",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/12/Rec-170-2022.pdf",
+     "sha256": "01cb07c02b6914281bfedfed41f7a3e545ebee4fe05b3314a02659ec444657f1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-171-2022",
+   "path": "avocatul-poporului/recomandare/2022/171",
+   "short": "Recomandarea Avocatul Poporului nr. 171/2022",
+   "title": "Către ministrul sănătății",
+   "url": "https://avp.ro/wp-content/uploads/2022/12/Rec-171-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/12/Rec-171-2022.pdf",
+     "sha256": "5bcef7e4d89c417fa7b0c092a1924806af027b7a2f36c1987b529f26a019f376"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-172-2022",
+   "path": "avocatul-poporului/recomandare/2022/172",
+   "short": "Recomandarea Avocatul Poporului nr. 172/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 172 din 2022-12-19",
+   "url": "https://avp.ro/wp-content/uploads/2022/12/Rec-172-2022-1.pdf",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/12/Rec-172-2022-1.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-18-2-2022",
+   "path": "avocatul-poporului/recomandare/2022/18-2",
+   "short": "Recomandarea Avocatul Poporului din 2022-03-02",
+   "title": "Recomandarea Avocatului Poporului din 2022-03-02",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-18-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-18-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-18-2022",
+   "path": "avocatul-poporului/recomandare/2022/18",
+   "short": "Recomandarea Avocatul Poporului nr. 18/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 18 din 2022-03-02",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-18-2022-Scoala-gimnaziala-Teodor-Medeleanu-Vs.pdf",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-18-2022-Scoala-gimnaziala-Teodor-Medeleanu-Vs.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-19-2022",
+   "path": "avocatul-poporului/recomandare/2022/19",
+   "short": "Recomandarea Avocatul Poporului nr. 19/2022",
+   "title": "Recomandarea Avocatului Poporului nr. 19 din 2022-02-07",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-19-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-07",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-19-2022.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-2-2022",
+   "path": "avocatul-poporului/recomandare/2022/2",
+   "short": "Recomandarea Avocatul Poporului nr. 2/2022",
+   "title": "Către directorul Penitenciarului Tulcea",
+   "url": "https://avp.ro/wp-content/uploads/2022/01/Rec2-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-01-17",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/01/Rec2-2022.pdf",
+     "sha256": "18c26ea9cbea1a48d5fc27207eb8308b62bc96c45b2105224db3bcf71149c0e1"
+    }
+   ]
+  },
+  {
+   "slug": "avocatul-poporului-recomandare-20-2022",
+   "path": "avocatul-poporului/recomandare/2022/20",
+   "short": "Recomandarea Avocatul Poporului nr. 20/2022",
+   "title": "Către primarul municipiului Brașov",
+   "url": "https://avp.ro/wp-content/uploads/2022/03/Rec-20-2022.pdf",
+   "versions": [
+    {
+     "from": "2022-03-02",
+     "units": 1,
+     "source_url": "https://avp.ro/wp-content/uploads/2022/03/Rec-20-2022.pdf",
+     "sha256": "bdf4098a28e70b88c060a1fe837df2f200419d2248600c2cf3932fae6577eb02"
+    }
+   ]
   }
  ]
 }

@@ -18280,7 +18280,7 @@
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
 | Government decisions (HG) | 41954 | [`data/acts/hg/`](data/acts/hg/) |
-| Ministerial and authority orders (ordine) | 30691 | [`data/acts/ordin/`](data/acts/ordin/) |
+| Ministerial and authority orders (ordine) | 30702 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 839 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 685 | [`data/acts/regulament/`](data/acts/regulament/) |
 | Instructions (instrucțiuni) | 245 | [`data/acts/instructiuni/`](data/acts/instructiuni/) |
@@ -18294,7 +18294,7 @@
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |
 | Court of Accounts (plenum decisions, regulations) | 18 | [`data/acts/curtea-de-conturi/`](data/acts/curtea-de-conturi/) |
-| Ombudsman (Avocatul Poporului): recommendations, reports, constitutional referrals | 882 | [`data/acts/avocatul-poporului/`](data/acts/avocatul-poporului/) |
+| Ombudsman (Avocatul Poporului): recommendations, reports, constitutional referrals | 1182 | [`data/acts/avocatul-poporului/`](data/acts/avocatul-poporului/) |
 | Anti-discrimination council decisions (CNCD) | 2315 | [`data/acts/cncd/`](data/acts/cncd/) |
 | Data protection authority decisions and sanction notices (ANSPDCP) | 375 | [`data/acts/anspdcp/`](data/acts/anspdcp/) |
 | Technical rules for construction (normative tehnice) | 291 | [`data/acts/normativ-tehnic/`](data/acts/normativ-tehnic/) |

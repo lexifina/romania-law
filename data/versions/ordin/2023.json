@@ -19308,6 +19308,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-101-2023",
+   "path": "ordin/anre/2023/101",
+   "short": "Ordin anre nr. 101/2023",
+   "title": "Ordinul nr. 101/2023 pentru modificarea și completarea Metodologiei de stabilire a tarifelor reglementate pentru serviciile de distribuție în sectorul gazelor naturale, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 217/2018",
+   "url": "https://anre.ro/wp-content/uploads/2023/12/Ord-101-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/12/Ord-101-2023.pdf",
+     "sha256": "99eea340aa95bfefbc562edc44e02b9af9aa3c06c4ebfae0d67c59b3de274d6a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-102-2023",
+   "path": "ordin/anre/2023/102",
+   "short": "Ordin anre nr. 102/2023",
+   "title": "Ordinul nr. 102/2023 pentru modificarea și completarea Metodologiei de stabilire a tarifelor reglementate pentru serviciile de transport al gazelor naturale, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 41/2019",
+   "url": "https://anre.ro/wp-content/uploads/2023/12/Ord-102-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/12/Ord-102-2023.pdf",
+     "sha256": "7a92317ec3ad9165de501bd94f9f99c2c6430930b624fb9b0388741e9b02d913"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-106-2023",
    "path": "ordin/anre/2023/106",
    "short": "Ordin anre nr. 106/2023",
@@ -19398,6 +19428,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-115-2023",
+   "path": "ordin/anre/2023/115",
+   "short": "Ordin anre nr. 115/2023",
+   "title": "Ordinul nr. 115/2023 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Distribuție Energie Electrică Romania — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2023/12/Ord-115-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/12/Ord-115-2023.pdf",
+     "sha256": "894fe7d55893a023d0f5c8ee118de1d56f327b35d61719e2a1fb710536365ffd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-116-2023",
    "path": "ordin/anre/2023/116",
    "short": "Ordin anre nr. 116/2023",
@@ -19473,6 +19518,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-26-2023",
+   "path": "ordin/anre/2023/26",
+   "short": "Ordin anre nr. 26/2023",
+   "title": "Ordinul nr. 26/2023 privind aprobarea tarifelor specifice pentru serviciul de distribuție a energiei electrice și a prețului pentru energia electrică reactivă, pentru Societatea Distribuție Energie Oltenia — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2023/05/Ord_26_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 8,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/05/Ord_26_2023.pdf",
+     "sha256": "e934ff50a34180d7369c1ff118ded1c660a7fac377bd0c602015cca8d914f55b"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-27-2023",
    "path": "ordin/anre/2023/27",
    "short": "Ordin anre nr. 27/2023",
@@ -19484,6 +19544,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266427",
      "sha256": "588998244972672f79be37eb5ef19d35c08baaec36b197f0b30bb3f7b680dbd1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-28-2023",
+   "path": "ordin/anre/2023/28",
+   "short": "Ordin anre nr. 28/2023",
+   "title": "Ordinul nr. 28/2023 privind aprobarea tarifului mediu pentru serviciul de transport al energiei electrice, a componentelor tarifului de transport de introducere a energiei electrice în rețele (T_G) și de extragere a energiei electrice din rețele (T_L) și a prețului reglementat pentru energia electrică reactivă, practicate de Compania Națională de Transport al Energiei Electrice „Transelectrica” — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2023/05/Ord_28_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-01",
+     "units": 7,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/05/Ord_28_2023.pdf",
+     "sha256": "d97ed597bd16bde666353f13793d15cd156eea6ab5aa504c00f611ade183c7c8"
     }
    ]
   },
@@ -19859,6 +19934,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266473",
      "sha256": "36f466c18ea8c47db17a72191d91c2ec7e20e38a66bfa8e95adc6639af38ccb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-77-2023",
+   "path": "ordin/anre/2023/77",
+   "short": "Ordin anre nr. 77/2023",
+   "title": "Ordinul nr. 77/2023 pentru modificarea Regulamentului privind cadrul organizat de tranzacționare a produselor standardizate pe piețele centralizate de gaze naturale administrate de Societatea Bursa Română de Mărfuri — S.A. (Romanian Commodities Exchange — S.A.), aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 95/2021",
+   "url": "https://anre.ro/wp-content/uploads/2023/07/Ord-77-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/07/Ord-77-2023.pdf",
+     "sha256": "fab1ed165fb8c69e08e4e75a522bee5c62516808379c015c92d7db3c444657ad"
     }
    ]
   },

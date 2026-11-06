@@ -20268,6 +20268,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-6-2022",
+   "path": "ordin/anre/2022/6",
+   "short": "Ordin anre nr. 6/2022",
+   "title": "Ordinul nr. 6/2022 pentru modificarea și completarea Procedurii privind confirmarea unui sistem de distribuție închis de energie electrică sau de gaze naturale, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 195/2020",
+   "url": "https://anre.ro/wp-content/uploads/2023/03/Ord_6_2022.pdf",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ord_6_2022.pdf",
+     "sha256": "ac1e30e9d15d1087fef62e3f2b078879ba60355e9998da66f47d0d48b4092c1c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-138-2022",
    "path": "ordin/bnr/2022/138",
    "short": "Ordin bnr nr. 138/2022",

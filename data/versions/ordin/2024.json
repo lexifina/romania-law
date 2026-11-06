@@ -18228,6 +18228,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-11-2024",
+   "path": "ordin/anre/2024/11",
+   "short": "Ordin anre nr. 11/2024",
+   "title": "Ordinul nr. 11/2024 pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 130/2020 privind stabilirea unor măsuri pentru rezervarea capacității de transport în punctele de interconectare a Sistemului național de transport al gazelor naturale din România cu sistemele de transport al gazelor naturale din țările învecinate României",
+   "url": "https://anre.ro/wp-content/uploads/2024/05/Ord-11-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-24",
+     "units": 3,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/05/Ord-11-2024.pdf",
+     "sha256": "aeb170be83c15334aa8cc61759bc508da1b9130bbf4363823ea6b70b50a0d9f3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-19-2024",
    "path": "ordin/anre/2024/19",
    "short": "Ordin anre nr. 19/2024",
@@ -18239,6 +18254,21 @@
      "units": 5,
      "source_url": "https://anre.ro/wp-content/uploads/2024/06/Ord-19-2024.pdf",
      "sha256": "7006432af204e6f042d0eb00587fb3696ea584b5da6ffe38258b8990d396ec0a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-21-2024",
+   "path": "ordin/anre/2024/21",
+   "short": "Ordin anre nr. 21/2024",
+   "title": "Ordinul nr. 21/2024 privind aprobarea valorilor prețurilor de referință pentru energia termică livrată în SACET din centrale cu unități de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficiență, aplicabile în perioada iulie—octombrie 2024",
+   "url": "https://anre.ro/wp-content/uploads/2024/06/Ord-21-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 7,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/06/Ord-21-2024.pdf",
+     "sha256": "cf3364f523e60cbe774aa9f9ff59f630f2d15a22213800bc1fee83eefe066b60"
     }
    ]
   },
@@ -18614,6 +18644,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/287640",
      "sha256": "54e34cc84866234f6f8798f2af1eb3e79176d0afa4a266279da487c6c56b3cf4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-57-2024",
+   "path": "ordin/anre/2024/57",
+   "short": "Ordin anre nr. 57/2024",
+   "title": "Ordinul nr. 57/2024 privind aprobarea tarifului pentru achiziția serviciilor de sistem pentru operatorul de transport și sistem Compania Națională de Transport al Energiei Electrice „Transelectrica” — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2024/09/Ord-57-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 6,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/09/Ord-57-2024.pdf",
+     "sha256": "73fb7701b0835409250f9f2b09736c942a3887918d3b1e78ecfc6f526e468d6d"
     }
    ]
   },
