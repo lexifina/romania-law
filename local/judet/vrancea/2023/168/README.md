@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Județean Vrancea nr. 168/2023 pentru obiectivul de investiții „Modernizare DJ 204D, sector Suraia – Vulturu km. 17+850 – km. 26+000, L=8,15 km., LOT I, sector Maluri – Maluri, km. 35+600 – km. 37+000, L=1,40 km., LOT II” județul Vrancea, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiect
+
+HCJ Vrancea nr. 168/2023 · 1 versions, from 2023-07-26 (latest in force: 2023-07-26) · <https://cjvrancea.ro/hotarari/page/6/?an=2023>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcj-vrancea-168-2023` (tags `hcj-vrancea-168-2023/<day>`; `python tools/on.py <day> hcj-vrancea-168-2023`).
+
+## Decisions made by hand
+
+- HCJ Vrancea nr. 168/2023: listed from Consiliul Județean Vrancea (cjvrancea.ro); an individual decision: metadata only.
+- HCJ Vrancea nr. 168/2023: dated from 26 July 2023, the day it was adopted (the register gives no later day of publication).
+- HCJ Vrancea nr. 168/2023: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

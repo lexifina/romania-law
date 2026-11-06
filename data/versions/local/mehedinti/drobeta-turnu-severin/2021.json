@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2021",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-11-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/11",
+   "short": "HCL Drobeta-Turnu Severin nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 11/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8c1e2f075394b4afd0398d80a889a2b107991b377bd3d538655c14d05a79a32a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-14-2021",
    "path": "local/mehedinti/drobeta-turnu-severin/2021/14",
    "short": "HCL Drobeta-Turnu Severin nr. 14/2021",
@@ -14,6 +29,66 @@
      "units": 1,
      "source_url": "https://primariadrobeta.ro/storage/formidable/105/hcl-168-privind-modificarea-HCL-nr.-14-din-29.01.2021-ref.-la-stabilire-norme-locale-contraventii.pdf",
      "sha256": "3f4aab49ebb72499484280aae0f2fd8cf49bae98bc8125e8235d20cee5c905fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-171-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/171",
+   "short": "HCL Drobeta-Turnu Severin nr. 171/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 171/2021 privind contractarea unei finantari rambursabile interne-linie de finantare in valoare de pana la 50.000.000 lei Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-05",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-171-din-05.07.2021_modif.-HCL-nr.-26-din-25.02.2021-privind-contractarea-unei-finantari-rambursabile-interne-linie-de-finantare-in-valoare-de-pana-la-50.000.000-lei.pdf",
+     "sha256": "efaef7bc896f2e2344d41331ccdfd176bb12f732a2a55442825a25d7e1a897d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-172-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/172",
+   "short": "HCL Drobeta-Turnu Severin nr. 172/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 172/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "139b52eaa65ba2471fabd66a64af8e49d48bfe6c94a17e079c78ba05165e7782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-173-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/173",
+   "short": "HCL Drobeta-Turnu Severin nr. 173/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 173/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3460a5d3cbb8de2bf8623c2594366551a8b68fa38d6c412ffd4f0b3da07eba8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-174-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/174",
+   "short": "HCL Drobeta-Turnu Severin nr. 174/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 174/2021 privind aprobarea modificarii bugetului de venituri si cheltuieli al Directiei de Politie Locala DTS pe 2021 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-174-din-30.07.2021-privind-aprobarea-modificarii-bugetului-de-venituri-si-cheltuieli-al-Directiei-de-Politie-Locala-DTS-pe-2021.pdf",
+     "sha256": "d1f138e757504a17917aaeffd5a671e0829d107adbf7adec81442c1a290249ae"
     }
    ]
   },
@@ -33,6 +108,141 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-176-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/176",
+   "short": "HCL Drobeta-Turnu Severin nr. 176/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 176/2021 privind modificarea statului de functii publice aparat de specialitate primar pt. 2021 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-176-din-30.07.2021-privind-modificarea-statului-de-functii-publice-aparat-de-specialitate-primar-pt.-2021.pdf",
+     "sha256": "21659fc81acd290c587bce27be92e70b593e8f580505903a73b074e95210592b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-177-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/177",
+   "short": "HCL Drobeta-Turnu Severin nr. 177/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 177/2021 privind incheierea Actului Aditional nr.1 la Contractul de delegare prin concesiune a serviciului public…gestionarea cainilor fara stapan Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-177-din-30.07.2021-privind-incheierea-Actului-Aditional-nr.1-la-Contractul-de-delegare-prin-concesiune-a-serviciului-public...gestionarea-cainilor-fara-stapan.pdf",
+     "sha256": "57d95d85b2834dc54035d5a05405c5f7a5d7b60e32884aab9ff8c52d51cbb126"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-178-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/178",
+   "short": "HCL Drobeta-Turnu Severin nr. 178/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 178/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6da4503fbe605c4e872144132d9eb05588daae86d73d8f02cc509ce4c0086f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-179-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/179",
+   "short": "HCL Drobeta-Turnu Severin nr. 179/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 179/2021 privind aprobarea docum.cadastrale cu propunerea de dezmembrare a imobilului teren NC66877,B-dul Portile de Fier Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-179-din-30.07.2021-privind-aprobarea-docum.cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC66877B-dul-Portile-de-Fier.pdf",
+     "sha256": "fde9ecd15bc55587af99a8331d4bbd57563ff00b4793053ca5517dfad28cb2cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-180-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/180",
+   "short": "HCL Drobeta-Turnu Severin nr. 180/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 180/2021 privind aprobarea docum.tehnice cadastrale cu propunerea de dezmembrare a imobilului teren NC52333,B-dul Mihai Viteazu Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "91e58bcce233c1a056744a9c2d1f30f55993d69f18ef09feddb685fbcbba7863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-182-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/182",
+   "short": "HCL Drobeta-Turnu Severin nr. 182/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 182/2021 privind aprobarea trecerii imobilului teren str.Topolnitei,nr.22, 11728mp din dom.public in dom.privat al mun.DTS Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-182-din-30.07.2021-privind-aprobarea-trecerii-imobilului-teren-str.Topolniteinr.22-11728mp-din-dom.public-in-dom.privat-al-mun.DTS_.pdf",
+     "sha256": "df4812ab6c73b28718ac5af45daba092e23288969acbb53abd22f53ae20f9535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-183-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/183",
+   "short": "HCL Drobeta-Turnu Severin nr. 183/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 183/2021 privind aprobarea trecerii unor apartamente din dom.public in dom.privat al mun.DTS Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-183-din-30.07.2021-privind-aprobarea-trecerii-unor-apartamente-din-dom.public-in-dom.privat-al-mun.DTS_.pdf",
+     "sha256": "3423641d5deac3ebfc6e1384a142ddfb5af1ed384604de2ea63a1c09c689c869"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-184-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/184",
+   "short": "HCL Drobeta-Turnu Severin nr. 184/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 184/2021 privind acordarea pt.anul scolar 2021-2022 a pachetului cu rechizite scolare Primul ghiozdan Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-184-din-30.07.2021-privind-acordarea-pt.anul-scolar-2021-2022-a-pachetului-cu-rechizite-scolare-Primul-ghiozdan.pdf",
+     "sha256": "636a75ccac28b2c610b663d4b644d940c6e3ab1fae9c3e0e14db4eb6e62cf9de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-185-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/185",
+   "short": "HCL Drobeta-Turnu Severin nr. 185/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 185/2021 privind completarea Anexei 1 la HCL NR. 220-2011 si completarea Anexei la HCL NR. 172-2011 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-185-din-30.07.2021-privind-completarea-Anexei-1-la-HCL-NR.-220-2011-si-completarea-Anexei-la-HCL-NR.-172-2011.pdf",
+     "sha256": "7ee241baa9ea626b5c1b161a5bd52ed2df363f90b8c27a050b21dff68c67c356"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-187-2021",
    "path": "local/mehedinti/drobeta-turnu-severin/2021/187",
    "short": "HCL Drobeta-Turnu Severin nr. 187/2021",
@@ -44,6 +254,591 @@
      "units": 1,
      "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-187-din-30.07.2021-privind-modificarea-Regulamentului-de-instituire-si-administrare-a-taxei-de-salubrizarein-DTSaprobat-prin-HCL-61-29.03.2021.pdf",
      "sha256": "e75fc1e3a6697e438a9d05158d5d60794aa0d32b64696d9f839457c483438c6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-188-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/188",
+   "short": "HCL Drobeta-Turnu Severin nr. 188/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 188/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a32fcfdba745d6f30c8662b0bbd1bb5b3a1b320d295da30b85b5f08cc50e8784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-189-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/189",
+   "short": "HCL Drobeta-Turnu Severin nr. 189/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 189/2021 privind desemnarea unui administrator al societatii comerciale TERMOFICARE GAZ DROBETA SRL Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-189-din-30.07.2021-privind-desemnarea-unui-administrator-al-societatii-comerciale-TERMOFICARE-GAZ-DROBETA-SRL.pdf",
+     "sha256": "7ab1d67191a5482e62404f0135dfe6ea6f84699c3b44e91ab3f8160875bb54d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-190-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/190",
+   "short": "HCL Drobeta-Turnu Severin nr. 190/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 190/2021 privind incetarea dreptului de administrare al SPAPTO pt.chioscul nr.2 in Piata Agroalimentara Crihala, 15.50 mp si spatiu 9,80 mp Targ Veterani Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-190-din-30.07.2021-privind-incetarea-dreptului-de-administrare-al-SPAPTO-pt.chioscul-nr.2-in-Piata-Agroalimentara-Crihala-15.50-mp-si-spatiu-980-mp-Targ-Veterani.pdf",
+     "sha256": "bb1cbc1dc9933af0668aff8d5f738de0726653fd9d44199287b84c80d206a7d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-191-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/191",
+   "short": "HCL Drobeta-Turnu Severin nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 191/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0be88fc629d7bf7cf82baf9588f84c1b0f8ce9e70345daa32e8fb721486ef771"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-192-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/192",
+   "short": "HCL Drobeta-Turnu Severin nr. 192/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 192/2021 privind aprobarea Devizului general actualizat la 22.07.2021 si a indicatorilor t-ec.pt",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-192-din-30.07.2021-privind-aprobarea-Devizului-general-actualizat-la-22.07.2021-si-a-indicatorilor-t-ec.pt_.-Reabilitare-baza-sportiva-Colegiul-Tehnic-Decebal.pdf",
+     "sha256": "ad10357fddb076e7047e62c61f748ec0855e8c0c0a7affb1cb9b8aea31cc4fe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-193-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/193",
+   "short": "HCL Drobeta-Turnu Severin nr. 193/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 193/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-193-din-30.07.2021-aprobarea-cotei-de-cofinantare-din-bugetul-local-ca-urmare-a-actualiz.Devizului-general-la-22.07.2021-pt.Reab_.baza-sportiva-Colegiul-Tehnic-Decebal.pdf",
+     "sha256": "4a10bb8edec8736870dbf441a60cba6fe2482820cd0e7f069c12314725cc9747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-194-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/194",
+   "short": "HCL Drobeta-Turnu Severin nr. 194/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 194/2021 privind aprobarea documentatiei tehnice cadastrale – dezmembrare imobil Cimitir Sf. Stefan…Aleea Baladei, nr. 2 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-194-din-30.07.2021-privind-aprobarea-documentatiei-tehnice-cadastrale-dezmembrare-imobil-Cimitir-Sf.-Stefan...Aleea-Baladei-nr.-2.pdf",
+     "sha256": "bae8ad2a886e8205f214c687004b4d54c104ac9ebd1823a8701947ff4d1211b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-195-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/195",
+   "short": "HCL Drobeta-Turnu Severin nr. 195/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 195/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-97-privind-modificarea-H.C.L.-nr.-195-30.07.2021-referitoare-la-alegerea-comisiilor-de-specialitate-ale-CL-1.pdf",
+     "sha256": "0150ec466333c93e323d881de000a60d8b9276089702564d801febc2a61bd8e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-196-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/196",
+   "short": "HCL Drobeta-Turnu Severin nr. 196/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 196/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-196-din-30.08.2021_rectificarea-bugetului-de-venituri-si-cheltuieli-al-CL-pe-2021.pdf",
+     "sha256": "99742b2c2210a3c1dfce0fe66d6da53ab1d5a5833f707d9037e537710bf50e68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-197-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/197",
+   "short": "HCL Drobeta-Turnu Severin nr. 197/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 197/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-197-din-30.08.2021_rectificarea-bugetului-de-venituri-si-cheltuieli-al-CL-sursa-C-pe-2021.pdf",
+     "sha256": "ccbc762ef1af149ad19d19009f4422dfae0c6ee5f4fe331dc881e43cc4e4fc63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-198-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/198",
+   "short": "HCL Drobeta-Turnu Severin nr. 198/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 198/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-198-din-30.08.2021_rectificarea-bugetului-de-venituri-si-cheltuieli-pe-2021-al-DAS-DTS.pdf",
+     "sha256": "11a8d1119aea919867b1de479e30ee5fec1d5ead16ecbd77d44a0a9112c66f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-199-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/199",
+   "short": "HCL Drobeta-Turnu Severin nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 199/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-199-din-30.08.2021_aprobarea-modificarii-bugetului-de-venituri-si-cheltuieli-pt.-Directia-de-Politie-Locala-DTS-pe-2021.pdf",
+     "sha256": "7d96d35a799a1b38ba060e46d97c562c67738e66c59b1df3ca2e03e5d9972bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-200-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/200",
+   "short": "HCL Drobeta-Turnu Severin nr. 200/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 200/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "341974eaecbb1c25589edc1bff5a621c3ec1e5ed6202f4422e7b72804c9abe41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-201-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/201",
+   "short": "HCL Drobeta-Turnu Severin nr. 201/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 201/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-201-din-30.08.2021_aprobarea-statului-de-functii-al-Directiei-de-Politie-Locala-DTS.pdf",
+     "sha256": "d0303ebcd2e15b50360f8e4f463ec35b6f6dfc05331a5784046a4f099e614be2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-202-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/202",
+   "short": "HCL Drobeta-Turnu Severin nr. 202/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 202/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-202-din-30.08.2021_modificarea-statului-de-functii-publice-si-functi-contractuale-din-cadrul-DAS-DTS.pdf",
+     "sha256": "e59d6184adc0dce184daf5a4b1d6284886b1a3dae74474bbac91c26c1f589e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-203-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/203",
+   "short": "HCL Drobeta-Turnu Severin nr. 203/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 203/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "cea67bcf985f7f287d01ede8b9287d790e96ef01b235b3035cba75acdee183b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-204-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/204",
+   "short": "HCL Drobeta-Turnu Severin nr. 204/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 204/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-204-din-30.08.2021_repartizarea-unor-locuinte-sociale-si-fond-de-stat-situate-in-mun.DTS_.pdf",
+     "sha256": "874d010ee2bc86f3587ab1d3b537755634f5134a52915d096f0b0161618d4244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-205-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/205",
+   "short": "HCL Drobeta-Turnu Severin nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 205/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-205-din-30.08.2021_aprobare-docum.-cadastrala-cu-propunere-de-dezmembrare-a-imobilului-teren-NC67981-str.Bolintineanu-nr.19.pdf",
+     "sha256": "a2e4db1789c3a06649249a871c8241d9137a6b82465d74f0f50f4b8f69fb462e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-206-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/206",
+   "short": "HCL Drobeta-Turnu Severin nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 206/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "e64a6c9f17db6e898aaaf8c4cdcf0e6b88ff34bf07a3076d61abc4c3a79b7c58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-208-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/208",
+   "short": "HCL Drobeta-Turnu Severin nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 208/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-208-din-30.08.2021_darea-in-folosinta-gratuita-pe-5-ani-a-terenului-7224.795-mp-sit.in-incinta-Strandului-Termal-Schela-Cladovei-Societatii-Nationale-a-Apelor-Minerale-SA.pdf",
+     "sha256": "c74abc9685fea24057f4497974f8f7f53d2c064bcd35d060a82cc6083fcd841d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-209-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/209",
+   "short": "HCL Drobeta-Turnu Severin nr. 209/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 209/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-209-din-30.08.2021_actualizarea-inventarului-bunurilor-care-alc.domeniul-privat-al-DTS-precum-si-modif.Anexei-1-la-HCL-nr.-21-1999.pdf",
+     "sha256": "ff8fb6fb5810694436868269c6bd0a613e99b67280ba040118a7bc4e5f2e9e99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-210-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/210",
+   "short": "HCL Drobeta-Turnu Severin nr. 210/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 210/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-210-din-30.08.2021_aprobarea-documentatiei-tehnice-cadastrale-dezmembrare-teren-CF67766-DTS-T64-1-P1-3N.pdf",
+     "sha256": "e2d0609fc2b4a7a827fbac1be8e8270922d434cc86edd217a3ee30910dceb6ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-211-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/211",
+   "short": "HCL Drobeta-Turnu Severin nr. 211/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 211/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-211-din-30.08.2021_aprobarea-trecerii-imobilului-teren-1620-mp-din-Zona-Parcul-Tineretului-din-domeniul-privat-in-domeniul-public-al-DTS.pdf",
+     "sha256": "1806e34b1b1da95b9eba6752cb0f693c2d97536774951c30cd2a2bf6e34fdfc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-212-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/212",
+   "short": "HCL Drobeta-Turnu Severin nr. 212/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 212/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "dd02c1eaa9206c86c68593b7fb8e1ae67c600bc0789f5c18e8f6e88dd2575471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-214-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/214",
+   "short": "HCL Drobeta-Turnu Severin nr. 214/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 214/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+     "sha256": "8710878006b7f35916c017d60542d811e4b063c5a5887688db02d253d1e74253"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-216-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/216",
+   "short": "HCL Drobeta-Turnu Severin nr. 216/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 216/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cd049e0b33b0c7800811bc7d787cf56020cb7607c9c816b91d6623a4dd83382d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-217-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/217",
+   "short": "HCL Drobeta-Turnu Severin nr. 217/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 217/2021",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-217-din-30.08.2021_aprobarea-docum.tehnice-cadastrale-dezmembrare-imobil-teren-CF-62899-Zona-Aeroport.pdf",
+     "sha256": "abaae02b9318923335fdf8027ec92b29e96c9025bb25ab2cb99c93bc267a88e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-219-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/219",
+   "short": "HCL Drobeta-Turnu Severin nr. 219/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 219/2021 pentru Reabilitare str.Pades Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-219-din-30.08.2021_actualizarea-indicatorilor-tehnico-ec.-si-a-devizului-general-la-faza-PT-pentru-Reabilitare-str.Pades_.pdf",
+     "sha256": "f69caae4dccefb8d251d7bb201375498a05845f3927ee61788730582bf1b89bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-235-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/235",
+   "short": "HCL Drobeta-Turnu Severin nr. 235/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 235/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "73112cc7cc0295dacc88d2a118318d1c6e68da3c48fd78d85dc602722799d778"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-244-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/244",
+   "short": "HCL Drobeta-Turnu Severin nr. 244/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 244/2021 privind modificarea art. 1 din HCL nr. 244 din 20.10.2021 privind predarea către MDLPA prin Compania Națională de Investiții CNI SA Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-271-privind-modificarea-art.-1-din-HCL-nr.-244-din-20.10.2021-privind-predarea-catre-MDLPA-prin-Compania-Nationala-de-Investitii-CNI-SA.pdf",
+     "sha256": "2db838258b2f4adc5e9fab7bdcefa705b3c79aea4377fc9cfbb78a8190a76d63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-254-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/254",
+   "short": "HCL Drobeta-Turnu Severin nr. 254/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 254/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9437069e0207484b05c2af0464929198396114e92655ce87901f2de70ef1945d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-255-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/255",
+   "short": "HCL Drobeta-Turnu Severin nr. 255/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 255/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "90af95ea44a96968c990e1c07d93111baba317911a2368a7f006f92564336bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-26-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/26",
+   "short": "HCL Drobeta-Turnu Severin nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 26/2021 privind modificarea HCL nr. 26 din 25.02.2021 privind contractarea unei finantari rambursabile interne-linie de finantare de pana la 50.000.000 lei Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/hcl-169-privind-modificarea-HCL-nr.-26-din-25.02.2021-privind-contractarea-unei-finantari-rambursabile-interne-linie-de-finantare-de-pana-la-50.000.000-lei.pdf",
+     "sha256": "4e18d5effcfb3b5450de1543c3825a4fef2d0f8c07b13e55a289c168f43d4da4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-268-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/268",
+   "short": "HCL Drobeta-Turnu Severin nr. 268/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 268/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-73-privind-modificarea-H.C.L.-nr.-268-din-28.10.2021-referitoare-la-numirea-reprezentantilor-CL-in-CA-1.pdf",
+     "sha256": "91be2da31a67ec329ec0e95c4282b3966974d1f02f8a28db80113eb6d15ba696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-270-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/270",
+   "short": "HCL Drobeta-Turnu Severin nr. 270/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 270/2021 privind modificarea și completarea HCL nr. 270 din 28.10.2021 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/105/HCL-nr.-273-privind-modificarea-si-completarea-HCL-nr.-270-din-28.10.2021.pdf",
+     "sha256": "0bbeb5a17953946480124cc0b6723660b2e674ddb3f0f01f01e77ba2cbc078ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-274-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/274",
+   "short": "HCL Drobeta-Turnu Severin nr. 274/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 274/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "aa7cfa2ecf53c5b8ddf9b331d5b41f01a1d0db245e0e5e696a3b877e605ddc73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-29-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/29",
+   "short": "HCL Drobeta-Turnu Severin nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 29/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "5bfd067a22e8bbbfc9ec39d071c5a122479d82898d27b4ebaac4999bc569ec24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-294-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/294",
+   "short": "HCL Drobeta-Turnu Severin nr. 294/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 294/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a37582477340b997eb66bd8bc04305ac150f73f287818a099f9dfaf32e3c5001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-311-2021",
+   "path": "local/mehedinti/drobeta-turnu-severin/2021/311",
+   "short": "HCL Drobeta-Turnu Severin nr. 311/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 311/2021 privind modificare Anexa 1 la HCL nr. 311 08.12.2021 Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2022",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-4-privind-modificare-Anexa-1-la-HCL-nr.-311-08.12.2021-1.pdf",
+     "sha256": "98c32315e803eeffaadf053fab093d5caf7553cc8ab0932297828b2a9533dbb8"
     }
    ]
   },

@@ -3,6 +3,21 @@
  "shard": "local/judet/vrancea/2018",
  "acts": [
   {
+   "slug": "hcj-vrancea-1-2018",
+   "path": "local/judet/vrancea/2018/1",
+   "short": "HCJ Vrancea nr. 1/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 1/2018 cu privire la aprobarea acoperirii definitive din excedentul bugetului local al sectiunii functionare, a deficitului sectiunii de dezvoltare a bugetului local al Unitatii Administrativ Teritoriale Judetul Vrancea, pe anul 2017; - având in vedere: • prevederile art. 2 (pct 22.1 si 22.2) si art. 13 din Legea 273/2006 privind finanțele publice locale, cu modificările si completările ulterioare; • pre",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2018",
+   "versions": [
+    {
+     "from": "2018-01-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-1.pdf",
+     "sha256": "f25b94b7165b60414f0ab83479a8c672f314f6674c940a4134e6732cd95a3d17"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-10-2018",
    "path": "local/judet/vrancea/2018/10",
    "short": "HCJ Vrancea nr. 10/2018",
@@ -14,6 +29,36 @@
      "units": 4,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/10.-Hot-transf-post-Centrul-Cultural-muncitor-febr-2018.pdf",
      "sha256": "31b8af297632d847eca669e52595b9d75152d061a5256d21573735c9ba883a57"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-100-2018",
+   "path": "local/judet/vrancea/2018/100",
+   "short": "HCJ Vrancea nr. 100/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 100/2018 pentru Directia Generala de Asistenta Sociala si Protectia Copilului Vrancea asupra imobilului ,,Punct de ambulanta Maicanesti”, aflat in domeniul public al judetului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/100.-CONSTITUIRE-drept-adm-DGASPC.pdf",
+     "sha256": "e63796229df2611f70d9988b0f60702c7e1d08fe29d46ddbd88f22ca8f153bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-101-2018",
+   "path": "local/judet/vrancea/2018/101",
+   "short": "HCJ Vrancea nr. 101/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 101/2018 privind Codul Civil; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în baza art. 91, alin.(1), lit. ,,c” și art.124 din Legea administrației publice locale nr.215/2001 republicată, cu modificările și completările ulterioare; - în temeiul art.115, alin.(1), lit. ,,c” din Legea adm",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/101.-hotarare-folosinta-gratuita-STS.pdf",
+     "sha256": "a4ee333ff890c5bd3dcc6506f3fcf036f05afee6a435178211105ea491f2772d"
     }
    ]
   },
@@ -63,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-106-2018",
+   "path": "local/judet/vrancea/2018/106",
+   "short": "HCJ Vrancea nr. 106/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 106/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+     "sha256": "9a5ef377ef65f441605f51e36080e446e5c3512e9022b866fe9389eb9601a7dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-107-2018",
+   "path": "local/judet/vrancea/2018/107",
+   "short": "HCJ Vrancea nr. 107/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 107/2018 pentru obiectivul de investiții ”Amenajare si extindere sediu Centrul Cultural Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/107.-Centrul-Cultural-Vrancea.pdf",
+     "sha256": "f8e18339cf27363a2faa6b49e6accd921b66f18101c01bf14e02023b4a63ab17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-108-2018",
+   "path": "local/judet/vrancea/2018/108",
+   "short": "HCJ Vrancea nr. 108/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 108/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+     "sha256": "163b019af6046dd0783ca4c27080a59cddcc43fade9bcdd8b8f416e68b6f7695"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-109-2018",
    "path": "local/judet/vrancea/2018/109",
    "short": "HCJ Vrancea nr. 109/2018",
@@ -89,6 +179,126 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/110.-ROF-bazin-de-inot-didactic.pdf",
      "sha256": "c86bb0887aac06f09c6635eff585b90f4de6844b1f168e0592ed403b487d4a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-111-2018",
+   "path": "local/judet/vrancea/2018/111",
+   "short": "HCJ Vrancea nr. 111/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 111/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/111.-Transf-post-CJ-Vrancea-aug.2018.pdf",
+     "sha256": "b97cac7b2a6cda369ec7750899b638e49af00801fa560be2fed6c7c8526de6f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-114-2018",
+   "path": "local/judet/vrancea/2018/114",
+   "short": "HCJ Vrancea nr. 114/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 114/2018 privind transmiterea solicitarii de trecere din domeniul public al statului si administrarea Ministerului Apararii Nationale in domeniul public al judetului Vrancea si administrarea Consiliului Judetean Vrancea a unei suprafete de 12,5 ha teren, ce va fi alocat amplasării spitalului județean; - luând act de adresa Ministerului Apararii Nationale nr. A 11083/13.08.2018; - in conformitate cu prevede",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/114.pdf",
+     "sha256": "19ec0a840e66395ed040e02fb9130411114ddb6a52e1ebfc14de12ad3c5248e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-115-2018",
+   "path": "local/judet/vrancea/2018/115",
+   "short": "HCJ Vrancea nr. 115/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 115/2018 pentru Educație Incluzivă Măicănești, pentru anul școlar 2018-2019",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/115-hotarare-desemnarea-repezentanti-in-CA-la-CSEI-Maicanesti.pdf",
+     "sha256": "ed26093637cfdd8927a7ad200f67cb8363b1df13ee5d4a6b9db13cd85f3f10f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-116-2018",
+   "path": "local/judet/vrancea/2018/116",
+   "short": "HCJ Vrancea nr. 116/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 116/2018 pentru anul școlar 2018-2019",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/116-CJRAE.pdf",
+     "sha256": "ed8512ccd388237e631f4904ceba6bed775f1f1319f6d16f3de521bb98e1bd71"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-117-2018",
+   "path": "local/judet/vrancea/2018/117",
+   "short": "HCJ Vrancea nr. 117/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 117/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+     "sha256": "594a6755b299c90a5285c598cd657eab4f4857e3871362a3ebf3e550c3550563"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-118-2018",
+   "path": "local/judet/vrancea/2018/118",
+   "short": "HCJ Vrancea nr. 118/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 118/2018 privind modificarea Regulamentului de organizare si functionare a Directiei de Asistenta Sociala si Protectia Copilului Vrancea aprobat prin Hotararea Consiliului Judetean Vrancea nr. 21 din 15 februarie 2018, înregistrat sub nr. 15316 / 21.09.2018; - tinand cont de prevederile pct. 3 al Articolului unic din HG nr. 417/2018 privind modificarea HG nr. 797/2017; - luând act de rapoartele compartimen",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/118-HCJ-MODIF-REGULAMENT-DGASPC.pdf",
+     "sha256": "e6135917d3fb785c99eea29dd69faa6c8194d521f4eb7fb8f9f77078081ae00c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-119-2018",
+   "path": "local/judet/vrancea/2018/119",
+   "short": "HCJ Vrancea nr. 119/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 119/2018 privind : stabilirea componenței Colegiului Director al Direcției de Asistență Socială și Protecția Copilului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/119-HCJ-MODIF-CA-DGASPC.pdf",
+     "sha256": "5375bcbf8a34a61af36f0b7b290accb1dd45be915462067e0684f36ed7bea3dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-120-2018",
+   "path": "local/judet/vrancea/2018/120",
+   "short": "HCJ Vrancea nr. 120/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 120/2018 pentru Serviciul Public Comunitar Județean de Evidență a Persoanelor Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/120-Hot-modif-organigr.-SPCJEP.pdf",
+     "sha256": "b23d4d7b4f7d34b80e7ae70b304b1d605a39d2ab0a2e12d0b91dba53a4535e1c"
     }
    ]
   },
@@ -134,6 +344,96 @@
      "units": 4,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/123-Hot-transf.-post-DGASP-sept.18.pdf",
      "sha256": "3ca05d66e712e13604c96f309eec1e81b81efe302d70f7065beee74e60a63744"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-124-2018",
+   "path": "local/judet/vrancea/2018/124",
+   "short": "HCJ Vrancea nr. 124/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 124/2018 privind participarea UAT Județul Vrancea la „Programul de stimulare a înnoirii Parcului auto național 2017 - 2019”, în vederea achiziționării unui autovehicul nou; - având în vedere prevederile Legii nr.213/1998 privind bunurile proprietate publică; - ținând cont de Ordinul nr. 661/2017 pentru aprobarea Ghidului de finanțare a ”Programului de stimulare a înnoirii Parcului auto național 2017 - 2019",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/124-hotarare-rabla-2018.pdf",
+     "sha256": "9b9699041c0527d6817e6c0eeb8841033f31a4303f23ec253897fd85ab6dd3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-125-2018",
+   "path": "local/judet/vrancea/2018/125",
+   "short": "HCJ Vrancea nr. 125/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 125/2018 pentru Cultură Vrancea nr. 1745/18.09.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/125-hot-preemtiune-MACRIDESCU-PLACINTA.pdf",
+     "sha256": "9a68048ed86d37c37eb3fe2eefe1f33e636b9535c0542ebec82a30c3f8e14faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-126-2018",
+   "path": "local/judet/vrancea/2018/126",
+   "short": "HCJ Vrancea nr. 126/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 126/2018 privind solicitarea transmiterii constructiilor-garaje situate in municipiul Focsani, Str. Cuza-Voda, nr.8 din domeniul public al statului si administrarea Ministerului Justitiei-Tribunalul Vrancea in domeniul public al judetului Vrancea si administrarea Consiliului Judetean Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/126-hot-Tribunal-trans-garaje-refacuta.pdf",
+     "sha256": "a281bfea810830341f64ea9d6da3946d85f5e1f0a575b49fbd05bca9bcf4ef3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-127-2018",
+   "path": "local/judet/vrancea/2018/127",
+   "short": "HCJ Vrancea nr. 127/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 127/2018 pentru finanțarea Unității Administrativ - Teritoriale Judetul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2018",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2018",
+   "versions": [
+    {
+     "from": "2018-09-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/10/127-Hotarare-buget-2018-final.pdf",
+     "sha256": "5dce3d6ff81144754adad4de22f207824d144385361cbb88cc163ff1a4c64577"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-129-2018",
+   "path": "local/judet/vrancea/2018/129",
+   "short": "HCJ Vrancea nr. 129/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 129/2018 pentru EducaŃie Incluziva Mihălceni, pentru anul școlar 2018-2019",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/hot-nr-129-desemnarea-repezentanti-in-CA-la-CSEI-Mihalceni.pdf",
+     "sha256": "c1ec4d47ccc1b41fcc56f757e2b26d8378b7d7deb840402a5b4dbe8dff1dcda3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-13-2018",
+   "path": "local/judet/vrancea/2018/13",
+   "short": "HCJ Vrancea nr. 13/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 13/2018 privind bunurile proprietate publica, republicata, cu modificarile si completarile ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - in temeiul dispozitiilor art. 91 alin. (1) lit. f) din Legea administratiei publice locale nr.215/2001, republicata, cu modificarile si co",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/13.-hot-Punct-Termic-Sud.pdf",
+     "sha256": "e733690fa9153e0727ce5f70fea5c76cf9f075393e9cea8663602839e8610143"
     }
    ]
   },
@@ -198,6 +498,216 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-137-2018",
+   "path": "local/judet/vrancea/2018/137",
+   "short": "HCJ Vrancea nr. 137/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 137/2018 pentru personalul contractual din cadrul Serviciului Public Județean Salvamont Vrancea și stabilirea nivelului indemnizației de hrană",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/Hot-nr.137-stab-salarii-Salvamont-nov-2018.pdf",
+     "sha256": "dd6d772db106cc87a31faa5b5a83989186d4c238f0c8bb250d9a41b5bca4dbf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-140-2018",
+   "path": "local/judet/vrancea/2018/140",
+   "short": "HCJ Vrancea nr. 140/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 140/2018 privind aprobarea Notei conceptuale și a Temei de proiectare, respectiv aprobarea documentației tehnico-economice (faza DALI) și a indicatorilor tehnico-economici pentru obiectivul de investiții din petitul prezentului proiect de hotărâre; - ținând cont de referatul comun al Direcției Arhitect șef și administrarea patrimoniului și Direcției Economice și informatizare, înregistrat sub nr. 17409/29",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/140-HOT-GALERII.pdf",
+     "sha256": "e72639bca5613eb1e1e45d65f96da227b2dd163380f03ee7531a1eb62552a5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-141-2018",
+   "path": "local/judet/vrancea/2018/141",
+   "short": "HCJ Vrancea nr. 141/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 141/2018 privind transmiterea unei părți din imobilul 2371 din domeniul public al statului și din administrarea Ministerului Apărării Naționale în domeniul public al județului Vrancea și modificarea anexei nr.4 la Hotărârea Guvernului nr.1705/2006 pentru aprobarea inventarului centralizat al bunurilor din domeniul public al statului; - văzând referatul Direcției Arhitect șef și administrarea patrimoniului",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/141-HOTARARE-preluare-12-5-teren-spital.pdf",
+     "sha256": "6480c354e8431fa1fea6a93b4d26b5e9dcfe7bc4e937117e2b004b2302428ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-142-2018",
+   "path": "local/judet/vrancea/2018/142",
+   "short": "HCJ Vrancea nr. 142/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 142/2018 privind actualizarea și însușirea inventarului bunurilor care aparțin domeniului public al Județului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/142-hotarare-dom-public-sedinta-oct.pdf",
+     "sha256": "9bd68f374d8af3033b0f5cfd60eac5fbd3edc46236a3408346a881f924ed71f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-143-2018",
+   "path": "local/judet/vrancea/2018/143",
+   "short": "HCJ Vrancea nr. 143/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 143/2018 pentru Copii cu Nevoi Medicale Speciale Focșani, din cadrul Serviciului Management de Caz pentru protecție de Tip Rezidențial – Direcția Protecția Copilului - Direcția Generală de Asistență Socială și Protecția Copilului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/143-hot-regulament-Modul-1-DGASPC.pdf",
+     "sha256": "a8577dd329c31dafcb4fc26bc4b57b32b875c84a63237797b1a1c5e7615b3cce"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-144-2018",
+   "path": "local/judet/vrancea/2018/144",
+   "short": "HCJ Vrancea nr. 144/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 144/2018 pentru protecție de Tip Rezidențial – Direcția Protecția Copilului - Direcția Generală de Asistență Socială și Protecția Copilului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/144-hot-regulament-II-DGASPC.pdf",
+     "sha256": "3563944d50d91bbef645dfcf87999975a51fc85f3fff6dff233256c97674e51a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-145-2018",
+   "path": "local/judet/vrancea/2018/145",
+   "short": "HCJ Vrancea nr. 145/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 145/2018 privind aprobarea publicării in Jurnalul Oficial al Uniunii Europene a intenției de atribuire a contractelor de delegare a gestiunii serviciului de transport public local de călători în județul Vrancea; - luând act de circularele Ministerului Dezvoltării și Administrației Publice nr. 120.711/17.10.2018 si nr. 120.711/19.10.2018; - având în vedere prevederile art. 1 alin. (2) lit. „h”, art. 1 alin",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/145-Jurnal-Oficial-transport.pdf",
+     "sha256": "b305e5bdfe956c81ae2e4c2bfd7872584318f094e9b249868f301ff826b548ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-146-2018",
+   "path": "local/judet/vrancea/2018/146",
+   "short": "HCJ Vrancea nr. 146/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 146/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/146-SEE-grant-2014-2021.pdf",
+     "sha256": "5de4d71d3b8e63a2ce197310ae95cd3e08db823e85ebbeac53df751e1011f327"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-147-2018",
+   "path": "local/judet/vrancea/2018/147",
+   "short": "HCJ Vrancea nr. 147/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 147/2018 pentru Agricultură și Dezvoltare Rurală Vrancea nr. 8802/12.10.2018 și adresa Administrației Naționale de Administrare Fiscală nr. 33700/17.09.2018; -având în vedere referatul Direcției Economice și Informatizare înregistrat la nr. 17415/ 29.10.2018; -având în vedere prevederile art.84 din Legea nr.227/2015 privind Codul fiscal, cu modificările si completările ulterioare; - în temeiul dispozițiilo",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/147-HOTARARE-PRODUSE-AGRICOLE.pdf",
+     "sha256": "05f9588e9911aaa4ec17096a04d9557bd8099c25b9b9649251743f4e86e4fcaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-148-2018",
+   "path": "local/judet/vrancea/2018/148",
+   "short": "HCJ Vrancea nr. 148/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 148/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/148-hotarire-lemn-DGASPC.pdf",
+     "sha256": "b4d27b4477a6f3041115e7ab98291850e7a10d70dcb14d6ec8cf6a20270493e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-149-2018",
+   "path": "local/judet/vrancea/2018/149",
+   "short": "HCJ Vrancea nr. 149/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 149/2018 pentru Administrație Publică – European Union Public Administration Network”",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/149-hot.pdf",
+     "sha256": "1a7929420abe6cc36edd97e7d64fa0ddf8314c4be85b0d15c766cf8d6667cede"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-150-2018",
+   "path": "local/judet/vrancea/2018/150",
+   "short": "HCJ Vrancea nr. 150/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 150/2018 pentru aprobarea clasificației indicatorilor privind finanțele publice nr. 1954/2005, cu modificările și completările ulterioare; - ținând seama de: • adresa Ministerului Culturii si Identitatii Nationale nr. 732/18.09.2018; • propunerea Muzeului Vrancei nr. 2039/24.10.2018; - văzând referatul întocmit de Direcția Economică și Informatizare privind rectificarea bugetului propriu al Unității Admini",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/150-buget-2018-final.pdf",
+     "sha256": "55884bf94ca75a96ab41cf6143f0c2609552088847379f30937f56471cf03817"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-151-2018",
+   "path": "local/judet/vrancea/2018/151",
+   "short": "HCJ Vrancea nr. 151/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 151/2018 pentru realizarea Parcului Memoriei Naționale ”Stejarii României - 100 de ani de istorie și demnitate” - RO MÂNDRIA",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2018",
+   "versions": [
+    {
+     "from": "2018-11-22",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/11/151-HCJ-aprobare-sponsorizare-28-ha-1.pdf",
+     "sha256": "9e2f49d42c9e97dbd453de8361a4a2dfe3bec1e1a10f25b19a260ea992a84ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-160-2018",
+   "path": "local/judet/vrancea/2018/160",
+   "short": "HCJ Vrancea nr. 160/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 160/2018",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/Hot-160-SC-CUP-COMISIE.pdf",
+     "sha256": "3330c9adf4c3c408cc8b0b45cc893d5a4afd8f4555861ae741d31ec65349e2bf"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-161-2018",
    "path": "local/judet/vrancea/2018/161",
    "short": "HCJ Vrancea nr. 161/2018",
@@ -209,6 +719,66 @@
      "units": 4,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/Hot-161-reg-DGASPC-dec2018.pdf",
      "sha256": "438c81bdfeb71072bc54edd1d5a3a09980ffa37a9e67b68aa1de447aaebbe693"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-162-2018",
+   "path": "local/judet/vrancea/2018/162",
+   "short": "HCJ Vrancea nr. 162/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 162/2018 pentru activităŃile prestate de către Serviciul Public Comunitar Judetean de Evidenta a Persoanelor Vrancea pentru anul 2019",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/hot-162-taxe-SCPCJ-2018.pdf",
+     "sha256": "ec017604e8a5542a80411176aa9e94a5c8d64cf66dbf7e2cf272934668f82d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-166-2018",
+   "path": "local/judet/vrancea/2018/166",
+   "short": "HCJ Vrancea nr. 166/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 166/2018 privind preluarea spatiului cu suprafata utila de 163,17 mp din incinta Punctului Termic nr. 20 - situat in Cartierul Sud - Aleea 1 Iunie, din domeniul public al Municipiului Focsani în domeniul public al judeŃului Vrancea și administrarea Consiliului JudeŃean Vrancea, in vederea infiintarii Bibliotecii de cartier CAMPUS; - in conformitate cu prevederile art. 9, alin. (4) din Legea nr. 213/1998 pr",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/Hot-166-PT-20-BIBLIOTECA-CAMPUS.pdf",
+     "sha256": "dcc7503ace57eec8823e2339dea4447c17181b8b754c235b9b7253187d779ccc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-173-2018",
+   "path": "local/judet/vrancea/2018/173",
+   "short": "HCJ Vrancea nr. 173/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 173/2018 privind alocarea unei sume din Fondul de rezerva bugetara la dispozitia Guvernului, prevazut in bugetul de stat pe anul 2018; • prevederile Ordinului ministrului finanŃelor publice pentru aprobarea clasificaŃiei indicatorilor privind finanŃele publice nr. 1954/2005, cu modificările și completările ulterioare; - Ńinând seama de Hotararea Consiliului Judetean Vrancea nr. 127/25.09.2018 privind aprob",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/173-hot-rectif-buget-2018-decembrie-1.pdf",
+     "sha256": "576e6a0f898feea6634a27ba1b87b71d43322a1aaee6d6fea3af4828eda87305"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-176-2018",
+   "path": "local/judet/vrancea/2018/176",
+   "short": "HCJ Vrancea nr. 176/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 176/2018 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Reabilitare energetică și măsuri conexe pentru DGASPC VN”, sat Petrești, com.Vînători, județul Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/?an=2018",
+   "versions": [
+    {
+     "from": "2018-12-21",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/12/176.-DGASPC-MODIFICARE.pdf",
+     "sha256": "cea8a1aa488f62cf942cb040f5fa8d5ac5611269ccc77dca80550b0f050cea3a"
     }
    ]
   },
@@ -228,6 +798,96 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-18-2018",
+   "path": "local/judet/vrancea/2018/18",
+   "short": "HCJ Vrancea nr. 18/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 18/2018 pentru Persoane Varstnice „O noua sansa” Marasesti, judetul Vrancea, din subordinea Consiliului Local Marasesti in structura Directiei Generale de Asistenta Sociala Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/18.-Hot-preluare-Camin-Marasesti.pdf",
+     "sha256": "82b356863d018b2c0c98252ca202417ef2f1db0e5e01df60794df0cc218cb972"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-184-2018",
+   "path": "local/judet/vrancea/2018/184",
+   "short": "HCJ Vrancea nr. 184/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 184/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2017",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/184.pdf",
+     "sha256": "52f2a7fdbbeb0c6f9c875bb5c838ac351e45c1b3b3f39b35ff446d0c33aca1ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-188-2018",
+   "path": "local/judet/vrancea/2018/188",
+   "short": "HCJ Vrancea nr. 188/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 188/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2017",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/188.pdf",
+     "sha256": "a6f06fee0e5aa7f149aa313ed5d3f50596d27bf13ec3cb40685ee410ac361662"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-189-2018",
+   "path": "local/judet/vrancea/2018/189",
+   "short": "HCJ Vrancea nr. 189/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 189/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2017",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/189.pdf",
+     "sha256": "79f0cf2f4ff0c5a506e49fdf7d6ae4cb91d0edf54457a4e279d307673a9ac7e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-19-2018",
+   "path": "local/judet/vrancea/2018/19",
+   "short": "HCJ Vrancea nr. 19/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 19/2018 pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al județelor; - avand in vedere adresa Primăriei municipiului Focsani nr. 11208/08.02.2018; - in baza prevederilor art. 3 alin. 3 din Legea nr. 213/1998 privind bunurile proprietate publica, republicata, cu modificarile si completarile ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Jud",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/19.-hot-inventariere-teren-spital.pdf",
+     "sha256": "dde69d72bbb0017454f6595d2247a7117a2fd0bfc683c1d5c9d93f4f93b45b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-20-2018",
+   "path": "local/judet/vrancea/2018/20",
+   "short": "HCJ Vrancea nr. 20/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 20/2018 pentru toti”; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în temeiul art. 91 alin. (1), lit. d) și art. 115 alin. (1), lit. c) din Legea administrației publice locale, nr. 215/2001, republicată, HOTĂRĂȘTE: Art. 1",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/20.-hot-cCJRAE-contributie-2.pdf",
+     "sha256": "99daa5d3ff457f76e0427184465c271971d8d350204d3ea6640bb362f17712bc"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-21-2018",
    "path": "local/judet/vrancea/2018/21",
    "short": "HCJ Vrancea nr. 21/2018",
@@ -239,6 +899,66 @@
      "units": 4,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/21.-bun-Hot-regulament-DGASPC.pdf",
      "sha256": "0bf0dbcb375a7c41f4ed2d2e53ad0b162e9d3bb2ba5771115b0c53eaf23ff39e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-22-2018",
+   "path": "local/judet/vrancea/2018/22",
+   "short": "HCJ Vrancea nr. 22/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 22/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+     "sha256": "7d9fd428bfc63968b31dcc3e4e6326018ae23c05f49b13cbda3443eb07c9c7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-23-2018",
+   "path": "local/judet/vrancea/2018/23",
+   "short": "HCJ Vrancea nr. 23/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 23/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/nr.-23-HCJ-dotare-upu.pdf",
+     "sha256": "650f04de05a89b67e06b5a3a0c4c35234ad66292d83008732cb0903973d6a5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-24-2018",
+   "path": "local/judet/vrancea/2018/24",
+   "short": "HCJ Vrancea nr. 24/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 24/2018 pentru finanțarea Unității Administrativ-Teritoriale Judetul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2018",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/nr-24-finala-hot-buget-2018-1-1.pdf",
+     "sha256": "6a356119932ac141db7161a9940fd135cdabbf4ba733597fbf4764bbe3ad9423"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-25-2018",
+   "path": "local/judet/vrancea/2018/25",
+   "short": "HCJ Vrancea nr. 25/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 25/2018 pentru tona de masă verde obținută de pe suprafețele cu pasuni, respectiv fanete permanente din Județul Vrancea, pe anul 2018",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/25.HOTARARE-PAJISTI-2018.pdf",
+     "sha256": "4c95033a89ae75990b2efda7138ebed3f48c694381ec4b4ac36e3a25d90502e3"
     }
    ]
   },
@@ -258,6 +978,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-27-2018",
+   "path": "local/judet/vrancea/2018/27",
+   "short": "HCJ Vrancea nr. 27/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 27/2018 pentru Cultură Vrancea nr. 2427/04.01.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/27.HOTARARE-preemtiune-neexerc.-Casa-Sclavone-Focsani.pdf",
+     "sha256": "aa3f337a3bb692e07cc1bd7fd5a9ea552d13589cba564801c2479d7e2e87861d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-28-2018",
+   "path": "local/judet/vrancea/2018/28",
+   "short": "HCJ Vrancea nr. 28/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 28/2018 pentru Cultură Vrancea nr. 195/01.02.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+     "sha256": "747a8ca286fd7ae15ba9980b61e10ee56a38c9efcedd520ad21908ebf245b75b"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-29-2018",
    "path": "local/judet/vrancea/2018/29",
    "short": "HCJ Vrancea nr. 29/2018",
@@ -273,6 +1023,246 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-30-2018",
+   "path": "local/judet/vrancea/2018/30",
+   "short": "HCJ Vrancea nr. 30/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 30/2018 pentru persoanele adulte cu dizabilități, instituționalizate sau din comunitate",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/30.HCJ-dgaspc.pdf",
+     "sha256": "759808169e0838994513811e23dff1a54f8d613cd281dfaad6299094e28b7ac9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-31-2018",
+   "path": "local/judet/vrancea/2018/31",
+   "short": "HCJ Vrancea nr. 31/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 31/2018 privind Statutul funcționarilor publici, republicată, cu modificările și completările ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în conformitate cu dispozițiile art. 91 alin. (2) lit. c) din Legea administrației publice locale nr. 215/2001, republicată, cu modific",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/31.Hot-transf-post-CJ-Vrancea-februarie.2018.pdf",
+     "sha256": "f640dacafd811472c4019de704930fd33917ef770fe607b4875e8c876d4c1afa"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-32-2018",
+   "path": "local/judet/vrancea/2018/32",
+   "short": "HCJ Vrancea nr. 32/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 32/2018 pentru obiectivul de investiții “PORȚILE VRANCEI -semnale de intrare în județul Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/32.portile-vrancei.pdf",
+     "sha256": "39cff90dcb457441daccaef9e2797e2be5096f0b77621efc3b22340da81281a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-33-2018",
+   "path": "local/judet/vrancea/2018/33",
+   "short": "HCJ Vrancea nr. 33/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 33/2018 pentru acordarea de finanțări nerambursabile alocate de la bugetul local al județului Vrancea, pe anul 2018, pentru activități de tineret nonprofit de interes general din domeniile: educație, ocuparea forței de muncă și antreprenoriat, activități de voluntariat si sport, în condițiile prevăzute de Legea nr. 350 din 2 decembrie 2005",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/33.Hotarare-plan-anual-2018.pdf",
+     "sha256": "81a16fe5c167e094489f206998f91c28564088dea10aa499aacd307af402e817"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-35-2018",
+   "path": "local/judet/vrancea/2018/35",
+   "short": "HCJ Vrancea nr. 35/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 35/2018 privind preluarea Caminului pentru Persoane Vârstnice ”O noua șansă” Marasesti, din subordinea Consiliului Local Marasesti in structura Direcției Generale de Asistență Socială și Protecția Copilului Vrancea; - văzând referatul Direcției economice și informatizare înregistrat la nr. 3697 din 6 martie 2018 prin care se propune aprobarea organigramei, statului de funcții și numărului de personal ale",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-03-07",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/35.Hot-preluare-camin-DGASPC.pdf",
+     "sha256": "def8512bb97fe942c8e521726656a12676a46b60600124bc026ea4384567838a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-36-2018",
+   "path": "local/judet/vrancea/2018/36",
+   "short": "HCJ Vrancea nr. 36/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 36/2018 pentru anul școlar 2017-2018",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/36.hotarare-desemnarea-repezentanti-in-CA-la-CJRAE.pdf",
+     "sha256": "7a6d773b8fb6919ba90917006c2d53f4bb363069612ba8ccf602c5acfbf26341"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-37-2018",
+   "path": "local/judet/vrancea/2018/37",
+   "short": "HCJ Vrancea nr. 37/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 37/2018 pentru activități nonprofit, de interes județean",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/37.desemnare-membri-CCPT.pdf",
+     "sha256": "e6919e890eede8ad05f971b5c101a712779323302083f5f3517c7460bfb78ee8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-38-2018",
+   "path": "local/judet/vrancea/2018/38",
+   "short": "HCJ Vrancea nr. 38/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 38/2018 pentru Agricultura Judeteana Vrancea nr. 1455/01.03.2018 - având în vedere referatul Direcției Arhitect șef și administrarea patrimoniului nr. 5226/30.03.2018 privind trecerea din domeniul public in domeniul privat al Județului Vrancea a suprafaței de 604 mp, teren situat în comuna Soveja, judetul Vrancea in vederea punerii in executare a Deciziei Civile nr. 107/2014; - în conformitate cu preveder",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/38.hot-diminuare-Soveja-604-mp.pdf",
+     "sha256": "350c39712928c5f479790092b007085438af303abe0c8f6fce0fbdabeadc5c94"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-4-2018",
+   "path": "local/judet/vrancea/2018/4",
+   "short": "HCJ Vrancea nr. 4/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 4/2018 pentru Agricultura Judeteana Vrancea nr.9205/01.11.2017 si inregistrata la",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/4.CTATU-REGULAMENT-COMPONENTA.pdf",
+     "sha256": "ec34625caa718676a488dc2ae7d4400408362b66e8a2fbbb8c3caf814bf2085b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-40-2018",
+   "path": "local/judet/vrancea/2018/40",
+   "short": "HCJ Vrancea nr. 40/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 40/2018 privind preluarea de la Ministerul Dezvoltării Regionale Administrației Publice si Fondurilor Europene, prin Compania Naționala de Investiții a amplasamentului- teren si construcție, situat in municipiul Focsani, str",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/40.hotarare-preluare-Bazin-polo-CNI.pdf",
+     "sha256": "61dcfde9a5f324aab5bd214ea403c84a9c39fcbbf93ef7e662a37910dca596a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-41-2018",
+   "path": "local/judet/vrancea/2018/41",
+   "short": "HCJ Vrancea nr. 41/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 41/2018 privind atribuirea sau schimbarea de denumiri; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în baza prevederilor art.91, alin. 1 lit.c) din Legea administrației publice locale nr.215/2001, republicată; - în temeiul art.115, alin. (1), lit. c) din Legea administrației publice lo",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/41.hotarare-schimbare-polo.pdf",
+     "sha256": "a04384bbbd88f5abee727c5cd21b825adcc7b3fc3d10a34006cbffac57db5fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-44-2018",
+   "path": "local/judet/vrancea/2018/44",
+   "short": "HCJ Vrancea nr. 44/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 44/2018 pentru aparatul de specialitate al Consiliului Județean Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/44.Hot-aprobare-organigrama-CJ-Vrancea-apr.2018.pdf",
+     "sha256": "a4e4667e0263f8019a4263e31ec6cd7a5378f45b4923aececb772ee74bba588f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-45-2018",
+   "path": "local/judet/vrancea/2018/45",
+   "short": "HCJ Vrancea nr. 45/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 45/2018 pentru funcțiile de execuție contractuale din cadrul Bibliotecii Județene ”Duiliu Zamfirescu” Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/45.Hot-stab-salarii-biblioteca-martie-2018.pdf",
+     "sha256": "9d0f7f76731f3caec401a2b40abea24e23afbfccccd0214c1ba4ed4360463788"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-46-2018",
+   "path": "local/judet/vrancea/2018/46",
+   "short": "HCJ Vrancea nr. 46/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 46/2018 pentru suprafața de 25 ha, în valoare de 7735 lei, pentru realizarea Parcului Memoriei Nationale “Stejarii Romaniei - 100 de ani de istorie si demnitate” RO MANDRIA",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/46.hot-SPONSORIZARE.pdf",
+     "sha256": "7b620952f8f69f1125891568232b2ecfc25f045f67b7902a66258ea0a922b7c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-47-2018",
+   "path": "local/judet/vrancea/2018/47",
+   "short": "HCJ Vrancea nr. 47/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 47/2018 privind aprobarea depunerii proiectului „Dotarea cu aparatură medicală modernă a Unității de Primire Urgențe, Focșani”, spre finanțare prin Programul Operațional Regional 2014- 2020; - în conformitate cu prevederile Legii 273/2006, privind finanțele publice locale cu modificările și completările ulterioare; - având în vedere prevederile ghidului de finanțare aferent Programului Operațional Regiona",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/47.-HCJ-aprobare-indicatori.pdf",
+     "sha256": "67f625ede83f318dfeb20b57d41c4adc6361bb02ecedc79274c84fae47146afe"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-49-2018",
+   "path": "local/judet/vrancea/2018/49",
+   "short": "HCJ Vrancea nr. 49/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 49/2018 PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN COMUNA DUMBRAVENI, JUDEȚUL VRANCEA, cod proiect 122349 - care urmează a fi depus în cadrul Programului Operațional Regional 2014 - 2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilitați și împuternicirea unui reprezentant care să semneze toate actele necesare aferente proiectului",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/49.-hot-cj-contrib-dumbraveni.pdf",
+     "sha256": "689f2c9db060c317247dbb6c46112ed3038b3761b0ac66fa9ce3ea48ded877dd"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-5-2018",
    "path": "local/judet/vrancea/2018/5",
    "short": "HCJ Vrancea nr. 5/2018",
@@ -284,6 +1274,216 @@
      "units": 2,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/5.-hot-colegiu-DGASPC-2018.pdf",
      "sha256": "ae2f03e9bc01bf999d961f2a29a8b634b1c1e4f2ecc8b239c9dd1bdf060766e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-50-2018",
+   "path": "local/judet/vrancea/2018/50",
+   "short": "HCJ Vrancea nr. 50/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 50/2018 pentru obiectivul de investitie construirea a 2 locuinte protejate si a Documentației de avizare a lucrarilor de intervenție (D.AL.I.) pentru obiectivul de investie reabilitare, modernizare/extindere cladire existenta pentru infiintarea unui centru de zi in comuna Dumbraveni din cadrul proiectului „INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN COMUNA DUMBRAVENI, JUDEȚ",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/50.-hot-sf-si-dali-2_Dumbraveni.pdf",
+     "sha256": "673151ec0da1916552d85334ab5c5075bc24d34f4e1d5a7848b31468f5eb342d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-51-2018",
+   "path": "local/judet/vrancea/2018/51",
+   "short": "HCJ Vrancea nr. 51/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 51/2018 pentru proiectul cu finanțare din fonduri externe nerambursabile „INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN COMUNA DUMBRAVENI, JUDEȚUL VRANCEA”, cod proiect 122349 din cadrul Programului Operațional Regional 2014 -2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilitați",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/51.hot-indicatori-tehnico-economici_Dumbraveni.pdf",
+     "sha256": "04b09b10e7b8a0e1ab17a3dae93525b28aa864ff71d75fabde81213e3aac0b22"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-52-2018",
+   "path": "local/judet/vrancea/2018/52",
+   "short": "HCJ Vrancea nr. 52/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 52/2018 PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL PANCIU, JUDEȚUL VRANCEA, cod proiect 122449 - care urmează a fi depus în cadrul Programului Operațional Regional 2014 -2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilitați și împuternicirea unui reprezentant care să semneze toate actele necesare aferente proiectului",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/52.-hot-cj-contrib-panciu.pdf",
+     "sha256": "2f54e3a9a294f4bd29e10dc5221613d8f30e060f63216b4765e0d4b2263559fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-53-2018",
+   "path": "local/judet/vrancea/2018/53",
+   "short": "HCJ Vrancea nr. 53/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 53/2018 pentru obiectivul de investiție construirea a 2 locuințe protejate si a Documentației de avizare a lucrărilor de intervenție (D.A.L.I.) pentru obiectivul de investie reabilitare, modernizare/extindere clădire existenta pentru înființarea unui centru de zi in orasul Panciu din cadrul proiectului INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL PANCIU, JUDEȚUL VRANC",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/53.-hot-sf-si-dali_Panciu.pdf",
+     "sha256": "f1e532eda6116a30ea6118c6ee8f2b40bd3c15afa500eb5a11b4fa33912e9a90"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-54-2018",
+   "path": "local/judet/vrancea/2018/54",
+   "short": "HCJ Vrancea nr. 54/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 54/2018 pentru proiectul cu finanțare din fonduri externe nerambursabile INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL PANCIU, JUDEȚUL VRANCEA, cod proiect 122449 din cadrul Programului Operațional Regional 2014 - 2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilitați",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/54.-hot-indicatori-tehnico-economici-4_Panciu.pdf",
+     "sha256": "60d72a5eb2e3686d8b4e093e3ae3da0803b1638475264f9c743e0fefc36d3ade"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-55-2018",
+   "path": "local/judet/vrancea/2018/55",
+   "short": "HCJ Vrancea nr. 55/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 55/2018 PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL ODOBESTI, JUDEȚUL VRANCEA, cod proiect 122385- care urmează a fi depus în cadrul Programului Operațional Regional 2014 -2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilitați și împuternicirea unui reprezentant care să semneze toate actele necesare aferente proiectului",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/55.-hot-cj-contrib-odobesti.pdf",
+     "sha256": "367fa0935c4c927995897a3e6b3553920317299590f977f51a3643e5842b3162"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-56-2018",
+   "path": "local/judet/vrancea/2018/56",
+   "short": "HCJ Vrancea nr. 56/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 56/2018 pentru obiectivul de investiție construirea a 3 locuinte protejate si a Documentației de avizare a lucrărilor de intervenție (D.A.L.I.) pentru obiectivul de investitie reabilitare, modernizare/extindere cladire existenta pentru infiintarea unui centru de zi in orasul Odobesti din cadrul proiectului „INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL ODOBESTI, JUDEȚU",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/56.-hot-sf-si-dali-1_Odobesti.pdf",
+     "sha256": "4b0292fc2404a29b24668d62d9ba47c9acf0346abbcaeaf2c268c458e726c32b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-57-2018",
+   "path": "local/judet/vrancea/2018/57",
+   "short": "HCJ Vrancea nr. 57/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 57/2018 pentru proiectul cu finanțare din fonduri externe nerambursabile “INFRASTRUCTURA SOCIALĂ COMUNITARĂ PENTRU PERSOANE ADULTE CU DIZABILITAȚI IN ORASUL ODOBESTI, JUDEȚUL VRANCEA”, cod proiect 122385 din cadrul Programului Operațional Regional 2014 -2020, Apel de proiecte POR 8/8.1/8.3/B/1 - grup vulnerabil - persoane cu dizabilități",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-04-19",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/57.-hot-indicatori-tehnico-economici_Odobesti.pdf",
+     "sha256": "30f0001a4046c680a864b28ab0aac08559e4fa44c837b9f800d053bba77ac517"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-58-2018",
+   "path": "local/judet/vrancea/2018/58",
+   "short": "HCJ Vrancea nr. 58/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 58/2018 pentru Cultură Vrancea nr. 03/04.01.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/58.-hot-preemtiune-Casa-Colonel-Albu.pdf",
+     "sha256": "a23b2e5de8fca36644fc3f67df6ac14f83a118bbe38411150649584c5bad1a7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-59-2018",
+   "path": "local/judet/vrancea/2018/59",
+   "short": "HCJ Vrancea nr. 59/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 59/2018 privind transmiterea solicitarii de trecere din domeniul public al statului si administrarea Ministerului Apararii Nationale in domeniul public al judetului Vrancea si administrarea Consiliului Judetean Vrancea a unei suprafete de 10 ha teren, in vederea intregirii suprafetei necesare construirii spitalului judetean; - in conformitate cu prevederile art. 9, alin. (1) din Legea nr. 213/1998 privind",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/59.-HOTARARE-SOLICITARE-10-HA-SPITAL.pdf",
+     "sha256": "0cfb0b3c0c2551a0c587ad9683e91edbd9606be386d5e1289ccd7cd35d1023dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-6-2018",
+   "path": "local/judet/vrancea/2018/6",
+   "short": "HCJ Vrancea nr. 6/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 6/2018 pentru anul școlar 2018– 2019",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/6.-Hotarare-Retea-Scolara-2018-final.pdf",
+     "sha256": "184a4c7379083f8360e2ac2c24275813cc799b7b1dfce8322a3d8311d3895795"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-60-2018",
+   "path": "local/judet/vrancea/2018/60",
+   "short": "HCJ Vrancea nr. 60/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 60/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+     "sha256": "de20c34244beb8fefd3fd45be5967ce7a0cca9a8b3874715274f1a9347cb8e7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-61-2018",
+   "path": "local/judet/vrancea/2018/61",
+   "short": "HCJ Vrancea nr. 61/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 61/2018 privind solicitarea transmiterii constructiilor-garaje situate in municipiul Focsani, Str. Cuza-Voda, nr.8 din domeniul public al statului si administrarea Ministerului Justitiei-Tribunalul Vrancea in domeniul public al judetului Vrancea si administrarea Consiliului Judetean Vrancea; - având în vedere prevederile Hotararii Guvernului nr. 877/2017 privind modificarea si completarea anexei nr. 11 la",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/61.-Hotarare_Tribunal-trans-garaje-1.pdf",
+     "sha256": "4bb777f698e428007f71166e7f167908882b3f888f5c02c8bfc1597bca94db24"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-62-2018",
+   "path": "local/judet/vrancea/2018/62",
+   "short": "HCJ Vrancea nr. 62/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 62/2018 privind asocierea judetului Vrancea cu Orasul Panciu, Comuna Ciorasti si Comuna Măicănești, pentru implementarea Programului de imbunatatire a calitatii mediului prin impadurirea terenurilor agricole degradate",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/62.-HCJ_transmitere-solicitare-preluare-inv..pdf",
+     "sha256": "edb0a16262a567f5a5f3ad7f3fb447de65ee1a1a676d4aaeec06da2bd920acf7"
     }
    ]
   },
@@ -318,6 +1518,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-65-2018",
+   "path": "local/judet/vrancea/2018/65",
+   "short": "HCJ Vrancea nr. 65/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 65/2018 privind transmiterea solicitarii de trecere din domeniul public al Municipiului Focsani si administrarea Consiliului Local Focsani in domeniul public al judetului Vrancea si administrarea Consiliului Judetean Vrancea a blocului de locuinte de serviciu; - in conformitate cu prevederile art. 9, alin. (4) din Legea nr. 213/1998 privind bunurile proprietate publică republicata, cu modificările și comp",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/65.-Hotarare_LOCUINTE-FOCSANI.pdf",
+     "sha256": "15d4ca97072be39de75785038e47c7cdb56957827215ce55fd89b40743bd0d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-66-2018",
+   "path": "local/judet/vrancea/2018/66",
+   "short": "HCJ Vrancea nr. 66/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 66/2018 pentru finantarea Unitatii Administrativ - Teritoriale Judetul Vrancea si a institutiilor publice de sub autoritatea Consiliului Judetean Vrancea, pe anul 2018",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/66.-Apr-hot-buget-2018.pdf",
+     "sha256": "71d050b677b3097f812e8ec696e49bf20ce586f56fbf6e02806265d80297e285"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-67-2018",
    "path": "local/judet/vrancea/2018/67",
    "short": "HCJ Vrancea nr. 67/2018",
@@ -333,6 +1563,276 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-68-2018",
+   "path": "local/judet/vrancea/2018/68",
+   "short": "HCJ Vrancea nr. 68/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 68/2018 privind accesul gratuit al elevilor din Județul Vrancea la activitățile desfășurate la Bazinul de înot didactic",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/68.-Protocol-ISJ.pdf",
+     "sha256": "0ed3f8cbb9f7191136d9520e3dda28db88a5d12ce719f51db3ae657dd90570f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-69-2018",
+   "path": "local/judet/vrancea/2018/69",
+   "short": "HCJ Vrancea nr. 69/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 69/2018 pentru anul școlar 2018-2019 la Școala Populara de Arta din cadrul Centrului Cultural Vrancea CONSILIUL JUDETEAN VRANCEA, - văzând adresa nr.430/24.04.2018 a Centrului Cultural Vrancea; - având in vedere referatul comun al Serviciului relații publice, contencios monitor oficial si arhiva și al Direcției economice și informatizare nr. 6772/27.04.2018; - luând cont de prevederile art.5, 15 si 16 din",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/69.-hot-aprob-Plan-sc-pop-2018.pdf",
+     "sha256": "3250efd778d87c5fded644c729f3a5ba703db6132ba27b1a85c5ec0cb427a20c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-7-2018",
+   "path": "local/judet/vrancea/2018/7",
+   "short": "HCJ Vrancea nr. 7/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 7/2018 pentru anul școlar 2018–2019",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/7.-Hotarare-Retea-Scolara-2018-MAICANESTI-Mihalceni-final.pdf",
+     "sha256": "b49d3230fa893df2919efc5504e6ccae1d2e88364c870dfed0359dbbc5d3f54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-70-2018",
+   "path": "local/judet/vrancea/2018/70",
+   "short": "HCJ Vrancea nr. 70/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 70/2018 privind bunurile proprietate publică, republicată, cu modificările și completările ulterioare; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - în baza art. 91 alin (1) lit. c) si lit. f) din Legea administrației publice locale nr.215/2001, republicată cu modificările și completări",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/70.-HCJ-preluare-40-marasesti.pdf",
+     "sha256": "06be3b448018c52d70d983075038a9a46c7b73f2644531ff0aa0fa85c3ba93c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-71-2018",
+   "path": "local/judet/vrancea/2018/71",
+   "short": "HCJ Vrancea nr. 71/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 71/2018 pentru obiectivul de investitii “Reabilitare energetică și lucrări conexe corpurile C5, C6 si C7” - Str",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/71.-Hotarare-actualizare-indicatori-c5.pdf",
+     "sha256": "fec3ce778088eaa9b3e1d5d5e463892de9af23bbf061a2cfeb69b77825e1a794"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-73-2018",
+   "path": "local/judet/vrancea/2018/73",
+   "short": "HCJ Vrancea nr. 73/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 73/2018 pentru obiectivul de investitii „Reabilitare energetica și lucrări conexe ale Spitalului Județean de Urgență ”Sf. Pantelimon” Focsani, secția de Pneumoftiziologie”- Str",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/73.-actualizare-indicatori-pneumoftiziologie.pdf",
+     "sha256": "41092c37b2e09589c8992101d040a39519ec34f5799216f72e93d3cb827ce50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-74-2018",
+   "path": "local/judet/vrancea/2018/74",
+   "short": "HCJ Vrancea nr. 74/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 74/2018 privind aprobarea Proiectului „Reabilitare energetica si lucrari conexe ale Spitalului Judetean de Urgenta ”Sf. Pantelimon” Focsani, sectia de Pneumoftiziologie”- Str",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/74.-pneumoftiziologie-faza-2.pdf",
+     "sha256": "c797a1c1599cb958b1487bb6a43d629027876721c593ee6e944fae5d5bf15251"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-75-2018",
+   "path": "local/judet/vrancea/2018/75",
+   "short": "HCJ Vrancea nr. 75/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 75/2018 privind aprobarea contului de incheiere a exercitiului bugetar al judetului Vrancea si a institutiilor publice de sub autoritatea Consiliului Judetean Vrancea, precum si apobarea situatiilor financiare, pe anul 2017; -in conformitate cu dispozitiile art. 57 si 58 din Legea nr. 273/2006 privind finantele publice locale, cu modificarile si completarile ulterioare; -având în vedere Legea nr. 6/2017 p",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot.-nr.-75-incheiere-exercitiu-2017.pdf",
+     "sha256": "f6133ba13397ae10ff569337f8083a049bca07e6cad9265f3368f122646ab465"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-76-2018",
+   "path": "local/judet/vrancea/2018/76",
+   "short": "HCJ Vrancea nr. 76/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 76/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-76-DJ-204-E-204-G-mai-2018.pdf",
+     "sha256": "d1bb642cb873e9bf3dca6647da18d4917c714422827cbdf689ea0d061a6e2274"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-78-2018",
+   "path": "local/judet/vrancea/2018/78",
+   "short": "HCJ Vrancea nr. 78/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 78/2018 privind actualizarea si însușirea inventarului bunurilor care aparŃin domeniului public al Judetului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.78-dom-public-sedinta-mai.pdf",
+     "sha256": "227e31fa11652c6fc456c182d93083ce687bf387da2b4ccba5a6d0585ad29204"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-79-2018",
+   "path": "local/judet/vrancea/2018/79",
+   "short": "HCJ Vrancea nr. 79/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 79/2018 pentru Conservarea Diversitătii Biologice (ACDB) pentru realizarea unor studii de monitorizare a impactului investiŃiei asupra biodiversitătii Crângului Petresti, judetul Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-79-protocol-Crang.pdf",
+     "sha256": "b9e837543c48ff12adec390314f304fd9a37cea7a8d2120774aea52b60af341d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-8-2018",
+   "path": "local/judet/vrancea/2018/8",
+   "short": "HCJ Vrancea nr. 8/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 8/2018 pentru activitățile prestate de către Serviciul Public Comunitar Judetean de Evidenta a Persoanelor Vrancea pentru anul 2018",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/8.-Hot-taxe-SPCJEP-2018.pdf",
+     "sha256": "54815a8b159b7846887ed3cc5eb116850048556088875c8bedbee7f30d348767"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-81-2018",
+   "path": "local/judet/vrancea/2018/81",
+   "short": "HCJ Vrancea nr. 81/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 81/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-81-transf-post-Centrul-Cultural-profesor-2018.pdf",
+     "sha256": "77c84aeceabd69bbef36a8f89578edcbf109552882b5cb564b7b17a919a8223d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-82-2018",
+   "path": "local/judet/vrancea/2018/82",
+   "short": "HCJ Vrancea nr. 82/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 82/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-82-transformare-post-mai.2018.pdf",
+     "sha256": "c63387956c93d83b4fbefd956b25e9fa930f88432ea93666ee9da27a8093e931"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-83-2018",
+   "path": "local/judet/vrancea/2018/83",
+   "short": "HCJ Vrancea nr. 83/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 83/2018 pentru funcțiile contractuale de execuție de Administrator I și Magaziner, din cadrul Serviciului Public Salvamont Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-05-30",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-83-stab-salarii-Salvamont-martie-2018.pdf",
+     "sha256": "50966a7db36708053528c81d36a7da95ecf82d58a4aa598fcce9d90426b41105"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-85-2018",
+   "path": "local/judet/vrancea/2018/85",
+   "short": "HCJ Vrancea nr. 85/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 85/2018 pentru Probleme Speciale a județului Vrancea; - văzând referatul Serviciului relații publice, contencios, monitor oficial și arhivă nr. 10307/22.06.2018; - în temeiul art. 35 lit. d) din Legea apărării naționale a României nr. 45/1994, cu modificările ulterioare; - conform prevederilor art. 46 alin. (2) și art. 47 lit. f) din Legea nr. 477/2003 privind pregătirea economiei naționale și a teritoriu",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot.nr_.-85-_actualizare__monografie_economico-militare-2018-Copy.pdf",
+     "sha256": "6bdf70da5d1880cd582129a32a3f009963f8a5604a017307a2ec3e2b65f70b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-87-2018",
+   "path": "local/judet/vrancea/2018/87",
+   "short": "HCJ Vrancea nr. 87/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 87/2018 privind aprobarea Regulamentului de Organizare si Funcționare al Centrului Cultural Vrancea; - luând act de rapoartele compartimentelor de resort din cadrul Consiliului Județean Vrancea și avizele comisiilor de specialitate ale Consiliului Județean Vrancea; - văzând Procesul Verbal al Comisiei de validare a Consiliului Județean Vrancea, încheiat în data de 26 iunie 2018, privind validarea unui mem",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr.-87-validare-CCl.pdf",
+     "sha256": "daf1e327ac9fa58fd495939014ee764ddddcb7e937ac3f13f1b4347e890017dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-88-2018",
+   "path": "local/judet/vrancea/2018/88",
+   "short": "HCJ Vrancea nr. 88/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 88/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+     "sha256": "99f8443873a3ff735095c9ee227b2b60f226e6e1efeacbd140b98b5f148a8404"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-89-2018",
    "path": "local/judet/vrancea/2018/89",
    "short": "HCJ Vrancea nr. 89/2018",
@@ -344,6 +1844,141 @@
      "units": 4,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/Hot-nr-89-transf-post-CJ-Vrancea-iun.2018.pdf",
      "sha256": "7a90b665e59e540b9a0adfc9c7a0762c0b625b7ea22b0a4f2292d87938605f47"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-9-2018",
+   "path": "local/judet/vrancea/2018/9",
+   "short": "HCJ Vrancea nr. 9/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 9/2018 pentru Agricultura si Dezvoltare Rurala Vrancea nr.9445/13.11.2017 si adresa Administratiei Nationale de Administrare Fiscala nr. 41462/20.10.2017; -având în vedere referatul Directiei Economice si Informatizare inregistrat la nr. 18032/20.11.2017 privind stabilirea venitului anual din cedarea folosintei bunurilor in situatia in care arenda se exprima in natura, prin modificarea pretului produselo",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2018",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/9.-HOTARARE-PRODUSE-AGRICOLE-06.11.2017.pdf",
+     "sha256": "9af8d0ad442cfb0d9dd3a9b318372a4eae06408a5145d086fef456c6342db889"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-91-2018",
+   "path": "local/judet/vrancea/2018/91",
+   "short": "HCJ Vrancea nr. 91/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 91/2018 privind actualizarea inventarului bunurilor care apartin domeniului public al judetului Vrancea. - luând în considerare raportul comisiei speciale pentru intocmirea inventarului bunurilor care alcatuiesc domeniul public al judetului Vrancea - in conformitate cu prevederile art. 21 din Legea nr. 213/1998 privind bunurile proprietate publică republicata, cu modificările și completările ulterioare;",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr-91-dom-public-iunie.pdf",
+     "sha256": "c847ee857d5eef8ef571e1554f771395db65ab0136aabc6086a366775113b5f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-92-2018",
+   "path": "local/judet/vrancea/2018/92",
+   "short": "HCJ Vrancea nr. 92/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 92/2018 pentru Cultură Vrancea nr. 989/29.05.2018, înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-nr-92-preemt-neexerc.-Casa-Apostu-Focsani-Copy.pdf",
+     "sha256": "fa8398f46058498009a70ddf484a804f6803e9bbd3d746d701676a64abaf9b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-93-2018",
+   "path": "local/judet/vrancea/2018/93",
+   "short": "HCJ Vrancea nr. 93/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 93/2018 pentru Cultură Vrancea nr. 1027/11.06.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hot-NR-93-preemt-neexerc.-Casa-Apostu-Odobesti-Copy.pdf",
+     "sha256": "68ddc89a81da72097ff72d6ce8b0c103e28426dec93ad1b4b6a2160a26ec908c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-94-2018",
+   "path": "local/judet/vrancea/2018/94",
+   "short": "HCJ Vrancea nr. 94/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 94/2018 pentru Situații de Urgență Vrancea nr.336044/06.06.2018; - având în vedere Hotărârea Comitetului Județean pentru Situații de Urgență Vrancea nr.45/05.06.2018; - văzând referatul Direcției Tehnice și Investiții înregistrat la nr. 10316/22.06.2018 prin care se propune aprobarea Planului de analiză și acoperire a riscurilor actualizat pe anul 2018; - în baza prevederilor art.6 alin.(1) din Ordinul nr",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/hotarire-nr-94-Plan-riscuri-ISU.pdf",
+     "sha256": "ed7bc4c28b60a7603db627077b26a18c425ffd7137aac9075b55a26d07f576b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-95-2018",
+   "path": "local/judet/vrancea/2018/95",
+   "short": "HCJ Vrancea nr. 95/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 95/2018",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/06/HOT-nr-95-Acord-de-parteneriat-ARHITECTURA.pdf",
+     "sha256": "5f14730eb5d43650f6616f79a5d015751bb98023b6c3ea3b5a2bb0b631de0912"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-96-2018",
+   "path": "local/judet/vrancea/2018/96",
+   "short": "HCJ Vrancea nr. 96/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 96/2018 privind serviciile sociale din cadrul DGASPC Vrancea, administrate și finanțate de",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/96.-planul-serviciilor-sociale-DGASPC.pdf",
+     "sha256": "e1d6b2be0a75cbbaddc7d1d3ae04d8bbe08980cb89d6e767d59f4f9e1b34c29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-97-2018",
+   "path": "local/judet/vrancea/2018/97",
+   "short": "HCJ Vrancea nr. 97/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 97/2018 pentru Cultură Vrancea nr. 1108/22.06.2018 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/97.-neexercitare-preemtiune-Cureteanu-2018.pdf",
+     "sha256": "d343c7757073ba35108ace61256498e7fed9f94df1e443f181320b18c76d8758"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-99-2018",
+   "path": "local/judet/vrancea/2018/99",
+   "short": "HCJ Vrancea nr. 99/2018",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 99/2018 pentru imobilul ,,Punct de ambulanta Maicanesti”, aflat in domeniul public al judetului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2018",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2018/08/99.-REVOCARE-drept-adm-ambulanta.pdf",
+     "sha256": "3c8414b502910cca8f151fa2ab045a6cd54513c5517698072b36e7ad700efa64"
     }
    ]
   }

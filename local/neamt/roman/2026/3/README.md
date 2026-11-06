@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Roman nr. 3/2026 privind aprobarea Planului anual de acţiuni sau lucrări de interes local pentru repartizarea orelor de muncă către beneficiarii de venit minim de incluziune-componenta ajutor de incluziune și părinții ai căror copii beneficiază de măsuri de protecție specială HOTĂRÂRE Nr.3 din 22.01.2026 privind aprobarea Planului anual de acţiuni sau lucrări de interes local pentru repartizarea orelor de muncă că
+
+HCL Roman nr. 3/2026 · 1 versions, from 2026-01-22 (latest in force: 2026-01-22) · <https://primariaroman.ro/consiliu_local/hcl-nr-003-din-22-01-2026/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-neamt--roman-3-2026` (tags `hcl-neamt--roman-3-2026/<day>`; `python tools/on.py <day> hcl-neamt--roman-3-2026`).
+
+## Decisions made by hand
+
+- HCL Roman nr. 3/2026: listed from Consiliul Local al Municipiului Roman (primariaroman.ro); an individual decision: metadata only.
+- HCL Roman nr. 3/2026: dated from 22 January 2026, the day it was adopted (the register gives no later day of publication).
+- HCL Roman nr. 3/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

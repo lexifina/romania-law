@@ -23,6 +23,28 @@
 "flags": {
 "text_pending": "ocr"
 }
+},
+{
+"slug": "hcl-mehedinti--orsova-185-2023",
+"path": "local/mehedinti/orsova/2023/185",
+"kind": "local",
+"year": "2023",
+"number": "185",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 185/2023 privind aprobarea Codului de conduita al utilizatorului profesionist de produse de protectie a plantelor si al apicultorului Vizualizare",
+"short": "HCL Orșova nr. 185/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://primariaorsova.ro/informatii-de-interes-public/registrul-agricol/legislatie-acte-normative/",
+"council": "mehedinti/orsova",
+"council_name": "Consiliul Local al Municipiului Orșova",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

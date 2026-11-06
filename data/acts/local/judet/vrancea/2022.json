@@ -3,6 +3,95 @@
 "shard": "local/judet/vrancea/2022",
 "acts": [
 {
+"slug": "hcj-vrancea-15-2022",
+"path": "local/judet/vrancea/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 15/2022 privind valorificarea prin vânzare la licitație a masei lemnoase pe picior aferentă unui număr de 820 arbori cu un volum brut de 3069,22 m.c. aflată în zona limitrofă a drumului județean DJ 204D; - ținând cont de Hotărârea Consiliului Județean Vrancea nr. 297/16.12.2021, prin care s-a aprobat înscrierea sub aspect valoric si cantitativ în evidențele contabile ale bugetu- lui Unității Administrativ",
+"short": "HCJ Vrancea nr. 15/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-25",
+"latest": "2022-01-25",
+"portal": "https://cjvrancea.ro/hotarari/page/12/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vrancea-43-2022",
+"path": "local/judet/vrancea/2022/43",
+"kind": "local",
+"year": "2022",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 43/2022",
+"short": "HCJ Vrancea nr. 43/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://cjvrancea.ro/hotarari/page/11/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcj-vrancea-114-2022",
+"path": "local/judet/vrancea/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 114/2022 privind proiectul „Actualizarea în format GIS a Planului de Amenajare a Teritoriului Județean Vrancea”, în cadrul Planului Național de Redresare și Reziliență (PNRR), Componenta C10 - Fondul Local, Investiția I.4 – Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană, apel de proiect PNRR/2022/C10. - potrivit dispozitiilor art.241 și art.42 alin",
+"short": "HCJ Vrancea nr. 114/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-16",
+"latest": "2022-05-16",
+"portal": "https://cjvrancea.ro/hotarari/page/8/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vrancea-116-2022",
+"path": "local/judet/vrancea/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 116/2022 pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2: Renovarea energetică moderată sau aprofundată a clădirilor publice, apel PNRR/2022/C5/2/B.2.2/1",
+"short": "HCJ Vrancea nr. 116/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-24",
+"latest": "2022-05-24",
+"portal": "https://cjvrancea.ro/hotarari/page/8/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcj-vrancea-150-2022",
 "path": "local/judet/vrancea/2022/150",
 "kind": "local",
@@ -22,6 +111,50 @@
 "council_name": "Consiliul Județean Vrancea",
 "flags": {
 "text_source": "pdf_text_layer"
+}
+},
+{
+"slug": "hcj-vrancea-267-2022",
+"path": "local/judet/vrancea/2022/267",
+"kind": "local",
+"year": "2022",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 267/2022 pentru trimestrul III al anului 2022”",
+"short": "HCJ Vrancea nr. 267/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://cjvrancea.ro/hotarari/page/2/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcj-vrancea-294-2022",
+"path": "local/judet/vrancea/2022/294",
+"kind": "local",
+"year": "2022",
+"number": "294",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Județean Vrancea nr. 294/2022",
+"short": "HCJ Vrancea nr. 294/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://cjvrancea.ro/hotarari/?an=2022",
+"council": "judet/vrancea",
+"council_name": "Consiliul Județean Vrancea",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

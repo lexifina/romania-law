@@ -136,6 +136,29 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-71-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 71/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/92161",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-73-2023",
 "path": "local/mehedinti/drobeta-turnu-severin/2023/73",
 "kind": "local",
@@ -224,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-117-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 117/2023 privind repartizarea unor locuințe sociale situate în Municipiul Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/102460",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-133-2023",
 "path": "local/mehedinti/drobeta-turnu-severin/2023/133",
 "kind": "local",
@@ -288,6 +333,51 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-148-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/148",
+"kind": "local",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 148/2023 privind aprobarea organigramei și statului de funcţii publice ale Direcției de Poliție Locală Drobeta Turnu Severin",
+"short": "HCL Drobeta-Turnu Severin nr. 148/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/106732",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-164-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/164",
+"kind": "local",
+"year": "2023",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 164/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 164/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-13",
+"latest": "2023-06-13",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/106748",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -358,6 +448,118 @@
 }
 },
 {
+"slug": "hcl-mehedinti--drobeta-turnu-severin-220-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/220",
+"kind": "local",
+"year": "2023",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 220/2023 privind aprobarea sumei de 50000 lei și a Acordului de parteneriat ce se va încheia între UAT Municipiul Drobeta Turnu Severin și LIGA NAVALĂ ROMÂNĂ-FILIALA TR. SEVERIN în vederea organizării Zilei Marinei 2023",
+"short": "HCL Drobeta-Turnu Severin nr. 220/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-02",
+"latest": "2023-08-02",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/113624",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-263-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/263",
+"kind": "local",
+"year": "2023",
+"number": "263",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 263/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 263/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/122401",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-264-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/264",
+"kind": "local",
+"year": "2023",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 264/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 264/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/122402",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-269-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/269",
+"kind": "local",
+"year": "2023",
+"number": "269",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 269/2023 privind numirea reprezentanților Consiliului Local în comisiile pentru evaluarea și asigurarea calității, ale unităților de învățământ preuniversitar din municipiul Drobeta Turnu Severin, județul Mehedinți",
+"short": "HCL Drobeta-Turnu Severin nr. 269/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/122407",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-273-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/273",
+"kind": "local",
+"year": "2023",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 273/2023 privind modificarea Nomenclatorului stradal al Municipiului Drobeta-Turnu Severin, aprobat prin H.C.L nr. 73/28.02.2023",
+"short": "HCL Drobeta-Turnu Severin nr. 273/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/122411",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-mehedinti--drobeta-turnu-severin-286-2023",
 "path": "local/mehedinti/drobeta-turnu-severin/2023/286",
 "kind": "local",
@@ -377,6 +579,74 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-295-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/295",
+"kind": "local",
+"year": "2023",
+"number": "295",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 295/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 295/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/126565",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-296-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/296",
+"kind": "local",
+"year": "2023",
+"number": "296",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 296/2023 privind aprobarea modificării capitalului social al societății comerciale PIEȚE ȘI TÂRGURI DROBETA SRL",
+"short": "HCL Drobeta-Turnu Severin nr. 296/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/126566",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-297-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/297",
+"kind": "local",
+"year": "2023",
+"number": "297",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 297/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 297/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/126567",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -443,6 +713,51 @@
 "council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-338-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/338",
+"kind": "local",
+"year": "2023",
+"number": "338",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 338/2023",
+"short": "HCL Drobeta-Turnu Severin nr. 338/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/130703",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-386-2023",
+"path": "local/mehedinti/drobeta-turnu-severin/2023/386",
+"kind": "local",
+"year": "2023",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 386/2023 privind completarea și actualizarea Nomenclatorului stradal al Municipiului Drobeta-Turnu Severin, aprobat prin HCL nr.273/28.09.2023",
+"short": "HCL Drobeta-Turnu Severin nr. 386/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-28",
+"latest": "2023-12-28",
+"portal": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/133830",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

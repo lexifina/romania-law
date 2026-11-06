@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-109-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/109",
+   "short": "HCL Drobeta-Turnu Severin nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 109/2025 privind aprobarea vânzării directe a imobilelor cu destinația de locuință situată în Municipiul Drobeta Turnu Severin, str. Traian, nr. 169, sc.5, et.1, ap.14 având NC 56279-C1-U9, înscris în CF 56276-C1-U9 respectiv str. Traian, nr. 169, sc.4, et.S+P, ap.6 având NC 56279-C1-U8, înscris în CF 56276-C1-U8",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/205363",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/70637/ANEXA.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-130-2025",
    "path": "local/mehedinti/drobeta-turnu-severin/2025/130",
    "short": "HCL Drobeta-Turnu Severin nr. 130/2025",
@@ -18,6 +33,66 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-14-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/14",
+   "short": "HCL Drobeta-Turnu Severin nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 14/2025 privind modificarea HCL nr. 301 din 28.11.2024, privind numirea reprezentanților Consiliului Local în comisiile pentru evaluarea și asigurarea calității, ale unităților de învățământ preuniversitar din municipiul Drobeta Turnu Severin, județul Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/188594",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64220/ANEXA%20-%20HCL%20ref.la%20numirea%20reprez.%20C.L.%20in%20comisiile%20pentru%20evaluarea%20si%20asigurarea%20calitatii.%20unit.de%20inv.preuniversitar%20din%20DTS.docx",
+     "sha256": "f1e3ad280526ce7d0b96815a59410f3be2f7ad7ca5f5aeb6d31fe8a15554651a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-19-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/19",
+   "short": "HCL Drobeta-Turnu Severin nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 19/2025 privind aprobarea repartizării unor locuințe sociale situate în Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/188599",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64183/ANEXA.pdf",
+     "sha256": "5ae70b774fd335d84519cb777dff78fe8aab675d929ebf2865d0be69c2d37f71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-195-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/195",
+   "short": "HCL Drobeta-Turnu Severin nr. 195/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 195/2025",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/221786",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/77867/RAPORT%20DE%20EVALUARE.pdf",
+     "sha256": "f62ebdf8b520fbf56de1b29fdc38594461aa9b0f2968d912c0b07f147663f8f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-21-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/21",
+   "short": "HCL Drobeta-Turnu Severin nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 21/2025",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/188601",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/64237/anexa.pdf",
+     "sha256": "924873664893a8b23fc9f2aa095fe21aa8d3e78db5c3d5854d58e61e4de8ca9a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-212-2025",
    "path": "local/mehedinti/drobeta-turnu-severin/2025/212",
    "short": "HCL Drobeta-Turnu Severin nr. 212/2025",
@@ -29,6 +104,66 @@
      "units": 1,
      "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/227053",
      "sha256": "a5453e2ea0a2ea5dd7bdfbdd20363c34020fca3b9554a5371e636cc334801461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-226-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/226",
+   "short": "HCL Drobeta-Turnu Severin nr. 226/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 226/2025 privind aprobarea compensării costurilor făcute de Cabinet Medical Individual Nistor A. Ileana cu realizarea lucrărilor privind instalația de utilizare a gazelor naturale la imobilul din str. Crișan, nr. 59, bl. O5, sc. 1, ap. 2 cu suma corespunzătoare redevenței datorată de cabinetul medical conform contractului de concesiune nr. 1125/21.10.2019",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/227067",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/80141/ANEXA%20Compensare%20CMI%20Nistor.pdf",
+     "sha256": "73dfe5f4ffa22c8a0d09ec512dd41b207b6fc866e66e3db590101d82d603bcc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-236-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/236",
+   "short": "HCL Drobeta-Turnu Severin nr. 236/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 236/2025",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/229390",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/229390",
+     "sha256": "a69c0a40427e55f9f5c3152c262c095a9bd002b5aa68d9adf3f39cee7a59481c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-243-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/243",
+   "short": "HCL Drobeta-Turnu Severin nr. 243/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 243/2025 privind modificarea ORGANIGRAMEI și a STATULUI DE FUNCTII , ALE ANSMBLULUI FOLCLORIC ”IZVORASUL” DROBETA TURNU SEVERIN",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/231972",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/82216/organigrama%20scan.pdf",
+     "sha256": "8d8ce2b273245356be3cd7ef57d371af1581c2b1cbfa89fa4a8622bc7be5631a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-251-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/251",
+   "short": "HCL Drobeta-Turnu Severin nr. 251/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 251/2025 privind aprobarea repartizării unor locuințe sociale situate în Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/231980",
+   "versions": [
+    {
+     "from": "2025-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/82227/Anexa%20la%20HCL.pdf",
+     "sha256": "12e2695e2260bd79da24d8173496aa0b69f21f3eab8a31a5b8fd13a476fac1f1"
     }
    ]
   },
@@ -59,6 +194,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/85692/ANEXE.pdf",
      "sha256": "c4321e8c6b69d16bac3adc7a91984cc9a46d1a7981e07efb7a15857ad9ebc115"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-99-2025",
+   "path": "local/mehedinti/drobeta-turnu-severin/2025/99",
+   "short": "HCL Drobeta-Turnu Severin nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 99/2025 privind aprobarea bilanțului societății Termoficare Gaz Drobeta SRL din subordinea Consiliului Local al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/205353",
+   "versions": [
+    {
+     "from": "2025-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/73191/anexa%20termoficare.pdf",
+     "sha256": "91e43057c094b39db2e9ce3aab9d3f6b7c4ff8c449d87f04017c363ce1a9dcd7"
     }
    ]
   }

@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/mures/sighisoara/2023",
+ "acts": [
+  {
+   "slug": "hcl-mures--sighisoara-1-2023",
+   "path": "local/mures/sighisoara/2023/1",
+   "short": "HCL Sighișoara nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 1/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/E03BC976ECC1A6EBC22589570037C348/$FILE/Buletin%20de%20Avertizare%20Nr.%201%20din%2010%20februarie%202023.pdf",
+     "sha256": "d65d3430e8c73052948222f5ea78afb178faac2672f7665aca727567e796ffa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-10-2023",
+   "path": "local/mures/sighisoara/2023/10",
+   "short": "HCL Sighișoara nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 10/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-24",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/A949783E825260CEC22589800023D27B/$FILE/Buletin%20de%20Avertizare%20Nr.%2010%20din%2024.03.2023.pdf",
+     "sha256": "c3e5a1ee9eacc2e88fb06153c80d554e8738ab926246abe31823154b02267f14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-105-2023",
+   "path": "local/mures/sighisoara/2023/105",
+   "short": "HCL Sighișoara nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 105/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/6B7AFC4D30C1CC06C22589E90026FFCD/$FILE/Ordin%20MADR%20nr%20105%20din%2016.03.2023.pdf",
+     "sha256": "917a828ef50639c4c0b9c6c6847b1b27c200911e510ae2c4a046221710f41daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-11-2023",
+   "path": "local/mures/sighisoara/2023/11",
+   "short": "HCL Sighișoara nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 11/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/F9283E9796936346C225898700261322/$FILE/Buletin%20de%20Avertizare%20nr.%2011%20din%2031.03.2023.pdf",
+     "sha256": "94d8e08054ab8e0077614b5a088b824c50e1fd6550e2d511dd8f676eaea7ad83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-12-2023",
+   "path": "local/mures/sighisoara/2023/12",
+   "short": "HCL Sighișoara nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 12/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/E987E065A0A4D5DFC22589870025F0B8/$FILE/Buletin%20de%20Avertizare%20Nr.%2012%20din%2031.03.2023.pdf",
+     "sha256": "3c80dd70b1b5600f1833605817e5af98e35821b6897e0fcdf849a2d7a9fcc408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-13-2023",
+   "path": "local/mures/sighisoara/2023/13",
+   "short": "HCL Sighișoara nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 13/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/3ABBDF8C2FBF4FFEC2258990002540AC/$FILE/Buletin%20de%20Avertizare%20Nr.%2013%20din%2011.04.2023.pdf",
+     "sha256": "e7cfc9ce7558a5e11ff75ed1d502bf10d8a2fc0775feacb2db032beee5208e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-14-2023",
+   "path": "local/mures/sighisoara/2023/14",
+   "short": "HCL Sighișoara nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 14/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/3D790391CCFF34CDC225899000254690/$FILE/Buletin%20de%20Avertizare%20Nr.%2014%20din%2011.04.2023.pdf",
+     "sha256": "1f4bf79f46b44038454bd0b2efcc97bc8bd215dd24265007c5cdf528305d24c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-15-2023",
+   "path": "local/mures/sighisoara/2023/15",
+   "short": "HCL Sighișoara nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 15/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/E70555EC042776EAC2258996002635B6/$FILE/Buletin%20de%20Avertizare%20Nr.%2015%20din%2013.04.2023.pdf",
+     "sha256": "26b55385c1e75ea4ce0bae55eba3995b0bef94659663c4ca7751c88e0617b34c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-16-2023",
+   "path": "local/mures/sighisoara/2023/16",
+   "short": "HCL Sighișoara nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 16/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/3EB6D05786DCBC8CC225899E002FCAFA/$FILE/Buletin%20de%20Avertizare%20Nr.%2016%20din%2020.04.2023.pdf",
+     "sha256": "06200689dfaca37163abec59af8bf7c1e94cc2f8bfbe17a5484cb85500e32888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-17-2023",
+   "path": "local/mures/sighisoara/2023/17",
+   "short": "HCL Sighișoara nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 17/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/BCCA95BE3ABDF12EC22589A300285E2C/$FILE/Buletin%20de%20Avertizare%20Nr.%2017%20din%2026.04.2023.pdf",
+     "sha256": "3bc289142fbe8d70f3195ffc5011c83f3dea9e0977365377b690e553f6f86d01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-18-2023",
+   "path": "local/mures/sighisoara/2023/18",
+   "short": "HCL Sighișoara nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 18/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-06",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/39C98C0AFF38ACA1C22589A3002864B5/$FILE/Buletin%20de%20Avertizare%20%20Nr.%2018%20din%2006.05.2023.pdf",
+     "sha256": "a3e7fd9219b29e0dac2b78463229755e3be449cc7f4db558cb5728d22efa2f63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-185-2023",
+   "path": "local/mures/sighisoara/2023/185",
+   "short": "HCL Sighișoara nr. 185/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 185/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/A6E0CBC16856C591C22589B4002B6078/$FILE/OMADR%20Nr.%20185%20din%2010.05.2023.pdf",
+     "sha256": "cf27af468e4a2dedce0cd7f34e2c17ee0f030a376ebe847454d116e36cb54402"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-19-2023",
+   "path": "local/mures/sighisoara/2023/19",
+   "short": "HCL Sighișoara nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 19/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/64078DDA32565CB9C22589A300286A29/$FILE/Buletin%20de%20Avertizare%20Nr.%2019%20din%2027.04.2023.pdf",
+     "sha256": "e8afa6da2ae29a48793033c4b7543a1f7a7b4d7a97a66f57485c4c86306f7629"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-2-2023",
+   "path": "local/mures/sighisoara/2023/2",
+   "short": "HCL Sighișoara nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 2/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/AAECDD50E4956CCDC22589570037C941/$FILE/Buletin%20de%20Avertizare%20Nr.%202%20din%2010%20februarie%202023.pdf",
+     "sha256": "de7c4655cc299bf261d85e6d50ec239250b172dfd258b8b5862ce6bb52305ab8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-20-2023",
+   "path": "local/mures/sighisoara/2023/20",
+   "short": "HCL Sighișoara nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 20/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/4D3B251285711A70C22589A9002B015D/$FILE/Buletin%20de%20Avertizare%20Nr.%2020%20din%2004.05.2023.pdf",
+     "sha256": "d8b2d7b9fe7cc9f2dfb4a4feacb156d9cbd6866cbd9f17ef6797eadc98f0076d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-21-2023",
+   "path": "local/mures/sighisoara/2023/21",
+   "short": "HCL Sighișoara nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 21/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/25A5E7A99E036ABAC22589A9002B06FD/$FILE/Buletin%20de%20Avertizare%20Nr.%2021%20din%2004.05.2023.pdf",
+     "sha256": "9d644d0a13befc4c13a58456e31e2a6aabfbb3abedc173c4dab7169b58997ba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-22-2023",
+   "path": "local/mures/sighisoara/2023/22",
+   "short": "HCL Sighișoara nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 22/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/919CCBAEFEF347E6C22589AC001ABD09/$FILE/Buletin%20de%20Avertizare%20Nr.%2022%20din%2008.05.2023.pdf",
+     "sha256": "ca46926d545c3c19cbb4868ae47a7a556f874e4b09935711b02e84fc8b65f199"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-23-2023",
+   "path": "local/mures/sighisoara/2023/23",
+   "short": "HCL Sighișoara nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 23/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/F6485A243FA166C8C22589AC001AC42B/$FILE/Buletin%20de%20Avertizare%20Nr.%2023%20din%2008.05.2023.pdf",
+     "sha256": "a0630ac04ea46f5767fe46fd013556346f108bac3684d0d3bdbd07c51faddbc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-24-2023",
+   "path": "local/mures/sighisoara/2023/24",
+   "short": "HCL Sighișoara nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 24/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/52E5DBA1C2BDD984C22589B9003C5CEA/$FILE/Buletin%20de%20Avertizare%20Nr.%2024%20din%2019.05.2023.pdf",
+     "sha256": "108dd3d69c4ee51ab271f2d8d6f420c44f180f1d7266fedcef5fd3a441700277"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-25-2023",
+   "path": "local/mures/sighisoara/2023/25",
+   "short": "HCL Sighișoara nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 25/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/A066BACA11B9019FC22589B9003C63FB/$FILE/Buletin%20de%20Avertizare%20Nr.%2025%20din%2022.05.2023.pdf",
+     "sha256": "10a5765553cc6541b2e4d0998e78745e6826b7f68805c0a4080d806f96a3f01e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-29-2023",
+   "path": "local/mures/sighisoara/2023/29",
+   "short": "HCL Sighișoara nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 29/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/770F35FEB27E3726C22589C8001E2D9E/$FILE/Buletin%20de%20avertizare%20nr%2029%20din%2029%2005%202023.pdf",
+     "sha256": "d35f84e195ec6939e014d6f5242e6805b0f8a9fd057d12e1e562f46bd5b1423f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-3-2023",
+   "path": "local/mures/sighisoara/2023/3",
+   "short": "HCL Sighișoara nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 3/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/4BB7B189756F2D21C22589570037D313/$FILE/Buletin%20de%20Avertizare%20Nr.%203%20din%2010%20februarie%202023.pdf",
+     "sha256": "56ff7f8b7d98f08639d5f8b445fc4ea8b595b866677beddc5b2e2d8adfbddad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-30-2023",
+   "path": "local/mures/sighisoara/2023/30",
+   "short": "HCL Sighișoara nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 30/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/CB3F98BF79C58076C22589C800209A2F/$FILE/Buletin%20de%20Avertizare%20nr%2030%20din%2029%2005%202023.pdf",
+     "sha256": "883d1888d1a03a7265ac374e0f5c742054777446bd6f900c6aecf49d52866f90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-31-2023",
+   "path": "local/mures/sighisoara/2023/31",
+   "short": "HCL Sighișoara nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 31/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/2E66B1DC00AC1B31C22589C80021030C/$FILE/Buletin%20de%20Avertizare%20nr%2031%20din%2029%2005%202023.pdf",
+     "sha256": "a30b8c537b0a22fc018243c73384c8f241adc2862c34f738b155f80cd8d0f0fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-32-2023",
+   "path": "local/mures/sighisoara/2023/32",
+   "short": "HCL Sighișoara nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 32/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-29",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/8E08A4FCD709CDDCC22589C800213F41/$FILE/Buletin%20de%20Avertizare%20nr%2032%20din%2029%2005%202023.pdf",
+     "sha256": "bdfa26dcc91eb110d992aa1a99aaa2b0ab8aa2e83cbf7e965f0225a7929fb516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-33-2023",
+   "path": "local/mures/sighisoara/2023/33",
+   "short": "HCL Sighișoara nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 33/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/2390F451D08BF373C22589C800220E1F/$FILE/Buletin%20de%20Avertizare%20nr%2033%20din%2031%2005%202023.pdf",
+     "sha256": "58303fec1497bbbd8ac36620741ecbbfaeb438a423c25bebc51fb72ab5571f03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-34-2023",
+   "path": "local/mures/sighisoara/2023/34",
+   "short": "HCL Sighișoara nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 34/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/26F14B713D7810B2C22589C8002243E8/$FILE/Buletin%20de%20Avertizare%20nr%2034%20din%2031%2005%202023.pdf",
+     "sha256": "460cee3696c43e47880afc02b4a8138217b1001c9393436d68354cbf91bfbcaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-35-2023",
+   "path": "local/mures/sighisoara/2023/35",
+   "short": "HCL Sighișoara nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 35/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/D311FBC058716217C22589C800227FB9/$FILE/Buletin%20de%20Avertizare%20nr%2035%20din%2031%2005%202023.pdf",
+     "sha256": "3cfb084e0d86a7af34b4cc0bf0af92408002375d1228e55d84286a65fdf0c547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-36-2023",
+   "path": "local/mures/sighisoara/2023/36",
+   "short": "HCL Sighișoara nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 36/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/9FCD6BBBC5423F6AC22589C80023419F/$FILE/Buletin%20de%20Avertizare%20nr%2036%20din%2031%2005%202023.pdf",
+     "sha256": "c8b5270a3f6f68a218fa35b1bcc7efd6412f4f88b81db639fd3772c18a7c0309"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-37-2023",
+   "path": "local/mures/sighisoara/2023/37",
+   "short": "HCL Sighișoara nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 37/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/80B8DE9CB7F91967C22589C80023764B/$FILE/Buletin%20de%20Avertizare%20nr%2037%20din%2031%2005%202023.pdf",
+     "sha256": "4f50b563f2277d86134a77a6765ecc487090b349b1761c5306e416f86ff8cdd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-38-2023",
+   "path": "local/mures/sighisoara/2023/38",
+   "short": "HCL Sighișoara nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 38/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/DACA4995397C0833C22589C80023B196/$FILE/Buletin%20de%20Avertizare%20nr%2038%20din%2031%2005%202023.pdf",
+     "sha256": "5c0d7ecc749841854cc83d99a2ba880120aaa242a4f37c8e8b79580f08d928da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-39-2023",
+   "path": "local/mures/sighisoara/2023/39",
+   "short": "HCL Sighișoara nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 39/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/59F82A14B1D4970BC22589C80023EA1C/$FILE/Buletin%20de%20Avertizare%20nr%2039%20din%2031%2005%202023.pdf",
+     "sha256": "636399937fa8412e61787ce0e09780cf41891f9f9ad8ad72043565634c32a2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-4-2023",
+   "path": "local/mures/sighisoara/2023/4",
+   "short": "HCL Sighișoara nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 4/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-02-20",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/301B673127CB3549C225895F0026B7DF/$FILE/Buletin%20de%20Avertizare%20Nr.%204%20din%2020.02.2023.pdf",
+     "sha256": "1c6d53ee44724a1aabdb846047dfc26ad06e34731bc8301840be7688872543d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-40-2023",
+   "path": "local/mures/sighisoara/2023/40",
+   "short": "HCL Sighișoara nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 40/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/66F827F2A7F4662CC22589C80024290F/$FILE/Buletin%20de%20Avertizare%20nr%2040%20din%2031%2005%202023.pdf",
+     "sha256": "e24acfa9ccc29097a027053d4b30e677f71e6f9753ee25e7066a54c3b11c4d72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-41-2023",
+   "path": "local/mures/sighisoara/2023/41",
+   "short": "HCL Sighișoara nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 41/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-16",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/C360D3FBB02C8205C22589D5001F4D08/$FILE/Buletin%20de%20Avertizare%20Nr.%2041%20din%2016.06.2023.pdf",
+     "sha256": "1450bc06a659e78ff990ffd55fcdc3de6ef73d2e7be197cec512aabdc210b511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-42-2023",
+   "path": "local/mures/sighisoara/2023/42",
+   "short": "HCL Sighișoara nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 42/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/C27150558718A2C4C22589D5001F5274/$FILE/Buletin%20de%20Avertizare%20Nr.%2042%20din%2016.03.2023.pdf",
+     "sha256": "1354c19477fe39103d79dd7dc04aa118bfed7cff369a3060b69943f79ec66089"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-43-2023",
+   "path": "local/mures/sighisoara/2023/43",
+   "short": "HCL Sighișoara nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 43/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-19",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/1AD3EDFA20FACF19C22589D70036A0A0/$FILE/Buletin%20de%20Avertizare%20Nr.%2043%20din%2019.06.2023.pdf",
+     "sha256": "d7fd835f7a879e10e8a944e6544c2445a934d720fe6266e3662bf5594d21edef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-44-2023",
+   "path": "local/mures/sighisoara/2023/44",
+   "short": "HCL Sighișoara nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 44/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/887F5F1C89501E3FC22589D70036A588/$FILE/Buletin%20de%20Avertizare%20Nr.%2044%20din%2021.06.2023.pdf",
+     "sha256": "495b77fa9ba60d86fbc0f2c35516fc6035054049db0e9f839a52e3cf3ef42dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-45-2023",
+   "path": "local/mures/sighisoara/2023/45",
+   "short": "HCL Sighișoara nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 45/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/BFADD2C0B61E507FC22589DC002F6547/$FILE/Buletin%20de%20Avertizare%20Nr.%2045%20din%2022.06.2023.pdf",
+     "sha256": "7b83a39edadfa9bc34df8339b440d2346ebe6278b6d8d4d2cf33456d4edc4fc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-46-2023",
+   "path": "local/mures/sighisoara/2023/46",
+   "short": "HCL Sighișoara nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 46/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/C39938330680B57DC22589DC002F6A53/$FILE/Buletin%20de%20Avertizare%20Nr.%2046%20din%2022.05.2023.pdf",
+     "sha256": "88199ba891f3c64cb5d78c3e94b2709182a5a3e61fbf09e40bb2e30fcc677b2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-47-2023",
+   "path": "local/mures/sighisoara/2023/47",
+   "short": "HCL Sighișoara nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 47/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/21E3C39578825D40C22589DC002F6F4A/$FILE/Buletin%20de%20Avertizare%20Nr.%2047%20din%2022.06.2023.pdf",
+     "sha256": "103b4d953d610c644a7038543e3180b624cd018f809892b964ae315200ff88ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-48-2023",
+   "path": "local/mures/sighisoara/2023/48",
+   "short": "HCL Sighișoara nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 48/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/BEE78FFE469E9EBCC22589DD003D3A20/$FILE/Buletin%20de%20Avertizare%20Nr.%2048%20din%2027.06.2023.pdf",
+     "sha256": "b30b00393e33643b8bfd7bfdb818ef9a32a73b6b89075baa0778888f1144b8b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-49-2023",
+   "path": "local/mures/sighisoara/2023/49",
+   "short": "HCL Sighișoara nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 49/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/B6BBCB51289D4AB1C22589DD003D3FD8/$FILE/Buletin%20de%20Avertizare%20Nr.%2049%20din%2027.06.2023.pdf",
+     "sha256": "5d0e8a09cf5dbd94cd2804fc0156da907e082bbf7be8583c860e8858bd2718ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-5-2023",
+   "path": "local/mures/sighisoara/2023/5",
+   "short": "HCL Sighișoara nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 5/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/11536B08D598B815C2258963002D96B4/$FILE/Buletin%20de%20Avertizare%20Nr.%205%20din%2023.02.2023.pdf",
+     "sha256": "9b336e4e242584546d990866648e0d36a45288ac5ee2103c46de356019e88f05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-50-2023",
+   "path": "local/mures/sighisoara/2023/50",
+   "short": "HCL Sighișoara nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 50/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/0FD72F54F7952A5EC22589DD003D4501/$FILE/Buletin%20de%20Avertizare%20Nr.%2050%20din%2027.06.2023.pdf",
+     "sha256": "7a0d4dbc6af4898c63ed244e8a1c1e0a30322b3f3862f6f36db8cd61627347e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-51-2023",
+   "path": "local/mures/sighisoara/2023/51",
+   "short": "HCL Sighișoara nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 51/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/A5658702B1005900C22589DD003D4BA9/$FILE/Buletin%20de%20Avertizare%20Nr.%2051%20din%2027.06.2023.pdf",
+     "sha256": "5b292405a7b21d8493f56caf80af514ba7d2b3c987153b5a785935ac59fec36a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-52-2023",
+   "path": "local/mures/sighisoara/2023/52",
+   "short": "HCL Sighișoara nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 52/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/017CE2A161FE1411C22589E800250365/$FILE/Buletin%20de%20Avertizare%20Nr.%2052%20din%2005.07.2023.pdf",
+     "sha256": "affe93e5a85569be15b960f1063daf63f885750323fe1596888922d1caefc19a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-53-2023",
+   "path": "local/mures/sighisoara/2023/53",
+   "short": "HCL Sighișoara nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 53/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/B6819B620D5DB2E6C22589E800250867/$FILE/Buletin%20de%20Avertizare%20Nr.%2053%20din%2005.07.2023.pdf",
+     "sha256": "612547255f0788e7e34d60f1b9c87d3568b49f15b76dae2eb3c2585544e5ccb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-54-2023",
+   "path": "local/mures/sighisoara/2023/54",
+   "short": "HCL Sighișoara nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 54/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-05",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/E620DBB5B6728BBAC22589E800250DDA/$FILE/Buletin%20de%20Avertizare%20Nr.%2054%20din%2005.07.2023.pdf",
+     "sha256": "e13b34f27ccac5853cb6625ad609df31b137c65f2fef210e4a05b00c15d2f696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-55-2023",
+   "path": "local/mures/sighisoara/2023/55",
+   "short": "HCL Sighișoara nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 55/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/6A1930208DDCACB7C22589EF00272DC7/$FILE/Buletin%20de%20Avertizare%20Nr.%2055%20din%2014.07.2023.pdf",
+     "sha256": "14e6337dbd96ba1f7cb388a34e30814cb66d38b7087a9102c2de688764bb4aea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-56-2023",
+   "path": "local/mures/sighisoara/2023/56",
+   "short": "HCL Sighișoara nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 56/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/3D41685087F83A06C22589EF0027323B/$FILE/Buletin%20de%20Avertizare%20Nr.%2056%20din%2014.07.2023.pdf",
+     "sha256": "49033d5dd06bb74bccbbdd894e42e0ff4af47a99469922c45a28e27eb84f0c68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-58-2023",
+   "path": "local/mures/sighisoara/2023/58",
+   "short": "HCL Sighișoara nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 58/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-14",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/40680C1F45EFF53AC22589EF002736F5/$FILE/Buletin%20de%20Avertizare%20Nr.%2058%20din%2014.07.2023.pdf",
+     "sha256": "4b990d05198b0ce3c3bc752dd591d58ee48f1907d5cdaff03e9a84adf8ea93cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-59-2023",
+   "path": "local/mures/sighisoara/2023/59",
+   "short": "HCL Sighișoara nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 59/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/EE440180CA614939C22589F8002F8F2C/$FILE/Buletin%20de%20Avertizare%20Nr.%2059%20din%2021.07.2023.pdf",
+     "sha256": "31b55fcbc43877d023fd5b426cf1930e998a3afc502d13b9b5fc1476fbd5c782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-6-2023",
+   "path": "local/mures/sighisoara/2023/6",
+   "short": "HCL Sighișoara nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 6/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/810C8FF0E86EF290C2258974003A5E6A/$FILE/Buletin%20de%20Avertizare%20Nr.%206%20din%2014.03.2023.pdf",
+     "sha256": "94bed1ea1d8485a06e99bd9f10d28c1d82898d01c69f029f47d9ea9187abf07c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-60-2023",
+   "path": "local/mures/sighisoara/2023/60",
+   "short": "HCL Sighișoara nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 60/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/4DB865FEE4B49FCEC22589F8002FEB04/$FILE/Buletin%20de%20Avertizare%20Nr.%2060%20din%2021.07.2023.pdf",
+     "sha256": "4b776dc2f5cc0510c6dc38bc637c04ca7c35c9849dcea65fce8f67a4194f7b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-7-2023",
+   "path": "local/mures/sighisoara/2023/7",
+   "short": "HCL Sighișoara nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 7/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/39B54AB0B5097357C2258974003A63DA/$FILE/Buletin%20de%20Avertizare%20Nr.%207%20din%2014.03.2023.pdf",
+     "sha256": "f83b05b9ec19239859e98e8f05a46b1fd013a0e09d9f1902eec6832d5551c34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-8-2023",
+   "path": "local/mures/sighisoara/2023/8",
+   "short": "HCL Sighișoara nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 8/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-22",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/D93219B346CE5D59C225897C0033FF67/$FILE/Buletin%20de%20Avertizare%20Nr.%208%20din%2022.03.2023.pdf",
+     "sha256": "63451283206a0ab1454b2d01a699fcf6d4338f50513ede2d3e1cab22a99c44ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mures--sighisoara-9-2023",
+   "path": "local/mures/sighisoara/2023/9",
+   "short": "HCL Sighișoara nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Sighișoara nr. 9/2023",
+   "url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/pagini/arhiva+anunuri+i+buletine+de+avertizare-0001C80A",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://primariasighisoara.ro/portal/mures/sighisoara/portal.nsf/atasament/7D8CFE0D6C940D5EC225898000247446/$FILE/Buletin%20de%20Avertizare%20Nr.%209%20din%2023.03.2023.pdf",
+     "sha256": "166e7963e4fc70e4da5cbca002e80528c99536211867f85afb2089ace938931f"
+    }
+   ]
+  }
+ ]
+}

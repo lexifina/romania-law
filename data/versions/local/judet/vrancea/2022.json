@@ -3,6 +3,51 @@
  "shard": "local/judet/vrancea/2022",
  "acts": [
   {
+   "slug": "hcj-vrancea-114-2022",
+   "path": "local/judet/vrancea/2022/114",
+   "short": "HCJ Vrancea nr. 114/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 114/2022 privind proiectul „Actualizarea în format GIS a Planului de Amenajare a Teritoriului Județean Vrancea”, în cadrul Planului Național de Redresare și Reziliență (PNRR), Componenta C10 - Fondul Local, Investiția I.4 – Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană, apel de proiect PNRR/2022/C10. - potrivit dispozitiilor art.241 și art.42 alin",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2022",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/05/Hot.114.pdf",
+     "sha256": "f13805ec75889fd8a26bcecdb4f2441baee3ae3fc193e5760253504a8cc4c971"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-116-2022",
+   "path": "local/judet/vrancea/2022/116",
+   "short": "HCJ Vrancea nr. 116/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 116/2022 pentru eficiență energetică și reziliență în clădiri publice, Operațiunea B.2: Renovarea energetică moderată sau aprofundată a clădirilor publice, apel PNRR/2022/C5/2/B.2.2/1",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2022",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/05/Hot.-116.pdf",
+     "sha256": "7fc4e5005cdda091eda0a3c5dfcbd71eacc0759d07511326bd8545736722b456"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-15-2022",
+   "path": "local/judet/vrancea/2022/15",
+   "short": "HCJ Vrancea nr. 15/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 15/2022 privind valorificarea prin vânzare la licitație a masei lemnoase pe picior aferentă unui număr de 820 arbori cu un volum brut de 3069,22 m.c. aflată în zona limitrofă a drumului județean DJ 204D; - ținând cont de Hotărârea Consiliului Județean Vrancea nr. 297/16.12.2021, prin care s-a aprobat înscrierea sub aspect valoric si cantitativ în evidențele contabile ale bugetu- lui Unității Administrativ",
+   "url": "https://cjvrancea.ro/hotarari/page/12/?an=2022",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/02/hot.15.pdf",
+     "sha256": "e6e45e2c45496bd490facc0a0ef85d71bb24b309768d4c5dbe54f6cc37305152"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-150-2022",
    "path": "local/judet/vrancea/2022/150",
    "short": "HCJ Vrancea nr. 150/2022",
@@ -14,6 +59,51 @@
      "units": 7,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/06/150.-HCJ-AST-regulament-si-tarife.pdf",
      "sha256": "2fc97911e707e7289f7c21a8070d4a6c3937927aeb61202d6a17208c7c97e7b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-267-2022",
+   "path": "local/judet/vrancea/2022/267",
+   "short": "HCJ Vrancea nr. 267/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 267/2022 pentru trimestrul III al anului 2022”",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2022",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/11/HOT-267-aprobare-executie-bugetara-30.09.2022.pdf",
+     "sha256": "d0a3a276a20cb9397483648de659495f9e1d87e398233bb9cf088a6f35a8d9b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-294-2022",
+   "path": "local/judet/vrancea/2022/294",
+   "short": "HCJ Vrancea nr. 294/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 294/2022",
+   "url": "https://cjvrancea.ro/hotarari/?an=2022",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/12/hot294.pdf",
+     "sha256": "d7c0cbcb62589142271f5380dbf136aacdb7cdcfaf3acfb16ecfd9785fa25c88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-43-2022",
+   "path": "local/judet/vrancea/2022/43",
+   "short": "HCJ Vrancea nr. 43/2022",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 43/2022",
+   "url": "https://cjvrancea.ro/hotarari/page/11/?an=2022",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2022/02/hot-43-dare-DJ-204-G-Biliesti-2022-1.pdf",
+     "sha256": "aa65d5d9187cbe0234ec863e28a6dc07a9aae2ec55eabde41a6770d4e3c0e6c7"
     }
    ]
   }

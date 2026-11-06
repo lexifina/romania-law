@@ -3,6 +3,81 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2022",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-1-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/1",
+   "short": "HCL Drobeta-Turnu Severin nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 1/2022 privind alegerea președintelui de ședință al Consiliului Local",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57292",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61328/hcl-nr-1-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local.pdf",
+     "sha256": "6da612048f9e6b6155591771e522add9eb23439d7881f48400b96c1dd9eaf559"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-10-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/10",
+   "short": "HCL Drobeta-Turnu Severin nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 10/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57329",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57329",
+     "sha256": "ba76d636ac81887610531c6d921c1199658da3a05aa078bef7339a3691bfedfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-100-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/100",
+   "short": "HCL Drobeta-Turnu Severin nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 100/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57419",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57419",
+     "sha256": "d0d28af146dc7b6a5f4a4120b67162fa6915111dbb4ffa7c9fcfbb14878c8b0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-101-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/101",
+   "short": "HCL Drobeta-Turnu Severin nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 101/2022 privind aprobarea Planului de Mobilitate Urbana Durabilă al Municipiului Drobeta Turnu Severin pentru perioada 2021 - 2030",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57420",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61401/hcl-nr-101-privind-aprobarea-Planului-de-Mobilitate-Urbana-Durabila-al-Mun-DTS-pentru-perioada-2021-2030.pdf",
+     "sha256": "f394d0a66addf3d9c25509d7a66c23f38ebd18227d455f163c40d80ccde667d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-102-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/102",
+   "short": "HCL Drobeta-Turnu Severin nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 102/2022 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Municipiului Drobeta Turnu Severin si a zonei sale functionale 2021 — 2027",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57421",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61400/hcl-nr-102-privind-aprobarea-Strategiei-Integrate-de-Dezvoltare-Urbana-a-Mun-DTS-si-a-zonei-sale-functionale-pentru-perioada-2021-2027.pdf",
+     "sha256": "60ea1f5ffd2d30cecea092f61980aa89fefcef54ce6c149f305be0936af42d39"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-109-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/109",
    "short": "HCL Drobeta-Turnu Severin nr. 109/2022",
@@ -14,6 +89,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/5962/HCL%20nr.%20109%20din%2012.04.2022%20privind%20aprobarea%20Studiului%20tehnico-economic%20si%20indicatori...Dezv.(extindere)%20retea%20gaze%20naturale%20Schela%20Clado.pdf",
      "sha256": "972de54eb2d173311d3d22a8563a08d6060068e629ae2d1d39a05c52bb969e74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-11-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/11",
+   "short": "HCL Drobeta-Turnu Severin nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 11/2022 privind aprobarea bugetului de venituri și cheltuieli al Direcției de Asistență Socială pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57330",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61429/hcl-nr-11-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-DAS-pe-anul-2022.pdf",
+     "sha256": "1a40328636e11fd3cc362426af5315d955a53a363c88861359659a68ed7bf892"
     }
    ]
   },
@@ -168,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-12-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/12",
+   "short": "HCL Drobeta-Turnu Severin nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 12/2022 privind aprobarea bugetului de venituri și cheltuieli pentru Direcția de Poliție Locală Droberta Turnu Severin pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57331",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61434/hcl-nr-12-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-DPL-DTS-pentru-anul-2022.pdf",
+     "sha256": "8858a2921f51acfbc7c1c4631f733f1c03c662d3860319f597df6c5257d53cb5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-120-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/120",
    "short": "HCL Drobeta-Turnu Severin nr. 120/2022",
@@ -213,6 +318,81 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-123-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/123",
+   "short": "HCL Drobeta-Turnu Severin nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 123/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60914",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60914",
+     "sha256": "4473645a538444209c2467055489c724d70817efaf45d35fe6a1621941a19cba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-124-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/124",
+   "short": "HCL Drobeta-Turnu Severin nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 124/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60915",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60915",
+     "sha256": "4e3b57b6e29f011a7ffdd8e8629f2f53411dad4a908535c0c58c169c6a592875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-125-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/125",
+   "short": "HCL Drobeta-Turnu Severin nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 125/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60916",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60916",
+     "sha256": "2b085f98d1196e352d722c73ad90e16f6e9ee8b0532e8e17da1d4ecd02472df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-126-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/126",
+   "short": "HCL Drobeta-Turnu Severin nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 126/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60917",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60917",
+     "sha256": "3cbc99b30244645a70e560e90e67cf0757237a6da437d6227e00afe49fd63fe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-127-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/127",
+   "short": "HCL Drobeta-Turnu Severin nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 127/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60918",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60918",
+     "sha256": "340e38564364bab32f274e2baa7724c702b52f02ea257bc7710c43c9bfba06bd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-128-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/128",
    "short": "HCL Drobeta-Turnu Severin nr. 128/2022",
@@ -239,6 +419,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6071/hcl%20nr%20129%20privind%20aprobarea%20documenta%C8%9Biei%20tehnice%20cadastrale%20cu%20propunerea%20de%20dezmembrare%20a%20imobilului%20teren.pdf",
      "sha256": "ae7a2888dffaa1dda4843b82e4d24f229704a92c963ac66cc75e75da17422c9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-13-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/13",
+   "short": "HCL Drobeta-Turnu Severin nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 13/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Serviciului Public de Alimentare cu Energie Termică din cadrul Consiliului Local al municipiului Droberta Turnul Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57332",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61446/hcl-nr-13-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-SPAET-pe-anul-2022.pdf",
+     "sha256": "b9171d108be5ccae3a4bba4a58e2d523c478544ea97a3f0a971223ca7f16a88d"
     }
    ]
   },
@@ -273,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-132-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/132",
+   "short": "HCL Drobeta-Turnu Severin nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 132/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60911",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/60911",
+     "sha256": "ae0dad890e2c240f67187b0c5e634ef0516036f2a565afc8c0ac160f0c5a319e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-133-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/133",
    "short": "HCL Drobeta-Turnu Severin nr. 133/2022",
@@ -299,6 +509,36 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6119/HCL%20nr.%20135%20din%2013.05.2022%20privind%20alegerea%20presedintelui%20de%20sedinta%20al%20C.L..pdf",
      "sha256": "93e13609f8c356b43fd1e1afb844e48382e8cdc579c61ef70424def689832028"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-14-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/14",
+   "short": "HCL Drobeta-Turnu Severin nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 14/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 al Serviciului Public Administrația Piețelor, Târgurilor și Oboarelor din cadrul Consiliului Local al Municipiului Droberta-Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57333",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61448/hcl-nr-14-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2022-al-SPAPTO.pdf",
+     "sha256": "80234b9cc38951c04f1f5bbcb7a509259e7f0cd769c99d1201d87fb4d871188d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-142-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/142",
+   "short": "HCL Drobeta-Turnu Severin nr. 142/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 142/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/61009",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/61009",
+     "sha256": "a79b433b55aa21d01559be71be34eb5a023fe7d72686aad372a43bda9c843c6d"
     }
    ]
   },
@@ -423,6 +663,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-152-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/152",
+   "short": "HCL Drobeta-Turnu Severin nr. 152/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 152/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 316 mp situat în Drobeta Turnu Severin, B-dul Mihai Viteazu, identificat cu NC 68140",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62640",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6932/hcl%20nr%20152%20privind%20aprobarea%20studiului%20de%20oportunitate%20%C8%99i%20concesionarea%20prin%20licita%C8%9Bie%20public%C4%83%20a%20suprafe%C8%9Bei%20de%20316%20mp.pdf",
+     "sha256": "77cf8d01f2675410da6ad32dbba62295bd6400cb4c5ea93d8a7fad06a0bb724b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-153-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/153",
+   "short": "HCL Drobeta-Turnu Severin nr. 153/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 153/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62641",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62641",
+     "sha256": "5e1250703e8cf2c593b823b2f01897daf70e03cce2bcbb8dc8727ab138b37071"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-154-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/154",
    "short": "HCL Drobeta-Turnu Severin nr. 154/2022",
@@ -449,6 +719,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6935/hcl%20nr%20155%20privind%20aprobarea%20solicit%C4%83rii%20c%C4%83tre%20Jude%C8%9Bul%20Mehedin%C8%9Bi%20privind%20trecerea%20terenului%20%C3%AEn%20suprafa%C8%9B%C4%83%20de%20447%20mp.pdf",
      "sha256": "813d63c09b1095a791d5d26240746db0b97f7ddff0a586037a815fe876efba3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-156-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/156",
+   "short": "HCL Drobeta-Turnu Severin nr. 156/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 156/2022 privind repartizarea unor locuințe sociale și fond de stat situate în Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62644",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6936/hcl%20nr%20156%20privind%20repartizarea%20unor%20locuin%C8%9Be%20sociale%20%C8%99i%20fond%20de%20stat%20situate%20%C3%AEn%20municipiul%20Drobeta%20Turnu%20Severin.pdf",
+     "sha256": "f2643529a5850838dd2cdb06450a3877b830e585b8e2917a9bc958cec91df2d0"
     }
    ]
   },
@@ -543,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-163-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/163",
+   "short": "HCL Drobeta-Turnu Severin nr. 163/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 163/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62651",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62651",
+     "sha256": "c5f6837829cd6d49bc9eba13ca9e9fd959d47a33615738bcc87e30484cdc0e7d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-164-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/164",
    "short": "HCL Drobeta-Turnu Severin nr. 164/2022",
@@ -573,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-166-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/166",
+   "short": "HCL Drobeta-Turnu Severin nr. 166/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 166/2022 privind aprobarea cumpărării de către Municipiul Drobeta Turnu Severin a două terenuri intravilane, în suprafață de 324 mp fiecare, înscrise în CF Drobeta Turnu Severin 57299, respectiv 56872, având NC 57299, respectiv 56872, situate în Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/62654",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/6946/hcl%20nr%20166%20privind%20aprobarea%20cumpararii%20de%20catre%20mun%20DTS%20a%20doua%20terenuri.pdf",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-168-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/168",
    "short": "HCL Drobeta-Turnu Severin nr. 168/2022",
@@ -584,6 +899,111 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7520/stat%20FUNCTIONARI%20PUBL.doc",
      "sha256": "6751d7adba9452ec256017299779c01e7580389cbf4ff87e0b0c774b8594dc0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-177-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/177",
+   "short": "HCL Drobeta-Turnu Severin nr. 177/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 177/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64798",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7531/ANEXA%20LUNGOCI%20C..docx",
+     "sha256": "7abab52c730e738e0ea9815050a5c733729a90ecf01d7759a6d563db1d6214ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-186-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/186",
+   "short": "HCL Drobeta-Turnu Severin nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 186/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64807",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/7537/ANEXA%20nr.docx",
+     "sha256": "f04c1245d0a7ee2578038219a60527a094d4fe9f069b53269304ba2a36946d83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-187-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/187",
+   "short": "HCL Drobeta-Turnu Severin nr. 187/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 187/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64808",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64808",
+     "sha256": "2c1d6937f75387c9e7789ed609161f80c166f45c8a9a8c5f424273d6e96095d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-188-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/188",
+   "short": "HCL Drobeta-Turnu Severin nr. 188/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 188/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64809",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64809",
+     "sha256": "2c1d6937f75387c9e7789ed609161f80c166f45c8a9a8c5f424273d6e96095d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-189-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/189",
+   "short": "HCL Drobeta-Turnu Severin nr. 189/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 189/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64810",
+   "versions": [
+    {
+     "from": "2022-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/64810",
+     "sha256": "2c1d6937f75387c9e7789ed609161f80c166f45c8a9a8c5f424273d6e96095d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-2-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/2",
+   "short": "HCL Drobeta-Turnu Severin nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 2/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57293",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57293",
+     "sha256": "33e8ec4017d47717d8c81333b8b732f5dcdafcdbc4e711191037fbb39134cdb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-201-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/201",
+   "short": "HCL Drobeta-Turnu Severin nr. 201/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 201/2022 privind alegerea președintelui de ședință al Consiliului Local Vizualizare",
+   "url": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2022",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-201-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-1.pdf",
+     "sha256": "09be3beb125e1acf2a13053219869540df8f053e5d07c062e96e0340330ca7c7"
     }
    ]
   },
@@ -678,6 +1098,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-227-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/227",
+   "short": "HCL Drobeta-Turnu Severin nr. 227/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 227/2022",
+   "url": "https://primariadrobeta.ro/informatii-de-interes-public/bugetul-din-toate-sursele-de-finantare-hcl/",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/30/hcl-nr-227-din-26-august-2022-sursa-A.pdf",
+     "sha256": "4388b5bc613e63ac4d2ec1ee613104885d2cd89b5823b365ea0343f756cd9394"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-232-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/232",
    "short": "HCL Drobeta-Turnu Severin nr. 232/2022",
@@ -689,6 +1124,51 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15630/Anexa%20-%20Metodologie%20de%20atestare.pdf",
      "sha256": "2747e30faa5417cf9087f79c8d67f223bf170193c5729908bb545362a43fe954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-236-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/236",
+   "short": "HCL Drobeta-Turnu Severin nr. 236/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 236/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/69782",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/15632/ANEXA%20nr.docx",
+     "sha256": "fe48d04338b674f1d8691698f116f8e444e8c4f9fb3071fb48bcb63d1dae8984"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-244-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/244",
+   "short": "HCL Drobeta-Turnu Severin nr. 244/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 244/2022",
+   "url": "https://primariadrobeta.ro/informatii-de-interes-public/bugetul-din-toate-sursele-de-finantare-hcl/",
+   "versions": [
+    {
+     "from": "2022-08-26",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/30/hcl-nr-244-din-26-august-2022-buget-sursa-C-Copy.pdf",
+     "sha256": "78bee4fd98874e23a26b0652887017c0b3d4ead5d1adddf46c293bd079e4e96b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-25-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/25",
+   "short": "HCL Drobeta-Turnu Severin nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 25/2022 privind aprobarea documentației de urbanism în fază PUZ-”Elaborare PUZ în vederea parcelîrii și construirii de locuințe individuale cu funcțiuni complementare zonei de locuit”, pentru terenuri ce aparțin Primăriei Municipiului Droberta Turnu Severin cu nr. cadastrale (de la 68532-până la 68650), situate în intravilanul Municipiului Droberta Turnul Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57344",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61486/hcl-nr-25-privind-aprobarea-documentatiei-de-urbanism-in-faza-PUZ-nr.-cadastrale-de-la-68532-%E2%80%93-pana-la-68650.pdf",
+     "sha256": "441dd82e9ad54726170a1a21863be09ae9b2373fddb8e80b3414c6523ec4b75a"
     }
    ]
   },
@@ -768,6 +1248,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-28-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/28",
+   "short": "HCL Drobeta-Turnu Severin nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 28/2022 privind concesionarea serviciului social- preparare și distribuire hrană către beneficiarii Cantinei de Ajutor Social. Sala de pomenire, inclusiv concesionarea imobilului în care își desfășoară activitatea acest serviciu",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57347",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61496/hcl-nr-28-privind-concesionarea-serviciului-social-%E2%80%93-preparare-si-distribuire-hrana-catre-beneficiarii-Cantinei-de-Ajutor-Social.pdf",
+     "sha256": "ce3690014cbde10ca6434e1e68030494b6b6a20349f7b6c38b29a90fb62bab39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-29-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/29",
+   "short": "HCL Drobeta-Turnu Severin nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 29/2022 privind aprobarea casării de mijloace fixe aflate în evidența contabilă a Direcției de Asistență Socială Droberta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57348",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61500/hcl-nr-29-privind-aprobarea-casarii-de-mijloace-fixe-aflate-in-evidenta-contabila-a-DAS.pdf",
+     "sha256": "44f1d537509173ee01da25e34fec61c783f58b68c134dbd45c32dec3fee289fa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-297-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/297",
    "short": "HCL Drobeta-Turnu Severin nr. 297/2022",
@@ -779,6 +1289,81 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/18373/anexa%20hcl.docx",
      "sha256": "b87a66ca470e395074da1f5f3fce68161102965dabec99d47313da85ba909f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-3-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/3",
+   "short": "HCL Drobeta-Turnu Severin nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 3/2022 privind schimbarea sediului social, aprobarea Actului Constitutiv și Statutului ASOCIAȚIEI GRUPULUI DE ACȚIUNE LOCALĂ „PORȚILE DE FIER”, în formă actualizată",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57294",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61396/hcl-nr-3-privind-schimbarea-sediului-social-aprobarea-Actului-Constitutiv-si-Statutului.pdf",
+     "sha256": "ed66b49e3d2a2d1dcbc2555fe489258c4b5f692768ad99a53ddaeee1ae8f25a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-30-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/30",
+   "short": "HCL Drobeta-Turnu Severin nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 30/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57349",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57349",
+     "sha256": "19ee395c332f3d5f30def37cb3dbdaa01a06f0d53fd4072af4f9af876a587b96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-31-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/31",
+   "short": "HCL Drobeta-Turnu Severin nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 31/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57350",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57350",
+     "sha256": "970770fdb83c22074abd9a5753717e4613721926327c1a913d72817328347f9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-310-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/310",
+   "short": "HCL Drobeta-Turnu Severin nr. 310/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 310/2022 privind aprobarea prețului de vânzare, al terenului în suprafață de 151 mp din Drobeta Turnu Severin, strada Gheorghe Ionescu Șișești, nr. 9A, identificat prin NC 63993, stabilit prin Raportul de evaluare nr. 70T/28.09.2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/77577",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/18389/Raport%20evaluare%20Roman.pdf",
+     "sha256": "5aa0f1dbbb1359c07f0d8dc9949b13b1bf716e5d46f76a746e97275723af0f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-32-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/32",
+   "short": "HCL Drobeta-Turnu Severin nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 32/2022 privind aprobarea studiului de oportunitate și concesionare prin licitație publică a suprafeței de 681 mp situat în Droberta Turnu Severin, Zona Roșiori, identificat cu NC 65358",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57351",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61514/hcl-nr-32-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-681-mp.pdf",
+     "sha256": "b994ed5b818b8da6df8587bafeab0dc1d34179299ab56f0344baf2521cb72dbd"
     }
    ]
   },
@@ -813,6 +1398,81 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-33-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/33",
+   "short": "HCL Drobeta-Turnu Severin nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 33/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 263 mp situat în Drobeta Turnul Severin, Zona Roșiori, identificat cu NC 65356",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57352",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61532/hcl-nr-33-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-263-mp.pdf",
+     "sha256": "2f42b08140162888bba352d9d6c24718577f3903418699f94471e5300ef9ec26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-34-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/34",
+   "short": "HCL Drobeta-Turnu Severin nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 34/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 15.000 mp situat în Drobeta Turnu Severin, T64/1, P1/3N, identificat cu NC 68383",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57353",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61534/hcl-nr-34-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-15.000-mp.pdf",
+     "sha256": "f9322093340366a11de650e73d5606882e3f6ceaee586c4967c8637a1c9a1d2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-340-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/340",
+   "short": "HCL Drobeta-Turnu Severin nr. 340/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 340/2022 privind repartizarea unei locuințe ANL rămasă vacantă, în ordinea stabilită prin lista anuala de priorități aprobată prin HCL nr. 86/30.03.2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/81052",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/19762/ANEXA.pdf",
+     "sha256": "1366d39edfa9455f87e6aac2050f70c90aca6e6a74a43d182a358bac72b2bc32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-35-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/35",
+   "short": "HCL Drobeta-Turnu Severin nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 35/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 14.260 mp situat în Drobeta Turnu Severin, T64/1, P1/3N, identificat cu NC 68384",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57354",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61536/hcl-nr-35-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-14.260-mP.pdf",
+     "sha256": "19b54f101b0ad069f0a38a8c5a8bc5c8552b6963226789ab7ab9565d364196f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-36-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/36",
+   "short": "HCL Drobeta-Turnu Severin nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 36/2022 privind aprobarea adiționării Contractului de concesiune nr.303/01 aprilie 2001 încheiat cu S.C.NANDI S.R.L",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57355",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61537/hcl-nr-36-privind-aprobarea-aditionarii-Contractului-de-concesiune-nr.-303-01-aprilie-2001-incheiat-cu-S.C.-NANDI-S.R.L..pdf",
+     "sha256": "e3acf3af2dfca4e8abfce0b5458b40367b5ed6e8e1d7050b40ec0ee6d2b040ab"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-363-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/363",
    "short": "HCL Drobeta-Turnu Severin nr. 363/2022",
@@ -828,6 +1488,186 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-37-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/37",
+   "short": "HCL Drobeta-Turnu Severin nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 37/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57356",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57356",
+     "sha256": "876c11cfc2f12da2785178b6ba12cc41d1f7432775c9299ef70334db0eb0c373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-38-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/38",
+   "short": "HCL Drobeta-Turnu Severin nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 38/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57357",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57357",
+     "sha256": "a37582477340b997eb66bd8bc04305ac150f73f287818a099f9dfaf32e3c5001"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-39-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/39",
+   "short": "HCL Drobeta-Turnu Severin nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 39/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Droberta Turnu Severin 64644, având NC 64644 situat în Droberta Turnu Severin, Alee Zona B-dul Revoluției 16-22 Dec 1989",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57358",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61544/hcl-nr-39-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-avand-NC-64644.pdf",
+     "sha256": "ba2b13cee595852d054563215a75d33741ae120c9b78f3c6b7c0aa69fa446af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-4-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/4",
+   "short": "HCL Drobeta-Turnu Severin nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 4/2022 privind modificarea Anexei 1 la HCL nr.311/08.12.2021 privind aprobarea proiectului ”Elaborarea Planului de acțiune pentru energie durabilă a Municipiului Droberta Turnul Severin și Planului de acțiune pentru mediu la nivelul județului Mehedinți” și a acordului de parteneriat într UAT Municipiul Droberta Turnul Severin și Consiliul Județean Mehedinți în vederea implementării acestuia",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57295",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61403/hcl-nr-4-privind-modificare-Anexa-1-la-HCL-nr.-311-08.12.2021.pdf",
+     "sha256": "98c32315e803eeffaadf053fab093d5caf7553cc8ab0932297828b2a9533dbb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-40-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/40",
+   "short": "HCL Drobeta-Turnu Severin nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 40/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Droberta Turnu Severin 64497, având NC 6447 situat în Droberta Turnu Severin, Zona Cora",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57359",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61548/hcl-nr-40-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-avand-NC-64497.pdf",
+     "sha256": "ed123ca0abcba8dcccb99fd8df15ddc17c1e62d4c2423553b5ce25083626a95f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-41-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/41",
+   "short": "HCL Drobeta-Turnu Severin nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 41/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57360",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57360",
+     "sha256": "681d3935097e6c801c2cb542f4d46c76418e540c0da01c55dc2c7ea359ed64bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-42-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/42",
+   "short": "HCL Drobeta-Turnu Severin nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 42/2022 privind aprobarea prețului de vânzare al terenului în suprafață de 155 mp din Droberta Turnu Severin, strada Transilvaniei, nt.31, identificat prin NC 58242, stabilit prin Raportul de evaluare nr.124T/22.12.2021",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57361",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61552/hcl-nr-42-privind-aprobarea-pretului-de-vanzare-al-terenului-in-suprafata-de-155-m%C2%B2-NC-58242.pdf",
+     "sha256": "d984edcaccd97189dd034cfff443b9a601e0bcc5a6f551320886f9b97d73e3f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-43-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/43",
+   "short": "HCL Drobeta-Turnu Severin nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 43/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57362",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61562/hcl-nr-43-privind-modificarea-H.C.L.-nr.-88-2021.pdf",
+     "sha256": "ee1bf0e9f646e10b00b2a8e55ee9a07974cf89967d5abf8389589f847204d26c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-44-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/44",
+   "short": "HCL Drobeta-Turnu Severin nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 44/2022 privind încetarea dreptului de administrare al Serviciului Public Administrare Piețe, Târguri și Oboare a suprafeței de 21 mp din incinta Pieței Crihan",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57363",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61565/hcl-nr-44-privind-incetarea-dreptului-de-administrare-al-SPAPTO-pentru-chioscul-nr.-3.pdf",
+     "sha256": "11181bc2f42a8d1ee54da0ccefdcc8203136c7c371639e64dd21c2b29f36e7be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-45-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/45",
+   "short": "HCL Drobeta-Turnu Severin nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 45/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57364",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57364",
+     "sha256": "90af95ea44a96968c990e1c07d93111baba317911a2368a7f006f92564336bf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-46-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/46",
+   "short": "HCL Drobeta-Turnu Severin nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 46/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57365",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57365",
+     "sha256": "6e3882d7f0122e49780e216d30961a951af35f3d4832948c455be0abbbd7958c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-47-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/47",
+   "short": "HCL Drobeta-Turnu Severin nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 47/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57366",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57366",
+     "sha256": "2492519f3267f8cda13df806efc3c5e00a1d800aa6c81ec66593638ff885f089"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-48-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/48",
    "short": "HCL Drobeta-Turnu Severin nr. 48/2022",
@@ -839,6 +1679,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61581/hcl-nr-48-privind-aprobarea-modalitatii-de-delegare-delegarea-prin-atribuire-directa-si-Regulamentul.pdf",
      "sha256": "82ee74d2fd6789ab017192b7abbdd62178aedd86f5a43e5e6cad8c98b65b216b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-49-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/49",
+   "short": "HCL Drobeta-Turnu Severin nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 49/2022 privind desemnarea a doi consilieri locali pentru a face parte din comisia de evaluare anuală a performanțelor profesionale individuale ale Secretarului General al Municipiului Droberta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57368",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61583/hcl-nr-49-privind-desemnarea-a-doi-consilieri-locali-pentru-a-face-parte-din-comisia-de-evaluare-anuala-a-performantelor.pdf",
+     "sha256": "8e1513b35d44cd2c40daf35b0bed466c3f1527501e26278e088769e094d9e778"
     }
    ]
   },
@@ -873,6 +1728,336 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-51-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/51",
+   "short": "HCL Drobeta-Turnu Severin nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 51/2022 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57370",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61588/hcl-nr-51-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-Consiliului-Local-pe-anul-2022.pdf",
+     "sha256": "4935349921dc39ced73ac54cb6c9a7329f9614b3ac8313c8946cbfd8f2ebf2d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-52-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/52",
+   "short": "HCL Drobeta-Turnu Severin nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 52/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta turnu Severin 60724, având NC 60724, situat în Drobeta turnu Severin, B-dul Carol I, nr.5",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57371",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61592/hcl-nr-52-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-60724.pdf",
+     "sha256": "031338bd08b5d32ee6b41821d7a5c19f90ca876a47f8e0788e626e50ea4a289e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-53-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/53",
+   "short": "HCL Drobeta-Turnu Severin nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 53/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57372",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57372",
+     "sha256": "9437069e0207484b05c2af0464929198396114e92655ce87901f2de70ef1945d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-54-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/54",
+   "short": "HCL Drobeta-Turnu Severin nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 54/2022 privind rectificarea Bugetului de venituri și cheltuieli pe anul 2022 al Direcției de Asistență Socială Droberta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57373",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61597/hcl-nr-54-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-pe-anul-2022-al-Directiei-de-Asistenta-Sociala.pdf",
+     "sha256": "3ea0f0c809935341dbc04a9685ea87fb8ce22ab8dc41177370e135c2c3a33761"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-55-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/55",
+   "short": "HCL Drobeta-Turnu Severin nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 55/2022 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57374",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61598/hcl-nr-55-privind-rectificarea-bugetului-de-venituri-si-cheltuieli-al-Consiliului-Local-pe-anul-2022.pdf",
+     "sha256": "b98c5c3ffc0cf86730fd8dfd9f08f3727fdd01c9d6d7c30dac8cc14b614c9eac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-56-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/56",
+   "short": "HCL Drobeta-Turnu Severin nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 56/2022 privind mandatarea reprezentantului Consiliului Local al Municipiului Droberta Turnu Severin în Adunarea Generală a Asociației pentru Managementul Serviciilor de Apă și de Canalizare Mehedinți, pentru a vota aprobarea modificării Actului Constitutiv și Statului Asociației pentru Managementul Serviciilor de Apă și de Canalizare Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57375",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61608/hcl-nr-56-privind-mandatarea-reprezentantului-CL-al-mun-DTS-in-AGA-pentru-MSAC-Mh.pdf",
+     "sha256": "dd43f91e2d15cf811eb2e0fe478b6729d5b5840c994e71abec30e78b2b684e7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-57-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/57",
+   "short": "HCL Drobeta-Turnu Severin nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 57/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57376",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57376",
+     "sha256": "1aa863e2875b21d53813d7bf290e51e3de9cce39cb6a87a71202eb4aacc41ea8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-58-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/58",
+   "short": "HCL Drobeta-Turnu Severin nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 58/2022 privind aprobarea Regulamentului de organizare și functionare a parcărilor publice cu tarifare orara, cât și procedura de atribuire a locurilor în parcările publice de resedință în municipiul Drobeta Turnu Severin - actualizat",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57377",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61607/hcl-nr-58-privind-aprobarea-Regulamentului-de-organizare-si-functionare-a-parcarilor-publice.pdf",
+     "sha256": "2406cb22def9a30ef4e8d5aa68d0c40d5ac719d73c903f77fcad4b5d33233279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-59-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/59",
+   "short": "HCL Drobeta-Turnu Severin nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 59/2022 privind aprobarea modificarii prin act aditional a contractului de administrare nr. 25640 / 23.12.2013, încheiat între Municipiul Drobeta Turnu Severin și Liceul de Transporturi Auto Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57378",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61603/hcl-nr-59-privind-aprobarea-modificarii-prin-act-aditional-a-contractului-de-administrare-nr.-25640-23.12.2013.pdf",
+     "sha256": "3ea53dc28e3b97033568bde9f194dc76cbd162a7ed04e476e3af8f40625388df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-6-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/6",
+   "short": "HCL Drobeta-Turnu Severin nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 6/2022 privind alegerea președintelui de ședință al Consiliului Local",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57325",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61416/hcl-nr-6-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local.pdf",
+     "sha256": "91cfd70fd143f2a734139a3edf95359b191b584c9686146549ee709516a772fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-60-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/60",
+   "short": "HCL Drobeta-Turnu Severin nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 60/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 550 mp, situat în Drobeta Turnu Severin, B-dul Portile de Fier, identificat cu NC 68178",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57379",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61602/hcl-nr-60-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-550-mp.pdf",
+     "sha256": "cf1706b785ba3493719117d6587f9c3a8e4ec6eecb3d154c56042d2c3f6cf20b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-61-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/61",
+   "short": "HCL Drobeta-Turnu Severin nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 61/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57380",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57380",
+     "sha256": "352cdb2dee21ad9e56f0006536ad933ceaf2a107dcdf4fd3c5ba5e2c14aaeb94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-62-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/62",
+   "short": "HCL Drobeta-Turnu Severin nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 62/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta Turnu Severin 53874, având NC 53874, situat în Drobeta Turnu Severin, str. Banovita, nr. 44A",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57381",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61600/hcl-nr-62-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-53874.pdf",
+     "sha256": "cd2056f29cccfdbd7df3c42f3da52d76c2f618c8002b10100126fcec6d9efbe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-63-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/63",
+   "short": "HCL Drobeta-Turnu Severin nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 63/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57382",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57382",
+     "sha256": "dd070f34a4a0f5bd762cf23ec2261040a4ea7ac4cb7aa210ad469b6229c13e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-64-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/64",
+   "short": "HCL Drobeta-Turnu Severin nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 64/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta Turnu Severin 58602, având NC 58602, situat în Drobeta Turnu Severin, B-dul Porțile de Fier",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57383",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61595/hcl-nr-64-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-58602.pdf",
+     "sha256": "eaf0a633da67a731d7acbc140be0c1b43c29586ef5407de329725124022012d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-65-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/65",
+   "short": "HCL Drobeta-Turnu Severin nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 65/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta Turnu Severin 65656, având NC 65656, situat in Drobeta Turnu Severin, Zona Versantul de Vest",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57384",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61591/hcl-nr-65-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-65656.pdf",
+     "sha256": "938215bdb1d9808cddcfdd0b1a86886ce3099f1345d2e2aaa61f48afe28cdc25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-66-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/66",
+   "short": "HCL Drobeta-Turnu Severin nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 66/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta Turnu Severin 68362, având NC 68362, situat in Drobeta Turnu Severin, str. Bolintineanu, nr. 19",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57385",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61579/hcl-nr-66-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-68362.pdf",
+     "sha256": "7ead7ff3720573ff05abe9ea12e1b4978e006eaea15cfb80da930c65ad252b59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-67-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/67",
+   "short": "HCL Drobeta-Turnu Severin nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 67/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57386",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57386",
+     "sha256": "6050ae5ac8a4ed05089f85dc5d74bd4c1e3c2e787d794fdd588165c90b0b4550"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-68-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/68",
+   "short": "HCL Drobeta-Turnu Severin nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 68/2022 privind aprobarea studiului de oportunitate și concesionarea prin licitație publică a suprafeței de 15.077 mp, situat în Drobeta Turnu Severin, strada Cernetiului, identificat cu NC 64251",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57387",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61561/hcl-nr-68-privind-aprobarea-studiului-de-oportunitate-si-concesionarea-prin-licitatie-publica-a-suprafetei-de-15.077-mp.pdf",
+     "sha256": "0e2185c9e1b5b2b37ea9d4484867481b295e4b6bfbddbb98a0ec1ad6a5968ac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-69-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/69",
+   "short": "HCL Drobeta-Turnu Severin nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 69/2022 privind aprobarea dării unui acord de principiu referitor la preluarea imobilelor situate în Drobeta Turnu Severin, str. Serpentina Roșiori, nr. 1A, având numerele cadastrale 64245, 64246, 64248, 64249 și aprobarea trecerii imobilelor respective din domeniul public al statului si administrarea OCPI Mehedinți în domeniul public al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57388",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61560/hcl-nr-69-privind-aprobarea-darii-unui-acord-de-principiu-referitor-la-preluarea-imobilelor-situate-in-DTS-str.-Serpentina-Rosiori-nr.-1A.pdf",
+     "sha256": "4112b7e3681133f76b90945657304c6b9398b0cce1d04dcf9aba778acab9251b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-7-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/7",
+   "short": "HCL Drobeta-Turnu Severin nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 7/2022 privind aprobarea bugetului de venituri și cheltuieli, sursa A, al Consiliului Local pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57326",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61419/hcl-nr-7-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-sursa-A-al-CL-pe-anul-2022.pdf",
+     "sha256": "6dd55e3516f002fb09d05d283657ae874c221489ebc04e5c58ba94bc9c461eda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-70-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/70",
+   "short": "HCL Drobeta-Turnu Severin nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 70/2022 privind darea în folosință gratuită pe o perioadă de 20 ani a terenului în suprafață de 182 mp, situat în Municipiul Drobeta Turnu Severin, B-dul Carol I nr. 5, Spitalului General Căi Ferate Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57389",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61559/hcl-nr-70-privind-darea-in-folosinta-gratuita-pe-o-perioada-de-20-de-ani-a-terenului-in-suprafata-de-182-mp.pdf",
+     "sha256": "448f55d56a326c93b7bbe42147dba0f20c15a7e99bdcb0b1fee26847be2fc036"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-71-2022",
    "path": "local/mehedinti/drobeta-turnu-severin/2022/71",
    "short": "HCL Drobeta-Turnu Severin nr. 71/2022",
@@ -884,6 +2069,441 @@
      "units": 1,
      "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57390",
      "sha256": "1caf605e4d678d12680d319cd5f14d62f57586b36e5846ad5c3c981763862053"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-72-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/72",
+   "short": "HCL Drobeta-Turnu Severin nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 72/2022 privind desemnarea reprezentanților Consiliului Local pentru a face parte din Comisia de evaluare a probei de interviu, în calitate de membri, pentru toate unitățile de învățământ preuniversitar de stat din municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57391",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61547/hcl-nr-72-privind-desemnarea-reprezentantilor-CL-pentru-a-face-parte-din-comisia-de-evaluare-a-probei-de-interviu.pdf",
+     "sha256": "6a990d6a9d5fff71c986bc5405513a557b1948a6870c2560d45a92524b73ec7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-73-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/73",
+   "short": "HCL Drobeta-Turnu Severin nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 73/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/20/hcl-nr-98-privind-modificarea-H.C.L.-nr.-73-din-28.02.2022-referitoare-la-numirea-reprezentantilor-CL-in-CA-la-scoli-1.pdf",
+     "sha256": "27c35b20f967ce419f1b37902c9d2fd46054ab0421db74ced2379cd93c62b46e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-74-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/74",
+   "short": "HCL Drobeta-Turnu Severin nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 74/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57393",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57393",
+     "sha256": "4e67dffea7791c97feda3a9f9d91e9cef573c0b4bc9e2e8f5f0f2b7d38ffed41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-75-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/75",
+   "short": "HCL Drobeta-Turnu Severin nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 75/2022",
+   "url": "https://primariadrobeta.ro/informatii-de-interes-public/bugetul-din-toate-sursele-de-finantare-hcl/",
+   "versions": [
+    {
+     "from": "2022-03-08",
+     "units": 1,
+     "source_url": "https://primariadrobeta.ro/storage/formidable/30/HCL-nr.-75-din-08.03.2022.pdf",
+     "sha256": "b4bd9a8b899f5f07e07e5027f6fb70b015c95f7192fa0e425fea74dc383fb0e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-77-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/77",
+   "short": "HCL Drobeta-Turnu Severin nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 77/2022 privind aprobarea contului de încheiere al exercițiului bugetar al Consiliului Local pe anul 2021 și al situațiilor financiare aferente",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57396",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61540/hcl-nr-77-privind-aprobarea-contului-de-incheiere-al-exercitiului-bugetar-al-CL-pe-anul-2021-si-al-situatiilor-financiare-aferente.pdf",
+     "sha256": "d4c71ad838707bb23224cec3b18797a9ea19fb7de77c2602385b42a3c55de409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-78-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/78",
+   "short": "HCL Drobeta-Turnu Severin nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 78/2022 privind aprobarea contului de închiriere al exercițiului bugetar pe anul 2021 al Direcției de Asistență Socială",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57397",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61535/hcl-nr-78-privind-aprobarea-contului-de-incheiere-a-exercitiului-bugetar-pe-anul-2021-al-DAS.pdf",
+     "sha256": "5bee805d027679b948af5b196a6e5c5a48144efe93eeeada9603c0f183331ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-79-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/79",
+   "short": "HCL Drobeta-Turnu Severin nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 79/2022 privind aprobarea contului de închidere a exercițiului bugetar al Direcției de Poliție Locală Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57398",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61533/hcl-nr-79-privind-aprobarea-contului-de-incheiere-a-exercitiului-bugetar-al-DPL-DTS-pe-anul-2021.pdf",
+     "sha256": "09cd1c105de0815aea4de436cb95b9d22324b3b861c7f13080a90c688ee80d35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-8-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/8",
+   "short": "HCL Drobeta-Turnu Severin nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 8/2022 privind aprobarea bugetului de venituri și cheltuieli, sursa C, al Consiliului Local pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57327",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61421/hcl-nr-8-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-sursa-C-al-CL-pe-anul-2022.pdf",
+     "sha256": "7cb76d9b1053595f413ceede2d68d7e76ff6ef73507af97c589f36e343704246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-80-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/80",
+   "short": "HCL Drobeta-Turnu Severin nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 80/2022 privind aprobarea încheierii execuției bugetare la data de 31.12.2021 pentru Serviciul Public Administrația Piețelor, Târgurilor și Oboarelor din cadrul Consiliului Local al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57399",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61485/hcl-nr-80-privind-aprobarea-incheierii-executiei-bugetare-la-data-de-31.12.2021-pentru-SPAPTO-din-cadrul-CL-al-mun-DTS.pdf",
+     "sha256": "3ff1889389806f70d9fdf13045d8189525a0165306fb6db81e3b85ffbb06555c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-81-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/81",
+   "short": "HCL Drobeta-Turnu Severin nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 81/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57400",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57400",
+     "sha256": "80586e012b3720d8f5772b130844ef87e042d0d641950ee2977c26e851a4c2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-82-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/82",
+   "short": "HCL Drobeta-Turnu Severin nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 82/2022 privind aprobarea contului de închidere a exercițiului bugetar pe anul 2021 al Serviciului Public de Alimentare cu Energie Termică din cadrul Consiliului Local al municipiului Drobeta Tr. Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57401",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61483/hcl-nr-82-privind-aprobarea-contului-de-inchidere-a-exercitiului-bugetar-pe-anul-2021-al-SPAET-din-cadrul-CL-al-mun-DTS.pdf",
+     "sha256": "56da175b1975f6e3d92e701a269c1150332dbc96df15935389caf388d5ac0574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-83-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/83",
+   "short": "HCL Drobeta-Turnu Severin nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 83/2022 privind aprobarea modificării tarifelor de vizitare a Cetatii Medievale",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57402",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61482/hcl-nr-83-privind-modificarea-tarifelor-de-intrare-la-Cetatea-Medievala-a-Severinului-si-Castelul-Artelor.pdf",
+     "sha256": "0c92fa027af66a3afe7c7b7388b9c060f34122116ff62403eae4b20b438dfb7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-84-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/84",
+   "short": "HCL Drobeta-Turnu Severin nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 84/2022 privind modificarea organigramei, a ștatului de funcții publice și funcții în regim contractual al Direcției de Asistență Socială Dorbeta Turnu Severin prin înființarea unității de învățământ cu personalitate juridică - ”Creșă Drobeta Turnu Severin”, a organigramei și statului de funcții al acesteia și prin desființarea Cantinei de Ajutor Social.Sala de pomenire",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57403",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61480/hcl-nr-84-privind-modificarea-organigramei-a-statului-de-functii-publice-si-functii-in-regim-contractual-al-DAS.pdf",
+     "sha256": "afdaef2325fc86332bfada9bba2fe1507c619636fdc9b94ed4bd37d40f1e41e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-85-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/85",
+   "short": "HCL Drobeta-Turnu Severin nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 85/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57404",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57404",
+     "sha256": "e0f4140f6fdcbbbfdd323bb1b9f7e2243afb621177b111a98db6820802cab7e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-86-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/86",
+   "short": "HCL Drobeta-Turnu Severin nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 86/2022 privind aprobarea listei cu persoanele care au acces la locuințele pentru tineri, în regim de închiriere tip - AN.L. și a listei de prioritați privind punctajul obținut de persoanele care au acces la această categorie de locuințe",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57405",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61472/hcl-nr-86-privind-aprobarea-listei-cu-persoanele-care-au-acces-la-locuintele-pentru-tineri-in-regim-de-inchiriere-tip-%E2%80%93-A.N.L..pdf",
+     "sha256": "a35d9e4f797c9ceb713a39b09cff1edcaaec915e5e4d12d482ac51a57258a746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-87-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/87",
+   "short": "HCL Drobeta-Turnu Severin nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 87/2022 privind aprobarea documentației tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris în CF a UAT Drobeta Turnu Severin 68364, având NC 68364, situat în Drobeta Turnu Severin, Str. Bolintineanu, nr. 19",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57406",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61468/hcl-nr-87-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-68364.pdf",
+     "sha256": "5adf2653d23e2e609363f7997ce37064dfd47a1679baf10334f80546c2e3263a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-88-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/88",
+   "short": "HCL Drobeta-Turnu Severin nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 88/2022 privind aprobarea documenției tehnice cadastrale cu propunerea de dezmembrare a imobilului teren, înscris in CF a UAT Drobeta Turnu Severin 59278, având NC 59278, situat in Drobeta Turnu Severin, Str. Calea Tg-Jiului, nr. 40B",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57407",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61462/hcl-nr-88-privind-aprobarea-documentatiei-tehnice-cadastrale-cu-propunerea-de-dezmembrare-a-imobilului-teren-NC-59278.pdf",
+     "sha256": "e46adbe840ebb312b4c23aad5f83a7903f3fa89dbd338420ad5443cded8cb0ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-89-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/89",
+   "short": "HCL Drobeta-Turnu Severin nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 89/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57408",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57408",
+     "sha256": "db26ed0987b1ab0485fc4a6b4e934a5b00d43b3acb0b1ee76d683c0d6d0ce87e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-9-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/9",
+   "short": "HCL Drobeta-Turnu Severin nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 9/2022 privind aprobarea bugetului de venituri și cheltuieli extrabugetare pentru instituțiile publice de învățământ preuniversitar de stat pe anul 2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57328",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61423/hcl-nr-9-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-extrabugetare-pe-anul-2022.pdf",
+     "sha256": "59075e94458052745bd3ad78d1119f0ea8a99a13a8c863b3467d04a851244bd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-90-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/90",
+   "short": "HCL Drobeta-Turnu Severin nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 90/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57409",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57409",
+     "sha256": "4427b1a905a251f01e67bdd2da98eda0140389870e6943f916cb4f0b71b52ba0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-91-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/91",
+   "short": "HCL Drobeta-Turnu Severin nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 91/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57410",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57410",
+     "sha256": "8356d51dfef718c6011e21e2a601fc25aee0d6a1c956987e107a03f332dd31f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-92-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/92",
+   "short": "HCL Drobeta-Turnu Severin nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 92/2022 privind aprobarea inchirierii imobilului constructie S+P+2E si a terenului aferent, aflate în Drobeta Turnu Severin, str. Antoninii, nr. 2, proprietatea CONGREGATIO JESU PROVINCIA ROMANA pe o perioadă de trei ani, in vederea desfășurării activitatii Colegiului Tehnic Decebal Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57411",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61433/hcl-nr-92-privind-aprobarea-inchirierii-imobilului-constructie-SP2E-si-a-terenului-aferent-aflat-in-DTS-str.-Antoninii-nr.-2.pdf",
+     "sha256": "c2b3a2c50fe3ad75ee99a47abeca0511a9d347bec1dd38015361282243b1e81e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-93-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/93",
+   "short": "HCL Drobeta-Turnu Severin nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 93/2022 privind aprobarea cumpărării imobilului construcție situat în Drobeta Turnu Severin, str. Decebal, nr. 40, bl. A1, et. P, ap. 1, judetul Mehedinti",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57412",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61427/hcl-nr-93-privind-aprobarea-cumpararii-imobilului-constructie-situat-in-DTS-str.-Decebal-nr.-40-bl.-A1-et.-P-ap.-1.pdf",
+     "sha256": "ad98c9e6d687f83a9294911a77c7d47494b79edf01001aac5712feb518b824a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-94-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/94",
+   "short": "HCL Drobeta-Turnu Severin nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 94/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57413",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57413",
+     "sha256": "5397106d9ee070658e6985db1e362f1d3a114e9a48c7fd88218ae8fe0e72be6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-95-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/95",
+   "short": "HCL Drobeta-Turnu Severin nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 95/2022 privind aprobarea darii in administrare temporară pe o perioadă de 1 an a activității de producere a energiei termice, incepând cu sezonul rece 2022-2023, către Serviciul Public de Alimentare cu Energie Termica Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57414",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61412/hcl-nr-95-privind-aprobarea-darii-in-administrare-temporara-pe-o-perioada-de-1-an-a-activitatii-de-producere-a-energiei-termice.pdf",
+     "sha256": "d0118c105e539f78d9a30709cc535c8d9a9c0b25abc4cba4d8a2f52dd7cc782f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-96-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/96",
+   "short": "HCL Drobeta-Turnu Severin nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 96/2022 privind aprobarea incheierii protocolului de colaborare intre UAT Municipiul Drobeta Turnu Severin si Muzeul Regiunii Portilor de Fier",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57415",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61411/hcl-nr-96-privind-aprobarea-incheierii-protocolului-de-colaborare-intre-UAT-Mun-DTS-si-Muzeul-Regiunii-PF.pdf",
+     "sha256": "7f6aa14cfe0777b1e7be9ce229bbb125d1820c78f25d0a4f0e221af3876491c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-97-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/97",
+   "short": "HCL Drobeta-Turnu Severin nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 97/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57416",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61409/hcl-nr-97-privind-modificarea-H.C.L.-nr.-195-30.07.2021-referitoare-la-alegerea-comisiilor-de-specialitate-ale-CL.pdf",
+     "sha256": "0150ec466333c93e323d881de000a60d8b9276089702564d801febc2a61bd8e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-98-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/98",
+   "short": "HCL Drobeta-Turnu Severin nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 98/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57417",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/proiecthcl/61408/hcl-nr-98-privind-modificarea-H.C.L.-nr.-73-din-28.02.2022-referitoare-la-numirea-reprezentantilor-CL-in-CA-la-scoli.pdf",
+     "sha256": "27c35b20f967ce419f1b37902c9d2fd46054ab0421db74ced2379cd93c62b46e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-99-2022",
+   "path": "local/mehedinti/drobeta-turnu-severin/2022/99",
+   "short": "HCL Drobeta-Turnu Severin nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 99/2022",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57418",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/57418",
+     "sha256": "d718b99829a0aeb1b81352b5c7cc1dee7fc59e67b2da7044b85992c75ffdfb93"
     }
    ]
   }

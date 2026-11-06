@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2015",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-998-2015",
+   "path": "local/mehedinti/drobeta-turnu-severin/2015/998",
+   "short": "HCL Drobeta-Turnu Severin nr. 998/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 998/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e11dba6ff5dc397ac95713356624a0bb93a41905bf832c4f6df80ee32be297ae"
+    }
+   ]
+  }
+ ]
+}

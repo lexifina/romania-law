@@ -3,6 +3,81 @@
  "shard": "local/judet/vrancea/2021",
  "acts": [
   {
+   "slug": "hcj-vrancea-133-2021",
+   "path": "local/judet/vrancea/2021/133",
+   "short": "HCJ Vrancea nr. 133/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 133/2021 pentru perioada 2021 - 2027 elaborată în cadrul proiectului “Inovare și performanță în administrația publică a Consiliului Județean Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2021",
+   "versions": [
+    {
+     "from": "2021-07-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/07/HCJ-strategie-dezvoltare-133.doc",
+     "sha256": "062baa45dc4509a57694a9f96443ac4966aa8c4e8c2606ee78d9b4804e2744f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-134-2021",
+   "path": "local/judet/vrancea/2021/134",
+   "short": "HCJ Vrancea nr. 134/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 134/2021 privind aprobarea încheierii unui acord de parteneriat între UAT Județul Vrancea si Direcția Generala de Asistență Socială și Protecția Copilului in vederea depunerii proiectului Dotarea centrelor sociale rezidențiale din subordinea D.G.A.S.P.C",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2021",
+   "versions": [
+    {
+     "from": "2021-07-08",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/07/HCJ-PARTENERIAT-134.doc",
+     "sha256": "a29ff376ce17ab4c066f399e63045bdbefeab910d117c97f7b0628edb705abea"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-172-2021",
+   "path": "local/judet/vrancea/2021/172",
+   "short": "HCJ Vrancea nr. 172/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 172/2021 pentru acordarea de finanțări nerambursabile alocate de la bugetul local al județului Vrancea; - ținând cont de Raportul Comisiei de Evaluare si Selecție privind atribuirea proiectelor cu finanțare nerambursabila alocate de la bugetul local al județului Vrancea pentru activități nonprofit de interes județean ; - având în vedere Referatul Direcției Dezvoltare si Promovare, înregistrat sub nr. 15160",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/08/HCJ-172.pdf",
+     "sha256": "cde06a75bdd7428851c2e75b957f9293668b9b1f5c45d14c84baa81dc37d508e"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-173-2021",
+   "path": "local/judet/vrancea/2021/173",
+   "short": "HCJ Vrancea nr. 173/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 173/2021 pentru acordarea de finanțări nerambursabile alocate de la bugetul local al județului Vrancea; - ținând cont de Raportul Comisiei de Evaluare si Selecție privind atribuirea proiectelor cu finanțare nerambursabila alocate de la bugetul local al județului Vrancea, pentru activități de tineret nonprofit de interes județean, pe anul 2021; - având în vedere Referatul Direcției Dezvoltare și Promovare",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/08/HCJ-173.pdf",
+     "sha256": "3bd55d08c6e2646591bb6d39de2c25469a04f4afb2f5fa95f9f1519bed2d2fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-174-2021",
+   "path": "local/judet/vrancea/2021/174",
+   "short": "HCJ Vrancea nr. 174/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 174/2021 pentru acordarea de finanțări nerambursabile alocate de la bugetul local al județului Vrancea; - tinand cont de Raportul Comisiei de Evaluare si Selecție privind atribuirea proiectelor cu finanțare nerambursabila alocate de la bugetul local al județului Vrancea, pentru activități de tineret nonprofit de interes județean, pe anul 2021; - avand în vedere Referatul Directiei Dezvoltare si Promovare",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2021",
+   "versions": [
+    {
+     "from": "2021-08-10",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/08/HCJ-174.pdf",
+     "sha256": "1aa01bb3608ba2190b8fa45f90788b049d3ab30b7bd39e91a2feb9879af186e5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-176-2021",
    "path": "local/judet/vrancea/2021/176",
    "short": "HCJ Vrancea nr. 176/2021",
@@ -29,6 +104,186 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/hotarari/page/13/?an=2021",
      "sha256": "8e07dfd07ae2be23d87e7d999f4144cca59d2359e51cd6084d0de6ef976b4200"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-235-2021",
+   "path": "local/judet/vrancea/2021/235",
+   "short": "HCJ Vrancea nr. 235/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 235/2021 pentru obiectivul de investiție „Modernizare infrastructură rutieră de drum județean DJ 205 H dintre localitățile Domnești Târg - Domnești Sat – Pufești - Ciorani – Călimanești – Pădureni - E85(DN2), județul Vrancea”, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/235.-HCJ-aprobare-CF-si-DG-la-DJ205H-1.doc",
+     "sha256": "9f339eaf53ded7c6fd751146ff3266ccf6200d987239a927c27f3e3caee7a577"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-236-2021",
+   "path": "local/judet/vrancea/2021/236",
+   "short": "HCJ Vrancea nr. 236/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 236/2021 pentru obiectivul de investiție ,,Modernizare infrastructura rutiera de drum județean DJ 205 E dintre localitățile limita de judet Galati-Ciuslea-Rachitosu-E85(DN2)” județul Vrancea, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/236.-HCJ-aprobare-CF-si-DG-la-DJ205E.doc",
+     "sha256": "3e5d20b3793a8277a7f5ea0c3e931f3b2b2715f8ed81d81534ceb7b7130dae17"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-237-2021",
+   "path": "local/judet/vrancea/2021/237",
+   "short": "HCJ Vrancea nr. 237/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 237/2021 pentru obiectivul de investiție „Modernizare infrastructură rutieră de drum județean 205P dintre localitățile Ivăncești – Făurei, Precistanu - Balta Raței - Mircești si DJ 204 D – Mandresti – DN 23”, județul Vrancea, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/237.-HCJ-aprobare-CF-si-DG-la-DJ205P.doc",
+     "sha256": "3149f8e1a827a7620adee6457f7f670f9b10d0f2efa42d9e0f4f23d370429860"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-238-2021",
+   "path": "local/judet/vrancea/2021/238",
+   "short": "HCJ Vrancea nr. 238/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 238/2021 pentru obiectivul de investiție „Modernizare infrastructura rutiera de drum judetean 204P dintre localitatile - Gugesti - Dragosloveni - Gura Calitei - Dealul Lung” județul Vrancea, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/238.-HCJ-aprobare-CF-si-DG-la-DJ205P.doc",
+     "sha256": "5f470b3cf0afe5e0fa25a70c8f4e720cf1ba9b97417bc516e906ca22a4a34270"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-239-2021",
+   "path": "local/judet/vrancea/2021/239",
+   "short": "HCJ Vrancea nr. 239/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 239/2021 pentru obiectivul de investiție „Reabilitare pod din beton armat pe DJ 205D, peste pârâul Năruja, comuna Năruja, km.7+800”, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/239.-HCJ-aprobare-CF-si-DG-la-pod-DJ205D-Naruja-oct-2021.doc",
+     "sha256": "178c5075703b80a9a4cbb30fb1800ea5b4cab213650deac31b0ae47569bcce34"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-240-2021",
+   "path": "local/judet/vrancea/2021/240",
+   "short": "HCJ Vrancea nr. 240/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 240/2021 pentru obiectivul de investiție „Modernizare DJ 204 D, sector Suraia – Vulturu km. 17+850 – km. 26+000, L=8,15 km., LOT I, sector Maluri – Maluri, km. 35+600 – km. 37+000, L=1,40 km., LOT II” județul Vrancea, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/240.-HCJ-aprobare-CF-si-DG-la-DJ204D-oct-2021.doc",
+     "sha256": "3e4f019ee5d0185d0331822ddb92d849c56471afe551a9e49052bd56337f7bc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-241-2021",
+   "path": "local/judet/vrancea/2021/241",
+   "short": "HCJ Vrancea nr. 241/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 241/2021 pentru obiectivul de investiții “Dotare imobil Secția Pneumoftiziologie din cadrul Spitalului Județean de Urgență \"Sfântul Pantelimon\" Focșani cu lift exterior de targă”",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/241.Hotarare-pdf.pdf",
+     "sha256": "f027f7fa2704db2c0fccf70ab8daaf52f0b01b716efbf86230842f5f46b20a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-242-2021",
+   "path": "local/judet/vrancea/2021/242",
+   "short": "HCJ Vrancea nr. 242/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 242/2021",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+     "sha256": "55a60243edfb3f8a5ee4e9eda5d45c69711cc5d9508dc49789576d565e11c688"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-243-2021",
+   "path": "local/judet/vrancea/2021/243",
+   "short": "HCJ Vrancea nr. 243/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 243/2021 privind rectificarea poziției 145 din anexa inventarului bunurilor aflate în domeniul public al județului Vrancea - Sistem alimentare cu apă Ciorăști, în sensul îndreptării erorii materiale legate de rețea distribuție Salcia Veche; -ținând cont de : - Hotararea Consiliului Judetean Vrancea nr. 55/18.05.2005 privind preluarea în proprietatea publică a Județului Vrancea a sistemului de alimentare cu",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/243.-Hotarare-Ciorasti.doc",
+     "sha256": "daaf96a2cb74bc002a85f9e701440c31d0a5a7207a34c5461ca67776ecffb8c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-244-2021",
+   "path": "local/judet/vrancea/2021/244",
+   "short": "HCJ Vrancea nr. 244/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 244/2021 pentru obiectivul de investiție „Modernizare infrastructură rutieră de drum județean 204G pe sectoarele Rădulești-Biliești, km.2+200 – km.4+500, L=2,30 km., Suraia-Boțârlău, km.13+200-km.17+700 L=4,50 km. și în intravilanul satului Boțârlău km.18+350-km. 19+900, L=1,55 km., Lt=8,35 km.”, în vederea includerii la finanțare prin Programul Național de Investiții \"Anghel Saligny\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2021",
+   "versions": [
+    {
+     "from": "2021-11-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/11/HCJ-244-aprobare-DJ204G.doc",
+     "sha256": "699d0550b7d1e63e9e1932513097e377c476e27e93c8074e25fc6cef0ae3f71d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-76-2021",
+   "path": "local/judet/vrancea/2021/76",
+   "short": "HCJ Vrancea nr. 76/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 76/2021 pentru realizarea unor Investiții Teritoriale Integrate (ITI)",
+   "url": "https://cjvrancea.ro/hotarari/page/10/?an=2021",
+   "versions": [
+    {
+     "from": "2021-04-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/04/Hot.76-parteneriat.pdf",
+     "sha256": "5a6bcd10537ce21a806b7c193561aa6d547d9638540e92d41bf2dd60a635b0d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-93-2021",
+   "path": "local/judet/vrancea/2021/93",
+   "short": "HCJ Vrancea nr. 93/2021",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 93/2021 privind transparența decizională în administrația publică, republicată, cu modificările și completările ulterioare; - în baza prevederilor art.173 alin.3 lit. d) din O.U.G nr. 57/2019 privind Codul administrativ, cu modificările si completările ulterioare; - luând act de raportul compartimentului de resort din cadrul Consiliului Județean Vrancea si avizul comisiei de specialitate a Consiliului Jud",
+   "url": "https://cjvrancea.ro/hotarari/page/9/?an=2021",
+   "versions": [
+    {
+     "from": "2021-05-06",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2021/05/HCJ-strategie-comunicare.pdf",
+     "sha256": "9055698ddf0cf5e80bca5c7cd298e4cdcb014009b14aa8d1fd983b4689717420"
     }
    ]
   }

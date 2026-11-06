@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2017",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-89-2017",
+   "path": "local/mehedinti/drobeta-turnu-severin/2017/89",
+   "short": "HCL Drobeta-Turnu Severin nr. 89/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 89/2017",
+   "url": null,
+   "versions": [
+    {
+     "from": "2017-03-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fc083102c7c41ef35073963acdc25f4e203b4e440114f8c7addf1a3d8a234478"
+    }
+   ]
+  }
+ ]
+}

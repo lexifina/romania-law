@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/mehedinti/drobeta-turnu-severin/2010",
+"acts": [
+{
+"slug": "hcl-mehedinti--drobeta-turnu-severin-12-2010",
+"path": "local/mehedinti/drobeta-turnu-severin/2010/12",
+"kind": "local",
+"year": "2010",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 12/2010 privind rezilierea Contractului de Asociere în Participațiune nr. 12 din 02.02.2010 pe cale judecatoreasca Vizualizare",
+"short": "HCL Drobeta-Turnu Severin nr. 12/2010",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2010-02-02",
+"latest": "2010-02-02",
+"portal": "https://primariadrobeta.ro/consiliul-local/hotarari-consiliul-local/hotarari-consiliu-local-in-2021/",
+"council": "mehedinti/drobeta-turnu-severin",
+"council_name": "Consiliul Local al Municipiului Drobeta-Turnu Severin",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

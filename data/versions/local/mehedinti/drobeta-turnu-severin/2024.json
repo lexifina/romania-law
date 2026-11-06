@@ -3,6 +3,36 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2024",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-104-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/104",
+   "short": "HCL Drobeta-Turnu Severin nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 104/2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/154409",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/49805/anexe%20bvc.pdf",
+     "sha256": "6b10d8daf3d1e9388a37f9df44f21ed497a4fcd5b1d916fdfed83a7190326d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-108-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/108",
+   "short": "HCL Drobeta-Turnu Severin nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 108/2024 privind aprobarea documentației de urbanism în fază PUZ – “PUZ – MODIFICARE PLAN URBANISTIC ZONAL APROBAT PRIN HCL NR. 74 – 76 DIN 2014 , PRIN SCHIMBARE DESTINAȚIE DIN ZONĂ INDUSTRIALĂ ÎN ZONĂ CU DESTINAȚIA DE LOCUIRE, PARCELARE ȘI CONSTRUIRE LOCUINȚE CU REGIM DE ÎNĂLȚIME (S)+P, (S)+P+M, (S)+P+1E, (S)+P+1+M, max: (S)+P+2E” - proprietate privată, nc. 71039, Tarla 102/14, Parcelele 3,4, Municipiul Drobeta Turnu Severin, jud. Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/154413",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/49810/anexa%20puz.pdf",
+     "sha256": "6b8a97a48963c2fc1dd6b19b307517e1d5e71b8448f2b127b8c9cab0daeded70"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-123-2024",
    "path": "local/mehedinti/drobeta-turnu-severin/2024/123",
    "short": "HCL Drobeta-Turnu Severin nr. 123/2024",
@@ -93,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-190-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/190",
+   "short": "HCL Drobeta-Turnu Severin nr. 190/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 190/2024 pentru aprobarea Studiului de oportunitate, modalității de gestiune a serviciului, a Regulamentului, Caietului de sarcini si Contractului pentru delegarea gestiunii Serviciului specializat pentru gestionarea câinilor fără stăpân si ecarisaj din Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/162816",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/53658/Studiu%20de%20oportunitate%20concesiune.pdf",
+     "sha256": "ed5523bd590147e26988a2d543220e1009e509543a273697d0fdcbf22f34db70"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-191-2024",
    "path": "local/mehedinti/drobeta-turnu-severin/2024/191",
    "short": "HCL Drobeta-Turnu Severin nr. 191/2024",
@@ -123,6 +168,66 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-2-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/2",
+   "short": "HCL Drobeta-Turnu Severin nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 2/2024 privind aprobarea Planului de intervenție privind repartizarea orelor de munca cu lucrările de interes local pentru anul 2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/139586",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/42525/SKM_C224e24011615210.pdf",
+     "sha256": "c769f8fe2c24ed785140dfc79a6c8af03c9c24747bbadce8d21a573ef2e71e18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-204-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/204",
+   "short": "HCL Drobeta-Turnu Severin nr. 204/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 204/2024 privind închirierea prin licitație publică a imobilului- spațiu comercial- în suprafața de 28,1 mp din suprafața totală de 491 mp existent la nivelul Punctului Termic nr. 35, situat în Drobeta Turnu Severin, strada Crișan FN, identificat cu NC 71056",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/167186",
+   "versions": [
+    {
+     "from": "2024-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/55661/Raport%20evaluare.pdf",
+     "sha256": "60a36143e5866e36753baa5f5e8bf9cf859e9137a8a21462f7601a784c45eb77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-301-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/301",
+   "short": "HCL Drobeta-Turnu Severin nr. 301/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 301/2024 privind numirea reprezentanților Consiliului Local în comisiile pentru evaluarea și asigurarea calității, ale unităților de învățământ preuniversitar din municipiul Drobeta Turnu Severin, județul Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/179311",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/60604/ANEXA%20-%20HCL%20ref.la%20numirea%20reprez.%20C.L.%20in%20comisiile%20pentru%20evaluarea%20si%20asigurarea%20calitatii.%20unit.de%20inv.preuniversitar%20din%20DTS.docx",
+     "sha256": "a9ea5f10b204b6aeb5f4898de606ce0d26742ad2dc42c7f09183457f42ab5c6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-32-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/32",
+   "short": "HCL Drobeta-Turnu Severin nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 32/2024 privind adoptarea unei hotărâri de consiliu local pentru repartizarea a două locuințe ANL rămase vacante, în ordinea stabilită prin lista anuală de priorități aprobată prin HCL nr. 71/28.02.2023",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/139616",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/42544/ANEXA%20NR.docx",
+     "sha256": "eda64bf5350514873c6f124322fcf3000c71ecb85bf5c74d755bc073d3109d57"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-325-2024",
    "path": "local/mehedinti/drobeta-turnu-severin/2024/325",
    "short": "HCL Drobeta-Turnu Severin nr. 325/2024",
@@ -134,6 +239,21 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/65331/anexa.pdf",
      "sha256": "584626b0373ce45ef066f5398f88ca36837efdbf1812d9a93ce35dc18de00bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-33-2024",
+   "path": "local/mehedinti/drobeta-turnu-severin/2024/33",
+   "short": "HCL Drobeta-Turnu Severin nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 33/2024",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/139617",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/42545/VL%C4%82DICA.pdf",
+     "sha256": null
     }
    ]
   },

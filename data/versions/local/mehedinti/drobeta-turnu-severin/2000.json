@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/mehedinti/drobeta-turnu-severin/2000",
+ "acts": [
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-286-2000",
+   "path": "local/mehedinti/drobeta-turnu-severin/2000/286",
+   "short": "HCL Drobeta-Turnu Severin nr. 286/2000",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 286/2000",
+   "url": null,
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": null,
+     "sha256": "876c11cfc2f12da2785178b6ba12cc41d1f7432775c9299ef70334db0eb0c373"
+    }
+   ]
+  }
+ ]
+}

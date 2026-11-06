@@ -3,6 +3,21 @@
  "shard": "local/judet/vrancea/2025",
  "acts": [
   {
+   "slug": "hcj-vrancea-100-2025",
+   "path": "local/judet/vrancea/2025/100",
+   "short": "HCJ Vrancea nr. 100/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 100/2025 privind bugetul de venituri și cheltuieli al Societății SERVICII PUBLICE VRANCEA SRL pe anul 2025, înregistrată sub nr.8716/23.05.2025; - având în vedere prevederile: • Ordonanței de urgență a Guvernului nr.109/2011 privind guvernanța corporativă a întreprinderilor publice, cu modificările și completările ulterioare; • art.1 lit.b), art.4 alin.(1) lit.a), alin.(6)-(7), art.5 și art.6 alin.(1) din",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/100.-Hot-aprob-buget-Servicii-Publice-2025-2.doc",
+     "sha256": "ac327495264b02fa85c1107eb10fed05f970d3829d3a667ea25a32d49da1e874"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-101-2025",
    "path": "local/judet/vrancea/2025/101",
    "short": "HCJ Vrancea nr. 101/2025",
@@ -14,6 +29,276 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/101.-Hot.-CJ-nr.-transformare-posturi-contractuale-Dgaspc-Vrancea-modif.doc",
      "sha256": "b6bb103a77d9ddd652fd9a1c340db3918bcc5cf5ba57bcd51d93e1bbcdee4e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-103-2025",
+   "path": "local/judet/vrancea/2025/103",
+   "short": "HCJ Vrancea nr. 103/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 103/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+     "sha256": "b99540e446c54b76818b8f2183efe3ed4d2fe189c6c2dbccafa76b9e12401d15"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-104-2025",
+   "path": "local/judet/vrancea/2025/104",
+   "short": "HCJ Vrancea nr. 104/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 104/2025 pentru obiectivul de investiții „Lucrări de construire cale de acces către Campus profesional integrat liceal și universitar, județul Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/104.-HCJ-NC-si-TP-acces-Campus.docx",
+     "sha256": "875fdcb8ec496e662acf50edb8622403d240b9ac2c50aa57865949babb655491"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-105-2025",
+   "path": "local/judet/vrancea/2025/105",
+   "short": "HCJ Vrancea nr. 105/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 105/2025 pentru obiectivul de investiții \"Consolidare și reabilitare Spital de Psihiatrie Cronici Dumbrăveni, județul Vrancea\"",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+     "sha256": "e37b1038fea0b6d0cfce8669ca41972922e224421eefc87441c4680b8f112387"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-109-2025",
+   "path": "local/judet/vrancea/2025/109",
+   "short": "HCJ Vrancea nr. 109/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 109/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-109-Crang-copaci.docx",
+     "sha256": "ba87470a11bf6951218e0b335e8035268a9e87ed22963357491d3d1187fdabb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-110-2025",
+   "path": "local/judet/vrancea/2025/110",
+   "short": "HCJ Vrancea nr. 110/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 110/2025 privind diminuarea domeniului public al Județului Vrancea cu suprafața de teren de 19315 mp, aferentă drumului județean 205R, situată pe amplasamentul coridorului de expropriere al lucrării de utilitate publică de interes național ,,Autostrada Focșani-Buzău”; -văzând cărțile funciare nr. 59111, 59737, 59741, 59743, 59749, 59753, 59754, 59793, 59627 UAT Slobozia Ciorăști; -având în vedere adresa SC",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-110.doc",
+     "sha256": "ee1f28d03e2b0525f77b694c72bd9b0985be45e861ee9a60a94144a450371dd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-111-2025",
+   "path": "local/judet/vrancea/2025/111",
+   "short": "HCJ Vrancea nr. 111/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 111/2025 privind diminuarea domeniului public al Județului Vrancea cu suprafața de teren de 4256 mp, aferentă drumului județean 204E, situată pe amplasamentul coridorului de expropriere al lucrării de utilitate publică de interes național ,,Autostrada Focșani-Buzău”; -văzând cărțile funciare nr. 73671, 60028 , 73054, UAT Focșani; -având în vedere adresa SC Primul Meridian SRL înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-111.doc",
+     "sha256": "9883a8ed4fc17eed8246cfa16cc0ea2d591ba5446fee4ff602a1398b4a776a33"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-113-2025",
+   "path": "local/judet/vrancea/2025/113",
+   "short": "HCJ Vrancea nr. 113/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 113/2025 privind înscrierea sub aspect valoric și cantitativ în evidențele contabile ale Unității Administrativ-Teritoriale Județul Vrancea, a masei lemnoase aferentă unui număr de 120 arbori cu un volum brut total de 816,12 mc precum și Proiectul Tehnic nr. 363/2022 privind „Modernizare infrastructură rutieră de drum județean 204E dintre localitățile Mirceștii Noi – Ciușlea – Străjescu – Doaga – DN 24, Ju",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-113-inventariuere-arbori-si-masa-lemnoasa-204E.docx",
+     "sha256": "806f0a961cb753815b0914edf29a4b768bfd1f23d027ce9aa083333553638372"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-115-2025",
+   "path": "local/judet/vrancea/2025/115",
+   "short": "HCJ Vrancea nr. 115/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 115/2025 pentru reluarea procedurii competitive de atribuire a Contractelor de delegare a gestiunii Serviciului public de transport județean de persoane prin curse regulate, în aria teritorială de competență a UAT Județul Vrancea, pentru loturile nr.3, nr.27 și nr.28 neatribuite în cadrul procedurii competitive anterioare",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/Hot-115-RELUARE-PROCEDURA.docx",
+     "sha256": "42615755244a716be3ef63ce117059c9e2f362643e2047b0eb8b0a1851752426"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-116-2025",
+   "path": "local/judet/vrancea/2025/116",
+   "short": "HCJ Vrancea nr. 116/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 116/2025 pentru perioada 2024 – 2030",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/116.-Hot.-transport-emitere-licente.docx",
+     "sha256": "918e1b11a9afeea214d8859ca58044f2af98102113a258829eb72ec6a94b2d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-117-2025",
+   "path": "local/judet/vrancea/2025/117",
+   "short": "HCJ Vrancea nr. 117/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 117/2025 privind constatarea încetării dreptului de administrare transmis Consiliului Local al Municipiului Focșani, asupra Stadionului Tineretului din Focșani, str",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/117.-Hot-retragere-STADION-tineretului.doc",
+     "sha256": "c43ae84c2df05913160941e4b54db76cb45c0f8deb6b0359b38dbd98ad935432"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-118-2025",
+   "path": "local/judet/vrancea/2025/118",
+   "short": "HCJ Vrancea nr. 118/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 118/2025 privind constatarea încetării dreptului de administrare transmis Consiliului Local al Municipiului Focșani, asupra Stadionului \"Milcovul\"; - având în vedere: - Hotărârea Consiliului Județean Vrancea nr. 99/19.12.2003 privind transmiterea în administrarea Consiliului Local al Municipiului Focșani a Stadionului Milcov și Stadionul Tineretului; - Hotărârea Consiliului Județean Vrancea nr. 21/28.03.20",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/118.-Hot-STADION-MILCOV-RETRAGERE.doc",
+     "sha256": "bd55d8f1e752e6e83bf6ef78ea4acb6cf487b89e30c88e4db0880f045e0db2b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-119-2025",
+   "path": "local/judet/vrancea/2025/119",
+   "short": "HCJ Vrancea nr. 119/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 119/2025 privind transmiterea din administrarea Consiliului Județean Vrancea în administrarea Consiliului Local Suraia a sectorului de drum județean DJ 204 D de la km 13+850 la km 16+800, situat în intravilanul comunei Suraia",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-119-modificare-HCJ-94-drum-Suraia.docx",
+     "sha256": "27bebbeef48891d4664afc25f2fa194fc0d5c86715401cbdb89e201c3408ac3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-120-2025",
+   "path": "local/judet/vrancea/2025/120",
+   "short": "HCJ Vrancea nr. 120/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 120/2025 pentru anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/06/hot-120-monografie-actualizare.doc",
+     "sha256": "55a41dea78819a612d4a1d4560a0c8da47887f44f93cafbe6cffd39449788e26"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-121-2025",
+   "path": "local/judet/vrancea/2025/121",
+   "short": "HCJ Vrancea nr. 121/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 121/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+     "sha256": "ec56f377e0cef3b2038322df1908a64c958f41a987190c6d5de311f420e9eb8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-122-2025",
+   "path": "local/judet/vrancea/2025/122",
+   "short": "HCJ Vrancea nr. 122/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 122/2025 privind aprobarea Planului de analiză și acoperire a riscurilor al județului Vrancea; - având în vedere adresa Comitetului Județean pentru Situații de Urgență Vrancea nr. 3203/11.06.2025, înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hotarare-122-plan-riscuri.doc",
+     "sha256": "ad62bdd53deb2249b6cfab813290b06710ab89ae01e93d71bf8353f16984e0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-125-2025",
+   "path": "local/judet/vrancea/2025/125",
+   "short": "HCJ Vrancea nr. 125/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 125/2025 privind transformarea unui post din statul de funcții al Serviciului Public Comunitar Județean de Evidență a Persoanelor Vrancea; - în conformitate cu prevederile: - art. 476 alin. (1) și alin. (2) lit. a), art. 477 alin. (1), art. 478 alin. (1) - (3) din OUG nr. 57/2019 privind Codul administrativ, cu modificările și completările ulterioare; - art. 31 alin. (4) din Legea nr. 153/2017 privind sala",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hot-125-transformare-post-SPCJEP-Vrancea.docx",
+     "sha256": "f23013bb37e17e63aa004fc0cdc02e937b4b2801e4090b14036ce9f6489489ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-127-2025",
+   "path": "local/judet/vrancea/2025/127",
+   "short": "HCJ Vrancea nr. 127/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 127/2025 privind transmiterea sectorului de drum județean 204 G, de la km 4+650 până la km 6+150, din administrarea Consiliului Județean Vrancea în administrarea Consiliului Local Biliești, județul Vrancea; -ținând cont de: -Hotărârea Consiliului Județean Vrancea nr. 90/2020 privind transmiterea din administrarea U.A.T Județul Vrancea în administrarea U.A.T comuna Biliești a sectorului de drum județean 204",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/hot-127-DJ-204-G-Biliesti.docx",
+     "sha256": "326179296ef41e1f84846ffa7f7a1465bc79819029c74c59e9f8f1dddc6020ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-128-2025",
+   "path": "local/judet/vrancea/2025/128",
+   "short": "HCJ Vrancea nr. 128/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 128/2025 privind preluarea imobilului drum neclasificat de utilitate privată identificat în cărțile funciare nr. 52521, 52522 și 52523 Vânători (fost DC 144) din domeniul public al UAT Comuna Vânători în domeniul public al UAT Județul Vrancea; - ținând cont de Hotărârea Consiliului Județean Vrancea nr. 63/2025 privind solicitarea transmiterii din domeniul public al UAT Comuna Vânători în domeniul public al",
+   "url": "https://cjvrancea.ro/hotarari/page/7/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/128.-Hotarare-aprobare-transmitere-DC-144-Vanatori.doc",
+     "sha256": "e58d3ea2800eff65b3b7e8c6570bfe75251ac617883ad9d57d8eea6d9b74d260"
     }
    ]
   },
@@ -168,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-141-2025",
+   "path": "local/judet/vrancea/2025/141",
+   "short": "HCJ Vrancea nr. 141/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 141/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/141.-Hotarare-rectificare-buget-iulie-2025.doc",
+     "sha256": "0d1c74fcc7e25b9b1200343ec56e4e4beb087317a73d0f62d8d502a43a4fa2c8"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-142-2025",
    "path": "local/judet/vrancea/2025/142",
    "short": "HCJ Vrancea nr. 142/2025",
@@ -179,6 +479,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/142.-Hot-Ro-Mandria-stejari.docx",
      "sha256": "68b0c6a117d78d53f9f411f535d344ad329b38bab602f174833e95ffeb7405bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-143-2025",
+   "path": "local/judet/vrancea/2025/143",
+   "short": "HCJ Vrancea nr. 143/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 143/2025 pentru obiectivul de investiții „Modernizare DJ 204D, sector Suraia – Vulturu km. 17+850 – km. 26+000, L=8,15 km., LOT I, sector Maluri – Maluri, km. 35+600 – km. 37+000, L=1,40 km., LOT II” județul Vrancea, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/07/143.-HCJ-apr.ind-act.DJ-204D.doc",
+     "sha256": "b78e32e6f72e6c2672ef03db96eb864bf63debf0b02d3141da6691b5d249a880"
     }
    ]
   },
@@ -198,6 +513,66 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-147-2025",
+   "path": "local/judet/vrancea/2025/147",
+   "short": "HCJ Vrancea nr. 147/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 147/2025 privind aprobarea funcționării Centrului Cultural Vrancea, așezământ cultural de drept public ca instituție gazdă de spectacole și/sau concerte; - văzând adresa Centrului Cultural Vrancea nr. 586/24.06.2025, înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/147.-HCJ-transformare-Centru-cultural-iulie-2025.doc",
+     "sha256": "7c71143aa6fb114fc2cd907891ff4579b7e0e412e06abd8fda258f02fe438ea0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-148-2025",
+   "path": "local/judet/vrancea/2025/148",
+   "short": "HCJ Vrancea nr. 148/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 148/2025 privind organizarea și funcționarea așezămintelor culturale, cu modificările și completările ulterioare; • prevederile art. 7 și art.8 alin. (2) din Ordonanța Guvernului nr.21/2007 privind instituțiile și companiile de spectacole sau concerte, precum și desfășurarea activității de impresariat artistic, cu modificările și completările ulterioare; • prevederile art.12 din Anexa nr.1 la Ordinul minis",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/HCJ-148-org-stat-fc-Centru-cultural-iulie-2025.doc",
+     "sha256": "7595f6a5cc20295ef52ae5fa00d0ad735ae8895dd4b2583f8e9e4069e9536985"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-149-2025",
+   "path": "local/judet/vrancea/2025/149",
+   "short": "HCJ Vrancea nr. 149/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 149/2025 privind neexercitarea dreptului de preempțiune la vânzarea imobilului monument istoric ,,Casa Cristache Solomon”, cod VN-II-m-B-06436 situat în Municipiul Focșani, bld. Gării, nr.22, tarla 37, P2326, P2327, P2328, identificat în cartea funciară nr. 58453, județul Vrancea; - având în vedere adresa Direcției Județene pentru Cultură Vrancea nr. 976/15.07.2025 înregistrată la",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/149.Hot-neexercitare-drept-preemptiune-Casa-Cristache-Solomon.doc",
+     "sha256": "4a37bf460ea6fa15d9d4f7862eb9e0872e1ffe6d10a92aa87a3f28541ac80a88"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-150-2025",
+   "path": "local/judet/vrancea/2025/150",
+   "short": "HCJ Vrancea nr. 150/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 150/2025 privind retragerea dreptului de administrare Direcției Generale de Asistență Socială și Protecția Copilului Vrancea asupra imobilelor construcție C2 și teren în suprafață de 873 mp, situate în municipiul Focșani, b-dul",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/150.-Hotarare-retragere-administrare-imobil-C2.doc",
+     "sha256": "64db8b85961d6b74f9fbc23870d452a37673439e01b564fc0e823f357e838570"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-151-2025",
    "path": "local/judet/vrancea/2025/151",
    "short": "HCJ Vrancea nr. 151/2025",
@@ -213,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-153-2025",
+   "path": "local/judet/vrancea/2025/153",
+   "short": "HCJ Vrancea nr. 153/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 153/2025 privind transmiterea solicitării de trecere a imobilelor terenuri și construcții, identificate în municipiul Focșani, str",
+   "url": "https://cjvrancea.ro/hotarari/page/6/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/hot-153-transmitere-solicitare-terenuri-si-constructii-Pomicola.doc",
+     "sha256": "55bd33b8737969d922170960b2180b08c2273d0455149d7273fc05ddc229df12"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-154-2025",
+   "path": "local/judet/vrancea/2025/154",
+   "short": "HCJ Vrancea nr. 154/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 154/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/hot-154-rectificare-buget-august-2025-V1.doc",
+     "sha256": "372f3943e1c9ec284d3f2705655ea031b557a4fdd61b47e6c1a0855d6f445593"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-155-2025",
    "path": "local/judet/vrancea/2025/155",
    "short": "HCJ Vrancea nr. 155/2025",
@@ -224,6 +629,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/hot-155.docx",
      "sha256": "1682a4c9775ac22e48b17aad13b00d4f206fc50cddf65de908ac30317979f740"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-156-2025",
+   "path": "local/judet/vrancea/2025/156",
+   "short": "HCJ Vrancea nr. 156/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 156/2025 privind preluarea imobilului teren în suprafață totală de 2.485.290 mp, din domeniul public al Orașului Mărășești în domeniul public al Județului Vrancea ; - ținând cont de : - Hotărârea Consiliului Județean Vrancea nr. 152 din 11 august 2025 privind „Solicitarea trecerii imobilului teren în suprafață totală de 2.485.290 mp, din domeniul public al Orașului Mărășești în domeniul public al Județului",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/08/156.-Hotarare-teren-Marasesti-suprafata-2485290-mp.doc",
+     "sha256": "24075c61b521c2c5c1c4697056867d7063c7ff90e16ad1122de64d21513bdfdc"
     }
    ]
   },
@@ -273,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-160-2025",
+   "path": "local/judet/vrancea/2025/160",
+   "short": "HCJ Vrancea nr. 160/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 160/2025 pentru obiectivul de investiție „Desființare împrejmuire, construire împrejmuire și platformă” - Baza Salvamont Soveja",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/160.-HCJ-aprobare-DALI-si-indicatori-Soveja.doc",
+     "sha256": "bb9c5299cb136544a205df41802241918467cdfcdd5686a813a4daef98bb3bc4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-161-2025",
    "path": "local/judet/vrancea/2025/161",
    "short": "HCJ Vrancea nr. 161/2025",
@@ -288,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-162-2025",
+   "path": "local/judet/vrancea/2025/162",
+   "short": "HCJ Vrancea nr. 162/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 162/2025 pentru anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/162.-HOTARARE-modif-pret-prd-agricole-pt-2025.doc",
+     "sha256": "150ee075760e36d52c68f63a2c0b8edd9f469c8437f45b1e714e5e2d3112697d"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-164-2025",
    "path": "local/judet/vrancea/2025/164",
    "short": "HCJ Vrancea nr. 164/2025",
@@ -299,6 +749,36 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/hot-164-solicitare-preluare-558-012-mp-teren-Marasesti-Copie.docx",
      "sha256": "af2dcccbcea50814c0a00ef237a65cd9123ab19a39a67cf51c4404dc4ea8c8a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-166-2025",
+   "path": "local/judet/vrancea/2025/166",
+   "short": "HCJ Vrancea nr. 166/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 166/2025 pentru accelerarea procesului de dezinstituționalizare și de prevenire a instituționalizării la nivelul județului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/166.-Hot.-Comitet-dezinstitutionalizare.doc",
+     "sha256": "260c4a42a52145b829fc61f2671af2d8f5616026e28a2cba7d97a31d4d22824f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-167-2025",
+   "path": "local/judet/vrancea/2025/167",
+   "short": "HCJ Vrancea nr. 167/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 167/2025 privind validarea componenței Autorității Teritoriale de Ordine Publică Vrancea; - potrivit dispozițiilor art. 17 alin.3) din Legea nr. 218/2002 privind organizarea si funcționarea Poliției Române, republicată, cu modificările și completările ulterioare; - conform prevederilor art.9 și art.19 din HG nr.787/2002 pentru aprobarea Regulamentului de organizare și funcționare a Autorității Teritoriale",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/167.-HCJ_atop.doc",
+     "sha256": "8ac363f8aa0450c5701bcf4f57cd562643e48bac2296e249b5d14e2796ca5b05"
     }
    ]
   },
@@ -333,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-170-2025",
+   "path": "local/judet/vrancea/2025/170",
+   "short": "HCJ Vrancea nr. 170/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 170/2025 privind modificarea Hotărârii Consiliului Județean Vrancea nr. 152/21.06.2024; - luând în considerare: - Hotărârea Consiliului Județean Vrancea nr. 152/2024 privind valorificarea prin vânzare la licitație a masei lemnoase pe picior aferentă unui număr de 147 arbori cu un volum brut total de 408,32 m.c.; - Hotărârea Consiliului Județean Vrancea nr. 262/2024 privind modificarea Hotărârii Consiliului",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/170.-Hotarare-modificarea-HCJ-nr.-152-21.06.2024.doc",
+     "sha256": "15261562db672af18c1877aa879c9bde9d259c341043e2fab24f2829c0d11564"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-171-2025",
    "path": "local/judet/vrancea/2025/171",
    "short": "HCJ Vrancea nr. 171/2025",
@@ -359,6 +854,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/172.-Hot-act-valori-de-inv-si-elem-de-ident.docx",
      "sha256": "7151bcb38f9855d5190a1f5dcb9c5c5a8b1724ba01110a9c3b63b04d06080c6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-173-2025",
+   "path": "local/judet/vrancea/2025/173",
+   "short": "HCJ Vrancea nr. 173/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 173/2025 pentru imobilul Spital de Psihiatrie Cronici Dumbrăveni, identificat la poziția 196 în anexa domeniului public al Județului Vrancea",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/Hotarare-actualizare-Dumbraveni-dupa-APARTAMENTARE-.doc",
+     "sha256": "423ff6118bac05b3fa1d308d8f40b5d85edc2430797476e826e37e104fb16839"
     }
    ]
   },
@@ -393,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-177-2025",
+   "path": "local/judet/vrancea/2025/177",
+   "short": "HCJ Vrancea nr. 177/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 177/2025 privind solicitarea trecerii bunului ”Pasaj Superior KM 218+905” situat în orașul Mărășești, din domeniul public al statului și administrarea Ministerului Transporturilor și Infrastructurii în domeniul public al județului Vrancea și administrarea Consiliului Județean Vrancea; - văzând adresele Companiei Naționale de Căi Ferate ”CFR S.A” București nr. 730/MF/172/29.03.2023 și nr. 730/TH/137/13.02.2",
+   "url": "https://cjvrancea.ro/hotarari/page/5/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/hot-177-Pasaj.doc",
+     "sha256": "908b76aada4019999f91fecfe737b5fcbada24d851dcf58488b7b37b5997da99"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-179-2025",
    "path": "local/judet/vrancea/2025/179",
    "short": "HCJ Vrancea nr. 179/2025",
@@ -419,6 +944,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/hot-180-declansare-procedura-selectie.docx",
      "sha256": "76babd462aa6d388d9f38be828dfe95786cbe8b16180aac211b94acb7fe8e020"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-183-2025",
+   "path": "local/judet/vrancea/2025/183",
+   "short": "HCJ Vrancea nr. 183/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 183/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/09/hot-183-rectificare-buget-septembrie-OK-2025.doc",
+     "sha256": "f71d2c6b04a55148c8e5deec7e9a2ab590ee8faba83223a3d0ecc966c37f3af1"
     }
    ]
   },
@@ -513,6 +1053,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-194-2025",
+   "path": "local/judet/vrancea/2025/194",
+   "short": "HCJ Vrancea nr. 194/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 194/2025 pentru obiectivul de investiție „Modernizare infrastructură rutieră de drum județean 205P dintre localitățile Ivăncești - Făurei, Precistanu - Balta Raței - Mircești și DJ 204D - Mândrești - DN 23”",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/194.-HCJ-DG-si-ind-tehn-ec-DJ-205P.doc",
+     "sha256": "1dca215da7a133b06a920485344124062476cd0d2d7fceaca958e14bdce1ccf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-196-2025",
+   "path": "local/judet/vrancea/2025/196",
+   "short": "HCJ Vrancea nr. 196/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 196/2025 pentru obiectivul de investiții ,,Demolare Corp B din cadrul Centrului Militar Zonal Județean”",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/Hot.-196-bun.doc",
+     "sha256": "4f3ded2512a4e13e88cb530444e8cc55adc4667be72b8d7514aef0bdeb227745"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-197-2025",
    "path": "local/judet/vrancea/2025/197",
    "short": "HCJ Vrancea nr. 197/2025",
@@ -524,6 +1094,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/197.-Hot-NC-TP-foisor-si-magazie-Praslea.docx",
      "sha256": "d4f1bf8ce00d988cf1f80480e466863d5cd644e5ad3c7ddf075f286ab17e6921"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-198-2025",
+   "path": "local/judet/vrancea/2025/198",
+   "short": "HCJ Vrancea nr. 198/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 198/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/4/?an=2025",
+     "sha256": "e650459536a6321859f938742308818a9b47e07780e657085bc6919b5444fb99"
     }
    ]
   },
@@ -603,6 +1188,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-205-2025",
+   "path": "local/judet/vrancea/2025/205",
+   "short": "HCJ Vrancea nr. 205/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 205/2025 pentru obiectivul de investiții “Consolidare și reabilitare Spital de Psihiatrie Cronici Dumbrăveni, Județul Vrancea”",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/Hot-205-aprobare-DALI-Spital-Dumbraveni-V.2.doc",
+     "sha256": "03da5fc41c5c8bd3f507cf2ecc8288286e6d48e01ea0e6ec9f1582c09dfd7ca5"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-206-2025",
    "path": "local/judet/vrancea/2025/206",
    "short": "HCJ Vrancea nr. 206/2025",
@@ -629,6 +1229,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/Hot-207.docx",
      "sha256": "060e834657462a572e4afda4d68efd507ff8c5b94037ac8a80f5f32c4532c9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-208-2025",
+   "path": "local/judet/vrancea/2025/208",
+   "short": "HCJ Vrancea nr. 208/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 208/2025 pentru obiectivul de investiții “Consolidare și restaurare Casa Apostoleanu - C1 și C2, str",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/Hot-208-aprobare-indicatori-faza-DALI-Apostoleanu-V3-1.doc",
+     "sha256": "6f5999a1ff1e1d96155beb1f3249e911dd990b8d105f6152bd0c43791376b434"
     }
    ]
   },
@@ -663,6 +1278,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-213-2025",
+   "path": "local/judet/vrancea/2025/213",
+   "short": "HCJ Vrancea nr. 213/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 213/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+     "sha256": "ded995f62700dba51d7043b6dc12844aa65f285bbb4ffef1f3efd242c37b7932"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-214-2025",
    "path": "local/judet/vrancea/2025/214",
    "short": "HCJ Vrancea nr. 214/2025",
@@ -693,6 +1323,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-216-2025",
+   "path": "local/judet/vrancea/2025/216",
+   "short": "HCJ Vrancea nr. 216/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 216/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/216.-Hotarare-rectificare-buget-octombrie-2025.doc",
+     "sha256": "62a9582412dae18988cd986e51fc3d04647a5f1c313b19e1faea92bc2d831d07"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-217-2025",
    "path": "local/judet/vrancea/2025/217",
    "short": "HCJ Vrancea nr. 217/2025",
@@ -704,6 +1349,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/217.-HCJ-actualizare-documentatii-si-indicatori-pod-pe-DJ-205E.docx",
      "sha256": "db7ba190ebf255926de945970918970ad10a28407706ef8729441543c9fbb87b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-218-2025",
+   "path": "local/judet/vrancea/2025/218",
+   "short": "HCJ Vrancea nr. 218/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 218/2025 pentru perioada 2021–2027",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/218.-HCJ-actualizare-strategie-Dumbraveni.doc",
+     "sha256": "aa8340765b6e808f533460ca7110d1d4cc274b98776c2851ff05211375e5e922"
     }
    ]
   },
@@ -734,6 +1394,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/221.-HCJV-aprobare-PT-Casa-Apostoleanu.docx",
      "sha256": "5d50ef27a0969b1193022ae7778a0622363e6a607cb35e296912bce836803f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-223-2025",
+   "path": "local/judet/vrancea/2025/223",
+   "short": "HCJ Vrancea nr. 223/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 223/2025 pentru obiectivul de investiții \"Consolidare și reabilitare Palat Administrativ – Corp A\"",
+   "url": "https://cjvrancea.ro/hotarari/page/3/?an=2025",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/10/223.-HCJ-actualizare-indicatori-faza-dali-Corp-A-2025.doc",
+     "sha256": "c9ec71c702ba68f859624a16c0e223bb0175a629872867481b4d627d1b3e812d"
     }
    ]
   },
@@ -798,6 +1473,21 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-229-2025",
+   "path": "local/judet/vrancea/2025/229",
+   "short": "HCJ Vrancea nr. 229/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 229/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-11-10",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/11/229.-Hotarare-rectificare-buget-noiembrie-2025.doc",
+     "sha256": "81f450d363ddda5c320c4dd9ff2494161511e0081dc709623e9e16864f56f076"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-230-2025",
    "path": "local/judet/vrancea/2025/230",
    "short": "HCJ Vrancea nr. 230/2025",
@@ -828,6 +1518,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-235-2025",
+   "path": "local/judet/vrancea/2025/235",
+   "short": "HCJ Vrancea nr. 235/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 235/2025 privind însușirea documentațiilor cadastrale aferente DJ 205B în vederea dezlipirii; - luând act de: - Hotărârea Guvernului nr. 630 din 30 iunie 2010 pentru modificarea anexei nr. 1 la Hotărârea Guvernului nr. 908/2002 privind atestarea domeniului public al județului Vrancea, precum și al municipiilor, orașelor și comunelor din județul Vrancea; - Anexa nr. 12 “Inventarul bunurilor care alcătuiesc",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot-235-insusire-doc.-cad.-dezm.-teren-pod-Sturza-205B.doc",
+     "sha256": "91ea6f3ef481255dc63ae4bff5f16418c3d9647c35a03320e76ef96925d0945b"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-240-2025",
+   "path": "local/judet/vrancea/2025/240",
+   "short": "HCJ Vrancea nr. 240/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 240/2025 pentru obiectivul de investiții ,,Pod din beton armat pe DJ 205 B, peste râul Șușița, localitatea Satu Nou, oraș Panciu, judetul Vrancea, L=155,00 m, km 49+870”",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot-240-DALI-si-ind.-tehn.-DJ205B-pod-Susita-Copie-Copie.doc",
+     "sha256": "50245a1db61e08e598ca30a7bd40c0bee2ef0d1fac9001564937a0be1e0e2bf4"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-241-2025",
    "path": "local/judet/vrancea/2025/241",
    "short": "HCJ Vrancea nr. 241/2025",
@@ -843,6 +1563,36 @@
    ]
   },
   {
+   "slug": "hcj-vrancea-243-2025",
+   "path": "local/judet/vrancea/2025/243",
+   "short": "HCJ Vrancea nr. 243/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 243/2025 privind prelungirea termenului de transmitere din administrarea Consiliului Județean Vrancea, în administrarea Consiliului Local Ploscuțeni a sectorului de drum județean DJ 252, identificat în Cartea Funciară nr. 51164 Ploscuțeni, în vederea realizării investiției „Dezvoltarea durabilă a transportului verde în Comuna Ploscuțeni, Județul Vrancea – realizarea de piste pentru biciclete și instalarea",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot-243-HOTARARE-PLOSCUTENI-PRELUNGIRE-DJ-252.doc",
+     "sha256": "c030852c8a00c0cfce3ba3873cc620d1ee4ddcea9e5546e5f5efa9c328503a08"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-244-2025",
+   "path": "local/judet/vrancea/2025/244",
+   "short": "HCJ Vrancea nr. 244/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 244/2025 privind transmiterea din administrarea Consiliului Județean Vrancea în administrarea Consiliului Local al comunei Dumitrești a sectorului de drum județean DJ 204 P de la Km 27+250 la Km 34+245, în vederea efectuării unor lucrări de modernizare",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot.-244-HCJ-11-2025-val-DJ-204P-CL-Dumitresti.doc",
+     "sha256": "41e717c27f75250e1ba3f1784031bd3f55d0f44d9021fff82afda990698f2964"
+    }
+   ]
+  },
+  {
    "slug": "hcj-vrancea-245-2025",
    "path": "local/judet/vrancea/2025/245",
    "short": "HCJ Vrancea nr. 245/2025",
@@ -854,6 +1604,51 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hotarare-insusire-doc.-cad-si-actualizare-inventar-Crang-.docx",
      "sha256": "5dcf9d4a9e0027bfda96d97e0793aefa10ab42006ed7380d0904d879405b585c"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-247-2025",
+   "path": "local/judet/vrancea/2025/247",
+   "short": "HCJ Vrancea nr. 247/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 247/2025 pentru obiectivul de investiție ,, Reabilitare pod din beton armat pe DJ 204 G, peste râul Putna, comuna Vulturu, sat Boțârlău, km. 16+550”",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Pr-HCJ-act.-DG-si-indicatori-la-pod-Botirlau-Copie.doc",
+     "sha256": "b2dba948e4ddf4ca870996df356f7e9f66e30c9dd4cb75b5ad8e5d3125e852e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-249-2025",
+   "path": "local/judet/vrancea/2025/249",
+   "short": "HCJ Vrancea nr. 249/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 249/2025 pentru obiectivul de investiții Amenajarea Zonei de Agrement și Îmbunătățirea Infrastructurii de Acces în Stațiunea Soveja",
+   "url": "https://cjvrancea.ro/hotarari/page/2/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/hot-actualizare-indicatori-Soveja.doc",
+     "sha256": "b26b01b5b0ae7c202e419b29415d5964684a30876023d219f58240f50dc0e989"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-25-2025",
+   "path": "local/judet/vrancea/2025/25",
+   "short": "HCJ Vrancea nr. 25/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 25/2025 pentru nominalizarea membrilor Autorității Teritoriale de Ordine Publică Vrancea înregistrată la Consiliului Județean Vrancea sub nr.3075/20.02.2025; - ținând cont de Hotărârea Consiliului Județean Vrancea nr.1/30.01.2025 privind desemnarea unor consilieri județeni care vor face parte din Autoritatea Teritorială de Ordine Publică Vrancea; - luând act de Dispoziția Președintelui Consiliului Judetea",
+   "url": "https://cjvrancea.ro/hotarari/page/11/?an=2025",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/03/25.-HCJ_Comisie-ATOP.doc",
+     "sha256": "a461951d11e5c7e856bbeb4cb5dd13d156ef6a8d9692494702dea2f701fca79c"
     }
    ]
   },
@@ -944,6 +1739,21 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/Hot-261-din-2-decembrie-2025.docx",
      "sha256": "55ff1e48263a55f5a3c54183fb1374c4cd848b44b45bc7d7939543c62baf9757"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-263-2025",
+   "path": "local/judet/vrancea/2025/263",
+   "short": "HCJ Vrancea nr. 263/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 263/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/hot.-263-rectificare-buget.doc",
+     "sha256": "fcc9a9e2747fcc2218f19e8b64b829c4d45fd965c474eb9af0e97717a689bc59"
     }
    ]
   },
@@ -1064,6 +1874,96 @@
      "units": 1,
      "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/poiect-HCJ.docx",
      "sha256": "c8b704a330dcaa0fb158058145044d06d5cb2b9ffc8421c1ab49429c579ab203"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-277-2025",
+   "path": "local/judet/vrancea/2025/277",
+   "short": "HCJ Vrancea nr. 277/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 277/2025 pentru finanțarea Unității Administrativ – Teritoriale Județul Vrancea și a instituțiilor publice de sub autoritatea Consiliului Județean Vrancea, pe anul 2025",
+   "url": "https://cjvrancea.ro/hotarari/?an=2025",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/12/hot-277-rectificare-buget-decembrie-2025-1.doc",
+     "sha256": "59464415114cedf373fce0e80dee7b26beb80ef5aec4117948a97234ad1f1693"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-46-2025",
+   "path": "local/judet/vrancea/2025/46",
+   "short": "HCJ Vrancea nr. 46/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 46/2025 privind înființarea societății de interes județean SERVICII PUBLICE VRANCEA S.R.L",
+   "url": "https://cjvrancea.ro/hotarari/page/10/?an=2025",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/04/Hot.-46.-SCSERVICII-PUBLICE-SRL.pdf",
+     "sha256": "50955af4774272f216253e09ef2f4305db7a9687948b839526d72f1ee6d06c8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-59-2025",
+   "path": "local/judet/vrancea/2025/59",
+   "short": "HCJ Vrancea nr. 59/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 59/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/9/?an=2025",
+   "versions": [
+    {
+     "from": "2025-04-03",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/9/?an=2025",
+     "sha256": "1bd9bb56f243fa2502a43b36e00bb340ffe56644801e7e2c2b5ab3ac28629ee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-97-2025",
+   "path": "local/judet/vrancea/2025/97",
+   "short": "HCJ Vrancea nr. 97/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 97/2025 pentru acordarea de finanțări nerambursabile alocate de la bugetul local al județului Vrancea, pe anul 2025, în conformitate cu prevederile Legii nr. 350/2005",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/wp-content/uploads/2025/05/Hot-97-incheiere-contracte-350.doc",
+     "sha256": "a43d7c6177d51ee595399e0f9c29e5d313c2dd19283754d110a8448a17023579"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-98-2025",
+   "path": "local/judet/vrancea/2025/98",
+   "short": "HCJ Vrancea nr. 98/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 98/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+     "sha256": "5b9da18245000e3fcad86da0cb0a32d6cec4fac95a8e216ee090cc54b4f4f49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcj-vrancea-99-2025",
+   "path": "local/judet/vrancea/2025/99",
+   "short": "HCJ Vrancea nr. 99/2025",
+   "title": "Hotărârea Consiliului Județean Vrancea nr. 99/2025",
+   "url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://cjvrancea.ro/hotarari/page/8/?an=2025",
+     "sha256": "7bca9a8888b09fabd9ddeb3edf9f49f9ff47062ed1de0fc96d041edf30a60964"
     }
    ]
   }

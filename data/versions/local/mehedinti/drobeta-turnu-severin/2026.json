@@ -3,6 +3,21 @@
  "shard": "local/mehedinti/drobeta-turnu-severin/2026",
  "acts": [
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-103-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/103",
+   "short": "HCL Drobeta-Turnu Severin nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 103/2026 privind aprobarea organigramei și a statului de funcţii publice ale Direcției de Poliție Locală Drobeta Turnu Severin, precum și aprobarea Metodologiei și a Regulamentului de examen pentru reorganizare",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270367",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99594/METODOLOGIE%20%C8%98I%20REGULAMENT%20EXAMEN.doc",
+     "sha256": "486414344a65c769562775f61604bb41b0e255831aeb13765097056a281aee92"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-107-2026",
    "path": "local/mehedinti/drobeta-turnu-severin/2026/107",
    "short": "HCL Drobeta-Turnu Severin nr. 107/2026",
@@ -29,6 +44,21 @@
      "units": 1,
      "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270372",
      "sha256": "665719672f4cbba28d0769ac33edee72e68b32b9982fa4e30bec2eb5febf9818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-115-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/115",
+   "short": "HCL Drobeta-Turnu Severin nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 115/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270379",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99611/Anexa%20HCL.doc",
+     "sha256": "b50325eb24f54756581c31bdb72c8b580a6200e240878ca22264f9426643cb2a"
     }
    ]
   },
@@ -138,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-182-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/182",
+   "short": "HCL Drobeta-Turnu Severin nr. 182/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 182/2026 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/290335",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/109656/BUGET%20RECTIFICARE%20SEPTEMBRIE.xlsx",
+     "sha256": "7081e40d8d14f0757667e2ba9b44d2ed480590a44868c3ba68ee90eaafddac6b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-2-2026",
    "path": "local/mehedinti/drobeta-turnu-severin/2026/2",
    "short": "HCL Drobeta-Turnu Severin nr. 2/2026",
@@ -149,6 +194,66 @@
      "units": 1,
      "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/89470/ROF%20serviciul%20de%20asistenta%20comunitara.doc",
      "sha256": "5645caca5cccb7d942e4b58d3fdfd6b9b2ab1dd9707eaf1ae81575c98d97b98e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-206-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/206",
+   "short": "HCL Drobeta-Turnu Severin nr. 206/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 206/2026 privind numirea reprezentanților Consiliului Local în comisiile pentru evaluarea și asigurarea calității, ale unităților de învățământ preuniversitar din municipiul Drobeta Turnu Severin, județul Mehedinți",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/290359",
+   "versions": [
+    {
+     "from": "2026-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/109710/anexa%20206.pdf",
+     "sha256": "0ee25907baa6cf237e9e764aa3273a9e6f82ecc878f7a5a6665aa5adc73e638d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-208-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/208",
+   "short": "HCL Drobeta-Turnu Severin nr. 208/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 208/2026 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/292880",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/112205/BUGET%20RECTIFICARE%20OCTOMBRIE%20cu%20amendament.xlsx",
+     "sha256": "cdee5635b0e41a8074f88486284da8a0cab4256492585854a6ff14549872b4d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-39-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/39",
+   "short": "HCL Drobeta-Turnu Severin nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 39/2026 privind aprobarea bilanțului societății Termoficare Gaz Drobeta SRL din subordinea Consiliului Local al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260618",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/94277/Anex%C4%83.pdf",
+     "sha256": "bdd93f499aaf625281642e77f783eab685679f22be4fdfcdf2325431b2da9079"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-42-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/42",
+   "short": "HCL Drobeta-Turnu Severin nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 42/2026 privind aprobarea casării mijloacelor fixe aparținând Școlii Postliceale Sanitare",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260621",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/94279/ANEXA.pdf",
+     "sha256": "0789bf6097f155e1c1829b614011d9b3421626fd3f7c1f454bff77ae19d169ba"
     }
    ]
   },
@@ -168,6 +273,36 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-5-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/5",
+   "short": "HCL Drobeta-Turnu Severin nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 5/2026 privind vânzarea directă, fără licitație publică, a terenului în suprafață de 300 mp situat în Drobeta Turnu Severin, strada Iasomiei, nr. 40, identificat prin NC 51579",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/249565",
+   "versions": [
+    {
+     "from": "2026-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/89472/ANEXA.pdf",
+     "sha256": "ea6821e7aba0da7e2863caeb3995183278e70233113ccc4ee24538f88d96ebdf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-54-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/54",
+   "short": "HCL Drobeta-Turnu Severin nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 54/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260633",
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/94290/Anexa%20HCL.doc",
+     "sha256": "0c6cfdf043e31306bbd0e027396a019e41e7c362e0ad714c5abc22408513fdae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--drobeta-turnu-severin-55-2026",
    "path": "local/mehedinti/drobeta-turnu-severin/2026/55",
    "short": "HCL Drobeta-Turnu Severin nr. 55/2026",
@@ -179,6 +314,66 @@
      "units": 1,
      "source_url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/260634",
      "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-81-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/81",
+   "short": "HCL Drobeta-Turnu Severin nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 81/2026 privind atestarea inventarului bunurilor care aparțin domeniului public al Municipiului Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/265000",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/96436/Anexa%20HCL.doc",
+     "sha256": "0cbd9f5381096162a9e844878b7c786a504107d5f9448a6e55bb949e6e2e8389"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-82-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/82",
+   "short": "HCL Drobeta-Turnu Severin nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 82/2026 privind repartizarea a două locuințe tip ANL, rămase libere din punct de vedere juridic, situate în Municipiul Drobeta Turnu Severin",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/265001",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/96438/Anexa.pdf",
+     "sha256": "3dcf97502e32919dd7e7c13f6b5266a00d42b25afd78fddea887fb6dccee5224"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-93-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/93",
+   "short": "HCL Drobeta-Turnu Severin nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 93/2026 privind aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare,detaliat pe capitole și surse de finanțare, la nivelul bugetului local al municipiului Drobeta Turnu Severin pe anul 2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/266961",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/97672/Final%20Raportul%20privind%20rezultatele%20etichet%C4%83rii%20cheltuielilor%20bugetare%20detaliat%20pe%20capitole%20%C8%99i%20surse%20de%20finan%C8%9Bare.xlsx",
+     "sha256": "862593819f483bf3ce88017504ecd8fbf39b4754b4e881cc448b0dda5179d637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--drobeta-turnu-severin-95-2026",
+   "path": "local/mehedinti/drobeta-turnu-severin/2026/95",
+   "short": "HCL Drobeta-Turnu Severin nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Drobeta-Turnu Severin nr. 95/2026 privind rectificarea bugetului de venituri și cheltuieli al Consiliului Local pe anul 2026",
+   "url": "https://emol.ro/drobeta-turnuseverin-mh/registru-hcl/270359",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pluginfile.php/1/local_emol/documenthcl/99572/BUGET%20RECTIFICARE%20MAI%20.xlsx",
+     "sha256": "52e4b2974cb6e637db7e2609ab1ffee40887b05d0e1f812085c36f83125413fd"
     }
    ]
   }

@@ -3,6 +3,51 @@
  "shard": "local/mehedinti/orsova/2025",
  "acts": [
   {
+   "slug": "hcl-mehedinti--orsova-1-2025",
+   "path": "local/mehedinti/orsova/2025/1",
+   "short": "HCL Orșova nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 1/2025 privind aprobarea utilizarii partiala a excedentului anual al bugetului local si aprobarea deficitului pentru anul 2024 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hcl-nr.-1-din-08.01.2025-SKM_22725010912490.pdf",
+     "sha256": "64aec58752bbaa38bb23adedc1b859a6ca90d8d897f3803bde956bf8653018b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-10-2025",
+   "path": "local/mehedinti/orsova/2025/10",
+   "short": "HCL Orșova nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 10/2025 privind aprobarea componentei Consiliului Comunitar Consultativ la nivelul municipiului Orsova Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-10-din-10.02.2025-SKM_22725022410151.pdf",
+     "sha256": "354f1209d6668715664c84445e19aff06bf39d603f6151d88d05c7251c095eef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-11-2025",
+   "path": "local/mehedinti/orsova/2025/11",
+   "short": "HCL Orșova nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 11/2025 privind modificarea HCL nr. 60(12) privind desemnarea reprezentantilor Consiliului Local al municipiului Orsova,in Comisiile pentru evaluarea si asigurarea calitatii in unitatile de invatamant preuniversitar,pe raza municipiului Orsova,pentru anul scolar 2024-2025,adoptata la data de 12.12.2024 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-11-din-10.02.2025-SKM_22725022410160.pdf",
+     "sha256": "99d8f3ce9bd515dca9bb1b4bf8cb053476380be84c51a13817d34edc17341a62"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--orsova-18-2025",
    "path": "local/mehedinti/orsova/2025/18",
    "short": "HCL Orșova nr. 18/2025",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "https://primariaorsova.ro/storage/formidable/9/hcl-nr.-19-din-25.03.2025-SKM_22725040110520.pdf",
      "sha256": "645dfe5799002b1b5a0791f5cc7a9172c42c08852fa3be820b4116b4cc352abe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-2-2025",
+   "path": "local/mehedinti/orsova/2025/2",
+   "short": "HCL Orșova nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 2/2025 privind reprezentarea in justitie a Consiliului Local al municipiului Orsova in dosarul nr. 6242/101/2024 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hcl-nr.-2-din-08.01.2025-SKM_22725010912491.pdf",
+     "sha256": "9d61668ed1fc5201e5a2a584dd0637d624b852809b30afd54ecb98d56374bbb9"
     }
    ]
   },
@@ -119,6 +179,21 @@
      "units": 1,
      "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-29-din-30.05.2025-SKM_22725060509331.pdf",
      "sha256": "f8b93c5e649a5769c26115a927dacc41de50e482ca7a915d01ff0eb72c8aac73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-3-2025",
+   "path": "local/mehedinti/orsova/2025/3",
+   "short": "HCL Orșova nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 3/2025 privind aprobarea organizarii retelei scolare 2025-2026, a unitatilor de invatamant de pe raza municipiului Orsova Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-3-din-10.02.2025-SKM_22725022410090.pdf",
+     "sha256": "8010595d3958579672dcf993d8c94baff416582958f15611b571476b45a2be17"
     }
    ]
   },
@@ -273,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--orsova-4-2025",
+   "path": "local/mehedinti/orsova/2025/4",
+   "short": "HCL Orșova nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 4/2025 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru anul 2024 si adoptarea programului de masuri pentru eficientizarea acestei activitati Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-4-din-10.02.2025-SKM_22725022410100.pdf",
+     "sha256": "d7ab03bf36a84c672c0dee2236da3b3c918b080d84d558fc10380ade6333ef2c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--orsova-40-2025",
    "path": "local/mehedinti/orsova/2025/40",
    "short": "HCL Orșova nr. 40/2025",
@@ -318,6 +408,51 @@
    ]
   },
   {
+   "slug": "hcl-mehedinti--orsova-5-2025",
+   "path": "local/mehedinti/orsova/2025/5",
+   "short": "HCL Orșova nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 5/2025 privind modalitatea de inscriere a datelor in Regristru Agricol al UAT Orsova in perioada 2025-2029 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-5-din-10.02.2025-SKM_22725022410110.pdf",
+     "sha256": "6a8294d99b7245e910ce49300828811441d9c8e8b581eed0645b437776d72023"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-6-2025",
+   "path": "local/mehedinti/orsova/2025/6",
+   "short": "HCL Orșova nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 6/2025 privind aprobarea Programului de actiuni comunitare destinat prevenirii si combaterii riscului de saracie si excluziune sociala la nivelul municipiului Orsova pe anul 2025 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-6-din-10.02.2025-SKM_22725022410111.pdf",
+     "sha256": "32d78224c06055113d3554070eee93f5a59df3697c5af5b2cd9e35e552dc5a4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-7-2025",
+   "path": "local/mehedinti/orsova/2025/7",
+   "short": "HCL Orșova nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 7/2025 privind aprobarea Strategiei de dezvoltare a serviciilor sociale a Directiei de Asistenta Sociala Orsova pentru perioada 2025-2030 Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-7-din-10.02.2025-SKM_22725022410120.pdf",
+     "sha256": "af9ed039f636b4cb2e3f590219b900c1b19b309dc89ac151211e5dc33168ef6e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-mehedinti--orsova-72-2025",
    "path": "local/mehedinti/orsova/2025/72",
    "short": "HCL Orșova nr. 72/2025",
@@ -344,6 +479,21 @@
      "units": 1,
      "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-73-DIN-11.11.2025.pdf",
      "sha256": "6e0759eba5535ae2520c315f295196bcb7e381a9dbb31aeb82dd5a05e5b5cbae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-8-2025",
+   "path": "local/mehedinti/orsova/2025/8",
+   "short": "HCL Orșova nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 8/2025 privind aprobarea planului anual de actiune al Directiei de Asistenta Sociala Orsova privind serviciile sociale Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot-nr.-8-din-10.02.2025-SKM_22725022410130.pdf",
+     "sha256": "cee9d9964ab2097e4b1b3f9d61d68d1c5a7a6f871a14f8815c19f0296cfb6327"
     }
    ]
   },
@@ -449,6 +599,21 @@
      "units": 1,
      "source_url": "https://primariaorsova.ro/storage/formidable/9/HCL-89-adoptata-la-data-de-23.12.2025-Impozite-si-taxe-locale.pdf",
      "sha256": "e97287ebb6386cf4121034a4febc80624a58154daa830eb6b52efe12e3b78c33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-mehedinti--orsova-9-2025",
+   "path": "local/mehedinti/orsova/2025/9",
+   "short": "HCL Orșova nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Orșova nr. 9/2025 privind intocmirea inventarului anual al bunurilor care alcatuiesc domeniul public si privat al municipiului Orsova Vizualizare",
+   "url": "https://primariaorsova.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://primariaorsova.ro/storage/formidable/9/hot.-nr.-9-din-10.02.2025-SKM_22725022410150.pdf",
+     "sha256": "a184b7f7ba66e0f1e045f5dfb965a48822271ce23f38e9b664460a157a51483a"
     }
    ]
   }
