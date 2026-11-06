@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/satu-mare/satu-mare/2008",
+"acts": [
+{
+"slug": "hcl-satu-mare--satu-mare-112-2008",
+"path": "local/satu-mare/satu-mare/2008/112",
+"kind": "local",
+"year": "2008",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 112/2008",
+"short": "HCL Satu Mare nr. 112/2008",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2008-04-26",
+"latest": "2008-04-26",
+"portal": "https://www.primariasm.ro/hotararea-nr-11226042018",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,21 @@
  "shard": "local/prahova/ploiesti/2026",
  "acts": [
   {
+   "slug": "hcl-prahova--ploiesti-361-2026",
+   "path": "local/prahova/ploiesti/2026/361",
+   "short": "HCL Ploiești nr. 361/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Ploiești nr. 361/2026",
+   "url": "https://ploiesti.ro/hotarari/hcl-361-2026-2/",
+   "versions": [
+    {
+     "from": "2026-08-28",
+     "units": 1,
+     "source_url": "https://ploiesti.ro/hotarari/hcl-361-2026-2/",
+     "sha256": "3ee062fb07d002a3b863dc4d37be423d3b000607b62c1667cb20d475068d343a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--ploiesti-472-2026",
    "path": "local/prahova/ploiesti/2026/472",
    "short": "HCL Ploiești nr. 472/2026",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://ploiesti.ro/wp-content/uploads/2026/11/472_29.10.2026_modificare_HCL_314_din_2015.pdf",
      "sha256": "6072fbbfa23a42f1eb0af06dfc84a8ab8a8535e7d5dac9e2f210d7a6bd65875e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--ploiesti-627-2026",
+   "path": "local/prahova/ploiesti/2026/627",
+   "short": "HCL Ploiești nr. 627/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Ploiești nr. 627/2026",
+   "url": "https://ploiesti.ro/hotarari/hcl-364-2026/",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://ploiesti.ro/wp-content/uploads/2026/09/364_02.09.2026_anexa_actualizare_hotarare_627_2024.pdf",
+     "sha256": "37200f46325ad32221719f925aa21b34bb7acfe4ccd2a847b51093b6062cb30c"
     }
    ]
   }

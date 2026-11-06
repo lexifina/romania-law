@@ -15212,12 +15212,38 @@
    }
   },
   {
+   "shard": "local/olt/caracal/2002",
+   "kind": "local",
+   "file": "data/freshness/local/olt/caracal/2002.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/olt/caracal/2010",
+   "kind": "local",
+   "file": "data/freshness/local/olt/caracal/2010.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/olt/caracal/2012",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2012.csv",
-   "count": 10,
+   "count": 84,
    "by_status": {
-    "current": 5,
+    "current": 79,
     "pending-change": 0,
     "stale": 0,
     "unverified": 5,
@@ -15228,9 +15254,9 @@
    "shard": "local/olt/caracal/2013",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2013.csv",
-   "count": 10,
+   "count": 178,
    "by_status": {
-    "current": 6,
+    "current": 174,
     "pending-change": 0,
     "stale": 0,
     "unverified": 4,
@@ -15241,9 +15267,9 @@
    "shard": "local/olt/caracal/2014",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2014.csv",
-   "count": 66,
+   "count": 169,
    "by_status": {
-    "current": 66,
+    "current": 169,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15254,9 +15280,9 @@
    "shard": "local/olt/caracal/2015",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2015.csv",
-   "count": 7,
+   "count": 104,
    "by_status": {
-    "current": 6,
+    "current": 103,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -15267,9 +15293,9 @@
    "shard": "local/olt/caracal/2016",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2016.csv",
-   "count": 5,
+   "count": 58,
    "by_status": {
-    "current": 5,
+    "current": 58,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15280,9 +15306,9 @@
    "shard": "local/olt/caracal/2017",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2017.csv",
-   "count": 7,
+   "count": 125,
    "by_status": {
-    "current": 6,
+    "current": 124,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -15293,9 +15319,9 @@
    "shard": "local/olt/caracal/2018",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2018.csv",
-   "count": 13,
+   "count": 179,
    "by_status": {
-    "current": 13,
+    "current": 179,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15306,9 +15332,9 @@
    "shard": "local/olt/caracal/2019",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2019.csv",
-   "count": 13,
+   "count": 165,
    "by_status": {
-    "current": 13,
+    "current": 165,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15319,9 +15345,9 @@
    "shard": "local/olt/caracal/2020",
    "kind": "local",
    "file": "data/freshness/local/olt/caracal/2020.csv",
-   "count": 44,
+   "count": 77,
    "by_status": {
-    "current": 44,
+    "current": 77,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15436,9 +15462,9 @@
    "shard": "local/olt/slatina/2025",
    "kind": "local",
    "file": "data/freshness/local/olt/slatina/2025.csv",
-   "count": 1,
+   "count": 2,
    "by_status": {
-    "current": 1,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15540,9 +15566,9 @@
    "shard": "local/prahova/campina/2015",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2015.csv",
-   "count": 6,
+   "count": 38,
    "by_status": {
-    "current": 6,
+    "current": 38,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15553,9 +15579,9 @@
    "shard": "local/prahova/campina/2016",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2016.csv",
-   "count": 10,
+   "count": 52,
    "by_status": {
-    "current": 10,
+    "current": 52,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15566,9 +15592,9 @@
    "shard": "local/prahova/campina/2017",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2017.csv",
-   "count": 11,
+   "count": 78,
    "by_status": {
-    "current": 11,
+    "current": 78,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15579,9 +15605,9 @@
    "shard": "local/prahova/campina/2018",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2018.csv",
-   "count": 5,
+   "count": 90,
    "by_status": {
-    "current": 5,
+    "current": 90,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15592,9 +15618,9 @@
    "shard": "local/prahova/campina/2019",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2019.csv",
-   "count": 8,
+   "count": 84,
    "by_status": {
-    "current": 8,
+    "current": 84,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15605,9 +15631,9 @@
    "shard": "local/prahova/campina/2020",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2020.csv",
-   "count": 12,
+   "count": 95,
    "by_status": {
-    "current": 10,
+    "current": 93,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -15618,9 +15644,9 @@
    "shard": "local/prahova/campina/2021",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2021.csv",
-   "count": 11,
+   "count": 72,
    "by_status": {
-    "current": 11,
+    "current": 72,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15631,9 +15657,9 @@
    "shard": "local/prahova/campina/2022",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2022.csv",
-   "count": 5,
+   "count": 45,
    "by_status": {
-    "current": 4,
+    "current": 44,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -15641,12 +15667,25 @@
    }
   },
   {
+   "shard": "local/prahova/campina/2023",
+   "kind": "local",
+   "file": "data/freshness/local/prahova/campina/2023.csv",
+   "count": 28,
+   "by_status": {
+    "current": 28,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/prahova/campina/2024",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2024.csv",
-   "count": 1,
+   "count": 13,
    "by_status": {
-    "current": 1,
+    "current": 13,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -15657,9 +15696,22 @@
    "shard": "local/prahova/campina/2025",
    "kind": "local",
    "file": "data/freshness/local/prahova/campina/2025.csv",
-   "count": 1,
+   "count": 3,
    "by_status": {
-    "current": 1,
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/prahova/campina/2026",
+   "kind": "local",
+   "file": "data/freshness/local/prahova/campina/2026.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -18400,12 +18452,12 @@
    "shard": "ordin/2026",
    "kind": "ordin",
    "file": "data/freshness/ordin/2026.csv",
-   "count": 849,
+   "count": 850,
    "by_status": {
     "current": 9,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 840,
+    "unverified": 841,
     "source-unavailable": 0
    }
   },

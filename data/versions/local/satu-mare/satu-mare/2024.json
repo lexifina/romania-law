@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-136-2024",
+   "path": "local/satu-mare/satu-mare/2024/136",
+   "short": "HCL Satu Mare nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 136/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-13625042024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/136/hcl-136.docx",
+     "sha256": "eb84dbd55d5e60ce2976352db5a6f12a6501ea2d352804bfb1f730ad09d25dfa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-148-2024",
    "path": "local/satu-mare/satu-mare/2024/148",
    "short": "HCL Satu Mare nr. 148/2024",
@@ -29,6 +44,36 @@
      "units": 1,
      "source_url": "https://primariasm.ro/storage/hotarari/2024/148/hcl-148.docx",
      "sha256": "baf869c21c352ce70d9fbead320817eefa10c5f5fcfa5f27c8a417f47280b4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-161-2024",
+   "path": "local/satu-mare/satu-mare/2024/161",
+   "short": "HCL Satu Mare nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 161/2024 privind aprobarea proiectului „Sistem integrat de monitorizare a traficului și mobilitate inteligentă în Municipiul Satu Mare” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 30338/16.05.2024, referatul de aprobare al Primarului Municipiului Satu Mare înregistrat sub nr. 30339/16.05.2024, în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-16123052024",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/161/hcl-161.docx",
+     "sha256": "d2b2152ec7fd30f1271245706ee4ea4534ccb48f503abf24afff9e97a26e6f9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-192-2024",
+   "path": "local/satu-mare/satu-mare/2024/192",
+   "short": "HCL Satu Mare nr. 192/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 192/2024 privind aprobarea modalității de prestare a serviciului de transport public local de călători prin curse regulate pe raza administrativ teritorială a Municipiului Satu Mare în perioada 2024-2030 a documentației în vederea atribuirii și atribuirea prestării serviciului Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre nr. 27020/25.04.2024 conexat cu nr. 38415/27.06.2024, re",
+   "url": "https://www.primariasm.ro/hotararea-nr-19227062024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/192/hcl-192.doc",
+     "sha256": "79b3afe81290e530bda7cc74729464fe05807bbf5c6c6f41a1a1377942a7466e"
     }
    ]
   },
@@ -48,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-213-2024",
+   "path": "local/satu-mare/satu-mare/2024/213",
+   "short": "HCL Satu Mare nr. 213/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 213/2024 privind aprobarea proiectului „Sistem integrat de monitorizare a traficului și mobilitate inteligentă în Municipiul Satu Mare” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 37136/19.06.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 37138/19.06.2024 în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-21327062024",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/213/hcl-213.docx",
+     "sha256": "a7a6f8a07663f2cc9e368290a06e9d2cfc00cb0552cadc1fcb4406d7be39bb01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-228-2024",
+   "path": "local/satu-mare/satu-mare/2024/228",
+   "short": "HCL Satu Mare nr. 228/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 228/2024 privind aprobarea numărului de posturi bugetate, a organigramei și a statului de funcții ale Primăriei Municipiului Satu Mare Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 38839/28.06.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 38842/28.06.2024, în calitate de inițiator, raportul de specialitate al Serviciulu",
+   "url": "https://www.primariasm.ro/hotararea-nr-22830062024",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/228/hcl-228.doc",
+     "sha256": "73abe36a9518d841f78ca3c47468468b04e7aca3444119290d7c735c4949e2dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-230-2024",
+   "path": "local/satu-mare/satu-mare/2024/230",
+   "short": "HCL Satu Mare nr. 230/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 230/2024 privind aprobarea numărului de posturi bugetate, a organigramei, a statului de funcții și a regulamentului de organizare și funcționare general ale Serviciului Public Administrația Domeniului Public Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 37742/24.06.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr",
+   "url": "https://www.primariasm.ro/hotararea-nr-23030062024",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/230/hcl-230.doc",
+     "sha256": "da587322abe49b821843b9bf7e4954f2562555a02e141f1d6976dd00ef712e4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-231-2024",
+   "path": "local/satu-mare/satu-mare/2024/231",
+   "short": "HCL Satu Mare nr. 231/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 231/2024 privind aprobarea numărului de posturi bugetate, a organigramei, a statului de funcții și a regulamentului de organizare și funcționare ale Poliției Locale Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 38844/28.06.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 38846/28.06.2024, în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-23130062024",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/231/hcl-231.doc",
+     "sha256": "1e41daf69eed5ab3d803848651ed416520de65dcc0318ccab123e8584be9e897"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-234-2024",
+   "path": "local/satu-mare/satu-mare/2024/234",
+   "short": "HCL Satu Mare nr. 234/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 234/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-23430062024",
+   "versions": [
+    {
+     "from": "2024-06-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/234/hcl-234.doc",
+     "sha256": "26055487d69ba91e9952d62120bb32c137b2788cb9ca9d514b942291cb265fbc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-235-2024",
    "path": "local/satu-mare/satu-mare/2024/235",
    "short": "HCL Satu Mare nr. 235/2024",
@@ -63,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-237-2024",
+   "path": "local/satu-mare/satu-mare/2024/237",
+   "short": "HCL Satu Mare nr. 237/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 237/2024 privind aprobarea regulamentului de organizare și funcționare al Primăriei municipiului Satu Mare Consiliul Local al municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 40600/09.07.2024, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat cu nr. 40601/09.07.2024, în calitate de inițiator, raportul Serviciului Managementul Resurselor Umane din cadrul apar",
+   "url": "https://www.primariasm.ro/hotararea-nr-23711072024",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/237/hcl-237.doc",
+     "sha256": "00f7a26129b81d45eb093f6e3403262a6218e2718c4f7b55a0579352b6e1f225"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-238-2024",
    "path": "local/satu-mare/satu-mare/2024/238",
    "short": "HCL Satu Mare nr. 238/2024",
@@ -74,6 +209,21 @@
      "units": 1,
      "source_url": "https://primariasm.ro/storage/hotarari/2024/238/hcl-238.doc",
      "sha256": "05466d4c52064200d9f46bc5e83d249f86ab0feeba0bde0be1eb8bbf7e3c5fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-286-2024",
+   "path": "local/satu-mare/satu-mare/2024/286",
+   "short": "HCL Satu Mare nr. 286/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 286/2024 privind aprobarea statului de funcții și a regulamentului de organizare și funcționare general ale Serviciului Public Administrația Domeniului Public Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 53810/19.09.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 53813/19.09.2024, în calitate de inițiator, rapo",
+   "url": "https://www.primariasm.ro/hotararea-nr-28626092024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/286/hcl-286.doc",
+     "sha256": "9a62fce3b035b9cb270d1feabcbd38d3e2e7f78b50958a00497e5aa3bbebe99a"
     }
    ]
   },
@@ -108,6 +258,66 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-360-2024",
+   "path": "local/satu-mare/satu-mare/2024/360",
+   "short": "HCL Satu Mare nr. 360/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 360/2024 privind desemnarea reprezentanților Consiliului Local al Municipiului Satu Mare în Consiliul administrativ al Centrului Cultural G.M",
+   "url": "https://www.primariasm.ro/hotararea-nr-36028112024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/360/hcl-360.doc",
+     "sha256": "b0d5ca170319e60f72a68742b515e5048a3cf0cbe19912dd382d39873a03db24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-361-2024",
+   "path": "local/satu-mare/satu-mare/2024/361",
+   "short": "HCL Satu Mare nr. 361/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 361/2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-36128112024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/361/hcl-361.doc",
+     "sha256": "067e0c720d8152d1d3d95ceb26558a69aeb248b66d121402a6db8bc80b24bd60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-364-2024",
+   "path": "local/satu-mare/satu-mare/2024/364",
+   "short": "HCL Satu Mare nr. 364/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 364/2024 privind aprobarea Statului de funcții al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 65808/19.11.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 65809/19.11.2024, în calitate de inițiator, raportul de specialitate al Compartimentului Resurselor Umane, înregistrat sub nr. 65811/1",
+   "url": "https://www.primariasm.ro/hotararea-nr-36428112024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/364/hcl-364.doc",
+     "sha256": "ed437ee6dcf1fa0b2b07d501f43e5b40eb9c879944dcb5083dbc2b52677c0ff7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-365-2024",
+   "path": "local/satu-mare/satu-mare/2024/365",
+   "short": "HCL Satu Mare nr. 365/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 365/2024 privind aprobarea statului de funcții al Poliției Locale Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 66127/21.11.2024, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 66128/21.11.2024, în calitate de inițiator, raportul de specialitate al Compartimentului Resurse Umane, înregistrat sub nr. 66129/21.11.2024",
+   "url": "https://www.primariasm.ro/hotararea-nr-36528112024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/365/hcl-365.doc",
+     "sha256": "90a865dcd381df9835efd135edf517c85e809abda349cd39937f7dd3e08355de"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-398-2024",
    "path": "local/satu-mare/satu-mare/2024/398",
    "short": "HCL Satu Mare nr. 398/2024",
@@ -119,6 +329,21 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/2024/398/hcl-398-1.doc",
      "sha256": "e2a2223c6420c14cad49aa9809317dc823b56fe3b07b4e3e8f9efccc09fdd3ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-404-2024",
+   "path": "local/satu-mare/satu-mare/2024/404",
+   "short": "HCL Satu Mare nr. 404/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 404/2024 privind unele modificări aduse Anexei la H.C.L",
+   "url": "https://www.primariasm.ro/hotararea-nr-40419122024",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2024/404/hcl-404.doc",
+     "sha256": "98a78c41c9e1a70cb3e6829be10e8b22e124a8603f4fa44a8730a0933c5dd96d"
     }
    ]
   },

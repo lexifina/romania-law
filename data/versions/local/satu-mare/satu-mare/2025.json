@@ -3,6 +3,36 @@
  "shard": "local/satu-mare/satu-mare/2025",
  "acts": [
   {
+   "slug": "hcl-satu-mare--satu-mare-115-2025",
+   "path": "local/satu-mare/satu-mare/2025/115",
+   "short": "HCL Satu Mare nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 115/2025 pentru modificarea și completarea Anexei 4 și a Anexei 5.2 la Contractul de delegare în gestiune directă a serviciului de transport public local de călători în Municipiul Satu Mare, nr. 229-41958/15.07.2024, aprobat prin H.C.L",
+   "url": "https://www.primariasm.ro/hotararea-nr-11529052025",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/115/hcl-115.doc",
+     "sha256": "c2516251736bbfbd4871afc7438245de6937e42ce5e5325acb3be9d0a5bba66b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-152-2025",
+   "path": "local/satu-mare/satu-mare/2025/152",
+   "short": "HCL Satu Mare nr. 152/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 152/2025 pentru modificarea și completarea Anexei 4 la Contractul de delegare în gestiune directă a serviciului de transport public local de călători în Municipiul Satu Mare, nr. 229-41958/15.07.2024, aprobat prin H.C.L",
+   "url": "https://www.primariasm.ro/hotararea-nr-15226062025",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/152/hcl-152.doc",
+     "sha256": "3a06247bf72ba70f0651fe39bc6ebfc21c04f78f1d29b8e32ce0b58b29d8313d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-157-2025",
    "path": "local/satu-mare/satu-mare/2025/157",
    "short": "HCL Satu Mare nr. 157/2025",
@@ -14,6 +44,66 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/2025/157/hcl-157.doc",
      "sha256": "387b2d9625e988d84d39d50bfd69fc25144b1abf4db72718eaf32a2b9a2a1c48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-178-2025",
+   "path": "local/satu-mare/satu-mare/2025/178",
+   "short": "HCL Satu Mare nr. 178/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 178/2025 privind aprobarea statului de funcții al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 45187/23.07.2025, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat cu nr. 45188/23.07.2025, în calitate de inițiator, raportul de specialitate al Compartimentului Resurse Umane, înregistrat sub nr. 45189/23.0",
+   "url": "https://www.primariasm.ro/hotararea-nr-17830072025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/178/hcl-178.doc",
+     "sha256": "7973981beb762e78fde7304ab537892cc4d0a9509c44ffa4609bc4a1b2707513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-182-2025",
+   "path": "local/satu-mare/satu-mare/2025/182",
+   "short": "HCL Satu Mare nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 182/2025",
+   "url": "https://www.primariasm.ro/hotararea-nr-18230072025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/182/hcl-182.doc",
+     "sha256": "68c661cc6787bc96133af02c3ba67f12435546eab14a15b0ac00a6c7b0e280e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-193-2025",
+   "path": "local/satu-mare/satu-mare/2025/193",
+   "short": "HCL Satu Mare nr. 193/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 193/2025 privind aprobarea proiectului „Sistem integrat de monitorizare a traficului și mobilitate inteligentă în Municipiul Satu Mare” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 43816 16.07.2025, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat sub nr. 43825/16.07.2025 în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-19330072025",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/193/hcl-193.docx",
+     "sha256": "1dca615a372790a4e002af150e6df94f4c758f1d3d4a1666c805fca0c07b89ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-215-2025",
+   "path": "local/satu-mare/satu-mare/2025/215",
+   "short": "HCL Satu Mare nr. 215/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 215/2025 privind aprobarea proiectului „Sistem integrat de monitorizare a traficului și mobilitate inteligentă în Municipiul Satu Mare” și a cheltuielilor legate de proiect Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 50504/21.08.2025, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 50506/21.08.2025, în calitate de inițiator",
+   "url": "https://www.primariasm.ro/hotararea-nr-21528082025",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/215/hcl-215.docx",
+     "sha256": "d140c5332d9d6247f15fb38e2cfc0a9b176f6a54a6f3919952719106bdcae195"
     }
    ]
   },
@@ -48,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-309-2025",
+   "path": "local/satu-mare/satu-mare/2025/309",
+   "short": "HCL Satu Mare nr. 309/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 309/2025 privind aprobarea statului de funcții al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 71403/05.12.2025, referatul de aprobare al Primarului municipiului Satu Mare, înregistrat cu nr. 71405/05.12.2025, în calitate de inițiator, raportul de specialitate al Compartimentului Resurse Umane, înregistrat sub nr. 71413/05.1",
+   "url": "https://www.primariasm.ro/hotararea-nr-30909122025",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/309/hcl-309.doc",
+     "sha256": "c619ef530f522954a163c07d1b0722edd4db4d5c9c4aecae057dbca3dafd299c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-313-2025",
+   "path": "local/satu-mare/satu-mare/2025/313",
+   "short": "HCL Satu Mare nr. 313/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 313/2025 pentru modificarea și completarea H.C.L",
+   "url": "https://www.primariasm.ro/hotararea-nr-31318122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/313/hcl-313.doc",
+     "sha256": "21aecaa72e339787b40079bf01881d5a2cd9e58cfe2c118997ad7879d9f9432e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-314-2025",
    "path": "local/satu-mare/satu-mare/2025/314",
    "short": "HCL Satu Mare nr. 314/2025",
@@ -59,6 +179,216 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/2025/314/hcl-314.doc",
      "sha256": "6b11a595162b83470454a62fed93761c50322c0d71f813d87e42e24c82661a13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-327-2025",
+   "path": "local/satu-mare/satu-mare/2025/327",
+   "short": "HCL Satu Mare nr. 327/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 327/2025 privind aprobarea Protocolului de colaborare între UAT Municipiul satu Mare și S.C",
+   "url": "https://primariasm.ro/hotararea-nr-32718122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/327/hcl-327.doc",
+     "sha256": "6c68dd552fed5ca9c8c8e5f0b9502c64b0ad958e6aed9c1488758d6faa69d243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-328-2025",
+   "path": "local/satu-mare/satu-mare/2025/328",
+   "short": "HCL Satu Mare nr. 328/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 328/2025 privind darea în folosință gratuită a imobilului situat în municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-32818122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/328/hcl-328.docx",
+     "sha256": "177e9db0ea2257e82ef26909264bfa54852d36c67ef6ebeb1f1aa7eb2e2e29b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-329-2025",
+   "path": "local/satu-mare/satu-mare/2025/329",
+   "short": "HCL Satu Mare nr. 329/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 329/2025 privind analiza stadiului de înscriere a datelor în registrul agricol electronic al Municipiului Satu Mare în perioada 01.09.2025 – 30.11.2025 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 72693/10.12.2025, referatul de aprobare al viceprimarului Municipiului Satu Mare, înregistrat sub nr. 72702/10.12.2025 în calitate de inițiator, raportul de speci",
+   "url": "https://primariasm.ro/hotararea-nr-32918122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/329/hcl-329.doc",
+     "sha256": "f6104e1f709e116ecd5e42b7a77874ee12c073a5685296a09445f5460c508a4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-330-2025",
+   "path": "local/satu-mare/satu-mare/2025/330",
+   "short": "HCL Satu Mare nr. 330/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 330/2025 privind acordarea cu titlu gratuit a dreptului de uz și servitute, către Distribuție Energie Electrică România - Sucursala Satu Mare, asupra unor suprafețe de teren situate în municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-33018122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/330/hcl-330.docx",
+     "sha256": "9a159716e74af5af6032824d71b2ed51f91ccd2711fba1b82fb12715427c3af6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-331-2025",
+   "path": "local/satu-mare/satu-mare/2025/331",
+   "short": "HCL Satu Mare nr. 331/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 331/2025",
+   "url": "https://primariasm.ro/hotararea-nr-33118122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/331/hcl-331.doc",
+     "sha256": "218139346292cd519fb41abaf5da5bea22192c841dcfad35f4a63e20e8681048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-332-2025",
+   "path": "local/satu-mare/satu-mare/2025/332",
+   "short": "HCL Satu Mare nr. 332/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 332/2025 privind aprobarea demarării procedurii în vederea concesionării prin licitație publică, a unei suprafețe de 1455 mp, din imobilul teren identificat cu nr. cadastral 185751 Satu Mare, situat în Satu Mare, la intersecția străzii Careiului cu b-dul Cloșca Consiliul Local al Municipiului Satu Mare, Având în vedere cererea de concesionare a terenului depusă SC ARCRIS PROJECT DEVELOPMENT SRL prin admini",
+   "url": "https://primariasm.ro/hotararea-nr-33218122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/332/hcl-332.doc",
+     "sha256": "ce58d17305654e59fc14655ff05b820ab74c4391a40bfada0d94864b1ee6bd16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-333-2025",
+   "path": "local/satu-mare/satu-mare/2025/333",
+   "short": "HCL Satu Mare nr. 333/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 333/2025",
+   "url": "https://primariasm.ro/hotararea-nr-33318122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/333/hcl-333.doc",
+     "sha256": "08e7820ca902ab9a3c561f44e94c88f06ea5041b3e0760dc9a4c8e86cf3b7a54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-334-2025",
+   "path": "local/satu-mare/satu-mare/2025/334",
+   "short": "HCL Satu Mare nr. 334/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 334/2025 privind aprobarea vânzării unui imobil - teren situat în Municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-33418122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/334/hcl-334.doc",
+     "sha256": "44341ae037f03ec2c9a7f7359c4dc1a4e52f0872cbd2cb454234b58109a82d12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-335-2025",
+   "path": "local/satu-mare/satu-mare/2025/335",
+   "short": "HCL Satu Mare nr. 335/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 335/2025 privind aprobarea vânzării unui imobil - teren situat în Municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-33518122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/335/hcl-335.doc",
+     "sha256": "72a2c7574e2a97ef07cd4d7e678ba0d6cf5a7344b7f1f45db9caa316d70ee519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-336-2025",
+   "path": "local/satu-mare/satu-mare/2025/336",
+   "short": "HCL Satu Mare nr. 336/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 336/2025 privind aprobarea vânzării unui imobil - teren situat în Municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-33618122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/336/hcl-336.doc",
+     "sha256": "eb9ee613bf34bfe1bce73c0488c7a3146fea21ae27bb575ed41e45a7166420e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-337-2025",
+   "path": "local/satu-mare/satu-mare/2025/337",
+   "short": "HCL Satu Mare nr. 337/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 337/2025 privind aprobarea vânzării unui imobil - teren situat în Municipiul Satu Mare, str",
+   "url": "https://primariasm.ro/hotararea-nr-33718122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/337/hcl-337.doc",
+     "sha256": "6ec81f662d46b1d01c50a6aeda11b4afe98abe5718dd0cb9732a427420a77de8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-338-2025",
+   "path": "local/satu-mare/satu-mare/2025/338",
+   "short": "HCL Satu Mare nr. 338/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 338/2025",
+   "url": "https://www.primariasm.ro/hotararea-nr-33818122025",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/338/hcl-338.doc",
+     "sha256": "a75fda5b8688146d5b942524ca70445d167ba5e6e9b49ae3d821b3cda668382b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-339-2025",
+   "path": "local/satu-mare/satu-mare/2025/339",
+   "short": "HCL Satu Mare nr. 339/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 339/2025 privind aprobarea modificării și completării Actului constitutiv al APASERV Satu Mare S.A",
+   "url": "https://primariasm.ro/hotararea-nr-33922122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/339/hcl-339.doc",
+     "sha256": "664d95fdf514af0ac077a2196d3334ba8a2de45e025ab7a102c586a409b600f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-340-2025",
+   "path": "local/satu-mare/satu-mare/2025/340",
+   "short": "HCL Satu Mare nr. 340/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 340/2025 pentru implementarea măsurilor privind guvernanța corporativă întreprinderilor publice la APASERV Satu Mare S.A",
+   "url": "https://primariasm.ro/hotararea-nr-34022122025-1",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/340/hcl-340-din-2025.doc",
+     "sha256": "22124fd8612a30bf0e71b41c5c34997b2f82aeae7ec3c03c4464291add4608cc"
     }
    ]
   },
@@ -78,6 +408,66 @@
    ]
   },
   {
+   "slug": "hcl-satu-mare--satu-mare-342-2025",
+   "path": "local/satu-mare/satu-mare/2025/342",
+   "short": "HCL Satu Mare nr. 342/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 342/2025 privind modificarea art. 1 alin. (1) din Hotărârea Consiliului Local Satu Mare nr. 289/27.11.2025 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 74787/19.12.2025, referatul de aprobare al Primarului Municipiului Satu Mare, în calitate de inițiator, înregistrat sub nr. 74789/19.12.2025, raportul de specialitate comun al Compartimentului Resurse Umane",
+   "url": "https://primariasm.ro/hotararea-nr-34222122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/342/hcl-342.doc",
+     "sha256": "605c76bd4b64ae5d7b9325bda86e5abc9dcb0d74847a9fb232cdc5e21cd73963"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-343-2025",
+   "path": "local/satu-mare/satu-mare/2025/343",
+   "short": "HCL Satu Mare nr. 343/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 343/2025 pentru modificarea H.C.L",
+   "url": "https://www.primariasm.ro/hotararea-nr-34322122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/343/hcl-343.doc",
+     "sha256": "3ec6c7f0e989920e483a2833a7c2b21b0808735add5872c3a2239b5fd488adf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-344-2025",
+   "path": "local/satu-mare/satu-mare/2025/344",
+   "short": "HCL Satu Mare nr. 344/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 344/2025 privind aprobarea rectificării Bugetului local de Venituri și Cheltuieli al municipiului Satu Mare pe anul 2025 Consiliul Local al Municipiului Satu Mare, Analizând Proiectul nr. 74.551/18.12.2025, Luând act de raportul de specialitate nr. 74.554/18.12.2025, întocmit de către Direcția Economică, de nota de fundamentare nr. 74.571/18.12.2025, respectiv de raportul de specialitate nr. 74.572/18.12.2",
+   "url": "https://primariasm.ro/hotararea-nr-34422122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/344/hcl-344.doc",
+     "sha256": "d57564f119aea8766f10b8353600e9913ea3dc6af75bf8cae4fcca7f711f3dda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-345-2025",
+   "path": "local/satu-mare/satu-mare/2025/345",
+   "short": "HCL Satu Mare nr. 345/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 345/2025 privind aprobarea rectificării Bugetului de venituri și cheltuieli al instituțiilor publice, finanțate integral sau parțial din venituri proprii, subordonate Consiliului Local Satu Mare, pe anul 2025 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre înregistrat sub nr. 74829/19.12.2025, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 74830/1",
+   "url": "https://primariasm.ro/hotararea-nr-34522122025",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/2025/345/hcl-345.doc",
+     "sha256": "3a7d058e48e655226951deb8f4d9a057164bd7504fb79968753bbd64c52f94da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-346-2025",
    "path": "local/satu-mare/satu-mare/2025/346",
    "short": "HCL Satu Mare nr. 346/2025",
@@ -89,6 +479,21 @@
      "units": 1,
      "source_url": "https://primariasm.ro/storage/hotarari/2025/346/hcl-346.doc",
      "sha256": "9d35a51c9c85253825aa26875d0a8f5326199ad384fa43ea92931a7217f12bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-347-2025",
+   "path": "local/satu-mare/satu-mare/2025/347",
+   "short": "HCL Satu Mare nr. 347/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 347/2025 privind darea în administrare către S.C",
+   "url": "https://www.primariasm.ro/hotararea-nr-34723122025",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/2025/347/hcl-347.doc",
+     "sha256": "f4c22065f6248635e9323f611fed21a3539da19baae21d6440eabf3aec8d7543"
     }
    ]
   },

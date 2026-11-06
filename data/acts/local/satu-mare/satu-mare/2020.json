@@ -3,6 +3,51 @@
 "shard": "local/satu-mare/satu-mare/2020",
 "acts": [
 {
+"slug": "hcl-satu-mare--satu-mare-87-2020",
+"path": "local/satu-mare/satu-mare/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 87/2020",
+"short": "HCL Satu Mare nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://www.primariasm.ro/hotararea-nr-8728052020",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-122-2020",
+"path": "local/satu-mare/satu-mare/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 122/2020 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei municipiului Satu Mare Consiliul Local al municipiului Satu Mare întrunit în ședința ordinară din data de 30.07. 2020, Analizând proiectul de hotărâre înregistrat sub nr. 32517/22.07.2020, referatul de aprobare al primarului municipiului Satu Mare, înregistrat cu nr. 32518/22.07.2020, în calitate de inițiator, raportul Serv",
+"short": "HCL Satu Mare nr. 122/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-30",
+"latest": "2020-07-30",
+"portal": "https://www.primariasm.ro/hotararea-nr-12230072020",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-161-2020",
 "path": "local/satu-mare/satu-mare/2020/161",
 "kind": "local",
@@ -22,6 +67,28 @@
 "council_name": "Consiliul Local al Municipiului Satu Mare",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-220-2020",
+"path": "local/satu-mare/satu-mare/2020/220",
+"kind": "local",
+"year": "2020",
+"number": "220",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 220/2020 privind unele modificări aduse Anexei la HCL Satu Mare nr. 122/30.07.2020 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12. 2020, Analizând proiectul de hotărâre înregistrat sub nr. 53420/11.12.2020, Referatul de aprobare al primarului municipiului Satu Mare înr",
+"short": "HCL Satu Mare nr. 220/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://primariasm.ro/hotararea-nr-22022122020",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

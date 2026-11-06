@@ -3,6 +3,231 @@
  "shard": "local/prahova/campina/2013",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-109-2013",
+   "path": "local/prahova/campina/2013/109",
+   "short": "HCL Câmpina nr. 109/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2013 privind aprobarea ActuIui aditional la contractuI de deIegare prin concesiune a ServiciuIui public de gestionare a cainilor fara stapan nr.l.926/31 ian.2013 Avand in vedere: - expunerea de motive nr.59.650/19 iulie 2013 a membrilor Comisiei administratie publica locala. juridic. rela^ii cu publicul, servicii si comert. $.a.m.d.. prin care propun aprobarea Actului aditional la contractuI de delegar",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-109-act-aditional-HCL8-din-2012-conces-Serv-gestionare-caini.pdf",
+     "sha256": "d41e3b10fc94ba910400a42f5abc53733c7c9ca7d95901d90c17962b79a02d48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-111-2013",
+   "path": "local/prahova/campina/2013/111",
+   "short": "HCL Câmpina nr. 111/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 111/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-07-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ca19051e861897791a3edd31abe00fcf80839845e4555a2487bdefeea30b8bd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-116-2013",
+   "path": "local/prahova/campina/2013/116",
+   "short": "HCL Câmpina nr. 116/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 116/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8b6773da6f338b01eb472741244b116fc17cd955025bcc5a0b8d0adcf4b288f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-121-2013",
+   "path": "local/prahova/campina/2013/121",
+   "short": "HCL Câmpina nr. 121/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 121/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e9a94eb762915d47d7239f202f4aa950e22bba36b8a6384cfa936ea25db80f58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-122-2013",
+   "path": "local/prahova/campina/2013/122",
+   "short": "HCL Câmpina nr. 122/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 122/2013 privind aprobarea concesionarii(fara licitatie publica) a de 2,00 m.p., situatTn municipiuI Campina, str.Sondei,f.nr., T83, ParceIa Cc 726/l, Nr.cadastral 25.164 Avand in vedere: - expunerea de motive nr.59.696/19 august 2013 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie si protectia mediului, prin care propun aprobarea concesionarii (fara licitatie publica) a terenului in supra",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+     "sha256": "466b996bdd94595b0c10c4dff3b61615b21cfc305990f425fe0e9169a5864ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-123-2013",
+   "path": "local/prahova/campina/2013/123",
+   "short": "HCL Câmpina nr. 123/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 123/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "66cbc680ad65f6e152c31e563120fae4dd8b2b2578cee360e1e362497e7e1cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2013",
+   "path": "local/prahova/campina/2013/125",
+   "short": "HCL Câmpina nr. 125/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "07878adef1a9d202dde23686b7d9a18c30cf4c65e5d0580115178d2b274aff7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-128-2013",
+   "path": "local/prahova/campina/2013/128",
+   "short": "HCL Câmpina nr. 128/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 128/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e4b1bd3dc1c1f606d7b394053bffc0eda0e82a751cdab58a4095ff20358bc40f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-129-2013",
+   "path": "local/prahova/campina/2013/129",
+   "short": "HCL Câmpina nr. 129/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 129/2013 privind modificarea si completarea Anexei la H.C.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-10-10",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-129-mod-HCL-73-30-mai-2013-contract-imprumut-6.000.000-lei.pdf",
+     "sha256": "732b8ffee84293c6876680465c661c7c2e9028a884dc62d1b9e50c62eccf4fae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-134-2013",
+   "path": "local/prahova/campina/2013/134",
+   "short": "HCL Câmpina nr. 134/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 134/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "636340d2bbe533e4ca48cb34d6227c7ddcc9a45e9cc849ed786ca4801887f0a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2013",
+   "path": "local/prahova/campina/2013/138",
+   "short": "HCL Câmpina nr. 138/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3a2e6774ab11e52512ac82ce36d5eae3030f29d3896b2d24dab7040a3b297a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-146-2013",
+   "path": "local/prahova/campina/2013/146",
+   "short": "HCL Câmpina nr. 146/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 146/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c5295e49a282e266476e873ef247207cac95cafeed7259eb385d2c6f1398a77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-148-2013",
+   "path": "local/prahova/campina/2013/148",
+   "short": "HCL Câmpina nr. 148/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 148/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1c6af88107e92acf946b389c94b0d38d5805933f75dae7eb990681e659466ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-149-2013",
+   "path": "local/prahova/campina/2013/149",
+   "short": "HCL Câmpina nr. 149/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 149/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-11-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "98ed113cef2053c7261720bc9c144f132b536bd91c9674517485f7ae231baf7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-157-2013",
+   "path": "local/prahova/campina/2013/157",
+   "short": "HCL Câmpina nr. 157/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 157/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7f5b58e63e983629bb9986d7eaf8a8ac1ff31afb6c26d3e35b89437763982c9c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-158-2013",
    "path": "local/prahova/campina/2013/158",
    "short": "HCL Câmpina nr. 158/2013",
@@ -14,6 +239,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-158-stabilire-impozite-si-taxe-locale-2014.pdf",
      "sha256": "94cce79c7444aa9bd65ff5179bdb24753290392a8dc6e340beae88750d1d2ce1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-159-2013",
+   "path": "local/prahova/campina/2013/159",
+   "short": "HCL Câmpina nr. 159/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 159/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": null,
+     "sha256": "05bd470c5a295d617bf0681e6f775194d58c27c14a1ecc9a06e600c669a3ecd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-20-2013",
+   "path": "local/prahova/campina/2013/20",
+   "short": "HCL Câmpina nr. 20/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 20/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b26f1b2515bf5db2f97d806c2545494ff59cd7b4bed39956c683adba87c9ac79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2013",
+   "path": "local/prahova/campina/2013/26",
+   "short": "HCL Câmpina nr. 26/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-02-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "58f1dcef7de874eb2a12630162efa38ae6f2eeecba958e4bd689b0b7f4af6a79"
     }
    ]
   },
@@ -33,6 +303,66 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-42-2013",
+   "path": "local/prahova/campina/2013/42",
+   "short": "HCL Câmpina nr. 42/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "4549629e5c095328ec28b1e6d3d36f97ae9b7a0cf35ff8a2f3bf2c2ab2c9c993"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-43-2013",
+   "path": "local/prahova/campina/2013/43",
+   "short": "HCL Câmpina nr. 43/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c47caeb8653217bfa134bcb86bed3c20ffc63a14b7952572b6e6879458e3380e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-45-2013",
+   "path": "local/prahova/campina/2013/45",
+   "short": "HCL Câmpina nr. 45/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 45/2013 privind dezmembrarea a 4 (patru) imobile (terenuri), situate tn municipiul Campina, pentru care a fost constituit dreptuI de uz $i superficie, m favoarea S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-45-dezmembrare-4-terenuri-drept-de-superficie-in-favoarea-SC-Electrocarbon.pdf",
+     "sha256": "3aaedc642614c65a0f94e88676f4d3cae92cd5576a66994c7402fa29ec8d84f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-50-2013",
+   "path": "local/prahova/campina/2013/50",
+   "short": "HCL Câmpina nr. 50/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 50/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "74a5260d55332bff7ae1571c00c172eaa2ca0b15281733a64ca9f06d774f0864"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-6-2013",
    "path": "local/prahova/campina/2013/6",
    "short": "HCL Câmpina nr. 6/2013",
@@ -44,6 +374,111 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-6-mod-art1-din-HCL-113-din-2010-tarife-practicate-de-Piata-Centrala.pdf",
      "sha256": "d5bf79cb4572ca3343a8dccddad92d1792c83ee6e750d68ae893785551772b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-71-2013",
+   "path": "local/prahova/campina/2013/71",
+   "short": "HCL Câmpina nr. 71/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 71/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-04-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e93327b055a553b27fa743e4463dd4ebddfe7d97c884aa35f99c24b388dd743c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-73-2013",
+   "path": "local/prahova/campina/2013/73",
+   "short": "HCL Câmpina nr. 73/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 73/2013 privind aprobarea contractarii unei finanJari rambursabile interne Tnvaloare de 6.000.000 lei In temeiul prevederilor art. 36 alin. (2) sj (4) lit. b), art. 45 alin. (2). art. 63 alin. (1) lit. c) $i alin. (4) lit. c), precum sJ ale art. 115 alin. (1) lit. b), alin. (3), alin. (5) $i alin. (6) din Legea administra|iei publice locale nr. 215/2001, republicata, avand in vedere prevederile Ordonan|ei",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-73-contractare-finantare-rambursabila-6-mil-lei.pdf",
+     "sha256": "3c334baf87e718e26981d6634c214f261dab35ca143b54b4587a8e91eaa4997b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-85-2013",
+   "path": "local/prahova/campina/2013/85",
+   "short": "HCL Câmpina nr. 85/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 85/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7197ad727d7a81ed581f43af65198baaef833789d2642b6058462916d621c026"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-9-2013",
+   "path": "local/prahova/campina/2013/9",
+   "short": "HCL Câmpina nr. 9/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 9/2013 privind aprobarea modificarii formei unor terenuri atribuite Electrocarbon S.A",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2013/",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr.-9-modif-forme-terenuri-drept-superficie-Electrocarbon.pdf",
+     "sha256": "d9e7063d346125c00f18f6747ba8b7493a020a845dcf3fdceec74c07db8eaa24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-90-2013",
+   "path": "local/prahova/campina/2013/90",
+   "short": "HCL Câmpina nr. 90/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 90/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6b91bb64f665a68aa2174c656ce00452f0cda36fa9400f653bebb060663d7ace"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2013",
+   "path": "local/prahova/campina/2013/93",
+   "short": "HCL Câmpina nr. 93/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e72a47e129c6bfb1b6d0f4c1f55b8a879ec6c3bf2dabaae240e3914f6fa624b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-95-2013",
+   "path": "local/prahova/campina/2013/95",
+   "short": "HCL Câmpina nr. 95/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 95/2013",
+   "url": null,
+   "versions": [
+    {
+     "from": "2013-06-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "46277ac43e313b2b311ef03b673c4fefe1307b5b77105475d0117d4d206c62b4"
     }
    ]
   }

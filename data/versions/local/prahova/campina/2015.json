@@ -498,6 +498,51 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-6-2015",
+   "path": "local/prahova/campina/2015/6",
+   "short": "HCL Câmpina nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 6/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1dd0cfad9b38e373d119fee642d9c04f3c94756f36d673bbd7e3498413a1758f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-63-2015",
+   "path": "local/prahova/campina/2015/63",
+   "short": "HCL Câmpina nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 63/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-63-dare-in-adstrare-SPAEPCA-66-mp-teren.pdf",
+     "sha256": "2243118ceafba0811e8c9dbfcc1c5472beb35c9bed516b4677e4316ab93b8568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-65-2015",
+   "path": "local/prahova/campina/2015/65",
+   "short": "HCL Câmpina nr. 65/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 65/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ee8f8d9f1d030cae9fc12a50741cae4a190ae35715c69b6f20b2c0360938bcaa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-68-2015",
    "path": "local/prahova/campina/2015/68",
    "short": "HCL Câmpina nr. 68/2015",
@@ -509,6 +554,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "cb1cb5b7f2c72a95d49092dff7c39014b3f548444c48add1be8700af98c3a2ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-7-2015",
+   "path": "local/prahova/campina/2015/7",
+   "short": "HCL Câmpina nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 7/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d48f7826c2d559b8fdc4c2bf7ee57f346a5da3a4f396754285f38d8ff7b6c37"
     }
    ]
   },
@@ -528,6 +588,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-71-2015",
+   "path": "local/prahova/campina/2015/71",
+   "short": "HCL Câmpina nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 71/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6d10b3b8527716c65c731baea9d88f085a8bcbd3592890e389b6da52812a9f31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-74-2015",
+   "path": "local/prahova/campina/2015/74",
+   "short": "HCL Câmpina nr. 74/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 74/2015 privind aprobarea listelor cuprinzand solicitan^ii indreptati{i sa primeasca o locuin{a cu chirie din fondul locativ de stat Avand in vedere: - expunerea de motive nr.63.889/17 iunie 2015 a membrilor Comisiei administratie publica locala, juridic, rela{ii cu publicul, servicii $i comer{ 5-a.m.d., prin care propun aprobarea listelor cuprinzand solicitan{ii mdrepta$i sa primeasca o locuin$a cu chiri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-74-aprobare-liste-spatii-fond-locativ-de-stat.pdf",
+     "sha256": "b37b085af72ee4dcc2c4b51776a6644f654abb9d1074ab5a8c0f1885d96266bc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-77-2015",
    "path": "local/prahova/campina/2015/77",
    "short": "HCL Câmpina nr. 77/2015",
@@ -539,6 +629,66 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-77-inv-dom-privat-202-mp-si-135-mp-indiv-din-27-mp-str.-Independentei-fnr.-dl-Ceptureanu.pdf",
      "sha256": "972421dd3579f6353b39fb84df7dd08453da37d1535969318aa78241a071f5e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-8-2015",
+   "path": "local/prahova/campina/2015/8",
+   "short": "HCL Câmpina nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 8/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "245e2902569c38475eaadedad0a99f5ec1dcb43c03e5bac622e30aea4f664299"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-83-2015",
+   "path": "local/prahova/campina/2015/83",
+   "short": "HCL Câmpina nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 83/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9df0a71fb2e9196b7c940d7acea37798af7a8afe5fa44689743e7270aa322462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-84-2015",
+   "path": "local/prahova/campina/2015/84",
+   "short": "HCL Câmpina nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2015 privind aprobarea unor reglementari referitoare la sit^d^Ju^^^ a terenurilor situate tn Municipiul Campina, str.Siretului si str7PrutuIui, pe care sunt edificate locuinte construite prin A.N.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-84-aprobare-reglem-terenuri-str.Siretului-si-Prutului-ANL-const-dr-superficie.pdf",
+     "sha256": "91d7ec01d5da822add7db27377f3a02be9b9f969d40725ddd32f178b73d1e56e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-86-2015",
+   "path": "local/prahova/campina/2015/86",
+   "short": "HCL Câmpina nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 86/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b4581e8e092ef78a2ef1872b634dd3c3500224d3b6a9fc114616ceb66927b14e"
     }
    ]
   },
@@ -569,6 +719,111 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
      "sha256": "bd36d5ca61bd1ac18826af6039883610514469196d5356eb7f85c87d239f7531"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-89-2015",
+   "path": "local/prahova/campina/2015/89",
+   "short": "HCL Câmpina nr. 89/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 89/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b019701eea0afd88aba51c9b815349e631c5065ba728f3fd9f702148a75a4d32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-90-2015",
+   "path": "local/prahova/campina/2015/90",
+   "short": "HCL Câmpina nr. 90/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 90/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "458149c4e6ab7072506bdf8af9e4318deef096ac79c9cfb9ccfc53c044022ba5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-91-2015",
+   "path": "local/prahova/campina/2015/91",
+   "short": "HCL Câmpina nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 91/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "322d5707bb842eb95e4f9319dc427f6aeab4054eef6612da977550d5ef8de97e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2015",
+   "path": "local/prahova/campina/2015/93",
+   "short": "HCL Câmpina nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2015 privind numirea reprezentan{ilor Consiliului local al municipiului Campina in Consiliile de administra{ie si m Comisiile pentru evaluarea si asigurarea calitatii din unitatile de inva$amant preuniversitar din municipiul Campina pentru anul scolar 2015 - 2016 Avand in vedere: - expunerea de motive nr.63.991/18 august 2015 a membrilor Comisiei de specialitate sanatate, cultura, invatamant, culte $i",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2015/",
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/11/Hotararea-nr.-93-numire-reprez-CL-in-Consiliile-adtie-si-Comisii-evaluare-unitati-inv-preuniv.pdf",
+     "sha256": "f9a93e41fa2df96351fad4638b54207132655476ea6e310e66122e7d1b68fcd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-95-2015",
+   "path": "local/prahova/campina/2015/95",
+   "short": "HCL Câmpina nr. 95/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 95/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b70fae1a97967cd9cdf8ee029269a322254e8365f8311c8d3c02c2df0de32f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-97-2015",
+   "path": "local/prahova/campina/2015/97",
+   "short": "HCL Câmpina nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 97/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fb8a2100d1b1f402e583c948f71b2c5b0ebe0457ed431c5e100fd8afcf732c5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-98-2015",
+   "path": "local/prahova/campina/2015/98",
+   "short": "HCL Câmpina nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 98/2015",
+   "url": null,
+   "versions": [
+    {
+     "from": "2015-08-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c58158f63803b12ac42aa744818043eaefb6f95b90c6773ba866e12d5900a3a9"
     }
    ]
   }

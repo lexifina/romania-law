@@ -122,7 +122,7 @@ ECHR judgments against Romania that the Monitorul Oficial never published in Rom
 Every version names the official page it was read from, so every act can be checked against its source. `data/freshness/` records, for each act, the last day a check of the official source confirmed that the version here is still the newest, how it was checked, and any change the source reports that is not here yet.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-06; 73% of acts verified in the last 7 days, 73% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-06; 74% of acts verified in the last 7 days, 74% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
     python tools/freshness.py codul-civil          # one act: status, last check, newest change, official link

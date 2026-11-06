@@ -3,6 +3,276 @@
  "shard": "local/prahova/campina/2009",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-1-2009",
+   "path": "local/prahova/campina/2009/1",
+   "short": "HCL Câmpina nr. 1/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 1/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "61d6dfe0a060ae31636bc8a528ee9ab8bbc5be1bf4b8484603af05a89b57fe10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-10-2009",
+   "path": "local/prahova/campina/2009/10",
+   "short": "HCL Câmpina nr. 10/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 10/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d90101ee7c92d145e83fdd18efcf1928547db14cbe98f9d4ad85f289181f5575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-100-2009",
+   "path": "local/prahova/campina/2009/100",
+   "short": "HCL Câmpina nr. 100/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2009 privind interzicere acces persoane cu animale in parcuri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.100-Hotarare-privind-interzicere-acces-persoane-cu-animale-in-parcuri.doc",
+     "sha256": "04597675285dbcb6229612897893ccd42f2592bdf09e60b760e85825cf43297f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-101-2009",
+   "path": "local/prahova/campina/2009/101",
+   "short": "HCL Câmpina nr. 101/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 101/2009 privind aprobarea vânzării prin licitație publică a terenului aparținând domeniului privat, în suprafață de 54.439 m.p., situat în municipiul Câmpina, str.Oborului, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.102-Hotarare-privind-vanzarea-prin-licitatie-teren-str-Oborului.doc",
+     "sha256": "848f0efc4a1074a77489e5c0e3ccd29858022c2cce0f6701c8b7b62e3cd1b2e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-103-2009",
+   "path": "local/prahova/campina/2009/103",
+   "short": "HCL Câmpina nr. 103/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 103/2009 privind aprobarea trecerii din domeniul public în domeniul privat și concesionarea (fără licitație publică) a terenului în suprafață de 15,60 m.p., situat în municipiul Câmpina, str.Sondei, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.101-Hotarare-privind-trecere-terenuri-din-dom-public-in-privat-si-concesionare-fara-licitatie.doc",
+     "sha256": "56b88bf0d0bd3fc274d6d2f493271fb8289e8a205194f78648bbaf98a6d071bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-104-2009",
+   "path": "local/prahova/campina/2009/104",
+   "short": "HCL Câmpina nr. 104/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 104/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "993c1885f9685c99f05b71939f189fae20852f5381b9d1c4aea1c9eea15bdb7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-105-2009",
+   "path": "local/prahova/campina/2009/105",
+   "short": "HCL Câmpina nr. 105/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 105/2009 privind aprobare contract constituire drept superficie SC Elsid",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.105-Hotarare-privind-aprobare-contract-constituire-drept-superficie-SC-Elsid.doc",
+     "sha256": "d56e75d61847226c5ae424400f3d3b64bf4e84805a0e3932ab722f6616b9eda2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-106-2009",
+   "path": "local/prahova/campina/2009/106",
+   "short": "HCL Câmpina nr. 106/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 106/2009 privind prelungire contrc concesiune prin acte aditionale SC Elsid",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.106-Hotarare-privind-prelungire-contrc-concesiune-prin-acte-aditionale-SC-Elsid.doc",
+     "sha256": "ae78996a623fa115b686ab227372969680dff6f880e436fb891afb8d3d8a4cdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-107-2009",
+   "path": "local/prahova/campina/2009/107",
+   "short": "HCL Câmpina nr. 107/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 107/2009 privind indicatori tehnico ec modernizare str Garoafelor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.107-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Garoafelor.doc",
+     "sha256": "594ba4f480f54c02828fd3fdb3c0e04dc331b7be32e97c69c18bf42bd742eb91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-108-2009",
+   "path": "local/prahova/campina/2009/108",
+   "short": "HCL Câmpina nr. 108/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 108/2009 privind indicatori tehnico ec modernizare str Andrei Muresanu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.108-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Andrei-Muresanu.doc",
+     "sha256": "16f0f85ef9162f68a8a2ffe445a4fb9788c603fb75e55cddc0909e6c963f13f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-109-2009",
+   "path": "local/prahova/campina/2009/109",
+   "short": "HCL Câmpina nr. 109/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2009 privind indicatori tehnico ec modernizare str Ion Creanga",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.109-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Ion-Creanga.doc",
+     "sha256": "b7227193a1f76a5dbfb12399b4e63b5d7d6718d0b7d5e72b310f9137054399c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-11-2009",
+   "path": "local/prahova/campina/2009/11",
+   "short": "HCL Câmpina nr. 11/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 11/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "04e9f654b6027d91394cbb5a0707dff233621ea23299dbb467b30fb4e3953ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-110-2009",
+   "path": "local/prahova/campina/2009/110",
+   "short": "HCL Câmpina nr. 110/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 110/2009 privind indicatori tehnico ec modernizare str Luceafarului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.110-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Luceafarului.doc",
+     "sha256": "022b9e738802650f73218006a2ed4c6dd617a8eb3c7199567870b06eb1e46e72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-111-2009",
+   "path": "local/prahova/campina/2009/111",
+   "short": "HCL Câmpina nr. 111/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 111/2009 privind indicatori tehnico ec modernizare str Panduri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.111-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Panduri.doc",
+     "sha256": "b30ab7d65524b34f913818f9d3d08fb6f6a910d85d6e54b12a6d5d8c163aa8e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-112-2009",
+   "path": "local/prahova/campina/2009/112",
+   "short": "HCL Câmpina nr. 112/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 112/2009 privind indicatori tehnico ec modernizare str Plaiului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.112-Hotarare-privind-indicatori-tehnico-ec-modernizare-str-Plaiului.doc",
+     "sha256": "459927b3e188bac8f163159ed3bd233b377c2c8fa1f22c4bb9a1bacf7931a3e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-113-2009",
+   "path": "local/prahova/campina/2009/113",
+   "short": "HCL Câmpina nr. 113/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 113/2009 privind indicatori modernizare str Salcamului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.113-Hotarare-privind-indicatori-modernizare-str-Salcamului.doc",
+     "sha256": "c698de039a23550d3b8e70e4b81ae99afbaae50d03518f5e0b7986f0c49da6ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-114-2009",
+   "path": "local/prahova/campina/2009/114",
+   "short": "HCL Câmpina nr. 114/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 114/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7f21b3226102ee111b84c73528a9c02d7d5b55c6cf3ab5cbc495b272b64df445"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-117-2009",
+   "path": "local/prahova/campina/2009/117",
+   "short": "HCL Câmpina nr. 117/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 117/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d6f95dcd3ca19219e6586a9a062192f9f8290ae03ff3adc4ce3fefb73d248d7b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-12-2009",
    "path": "local/prahova/campina/2009/12",
    "short": "HCL Câmpina nr. 12/2009",
@@ -33,6 +303,396 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-122-2009",
+   "path": "local/prahova/campina/2009/122",
+   "short": "HCL Câmpina nr. 122/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 122/2009 privind aprobarea închirierii prin licitație publică a camerei nr.7 - etaj, situată în incinta Casei de Cultură „Geo Bogza”, pentru activități de monitorizare și consultanță - inspecție",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-117-Hotarare-inchiriere-prin-licitatie-camera-nr7-Casa-de-cultura.doc",
+     "sha256": "2188d4e30c99f7994d45d3fdda2bf2a47bc35ab9266a1b57884d236cbe71ef06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-123-2009",
+   "path": "local/prahova/campina/2009/123",
+   "short": "HCL Câmpina nr. 123/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 123/2009 privind aprobarea închirierii prin licitație publică a sălii nr.207, situată în incinta Casei Tineretului, pentru desfășurarea unor activități cultural–educaționale pentru tineret si cadre didactice",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-118-Hotarare-inchiriere-prin-licitatie-sala-207-Casa-Tineretului.doc",
+     "sha256": "387b440a4284f27f76c289ba43ae89f5fd3da93a120093e11a23c4a963ea2656"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-124-2009",
+   "path": "local/prahova/campina/2009/124",
+   "short": "HCL Câmpina nr. 124/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina a unor terenuri situate în municipiul Câmpina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-119-Hotarare-inventariere-terenuri-in-domeniul-privat.doc",
+     "sha256": "cb22fe076d52e1c95f9d4fa5c5586d6eb032ad2caeb46e165a8847cb05cab38f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2009",
+   "path": "local/prahova/campina/2009/125",
+   "short": "HCL Câmpina nr. 125/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8b741463744b5676909e6861b2442e602f8800136387a851ac606814309b1ca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-126-2009",
+   "path": "local/prahova/campina/2009/126",
+   "short": "HCL Câmpina nr. 126/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 126/2009 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului privat, situat în municipiul Câmpina, str. Târnava Mică, f.nr., ce va fi folosit în scop agricol",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-114-Hotarare-inchiriere-prin-licitatie-teren-folosit-in-scop-agricol.doc",
+     "sha256": "800927f1c4977f04650ad8f1a84dc7011cb0213e24b51372fa022a869402a279"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-128-2009",
+   "path": "local/prahova/campina/2009/128",
+   "short": "HCL Câmpina nr. 128/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 128/2009 privind aprobarea trecerii din domeniul public în domeniul privat și concesionarea (fără licitație publică) a terenului în suprafață de 124,33 m.p., situat în municipiul Câmpina, Aleea Peștișori, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-116-Hotarare-concesionarea-fara-licitatie-teren-Aleea-Pestisori-pt-IATSA-SA.doc",
+     "sha256": "0744c6f7613de75443a20cae93296dca61a6c2cead1c408f44a5f531157b2a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-129-2009",
+   "path": "local/prahova/campina/2009/129",
+   "short": "HCL Câmpina nr. 129/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 129/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6e25b270300f767fd6ee86513ef9aa6e8b6f4a3f055f64e8cf3e4db93bcb84bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-13-2009",
+   "path": "local/prahova/campina/2009/13",
+   "short": "HCL Câmpina nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 13/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "0557932b2548828fec757f78f2088e68b034ca8f87230956661ccd196b541a7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-130-2009",
+   "path": "local/prahova/campina/2009/130",
+   "short": "HCL Câmpina nr. 130/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 130/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-130-aprobare-SF-si-indicatori-Grup-Sc-Petrol.doc",
+     "sha256": "17c9e6263a47019c72c317d9a636bfa112cca48af661a3debf75fbdb8f34bf7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-132-2009",
+   "path": "local/prahova/campina/2009/132",
+   "short": "HCL Câmpina nr. 132/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 132/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-14",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-132-aprobare-SF-si-indicatori-Sc-Hasdeu.doc",
+     "sha256": "a5eafe6742ed844d76676f1e90239957ed4f7994c52c34173289a53007d49e08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-137-2009",
+   "path": "local/prahova/campina/2009/137",
+   "short": "HCL Câmpina nr. 137/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3fc42b8e2ea6718f0e4691e65eafe4609e0fda3bfcca436bc691c835b97adbf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2009",
+   "path": "local/prahova/campina/2009/138",
+   "short": "HCL Câmpina nr. 138/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "67d752943ddf0d763a2a4ee1e422381a0d41f0e651c54c84610077bc802e3e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-139-2009",
+   "path": "local/prahova/campina/2009/139",
+   "short": "HCL Câmpina nr. 139/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 139/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "014db8fc4e670ee3ed9f40cc451a311cf555fb199ae1207f58884288140d28eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-14-2009",
+   "path": "local/prahova/campina/2009/14",
+   "short": "HCL Câmpina nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 14/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fb672403d0ece8702b9db62bd27f6cb8c0e9f72c29dd0e4f934011742007be4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-140-2009",
+   "path": "local/prahova/campina/2009/140",
+   "short": "HCL Câmpina nr. 140/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 140/2009 privind aprobarea trecerii din domeniul public în domeniul privat și concesionarea (fără licitație publică) a terenului în suprafață de 2,64 m.p., situat în municipiul Câmpina, str",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.140-Concesionare-teren-fara-licitatie-pt-balcon-str-Toma-Ionescu-dl-Chirica-P.doc",
+     "sha256": "b92745b7ba8e3921450121eae11e3147a9a2f5621b8b58ed3d72f09da2e694d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-141-2009",
+   "path": "local/prahova/campina/2009/141",
+   "short": "HCL Câmpina nr. 141/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 141/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9084abadb8c73c828e510df930fed86d39e721f4970b56417147405467384835"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-142-2009",
+   "path": "local/prahova/campina/2009/142",
+   "short": "HCL Câmpina nr. 142/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 142/2009 privind aprobarea închirierii prin licitație publică a unui teren aparținând domeniului public, în suprafață de 16,83 mp, situat în municipiul Câmpina, str.Maramureș, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.142-Inchiriere-prin-licitatie-teren-pt-garaj-str-Maramures-fn.doc",
+     "sha256": "949974095e280453f0f7636e32013c314b7c48237db6d9fef1cd21729cc9587d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-143-2009",
+   "path": "local/prahova/campina/2009/143",
+   "short": "HCL Câmpina nr. 143/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 143/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina și vânzarea prin licitație publică a terenului în suprafață de 299,70 m.p., situat în municipiul Câmpina, str.Bucea, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.143-Vanzare-prin-licitatie-teren-str-Bucea-fn.doc",
+     "sha256": "aa4649d0121dc15cf9b3d9de0d19c814fdad64303b21fc158567003093a7950c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-144-2009",
+   "path": "local/prahova/campina/2009/144",
+   "short": "HCL Câmpina nr. 144/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 144/2009 privind aprobarea Planului urbanistic de detaliu pentru obținerea “Autorizației de construire locuință (S + P + M), alei auto pietonale, parcare proprie”, beneficiar dl",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.144-PUD-Scarlat-Sever-str-Dealului-70.doc",
+     "sha256": "cbc80139c13098361afb4043e859bab8e521a164858baf1ff6acb3bef9476986"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-145-2009",
+   "path": "local/prahova/campina/2009/145",
+   "short": "HCL Câmpina nr. 145/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 145/2009 privind aprobarea Planului urbanistic de detaliu pentru obținerea “Autorizației de construire locuință (Sp + P + M), împrejmuire teren, alei auto/pietonale, fosă septică, platformă de beton pentru depozitare pubelă din pvc și spații verzi plantate”, beneficiar dl",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+     "sha256": "2517f79894a6e59a6b5718ecc7e87f743d8fb8f4047eedec21ff5a88b0bdedeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-146-2009",
+   "path": "local/prahova/campina/2009/146",
+   "short": "HCL Câmpina nr. 146/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 146/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-09-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "656d55851f81c90a8379ae4525d0e44a3c399722385944d9bf6fabc6fc23cbc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-147-2009",
+   "path": "local/prahova/campina/2009/147",
+   "short": "HCL Câmpina nr. 147/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 147/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "81c8907fcead0687396ecf80d9763bb2a8b9927e308977810ebb0b6af90eb799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-148-2009",
+   "path": "local/prahova/campina/2009/148",
+   "short": "HCL Câmpina nr. 148/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 148/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b99357ce01eda101d0950b62d61a086c4fbafa03e50bbceff49cf9b2395ff7f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-149-2009",
+   "path": "local/prahova/campina/2009/149",
+   "short": "HCL Câmpina nr. 149/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 149/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6052fbb2d09e0cdc96e576491b2873577215a1ba011005d1b8cf16ae91021b6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-15-2009",
+   "path": "local/prahova/campina/2009/15",
+   "short": "HCL Câmpina nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 15/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "706c0004a956359a2c3d9cc8374fe0f813e41d23c490fbec89df06d10c2c7728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-151-2009",
+   "path": "local/prahova/campina/2009/151",
+   "short": "HCL Câmpina nr. 151/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 151/2009 privind darea în administrare Consiliului Județean Prahova – Direcția Generală de Asistență Socială și Protecția Copilului a terenului în suprafață de 2.204,69 m.p., situat în municipiul Câmpina, str.Sălaj, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr151-dare-in-administrare-Cons-Jud-teren-str-Salaj-fnr.doc",
+     "sha256": "d7886ea5426fb147b4c4ccfff74893f81d2cf02cfc7d450801f5ee44538998f6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-152-2009",
    "path": "local/prahova/campina/2009/152",
    "short": "HCL Câmpina nr. 152/2009",
@@ -44,6 +704,96 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr152-modificare-si-complet-Anexe-1-si-2-ROF-Piata-centrala-agroalimentara-oct.doc",
      "sha256": "7df16323105260c2293c98ba69ac11f5330ad519b0e5dcbef912c9c19a24244d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-153-2009",
+   "path": "local/prahova/campina/2009/153",
+   "short": "HCL Câmpina nr. 153/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 153/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3dfcca46a3c56c06f1953cd733f847f93eeb4fabd46a0c4d532bf2080994713f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-154-2009",
+   "path": "local/prahova/campina/2009/154",
+   "short": "HCL Câmpina nr. 154/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 154/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fbec0f0cd6a09b58c993248df3770ac18a376d14b6900b78fe9a28861d227175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-155-2009",
+   "path": "local/prahova/campina/2009/155",
+   "short": "HCL Câmpina nr. 155/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 155/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "512662f530dee82056505c31f6a1cb183301ed3b667d000c23cea65ae1db0194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-156-2009",
+   "path": "local/prahova/campina/2009/156",
+   "short": "HCL Câmpina nr. 156/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 156/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9b553e05e857a09f0eada5b96b146c00f9cb2fd8bc18c825038e5442f48e933a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-157-2009",
+   "path": "local/prahova/campina/2009/157",
+   "short": "HCL Câmpina nr. 157/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 157/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "131d04214917f851a16621187bedafc6966e4a4572af338468a6b703a3df630a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-158-2009",
+   "path": "local/prahova/campina/2009/158",
+   "short": "HCL Câmpina nr. 158/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7300aae4b26db6b09ca15fd8b107473d9cae8dad36b709e80025eb4a2460561d"
     }
    ]
   },
@@ -63,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-16-2009",
+   "path": "local/prahova/campina/2009/16",
+   "short": "HCL Câmpina nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 16/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3e931ae0d73cdef6bceb1a422f0fe2b2a006eacc8ad28020d71982e69acc7593"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-160-2009",
    "path": "local/prahova/campina/2009/160",
    "short": "HCL Câmpina nr. 160/2009",
@@ -74,6 +839,81 @@
      "units": 1,
      "source_url": null,
      "sha256": "1e538c0e3f3b91043298022946992c58e3bd2965c6da95023b7510dfa4213c83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-161-2009",
+   "path": "local/prahova/campina/2009/161",
+   "short": "HCL Câmpina nr. 161/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 161/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina și vânzarea prin licitație publică a terenului în suprafață de 1.092 m.p., situat în municipiul Câmpina, str.Păcuri, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr161-vanzarea-prin-licitatie-publica-teren-str-Pacuri-fn.doc",
+     "sha256": "8cbb914c8dd02310a76b3c2740361b016c5ba0fa51b3edb05967bf1b0da8a520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-162-2009",
+   "path": "local/prahova/campina/2009/162",
+   "short": "HCL Câmpina nr. 162/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 162/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "b1fe2396e223fe92efdb8805c1ee8b9e3449a0b8b948603a6ea7fc5cc150189a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-163-2009",
+   "path": "local/prahova/campina/2009/163",
+   "short": "HCL Câmpina nr. 163/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 163/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ef0190f700f894e9a6f1d30b7550d8d720305d8799f95941c0a86505d2df8688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-164-2009",
+   "path": "local/prahova/campina/2009/164",
+   "short": "HCL Câmpina nr. 164/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 164/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8886e66d865a34e3b1d82ac14a43e40da9672ba30e7d801a5afe40eca7b9cbe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-165-2009",
+   "path": "local/prahova/campina/2009/165",
+   "short": "HCL Câmpina nr. 165/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 165/2009 privind aprobarea trecerii din domeniul public în domeniul privat și concesionarea (fără licitație publică) a terenului în suprafață de 4,75 m.p., situat în municipiul Câmpina, B-dul Carol I, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+     "sha256": "7fab88b23000b6e69cf7ed2d896f876b24617e12b6767d37417d89510ea760cc"
     }
    ]
   },
@@ -93,6 +933,426 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-168-2009",
+   "path": "local/prahova/campina/2009/168",
+   "short": "HCL Câmpina nr. 168/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 168/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e7c7368852edc428c6363c9dd7977e0a78a3c6d8b6322928e4cab967d1d0568e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-169-2009",
+   "path": "local/prahova/campina/2009/169",
+   "short": "HCL Câmpina nr. 169/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 169/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina a terenului în suprafață de 54.439 m.p., situat în municipiul Câmpina, str.Oborului, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr169-inventarierea-in-dom-privat-teren-54439-str-Oborului-fn.doc",
+     "sha256": "d370625b98503e7bf71f57537eacc00e855d28f60d71640bdc34df7255fd9eb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-17-2009",
+   "path": "local/prahova/campina/2009/17",
+   "short": "HCL Câmpina nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 17/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "25cffd51cab53702648d4ae140e05479d4daa7f7f29d507897be7a6bdd499a6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-170-2009",
+   "path": "local/prahova/campina/2009/170",
+   "short": "HCL Câmpina nr. 170/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 170/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr170-reziliere-contract-12411-din-21-iunie-2007-cu-SC-Elsid-SA-Titu.doc",
+     "sha256": "4eb135b3807a79573a4f81e63c962cbe655068dfb2e95c8d4e604addad1b4a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-171-2009",
+   "path": "local/prahova/campina/2009/171",
+   "short": "HCL Câmpina nr. 171/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 171/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d5140131edbbcef37c767277c83a1131c415acd93896fe3d67f2b92c6c5900be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-172-2009",
+   "path": "local/prahova/campina/2009/172",
+   "short": "HCL Câmpina nr. 172/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 172/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c95e541a98d9438865fa63bec5b0f3a069ac377944a31fea6279072d70f6341b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-173-2009",
+   "path": "local/prahova/campina/2009/173",
+   "short": "HCL Câmpina nr. 173/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 173/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c941900684d981476adbbe243b81f979c64873aae923bdd313b4c422221027a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-175-2009",
+   "path": "local/prahova/campina/2009/175",
+   "short": "HCL Câmpina nr. 175/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 175/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "947f118b3dece95a7f28a8c7c4933679a6ba9d5bc658a81d2abe1ea7bbd3834e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-176-2009",
+   "path": "local/prahova/campina/2009/176",
+   "short": "HCL Câmpina nr. 176/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 176/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina a unor terenuri situate în municipiul Câmpina Având în vedere: - expunerea de motive nr.48.005/12 noiembrie 2009 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie și protecția mediului, prin care propune aprobarea inventarierii în domeniul privat al municipiului Câmpina a unor terenuri situate în municipiul C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr176-inventariere-terenuri-in-dom-privat-str-Noua-Elsid-Petrototal.doc",
+     "sha256": "551f64f01cc65087b5d107be4f05ea4219ba81bb8220609c9ba1228e4a03408e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-177-2009",
+   "path": "local/prahova/campina/2009/177",
+   "short": "HCL Câmpina nr. 177/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 177/2009 privind aprobarea concesionării (fără licitație publică) a terenului în suprafață de 64,00 m.p., situat în municipiul Câmpina, str.Aurel Vlaicu, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr177-concesionare-fara-licitatie-teren-str-Aurel-Vlaicu-fn-extindere-loc.doc",
+     "sha256": "59964829208884c2648c2ab61aa23561fee1614066e88572ac1a16a886c95174"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-178-2009",
+   "path": "local/prahova/campina/2009/178",
+   "short": "HCL Câmpina nr. 178/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 178/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1ebd668349fafc0d012afa42d0c3238ff71251fef62d9c0159cacbe4df445f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-179-2009",
+   "path": "local/prahova/campina/2009/179",
+   "short": "HCL Câmpina nr. 179/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 179/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8f849ee391fae1c1df32bffe488f233fd6eb570ba10cdb8ddc5878004c3bac04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-18-2009",
+   "path": "local/prahova/campina/2009/18",
+   "short": "HCL Câmpina nr. 18/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 18/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "877169fb4f3b8d0681355293837b4479a687232e5addeb51d9c94bb86f5ce8d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-180-2009",
+   "path": "local/prahova/campina/2009/180",
+   "short": "HCL Câmpina nr. 180/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 180/2009 privind acordare drept de uz si servitute teren traseu cablu SC Elsid Titu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr180-privind-acordare-drept-de-uz-si-servitute-teren-traseu-cablu-SC-Elsid-Titu.doc",
+     "sha256": "785dc8b0f3ee2864544817974b16d4b00f3531f614d2048a3b4e0b54a1bc3512"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-181-2009",
+   "path": "local/prahova/campina/2009/181",
+   "short": "HCL Câmpina nr. 181/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 181/2009 privind aprobarea rectificării bugetului local al municipiului Câmpina pe anul 2009 Având în vedere : - expunerea de motive nr.48.107/16 decembrie 2009 a d-lui ing",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotarare-nr181-rectificare-buget-mun-Campina-2009.doc",
+     "sha256": "f1dd4a507c16c8a486982aa9d377adb466d6a22702274ec065ad7330ab7f9978"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-182-2009",
+   "path": "local/prahova/campina/2009/182",
+   "short": "HCL Câmpina nr. 182/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 182/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "abe1ba11ecbb2e9c74c5097ded9c5c194d2341edb254e734f31ac2a46304d265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-183-2009",
+   "path": "local/prahova/campina/2009/183",
+   "short": "HCL Câmpina nr. 183/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 183/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7d458be917672107178050ab1e2ede6fbcf234484fcf3ea7ad0816a6fb6e1c9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-184-2009",
+   "path": "local/prahova/campina/2009/184",
+   "short": "HCL Câmpina nr. 184/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 184/2009 privind aprobarea listelor cuprinzând solicitanții îndreptățiți să primească o locuință cu chirie din fondul locativ de stat Având în vedere: - expunerea de motive nr.48.065/8 decembrie 2009 a membrilor Comisiei administrație publică locală, juridic, relații cu publicul, servicii și comerț ș.a.m.d., prin care propune aprobarea listelor cuprinzând solicitanții îndreptățiți să primească o locuință c",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotarare-nr184-liste-solicitanti-locuinta-cu-chirie-fond-locativ-de-stat.doc",
+     "sha256": "c2af09393c6c55d34aab4063690a5129a09f3af4712ef49fcf2a46f238ac6c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-185-2009",
+   "path": "local/prahova/campina/2009/185",
+   "short": "HCL Câmpina nr. 185/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 185/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "35939a49a741d2254b0f9afe785e34e794dbeaf386a053cab22eb600eeff5fb9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-186-2009",
+   "path": "local/prahova/campina/2009/186",
+   "short": "HCL Câmpina nr. 186/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 186/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "225c691308e2dff4f145d8eee88a315d630e65abd8f0430dc7abeb2dc8c4a920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-187-2009",
+   "path": "local/prahova/campina/2009/187",
+   "short": "HCL Câmpina nr. 187/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 187/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c397f2719a021d5a013fe876aaed2e8e86ee210fd6f271403cad203df56939d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-188-2009",
+   "path": "local/prahova/campina/2009/188",
+   "short": "HCL Câmpina nr. 188/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 188/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": "14c8a656d27271e64be5d26d468562423fbd137c0dd9a9c5a870cbefd9028170"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-189-2009",
+   "path": "local/prahova/campina/2009/189",
+   "short": "HCL Câmpina nr. 189/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 189/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina și concesionarea prin licitație publică a terenului în suprafață de 300 m.p., situat în municipiul Câmpina, str.Erupției, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotarare-nr189-concesionare-prin-licitatie-teren-300-mp-str-Eruptiei.doc",
+     "sha256": "0331d44c71c412362e2b3f59499f12ff74d694bcbdf1156b87a39b02b50b6ef6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-19-2009",
+   "path": "local/prahova/campina/2009/19",
+   "short": "HCL Câmpina nr. 19/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 19/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8c5dd0b6753577f17a9e02e8a26dd905febc0e2167ba5467f406bf398927a575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-190-2009",
+   "path": "local/prahova/campina/2009/190",
+   "short": "HCL Câmpina nr. 190/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 190/2009 privind aprobarea inventarierii în domeniul privat al municipiului Câmpina și vânzarea prin licitație publică a terenului în suprafață de 202 m.p., situat în municipiul Câmpina, Aleea Izlaz, f.nr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-12-17",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotarare-nr190-inventariere-dom-privat-si-vanzare-prin-licitatie-publica-teren-Al-Islaz-fnr.doc",
+     "sha256": "2f3c4e66176717ba132d1d342bd07df72dc0d9c070acfea94c5dbda9338c6ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-2-2009",
+   "path": "local/prahova/campina/2009/2",
+   "short": "HCL Câmpina nr. 2/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 2/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a5e355feeabead61faab7a6c1a082d1ff64eea388e498ba67c108d618781eb80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-20-2009",
+   "path": "local/prahova/campina/2009/20",
+   "short": "HCL Câmpina nr. 20/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 20/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "875ba7267821c00e6a1583ba067fc96c26a84aef48dc2d1dfc55783bcbad4aeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-21-2009",
+   "path": "local/prahova/campina/2009/21",
+   "short": "HCL Câmpina nr. 21/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 21/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.21-Hotarare-modific-si-compl-HCL-53-din-2002-inchiriere-teren-2297-str-Petrolistului.doc",
+     "sha256": "83109a7a9054badb436a99c3e939e7388ee2546adcc4a594c694687880725f3f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-22-2009",
    "path": "local/prahova/campina/2009/22",
    "short": "HCL Câmpina nr. 22/2009",
@@ -104,6 +1364,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.22-Hotarare-modificare-tarif-SC-Floricon-Salub-SRL.doc",
      "sha256": "eaf1f57f87bafead62047e21905a3f59edc6a1fa3f3e0b220ae9ed561263f5c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-23-2009",
+   "path": "local/prahova/campina/2009/23",
+   "short": "HCL Câmpina nr. 23/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 23/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "581b5ec9f30c9b8fe1358feacf53a55e75d323ad1fedd4ac6ab31650edf97096"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2009",
+   "path": "local/prahova/campina/2009/24",
+   "short": "HCL Câmpina nr. 24/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "45f7edb4bfe6c96f1de7473d7ea7d7db511be26b5604ce964efebf1af6a7935a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-25-2009",
+   "path": "local/prahova/campina/2009/25",
+   "short": "HCL Câmpina nr. 25/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 25/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f0393012c4336eae04db975930e436b0b1dc7c5146e5f39241fcb4c041c0c751"
     }
    ]
   },
@@ -123,6 +1428,81 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-28-2009",
+   "path": "local/prahova/campina/2009/28",
+   "short": "HCL Câmpina nr. 28/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 28/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6aec6f04d8377844f87a585669081dc34520a469de7bb9d1f50b5ae8e8626bf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-29-2009",
+   "path": "local/prahova/campina/2009/29",
+   "short": "HCL Câmpina nr. 29/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 29/2009 privind aprobarea închirierii prin licitație publică a terenului aparținând domeniului privat în suprafață de 60,12 m.p., situat în municipiul Câmpina, Aleea Parcului, f.n",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.29-Hotarare-inchiriere-prin-licitatie-teren-Aleea-Parcului-fn.doc",
+     "sha256": "c4cdfae16e1a1d0c1c585bb36c3b565822025e268864e5228879a3100a0edd7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-3-2009",
+   "path": "local/prahova/campina/2009/3",
+   "short": "HCL Câmpina nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 3/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "8557f9c3d22e6428d6455bfe611a50d737f8cbcc70ae9a4a6059f5d95186a5b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-30-2009",
+   "path": "local/prahova/campina/2009/30",
+   "short": "HCL Câmpina nr. 30/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "974ba91b6defc4ca94865e30fe1105bd5d76e141549e499ec13a3fd541bc1268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2009",
+   "path": "local/prahova/campina/2009/31",
+   "short": "HCL Câmpina nr. 31/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7dfb0e811920c4d617863763cd8e070212939cd071e36f6a44e4bbf25a3fb20b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-32-2009",
    "path": "local/prahova/campina/2009/32",
    "short": "HCL Câmpina nr. 32/2009",
@@ -134,6 +1514,36 @@
      "units": 1,
      "source_url": null,
      "sha256": "b7cdb702ff8d4ea1c83a63cd3061dcb42a5210a024d85f473eb8d8904d6458b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-33-2009",
+   "path": "local/prahova/campina/2009/33",
+   "short": "HCL Câmpina nr. 33/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 33/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "feef8eb93cdd12644a7fef6fb1ab45382b68e1a0ffbd7834792de61501106b35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2009",
+   "path": "local/prahova/campina/2009/34",
+   "short": "HCL Câmpina nr. 34/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "30109e6858013da2dbb743bfcd42a80f6b0717e707ee39551c739d24b323c4b5"
     }
    ]
   },
@@ -168,6 +1578,201 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-38-2009",
+   "path": "local/prahova/campina/2009/38",
+   "short": "HCL Câmpina nr. 38/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2009 privind implementare pr Servicii de calitate pt cetateni",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr38-privind-implementare-pr-Servicii-de-calitate-pt-cetateni.doc",
+     "sha256": "bc50e7d4c63fb045c68852f120eda256c1ce1f668eb4748c4bf4967831569901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-39-2009",
+   "path": "local/prahova/campina/2009/39",
+   "short": "HCL Câmpina nr. 39/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 39/2009 privind transfer cinematograf Central in dom public al municip Campina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr39-privind-transfer-cinematograf-Central-in-dom-public-al-municip-Campina.doc",
+     "sha256": "a2c1b09a97da62f8fc191e7818ac2a297ed861ef53c2bdc202abf5a96ffa68bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-4-2009",
+   "path": "local/prahova/campina/2009/4",
+   "short": "HCL Câmpina nr. 4/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 4/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d279275869d973c1d3f54d6ebf652081f6c4cfbe97380ab91cb1ab89c45e1c1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2009",
+   "path": "local/prahova/campina/2009/40",
+   "short": "HCL Câmpina nr. 40/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2009 privind vanzare licitatie teren curti drept preemtiune",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr40-privind-vanzare-licitatie-teren-curti-drept-preemtiune.doc",
+     "sha256": "b6d9489d39250db1599725dbd5f28fca3d675e47943d32fe9281310c17d70ad5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2009",
+   "path": "local/prahova/campina/2009/41",
+   "short": "HCL Câmpina nr. 41/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2009 privind reglementari transport in regim de taxi",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr41-privind-reglementari-transport-in-regim-de-taxi.doc",
+     "sha256": "100d3ec3a866da1e3710d05a05b7b1578bf3539d83f9d665a5f06ca3396275a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-42-2009",
+   "path": "local/prahova/campina/2009/42",
+   "short": "HCL Câmpina nr. 42/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 42/2009 privind modificare si complt HCL 25 din 2009 drept preemtiune",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr42-privind-modificare-si-complt-HCL-25-din-2009-drept-preemtiune.doc",
+     "sha256": "abb47dde70c26b69a68a1ceef006748bbc1bad9c6d980b57a83d76e0234c2ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-43-2009",
+   "path": "local/prahova/campina/2009/43",
+   "short": "HCL Câmpina nr. 43/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 43/2009 privind numire reprez CL in CA si comisii evaluare unitati scolare",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr43-privind-numire-reprez-CL-in-CA-si-comisii-evaluare-unitati-scolare.doc",
+     "sha256": "a231899f0f34a8c2a873ec65ee7c83d225191813982f68c8280dfa6e9ed5383f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-44-2009",
+   "path": "local/prahova/campina/2009/44",
+   "short": "HCL Câmpina nr. 44/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 44/2009 privind dare in administrare teren strOborului SC Floricon Salub SRL pt deseuri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr44-privind-dare-in-administrare-teren-strOborului-SC-Floricon-Salub-SRL-pt-deseuri.doc",
+     "sha256": "3cff293f1b1aad04bae4de3586be40f5cc67532fcb15b2427324b633df6b30b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-45-2009",
+   "path": "local/prahova/campina/2009/45",
+   "short": "HCL Câmpina nr. 45/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 45/2009 privind indicatori tehnico ec str Fabricii",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr45-privind-indicatori-tehnico-ec-str-Fabricii.doc",
+     "sha256": "18378bfe215ea5ef1cfec4249377e547b15941d65f7c56b9ba0f33c67b8eee70"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-46-2009",
+   "path": "local/prahova/campina/2009/46",
+   "short": "HCL Câmpina nr. 46/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 46/2009 privind indicatori tehnico ec canalizare str Ardealului si Unirii",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr46-privind-indicatori-tehnico-ec-canalizare-str-Ardealului-si-Unirii.doc",
+     "sha256": "7b43ec6462331252cb3a39a84988def369d729fa08d4c8b896f4a2026ee0523a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-47-2009",
+   "path": "local/prahova/campina/2009/47",
+   "short": "HCL Câmpina nr. 47/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 47/2009 privind indicatori tehnico ec canalizare str Marasesti",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr47-privind-indicatori-tehnico-ec-canalizare-str-Marasesti.doc",
+     "sha256": "03c7dd63c59611f95615a66251e9235968a503204b3c8c7d3f280a6be8bb2eae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-48-2009",
+   "path": "local/prahova/campina/2009/48",
+   "short": "HCL Câmpina nr. 48/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 48/2009 privind indicatori tehnico ec canalizare Simion Barnutiu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr48-privind-indicatori-tehnico-ec-canalizare-Simion-Barnutiu.doc",
+     "sha256": "a90e0029140cba02c578a78234d915fd8b34f90b8dcc63b7ed06a0000e5816e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-49-2009",
+   "path": "local/prahova/campina/2009/49",
+   "short": "HCL Câmpina nr. 49/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 49/2009 privind indicatori tehnico ec canalizare Aleea Crizantemelor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr49-privind-indicatori-tehnico-ec-canalizare-Aleea-Crizantemelor.doc",
+     "sha256": "c34dd5fb1e08a575d3db26c4f42575da5b85a5e165551ca598e85ba2ec7b62e5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-5-2009",
    "path": "local/prahova/campina/2009/5",
    "short": "HCL Câmpina nr. 5/2009",
@@ -179,6 +1784,216 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.5-Hotarare-PUZ-Constituire-trama-stradala-Cartier-Campinita.doc",
      "sha256": "db27442d35fced35ba5f77b18e07ddddc66d8777aaeb5fb74ce03fd7ba64048b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-50-2009",
+   "path": "local/prahova/campina/2009/50",
+   "short": "HCL Câmpina nr. 50/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 50/2009 privind indicatori tehnico ec consolidare Aleea Scarisoarei",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr50-privind-indicatori-tehnico-ec-consolidare-Aleea-Scarisoarei.doc",
+     "sha256": "f85af63cce8af86cf7e8b08cf3924a0d6e4a0d0d296247f608f5d6715154465b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-51-2009",
+   "path": "local/prahova/campina/2009/51",
+   "short": "HCL Câmpina nr. 51/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2009 privind indicatori tehnico ec modernizare str Sulfinei",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr51-privind-indicatori-tehnico-ec-modernizare-str-Sulfinei.doc",
+     "sha256": "eeb793c5c3604e60491bbad14b6d1d8292e249ff6e8fcc76bad6bdb5dd556895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-52-2009",
+   "path": "local/prahova/campina/2009/52",
+   "short": "HCL Câmpina nr. 52/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 52/2009 privind indicatori tehnico ec str Lacului si Aleea Stanjeneilor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr52-privind-indicatori-tehnico-ec-str-Lacului-si-Aleea-Stanjeneilor.doc",
+     "sha256": "6a67414663e0cf1f3bd17199660e3f664159f2700c544bb7a979a1cd092a9049"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-53-2009",
+   "path": "local/prahova/campina/2009/53",
+   "short": "HCL Câmpina nr. 53/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 53/2009 privind indicatori tehnico ec canalizare Aleea Crinului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr53-privind-indicatori-tehnico-ec-canalizare-Aleea-Crinului.doc",
+     "sha256": "c5dc73f89cfdcc4aa88f70b7e93c4a28569e13e6cd19d9c8108e69278a6304fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-54-2009",
+   "path": "local/prahova/campina/2009/54",
+   "short": "HCL Câmpina nr. 54/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 54/2009 privind indicatori tehnico ec canalizare str George Baritiu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr54-privind-indicatori-tehnico-ec-canalizare-str-George-Baritiu.doc",
+     "sha256": "d0866e70db4c1d15c03e3720d31f89325848179bb1ac557dfa274b991e466e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-55-2009",
+   "path": "local/prahova/campina/2009/55",
+   "short": "HCL Câmpina nr. 55/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 55/2009 privind indicatori tehnico ec modernizare str Fantanii",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr55-privind-indicatori-tehnico-ec-modernizare-str-Fantanii.doc",
+     "sha256": "5c06bac1ea514e9f4b733eee957644bdcdbc348f9de14cb20db479b3be2a9bf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-56-2009",
+   "path": "local/prahova/campina/2009/56",
+   "short": "HCL Câmpina nr. 56/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2009 privind indicatori tehnico ec modernizare str Alunului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr56-privind-indicatori-tehnico-ec-modernizare-str-Alunului.doc",
+     "sha256": "f19743614f337882d08d9afac0e744711650d186dbd79dbb18a786a1b55e65f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-57-2009",
+   "path": "local/prahova/campina/2009/57",
+   "short": "HCL Câmpina nr. 57/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 57/2009 privind indicatori tehnico ec consolid si amenajare maluri Lacul Bisericii",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr57-privind-indicatori-tehnico-ec-consolid-si-amenajare-maluri-Lacul-Bisericii.doc",
+     "sha256": "dbe789987fa83743a4812ea384fe0e14d36ff915b9328f254f3cc9b838d22480"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-58-2009",
+   "path": "local/prahova/campina/2009/58",
+   "short": "HCL Câmpina nr. 58/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 58/2009 privind indicatori tehnico ec modernizare str Arinului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr58-privind-indicatori-tehnico-ec-modernizare-str-Arinului.doc",
+     "sha256": "484c8830bc6a58fccb2a3bc2fbecaf677a2cf7a77cdc59ae02a55148ac904feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-59-2009",
+   "path": "local/prahova/campina/2009/59",
+   "short": "HCL Câmpina nr. 59/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 59/2009 privind indicatori tehnico ec canalizare Castanilor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr59-privind-indicatori-tehnico-ec-canalizare-Castanilor.doc",
+     "sha256": "219c2c4815320170a0122fc0d13ba12a9ec48fccdeb639dce8e890247506520b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-6-2009",
+   "path": "local/prahova/campina/2009/6",
+   "short": "HCL Câmpina nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 6/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "fe55fba29c49d47a38bbacf7115afe130a25aca8f2c029104310f6a84f89b372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-60-2009",
+   "path": "local/prahova/campina/2009/60",
+   "short": "HCL Câmpina nr. 60/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 60/2009 privind aprobare buget local 2009",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-02",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr60-privind-aprobare-buget-local-2009.doc",
+     "sha256": "a4429c7b41ed49a8912dc6a28514e66556ca798756e3da72a85bd0642954605e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-61-2009",
+   "path": "local/prahova/campina/2009/61",
+   "short": "HCL Câmpina nr. 61/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 61/2009 privind alocare sume de bani pentru manifestari culturale 2009",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-02",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr61-privind-alocare-sume-de-bani-pentru-manifestari-culturale-2009.doc",
+     "sha256": "58b689bbaccc67e5562b0e00128dbe349569a48d405a99380c7513227a3084bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2009",
+   "path": "local/prahova/campina/2009/62",
+   "short": "HCL Câmpina nr. 62/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2009 privind modificare si compl HCL 105 din 2008 reparatii scoli",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-02",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr62-privind-modificare-si-compl-HCL-105-din-2008-reparatii-scoli..doc",
+     "sha256": "1570d7ea34f190bddb4fc8f0c5962727981814c8ef49b6c4cc56ad14cef141fd"
     }
    ]
   },
@@ -228,6 +2043,156 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-66-2009",
+   "path": "local/prahova/campina/2009/66",
+   "short": "HCL Câmpina nr. 66/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2009 privind alocare fonduri parohii",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.66-privind-alocare-fonduri-parohii.doc",
+     "sha256": "465f6f442e33e948f10950ee85350c73de9d58b712d54750f6765824095624e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-67-2009",
+   "path": "local/prahova/campina/2009/67",
+   "short": "HCL Câmpina nr. 67/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 67/2009 privind utilizare fonduri din cota de dezvoltare SC Hidro Prahova Sucursala Campina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.67-privind-utilizare-fonduri-din-cota-de-dezvoltare-SC-Hidro-Prahova-Sucursala-Campina.doc",
+     "sha256": "4cde6054816848664d10f4149554b7153bc965a1efc401b61e671a36c24f7895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2009",
+   "path": "local/prahova/campina/2009/68",
+   "short": "HCL Câmpina nr. 68/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2009 privind modificare si complet art2 din HCL 105 din iulie 2008",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.68-privind-modificare-si-complet-art2-din-HCL-105-din-iulie-2008.doc",
+     "sha256": "f1eaacb7c156a00c1cd7c115e0929c447c0b903884245ccaea8e8e8320879e62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-69-2009",
+   "path": "local/prahova/campina/2009/69",
+   "short": "HCL Câmpina nr. 69/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 69/2009 privind inchiriere parcele faneata naturala",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.69-privind-inchiriere-parcele-faneata-naturala.doc",
+     "sha256": "f9693daaa2736c2a9bf8d376f0b303a1877f6003f959c3a1647576153bc8f8bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-7-2009",
+   "path": "local/prahova/campina/2009/7",
+   "short": "HCL Câmpina nr. 7/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 7/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7a92ec9f5fed7f8ab9cf2a16a484da33f55803e031ea5e9797d83881185e8893"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-70-2009",
+   "path": "local/prahova/campina/2009/70",
+   "short": "HCL Câmpina nr. 70/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 70/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c32b59f02213eeb8499f5d91b704bff34bb61e29979bb322bacbc343c70b2ffe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-71-2009",
+   "path": "local/prahova/campina/2009/71",
+   "short": "HCL Câmpina nr. 71/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 71/2009 privind atribuire in folosinta gratuita spatiu str1 Decembrie 1918 Cultul Eroilor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.71-privind-atribuire-in-folosinta-gratuita-spatiu-str1-Decembrie-1918-Cultul-Eroilor.doc",
+     "sha256": "e3138b8b260cb7fda80a27ba9fc4f3ecb51bcf8412752a6087a7986380fc653c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-72-2009",
+   "path": "local/prahova/campina/2009/72",
+   "short": "HCL Câmpina nr. 72/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 72/2009 privind inchiriere prin licitatie spatiu str Petrolistului activ columbofila",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.72-Hotarare-privind-inchiriere-prin-licitatie-spatiu-str-Petrolistului-activ-columbofila.doc",
+     "sha256": "8d50bc7c08de059e44c59abb745491ee68d00ed7e2d01e303feaa00b52d36812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-74-2009",
+   "path": "local/prahova/campina/2009/74",
+   "short": "HCL Câmpina nr. 74/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 74/2009 privind concesionare fara licitatie teren str Eruptiei fn",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.74-privind-concesionare-fara-licitatie-teren-str-Eruptiei-fn.doc",
+     "sha256": "af8aef34fd0cbb7317c1b4a927ec9b4777d209475d537cac769820eefefab04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-75-2009",
+   "path": "local/prahova/campina/2009/75",
+   "short": "HCL Câmpina nr. 75/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 75/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": "828badeba20da5a380dcfdc72dbe6a4e98e1fe639914704453b34cc0145e4f54"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-76-2009",
    "path": "local/prahova/campina/2009/76",
    "short": "HCL Câmpina nr. 76/2009",
@@ -239,6 +2204,36 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.76-privind-PUZ-IATSA-Campina.doc",
      "sha256": "f561dffeb01ee00e3e7cf7258d5c085582d81cd20e80404a17e15a98c8d10f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-77-2009",
+   "path": "local/prahova/campina/2009/77",
+   "short": "HCL Câmpina nr. 77/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 77/2009 privind modif si complt componenta comisie evaluare finanare nerambursabila",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.77-privind-modif-si-complt-componenta-comisie-evaluare-finanare-nerambursabila.doc",
+     "sha256": "4a5233549e393ba5bbddd819b76a9d5315f3cd2b4e5fb21ad445773da617f5b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-78-2009",
+   "path": "local/prahova/campina/2009/78",
+   "short": "HCL Câmpina nr. 78/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 78/2009 privind inchidere exercitiu bugetar 2008",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr78-privind-inchidere-exercitiu-bugetar-2008.doc",
+     "sha256": "95ca801e6329457a0e50f838738dd5bec9fc6747adedfdc74f39be3f5897aac4"
     }
    ]
   },
@@ -258,6 +2253,141 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-80-2009",
+   "path": "local/prahova/campina/2009/80",
+   "short": "HCL Câmpina nr. 80/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 80/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cb5ff5deb45d381af05f2866ed0d8fdc483995d79ca966c333a748fbd2282dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-81-2009",
+   "path": "local/prahova/campina/2009/81",
+   "short": "HCL Câmpina nr. 81/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 81/2009 privind persoane eligibile subventie construire locuinte",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr81-privind-persoane-eligibile-subventie-construire-locuinte.doc",
+     "sha256": "25a5931c92a80433dd21e75b39a4434b93a3430a4a95cbc980a2abf3a7fa2b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-83-2009",
+   "path": "local/prahova/campina/2009/83",
+   "short": "HCL Câmpina nr. 83/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 83/2009 privind trecerea din domeniul public in privat si inventariere cabinete medicale",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr83-privind-trecerea-din-domeniul-public-in-privat-si-inventariere-cabinete-medicale.doc",
+     "sha256": "d5ec2241a78d711c8459a644f1a6927d480dbccfc902dd700d00b2dda88d5801"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-84-2009",
+   "path": "local/prahova/campina/2009/84",
+   "short": "HCL Câmpina nr. 84/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 84/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c9f999fa3484205eda112e37acb17b4b54aa02307d89f25b8c207e59f1b2b6ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-85-2009",
+   "path": "local/prahova/campina/2009/85",
+   "short": "HCL Câmpina nr. 85/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 85/2009 privind darea in administrare spatii Spitalului municip Campina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr85-privind-darea-in-administrare-spatii-Spitalului-municip-Campina.doc",
+     "sha256": "b2f09cd5d336d1e949edc40ce13162f6057aaded2513715419c1c5229f4b62e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-86-2009",
+   "path": "local/prahova/campina/2009/86",
+   "short": "HCL Câmpina nr. 86/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 86/2009 privind numire reprezentant CL la Centrul de recuperare sindrom Down",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr86-privind-numire-reprezentant-CL-la-Centrul-de-recuperare-sindrom-Down.doc",
+     "sha256": "93b720e2e90323d0a903f3d270bace5847c55e5758bee536f636c9dd17b1c0eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-88-2009",
+   "path": "local/prahova/campina/2009/88",
+   "short": "HCL Câmpina nr. 88/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 88/2009 privind indicatori tehnico ec reabilitare termica str Eruptiei",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-88-Hotarare-privind-indicatori-tehnico-ec-reabilitare-termica-str-Eruptiei.doc",
+     "sha256": "38644eced1e304186bbcad61b3d446e40bcf7c12a82f06d213065c7c59a31f87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-9-2009",
+   "path": "local/prahova/campina/2009/9",
+   "short": "HCL Câmpina nr. 9/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 9/2009",
+   "url": null,
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e304f88b7e9366b41e284a7c9865e9f056853ac821f700442f73e9015aa3de7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-90-2009",
+   "path": "local/prahova/campina/2009/90",
+   "short": "HCL Câmpina nr. 90/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 90/2009 privind inventariere 3 terenuri in dom privat",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-90-Hotarare-privind-inventariere-3-terenuri-in-dom-privat.doc",
+     "sha256": "7d8642f48e84df55e448a802d665fe9405acb3a8d440fa288c4fc2947ee777bb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-91-2009",
    "path": "local/prahova/campina/2009/91",
    "short": "HCL Câmpina nr. 91/2009",
@@ -269,6 +2399,111 @@
      "units": 1,
      "source_url": null,
      "sha256": "5bea75f255dbaf4a3fbf05ba6abf8c98e05e5fb917b51dd369836464d4e75ab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-92-2009",
+   "path": "local/prahova/campina/2009/92",
+   "short": "HCL Câmpina nr. 92/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 92/2009 privind vanzare fara licitatie terenuri aferente curte drept preemtiune",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.92-Hotarare-privind-vanzare-fara-licitatie-terenuri-aferente-curte-drept-preemtiune.doc",
+     "sha256": "ac190438413a1181eb9bf09bb86ea2a4353d036b3230e02e679b9fefb02f4858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2009",
+   "path": "local/prahova/campina/2009/93",
+   "short": "HCL Câmpina nr. 93/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2009 privind infiintare sala de jocuri de noroc Grumman System SRL",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.-93-Hotarare-privind-infiintare-sala-de-jocuri-de-noroc-Grumman-System-SRL.doc",
+     "sha256": "f57bd317e558931f89cbb5814bdab1369bdc7fdd8293e75bdafd00f515c4e134"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-94-2009",
+   "path": "local/prahova/campina/2009/94",
+   "short": "HCL Câmpina nr. 94/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 94/2009 privind majorare preturi transport public local",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.94-Hotarare-privind-majorare-preturi-transport-public-local.doc",
+     "sha256": "9ee1ebc1f712738b9e083956edd9c024305bc5a0f6f974cae110d5877390f1f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-95-2009",
+   "path": "local/prahova/campina/2009/95",
+   "short": "HCL Câmpina nr. 95/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 95/2009 privind rectificarea bugetului local",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.95-Hotarare-privind-rectificarea-bugetului-local.doc",
+     "sha256": "1bedec1fb34b1cbfd38f3c28ab934b611bbf68556434f5a1a672ab5d0210ded5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-96-2009",
+   "path": "local/prahova/campina/2009/96",
+   "short": "HCL Câmpina nr. 96/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 96/2009 privind modificare indicatori Moderniz Calea Daciei",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.96-Hotarare-privind-modificare-indicatori-Moderniz-Calea-Daciei.doc",
+     "sha256": "844ca5f005c41d7d5b7f0d82a5613aaaa00899be32f4fafcd2d9f518dba134c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-98-2009",
+   "path": "local/prahova/campina/2009/98",
+   "short": "HCL Câmpina nr. 98/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 98/2009 privind Act constitutiv si Statut Asoc dezvoltare manag deseurilor",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.98-Hotarare-privind-Act-constitutiv-si-Statut-Asoc-dezvoltare-manag-deseurilor.doc",
+     "sha256": "40b6cdda6f7e2c0c4998a9545e04508ee901d4e7db8f7f8305987e27a336e202"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-99-2009",
+   "path": "local/prahova/campina/2009/99",
+   "short": "HCL Câmpina nr. 99/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 99/2009 privind inventarul domeniului public municipiul Campina",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2009/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hot.-nr.99-Hotarare-privind-inventarul-domeniului-public-municipiul-Campina.doc",
+     "sha256": "b3f67e744afe718dd22a720cfd49708963bc3e63dcea41e90d904488bd244ed3"
     }
    ]
   }

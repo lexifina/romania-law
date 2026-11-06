@@ -3,6 +3,351 @@
  "shard": "local/suceava/campulung-moldovenesc/2024",
  "acts": [
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-1-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/1",
+   "short": "HCL Câmpulung Moldovenesc nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 1/2024 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 31 ianuarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 920 din 10.01.2024; -Raportul de specialitate al Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_001_2024.doc",
+     "sha256": "919e9f72534491a043c76813e44829fc6a80175a86b10d3c9c41dbed6406f9e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-10-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/10",
+   "short": "HCL Câmpulung Moldovenesc nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 10/2024 cu privire la aprobarea bugetului general al municipiului Câmpulung Moldovenesc pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 09 februarie 2024; Având în vedere: -Raportul primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 4426 din 08.02.2024; -Raportul de specialitate al Direcției economice, înregistrat la nr. 4427",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_010_2024.doc",
+     "sha256": "049b041f3cfffd5efd285718ccaec738beb6902b20c4f4fe11190516f88b0c38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-100-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/100",
+   "short": "HCL Câmpulung Moldovenesc nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 100/2024 privind încetarea Acordului de parteneriat încheiat între UAT Județul Suceava și UAT Municipiul Câmpulung Moldovenesc, precum și a Actului adițional nr. 1 la implementarea proiectului „Construire clădire pentru Școala Profesională Specială Câmpulung Moldovenesc”, finanțat din PNRR, Componenta 15 – Educație, Investiția 10: Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi Cons",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_100_2024.docx",
+     "sha256": "6bd8f2bc1f24a179c695d6991d77acc8e212cee2391546cca2127e5be0317ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-101-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/101",
+   "short": "HCL Câmpulung Moldovenesc nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 101/2024 privind aprobarea Acordului de cooperare între municipiul Câmpulung Moldovenesc, Județul Suceava din România și Orașul Cangzhou, Provincia Hebei din Republica Populară Chineză Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 august 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 2649",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_101_2024.docx",
+     "sha256": "e4e6957c984fa88118c04a974ba488f70d06dcd9219d4ccca76f5625f1398317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-103-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/103",
+   "short": "HCL Câmpulung Moldovenesc nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 103/2024 privind aprobarea Organigramei și a Statului de funcții la Biblioteca Municipală Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 august 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 26539 din 12.08.2024; -Raportul de specialitate al Compartimentului resurse",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p6?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_103_2024.doc",
+     "sha256": "3e5d460bfa4ac66403db04554530a4f569a5927d7372b68daeca126e5df90e20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-104-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/104",
+   "short": "HCL Câmpulung Moldovenesc nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 104/2024 cu privire la modul de valorificare a cantității de 97.55 mc lemn fasonat provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Vatra Dornei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 august 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldove",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_104_2024.doc",
+     "sha256": "238c4f1ed45e658e72a1cb7807ba511957073b72673e8e6be270ba4061d86e93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-105-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/105",
+   "short": "HCL Câmpulung Moldovenesc nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 105/2024 privind solicitarea trecerii din domeniul public al Județului Suceava în domeniul public al Municipiului Câmpulung Moldovenesc a imobilelor înscrise în Cărțile funciare 43279 și 43298 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 august 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_105_2024.docx",
+     "sha256": "157812305f6186563067e3934927646cf5fb36a9ca26d98b192d2bbaa4a4104d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-106-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/106",
+   "short": "HCL Câmpulung Moldovenesc nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 106/2024 privind aprobarea derulării proiectului ”Împădurirea trupurilor de pajiște permanentă, pășunea Botușul Mare, proprietate a Municipiului Câmpulung Moldovenesc situate pe raza unității administrativ teritoriale Cârlibaba, județul Suceava” în cadrul, Programului Național de Redresare și Reziliență/2022/C2/I.1.A, Componenta 2: Păduri și protecția biodiversității Investiția 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_106_2024.doc",
+     "sha256": "4706fe2b553394678feaf82858799b1544bb8f1721eb4f064b77240c8e7851f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-107-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/107",
+   "short": "HCL Câmpulung Moldovenesc nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 107/2024 privind aprobarea rectificării bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2024 și a modificării listei de investiții a bugetului local și a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, într",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_107_2024.docx",
+     "sha256": "8387f2b71fee55f2e266ab5d844db06344df7530852b408c0d632bfed744a9e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-108-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/108",
+   "short": "HCL Câmpulung Moldovenesc nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 108/2024 pentru aprobarea etapei a II-a a proiectului \"ÎMBUNTĂȚIREA SERVICIILOR SOCIALE, RECREATIVE ȘI A SPAȚIILOR PUBLICE URBANE ÎN MUNICIPIUL CÂMPULUNG MOLDOVENESC”, COD SMIS 325469 finanțat prin PR Nord-Est 2024 și a cheltuielilor aferente Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 24 septembrie 2024; Având în vedere: -Referatul de aprobare al pr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL-108.docx",
+     "sha256": "5aa350d0598b9d9a2d14a1fcac4d8e1f279e8345025c682f1d4d12d77fd26dbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-109-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/109",
+   "short": "HCL Câmpulung Moldovenesc nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 109/2024 privind atestarea apartenenței la domeniul privat al Municipiului Câmpulung Moldovenesc a unui imobil Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28971 din 06.09.2024; -Raportul de specialitate al Direcției tehnice și u",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_109_2024.doc",
+     "sha256": "b778aa661954075940237789172a01e855bca57898cd7a2f6f1aa0fcd15d6ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-11-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/11",
+   "short": "HCL Câmpulung Moldovenesc nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 11/2024 privind preluarea personalului medical de specialitate de la Școala Profesională Specială Câmpulung Moldovenesc în structura de personal a Primăriei municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință extraordinară din data de 9 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregis",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_011_2024.doc",
+     "sha256": "c445c1b3a2c898aa136c3eaa52c485a55b46d3730b9cb8f37fc13a344e5bebdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-110-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/110",
+   "short": "HCL Câmpulung Moldovenesc nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 110/2024 privind atestarea apartenenței la domeniul public al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28975 din 06.09.2024; -Raportul de specialitate al Direcției tehnice și",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_110_2024.doc",
+     "sha256": "231acf94c8ee422bac9f6bb78239c11ae6a4eeded9dec76617638b7fbdc41888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-111-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/111",
+   "short": "HCL Câmpulung Moldovenesc nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 111/2024 privind atribuirea în folosință gratuită a unui imobil proprietatea privată a municipiului Câmpulung Moldovenesc situat în strada Izvorul Alb f.n., municipiul Câmpulung Moldovenesc, către Mănăstirea „Sihăstria Rarăului“ pentru desfășurarea activitățiilor mănăstirii Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere:",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_111_2024.odt",
+     "sha256": "19c91c66cbae669d2fde3e61d01639499db98fc8a3dfb9aea5f0e210decaf723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-112-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/112",
+   "short": "HCL Câmpulung Moldovenesc nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 112/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 44036 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_112_2024.doc",
+     "sha256": "fbac2e27089d65a81d265aada635142c64195dfa5272d4b62d09ac73db03a607"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-113-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/113",
+   "short": "HCL Câmpulung Moldovenesc nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 113/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilelor identificate cu numerele cadastrale 43969 și 43973 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_113_2024.doc",
+     "sha256": "e3b60bb9a321587cdab748f16dc3bed4159fbe84efbf1c09dc967caf2a3832f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-114-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/114",
+   "short": "HCL Câmpulung Moldovenesc nr. 114/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 114/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 43954 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 28",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_114_2024.doc",
+     "sha256": "d977f0fb418456a1ad4a650859c7b4dcb89cbd7b5519dd9f6e2d983a4ef22021"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-115-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/115",
+   "short": "HCL Câmpulung Moldovenesc nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 115/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 43963 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_115_2024.doc",
+     "sha256": "99a39af57f7e710919c43f9492a849d5a09b00dd0342f6e65cb0c7e013336bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-116-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/116",
+   "short": "HCL Câmpulung Moldovenesc nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 116/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 43990 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_116_2024.doc",
+     "sha256": "2e7f40a850aa081816af6caee9329195eecf49eea406110021764634dcbfae22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-117-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/117",
+   "short": "HCL Câmpulung Moldovenesc nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 117/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 44009 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 29",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_117_2024.doc",
+     "sha256": "6df2c0bebd0250d59968b27a558106221909143795c1b700e1a9f1ae511b2ff3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-118-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/118",
+   "short": "HCL Câmpulung Moldovenesc nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 118/2024 cu privire la modul de valorificare a cantității de 103.53 mc lemn fasonat de foc provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Pojorâta Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_118_2024.doc",
+     "sha256": "5a31e2d06f2f28a9e4f10ea44ca4147473a24746c1682a8632ead606d9289543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-119-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/119",
+   "short": "HCL Câmpulung Moldovenesc nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 119/2024 pentru aprobarea devizului general privind cheltuielile necesare realizării obiectivului de investiții Reabilitare acoperiș corp C, Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară, din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 2",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p5?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_119_2024.docx",
+     "sha256": "464c2f604bbfcd435b3cc87e2eb0a2d10a061fbdd7338be018cf989159ccee20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-12-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/12",
+   "short": "HCL Câmpulung Moldovenesc nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 12/2024 privind atestarea apartenenței la domeniul privat al municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 4845 din 12.02.2024; -Raportul de specialitate al Direcției tehnice și ur",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_012_2024.doc",
+     "sha256": "c2143c08bf0f6c292a87e2617038ee36244c58fdc68d1b3287b7363b43027efa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-120-2024",
    "path": "local/suceava/campulung-moldovenesc/2024/120",
    "short": "HCL Câmpulung Moldovenesc nr. 120/2024",
@@ -14,6 +359,696 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_120_2024.docx",
      "sha256": "d36a7c87f34a56e25579c032eee031121c486435570eed5b93c0028b4bb7ebed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-121-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/121",
+   "short": "HCL Câmpulung Moldovenesc nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 121/2024 privind aprobarea majorării fondului de rezervă al bugetului local pe anul 2024 și a utilizării fondului de rezervă al bugetului local pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 30733 din 24.09.2024; -Rapo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_121_2024.docx",
+     "sha256": "db6c83cc0cf48cb91fb097a0867c771f513ed7cf63ad7fded6d8bc572d263dc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-122-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/122",
+   "short": "HCL Câmpulung Moldovenesc nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 122/2024 cu privire la aprobarea modului de valorificare a unui volum brut de masă lemnoasă de 1495.30 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 26 septembrie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-09-26",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_122_2024.doc",
+     "sha256": "0013c9f07c1fa8b3fa698ce75de519464213ce43ad43f91fd7e520ada701ba46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-124-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/124",
+   "short": "HCL Câmpulung Moldovenesc nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 124/2024 privind aprobarea majorării bugetului local și a fondului de rezervă, virărilor de credite bugetare, influențelor la lista de investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2024 și aprobarea modificărilor bugetului și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri prop",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_124_2024.docx",
+     "sha256": "31daba26513447ee8aa8f37c62ce93de88695abe23f17356188f035faab9b827"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-125-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/125",
+   "short": "HCL Câmpulung Moldovenesc nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 125/2024 privind instituirea unei facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv datorate bugetului local al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere : -Referatul de aprobare",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_125_2024.doc",
+     "sha256": "5f6cd8d891b5333cfc9579398c2e4f3f6fff29837b93cdde17a7d2584ac679d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-126-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/126",
+   "short": "HCL Câmpulung Moldovenesc nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 126/2024 cu privire la modul de valorificare a cantității de 113.20 mc lemn fasonat de foc și 11.60 mc lemn de lucru cu diametrul la capătul gros de maxim 24 cm provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Pojorâta Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Av",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_126_2024.doc",
+     "sha256": "d98f1873038e4346df17dd9eef8803924d6406a712e90140359ba759d60b4bba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-127-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/127",
+   "short": "HCL Câmpulung Moldovenesc nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 127/2024 cu privire la aprobarea modalităților de valorificare a unui volum brut de masă lemnoasă de 926.17 mc, din proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 32479 d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_127_2024.doc",
+     "sha256": "25b82e17563f7f95dbc01333f71e037328b13bc482c2cba52e407c54977532cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-128-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/128",
+   "short": "HCL Câmpulung Moldovenesc nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 128/2024 privind aprobarea programului de măsuri specifice sezonului rece 2024 – 2025 și aprobarea tehnologiei de intervenție în cazul apariției poleiului și a căderilor de zăpadă în municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_128_2024.doc",
+     "sha256": "96501e00b11a5373a5e907a561345ab9069cfef60ffe7d72d87c8477fe398793"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-129-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/129",
+   "short": "HCL Câmpulung Moldovenesc nr. 129/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 129/2024 pentru acceptarea donației cu sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a cotei de 4/32 din imobilului identificat cu numărul cadastral 33869 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, î",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_129_2024.doc",
+     "sha256": "564a8263dc0119be145aeaafe25dd21429a9abe27c6a8ca6ee24453a170f0cbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-13-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/13",
+   "short": "HCL Câmpulung Moldovenesc nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 13/2024 privind concesionarea prin licitație a terenului proprietatea privată a municipiului Câmpulung Moldovenesc în suprafață de 1214 mp, situat în strada Aeroportului fn, Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregist",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_013_2024.doc",
+     "sha256": "ed887f20a60e933be82d903ae5b2609ab596b7fa6a66a015853711421b30e0e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-130-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/130",
+   "short": "HCL Câmpulung Moldovenesc nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 130/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 44043 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_130_2024.doc",
+     "sha256": "137e3026ccba5d5ba1a18bf60d64590e1a115eb6e6598fdd985d3636e7d9a077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-131-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/131",
+   "short": "HCL Câmpulung Moldovenesc nr. 131/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 131/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 44038 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_131_2024.doc",
+     "sha256": "98cf3491cd34ce78958d335f0a0f3918e093e4685ea8333ef4d8855140f8e474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-132-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/132",
+   "short": "HCL Câmpulung Moldovenesc nr. 132/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 132/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 44006 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_132_2024.doc",
+     "sha256": "73c5e0b866f122bef950b15c0d6fe0bb6427b5300e8560ade108d26bbc2f9372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-133-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/133",
+   "short": "HCL Câmpulung Moldovenesc nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 133/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilelor identificate cu numerele cadastrale 44002, 43930 și 43934 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_133_2024.doc",
+     "sha256": "20bd0355da71761449189d9e9043f385fc6e6f9a6480c0ba60c6a0ea31142226"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-134-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/134",
+   "short": "HCL Câmpulung Moldovenesc nr. 134/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 134/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilelor identificate cu numerele cadastrale 44122 și 44123 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înreg",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_134_2024.doc",
+     "sha256": "b3ba76eafbd8f84bcc57ee1a5968996740283580f4964ba6259c6c324087c232"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-135-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/135",
+   "short": "HCL Câmpulung Moldovenesc nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 135/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 43995 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p4?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_135_2024.doc",
+     "sha256": "310b16a6cde635707e8b5c71956b367b4ca9dfc84653bcadbc2339ee919de37d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-136-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/136",
+   "short": "HCL Câmpulung Moldovenesc nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 136/2024 pentru acceptarea donației cu sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 33713 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_136_2024.doc",
+     "sha256": "e51352da0442aa4db48bb929c53e2b23ae479a577544e22edfc6b388509060fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-137-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/137",
+   "short": "HCL Câmpulung Moldovenesc nr. 137/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 137/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_137_2024.doc",
+     "sha256": "7a95ad00e6d46b2bda8cb7e29bea3330d5544075bdd6d879cc5f96723ff55a52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-138-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/138",
+   "short": "HCL Câmpulung Moldovenesc nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 138/2024 privind aprobarea devizului general actualizat după încheierea procedurilor de achiziție pentru obiectivul de investiții “Reabilitare și modernizare străzi în municipiul Câmpulung Moldovenesc, județul Suceava”, finanțat prin Programul național de investiții “Anghel Saligny” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 11 octombrie 2024; Având",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-11",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_138_2024.doc",
+     "sha256": "2ee2923ce0a0f9081607289c7a2ee03a1bdad72e3e9792a53ceeb1503aab9e5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-139-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/139",
+   "short": "HCL Câmpulung Moldovenesc nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 139/2024 privind aprobarea devizului general actualizat privind cheltuielile necesare realizării obiectivului de investiții ,,Centru de zi de recuperare pentru copii cu dizabilități, Câmpulung Moldovenesc”, cod proiect 350490833 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din 21 octombrie 2024; Având în vedere: -Referatul de aprobare al Primarului Municipiului C",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_139_2024.doc",
+     "sha256": "bc7fc14d08a18ee63968af14acb835767492ff2a541534e92a8b7a06482d52d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-14-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/14",
+   "short": "HCL Câmpulung Moldovenesc nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 14/2024 cu privire la prelungirea duratei unui contract de închiriere pentru un spațiu cu destinația de locuință Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 4854 din 12.02.2024; -Raportul de specialitate al Compartimentului spaț",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_014_2024.doc",
+     "sha256": "dd128495d115680e7ecce5667b937fcd6b51f4ca72c0a8d4470371a18a6cee4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-140-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/140",
+   "short": "HCL Câmpulung Moldovenesc nr. 140/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 140/2024 privind aprobarea contribuției anuale a U.A.T",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL_140_2024.DOC",
+     "sha256": "e71cc4c4508bc37717e180863771783fbcd10b580d28abf90b995432f9c776df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-143-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/143",
+   "short": "HCL Câmpulung Moldovenesc nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 143/2024 cu privire la aprobarea finanțărilor nerambursabile din bugetul local al municipiului Câmpulung Moldovenesc pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinară din data de 21 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 33236 din 17.10.2024; -Raportul de specialitate al Direc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/HCL_143-2024.DOC",
+     "sha256": "9b736e48842ef3e64e413a5bd53400ff76bd307691e7d4bc59c6ce17fb213348"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-144-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/144",
+   "short": "HCL Câmpulung Moldovenesc nr. 144/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 144/2024 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința extraordinară din data de 29 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 34254 din 25.10.2024; -Raportul de specialitate al Di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_144_2024.doc",
+     "sha256": "b03d4293402899c36fa47bb74584362d5e1524b7ff50ec2aee3815f1980b442e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-145-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/145",
+   "short": "HCL Câmpulung Moldovenesc nr. 145/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 145/2024 privind constituirea comisiilor de specialitate ale Consiliului local al municipiului Câmpulung Moldovenesc pe principalele domenii de activitate Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința extraordinară din data de 29 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 34257 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_145_2024.doc",
+     "sha256": "c344656994e67bd62ea01064648b6d3f6c1fca10fee57204b047890adcfc5fbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-146-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/146",
+   "short": "HCL Câmpulung Moldovenesc nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 146/2024 privind alegerea viceprimarului Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința extraordinară din data de 31 octombrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 34707 din 30.10.2024; -Raportul de specialitate al Direcției administrație publică, înr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_146_2024.doc",
+     "sha256": "6dbdf48e51f2e4cbed4db518cf4ae93b876db4063e170fef2ef461e2c6614644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-147-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/147",
+   "short": "HCL Câmpulung Moldovenesc nr. 147/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 147/2024 privind aprobarea majorării bugetului local și a fondului de rezervă, virărilor de credite bugetare, influențelor la lista de investiții a bugetului și utilizării fondului de rezervă al bugetului local pe anul 2024 și aprobarea modificărilor bugetului și a influențelor la lista de investiții în cadrul bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri prop",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-21",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_147_2024.docx",
+     "sha256": "01397c5f52a9bd3f6c16130deb5898a18fcfe62280855a00fe3e21608b259fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-148-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/148",
+   "short": "HCL Câmpulung Moldovenesc nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 148/2024 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul III 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc înregistrat la nr. 36283 din 11.11.2024; -Raportul de specialitate al Dire",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_148_2024.doc",
+     "sha256": "fd3cca6f0e9d03a8ea2160a597a20fb804bb4e9a2e8675c9289ec188e81484b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-149-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/149",
+   "short": "HCL Câmpulung Moldovenesc nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 149/2024 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar din municipiul Câmpulung Moldovenesc, pentru anul școlar 2025-2026 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024, Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 36333 din 11.11.2024; -Raportul d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_149_2024.doc",
+     "sha256": "c0279c7c4c59cfa41a44a8c3e008f5efd1b94330ee2ed12a417ec61678a13125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-15-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/15",
+   "short": "HCL Câmpulung Moldovenesc nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 15/2024 privind aprobarea listei de priorități pe anul 2024 pentru repartizare, în vederea închirierii, a locuințelor aflate în administrarea municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 5021 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_015_2024.doc",
+     "sha256": "86d50443b83313d39ab63a75c04795b63ec7824b53943aec581fe93125be64aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-150-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/150",
+   "short": "HCL Câmpulung Moldovenesc nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 150/2024 privind aprobarea Regulamentului de organizare și funcționare al Bibliotecii Municipale Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 36343 din 11.11.2024; -Raportul de specialitate al Compartimentulu",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_150_2024.doc",
+     "sha256": "4afce9825f4d22b22fd63b598808460028b0dee46e69ee75cdd8946c8b72258b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-151-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/151",
+   "short": "HCL Câmpulung Moldovenesc nr. 151/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 151/2024 privind aprobarea prețului de referință pentru masa lemnoasă pe picior care se recoltează din fondul forestier proprietate publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 36249 di",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p3?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_151_2024.doc",
+     "sha256": "fadf61ed4b7f21d470c7b1c72f48f8749e00f01a6cdf4f738fbf52825fd46fcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-152-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/152",
+   "short": "HCL Câmpulung Moldovenesc nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 152/2024 privind aprobarea acordului de colaborare între Municipiul Câmpulung Moldovenesc și MOLOCEA PARK SRL, în vederea amenajării unui patinoar pe terenul de sport situat în Câmpulung Moldovenesc strada 22 Decembrie f.n., proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în ve",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_152_2024.doc",
+     "sha256": "f646036bd94e967617411a24320f18e69120de7b42f2bac6e44d9b7b07d2bf3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-154-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/154",
+   "short": "HCL Câmpulung Moldovenesc nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 154/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilelor identificate cu numerele cadastrale 43956 și 44217 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_154_2024.doc",
+     "sha256": "f714f7db94d241eddd1592e0cb3ad483217859d371304331513d788677f1fca7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-155-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/155",
+   "short": "HCL Câmpulung Moldovenesc nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 155/2024 pentru acceptarea donației cu sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a cotei de 8/16 din imobilului identificat cu numărul cadastral 33869 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregi",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_155_2024.doc",
+     "sha256": "705ea2d2a5c7e506b15d07530ad4225949c3d1f98e97e590083e293a7fbdaa4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-156-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/156",
+   "short": "HCL Câmpulung Moldovenesc nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 156/2024 pentru acceptarea donației fără sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilului identificat cu numărul cadastral 43975 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 362",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_156_2024.doc",
+     "sha256": "9e8ca64bea197e76b29c3a7dc692623bd493dda8d4a747e53c7f5b023571aef7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-157-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/157",
+   "short": "HCL Câmpulung Moldovenesc nr. 157/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 157/2024 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în Consiliul de Administrație al Spitalului de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 3634",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_157_2024.doc",
+     "sha256": "66ba5b96ef633f581fbf912cdb451a443fcd82fb193584ee8acdbd90e4c71d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-158-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/158",
+   "short": "HCL Câmpulung Moldovenesc nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 158/2024 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în comisia de concurs/examen, respectiv în comisia de soluționare a contestațiilor la concursul organizat pentru ocuparea funcției specifice comitetului director, de director financiar-contabil al Spitalului de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_158_2024.doc",
+     "sha256": "a5d7bfc5b92367b67d84d5042a820754932a5a350f79980209f165ccb45d1039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-159-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/159",
+   "short": "HCL Câmpulung Moldovenesc nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 159/2024 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în Consiliul de Administrație al Spitalului Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_159_2024.doc",
+     "sha256": "cbfdd8dfd4f538a4cefa08ae83df67960143a46902ee40acb13385f19d110371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-16-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/16",
+   "short": "HCL Câmpulung Moldovenesc nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 16/2024 privind aprobarea vânzării directe a cantității de 369.00 mc lemn de foc, 25.23 mc lemn de lucru cu diametrul la capătul gros de maxim 24 cm și 7.64 mc lemn de lucru cu diametrul la capătul gros mai mare de 24 cm , din fondul forestier proprietate publică a municipiului Câmpulung Moldovenesc, către cetățenii municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_016_2024.doc",
+     "sha256": "981323a76019bbf63442cd0017d6f269c5a816d21f83091a7da6fee83b9008a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-160-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/160",
+   "short": "HCL Câmpulung Moldovenesc nr. 160/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 160/2024 privind desemnarea reprezentantului Consiliului Local al municipiului Câmpulung Moldovenesc în Consiliul de administrație al Bibliotecii Municipale Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 36338",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_160_2024.doc",
+     "sha256": "4e04327db7cac38856f4b3402291517ad7c05b5f5bc22e017b651a83502e1bcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-161-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/161",
+   "short": "HCL Câmpulung Moldovenesc nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 161/2024 privind desemnarea reprezentantului Consiliului Local al municipiului Câmpulung Moldovenesc în Consiliul de administrație al Muzeului “Arta Lemnului” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 3631",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_161_2024.doc",
+     "sha256": "b2c38c70c5346b924d3842f29e4667e78621dc41d8aa1498ef84b4e73edd2d3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-162-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/162",
+   "short": "HCL Câmpulung Moldovenesc nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 162/2024 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în Consiliul de administrație al Clubului Sportiv Municipal ,,Rarăul” Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_162_2024.doc",
+     "sha256": "273ff5493e4ec2a11b07f1ac97fb70b7cf7493fa4401d9be106b424086bb3609"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-163-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/163",
+   "short": "HCL Câmpulung Moldovenesc nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 163/2024 privind desemnarea reprezentanților Consiliului Local al municipiului Câmpulung Moldovenesc în consiliile de administrație ale unităților de invățământ preuniversitar din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 noiembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mold",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_163_2024.doc",
+     "sha256": "4b484f9f2effbe7f6e2f0d5f67c099319f58cf09bf672d6ab42a6343688915ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-164-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/164",
+   "short": "HCL Câmpulung Moldovenesc nr. 164/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 164/2024 privind instituirea unei facilități fiscale și aprobarea procedurii de anulare a accesoriilor aferente obligațiilor bugetare principale restante la data de 31.08.2024 inclusiv datorate bugetului local al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinarã din data de 28 noiembrie 2024; Având în vedere : -Referatul de aprobare al pr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_164_2024.doc",
+     "sha256": "61230074386bfe5676bb9457a1dd431fb0ad22b8e05d35172b56107c0f5a9fa7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-165-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/165",
+   "short": "HCL Câmpulung Moldovenesc nr. 165/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 165/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_165_2024.doc",
+     "sha256": "1051bd5e69150044e2edd84dc7a55876f2832864d63b3b59a5cc7258b9c6afbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-166-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/166",
+   "short": "HCL Câmpulung Moldovenesc nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 166/2024 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39839 din 10.12.2024; -Raportul de specialitate al Direcți",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p2?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_166_2024.doc",
+     "sha256": "5a2ed25e2f2677a8dfa453991ebaf318e1f3cc8bde204880d7ab59cc1cf28332"
     }
    ]
   },
@@ -33,6 +1068,36 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-168-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/168",
+   "short": "HCL Câmpulung Moldovenesc nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 168/2024 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al municipiului Câmpulung Moldovenesc, județul Suceava Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședință ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 39953 din 10.12.2024; -Raportul de specialitate a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_168_2024.doc",
+     "sha256": "a322e3eceae775d7cc50bdb8368e6cfda535b245cf481daacc67d51d658948c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-170-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/170",
+   "short": "HCL Câmpulung Moldovenesc nr. 170/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 170/2024 pentru acceptarea donației cu sarcini, în domeniul public al municipiului Câmpulung Moldovenesc, a imobilelor identificate cu numerele cadastrale 44265 și 44266 Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_170_2024.doc",
+     "sha256": "fea3ebfda8435017d58d212ee520afb68051879c879bac78bc076885d830badb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-172-2024",
    "path": "local/suceava/campulung-moldovenesc/2024/172",
    "short": "HCL Câmpulung Moldovenesc nr. 172/2024",
@@ -44,6 +1109,141 @@
      "units": 1,
      "source_url": "https://www.campulungmoldovenesc.ro/files/infoHCL/hcl_172_2024.docx",
      "sha256": "faf65e573b39a1c3ecb552b3a2e9ee4bd5ddc3f00dc1296d99e9bbc0ec3308ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-173-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/173",
+   "short": "HCL Câmpulung Moldovenesc nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 173/2024 cu privire la subvenționarea transportului local de călători și acordarea de facilități . pentru transportul public pentru unele categorii ale populației, în municipiul Câmpulung Moldovenesc, în perioada 1 ianuarie 2025 - 31 decembrie 2025",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_173_2024.doc",
+     "sha256": "541ab451792ab1ce32bbc87295a9745c324a11f5a1b8f4edf77f11c951556875"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-174-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/174",
+   "short": "HCL Câmpulung Moldovenesc nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 174/2024 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 50.000 lei Asociației militar-creștine ”Sf",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_174_2024.DOC",
+     "sha256": "295734ac0b7099d7bafbffe981dcfdc57acc693b20ec05de959a2db26628bbf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-175-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/175",
+   "short": "HCL Câmpulung Moldovenesc nr. 175/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 175/2024 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului municipiului Câmpulung Moldovenesc și a instituțiilor subordonate Consiliului Local Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistra",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_175_2024.doc",
+     "sha256": "90e6b32b8cb04a6d41f374230d662ea38b47e4546de924413ee1591ceeab87c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-176-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/176",
+   "short": "HCL Câmpulung Moldovenesc nr. 176/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 176/2024 privind aprobarea organigramei, statului de funcții și a numărului de personal la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 40003 din 10.12.2024; -Raportul de specialitate al Co",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_176_2024.doc",
+     "sha256": "31031a6356059ad92e0b87c566e6ecec59b60aa2a9e6a81b3020aedffdd36456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-177-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/177",
+   "short": "HCL Câmpulung Moldovenesc nr. 177/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 177/2024 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 40007 din 10.12.2024; -Raportul de specialitate a",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_177_2024.doc",
+     "sha256": "940eec59241f8669b35a70288cd9aab83a373687ca23003db0d9ea8c5ad6bc9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-179-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/179",
+   "short": "HCL Câmpulung Moldovenesc nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 179/2024 cu privire la premierea unor performanțe deosebite obținute de Clubul Sportiv Municipal ,,Rarăul” la competiții sportive naționale și internaționale organizate în anul 2024 la atletism și în anul 2023 la QWAN KI DO Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câm",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_179_2024.doc",
+     "sha256": "e075df4b97413576c18e81b35c1c38063da11e83ef665f8796f57713e18206b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-18-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/18",
+   "short": "HCL Câmpulung Moldovenesc nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 18/2024 cu privire la aprobarea modului de valorificare a unui volum brut de masă lemnoasă de 308.14 mc, din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrată la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_018_2024.doc",
+     "sha256": "473a0f5a80b7eaea26d3c8bad22317f71ec71d98805975a40c90b69a96d3b15b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-180-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/180",
+   "short": "HCL Câmpulung Moldovenesc nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 180/2024 cu privire la premierea unor performanțe sportive deosebite obținute la competiții naționale și internaționale organizate în anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 40022 din 10.12.2024; -Raportul de specia",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_180_2024.doc",
+     "sha256": "0e2b391fcedd7047a1a9919a801b8edf8e86797ffb069c817c39d54e6b6be1dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-181-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/181",
+   "short": "HCL Câmpulung Moldovenesc nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 181/2024 pentru modificarea articolului 1 din Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 89 din 26 iulie 2012 cu privire la constituirea comisiei de analiză a solicitărilor de locuințe Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 18 decembrie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL?an=2024",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_181_2024.doc",
+     "sha256": "b5903f480fa587f2dfbc4ab552e1a82a531cf90572d818d2483a0ea4633fb01e"
     }
    ]
   },
@@ -78,6 +1278,231 @@
    ]
   },
   {
+   "slug": "hcl-suceava--campulung-moldovenesc-19-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/19",
+   "short": "HCL Câmpulung Moldovenesc nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 19/2024 cu privire la premierea unor performanțe deosebite obținute de Clubul Sportiv Municipal ”Rarăul” la competiții sportive naționale și internaționale organizate în anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 4902",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_019_2024.doc",
+     "sha256": "bf3e2c63b936deeea1b843419a6fa9a581bbff38660f69fe7e8479bbfed991fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-2-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/2",
+   "short": "HCL Câmpulung Moldovenesc nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 2/2024 cu privire la modul de valorificare a cantității de 275.72 mc lemn fasonat provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Vatra Dornei Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mold",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_002_2024.doc",
+     "sha256": "274a89c5b15bc6670edb9b7aa9d7a7549006d758d1945256b80de5b0d038eef0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-20-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/20",
+   "short": "HCL Câmpulung Moldovenesc nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 20/2024 privind aprobarea calendarului de evenimente organizate de către municipiul Câmpulung Moldovenesc în anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 4921 din 12.02.2024; -Raportul Compartimentului juridic din cadrul",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_020_2024_2024-03-05-101330_frhg.docx",
+     "sha256": "60d1214897793b499e90fb37bb7d13be98eb5ca47c9755dd7e1465695a9856e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-21-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/21",
+   "short": "HCL Câmpulung Moldovenesc nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 21/2024 privind aprobarea structurii organizatorice la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 5001 din 12.02.2024; -Raportul de specialitate al Compartimentului resurse umane, înregi",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_021_2024.doc",
+     "sha256": "35bbe6dda8e7f9a2caba6d40f46fb5c52afcfacb210504eeb98843789518af61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-22-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/22",
+   "short": "HCL Câmpulung Moldovenesc nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 22/2024 privind aprobarea organigramei, statului de funcții și a numărului de personal la Spitalul Municipal Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 5010 din 12.02.2024; -Raportul de specialitate al Com",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_022_2024.doc",
+     "sha256": "13f8f9b310fbf8e72549266dc88d22145daec7b0f564fbe7b589e967774731cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-23-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/23",
+   "short": "HCL Câmpulung Moldovenesc nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 23/2024 privind aprobarea închirierii prin licitație publică a unor spații cu destinația de cabinete medicale, situate în incinta Ambulatoriului de Specialitate Câmpulung Moldovenesc, din str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p11?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_023_2024.doc",
+     "sha256": "9d26831480f63a2c6be9d81e6a029340bde0a0361fedc161a1768eaa72ce2565"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-24-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/24",
+   "short": "HCL Câmpulung Moldovenesc nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 24/2024 cu privire la aprobarea Planului Urbanistic de Detaliu ,,Construire imobil cu funcțiuni mixte – cabinete medicale și locuințe”, strada I",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_024_2024.doc",
+     "sha256": "db5f74b5d368103d6159370ef5a1f92302c887a6e528e0745415d396a8e4fc88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-25-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/25",
+   "short": "HCL Câmpulung Moldovenesc nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 25/2024 privind aprobarea STRATEGIEI INTEGRATE DE DEZVOLTARE URBANĂ A MUNICIPIULUI CÂMPULUNG MOLDOVENESC (SIDU) 2021-2027 Versiunea actualizată în conformitate cu DOCUMENTUL CADRU DE IMPLEMENTARE A DEZVOLTARII URBANE, PROGRAMUL REGIONAL NORD-EST 2021-2027 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 29 februarie 2024; Având în vedere: -Referatul de aproba",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_025_2024.doc",
+     "sha256": "b46cc0154a5cf010fb2e30beca4ac4f9decfb8183b9a90e9e726e689c1f0e427"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-26-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/26",
+   "short": "HCL Câmpulung Moldovenesc nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 26/2024 privind aprobarea contului de execuție al bugetului general al municipiului Câmpulung Moldovenesc pe trimestrul IV 2023 și pe anul 2023 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 martie 2024; Având în vedere : -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8480 din 11.03.2024; -Raportul de speciali",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_026_2024.doc",
+     "sha256": "242a46d8b34fb3b60dfb3092f2e778c9ca82a253b3ade94fd28a345380fc97ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-3-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/3",
+   "short": "HCL Câmpulung Moldovenesc nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 3/2024 privind închirierea prin licitație publică a unor loturi de teren proprietatea publică a municipiului Câmpulung Moldovenesc pentru amplasarea de panouri publicitare cu caracter provizoriu Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregist",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_003_2024.doc",
+     "sha256": "4643f04d6abe350f884461dd8a1439a393a00c0c961985a845ead5806323d1cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-30-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/30",
+   "short": "HCL Câmpulung Moldovenesc nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 30/2024 pentru modificarea anexei numărul 1 și completarea anexei numărul 2 la Hotărârea Consiliului Local nr. 80/25.05.2023 pentru darea în administrare către Direcția Silvică Suceava prin ocoalele silvice din subordine a fondului forestier proprietatea publică a Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 martie 20",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_030_2024.doc",
+     "sha256": "4c72fa1915fe05965b7c6e673194e1f76b90eab32f796e89cbf617bc461ef828"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-31-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/31",
+   "short": "HCL Câmpulung Moldovenesc nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 31/2024 privind atribuirea directă a contractului de delegare a gestiunii Serviciului pentru gestionarea câinilor fără stăpân din municipiul Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 martie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8514 din 11.03.2024; -Raportul d",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_031_2024.DOC",
+     "sha256": "af9ab7d5cb30834b4f99a5289221fe437ef2d547b8eedc1ec2c8513f48f8b3fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-32-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/32",
+   "short": "HCL Câmpulung Moldovenesc nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 32/2024 privind aprobarea Programului de subvenționare a ,,Campaniei de sterilizare, identificare și inregistrare a câinilor cu stăpân ce aparțin rasei comune și metișilor acestora aflați pe raza Municipiul Câmpulung Moldovenesc” precum și aprobarea încredințării acțiunilor de sterilizare, identificare și inregistrare a câinilor cu stăpân ce aparțin rasei comune și metișilor acestora aflați pe raza Munici",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_032_2024.DOC",
+     "sha256": "a8bf2fa689fa841fdb459188e09eb04125920b788e283030e7361c84aa252684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-33-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/33",
+   "short": "HCL Câmpulung Moldovenesc nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 33/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_033_2024.doc",
+     "sha256": "7c88e162be4f2f7760d2baefdfa036146b2829278856123a03d931e97240423e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-34-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/34",
+   "short": "HCL Câmpulung Moldovenesc nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 34/2024 privind aprobarea Organigramei, statului de funcții și a numărului de personal la Spitalul de Psihiatrie Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 martie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8694 din 11.03.2024; -Raportul de specialitate al Co",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_034_2024.doc",
+     "sha256": "4336af1d06d95872a0e9d040fa7e06d2fbcc1330436f46841f22a482730a8adb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-suceava--campulung-moldovenesc-35-2024",
    "path": "local/suceava/campulung-moldovenesc/2024/35",
    "short": "HCL Câmpulung Moldovenesc nr. 35/2024",
@@ -104,6 +1529,321 @@
      "units": 1,
      "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_036_2024.docx",
      "sha256": "edacef761ccc234804cefcec527645293ab2926aa0105dd0fd2944adbf9a3635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-37-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/37",
+   "short": "HCL Câmpulung Moldovenesc nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 37/2024 cu privire la premierea unor performanțe deosebite obținute la competiții naționale și internaționale Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din 28 martie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8631 din 11.03.2024; -Raportul de specialitate al Direcției economice, înregistrat la",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_037_2024.doc",
+     "sha256": "b58667bc7156b95d52b5f9bcb1055619109c4e531e7ebf44a8c6b18bb0ff088d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-38-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/38",
+   "short": "HCL Câmpulung Moldovenesc nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 38/2024 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 150.000 lei Parohiei „Adormirea Maicii Domnului” Câmpulung Moldovenesc pentru cofinanțarea lucrărilor de amenajare peisagistică a curții bisericii din str",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_038_2024.DOC",
+     "sha256": "ade1942803d4f1652256887aa121b8e1959a9e57d08071a21f7b2112f0e6cda3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-39-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/39",
+   "short": "HCL Câmpulung Moldovenesc nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 39/2024 cu privire la alocarea din bugetul local al municipiului Câmpulung Moldovenesc a sumei de 40.000 lei Parohiei „Înălțarea Domnului” Sâhla Câmpulung Moldovenesc pentru achiziționarea unui container modular și a unei fose septice Consiliul Local al municipiului Câmpulung Moldovenesc întrunit în ședința ordinarǎ din data de 28 martie 2024; Având în vedere: -Referatul de aprobare al primarului municipi",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p10?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_039_2024.DOC",
+     "sha256": "8728bdd0dd9c42319ff07c3d4d1f05fc19ba1f51d7a6243ba5166d527e13efec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-4-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/4",
+   "short": "HCL Câmpulung Moldovenesc nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 4/2024 privind închirierea unei suprafețe de teren proprietatea privată a Municipiului Câmpulung Moldovenesc cu destinația de spălătorie auto Consiliul Local al Municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 31 ianuarie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 936 din 10.01.2024; -Raportul de specialit",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p12?an=2024",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_004_2024.doc",
+     "sha256": "fa2f7f8e9251c330c24c491de0cb60c6a68be26630089d13404f9b99d8598bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-40-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/40",
+   "short": "HCL Câmpulung Moldovenesc nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 40/2024 privind vânzarea prin licitație publică a unei suprafețe de teren de 187 mp, proprietatea privată a municipiului Câmpulung Moldovenesc, situat în str. I",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_040_2024.doc",
+     "sha256": "98cfcd8b459eecf0314b6e3d00cdcc74a3b7011d5001b7d5d92b431fd0f14161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-41-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/41",
+   "short": "HCL Câmpulung Moldovenesc nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 41/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_041_2024.docx",
+     "sha256": "1d80acbfa3e2dc1e7b3a1c8d6572d55fb02a1af9ff53e93258a7299786b39aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-42-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/42",
+   "short": "HCL Câmpulung Moldovenesc nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 42/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_042_2024.docx",
+     "sha256": "0e356c1a24cd37239d6abf0caee18ebd5d666c5aa49559ca5f9e7f0dd56d86e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-43-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/43",
+   "short": "HCL Câmpulung Moldovenesc nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 43/2024 privind atestarea Inventarului bunurilor care aparțin domeniului privat al municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 28 martie 2024; Având în vedere: -Referatul de aprobare a primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 8654 din 11.03.2024; -Raportul de specialitate al Direcției tehnice și",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_043_2024.doc",
+     "sha256": "9b4eef1c2ec0b69e56db78f6e8b6a39f0b5247b120ebc09e6eb81fb5dc238a33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-44-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/44",
+   "short": "HCL Câmpulung Moldovenesc nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 44/2024 privind aprobarea rectificării bugetului local, utilizării fondului de rezervă, virărilor de credite bugetare și a influențelor la lista de investiții a bugetului local pe anul 2024, aprobarea rectificării bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordin",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_044_2024.docx",
+     "sha256": "7ad820dfae329670490b5fc48b42e1b2bb5da44bc34b2db0bd33bc1aa6b69201"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-45-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/45",
+   "short": "HCL Câmpulung Moldovenesc nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 45/2024 privind aprobarea documentației tehnico-economice (faza D.A.L.I.) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Centru Comunitar Integrat Câmpulung Moldovenesc” finanțat prin Planul Național de Redresare și Reziliență - Componenta C12 – Sănătate - Investiția 1",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_045_2024.docx",
+     "sha256": "3804c87505ebee30476a4b1f52848f1eddb6f2dd179eeacd39c014d4f7f1487b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-46-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/46",
+   "short": "HCL Câmpulung Moldovenesc nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 46/2024 privind alegerea președintelui de ședință al Consiliului Local al Municipiului Câmpulung Moldovenesc Consiliul Local al municipiului Câmpulung Moldovenesc, județul Suceava, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 12586 din 10.04.2024; -Raportul de specialitate al Direcției",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_046_2024.doc",
+     "sha256": "0b2f55e6865f90c5a0f42c0d40634b501d89d95a3e5299ba2dbd6c47418ee6aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-47-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/47",
+   "short": "HCL Câmpulung Moldovenesc nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 47/2024 privind aprobarea rectificării bugetului local, a bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii, modificării listei de invetiții a bugetului local și aprobarea bugetului fondurilor externe nerambursabile pe anul 2024 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_047_2024.docx",
+     "sha256": "e7599291eeda5404c5efd1aa9ca8be4c52d5bde7e88bfcb67dd86ae4fc4d4310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-48-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/48",
+   "short": "HCL Câmpulung Moldovenesc nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 48/2024",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_048_2024.DOC",
+     "sha256": "1716ce11fe52a67a9f9a7f64c5a3a8c4b46917cbb704cfe08084b6070567be02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-49-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/49",
+   "short": "HCL Câmpulung Moldovenesc nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 49/2024 privind alocarea cantității de 100 m.c. material lemnos de lucru, pentru reparații la un bun imobil proprietatea Bisericii “Înălțarea Domnului” Sîhla din Municipiul Câmpulung Moldovenesc 2 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregist",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_049_2024.doc",
+     "sha256": "e702ae8c405174d6d4d6b12d1a03188dadb7a0b9472522298efb1f70118acb30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-50-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/50",
+   "short": "HCL Câmpulung Moldovenesc nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 50/2024 cu privire la alocarea cantității de 15 m.c. material lemnos de lucru, ca ajutor de urgență pentru refacerea unor anexe afectate de incendiu 2 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 12666 din 10.04.2024; -Raportul de",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_050_2024.doc",
+     "sha256": "379bb02b58b3f46836ec748409a80e64455bf2fa661027ecd8bbf84cad1d9bab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-51-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/51",
+   "short": "HCL Câmpulung Moldovenesc nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 51/2024 cu privire la modul de valorificare a cantității de 103.53 mc lemn fasonat de foc provenit din fondul forestier proprietatea publică a municipiului Câmpulung Moldovenesc administrat de Ocolul Silvic Pojorâta Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Mo",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_051_2024.doc",
+     "sha256": "1fdf8159cd9b2f0d159e8ee8041008cc705f2e8e932e01d951bcc24c212c2030"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-53-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/53",
+   "short": "HCL Câmpulung Moldovenesc nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 53/2024 privind atestarea apartenenței la domeniul public al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 12760 din 10.04.2024; -Raportul de specialitate al Direcției tehnice și urb",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_053_2024.doc",
+     "sha256": "5699c12fff05037610a760a28e9532758e6bc3fd4e2b60b407f29f0489b840a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-54-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/54",
+   "short": "HCL Câmpulung Moldovenesc nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 54/2024 privind atestarea apartenenței la domeniul privat al Municipiului Câmpulung Moldovenesc a unor imobile Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 12754 din 10.04.2024; -Raportul de specialitate al Direcției tehnice și urb",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_054_2024.doc",
+     "sha256": "36354544293414edfc0e9ce37ce222dc23f0d19e632febc1505aad4a186e35ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-55-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/55",
+   "short": "HCL Câmpulung Moldovenesc nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 55/2024 pentru aprobarea devizului general privind cheltuielile necesare realizării obiectivului de investiții ,,Modernizare instalație de înzăpezire pârtia Rarău, Câmpulung Moldovenesc” Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p9?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_055_2024.doc",
+     "sha256": "1fe2125dbcf7a7ca6fd009f65f9e16f3d6e6341b48fb3a6e1f572f8d2dc17ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-56-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/56",
+   "short": "HCL Câmpulung Moldovenesc nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 56/2024 privind aprobarea destinației temporare de locuințe de necesitate a unui imobil și repartizarea acestuia Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința ordinară din data de 25 aprilie 2024; Având în vedere: -Referatul de aprobare al primarului municipiului Câmpulung Moldovenesc, înregistrat la nr. 12777 din 10.04.2024; -Raportul de specialitate al Direcției tehnice și u",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2024",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_056_2024.doc",
+     "sha256": "a64d664d3069bcd73d565f38e081480f8457e6c62e8e793bcc491db367de482b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--campulung-moldovenesc-58-2024",
+   "path": "local/suceava/campulung-moldovenesc/2024/58",
+   "short": "HCL Câmpulung Moldovenesc nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpulung Moldovenesc nr. 58/2024 privind aprobarea STRATEGIEI INTEGRATE DE DEZVOLTARE URBANĂ A MUNICIPIULUI CÂMPULUNG MOLDOVENESC (SIDU) 2021-2027 Versiunea actualizată în conformitate cu DOCUMENTUL CADRU DE IMPLEMENTARE A DEZVOLTARII URBANE, PROGRAMUL REGIONAL NORD-EST 2021-2027 Consiliul Local al municipiului Câmpulung Moldovenesc, întrunit în ședința extraordinară din data de 23 mai 2024; Având în vedere: -Referatul de aprobar",
+   "url": "https://campulungmoldovenesc.ro/info-publice/HCL/p8?an=2024",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://campulungmoldovenesc.ro/files/infoHCL/hcl_058_2024.doc",
+     "sha256": "cccf842ceeeafdf71974b50e5992922ab4497983f2b62ce5958fda91661b5749"
     }
    ]
   },

@@ -3,6 +3,291 @@
  "shard": "local/prahova/campina/2012",
  "acts": [
   {
+   "slug": "hcl-prahova--campina-1-2012",
+   "path": "local/prahova/campina/2012/1",
+   "short": "HCL Câmpina nr. 1/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 1/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_984.doc",
+     "sha256": "46b234b647fceed445f9f6a81dc03d64f4de35da28ae3ffed6a683b4b466172a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-100-2012",
+   "path": "local/prahova/campina/2012/100",
+   "short": "HCL Câmpina nr. 100/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 100/2012 privind numirea directorilor in unitatile scolare",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-100-privind-numirea-directorilor-in-unitatile-scolare.pdf",
+     "sha256": "3803ef87c21cb488caf5cae26a2db9b1a2f3683810405b888972f08449ccd2fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-109-2012",
+   "path": "local/prahova/campina/2012/109",
+   "short": "HCL Câmpina nr. 109/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 109/2012 privind reglementarea situatiei juridice a unor terenul in suprafata totala de 1.144 m.p., situate m incinta Spitalului de Psihiatrie Voila si date in administrarea acestuia",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-108-privind-abrogarea-H.C.L.-nr.192-18-decembrie-2008.pdf",
+     "sha256": "a581468c577500e06d22e9d6acdf757f72fde548443512f615d91eb7b6c93e84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-122-2012",
+   "path": "local/prahova/campina/2012/122",
+   "short": "HCL Câmpina nr. 122/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 122/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-09-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c3ff4270690638f92b8be5af432fb50c1fc0bb53bac429cb3ee57f59dede9805"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-123-2012",
+   "path": "local/prahova/campina/2012/123",
+   "short": "HCL Câmpina nr. 123/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 123/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "462b3803da34b01ca16953d21ce14ddc7b98b307322e17fd5c97d9aca3e691fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-124-2012",
+   "path": "local/prahova/campina/2012/124",
+   "short": "HCL Câmpina nr. 124/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 124/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "787ab4507db74cd47f3c8f6edb4e6cc109f9ee10745f75e8cb5a16a743d32e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-125-2012",
+   "path": "local/prahova/campina/2012/125",
+   "short": "HCL Câmpina nr. 125/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 125/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3cc1a7b1703c28f8faa2c14ab96e02fd7c23f662637e7e3776e753868d9cc8a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-128-2012",
+   "path": "local/prahova/campina/2012/128",
+   "short": "HCL Câmpina nr. 128/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 128/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "2c035fbeafeed146a877205c1515e821345a78343eb93f9b5b0d0cb889f8b6e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-131-2012",
+   "path": "local/prahova/campina/2012/131",
+   "short": "HCL Câmpina nr. 131/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 131/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c2320f83978e9d77bad0a5b86afcfe61c011e87e709cf7193e2ade9005601975"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-133-2012",
+   "path": "local/prahova/campina/2012/133",
+   "short": "HCL Câmpina nr. 133/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 133/2012 privind aprobarea unor reglementari referitoare la transportul rutier public de persoane prin servicii regulate in trafic Avand in vedere: - expunerea de motive nr.59.730/18 octombrie 2012 a membrilor Comisiei administra$ie publica locala, juridic, rela^ii cu publicul, servicii $i comer|, 5-a.m.d., prin care propun aprobarea unor reglementari referitoare la transportul rutier public de persoane pr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-133-reglem-transport-persoane-str-Orizontului.pdf",
+     "sha256": "9db1faa026e9286c7d9b807c36e487b0f32cbe078640d7b5de3d220aaad89de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-137-2012",
+   "path": "local/prahova/campina/2012/137",
+   "short": "HCL Câmpina nr. 137/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 137/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "214c541bd4429934b9269df65e714cc341a5fd72a8009d2f5dbe9ea2000db4bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-138-2012",
+   "path": "local/prahova/campina/2012/138",
+   "short": "HCL Câmpina nr. 138/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 138/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-10-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "dcf882d69da35065e8ff853c9fa6bd779f23b130e14128a7e1a238e2b1be74c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-14-2012",
+   "path": "local/prahova/campina/2012/14",
+   "short": "HCL Câmpina nr. 14/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 14/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-02-23",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_997.doc",
+     "sha256": "4c07a7af315fc0d6425cc3d04014f3726e5f57b9a6d22612bdc74f8b4b321266"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-141-2012",
+   "path": "local/prahova/campina/2012/141",
+   "short": "HCL Câmpina nr. 141/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 141/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a658ef5b6a9a18221efe7a8ea6ca222db42612f097d60f2bf12db78ecc728c0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-144-2012",
+   "path": "local/prahova/campina/2012/144",
+   "short": "HCL Câmpina nr. 144/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 144/2012 privind modificarea si completarea Anexei nr.3 la H.C.L",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-144-modif-si-complet-Anexa-3-la-HCL-79-din-2008-conces-bun-Hidro.pdf",
+     "sha256": "dc8e2c897f825e07f0a8de54b5c0ff4c6f11ac406313ed6093160f4b90be7dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-147-2012",
+   "path": "local/prahova/campina/2012/147",
+   "short": "HCL Câmpina nr. 147/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 147/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9e90174f9a343896bed594fed6bcb79b7084de1c944f1a45914304e9f0deefa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-150-2012",
+   "path": "local/prahova/campina/2012/150",
+   "short": "HCL Câmpina nr. 150/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 150/2012 privind aprobarea Planului urbanistic de detaliu refeT \"Amenajare parc pentru petrecerea timpului liber, relaxare si afnfl5ent, alei auto si pietonale, parcare proprie si imprejmuire teren\", beneficiarS.C.SOCERAMS.A. Avandinvedere: - expunerea de motive nr.59.846/23 noiembrie 2012 a membrilor Comisiei amenajarea teritoriului, urbanism, ecologie $i protec^ia mediului, prin care propun aprobarea Pla",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-150-aprobare-PUD-proprietatea-SC-Soceram.pdf",
+     "sha256": "d3355b6ee1cbbaa20bd5e32154f46d036b466b08ee413db7d1463a35e9a557c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-151-2012",
+   "path": "local/prahova/campina/2012/151",
+   "short": "HCL Câmpina nr. 151/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 151/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-11-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "02ea4f9f0afd7a2fa279a1d59c8dd28fb3b0373b686ed18695da27dee060fa1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-155-2012",
+   "path": "local/prahova/campina/2012/155",
+   "short": "HCL Câmpina nr. 155/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 155/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e49e4f6db88f729a0dab62b792316afabe6813bf58ac4c0d9fcdfafdb4e98f72"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-156-2012",
    "path": "local/prahova/campina/2012/156",
    "short": "HCL Câmpina nr. 156/2012",
@@ -14,6 +299,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-156-stabilire-impozite-si-taxe-locale-2013.pdf",
      "sha256": "1e29ab40fb07633e82c46f06eba9bba91c7d5de1c0300eb755b76aa39de1c66a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-158-2012",
+   "path": "local/prahova/campina/2012/158",
+   "short": "HCL Câmpina nr. 158/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 158/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": null,
+     "sha256": "f8299497e27f601c5b3d673ed77a4f4fb6d1b8d84b27f57cec3b2536e26a2d97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-159-2012",
+   "path": "local/prahova/campina/2012/159",
+   "short": "HCL Câmpina nr. 159/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 159/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-159-recalculare-chirii-bl-E11-E13-str-Eruptiei.pdf",
+     "sha256": "9a903de384833daf487e3c976ff015c543f8515e1a54df12c7ef731e342b58cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-161-2012",
+   "path": "local/prahova/campina/2012/161",
+   "short": "HCL Câmpina nr. 161/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 161/2012 privind aprobarea transmiterii in folosinta gratuita, pe toata durata existentei constructiei, Patriarhiei Romane - Mitropolia Munteniei si Dobrogei - Arhiepiscopia Bucurestilor, a terenului in suprafata de 92,50 m.p., (amprenta la sol a constructiei), din terenul in suprafata de 208,00 m.p., situat in municipiul Campina, tn incinta Spitalului MunicipaI Campina Avand in vedere: - expunerea de moti",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-12-18",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-161-transmitere-folosinta-gratuita-teren-9250-mp-biserica-Spital-Municipal.pdf",
+     "sha256": "fd2ab16b4ecb06b4629bb1d4c09b66d417a8c913ed061e90e6e0e19c0c58e3e8"
     }
    ]
   },
@@ -33,6 +363,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-21-2012",
+   "path": "local/prahova/campina/2012/21",
+   "short": "HCL Câmpina nr. 21/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 21/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1005.doc",
+     "sha256": "cfa728be38e13d1104a819393484f7a87eeee8d1249edef9fe5a4da4d9e35117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-22-2012",
+   "path": "local/prahova/campina/2012/22",
+   "short": "HCL Câmpina nr. 22/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 22/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1006.doc",
+     "sha256": "0a941f128a0c01c4b3925fe4e943eb7c78b5b6456418eb9ca6d98c89de5a7e76"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-23-2012",
    "path": "local/prahova/campina/2012/23",
    "short": "HCL Câmpina nr. 23/2012",
@@ -44,6 +404,51 @@
      "units": 1,
      "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1007.doc",
      "sha256": "3730ff5f7433235ce1f57711405fa5a4c4585e6503ae9d0476ad6cf570869797"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-24-2012",
+   "path": "local/prahova/campina/2012/24",
+   "short": "HCL Câmpina nr. 24/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 24/2012 privind aprobarea Programului de investiții pe anul 2012, cu finanțare din surse proprii și din cota de dezvoltare, ce vor fi realizate de către S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1008.doc",
+     "sha256": "0ad48892d80f142f2a0466783dbf7018f8fdc7d9a6dc2e1910eb382119d7e784"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-25-2012",
+   "path": "local/prahova/campina/2012/25",
+   "short": "HCL Câmpina nr. 25/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 25/2012 privind alocarea de sume bănești unor unități de cult religios din municipiul Câmpina, în anul 2012 Având în vedere: - expunerea de motive nr.59.181/23 martie 2012 a membrilor Comisiei sănătate, cultură, învățământ, culte și tineret, sport și turism, prin care propun alocarea de sume bănești unor unități de cult religios din municipiul Câmpina, în anul 2012; - raportul de specialitate promovat de",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1009.doc",
+     "sha256": "1ade1613f0d7b98f886e2d79c5642194c8f4af297e9b27348171ca3b2adf58ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-26-2012",
+   "path": "local/prahova/campina/2012/26",
+   "short": "HCL Câmpina nr. 26/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 26/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1010.doc",
+     "sha256": "9714d0e6f21477ad355217ae9337d2a97fda3e34bf9d1253c85eabd976793e2b"
     }
    ]
   },
@@ -63,6 +468,156 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-30-2012",
+   "path": "local/prahova/campina/2012/30",
+   "short": "HCL Câmpina nr. 30/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 30/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1014.doc",
+     "sha256": "99965edc8904592daa57d3919e8c155bd15e5199d6a3010e9c1bb594c1be3f97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-31-2012",
+   "path": "local/prahova/campina/2012/31",
+   "short": "HCL Câmpina nr. 31/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 31/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1015.doc",
+     "sha256": "5eed5bde6862077bb9233c654762ccad7d11633cb6aa008ba2341d608f803373"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-32-2012",
+   "path": "local/prahova/campina/2012/32",
+   "short": "HCL Câmpina nr. 32/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 32/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1016.doc",
+     "sha256": "35685275a517d2c02b004395e557fa9741a7261d15c777f6df79d019bad673dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-34-2012",
+   "path": "local/prahova/campina/2012/34",
+   "short": "HCL Câmpina nr. 34/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 34/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1018.doc",
+     "sha256": "351c2fa94abe817ef0b525abeffda76c4def8bc9b34537f0283913d9fb4d0fe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-36-2012",
+   "path": "local/prahova/campina/2012/36",
+   "short": "HCL Câmpina nr. 36/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 36/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1020.doc",
+     "sha256": "52c7967a7e3c227ba1cac774b7315485c7ca6f79c95561bbe76df3c3afc8a605"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-37-2012",
+   "path": "local/prahova/campina/2012/37",
+   "short": "HCL Câmpina nr. 37/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 37/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1021.doc",
+     "sha256": "21a83ac2d875e2fbdff49246b4b78f9cee4ac1dcbe921c47aee5715015541990"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-38-2012",
+   "path": "local/prahova/campina/2012/38",
+   "short": "HCL Câmpina nr. 38/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 38/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1022.doc",
+     "sha256": "9f2cbf8b65883f1279c0e36ac924dae4cac033436b3a6f74624472615745025a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-4-2012",
+   "path": "local/prahova/campina/2012/4",
+   "short": "HCL Câmpina nr. 4/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 4/2012 privind aprobarea susținerii financiare a Fotbal Club „Unirea” Câmpina Având în vedere: - expunerea de motive nr.59.009/12 ianuarie 2012 a membrilor Comisiei de sănătate, cultură, învățământ, culte și tineret, sport și turism, prin care propun aprobarea susținerii financiare a Fotbal Club „Unirea” Câmpina pentru activitatea sportivă desfășurată de către echipa de fotbal, în returul anului competiț",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_987.doc",
+     "sha256": "f23b294c9f44d6f4d03438aa43c375e88e615dbc15a259ea0405b5e8b65bae74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-40-2012",
+   "path": "local/prahova/campina/2012/40",
+   "short": "HCL Câmpina nr. 40/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 40/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1024.doc",
+     "sha256": "438ec894d7804e0a66daa0f338c4967f4a18a3cc60755f2c3e96ff1372c51d07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-41-2012",
+   "path": "local/prahova/campina/2012/41",
+   "short": "HCL Câmpina nr. 41/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 41/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-03-29",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_1025.doc",
+     "sha256": "4b9604e25a6be93c7a627cecfe612a07a75255d2db3a82cc772a73ca11dccb01"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-44-2012",
    "path": "local/prahova/campina/2012/44",
    "short": "HCL Câmpina nr. 44/2012",
@@ -74,6 +629,366 @@
      "units": 1,
      "source_url": null,
      "sha256": "8a1c8c7da8026c5d1945accfbe6fa5d55380a8c5b8fd4026aa44276ae90f21a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-49-2012",
+   "path": "local/prahova/campina/2012/49",
+   "short": "HCL Câmpina nr. 49/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 49/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ad395408752d8a53b36601103d51c31ff5a9aa16b53c32821671f344706afb95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-51-2012",
+   "path": "local/prahova/campina/2012/51",
+   "short": "HCL Câmpina nr. 51/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 51/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "d485e492a2d5d5878df6b73108ac531f1340215fcf1a9f2d21368187f11a558b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-54-2012",
+   "path": "local/prahova/campina/2012/54",
+   "short": "HCL Câmpina nr. 54/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 54/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "7ccf33dee927e535d9818c506dd2fcda0df2c7ed5ecccc8e62e92b2af8b5dc94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-55-2012",
+   "path": "local/prahova/campina/2012/55",
+   "short": "HCL Câmpina nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 55/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "420eb7f96cd54cd4921371c300ae7706fdf7bc844671c2e8c78a5f09797c224d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-56-2012",
+   "path": "local/prahova/campina/2012/56",
+   "short": "HCL Câmpina nr. 56/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 56/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "a8a6b187577127a3850106feeb35200a62c688d3e90b9a100ad0d0a7cabc403f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-57-2012",
+   "path": "local/prahova/campina/2012/57",
+   "short": "HCL Câmpina nr. 57/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 57/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "6ce24258fb53c31e5a12efe83ad2b271c7678c3449d8d45530583a6d0dd8f686"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-58-2012",
+   "path": "local/prahova/campina/2012/58",
+   "short": "HCL Câmpina nr. 58/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 58/2012 privind modificare si complt HCL 27 din 29 martie 2012 Legea 15 tineri",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-04-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr58-privind-modificare-si-complt-HCL-27-din-29-martie-2012-Legea-15-tineri.doc",
+     "sha256": "0766055d266a2603dbc82e87b59cb145971f5c303a87104eddfaa1ae2cd30fa4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-6-2012",
+   "path": "local/prahova/campina/2012/6",
+   "short": "HCL Câmpina nr. 6/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 6/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_989.doc",
+     "sha256": "3102613f6f3699d873a893851a2e437c916f5ceb611f05160b34933359451cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-60-2012",
+   "path": "local/prahova/campina/2012/60",
+   "short": "HCL Câmpina nr. 60/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 60/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "74b7098f244106475b24352644757fdc4753829ae20963c3048689ac8b7a55a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-62-2012",
+   "path": "local/prahova/campina/2012/62",
+   "short": "HCL Câmpina nr. 62/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 62/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "563fdd65dc32577b709cf07cd2ea9f9043fd60e4c6712e36f06794db0e756101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-63-2012",
+   "path": "local/prahova/campina/2012/63",
+   "short": "HCL Câmpina nr. 63/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 63/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1eb11bbe77afba5467eabf2d1cedb779a221373fdb8711e098105c63064328c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-64-2012",
+   "path": "local/prahova/campina/2012/64",
+   "short": "HCL Câmpina nr. 64/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 64/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "19c1117e129103a4838a3e473428c23e6123c117da6b1d6dec463f4da08bd67f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-65-2012",
+   "path": "local/prahova/campina/2012/65",
+   "short": "HCL Câmpina nr. 65/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 65/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c773d89dc1b8e7f85cd555aba88628d421d5d6f7aa17b5ea308a27eb7d4e349"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-66-2012",
+   "path": "local/prahova/campina/2012/66",
+   "short": "HCL Câmpina nr. 66/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 66/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-05-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": "3c5416df1820f23dabfbd9ad317d083abd0ab0ae6279aadc6a1dca5e8ad6b4f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-68-2012",
+   "path": "local/prahova/campina/2012/68",
+   "short": "HCL Câmpina nr. 68/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 68/2012 privind alegerea Comisiei de validare CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.31, alin.(2) din Legea nr.215/2001 privind administrația publică locală, republicată; Consiliul local al municipiului Câmpina adoptă prezenta hotărâre. Art.unic - Alege pe întreaga durată a mandatului Consiliului lo",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-68-Comisie-validare-27-iun-2012.doc",
+     "sha256": "c2472467162c693ad0901e9cf08884295fae0018aed4c54c5a4e251dc556a776"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-69-2012",
+   "path": "local/prahova/campina/2012/69",
+   "short": "HCL Câmpina nr. 69/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 69/2012 privind validarea mandatelor consilierilor aleși în Consiliul local al municipiului Câmpina CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.31, alin.(3), (4) și (5) din Legea nr.215/2001 privind administrația publică locală, republicată; Consiliul local al municipiului Câmpina adoptă prezenta hotărâr",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-69-validare-mandate-consilieri-27-iun-2012.doc",
+     "sha256": "a44ceb4e1ce2ed12b7a7a34d8870bb1fad2d0e46704890142108b0a3441056e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-7-2012",
+   "path": "local/prahova/campina/2012/7",
+   "short": "HCL Câmpina nr. 7/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 7/2012 privind atribuirea în folosință gratuită a imobilului (teren în suprafață de 51,00 m.p. și construcție în suprafață construită de 45,30 m.p.), situat în municipiul Câmpina, str.1 Mai, T83, Cc 887, către S.C",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_990.doc",
+     "sha256": "455748356664cfe53fe981443e16b6bbf6cd504317c9869eebfddf8f77a9cdbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-70-2012",
+   "path": "local/prahova/campina/2012/70",
+   "short": "HCL Câmpina nr. 70/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 70/2012 privind declararea Consiliului local ca legal constituit CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.34, alin.(2) din Legea nr.215/2001 privind administrația publică locală, republicată, Consiliul local al municipiului Câmpina adoptă prezenta hotărâre. Art.unic – Declară legal constituit Consiliu",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-70-declarare-constituire-CL-27-iun-2012.doc",
+     "sha256": "a6ec3a36848aed649a8d361798580155085c8fb3612df878f4370aa89cff9f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-71-2012",
+   "path": "local/prahova/campina/2012/71",
+   "short": "HCL Câmpina nr. 71/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 71/2012 privind alegerea președintelui care va conduce ședința Consiliului local CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.35 din Legea nr.215/2001 privind administrația publică locală, republicată, Consiliul local al municipiului Câmpina adoptă prezenta hotărâre. Art.unic – Alege președintele care va",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-71-alegere-presedinte-sedinta-27-iun-2012.doc",
+     "sha256": "3ffc3251cd8ddf3503369ccd6f07f46281f4a3d44a9e05ac577535d6760378ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-72-2012",
+   "path": "local/prahova/campina/2012/72",
+   "short": "HCL Câmpina nr. 72/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 72/2012 privind alegerea viceprimarului municipiului Câmpina CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.57, alin.(3) din Legea nr.215/2001 privind administrația publică locală, republicată, Consiliul local al municipiului Câmpina adoptă prezenta hotărâre. Art.unic – Alege pe întreaga durată a mandatului",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-72-alegere-viceprimar-27-iun-2012.doc",
+     "sha256": "50d05aec983df67c6d99126ef90b29275e2dc01b2f5da692f2e19b04d25db6ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-73-2012",
+   "path": "local/prahova/campina/2012/73",
+   "short": "HCL Câmpina nr. 73/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 73/2012 privind alegerea comisiilor de specialitate ale Consiliului local al municipiului Câmpina CONSILIUL LOCAL AL MUNICIPIULUI CÂMPINA, JUDEȚUL PRAHOVA; Întrunit în ședința de constituire, în urma alegerilor din 10 iunie 2012; În temeiul art.54, alin.(1), alin.(2) și alin.(3) din Legea nr.215/2001 privind administrația publică locală, republicată, Consiliul local al municipiului Câmpina adoptă prezenta",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-06-27",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-73-comisii-specialitate-27-iun-2012.doc",
+     "sha256": "f4bc652b822ac6d5dd611bfd38e651062d5e5e0e953d6b97cbda45d009ffd438"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-75-2012",
+   "path": "local/prahova/campina/2012/75",
+   "short": "HCL Câmpina nr. 75/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 75/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e1b08046e97561e3e6b7aa371b8149f2343264d1865b17a7bc3260a7a0691107"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-8-2012",
+   "path": "local/prahova/campina/2012/8",
+   "short": "HCL Câmpina nr. 8/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 8/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-01-26",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/1_991.doc",
+     "sha256": "6c94bf6391ad3761a6d4237c0d2e22f6bf5c4c28bf69b95f2a5d13c4b032617a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-82-2012",
+   "path": "local/prahova/campina/2012/82",
+   "short": "HCL Câmpina nr. 82/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 82/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "1ba6e49061865baab4c7ce6e13dd8160ab1b23fe07320329fc40bd8c1b7b2821"
     }
    ]
   },
@@ -93,6 +1008,36 @@
    ]
   },
   {
+   "slug": "hcl-prahova--campina-85-2012",
+   "path": "local/prahova/campina/2012/85",
+   "short": "HCL Câmpina nr. 85/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 85/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "cc128b2816a10d9a50db9c4c01f1392a7de38c2f37fd1e7c4e360bb89250a64c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-87-2012",
+   "path": "local/prahova/campina/2012/87",
+   "short": "HCL Câmpina nr. 87/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 87/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "479a0093bce48bd1cc71ca2cc0799c396283112c06d08232d46d55196019871c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-prahova--campina-88-2012",
    "path": "local/prahova/campina/2012/88",
    "short": "HCL Câmpina nr. 88/2012",
@@ -104,6 +1049,51 @@
      "units": 1,
      "source_url": null,
      "sha256": "4a145b842f8a3ecd3b9d15b5990b33fd2f5f22afaafc4d236e5786c553aa7734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-90-2012",
+   "path": "local/prahova/campina/2012/90",
+   "short": "HCL Câmpina nr. 90/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 90/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69965501db022947f0ee82f4bf8a35482abaf9c76df6d7f04876d91d6b838102"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-93-2012",
+   "path": "local/prahova/campina/2012/93",
+   "short": "HCL Câmpina nr. 93/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 93/2012",
+   "url": null,
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": "41d4f8379575e6b61019bd5159af4a8fd236b0dcd5ec697c74dc446ebb080192"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-prahova--campina-94-2012",
+   "path": "local/prahova/campina/2012/94",
+   "short": "HCL Câmpina nr. 94/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Câmpina nr. 94/2012 privind aprobarea rectificarii bugetului local",
+   "url": "https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2012/",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://www.primariacampina.ro/wp-content/uploads/2018/12/Hotararea-nr-94-privind-aprobarea-rectificarii-bugetului-local.pdf",
+     "sha256": "0c01e475efce392a6a2a30ef4961b0b5c09fdea23f96a494b99b9e5aff8f0454"
     }
    ]
   }

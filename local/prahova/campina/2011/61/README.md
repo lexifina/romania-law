@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Câmpina nr. 61/2011 privind aprobarea raportului de evaluare referitor la nivelul redevențelor anuale aferente spațiilor proprietate privată a municipiului Câmpina cu destinația de cabinete medicale, situate în municipiul Câmpina, Calea Doftanei, nr.145
+
+HCL Câmpina nr. 61/2011 · 1 versions, from 2011-03-31 (latest in force: 2011-03-31) · <https://www.primariacampina.ro/consiliul-local-campina/hotararile-consiliului-local/hotararile-consiliului-local-2011/>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-prahova--campina-61-2011` (tags `hcl-prahova--campina-61-2011/<day>`; `python tools/on.py <day> hcl-prahova--campina-61-2011`).
+
+## Decisions made by hand
+
+- HCL Câmpina nr. 61/2011: listed from Consiliul Local al Municipiului Câmpina (www.primariacampina.ro); an individual decision: metadata only.
+- HCL Câmpina nr. 61/2011: dated from 31 March 2011, the day it was adopted (the register gives no later day of publication).
+- HCL Câmpina nr. 61/2011: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

@@ -3,6 +3,21 @@
  "shard": "local/satu-mare/satu-mare/2020",
  "acts": [
   {
+   "slug": "hcl-satu-mare--satu-mare-122-2020",
+   "path": "local/satu-mare/satu-mare/2020/122",
+   "short": "HCL Satu Mare nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 122/2020 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei municipiului Satu Mare Consiliul Local al municipiului Satu Mare întrunit în ședința ordinară din data de 30.07. 2020, Analizând proiectul de hotărâre înregistrat sub nr. 32517/22.07.2020, referatul de aprobare al primarului municipiului Satu Mare, înregistrat cu nr. 32518/22.07.2020, în calitate de inițiator, raportul Serv",
+   "url": "https://www.primariasm.ro/hotararea-nr-12230072020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/iulie-2020-1/hcl-122.doc",
+     "sha256": "4260b5463ed87b4f2de5b18e1dcd18889295646c35d39a87ca4ba3f7c7f46f3d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-satu-mare--satu-mare-161-2020",
    "path": "local/satu-mare/satu-mare/2020/161",
    "short": "HCL Satu Mare nr. 161/2020",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/septembrie-2020/hcl-161.doc",
      "sha256": "429096426b44fc4679d4297975c241b3de6be592626bb3c710129f93675c5484"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-220-2020",
+   "path": "local/satu-mare/satu-mare/2020/220",
+   "short": "HCL Satu Mare nr. 220/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 220/2020 privind unele modificări aduse Anexei la HCL Satu Mare nr. 122/30.07.2020 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 22.12. 2020, Analizând proiectul de hotărâre înregistrat sub nr. 53420/11.12.2020, Referatul de aprobare al primarului municipiului Satu Mare înr",
+   "url": "https://primariasm.ro/hotararea-nr-22022122020",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://primariasm.ro/storage/hotarari/decembrie-2020/hcl-220.doc",
+     "sha256": "65859cac93cb0d17bc357d7b3ee7b664962258b2f3f9ae2a6fa897e14b0ee52a"
     }
    ]
   },
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://www.primariasm.ro/storage/hotarari/decembrie-2020/hcl-240.docx",
      "sha256": "2dd965f5e5df19a5be0409788e6ef4b0e3ec9c92e58cc2f848fa948dbbc9d158"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-satu-mare--satu-mare-87-2020",
+   "path": "local/satu-mare/satu-mare/2020/87",
+   "short": "HCL Satu Mare nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 87/2020",
+   "url": "https://www.primariasm.ro/hotararea-nr-8728052020",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://www.primariasm.ro/storage/hotarari/mai-2020/hcl-87.docx",
+     "sha256": "c8006ddd97d1ec865b812edfb37daa0d647caec65228a278ad50351c92f0cc97"
     }
    ]
   }

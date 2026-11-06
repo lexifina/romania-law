@@ -3,6 +3,50 @@
 "shard": "local/satu-mare/satu-mare/2022",
 "acts": [
 {
+"slug": "hcl-satu-mare--satu-mare-5-2022",
+"path": "local/satu-mare/satu-mare/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 5/2022 privind aprobarea Statului de funcții al Serviciului Public Administrația Domeniului Public Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 27.01.2022, Analizând proiectul de hotărâre înregistrat sub nr. 2682/17.01.2022, referatul de aprobare al Primarului Municipiului Satu Mare înregistrat cu nr. 2692/17.01.2022, în calitate de inițiator, raportul de s",
+"short": "HCL Satu Mare nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://www.primariasm.ro/hotararea-nr-527012022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-6-2022",
+"path": "local/satu-mare/satu-mare/2022/6",
+"kind": "local",
+"year": "2022",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 6/2022 privind aprobarea Statului de funcții al Poliției Locale Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 27.01.2022, Analizând proiectul de hotărâre nr. 3203/19.01.2022, referatul de aprobare a Primarului Municipiului Satu Mare în calitate de inițiator, înregistrat cu nr. 3204/19.01.2022, raportul de specialitate al Serviciului Managementul Resurselor U",
+"short": "HCL Satu Mare nr. 6/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://www.primariasm.ro/hotararea-nr-627012022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-20-2022",
 "path": "local/satu-mare/satu-mare/2022/20",
 "kind": "local",
@@ -70,6 +114,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--satu-mare-79-2022",
+"path": "local/satu-mare/satu-mare/2022/79",
+"kind": "local",
+"year": "2022",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 79/2022 pentru aprobarea Statului de funcții al Clubului Sportiv Municipal Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 31.03.2022, Analizând proiectul de hotărâre înregistrat sub nr. 17304 /23.03.2022, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat cu nr. 17308 /23.03.2022, în calitate de inițiator, raportul de specialitate comun al",
+"short": "HCL Satu Mare nr. 79/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://www.primariasm.ro/hotararea-nr-7931032022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-80-2022",
 "path": "local/satu-mare/satu-mare/2022/80",
 "kind": "local",
@@ -89,6 +155,141 @@
 "council_name": "Consiliul Local al Municipiului Satu Mare",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-86-2022",
+"path": "local/satu-mare/satu-mare/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 86/2022 privind modificarea anexei 1 a Hotărârii Consiliului Local nr. 87/28.05.2020 Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 31.03.2022, Analizând proiectul de hotărâre înregistrat sub nr. 17.958/25.03.2022, referatul de aprobare al Primarului Municipiului Satu Mare, înregistrat sub nr. 17.961/25.03.2022 în calitate de inițiator, de raportul de specialitate al Bi",
+"short": "HCL Satu Mare nr. 86/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://www.primariasm.ro/hotararea-nr-8631032022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-98-2022",
+"path": "local/satu-mare/satu-mare/2022/98",
+"kind": "local",
+"year": "2022",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 98/2022",
+"short": "HCL Satu Mare nr. 98/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://primariasm.ro/hotararea-nr-9831032022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-106-2022",
+"path": "local/satu-mare/satu-mare/2022/106",
+"kind": "local",
+"year": "2022",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 106/2022 pentru modificarea anexei nr. 1 la HCL nr. 162/27.05.2021 privind solicitarea de trecere din domeniul public al statului și administrarea Ministerului Educației și Cercetării Științifice pentru Inspectoratul Școlar Județean Satu Mare în domeniul public al Municipiului Satu Mare și administrarea Consiliului Local a imobilului ”Bază sportivă Stadion” situat în Satu Mare, str",
+"short": "HCL Satu Mare nr. 106/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://primariasm.ro/hotararea-nr-10631032022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-107-2022",
+"path": "local/satu-mare/satu-mare/2022/107",
+"kind": "local",
+"year": "2022",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 107/2022 pentru modificarea anexei nr. 1 la HCL nr. 163/27.05.2021 privind solicitarea de trecere din domeniul public al statului și administrarea Ministerului Educației și Cercetării Științifice pentru Inspectoratul Școlar Județean Satu Mare în domeniul public al Municipiului Satu Mare și administrarea Consiliului Local a imobilului ”Complex sportiv” situat în Satu Mare str",
+"short": "HCL Satu Mare nr. 107/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-31",
+"latest": "2022-03-31",
+"portal": "https://primariasm.ro/hotararea-nr-10731032022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-139-2022",
+"path": "local/satu-mare/satu-mare/2022/139",
+"kind": "local",
+"year": "2022",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 139/2022",
+"short": "HCL Satu Mare nr. 139/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://primariasm.ro/hotararea-nr-13928042022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-153-2022",
+"path": "local/satu-mare/satu-mare/2022/153",
+"kind": "local",
+"year": "2022",
+"number": "153",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 153/2022",
+"short": "HCL Satu Mare nr. 153/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-28",
+"latest": "2022-04-28",
+"portal": "https://www.primariasm.ro/hotararea-nr-15328042022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -136,6 +337,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--satu-mare-174-2022",
+"path": "local/satu-mare/satu-mare/2022/174",
+"kind": "local",
+"year": "2022",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 174/2022 privind unele modificări aduse Anexei la HCL Satu Mare nr. 122/30.07.2020 privind aprobarea Regulamentului de Organizare și Funcționare al Primăriei Municipiului Satu Mare Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 26.05. 2022, Analizând proiectul de hotărâre înregistrat sub nr. 29423/20.05.2022, Referatul de aprobare al Primarului Municipiului Satu Mare, în",
+"short": "HCL Satu Mare nr. 174/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://primariasm.ro/hotararea-nr-17626052022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-200-2022",
 "path": "local/satu-mare/satu-mare/2022/200",
 "kind": "local",
@@ -155,6 +378,29 @@
 "council_name": "Consiliul Local al Municipiului Satu Mare",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-225-2022",
+"path": "local/satu-mare/satu-mare/2022/225",
+"kind": "local",
+"year": "2022",
+"number": "225",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 225/2022",
+"short": "HCL Satu Mare nr. 225/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-26",
+"latest": "2022-07-26",
+"portal": "https://primariasm.ro/hotararea-nr-22526072022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -180,6 +426,28 @@
 }
 },
 {
+"slug": "hcl-satu-mare--satu-mare-260-2022",
+"path": "local/satu-mare/satu-mare/2022/260",
+"kind": "local",
+"year": "2022",
+"number": "260",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 260/2022 privind modificarea Contractului de delegare în gestiune directă a serviciului de transport public local de călători, prin curse regulate în Municipiul Satu Mare, nr. 231/2018 Consiliul Local al Municipiului Satu Mare întrunit în ședința ordinară din data de 25.08.2022, Analizând proiectul de hotărâre nr. 43720/04.08.2022, referatul de aprobare al Primarului Municipiului Satu Mare, în calitate de",
+"short": "HCL Satu Mare nr. 260/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-25",
+"latest": "2022-08-25",
+"portal": "https://www.primariasm.ro/hotararea-nr-26025082022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-satu-mare--satu-mare-263-2022",
 "path": "local/satu-mare/satu-mare/2022/263",
 "kind": "local",
@@ -195,6 +463,162 @@
 "from": "2022-08-25",
 "latest": "2022-08-25",
 "portal": "https://www.primariasm.ro/hotararea-nr-26325082022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-312-2022",
+"path": "local/satu-mare/satu-mare/2022/312",
+"kind": "local",
+"year": "2022",
+"number": "312",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 312/2022",
+"short": "HCL Satu Mare nr. 312/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-15",
+"latest": "2022-09-15",
+"portal": "https://www.primariasm.ro/hotararea-nr-31215092022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-344-2022",
+"path": "local/satu-mare/satu-mare/2022/344",
+"kind": "local",
+"year": "2022",
+"number": "344",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 344/2022 pentru modificarea prevederilor art. 1 din Hotărârea Consiliului Local al Municipiului Satu Mare nr. 281/28.10.2021 privind desemnarea reprezentanților Consiliului Local al Municipiului Satu Mare în Consiliul administrativ al Centrului Cultural G.M",
+"short": "HCL Satu Mare nr. 344/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariasm.ro/hotararea-nr-34429092022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-349-2022",
+"path": "local/satu-mare/satu-mare/2022/349",
+"kind": "local",
+"year": "2022",
+"number": "349",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 349/2022 privind modificarea Anexei nr. 1 la Hotărârea Consiliului Local nr. 134/31.05.2018 privind aprobarea proiect faza DALI și a indicatorilor tehnico-economici la obiectivul de investiție: Modernizare infrastructură educațională Grădinița nr. 29 și Creșa Punguța cu doi bani – Reabilitare clădire situată pe Str. 1 Decembrie 1918, nr. 15 Consiliul Local al Municipiului Satu Mare, Analizând proiectul de",
+"short": "HCL Satu Mare nr. 349/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariasm.ro/hotararea-nr-34929092022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-355-2022",
+"path": "local/satu-mare/satu-mare/2022/355",
+"kind": "local",
+"year": "2022",
+"number": "355",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 355/2022",
+"short": "HCL Satu Mare nr. 355/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariasm.ro/hotararea-nr-35529092022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-377-2022",
+"path": "local/satu-mare/satu-mare/2022/377",
+"kind": "local",
+"year": "2022",
+"number": "377",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 377/2022 pentru modificarea Anexei 1 la H.C.L",
+"short": "HCL Satu Mare nr. 377/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://www.primariasm.ro/hotararea-nr-37729092022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-388-2022",
+"path": "local/satu-mare/satu-mare/2022/388",
+"kind": "local",
+"year": "2022",
+"number": "388",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 388/2022 privind aprobarea Statului de funcții al Poliției Locale Satu Mare Consiliul Local al Municipiului Satu Mare, Analizând proiectul de hotărâre nr.57762/14.10.2022, referatul de aprobare a Primarului Municipiului Satu Mare în calitate de inițiator, înregistrat cu nr. 57762/14.10.2022, raportul de specialitate al Serviciului Managementul Resurselor Umane înregistrat cu nr. 3205/19.01.2022, avizele co",
+"short": "HCL Satu Mare nr. 388/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-27",
+"latest": "2022-10-27",
+"portal": "https://www.primariasm.ro/hotararea-nr-38827102022",
+"council": "satu-mare/satu-mare",
+"council_name": "Consiliul Local al Municipiului Satu Mare",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-satu-mare--satu-mare-437-2022",
+"path": "local/satu-mare/satu-mare/2022/437",
+"kind": "local",
+"year": "2022",
+"number": "437",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Satu Mare nr. 437/2022 pentru modificarea Anexei nr. 1 la H.C.L",
+"short": "HCL Satu Mare nr. 437/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-11-24",
+"latest": "2022-11-24",
+"portal": "https://www.primariasm.ro/hotararea-nr-43724112022",
 "council": "satu-mare/satu-mare",
 "council_name": "Consiliul Local al Municipiului Satu Mare",
 "flags": {
