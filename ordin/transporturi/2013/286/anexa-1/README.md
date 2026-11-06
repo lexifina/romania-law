@@ -1,4 +1,4 @@
-# Anexa nr. 1: Completare la lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 22 Șola Cristina Maria 2790408131234 Direcția securitate aeronautică 23 Berlin
+# Anexa nr. 1: Completare la lista inspectorilor AVSEC Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 22 Șola Cristina Maria [CNP omis] Direcția securitate aeronautică 23 Berlin
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 

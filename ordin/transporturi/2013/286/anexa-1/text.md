@@ -8,17 +8,17 @@ personal
 Structura din care face parte
 22
 Șola Cristina Maria
-2790408131234
+[CNP omis]
 Direcția securitate aeronautică
 23
 Berlinschi
 Florentin Valentin
-1700418441526
+[CNP omis]
 Societatea Comercială "Compania
 Națională de Transporturi Aeriene
 Române TAROM" - S.A.
 24
 Dan Alexandru
-1790911020022
+[CNP omis]
 Aeroportul Internațional Arad
 ----
