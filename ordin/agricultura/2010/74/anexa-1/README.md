@@ -1,4 +1,4 @@
-# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Numele Prenumele CNP 1. Bănciu Ileana 2510801011099 2. Simionescu Marinela-Nicoleta 2780102011096 3. Miklo Viorica 2550920020031 4. Burbea Florin 1850403035278 5
+# Anexa nr. 1: LISTĂ CU GRADATORI AUTORIZAȚI Nr. crt. Numele Prenumele CNP 1. Bănciu Ileana [CNP omis] 2. Simionescu Marinela-Nicoleta [CNP omis] 3. Miklo Viorica [CNP omis] 4. Burbea Florin [CNP omis] 5
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
