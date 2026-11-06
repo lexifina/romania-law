@@ -8,75 +8,75 @@ personal
 Structura din care face parte
 1.
 Arba Ioan
-1550107400612
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 2.
 Căprioară Marin
-1590516400030
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 3.
 Dobre Florea
-1560425400780
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 4.
 Mureșan Remus Alexandru Ioan
-1741103240061
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 5.
 Protopopescu Florina
-2790104106821
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 6.
 Tat Paul Dorin
-1800928420028
+[CNP omis]
 Direcția generală infrastruc-
 tură și transport aerian
 7.
 Țocu Vasile
-1620301400367
+[CNP omis]
 Administrația Română a
 Serviciilor de Trafic Aerian -
 ROMATSA R.A.
 8.
 Popa Dan
-1510714400686
+[CNP omis]
 Școala Superioară de Aviație
 Civilă
 9.
 Toșa Ovidiu Dumitru
-1671024272637
+[CNP omis]
 C.N. Aeroportul Internațional
 Henri Coandă - București S.A.
 10.
 Cazacu Titus Adrian
-1621219131265
+[CNP omis]
 S.N. Aeroportul Internațional
 Mihail Kogălniceanu -
 Constanța S.A.
 11.
 Ciobanu Florea
-1570513400634
+[CNP omis]
 Serviciul Român de Informații
 - Direcția Generală Prevenire
 și Combatere Terorism
 12.
 Marinete Călin Lucian
-1720623354773
+[CNP omis]
 S.N. Aeroportul Internațional
 Timișoara - Traian Vuia S.A.
 13.
 Șuta Nicușor
-1640822131234
+[CNP omis]
 S.N. Aeroportul Internațional
 Mihail Kogălniceanu -
 Constanța S.A.
 14.
 Iosopescu Cristian
-1740513221250
+[CNP omis]
 Regia Autonomă Aeroportul Iași
 R.A.
