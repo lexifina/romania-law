@@ -1,22 +1,13 @@
-# Hotărârea Camerei Deputaților nr. 47/2009 referitoare la Raportul Comisiei de anchetă pentru verificarea sumelor cheltuite de Ministerul Turismului pentru acţiuni de promovare a turismului şi a imaginii României
+# Hotărârea Camerei Deputaților nr. 47/2009 din 20 octombrie 2009
 
 Hotărârea Camerei Deputaților nr. 47/2009 · 1 versions, from 2009-10-22 (latest in force: 2009-10-22) · <https://legislatie.just.ro/Public/DetaliiDocument/112529>
 
-**Status:** Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
-
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
-| Art. 1 | [art-001.md](art-001.md) | 0 |  |
-| Art. 2 | [art-002.md](art-002.md) | 0 |  |
-| Art. 3 | [art-003.md](art-003.md) | 0 |  |
-| Art. 4 | [art-004.md](art-004.md) | 0 |  |
-| Art. 5 | [art-005.md](art-005.md) | 0 |  |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
 
 Act id: `hotarare-camera-47-2009` (tags `hotarare-camera-47-2009/<day>`; `python tools/on.py <day> hotarare-camera-47-2009`).
 
 ## Decisions made by hand
 
-- Hotărârea Camerei Deputaților nr. 47/2009: added from the official web service of the Portalul legislativ (FreeWebService): the act as published (document 112529, retrieved 2026-11-03). Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied.
-- Hotărârea Camerei Deputaților nr. 47/2009: added by Lexifina's automatic pass with the default rules, and no rule or ruling made for this act alone was applied. It was published only because every automatic check that applies to an act known from the official web service alone passed: two parses identical, and issuer, number and in-force day confirmed by the service. It was published before the full-text search for acts changing it finished (publish first, extend later).
-- Hotărârea Camerei Deputaților nr. 47/2009: the first version is the Chamber of Deputies decision as published in Monitorul Oficial nr. 713 of 22 October 2009 (document 112529 of the official web service), dated 22 October 2009: it sets no day of its own, so in force on publication, the day the official record gives. No consolidated form of it is held, so the text as published is its only version here; no page of the act is held.
-- Hotărârea Camerei Deputaților nr. 47/2009: no page of the act is captured, so its text is the one the Portalul legislativ returns through its official web service (FreeWebService, http://legislatie.just.ro/apiws/FreeWebService.svc), document 112529, retrieved 2026-11-03, the act as published. Published as it appeared in the Monitorul Oficial; later amendments, if any, are not yet applied: the official check for acts changing it had not finished when it was published, so it is marked amendments_checked: false, and any amendment found will be added later.
+- Hotărârea Camerei Deputaților nr. 47/2009: added from the official web service of the Portalul legislativ (FreeWebService), document 112529: metadata only. Its text concerns criminal proceedings against a named person, so it is withheld (text_withheld: criminal_matter); the official text is at the source link.

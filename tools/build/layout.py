@@ -88,7 +88,15 @@ LANE_KINDS = {'decizie-bec': 'Central Electoral Bureau decisions, regulations an
               # CNSC decisions (sources/cnsc; 2026-11-06): the public-procurement complaints council's decisions from its
               # portal, numbered per year: cnsc/decizie/<year>/<nr>[-<n>], id cnsc-decizie-<year>-<nr>[-<n>]
               # (cnsc/decizie/2026/3557, id cnsc-decizie-2026-3557); -2, -3 ... only when one year lists a number twice.
-              'cnsc': 'Public procurement complaints council decisions (CNSC)'}
+              'cnsc': 'Public procurement complaints council decisions (CNSC)',
+              # Lower-court decisions published in the Monitorul Oficial, Part I (sources/courts; 2026-11-06): mostly
+              # final annulments of normative administrative acts (Legea nr. 554/2004 art. 23). Numbered per court,
+              # kind and year: instante/<court>/<sentinta|decizie|incheiere>/<year>/<nr>[-<n>], id
+              # instante-<court>-<kind>-<year>-<nr> (instante/ca-bucuresti/sentinta/2009/3717); <court> is ca-<seat>,
+              # tribunalul-<seat> or judecatoria-<seat>; an unnumbered încheiere is named by its day (2011-06-14);
+              # -2, -3 ... in service document order when one court, kind and year list a number twice (sections).
+              'instante': 'Lower-court decisions published in the Monitorul Oficial (courts of appeal, tribunals): '
+                          'annulments of normative acts and other rulings'}
 KIND_NAMES = {**{k: v for k, v in KIND_NAMES.items() if k not in ('cod', 'alte')}, **LANE_KINDS,
               'cod': KIND_NAMES['cod'], 'alte': KIND_NAMES['alte']}
 LANE_ROOTS = tuple(LANE_KINDS)
