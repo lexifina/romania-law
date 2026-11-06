@@ -43,7 +43,7 @@ litatea
 Județul Alba
 1.
 BIRJAC T. VASILE
-CNP 1680401124050
+CNP [CNP omis]
 1.04.68
 Inginer
 constructor
@@ -58,7 +58,7 @@ II
 Construcții
 2.
 COSMEANU C. ȘTEFAN
-CNP 1611211011098
+CNP [CNP omis]
 11.12.61
 Inginer
 mecanic
@@ -89,7 +89,7 @@ I
 Instalații
 4.
 MUNTEANU S. FLORIN
-CNP 1520912011097
+CNP [CNP omis]
 12.09.52
 Inginer
 constructor
@@ -103,7 +103,7 @@ Instalații
 5.
 PASCA G.I. GABRIEL
 VALENTIN
-CNP 1700524014319
+CNP [CNP omis]
 24.05.70
 Inginer
 constructor
@@ -118,7 +118,7 @@ Construcții
 6.
 PLEȘA L. SIMONA-
 LIANA
-CNP 2660806011091
+CNP [CNP omis]
 6.08.66
 Inginer
 instalator
@@ -134,7 +134,7 @@ Instalații
 7.
 SBERA I. IONEL
 SILVIU
-CNP 1510621011138
+CNP [CNP omis]
 21.06.51
 Arhitect Alba Iulia, str. Octavian
 Goga nr. 42, tel: 0258/835.636,
@@ -146,7 +146,7 @@ II
 Construcții
 8.
 VITAN I. EUGEN
-CNP 1611222011096
+CNP [CNP omis]
 22.12.61
 Inginer
 instalator
@@ -163,7 +163,7 @@ Instalații
 Județul Arad
 1.
 BEGOV F. FRANCISC
-CNP 1590205020011
+CNP [CNP omis]
 5.02.59
 Inginer
 Instalații
@@ -178,7 +178,7 @@ I
 Instalații
 2.
 BARINUT P. DUMITRU
-CNP 1610226021878
+CNP [CNP omis]
 26.02.61
 Inginer
 Instalații
@@ -194,7 +194,7 @@ Instalații
 3.
 DANCIU-STANOIU P.
 ALEXANDRU
-CNP 1370220020044
+CNP [CNP omis]
 20.02.37
 Inginer
 constructor
@@ -209,7 +209,7 @@ Construcții
 4.
 DOBLE G. GEORGE
 DANIEL
-CNP 1670808020046
+CNP [CNP omis]
 8.08.67
 Inginer
 instalator
@@ -226,7 +226,7 @@ Instalații
 5.
 GHILEA L.
 ADRIAN-NICOLAE
-CNP 1470726020053
+CNP [CNP omis]
 26.07.47
 Inginer
 electroener-
@@ -247,7 +247,7 @@ Construcții
 Instalații
 6.
 MESTER G. CLAUDIA
-CNP 2670621020018
+CNP [CNP omis]
 21.06.67
 Inginer
 energetic
@@ -262,7 +262,7 @@ II
 Instalații
 7.
 MINDA E. OVIDIU-EMIL
-CNP 1431128020020
+CNP [CNP omis]
 28.11.43
 Inginer
 constructor
@@ -276,7 +276,7 @@ I
 Construcții
 8.
 NEAGU GH. LUCIAN
-CNP 1440103020041
+CNP [CNP omis]
 3.01.44
 Inginer
 Instalații
@@ -291,7 +291,7 @@ Construcții
 9.
 OLARIU V. MARIAN
 IOAN
-CNP 1621220020035
+CNP [CNP omis]
 20.12.62
 Inginer
 constructor
@@ -306,7 +306,7 @@ Construcții
 10.
 PAGU P. PETRU-
 TIBERIU-MARIUS
-CNP 1530723020032
+CNP [CNP omis]
 23.07.53
 Inginer
 constructor
@@ -321,7 +321,7 @@ II
 Construcții
 11.
 PAIS D. LUCA
-CNP 1490215020010
+CNP [CNP omis]
 15.02.49
 Inginer
 constructor
@@ -336,7 +336,7 @@ II
 Construcții
 12.
 RUSU F. MIRCEA-MARIN
-CNP 1430218020036
+CNP [CNP omis]
 18.02.43
 Inginer
 mecanic
@@ -350,7 +350,7 @@ II
 Construcții
 13.
 SÂRBU I. PRECUP
-CNP 1490308020033
+CNP [CNP omis]
 8.03.49
 Inginer
 electro-
@@ -365,7 +365,7 @@ Construcții
 Instalații
 14.
 TRIPUNESCU N. RODICA
-CNP 2581106020041
+CNP [CNP omis]
 6.11.58
 Inginer
 constructor
@@ -379,7 +379,7 @@ II
 Construcții
 15.
 TUNEI I. EMIL IOAN
-CNP 1440701020054
+CNP [CNP omis]
 1.07.44
 Inginer
 constructor
@@ -399,7 +399,7 @@ Construcții
 Județul Argeș
 1.
 BAJAN I. EUGENIA
-CNP 2560701030013
+CNP [CNP omis]
 1.07.56
 Inginer
 instalator
@@ -412,7 +412,7 @@ I
 Construcții
 2.
 MUNTEAN C. CAMIL
-CNP 1620507293127
+CNP [CNP omis]
 7.05.62
 Inginer
 mecanic
@@ -427,7 +427,7 @@ II
 Instalații
 3.
 NEDELCU GH. GHEORGHE
-CNP 1510306030028
+CNP [CNP omis]
 6.03.51
 Inginer
 electro-
@@ -442,7 +442,7 @@ Construcții
 Județul Bacău
 1.
 BUDAU GH. PAVEL
-CNP 1610220040049
+CNP [CNP omis]
 20.02.61
 Inginer
 mecanic
@@ -456,7 +456,7 @@ Construcții
 Instalații
 2.
 FELEA I. ELENA
-CNP 2580508043761
+CNP [CNP omis]
 8.05.58
 Inginer
 Instalații
@@ -471,7 +471,7 @@ I
 Instalații
 3.
 PANTELIMON V. VLADIC
-CNP 1660219040014
+CNP [CNP omis]
 19.02.66
 Inginer
 instalator
@@ -485,7 +485,7 @@ Construcții
 Instalații
 4.
 PETRUSCA N. ATHENA
-CNP 2580922040093
+CNP [CNP omis]
 22.09.58
 Inginer
 constructor
@@ -500,7 +500,7 @@ Construcții
 5.
 RADU GH. GHEORGHE
 NICOLAE
-CNP 1631019040031
+CNP [CNP omis]
 19.10.63
 Inginer
 mecanic
@@ -515,7 +515,7 @@ Construcții
 Instalații
 6.
 SORA I. ELENA
-CNP 2550821040068
+CNP [CNP omis]
 21.08.55
 Inginer
 constructor
@@ -531,7 +531,7 @@ Instalații
 Județul Bihor
 1.
 BREDEAN T. ANDREI
-CNP 1550116054653
+CNP [CNP omis]
 16.01.55
 Inginer
 instalator
@@ -547,7 +547,7 @@ Construcții
 Instalații
 2.
 BLÎNDA P. ELISABETA
-CNP 2681228372242
+CNP [CNP omis]
 28.12.68
 Arhitect
 Oradea, str. Petre Ispirescu nr. 3,
@@ -560,7 +560,7 @@ Construcții
 3.
 COPACIAN D. DAN-
 HOREA
-CNP 1540316054679
+CNP [CNP omis]
 16.03.54
 Inginer
 constructor
@@ -578,7 +578,7 @@ Construcții
 Instalații
 4.
 COPACIAN I. CORNELIA
-CNP 2561210054661
+CNP [CNP omis]
 10.12.56
 Inginer
 constructor
@@ -591,7 +591,7 @@ I
 Construcții
 5.
 CUN I. CALIN-VICTOR
-CNP 1550809120673
+CNP [CNP omis]
 9.08.55
 Inginer
 constructor
@@ -605,7 +605,7 @@ Construcții
 6.
 DOVLETE V.
 EUGENIA-LACRAMIOARA
-CNP 2571117054663
+CNP [CNP omis]
 17.11.57
 Inginer
 constructor
@@ -621,7 +621,7 @@ Construcții
 7.
 GROZA L. OTHILIA
 MARIANA
-CNP 2581108054669
+CNP [CNP omis]
 8.11.58
 Inginer
 constructor
@@ -635,7 +635,7 @@ Construcții
 8.
 LIPOVEANU L.O.
 ADRIANA-AURORA
-CNP 2620904054681
+CNP [CNP omis]
 4.09.62
 Inginer
 constructor
@@ -648,7 +648,7 @@ I
 Construcții
 9.
 MEZA I. ANGEL-ADRIAN
-CNP 1601005120671
+CNP [CNP omis]
 5.10.60
 Inginer
 constructor
@@ -662,7 +662,7 @@ Construcții
 10.
 SABĂU T. EMIL-
 DUMITRU
-CNP 1631025052860
+CNP [CNP omis]
 25.10.63
 Inginer
 constructor
@@ -676,7 +676,7 @@ Construcții
 11.
 PRADA T. MARCELA
 FLORINA
-CNP 2680229054671
+CNP [CNP omis]
 29.02.68
 Inginer
 constructor
@@ -692,7 +692,7 @@ Construcții
 12.
 SABĂU T. EMIL-
 DUMITRU
-CNP 1631025052860
+CNP [CNP omis]
 25.10.63
 Inginer
 constructor
@@ -706,7 +706,7 @@ II
 Construcții
 13.
 STOICEA R. ȘTEFAN
-CNP 1470508054674
+CNP [CNP omis]
 8.05.47
 Inginer
 constructor
@@ -721,7 +721,7 @@ Construcții
 Județul Bistrița-Năsăud
 1.
 ANDREICA V. IOAN
-CNP 1540501060765
+CNP [CNP omis]
 1.05.54
 Inginer
 energetic
@@ -735,7 +735,7 @@ Instalații
 2.
 BALC I. MARIA-
 OLIMPIA
-CNP 2550214060768
+CNP [CNP omis]
 14.02.55
 Inginer
 constructor
@@ -750,7 +750,7 @@ Construcții
 3.
 BUTIU GH.
 GHEORGHE-FLORIN
-CNP 1700115060767
+CNP [CNP omis]
 15.01.70
 Inginer
 constructor
@@ -764,7 +764,7 @@ I
 Construcții
 4.
 LETIA A. AUREL-IOSIF
-CNP 1530216010312
+CNP [CNP omis]
 16.02.53
 Inginer
 constructor
@@ -778,7 +778,7 @@ Construcții
 5.
 MOLDOVAN O. EMIL
 MARIUS
-CNP 1620111060010
+CNP [CNP omis]
 11.01.62
 Inginer
 instalator
@@ -794,7 +794,7 @@ I
 Instalații
 6.
 POP A. MARIA DANIELA
-CNP 2630827060018
+CNP [CNP omis]
 27.08.63
 Inginer
 mecanic
@@ -809,7 +809,7 @@ I
 Instalații
 7.
 SZASZ P. PAUL
-CNP 1480912054676
+CNP [CNP omis]
 12.09.48
 Arhitect
 Oradea, Str. Republicii nr. 6, ap. 5,
@@ -823,7 +823,7 @@ Construcții
 Județul Botoșani
 1.
 IFTIMESCU ST. TOADER
-CNP 1511026070028
+CNP [CNP omis]
 26.10.51
 Inginer
 constructor
@@ -836,7 +836,7 @@ I
 Construcții
 2.
 MAXIM C. DUMITRU
-CNP 1620805070051
+CNP [CNP omis]
 5.08.62
 Inginer
 instalator
@@ -849,7 +849,7 @@ I
 Construcții
 3.
 RUSU GH. VALENTIN
-CNP 1650506070015
+CNP [CNP omis]
 6.05.65
 Inginer
 mecanic
@@ -869,7 +869,7 @@ Instalații
 Construcții
 4.
 TODICA C. CAMELIU
-CNP 1570503070084
+CNP [CNP omis]
 3.05.57
 Inginer
 instalator
@@ -886,7 +886,7 @@ Județul Brașov
 1.
 ANDREI I. VALERIU-
 EUGEN
-CNP 1550713080010
+CNP [CNP omis]
 13.07.55
 Inginer
 mecanic
@@ -900,7 +900,7 @@ II
 Construcții
 2.
 CROITORU V. ION
-CNP 1450627080041
+CNP [CNP omis]
 27.06.45
 Inginer
 mecanic
@@ -912,7 +912,7 @@ I
 Instalații
 3.
 DEAK D. KLARI
-CNP 2580212080059
+CNP [CNP omis]
 12.02.58
 Inginer
 mecanic
@@ -932,7 +932,7 @@ Construcții
 Instalații
 4.
 FRUNZĂ M.G. MANUELA
-CNP 2620527080031
+CNP [CNP omis]
 27.05.62
 Inginer
 constructor
@@ -948,7 +948,7 @@ Construcții
 5.
 MIREA C. CAMELIA
 LILIANA
-CNP 2520408080074
+CNP [CNP omis]
 8.04.52
 Inginer
 constructor
@@ -962,7 +962,7 @@ II
 Construcții
 6.
 OPREA I. VICTOR
-CNP 1590617080088
+CNP [CNP omis]
 17.06.59
 Inginer
 mecanic
@@ -978,7 +978,7 @@ Construcții
 7.
 SECARĂ C. EUGENIA-
 MARIA
-CNP 2510828080055
+CNP [CNP omis]
 28.10.51
 Inginer
 mecanic
@@ -992,7 +992,7 @@ I
 Construcții
 8.
 TUNS V. IOAN
-CNP 1550809080082
+CNP [CNP omis]
 9.08.55
 Inginer
 constructor
@@ -1008,7 +1008,7 @@ Județul Brăila
 1.
 CAPATINĂ N. ȘTEFAN-
 ANTON
-CNP 1471125090018
+CNP [CNP omis]
 25.11.47
 Inginer
 constructor
@@ -1024,7 +1024,7 @@ Construcții
 2.
 IONESCU T. ȘTEFANIA
 MITA
-CNP 2590605090027
+CNP [CNP omis]
 5.06.59
 Inginer
 constructor
@@ -1038,7 +1038,7 @@ II
 Construcții
 3.
 SIMIONESCU D. IONEL
-CNP 1560316090044
+CNP [CNP omis]
 16.03.56
 Inginer
 constructor
@@ -1055,7 +1055,7 @@ Municipiul București
 1.
 ALEXANDRU C.
 IULIANA-DANIELA
-CNP 2730809443018
+CNP [CNP omis]
 9.08.73
 Inginer
 Instalații
@@ -1068,7 +1068,7 @@ Instalații
 2.
 ANDRONACHE C. IRINA
 (căs. GRIGORE)
-CNP 2740925414521
+CNP [CNP omis]
 25.09.74
 Inginer
 energetic
@@ -1085,7 +1085,7 @@ Instalații
 3.
 ANGHELUȚĂ G.
 NICOLETA-FLORENTINA
-CNP 2710520034996
+CNP [CNP omis]
 20.05.71
 Inginer
 Instalații
@@ -1114,7 +1114,7 @@ Construcții
 5.
 BĂDOIU P. LUMINITA
 DENISA
-CNP 2580714400036
+CNP [CNP omis]
 14.07.58
 Inginer
 instalator
@@ -1129,7 +1129,7 @@ Construcții
 Instalații
 6.
 BĂLTĂREȚU I. FLORIN
-CNP 1690406424531
+CNP [CNP omis]
 6.04.69
 Inginer
 instalator
@@ -1144,7 +1144,7 @@ Construcții
 Instalații
 7.
 BARBU GH. FLORENTINA
-CNP 2630905400191
+CNP [CNP omis]
 5.09.63
 Inginer
 constructor
@@ -1161,7 +1161,7 @@ Construcții
 8.
 BĂRBUTĂ C. MARIANA
 NICOLETA
-CNP 2590430400148
+CNP [CNP omis]
 30.04.59
 Inginer
 energetician
@@ -1178,7 +1178,7 @@ Construcții
 Instalații
 9.
 BARCAN I. RADU
-CNP 1640708400076
+CNP [CNP omis]
 8.07.64
 Inginer
 Instalații
@@ -1194,7 +1194,7 @@ Construcții
 Instalații
 10.
 BELDEANU V. LILIANA
-CNP 2620406400155
+CNP [CNP omis]
 6.04.62
 Inginer
 constructor
@@ -1210,7 +1210,7 @@ Construcții
 11.
 BIANCHI-MANAILA GH.
 ANA-MARIA
-CNP 2470530400351
+CNP [CNP omis]
 30.05.47
 Inginer
 instalator
@@ -1225,7 +1225,7 @@ Construcții
 Instalații
 12.
 BIRO P. ANA MARIA
-CNP 2491205400011
+CNP [CNP omis]
 5.12.49
 Inginer
 Instalații
@@ -1258,7 +1258,7 @@ Instalații
 14.
 BOITAN S. NICOLETA-
 GINA
-CNP 2710807520010
+CNP [CNP omis]
 7.08.71
 Inginer
 energetician
@@ -1290,7 +1290,7 @@ Instalații
 16.
 CALUIANU ST.
 CONSTANȚA-FLORICA
-CNP 2471013400069
+CNP [CNP omis]
 13.10.47
 Inginer
 instalator
@@ -1305,7 +1305,7 @@ Construcții
 Instalații
 17.
 CALUIANU I. SIMONA
-CNP 2570621400410
+CNP [CNP omis]
 21.06.57
 Inginer
 instalator
@@ -1321,7 +1321,7 @@ Construcții
 Instalații
 18.
 CALUIANU I. SORIN
-CNP 1560620400629
+CNP [CNP omis]
 20.06.56
 Inginer
 instalator
@@ -1339,7 +1339,7 @@ Instalații
 19.
 CARACALEANU D.E.
 BOGDAN SULGER TEODOR
-CNP 1720809414511
+CNP [CNP omis]
 9.08.72
 Inginer
 instalator
@@ -1356,7 +1356,7 @@ Instalații
 20.
 CAVAROPOL GH.
 DAN-VICTOR
-CNP 1680824433029
+CNP [CNP omis]
 24.08.68
 Inginer
 instalator
@@ -1373,7 +1373,7 @@ Instalații
 21.
 CAZANESCU V. RALUCA
 ALEXANDRA
-CNP 2610810400054
+CNP [CNP omis]
 10.08.61
 Inginer
 instalator
@@ -1390,7 +1390,7 @@ Instalații
 22.
 CHETAN C. FL.
 FLORINA-LAURA
-CNP 2720929434529
+CNP [CNP omis]
 29.09.72
 Inginer
 constructor
@@ -1407,7 +1407,7 @@ Construcții
 Instalații
 23.
 CHIRIAC N. FLOREA
-CNP 1380428400053
+CNP [CNP omis]
 28.04.38
 Inginer
 instalator
@@ -1423,7 +1423,7 @@ Instalații
 24.
 CHRISTEA A. ROBERT-
 GEORGE
-CNP 1540220400038
+CNP [CNP omis]
 20.02.54
 Inginer
 constructor
@@ -1439,7 +1439,7 @@ Construcții
 25.
 CIOCÂLTEU M.
 CRISTIAN
-CNP 1500103400389
+CNP [CNP omis]
 3.01.50
 Inginer
 instalator
@@ -1455,7 +1455,7 @@ Instalații
 26.
 CIOLAN-SIMION
 AURELIA
-CNP 2590830400185
+CNP [CNP omis]
 30.08.59
 Inginer
 instalator
@@ -1502,7 +1502,7 @@ Instalații
 29.
 COMAN I. IOANA
 TEODORA
-CNP 2530312400721
+CNP [CNP omis]
 12.03.53
 Inginer
 constructor
@@ -1537,7 +1537,7 @@ Construcții
 CONSTANTINESCU N.
 GABRIELA-NINA
 CORNELIA
-CNP 2410818400109
+CNP [CNP omis]
 18.08.41
 Inginer
 instalator
@@ -1559,7 +1559,7 @@ Instalații
 32.
 CONSTANTINESCU T.
 DAN
-CNP 1460520400370
+CNP [CNP omis]
 20.05.46
 Inginer
 instalator
@@ -1585,7 +1585,7 @@ Construcții
 34.
 COTESCU M. MARIN
 ADRANEL
-CNP 1530709400082
+CNP [CNP omis]
 9.07.53
 Inginer
 constructor
@@ -1603,7 +1603,7 @@ Instalații
 35.
 COTESCU M.A.
 DARRIAN-BOGDAN
-CNP 1770414443016
+CNP [CNP omis]
 14.04.77
 Inginer
 constructor
@@ -1620,7 +1620,7 @@ Instalații
 36.
 COTESCU T. MARILENA
 DANIELA
-CNP 2540618400372
+CNP [CNP omis]
 18.06.54
 Inginer
 constructor
@@ -1638,7 +1638,7 @@ Instalații
 37.
 CRISTACHE A. AURORA
 IOANA
-CNP 2710826414516
+CNP [CNP omis]
 26.08.71
 Inginer
 instalator
@@ -1652,7 +1652,7 @@ I
 Instalații
 38.
 CRISTESCU V. VICTOR
-CNP 1560809400304
+CNP [CNP omis]
 9.08.56
 Inginer
 energetic
@@ -1667,7 +1667,7 @@ Construcții
 Instalații
 39.
 CRISTIDIS P. VASILE
-CNP 1461214400034
+CNP [CNP omis]
 14.12.46
 Inginer
 hidro-
@@ -1683,7 +1683,7 @@ I
 Construcții
 40.
 CRUCERU V. TRAIAN
-CNP 1450524400041
+CNP [CNP omis]
 24.05.45
 Inginer
 instalator
@@ -1701,7 +1701,7 @@ Instalații
 41.
 DAMIAN G. RADU
 MIRCEA
-CNP 1421130400054
+CNP [CNP omis]
 30.11.42
 Inginer
 instalator
@@ -1719,7 +1719,7 @@ Instalații
 42.
 DAMIAN R. M. MANEA
 ANDREI
-CNP 1711015423011
+CNP [CNP omis]
 15.10.71
 Inginer
 instalator
@@ -1735,7 +1735,7 @@ Construcții
 Instalații
 43.
 DARIE P. ELEONORA
-CNP 2590209084752
+CNP [CNP omis]
 9.02.59
 Inginer
 electrotehnic
@@ -1752,7 +1752,7 @@ Instalații
 44.
 DELIA M.N. MIREL-
 FLORIN
-CNP 1680216130589
+CNP [CNP omis]
 16.02.68
 Inginer
 constructor
@@ -1787,7 +1787,7 @@ Construcții
 46.
 DIACONU N. MIHAIL
 GAVRIL
-CNP 1720131293102
+CNP [CNP omis]
 31.01.72
 Inginer
 instalator
@@ -1803,7 +1803,7 @@ Construcții
 Instalații
 47.
 DOBRE A. CRISTINA
-CNP 2640313400016
+CNP [CNP omis]
 13.03.64
 Inginer
 instalator
@@ -1819,7 +1819,7 @@ Construcții
 Instalații
 48.
 DOGARU GH. MIRCEA
-CNP 1531121400621
+CNP [CNP omis]
 21.11.53
 Inginer
 instalator
@@ -1835,7 +1835,7 @@ Instalații
 49.
 DRĂGUȘIN L. LUCIA
 NICOLETTE
-CNP 2460714400199
+CNP [CNP omis]
 14.07.46
 Arhitect
 București, str. Șipotul Fântânilor
@@ -1851,7 +1851,7 @@ Construcții
 50.
 DRUGHEAN I. LIVIU
 GEO
-CNP 1570726400088
+CNP [CNP omis]
 26.07.57
 Inginer
 mecanic
@@ -1867,7 +1867,7 @@ Construcții
 Instalații
 51.
 DUICA D. IRINA
-CNP 2490102131221
+CNP [CNP omis]
 2.01.49
 Inginer
 energetic
@@ -1885,7 +1885,7 @@ Instalații
 52.
 DUMITRESCU A.
 AURELIU
-CNP 1410507400108
+CNP [CNP omis]
 7.05.41
 Inginer
 instalator
@@ -1902,7 +1902,7 @@ Instalații
 53.
 DUMITRESCU I.
 VLAD-ȘERBAN ION
-CNP 1341003400140
+CNP [CNP omis]
 3.10.34
 Inginer
 constructor
@@ -1933,7 +1933,7 @@ Instalații
 55.
 DUMITRESCU L.D.
 LIVIU
-CNP 1551102400062
+CNP [CNP omis]
 2.11.55
 Inginer
 instalator
@@ -1979,7 +1979,7 @@ Construcții
 58.
 FAGARAȘANU T.
 ALEXANDRA SÂNZIANA
-CNP 2460829400378
+CNP [CNP omis]
 29.08.46
 Arhitect
 București, Șos. Iancului nr. 1, bl.
@@ -2011,7 +2011,7 @@ Instalații
 60.
 FRUNZULICĂ AL.
 RODICA
-CNP 2630714400242
+CNP [CNP omis]
 14.07.63
 Inginer
 instalator
@@ -2029,7 +2029,7 @@ Instalații
 61.
 GAVRILIUC C. IONEL
 ROBERT
-CNP 1590620400105
+CNP [CNP omis]
 20.06.59
 Inginer
 instalator
@@ -2046,7 +2046,7 @@ Instalații
 62.
 GAVRILIUC L.
 CARMENALINA
-CNP 2570219400084
+CNP [CNP omis]
 19.02.57
 Inginer
 mecanic
@@ -2062,7 +2062,7 @@ Construcții
 Instalații
 63.
 GEABOC A. RUXANDRA
-CNP 2691014414516
+CNP [CNP omis]
 14.10.69
 Inginer
 mecanic
@@ -2083,7 +2083,7 @@ Instalații
 64.
 GEORGESCU FL.
 LILIANA-GABRIELA
-CNP 2680521443029
+CNP [CNP omis]
 21.05.68
 Inginer
 instalator
@@ -2116,7 +2116,7 @@ Construcții
 Instalații
 66.
 GHEORGHE L. SILVIU
-CNP 1671024035052
+CNP [CNP omis]
 24.10.67
 Inginer
 instalator
@@ -2133,7 +2133,7 @@ Instalații
 67.
 GHEORGHE T.
 CONSTANTIN
-CNP 1551015214615
+CNP [CNP omis]
 15.10.55
 Inginer
 constructor
@@ -2148,7 +2148,7 @@ I
 Construcții
 68.
 GHIULEA C. CORNEL
-CNP 1530913400134
+CNP [CNP omis]
 13.09.53
 Inginer
 energetician
@@ -2166,7 +2166,7 @@ Construcții
 Instalații
 69.
 GOLDHAMMER E. EUGEN
-CNP 1570518400064
+CNP [CNP omis]
 18.05.57
 Inginer
 mecanic
@@ -2182,7 +2182,7 @@ I
 Construcții
 70.
 GRIGORIU S. MIRCEA
-CNP 1520112400142
+CNP [CNP omis]
 12.01.52
 Inginer
 energetic
@@ -2198,7 +2198,7 @@ Construcții
 Instalații
 71.
 GUGU P. ALEXANDRU
-CNP 1540406400567
+CNP [CNP omis]
 6.04.54
 Inginer
 constructor
@@ -2228,7 +2228,7 @@ I
 Instalații
 73.
 HERA M. DRAGOȘ
-CNP 1440716400137
+CNP [CNP omis]
 16.07.44
 Inginer
 instalator
@@ -2246,7 +2246,7 @@ Instalații
 74.
 HURDUC P.
 CRISTIANA-MAGDALENA
-CNP 2480428400221
+CNP [CNP omis]
 28.04.48
 Inginer
 instalator
@@ -2261,7 +2261,7 @@ Construcții
 Instalații
 75.
 ILIE D. ANICA
-CNP 2590314400742
+CNP [CNP omis]
 14.03.59
 Inginer
 mecanic
@@ -2293,7 +2293,7 @@ Instalații
 77.
 IONESCU I. GABRIELA
 FLORICA
-CNP 2570829400436
+CNP [CNP omis]
 29.08.57
 Inginer
 instalator
@@ -2309,7 +2309,7 @@ Instalații
 78.
 IONESCU V.
 CONSTANTIN
-CNP 1340401400181
+CNP [CNP omis]
 1.04.34
 Inginer
 instalator
@@ -2325,7 +2325,7 @@ Construcții
 Instalații
 79.
 IONESI C. CEZAR
-CNP 1631127400112
+CNP [CNP omis]
 27.11.63
 Inginer
 mecanic
@@ -2341,7 +2341,7 @@ Construcții
 Instalații
 80.
 IORDACHE C. FLORIN
-CNP 1470406400098
+CNP [CNP omis]
 6.04.47
 Inginer
 instalator
@@ -2358,7 +2358,7 @@ Construcții
 Instalații
 81.
 IORDACHE F. VLAD
-CNP 1750413424524
+CNP [CNP omis]
 13.04.75
 Inginer
 instalator
@@ -2375,7 +2375,7 @@ Instalații
 82.
 IORDACHE S.
 CONSTANTIN
-CNP 1380221400129
+CNP [CNP omis]
 21.02.38
 Inginer
 instalator
@@ -2392,7 +2392,7 @@ Construcții
 Instalații
 83.
 IOSIF I. MIHAI
-CNP 1521004400141
+CNP [CNP omis]
 4.10.52
 Inginer
 mecanic
@@ -2409,7 +2409,7 @@ Construcții
 Instalații
 84.
 IOVANOVICI V. TOSA
-CNP 1520519400701
+CNP [CNP omis]
 19.05.52
 Inginer
 mecanic
@@ -2424,7 +2424,7 @@ Construcții
 Instalații
 85.
 IVAN A. ION
-CNP 1480302400331
+CNP [CNP omis]
 2.03.48
 Inginer
 energetic
@@ -2441,7 +2441,7 @@ Construcții
 Instalații
 86.
 IVAN D. GABRIEL
-CNP 1521213400115
+CNP [CNP omis]
 13.12.52
 Inginer
 instalator
@@ -2457,7 +2457,7 @@ Construcții
 Instalații
 87.
 IVAN I. MARINELA
-CNP 2550429400507
+CNP [CNP omis]
 29.04.55
 Inginer
 instalator
@@ -2475,7 +2475,7 @@ Construcții
 Instalații
 88.
 LAZĂR ȘT. ȘERBAN
-CNP 1480409400131
+CNP [CNP omis]
 9.04.48
 Inginer
 electro-
@@ -2490,7 +2490,7 @@ Construcții
 Instalații
 89.
 LECA GH. AURELIU
-CNP 1400625400248
+CNP [CNP omis]
 25.06.40
 Inginer
 termo-
@@ -2508,7 +2508,7 @@ Instalații
 90.
 LUCA V. BOGDAN-
 ANDREI
-CNP 1710111451531
+CNP [CNP omis]
 11.01.71
 Inginer
 constructor
@@ -2525,7 +2525,7 @@ Instalații
 91.
 LUCACEL I. CORINA
 EMILIA
-CNP 2420217400233
+CNP [CNP omis]
 17.02.42
 Arhitect
 București, str. Mașina de Pâine nr.
@@ -2541,7 +2541,7 @@ Instalații
 92.
 LUNGU E. CATALIN
 IOAN
-CNP 1700828424519
+CNP [CNP omis]
 28.08.70
 Inginer
 instalator
@@ -2559,7 +2559,7 @@ Instalații
 93.
 LUPEA A. MARIANA-
 IULIA
-CNP 2560720400739
+CNP [CNP omis]
 20.07.56
 Inginer
 mecanic
@@ -2574,7 +2574,7 @@ Construcții
 Instalații
 94.
 LUPULESCU N. BOGDAN
-CNP 1560729400416
+CNP [CNP omis]
 29.07.56
 Inginer
 energetician
@@ -2591,7 +2591,7 @@ Instalații
 95.
 MANEA V. VALENTINA
 IULIANA
-CNP 2700126163206
+CNP [CNP omis]
 26.01.70
 Inginer
 mecanic
@@ -2608,7 +2608,7 @@ Construcții
 Instalații
 96.
 MARCU C. VASILE
-CNP 1410905400166
+CNP [CNP omis]
 5.09.41
 Inginer
 instalator
@@ -2636,7 +2636,7 @@ Construcții
 Instalații
 98.
 MATEESCU N. IOAN
-CNP 1461110400179
+CNP [CNP omis]
 10.11.46
 Inginer
 Instalații
@@ -2654,7 +2654,7 @@ Instalații
 99.
 MELINTE N.
 ARISTIDE-SERGIU
-CNP 1480527400191
+CNP [CNP omis]
 27.05.48
 Inginer
 constructor
@@ -2669,7 +2669,7 @@ Construcții
 100.
 MIHALACHE A.
 FILOFTEIA CĂTĂLINA
-CNP 2710118414529
+CNP [CNP omis]
 18.01.71
 Inginer
 constructor
@@ -2684,7 +2684,7 @@ Construcții
 101.
 MIHALAȘCU D.
 GHEORGHE-CORNELIU
-CNP 1500503400481
+CNP [CNP omis]
 3.05.50
 Inginer
 instalator
@@ -2700,7 +2700,7 @@ Construcții
 Instalații
 102.
 MIHAI S. LILIANA
-CNP 2580101401181
+CNP [CNP omis]
 1.01.58
 Inginer
 instalator
@@ -2716,7 +2716,7 @@ Construcții
 Instalații
 103.
 MIHĂILĂ C. DAN
-CNP 1570430400641
+CNP [CNP omis]
 30.04.57
 Inginer
 constructor
@@ -2732,7 +2732,7 @@ Construcții
 Instalații
 104.
 MIRA I. NICULAE
-CNP 1430930400261
+CNP [CNP omis]
 30.09.43
 Inginer
 instalator
@@ -2749,7 +2749,7 @@ Construcții
 Instalații
 105.
 MIREA P. GHEORGHE
-CNP 1650101400620
+CNP [CNP omis]
 1.01.65
 Inginer
 Instalații
@@ -2782,7 +2782,7 @@ Construcții
 Instalații
 107.
 MOLDOVAN S. LUCREȚIA
-CNP 2610808126204
+CNP [CNP omis]
 8.08.61
 Inginer
 constructor
@@ -2798,7 +2798,7 @@ Construcții
 Instalații
 108.
 MORARU M. RODICA
-CNP 2620628400052
+CNP [CNP omis]
 28.06.62
 Inginer
 instalator
@@ -2815,7 +2815,7 @@ Construcții
 Instalații
 109.
 MOROLDO C. DAN
-CNP 1500911400185
+CNP [CNP omis]
 11.09.50
 Inginer
 instalator
@@ -2834,7 +2834,7 @@ Instalații
 110.
 MOROLDO C. HRISIA
 ELENA
-CNP 2670326235470
+CNP [CNP omis]
 26.03.67
 Inginer
 instalator
@@ -2849,7 +2849,7 @@ Construcții
 Instalații
 111.
 MOSESSOHN I. LIEANA
-CNP 2580522400856
+CNP [CNP omis]
 22.05.58
 Inginer
 mecanic
@@ -2866,7 +2866,7 @@ Construcții
 Instalații
 112.
 MUNTEANU C. NINA
-CNP 2470206400316
+CNP [CNP omis]
 6.02.47
 Arhitect
 București, str. Doamna Ghica nr. 3,
@@ -2883,7 +2883,7 @@ Instalații
 113.
 NICOLESCU T.
 ANASTASIA ELIZA
-CNP 2440319400909
+CNP [CNP omis]
 19.03.44
 Arhitect
 București, str. Av. Petre Crețu nr.
@@ -2898,7 +2898,7 @@ Instalații
 114.
 NICULESCU M. GH.
 VIORICA
-CNP 2540311400030
+CNP [CNP omis]
 11.03.54
 Inginer
 constructor
@@ -2918,7 +2918,7 @@ Construcții
 Instalații
 115.
 NICULESCU P. CLAUDIU
-CNP 1690611214606
+CNP [CNP omis]
 11.06.69
 Inginer
 energetician
@@ -2936,7 +2936,7 @@ Instalații
 116.
 NICOLESCU P.
 CORNELIU-DELFIN
-CNP 1590910400135
+CNP [CNP omis]
 10.09.59
 Inginer
 mecanic
@@ -2971,7 +2971,7 @@ Instalații
 118.
 OCNARU D. VIOREL-
 GABRIEL
-CNP 1570322400488
+CNP [CNP omis]
 22.03.57
 Inginer
 constructor
@@ -2987,7 +2987,7 @@ Construcții
 Instalații
 119.
 OCNARU GH. TUDORA
-CNP 2590913400321
+CNP [CNP omis]
 13.09.59
 Inginer
 constructor
@@ -3003,7 +3003,7 @@ Construcții
 Instalații
 120.
 OLAN I. LAURENȚIU
-CNP 1500212400238
+CNP [CNP omis]
 12.02.50
 Inginer
 instalator
@@ -3021,7 +3021,7 @@ Instalații
 121.
 OLARU S. RADU
 VALENTIN
-CNP 1720606410023
+CNP [CNP omis]
 6.06.72
 Inginer
 instalator
@@ -3038,7 +3038,7 @@ Construcții
 Instalații
 122.
 OMER I. ADNAN
-CNP 1490307400191
+CNP [CNP omis]
 7.03.49
 Inginer
 instalator
@@ -3054,7 +3054,7 @@ Instalații
 123.
 PASCULESCU P.
 MIHAELA RODICA
-CNP 2650404400058
+CNP [CNP omis]
 4.04.65
 Inginer
 instalator
@@ -3082,7 +3082,7 @@ Construcții
 Instalații
 125.
 PACIU C. NICULINA
-CNP 2660122293116
+CNP [CNP omis]
 22.01.66
 Inginer
 energetic
@@ -3096,7 +3096,7 @@ Construcții
 Instalații
 126.
 PETEAN I. DANIEL
-CNP 1541122400268
+CNP [CNP omis]
 22.11.54
 Inginer
 energetic
@@ -3114,7 +3114,7 @@ Instalații
 127.
 PETRAN M.I. HORIA
 ALEXANDRU
-CNP 1720113434526
+CNP [CNP omis]
 13.01.72
 Inginer
 instalator
@@ -3129,7 +3129,7 @@ Construcții
 Instalații
 128.
 PÎRVAN I. RADU PAUL
-CNP 1610629400290
+CNP [CNP omis]
 29.06.61
 Inginer
 energetic
@@ -3145,7 +3145,7 @@ I
 Construcții
 129.
 PLES M. MARIA
-CNP 2670908082428
+CNP [CNP omis]
 8.09.67
 Inginer
 constructor
@@ -3174,7 +3174,7 @@ Construcții
 Instalații
 131.
 POLIZU S. RADU
-CNP 1450830400109
+CNP [CNP omis]
 30.08.45
 Inginer
 instalator
@@ -3201,7 +3201,7 @@ I
 Construcții
 133.
 POPESCU I. VALENTIN
-CNP 1611022400223
+CNP [CNP omis]
 22.10.61
 Inginer
 constructor
@@ -3223,7 +3223,7 @@ Instalații
 134.
 POPESCU E. EUGEN-
 SILVIU-LUCIAN
-CNP 1480401400455
+CNP [CNP omis]
 1.04.48
 Arhitect
 București, str. Lt. Victor Manu nr.
@@ -3237,7 +3237,7 @@ Construcții
 135.
 POPESCU C. FLORIN
 VALERIU ION
-CNP 1600904400280
+CNP [CNP omis]
 4.09.60
 Inginer
 constructor
@@ -3252,7 +3252,7 @@ I
 Construcții
 136.
 POPESCU N. MARIJANA
-CNP 2590818400063
+CNP [CNP omis]
 18.08.59
 Inginer
 constructor
@@ -3268,7 +3268,7 @@ Construcții
 Instalații
 137.
 RIZZOLI O. CEZAR
-CNP 1481010400278
+CNP [CNP omis]
 10.10.48
 Inginer
 instalator
@@ -3283,7 +3283,7 @@ Construcții
 Instalații
 138.
 RODAN E. GHEORGHE
-CNP 1460414400532
+CNP [CNP omis]
 14.04.46
 Fizician
 București, Aleea Agigea nr. 4, bl.
@@ -3299,7 +3299,7 @@ Construcții
 Instalații
 139.
 ROSCA I. MIRCEA
-CNP 1590726400201
+CNP [CNP omis]
 26.07.59
 Inginer
 instalator
@@ -3316,7 +3316,7 @@ Instalații
 140.
 ROTARIU I. DANIELA
 LILIANA
-CNP 2670209241124
+CNP [CNP omis]
 9.02.67
 Inginer
 energetic
@@ -3334,7 +3334,7 @@ Instalații
 141.
 RUSU GH. GHEORGHE
 CONSTANTIN
-CNP 1440327400288
+CNP [CNP omis]
 27.03.44
 Inginer
 instalator
@@ -3349,7 +3349,7 @@ Instalații
 142.
 SAHAN E. T. A.
 EUGEN-ALEXANDRU
-CNP 1570830400259
+CNP [CNP omis]
 30.08.57
 Inginer
 instalator
@@ -3365,7 +3365,7 @@ Construcții
 Instalații
 143.
 SALANTA GH. VIRGIL
-CNP 1581003400170
+CNP [CNP omis]
 3.10.58
 Inginer
 constructor
@@ -3380,7 +3380,7 @@ I
 Construcții
 144.
 SANDU M. LUCIAN
-CNP 1421022400261
+CNP [CNP omis]
 22.10.42
 Inginer
 instalator
@@ -3395,7 +3395,7 @@ Instalații
 145.
 ȘERBANESCU C.
 MARCELA
-CNP 2570502400486
+CNP [CNP omis]
 2.05.57
 Inginer
 Instalații
@@ -3412,7 +3412,7 @@ Instalații
 146.
 ȘERBANESCU D.
 STELUȚA ELENA
-CNP 2540516400285
+CNP [CNP omis]
 16.05.54
 Arhitect
 București, bd Lacul Tei nr. 65, bl.
@@ -3428,7 +3428,7 @@ Instalații
 147.
 SPERIATU I. PAULA
 LUMINITA
-CNP 2680628135075
+CNP [CNP omis]
 28.06.68
 Inginer
 constructor
@@ -3457,7 +3457,7 @@ Construcții
 Instalații
 149.
 STANCIU I. LIANA
-CNP 2610901400100
+CNP [CNP omis]
 1.09.61
 Inginer
 constructor
@@ -3488,7 +3488,7 @@ Instalații
 151.
 STĂNESCU C. ADRIAN
 ALEXANDRU
-CNP 1470219400406
+CNP [CNP omis]
 19.02.47
 Inginer
 instalator
@@ -3504,7 +3504,7 @@ Construcții
 Instalații
 152.
 STARIRADOV GH. ELENA
-CNP 2521123400282
+CNP [CNP omis]
 23.11.52
 Inginer
 termo-
@@ -3523,7 +3523,7 @@ Instalații
 153.
 STOIAN M. CARMEN-
 MARIA
-CNP 2541127400749
+CNP [CNP omis]
 27.11.54
 Inginer
 București, bd. I. Mihalache nr. 45,
@@ -3537,7 +3537,7 @@ Construcții
 Instalații
 154.
 STOICA AL. EMIL-DORU
-CNP 1500107400654
+CNP [CNP omis]
 7.01.50
 Inginer
 energetic
@@ -3554,7 +3554,7 @@ Construcții
 Instalații
 155.
 STOICAN C. GEORGE
-CNP 1440512400181
+CNP [CNP omis]
 12.05.44
 Inginer
 instalator
@@ -3570,7 +3570,7 @@ Instalații
 156.
 STRAT G. BENONE-
 IULIAN
-CNP 1720809390700
+CNP [CNP omis]
 9.08.72
 Inginer
 energetic
@@ -3587,7 +3587,7 @@ Instalații
 157.
 SULTANA N.
 CONSTANTIN
-CNP 1470805400188
+CNP [CNP omis]
 5.08.47
 Inginer
 constructor
@@ -3602,7 +3602,7 @@ I
 Construcții
 158.
 TABACARU C. MARIANA
-CNP 2450429400439
+CNP [CNP omis]
 29.04.45
 Arhitect
 București, Șos. Ștefan cel Mare nr.
@@ -3617,7 +3617,7 @@ Construcții
 159.
 TEODORESCU C.
 MARIANA-ILA
-CNP 2671008035046
+CNP [CNP omis]
 8.10.67
 Inginer
 energetic
@@ -3633,7 +3633,7 @@ Instalații
 160.
 TEODORESCU GH.
 DANIELA-IOANA
-CNP 2650318400106
+CNP [CNP omis]
 18.03.65
 Inginer
 instalator
@@ -3650,7 +3650,7 @@ Instalații
 161.
 TOADER GH. CIPRIAN
 TEOFIL
-CNP 1431024400345
+CNP [CNP omis]
 24.10.43
 Arhitect
 București, Șos. Colentina nr. 43, bl.
@@ -3665,7 +3665,7 @@ Construcții
 Instalații
 162.
 TOADER I. GHEORGHE
-CNP 1611128400362
+CNP [CNP omis]
 28.11.61
 Inginer
 electro-
@@ -3682,7 +3682,7 @@ I
 Instalații
 163.
 TOMA I. VICENȚIU
-CNP 1480902400595
+CNP [CNP omis]
 2.09.48
 Arhitect
 București, str. Făinari nr. 24, bl.
@@ -3706,7 +3706,7 @@ I
 Construcții
 165.
 TABREA A. ADRIAN
-CNP 1590522400393
+CNP [CNP omis]
 22.05.59
 Inginer
 constructor
@@ -3720,7 +3720,7 @@ I
 Construcții
 166.
 UDREA C. IOANA
-CNP 2720323451521
+CNP [CNP omis]
 23.03.72
 Inginer
 mecanic
@@ -3737,7 +3737,7 @@ Instalații
 167.
 VARTIRES A. ANA-
 ANDREEA
-CNP 2730902416016
+CNP [CNP omis]
 2.09.73
 Inginer
 instalator
@@ -3753,7 +3753,7 @@ Construcții
 Instalații
 168.
 VĂLEANU D. VALENTIN
-CNP 1570612400678
+CNP [CNP omis]
 12.06.57
 Inginer
 energetic
@@ -3770,7 +3770,7 @@ Construcții
 Instalații
 169.
 VINTILĂ D. ȘTEFAN
-CNP 1380404400342
+CNP [CNP omis]
 4.04.38
 Inginer
 instalator
@@ -3786,7 +3786,7 @@ Construcții
 Instalații
 170.
 VLĂSCEANU I. ION
-CNP 1550916400577
+CNP [CNP omis]
 16.09.55
 Inginer
 instalator
@@ -3802,7 +3802,7 @@ Construcții
 Instalații
 171.
 VLASCEANU I. SILVIA
-CNP 2630405400695
+CNP [CNP omis]
 5.04.63
 Inginer
 energetic
@@ -3818,7 +3818,7 @@ Construcții
 Instalații
 172.
 VOICU A. VICTOR
-CNP 1411202400155
+CNP [CNP omis]
 2.12.41
 Inginer
 instalator
@@ -3834,7 +3834,7 @@ Construcții
 Instalații
 173.
 VOICULESCU M. MIHAI
-CNP 1390521400339
+CNP [CNP omis]
 21.05.39
 Inginer
 constructor
@@ -3865,7 +3865,7 @@ Instalații
 Județul Buzău
 1.
 ALEXE I. ECATERINA
-CNP 2531007100021
+CNP [CNP omis]
 7.10.53
 Inginer
 constructor
@@ -3879,7 +3879,7 @@ Construcții
 2.
 CONSTANTINESCU C.
 VIOREL
-CNP 1520926100021
+CNP [CNP omis]
 26.09.52
 Inginer
 constructor
@@ -3892,7 +3892,7 @@ I
 Construcții
 3.
 MACIUCĂ E. ELENA
-CNP 2620505100031
+CNP [CNP omis]
 5.05.62
 Arhitect
 Buzău, str. Bucegi nr. 17, tel:
@@ -3906,7 +3906,7 @@ Județul Caraș-Severin
 1.
 COLONESCU D.
 CRISTOFOR
-CNP 1670708113686
+CNP [CNP omis]
 8.07.67
 Inginer
 instalator
@@ -3919,7 +3919,7 @@ I
 Instalații
 2.
 GAINĂ M. ILIE
-CNP 1580128113732
+CNP [CNP omis]
 28.01.58
 Inginer
 electric
@@ -3937,7 +3937,7 @@ Instalații
 3.
 IUCU P.
 CLEMENTINA-LULUȚA
-CNP 2680606112503
+CNP [CNP omis]
 6.06.68
 Inginer
 constructor
@@ -3951,7 +3951,7 @@ Construcții
 4.
 POTOCEAN C. DOREL-
 VASILE
-CNP 1550920113719
+CNP [CNP omis]
 20.09.55
 Inginer
 mecanic
@@ -3969,7 +3969,7 @@ Construcții
 Instalații
 5.
 STANCIU I. VASILE
-CNP 1460222113691
+CNP [CNP omis]
 22.02.46
 Inginer
 constructor
@@ -3982,7 +3982,7 @@ Construcții
 Județul Călărași
 1.
 COTEȚ D. MARIAN
-CNP 1550621170356
+CNP [CNP omis]
 21.06.55
 Inginer
 mecanic
@@ -4079,7 +4079,7 @@ I
 Construcții
 7.
 CRĂCEA A. ENIKO
-CNP 2601128123135
+CNP [CNP omis]
 28.11.60
 Inginer
 constructor
@@ -4094,7 +4094,7 @@ Construcții
 8.
 CUCIUREANU
 G. GHEORGHE
-CNP 1690429330026
+CNP [CNP omis]
 29.04.69
 Inginer
 constructor
@@ -4160,7 +4160,7 @@ I
 Instalații
 13.
 KADAR F. FERENC
-CNP 1680209264382
+CNP [CNP omis]
 9.02.68
 Inginer
 constructor
@@ -4173,7 +4173,7 @@ I
 Construcții
 14.
 MARUSCIAC F. DUMITRU
-CNP 1300910120703
+CNP [CNP omis]
 10.09.30
 Inginer
 constructor
@@ -4184,7 +4184,7 @@ I
 Construcții
 15.
 MARINCOV P. PETRU
-CNP 1570819120667
+CNP [CNP omis]
 19.08.57
 Inginer
 instalator
@@ -4214,7 +4214,7 @@ I
 Construcții
 17.
 MOLDOVAN S. SIMION
-CNP 1550606126214
+CNP [CNP omis]
 6.06.55
 Inginer
 constructor
@@ -4225,7 +4225,7 @@ II
 Construcții
 18.
 MOGA A. ANDREI IOAN
-CNP 1441229120660
+CNP [CNP omis]
 29.12.44
 Inginer
 constructor
@@ -4268,7 +4268,7 @@ Construcții
 21.
 POP I. MONICA-
 CRISTINA
-CNP 2710727243110
+CNP [CNP omis]
 27.07.71
 Inginer
 constructor
@@ -4282,7 +4282,7 @@ Construcții
 22.
 POP R. A. ȘTEFAN-
 CORNELIU
-CNP 1420819323920
+CNP [CNP omis]
 19.08.42
 Inginer
 constructor
@@ -4297,7 +4297,7 @@ Construcții
 23.
 SUBȚIRICĂ I.
 DAN-LEONARD
-CNP 1520124120750
+CNP [CNP omis]
 24.01.52
 Inginer
 constructor
@@ -4312,7 +4312,7 @@ Construcții
 Instalații
 24.
 TRIPON S. TRAIAN
-CNP 1541106120680
+CNP [CNP omis]
 6.11.54
 Inginer
 constructor
@@ -4338,7 +4338,7 @@ Construcții
 Județul Constanța
 1.
 AXINTE D. VIOREL
-CNP 1490304090051
+CNP [CNP omis]
 4.03.49
 Inginer
 constructor
@@ -4353,7 +4353,7 @@ I
 Construcții
 2.
 BECHIS M. NEDRET
-CNP 1570629134002
+CNP [CNP omis]
 29.06.57
 Inginer
 constructor
@@ -4367,7 +4367,7 @@ Construcții
 Instalații
 3.
 BULIGA GR. IOAN
-CNP 1660828333205
+CNP [CNP omis]
 28.08.66
 Inginer
 constructor
@@ -4382,7 +4382,7 @@ I
 Construcții
 4.
 CIRCO ST. MARGARETA
-CNP 2560205131223
+CNP [CNP omis]
 5.02.56
 Inginer
 constructor
@@ -4396,7 +4396,7 @@ I
 Construcții
 5.
 COMAN GH. LAURA
-CNP 2620606131232
+CNP [CNP omis]
 6.06.62
 Inginer
 economic
@@ -4412,7 +4412,7 @@ Construcții
 Instalații
 6.
 GRAUR I. CONSTANȚA
-CNP 2480318131255
+CNP [CNP omis]
 18.03.48
 Inginer
 hidro-
@@ -4428,7 +4428,7 @@ Construcții
 7.
 GÎRNICEANU N.
 RADU ION
-CNP 1611214131212
+CNP [CNP omis]
 14.12.61
 Inginer
 constructor
@@ -4443,7 +4443,7 @@ I
 Construcții
 8.
 IDA GH. MARIA
-CNP 2630907131269
+CNP [CNP omis]
 7.09.63
 Inginer
 constructor
@@ -4456,7 +4456,7 @@ Construcții
 Instalații
 9.
 IGNAT N. ELENA
-CNP 2580523131269
+CNP [CNP omis]
 23.05.58
 Inginer
 constructor
@@ -4471,7 +4471,7 @@ Construcții
 Instalații
 10.
 IOAN GH. EUGEN
-CNP 1590102131259
+CNP [CNP omis]
 2.01.59
 Inginer
 constructor
@@ -4484,7 +4484,7 @@ Construcții
 11.
 IORDACHESCU I.
 DORINA
-CNP 2550723131245
+CNP [CNP omis]
 23.07.55
 Inginer
 constructor
@@ -4499,7 +4499,7 @@ Construcții
 12.
 LĂCĂTUȘ C. CRISTINA-
 LETIȚIA(căs. MAFTEI)
-CNP 2680117131266
+CNP [CNP omis]
 17.01.68
 Inginer
 constructor
@@ -4515,7 +4515,7 @@ Instalații
 13.
 LUPULESCU GH.
 GABRIELA
-CNP 2570310131243
+CNP [CNP omis]
 10.03.57
 Inginer
 energetic
@@ -4530,7 +4530,7 @@ Construcții
 Instalații
 14.
 MARTIN P. LILIANA
-CNP 2690322132804
+CNP [CNP omis]
 22.03.69
 Inginer
 constructor
@@ -4545,7 +4545,7 @@ I
 Construcții
 15.
 MOLNAR A. ISTVAN
-CNP 1551225131241
+CNP [CNP omis]
 25.12.55
 Inginer
 constructor
@@ -4561,7 +4561,7 @@ Construcții
 16.
 PETRĂȘESCU I.
 ADRIAN-GEORGE
-CNP 1511211131250
+CNP [CNP omis]
 11.12.51
 Inginer
 constructor
@@ -4576,7 +4576,7 @@ I
 Construcții
 17.
 RĂDUCANU ȘT. ȘTEFAN
-CNP 1561021131321
+CNP [CNP omis]
 21.10.56
 Inginer
 constructor
@@ -4591,7 +4591,7 @@ I
 Construcții
 18.
 RESIT C. BERIN
-CNP 1651031131253
+CNP [CNP omis]
 31.10.65
 Inginer
 instalator
@@ -4607,7 +4607,7 @@ Construcții
 Instalații
 19.
 TELEMAN ȘT. ELENA
-CNP 2550103131285
+CNP [CNP omis]
 3.01.56
 Inginer
 hidrotehnic
@@ -4623,7 +4623,7 @@ Construcții
 Instalații
 20.
 ȚIGĂNILĂ ȘT. KARMEN
-CNP 2590706131317
+CNP [CNP omis]
 6.07.59
 Inginer
 Instalații
@@ -4637,7 +4637,7 @@ I
 Construcții
 21.
 TUDOR I. DARIE
-CNP 1471113131239
+CNP [CNP omis]
 13.11.47
 Inginer
 mașini
@@ -4654,7 +4654,7 @@ I
 Instalații
 22.
 VAMEȘU T. VASILE
-CNP 1430805131281
+CNP [CNP omis]
 5.08.43
 Inginer
 electro-
@@ -4671,7 +4671,7 @@ Instalații
 Județul Covasna
 1.
 BIRO D. DONAT
-CNP 1620726141031
+CNP [CNP omis]
 26.07.62
 Inginer
 constructor
@@ -4685,7 +4685,7 @@ Județul Dâmbovița
 1.
 BULIN D. CORNEL-
 VASILE
-CNP 1630128151776
+CNP [CNP omis]
 28.01.63
 Inginer
 mecanic
@@ -4701,7 +4701,7 @@ Instalații
 2.
 COZONAC M. MARIA
 NASTASIA
-CNP 2580709151784
+CNP [CNP omis]
 9.07.58
 Inginer
 constructor
@@ -4717,7 +4717,7 @@ Construcții
 3.
 GEORGESCU C. CLAUDIA
 LILIANA
-CNP 2621204151772
+CNP [CNP omis]
 4.12.62
 Inginer
 constructor
@@ -4732,7 +4732,7 @@ Construcții
 Instalații
 4.
 LUCACI M. VIRGINIA
-CNP 2580412151781
+CNP [CNP omis]
 12.04.58
 Inginer
 constructor
@@ -4748,7 +4748,7 @@ Construcții
 5.
 PENESCU L. LUCIAN
 MIRCEA
-CNP 1690121151792
+CNP [CNP omis]
 21.01.69
 Inginer
 constructor
@@ -4762,7 +4762,7 @@ Construcții
 Județul Dolj
 1.
 BRATU M. EMIL
-CNP 1670928163285
+CNP [CNP omis]
 28.09.67
 Inginer
 mecanic
@@ -4777,7 +4777,7 @@ Construcții
 Instalații
 2.
 COTEȚI M. OCTAVIAN
-CNP 1590701282218
+CNP [CNP omis]
 1.07.59
 Inginer
 constructor
@@ -4792,7 +4792,7 @@ Construcții
 Instalații
 3.
 CULCEA I. ZENOVIA
-CNP 2540327163310
+CNP [CNP omis]
 27.03.54
 Inginer
 electro-
@@ -4806,7 +4806,7 @@ Instalații
 4.
 DUMITRU A. ANDA-
 ARABELA
-CNP 2680420163197
+CNP [CNP omis]
 20.04.68
 Inginer
 instalator
@@ -4821,7 +4821,7 @@ I
 Instalații
 5.
 MIRCEA F. ION
-CNP 1461207163200
+CNP [CNP omis]
 7.12.46
 Inginer
 electro-
@@ -4837,7 +4837,7 @@ I
 Instalații
 6.
 MITRACHE D. GHEORGHE
-CNP 1470101163283
+CNP [CNP omis]
 1.01.47
 Inginer
 instalator
@@ -4851,7 +4851,7 @@ I
 Instalații
 7.
 PÎRVU M. CONSTANTIN
-CNP 1550703163213
+CNP [CNP omis]
 3.07.55
 Inginer
 mecanic
@@ -4866,7 +4866,7 @@ Construcții
 Instalații
 8.
 TEICA G. LIVIU-DORU
-CNP 1441031163258
+CNP [CNP omis]
 31.10.44
 Inginer
 mecanic
@@ -4886,7 +4886,7 @@ Construcții
 Instalații
 9.
 TISMĂNARU D. CEZAR
-CNP 1620518163241
+CNP [CNP omis]
 18.05.62
 Inginer
 mecanic
@@ -4905,7 +4905,7 @@ Construcții
 Instalații
 10.
 TUDOR F. TUDORICĂ
-CNP 1741129163257
+CNP [CNP omis]
 29.11.74
 Inginer
 mecanic
@@ -4922,7 +4922,7 @@ Instalații
 Județul Galați
 1.
 ADASCALULUI V. MIHAI
-CNP 1550210170353
+CNP [CNP omis]
 10.02.55
 Inginer
 constructor
@@ -4936,7 +4936,7 @@ I
 Construcții
 2.
 DANILOV D. PETRE
-CNP 1500702170385
+CNP [CNP omis]
 2.07.50
 Inginer
 constructor
@@ -4952,7 +4952,7 @@ Instalații
 3.
 DIMITRIU I.
 VALENTINA
-CNP 2500624170347
+CNP [CNP omis]
 24.06.50
 Inginer
 constructor
@@ -4967,7 +4967,7 @@ Construcții
 4.
 IOSIFESCU C.
 CRISTIAN-CONSTANTIN
-CNP 1680221170387
+CNP [CNP omis]
 21.02.68
 Inginer
 mecanic
@@ -4984,7 +4984,7 @@ Instalații
 5.
 MIERLOIU GH.
 CRISTINEL
-CNP 1661114151230
+CNP [CNP omis]
 14.11.66
 Inginer
 energetic
@@ -5005,7 +5005,7 @@ Instalații
 6.
 ZARA V. MIRCEA
 VOINEA
-CNP 1460711170364
+CNP [CNP omis]
 11.07.46
 Inginer
 instalator
@@ -5027,7 +5027,7 @@ Județul Giurgiu
 1.
 STEOROBĂNEANU M.
 ELENA
-CNP 2581205520043
+CNP [CNP omis]
 5.12.58
 Inginer
 constructor
@@ -5058,7 +5058,7 @@ I
 Construcții
 3.
 SANDRU M. ION
-CNP 1400929520021
+CNP [CNP omis]
 29.09.40
 Inginer
 instalator
@@ -5073,7 +5073,7 @@ Instalații
 Județul Gorj
 1.
 BUTIUC A. FLORIN
-CNP 1600410182787
+CNP [CNP omis]
 10.04.60
 Inginer
 Instalator
@@ -5087,7 +5087,7 @@ I
 Instalații
 2.
 CRĂETE C. ELENA
-CNP 2630209182806
+CNP [CNP omis]
 9.02.63
 Inginer
 constructor
@@ -5102,7 +5102,7 @@ I
 Construcții
 3.
 DIȚĂ GH. DANIELA
-CNP 2640721182764
+CNP [CNP omis]
 21.07.64
 Inginer
 mecanic
@@ -5116,7 +5116,7 @@ I
 Instalații
 4.
 DIȚĂ GH. GHEORGHE
-CNP 1600508182787
+CNP [CNP omis]
 8.05.60
 Inginer
 instalator
@@ -5135,7 +5135,7 @@ Instalații
 Instalații
 5.
 KRUTSCH GH. MARIA
-CNP 2570108251997
+CNP [CNP omis]
 8.01.57
 Inginer
 constructor
@@ -5150,7 +5150,7 @@ Construcții
 6.
 POPESCU-PURCEL I.
 CARMEN
-CNP 2590513182796
+CNP [CNP omis]
 13.05.59
 Inginer
 constructor
@@ -5166,7 +5166,7 @@ Construcții
 7.
 PRUNĂ V. LILIANA
 GABRIELA
-CNP 2600104182783
+CNP [CNP omis]
 4.01.60
 Inginer
 constructor
@@ -5182,7 +5182,7 @@ Construcții
 Județul Harghita
 1.
 BALINT D. DANIEL
-CNP 1621219080011
+CNP [CNP omis]
 19.12.62
 Inginer
 mecanic
@@ -5197,7 +5197,7 @@ I
 Construcții
 2.
 BARTHA L. LADISLAU
-CNP 1560912192465
+CNP [CNP omis]
 12.09.56
 Inginer
 constructor
@@ -5213,7 +5213,7 @@ Construcții
 3.
 SEBESTYEN A.
 ERZSEBET
-CNP 2571003191338
+CNP [CNP omis]
 3.10.57
 Inginer
 constructor
@@ -5230,7 +5230,7 @@ Județul Hunedoara
 1.
 BENEA A. IOAN
 CONSTANTIN
-CNP 1490522201007
+CNP [CNP omis]
 22.05.49
 Inginer
 electro-
@@ -5253,7 +5253,7 @@ Instalații
 2.
 RUSU I. DORINEL-
 VASILE
-CNP 1631109203131
+CNP [CNP omis]
 9.11.63
 Inginer
 constructor
@@ -5268,7 +5268,7 @@ I
 Construcții
 3.
 VITALIS A. IOSIF
-CNP 1601110201001
+CNP [CNP omis]
 10.11.60
 Inginer
 instalator
@@ -5288,7 +5288,7 @@ Instalații
 Județul Ialomița
 1.
 DINESCU M. CLAUDIU
-CNP 1720911212960
+CNP [CNP omis]
 11.09.72
 Inginer
 mecanic
@@ -5303,7 +5303,7 @@ Instalații
 Județul Iași
 1.
 BARAN D. IRINA
-CNP 2610209221139
+CNP [CNP omis]
 9.02.61
 Inginer
 constructor
@@ -5331,7 +5331,7 @@ Construcții
 Instalații
 3.
 BOTEZ N. CARMEN
-CNP 2650909270596
+CNP [CNP omis]
 9.09.65
 Inginer
 instalator
@@ -5346,7 +5346,7 @@ I
 Instalații
 4.
 CARCIULEANU I. MIHAI
-CNP 1450424221158
+CNP [CNP omis]
 24.04.45
 Inginer
 constructor
@@ -5359,7 +5359,7 @@ I
 Construcții
 5.
 CHITEALĂ GH. DOINIȚA
-CNP 2581009227791
+CNP [CNP omis]
 9.10.58
 Inginer
 instalații
@@ -5373,7 +5373,7 @@ I
 Instalații
 6.
 CICHI P. CAROL
-CNP 1460126221142
+CNP [CNP omis]
 26.01.46
 Inginer
 termo-
@@ -5416,7 +5416,7 @@ Construcții
 9.
 COBZARIU T. EDUARD
 SORIN
-CNP 1620303221132
+CNP [CNP omis]
 3.03.62
 Inginer
 constructor
@@ -5433,7 +5433,7 @@ Construcții
 10.
 COTOROBAI V.
 VICTORIA
-CNP 2580317227839
+CNP [CNP omis]
 17.03.58
 Inginer
 instalator
@@ -5462,7 +5462,7 @@ I
 Construcții
 12.
 DANILĂ I. CRISTINA
-CNP 2651114227780
+CNP [CNP omis]
 14.11.65
 Inginer
 constructor
@@ -5479,7 +5479,7 @@ Construcții
 13.
 DUMITRESCU B. F.
 LAURA
-CNP 2710603221221
+CNP [CNP omis]
 3.06.71
 Inginer mediu
 Iași, Str. Frumoasă nr. 4, bl. 918
@@ -5493,7 +5493,7 @@ I
 Construcții
 14.
 FILIP GH. DĂNUȚ
-CNP 1660522374073
+CNP [CNP omis]
 22.05.66
 Inginer
 instalator
@@ -5550,7 +5550,7 @@ I
 Instalații
 18.
 LAZĂR D. LILIEAN
-CNP 1620718221144
+CNP [CNP omis]
 18.07.62
 Inginer
 constructor
@@ -5580,7 +5580,7 @@ Instalații
 20.
 MARIN N. DANUȚ-
 NICOLAI
-CNP 1460306272649
+CNP [CNP omis]
 6.03.46
 Inginer
 constructor
@@ -5610,7 +5610,7 @@ Construcții
 Instalații
 22.
 MIRON D. CONSTANTIN
-CNP 1540816221169
+CNP [CNP omis]
 16.08.54
 Inginer
 electrician
@@ -5645,7 +5645,7 @@ Instalații
 24.
 PESCARU GH. RADU-
 AUREL
-CNP 1600330221193
+CNP [CNP omis]
 30.03.60
 Inginer
 constructor
@@ -5660,7 +5660,7 @@ I
 Construcții
 25.
 POPA GH. IOAN
-CNP 1550107221150
+CNP [CNP omis]
 7.01.55
 Inginer
 mecanic
@@ -5677,7 +5677,7 @@ Instalații
 26.
 POPESCU V. ELIONOR
 DIMITRIE
-CNP 1480918221164
+CNP [CNP omis]
 18.09.48
 Inginer
 constructor
@@ -5732,7 +5732,7 @@ Construcții
 Instalații
 30.
 RUJOIU P. GHEORGHE
-CNP 1450320227808
+CNP [CNP omis]
 20.03.45
 Inginer
 constructor
@@ -5746,7 +5746,7 @@ I
 Construcții
 31.
 ȘERBANOIU ST. ION
-CNP 1500301227792
+CNP [CNP omis]
 1.03.50
 Inginer
 constructor
@@ -5776,7 +5776,7 @@ I
 Construcții
 33.
 TARLEV I. TATIANA
-CNP 2470112221189
+CNP [CNP omis]
 12.01.47
 Inginer
 electro-
@@ -5820,7 +5820,7 @@ I
 Construcții
 36.
 VERDEȘ V. MARINA
-CNP 2620304221217
+CNP [CNP omis]
 4.03.62
 Inginer
 instalator
@@ -5851,7 +5851,7 @@ Județul Ilfov
 1.
 DIACONU V. SANDA-
 LAURA
-CNP 2660313433011
+CNP [CNP omis]
 13.03.66
 Inginer
 constructor
@@ -5868,7 +5868,7 @@ Instalații
 Județul Maramureș
 1.
 BOTISAN V. EMIL
-CNP 1590702240015
+CNP [CNP omis]
 2.07.59
 Inginer
 instalator
@@ -5884,7 +5884,7 @@ Instalații
 2.
 CEBOTARU V. CALIN-
 TEOFIL
-CNP 1540815240011
+CNP [CNP omis]
 15.08.54
 Inginer
 instalator
@@ -5898,7 +5898,7 @@ Instalații
 3.
 FLORIAN I. IOAN-
 EUGEN
-CNP 1390310240026
+CNP [CNP omis]
 10.03.39
 Inginer
 energetic
@@ -5911,7 +5911,7 @@ I
 Construcții
 4.
 MOJOLIC V. ANA
-CNP 2560826240050
+CNP [CNP omis]
 26.08.56
 Inginer
 constructor
@@ -5926,7 +5926,7 @@ Construcții
 Instalații
 5.
 MUNTEAN G. IOAN
-CNP 1550722240056
+CNP [CNP omis]
 22.07.55
 Inginer
 electrotehnic
@@ -5940,7 +5940,7 @@ I
 Construcții
 6.
 SOPOIAN G. CORNEL
-CNP 1610501245410
+CNP [CNP omis]
 1.05.61
 Inginer
 instalator
@@ -5954,7 +5954,7 @@ I
 Instalații
 7.
 ZOICAȘ A. VIOREL
-CNP 1550810240032
+CNP [CNP omis]
 10.08.55
 Inginer
 constructor
@@ -5970,7 +5970,7 @@ Județul Mehedinți
 1.
 CARLAONT A.
 ANTOANELA
-CNP 2710228250539
+CNP [CNP omis]
 28.02.71
 Inginer
 constructor
@@ -5992,7 +5992,7 @@ Instalații
 2.
 FLOREA I. FLAVIAN
 COSTIN
-CNP 1690929250593
+CNP [CNP omis]
 29.09.69
 Arhitect
 Drobeta-Turnu
@@ -6007,7 +6007,7 @@ Construcții
 3.
 MARCU T. GABRIELA
 MIHAELA
-CNP 2581023250551
+CNP [CNP omis]
 23.10.58
 Inginer
 constructor
@@ -6025,7 +6025,7 @@ Construcții
 4.
 SĂFTOIU M. IRINEL
 ROXANA
-CNP 2590505250541
+CNP [CNP omis]
 5.05.59
 Inginer
 constructor
@@ -6042,7 +6042,7 @@ II
 Construcții
 5.
 TOLEA O. MARINAȘI
-CNP 1620318250553
+CNP [CNP omis]
 18.03.62
 Inginer
 energetic
@@ -6058,7 +6058,7 @@ Județul Mureș
 1.
 ANTONIE T. ȘTEFAN
 MIHAIL
-CNP 1540908264361
+CNP [CNP omis]
 8.09.54
 Inginer
 instalator
@@ -6073,7 +6073,7 @@ Construcții
 Instalații
 2.
 BORDA E. DORU EUGEN
-CNP 1601126264360
+CNP [CNP omis]
 26.11.60
 Inginer
 mecanic
@@ -6091,7 +6091,7 @@ Instalații
 3.
 CODREANU M. RADU-
 CĂTĂLIN-DUMITRU
-CNP 1591029264362
+CNP [CNP omis]
 29.10.59
 Inginer
 mecanic
@@ -6108,7 +6108,7 @@ Instalații
 4.
 DEUȘAN S. SIMONA -
 EVA-GABRIELA
-CNP 2740314264391
+CNP [CNP omis]
 14.03.74
 Inginer
 constructor
@@ -6124,7 +6124,7 @@ Construcții
 Instalații
 5.
 GATINA A. VASILE
-CNP 1470429264363
+CNP [CNP omis]
 29.04.47
 Inginer
 termo-
@@ -6138,7 +6138,7 @@ II
 Instalații
 6.
 HEGEDUS L. TIBERIU
-CNP 1570625264366
+CNP [CNP omis]
 25.06.57
 Inginer
 constructor
@@ -6153,7 +6153,7 @@ II
 Construcții
 7.
 PAL N. Z. ATTILA
-CNP 1630619264373
+CNP [CNP omis]
 19.06.63
 Inginer
 mecanic
@@ -6175,7 +6175,7 @@ Instalații
 8.
 PARLEA T. VIRGIL-
 CONSTANTIN
-CNP 1580901261472
+CNP [CNP omis]
 1.09.58
 Inginer
 constructor
@@ -6189,7 +6189,7 @@ I
 Construcții
 9.
 SABĂU I. VIOREL
-CNP 1511209261456
+CNP [CNP omis]
 9.12.51
 Inginer
 constructor
@@ -6220,7 +6220,7 @@ Instalații
 Județul Neamț
 1.
 COJOCARIU GH. ELENA
-CNP 2580404274784
+CNP [CNP omis]
 4.04.58
 Inginer
 constructor
@@ -6233,7 +6233,7 @@ I
 Construcții
 2.
 DOBRIBAN B. ANTON
-CNP 1591106221151
+CNP [CNP omis]
 6.11.59
 Inginer
 constructor
@@ -6249,7 +6249,7 @@ Construcții
 3.
 DURBACA I. SORIN-
 VICTOR
-CNP 1690214274785
+CNP [CNP omis]
 14.02.69
 Inginer
 mecanic
@@ -6264,7 +6264,7 @@ I
 Construcții
 4.
 MURARIU I. VIRGIL
-CNP 1490716400226
+CNP [CNP omis]
 16.07.49
 Inginer
 constructor
@@ -6279,7 +6279,7 @@ Construcții
 Județul Olt
 1.
 STANA M. MOISE
-CNP 1550304284407
+CNP [CNP omis]
 4.03.55
 Inginer
 instalații
@@ -6295,7 +6295,7 @@ Instalații
 2.
 TUDOSE GH. MARIA-
 RODICA
-CNP 2671009284472
+CNP [CNP omis]
 9.10.67
 Inginer
 constructor
@@ -6325,7 +6325,7 @@ Instalații
 4.
 UCIU C. FELICIA-
 LUMINIȚA
-CNP 2580726280810
+CNP [CNP omis]
 26.07.58
 Inginer
 constructor
@@ -6338,7 +6338,7 @@ Construcții
 Județul Prahova
 1.
 BANU V. CRISTIAN
-CNP 1560512293117
+CNP [CNP omis]
 12.05.56
 Inginer
 constructor
@@ -6352,7 +6352,7 @@ Construcții
 2.
 BELDEANU L. CĂLIN-
 LAURIAN
-CNP 1660309293111
+CNP [CNP omis]
 9.03.66
 Inginer
 constructor
@@ -6368,7 +6368,7 @@ Construcții
 3.
 CAISIN A. ELENA-
 AURELIA
-CNP 2690806293124
+CNP [CNP omis]
 6.08.69
 Inginer
 constructor
@@ -6384,7 +6384,7 @@ Construcții
 Instalații
 4.
 ENE I. SABINA
-CNP 2570315293126
+CNP [CNP omis]
 15.03.57
 Fizician
 Ploiești, Str. Alba Iulia nr. 98,
@@ -6397,7 +6397,7 @@ I
 Construcții
 5.
 IGNEA GH. CRISTIAN
-CNP 1570727033081
+CNP [CNP omis]
 27.07.57
 Inginer
 Ploiești, str. Spătari nr. 14, tel:
@@ -6410,7 +6410,7 @@ Construcții
 6.
 GEORGESCU I. MARIA
 EMILIA
-CNP 2480714293111
+CNP [CNP omis]
 14.07.48
 Inginer
 instalator
@@ -6428,7 +6428,7 @@ Instalații
 7.
 GEORGESCU C.R.A.
 BOGDAN FLORIN
-CNP 1690523293159
+CNP [CNP omis]
 23.05.69
 Arhitect
 Ploiești, str. Elena Doamna nr. 75A,
@@ -6441,7 +6441,7 @@ Instalații
 8.
 MIRCEA N. LUCIAN
 ALEXANDRU
-CNP 1560913293157
+CNP [CNP omis]
 13.09.56
 Arhitect
 Ploiești, str. Cuza Vodă nr.
@@ -6457,7 +6457,7 @@ Construcții
 Instalații
 9.
 MIRON D. DUMITRU
-CNP 1420604293111
+CNP [CNP omis]
 4.06.42
 Inginer
 electro-
@@ -6475,7 +6475,7 @@ Construcții
 Instalații
 10.
 POPESCU I. FLORINA
-CNP 2670913133120
+CNP [CNP omis]
 13.09.67
 Inginer
 mecanic
@@ -6492,7 +6492,7 @@ Instalații
 11.
 PORUMB S. VASILE-
 OCTAVIAN
-CNP 1370206293141
+CNP [CNP omis]
 6.02.37
 Inginer
 constructor
@@ -6507,7 +6507,7 @@ I
 Construcții
 12.
 STOCHITA G. MARIANA
-CNP 2660708100038
+CNP [CNP omis]
 8.07.66
 Inginer
 mecanic
@@ -6522,7 +6522,7 @@ Construcții
 Instalații
 13.
 TEODORESCU C. PETRE
-CNP 1320701293145
+CNP [CNP omis]
 1.07.32
 Inginer
 instalator
@@ -6536,7 +6536,7 @@ Instalații
 14.
 VOICU I. ECATERINA-
 MARIANA
-CNP 2520317290758
+CNP [CNP omis]
 17.03.52
 Inginer
 termo-
@@ -6555,7 +6555,7 @@ Instalații
 Județul Satu Mare
 1.
 CÂMPEANU V. VICTOR
-CNP 1531227301977
+CNP [CNP omis]
 27.12.53
 Inginer
 constructor
@@ -6569,7 +6569,7 @@ Construcții
 2.
 CHIFOR T. TEODOR -
 ADRIAN
-CNP 1561020301975
+CNP [CNP omis]
 20.10.56
 Inginer
 constructor
@@ -6585,7 +6585,7 @@ Construcții
 3.
 DRĂGAN P. MIRCEA
 PETRU
-CNP 1600816301971
+CNP [CNP omis]
 16.08.60
 Inginer
 constructor
@@ -6599,7 +6599,7 @@ I
 Construcții
 4.
 GRAD I. IOAN-IOSIF
-CNP 1460814301964
+CNP [CNP omis]
 14.08.46
 Inginer
 constructor
@@ -6614,7 +6614,7 @@ Construcții
 5.
 MARIAN N. MIRCEA-
 IOSIF
-CNP 1470625301998
+CNP [CNP omis]
 25.06.47
 Inginer
 electro-
@@ -6629,7 +6629,7 @@ Construcții
 6.
 MELEG I. ENIKO
 KRISZTINA
-CNP 2660726301966
+CNP [CNP omis]
 26.07.66
 Inginer
 instalator
@@ -6646,7 +6646,7 @@ I
 Instalații
 7.
 NAPALKOV E. EUGEN
-CNP 1561209301976
+CNP [CNP omis]
 9.12.56
 Inginer
 instalator
@@ -6661,7 +6661,7 @@ II
 Instalații
 8.
 TOTH G. GEZA-IVOR
-CNP 1580704301992
+CNP [CNP omis]
 4.07.58
 Inginer
 constructor
@@ -6675,7 +6675,7 @@ I
 Construcții
 9.
 VAJDA Z. ZOLTAN
-CNP 1501127302006
+CNP [CNP omis]
 27.11.50
 Inginer
 instalator
@@ -6697,7 +6697,7 @@ Construcții
 Județul Sălaj
 1.
 SARKADI A. ADALBERT
-CNP 1520622312961
+CNP [CNP omis]
 22.06.52
 Inginer
 constructor
@@ -6712,7 +6712,7 @@ I
 Construcții
 2.
 SIMONCA V. IOAN
-CNP 1521215311828
+CNP [CNP omis]
 15.12.52
 Inginer
 electro-
@@ -6728,7 +6728,7 @@ Construcții
 Județul Sibiu
 1.
 REFF F.T. RADU
-CNP 1451222323955
+CNP [CNP omis]
 22.12.45
 Inginer
 Sibiu, str. M.
@@ -6744,7 +6744,7 @@ Instalații
 2.
 VASILE N. MARCELA
 MARIA
-CNP 2600712323942
+CNP [CNP omis]
 12.07.60
 Inginer
 mecanic
@@ -6757,7 +6757,7 @@ II
 Construcții
 3.
 VELICIU V. DAN-IOAN
-CNP 1671017322240
+CNP [CNP omis]
 17.10.67
 Inginer
 constructor
@@ -6773,7 +6773,7 @@ Județul Suceava
 1.
 ADAM GH. CRISTIAN-
 PETRU
-CNP 1700315335001
+CNP [CNP omis]
 15.03.70
 Inginer
 energetic
@@ -6786,7 +6786,7 @@ I
 Instalații
 2.
 ATĂNASOAE I. PAVEL
-CNP 1670629070022
+CNP [CNP omis]
 29.06.67
 Inginer
 energetic
@@ -6807,7 +6807,7 @@ Instalații
 3.
 COCLICI V. SILVIU-
 MIHAIL
-CNP 1620330330018
+CNP [CNP omis]
 30.03.62
 Inginer
 mecanic
@@ -6823,7 +6823,7 @@ Construcții
 4.
 CUMPĂTĂ I. FLORIN
 CĂLIN
-CNP 1560221334998
+CNP [CNP omis]
 21.02.56
 Inginer
 constructor
@@ -6838,7 +6838,7 @@ Construcții
 5.
 DUHANES V. DORIN
 GAVRIL
-CNP 1570316333195
+CNP [CNP omis]
 16.03.57
 Inginer
 constructor
@@ -6853,7 +6853,7 @@ II
 Construcții
 6.
 MONOR V. MIHAI
-CNP 1650529330799
+CNP [CNP omis]
 29.05.65
 Inginer
 mecanic
@@ -6869,7 +6869,7 @@ I
 Instalații
 7.
 MUHA GH. TEODOR
-CNP 1560807333205
+CNP [CNP omis]
 7.08.56
 Inginer
 constructor
@@ -6899,7 +6899,7 @@ Construcții
 9.
 TURZA A. DIMITRIE
 IOAN
-CNP 1570427227803
+CNP [CNP omis]
 27.04.57
 Inginer
 mecanic
@@ -6917,7 +6917,7 @@ Județul Timiș
 1.
 ACHIM G. MIRELA-
 ADRIANA-ECATERINA
-CNP 2620405354725
+CNP [CNP omis]
 5.04.62
 Inginer
 constructor
@@ -6931,7 +6931,7 @@ Construcții
 2.
 ANGHEL I. DOINA-
 MARIA
-CNP 2620428311842
+CNP [CNP omis]
 28.04.62
 Inginer
 constructor
@@ -6946,7 +6946,7 @@ Construcții
 3.
 ANDREESCU I. SIMONA-
 LIANA
-CNP 2571017354727
+CNP [CNP omis]
 17.10.57
 Inginer
 constructor
@@ -6959,7 +6959,7 @@ I
 Construcții
 4.
 BALACI M. MIRCEA
-CNP 1461007354741
+CNP [CNP omis]
 7.10.46
 Inginer
 constructor
@@ -6987,7 +6987,7 @@ Instalații
 6.
 BEREVOESCU I.
 FLORENȚA-LUIZA
-CNP 2670422200886
+CNP [CNP omis]
 22.04.67
 Inginer
 constructor
@@ -7045,7 +7045,7 @@ Instalații
 10.
 BUCHMAN ST. IOSIF
 CASMIR
-CNP 1481221354723
+CNP [CNP omis]
 21.12.48
 Inginer
 constructor
@@ -7061,7 +7061,7 @@ Construcții
 11.
 BURCA I. MARIANA-
 LARISA
-CNP 2560512354730
+CNP [CNP omis]
 12.05.56
 Inginer
 constructor
@@ -7074,7 +7074,7 @@ II
 Construcții
 12.
 BALU V. DAN
-CNP 1620425354724
+CNP [CNP omis]
 25.04.62
 Inginer
 mecanic
@@ -7102,7 +7102,7 @@ Construcții
 Instalații
 14.
 COZMA A. AUGUSTIN
-CNP 1520904353941
+CNP [CNP omis]
 4.09.52
 Inginer
 constructor
@@ -7117,7 +7117,7 @@ I
 Construcții
 15.
 DAN GH. DANIEL
-CNP 1700622082437
+CNP [CNP omis]
 22.06.70
 Inginer
 constructor
@@ -7177,7 +7177,7 @@ Construcții
 Instalații
 19.
 DUȚU P. DUMITRU
-CNP 1670628250526
+CNP [CNP omis]
 28.06.67
 Inginer
 instalator
@@ -7193,7 +7193,7 @@ Instalații
 20.
 FOLDVARY L. E. ATILA
 VICTOR ALEXANDRU
-CNP 1410827354731
+CNP [CNP omis]
 27.08.41
 Inginer
 constructor
@@ -7207,7 +7207,7 @@ Construcții
 21.
 FEKETE NAGY A.
 LUMINIȚA DANA LENUȚA
-CNP 2631220354775
+CNP [CNP omis]
 20.12.63
 Inginer
 constructor
@@ -7220,7 +7220,7 @@ Construcții
 22.
 FUNARIU D.
 DANIEL-NICOLAE
-CNP 1780112354768
+CNP [CNP omis]
 12.01.78
 Inginer
 constructor
@@ -7279,7 +7279,7 @@ Construcții
 Instalații
 26.
 LEVAY A. EDWIN
-CNP 1741106354737
+CNP [CNP omis]
 6.11.74
 Inginer
 instalator
@@ -7293,7 +7293,7 @@ Instalații
 27.
 MARIAN I. MANUELA
 DANIELA
-CNP 2641112113681
+CNP [CNP omis]
 12.11.64
 Inginer
 constructor
@@ -7308,7 +7308,7 @@ I
 Construcții
 28.
 MARTIN T. VIOREL
-CNP1580804354760
+CNP[CNP omis]
 4.08.58
 Inginer
 instalator
@@ -7320,7 +7320,7 @@ Instalații
 29.
 MASUT O. ORLANDO
 REMUS
-CNP 1451010354774
+CNP [CNP omis]
 10.10.45
 Inginer
 constructor
@@ -7335,7 +7335,7 @@ Construcții
 MUNTEANU M.
 MAGDALENA MARIA-
 LUCIA
-CNP 2500817354808
+CNP [CNP omis]
 17.08.50
 Inginer
 constructor
@@ -7348,7 +7348,7 @@ I
 Construcții
 31.
 LUTE F. MARINA
-CNP 2680606354791
+CNP [CNP omis]
 6.06.68
 Inginer
 constructor
@@ -7363,7 +7363,7 @@ I
 Construcții
 32.
 NEAMȚI C. MIHAELA
-CNP 2590510354811
+CNP [CNP omis]
 10.05.59
 Inginer
 instalator
@@ -7375,7 +7375,7 @@ Instalații
 33.
 NEGREA C. VIRGILIU-
 DAN
-CNP 1420116354760
+CNP [CNP omis]
 16.01.42
 Inginer
 mecanic
@@ -7391,7 +7391,7 @@ Instalații
 34.
 NICOARĂ C. I.
 CORNELIU
-CNP 1741026354734
+CNP [CNP omis]
 26.10.74
 Inginer
 constructor
@@ -7432,7 +7432,7 @@ Instalații
 37.
 POPESCU A. DORU-
 MIRCEA
-CNP 1441025354732
+CNP [CNP omis]
 25.10.44
 Inginer
 constructor
@@ -7447,7 +7447,7 @@ II
 Construcții
 38.
 POPESCU I. IOAN
-CNP 1600727354724
+CNP [CNP omis]
 27.07.60
 Inginer
 constructor
@@ -7460,7 +7460,7 @@ I
 Construcții
 39.
 POPESCU O. VERGINA
-CNP 2600210354790
+CNP [CNP omis]
 10.02.60
 Inginer
 Instalații
@@ -7473,7 +7473,7 @@ I
 Instalații
 40.
 ROSA E. OVIDIU-AUREL
-CNP 1680622354730
+CNP [CNP omis]
 22.06.68
 Inginer
 constructor
@@ -7520,7 +7520,7 @@ Construcții
 Instalații
 43.
 SECULA T. SILVIU
-CNP 1701110354821
+CNP [CNP omis]
 10.11.70
 Inginer
 constructor
@@ -7549,7 +7549,7 @@ Construcții
 Instalații
 45.
 SIMANDAN I. ADRIAN
-CNP 1530911354779
+CNP [CNP omis]
 11.09.53
 Inginer
 constructor
@@ -7563,7 +7563,7 @@ Construcții
 46.
 TAKACS D. MARIANA
 DOINA
-CNP 2500725354812
+CNP [CNP omis]
 25.07.50
 Inginer
 constructor
@@ -7605,7 +7605,7 @@ Construcții
 49.
 ȚUȚUL E. EUGENIA
 AMALIA
-CNP 2640122352623
+CNP [CNP omis]
 22.01.64
 Arhitect
 Lugoj, Aleea Vișinilor, bl. 4, sc. A,
@@ -7616,7 +7616,7 @@ Construcții
 50.
 VALEA P. EMILIAN
 ȘTEFAN
-CNP 1501227354781
+CNP [CNP omis]
 27.12.50
 Inginer
 energetician
@@ -7639,7 +7639,7 @@ Județul Tulcea
 1.
 ABDURAMAN ST.
 GEORGETA
-CNP 2590817364219
+CNP [CNP omis]
 17.08.59
 Inginer
 constructor
@@ -7654,7 +7654,7 @@ I
 Construcții
 2.
 HRIȚCU D. FLORIN
-CNP 1490401364222
+CNP [CNP omis]
 1.04.49
 Inginer
 constructor
@@ -7669,7 +7669,7 @@ Instalații
 Județul Vaslui
 1.
 POPA I. IONEL
-CNP 1581223374068
+CNP [CNP omis]
 23.12.58
 Inginer
 mecanic
@@ -7684,7 +7684,7 @@ I
 Instalații
 2.
 PUESCU G. MARIAN
-CNP 1530123374070
+CNP [CNP omis]
 23.01.53
 Inginer
 electro-
@@ -7700,7 +7700,7 @@ Instalații
 Județul Vâlcea
 1.
 BADEA I. ION CĂTĂLIN
-CNP 1711113384213
+CNP [CNP omis]
 13.11.71
 Inginer
 constructor
@@ -7715,7 +7715,7 @@ I
 Construcții
 2.
 CODREANU GH. AUREL
-CNP 1560821384216
+CNP [CNP omis]
 21.08.56
 Inginer
 electrician
@@ -7731,7 +7731,7 @@ Construcții
 Instalații
 3.
 DINA GR. ION
-CNP 1550421384184
+CNP [CNP omis]
 21.04.55
 Inginer
 instalator
@@ -7747,7 +7747,7 @@ Construcții
 Instalații
 4.
 MANDA GH. MIHAI
-CNP1561112384200
+CNP[CNP omis]
 12.11.56
 Inginer
 constructor
@@ -7768,7 +7768,7 @@ Construcții
 Instalații
 5.
 OANE ST. MELANIA
-CNP 2580220384228
+CNP [CNP omis]
 20.02.58
 Inginer
 constructor
@@ -7790,7 +7790,7 @@ Instalații
 6.
 OCROTEALA GH.
 GHEORGHE
-CNP 1470428386048
+CNP [CNP omis]
 28.04.47
 Inginer
 mecanic
@@ -7806,7 +7806,7 @@ Construcții
 Instalații
 7.
 POPESCU V. MAGDA
-CNP 2510705384192
+CNP [CNP omis]
 5.07.51
 Inginer
 instalator
@@ -7824,7 +7824,7 @@ Instalații
 Județul Vrancea
 1.
 MARDARE GH. GEORGE
-CNP 1510327390694
+CNP [CNP omis]
 27.03.51
 Inginer
 Instalații
@@ -7840,7 +7840,7 @@ Construcții
 2.
 VECHIU O. CAMELIA
 RODICA
-CNP 2640406400194
+CNP [CNP omis]
 6.04.64
 Inginer
 instalator
