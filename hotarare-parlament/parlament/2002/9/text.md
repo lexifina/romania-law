@@ -1,0 +1,4 @@
+ HOTĂRÂRE nr. 9 din 10 aprilie 2002  privind acordarea cetățeniei române, cu titlu de "cetățenie de onoare", domnului I. M.     EMITENT     PARLAMENTUL       Publicat în
+			  MONITORUL OFICIAL nr. 245 din 11 aprilie 2002      În temeiul prevederilor  art. 38 din Legea cetățeniei române nr. 21/1991 , republicată,   Parlamentul României adoptă prezenta hotărâre.
+				 +
+			  ARTICOL UNIC      Se acordă cetățenia română, cu titlu de "cetățenie de onoare", domnului I.M., cetățean suedez, pentru servicii deosebite aduse țării și națiunii române.     Aceasta hotărâre a fost adoptată de Camera Deputaților și de Senat în ședința comuna din 10 aprilie 2002, cu respectarea prevederilor art. 74 alin. (2) din Constituția României.     PREȘEDINTELE CAMEREI DEPUTAȚILOR    VALER DORNEANU    PREȘEDINTELE SENATULUI    NICOLAE VACAROIU    -----
