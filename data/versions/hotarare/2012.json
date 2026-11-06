@@ -361,6 +361,126 @@
      "sha256": "26223012786821a51c06c0cd593590d2274277d6b232ba9343f4cb5c112fe825"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2012",
+   "path": "hotarare/orda/2012/1",
+   "short": "Hotărârea orda nr. 1/2012",
+   "title": "Hotărârea nr. 1/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135740",
+   "versions": [
+    {
+     "from": "2012-02-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135740",
+     "sha256": "40cf65c46c62f11c8d422b35b53f6d2658648938cef3674840f3a29fc651057f"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-2-2012",
+   "path": "hotarare/orda/2012/2",
+   "short": "Hotărârea orda nr. 2/2012",
+   "title": "Hotărârea nr. 2/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135942",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135942",
+     "sha256": "bbbae0924b568ae6da8639f14ba9460d20fd83c1b8f744c5a211a3cf633d1f74"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-3-2012",
+   "path": "hotarare/orda/2012/3",
+   "short": "Hotărârea orda nr. 3/2012",
+   "title": "Hotărârea nr. 3/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136784",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136784",
+     "sha256": "d69de339c2d799821f543bb74309af1ed4470b9642f6173eefce7d0897d58469"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-4-2012",
+   "path": "hotarare/orda/2012/4",
+   "short": "Hotărârea orda nr. 4/2012",
+   "title": "Hotărârea nr. 4/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136970",
+   "versions": [
+    {
+     "from": "2012-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136970",
+     "sha256": "4cfdc9a6b166240792340de3e493550a1278d209274543362ac096a9cdb7ed9c"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-5-2012",
+   "path": "hotarare/orda/2012/5",
+   "short": "Hotărârea orda nr. 5/2012",
+   "title": "Hotărârea nr. 5/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137980",
+   "versions": [
+    {
+     "from": "2012-05-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137980",
+     "sha256": "a004622e994c040354e1856b521faca4b1dc29ba8d3cb410ad1cffabf0ce8278"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-6-2012",
+   "path": "hotarare/orda/2012/6",
+   "short": "Hotărârea orda nr. 6/2012",
+   "title": "Hotărârea nr. 6/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/138655",
+   "versions": [
+    {
+     "from": "2012-06-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/138655",
+     "sha256": "f795f4ab300787211624e173cd1287d2ac52b5836bce8bc055da9e0f5e63a4f4"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-7-2012",
+   "path": "hotarare/orda/2012/7",
+   "short": "Hotărârea orda nr. 7/2012",
+   "title": "Hotărârea nr. 7/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140125",
+   "versions": [
+    {
+     "from": "2012-08-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140125",
+     "sha256": "fdb0a3a535a7e534a030102d4e38ebdddfaeeb48ec8c5a990e3b4bd0a1de2465"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-8-2012",
+   "path": "hotarare/orda/2012/8",
+   "short": "Hotărârea orda nr. 8/2012",
+   "title": "Hotărârea nr. 8/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140014",
+   "versions": [
+    {
+     "from": "2012-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/140014",
+     "sha256": "60e3f1b86183e5f225649c0ba507c80080ca766b83195f5e221f5ecb913b156c"
+    }
+   ]
   }
  ]
 }

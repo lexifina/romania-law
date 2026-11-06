@@ -766,6 +766,21 @@
      "sha256": "7f54af45b3a30b309a620b6e8402b023cf16e06c5053e11e68f469522dd4fcd2"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-1-2001",
+   "path": "decizie/orda/2001/1",
+   "short": "Decizia orda nr. 1/2001",
+   "title": "Decizia nr. 1/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26881",
+   "versions": [
+    {
+     "from": "2001-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26881",
+     "sha256": "112e5e6c639f3de018aeaeb65cba699e3b5125630e1ec5ef291cfee7aaf42d37"
+    }
+   ]
   }
  ]
 }

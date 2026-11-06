@@ -46,6 +46,36 @@
      "sha256": "206414b57b503c1d310d135dad8d889f6c75367adb476472884590fef39d9957"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2015",
+   "path": "hotarare/orda/2015/1",
+   "short": "Hotărârea orda nr. 1/2015",
+   "title": "Hotărârea nr. 1/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168613",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168613",
+     "sha256": "66f75f37cc5008724daa70d367e791ceb34f1c73807e618c53533ede15d2110e"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-2-2015",
+   "path": "hotarare/orda/2015/2",
+   "short": "Hotărârea orda nr. 2/2015",
+   "title": "Hotărârea nr. 2/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/170254",
+   "versions": [
+    {
+     "from": "2015-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/170254",
+     "sha256": "1e4162265a99212686b3dcd6cb2dc386a48b26e86dc098d64cbe3e025cecba2f"
+    }
+   ]
   }
  ]
 }

@@ -2091,6 +2091,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/47947",
 "issuer": "csa",
 "joint": []
+},
+{
+"slug": "decizie-orda-35-2003",
+"path": "decizie/orda/2003/35",
+"kind": "decizie",
+"year": "2003",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 35/2003",
+"short": "Decizia orda nr. 35/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-04-16",
+"latest": "2003-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/43198",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "decizie-orda-149-2003",
+"path": "decizie/orda/2003/149",
+"kind": "decizie",
+"year": "2003",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 149/2003 privind desemnarea Uniunii Producătorilor de Fonograme din România (UPFR) și a Centrului Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) ca organisme care să colecteze sume conform Hotărârii Guvernului nr. 143/2003",
+"short": "Decizia orda nr. 149/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-09-17",
+"latest": "2003-09-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/46268",
+"issuer": "orda",
+"joint": []
 }
 ]
 }

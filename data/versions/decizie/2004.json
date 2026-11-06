@@ -1171,6 +1171,21 @@
      "sha256": "cf45e21adceb19580816d601e37c9829c727c6c654538b2aa9312c6e1fc1ec3c"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-174-2004",
+   "path": "decizie/orda/2004/174",
+   "short": "Decizia orda nr. 174/2004",
+   "title": "Decizia nr. 174/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58657",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58657",
+     "sha256": "219322d7e7840d7d01c70bf4c9ee3f9103c2b0e1685188942abea0ac34a614fe"
+    }
+   ]
   }
  ]
 }

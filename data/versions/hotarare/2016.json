@@ -91,6 +91,21 @@
      "sha256": "1952a3c9ba2e0eac4cada4232f939243ca4a655f54df658032d035952b394f5c"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2016",
+   "path": "hotarare/orda/2016/1",
+   "short": "Hotărârea orda nr. 1/2016",
+   "title": "Hotărârea nr. 1/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176131",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176131",
+     "sha256": "7837d6d2631475f1320ec78790a3866eeb040dcf4a6e3128320c6a9a61c6e2c8"
+    }
+   ]
   }
  ]
 }

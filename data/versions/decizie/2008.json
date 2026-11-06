@@ -2011,6 +2011,186 @@
      "sha256": "d6e81f06198a2c20d7b552b5da22bbf42bd53bb8f5e7a362cab7cd99aa66db9c"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-115-2008",
+   "path": "decizie/orda/2008/115",
+   "short": "Decizia orda nr. 115/2008",
+   "title": "Decizia nr. 115/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94561",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94561",
+     "sha256": "8ca8068264997293c2430b16f146b890ed35663ebff76e1e5ac6f9a314afc76a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-128-2008",
+   "path": "decizie/orda/2008/128",
+   "short": "Decizia orda nr. 128/2008",
+   "title": "Decizia nr. 128/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95681",
+   "versions": [
+    {
+     "from": "2008-07-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95681",
+     "sha256": "425b873e9e7383808ddee7888adb730ea885a761fef3c6b3e6985a5f53af8f05"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-133-2008",
+   "path": "decizie/orda/2008/133",
+   "short": "Decizia orda nr. 133/2008",
+   "title": "Decizia nr. 133/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95708",
+   "versions": [
+    {
+     "from": "2008-07-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95708",
+     "sha256": "23c01c6079fdfd28a3201a4a5a48180478abeec46d937ba07a0eaeb4654f09cc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-134-2008",
+   "path": "decizie/orda/2008/134",
+   "short": "Decizia orda nr. 134/2008",
+   "title": "Decizia nr. 134/2008 pentru completarea Comisiei de negociere a Metodologiei privind utilizarea operelor muzicale prin comunicare publică, prin punerea la dispoziția publicului a operelor muzicale pe internet sau alte rețele de comunicații de date, cu fir sau fără fir, și drepturile patrimoniale cuvenite în mod corespunzător titularilor drepturilor de autor, constituită prin Decizia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96082",
+   "versions": [
+    {
+     "from": "2008-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96082",
+     "sha256": "8cae18d9ebe89f43ef0eb0cb2811779f068dffe46e507ad7ce8b46b109e04bd7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-142-2008",
+   "path": "decizie/orda/2008/142",
+   "short": "Decizia orda nr. 142/2008",
+   "title": "Decizia nr. 142/2008 privind revocarea deciziilor directorului general al Oficiului Român pentru Drepturile de Autor nr. 128/2008 și nr. 134/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96172",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96172",
+     "sha256": "9a560d567f9ebfe8fd9d9e13a1d8a03785d121643df44e9d1eb8f6b696b1991b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-173-2008",
+   "path": "decizie/orda/2008/173",
+   "short": "Decizia orda nr. 173/2008",
+   "title": "Decizia nr. 173/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97478",
+   "versions": [
+    {
+     "from": "2008-09-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97478",
+     "sha256": "3d73993578e5ab2b64d31e9887bb3a4c18d803508a9a5db6103884df4e90a392"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-181-2008",
+   "path": "decizie/orda/2008/181",
+   "short": "Decizia orda nr. 181/2008",
+   "title": "Decizia nr. 181/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97818",
+   "versions": [
+    {
+     "from": "2008-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97818",
+     "sha256": "04b544307b66baf8b1dcfc3885d9bd65bc7cdfd3cfab96f5bfee8c4533008c3d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-228-2008",
+   "path": "decizie/orda/2008/228",
+   "short": "Decizia orda nr. 228/2008",
+   "title": "Decizia nr. 228/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100409",
+   "versions": [
+    {
+     "from": "2008-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100409",
+     "sha256": "a22713413e55427494018c4beb443205bab28c30e667df880a312902f170815d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-232-2008",
+   "path": "decizie/orda/2008/232",
+   "short": "Decizia orda nr. 232/2008",
+   "title": "Decizia nr. 232/2008 pentru publicarea în Monitorul Oficial al României, Partea I, a Hotărârii arbitrale din 15 decembrie 2008 având ca obiect stabilirea formei finale a Metodologiei privind remunerațiile reprezentând drepturile patrimoniale ale autorilor pentru reproducerea operelor muzicale pe înregistrări sonore",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101237",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101237",
+     "sha256": "eb0857f4d511dc5f301d87bb3bce419818011eec488b5a7eb5839a5018824a41"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-41-2008",
+   "path": "decizie/orda/2008/41",
+   "short": "Decizia orda nr. 41/2008",
+   "title": "Decizia nr. 41/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91252",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91252",
+     "sha256": "15ede491444cb62b97c1bacc5db53a52f414897ef1a2987af3537376e8cb189c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-46-2008",
+   "path": "decizie/orda/2008/46",
+   "short": "Decizia orda nr. 46/2008",
+   "title": "Decizia nr. 46/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91181",
+   "versions": [
+    {
+     "from": "2008-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91181",
+     "sha256": "74f11ea3472dd0886b502505e49dcd34fcf5a8ab5c3069e288dee8250895098b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-94-2008",
+   "path": "decizie/orda/2008/94",
+   "short": "Decizia orda nr. 94/2008",
+   "title": "Decizia nr. 94/2008 privind modificarea Deciziei directorului general al Oficiului Român pentru Drepturile de Autor nr. 31/2006 privind stabilirea condițiilor pe care trebuie să le îndeplinească asociațiile editorilor pentru a putea participa la negocierea protocolului de repartizare a remunerației compensatorii pentru copia privată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92797",
+   "versions": [
+    {
+     "from": "2008-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92797",
+     "sha256": "bfd655cea6ca7473c66db8b4d3bb9236faab76349848955099ab4e1b0774391f"
+    }
+   ]
   }
  ]
 }

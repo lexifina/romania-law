@@ -481,6 +481,36 @@
      "sha256": "1e5f214294acee5b0fa1dc6314969440093bebdcc7a6665982fe234c0c763537"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-6-2021",
+   "path": "decizie/orda/2021/6",
+   "short": "Decizia orda nr. 6/2021",
+   "title": "Decizia nr. 6/2021 privind constituirea Comisiei de negociere a Metodologiei privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului a spectacolelor de teatru în mediul online",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237260",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237260",
+     "sha256": "eddc0f02de41c14504189abd3f6b25147e1fbf975edbfc7713befa5dfd9e6a78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-8-2021",
+   "path": "decizie/orda/2021/8",
+   "short": "Decizia orda nr. 8/2021",
+   "title": "Decizia nr. 8/2021 privind constituirea Comisiei de negociere a Metodologiei privind comunicarea publică a operelor muzicale încorporate în conținutul audiovizual de divertisment general, prin servicii online",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/237281",
+   "versions": [
+    {
+     "from": "2021-02-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/237281",
+     "sha256": "89b30b42fc9e7b393c525834b1ea5bfb943f90aae4121e8c99b5a5e5d7f03685"
+    }
+   ]
   }
  ]
 }

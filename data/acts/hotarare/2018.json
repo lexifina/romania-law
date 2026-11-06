@@ -58,6 +58,44 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/205452",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "hotarare-orda-1-2018",
+"path": "hotarare/orda/2018/1",
+"kind": "hotarare",
+"year": "2018",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/2018",
+"short": "Hotărârea orda nr. 1/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-02-07",
+"latest": "2018-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/197531",
+"issuer": "orda",
+"joint": []
+},
+{
+"slug": "hotarare-orda-2-2018",
+"path": "hotarare/orda/2018/2",
+"kind": "hotarare",
+"year": "2018",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 2/2018",
+"short": "Hotărârea orda nr. 2/2018",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2018-03-20",
+"latest": "2018-03-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/198829",
+"issuer": "orda",
+"joint": []
 }
 ]
 }

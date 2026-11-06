@@ -39,6 +39,25 @@
 "portal": "https://www.bnr.ro/21313-hotarare-42-2017",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "hotarare-orda-1-2017",
+"path": "hotarare/orda/2017/1",
+"kind": "hotarare",
+"year": "2017",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/2017",
+"short": "Hotărârea orda nr. 1/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-04-10",
+"latest": "2017-04-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/188057",
+"issuer": "orda",
+"joint": []
 }
 ]
 }

@@ -28564,6 +28564,12 @@
      "units": 92,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/202878",
      "sha256": "cc2ff4213d73c3bfe91701a608cdfba73f6a5d79c66f1e1f6cc2a62f1c85b765"
+    },
+    {
+     "from": "2019-06-20",
+     "units": 92,
+     "source_url": null,
+     "sha256": null
     }
    ]
   },
@@ -113960,6 +113966,21 @@
    ]
   },
   {
+   "slug": "legea-1-1992",
+   "path": "lege/1992/1",
+   "short": "Legea nr. 1/1992",
+   "title": "Legea nr. 1/1992 privind abrogarea unor acte normative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2070",
+   "versions": [
+    {
+     "from": "1992-01-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2070",
+     "sha256": "a3d215fb2094675c6df1837972239073c950264c6707b1ddd0b121d7b9e101f6"
+    }
+   ]
+  },
+  {
    "slug": "legea-1-1993",
    "path": "lege/1993/1",
    "short": "Legea nr. 1/1993",
@@ -129218,6 +129239,21 @@
    ]
   },
   {
+   "slug": "legea-13-1992",
+   "path": "lege/1992/13",
+   "short": "Legea nr. 13/1992",
+   "title": "Legea nr. 13/1992 pentru ratificarea Convenţiei consulare dintre România şi Republica Populara Chineza, semnată la Beijing la 16 ianuarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2140",
+   "versions": [
+    {
+     "from": "1992-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2140",
+     "sha256": "e4bd6ce2f1ed4ce8f23826d08d709f426f7679908b3160bf3b1f997d73933bd9"
+    }
+   ]
+  },
+  {
    "slug": "legea-13-1993",
    "path": "lege/1993/13",
    "short": "Legea nr. 13/1993",
@@ -138977,6 +139013,21 @@
    ]
   },
   {
+   "slug": "legea-15-1992",
+   "path": "lege/1992/15",
+   "short": "Legea nr. 15/1992",
+   "title": "Legea nr. 15/1992 privind aderarea României la Protocolul asupra privilegiilor şi imunităţilor Organizaţiei Internaţionale de Telecomunicaţii prin Satelit \"Intelsat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2148",
+   "versions": [
+    {
+     "from": "1992-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2148",
+     "sha256": "561b0bd045145c7dea568adc54ba1ee04860121fa74ab5784e4448f4a0a5eed4"
+    }
+   ]
+  },
+  {
    "slug": "legea-15-1993",
    "path": "lege/1993/15",
    "short": "Legea nr. 15/1993",
@@ -143536,6 +143587,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/757",
      "sha256": "a0b04c7ad3963349ffaf18ba905e6d537db8a353869e647b18f3367fd5925fcd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-16-1992",
+   "path": "lege/1992/16",
+   "short": "Legea nr. 16/1992",
+   "title": "Legea nr. 16/1992 pentru aderarea României la Protocolul privind privilegiile şi imunităţile Organizaţiei Internaţionale de Telecomunicaţii Maritime prin Satelit \"Inmarsat\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2152",
+   "versions": [
+    {
+     "from": "1992-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2152",
+     "sha256": "6262ec1787101a35b55760d121184c737794ed9e6dc3a194d8dd90e767587672"
     }
    ]
   },
@@ -152308,6 +152374,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/303996",
      "sha256": "54d48a855aae195ac689acabc63ece05e7c2da252fa00cd9e818639fea09b4b3"
+    }
+   ]
+  },
+  {
+   "slug": "legea-18-1992",
+   "path": "lege/1992/18",
+   "short": "Legea nr. 18/1992",
+   "title": "Legea nr. 18/1992 pentru ratificarea Tratatului cu privire la forţele armate convenţionale în Europa, semnat la Paris la 19 noiembrie 1990, a Declaraţiei României în cadrul Conferinţei extraordinare de la Viena din 14 iunie 1991, precum şi a Convenţiei cu privire la nivelurile maxime pentru cantităţile de armamente convenţionale şi tehnică, semnată la Budapesta la 3 noiembrie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2160",
+   "versions": [
+    {
+     "from": "1992-04-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2160",
+     "sha256": "6b16d8d61cbc7d48077429eadc35466a6ab4ab0f022257033684107d3b580919"
     }
    ]
   },
@@ -161266,6 +161347,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/263617",
      "sha256": "2d683740d749e3982022b0fe468e98829b9c9097509e5b0f44dd270eb2c11f66"
+    }
+   ]
+  },
+  {
+   "slug": "legea-20-1992",
+   "path": "lege/1992/20",
+   "short": "Legea nr. 20/1992",
+   "title": "Legea nr. 20/1992 privind salarizarea în anul 1992 a deputaţilor şi senatorilor, Preşedintele şi Guvernul României a persoanelor din aparatul Parlamentar Român, a personalului Preşedinţiei, Guvernului şi celorlalte organe ale puterii executive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2167",
+   "versions": [
+    {
+     "from": "1992-03-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2167",
+     "sha256": "a092d9ff83f2937c7e8e5ef7a29d89f84a5f51215aec43e6a2168ac2a404374d"
     }
    ]
   },
@@ -184298,6 +184394,21 @@
    ]
   },
   {
+   "slug": "legea-26-1992",
+   "path": "lege/1992/26",
+   "short": "Legea nr. 26/1992",
+   "title": "Legea nr. 26/1992 privind majorarea cotei de participare a României la Fondul Monetar Internaţional şi acceptarea modificării Statutului F.M.I. prin cel de-al 3-lea amendament",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2191",
+   "versions": [
+    {
+     "from": "1992-03-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2191",
+     "sha256": "e1d8a8f800cc7dab0cc8281a51a99a8fd59dbfbd2c647d8476edca4843c242f7"
+    }
+   ]
+  },
+  {
    "slug": "legea-26-1993",
    "path": "lege/1993/26",
    "short": "Legea nr. 26/1993",
@@ -187339,6 +187450,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/290173",
      "sha256": "163a1fa6e34ec6dd7804a0955460e0b975301004fc81af3b00c42ad4ece404f8"
+    }
+   ]
+  },
+  {
+   "slug": "legea-27-1992",
+   "path": "lege/1992/27",
+   "short": "Legea nr. 27/1992",
+   "title": "Legea nr. 27/1992 pentru ratificarea \"Protocolului 1990\" referitor la modificarea Convenţiei cu privire la transporturile internaţionale feroviare (COTIF) din 9 mai 1980",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2195",
+   "versions": [
+    {
+     "from": "1992-04-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2195",
+     "sha256": "6af372ddbaf3884b8596be2baa007cae8b8c6bef44e557931e918beb8988e5a6"
     }
    ]
   },
@@ -190402,6 +190528,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1476",
      "sha256": "fb065f6a23e640c3e7b680d147a3d8e5f25590e7692d6a1c18b1aef92e0b8199"
+    }
+   ]
+  },
+  {
+   "slug": "legea-28-1992",
+   "path": "lege/1992/28",
+   "short": "Legea nr. 28/1992",
+   "title": "Legea nr. 28/1992 pentru modificarea articolului 39 din Legea nr. 40/1991 cu privire la salarizarea Preşedintelui şi Guvernului României, precum şi a personalului Preşedinţiei, Guvernului şi a celorlalte organe ale puterii executive",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2198",
+   "versions": [
+    {
+     "from": "1992-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2198",
+     "sha256": "10ab665554a16a6669a9b95370e71c85edb60b8119ff8cd4c2b2ccf3ae40a6d6"
     }
    ]
   },
@@ -196223,6 +196364,21 @@
    ]
   },
   {
+   "slug": "legea-3-1992",
+   "path": "lege/1992/3",
+   "short": "Legea nr. 3/1992",
+   "title": "Legea nr. 3/1992 privind instituirea \"Timbrului olimpic\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2082",
+   "versions": [
+    {
+     "from": "1992-01-31",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2082",
+     "sha256": "40326c46285887e0aa52e935af683c9f1a7cba95480d975caff0ea862a0cb421"
+    }
+   ]
+  },
+  {
    "slug": "legea-3-1995",
    "path": "lege/1995/3",
    "short": "Legea nr. 3/1995",
@@ -201539,6 +201695,21 @@
    ]
   },
   {
+   "slug": "legea-32-1992",
+   "path": "lege/1992/32",
+   "short": "Legea nr. 32/1992",
+   "title": "Legea nr. 32/1992 pentru ratificarea Tratatului de înţelegere amicala şi cooperare dintre România şi Republica Franceza",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2209",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2209",
+     "sha256": "eebb14e22b520cba3a3e582932d1b0a3866cd294ac9b1e8e4d4bbe50f2a7c29f"
+    }
+   ]
+  },
+  {
    "slug": "legea-32-1996",
    "path": "lege/1996/32",
    "short": "Legea nr. 32/1996",
@@ -203810,6 +203981,36 @@
    ]
   },
   {
+   "slug": "legea-33-1991",
+   "path": "lege/1991/33",
+   "short": "Legea nr. 33/1991",
+   "title": "Legea nr. 33/1991 privind activitatea bancară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1487",
+   "versions": [
+    {
+     "from": "1991-05-03",
+     "units": 60,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1487",
+     "sha256": "735cd789c0599f114b18d99b343888aa750992c89b96e13173dd5f3a82b16d04"
+    }
+   ]
+  },
+  {
+   "slug": "legea-33-1992",
+   "path": "lege/1992/33",
+   "short": "Legea nr. 33/1992",
+   "title": "Legea nr. 33/1992 pentru ratificarea Tratatului de prietenie, buna vecinătate şi cooperare dintre România şi Republica Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2213",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2213",
+     "sha256": "5e95439a55562bae1329978b223eeee901128afe6f3f1ee08456fb728a827e64"
+    }
+   ]
+  },
+  {
    "slug": "legea-33-1993",
    "path": "lege/1993/33",
    "short": "Legea nr. 33/1993",
@@ -206060,6 +206261,21 @@
    ]
   },
   {
+   "slug": "legea-34-1991",
+   "path": "lege/1991/34",
+   "short": "Legea nr. 34/1991",
+   "title": "Legea nr. 34/1991 privind Statutul Băncii Naţionale a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1488",
+   "versions": [
+    {
+     "from": "1991-05-03",
+     "units": 66,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1488",
+     "sha256": "528b2dd1c13600016636ee896c8ff6f76dc582253f5474cfdc3eb8e56cd7b04a"
+    }
+   ]
+  },
+  {
    "slug": "legea-34-1992",
    "path": "lege/1992/34",
    "short": "Legea nr. 34/1992",
@@ -208192,6 +208408,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/807",
      "sha256": "680933ceb195b4173319efd89a4bc5339cbc82b7df959bf64e84606563994b42"
+    }
+   ]
+  },
+  {
+   "slug": "legea-35-1991",
+   "path": "lege/1991/35",
+   "short": "Legea nr. 35/1991",
+   "title": "Legea nr. 35/1991 privind regimul investiţiilor străine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1490",
+   "versions": [
+    {
+     "from": "1991-04-10",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1490",
+     "sha256": "08a936b1222917aa5b015350c684aea88201ae2c9ae833396c82bb03f6228b4f"
     }
    ]
   },
@@ -214259,6 +214490,21 @@
    ]
   },
   {
+   "slug": "legea-38-1992",
+   "path": "lege/1992/38",
+   "short": "Legea nr. 38/1992",
+   "title": "Legea nr. 38/1992 privind autorizarea garantării unor credite externe contractate de Regia Autonomă de Electricitate \"Renel\" - Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2224",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2224",
+     "sha256": "82f4d89861c575c251ef001e7b7765184260b97041dba963cf84f89e7de41321"
+    }
+   ]
+  },
+  {
    "slug": "legea-38-1993",
    "path": "lege/1993/38",
    "short": "Legea nr. 38/1993",
@@ -216076,6 +216322,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1496",
      "sha256": "07dc949ff2cecf1c7e4ac25daf4dbad88c514b1648abe1c3f66b9e05d65de798"
+    }
+   ]
+  },
+  {
+   "slug": "legea-39-1992",
+   "path": "lege/1992/39",
+   "short": "Legea nr. 39/1992",
+   "title": "Legea nr. 39/1992 privind prelungirea aplicării unor măsuri pentru frînarea procesului inflaţionist şi a şomajului, stabilite de art. 8 din Legea salarizării nr. 14/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2226",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2226",
+     "sha256": "7753957ad89be9a3543f3bdd57152ccfc1ac8f0e502d340091837225f8645b05"
     }
    ]
   },
@@ -217961,6 +218222,21 @@
    ]
   },
   {
+   "slug": "legea-40-1992",
+   "path": "lege/1992/40",
+   "short": "Legea nr. 40/1992",
+   "title": "Legea nr. 40/1992 privind stabilirea impozitului pe dividende la societăţile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2228",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2228",
+     "sha256": "ff5a984b80a6b8a62f05749e452f0ee161f0904e0d9231788aae381345d591e0"
+    }
+   ]
+  },
+  {
    "slug": "legea-40-1993",
    "path": "lege/1993/40",
    "short": "Legea nr. 40/1993",
@@ -219364,6 +219640,36 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/820",
      "sha256": "33fb2229e5814d91d641b8b8867e5309dab53a8a621310b7769b10b921e23671"
+    }
+   ]
+  },
+  {
+   "slug": "legea-41-1991",
+   "path": "lege/1991/41",
+   "short": "Legea nr. 41/1991",
+   "title": "Legea nr. 41/1991 pentru modificarea articolului 24 alineatul 1 din Legea nr. 31/1990 privind societăţile comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1502",
+   "versions": [
+    {
+     "from": "1991-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1502",
+     "sha256": "a7ddb9f97e510450d608e9579f41ac0fb5c3a3d8b9a1379823db6b25eed73fcb"
+    }
+   ]
+  },
+  {
+   "slug": "legea-41-1992",
+   "path": "lege/1992/41",
+   "short": "Legea nr. 41/1992",
+   "title": "Legea nr. 41/1992 privind scutirea de impozit pe salarii a sumelor donate din fondul de premiere a salariaţilor pentru ajutorarea persoanelor sinistrate din judeţele Bacău, Neamţ şi Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2231",
+   "versions": [
+    {
+     "from": "1992-04-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2231",
+     "sha256": "2cf23bc434a8280ff86acf1446dfb4e455dace4e0ae85e9eb71ddd923b6e3190"
     }
    ]
   },
@@ -224207,6 +224513,21 @@
    ]
   },
   {
+   "slug": "legea-45-1991",
+   "path": "lege/1991/45",
+   "short": "Legea nr. 45/1991",
+   "title": "Legea nr. 45/1991 privind modificarea unor dispoziţii referitoare la activitatea de judecată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1510",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1510",
+     "sha256": "910b14592cbcc2479548186cc9d589d251e7aa1a97e015a51a621cfc3ee447e4"
+    }
+   ]
+  },
+  {
    "slug": "legea-45-1993",
    "path": "lege/1993/45",
    "short": "Legea nr. 45/1993",
@@ -225376,6 +225697,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1511",
      "sha256": "fd00b72de02125f3bb9b075360f5ec75546d1cb0515ad7ccb0fd73db9675b4b4"
+    }
+   ]
+  },
+  {
+   "slug": "legea-46-1992",
+   "path": "lege/1992/46",
+   "short": "Legea nr. 46/1992",
+   "title": "Legea nr. 46/1992 privind stabilirea unor drepturi în favoarea persoanelor fizice care deţin acţiuni în temeiul art. 36 din Legea nr. 18/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2245",
+   "versions": [
+    {
+     "from": "1992-05-21",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2245",
+     "sha256": "9929f6c934ceb233a0c691ebe2859903e2ca27a56e81b2d47a3661661313a063"
     }
    ]
   },
@@ -230495,6 +230831,21 @@
    ]
   },
   {
+   "slug": "legea-50-1992",
+   "path": "lege/1992/50",
+   "short": "Legea nr. 50/1992",
+   "title": "Legea nr. 50/1992 pentru ratificarea Acordului privind relaţiile comerciale dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 3 aprilie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2257",
+   "versions": [
+    {
+     "from": "1992-06-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2257",
+     "sha256": "404ddd92e4bc22b70cf06a18522d6c3aa74719d192b18a8b556af47841206b41"
+    }
+   ]
+  },
+  {
    "slug": "legea-50-1993",
    "path": "lege/1993/50",
    "short": "Legea nr. 50/1993",
@@ -233627,6 +233978,21 @@
    ]
   },
   {
+   "slug": "legea-53-1992",
+   "path": "lege/1992/53",
+   "short": "Legea nr. 53/1992",
+   "title": "Legea nr. 53/1992 privind protecţia specială a persoanelor handicapate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2266",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 17,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2266",
+     "sha256": "89785a6ada33c96ad54ae58eb8e165abe4c2ea6d322f158ffde5ee1e7e70b09e"
+    }
+   ]
+  },
+  {
    "slug": "legea-53-1993",
    "path": "lege/1993/53",
    "short": "Legea nr. 53/1993",
@@ -236674,6 +237040,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57739",
      "sha256": "cd225271cee85df50ca579cf160f68cb4c37c72a56b10684583157e6e3b78b70"
+    }
+   ]
+  },
+  {
+   "slug": "legea-56-1991",
+   "path": "lege/1991/56",
+   "short": "Legea nr. 56/1991",
+   "title": "Legea nr. 56/1991 pentru modificarea Legii nr. 36/1990 privind autorizarea Guvernului de a stabili sau modifica taxe şi impozite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1527",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1527",
+     "sha256": "7381a497f6257dc885333340ce64faf6655ed40c20838286932da939faca45f8"
     }
    ]
   },
@@ -239738,6 +240119,36 @@
    ]
   },
   {
+   "slug": "legea-59-1991",
+   "path": "lege/1991/59",
+   "short": "Legea nr. 59/1991",
+   "title": "Legea nr. 59/1991 pentru modificarea şi completarea Decretului-lege nr. 118 din 30 martie 1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1530",
+   "versions": [
+    {
+     "from": "1991-09-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1530",
+     "sha256": "ebbc05af5453ce3b1b4a86d6be7f7ec8789f6d27124dd1978fdec19f440ac515"
+    }
+   ]
+  },
+  {
+   "slug": "legea-59-1992",
+   "path": "lege/1992/59",
+   "short": "Legea nr. 59/1992",
+   "title": "Legea nr. 59/1992 pentru ratificarea Acordului de garanţie dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Londra la 27 februarie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2279",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2279",
+     "sha256": "2a31a7e215cf6bc8813964f1a484949c37adf2de448fef73362413dc0b81ca4a"
+    }
+   ]
+  },
+  {
    "slug": "legea-59-1993",
    "path": "lege/1993/59",
    "short": "Legea nr. 59/1993",
@@ -241300,6 +241711,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293474",
      "sha256": "95b78a41aa7bfd8017455fdd7d307cb038539e6dac6179194b1cbc8e90898b9c"
+    }
+   ]
+  },
+  {
+   "slug": "legea-60-1992",
+   "path": "lege/1992/60",
+   "short": "Legea nr. 60/1992",
+   "title": "Legea nr. 60/1992 pentru modificarea şi completarea Legii nr. 52/1991 cu privire la salarizarea personalului din organele puterii judecătoreşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2281",
+   "versions": [
+    {
+     "from": "1992-06-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2281",
+     "sha256": "f4dfd58ff42b78b400a1760fd388209c0ca56ade847af56c2dd02c27231923d8"
     }
    ]
   },
@@ -244442,6 +244868,21 @@
    ]
   },
   {
+   "slug": "legea-64-1992",
+   "path": "lege/1992/64",
+   "short": "Legea nr. 64/1992",
+   "title": "Legea nr. 64/1992 privind aprobarea aranjamentului de credit stand-by acordat României de către Fondul Monetar Internaţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2288",
+   "versions": [
+    {
+     "from": "1992-07-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2288",
+     "sha256": "f9dba9dea3f8eac591d0aa939dea0cbdf20759caccba0ed4b94882acad46922e"
+    }
+   ]
+  },
+  {
    "slug": "legea-64-1993",
    "path": "lege/1993/64",
    "short": "Legea nr. 64/1993",
@@ -245974,6 +246415,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/40802",
      "sha256": "20770e9c00b4dc093916ccd0b7cae0f5b2bd61d8c7b9b13b62e7de8d08acb6cd"
+    }
+   ]
+  },
+  {
+   "slug": "legea-66-1991",
+   "path": "lege/1991/66",
+   "short": "Legea nr. 66/1991",
+   "title": "Legea nr. 66/1991 pentru constituirea şi utilizarea fondului special, pe anul 1991, la Ministerul Sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1544",
+   "versions": [
+    {
+     "from": "1991-11-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1544",
+     "sha256": "a49c9c457c0f96d6a5d1978352f7ee50246950ee0718785710ffbdfca0c779fe"
+    }
+   ]
+  },
+  {
+   "slug": "legea-66-1992",
+   "path": "lege/1992/66",
+   "short": "Legea nr. 66/1992",
+   "title": "Legea nr. 66/1992 privind acordarea unor facilităţi pentru atragerea de capital străin în domeniul explorării şi exploatării zăcămintelor de petrol şi gaze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2292",
+   "versions": [
+    {
+     "from": "1992-07-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2292",
+     "sha256": "7b640bb9130f6e43835da470118864adf3aee203691b1575b814d4ad6908f544"
     }
    ]
   },
@@ -248090,6 +248561,21 @@
    ]
   },
   {
+   "slug": "legea-69-1991",
+   "path": "lege/1991/69",
+   "short": "Legea nr. 69/1991",
+   "title": "Legea nr. 69/1991 LEGEA administraţiei publice locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1547",
+   "versions": [
+    {
+     "from": "1991-11-28",
+     "units": 118,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1547",
+     "sha256": "7248646b9e1e6f2b278891b8f9ca90b5a26a315f43c0707e89969f10090db301"
+    }
+   ]
+  },
+  {
    "slug": "legea-69-1992",
    "path": "lege/1992/69",
    "short": "Legea nr. 69/1992",
@@ -248677,6 +249163,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32618",
      "sha256": "6da666f1cc125dd938480144356a3513c3f5ef36bdb72e1bded720b5e5bc3b86"
+    }
+   ]
+  },
+  {
+   "slug": "legea-7-1992",
+   "path": "lege/1992/7",
+   "short": "Legea nr. 7/1992",
+   "title": "Legea nr. 7/1992 privind acoperirea financiară a obligaţiilor statului rămase neregularizate la 31 decembrie 1990 şi preluarea de către stat şi băncile comerciale a pierderilor înregistrate în anii 1989 şi 1990 de agenţii economici cu capital de stat, precum şi a creditelor bancare neperformante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2111",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2111",
+     "sha256": "d968c6afb32b60d68beb87af991645ecdf34bcd87013290e5f60e54ffb8ec4cb"
     }
    ]
   },
@@ -249725,6 +250226,36 @@
    ]
   },
   {
+   "slug": "legea-71-1991",
+   "path": "lege/1991/71",
+   "short": "Legea nr. 71/1991",
+   "title": "Legea nr. 71/1991 privind instituirea taxei pentru eliberarea titlurilor de proprietate asupra terenurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1551",
+   "versions": [
+    {
+     "from": "1991-12-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1551",
+     "sha256": "40c78da80ee50c6fd2113627e6fa6a1987925005b4afa8c8dafd11abbc38b2cb"
+    }
+   ]
+  },
+  {
+   "slug": "legea-71-1992",
+   "path": "lege/1992/71",
+   "short": "Legea nr. 71/1992",
+   "title": "Legea nr. 71/1992 privind autorizarea garantarea unor credite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2302",
+   "versions": [
+    {
+     "from": "1992-07-20",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2302",
+     "sha256": "8c0c6191aa97092147bfa2288875753aa800633da9a11ed2f13c0b2217420302"
+    }
+   ]
+  },
+  {
    "slug": "legea-71-1993",
    "path": "lege/1993/71",
    "short": "Legea nr. 71/1993",
@@ -250297,6 +250828,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/32703",
      "sha256": "34d9e904088b1a1c108032c6f545b97ab15218df46ccbbd07d29d17096b06c50"
+    }
+   ]
+  },
+  {
+   "slug": "legea-72-1991",
+   "path": "lege/1991/72",
+   "short": "Legea nr. 72/1991",
+   "title": "Legea nr. 72/1991 pentru modificarea şi completarea Legii nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1553",
+   "versions": [
+    {
+     "from": "1991-12-16",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1553",
+     "sha256": "6232f2819ff8a173d92ef2f8101a49c68af178fb7fd212b09a6e9c3a942eeab6"
+    }
+   ]
+  },
+  {
+   "slug": "legea-72-1992",
+   "path": "lege/1992/72",
+   "short": "Legea nr. 72/1992",
+   "title": "Legea nr. 72/1992 pentru ratificarea Acordului internaţional privind utilizarea staţiilor de sol \"INMARSAT\" de navă în porturi şi în limitele mărilor teritoriale, încheiat la Londra la 16 octombrie 1985",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2305",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2305",
+     "sha256": "10f10b6a07a74fc7c4817d4eaa12083c3ae6536b8542a2d0c09454b62849c926"
     }
    ]
   },
@@ -251471,6 +252032,21 @@
    ]
   },
   {
+   "slug": "legea-74-1991",
+   "path": "lege/1991/74",
+   "short": "Legea nr. 74/1991",
+   "title": "Legea nr. 74/1991 privind împrumutul de stat pentru finanţarea deficitului bugetului administraţiei centrale de stat pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1558",
+   "versions": [
+    {
+     "from": "1991-12-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1558",
+     "sha256": "f47bb71dd4ff80d64d7abbe47b3288bdb147b54aa7b983c4b069c07ab8d97cfc"
+    }
+   ]
+  },
+  {
    "slug": "legea-74-1992",
    "path": "lege/1992/74",
    "short": "Legea nr. 74/1992",
@@ -252007,6 +252583,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33002",
      "sha256": "e08764da26e6f703eb6ec46702ab361e4ef9f22a9a604286c25f5defc38d958a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-75-1991",
+   "path": "lege/1991/75",
+   "short": "Legea nr. 75/1991",
+   "title": "Legea nr. 75/1991 pentru modificarea Legii sanitare veterinare nr. 60/1974",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1560",
+   "versions": [
+    {
+     "from": "1991-12-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1560",
+     "sha256": "47451bb007ce9dd434ca4dda3d04ef757fb3862385710058604b6e92d565622a"
     }
    ]
   },
@@ -252553,6 +253144,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33154",
      "sha256": "0aa7c9c1714d0cf1f41480cf9abc6d7cb77efcc2bbc3aeb0dc3cd80732e52887"
+    }
+   ]
+  },
+  {
+   "slug": "legea-76-1991",
+   "path": "lege/1991/76",
+   "short": "Legea nr. 76/1991",
+   "title": "Legea nr. 76/1991 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungaria privind stabilirea unui regim de CER DESCHIS",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1562",
+   "versions": [
+    {
+     "from": "1991-12-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1562",
+     "sha256": "5c8bfe817d94da8f63a4f10bf48ea3d6c326fe4eed1b426d610500fbbbc1294e"
     }
    ]
   },
@@ -253762,6 +254368,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33353",
      "sha256": "de07b68ed35024df30eb53f711fdf725c40337ec8a0c8a7df2fdb2a5a9e0e82a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-78-1991",
+   "path": "lege/1991/78",
+   "short": "Legea nr. 78/1991",
+   "title": "Legea nr. 78/1991 pentru ratificarea Protocolului privind desfiinţarea Consiliului de Ajutor Economic Reciproc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1567",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1567",
+     "sha256": "de822995619aea1c1e706631ec4be15e3c254176be2f443a5bdd2061c7443683"
     }
    ]
   },
@@ -255026,6 +255647,21 @@
    ]
   },
   {
+   "slug": "legea-8-1992",
+   "path": "lege/1992/8",
+   "short": "Legea nr. 8/1992",
+   "title": "Legea nr. 8/1992 pentru ratificarea Acordului comercial şi de plăti dintre Guvernul României şi Guvernul Republicii Populare Democrate Coreene pe perioada 1991 - 1993",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2116",
+   "versions": [
+    {
+     "from": "1992-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2116",
+     "sha256": "2cc003fa5ff86fe119f70dbe9fdef085edd7684b264547861d75c2aaf5f65a03"
+    }
+   ]
+  },
+  {
    "slug": "legea-8-1993",
    "path": "lege/1993/8",
    "short": "Legea nr. 8/1993",
@@ -255466,6 +256102,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/294634",
      "sha256": "f3b47214a0e990708cb39eca839e0b857ab97c24637ddeb9209a0431d1ef6023"
+    }
+   ]
+  },
+  {
+   "slug": "legea-80-1991",
+   "path": "lege/1991/80",
+   "short": "Legea nr. 80/1991",
+   "title": "Legea nr. 80/1991 privind decontarea prin compensare a plăţilor restante din economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1572",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1572",
+     "sha256": "78aeb50c4845a989bc8f7f859496f7e8f5a2336b264a25f2a9421222f54e52cc"
     }
    ]
   },
@@ -260182,6 +260833,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1435",
      "sha256": "9bdde14da8a261bff24bd286a98f0997a50d6c7defc34e1774ae4b88761cf72a"
+    }
+   ]
+  },
+  {
+   "slug": "legea-9-1992",
+   "path": "lege/1992/9",
+   "short": "Legea nr. 9/1992",
+   "title": "Legea nr. 9/1992 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Costa Rica privind evitarea dublei impuneri în materie de impozit pe venit şi pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2121",
+   "versions": [
+    {
+     "from": "1992-02-12",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2121",
+     "sha256": "1bc041ce4160ac95478143e244ecc1967e3ede82d7ed5ef0a5a6db769f665b86"
     }
    ]
   },

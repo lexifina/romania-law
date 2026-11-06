@@ -751,6 +751,96 @@
      "sha256": "cfbd57357bac79ba30b8c195e5c52a59f32324d67909750769ff3be91cb58d5f"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-17-2018",
+   "path": "decizie/orda/2018/17",
+   "short": "Decizia orda nr. 17/2018",
+   "title": "Decizia nr. 17/2018 privind desemnarea organismului de gestiune colectivă Asociația pentru Drepturi de Autor a Compozitorilor - UCMR-ADA drept colector unic al remunerațiilor cuvenite autorilor de opere muzicale pentru utilizarea prin radiodifuzare a operelor muzicale de către organismele de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198224",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198224",
+     "sha256": "076cddc5a79e76acc66d7dde367728fa3c7d6a42dda5ac3143f1b94b394988a4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-27-2018",
+   "path": "decizie/orda/2018/27",
+   "short": "Decizia orda nr. 27/2018",
+   "title": "Decizia nr. 27/2018 privind publicarea în Monitorul Oficial al României, Partea I, a Hotărârii arbitrale nr. 2 din 5 martie 2018 și a Opiniei separate la Hotărârea arbitrală nr. 2 din 5 martie 2018 pronunțate în Dosarul arbitral nr. 1/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198828",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198828",
+     "sha256": "17ec6ac144084c4f5547ad530bf082822345f7d1da1219c8e6615b5f74a65a02"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-49-2018",
+   "path": "decizie/orda/2018/49",
+   "short": "Decizia orda nr. 49/2018",
+   "title": "Decizia nr. 49/2018 privind constituirea Comisiei de negociere pentru Metodologia privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru radiodifuzarea fonogramelor publicate în scop comercial sau a reproducerilor acestora de către organismele de radiodifuziune, prin gestiune colectivă obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200679",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200679",
+     "sha256": "3783970a5c0599da119b5652ffb589057aa8c24fb2bee29a255db9db85f3ebcf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-50-2018",
+   "path": "decizie/orda/2018/50",
+   "short": "Decizia orda nr. 50/2018",
+   "title": "Decizia nr. 50/2018 privind constituirea Comisiei de negociere pentru Metodologia privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru radiodifuzarea și utilizarea prin modalitatea \"Catch-up TV\" a fonogramelor publicate în scop comercial sau a reproducerilor acestora de către organismele de televiziune, prin gestiune colectivă obligatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/200680",
+   "versions": [
+    {
+     "from": "2018-05-15",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/200680",
+     "sha256": "4907eae7088644a60c26f125ee8afc041b4581a9c87e21c881943424b7b91c06"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2018",
+   "path": "decizie/orda/2018/6",
+   "short": "Decizia orda nr. 6/2018",
+   "title": "Decizia nr. 6/2018 privind publicarea în Monitorul Oficial al României, Partea I, a Hotărârii arbitrale nr. 1/2018 din 22.01.2018 în Dosarul arbitral nr. 1/2017 a Corpului de arbitri de pe lângă Oficiul Român pentru Drepturile de Autor din 22.01.2018 privind stabilirea formei finale a Metodologiei având ca obiect utilizarea prin radiodifuzare a operelor muzicale de către organismel",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197530",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197530",
+     "sha256": "c6fd3a78da199547945f22ea8cbbff2b732d699f0821f6a86d9ff9864c953c33"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-84-2018",
+   "path": "decizie/orda/2018/84",
+   "short": "Decizia orda nr. 84/2018",
+   "title": "Decizia nr. 84/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/203061",
+   "versions": [
+    {
+     "from": "2018-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/203061",
+     "sha256": "4094c554344fa6b90b12dad7d9d7138ae813537a12acc6ec6364e02e95f5f246"
+    }
+   ]
   }
  ]
 }

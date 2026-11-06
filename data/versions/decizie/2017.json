@@ -1081,6 +1081,66 @@
      "sha256": "3702ce38d47265fa7ea0659c06c768f6381b9292909871ef2c308a27d27be251"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-153-2017",
+   "path": "decizie/orda/2017/153",
+   "short": "Decizia orda nr. 153/2017",
+   "title": "Decizia nr. 153/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/195040",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/195040",
+     "sha256": "84f1304e1de2c25c4630ca6abfb8b8c5638e159b40c2666543f55cdf3eac8c19"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-27-2017",
+   "path": "decizie/orda/2017/27",
+   "short": "Decizia orda nr. 27/2017",
+   "title": "Decizia nr. 27/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188056",
+   "versions": [
+    {
+     "from": "2017-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188056",
+     "sha256": "677c92837d9cea21cd6427548ec11d5f9539cde083c34e894749e507c1098bc0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-38-2017",
+   "path": "decizie/orda/2017/38",
+   "short": "Decizia orda nr. 38/2017",
+   "title": "Decizia nr. 38/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188446",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188446",
+     "sha256": "0ad3f258f84ac9cf361dff07f44b1089b2ce4b194c1baf71bda32a682c666d1a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-64-2017",
+   "path": "decizie/orda/2017/64",
+   "short": "Decizia orda nr. 64/2017",
+   "title": "Decizia nr. 64/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/191177",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/191177",
+     "sha256": "ab3adf745c6bd5ada0b5aa5711ade36cf75306f643d5bee96fd2d6e51f9cdf9c"
+    }
+   ]
   }
  ]
 }

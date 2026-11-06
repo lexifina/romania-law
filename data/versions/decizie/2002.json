@@ -1441,6 +1441,21 @@
      "sha256": "bd85c532f940d9f2d5451853ba6fdcdee5171e9f212f7c1fb71ee8655649206a"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-41-2002",
+   "path": "decizie/orda/2002/41",
+   "short": "Decizia orda nr. 41/2002",
+   "title": "Decizia nr. 41/2002 privind colectarea sumelor datorate de utilizatori artiștilor interpreți sau executanți, stabilite prin Hotărârea Guvernului nr. 119/2002 pentru aprobarea tabelelor cuprinzând drepturile patrimoniale cuvenite artiștilor interpreți sau executanți și a metodologiilor privind utilizarea repertoriului de prestații artistice din domeniul audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/34883",
+   "versions": [
+    {
+     "from": "2002-04-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/34883",
+     "sha256": "fad45bc74ba6688f6e246ae9c397ac340e3b5445c8a95be5aa9decbcd7d2ca96"
+    }
+   ]
   }
  ]
 }

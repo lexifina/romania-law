@@ -151,6 +151,96 @@
      "sha256": "a01bd0045073fac5fe21dc8f17df1786825e0777fbedeac2e244f6096dcf3a51"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-12-2026",
+   "path": "decizie/orda/2026/12",
+   "short": "Decizia orda nr. 12/2026",
+   "title": "Decizia nr. 12/2026 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite producătorilor de opere cinematografice și alte opere audiovizuale, prevăzute în anexa la Decizia directorului general al Oficiului Român pentru Drepturile de Autor nr. 17/2006 pentru publicarea în Monitorul Oficial al României, Partea I, a Protocolului având",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307385",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307385",
+     "sha256": "07bcce077d14e2c38284d7a24a7dc7cbf20032ee4a42c6f93169afd536061c3f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-13-2026",
+   "path": "decizie/orda/2026/13",
+   "short": "Decizia orda nr. 13/2026",
+   "title": "Decizia nr. 13/2026 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerației cuvenite producătorilor de fonograme, prevăzută la pct. 1 subpct. (5) din Metodologia privind reproducerea fonogramelor publicate în scop comercial, destinate exclusiv comunicării publice în scop ambiental și lucrativ, prevăzută în protocolul publicat în Monitorul Ofici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307386",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307386",
+     "sha256": "009efcfbc67460a3c90114912377380924f4c7429a84f9bc32ca9ecacb5d91ca"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-31-2026",
+   "path": "decizie/orda/2026/31",
+   "short": "Decizia orda nr. 31/2026",
+   "title": "Decizia nr. 31/2026 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite titularilor de drepturi patrimoniale de autor de opere muzicale pentru comunicarea publică a operelor muzicale în scop ambiental, prevăzute în Metodologia privind remunerațiile cuvenite titularilor de drepturi patrimoniale de autor de opere muzicale pentru comunica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/310575",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/310575",
+     "sha256": "f722b2f4bffd794041a0c5b19b836c17bb1a9c70c10f89d644421821c99f167c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2026",
+   "path": "decizie/orda/2026/6",
+   "short": "Decizia orda nr. 6/2026",
+   "title": "Decizia nr. 6/2026 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite artiștilor interpreți sau executanți și producătorilor de fonograme, prevăzute în tabelele din Metodologia privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru comunicarea publică a fonogramelor de comerț/fono",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307271",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307271",
+     "sha256": "74e4c7f76892b9398b355d36005adf61d5479567d5d6e35678986ef2b937880a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-7-2026",
+   "path": "decizie/orda/2026/7",
+   "short": "Decizia orda nr. 7/2026",
+   "title": "Decizia nr. 7/2026 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite titularilor de drepturi conexe, prevăzute la art. 5 alin. (1) lit. a) și b) din Metodologia privind stabilirea remunerațiilor cuvenite titularilor drepturilor conexe pentru comunicarea publică a fonogramelor de comerț prin intermediul serviciilor online sau mo",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307272",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307272",
+     "sha256": "3b0a9182153235c9b0e4529f3d061fa6efb32d04f385b3fc442b7bb01b2df9f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-8-2026",
+   "path": "decizie/orda/2026/8",
+   "short": "Decizia orda nr. 8/2026",
+   "title": "Decizia nr. 8/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/307273",
+   "versions": [
+    {
+     "from": "2026-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/307273",
+     "sha256": "29f4e9b0ad721a0a2f723593413494b7bb45543882ccb3751fbad82e7cc665ad"
+    }
+   ]
   }
  ]
 }

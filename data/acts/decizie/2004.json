@@ -1483,6 +1483,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/58095",
 "issuer": "csa",
 "joint": []
+},
+{
+"slug": "decizie-orda-174-2004",
+"path": "decizie/orda/2004/174",
+"kind": "decizie",
+"year": "2004",
+"number": "174",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 174/2004",
+"short": "Decizia orda nr. 174/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2005-01-18",
+"latest": "2005-01-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/58657",
+"issuer": "orda",
+"joint": []
 }
 ]
 }

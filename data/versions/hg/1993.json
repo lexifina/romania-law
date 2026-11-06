@@ -1284,6 +1284,21 @@
    ]
   },
   {
+   "slug": "hg-19-1993",
+   "path": "hg/1993/19",
+   "short": "HG nr. 19/1993",
+   "title": "Hotărârea Guvernului nr. 19/1993 privind trecerea în administrarea Academiei de Studii Economice Bucureşti a unui imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17802",
+   "versions": [
+    {
+     "from": "1993-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17802",
+     "sha256": "03c6431e011e9f8e2d773c3aca06b63123814aa1dab3001eca308e457ba15cdd"
+    }
+   ]
+  },
+  {
    "slug": "hg-190-1993",
    "path": "hg/1993/190",
    "short": "HG nr. 190/1993",
@@ -1400,6 +1415,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/3374",
      "sha256": "86d158821921d432d48825b5a4adf8b8cc780a8ce999d4ec938fb0af5360e2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-1993",
+   "path": "hg/1993/20",
+   "short": "HG nr. 20/1993",
+   "title": "Hotărârea Guvernului nr. 20/1993 privind transmiterea unui imobil proprietate de stat, situat în municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17803",
+   "versions": [
+    {
+     "from": "1993-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17803",
+     "sha256": "3e62e4449e0fe57ae2f5fe1fe372841e3d15760120e7080db67b7aa3e2397beb"
     }
    ]
   },

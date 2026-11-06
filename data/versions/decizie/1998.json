@@ -286,6 +286,21 @@
      "sha256": "b8c3952f275ff4e19e64b63678bba7117757317200036b1384623748ef908dfe"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-4-1998",
+   "path": "decizie/orda/1998/4",
+   "short": "Decizia orda nr. 4/1998",
+   "title": "Decizia nr. 4/1998",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/15167",
+   "versions": [
+    {
+     "from": "1998-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/15167",
+     "sha256": "450cfa708924024689c248d2afc5941513f076edfa1094780e47409a957b691c"
+    }
+   ]
   }
  ]
 }

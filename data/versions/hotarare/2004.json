@@ -1503,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-215-2004",
+   "path": "hotarare/bnr/2004/215",
+   "short": "Hotărârea bnr nr. 215/2004",
+   "title": "Hotărârea nr. 215/2004 privind retragerea autorizației de funcționare a Cooperativei de credit CREDCONSULT NOVACI OC",
+   "url": "https://www.bnr.ro/19411-hotarare-215-2004",
+   "versions": [
+    {
+     "from": "2004-07-26",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/19411-hotarare-215-2004",
+     "sha256": "f622f0595da5498785525b10d19bf0fab65822d49000eef8bf8360a28c20d6ca"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-218-2004",
    "path": "hotarare/bnr/2004/218",
    "short": "Hotărârea bnr nr. 218/2004",
@@ -4983,6 +4998,21 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-64-2004",
+   "path": "hotarare/bnr/2004/64",
+   "short": "Hotărârea bnr nr. 64/2004",
+   "title": "Hotărârea nr. 64/2004 privind retragerea autorizației de funcționare a Cooperativei de credit RĂSĂRITUL RĂCĂCIUNI O.C",
+   "url": "https://www.bnr.ro/20181-hotarare-64-2004",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/20181-hotarare-64-2004",
+     "sha256": "6a271c9646c3630fd5cf6194f4cebd356f80abfb35a14257743e0770ef9e1876"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-65-2004",
    "path": "hotarare/bnr/2004/65",
    "short": "Hotărârea bnr nr. 65/2004",
@@ -5414,6 +5444,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53291",
      "sha256": "0c1a59b058c79545610dac99428f69b67be0c8e442677d015e74bb1822c5caa0"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-1-2004",
+   "path": "hotarare/orda/2004/1",
+   "short": "Hotărârea orda nr. 1/2004",
+   "title": "Hotărârea nr. 1/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58658",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58658",
+     "sha256": "636b5c2c764169762c395098b378f208c17bb698bb8e24e1f74f0a9955de7ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-2-2004",
+   "path": "hotarare/orda/2004/2",
+   "short": "Hotărârea orda nr. 2/2004",
+   "title": "Hotărârea nr. 2/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58659",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58659",
+     "sha256": "f6597eec79172567579b50ddac1a925fec310e6ec8d46bd1de84fbff03f1e3c4"
     }
    ]
   }

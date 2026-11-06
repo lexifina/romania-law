@@ -796,6 +796,66 @@
      "sha256": "d98e157d367cd3ebce6f9b801869262967c04505ddde59f4828392b0d788dd8e"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-104-2019",
+   "path": "decizie/orda/2019/104",
+   "short": "Decizia orda nr. 104/2019",
+   "title": "Decizia nr. 104/2019 pentru constituirea Comisiei de negociere a Metodologiei privind comunicarea publică a operelor în concerte, spectacole, festivaluri sau alte manifestări artistice muzicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/220672",
+   "versions": [
+    {
+     "from": "2019-12-04",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/220672",
+     "sha256": "b324e27112655029a7bb63fe85e1c9f396b629abfb5d9e3d64a2e21ad40bfa3a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-41-2019",
+   "path": "decizie/orda/2019/41",
+   "short": "Decizia orda nr. 41/2019",
+   "title": "Decizia nr. 41/2019 pentru publicarea în Monitorul Oficial al României, Partea I, a Protocolulu i privind colectarea de către organismul de gestiune colectivă CREDIDAM pentru și în numele ARAIEX a remunerațiilor cuvenite artiștilor interpreți sau executanți reprezentați de ARAIEX, aferente drepturilor care fac obiectul gestiunii colective facultative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/212216",
+   "versions": [
+    {
+     "from": "2019-03-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/212216",
+     "sha256": "bdab70a02daea191be61b191a470ea5531689a7a983a2df0d51b7aca7ebc627f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-60-2019",
+   "path": "decizie/orda/2019/60",
+   "short": "Decizia orda nr. 60/2019",
+   "title": "Decizia nr. 60/2019 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite artiștilor interpreți sau executanți și producătorilor de fonograme prevăzute în Metodologia privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru comunicarea publică a fonogramelor de comerț/fonogramelor publicate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/214875",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/214875",
+     "sha256": "3adddff35ed6a4df82a118bb4d34c62b63d1e74bfc6f0906da135f832caa74b8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-81-2019",
+   "path": "decizie/orda/2019/81",
+   "short": "Decizia orda nr. 81/2019",
+   "title": "Decizia nr. 81/2019 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite titularilor de drepturi patrimoniale de autor de opere muzicale pentru comunicarea publică a operelor muzicale în scop ambiental, prevăzute în Metodologia privind remunerațiile datorate titularilor de drepturi patrimoniale de autor de opere muzicale pentru comu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217632",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217632",
+     "sha256": "e42936a73956997591e77b78a52153927861cf92e3925c2b118f07074a3d24f1"
+    }
+   ]
   }
  ]
 }

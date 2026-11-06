@@ -31,6 +31,21 @@
      "sha256": "0244b5fdb91c38bf92ea09de9f937a15dd153261c20cf70f734af7dd5827b95f"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2017",
+   "path": "hotarare/orda/2017/1",
+   "short": "Hotărârea orda nr. 1/2017",
+   "title": "Hotărârea nr. 1/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/188057",
+   "versions": [
+    {
+     "from": "2017-04-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/188057",
+     "sha256": "93363f0d9352c3d95b6bf4748c4de30ef384cc5f9118f40f830fb91cd0062d7d"
+    }
+   ]
   }
  ]
 }

@@ -46,6 +46,36 @@
      "sha256": "76eda2de87cb08060779dc3b10c1825ed98688f2ceccba81752f7707d007d89c"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2018",
+   "path": "hotarare/orda/2018/1",
+   "short": "Hotărârea orda nr. 1/2018",
+   "title": "Hotărârea nr. 1/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/197531",
+   "versions": [
+    {
+     "from": "2018-02-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/197531",
+     "sha256": "70125d8e75b635a0ede8bb769827cd28494d531515fd63111f753aeb894957fb"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-orda-2-2018",
+   "path": "hotarare/orda/2018/2",
+   "short": "Hotărârea orda nr. 2/2018",
+   "title": "Hotărârea nr. 2/2018",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/198829",
+   "versions": [
+    {
+     "from": "2018-03-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/198829",
+     "sha256": "fc136fc882af803ff646e4dba43c5af30b91edcff0be90f9276e7a9b0a665d1b"
+    }
+   ]
   }
  ]
 }

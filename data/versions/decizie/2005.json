@@ -1171,6 +1171,501 @@
      "sha256": "42632703d25475c58d8c36dec4edeb8ae1e469cce5708519e6d4f82959f0ceef"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-104-2005",
+   "path": "decizie/orda/2005/104",
+   "short": "Decizia orda nr. 104/2005",
+   "title": "Decizia nr. 104/2005 pentru publicarea Metodologiei privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru radiodifuzarea fonogramelor publicate în scop comercial sau a reproducerilor acestora de către organisme de radiodifuziune și de televiziune, prin gestiune colectivă obligatorie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61372",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61372",
+     "sha256": "aebaf8692cb947680b1c562d194b225975b8f31e52278779478ac195e2d9c262"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-105-2005",
+   "path": "decizie/orda/2005/105",
+   "short": "Decizia orda nr. 105/2005",
+   "title": "Decizia nr. 105/2005 pentru publicarea Protocolului referitor la Metodologia privind cuantumul remunerației compensatorii pentru copia privată pentru coli de hârtie pentru copiator format A4",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61375",
+   "versions": [
+    {
+     "from": "2005-05-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61375",
+     "sha256": "2d3b87080e9bc085ab8d9a1f34f2dc2e8856d926b855badc88eece12b811432a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-107-2005",
+   "path": "decizie/orda/2005/107",
+   "short": "Decizia orda nr. 107/2005",
+   "title": "Decizia nr. 107/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62452",
+   "versions": [
+    {
+     "from": "2005-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62452",
+     "sha256": "1f62907dad3cff15ab20b66a383626a1c59fc149274bbf52d4c0a227d1942594"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-123-2005",
+   "path": "decizie/orda/2005/123",
+   "short": "Decizia orda nr. 123/2005",
+   "title": "Decizia nr. 123/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62349",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62349",
+     "sha256": "6551fac9b27f2d48689ae85ea3b84c69cb3c7a7c4d77b86931ac3c1ffc4e81fc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-124-2005",
+   "path": "decizie/orda/2005/124",
+   "short": "Decizia orda nr. 124/2005",
+   "title": "Decizia nr. 124/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62500",
+   "versions": [
+    {
+     "from": "2005-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62500",
+     "sha256": "31d173901bcc8aac89456d2f74ef1280584dc36a8e97cb3e307cf73f4ac3d130"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-133-2005",
+   "path": "decizie/orda/2005/133",
+   "short": "Decizia orda nr. 133/2005",
+   "title": "Decizia nr. 133/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63485",
+   "versions": [
+    {
+     "from": "2005-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63485",
+     "sha256": "ef6d75ac2dea1a2cbe6c9dbff0a2029fb1ad1a78735a399e857c55aeef327266"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-135-2005",
+   "path": "decizie/orda/2005/135",
+   "short": "Decizia orda nr. 135/2005",
+   "title": "Decizia nr. 135/2005 privind desemnarea organismului de gestiune colectivă Uniunea Compozitorilor și Muzicologilor din România - Asociația pentru Drepturi de Autor (UCMR-ADA)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62879",
+   "versions": [
+    {
+     "from": "2005-07-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62879",
+     "sha256": "24e60516074579721db157c7afabfc859754432547bd5f48ba65f56b2521756c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-147-2005",
+   "path": "decizie/orda/2005/147",
+   "short": "Decizia orda nr. 147/2005",
+   "title": "Decizia nr. 147/2005 privind desemnarea organismului de gestiune colectivă COPYRO - Societate de Gestiune Colectivă a Drepturilor de Autor drept colector unic al remunerației compensatorii cuvenite titularilor de drepturi pentru copia privată - opere reproduse de pe hârtie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64047",
+   "versions": [
+    {
+     "from": "2005-08-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64047",
+     "sha256": "c2d5ae050e3461a8a94ea792b14b76ff43d8ff8522c66afb6ae057d1028806e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-148-2005",
+   "path": "decizie/orda/2005/148",
+   "short": "Decizia orda nr. 148/2005",
+   "title": "Decizia nr. 148/2005 privind desemnarea organismului de gestiune colectivă COPYRO - Societate de Gestiune Colectivă a Drepturilor de Autor drept colector unic al remunerației compensatorii cuvenite titularilor de drepturi pentru copia privată - hârtie pentru copiator (format A4)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64048",
+   "versions": [
+    {
+     "from": "2005-08-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64048",
+     "sha256": "3ac0fe3451420f23021b3b2dfda5bb039fe17d1cc519e3b8f33c951351cf837b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-156-2005",
+   "path": "decizie/orda/2005/156",
+   "short": "Decizia orda nr. 156/2005",
+   "title": "Decizia nr. 156/2005 privind desemnarea organismului de gestiune colectivă UPFR - Uniunea Producătorilor de Fonograme din România - drept colector unic al remunerației compensatorii curente titularilor de drepturi pentru copia privată - opere reproduse după înregistrări sonore sau audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64104",
+   "versions": [
+    {
+     "from": "2005-08-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64104",
+     "sha256": "bafb5e71748b3eb04c9f2a86176bb809dbf2d7630adfc8250d4c90bbcaa541a5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-167-2005",
+   "path": "decizie/orda/2005/167",
+   "short": "Decizia orda nr. 167/2005",
+   "title": "Decizia nr. 167/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64185",
+   "versions": [
+    {
+     "from": "2005-08-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64185",
+     "sha256": "e2a84c008aa0d3a0a8978046191fedef09396218d423ec7adc3330adc3693dda"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-183-2005",
+   "path": "decizie/orda/2005/183",
+   "short": "Decizia orda nr. 183/2005",
+   "title": "Decizia nr. 183/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64835",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64835",
+     "sha256": "6f9745dffa3cfd75c9dc4bf0595c30ef0cd0f3690077540d14481b1ccd277591"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-184-2005",
+   "path": "decizie/orda/2005/184",
+   "short": "Decizia orda nr. 184/2005",
+   "title": "Decizia nr. 184/2005 privind desemnarea organismului de gestiune colectivă Uniunea Compozitorilor și Muzicologilor din România - Asociația pentru Drepturi de Autor (UCMR - ADA) drept colector al remunerațiilor cuvenite titularilor de drepturi pentru radiodifuzarea operelor muzicale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64836",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64836",
+     "sha256": "765a55768671e42482b1d9090ec2107ff1ba295d966bb94e1ac13b3572808009"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-185-2005",
+   "path": "decizie/orda/2005/185",
+   "short": "Decizia orda nr. 185/2005",
+   "title": "Decizia nr. 185/2005 privind desemnarea organismelor de gestiune colectivă Centrul Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) drept colector al remunerațiilor cuvenite artiștilor interpreți sau executanți pentru radiodifuzarea fonogramelor publicate în scop comercial sau a reproducerilor acestora și Uniunea Producătorilor de Fonograme din România (UPF",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64837",
+   "versions": [
+    {
+     "from": "2005-09-08",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64837",
+     "sha256": "0cb0b87719acd9b293b87a2ffc91775e7be420801f7d1caf0d6263f5d1048092"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-192-2005",
+   "path": "decizie/orda/2005/192",
+   "short": "Decizia orda nr. 192/2005",
+   "title": "Decizia nr. 192/2005 privind desemnarea organismului de gestiune colectivă Uniunea Compozitorilor și Muzicologilor din România - Asociația pentru Drepturi de Autor (UCMR - ADA) drept colector al remunerațiilor cuvenite titularilor de drepturi de autor pentru utilizarea operelor muzicale ca tonuri de apel pentru telefoanele mobile și pe Internet",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65086",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65086",
+     "sha256": "ba58d6a6a86858ada395072b98078406ea22bb106d9ef8461478694040d83bb0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-215-2005",
+   "path": "decizie/orda/2005/215",
+   "short": "Decizia orda nr. 215/2005",
+   "title": "Decizia nr. 215/2005 privind constituirea Comisiei pentru negocierea metodologiei privind lista suporturilor și a aparatelor din domeniul sonor și audiovizual pentru care se datorează remunerația compensatorie pentru copia privată, precum și cuantumul acestei remunerații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65836",
+   "versions": [
+    {
+     "from": "2005-11-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65836",
+     "sha256": "b71e604d818ccc9a2b4501fb3d0ae82373dd7c57a1b8d2601c06336aef3b9b98"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-218-2005",
+   "path": "decizie/orda/2005/218",
+   "short": "Decizia orda nr. 218/2005",
+   "title": "Decizia nr. 218/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65824",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65824",
+     "sha256": "43987551862ae2a7966bf5592615770663bf6f387454a97bb3ed0c458ba4e27d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-219-2005",
+   "path": "decizie/orda/2005/219",
+   "short": "Decizia orda nr. 219/2005",
+   "title": "Decizia nr. 219/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65825",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65825",
+     "sha256": "4d8f5921c31233ed92de8a10b79651d52e821679ed52419e4b7c7a067e2c1074"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-220-2005",
+   "path": "decizie/orda/2005/220",
+   "short": "Decizia orda nr. 220/2005",
+   "title": "Decizia nr. 220/2005 privind constituirea Comisiei pentru negocierea metodologiei privind reproducerea operelor muzicale pe fonograme sau videograme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65827",
+   "versions": [
+    {
+     "from": "2005-11-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65827",
+     "sha256": "4a1b0da64ebf929aa5ebd345442572b48eb4444869e1593039cc4962b383889e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-221-2005",
+   "path": "decizie/orda/2005/221",
+   "short": "Decizia orda nr. 221/2005",
+   "title": "Decizia nr. 221/2005 privind constituirea Comisiei pentru negocierea metodologiei privind lista suporturilor și a aparatelor din domeniul grafic pentru care se datorează remunerația compensatorie pentru copia privată, precum și cuantumul acestei remunerații",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66111",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66111",
+     "sha256": "bbb132b15db8bdbadac7eb1b2a37e67e8d8fc5ff34fdfbe107d48ec80ac1cd07"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-222-2005",
+   "path": "decizie/orda/2005/222",
+   "short": "Decizia orda nr. 222/2005",
+   "title": "Decizia nr. 222/2005 privind constituirea Comisiei pentru negocierea metodologiei privind stabilirea remunerației pentru împrumutul public efectuat prin biblioteci",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66112",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66112",
+     "sha256": "71d42d1ec77dc62c7fb4bbe9617ad16280c5a9f76d359aaf44dc1efc353c271a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-230-2005",
+   "path": "decizie/orda/2005/230",
+   "short": "Decizia orda nr. 230/2005",
+   "title": "Decizia nr. 230/2005 privind constituirea Comisiei pentru negocierea metodologiei privind stabilirea remunerației cuvenite producătorilor de opere audiovizuale pentru comunicarea publică a repertoriului de opere audiovizuale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66113",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66113",
+     "sha256": "97237592bac176029f2352e143899627a7d4cf7a33dbe4c7a4d494a391b0717f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-232-2005",
+   "path": "decizie/orda/2005/232",
+   "short": "Decizia orda nr. 232/2005",
+   "title": "Decizia nr. 232/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66951",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66951",
+     "sha256": "411f838b1cd9c35dc20565515f7d9c5729fe770c704b00587b99a324d41ab76a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-237-2005",
+   "path": "decizie/orda/2005/237",
+   "short": "Decizia orda nr. 237/2005",
+   "title": "Decizia nr. 237/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67361",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67361",
+     "sha256": "201001603cd9ff21c216e2cacd081eb780fb55b80cfa4abfef8acc0e8c3e5285"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-238-2005",
+   "path": "decizie/orda/2005/238",
+   "short": "Decizia orda nr. 238/2005",
+   "title": "Decizia nr. 238/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66952",
+   "versions": [
+    {
+     "from": "2005-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66952",
+     "sha256": "e520785abf73cb8b05cf7189f374d2fc75a4074dbb5384820ba8c04a8f60ee74"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-244-2005",
+   "path": "decizie/orda/2005/244",
+   "short": "Decizia orda nr. 244/2005",
+   "title": "Decizia nr. 244/2005 pentru publicarea în Monitorul Oficial al României, Partea I, a Protocolului privind comunicarea publică a fonogramelor publicate în scop comercial sau a reproducerilor acestora, precum și a prestațiilor artistice din domeniul audiovizual și a tabelului cuprinzând drepturile patrimoniale cuvenite artiștilor interpreți sau executanți și producătorilor de fonog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68823",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68823",
+     "sha256": "f81645bc0ea29fe577c5433755d3dc9f4e9b22c0188b71938a6e3be9052ddf3e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-47-2005",
+   "path": "decizie/orda/2005/47",
+   "short": "Decizia orda nr. 47/2005",
+   "title": "Decizia nr. 47/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58994",
+   "versions": [
+    {
+     "from": "2005-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58994",
+     "sha256": "bd9ba1d5ee1a27bca5bba92d47a71f78bdd019f48738dfa43b5de8fd57b52c27"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-57-2005",
+   "path": "decizie/orda/2005/57",
+   "short": "Decizia orda nr. 57/2005",
+   "title": "Decizia nr. 57/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59129",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59129",
+     "sha256": "7190dbe698238b0f6a25ee38c6db84f99bb5bdad465d56d4a9f2893ae3ad57e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-58-2005",
+   "path": "decizie/orda/2005/58",
+   "short": "Decizia orda nr. 58/2005",
+   "title": "Decizia nr. 58/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59130",
+   "versions": [
+    {
+     "from": "2005-02-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59130",
+     "sha256": "d155a9b84fa4cbf40f9a810f79c70ca9ad6b1e4f1be93cf1aa3724e3c1d98fd3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2005",
+   "path": "decizie/orda/2005/6",
+   "short": "Decizia orda nr. 6/2005",
+   "title": "Decizia nr. 6/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/58621",
+   "versions": [
+    {
+     "from": "2005-01-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58621",
+     "sha256": "c0a218cb865fd08f64b15d967ae785bf748b0c10108db6cf6a00d22786077161"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-62-2005",
+   "path": "decizie/orda/2005/62",
+   "short": "Decizia orda nr. 62/2005",
+   "title": "Decizia nr. 62/2005 privind constituirea, începând cu data de 17 februarie 2005, a Comisiei pentru negocierea metodologiei privind remunerația datorată titularilor de drepturi de autor pentru radiodifuzarea operelor literare de către organismele de televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/59308",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59308",
+     "sha256": "e72e93127d597111871721b84eff9fa3a7d3fe5ed2bc1206efbe335de387f9e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-95-2005",
+   "path": "decizie/orda/2005/95",
+   "short": "Decizia orda nr. 95/2005",
+   "title": "Decizia nr. 95/2005 privind stabilirea procentului valabil pentru drepturile de autor și drepturile conexe, datorat de distribuitorii de servicii de programe prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61295",
+   "versions": [
+    {
+     "from": "2005-05-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61295",
+     "sha256": "2f382afe2d1e8c4b8b2cdd5a572921d950b23764c3583ad67b032cd0e4a0b11b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-97-2005",
+   "path": "decizie/orda/2005/97",
+   "short": "Decizia orda nr. 97/2005",
+   "title": "Decizia nr. 97/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61399",
+   "versions": [
+    {
+     "from": "2005-05-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61399",
+     "sha256": "d371cf8d29f0b6341af194f873767a089831f3b550a835c32ae985dedc087e6a"
+    }
+   ]
   }
  ]
 }

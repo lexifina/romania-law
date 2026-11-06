@@ -1,6 +1,6 @@
 # Every act in this repository
 
-18007 acts, 29,587 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
+18051 acts, 29,632 versions. Each act lives in a folder named by its official identifier, `<kind>/<year>/<number>/` (Legea nr. 31/1990 is `lege/1990/31/`); its README.md lists its articles and the decisions made by hand. Dates are in-force days. Generated on every publish; the same list is in [data/acts.json](data/acts.json). This page lists the primary legislation; every other kind is listed by year (local acts: by council and year) under [data/acts/](data/acts/) (see [Other kinds](#other-kinds)), and [data/index.json](data/index.json) names every file.
 
 ## Codes and the Constitution, by name
 
@@ -33,7 +33,7 @@
 | --- | --- | --- | ---: | --- | --- |
 | Constituția României | [`constitutie/1991/`](constitutie/1991/) | in force | 2 | 1991-12-08 | 2003-10-29 |
 
-## Laws (legi) (10595, of which 3277 amending acts)
+## Laws (legi) (10639, of which 3277 amending acts)
 
 | Act | Folder | Status | Versions | From | Latest |
 | --- | --- | --- | ---: | --- | --- |
@@ -96,12 +96,17 @@
 | Legea nr. 28/1991 | [`lege/1991/28/`](lege/1991/28/) | in force | 1 | 1991-03-30 | 1991-03-30 |
 | Legea nr. 30/1991 | [`lege/1991/30/`](lege/1991/30/) | in force | 2 | 1991-04-26 | 2003-11-04 |
 | Legea nr. 31/1991 | [`lege/1991/31/`](lege/1991/31/) | in force | 1 | 1991-05-26 | 1991-05-26 |
+| Legea nr. 33/1991 privind activitatea bancară | [`lege/1991/33/`](lege/1991/33/) | amended, not consolidated | 1 | 1991-05-03 | 1991-05-03 |
+| Legea nr. 34/1991 privind Statutul Băncii Naţionale a României | [`lege/1991/34/`](lege/1991/34/) | amended, not consolidated | 1 | 1991-05-03 | 1991-05-03 |
+| Legea nr. 35/1991 privind regimul investiţiilor străine | [`lege/1991/35/`](lege/1991/35/) | amended, not consolidated | 1 | 1991-04-10 | 1991-04-10 |
 | Legea nr. 36/1991 | [`lege/1991/36/`](lege/1991/36/) | in force | 6 | 1991-05-06 | 2019-10-14 |
 | Legea nr. 37/1991 | [`lege/1991/37/`](lege/1991/37/) | in force | 1 | 1991-05-30 | 1991-05-30 |
 | Legea nr. 38/1991 pentru ratificarea Acordului privind promovarea și protejarea reciprocă a investițiilor dintre Guvernul României și Guvernul Republicii Orientale a Uruguayului | [`lege/1991/38/`](lege/1991/38/) | in force | 1 | 1991-06-06 | 1991-06-06 |
 | Legea nr. 39/1991 | [`lege/1991/39/`](lege/1991/39/) | in force | 1 | 1991-06-06 | 1991-06-06 |
 | Legea nr. 40/1991 | [`lege/1991/40/`](lege/1991/40/) | in force | 5 | 1991-06-07 | 2010-01-01 |
+| Legea nr. 41/1991 pentru modificarea articolului 24 alineatul 1 din Legea nr. 31/1990 privind societăţile comerciale | [`lege/1991/41/`](lege/1991/41/) | as published, amendments not yet checked | 1 | 1991-06-04 | 1991-06-04 |
 | Legea nr. 44/1991 | [`lege/1991/44/`](lege/1991/44/) | in force | 1 | 1991-07-11 | 1991-07-11 |
+| Legea nr. 45/1991 privind modificarea unor dispoziţii referitoare la activitatea de judecată | [`lege/1991/45/`](lege/1991/45/) | as published, amendments not yet checked | 1 | 1991-07-11 | 1991-07-11 |
 | Legea nr. 46/1991 pentru aderarea României la Convenţia privind statutul refugiaţilor, precum şi la Protocolul privind statutul refugiaţilor | [`lege/1991/46/`](lege/1991/46/) | amended, not consolidated | 1 | 1991-07-17 | 1991-07-17 |
 | Legea nr. 48/1991 pentru completarea şi modificarea unor dispoziţii legale privind înfierea | [`lege/1991/48/`](lege/1991/48/) | amended, not consolidated | 1 | 1991-07-17 | 1991-07-17 |
 | Legea nr. 49/1991 | [`lege/1991/49/`](lege/1991/49/) | in force | 16 | 1991-08-01 | 2022-12-09 |
@@ -109,40 +114,79 @@
 | Legea nr. 51/1991 privind securitatea națională a României | [`lege/1991/51/`](lege/1991/51/) | in force | 6 | 1991-08-07 | 2023-03-18 |
 | Legea nr. 53/1991 | [`lege/1991/53/`](lege/1991/53/) | in force | 11 | 1991-08-08 | 2010-01-01 |
 | Legea nr. 54/1991 cu privire la sindicate | [`lege/1991/54/`](lege/1991/54/) | amended, not consolidated | 1 | 1991-08-07 | 1991-08-07 |
+| Legea nr. 56/1991 pentru modificarea Legii nr. 36/1990 privind autorizarea Guvernului de a stabili sau modifica taxe şi impozite | [`lege/1991/56/`](lege/1991/56/) | as published, amendments not yet checked | 1 | 1991-08-14 | 1991-08-14 |
 | Legea nr. 57/1991 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare | [`lege/1991/57/`](lege/1991/57/) | amended, not consolidated | 1 | 1991-08-15 | 1991-08-15 |
 | Legea nr. 58/1991 privind privatizarea societăţilor comerciale | [`lege/1991/58/`](lege/1991/58/) | amended, not consolidated | 1 | 1991-08-16 | 1991-08-16 |
+| Legea nr. 59/1991 pentru modificarea şi completarea Decretului-lege nr. 118 din 30 martie 1990 privind acordarea unor drepturi persoanelor persecutate din motive politice de dictatura instaurată cu începere de la 6 martie 1945 | [`lege/1991/59/`](lege/1991/59/) | amended, not consolidated | 1 | 1991-09-18 | 1991-09-18 |
 | Legea nr. 60/1991 privind organizarea și desfășurarea adunărilor publice | [`lege/1991/60/`](lege/1991/60/) | in force | 5 | 1991-09-25 | 2021-10-11 |
 | Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice | [`lege/1991/61/`](lege/1991/61/) | in force | 22 | 1991-09-27 | 2026-06-13 |
 | Legea nr. 64/1991 privind brevetele de invenție | [`lege/1991/64/`](lege/1991/64/) | in force | 14 | 2002-10-15 | 2024-06-27 |
 | Legea nr. 65/1991 pentru ratificarea Acordului-cadru de cooperare financiară dintre România şi Banca Europeană de Investiţii şi a Contractului financiar pentru retehnologizarea centralelor energetice dintre România şi Banca Europeană de Investiţii şi Regia Autonomă de electricitate "Renel" | [`lege/1991/65/`](lege/1991/65/) | amended, not consolidated | 1 | 1991-11-16 | 1991-11-16 |
+| Legea nr. 66/1991 pentru constituirea şi utilizarea fondului special, pe anul 1991, la Ministerul Sănătăţii | [`lege/1991/66/`](lege/1991/66/) | as published, amendments not yet checked | 1 | 1991-11-06 | 1991-11-06 |
 | Legea nr. 68/1991 privind registrul agricol | [`lege/1991/68/`](lege/1991/68/) | amended, not consolidated | 1 | 1991-11-28 | 1991-11-28 |
+| Legea nr. 69/1991 LEGEA administraţiei publice locale | [`lege/1991/69/`](lege/1991/69/) | amended, not consolidated | 1 | 1991-11-28 | 1991-11-28 |
 | Legea nr. 70/1991 | [`lege/1991/70/`](lege/1991/70/) | in force | 4 | 1991-11-28 | 2003-09-15 |
+| Legea nr. 71/1991 privind instituirea taxei pentru eliberarea titlurilor de proprietate asupra terenurilor | [`lege/1991/71/`](lege/1991/71/) | amended, not consolidated | 1 | 1991-12-06 | 1991-12-06 |
+| Legea nr. 72/1991 pentru modificarea şi completarea Legii nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională | [`lege/1991/72/`](lege/1991/72/) | amended, not consolidated | 1 | 1991-12-16 | 1991-12-16 |
+| Legea nr. 74/1991 privind împrumutul de stat pentru finanţarea deficitului bugetului administraţiei centrale de stat pe anul 1991 | [`lege/1991/74/`](lege/1991/74/) | as published, amendments not yet checked | 1 | 1991-12-16 | 1991-12-16 |
+| Legea nr. 75/1991 pentru modificarea Legii sanitare veterinare nr. 60/1974 | [`lege/1991/75/`](lege/1991/75/) | as published, amendments not yet checked | 1 | 1991-12-16 | 1991-12-16 |
+| Legea nr. 76/1991 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Ungaria privind stabilirea unui regim de CER DESCHIS | [`lege/1991/76/`](lege/1991/76/) | amended, not consolidated | 1 | 1991-12-17 | 1991-12-17 |
 | Legea nr. 77/1991 | [`lege/1991/77/`](lege/1991/77/) | in force | 1 | 1991-12-20 | 1991-12-20 |
+| Legea nr. 78/1991 pentru ratificarea Protocolului privind desfiinţarea Consiliului de Ajutor Economic Reciproc | [`lege/1991/78/`](lege/1991/78/) | as published, amendments not yet checked | 1 | 1991-12-23 | 1991-12-23 |
 | Legea nr. 79/1991 | [`lege/1991/79/`](lege/1991/79/) | in force | 1 | 1991-12-31 | 1991-12-31 |
+| Legea nr. 80/1991 privind decontarea prin compensare a plăţilor restante din economie | [`lege/1991/80/`](lege/1991/80/) | as published, amendments not yet checked | 1 | 1991-12-23 | 1991-12-23 |
 | Legea nr. 81/1991 | [`lege/1991/81/`](lege/1991/81/) | in force | 1 | 1991-12-31 | 1991-12-31 |
 | Legea contabilității nr. 82/1991 | [`lege/1991/82/`](lege/1991/82/) | in force | 25 | 1992-01-01 | 2025-02-04 |
+| Legea nr. 1/1992 privind abrogarea unor acte normative | [`lege/1992/1/`](lege/1992/1/) | amended, not consolidated | 1 | 1992-01-20 | 1992-01-20 |
+| Legea nr. 3/1992 privind instituirea "Timbrului olimpic" | [`lege/1992/3/`](lege/1992/3/) | amended, not consolidated | 1 | 1992-01-31 | 1992-01-31 |
 | Legea nr. 4/1992 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Populare Chineze privind livrarea de către partea chineză de mărfuri pe credit parţii române | [`lege/1992/4/`](lege/1992/4/) | amended, not consolidated | 1 | 1992-01-31 | 1992-01-31 |
 | Legea nr. 5/1992 privind ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Populare Chineze pentru evitarea dublei impuneri şi prevenirea evaziunii fiscale cu privire la impozitele pe venit | [`lege/1992/5/`](lege/1992/5/) | amended, not consolidated | 1 | 1992-01-31 | 1992-01-31 |
+| Legea nr. 7/1992 privind acoperirea financiară a obligaţiilor statului rămase neregularizate la 31 decembrie 1990 şi preluarea de către stat şi băncile comerciale a pierderilor înregistrate în anii 1989 şi 1990 de agenţii economici cu capital de stat, precum şi a creditelor bancare neperformante | [`lege/1992/7/`](lege/1992/7/) | amended, not consolidated | 1 | 1992-02-11 | 1992-02-11 |
+| Legea nr. 8/1992 pentru ratificarea Acordului comercial şi de plăti dintre Guvernul României şi Guvernul Republicii Populare Democrate Coreene pe perioada 1991 - 1993 | [`lege/1992/8/`](lege/1992/8/) | as published, amendments not yet checked | 1 | 1992-02-12 | 1992-02-12 |
+| Legea nr. 9/1992 pentru ratificarea Acordului dintre Guvernul României şi Guvernul Republicii Costa Rica privind evitarea dublei impuneri în materie de impozit pe venit şi pe capital | [`lege/1992/9/`](lege/1992/9/) | as published, amendments not yet checked | 1 | 1992-02-12 | 1992-02-12 |
 | Legea nr. 11/1992 | [`lege/1992/11/`](lege/1992/11/) | in force | 1 | 1992-03-02 | 1992-03-02 |
+| Legea nr. 13/1992 pentru ratificarea Convenţiei consulare dintre România şi Republica Populara Chineza, semnată la Beijing la 16 ianuarie 1991 | [`lege/1992/13/`](lege/1992/13/) | as published, amendments not yet checked | 1 | 1992-03-03 | 1992-03-03 |
 | Legea nr. 14/1992 | [`lege/1992/14/`](lege/1992/14/) | in force | 6 | 1992-03-03 | 2016-03-14 |
+| Legea nr. 15/1992 privind aderarea României la Protocolul asupra privilegiilor şi imunităţilor Organizaţiei Internaţionale de Telecomunicaţii prin Satelit "Intelsat" | [`lege/1992/15/`](lege/1992/15/) | as published, amendments not yet checked | 1 | 1992-03-13 | 1992-03-13 |
+| Legea nr. 16/1992 pentru aderarea României la Protocolul privind privilegiile şi imunităţile Organizaţiei Internaţionale de Telecomunicaţii Maritime prin Satelit "Inmarsat" | [`lege/1992/16/`](lege/1992/16/) | as published, amendments not yet checked | 1 | 1992-03-13 | 1992-03-13 |
 | Legea nr. 17/1992 privind aderarea României la Protocolul asupra privilegiilor şi imunităţilor Organizaţiei Europene de Telecomunicaţii prin Satelit "Eutelsat" | [`lege/1992/17/`](lege/1992/17/) | amended, not consolidated | 1 | 1992-03-13 | 1992-03-13 |
+| Legea nr. 18/1992 pentru ratificarea Tratatului cu privire la forţele armate convenţionale în Europa, semnat la Paris la 19 noiembrie 1990, a Declaraţiei României în cadrul Conferinţei extraordinare de la Viena din 14 iunie 1991, precum şi a Convenţiei cu privire la nivelurile maxime pentru cantităţile de armamente convenţionale şi tehnică, semnată la Budapesta la 3 noiembrie 1990 | [`lege/1992/18/`](lege/1992/18/) | as published, amendments not yet checked | 1 | 1992-04-08 | 1992-04-08 |
 | Legea nr. 19/1992 | [`lege/1992/19/`](lege/1992/19/) | in force | 1 | 1992-03-16 | 1992-03-16 |
+| Legea nr. 20/1992 privind salarizarea în anul 1992 a deputaţilor şi senatorilor, Preşedintele şi Guvernul României a persoanelor din aparatul Parlamentar Român, a personalului Preşedinţiei, Guvernului şi celorlalte organe ale puterii executive | [`lege/1992/20/`](lege/1992/20/) | amended, not consolidated | 1 | 1992-03-11 | 1992-03-11 |
+| Legea nr. 26/1992 privind majorarea cotei de participare a României la Fondul Monetar Internaţional şi acceptarea modificării Statutului F.M.I. prin cel de-al 3-lea amendament | [`lege/1992/26/`](lege/1992/26/) | amended, not consolidated | 1 | 1992-03-19 | 1992-03-19 |
+| Legea nr. 27/1992 pentru ratificarea "Protocolului 1990" referitor la modificarea Convenţiei cu privire la transporturile internaţionale feroviare (COTIF) din 9 mai 1980 | [`lege/1992/27/`](lege/1992/27/) | as published, amendments not yet checked | 1 | 1992-04-01 | 1992-04-01 |
+| Legea nr. 28/1992 pentru modificarea articolului 39 din Legea nr. 40/1991 cu privire la salarizarea Preşedintelui şi Guvernului României, precum şi a personalului Preşedinţiei, Guvernului şi a celorlalte organe ale puterii executive | [`lege/1992/28/`](lege/1992/28/) | amended, not consolidated | 1 | 1992-04-03 | 1992-04-03 |
+| Legea nr. 32/1992 pentru ratificarea Tratatului de înţelegere amicala şi cooperare dintre România şi Republica Franceza | [`lege/1992/32/`](lege/1992/32/) | as published, amendments not yet checked | 1 | 1992-04-13 | 1992-04-13 |
+| Legea nr. 33/1992 pentru ratificarea Tratatului de prietenie, buna vecinătate şi cooperare dintre România şi Republica Turcia | [`lege/1992/33/`](lege/1992/33/) | as published, amendments not yet checked | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 34/1992 | [`lege/1992/34/`](lege/1992/34/) | in force | 1 | 1992-04-13 | 1992-04-13 |
 | Legea nr. 35/1992 | [`lege/1992/35/`](lege/1992/35/) | in force | 1 | 1992-04-13 | 1992-04-13 |
+| Legea nr. 38/1992 privind autorizarea garantării unor credite externe contractate de Regia Autonomă de Electricitate "Renel" - Bucureşti | [`lege/1992/38/`](lege/1992/38/) | as published, amendments not yet checked | 1 | 1992-04-23 | 1992-04-23 |
+| Legea nr. 39/1992 privind prelungirea aplicării unor măsuri pentru frînarea procesului inflaţionist şi a şomajului, stabilite de art. 8 din Legea salarizării nr. 14/1991 | [`lege/1992/39/`](lege/1992/39/) | amended, not consolidated | 1 | 1992-04-23 | 1992-04-23 |
+| Legea nr. 40/1992 privind stabilirea impozitului pe dividende la societăţile comerciale | [`lege/1992/40/`](lege/1992/40/) | amended, not consolidated | 1 | 1992-04-23 | 1992-04-23 |
+| Legea nr. 41/1992 privind scutirea de impozit pe salarii a sumelor donate din fondul de premiere a salariaţilor pentru ajutorarea persoanelor sinistrate din judeţele Bacău, Neamţ şi Suceava | [`lege/1992/41/`](lege/1992/41/) | as published, amendments not yet checked | 1 | 1992-04-23 | 1992-04-23 |
 | Legea nr. 42/1992 pentru aprobarea volumului maxim de masa lemnoasă ce se va recolta în anul 1992 şi a unor măsuri de protecţie a fondului forestier | [`lege/1992/42/`](lege/1992/42/) | amended, not consolidated | 1 | 1992-04-30 | 1992-04-30 |
 | Legea nr. 45/1992 privind stabilirea nivelului unor taxe în sume fixe datorate statului, în lei, de persoanele fizice și juridice și introducerea plății taxei asupra mijloacelor de transport cu tracțiune mecanică și a mijloacelor de transport pe apă, deținute de regiile autonome, societățile comerciale și de ceilalți agenți economici organizați ca persoane juridice | [`lege/1992/45/`](lege/1992/45/) | in force | 2 | 1992-05-21 | 1994-06-01 |
+| Legea nr. 46/1992 privind stabilirea unor drepturi în favoarea persoanelor fizice care deţin acţiuni în temeiul art. 36 din Legea nr. 18/1991 | [`lege/1992/46/`](lege/1992/46/) | amended, not consolidated | 1 | 1992-05-21 | 1992-05-21 |
 | Legea nr. 47/1992 privind organizarea și funcționarea Curții Constituționale | [`lege/1992/47/`](lege/1992/47/) | in force | 11 | 1992-05-22 | 2023-12-08 |
 | Legea nr. 48/1992 | [`lege/1992/48/`](lege/1992/48/) | in force | 2 | 1992-05-25 | 2002-06-03 |
+| Legea nr. 50/1992 pentru ratificarea Acordului privind relaţiile comerciale dintre Guvernul României şi Guvernul Statelor Unite ale Americii, semnat la Bucureşti la 3 aprilie 1992 | [`lege/1992/50/`](lege/1992/50/) | as published, amendments not yet checked | 1 | 1992-06-01 | 1992-06-01 |
 | Legea nr. 51/1992 pentru ratificarea Acordului de împrumut dintre România şi Republica Austria, încheiat la Viena la 1 aprilie 1992 | [`lege/1992/51/`](lege/1992/51/) | amended, not consolidated | 1 | 1992-05-29 | 1992-05-29 |
+| Legea nr. 53/1992 privind protecţia specială a persoanelor handicapate | [`lege/1992/53/`](lege/1992/53/) | amended, not consolidated | 1 | 1992-06-04 | 1992-06-04 |
 | Legea nr. 54/1992 privind impozitul pe sumele obținute din vînzarea activelor societăților comerciale cu capital de stat | [`lege/1992/54/`](lege/1992/54/) | in force | 2 | 1992-06-04 | 1995-01-01 |
 | Legea nr. 56/1992 privind frontiera de stat a României | [`lege/1992/56/`](lege/1992/56/) | amended, not consolidated | 1 | 1992-06-24 | 1992-06-24 |
 | Legea nr. 58/1992 cu privire la corelarea salariilor prevăzute de Legea nr. 53/1991 , Legea nr. 40/1991 şi Legea nr. 52/1991 cu nivelul salariilor de la societăţile comerciale şi regiile autonome | [`lege/1992/58/`](lege/1992/58/) | amended, not consolidated | 1 | 1992-06-23 | 1992-06-23 |
+| Legea nr. 59/1992 pentru ratificarea Acordului de garanţie dintre România şi Banca Europeană pentru Reconstrucţie şi Dezvoltare, semnat la Londra la 27 februarie 1992 | [`lege/1992/59/`](lege/1992/59/) | amended, not consolidated | 1 | 1992-06-25 | 1992-06-25 |
+| Legea nr. 60/1992 pentru modificarea şi completarea Legii nr. 52/1991 cu privire la salarizarea personalului din organele puterii judecătoreşti | [`lege/1992/60/`](lege/1992/60/) | amended, not consolidated | 1 | 1992-06-29 | 1992-06-29 |
 | Legea nr. 63/1992 pentru ratificarea Acordului de împrumut dintre România şi Banca Internaţională pentru Reconstrucţie şi Dezvoltare, încheiat la Washington la 2 iunie 1992 | [`lege/1992/63/`](lege/1992/63/) | amended, not consolidated | 1 | 1992-07-14 | 1992-07-14 |
+| Legea nr. 64/1992 privind aprobarea aranjamentului de credit stand-by acordat României de către Fondul Monetar Internaţional | [`lege/1992/64/`](lege/1992/64/) | as published, amendments not yet checked | 1 | 1992-07-14 | 1992-07-14 |
 | Legea nr. 65/1992 pentru modificarea şi completarea Codului penal, privind unele fapte de corupţie | [`lege/1992/65/`](lege/1992/65/) | amended, not consolidated | 1 | 1992-07-17 | 1992-07-17 |
+| Legea nr. 66/1992 privind acordarea unor facilităţi pentru atragerea de capital străin în domeniul explorării şi exploatării zăcămintelor de petrol şi gaze | [`lege/1992/66/`](lege/1992/66/) | amended, not consolidated | 1 | 1992-07-17 | 1992-07-17 |
 | Legea nr. 67/1992 privind constituirea unui depozit în lei la C.E.C., în vederea creditării construcţiilor de locuinţe | [`lege/1992/67/`](lege/1992/67/) | amended, not consolidated | 1 | 1992-07-17 | 1992-07-17 |
 | Legea nr. 68/1992 | [`lege/1992/68/`](lege/1992/68/) | in force | 2 | 1992-07-16 | 2004-07-06 |
 | Legea nr. 69/1992 | [`lege/1992/69/`](lege/1992/69/) | in force | 2 | 1992-07-16 | 2003-09-26 |
 | Legea nr. 70/1992 pentru acordarea drepturilor unităţilor de cercetare ştiinţifică ale Academiei Române de a folosi veniturile suplimentare obţinute din contracte | [`lege/1992/70/`](lege/1992/70/) | as published, amendments not yet checked | 1 | 1992-07-20 | 1992-07-20 |
+| Legea nr. 71/1992 privind autorizarea garantarea unor credite | [`lege/1992/71/`](lege/1992/71/) | as published, amendments not yet checked | 1 | 1992-07-20 | 1992-07-20 |
+| Legea nr. 72/1992 pentru ratificarea Acordului internaţional privind utilizarea staţiilor de sol "INMARSAT" de navă în porturi şi în limitele mărilor teritoriale, încheiat la Londra la 16 octombrie 1985 | [`lege/1992/72/`](lege/1992/72/) | as published, amendments not yet checked | 1 | 1992-07-21 | 1992-07-21 |
 | Legea nr. 73/1992 pentru ratificarea Tratatului cu privire la relaţiile de prietenie şi cooperare dintre România şi Regatul Spaniei | [`lege/1992/73/`](lege/1992/73/) | as published, amendments not yet checked | 1 | 1992-07-21 | 1992-07-21 |
 | Legea nr. 74/1992 | [`lege/1992/74/`](lege/1992/74/) | in force | 1 | 1992-07-23 | 1992-07-23 |
 | Legea nr. 75/1992 pentru ratificarea Acordului de împrumut suplimentar dintre Comunitatea Economică Europeană şi România, semnat la Bucureşti la 28 februarie 1992 şi la Bruxelles la 16 aprilie 1992 | [`lege/1992/75/`](lege/1992/75/) | as published, amendments not yet checked | 1 | 1992-07-23 | 1992-07-23 |
@@ -3802,7 +3846,7 @@
 | Legea nr. 290/2004 privind cazierul judiciar | [`lege/2004/290/`](lege/2004/290/) | in force | 16 | 2004-07-30 | 2025-12-06 |
 | Legea nr. 291/2004 privind abilitarea Guvernului de a emite ordonanţe | [`lege/2004/291/`](lege/2004/291/) | amended, not consolidated | 1 | 2004-07-01 | 2004-07-01 |
 | Legea nr. 292/2004 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 29/2004 pentru completarea Legii nr. 138/1999 privind salarizarea şi alte drepturi ale personalului militar din instituţiile publice de apărare naţională, ordine publică şi siguranţă naţională, precum şi acordarea unor drepturi salariale personalului civil din aceste instituţii | [`lege/2004/292/`](lege/2004/292/) | as published, amendments not yet checked | 1 | 2004-07-04 | 2004-07-04 |
-| Legea nr. 293/2004 | [`lege/2004/293/`](lege/2004/293/) | in force | 16 | 2004-09-28 | 2018-07-28 |
+| Legea nr. 293/2004 | [`lege/2004/293/`](lege/2004/293/) | in force | 17 | 2004-09-28 | 2019-06-20 |
 | Legea nr. 295/2004 privind regimul armelor și al munițiilor | [`lege/2004/295/`](lege/2004/295/) | in force | 22 | 2004-12-30 | 2025-11-02 |
 | Legea nr. 296/2004 privind Codul consumului | [`lege/2004/296/`](lege/2004/296/) | in force | 4 | 2007-01-01 | 2010-07-22 |
 | Legea nr. 297/2004 privind piața de capital | [`lege/2004/297/`](lege/2004/297/) | in force | 18 | 2004-07-29 | 2021-06-20 |
@@ -18073,7 +18117,7 @@
 
 | Kind | Acts | Lists, by year (local acts: by council and year) |
 | --- | ---: | --- |
-| Government decisions (HG) | 40922 | [`data/acts/hg/`](data/acts/hg/) |
+| Government decisions (HG) | 41438 | [`data/acts/hg/`](data/acts/hg/) |
 | Ministerial and authority orders (ordine) | 29723 | [`data/acts/ordin/`](data/acts/ordin/) |
 | Norms (norme) | 816 | [`data/acts/norma/`](data/acts/norma/) |
 | Regulations (regulamente) | 666 | [`data/acts/regulament/`](data/acts/regulament/) |
@@ -18082,8 +18126,8 @@
 | Methodologies (metodologii) | 3 | [`data/acts/metodologie/`](data/acts/metodologie/) |
 | Criteria (criterii) | 3 | [`data/acts/criterii/`](data/acts/criterii/) |
 | Circulars of authorities (circulare) | 1147 | [`data/acts/circulara/`](data/acts/circulara/) |
-| Decisions of authorities' boards (hotărâri) | 644 | [`data/acts/hotarare/`](data/acts/hotarare/) |
-| Decisions of authorities (decizii) | 2311 | [`data/acts/decizie/`](data/acts/decizie/) |
+| Decisions of authorities' boards (hotărâri) | 663 | [`data/acts/hotarare/`](data/acts/hotarare/) |
+| Decisions of authorities (decizii) | 2656 | [`data/acts/decizie/`](data/acts/decizie/) |
 | Central Electoral Bureau decisions, regulations and results (BEC) | 290 | [`data/acts/decizie-bec/`](data/acts/decizie-bec/) |
 | Permanent Electoral Authority decisions (AEP) | 201 | [`data/acts/hotarare-aep/`](data/acts/hotarare-aep/) |
 | Permanent Electoral Authority norms, instructions and lists (AEP) | 229 | [`data/acts/norma-aep/`](data/acts/norma-aep/) |

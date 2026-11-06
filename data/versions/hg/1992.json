@@ -24,6 +24,186 @@
    ]
   },
   {
+   "slug": "hg-1-1992",
+   "path": "hg/1992/1",
+   "short": "HG nr. 1/1992",
+   "title": "Hotărârea Guvernului nr. 1/1992 privind unele măsuri referitoare la negocierea acordului de asociere a României la Comunităţile Europene (C.E.) şi la intensificarea cooperării cu ţările Asociaţiei Europene a Liberului Schimb (A.E.L.S.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2071",
+   "versions": [
+    {
+     "from": "1992-02-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2071",
+     "sha256": "4f5b2a80765e1226aa05269ae994155b2031c705443560ab2f43e9da5a1175d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-10-1992",
+   "path": "hg/1992/10",
+   "short": "HG nr. 10/1992",
+   "title": "Hotărârea Guvernului nr. 10/1992 pentru modificarea Hotărîrii Guvernului nr. 182 din 20 martie 1991 privind constituirea Agenţiei Române de Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2128",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2128",
+     "sha256": "b9c35b3265e8b9d2a179d8d891b8cc91a42cd0364a634fb99c2263580693cb4d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-103-1992",
+   "path": "hg/1992/103",
+   "short": "HG nr. 103/1992",
+   "title": "Hotărârea Guvernului nr. 103/1992 pentru aprobarea regulamentului-cadru orientativ de funcţionare a consiliilor locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2385",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 70,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2385",
+     "sha256": "0ce2d4d706f54e8481a2402be55928bd471bc5e43d74a7d0495d68a25e580af6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-104-1992",
+   "path": "hg/1992/104",
+   "short": "HG nr. 104/1992",
+   "title": "Hotărârea Guvernului nr. 104/1992 privind unele măsuri pentru impulsionarea încasării tarifelor de transport în trenurile de călători",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2387",
+   "versions": [
+    {
+     "from": "1992-03-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2387",
+     "sha256": "14645f8f28f9138524c3fa40ae0f84386d689558557728bbf7b7dc45d1a64850"
+    }
+   ]
+  },
+  {
+   "slug": "hg-105-1992",
+   "path": "hg/1992/105",
+   "short": "HG nr. 105/1992",
+   "title": "Hotărârea Guvernului nr. 105/1992 cu privire la subvenţionarea temporară, de la bugetul de stat, a cantităţilor de carne de porcine şi pasare în viu, preluate la fondul de consum",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2390",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2390",
+     "sha256": "7553fde5a6764b278da8f534d6afa462fb8e0a4bc49e6a6bd9c3440cfdea7b9e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-106-1992",
+   "path": "hg/1992/106",
+   "short": "HG nr. 106/1992",
+   "title": "Hotărârea Guvernului nr. 106/1992 privind înfiinţarea Societăţii Comerciale \"Protplant\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2393",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2393",
+     "sha256": "46dd69c5fabe42aca849d1316734693a41e7c4247c0f17fb539731953ac35600"
+    }
+   ]
+  },
+  {
+   "slug": "hg-107-1992",
+   "path": "hg/1992/107",
+   "short": "HG nr. 107/1992",
+   "title": "Hotărârea Guvernului nr. 107/1992 privind înfiinţarea Regiei Autonome \"Locato\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2395",
+   "versions": [
+    {
+     "from": "1992-03-17",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2395",
+     "sha256": "90db91dbe4dc1a79cc18748c2ededd3aa7ed1092be511fbad4a157660a3d79c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-109-1992",
+   "path": "hg/1992/109",
+   "short": "HG nr. 109/1992",
+   "title": "Hotărârea Guvernului nr. 109/1992 privind aprobarea procesului-verbal al Comisiei mixte pentru rezolvarea unor probleme ale regimului frontierei de stat româno-iugoslave",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2399",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2399",
+     "sha256": "61f572ce493f2c0e255db11e3888c8db14ce72ca85c6f2db41165514bac2f08d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-110-1992",
+   "path": "hg/1992/110",
+   "short": "HG nr. 110/1992",
+   "title": "Hotărârea Guvernului nr. 110/1992 privind modificarea componentei comisiilor de recepţie la unele obiective de investiţii din programul Ministerului Industriei, Regia Autonomă de Electricitate \"Renel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2401",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2401",
+     "sha256": "e845556535120598090195a4efa6f1cbcf7e5014fcf9b88d116cb3731a0db04d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-111-1992",
+   "path": "hg/1992/111",
+   "short": "HG nr. 111/1992",
+   "title": "Hotărârea Guvernului nr. 111/1992 privind crearea Comitetului Interministerial pentru Colaborarea Economică a Ţărilor din Zona Marii Negre",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2405",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2405",
+     "sha256": "bcdfb0b4ed36259380bf30613de4658f0afb6f1798cf45b7b9830f1588e73155"
+    }
+   ]
+  },
+  {
+   "slug": "hg-112-1992",
+   "path": "hg/1992/112",
+   "short": "HG nr. 112/1992",
+   "title": "Hotărârea Guvernului nr. 112/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31255",
+   "versions": [
+    {
+     "from": "1992-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31255",
+     "sha256": "bde05dff38669603d65b09319541e1fc1983502cdd8e999f2cca2a051cd5dbdf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-113-1992",
+   "path": "hg/1992/113",
+   "short": "HG nr. 113/1992",
+   "title": "Hotărârea Guvernului nr. 113/1992 privind stabilirea unor măsuri pentru defalcarea şi trecerea în patrimoniul comunelor, oraşelor sau, după caz, al judeţelor a bunurilor şi valorilor de interes local din domeniul public şi privat al statului, precum şi trecerea sub autoritatea consiliilor r locale sau, după caz, judeţene a regiilor autonome şi societăţilor comerciale cu capital integral de stat, care prestează servicii publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2410",
+   "versions": [
+    {
+     "from": "1992-03-23",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2410",
+     "sha256": "72c966174739cdbc8cca647d389b7aed35bb4249fc6487e60ab3628a3bf935c7"
+    }
+   ]
+  },
+  {
    "slug": "hg-116-1992",
    "path": "hg/1992/116",
    "short": "HG nr. 116/1992",
@@ -54,6 +234,21 @@
    ]
   },
   {
+   "slug": "hg-12-1992",
+   "path": "hg/1992/12",
+   "short": "HG nr. 12/1992",
+   "title": "Hotărârea Guvernului nr. 12/1992 privind reglementarea eliberării bonurilor de valoare pentru benzina şi motorina",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2137",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2137",
+     "sha256": "4b7ff02e37a4fe068f9ae62e8aac88809306fa0c1721b752fe05c7bbdb097543"
+    }
+   ]
+  },
+  {
    "slug": "hg-120-1992",
    "path": "hg/1992/120",
    "short": "HG nr. 120/1992",
@@ -65,6 +260,276 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2426",
      "sha256": "ad69677339ab8a4b5bb397c647450db6975e002012e96570daee6c8d1e205373"
+    }
+   ]
+  },
+  {
+   "slug": "hg-123-1992",
+   "path": "hg/1992/123",
+   "short": "HG nr. 123/1992",
+   "title": "Hotărârea Guvernului nr. 123/1992 privind înfiinţarea Societăţii Comerciale \"Protect\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2432",
+   "versions": [
+    {
+     "from": "1992-04-03",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2432",
+     "sha256": "98d5c010d13768e58ef766dfd1f5f12a211ebfc9da1c16e6864a1cd953accb70"
+    }
+   ]
+  },
+  {
+   "slug": "hg-127-1992",
+   "path": "hg/1992/127",
+   "short": "HG nr. 127/1992",
+   "title": "Hotărârea Guvernului nr. 127/1992 pentru aprobarea statutului-cadru orientativ al comunei şi oraşului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2442",
+   "versions": [
+    {
+     "from": "1992-03-31",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2442",
+     "sha256": "b127df76fa5cac1849cd2fdd66f4adcf33011de7e5bfc123c05ec680b86a22fd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-128-1992",
+   "path": "hg/1992/128",
+   "short": "HG nr. 128/1992",
+   "title": "Hotărârea Guvernului nr. 128/1992 privind unele măsuri referitoare la stabilirea tarifelor de transport persoane cu metroul şi pe calea ferata",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93880",
+   "versions": [
+    {
+     "from": "1992-04-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93880",
+     "sha256": "d16bdd9d714de8fff61b7e652a0139155531a8eec5d9d9c43dca16e5f207ac79"
+    }
+   ]
+  },
+  {
+   "slug": "hg-13-1992",
+   "path": "hg/1992/13",
+   "short": "HG nr. 13/1992",
+   "title": "Hotărârea Guvernului nr. 13/1992 privind suplimentarea efectivelor Ministerului de Interne - trupe de jandarmi - pentru asigurarea pazei şi securităţii valorilor administrate de Banca Naţionala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2141",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2141",
+     "sha256": "e06db0c32bf66448d56e63f491d323b45d2faf60b9ee4393de46ec1588f5b61a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-131-1992",
+   "path": "hg/1992/131",
+   "short": "HG nr. 131/1992",
+   "title": "Hotărârea Guvernului nr. 131/1992 pentru aprobarea Acordului comercial dintre Guvernul României şi Guvernul Regatului Maroc",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2449",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2449",
+     "sha256": "2edcf95feec75c88ced5c4c7a83dab52a9c92d4cfaf700939cbfc7aa9ec0f740"
+    }
+   ]
+  },
+  {
+   "slug": "hg-135-1992",
+   "path": "hg/1992/135",
+   "short": "HG nr. 135/1992",
+   "title": "Hotărârea Guvernului nr. 135/1992 privind înfiinţarea unor unităţi vamăle de frontieră",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2453",
+   "versions": [
+    {
+     "from": "1992-04-01",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2453",
+     "sha256": "1db36158f7e8089f7d0b25dc868e83465134b5ae41b87b18b2a8932d28b02fda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-136-1992",
+   "path": "hg/1992/136",
+   "short": "HG nr. 136/1992",
+   "title": "Hotărârea Guvernului nr. 136/1992 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94059",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94059",
+     "sha256": "4a77e94958a0b4bc8b15dc32245c0f892983a3f976bc405c3ce3995b4b59b5dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-139-1992",
+   "path": "hg/1992/139",
+   "short": "HG nr. 139/1992",
+   "title": "Hotărârea Guvernului nr. 139/1992 pentru modificarea unor articole din Hotărârea Guvernului nr. 835/1991 privind decontarea la intern a cantităţilor de grîu importat în perioada 1 decembrie 1991 - 30 iunie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93889",
+   "versions": [
+    {
+     "from": "1992-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93889",
+     "sha256": "c8e50665b01fc3da88088c80dbab7206945f190b1478ce10e848aa39d1fd768d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-140-1992",
+   "path": "hg/1992/140",
+   "short": "HG nr. 140/1992",
+   "title": "Hotărârea Guvernului nr. 140/1992 privind aprobarea indicatorilor tehnico-economici ai obiectivului \"Retehnologizarea abatajului frontal din stratul 17-18, blocul IX, panoul 4 Nord de la Exploatarea Minieră Valea de Brazi\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93885",
+   "versions": [
+    {
+     "from": "1992-04-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93885",
+     "sha256": "5ca8ec8eb8fcb8dbdf456d78f48fc3e152a97d85e2c15bbdfaf41c3871da7a19"
+    }
+   ]
+  },
+  {
+   "slug": "hg-141-1992",
+   "path": "hg/1992/141",
+   "short": "HG nr. 141/1992",
+   "title": "Hotărârea Guvernului nr. 141/1992 privind aprobarea atribuirii numelui savantului român Gheorghe Ionescu-Şişeşti Academiei de Ştiinţe Agricole şi Silvice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93890",
+   "versions": [
+    {
+     "from": "1992-04-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93890",
+     "sha256": "3912b0f7e4639017515e94149abef2ae934c5d5d1e97fa2dca3f1176f79aa2d0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-147-1992",
+   "path": "hg/1992/147",
+   "short": "HG nr. 147/1992",
+   "title": "Hotărârea Guvernului nr. 147/1992 privind blocarea, ridicarea, transportul, depozitarea şi eliberarea autovehiculelor sau remorcilor staţionate neregulamentar pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2462",
+   "versions": [
+    {
+     "from": "1992-04-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2462",
+     "sha256": "a1e7fc5ad737b8ed0ad22934beea732e9067171d97e6000d7ae544f4ab924a88"
+    }
+   ]
+  },
+  {
+   "slug": "hg-149-1992",
+   "path": "hg/1992/149",
+   "short": "HG nr. 149/1992",
+   "title": "Hotărârea Guvernului nr. 149/1992 privind corectarea coeficientului de indexare a salariilor la societăţile comerciale cu capital majoritar de stat şi la regiile autonome la care salariile se negociază şi de majorare a salariului de bază minim brut pe ţara, prevăzut de Hotărârea Guvernului nr. 19/1992 , pentru perioada martie-aprilie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2463",
+   "versions": [
+    {
+     "from": "1992-04-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2463",
+     "sha256": "c814d0d944fe3082652ae95d9b4916b98182597bcb4d9c174a0813947b6a6848"
+    }
+   ]
+  },
+  {
+   "slug": "hg-15-1992",
+   "path": "hg/1992/15",
+   "short": "HG nr. 15/1992",
+   "title": "Hotărârea Guvernului nr. 15/1992 de completare şi modificare a Hotărârea Guvernului nr. 994/1990 privind organizarea şi funcţionarea Ministerului Tineretului şi Sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2149",
+   "versions": [
+    {
+     "from": "1992-02-26",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2149",
+     "sha256": "88c8fa3c8dd1901f9aaffb85531671ac6878833a7be825ac8af11ad709da9f86"
+    }
+   ]
+  },
+  {
+   "slug": "hg-150-1992",
+   "path": "hg/1992/150",
+   "short": "HG nr. 150/1992",
+   "title": "Hotărârea Guvernului nr. 150/1992 cu privire la corectarea coeficientului de indexare a pensiilor de asigurări sociale de stat, militare şi I.O.V.R. şi a altor venituri ale populaţiei, cu începere de la 1 martie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2465",
+   "versions": [
+    {
+     "from": "1992-04-03",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2465",
+     "sha256": "1b6a0b78356eb11762496dd185a09ec7160bf4b729e23b238eef05ebbce80e37"
+    }
+   ]
+  },
+  {
+   "slug": "hg-151-1992",
+   "path": "hg/1992/151",
+   "short": "HG nr. 151/1992",
+   "title": "Hotărârea Guvernului nr. 151/1992 pentru aprobarea Normelor privind reglementarea unor probleme financiare în activitatea sportivă pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2466",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2466",
+     "sha256": "7e2ef90b580e7cf4ffd8c44341ca56cd7434fc21f058d30e9630767e5e613680"
+    }
+   ]
+  },
+  {
+   "slug": "hg-153-1992",
+   "path": "hg/1992/153",
+   "short": "HG nr. 153/1992",
+   "title": "Hotărârea Guvernului nr. 153/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30109",
+   "versions": [
+    {
+     "from": "1992-04-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30109",
+     "sha256": "2db2d8a39e4dad5fe40d153f9c92d388a2cd8f4042289a73a228401190cb428d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-155-1992",
+   "path": "hg/1992/155",
+   "short": "HG nr. 155/1992",
+   "title": "Hotărârea Guvernului nr. 155/1992 privind unele măsuri legate de realizarea obiectivului de investiţii \"Unitatea nr. 1 Cernavodă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2469",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2469",
+     "sha256": "7e63dbad7ed10ca21a3babac07822cd5f29e606474a9a8a3023f4eac8c86e6f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-157-1992",
+   "path": "hg/1992/157",
+   "short": "HG nr. 157/1992",
+   "title": "Hotărârea Guvernului nr. 157/1992 privind unele măsuri de îmbunătăţire a activităţii Ministerului Agriculturii şi Alimentaţiei şi a societăţilor comerciale agricole înfiinţate în temeiul Legii nr. 15/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2471",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2471",
+     "sha256": "216db8ad44d9f1b4ae4dc863c71c79c80f88841ee8adec3b2da9eab7f64f515b"
     }
    ]
   },
@@ -114,6 +579,96 @@
    ]
   },
   {
+   "slug": "hg-160-1992",
+   "path": "hg/1992/160",
+   "short": "HG nr. 160/1992",
+   "title": "Hotărârea Guvernului nr. 160/1992 pentru modificarea Hotărîrii Guvernului nr. 1001/1990 privind stabilirea unui sistem unitar de plăţi pentru produsele şi serviciile de gospodărire a apelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2474",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2474",
+     "sha256": "162937f696831551024d7b78c2d126f414923cfda014ea18bb2dc4243fb0f947"
+    }
+   ]
+  },
+  {
+   "slug": "hg-162-1992",
+   "path": "hg/1992/162",
+   "short": "HG nr. 162/1992",
+   "title": "Hotărârea Guvernului nr. 162/1992 privind reglementarea ordinii în efectuarea plăţilor în economie şi obligaţiile agenţilor economici aflaţi în incapacitate de plată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2477",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2477",
+     "sha256": "25dae4d7f7a8e79ba1109fe77bd0aca7b316d01794ba9fe52ffe1badf4a56c80"
+    }
+   ]
+  },
+  {
+   "slug": "hg-163-1992",
+   "path": "hg/1992/163",
+   "short": "HG nr. 163/1992",
+   "title": "Hotărârea Guvernului nr. 163/1992 pentru înmatricularea în România a unor autoturisme, prin derogare de la prevederile art. 5 alin. (1) din Hotărârea Guvernului nr. 594/1991 privind verificarea îndeplinirii condiţiilor tehnice de către autovehiculele şi remorcile acestora care circulă pe drumurile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2478",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2478",
+     "sha256": "6cba2a35de89c1a87f0b3b191970d2e0591223f9c93f6de645a890f9aae50a29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-164-1992",
+   "path": "hg/1992/164",
+   "short": "HG nr. 164/1992",
+   "title": "Hotărârea Guvernului nr. 164/1992 privind autorizarea înfiinţării Institutului Teologic Penticostal de grad universitar din Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2479",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2479",
+     "sha256": "847b11a4ebe629884d1f1c9b1104247a807feadb18fbae1e6849e459cec9cf92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-165-1992",
+   "path": "hg/1992/165",
+   "short": "HG nr. 165/1992",
+   "title": "Hotărârea Guvernului nr. 165/1992 privind autorizarea înfiinţării Institutului Teologic Adventist de Ziua a Şaptea de grad universitar din Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2480",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2480",
+     "sha256": "c6e889f8a92e07f88e404c7ec052f031047f957a48c83a657fc56cc9bdde55a1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-166-1992",
+   "path": "hg/1992/166",
+   "short": "HG nr. 166/1992",
+   "title": "Hotărârea Guvernului nr. 166/1992 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Statelor Unite ale Americii privind programele Corpului Păcii în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2481",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2481",
+     "sha256": "0c1b7123490bc8c12fa92ba2c3756cb1a56249121c50448c05a3f42eaf0eaa7d"
+    }
+   ]
+  },
+  {
    "slug": "hg-167-1992",
    "path": "hg/1992/167",
    "short": "HG nr. 167/1992",
@@ -150,6 +705,51 @@
    ]
   },
   {
+   "slug": "hg-169-1992",
+   "path": "hg/1992/169",
+   "short": "HG nr. 169/1992",
+   "title": "Hotărârea Guvernului nr. 169/1992 pentru aprobarea Acordului dintre România şi Spania privind cooperarea în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2486",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2486",
+     "sha256": "2cc24d4a850483628a1b55d9dad3c1824742b3323d242eee020d2fdaba370aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-17-1992",
+   "path": "hg/1992/17",
+   "short": "HG nr. 17/1992",
+   "title": "Hotărârea Guvernului nr. 17/1992 privind organizarea, finanţarea şi coordonarea învăţămîntului preuniversitar din ramura silviculturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2157",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2157",
+     "sha256": "54cd2797015e3d368fe5d1d24a6b186ae39d3ba5175a701b364cf035d40ceecd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-170-1992",
+   "path": "hg/1992/170",
+   "short": "HG nr. 170/1992",
+   "title": "Hotărârea Guvernului nr. 170/1992 privind aprobarea Procesului-verbal final al Comisiei mixte pentru reconstituirea şi marcarea frontierei de stat româno-iugoslave, semnat la Drobeta-Turnu Severin la 24 ianuarie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2488",
+   "versions": [
+    {
+     "from": "1992-04-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2488",
+     "sha256": "88bc367ba1b4e95890ffaada9bf61e9e604b71b8ae90e5286dd9bc8d09e5d895"
+    }
+   ]
+  },
+  {
    "slug": "hg-173-1992",
    "path": "hg/1992/173",
    "short": "HG nr. 173/1992",
@@ -161,6 +761,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94198",
      "sha256": "14fcba23304d4c526dad3237538b669ba4a275d24ba1d6ef66abd87e4245f355"
+    }
+   ]
+  },
+  {
+   "slug": "hg-175-1992",
+   "path": "hg/1992/175",
+   "short": "HG nr. 175/1992",
+   "title": "Hotărârea Guvernului nr. 175/1992 privind numirea unui consul general",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94200",
+   "versions": [
+    {
+     "from": "1992-05-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94200",
+     "sha256": "9f6792abf059d8ecfb8fddca8013898c022dca3a5df0fcd82f3f3fb7b26bfc37"
+    }
+   ]
+  },
+  {
+   "slug": "hg-176-1992",
+   "path": "hg/1992/176",
+   "short": "HG nr. 176/1992",
+   "title": "Hotărârea Guvernului nr. 176/1992 privind efectuarea unor plasamente financiare din disponibilităţile în lei aferente creditelor externe guvernamentale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94201",
+   "versions": [
+    {
+     "from": "1992-05-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94201",
+     "sha256": "7ca3b03acf7bd6f4b460ef9889c3bb895b70de3d6a6cff28f62c77fffafd4224"
+    }
+   ]
+  },
+  {
+   "slug": "hg-178-1992",
+   "path": "hg/1992/178",
+   "short": "HG nr. 178/1992",
+   "title": "Hotărârea Guvernului nr. 178/1992 privind finanţarea acţiunilor prilejuite de reuniunea de experţi a statelor din zona Mării Negre, ce va avea loc la Bucureşti în perioada 6-7 mai 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94067",
+   "versions": [
+    {
+     "from": "1992-05-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94067",
+     "sha256": "d8cdfdb4e18ce9dc5bcf80a309a8f9a06279908ab35ca186042a58092c00a987"
     }
    ]
   },
@@ -195,6 +840,51 @@
    ]
   },
   {
+   "slug": "hg-184-1992",
+   "path": "hg/1992/184",
+   "short": "HG nr. 184/1992",
+   "title": "Hotărârea Guvernului nr. 184/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2500",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2500",
+     "sha256": "36358c254563e65d91ee47e3aed74d56aa5692cad9a111e1163da637fb0626cb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-188-1992",
+   "path": "hg/1992/188",
+   "short": "HG nr. 188/1992",
+   "title": "Hotărârea Guvernului nr. 188/1992 privind organizarea Memorialului Ipoteşti - Centrul Naţional de Studii \"Mihai Eminescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2504",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2504",
+     "sha256": "90089629f1095360bdc0654c6ede216e83a6fab6d4fdea4a8fefe009f94b46dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-189-1992",
+   "path": "hg/1992/189",
+   "short": "HG nr. 189/1992",
+   "title": "Hotărârea Guvernului nr. 189/1992 privind acordarea unui împrumut de 30 mii tone grîu Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2505",
+   "versions": [
+    {
+     "from": "1992-05-12",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2505",
+     "sha256": "0958aad53931333fa1eb38c82ea712758f84dff3d3c339b923489c5419a8ebcb"
+    }
+   ]
+  },
+  {
    "slug": "hg-190-1992",
    "path": "hg/1992/190",
    "short": "HG nr. 190/1992",
@@ -225,6 +915,222 @@
    ]
   },
   {
+   "slug": "hg-193-1992",
+   "path": "hg/1992/193",
+   "short": "HG nr. 193/1992",
+   "title": "Hotărârea Guvernului nr. 193/1992 privind reorganizarea Regiei Autonome a Huilei Petroşani prin desprinderea unor subunităţi din structura sa, care se înfiinţează ca societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2508",
+   "versions": [
+    {
+     "from": "1992-06-11",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2508",
+     "sha256": "1b57fe8cd85b6ba82478f6a20ac2c3fd8063c6493bdb5b9256548d545fa3b593"
+    }
+   ]
+  },
+  {
+   "slug": "hg-194-1992",
+   "path": "hg/1992/194",
+   "short": "HG nr. 194/1992",
+   "title": "Hotărârea Guvernului nr. 194/1992 privind autorizarea funcţionării în România a Fundaţiei \"The Regional Environmental Center for Central and Eastern Europe\" (Centrul Regional de Protecţie a Mediului pentru Europa Centrala şi de Est), prin înfiinţarea unei filiale a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2510",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2510",
+     "sha256": "491ae3603e6d20eeafccfaf68d827179090c57da07771f2acee4dfe677f9e84d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-198-1992",
+   "path": "hg/1992/198",
+   "short": "HG nr. 198/1992",
+   "title": "Hotărârea Guvernului nr. 198/1992 privind transmiterea unui imobil, situat în incinta unităţii militare 01876 Giarmata, în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94462",
+   "versions": [
+    {
+     "from": "1992-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94462",
+     "sha256": "6ee7771eddb1b4a47c0d1aba0e2cbf59ee5e5a42d324f99a2903191899fdf363"
+    }
+   ]
+  },
+  {
+   "slug": "hg-199-1992",
+   "path": "hg/1992/199",
+   "short": "HG nr. 199/1992",
+   "title": "Hotărârea Guvernului nr. 199/1992 privind stabilirea ca sărbătoare legală a zilei de 27 aprilie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94190",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94190",
+     "sha256": "73454ceb9dd527783108dc0378311e7d6a8f362bc851849434fa14e0fc0b806c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-2-1992",
+   "path": "hg/1992/2",
+   "short": "HG nr. 2/1992",
+   "title": "Hotărârea Guvernului nr. 2/1992 privind realizarea lucrărilor de alimentare cu energie electrică a noilor consumatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2077",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2077",
+     "sha256": "a6031b68c725884e8b61230efd9d9b35531317d4de1373876649bd95f61cf5cd"
+    },
+    {
+     "from": "2003-12-04",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/45405",
+     "sha256": "a93e920b2aad2363a245b2132206c79cfb77b0eb90c1fc7a5fc17aa1a052eb67"
+    }
+   ]
+  },
+  {
+   "slug": "hg-20-1992",
+   "path": "hg/1992/20",
+   "short": "HG nr. 20/1992",
+   "title": "Hotărârea Guvernului nr. 20/1992 cu privire la indexarea unor venituri ale populaţiei, la 1 ianuarie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2168",
+   "versions": [
+    {
+     "from": "1992-01-24",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2168",
+     "sha256": "0887b14b07b4a7b3ba2389671d5ac89ba478615d7ed416441fcb760342d97295"
+    }
+   ]
+  },
+  {
+   "slug": "hg-200-1992",
+   "path": "hg/1992/200",
+   "short": "HG nr. 200/1992",
+   "title": "Hotărârea Guvernului nr. 200/1992 privind stabilirea ca sărbătoare legală a zilei de 1 Mai 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94191",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94191",
+     "sha256": "5c9a7f2770f7a7baf1736303aae3088ffd7eddcca11d1c38aa1a925e4a753f5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-201-1992",
+   "path": "hg/1992/201",
+   "short": "HG nr. 201/1992",
+   "title": "Hotărârea Guvernului nr. 201/1992 privind decontarea la intern a cantităţilor de grîu importate în perioada 1 aprilie - 30 iunie 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2514",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2514",
+     "sha256": "39871cabd5cdcdb96829b09937d3e64154eb5079d6756283a4ecd09f39543757"
+    }
+   ]
+  },
+  {
+   "slug": "hg-202-1992",
+   "path": "hg/1992/202",
+   "short": "HG nr. 202/1992",
+   "title": "Hotărârea Guvernului nr. 202/1992 privind aprobarea Acordului cultural dintre Guvernul României şi Guvernul Republicii Coreea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94091",
+   "versions": [
+    {
+     "from": "1992-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94091",
+     "sha256": "a34118a62a04a663600429736e8d63c0afc85298992969898b880ed4d50667fc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-204-1992",
+   "path": "hg/1992/204",
+   "short": "HG nr. 204/1992",
+   "title": "Hotărârea Guvernului nr. 204/1992 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Gruzia cu privire la relaţiile comercial-economice şi colaborarea tehnico-stiintifica şi a Protocolului dintre Guvernul României şi Guvernul Republicii Gruzia privind schimburile de mărfuri şi plăţile pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94093",
+   "versions": [
+    {
+     "from": "1992-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94093",
+     "sha256": "7fd261075bd7067208322e9449f2906e70c2f5e3d583ebc4ad810d8b04e4e3df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-205-1992",
+   "path": "hg/1992/205",
+   "short": "HG nr. 205/1992",
+   "title": "Hotărârea Guvernului nr. 205/1992 pentru modificarea şi completarea Hotărîrii Guvernului nr. 715 din 10 octombrie 1991 privind scutirea de taxe vamăle a tehnicii de calcul destinate învăţămîntului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2515",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2515",
+     "sha256": "681f1a580fde0b6200c5a288fd45fd935f064bafbed15c9a7011610dba6f0fda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-206-1992",
+   "path": "hg/1992/206",
+   "short": "HG nr. 206/1992",
+   "title": "Hotărârea Guvernului nr. 206/1992 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94453",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94453",
+     "sha256": "d6561ebd093198e6f3379d0064fc3988cb3cf5ea1e5ee1fa8fc9032feb52243c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-207-1992",
+   "path": "hg/1992/207",
+   "short": "HG nr. 207/1992",
+   "title": "Hotărârea Guvernului nr. 207/1992 privind suplimentarea bugetului Ministerului Economiei şi Finanţelor pentru acordarea de despăgubiri în conformitate cu art. 504 Cod procedura penală",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2516",
+   "versions": [
+    {
+     "from": "1992-05-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2516",
+     "sha256": "a63c37bbc954e0a0d8a05cfdbad70ebf70ac78b253ed215ea03a75ecfd1d5317"
+    }
+   ]
+  },
+  {
+   "slug": "hg-209-1992",
+   "path": "hg/1992/209",
+   "short": "HG nr. 209/1992",
+   "title": "Hotărârea Guvernului nr. 209/1992 privind unele măsuri de achitare a datoriei României fata de Republica Federativă Cehă şi Slovacă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2518",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2518",
+     "sha256": "74baa9b0dc01e800bf5e863189b91a8098a7225ef9d2bd87fbafa87f292c79a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-210-1992",
    "path": "hg/1992/210",
    "short": "HG nr. 210/1992",
@@ -236,6 +1142,81 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2519",
      "sha256": "66ab5811be3ed332812b852be52c3aa56da8cde173a145ee8baa9b01d9af8d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-211-1992",
+   "path": "hg/1992/211",
+   "short": "HG nr. 211/1992",
+   "title": "Hotărârea Guvernului nr. 211/1992 privind modificarea unor prevederi din Hotărârea Guvernului nr. 336/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2520",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2520",
+     "sha256": "183d8ad20afc736e128b8dd511d258642bda4c8bf001dbee966f0ef58e228e93"
+    }
+   ]
+  },
+  {
+   "slug": "hg-212-1992",
+   "path": "hg/1992/212",
+   "short": "HG nr. 212/1992",
+   "title": "Hotărârea Guvernului nr. 212/1992 privind finanţarea obiectivului de investiţii \"Alimentarea cu apă a oraşului Predeal\", judeţul Braşov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94463",
+   "versions": [
+    {
+     "from": "1992-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94463",
+     "sha256": "6492a71ab894a38c2bcd595d0faa2549061d88f11b2fe419ee6f1552b256d340"
+    }
+   ]
+  },
+  {
+   "slug": "hg-213-1992",
+   "path": "hg/1992/213",
+   "short": "HG nr. 213/1992",
+   "title": "Hotărârea Guvernului nr. 213/1992 privind suplimentarea bugetului Ministerului Învăţămîntului şi Ştiinţei pentru desfăşurarea Conferinţei Internaţionale a Universitarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94464",
+   "versions": [
+    {
+     "from": "1992-05-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94464",
+     "sha256": "9e6ba46cb761641964a40d3799b42fe6cbf4ff9b25764bbec009062d20d72a10"
+    }
+   ]
+  },
+  {
+   "slug": "hg-214-1992",
+   "path": "hg/1992/214",
+   "short": "HG nr. 214/1992",
+   "title": "Hotărârea Guvernului nr. 214/1992 privind amînarea datei alegerii primarului din Circumscripţia electorală Tîrgu Mureş, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94454",
+   "versions": [
+    {
+     "from": "1992-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94454",
+     "sha256": "f297fd5cc87b5ccfe57ad016df2701ca99d417511f550803b75d2fdda8f0ce0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-217-1992",
+   "path": "hg/1992/217",
+   "short": "HG nr. 217/1992",
+   "title": "Hotărârea Guvernului nr. 217/1992 privind unele măsuri referitoare la Sala Cinemateca (Cinema \"Studio\")",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94066",
+   "versions": [
+    {
+     "from": "1992-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94066",
+     "sha256": "0621a05805f85a30b1da6e53ff16dd20d19c426094b448cf17cc5718f5797e19"
     }
    ]
   },
@@ -270,6 +1251,156 @@
    ]
   },
   {
+   "slug": "hg-22-1992",
+   "path": "hg/1992/22",
+   "short": "HG nr. 22/1992",
+   "title": "Hotărârea Guvernului nr. 22/1992 privind unele măsuri referitoare la salarizarea personalului din unităţile bugetare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2178",
+   "versions": [
+    {
+     "from": "1992-01-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2178",
+     "sha256": "d4c7fcbab17ad3d546724d4f5f3f5f1c54696d2c4de32a3729c8ea1a453a9eda"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1992",
+   "path": "hg/1992/225",
+   "short": "HG nr. 225/1992",
+   "title": "Hotărârea Guvernului nr. 225/1992 privind completarea Hotărîrii Guvernului nr. 407/1990 privind reglementarea unor drepturi ce se acordă salariaţilor din unităţile de cercetare, explorare, exploatare şi prelucrare a materiilor prime nucleare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2535",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2535",
+     "sha256": "a91348ca43b27c22e6b09169c14647230041353d769b82d2ceb842d2fbde1e80"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-1992",
+   "path": "hg/1992/226",
+   "short": "HG nr. 226/1992",
+   "title": "Hotărârea Guvernului nr. 226/1992 pentru organizarea oraşului Predeal ca staţiune climaterică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94074",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94074",
+     "sha256": "23d4a63e1717c6a65ce92bd6013851a1ad95b7f9b851472fc8a0add18edb230a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-1992",
+   "path": "hg/1992/227",
+   "short": "HG nr. 227/1992",
+   "title": "Hotărârea Guvernului nr. 227/1992 privind taxele pentru cererile de brevet de invenţie şi pentru brevetele de invenţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2539",
+   "versions": [
+    {
+     "from": "1992-05-22",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2539",
+     "sha256": "a1157710fac810e7df8cf27682d7f60bc65e3feb67df3aaee1afe31c9c06b6cf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-228-1992",
+   "path": "hg/1992/228",
+   "short": "HG nr. 228/1992",
+   "title": "Hotărârea Guvernului nr. 228/1992 privind protejarea producătorilor naţionali şi a pieţei interne de competiţia neloială rezultată din importul unor produse la preţ de dumping sau subventionat, precum şi de exportul la preţuri sub nivelul celor practicate pe piaţa internă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2540",
+   "versions": [
+    {
+     "from": "1992-06-17",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2540",
+     "sha256": "324ebac9c0cb095e8f06b2e1ddcbe96db1bf2afa130aa8497cade8586f25669e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-1992",
+   "path": "hg/1992/229",
+   "short": "HG nr. 229/1992",
+   "title": "Hotărârea Guvernului nr. 229/1992 privind înfiinţarea distribuţiilor de gaze naturale în unele localităţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2541",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2541",
+     "sha256": "778b35b861abc0dcba7b4761f46bdc6d4cdc7eb29e64f629a8a9b157b4636e03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-23-1992",
+   "path": "hg/1992/23",
+   "short": "HG nr. 23/1992",
+   "title": "Hotărârea Guvernului nr. 23/1992 privind finanţarea participării României la Expoziţia universală \"Era descoperirilor\" - Sevilla - 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2183",
+   "versions": [
+    {
+     "from": "1992-01-28",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2183",
+     "sha256": "004b7b45cdda39d5c487b98b9e8824e4538f2a3a8f8c59f8b3e4d789fdaddd89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-230-1992",
+   "path": "hg/1992/230",
+   "short": "HG nr. 230/1992",
+   "title": "Hotărârea Guvernului nr. 230/1992 pentru aprobarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Filipine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94096",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94096",
+     "sha256": "2eb194f4d2d7a70cb189a14b55d47a9e33ab691232e3bd4ed8d5248588fcc65e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-231-1992",
+   "path": "hg/1992/231",
+   "short": "HG nr. 231/1992",
+   "title": "Hotărârea Guvernului nr. 231/1992 pentru aprobarea Protocoalelor sesiunii a VIII-a a Comisiei mixte româno-venezuelene şi sesiunii a IV-a a Comisiei mixte româno-costaricane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2543",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2543",
+     "sha256": "55a7809fb096a10ed421948e88b2ae428486198a669dbae844bce562b4e9ac03"
+    }
+   ]
+  },
+  {
+   "slug": "hg-232-1992",
+   "path": "hg/1992/232",
+   "short": "HG nr. 232/1992",
+   "title": "Hotărârea Guvernului nr. 232/1992 pentru aprobarea Protocolului sesiunii a XI-a a Comisiei guvernamentale mixte de colaborare dintre România şi Republica Elena",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2545",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2545",
+     "sha256": "18bcda60d826a39c8d74fbf51e1cb4ccaadedc7fc7d308b23bec713d40a138a0"
+    }
+   ]
+  },
+  {
    "slug": "hg-233-1992",
    "path": "hg/1992/233",
    "short": "HG nr. 233/1992",
@@ -281,6 +1412,261 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2546",
      "sha256": "28a08ce183fbae7cdb1d617ca69bf6234be79c40ec06910e96178bcfb5a6af4c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-234-1992",
+   "path": "hg/1992/234",
+   "short": "HG nr. 234/1992",
+   "title": "Hotărârea Guvernului nr. 234/1992 privind cheltuielile ce derivă din obligaţiile părţii române potrivit Declaraţiei din 6 aprilie 1992 de la Chişinău a miniştrilor afacerilor externe ai Republicii Moldova, României, Federaţiei Ruse şi Ucrainei referitor la soluţionarea pe cale politică a conflictului din stînga Nistrului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2547",
+   "versions": [
+    {
+     "from": "1992-05-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2547",
+     "sha256": "1bdd873c7895b7d4caacd376a1e349fd04df3cd8337b2c08c6a952f065c49a29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-236-1992",
+   "path": "hg/1992/236",
+   "short": "HG nr. 236/1992",
+   "title": "Hotărârea Guvernului nr. 236/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Canal magistral Siret-Bărăgan, etapa I\", judeţul Vrancea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94075",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94075",
+     "sha256": "716b438abc357f9a7ac0249f8a72b6ada36de310cbbef0b99dbf6d8b6d79562e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-237-1992",
+   "path": "hg/1992/237",
+   "short": "HG nr. 237/1992",
+   "title": "Hotărârea Guvernului nr. 237/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Regularizarea rîului Călmăţui, etapa I şi etapa a II-a\", judeţul Buzău şi judeţul Brăila",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94076",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94076",
+     "sha256": "b5440d376e0adaa48be8e223c7aa711d98fb2ae23ebc28ca25e93b5dbb0a9aaf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-238-1992",
+   "path": "hg/1992/238",
+   "short": "HG nr. 238/1992",
+   "title": "Hotărârea Guvernului nr. 238/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Acumulare Siriu\", judeţul Buzău",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94077",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94077",
+     "sha256": "e8f082a4126966dc9dfd0ce0d3f2e9639889325557279dd945b4df04295982f3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-239-1992",
+   "path": "hg/1992/239",
+   "short": "HG nr. 239/1992",
+   "title": "Hotărârea Guvernului nr. 239/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Acumulare Dridu\", judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94078",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94078",
+     "sha256": "adea04a2ad1999812d2d6c7ae0e22339a04ee2e300629c5ea97ac954f8cc6331"
+    }
+   ]
+  },
+  {
+   "slug": "hg-24-1992",
+   "path": "hg/1992/24",
+   "short": "HG nr. 24/1992",
+   "title": "Hotărârea Guvernului nr. 24/1992 privind completarea articolului 4 şi modificarea articolului 5 din Hotărârea Guvernului nr. 728/1991 privind aprobarea înţelegerilor convenite între Ministerul Comerţului şi Turismului din România şi Ministerul Economiei şi Comerţului Exterior şi Ministerul Cooperării Internaţionale din Republica Arabă Egipt privind reglementarea datoriei scadente şi neîncasate la 31 decembrie 1990 a Republicii Arabe Egipt faţă de România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2186",
+   "versions": [
+    {
+     "from": "1992-02-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2186",
+     "sha256": "b2f16505dde7e40f0e1158a1220f6f1220a058ef84ae5824df46e999bfcd0c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-240-1992",
+   "path": "hg/1992/240",
+   "short": "HG nr. 240/1992",
+   "title": "Hotărârea Guvernului nr. 240/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Îndiguirea Dunării în zona Măcin-Isaccea-Tulcea (sectorul 23 August-Ciulineţ)\", judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94079",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94079",
+     "sha256": "e0fc6faa5cdfe83c3ceab8a9ebc4bc09f9bb4e319a201c2c02a77ec5f25234c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-241-1992",
+   "path": "hg/1992/241",
+   "short": "HG nr. 241/1992",
+   "title": "Hotărârea Guvernului nr. 241/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Regularizare braţ Sf. Gheorghe\", judeţul Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94080",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94080",
+     "sha256": "27a29e1c1d3cc736cf3f646a6f87a3575141b47a0a5c761e16cf75f9fe71d19d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-242-1992",
+   "path": "hg/1992/242",
+   "short": "HG nr. 242/1992",
+   "title": "Hotărârea Guvernului nr. 242/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Acumulare Rîuşor pe rîul Tîrgului\", judeţul Argeş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94081",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94081",
+     "sha256": "8bc157141b643fcbb04f72ab96f80f2cfdd37dc95bd8884a079b88c960bdf51d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-243-1992",
+   "path": "hg/1992/243",
+   "short": "HG nr. 243/1992",
+   "title": "Hotărârea Guvernului nr. 243/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Acumulare Bolboci\", judeţul Dîmboviţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94082",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94082",
+     "sha256": "f7c9271f4da2d828c430c5ac156214fa4b36d48d8cda5c3d5eea3941c32e6e71"
+    }
+   ]
+  },
+  {
+   "slug": "hg-244-1992",
+   "path": "hg/1992/244",
+   "short": "HG nr. 244/1992",
+   "title": "Hotărârea Guvernului nr. 244/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Consolidarea şi protecţia litoralului Nord Midia, etapa I\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94083",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94083",
+     "sha256": "14c658f388fb00ff8c59b85aedf656fd09921e1e3fa952afb263ce0fd3eec22e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-1992",
+   "path": "hg/1992/245",
+   "short": "HG nr. 245/1992",
+   "title": "Hotărârea Guvernului nr. 245/1992 privind aprobarea componenţei Comisiei de recepţie pentru obiectivul de investiţii \"Amenajarea rîului Ialomiţa, zona I Dunăre-Slobozia\", judeţul Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94084",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94084",
+     "sha256": "298998e1223728adedb0d9f2dd8f1855e9cc6c7ccdefd46ac4b6690fd4aca189"
+    }
+   ]
+  },
+  {
+   "slug": "hg-246-1992",
+   "path": "hg/1992/246",
+   "short": "HG nr. 246/1992",
+   "title": "Hotărârea Guvernului nr. 246/1992 pentru aprobarea hotărîrilor cuprinse în Protocolul celei de-a V-a sesiuni a Comisiei mixte hidrotehnice româno-ungare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2557",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2557",
+     "sha256": "e3631c82bb44d8a6a01107805a79c6c6d617f83f33aa542043fc2c3f217a60f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-1992",
+   "path": "hg/1992/247",
+   "short": "HG nr. 247/1992",
+   "title": "Hotărârea Guvernului nr. 247/1992 privind autorizarea funcţionării în România a persoanei juridice de drept privat \"Project Concern Internaţional\" - Filiala Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2559",
+   "versions": [
+    {
+     "from": "1992-05-29",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2559",
+     "sha256": "6a17528bc77689e80d33a8702eabad220ebd37b13a13d6739ced7716e76075df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-248-1992",
+   "path": "hg/1992/248",
+   "short": "HG nr. 248/1992",
+   "title": "Hotărârea Guvernului nr. 248/1992 pentru modificarea şi completarea Hotărîrii Guvernului nr. 794/1991 cu privire la drepturile ce se acordă împuterniciţilor statului, administratorilor şi cenzorilor de la societăţile comerciale cu capital integral de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2561",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2561",
+     "sha256": "2199b16cdda72dc3103b957a44b965df3f538f2f798de9a22c76201942e7471c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-25-1992",
+   "path": "hg/1992/25",
+   "short": "HG nr. 25/1992",
+   "title": "Hotărârea Guvernului nr. 25/1992 pentru modificarea Hotărîrii Guvernului nr. 328/1991 privind organizarea şi funcţionarea Ministerului Economiei şi Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2189",
+   "versions": [
+    {
+     "from": "1992-02-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2189",
+     "sha256": "95d26387db6f8e6dc69affa4b33dce89f586e9ac516a8e4c175a3652257a927d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-251-1992",
+   "path": "hg/1992/251",
+   "short": "HG nr. 251/1992",
+   "title": "Hotărârea Guvernului nr. 251/1992 privind completarea prevederilor Hotărîrii Guvernului nr. 559/1990 privind acordarea unor drepturi personalului din industria chimica şi petrochimică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2567",
+   "versions": [
+    {
+     "from": "1992-06-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2567",
+     "sha256": "c29737b4d37b05d458daa94bca781be87b84b73002224527cc71c2651ab27b6b"
     }
    ]
   },
@@ -315,6 +1701,66 @@
    ]
   },
   {
+   "slug": "hg-255-1992",
+   "path": "hg/1992/255",
+   "short": "HG nr. 255/1992",
+   "title": "Hotărârea Guvernului nr. 255/1992 privind acordarea unor burse pentru pregătirea şi perfecţionarea profesională în România a unor specialişti din cadrul Cancelariei de Stat a Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2571",
+   "versions": [
+    {
+     "from": "1992-05-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2571",
+     "sha256": "9d6c7ba004a89021e53805c449e264beab103455f8c20f1ff50bf8a21cec161f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-1992",
+   "path": "hg/1992/256",
+   "short": "HG nr. 256/1992",
+   "title": "Hotărârea Guvernului nr. 256/1992 privind numirea prefectului judeţului Hunedoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93786",
+   "versions": [
+    {
+     "from": "1992-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93786",
+     "sha256": "f4ede63ed46cb2a7770642b14ea3bb6f2cc391c1ddda1d0c548dc6f3ab746e4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-257-1992",
+   "path": "hg/1992/257",
+   "short": "HG nr. 257/1992",
+   "title": "Hotărârea Guvernului nr. 257/1992 privind tarifele de cazare şi pentru alte prestaţii turistice, pentru cetăţenii Republicii Moldova care călătoresc în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2572",
+   "versions": [
+    {
+     "from": "1992-05-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2572",
+     "sha256": "519e969db9d50e166624c439b65d8c347512f9ede6a1a5fcb6509e3db2ef3d79"
+    }
+   ]
+  },
+  {
+   "slug": "hg-259-1992",
+   "path": "hg/1992/259",
+   "short": "HG nr. 259/1992",
+   "title": "Hotărârea Guvernului nr. 259/1992 privind stabilirea datei alegerii primarului din Circumscripţia electorală Tîrgu Mureş, judeţul Mureş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93787",
+   "versions": [
+    {
+     "from": "1992-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93787",
+     "sha256": "5298b14c81029bb734645e44f567f2aa7c8cd99baf9eb76936e9f56c5851a85d"
+    }
+   ]
+  },
+  {
    "slug": "hg-26-1992",
    "path": "hg/1992/26",
    "short": "HG nr. 26/1992",
@@ -326,6 +1772,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2192",
      "sha256": "f901ff7f91622d1eacd561b435655e69bc64c1dd93f67d1250f929d87773b5b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-261-1992",
+   "path": "hg/1992/261",
+   "short": "HG nr. 261/1992",
+   "title": "Hotărârea Guvernului nr. 261/1992 privind garantarea creditelor acordate Băncii Comerciale Române - S.A. de către EFIBANCA - Italia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2576",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2576",
+     "sha256": "3d6520e39f862e9b7ff77691e49425ff7287d41fb90f9d26893c57d44a541805"
     }
    ]
   },
@@ -345,6 +1806,81 @@
    ]
   },
   {
+   "slug": "hg-266-1992",
+   "path": "hg/1992/266",
+   "short": "HG nr. 266/1992",
+   "title": "Hotărârea Guvernului nr. 266/1992 privind instituirea pazei militare la Societatea Comercială \"Universalcoop\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2581",
+   "versions": [
+    {
+     "from": "1992-05-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2581",
+     "sha256": "c8f013776bc042bb65f8c709d2a5f37420850c096006bb2d8ce90f6148317cdc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-269-1992",
+   "path": "hg/1992/269",
+   "short": "HG nr. 269/1992",
+   "title": "Hotărârea Guvernului nr. 269/1992 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind colaborarea în vederea pregătirii şi perfecţionării de specialişti şi factori de conducere din economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2584",
+   "versions": [
+    {
+     "from": "1992-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2584",
+     "sha256": "10603b6652d23fa668cad3cb315fd03b13136d6768224bf45a44c4fc28bef27b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-27-1992",
+   "path": "hg/1992/27",
+   "short": "HG nr. 27/1992",
+   "title": "Hotărârea Guvernului nr. 27/1992 cu privire la stabilirea tarifelor orare şi a salariilor de bază în cazul desfăşurării unor activităţi plătite cu ora sau prin cumul de funcţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2196",
+   "versions": [
+    {
+     "from": "1992-02-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2196",
+     "sha256": "4f3f236e013f01e0aef536243ea052f761897833ef464488edb7c56e26d41868"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-1992",
+   "path": "hg/1992/270",
+   "short": "HG nr. 270/1992",
+   "title": "Hotărârea Guvernului nr. 270/1992 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Belarus cu privire la relaţiile comercial-economice şi colaborarea tehnico-ştiinţifică şi a Protocolului dintre Guvernul României şi Guvernul Republicii Belarus cu privire la comerţ şi plăti în anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2586",
+   "versions": [
+    {
+     "from": "1992-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2586",
+     "sha256": "39042f67fcd88d6cca9c41560fd369bfd0de2f311fb278035c97984d0b55bab4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-271-1992",
+   "path": "hg/1992/271",
+   "short": "HG nr. 271/1992",
+   "title": "Hotărârea Guvernului nr. 271/1992 privind eliberarea domnului Cevei Ilie din funcţia de prefect al judeţului Teleorman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94070",
+   "versions": [
+    {
+     "from": "1992-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94070",
+     "sha256": "a02abfff84aae7461d56e02c59bcee98795b6426dd0c25a7ac29592965508b2e"
+    }
+   ]
+  },
+  {
    "slug": "hg-272-1992",
    "path": "hg/1992/272",
    "short": "HG nr. 272/1992",
@@ -356,6 +1892,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94071",
      "sha256": "4214500564e178be62d648c9bcbedccb8317052b3307987309b04af0dcbb3fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-273-1992",
+   "path": "hg/1992/273",
+   "short": "HG nr. 273/1992",
+   "title": "Hotărârea Guvernului nr. 273/1992 privind importul de grîu pentru panificaţie necesar consumului pînă la noua recolta",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2588",
+   "versions": [
+    {
+     "from": "1992-06-10",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2588",
+     "sha256": "769fdff57d5638ca6c7abec07ed6e3f480382967eebc94bf1a4420712f449cab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-274-1992",
+   "path": "hg/1992/274",
+   "short": "HG nr. 274/1992",
+   "title": "Hotărârea Guvernului nr. 274/1992 privind importul unor materii prime furajere, boabe soia şi ulei brut de floarea-soarelui în perioada mai-august 1992 şi modul de decontare la intern a cantităţilor respective",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2589",
+   "versions": [
+    {
+     "from": "1992-06-17",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2589",
+     "sha256": "61c313f12008bc47ca8290ae5c5c83f536c50e5c58c849308fbff1e3b4a5a13d"
     }
    ]
   },
@@ -375,6 +1941,51 @@
    ]
   },
   {
+   "slug": "hg-276-1992",
+   "path": "hg/1992/276",
+   "short": "HG nr. 276/1992",
+   "title": "Hotărârea Guvernului nr. 276/1992 privind acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16116",
+   "versions": [
+    {
+     "from": "1992-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16116",
+     "sha256": "2ef1ce9e1285e77381c5d0b2a5a905a541df0c14931fbd13d545f703c3bdfd90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-277-1992",
+   "path": "hg/1992/277",
+   "short": "HG nr. 277/1992",
+   "title": "Hotărârea Guvernului nr. 277/1992 privind unele măsuri pentru corelarea pensiilor cu salariile şi corectarea raporturilor între unele categorii de pensii de asigurări sociale de stat, militare şi I.O.V.R",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2590",
+   "versions": [
+    {
+     "from": "1992-06-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2590",
+     "sha256": "ee8bed8777df6bd3a8981645e3cf84160b20473a82f7720c3443f63b9be6e981"
+    }
+   ]
+  },
+  {
+   "slug": "hg-278-1992",
+   "path": "hg/1992/278",
+   "short": "HG nr. 278/1992",
+   "title": "Hotărârea Guvernului nr. 278/1992 privind alocarea fondurilor necesare pregătirii cadrelor militare, studenţilor, elevilor şi militarilor în termen din Republica Moldova în instituţii de învăţămînt şi unităţi ale Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2591",
+   "versions": [
+    {
+     "from": "1992-06-08",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2591",
+     "sha256": "f4ac13e79ed409abcd099859ff5a6ccf9486cea538fa91a9491f087521d183cf"
+    }
+   ]
+  },
+  {
    "slug": "hg-279-1992",
    "path": "hg/1992/279",
    "short": "HG nr. 279/1992",
@@ -386,6 +1997,186 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2592",
      "sha256": "7c10b223634e89a4e90fbfe4d6eda93ed71688aa28b15a7403f1b5494347a9da"
+    }
+   ]
+  },
+  {
+   "slug": "hg-28-1992",
+   "path": "hg/1992/28",
+   "short": "HG nr. 28/1992",
+   "title": "Hotărârea Guvernului nr. 28/1992 privind crearea Comitetului Interministerial pentru Relaţiile României cu Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2199",
+   "versions": [
+    {
+     "from": "1992-02-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2199",
+     "sha256": "34f4210839f1e55313daceb08d0d0cc49e8d8ec46365a8951fc0ca4925a98607"
+    }
+   ]
+  },
+  {
+   "slug": "hg-280-1992",
+   "path": "hg/1992/280",
+   "short": "HG nr. 280/1992",
+   "title": "Hotărârea Guvernului nr. 280/1992 privind îmbunătăţirea activităţii în punctele de control pentru trecerea frontierei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2593",
+   "versions": [
+    {
+     "from": "1992-06-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2593",
+     "sha256": "41491a1f29154a0f950ba54a5f13e9649a213aa8bcd46df8bca02fc095e486fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-281-1992",
+   "path": "hg/1992/281",
+   "short": "HG nr. 281/1992",
+   "title": "Hotărârea Guvernului nr. 281/1992 privind autorizarea funcţionării în România a persoanei juridice de drept privat \"The Constantin Brîncuşi Internaţional Foundation, Inc.\", prin înfiinţarea unei filiale a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2594",
+   "versions": [
+    {
+     "from": "1992-06-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2594",
+     "sha256": "32243ea87c162400af9c79c90af7c3a5338880c96a5e517358b454f2b02a9f6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-282-1992",
+   "path": "hg/1992/282",
+   "short": "HG nr. 282/1992",
+   "title": "Hotărârea Guvernului nr. 282/1992 privind autorizarea funcţionării în România a persoanei juridice de drept privat \"The Romanian Atheneum Internaţional Foundation, Inc.\", prin înfiinţarea unei filiale a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2595",
+   "versions": [
+    {
+     "from": "1992-06-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2595",
+     "sha256": "62edb6dbd8a71679676de26b9df346c8dfcbf9decc26af2b2ec3d03ce273e9ea"
+    }
+   ]
+  },
+  {
+   "slug": "hg-283-1992",
+   "path": "hg/1992/283",
+   "short": "HG nr. 283/1992",
+   "title": "Hotărârea Guvernului nr. 283/1992 privind transmiterea în administrarea Ministerului Apărării Naţionale a bazei materiale de instructie a garzilor naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94114",
+   "versions": [
+    {
+     "from": "1992-06-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94114",
+     "sha256": "8fd7cb6fa524627c0b33c57c20dcaca6c8bb9ceb87427ab5e539fc6494ee36a4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-284-1992",
+   "path": "hg/1992/284",
+   "short": "HG nr. 284/1992",
+   "title": "Hotărârea Guvernului nr. 284/1992 privind stabilirea datei pentru alegerea unor primari",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94135",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94135",
+     "sha256": "bd9172a5b8afe49114465e4530adb8b2f5e433ce26812481e791e691185b3699"
+    }
+   ]
+  },
+  {
+   "slug": "hg-285-1992",
+   "path": "hg/1992/285",
+   "short": "HG nr. 285/1992",
+   "title": "Hotărârea Guvernului nr. 285/1992 privind unele măsuri pentru fundamentarea cheltuielilor de personal pe anul 1993 la instituţiile publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2596",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2596",
+     "sha256": "b21f356886af911576c0fff96836517294f2837ff06ae7927f43558b468d085a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-286-1992",
+   "path": "hg/1992/286",
+   "short": "HG nr. 286/1992",
+   "title": "Hotărârea Guvernului nr. 286/1992 privind constituirea fondului de modernizare a bazei tehnico-materiale a sistemului naţional de telecomunicaţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2597",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2597",
+     "sha256": "c3357550d34ab9818ef2c7ea903012660876bee4ebf890abfd70128cf4ca9d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-288-1992",
+   "path": "hg/1992/288",
+   "short": "HG nr. 288/1992",
+   "title": "Hotărârea Guvernului nr. 288/1992 privind înfiinţarea Universitatii Targoviste şi a Universitatii \"Constantin Brâncuşi\" Tirgu Jiu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51975",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51975",
+     "sha256": "4e47f1ef7db882a15950316ec19d5fe55caef90a507692e6b0cb0a4b81173e5e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-289-1992",
+   "path": "hg/1992/289",
+   "short": "HG nr. 289/1992",
+   "title": "Hotărârea Guvernului nr. 289/1992 privind înfiinţarea de societăţi comerciale pe acţiuni prin reorganizarea Institutului de Cercetari şi Proiectari Electrotehnice Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94276",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94276",
+     "sha256": "6b2e63e75c4b4a0c7f3b9162b7913529d9dc5cac475604840490ec3a54340948"
+    }
+   ]
+  },
+  {
+   "slug": "hg-291-1992",
+   "path": "hg/1992/291",
+   "short": "HG nr. 291/1992",
+   "title": "Hotărârea Guvernului nr. 291/1992 privind aprobarea Actelor finale ale Conferinţei administrative mondiale de radiocomunicaţii (C.A.M.R. - 92)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2599",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2599",
+     "sha256": "173b2c9554872b543ea3a3c2046d7f4cdc647e8795f2346f1c34921b4a7580ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-292-1992",
+   "path": "hg/1992/292",
+   "short": "HG nr. 292/1992",
+   "title": "Hotărârea Guvernului nr. 292/1992 privind trecerea unui imobil în proprietatea Regiei Autonome a Loteriilor şi Pronosticurilor Sportive din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51974",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51974",
+     "sha256": "b60067610e9e1ebe55e24af4ecb5377faee20a42c1e95df36bce3deff6e52a79"
     }
    ]
   },
@@ -405,6 +2196,201 @@
    ]
   },
   {
+   "slug": "hg-295-1992",
+   "path": "hg/1992/295",
+   "short": "HG nr. 295/1992",
+   "title": "Hotărârea Guvernului nr. 295/1992 privind aprobarea Acordului-cadru de cooperare dintre Guvernul României şi Fondul Naţiunilor Unite pentru Copii (UNICEF), precum şi a înţelegerii realizate prin schimbul de scrisori între Ministerul Afacerilor Externe şi UNICEF",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2602",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2602",
+     "sha256": "e723be5db3038b530785b112e3eda1c6946a511e0e10fbfbd941de4179c14586"
+    }
+   ]
+  },
+  {
+   "slug": "hg-296-1992",
+   "path": "hg/1992/296",
+   "short": "HG nr. 296/1992",
+   "title": "Hotărârea Guvernului nr. 296/1992 privind mecanismul de urmărire a obligaţiilor asumate de partea română şi de stimulare a agenţilor economici pentru rambursarea creditului comercial acordat de către Guvernul Republicii Populare Chineze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2603",
+   "versions": [
+    {
+     "from": "1992-06-19",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2603",
+     "sha256": "8db9e9e43b8c594ea1edd49e273acb082ad9ad59d388a30fbeacd23cf46df39c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-297-1992",
+   "path": "hg/1992/297",
+   "short": "HG nr. 297/1992",
+   "title": "Hotărârea Guvernului nr. 297/1992 privind aprobarea Programului de protecţie socială a elevilor şi studenţilor de la învăţămîntul de stat - cursuri de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2604",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2604",
+     "sha256": "207e103c0f058063bdcbd1f70d95013c353dbdd02d168844de4054fe8b9d99b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-298-1992",
+   "path": "hg/1992/298",
+   "short": "HG nr. 298/1992",
+   "title": "Hotărârea Guvernului nr. 298/1992 privind recuperarea creanţelor externe ale României asupra Boliviei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2605",
+   "versions": [
+    {
+     "from": "1992-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2605",
+     "sha256": "9d393d77f47b973da009b47c6568e8721ff4cfef1cd126b56c280e8c2ed3320e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-299-1992",
+   "path": "hg/1992/299",
+   "short": "HG nr. 299/1992",
+   "title": "Hotărârea Guvernului nr. 299/1992 privind modificarea Hotărîrii Guvernului nr. 428 din 23 aprilie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2606",
+   "versions": [
+    {
+     "from": "1992-06-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2606",
+     "sha256": "26bcc54552e0a051f7e94da5c3b6f4111e5a703bfd2b32f23ddd814e6a5d1183"
+    }
+   ]
+  },
+  {
+   "slug": "hg-3-1992",
+   "path": "hg/1992/3",
+   "short": "HG nr. 3/1992",
+   "title": "Hotărârea Guvernului nr. 3/1992 privind cursul de transformare în lei pentru operaţiuni vamăle şi evaluare în vamă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2084",
+   "versions": [
+    {
+     "from": "1992-02-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2084",
+     "sha256": "7f0b066b26018b972036117e93045a77b8d34605c88e7c408ef987a2791c41ce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-30-1992",
+   "path": "hg/1992/30",
+   "short": "HG nr. 30/1992",
+   "title": "Hotărârea Guvernului nr. 30/1992 privind aprobarea Acordului dintre Guvernul României şi Guvernul Regatului Unit al Marii Britanii şi Irlandei de Nord de colaborare în domeniul medicinii şi ocrotirii sănătăţii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2204",
+   "versions": [
+    {
+     "from": "1992-02-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2204",
+     "sha256": "e3918680e2778499802f70926fd69bc40e3a47f814ea68aedd5fd55ae41266ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-301-1992",
+   "path": "hg/1992/301",
+   "short": "HG nr. 301/1992",
+   "title": "Hotărârea Guvernului nr. 301/1992 privind înfiinţarea unor societăţi comerciale prin desprinderea unor subunităţi din cadrul Regiei Autonome pentru Metale Rare Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2608",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2608",
+     "sha256": "c5e84417e54cfe9111c31f6d19aad7465f51d0a970a6ad068b4ce35bd1b17852"
+    }
+   ]
+  },
+  {
+   "slug": "hg-302-1992",
+   "path": "hg/1992/302",
+   "short": "HG nr. 302/1992",
+   "title": "Hotărârea Guvernului nr. 302/1992 privind înfiinţarea unor societăţi comerciale prin desprinderea unor subunităţi din cadrul Regiei Autonome a Nemetaliferelor Cluj",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2609",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2609",
+     "sha256": "4390e80502281354bcd07f8d3f2f141eb0288d8cf7d85869e84ff88e55c40ddb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-303-1992",
+   "path": "hg/1992/303",
+   "short": "HG nr. 303/1992",
+   "title": "Hotărârea Guvernului nr. 303/1992 privind înfiinţarea unor societăţi comerciale prin desprinderea unor subunităţi din cadrul Regiei Autonome a Cuprului Deva",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2610",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2610",
+     "sha256": "b0427f73725308f29c3c8943078323ccece88c2183c6b41cc0f00833d7e12f3c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-304-1992",
+   "path": "hg/1992/304",
+   "short": "HG nr. 304/1992",
+   "title": "Hotărârea Guvernului nr. 304/1992 privind înfiinţarea unor societăţi comerciale prin desprinderea unor subunităţi din cadrul Regiei Autonome a Plumbului şi Zincului Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2611",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2611",
+     "sha256": "e095a75b02969bff084f463689642ef565c54e284a03dc549d754f56471f9ae2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-305-1992",
+   "path": "hg/1992/305",
+   "short": "HG nr. 305/1992",
+   "title": "Hotărârea Guvernului nr. 305/1992 privind înfiinţarea unei societăţi comerciale prin desprinderea unei subunităţi din cadrul Regiei Autonome de Exploatare, Transport şi Prelucrare Primara a Lemnului \"Sudrel\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2612",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2612",
+     "sha256": "e665c50a38df805fe1bddc1e95fe9e8b1329645f0123e2897ce4ed0bd961505b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-306-1992",
+   "path": "hg/1992/306",
+   "short": "HG nr. 306/1992",
+   "title": "Hotărârea Guvernului nr. 306/1992 privind înfiinţarea unei societăţi comerciale prin desprinderea unei subunităţi din cadrul Regiei Autonome de Exploatare, Transport şi Prelucrare Primara a Lemnului \"Estrel\" Suceava",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2613",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2613",
+     "sha256": "cf432e82e5b1d311d383872bc77eb843559d06ec6a4d48de325853da8f812870"
+    }
+   ]
+  },
+  {
    "slug": "hg-307-1992",
    "path": "hg/1992/307",
    "short": "HG nr. 307/1992",
@@ -416,6 +2402,36 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2614",
      "sha256": "1e184f50f113f6e740dc830990dcadef97e6ea642e19657f053e024cc03385ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-309-1992",
+   "path": "hg/1992/309",
+   "short": "HG nr. 309/1992",
+   "title": "Hotărârea Guvernului nr. 309/1992 privind reorganizarea Regiei Autonome a Petrolului \"Petrom\" Bucureşti, prin desprinderea unor subunităţi din structura sa, care se organizează ca societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2616",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2616",
+     "sha256": "a5cef1ba43dc0f86be084a31b2fad20ad6e32a0b93b9b77dd863258fba127c8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-311-1992",
+   "path": "hg/1992/311",
+   "short": "HG nr. 311/1992",
+   "title": "Hotărârea Guvernului nr. 311/1992 pentru modificarea Regulamentului privind procedura de constituire, atribuţiile şi funcţionarea comisiilor pentru stabilirea dreptului de proprietate privată asupra terenurilor, a modelului şi modului de atribuire a titlurilor de proprietate, precum şi punerea în posesie a proprietarilor, aprobat prin Hotărârea Guvernului nr. 131/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2617",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2617",
+     "sha256": "5bffac1d5912af50783e4d6a7d59443137be754716327eeec0480969495a50bb"
     }
    ]
   },
@@ -435,6 +2451,81 @@
    ]
   },
   {
+   "slug": "hg-314-1992",
+   "path": "hg/1992/314",
+   "short": "HG nr. 314/1992",
+   "title": "Hotărârea Guvernului nr. 314/1992 cu privire la corelarea salariilor personalului încadrat în baza prevederilor Hotărîrii Guvernului nr. 307/1991 cu nivelul salariilor de la societăţile comerciale şi regiile autonome, precum şi pentru modificarea şi completarea anexelor nr. 1-12 la hotărîrea menţionată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2619",
+   "versions": [
+    {
+     "from": "1992-07-08",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2619",
+     "sha256": "ffe7834cbfd26b0db8e0fb9e24d996be72cdb23728dca0e862fc1f5b21d79c63"
+    }
+   ]
+  },
+  {
+   "slug": "hg-315-1992",
+   "path": "hg/1992/315",
+   "short": "HG nr. 315/1992",
+   "title": "Hotărârea Guvernului nr. 315/1992 pentru modificarea şi completarea unor prevederi ale Hotărîrii Guvernului nr. 530/1991 şi a anexelor nr. I, III şi VII, privind înfiinţarea de regii autonome şi societăţi comerciale în domeniul cinematografiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49157",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49157",
+     "sha256": "34e0a49340a4a84b37632e429d1d7284f03c147bf72c18931df1d90a1bc56dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-317-1992",
+   "path": "hg/1992/317",
+   "short": "HG nr. 317/1992",
+   "title": "Hotărârea Guvernului nr. 317/1992 pentru aprobarea Protocolului sesiunii a XI-a a Comisiei mixte guvernamentale de cooperare economică şi industriala dintre România şi Spania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2620",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2620",
+     "sha256": "1c9d6c0e576d7a46757cf40c400f3ecafa826daa1ccf6323c4bf662e2c0b27b7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-318-1992",
+   "path": "hg/1992/318",
+   "short": "HG nr. 318/1992",
+   "title": "Hotărârea Guvernului nr. 318/1992 pentru completarea Hotărîrii Guvernului nr. 773/1991 privind stabilirea preţurilor de vînzare cu amănuntul ale carburanţilor, modificată prin Hotărârea Guvernului nr. 100/1992 şi a cărei valabilitate se prelungeşte pînă la sfîrşitul anului 1992 potrivit Hotărîrii Guvernului nr. 173/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2621",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2621",
+     "sha256": "d29715fe1a28b84db763bd04fada9e864747229cf1ed0949266f5429f453930e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-319-1992",
+   "path": "hg/1992/319",
+   "short": "HG nr. 319/1992",
+   "title": "Hotărârea Guvernului nr. 319/1992 privind dotarea şi utilizarea de către agenţii economici a balanţelor cu afişaj electronic şi a aparatelor de marcat electronice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2622",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2622",
+     "sha256": "47cb8f5b51bfd78e09b19216b3b3f73893acdbfa72a8080ed3e85340b21eb3fb"
+    }
+   ]
+  },
+  {
    "slug": "hg-32-1992",
    "path": "hg/1992/32",
    "short": "HG nr. 32/1992",
@@ -446,6 +2537,66 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2210",
      "sha256": "ee079e89bb86485079e7b1d585206400583048f4f24eb254bdf53be10bc26042"
+    }
+   ]
+  },
+  {
+   "slug": "hg-320-1992",
+   "path": "hg/1992/320",
+   "short": "HG nr. 320/1992",
+   "title": "Hotărârea Guvernului nr. 320/1992 privind majorarea cu 10% a plafonului creditului tehnic aprobat prin Hotărârea Guvernului nr. 777/1991, acordat pentru operaţiuni comerciale în cliring cu Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2624",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2624",
+     "sha256": "fa197d5ebd2cee054e52e03ca8e9bb8b9ecb6a9f9c3f0912856f9db92683964e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-321-1992",
+   "path": "hg/1992/321",
+   "short": "HG nr. 321/1992",
+   "title": "Hotărârea Guvernului nr. 321/1992 privind acordarea garanţiei statului pentru creditul extern în favoarea Societăţii Comerciale \"Contransimex\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49158",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49158",
+     "sha256": "e1d5e4ef2c52cc28dcd349db11e3e148e8f03a76a37eeba6ee63e731a32b79c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-1992",
+   "path": "hg/1992/322",
+   "short": "HG nr. 322/1992",
+   "title": "Hotărârea Guvernului nr. 322/1992 privind înfiinţarea de societăţi comerciale prin desprinderea unor activităţi din cadrul Regiei Autonome de Electricitate \"Renel\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2625",
+   "versions": [
+    {
+     "from": "1992-08-05",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2625",
+     "sha256": "4a487d0ffc57a5216eef113e38f93200060f61b634ac1f52c5f6b9d2a85bc3b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-324-1992",
+   "path": "hg/1992/324",
+   "short": "HG nr. 324/1992",
+   "title": "Hotărârea Guvernului nr. 324/1992 pentru aprobarea Protocolului dintre Guvernul României şi Guvernul Republicii Finlanda",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2627",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2627",
+     "sha256": "43387586f78a6e26d22ae7e1f32ee6afc20574dacf4533e2fdcb59476da54742"
     }
    ]
   },
@@ -465,6 +2616,36 @@
    ]
   },
   {
+   "slug": "hg-327-1992",
+   "path": "hg/1992/327",
+   "short": "HG nr. 327/1992",
+   "title": "Hotărârea Guvernului nr. 327/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31216",
+   "versions": [
+    {
+     "from": "1992-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31216",
+     "sha256": "1fc8862254b991a67508fdc1cb54e4b08da85022037c6ddda900b8f10c295fcb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-328-1992",
+   "path": "hg/1992/328",
+   "short": "HG nr. 328/1992",
+   "title": "Hotărârea Guvernului nr. 328/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31215",
+   "versions": [
+    {
+     "from": "1992-06-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31215",
+     "sha256": "9d93f30444391518d341e5f5c6f7907402a9632016173f7f41aacd8cf93abb32"
+    }
+   ]
+  },
+  {
    "slug": "hg-329-1992",
    "path": "hg/1992/329",
    "short": "HG nr. 329/1992",
@@ -476,6 +2657,81 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2629",
      "sha256": "2e44483918a16dc6c6488287ec097d0435002a9fda7b8f0fd1463a63bb7870ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-33-1992",
+   "path": "hg/1992/33",
+   "short": "HG nr. 33/1992",
+   "title": "Hotărârea Guvernului nr. 33/1992 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31960",
+   "versions": [
+    {
+     "from": "1992-02-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31960",
+     "sha256": "e805550351b39fda1a342e966f6eb72eeaac786e80b55a3755fed9371dec64f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-330-1992",
+   "path": "hg/1992/330",
+   "short": "HG nr. 330/1992",
+   "title": "Hotărârea Guvernului nr. 330/1992 privind constituirea şi utilizarea de către Ministerul Apărării Naţionale a fondului special extrabugetar destinat acoperirii unor nevoi de cheltuieli materiale şi de capital pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2630",
+   "versions": [
+    {
+     "from": "1992-07-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2630",
+     "sha256": "d1cf6234762f4a4f7123e1cccad8d048ae044846d82d5d3a7d0adfe6cb8fec85"
+    }
+   ]
+  },
+  {
+   "slug": "hg-332-1992",
+   "path": "hg/1992/332",
+   "short": "HG nr. 332/1992",
+   "title": "Hotărârea Guvernului nr. 332/1992 privind suplimentarea efectivelor Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49160",
+   "versions": [
+    {
+     "from": "1992-06-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49160",
+     "sha256": "dd32ad6f5a2a581be25d5981d100456d502a97762100984728d1c7ef35b02e6c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-333-1992",
+   "path": "hg/1992/333",
+   "short": "HG nr. 333/1992",
+   "title": "Hotărârea Guvernului nr. 333/1992 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Franceze cu privire la cooperarea şi schimburile în domeniul tineretului şi sporturilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2632",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2632",
+     "sha256": "b005aa7b54521e00283e98365c6f14be8660d8d778377595d6bef3652c21ca6f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-334-1992",
+   "path": "hg/1992/334",
+   "short": "HG nr. 334/1992",
+   "title": "Hotărârea Guvernului nr. 334/1992 pentru modificarea unor prevederi ale regulamentelor de organizare şi funcţionare ale regiilor autonome de resortul Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2633",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2633",
+     "sha256": "7990dd5a26046fdadb69f149b73eadd7c7ecabb6c0c0f2c90608461b18e16858"
     }
    ]
   },
@@ -495,6 +2751,186 @@
    ]
   },
   {
+   "slug": "hg-336-1992",
+   "path": "hg/1992/336",
+   "short": "HG nr. 336/1992",
+   "title": "Hotărârea Guvernului nr. 336/1992 pentru modificarea şi completarea Hotărîrii Guvernului nr. 264/1991 privind organizarea şi funcţionarea Ministerului Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2636",
+   "versions": [
+    {
+     "from": "1992-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2636",
+     "sha256": "dcec719e4251afe6f6b497855cbc2f484c86e6307bdeccfb3f65ab9214694f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-1992",
+   "path": "hg/1992/337",
+   "short": "HG nr. 337/1992",
+   "title": "Hotărârea Guvernului nr. 337/1992 privind folosirea temporară a unor terenuri forestiere în alte scopuri decît producţia silvică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2637",
+   "versions": [
+    {
+     "from": "1992-07-13",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2637",
+     "sha256": "f16b52ede40d38b96cdb75add39d691df39464d979f1058314bd1a729662c5d4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-339-1992",
+   "path": "hg/1992/339",
+   "short": "HG nr. 339/1992",
+   "title": "Hotărârea Guvernului nr. 339/1992 pentru aprobarea Protocolului sesiunii a VI-a a Comisiei mixte româno-chiliene şi a acordurilor comerciale şi de cooperare economică şi tehnică dintre Guvernul României şi Guvernul Republicii Ecuador",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49161",
+   "versions": [
+    {
+     "from": "1992-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49161",
+     "sha256": "3f6c2d3d676cf057ac9d70ff21bf6a31a792445c4ea53f8470f2b2df01390599"
+    }
+   ]
+  },
+  {
+   "slug": "hg-34-1992",
+   "path": "hg/1992/34",
+   "short": "HG nr. 34/1992",
+   "title": "Hotărârea Guvernului nr. 34/1992 privind aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Franceze privind îmbunătăţirea condiţiilor de viaţa ale copiilor români abandonaţi, orfani şi handicapaţi, precum şi alte acţiuni umanitare privind copiii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2215",
+   "versions": [
+    {
+     "from": "1992-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2215",
+     "sha256": "a6e69557bbd7d112b632a91297f4c732a3b6637c4405a07ddb3d0db5dceda269"
+    }
+   ]
+  },
+  {
+   "slug": "hg-340-1992",
+   "path": "hg/1992/340",
+   "short": "HG nr. 340/1992",
+   "title": "Hotărârea Guvernului nr. 340/1992 privind regimul de import al deşeurilor şi reziduurilor de orice natura, precum şi al altor mărfuri periculoase pentru sănătatea populaţiei şi pentru mediul înconjurător",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2639",
+   "versions": [
+    {
+     "from": "1992-06-22",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2639",
+     "sha256": "a25506092021a1d30ccd62e7cf8ad4f9eb79b9314606cdcae20345e3cd6b5546"
+    }
+   ]
+  },
+  {
+   "slug": "hg-341-1992",
+   "path": "hg/1992/341",
+   "short": "HG nr. 341/1992",
+   "title": "Hotărârea Guvernului nr. 341/1992 privind unele măsuri pentru asigurarea finanţării deficitului bugetar înregistrat pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2641",
+   "versions": [
+    {
+     "from": "1992-07-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2641",
+     "sha256": "53eb716474d7bee90c5e9fc875ada6c323000b74f702de30803dc606498aa83a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-342-1992",
+   "path": "hg/1992/342",
+   "short": "HG nr. 342/1992",
+   "title": "Hotărârea Guvernului nr. 342/1992 privind suplimentarea transferurilor de la bugetul de stat la bugetele locale, în vederea acoperirii cheltuielilor ocazionate de organizarea şi desfăşurarea alegerilor locale pe anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49164",
+   "versions": [
+    {
+     "from": "1992-07-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49164",
+     "sha256": "de50c9632f0b2387f64682f9084baef86135fe64e8bcef0f87fb580dd7adffbd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-343-1992",
+   "path": "hg/1992/343",
+   "short": "HG nr. 343/1992",
+   "title": "Hotărârea Guvernului nr. 343/1992 privind suportarea cheltuielilor determinate de editarea manualelor şcolare necesare elevilor din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49165",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49165",
+     "sha256": "73f923d01f4c8acd69dc87e4c47568b143d22a510efb4b09e663d4f13383a977"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-1992",
+   "path": "hg/1992/344",
+   "short": "HG nr. 344/1992",
+   "title": "Hotărârea Guvernului nr. 344/1992 privind aprobarea trecerii municipiului Focşani, din judeţul Vrancea, în categoria a II-a de municipii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49166",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49166",
+     "sha256": "002b7d9933f0833b244ccdd2eaf9446da9d1ffce387d4b8812f5684323bfaed7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-1992",
+   "path": "hg/1992/346",
+   "short": "HG nr. 346/1992",
+   "title": "Hotărârea Guvernului nr. 346/1992 privind asigurarea resurselor financiare necesare activităţii Curţii Constituţionale în anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2643",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2643",
+     "sha256": "a63a43d2b91ee40a75019c324bb421b87821f39feca6a181fa8dd57b27802d29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-348-1992",
+   "path": "hg/1992/348",
+   "short": "HG nr. 348/1992",
+   "title": "Hotărârea Guvernului nr. 348/1992 privind alocarea unor fonduri din bugetul de stat pe anul 1992 la fondul special constituit în judeţul Bacău, pentru înlăturarea efectelor calamităţilor naturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49167",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49167",
+     "sha256": "fc07531adfe6cc79029fb003505a69e96e86c23dcf1370ed9984e25accab1372"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-1992",
+   "path": "hg/1992/349",
+   "short": "HG nr. 349/1992",
+   "title": "Hotărârea Guvernului nr. 349/1992 privind înregistrarea fiscală a agenţilor economici plătitori de impozite şi taxe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2645",
+   "versions": [
+    {
+     "from": "1992-07-03",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2645",
+     "sha256": "90a0923d9f4de20035d3002622ecd3a5c8b54a0ed8714343cb5c5aef8e87e715"
+    }
+   ]
+  },
+  {
    "slug": "hg-35-1992",
    "path": "hg/1992/35",
    "short": "HG nr. 35/1992",
@@ -506,6 +2942,141 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2217",
      "sha256": "c97e2d20b36237904fa633a60e3dd5064ac4e894975209876b665bb99f09e8b3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-350-1992",
+   "path": "hg/1992/350",
+   "short": "HG nr. 350/1992",
+   "title": "Hotărârea Guvernului nr. 350/1992 privind unele numiri în funcţia de subprefecti ai municipiului Bucureşti şi sectorului agricol Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49168",
+   "versions": [
+    {
+     "from": "1992-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49168",
+     "sha256": "0345f33a2eba782d177d44c87aab47d3b8646629cdc9fcd33ca8eb303ad0ded4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-352-1992",
+   "path": "hg/1992/352",
+   "short": "HG nr. 352/1992",
+   "title": "Hotărârea Guvernului nr. 352/1992 privind suportarea din fondul de rezerva bugetară la dispoziţia Guvernului a cheltuielilor ocazionate de participarea delegatiilor României la sesiunile organelor de conducere ale Agenţiei Internaţionale pentru Energie Atomica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49170",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49170",
+     "sha256": "24ead918d0955b81b954f61cde73121e6c7d57150e19b8f28d683e0d68de65b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-353-1992",
+   "path": "hg/1992/353",
+   "short": "HG nr. 353/1992",
+   "title": "Hotărârea Guvernului nr. 353/1992 privind suplimentarea bugetului Secretariatului de Stat pentru Culte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49171",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49171",
+     "sha256": "2c3cf679a1df85725362a41cb772301479ff8ea5f8dbe0521c197fad9ef0d835"
+    }
+   ]
+  },
+  {
+   "slug": "hg-354-1992",
+   "path": "hg/1992/354",
+   "short": "HG nr. 354/1992",
+   "title": "Hotărârea Guvernului nr. 354/1992 privind asigurarea cu fonduri şi salarizarea personalului ambasadelor României în Ucraina, Republica Belarus şi Republica Lituania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49172",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49172",
+     "sha256": "8c9536bae1c9b09f30397de42ea9a32e689f2aebb454f78221bc1e9cc4aa0d02"
+    }
+   ]
+  },
+  {
+   "slug": "hg-355-1992",
+   "path": "hg/1992/355",
+   "short": "HG nr. 355/1992",
+   "title": "Hotărârea Guvernului nr. 355/1992 privind unele măsuri referitoare la tarifele de abonament pentru radio şi televiziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2646",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2646",
+     "sha256": "529b498f3b0390553e91f4eb13cb212ef61c31b19d85cd0a13b5fff3940fc51f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-357-1992",
+   "path": "hg/1992/357",
+   "short": "HG nr. 357/1992",
+   "title": "Hotărârea Guvernului nr. 357/1992 privind autorizarea funcţionarii în România a Agenţiei Evreieşti pentru Israel, prin înfiinţarea unei filiale a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49173",
+   "versions": [
+    {
+     "from": "1992-07-24",
+     "units": 18,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49173",
+     "sha256": "94da3b2bae45fb0db532f82556b56ee3f8328e1bb1178e836d43f1471f2cfa07"
+    }
+   ]
+  },
+  {
+   "slug": "hg-358-1992",
+   "path": "hg/1992/358",
+   "short": "HG nr. 358/1992",
+   "title": "Hotărârea Guvernului nr. 358/1992 privind creditarea cu dobînda preferentiala a exporturilor şi a producţiei pentru export",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2648",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2648",
+     "sha256": "2ac5867b5c42e52f50cf0e5c48e4178318bbc38b9b9dd17726b6b63812df018f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-1992",
+   "path": "hg/1992/359",
+   "short": "HG nr. 359/1992",
+   "title": "Hotărârea Guvernului nr. 359/1992 pentru aprobarea Acordului de cooperare economică şi tehnică dintre Guvernul României şi Guvernul Republicii Filipinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49175",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49175",
+     "sha256": "fc0ace5edac4c2c5a0b79bdca473a0284dd15f35a1790ab509b76ea8a4a5ea01"
+    }
+   ]
+  },
+  {
+   "slug": "hg-36-1992",
+   "path": "hg/1992/36",
+   "short": "HG nr. 36/1992",
+   "title": "Hotărârea Guvernului nr. 36/1992 pentru aprobarea Protocolului celei de-a XVI-a sesiuni a Comisiei mixte guvernamentale de colaborare economică, industriala şi tehnică dintre România şi Republica Federala Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2220",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2220",
+     "sha256": "b30265eaff491ed8ca565ad4b848292d8f7b2dc9a7fd87f5df13c909acb66dd6"
     }
    ]
   },
@@ -525,6 +3096,21 @@
    ]
   },
   {
+   "slug": "hg-362-1992",
+   "path": "hg/1992/362",
+   "short": "HG nr. 362/1992",
+   "title": "Hotărârea Guvernului nr. 362/1992 privind suplimentarea bugetului Ministerului Afacerilor Externe pentru organizarea \"Forumului românilor şi originarilor din România\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94646",
+   "versions": [
+    {
+     "from": "1992-07-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94646",
+     "sha256": "8050ae0b2be05e07fcda0978c8b34c06640299b1fea1ecfa1dec6b71487411a3"
+    }
+   ]
+  },
+  {
    "slug": "hg-363-1992",
    "path": "hg/1992/363",
    "short": "HG nr. 363/1992",
@@ -536,6 +3122,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49177",
      "sha256": "73fa68a8ac96d27fc3089be5ac9b748d2ec77c20aeb99d22de3d9f90db23f96a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-364-1992",
+   "path": "hg/1992/364",
+   "short": "HG nr. 364/1992",
+   "title": "Hotărârea Guvernului nr. 364/1992 cu privire la corelarea salariilor personalului încadrat în regiile autonome cu specific deosebit cu nivelul salariilor de la societăţile comerciale şi regiile autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2651",
+   "versions": [
+    {
+     "from": "1992-07-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2651",
+     "sha256": "b2e0fb4643eb4a06835831f2f20f989f4aaeb1bb701908e1e50aae5dd7c849a4"
     }
    ]
   },
@@ -855,6 +3456,21 @@
    ]
   },
   {
+   "slug": "hg-39-1992",
+   "path": "hg/1992/39",
+   "short": "HG nr. 39/1992",
+   "title": "Hotărârea Guvernului nr. 39/1992 privind reglementarea unor probleme de comerţ exterior pentru nevoile Direcţiei Generale a Penitenciarelor din cadrul Ministerului Justiţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2227",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2227",
+     "sha256": "76596ce814fcdfd951e72b42448df4be9513d772c447b5f669f86e8fe96a334f"
+    }
+   ]
+  },
+  {
    "slug": "hg-390-1992",
    "path": "hg/1992/390",
    "short": "HG nr. 390/1992",
@@ -956,6 +3572,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94253",
      "sha256": "547d8a247bade67b41d74291397a6a1595e924c3fa64079f567782f50d4bca42"
+    }
+   ]
+  },
+  {
+   "slug": "hg-40-1992",
+   "path": "hg/1992/40",
+   "short": "HG nr. 40/1992",
+   "title": "Hotărârea Guvernului nr. 40/1992 privind stabilirea alocaţiei zilnice de hrană pentru componenţii loturilor olimpice în vederea participării la Jocurile Olimpice de la Barcelona",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2229",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2229",
+     "sha256": "85afec6223ad0b8757f9ae3dfd3a4a37dea6fba44ebd80edcf92e283555e5f63"
     }
    ]
   },
@@ -1241,6 +3872,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35584",
      "sha256": "8686bf313b46bc0964c50a5868909aaafaf9c93573d3380824226807444e79e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-42-1992",
+   "path": "hg/1992/42",
+   "short": "HG nr. 42/1992",
+   "title": "Hotărârea Guvernului nr. 42/1992 privind unele măsuri de aplicare a taxei anuale pe audiovizual şi a tarifelor de abonament",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2235",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2235",
+     "sha256": "ec7c0610dcd80e3fe79dba61bea09e98b695684fa6a6955788ac48ef1b065ab2"
     }
    ]
   },
@@ -2115,6 +4761,21 @@
    ]
   },
   {
+   "slug": "hg-49-1992",
+   "path": "hg/1992/49",
+   "short": "HG nr. 49/1992",
+   "title": "Hotărârea Guvernului nr. 49/1992 privind înfiinţarea unor centre de cercetare ştiinţifică în structura Academiei Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2255",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2255",
+     "sha256": "3f4f2c28bf4198099e800f3c8668df5ce8cb34da4c60abc7a8a3173aea3c4d5f"
+    }
+   ]
+  },
+  {
    "slug": "hg-491-1992",
    "path": "hg/1992/491",
    "short": "HG nr. 491/1992",
@@ -2462,6 +5123,21 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2732",
      "sha256": "e7b3f5e321376d3f56e1a8c129390fa5dd10d0e23d2dbba9d0579321e5de8870"
+    }
+   ]
+  },
+  {
+   "slug": "hg-52-1992",
+   "path": "hg/1992/52",
+   "short": "HG nr. 52/1992",
+   "title": "Hotărârea Guvernului nr. 52/1992 privind crearea Comitetului interdepartamental pentru coordonarea participării României în programele internaţionale de asistenţă destinate noilor state independente de pe teritoriul fostei Uniuni Sovietice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2265",
+   "versions": [
+    {
+     "from": "1992-02-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2265",
+     "sha256": "f6c3ab60f4d03a3f105141da4a4259b0f8c840c8c30ee8863a85f03d68af269d"
     }
    ]
   },
@@ -3084,6 +5760,21 @@
    ]
   },
   {
+   "slug": "hg-57-1992",
+   "path": "hg/1992/57",
+   "short": "HG nr. 57/1992",
+   "title": "Hotărârea Guvernului nr. 57/1992 privind unele măsuri pentru desfăşurarea activităţilor de cercetare ştiinţifică, proiectare, expertiza şi consulting în instituţiile de învăţămînt superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2276",
+   "versions": [
+    {
+     "from": "1992-02-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2276",
+     "sha256": "709e19bfa805576074a906e82f756b63ae416d0aff40ce661d516a54c5827c6a"
+    }
+   ]
+  },
+  {
    "slug": "hg-570-1992",
    "path": "hg/1992/570",
    "short": "HG nr. 570/1992",
@@ -3435,6 +6126,21 @@
    ]
   },
   {
+   "slug": "hg-60-1992",
+   "path": "hg/1992/60",
+   "short": "HG nr. 60/1992",
+   "title": "Hotărârea Guvernului nr. 60/1992 privind stabilirea modelului listei de electori, al ştampilelor necesare votării, al procesului-verbal privind operaţiunile de votare şi de stabilire a rezultatului votării, precum şi al certificatului doveditor al alegerii consilierilor în consiliile judeţene şi al sectorului agricol Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2282",
+   "versions": [
+    {
+     "from": "1992-02-25",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2282",
+     "sha256": "4311f74edf1b60ed242c4a316d2dc6d67454d4b667cc1bd3fe271a4cbea1e94f"
+    }
+   ]
+  },
+  {
    "slug": "hg-600-1992",
    "path": "hg/1992/600",
    "short": "HG nr. 600/1992",
@@ -3555,6 +6261,21 @@
    ]
   },
   {
+   "slug": "hg-61-1992",
+   "path": "hg/1992/61",
+   "short": "HG nr. 61/1992",
+   "title": "Hotărârea Guvernului nr. 61/1992 privind stabilirea modelului buletinelor de vot pentru alegerea consiliilor judeţene şi a Consiliului sectorului agricol Ilfov",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2284",
+   "versions": [
+    {
+     "from": "1992-02-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2284",
+     "sha256": "db785cd7040ef2a94a9179950f093f79d8297342b94799155f563d5dd0f3760f"
+    }
+   ]
+  },
+  {
    "slug": "hg-611-1992",
    "path": "hg/1992/611",
    "short": "HG nr. 611/1992",
@@ -3671,6 +6392,21 @@
      "units": 32,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2806",
      "sha256": "1f89b96b394b5891c110457391d6990f6c5c9c578e0567269eefdcbe12c7f08d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-62-1992",
+   "path": "hg/1992/62",
+   "short": "HG nr. 62/1992",
+   "title": "Hotărârea Guvernului nr. 62/1992 privind stabilirea modelului eşarfei pentru primar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2285",
+   "versions": [
+    {
+     "from": "1992-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2285",
+     "sha256": "f386c45c7f8b8e71583824f1fba451cfff605bb1b279b816b65696f319d352db"
     }
    ]
   },
@@ -3831,6 +6567,21 @@
    ]
   },
   {
+   "slug": "hg-63-1992",
+   "path": "hg/1992/63",
+   "short": "HG nr. 63/1992",
+   "title": "Hotărârea Guvernului nr. 63/1992 privind autorizarea funcţionării în România a filialei Asociaţiei \"Handicap Internaţional\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2287",
+   "versions": [
+    {
+     "from": "1992-02-26",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2287",
+     "sha256": "3578a82667eccab408e8246d2214552097999a66a19c74774afd52b13e9333a9"
+    }
+   ]
+  },
+  {
    "slug": "hg-630-1992",
    "path": "hg/1992/630",
    "short": "HG nr. 630/1992",
@@ -3977,6 +6728,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94618",
      "sha256": "c7212117dad33b07d52be5a43c550768960abb56995c400b9151318caf3a08dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-64-1992",
+   "path": "hg/1992/64",
+   "short": "HG nr. 64/1992",
+   "title": "Hotărârea Guvernului nr. 64/1992 pentru aprobarea Acordului comercial şi de plăti dintre Guvernul României şi Guvernul Republicii Vietnam şi a scrisorilor interguvernamentale privind reglementarea contului de cliring la 31 decembrie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2289",
+   "versions": [
+    {
+     "from": "1992-02-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2289",
+     "sha256": "a8776cf698b9bf2961475760f89912f28c70da4285ced204bfd659e8cfe7a0e0"
     }
    ]
   },
@@ -4259,6 +7025,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2824",
      "sha256": "ff0060078190109140900432bdf05d4c60a5f488a2204a760d15f55de5bc718e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-66-1992",
+   "path": "hg/1992/66",
+   "short": "HG nr. 66/1992",
+   "title": "Hotărârea Guvernului nr. 66/1992 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2293",
+   "versions": [
+    {
+     "from": "1992-02-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2293",
+     "sha256": "777949028008e4323dba53aa89aff5f363abedd642216dd43ecfcec5e9174626"
     }
    ]
   },
@@ -4728,6 +7509,36 @@
    ]
   },
   {
+   "slug": "hg-7-1992",
+   "path": "hg/1992/7",
+   "short": "HG nr. 7/1992",
+   "title": "Hotărârea Guvernului nr. 7/1992 privind scutirea de taxe vamăle a importului tehnicii de calcul destinate informatizării activităţii Guvernului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2112",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2112",
+     "sha256": "9274b41b442368f75d957dbccdf868b1e964b553a8da91c07017b6435dc23e51"
+    }
+   ]
+  },
+  {
+   "slug": "hg-70-1992",
+   "path": "hg/1992/70",
+   "short": "HG nr. 70/1992",
+   "title": "Hotărârea Guvernului nr. 70/1992 privind încheierea convenţiilor de credit cu \"Export Development Corporation - Canada\" şi \"Mediocredito Centrale - Italia\" - pentru finanţarea contractului de conducere a lucrărilor de realizare a obiectivului \"Centrala Nuclearoelectrică Cernavodă 5 x 700 MW\", semnat de \"RENEL\" - R.A. cu \"Atomic Energy of Canada Limited - Ansaldo Consortium - AAC\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2301",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2301",
+     "sha256": "38c20eed04e49662304b3d7763f31060475359b794fb5a2094d037c1e8a4bead"
+    }
+   ]
+  },
+  {
    "slug": "hg-700-1992",
    "path": "hg/1992/700",
    "short": "HG nr. 700/1992",
@@ -4859,6 +7670,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94697",
      "sha256": "67dc6941a3bf2862bdead873ff8732997c18308494167e72348ca816661d92a7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-71-1992",
+   "path": "hg/1992/71",
+   "short": "HG nr. 71/1992",
+   "title": "Hotărârea Guvernului nr. 71/1992 referitoare la garantarea rambursării creditului în cadrul Programului de garanţii de credite C.C.C. - programul G.S.M. - 102 al Statelor Unite ale Americii, precum şi pentru modificarea articolului 10 din Hotărârea Guvernului nr. 464/1991 cu privire la reglementarea regimului preţurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2303",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2303",
+     "sha256": "d8ab78f231a3489c3fa79dc71d9d0c7141f6da0c950e5063453315f5114b23e4"
     }
    ]
   },
@@ -5013,6 +7839,21 @@
    ]
   },
   {
+   "slug": "hg-72-1992",
+   "path": "hg/1992/72",
+   "short": "HG nr. 72/1992",
+   "title": "Hotărârea Guvernului nr. 72/1992 pentru modificarea şi completarea Hotărîrii Guvernului nr. 723/1991 privind regimul operaţiunilor comerciale cu decontare în conturi de cliring, de barter sau de cooperare, convenite pe baza unor acorduri guvernamentale, al celor încheiate pentru recuperarea creanţelor externe ale statului, precum şi al celor care se realizează pe baza unor credite acordate sau contractate la nivel guvernamental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2306",
+   "versions": [
+    {
+     "from": "1992-03-10",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2306",
+     "sha256": "ad59cd3d7b03353b1ce31acce9e1131366ca5c407686dd94f9e82fb71125c563"
+    }
+   ]
+  },
+  {
    "slug": "hg-720-1992",
    "path": "hg/1992/720",
    "short": "HG nr. 720/1992",
@@ -5111,6 +7952,21 @@
      "units": 0,
      "source_url": "http://legislatie.just.ro/Public/DetaliiDocumentAfis/22524",
      "sha256": "0272ad7b66669fb8ce149a56062bf1594f185ad564ac740471d2e3a6ec4e1f35"
+    }
+   ]
+  },
+  {
+   "slug": "hg-73-1992",
+   "path": "hg/1992/73",
+   "short": "HG nr. 73/1992",
+   "title": "Hotărârea Guvernului nr. 73/1992 privind stabilirea tarifelor de călătorie pe bază de bilet şi abonament la transportul în comun de călători cu tramvaie, troleibuze şi autobuze în municipiul Bucureşti şi modul de acoperire a diferenţelor de tarif",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2309",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2309",
+     "sha256": "22d97abd525190ed103385fdc9da076f2f754d382bcfe44b07c79f250368085a"
     }
    ]
   },
@@ -5490,6 +8346,21 @@
    ]
   },
   {
+   "slug": "hg-76-1992",
+   "path": "hg/1992/76",
+   "short": "HG nr. 76/1992",
+   "title": "Hotărârea Guvernului nr. 76/1992 privind programul de participări ale României la târgurile şi expoziţiile internaţionale în anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2317",
+   "versions": [
+    {
+     "from": "1992-03-05",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2317",
+     "sha256": "7dda3584bd6137ecfddccbb0e2f06d6a83eceae5f4e7e0a893b4ba950c15121c"
+    }
+   ]
+  },
+  {
    "slug": "hg-760-1992",
    "path": "hg/1992/760",
    "short": "HG nr. 760/1992",
@@ -5741,6 +8612,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2878",
      "sha256": "d8c9ff832c2e488bdce93350e11d564f69e3cc1a5049f97e5bfe996dfae17416"
+    }
+   ]
+  },
+  {
+   "slug": "hg-78-1992",
+   "path": "hg/1992/78",
+   "short": "HG nr. 78/1992",
+   "title": "Hotărârea Guvernului nr. 78/1992 privind organizarea şi funcţionarea trezoreriei finanţelor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2322",
+   "versions": [
+    {
+     "from": "1992-02-28",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2322",
+     "sha256": "55bdeff564fa9c7e496371334b67d7efd77a3cb64c028eb4a5c477acb520d652"
     }
    ]
   },
@@ -6000,6 +8886,21 @@
    ]
   },
   {
+   "slug": "hg-8-1992",
+   "path": "hg/1992/8",
+   "short": "HG nr. 8/1992",
+   "title": "Hotărârea Guvernului nr. 8/1992 privind realizarea unor noi localuri pentru Grupul şcolar agricol Salonta, judeţul Bihor, şi Grupul şcolar agricol Chişineu-Criş, judeţul Arad",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2117",
+   "versions": [
+    {
+     "from": "1992-02-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2117",
+     "sha256": "9ec1f743520f2349f4b30100f87b06e26a7329b4bb2474e1531c122768218f20"
+    }
+   ]
+  },
+  {
    "slug": "hg-800-1992",
    "path": "hg/1992/800",
    "short": "HG nr. 800/1992",
@@ -6176,6 +9077,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2910",
      "sha256": "f8ccbd18ffb3d89fa0e428c67e297bd3f6c828057139405374cc0599349ea175"
+    }
+   ]
+  },
+  {
+   "slug": "hg-82-1992",
+   "path": "hg/1992/82",
+   "short": "HG nr. 82/1992",
+   "title": "Hotărârea Guvernului nr. 82/1992 privind măsuri de prevenire a plăţilor restante în economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2331",
+   "versions": [
+    {
+     "from": "1992-03-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2331",
+     "sha256": "fd3f0fbd1588ecade25cf20b5a281d082a941885969f18400e7eea27e944bcd0"
     }
    ]
   },
@@ -6386,6 +9302,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2920",
      "sha256": "1e5f1ce82888dcd77f5defe17c50530f386b4102d80f297bde8d0e97e9288bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-84-1992",
+   "path": "hg/1992/84",
+   "short": "HG nr. 84/1992",
+   "title": "Hotărârea Guvernului nr. 84/1992 privind aprobarea Sintezei programelor naţionale pentru tineret ale Ministerului Tineretului şi Sportului pentru anul 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2338",
+   "versions": [
+    {
+     "from": "1992-03-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2338",
+     "sha256": "8702964b5ba7fc49fc23489843e76be8628e9b55349763fdf20643fd48de33f1"
     }
    ]
   },
@@ -6692,6 +9623,96 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93697",
      "sha256": "6348b0c582f0519b91577c20ec0d9702176085ddde388a1448d5077f7c4f80e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-89-1992",
+   "path": "hg/1992/89",
+   "short": "HG nr. 89/1992",
+   "title": "Hotărârea Guvernului nr. 89/1992 privind aprobarea Protocolului celei de-a VIII-a sesiuni a Comisiei mixte guvernamentale de cooperare economică România - Sri Lanka",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2353",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2353",
+     "sha256": "fe9d4903692727c6c4fee95e3ee66cd976056500971a851f6bd221db1138beed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-90-1992",
+   "path": "hg/1992/90",
+   "short": "HG nr. 90/1992",
+   "title": "Hotărârea Guvernului nr. 90/1992 privind aprobarea Protocolului celei de-a X-a sesiuni a Comisiei mixte guvernamentale româno-indiene de cooperare economică, tehnică şi ştiinţifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2355",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2355",
+     "sha256": "656797f4744b371b4eace1700c83e424341600a517ff8b083305c6874de29932"
+    }
+   ]
+  },
+  {
+   "slug": "hg-91-1992",
+   "path": "hg/1992/91",
+   "short": "HG nr. 91/1992",
+   "title": "Hotărârea Guvernului nr. 91/1992 privind modificarea şi completarea Hotărîrii Guvernului nr. 664 din 6 iunie 1990 de stabilire a structurii organizatorice şi a numărului de personal pentru Fundaţia Culturală Română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2358",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2358",
+     "sha256": "3d47b903bde358fd7765a79c422b8a9ff60610d970e8762d631240b5059f4c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-92-1992",
+   "path": "hg/1992/92",
+   "short": "HG nr. 92/1992",
+   "title": "Hotărârea Guvernului nr. 92/1992 privind suplimentarea numărului de posturi ale Editurii Fundaţiei Culturale Române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2360",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2360",
+     "sha256": "d9cb93d25d436de37703e38e28562edf177f2f85f17a9ce59935f8456289e770"
+    }
+   ]
+  },
+  {
+   "slug": "hg-97-1992",
+   "path": "hg/1992/97",
+   "short": "HG nr. 97/1992",
+   "title": "Hotărârea Guvernului nr. 97/1992 privind autorizarea înfiinţării Institutului Teologic Româno-Catolic Franciscan de grad universitar din Roman, judeţul Neamţ",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2371",
+   "versions": [
+    {
+     "from": "1992-03-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2371",
+     "sha256": "bcb44a4bf9ed46e3f5ebf531045a1d51480c154642050d5cc699739497196917"
+    }
+   ]
+  },
+  {
+   "slug": "hg-98-1992",
+   "path": "hg/1992/98",
+   "short": "HG nr. 98/1992",
+   "title": "Hotărârea Guvernului nr. 98/1992 privind completarea numărului de posturi ale Centrului de Studii Transilvane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2373",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2373",
+     "sha256": "0d0ddc3ad2f8f6fe803df48ff362d18bb306e941d485d05c096add92d9d48b50"
     }
    ]
   }

@@ -976,6 +976,81 @@
      "sha256": "81786a689e3257308bf151c2824772581a4f81f4feabfce45390f8f3eaae4c39"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-1-2000",
+   "path": "decizie/orda/2000/1",
+   "short": "Decizia orda nr. 1/2000",
+   "title": "Decizia nr. 1/2000 privind desemnarea Uniunii Producătorilor de Fonograme din România (U.P.F.R.) sa colecteze sumele datorate de utilizatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22544",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22544",
+     "sha256": "d0d4f869e829a119282c9a780aeb8cbd0502b7e182da29af36a78cea6e66c8ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-5-2000",
+   "path": "decizie/orda/2000/5",
+   "short": "Decizia orda nr. 5/2000",
+   "title": "Decizia nr. 5/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24953",
+   "versions": [
+    {
+     "from": "2000-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24953",
+     "sha256": "4187b73f0c07ab8618c0974a78b1d278a74d1c42be2d879e860fe099716f24e1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2000",
+   "path": "decizie/orda/2000/6",
+   "short": "Decizia orda nr. 6/2000",
+   "title": "Decizia nr. 6/2000 pentru aprobarea Normelor metodologice privind condițiile de eliberare și de aplicare a marcajului distinctiv, precum și modelul acestuia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/24955",
+   "versions": [
+    {
+     "from": "2000-11-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/24955",
+     "sha256": "120ed6b90f5f15a4a8a9e33655c40aa476d305c6bcf2da38d7c5eb5ad5d30f2b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-7-2000",
+   "path": "decizie/orda/2000/7",
+   "short": "Decizia orda nr. 7/2000",
+   "title": "Decizia nr. 7/2000 privind anularea unui certificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25576",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25576",
+     "sha256": "46d434ccfea9ece891cb724f5f67930825f072a11dba2dba393678b27412e452"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-8-2000",
+   "path": "decizie/orda/2000/8",
+   "short": "Decizia orda nr. 8/2000",
+   "title": "Decizia nr. 8/2000 privind anularea unui certificat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/25575",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/25575",
+     "sha256": "0ab846e69d4c70eed9c0a8efec3154ae8a1f9e7f3a70d7358eae58dba2422638"
+    }
+   ]
   }
  ]
 }

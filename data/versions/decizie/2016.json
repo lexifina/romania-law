@@ -2566,6 +2566,141 @@
      "sha256": "e17438ebc1614a2e6c02f39df2385188c047600ab69ea8768bbf28bed3236e51"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-10-2016",
+   "path": "decizie/orda/2016/10",
+   "short": "Decizia orda nr. 10/2016",
+   "title": "Decizia nr. 10/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176130",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176130",
+     "sha256": "c4fb7a684913ee2090a8efee84e00360bcf2c13615928c29e132cd41f757e88b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-114-2016",
+   "path": "decizie/orda/2016/114",
+   "short": "Decizia orda nr. 114/2016",
+   "title": "Decizia nr. 114/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183395",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183395",
+     "sha256": "65f9cb8a53f19808f7253469e2827d7d77a94b08954c1d6ea615276bc840fee8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-120-2016",
+   "path": "decizie/orda/2016/120",
+   "short": "Decizia orda nr. 120/2016",
+   "title": "Decizia nr. 120/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/184014",
+   "versions": [
+    {
+     "from": "2016-11-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/184014",
+     "sha256": "71efe58360cf8c5a6eb71be7a75e7d326689930e6ca566527daeda2ce214982e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-20-2016",
+   "path": "decizie/orda/2016/20",
+   "short": "Decizia orda nr. 20/2016",
+   "title": "Decizia nr. 20/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176678",
+   "versions": [
+    {
+     "from": "2016-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176678",
+     "sha256": "557d825ad60b8059ab66f8e49157b76e1420d07e47aa5af5072689bddd050ce9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-21-2016",
+   "path": "decizie/orda/2016/21",
+   "short": "Decizia orda nr. 21/2016",
+   "title": "Decizia nr. 21/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176934",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176934",
+     "sha256": "9d42cfa169c7931e86e526eff836cb8be25d0b729e0d3e5274a044310649e4d8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-23-2016",
+   "path": "decizie/orda/2016/23",
+   "short": "Decizia orda nr. 23/2016",
+   "title": "Decizia nr. 23/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176941",
+   "versions": [
+    {
+     "from": "2016-03-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176941",
+     "sha256": "be314b8c14cdc94842ab475e59f54c046d7e9388f83b7a800e7e6df0d79c4b85"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2016",
+   "path": "decizie/orda/2016/6",
+   "short": "Decizia orda nr. 6/2016",
+   "title": "Decizia nr. 6/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/175567",
+   "versions": [
+    {
+     "from": "2016-02-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/175567",
+     "sha256": "ea9368059f8a13faec2007f0afb21ccd5ef6308d51df171e257bdb86ed2901f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-95-2016",
+   "path": "decizie/orda/2016/95",
+   "short": "Decizia orda nr. 95/2016",
+   "title": "Decizia nr. 95/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182039",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182039",
+     "sha256": "a9bc7f23fb7f8efea7bf0018a2ca0db54ad7e2c3bec914fe1124c6cabbc38341"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-98-2016",
+   "path": "decizie/orda/2016/98",
+   "short": "Decizia orda nr. 98/2016",
+   "title": "Decizia nr. 98/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/182330",
+   "versions": [
+    {
+     "from": "2016-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/182330",
+     "sha256": "b95287a1ecd11cf105c54aaa11263eacbdf533579434d6da015cbbe6d8220b7c"
+    }
+   ]
   }
  ]
 }

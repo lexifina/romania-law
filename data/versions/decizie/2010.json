@@ -2056,6 +2056,306 @@
      "sha256": "3fed5f2ce07f26adb8be276bb963c5a8d7f821983d1cf0e5cb0df31caaac662a"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-10-2010",
+   "path": "decizie/orda/2010/10",
+   "short": "Decizia orda nr. 10/2010",
+   "title": "Decizia nr. 10/2010 privind transmiterea documentelor emise de Serviciul registre naționale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115745",
+   "versions": [
+    {
+     "from": "2010-01-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115745",
+     "sha256": "59f71d041c68ad062bd175648f1aeb704c41fa51f6a5dc5bb0fc2e500ae55358"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-170-2010",
+   "path": "decizie/orda/2010/170",
+   "short": "Decizia orda nr. 170/2010",
+   "title": "Decizia nr. 170/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117308",
+   "versions": [
+    {
+     "from": "2010-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117308",
+     "sha256": "23c7dd459c951e77b485b92aa2ce0af74a31b705cabbe009d9d0069e2cea5880"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-176-2010",
+   "path": "decizie/orda/2010/176",
+   "short": "Decizia orda nr. 176/2010",
+   "title": "Decizia nr. 176/2010 privind constituirea Comisiei pentru negocierea Metodologiei privind comunicarea publică a operelor muzicale în scop ambiental în cadrul unităților comerciale sau de prestări cu activitate continuă de tip mall, supermarket, hipermarket, galerii comerciale și a Comisiei pentru negocierea Metodologiei privind comunicarea publică a fonogramelor publicate în scop co",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117783",
+   "versions": [
+    {
+     "from": "2010-04-09",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117783",
+     "sha256": "256afd506318d7f2bce7a28d002c1fc1a3bc7a95157437f414f3c33659a67596"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-180-2010",
+   "path": "decizie/orda/2010/180",
+   "short": "Decizia orda nr. 180/2010",
+   "title": "Decizia nr. 180/2010 pentru publicarea în Monitorul Oficial al României, Partea I, a Hotărârii arbitrale din data de 30 martie 2010 având ca obiect forma finală a Metodologiei privind stabilirea remunerațiilor cuvenite titularilor de drepturi patrimoniale de autor de opere muzicale pentru reproducerea și/sau comunicarea publică a operelor muzicale prin servicii online sau mobile EMI",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118240",
+   "versions": [
+    {
+     "from": "2010-04-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118240",
+     "sha256": "0e06649de47ec43106665f23e62d42d11fb99d9d0f7fea9bd894b7e1096f184c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-189-2010",
+   "path": "decizie/orda/2010/189",
+   "short": "Decizia orda nr. 189/2010",
+   "title": "Decizia nr. 189/2010 privind publicarea în Monitorul Oficial al României, Partea I, a Hotărârii arbitrale din data de 12 aprilie 2010 având ca obiect forma finală a Metodologiei privind remunerațiile pentru comunicarea publică a operelor muzicale în concerte, spectacole ori manifestări artistice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118712",
+   "versions": [
+    {
+     "from": "2010-05-13",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118712",
+     "sha256": "5bbce46b6f513d0086aa691e498c636ab3218c63f472efe96b7b49e6a2fb908d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-199-2010",
+   "path": "decizie/orda/2010/199",
+   "short": "Decizia orda nr. 199/2010",
+   "title": "Decizia nr. 199/2010 privind constituirea Comisiei pentru negocierea Metodologiei privind stabilirea remunerațiilor cuvenite titularilor de drepturi de autor de opere muzicale pentru comunicarea publică a operelor muzicale în scop ambiental",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119464",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119464",
+     "sha256": "79d12487136638aba05524f7a29199c3edbcf62e89d2712cd19cb718281eb6af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-200-2010",
+   "path": "decizie/orda/2010/200",
+   "short": "Decizia orda nr. 200/2010",
+   "title": "Decizia nr. 200/2010 privind constituirea Comisiei pentru negocierea Metodologiei privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru radiodifuzarea fonogramelor publicate în scop comercial ori a reproducerilor acestora de către organismele de radiodifuziune",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119161",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119161",
+     "sha256": "216afae9fef11386b5a00395bf026e99bf196364bf89c0b7ecc1c97e007429ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-201-2010",
+   "path": "decizie/orda/2010/201",
+   "short": "Decizia orda nr. 201/2010",
+   "title": "Decizia nr. 201/2010 privind modificarea formularelor de înscriere a fonogramelor în Registrul național al fonogramelor, respectiv a videogramelor în Registrul național al videogramelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119737",
+   "versions": [
+    {
+     "from": "2010-06-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119737",
+     "sha256": "2ffaf3b1d9e3d486d7215cd2bd0f9fa0713339e7c43ea84b1a010dcc6989ffa2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-269-2010",
+   "path": "decizie/orda/2010/269",
+   "short": "Decizia orda nr. 269/2010",
+   "title": "Decizia nr. 269/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122278",
+   "versions": [
+    {
+     "from": "2010-09-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122278",
+     "sha256": "93d479f7cb5f54ca72c092b51fe736f896fa7641ceb2ac91b6003766ab57f5a4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-284-2010",
+   "path": "decizie/orda/2010/284",
+   "short": "Decizia orda nr. 284/2010",
+   "title": "Decizia nr. 284/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122494",
+   "versions": [
+    {
+     "from": "2010-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122494",
+     "sha256": "0c5d38188e280599db3dc4aab76a021cc9658baab1c4c83e56ffb350de8df8c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-311-2010",
+   "path": "decizie/orda/2010/311",
+   "short": "Decizia orda nr. 311/2010",
+   "title": "Decizia nr. 311/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124085",
+   "versions": [
+    {
+     "from": "2010-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124085",
+     "sha256": "668224d9e8962488c9349e5d52cc184cb91b8e7d361f20073780e27960b1f826"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-327-2010",
+   "path": "decizie/orda/2010/327",
+   "short": "Decizia orda nr. 327/2010",
+   "title": "Decizia nr. 327/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124643",
+   "versions": [
+    {
+     "from": "2010-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124643",
+     "sha256": "5412ee21fed29a8037764ea218184ccf1da0552b18fe8895aacc22c816adfec2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-332-2010",
+   "path": "decizie/orda/2010/332",
+   "short": "Decizia orda nr. 332/2010",
+   "title": "Decizia nr. 332/2010 privind desemnarea organismului de gestiune colectivă Centrul Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) drept colector al remunerațiilor cuvenite artiștilor pentru retransmiterea prin cablu a prestațiilor artistice fixate pe fonograme",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124953",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124953",
+     "sha256": "1d1b4d9ef79e427b66fa30165b1ac72b6496257f9695849b6d6b5dc9736f8cb5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-333-2010",
+   "path": "decizie/orda/2010/333",
+   "short": "Decizia orda nr. 333/2010",
+   "title": "Decizia nr. 333/2010 privind desemnarea organismului de gestiune colectivă Centrul Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) drept colector al remunerațiilor cuvenite artiștilor pentru retransmiterea prin cablu a prestațiilor artistice din domeniul audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124957",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124957",
+     "sha256": "b4849c957879d1e1622042e7d833576af29ac3da8ed5e795b6a90f7e9b6916f4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-334-2010",
+   "path": "decizie/orda/2010/334",
+   "short": "Decizia orda nr. 334/2010",
+   "title": "Decizia nr. 334/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124959",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124959",
+     "sha256": "c48d43ec3e03196daaa7b38446f71ac6f5027b4fefbbf790c2d7966e53841bb4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-335-2010",
+   "path": "decizie/orda/2010/335",
+   "short": "Decizia orda nr. 335/2010",
+   "title": "Decizia nr. 335/2010 privind desemnarea organismului de gestiune colectivă Societatea Autorilor și Editorilor Români de Opere Științifice - PERGAM drept colector al remunerațiilor cuvenite autorilor de opere scrise pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124960",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124960",
+     "sha256": "473aed6daffe392688a5ab3a139995203caaa6c436a42c01b5d5be0001b87365"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-336-2010",
+   "path": "decizie/orda/2010/336",
+   "short": "Decizia orda nr. 336/2010",
+   "title": "Decizia nr. 336/2010 privind desemnarea organismului de gestiune colectivă Uniunea Compozitorilor și Muzicologilor din România - Asociația pentru Drepturile de Autor (UCMR-ADA) drept colector al remunerațiilor cuvenite autorilor de opere muzicale pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124961",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124961",
+     "sha256": "a5ef8e8ca33819eb819c7c16becd1db4d2ae897ee7d78e0c4f390905cbed5cd3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-337-2010",
+   "path": "decizie/orda/2010/337",
+   "short": "Decizia orda nr. 337/2010",
+   "title": "Decizia nr. 337/2010 privind desemnarea organismului de gestiune colectivă Uniunea Producătorilor de Film și Audiovizual din România - Asociația Română de Gestiune a Operelor din Audiovizual (U.P.F.A.R.-A.R.G.O.A.) drept colector al remunerațiilor cuvenite producătorilor de videograme pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124962",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124962",
+     "sha256": "12d143f6144d21bb90026880754636cf4a920ce59e4eaa6a5bc11c362e51aa87"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-338-2010",
+   "path": "decizie/orda/2010/338",
+   "short": "Decizia orda nr. 338/2010",
+   "title": "Decizia nr. 338/2010 privind desemnarea organismului de gestiune colectivă Uniunea Producătorilor de Fonograme din România (UPFR) drept colector al remunerațiilor cuvenite producătorilor de fonograme pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124963",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124963",
+     "sha256": "ed3d5dcc30d9048b1b85d667b016a61bb59f90873b4653c50554cf4d8cc37ce3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-339-2010",
+   "path": "decizie/orda/2010/339",
+   "short": "Decizia orda nr. 339/2010",
+   "title": "Decizia nr. 339/2010 privind desemnarea organismului de gestiune colectivă Societatea de Gestiune Colectivă a Drepturilor de Autor în Domeniul Artelor Vizuale - VISARTA drept colector al remunerațiilor cuvenite autorilor de opere din domeniul artelor vizuale pentru retransmiterea prin cablu",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124965",
+   "versions": [
+    {
+     "from": "2011-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124965",
+     "sha256": "9fb9dd1068659747bf0aa42d1d48f1da32abd8632a79af777762af9bd142fa01"
+    }
+   ]
   }
  ]
 }

@@ -345,6 +345,36 @@
    ]
   },
   {
+   "slug": "hg-205-1991",
+   "path": "hg/1991/205",
+   "short": "HG nr. 205/1991",
+   "title": "Hotărârea Guvernului nr. 205/1991 privind înfiinţarea Regiei autonome \"Radionav\" Constanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1683",
+   "versions": [
+    {
+     "from": "1991-04-29",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1683",
+     "sha256": "31058638861da1565f4149f1b68342ff1b2dca6dca7568b5aafe35a8c28dacbb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-215-1991",
+   "path": "hg/1991/215",
+   "short": "HG nr. 215/1991",
+   "title": "Hotărârea Guvernului nr. 215/1991 privind finanţarea unor servicii de consultanţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1690",
+   "versions": [
+    {
+     "from": "1991-04-15",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1690",
+     "sha256": "c617fd8b2f28ef067cb4b5e6dbe42b763ef32784aeb4c80e0b826403dc5cdad8"
+    }
+   ]
+  },
+  {
    "slug": "hg-219-1991",
    "path": "hg/1991/219",
    "short": "HG nr. 219/1991",
@@ -360,6 +390,126 @@
    ]
   },
   {
+   "slug": "hg-221-1991",
+   "path": "hg/1991/221",
+   "short": "HG nr. 221/1991",
+   "title": "Hotărârea Guvernului nr. 221/1991 pentru aprobarea Protocolului celei de-a X-a sesiuni a Comisiei mixte guvernamentale româno-olandeze de cooperare economică şi tehnico-stiintifica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94144",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94144",
+     "sha256": "486d33dc37f05aa5c671a431b4649570c46a8315137d09c92f59bfe4fe0b054a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-222-1991",
+   "path": "hg/1991/222",
+   "short": "HG nr. 222/1991",
+   "title": "Hotărârea Guvernului nr. 222/1991 pentru aprobarea Protocolului celei de-a XII-a sesiuni a Comisiei mixte guvernamentale româno-pakistaneze pentru cooperare economică, comercială, tehnică şi ştiinţifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94145",
+   "versions": [
+    {
+     "from": "1992-06-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94145",
+     "sha256": "ab55d1810ae7f28a06d8e9f87b8f4dc5cef358e27dc5e02c3c0e53c921c55fde"
+    }
+   ]
+  },
+  {
+   "slug": "hg-223-1991",
+   "path": "hg/1991/223",
+   "short": "HG nr. 223/1991",
+   "title": "Hotărârea Guvernului nr. 223/1991 privind înfiinţarea Societăţii comerciale \"Zecasin\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1693",
+   "versions": [
+    {
+     "from": "1991-04-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1693",
+     "sha256": "d2cfcf796a90c49bdac14c7beecaf71329614c9490fcfe849713717ff463aae0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-224-1991",
+   "path": "hg/1991/224",
+   "short": "HG nr. 224/1991",
+   "title": "Hotărârea Guvernului nr. 224/1991 privind organizarea unor institute de cercetare şi proiectare din subordinea Ministerului Resurselor şi Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1694",
+   "versions": [
+    {
+     "from": "1991-04-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1694",
+     "sha256": "1bf0131af3d6b3b4ce1892259c524c56e9589c02e0c378abf538f15be541987f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-225-1991",
+   "path": "hg/1991/225",
+   "short": "HG nr. 225/1991",
+   "title": "Hotărârea Guvernului nr. 225/1991 privind organizarea unor întreprinderi din subordinea Ministerului Resurselor şi Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1695",
+   "versions": [
+    {
+     "from": "1991-04-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1695",
+     "sha256": "8cca6c2ef012c03aec352353c4dec8124b103cb24efdd978e1766f67e0ca9828"
+    }
+   ]
+  },
+  {
+   "slug": "hg-226-1991",
+   "path": "hg/1991/226",
+   "short": "HG nr. 226/1991",
+   "title": "Hotărârea Guvernului nr. 226/1991 privind înfiinţarea societăţii comerciale \"Institutul de testare şi cercetare-dezvoltare pentru mecanizarea agriculturii - Romatest\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1696",
+   "versions": [
+    {
+     "from": "1991-04-22",
+     "units": 37,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1696",
+     "sha256": "1bac47f5f163922d6cb6cacdeb3e0c444e10ae7dd943b07808fc706130470873"
+    }
+   ]
+  },
+  {
+   "slug": "hg-227-1991",
+   "path": "hg/1991/227",
+   "short": "HG nr. 227/1991",
+   "title": "Hotărârea Guvernului nr. 227/1991 privind organizarea unor institute de cercetare şi proiectare şi a unei întreprinderi din subordinea Ministerului Resurselor şi Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1697",
+   "versions": [
+    {
+     "from": "1991-05-02",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1697",
+     "sha256": "5c3fbab0e9d3799fa5aff31905a7165638a439b69e44472b54b3c690f1eddfa6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-229-1991",
+   "path": "hg/1991/229",
+   "short": "HG nr. 229/1991",
+   "title": "Hotărârea Guvernului nr. 229/1991 privind organizarea Institutului de cercetare ştiinţifică şi inginerie tehnologică pentru autoturisme Piteşti-Colibaşi ca societate comercială pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1698",
+   "versions": [
+    {
+     "from": "1991-05-02",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1698",
+     "sha256": "5ef13d018a6e46310b391119c96aabd478d8033e9ebb4dddd1bfca39f5e0aa5a"
+    }
+   ]
+  },
+  {
    "slug": "hg-23-1991",
    "path": "hg/1991/23",
    "short": "HG nr. 23/1991",
@@ -371,6 +521,21 @@
      "units": 34,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1469",
      "sha256": "93e78d06db92cbf1968dfd5618db9d6b9403d6c04359b8ce792df8a3d6d1e6db"
+    }
+   ]
+  },
+  {
+   "slug": "hg-232-1991",
+   "path": "hg/1991/232",
+   "short": "HG nr. 232/1991",
+   "title": "Hotărârea Guvernului nr. 232/1991 privind utilizarea sumelor încasate din comercializarea energiei electrice primite, ca ajutor economic, din Germania",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1700",
+   "versions": [
+    {
+     "from": "1991-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1700",
+     "sha256": "deab2aea852a6668312a26ea8d6a16262caf8e0f9204e05cf2ae447c1a65c87d"
     }
    ]
   },
@@ -420,6 +585,126 @@
    ]
   },
   {
+   "slug": "hg-240-1991",
+   "path": "hg/1991/240",
+   "short": "HG nr. 240/1991",
+   "title": "Hotărârea Guvernului nr. 240/1991 privind rectificarea unor prevederi din Hotărârea Guvernului nr. 1041 din 25 septembrie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92386",
+   "versions": [
+    {
+     "from": "1991-03-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92386",
+     "sha256": "f11a5168b696a8708c6172e80d3698f9fe84d037a74fbae9ca61d033209871e4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-242-1991",
+   "path": "hg/1991/242",
+   "short": "HG nr. 242/1991",
+   "title": "Hotărârea Guvernului nr. 242/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în domeniul industriei de aviaţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1708",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1708",
+     "sha256": "ac15c1c39a44d697d5026102a83f06a7852391cdd93dff9edca84a2de7fd6991"
+    }
+   ]
+  },
+  {
+   "slug": "hg-243-1991",
+   "path": "hg/1991/243",
+   "short": "HG nr. 243/1991",
+   "title": "Hotărârea Guvernului nr. 243/1991 privind preţurile de contractare şi de achiziţie garantate de stat şi avantajele ce se acordă producătorilor agricoli la animale, păsări vii şi produse animale, preluate la fondul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1709",
+   "versions": [
+    {
+     "from": "1991-04-17",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1709",
+     "sha256": "3e963470cee7ab8f978d1683798f8b68cc4ac37b996ed1b7cc1016a3d2b6814f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-245-1991",
+   "path": "hg/1991/245",
+   "short": "HG nr. 245/1991",
+   "title": "Hotărârea Guvernului nr. 245/1991 privind înfiinţarea Societăţii comerciale \"Tribuna economică\" - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1710",
+   "versions": [
+    {
+     "from": "1991-04-24",
+     "units": 25,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1710",
+     "sha256": "6e1727304680329384e4b01c69c834653eca51fa1416c7db4d1a9e67dc1878c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-247-1991",
+   "path": "hg/1991/247",
+   "short": "HG nr. 247/1991",
+   "title": "Hotărârea Guvernului nr. 247/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în domeniul difuzării cărţii, discurilor şi altor bunuri culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1712",
+   "versions": [
+    {
+     "from": "1991-04-25",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1712",
+     "sha256": "ed4597829fa5ef254b8af2aa88f1350e5cd6cd0efe86635e2f2d4c63bcfb509d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-248-1991",
+   "path": "hg/1991/248",
+   "short": "HG nr. 248/1991",
+   "title": "Hotărârea Guvernului nr. 248/1991 privind înfiinţarea Regiei autonome de difuzare a cărţii, discurilor şi altor bunuri culturale \"Arcadia\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1713",
+   "versions": [
+    {
+     "from": "1991-04-25",
+     "units": 23,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1713",
+     "sha256": "12e912195ab131cf687546a8038f895f1509aa4801c3c56aba8ae88fd0bcd2e7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-253-1991",
+   "path": "hg/1991/253",
+   "short": "HG nr. 253/1991",
+   "title": "Hotărârea Guvernului nr. 253/1991 privind angajarea rezervei bugetare pentru dotarea Gărzii financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1717",
+   "versions": [
+    {
+     "from": "1991-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1717",
+     "sha256": "2123f187bf45e2a19a578347b7b2a94ed30d7302b00bc01aaff80ced277feb0e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-254-1991",
+   "path": "hg/1991/254",
+   "short": "HG nr. 254/1991",
+   "title": "Hotărârea Guvernului nr. 254/1991 privind dotarea unităţilor vamale cu mijloace de transport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1718",
+   "versions": [
+    {
+     "from": "1991-04-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1718",
+     "sha256": "618b7916d0dd45d53cdc8c056ce61a1b190a3c55f0244f0248ff6f94ff05530b"
+    }
+   ]
+  },
+  {
    "slug": "hg-255-1991",
    "path": "hg/1991/255",
    "short": "HG nr. 255/1991",
@@ -431,6 +716,81 @@
      "units": 35,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1719",
      "sha256": "548502f2c36302b26651ca2dbf3a787fd2f5e57c2300c671a4247ef8628946d8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-256-1991",
+   "path": "hg/1991/256",
+   "short": "HG nr. 256/1991",
+   "title": "Hotărârea Guvernului nr. 256/1991 cu privire la destinaţiile diferenţelor favorabile rezultate din reevaluarea stocurilor materiale existente la regiile autonome, societăţile comerciale cu capital de stat şi unităţile economice de stat la 31 martie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1720",
+   "versions": [
+    {
+     "from": "1991-04-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1720",
+     "sha256": "afdcc192a6d8bf516a135743d8c3ce5d94a9f99e9d270041d767300da72f6709"
+    }
+   ]
+  },
+  {
+   "slug": "hg-257-1991",
+   "path": "hg/1991/257",
+   "short": "HG nr. 257/1991",
+   "title": "Hotărârea Guvernului nr. 257/1991 privind modificarea nivelului unor taxe stabilite în sume fixe, datorate statului în lei de persoanele fizice şi juridice, şi introducerea plăţii taxei asupra mijloacelor de transport cu tracţiune mecanică deţinute de regiile autonome, societăţilecomerciale şi de ceilalţi agenţieconomici organizaţi ca persoane juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1721",
+   "versions": [
+    {
+     "from": "1991-04-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1721",
+     "sha256": "29af88519d580a66f96ece41c23af708834e3f6caa8e66b98ccbb2b27f89afb1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-258-1991",
+   "path": "hg/1991/258",
+   "short": "HG nr. 258/1991",
+   "title": "Hotărârea Guvernului nr. 258/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în domeniul prestaţiilor şi reparaţiilor de utilaje de construcţii, navale şi mijloace de transport auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1722",
+   "versions": [
+    {
+     "from": "1991-05-03",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1722",
+     "sha256": "6c10af14a92267a6148b37dd91bce1c08b2ac4c830c9a6c11b5dbfbb6ffc5628"
+    }
+   ]
+  },
+  {
+   "slug": "hg-259-1991",
+   "path": "hg/1991/259",
+   "short": "HG nr. 259/1991",
+   "title": "Hotărârea Guvernului nr. 259/1991 privind înfiinţarea Societăţii comerciale \"Rulmentul\" Suceava - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
+   "versions": [
+    {
+     "from": "1991-05-07",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1723",
+     "sha256": "aabff347cb0b48c50b9b8f0d12b79e93fb5db2f3972d43e8247144911736b6b2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-265-1991",
+   "path": "hg/1991/265",
+   "short": "HG nr. 265/1991",
+   "title": "Hotărârea Guvernului nr. 265/1991 privind condiţiile de contractare pentru proiectele finanţate din credite şi împrumuturi externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1726",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1726",
+     "sha256": "d3eca2111fea2fdbbb960d6dd801a6c563ce9016c48dd90e9f427236bae905cf"
     }
    ]
   },
@@ -465,6 +825,81 @@
    ]
   },
   {
+   "slug": "hg-269-1991",
+   "path": "hg/1991/269",
+   "short": "HG nr. 269/1991",
+   "title": "Hotărârea Guvernului nr. 269/1991 privind repartizarea pe categorii a veniturilor \"Fondului Libertatea\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1730",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1730",
+     "sha256": "a1fdadeddecce558a05254c804e3f31873f52ac491ffd5195324ea8c12377691"
+    }
+   ]
+  },
+  {
+   "slug": "hg-270-1991",
+   "path": "hg/1991/270",
+   "short": "HG nr. 270/1991",
+   "title": "Hotărârea Guvernului nr. 270/1991 privind instituirea taxei pentru eliberarea titlurilor de proprietate asupra terenurilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1731",
+   "versions": [
+    {
+     "from": "1991-04-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1731",
+     "sha256": "3502408f299de4810914b194a7acae518db0a64d73cfa22138c9b0d5c526376e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-271-1991",
+   "path": "hg/1991/271",
+   "short": "HG nr. 271/1991",
+   "title": "Hotărârea Guvernului nr. 271/1991 privind înfiinţarea societăţilor comerciale \"Semtest\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1732",
+   "versions": [
+    {
+     "from": "1991-05-23",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1732",
+     "sha256": "1881839fbdfd64cf7c944b104c52eaaa71078d529be5a21511a878fac132120b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-272-1991",
+   "path": "hg/1991/272",
+   "short": "HG nr. 272/1991",
+   "title": "Hotărârea Guvernului nr. 272/1991 privind înfiinţarea Societăţii comerciale pe acţiuni \"Ştiinţa &amp; Tehnica\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1733",
+   "versions": [
+    {
+     "from": "1991-05-14",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1733",
+     "sha256": "36dff63604c0a24670daaa615e6b2313a9d8165b5c8f6b6b50f950c999af4818"
+    }
+   ]
+  },
+  {
+   "slug": "hg-273-1991",
+   "path": "hg/1991/273",
+   "short": "HG nr. 273/1991",
+   "title": "Hotărârea Guvernului nr. 273/1991 privind înfiinţarea de societăţi comerciale în domeniul creşterii ovinelor şi caprinelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1734",
+   "versions": [
+    {
+     "from": "1991-05-23",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1734",
+     "sha256": "93f538ce44647b87d62a7a8682599d2070ec614daf337aece6de05edeb2c9884"
+    }
+   ]
+  },
+  {
    "slug": "hg-276-1991",
    "path": "hg/1991/276",
    "short": "HG nr. 276/1991",
@@ -495,6 +930,222 @@
    ]
   },
   {
+   "slug": "hg-280-1991",
+   "path": "hg/1991/280",
+   "short": "HG nr. 280/1991",
+   "title": "Hotărârea Guvernului nr. 280/1991 privind organizarea, finanţarea şi coordonarea învăţămîntului preuniversitar agricol şi de industrie alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1738",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1738",
+     "sha256": "eb436a1e4d1534f350c52f8195ba04f386879ff950c4b8947c098467921f979f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-282-1991",
+   "path": "hg/1991/282",
+   "short": "HG nr. 282/1991",
+   "title": "Hotărârea Guvernului nr. 282/1991 privind autorizarea funcţionării în România a organizaţiei \"World Vision Internaţional\", prin înfiinţarea unei filiale a acesteia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1740",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1740",
+     "sha256": "e5e0e7a3c0b1807980303275dbc94303b914b4a66707bc3abb3f09a128d0f938"
+    }
+   ]
+  },
+  {
+   "slug": "hg-283-1991",
+   "path": "hg/1991/283",
+   "short": "HG nr. 283/1991",
+   "title": "Hotărârea Guvernului nr. 283/1991 privind extrădarea cetăţeanului italian Facci Giovanni Dante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94152",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94152",
+     "sha256": "7c1ac7f6bdc119d02d26babc0bf701d6d63efc83fa52d044bad7c514a3206efb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-285-1991",
+   "path": "hg/1991/285",
+   "short": "HG nr. 285/1991",
+   "title": "Hotărârea Guvernului nr. 285/1991 privind unele măsuri pentru dotarea Şcolii Naţionale de Studii Politice şi Administrative",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1742",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1742",
+     "sha256": "52885f3914ffb0e9e2b8bc4fa90e23ab8c12b1cf6fbb91b4581952d3a3c2103a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-286-1991",
+   "path": "hg/1991/286",
+   "short": "HG nr. 286/1991",
+   "title": "Hotărârea Guvernului nr. 286/1991 privind înfiinţarea Societăţii comerciale \"Adevărul\"-S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1743",
+   "versions": [
+    {
+     "from": "1991-05-21",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1743",
+     "sha256": "88addf0389e5513930a19fca9fde2202b8e2977f5b67300f50052379837f2b33"
+    }
+   ]
+  },
+  {
+   "slug": "hg-288-1991",
+   "path": "hg/1991/288",
+   "short": "HG nr. 288/1991",
+   "title": "Hotărârea Guvernului nr. 288/1991 privind calificarea şi recalificarea şomerilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1744",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 21,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1744",
+     "sha256": "2ab1cd0b279002709b7f0dde0989e913af3d42716641396c60106b448693b15e"
+    },
+    {
+     "from": "2002-03-01",
+     "units": 0,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/185387",
+     "sha256": "ed855d779422f425320204892606733a3810f2f1324b617eb2ce8966439b55f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-289-1991",
+   "path": "hg/1991/289",
+   "short": "HG nr. 289/1991",
+   "title": "Hotărârea Guvernului nr. 289/1991 privind iniţierea de acţiuni în vederea urgentării recuperării creanţelor externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1747",
+   "versions": [
+    {
+     "from": "1991-05-15",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1747",
+     "sha256": "1386050363e0951f044691a9f750b8104a126cde9c30865e9f0919c0b61553b8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-292-1991",
+   "path": "hg/1991/292",
+   "short": "HG nr. 292/1991",
+   "title": "Hotărârea Guvernului nr. 292/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în domeniul îmbunătăţirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1750",
+   "versions": [
+    {
+     "from": "1991-05-16",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1750",
+     "sha256": "90344f6838881e277f461f396fe62d8cd7eb2c543b1a0ac9446f096aff880791"
+    }
+   ]
+  },
+  {
+   "slug": "hg-293-1991",
+   "path": "hg/1991/293",
+   "short": "HG nr. 293/1991",
+   "title": "Hotărârea Guvernului nr. 293/1991 privind organizarea unor centre de calcul din subordinea Ministerului Resurselor şi Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1751",
+   "versions": [
+    {
+     "from": "1991-05-17",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1751",
+     "sha256": "c0cee2db8f0a5ef7e18a400080882caef3475e6398d4eb7ec26c404b5eea7deb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-295-1991",
+   "path": "hg/1991/295",
+   "short": "HG nr. 295/1991",
+   "title": "Hotărârea Guvernului nr. 295/1991 privind înfiinţarea Societăţii comerciale \"Editura Lumea\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1753",
+   "versions": [
+    {
+     "from": "1991-05-17",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1753",
+     "sha256": "f02642911094077ed5c3a702b7ef41898e92f41ef2f6e21e098c1439e41953a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-296-1991",
+   "path": "hg/1991/296",
+   "short": "HG nr. 296/1991",
+   "title": "Hotărârea Guvernului nr. 296/1991 privind alocarea unei subvenţii bugetare Centrului Naţional al Cinematografiei, pentru completarea finanţării producţiei naţionale de filme în anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94153",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94153",
+     "sha256": "4ae8ef9aba698cce3aa17039c727ac3a9f456f58d239ad0d6083bb2157d35994"
+    }
+   ]
+  },
+  {
+   "slug": "hg-300-1991",
+   "path": "hg/1991/300",
+   "short": "HG nr. 300/1991",
+   "title": "Hotărârea Guvernului nr. 300/1991 privind înfiinţarea Regiei autonome \"Institutul de cercetare şi dezvoltare pentru valorificarea produselor horticole\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1754",
+   "versions": [
+    {
+     "from": "1991-05-21",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1754",
+     "sha256": "b7981395872d8ebf232d89a0f35bb849e03d8b01ab65c13ef94555ad4a615034"
+    }
+   ]
+  },
+  {
+   "slug": "hg-302-1991",
+   "path": "hg/1991/302",
+   "short": "HG nr. 302/1991",
+   "title": "Hotărârea Guvernului nr. 302/1991 privind înfiinţarea şi organizarea Regiei autonome \"Registrul naval român\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/28492",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 15,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/28492",
+     "sha256": "d9785a57bf32c1036d576706c3c47fac308e13a5cd8928026851810c495497ce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-304-1991",
+   "path": "hg/1991/304",
+   "short": "HG nr. 304/1991",
+   "title": "Hotărârea Guvernului nr. 304/1991 privind asigurare pazei şi securităţii valorilor administrate de Banca Naţionala a României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1756",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1756",
+     "sha256": "38df9a6c6b5c6ea4f014bf3322b49638b013e0464c029ae5abcf1af9ea10c6cd"
+    }
+   ]
+  },
+  {
    "slug": "hg-306-1991",
    "path": "hg/1991/306",
    "short": "HG nr. 306/1991",
@@ -506,6 +1157,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1757",
      "sha256": "8b58ebd5e33b77c34ff055b79d9213cb55743630080fb05df6b0889e231ba3e3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-308-1991",
+   "path": "hg/1991/308",
+   "short": "HG nr. 308/1991",
+   "title": "Hotărârea Guvernului nr. 308/1991 privind folosirea de către societăţile bancare a spaţiilor locative care au fost construite sau adaptate în scopul comerţului de bancă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1760",
+   "versions": [
+    {
+     "from": "1991-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1760",
+     "sha256": "9f5a9726561a9458f3d6dde48b81d71c34dc04992c6d73890e3f37dc8080b098"
+    }
+   ]
+  },
+  {
+   "slug": "hg-311-1991",
+   "path": "hg/1991/311",
+   "short": "HG nr. 311/1991",
+   "title": "Hotărârea Guvernului nr. 311/1991 privind aplicarea unor restricţii temporare în domeniul vamăl",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1762",
+   "versions": [
+    {
+     "from": "1991-04-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1762",
+     "sha256": "299523e9d002ee4a84d6eac902356ad5f9ea5f0abf9c01a6b657d43ba83b0b46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-316-1991",
+   "path": "hg/1991/316",
+   "short": "HG nr. 316/1991",
+   "title": "Hotărârea Guvernului nr. 316/1991 privind înfiinţarea Societăţii Comerciale \"Scipomar\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1764",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1764",
+     "sha256": "17214ad9a3955f0e61fa18e6840184d87a99a68d50a26d69434be2404632a9fb"
     }
    ]
   },
@@ -525,6 +1221,51 @@
    ]
   },
   {
+   "slug": "hg-321-1991",
+   "path": "hg/1991/321",
+   "short": "HG nr. 321/1991",
+   "title": "Hotărârea Guvernului nr. 321/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în domeniul producerii, industrializării şi comercializării produselor horticole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1770",
+   "versions": [
+    {
+     "from": "1991-05-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1770",
+     "sha256": "50bdbc6d422f18a56b1fc9b641c8f06b571f5910acf636a7019e457d03b236de"
+    }
+   ]
+  },
+  {
+   "slug": "hg-322-1991",
+   "path": "hg/1991/322",
+   "short": "HG nr. 322/1991",
+   "title": "Hotărârea Guvernului nr. 322/1991 privind preluarea unor mijloace fixe de către Rezervaţia Biosferei \"Delta Dunării\" de la Compania Economică \"Delta Dunării\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94154",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94154",
+     "sha256": "592f4aa7c70fdb65f86932ae7bceae2fc9fe76ea1abd85483249fb2b8c4421f2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-324-1991",
+   "path": "hg/1991/324",
+   "short": "HG nr. 324/1991",
+   "title": "Hotărârea Guvernului nr. 324/1991 privind autorizarea funcţionării unui oficiu al Departamentului caritabil al Episcopiei Ortodoxe Române din Statele Unite ale Americii şi Canada, pe teritoriul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1771",
+   "versions": [
+    {
+     "from": "1991-05-14",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1771",
+     "sha256": "7b21de1b5dae5751787aaccc6420a390dfae2f4ac4f15a85718039bf3826b879"
+    }
+   ]
+  },
+  {
    "slug": "hg-326-1991",
    "path": "hg/1991/326",
    "short": "HG nr. 326/1991",
@@ -536,6 +1277,441 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1773",
      "sha256": "26319edf1ab93bae8d0ecb660adbb62c50acd98d6261fad90175cf045704fa36"
+    }
+   ]
+  },
+  {
+   "slug": "hg-333-1991",
+   "path": "hg/1991/333",
+   "short": "HG nr. 333/1991",
+   "title": "Hotărârea Guvernului nr. 333/1991 pentru aprobarea Minutei celei de-a V-a sesiuni a Comisiei mixte guvernamentale româno-malayeziene de cooperare economică, tehnică şi ştiinţifică, semnată la Kuala Lumpur, Malayezia, la 28 februarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94155",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94155",
+     "sha256": "c1c1dc3581895a60b10febcec88d8205e712b4776614dfc371ce2ec8bfe02808"
+    }
+   ]
+  },
+  {
+   "slug": "hg-335-1991",
+   "path": "hg/1991/335",
+   "short": "HG nr. 335/1991",
+   "title": "Hotărârea Guvernului nr. 335/1991 privind trecerea în folosinţa gratuită, pe durată determinată a unui imobil din municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1775",
+   "versions": [
+    {
+     "from": "1992-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1775",
+     "sha256": "ffb3301f12432113d21bf01015bf29b8fe09e069eed5f663110cd632b84d79fe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-337-1991",
+   "path": "hg/1991/337",
+   "short": "HG nr. 337/1991",
+   "title": "Hotărârea Guvernului nr. 337/1991 privind actualizarea componenţei Comisiei centrale pentru recensămîntul populaţiei şi locuinţelor - 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1776",
+   "versions": [
+    {
+     "from": "1991-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1776",
+     "sha256": "84617323af9f73fecd25497f251ebfe5c55422a13138b44ec0670ef723a4b68a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-344-1991",
+   "path": "hg/1991/344",
+   "short": "HG nr. 344/1991",
+   "title": "Hotărârea Guvernului nr. 344/1991 privind organizarea Institutului de cercetare ştiinţifică şi inginerie tehnologică pentru echipamente energetice Bucureşti, din subordinea Ministerului Resurselor şi Industriei, ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1777",
+   "versions": [
+    {
+     "from": "1991-06-04",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1777",
+     "sha256": "fbcedc350e0f3479f525cc2e6ebf662d5e0599a6b0260dbbfaeb090d348898f0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-345-1991",
+   "path": "hg/1991/345",
+   "short": "HG nr. 345/1991",
+   "title": "Hotărârea Guvernului nr. 345/1991 privind înfiinţarea de societăţi comerciale pe acţiuni prin reorganizarea unor întreprinderi horticole de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1778",
+   "versions": [
+    {
+     "from": "1991-05-31",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1778",
+     "sha256": "35b0d4b770dbe5cfa36ba71a1f37b5d47c954308741da1899f555a543c901994"
+    }
+   ]
+  },
+  {
+   "slug": "hg-346-1991",
+   "path": "hg/1991/346",
+   "short": "HG nr. 346/1991",
+   "title": "Hotărârea Guvernului nr. 346/1991 privind înfiinţarea Societăţii comerciale \"Electrecord\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1779",
+   "versions": [
+    {
+     "from": "1991-05-31",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1779",
+     "sha256": "b8783e7dd5bf96ca5d87d37c6746ab47122d74ced6870d845dc29ec6d2a64e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-347-1991",
+   "path": "hg/1991/347",
+   "short": "HG nr. 347/1991",
+   "title": "Hotărârea Guvernului nr. 347/1991 privind înfiinţarea Societăţii comerciale \"Romdidac\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92513",
+   "versions": [
+    {
+     "from": "1991-06-05",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92513",
+     "sha256": "420568f3996246b0633ae76b35dcb9d82871e0e6a892189ae930ea7f0438fa20"
+    }
+   ]
+  },
+  {
+   "slug": "hg-349-1991",
+   "path": "hg/1991/349",
+   "short": "HG nr. 349/1991",
+   "title": "Hotărârea Guvernului nr. 349/1991 privind aprobarea unor scutiri de taxe vamale pentru lucrările de metrou",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1780",
+   "versions": [
+    {
+     "from": "1991-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1780",
+     "sha256": "5d4fc586f9cc8a82156af9f56d62621ff9bd83fe59fa1599c9d721f1e6af40bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-350-1991",
+   "path": "hg/1991/350",
+   "short": "HG nr. 350/1991",
+   "title": "Hotărârea Guvernului nr. 350/1991 privind acoperirea cheltuielilor cu lucrările de împăduriri în fond forestier",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1781",
+   "versions": [
+    {
+     "from": "1991-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1781",
+     "sha256": "85d3acea3b28e0f8c5a1d0a815e000761d1ac65b87d7e7c466012d0d2b11506d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-352-1991",
+   "path": "hg/1991/352",
+   "short": "HG nr. 352/1991",
+   "title": "Hotărârea Guvernului nr. 352/1991 privind aplicarea regimului devizelor în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1782",
+   "versions": [
+    {
+     "from": "1991-07-03",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1782",
+     "sha256": "700cb054b86087f11fea222d2157e562b99ef04e13a3b8fcb31f6d99e6c37766"
+    }
+   ]
+  },
+  {
+   "slug": "hg-353-1991",
+   "path": "hg/1991/353",
+   "short": "HG nr. 353/1991",
+   "title": "Hotărârea Guvernului nr. 353/1991 cu privire la modificarea anexei la Hotărârea Guvernului nr. 268/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1783",
+   "versions": [
+    {
+     "from": "1991-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1783",
+     "sha256": "35227fb8d6e70e109919d95ee294c3190d4c2cc81fbe79fb97ab66015e295826"
+    }
+   ]
+  },
+  {
+   "slug": "hg-354-1991",
+   "path": "hg/1991/354",
+   "short": "HG nr. 354/1991",
+   "title": "Hotărârea Guvernului nr. 354/1991 privind modificarea anexelor la Hotărârea Guvernului nr. 1001 din 4 septembrie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1784",
+   "versions": [
+    {
+     "from": "1992-06-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1784",
+     "sha256": "ed37316e19d5ddebcf5ca232a1fe9656e644269dfad224cf406b205acd735787"
+    }
+   ]
+  },
+  {
+   "slug": "hg-357-1991",
+   "path": "hg/1991/357",
+   "short": "HG nr. 357/1991",
+   "title": "Hotărârea Guvernului nr. 357/1991 privind garantarea rambursării unor credite",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1785",
+   "versions": [
+    {
+     "from": "1991-05-31",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1785",
+     "sha256": "90cafa896846bd21db413a9de16eb644d6472558803d70e0c7d64c1789e73e64"
+    }
+   ]
+  },
+  {
+   "slug": "hg-359-1991",
+   "path": "hg/1991/359",
+   "short": "HG nr. 359/1991",
+   "title": "Hotărârea Guvernului nr. 359/1991 privind organizarea unor institute de cercetare şi proiectare din subordinea Ministerului Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1788",
+   "versions": [
+    {
+     "from": "1991-06-05",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1788",
+     "sha256": "74beb124e31bc624eacc9085372806a439f021eda217b8b8d562cc60bdd4841b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-361-1991",
+   "path": "hg/1991/361",
+   "short": "HG nr. 361/1991",
+   "title": "Hotărârea Guvernului nr. 361/1991 privind înfiinţarea Societăţii comerciale \"Princer\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1790",
+   "versions": [
+    {
+     "from": "1991-06-05",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1790",
+     "sha256": "c0b64cc7238f3e2543ea06891030fe99f16631035c8336ddbf9aedccb3dc0f09"
+    }
+   ]
+  },
+  {
+   "slug": "hg-362-1991",
+   "path": "hg/1991/362",
+   "short": "HG nr. 362/1991",
+   "title": "Hotărârea Guvernului nr. 362/1991 privind înfiinţarea Administraţiei fluviale a Dunării de Jos Galaţi ca regie autonomă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1791",
+   "versions": [
+    {
+     "from": "1991-06-14",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1791",
+     "sha256": "31c04dafbf6e1ad970bf17c35a6f6ec633330c102139bb7a4989499c874632ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-363-1991",
+   "path": "hg/1991/363",
+   "short": "HG nr. 363/1991",
+   "title": "Hotărârea Guvernului nr. 363/1991 pentru aprobarea Protocolului celei de-a XV-a sesiuni a Comisiei mixte interguvernamentale româno-norvegiene de cooperare economică, industriala, tehnologica şi ştiinţifică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94118",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94118",
+     "sha256": "ca9d89f24f43f4fd55f26d773aaa23d25bf313ae6da352fcd675e43673e670a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-366-1991",
+   "path": "hg/1991/366",
+   "short": "HG nr. 366/1991",
+   "title": "Hotărârea Guvernului nr. 366/1991 privind acordarea de credite tinerilor căsătoriţi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1793",
+   "versions": [
+    {
+     "from": "1991-06-14",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1793",
+     "sha256": "da59454d1310645a545d2717a588220fb990fb111aa6458f111f0d507b5b1cba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-370-1991",
+   "path": "hg/1991/370",
+   "short": "HG nr. 370/1991",
+   "title": "Hotărârea Guvernului nr. 370/1991 privind unele măsuri pentru realizarea contractelor externe semnate cu U.R.S.S., care se execută cu plata în contrapartidă cu materii prime (gaze naturale şi minereu de fier), cuprinse în balanţa de import, în cadrul convenţiilor guvernamentale Soveta bad şi Krivoi Rog",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1794",
+   "versions": [
+    {
+     "from": "1991-06-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1794",
+     "sha256": "d9b67e3188bd431f84e23cebf805d84eb80fc848e46c07d01e1e78c6a7632af8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-371-1991",
+   "path": "hg/1991/371",
+   "short": "HG nr. 371/1991",
+   "title": "Hotărârea Guvernului nr. 371/1991 pentru aprobarea Protocolului de cooperare economico-comercială dintre Guvernul României şi Guvernul Republicii Federative a Braziliei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1795",
+   "versions": [
+    {
+     "from": "1991-06-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1795",
+     "sha256": "77853197f6d4e673319776aa8cf4d468582419a3f77937dd1fae47f4b977acdd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-372-1991",
+   "path": "hg/1991/372",
+   "short": "HG nr. 372/1991",
+   "title": "Hotărârea Guvernului nr. 372/1991 pentru aprobarea Acordului comercial şi a Acordului de cooperare economică dintre Guvernul României şi Guvernul Republicii Chile",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1798",
+   "versions": [
+    {
+     "from": "1991-06-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1798",
+     "sha256": "44401bb88137c5b02ec101830d0ded4546a021e1fed25b014c6f1634f1b68be9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-373-1991",
+   "path": "hg/1991/373",
+   "short": "HG nr. 373/1991",
+   "title": "Hotărârea Guvernului nr. 373/1991 pentru aprobarea Acordului privind comerţul şi plăţile şi a Acordului privind reglementarea obligaţiilor reciproce în relaţiile de plăti existente la 31 decembrie 1990, dintre Guvernul României şi Guvernul Republicii Populare, Mongole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35381",
+   "versions": [
+    {
+     "from": "1991-06-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35381",
+     "sha256": "9247b986e2885db2e335ec33449642785c2c2f803d33e3843e9e0aa8b1d62cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-375-1991",
+   "path": "hg/1991/375",
+   "short": "HG nr. 375/1991",
+   "title": "Hotărârea Guvernului nr. 375/1991 privind înfiinţarea Societăţii comerciale \"Presa naţionala\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1799",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1799",
+     "sha256": "373f422410c1c2f9930797a95668bedf06c65fc6ea04f2095fde54582a000cc5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-376-1991",
+   "path": "hg/1991/376",
+   "short": "HG nr. 376/1991",
+   "title": "Hotărârea Guvernului nr. 376/1991 pentru acoperirea necesarului de credite bugetare, aferent gratuitatilor şi reducerilor de tarife pentru călătoria cu mijloacele de transport feroviare şi auto",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1800",
+   "versions": [
+    {
+     "from": "1991-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1800",
+     "sha256": "55f7d5018d765518833a9aa96e5990b7806dfa9e8a40e904e65a1821be61616a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-377-1991",
+   "path": "hg/1991/377",
+   "short": "HG nr. 377/1991",
+   "title": "Hotărârea Guvernului nr. 377/1991 privind suplimentarea bugetului judeţului Constanţa în vederea finanţării acţiunilor organizate cu prilejul împlinirii a 2250 ani de la prima menţiune scrisă a Constanţei (Tomis)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92423",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92423",
+     "sha256": "a474214c0c44d996febf065ad8961b6b789b073dd3b23a21b920f5706980ae77"
+    }
+   ]
+  },
+  {
+   "slug": "hg-379-1991",
+   "path": "hg/1991/379",
+   "short": "HG nr. 379/1991",
+   "title": "Hotărârea Guvernului nr. 379/1991 privind schimbarea denumirii unor societăţi comerciale pe acţiuni din industria alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92486",
+   "versions": [
+    {
+     "from": "1991-06-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92486",
+     "sha256": "db0287dd9e983db82446de7c67bedb17b0385f36a15655004aeb96f55ef5fb18"
+    }
+   ]
+  },
+  {
+   "slug": "hg-383-1991",
+   "path": "hg/1991/383",
+   "short": "HG nr. 383/1991",
+   "title": "Hotărârea Guvernului nr. 383/1991 pentru modificarea articolului 5, faza a doua, din Hotărârea Guvernului nr. 182 din 20 martie 1991 privind constituirea Agenţiei Române de Dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95105",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95105",
+     "sha256": "5221243154e4e5c9a30cb0d91e10686e60e50e525badeacf29d67108a5d08b94"
+    }
+   ]
+  },
+  {
+   "slug": "hg-385-1991",
+   "path": "hg/1991/385",
+   "short": "HG nr. 385/1991",
+   "title": "Hotărârea Guvernului nr. 385/1991 privind transmiterea fără plată a centralei termice de zonă vest Baia Mare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92424",
+   "versions": [
+    {
+     "from": "1991-06-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92424",
+     "sha256": "c3d6378a7a2af9e39976b9367d33053d845929f2b563d577406d5c4a817ff034"
+    }
+   ]
+  },
+  {
+   "slug": "hg-389-1991",
+   "path": "hg/1991/389",
+   "short": "HG nr. 389/1991",
+   "title": "Hotărârea Guvernului nr. 389/1991 privind autorizarea funcţionării în România a Fundaţiei \"Walther Rudolf - Copii în primejdie\" - Filiala Timişoara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92357",
+   "versions": [
+    {
+     "from": "1991-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92357",
+     "sha256": "fc21940ff45d3ea18656eed2503455c6bdf7adc866a917e96bb136c29f2f1a60"
     }
    ]
   },
@@ -570,6 +1746,81 @@
    ]
   },
   {
+   "slug": "hg-393-1991",
+   "path": "hg/1991/393",
+   "short": "HG nr. 393/1991",
+   "title": "Hotărârea Guvernului nr. 393/1991 privind modificarea anexei la Hotărârea Guvernului nr. 6 din 10 ianuarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92430",
+   "versions": [
+    {
+     "from": "1991-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92430",
+     "sha256": "aa22b7a3b0adc35f460797d12067d2e78209f57c75d2c50e1b91d248d06df265"
+    }
+   ]
+  },
+  {
+   "slug": "hg-394-1991",
+   "path": "hg/1991/394",
+   "short": "HG nr. 394/1991",
+   "title": "Hotărârea Guvernului nr. 394/1991 privind utilizarea resurselor în lei aferente creditelor externe pe termen mijlociu şi lung",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1806",
+   "versions": [
+    {
+     "from": "1991-07-03",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1806",
+     "sha256": "0f37ac48d76b9aca6da5979a0e807b0e71a4f71fd4bfb712928e0e753230ed8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-395-1991",
+   "path": "hg/1991/395",
+   "short": "HG nr. 395/1991",
+   "title": "Hotărârea Guvernului nr. 395/1991 pentru modificarea şi completarea Hotărîrii Guvernului nr. 477/1990 privind unele măsuri pentru îmbunătăţirea activităţii direcţiilor generale pentru agricultura şi industrie alimentară, judeţene şi a municipiului Bucureşti, precum şi a altor unităţi agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1807",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1807",
+     "sha256": "fa19fd4654bc3ace58446cbdd27d1bfc98fdcd837d884435436f82fe9293c28d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-396-1991",
+   "path": "hg/1991/396",
+   "short": "HG nr. 396/1991",
+   "title": "Hotărârea Guvernului nr. 396/1991 privind unele măsuri pentru constituirea fondului de stat de cereale, seminţe oleaginoase şi leguminoase boabe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1808",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1808",
+     "sha256": "ac16e05d120479248d0015bc7f4647979748422a4678b2ffcca8bd981a502a96"
+    }
+   ]
+  },
+  {
+   "slug": "hg-398-1991",
+   "path": "hg/1991/398",
+   "short": "HG nr. 398/1991",
+   "title": "Hotărârea Guvernului nr. 398/1991 pentru modificarea şi completarea Hotărîrii Guvernului nr. 239/ 29.03.1991 cu privire la etapa a doua de liberalizare a preţurilor şi tarifelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1809",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1809",
+     "sha256": "23e2a8e00c549905ba2e6206bbd7464d42f82b11bbed4eecaa6b605f377866c0"
+    }
+   ]
+  },
+  {
    "slug": "hg-400-1991",
    "path": "hg/1991/400",
    "short": "HG nr. 400/1991",
@@ -581,6 +1832,51 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1812",
      "sha256": "956ce97c077f7b30f4411f8858ebb2890e0e7eb3436901058a5b6a16ca286308"
+    }
+   ]
+  },
+  {
+   "slug": "hg-402-1991",
+   "path": "hg/1991/402",
+   "short": "HG nr. 402/1991",
+   "title": "Hotărârea Guvernului nr. 402/1991 pentru aprobarea Convenţiei dintre Guvernul României şi Guvernul Uniunii Republicilor Sovietice Socialiste privind desfiinţarea regimului de vize, încheiată la Bucureşti la data de 11 martie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1813",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1813",
+     "sha256": "5a87d66f2ecc0bd6a87b6c04e02fe77ac1cf2ba8e2c59a6003a0e8ada75a9661"
+    }
+   ]
+  },
+  {
+   "slug": "hg-403-1991",
+   "path": "hg/1991/403",
+   "short": "HG nr. 403/1991",
+   "title": "Hotărârea Guvernului nr. 403/1991 privind suplimentarea bugetului de venituri şi cheltuieli al Curţii Supreme de Justiţie pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92637",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92637",
+     "sha256": "bb45b5b7d9a7d04e1aea5256521d468b7fa73b38575aeed3f63b5eef5f2c44dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-408-1991",
+   "path": "hg/1991/408",
+   "short": "HG nr. 408/1991",
+   "title": "Hotărârea Guvernului nr. 408/1991 privind schimbarea denumirii unor societăţi comerciale pe acţiuni din domeniul îmbunătăţirilor funciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92493",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92493",
+     "sha256": "52234a25be53e55ab390d4228a1d21164552765d9937fb42bc06896127f2ded3"
     }
    ]
   },
@@ -600,6 +1896,36 @@
    ]
   },
   {
+   "slug": "hg-410-1991",
+   "path": "hg/1991/410",
+   "short": "HG nr. 410/1991",
+   "title": "Hotărârea Guvernului nr. 410/1991 privind stabilirea categoriei judeţelor, municipiilor şi oraşelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1818",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1818",
+     "sha256": "6490ae3b642386ed8b10133a0b244ab06e490707bcfc6021fe4065a7b8cdc917"
+    }
+   ]
+  },
+  {
+   "slug": "hg-411-1991",
+   "path": "hg/1991/411",
+   "short": "HG nr. 411/1991",
+   "title": "Hotărârea Guvernului nr. 411/1991 privind aprobarea Acordului de colaborare culturală dintre Guvernul României şi Guvernul Republicii Federative a Braziliei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92638",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92638",
+     "sha256": "ff2f585c9473e7d956fa228775730c2974e1d2dcc743c28298d1f1f882f3d209"
+    }
+   ]
+  },
+  {
    "slug": "hg-412-1991",
    "path": "hg/1991/412",
    "short": "HG nr. 412/1991",
@@ -611,6 +1937,291 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1819",
      "sha256": "228cca36fbe616f984026fea16023cebc996231bf9f925b31afe6971ab2c838f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-413-1991",
+   "path": "hg/1991/413",
+   "short": "HG nr. 413/1991",
+   "title": "Hotărârea Guvernului nr. 413/1991 privind înfiinţarea Societăţii comerciale \"Agris - Redactia revistelor agricole\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92490",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 26,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92490",
+     "sha256": "3e0b387ef4b4d800c5feef189b61058babbde7794e025f226ac8a2e8cba972f7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-415-1991",
+   "path": "hg/1991/415",
+   "short": "HG nr. 415/1991",
+   "title": "Hotărârea Guvernului nr. 415/1991 privind stabilirea tarifului de distribuţie a energiei termice livrate la consumatori din sistemul de termoficare al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46792",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46792",
+     "sha256": "3f79a5eada0a743f1c8f164c5fd800901bc797e7233c72fd62de9c5ff2b4f9ae"
+    }
+   ]
+  },
+  {
+   "slug": "hg-416-1991",
+   "path": "hg/1991/416",
+   "short": "HG nr. 416/1991",
+   "title": "Hotărârea Guvernului nr. 416/1991 cu privire la uniformele militare şi portul acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92640",
+   "versions": [
+    {
+     "from": "1991-07-05",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92640",
+     "sha256": "d9509f9b3fab3b60ad24773e07964ec3fe47b3a6f87b28f7298352f2de12a10a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-417-1991",
+   "path": "hg/1991/417",
+   "short": "HG nr. 417/1991",
+   "title": "Hotărârea Guvernului nr. 417/1991 privind constituirea Comitetului Român pentru Probleme de Migrări",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87588",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87588",
+     "sha256": "64a032f8097483414b975aef93d8550688afca4b6aabd9fc6c16f0f95d359bc0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-419-1991",
+   "path": "hg/1991/419",
+   "short": "HG nr. 419/1991",
+   "title": "Hotărârea Guvernului nr. 419/1991 privind reabilitarea unor subunităţi economice componente ale regiilor autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1823",
+   "versions": [
+    {
+     "from": "1991-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1823",
+     "sha256": "e2d1325c62c9a4853aac1db084044e298ff957295b2f6abdce60a1f56cc99392"
+    }
+   ]
+  },
+  {
+   "slug": "hg-422-1991",
+   "path": "hg/1991/422",
+   "short": "HG nr. 422/1991",
+   "title": "Hotărârea Guvernului nr. 422/1991 privind acoperirea unor cheltuieli determinate de funcţionarea Consiliului de experţi din cadrul Agenţiei Naţionale pentru Privatizare şi Dezvoltarea Întreprinderilor Mici şi Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1825",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1825",
+     "sha256": "60ff19f260bf9173ea31a7287b4d240b7a83a5da0972b0562d6e27a418348d31"
+    }
+   ]
+  },
+  {
+   "slug": "hg-425-1991",
+   "path": "hg/1991/425",
+   "short": "HG nr. 425/1991",
+   "title": "Hotărârea Guvernului nr. 425/1991 privind crearea şi funcţionarea terminalului naţional conectat la reţeaua de comunicaţii directe între statele participante la Conferinţa pentru Securitate şi Cooperare în Europa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1827",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1827",
+     "sha256": "81086bb0a4b1de58bd676f171771ae5396034fe86f98bb40627994bdb21f9e91"
+    }
+   ]
+  },
+  {
+   "slug": "hg-428-1991",
+   "path": "hg/1991/428",
+   "short": "HG nr. 428/1991",
+   "title": "Hotărârea Guvernului nr. 428/1991 privind crearea în cadrul Ministerului Afacerilor Externe a Subsecretariatului de stat pentru relaţiile cu Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92491",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92491",
+     "sha256": "85244afe2476fc31a085ef2d448b77e2d8bbcc110a740c89f49c68743daa0d1a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-430-1991",
+   "path": "hg/1991/430",
+   "short": "HG nr. 430/1991",
+   "title": "Hotărârea Guvernului nr. 430/1991 pentru aprobarea Acordului comercial dintre Guvernul României şi Guvernul Republicii Indonezia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1829",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1829",
+     "sha256": "e9203aca477ed4bdca96f6db5b6e2848e027eb589cab0667f630299c0806302c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-433-1991",
+   "path": "hg/1991/433",
+   "short": "HG nr. 433/1991",
+   "title": "Hotărârea Guvernului nr. 433/1991 privind înfiinţarea societăţilor comerciale \"Somadi\" - S.A. şi \"Editura tehnică agricolă\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1830",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1830",
+     "sha256": "62b7c965a4e4e7a518201b34e8c129ee83972ecffbebed5b8e859754e1d8daf6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-434-1991",
+   "path": "hg/1991/434",
+   "short": "HG nr. 434/1991",
+   "title": "Hotărârea Guvernului nr. 434/1991 privind înfiinţarea Societăţii comerciale pe acţiuni \"Luceafarul\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35389",
+   "versions": [
+    {
+     "from": "1991-07-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35389",
+     "sha256": "954dd071a6a38ed8d74a090d2b99e41ab97cf19735309658f5f2af10303c5f2d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-435-1991",
+   "path": "hg/1991/435",
+   "short": "HG nr. 435/1991",
+   "title": "Hotărârea Guvernului nr. 435/1991 privind modificarea şi completarea unor prevederi ale Hotărîrii Guvernului nr. 144/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1831",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1831",
+     "sha256": "78529f619ab9d644edfacd307e174ac7ef2b1af4df5787e215d8be11eb085b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-436-1991",
+   "path": "hg/1991/436",
+   "short": "HG nr. 436/1991",
+   "title": "Hotărârea Guvernului nr. 436/1991 privind înfiinţarea Societăţii comerciale \"Romhandicap\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35390",
+   "versions": [
+    {
+     "from": "1991-07-19",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35390",
+     "sha256": "55d4a6ed00eee04f9d19a1eade2dda52f767d20a9013813576166d01b0a3664c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-437-1991",
+   "path": "hg/1991/437",
+   "short": "HG nr. 437/1991",
+   "title": "Hotărârea Guvernului nr. 437/1991 privind trecerea Uzinei \"G\" Rîmnicu Vîlcea, din subordinea Departamentului industriei chimice şi petrochimice al Ministerului Industriei, în structura Institutului de fizică atomică din subordinea Ministerului Învăţămîntului şi Ştiinţei şi reorganizarea sa ca Institut de criogenie şi separări izotopice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/46793",
+   "versions": [
+    {
+     "from": "1991-07-12",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/46793",
+     "sha256": "14a6164a3fbfb2dd3d3dae53a22d1dd612b1301afad8bce94b8635cbb7163329"
+    }
+   ]
+  },
+  {
+   "slug": "hg-440-1991",
+   "path": "hg/1991/440",
+   "short": "HG nr. 440/1991",
+   "title": "Hotărârea Guvernului nr. 440/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în Delta Dunării",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1834",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 34,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1834",
+     "sha256": "10f8dc403a1adcd4827361336d58ca9ed7650295adfe8005894008149d8d51a0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-443-1991",
+   "path": "hg/1991/443",
+   "short": "HG nr. 443/1991",
+   "title": "Hotărârea Guvernului nr. 443/1991 cu privire la plata salariilor contabililor şefi din cooperativele agricole, în perioada 1 iulie - 31 decembrie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1837",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1837",
+     "sha256": "099c4ea61fc7cce3fd36206eb2119a5a848443418050065b49d6ca228a60a417"
+    }
+   ]
+  },
+  {
+   "slug": "hg-444-1991",
+   "path": "hg/1991/444",
+   "short": "HG nr. 444/1991",
+   "title": "Hotărârea Guvernului nr. 444/1991 privind transmiterea unor locuinţe realizate din fondurile statului în ansamblul Băneasa din municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20859",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20859",
+     "sha256": "981a95f5163abdce064b0ceb961ccda76a2c3747d741dd336dda04f8b43f8b11"
+    }
+   ]
+  },
+  {
+   "slug": "hg-445-1991",
+   "path": "hg/1991/445",
+   "short": "HG nr. 445/1991",
+   "title": "Hotărârea Guvernului nr. 445/1991 privind preţurile de contractare şi de achiziţie pentru cantităţile de grîu, orz şi orzoaica ce se livreaza la fondul de stat şi furaje din recolta anului 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20858",
+   "versions": [
+    {
+     "from": "1991-07-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20858",
+     "sha256": "65c809cbec3ef7e57319256b49570d4b5b7b7cff7a1a26bfcb37e3b6257b844a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-447-1991",
+   "path": "hg/1991/447",
+   "short": "HG nr. 447/1991",
+   "title": "Hotărârea Guvernului nr. 447/1991 privind preluarea de către stat şi băncile comerciale a pierderilor înregistrate în anii 1989 şi 1990 de agenţii economici cu capital de stat, precum şi a creditelor bancare neperformante",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1838",
+   "versions": [
+    {
+     "from": "1991-07-27",
+     "units": 11,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1838",
+     "sha256": "927282820b5ded70a092dd35cd0e9239fbb3d5b61270f3a12219d3ff35a9009c"
     }
    ]
   },
@@ -630,6 +2241,66 @@
    ]
   },
   {
+   "slug": "hg-449-1991",
+   "path": "hg/1991/449",
+   "short": "HG nr. 449/1991",
+   "title": "Hotărârea Guvernului nr. 449/1991 privind înfiinţarea Societăţii comerciale pe acţiuni \"Nuclear &amp; Vacuum\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1840",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1840",
+     "sha256": "752a0dcccdb12f4b2a71e004162cb4f4e7d813a37d4e3766e3f63f677744a98e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-451-1991",
+   "path": "hg/1991/451",
+   "short": "HG nr. 451/1991",
+   "title": "Hotărârea Guvernului nr. 451/1991 privind înfiinţarea de societăţi comerciale pe acţiuni prin reorganizarea unor asociaţii economice de stat şi cooperatiste în horticultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1841",
+   "versions": [
+    {
+     "from": "1991-07-24",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1841",
+     "sha256": "8dc0e689b3809fb678d3bbb42e52e9386853661bdf0125f8b3cffb9bb5a1fd66"
+    }
+   ]
+  },
+  {
+   "slug": "hg-455-1991",
+   "path": "hg/1991/455",
+   "short": "HG nr. 455/1991",
+   "title": "Hotărârea Guvernului nr. 455/1991 privind aprobarea documentaţiei tehnico-economice a obiectivului de investiţii \"Centrala electrică de termoficare Drobeta-Turnu Severin - extindere cu un cazan de 420 t/h şi doua cazane de 105 t/h, cu funcţionare pe păcura\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20860",
+   "versions": [
+    {
+     "from": "1991-07-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20860",
+     "sha256": "bce83195b038206f98673923f70a74c4d02082a3d28dfbfab2c519a267bd6170"
+    }
+   ]
+  },
+  {
+   "slug": "hg-459-1991",
+   "path": "hg/1991/459",
+   "short": "HG nr. 459/1991",
+   "title": "Hotărârea Guvernului nr. 459/1991 privind suportarea din rezerva bugetară a cheltuielilor necesare publicării în Monitorul Oficial al României a listei cetăţenilor români aflaţi în străinătate care au solicitat renunţarea la cetăţenia română",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92352",
+   "versions": [
+    {
+     "from": "1991-07-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92352",
+     "sha256": "2b50af7f66a6ad882082193ff207feefe6e42afe38954c40497ea8f8c06d4488"
+    }
+   ]
+  },
+  {
    "slug": "hg-461-1991",
    "path": "hg/1991/461",
    "short": "HG nr. 461/1991",
@@ -645,6 +2316,141 @@
    ]
   },
   {
+   "slug": "hg-463-1991",
+   "path": "hg/1991/463",
+   "short": "HG nr. 463/1991",
+   "title": "Hotărârea Guvernului nr. 463/1991 privind încadrarea în muncă a absolvenţilor învăţămîntului superior şi liceal, promoţia 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92353",
+   "versions": [
+    {
+     "from": "1991-07-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92353",
+     "sha256": "493df67cc85ea2de849c073489ade7a85cb651788da52e124983919cd973f1c4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-465-1991",
+   "path": "hg/1991/465",
+   "short": "HG nr. 465/1991",
+   "title": "Hotărârea Guvernului nr. 465/1991 privind decontarea prin compensare a plăţilor restante existente în economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1847",
+   "versions": [
+    {
+     "from": "1991-07-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1847",
+     "sha256": "d0315aae328ded1e32ac97e2c479dcc3dbef0016cff71794e67bfcd7126f54ba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-466-1991",
+   "path": "hg/1991/466",
+   "short": "HG nr. 466/1991",
+   "title": "Hotărârea Guvernului nr. 466/1991 privind modificarea şi abrogarea unor prevederi din Hotărârea Guvernului nr. 1222 din 21 noiembrie 1990 privind regimul impozitelor şi taxelor aplicabile reprezentantelor din România ale societăţilor comerciale sau organizaţiilor economice străine, precum şi drepturile şi obligaţiile legate de salarizarea personalului român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1848",
+   "versions": [
+    {
+     "from": "1991-07-26",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1848",
+     "sha256": "bb397926c9418f7267f2b5022ddcc1e5dd88d5e34bdb1205987fac1fe466483e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-467-1991",
+   "path": "hg/1991/467",
+   "short": "HG nr. 467/1991",
+   "title": "Hotărârea Guvernului nr. 467/1991 privind aprobarea, în vederea semnării, a textului Convenţiei pentru evitarea dublei impuneri cu privire la impozitele pe venit şi pe avere dintre Guvernul României şi Guvernul Republicii Elene",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47719",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47719",
+     "sha256": "d4c0d99590a4fb08f447a4e7bb0d9923c9ce03ea26684aa053008bbda536a59b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-468-1991",
+   "path": "hg/1991/468",
+   "short": "HG nr. 468/1991",
+   "title": "Hotărârea Guvernului nr. 468/1991 pentru aprobarea Înţelegerii dintre Guvernul României şi Guvernul Republicii Islamice Iran privind acordarea de facilităţi în materie de vize, încheiată la Teheran la 29 mai 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92354",
+   "versions": [
+    {
+     "from": "1991-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92354",
+     "sha256": "af1ee9dd6cbf345af71a40ceb8cde414454ef0c9df0ad0d2bf7025084c95d3e0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-469-1991",
+   "path": "hg/1991/469",
+   "short": "HG nr. 469/1991",
+   "title": "Hotărârea Guvernului nr. 469/1991 privind înfiinţarea de societăţi comerciale pe acţiuni în industria alimentară",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1849",
+   "versions": [
+    {
+     "from": "1992-06-16",
+     "units": 32,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1849",
+     "sha256": "d0777546ff84d3713cc1190adfb880f9a28bc457e8450e07b68d269416ec5bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-471-1991",
+   "path": "hg/1991/471",
+   "short": "HG nr. 471/1991",
+   "title": "Hotărârea Guvernului nr. 471/1991 privind editarea monitorului oficial al judeţului şi al municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1850",
+   "versions": [
+    {
+     "from": "1991-08-08",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1850",
+     "sha256": "4fcfbf2ae0d109073246e29939609daa1aa3ba161e95d8e37e0342a67859e0c2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-474-1991",
+   "path": "hg/1991/474",
+   "short": "HG nr. 474/1991",
+   "title": "Hotărârea Guvernului nr. 474/1991 privind înfiinţarea Universităţii \"1 Decembrie\" Alba Iulia, judeţul Alba",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/29958",
+   "versions": [
+    {
+     "from": "1991-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/29958",
+     "sha256": "b133bd3b0a93341b802c762fae268908d865af26a316b985274e89bd8e127293"
+    }
+   ]
+  },
+  {
+   "slug": "hg-476-1991",
+   "path": "hg/1991/476",
+   "short": "HG nr. 476/1991",
+   "title": "Hotărârea Guvernului nr. 476/1991 cu privire la plata salariilor unor specialişti care lucrează în cooperativele agricole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1852",
+   "versions": [
+    {
+     "from": "1991-07-27",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1852",
+     "sha256": "c0827515971639bf2b3009e98b736df9ac96d7682a6af706b90c7dc4899e939f"
+    }
+   ]
+  },
+  {
    "slug": "hg-478-1991",
    "path": "hg/1991/478",
    "short": "HG nr. 478/1991",
@@ -656,6 +2462,81 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1853",
      "sha256": "b87daaf46a04a2ce15fd2b5c8bcd9b5b3f14daf5f63431198fa3043563653a99"
+    }
+   ]
+  },
+  {
+   "slug": "hg-479-1991",
+   "path": "hg/1991/479",
+   "short": "HG nr. 479/1991",
+   "title": "Hotărârea Guvernului nr. 479/1991 privind aprobarea, în vederea semnării, a textului Acordului dintre Guvernul României şi Guvernul Republicii Costa Rica privind evitarea dublei impuneri în materie de impozit pe venit şi pe capital",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47718",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47718",
+     "sha256": "7398d35cca6e8e6583617cdcb09a5b20463bbed31f8512c766bd6a7b15646ff6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-480-1991",
+   "path": "hg/1991/480",
+   "short": "HG nr. 480/1991",
+   "title": "Hotărârea Guvernului nr. 480/1991 privind acordarea unor reduceri de tarife pentru călătoria pe calea ferată",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18422",
+   "versions": [
+    {
+     "from": "1991-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18422",
+     "sha256": "7f4c526c00060bebc3bef8554f7a0e1ee14430d148a158fc32038b88b3c5f353"
+    }
+   ]
+  },
+  {
+   "slug": "hg-483-1991",
+   "path": "hg/1991/483",
+   "short": "HG nr. 483/1991",
+   "title": "Hotărârea Guvernului nr. 483/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30014",
+   "versions": [
+    {
+     "from": "1991-07-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30014",
+     "sha256": "0accf508475939700b50e420dfbc756ac79dd87ccd7086f8a1a20f721a7664b4"
+    }
+   ]
+  },
+  {
+   "slug": "hg-484-1991",
+   "path": "hg/1991/484",
+   "short": "HG nr. 484/1991",
+   "title": "Hotărârea Guvernului nr. 484/1991 privind autorizarea înfiinţării Institutului teologic româno-catolic de grad universitar în Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1855",
+   "versions": [
+    {
+     "from": "1991-07-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1855",
+     "sha256": "e1ed8216d545be32085f2d34c41906c55c0ece92bd86d5e8a13dc36b957a6848"
+    }
+   ]
+  },
+  {
+   "slug": "hg-485-1991",
+   "path": "hg/1991/485",
+   "short": "HG nr. 485/1991",
+   "title": "Hotărârea Guvernului nr. 485/1991 privind acordarea unui ajutor de urgenţă Republicii Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92356",
+   "versions": [
+    {
+     "from": "1991-07-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92356",
+     "sha256": "d3d68d5e1d0dfb099cbd3d7f820a37f5432a169286d96ee71cf1061a5ffc1cb2"
     }
    ]
   },
@@ -690,6 +2571,126 @@
    ]
   },
   {
+   "slug": "hg-490-1991",
+   "path": "hg/1991/490",
+   "short": "HG nr. 490/1991",
+   "title": "Hotărârea Guvernului nr. 490/1991 privind conceptia generală a informatizării societatii româneşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1858",
+   "versions": [
+    {
+     "from": "1991-09-18",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1858",
+     "sha256": "7ae2c3f00527fca6f6015aed5bab559b8bc3e0ab4df12a778e6f4cf5dfd47af8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-492-1991",
+   "path": "hg/1991/492",
+   "short": "HG nr. 492/1991",
+   "title": "Hotărârea Guvernului nr. 492/1991 privind unele măsuri pentru refacerea gospodăriilor din satul Buda, afectate de realizarea lacului de acumulare Corneţu - Mihăileşti, din Sectorul agricol Ilfov, municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1860",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1860",
+     "sha256": "4a16b7eef8b14c011ae51d8326d99a77eddb3184889c1d374785ba814000693e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-495-1991",
+   "path": "hg/1991/495",
+   "short": "HG nr. 495/1991",
+   "title": "Hotărârea Guvernului nr. 495/1991 privind încetarea activităţii Institutului român pentru sondarea opiniei publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92361",
+   "versions": [
+    {
+     "from": "1991-08-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92361",
+     "sha256": "bae7aec6353143537be4b145e3939319049a0925c3cd9bb31440abc0311231f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-497-1991",
+   "path": "hg/1991/497",
+   "short": "HG nr. 497/1991",
+   "title": "Hotărârea Guvernului nr. 497/1991 privind organizarea controlului financiar de stat în ministere şi alte organe ale administraţiei publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1862",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1862",
+     "sha256": "c02444edd62a7042ea1c0504dd37a8c9bdc5316821c1476060c0dfa768b7d5dc"
+    }
+   ]
+  },
+  {
+   "slug": "hg-499-1991",
+   "path": "hg/1991/499",
+   "short": "HG nr. 499/1991",
+   "title": "Hotărârea Guvernului nr. 499/1991 privind reglementarea unor probleme în activitatea Societăţii mixte \"Oltcit\" - S.A. Craiova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1863",
+   "versions": [
+    {
+     "from": "1991-08-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1863",
+     "sha256": "02837f4a284777994a413b91a88d6509c270c3729245fbec186a3bb6fd7a5bb2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-500-1991",
+   "path": "hg/1991/500",
+   "short": "HG nr. 500/1991",
+   "title": "Hotărârea Guvernului nr. 500/1991 privind strategia dezvoltării comunicaţiilor în România în perioada 1991-2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1864",
+   "versions": [
+    {
+     "from": "1991-08-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1864",
+     "sha256": "4e00285cd7ad3c56b5f79fb4afef5b33d219f642629ead96385445eb3d76ca29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-502-1991",
+   "path": "hg/1991/502",
+   "short": "HG nr. 502/1991",
+   "title": "Hotărârea Guvernului nr. 502/1991 privind acţiunea de atragere a capitalului străin în activitatea de explorare pentru minereuri metalifere din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1866",
+   "versions": [
+    {
+     "from": "1991-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1866",
+     "sha256": "86b50479abac1bb1c5b153772b066d884a1e5839b6c9e71832e10e11c1216fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-503-1991",
+   "path": "hg/1991/503",
+   "short": "HG nr. 503/1991",
+   "title": "Hotărârea Guvernului nr. 503/1991 privind organizaţiile patronale ale regiilor autonome şi societăţilor comerciale cu capital integral de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1867",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1867",
+     "sha256": "8c08b8abe1fd9925cf86bd0807b0f967ebc5a5ffac2e13e5f7d7cebf986e710a"
+    }
+   ]
+  },
+  {
    "slug": "hg-504-1991",
    "path": "hg/1991/504",
    "short": "HG nr. 504/1991",
@@ -701,6 +2702,201 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1868",
      "sha256": "bc6aa7be8fe9f4b1ef14ee6d5a1fd433d0b905bea7fdbf26981b273b62a35258"
+    }
+   ]
+  },
+  {
+   "slug": "hg-505-1991",
+   "path": "hg/1991/505",
+   "short": "HG nr. 505/1991",
+   "title": "Hotărârea Guvernului nr. 505/1991 privind semnarea unui memorandum între Asociaţia Mondiala a Întreprinderilor Mici şi Mijlocii şi Agenţia Naţională pentru Privatizare şi Dezvoltarea Întreprinderilor Mici şi Mijlocii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93421",
+   "versions": [
+    {
+     "from": "1991-08-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93421",
+     "sha256": "8dff2228c450a7698f9c5baa33fa1e8c347036c8f0eb638d432e07778c8631b1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-506-1991",
+   "path": "hg/1991/506",
+   "short": "HG nr. 506/1991",
+   "title": "Hotărârea Guvernului nr. 506/1991 cu privire la organizarea Departamentului forţei de muncă şi şomajului în cadrul Ministerului Muncii şi Protecţiei Sociale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1869",
+   "versions": [
+    {
+     "from": "1991-08-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1869",
+     "sha256": "a52b6192dc899487ed7159eecc8a5c4204a56d442b2785f75527f7812066bb8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-507-1991",
+   "path": "hg/1991/507",
+   "short": "HG nr. 507/1991",
+   "title": "Hotărârea Guvernului nr. 507/1991 privind înfiinţarea de societăţi comerciale pe acţiuni prin reorganizarea unor staţiuni de cercetare şi producţie în horticultura",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1870",
+   "versions": [
+    {
+     "from": "1991-08-20",
+     "units": 30,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1870",
+     "sha256": "0ab4e80242075f10d5cc321b70f11a0e4b6ba1e744f6c3e91af121d52e389a29"
+    }
+   ]
+  },
+  {
+   "slug": "hg-508-1991",
+   "path": "hg/1991/508",
+   "short": "HG nr. 508/1991",
+   "title": "Hotărârea Guvernului nr. 508/1991 privind autorizarea Societăţii comerciale \"Rompetrol\" - S.A. sa încheie contracte de concesionare a unor perimetre către investitori străini",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1871",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1871",
+     "sha256": "741839b2d5e01a1439ac4c73452080dda8c80e4c9a2776f38f349a6ef1d53bd9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-509-1991",
+   "path": "hg/1991/509",
+   "short": "HG nr. 509/1991",
+   "title": "Hotărârea Guvernului nr. 509/1991 privind organizarea, finanţarea şi coordonarea învăţămîntului preuniversitar de petrol şi gaze",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92421",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92421",
+     "sha256": "9a6c7989a95636ef99198888c5f014760c657daaa8407b223320e2701193cdf9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-511-1991",
+   "path": "hg/1991/511",
+   "short": "HG nr. 511/1991",
+   "title": "Hotărârea Guvernului nr. 511/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1872",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1872",
+     "sha256": "917958d3f389af2e359ec854e8ab0c9c6c566e8668e09b699ccda020675fbb87"
+    }
+   ]
+  },
+  {
+   "slug": "hg-513-1991",
+   "path": "hg/1991/513",
+   "short": "HG nr. 513/1991",
+   "title": "Hotărârea Guvernului nr. 513/1991 privind trecerea Muzeului civilizaţiei populare tradiţionale din subordinea Prefecturii judeţului Sibiu în subordinea Ministerului Culturii",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92365",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92365",
+     "sha256": "a19e1b0a0c76a61d7b28daebc210565f6f4c3276a08adddd4b4669b775015554"
+    }
+   ]
+  },
+  {
+   "slug": "hg-514-1991",
+   "path": "hg/1991/514",
+   "short": "HG nr. 514/1991",
+   "title": "Hotărârea Guvernului nr. 514/1991 privind majorarea transferului din bugetul administraţiei centrale de stat la bugetul local al judeţului Gorj pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1873",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1873",
+     "sha256": "ae1278d5cdc80743f0eef86e5d5a2f528aa60d60e498096ad325868a9be237ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-515-1991",
+   "path": "hg/1991/515",
+   "short": "HG nr. 515/1991",
+   "title": "Hotărârea Guvernului nr. 515/1991 privind înfiinţarea Centrului naţional pentru aşezări umane (habitat)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1874",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1874",
+     "sha256": "06e0fe1ba92008e212509309d37dceeaea3220b5a035c86840a8730e3ea640ac"
+    }
+   ]
+  },
+  {
+   "slug": "hg-516-1991",
+   "path": "hg/1991/516",
+   "short": "HG nr. 516/1991",
+   "title": "Hotărârea Guvernului nr. 516/1991 privind suportarea din fondul de rezervă la dispoziţia Guvernului a sumei de 1.067 mii lei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92366",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92366",
+     "sha256": "e815abdb9e14ee9217b84b74c250a86ff24905b44b7a012433effa877f3ccb78"
+    }
+   ]
+  },
+  {
+   "slug": "hg-517-1991",
+   "path": "hg/1991/517",
+   "short": "HG nr. 517/1991",
+   "title": "Hotărârea Guvernului nr. 517/1991 privind valorificarea în condiţii de eficienţă a unor bunuri aflate în administrarea instituţiilor publice din domeniul sanitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1875",
+   "versions": [
+    {
+     "from": "1991-08-21",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1875",
+     "sha256": "c7003c9b562ee0e6ba64fb787b69a229eccd5fb2371c66474881e603f961d59d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-518-1991",
+   "path": "hg/1991/518",
+   "short": "HG nr. 518/1991",
+   "title": "Hotărârea Guvernului nr. 518/1991 privind înfiinţarea Societăţii comerciale \"Percons\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1876",
+   "versions": [
+    {
+     "from": "1991-08-22",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1876",
+     "sha256": "07f31377ccb48a4318b7b0c1fa78a24da29d2e228cf2c57a15a65f09b78c1a5a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-519-1991",
+   "path": "hg/1991/519",
+   "short": "HG nr. 519/1991",
+   "title": "Hotărârea Guvernului nr. 519/1991 privind plata experţilor şi a altor specialişti care efectuează expertize judiciare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1877",
+   "versions": [
+    {
+     "from": "1991-08-22",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1877",
+     "sha256": "4e5995a4329ca6d58d9bd2f755e26ed072f2a706df297658354720ed0626ce63"
     }
    ]
   },
@@ -735,6 +2931,21 @@
    ]
   },
   {
+   "slug": "hg-523-1991",
+   "path": "hg/1991/523",
+   "short": "HG nr. 523/1991",
+   "title": "Hotărârea Guvernului nr. 523/1991 privind organizarea unor institute de cercetare-proiectare din subordinea Ministerului Industriei ca societăţi comerciale pe acţiuni",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92367",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 33,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92367",
+     "sha256": "add64183ade6a3b838dbc1615cb30b7f596f99f323191c18243e6891cc524c95"
+    }
+   ]
+  },
+  {
    "slug": "hg-524-1991",
    "path": "hg/1991/524",
    "short": "HG nr. 524/1991",
@@ -750,6 +2961,81 @@
    ]
   },
   {
+   "slug": "hg-525-1991",
+   "path": "hg/1991/525",
+   "short": "HG nr. 525/1991",
+   "title": "Hotărârea Guvernului nr. 525/1991 privind încetarea aplicabilităţii dispoziţiilor Hotărîrii Guvernului României nr. 37 din 14 ianuarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92368",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92368",
+     "sha256": "c0afd149e80720a8cdf15cd7e2e1bf35fa64a377e1e0c3662573a847e0943527"
+    }
+   ]
+  },
+  {
+   "slug": "hg-526-1991",
+   "path": "hg/1991/526",
+   "short": "HG nr. 526/1991",
+   "title": "Hotărârea Guvernului nr. 526/1991 privind majorarea pensiilor de asigurări sociale de stat, militare şi I.O.V.R",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1881",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1881",
+     "sha256": "f384d8c1239e0ac22a907237b9dba82a94fd29f7f7336efd5db8daf699429c86"
+    }
+   ]
+  },
+  {
+   "slug": "hg-527-1991",
+   "path": "hg/1991/527",
+   "short": "HG nr. 527/1991",
+   "title": "Hotărârea Guvernului nr. 527/1991 privind unele măsuri pentru înlăturarea efectelor seismului care a avut loc în judeţul Timiş în luna iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1882",
+   "versions": [
+    {
+     "from": "1991-08-14",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1882",
+     "sha256": "1e14d203aa6e0d234c636bfce578f80f8b83670a1de31b9f0385cb8ddddd2c48"
+    }
+   ]
+  },
+  {
+   "slug": "hg-528-1991",
+   "path": "hg/1991/528",
+   "short": "HG nr. 528/1991",
+   "title": "Hotărârea Guvernului nr. 528/1991 privind suplimentarea bugetului Ministerului Afacerilor Externe pentru finanţarea acţiunilor Fundaţiei culturale române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92419",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92419",
+     "sha256": "c60a4f14de218d2271c9e789a7b7bea74eaa022f9b874c4a6eb5ea7c06142c18"
+    }
+   ]
+  },
+  {
+   "slug": "hg-531-1991",
+   "path": "hg/1991/531",
+   "short": "HG nr. 531/1991",
+   "title": "Hotărârea Guvernului nr. 531/1991 cu privire la administrarea fondurilor constituite din contribuţia de asigurări sociale de 2%, conform articolului 7 din Hotărârea Guvernului nr. 219/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1885",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1885",
+     "sha256": "ded67923017f7ed866c53c75da5cf24ee6870402848f7abe82bdc97a5ee5869a"
+    }
+   ]
+  },
+  {
    "slug": "hg-532-1991",
    "path": "hg/1991/532",
    "short": "HG nr. 532/1991",
@@ -761,6 +3047,141 @@
      "units": 16,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1886",
      "sha256": "4e3ffe0b0445d4d238a27c388ecb6fc49e161251f86ffd3790cb2d6ed715d5ed"
+    }
+   ]
+  },
+  {
+   "slug": "hg-533-1991",
+   "path": "hg/1991/533",
+   "short": "HG nr. 533/1991",
+   "title": "Hotărârea Guvernului nr. 533/1991 privind reorganizarea unor staţiuni didactice-experimentale în agricultura ca regii autonome",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1887",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 36,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1887",
+     "sha256": "d76dab5468740a9254d22cbc96b95c299fbe8930f48686f1503f64e373818be2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-537-1991",
+   "path": "hg/1991/537",
+   "short": "HG nr. 537/1991",
+   "title": "Hotărârea Guvernului nr. 537/1991 privind salarizarea şi alte drepturi ale jucătorilor de fotbal profesionişti şi antrenorilor de la cluburi şi Federaţia română de fotbal",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1888",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1888",
+     "sha256": "c24c0706d937d6b96398fd3043cc5e74bd5b43c68b601aaed330b27bf63794ee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-538-1991",
+   "path": "hg/1991/538",
+   "short": "HG nr. 538/1991",
+   "title": "Hotărârea Guvernului nr. 538/1991 privind completarea regulamentelor de organizare şi funcţionare ale regiilor autonome de exploatare, transport şi prelucrare primară a lemnului \"Estrel\" Suceava, \"Vestrel\" Braşov şi \"Sudrel\" Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92420",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92420",
+     "sha256": "63f0236fa6ee8797d223e8a3a3872181503574be74988c7aee8edc94c848b08f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-539-1991",
+   "path": "hg/1991/539",
+   "short": "HG nr. 539/1991",
+   "title": "Hotărârea Guvernului nr. 539/1991 cu privire la abrogarea Hotărîrii Guvernului României nr. 243 din 3 aprilie 1991 privind preturile de contractare şi de achiziţie garantate de stat şi avantajele ce se acordă producătorilor agricoli la animale, păsări vii şi produse animale preluate la fondul de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/47920",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/47920",
+     "sha256": "0b1d7dd56ce3d0d67e0142cc4663472140ce93ecc976fa97979bd0514065dd75"
+    }
+   ]
+  },
+  {
+   "slug": "hg-540-1991",
+   "path": "hg/1991/540",
+   "short": "HG nr. 540/1991",
+   "title": "Hotărârea Guvernului nr. 540/1991 cu privire la stabilirea preţurilor cu amănuntul pentru medicamentele de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1889",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1889",
+     "sha256": "f2682e2d200c2830bb21e5260be1bddccf7d7cfb68081212334b08ed0d2c0d96"
+    }
+   ]
+  },
+  {
+   "slug": "hg-541-1991",
+   "path": "hg/1991/541",
+   "short": "HG nr. 541/1991",
+   "title": "Hotărârea Guvernului nr. 541/1991 privind stabilirea şi aplicarea taxelor de înregistrare a medicamentelor şi a produselor biologice de uz uman",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1890",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1890",
+     "sha256": "507fe3bc68f17ff73827dd546b69e1edbe88f47728247834563931a8cc4c9a5d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-542-1991",
+   "path": "hg/1991/542",
+   "short": "HG nr. 542/1991",
+   "title": "Hotărârea Guvernului nr. 542/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31961",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31961",
+     "sha256": "ac3c4e753d89de2a3ea2078370f1a03e0ec7357806aac7ab1d910670ed97f3aa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-543-1991",
+   "path": "hg/1991/543",
+   "short": "HG nr. 543/1991",
+   "title": "Hotărârea Guvernului nr. 543/1991 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92369",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92369",
+     "sha256": "edd94f8c1dcd01fc32c7dfc860c665923c292965dfedb95f97db0380e45964d1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-547-1991",
+   "path": "hg/1991/547",
+   "short": "HG nr. 547/1991",
+   "title": "Hotărârea Guvernului nr. 547/1991 privind instituirea taxei anuale pe audiovizual",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1892",
+   "versions": [
+    {
+     "from": "1991-09-02",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1892",
+     "sha256": "df032dac12974e920ea8481c14bc0037479b1b5e1690a5a635331c8aed8b7f7d"
     }
    ]
   },
@@ -795,6 +3216,36 @@
    ]
   },
   {
+   "slug": "hg-553-1991",
+   "path": "hg/1991/553",
+   "short": "HG nr. 553/1991",
+   "title": "Hotărârea Guvernului nr. 553/1991 privind măsuri de lichidare a urmărilor provocate de calamităţile naturale din iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1898",
+   "versions": [
+    {
+     "from": "1991-08-26",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1898",
+     "sha256": "ed9835126a758e343c67f2a932546ef8f5b7e3de8654e1f2fb402f1097b95513"
+    }
+   ]
+  },
+  {
+   "slug": "hg-554-1991",
+   "path": "hg/1991/554",
+   "short": "HG nr. 554/1991",
+   "title": "Hotărârea Guvernului nr. 554/1991 privind instituirea comisionului pentru sumele în lei şi în valută consemnate prin unităţile vamale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1899",
+   "versions": [
+    {
+     "from": "1991-08-29",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1899",
+     "sha256": "2ccdbf98ab5a0b4b55d4f1cb4c59e9c5507d8325369d430e18978eb851f1e453"
+    }
+   ]
+  },
+  {
    "slug": "hg-555-1991",
    "path": "hg/1991/555",
    "short": "HG nr. 555/1991",
@@ -806,6 +3257,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1900",
      "sha256": "eaa0cb7ce5589ee5e44fa3ef2b229bc605dff27705e6e6e50c1df624f0e2557a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-556-1991",
+   "path": "hg/1991/556",
+   "short": "HG nr. 556/1991",
+   "title": "Hotărârea Guvernului nr. 556/1991 privind înfiinţarea Departamentului reglementării comerţului şi turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1901",
+   "versions": [
+    {
+     "from": "1991-08-29",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1901",
+     "sha256": "a1199c3ea496a3bcc217a70a08f86e4ca517a6ee1f3a7d6cbad81c45ebc6ce36"
+    }
+   ]
+  },
+  {
+   "slug": "hg-557-1991",
+   "path": "hg/1991/557",
+   "short": "HG nr. 557/1991",
+   "title": "Hotărârea Guvernului nr. 557/1991 cu privire la condiţiile de îmbuteliat \"Coca Cola\" Bucureşti - S.R.L",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1902",
+   "versions": [
+    {
+     "from": "1991-08-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1902",
+     "sha256": "37a19c376294d90d2703535c9b4e5fb45f26daac1b6d7729c8402f08e9c7b2f5"
     }
    ]
   },
@@ -825,6 +3306,51 @@
    ]
   },
   {
+   "slug": "hg-562-1991",
+   "path": "hg/1991/562",
+   "short": "HG nr. 562/1991",
+   "title": "Hotărârea Guvernului nr. 562/1991 privind unele măsuri referitoare la încasarea avansului şi ratelor la vînzarea - cumpărarea locuinţelor construite din fondurile statului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1903",
+   "versions": [
+    {
+     "from": "1991-09-02",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1903",
+     "sha256": "6ad4e499682229fffc52b81509a5532741d069ecbca775fbfd1f6fe18fe46e6d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-563-1991",
+   "path": "hg/1991/563",
+   "short": "HG nr. 563/1991",
+   "title": "Hotărârea Guvernului nr. 563/1991 privind valorificarea arhivei Ministerului Afacerilor Externe",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35760",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35760",
+     "sha256": "4f0c0e20f72e596feef44eb0eeb3e2025f5939c950df8c8cfc82cd4e0a6f2073"
+    }
+   ]
+  },
+  {
+   "slug": "hg-565-1991",
+   "path": "hg/1991/565",
+   "short": "HG nr. 565/1991",
+   "title": "Hotărârea Guvernului nr. 565/1991 privind unele măsuri de executare a lucrărilor agricole pentru recolta anului 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1904",
+   "versions": [
+    {
+     "from": "1991-09-11",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1904",
+     "sha256": "69d13f140c4f893c2e7243afb1f04b7b7c18e37151318e52a3f06452abb587c9"
+    }
+   ]
+  },
+  {
    "slug": "hg-567-1991",
    "path": "hg/1991/567",
    "short": "HG nr. 567/1991",
@@ -836,6 +3362,21 @@
      "units": 11,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35581",
      "sha256": "e7ad6a5af14f65b0df7327690c46b47cdb8c752c1b73e99b29c013654f8a596a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-568-1991",
+   "path": "hg/1991/568",
+   "short": "HG nr. 568/1991",
+   "title": "Hotărârea Guvernului nr. 568/1991 privind suplimentarea, din fondul de rezervă la dispoziţia Guvernului, a sumei alocate prin Hotărârea Guvernului nr. 516/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1907",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1907",
+     "sha256": "0e6bdcedf7f74f374e70486258526d591861ba4283b0aa656bdd282f5c162243"
     }
    ]
   },
@@ -870,6 +3411,51 @@
    ]
   },
   {
+   "slug": "hg-571-1991",
+   "path": "hg/1991/571",
+   "short": "HG nr. 571/1991",
+   "title": "Hotărârea Guvernului nr. 571/1991 privind înfiinţarea Societăţii comerciale \"Transpeco\" - S.A. şi modificarea Hotărîrii Guvernului nr. 115 din 15 februarie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35757",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35757",
+     "sha256": "d1d386ebec059f3ec368c8562f1c975a0483c98e0735c3802a8fa14723d3b08c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-572-1991",
+   "path": "hg/1991/572",
+   "short": "HG nr. 572/1991",
+   "title": "Hotărârea Guvernului nr. 572/1991 privind constituirea fondurilor necesare acţiunilor de recuperare a unor tablouri aparţinînd patrimoniului naţional",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1910",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1910",
+     "sha256": "1d22bcc151ef0005c6ad96a52acb69669222563ef89ef03f361412f8f4b416af"
+    }
+   ]
+  },
+  {
+   "slug": "hg-575-1991",
+   "path": "hg/1991/575",
+   "short": "HG nr. 575/1991",
+   "title": "Hotărârea Guvernului nr. 575/1991 privind concesionarea construcţiei, întreţinerii şi exploatării unor autostrăzi în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1912",
+   "versions": [
+    {
+     "from": "1992-06-24",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1912",
+     "sha256": "55767c58157fa7c007a0e0f43e554eac39346e101688bbc6d4a09bc73d8f067c"
+    }
+   ]
+  },
+  {
    "slug": "hg-576-1991",
    "path": "hg/1991/576",
    "short": "HG nr. 576/1991",
@@ -881,6 +3467,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51444",
      "sha256": "5033ada0439d6a27dce8defed6b756c59a29d94bf285e073f60b89bd41815beb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-577-1991",
+   "path": "hg/1991/577",
+   "short": "HG nr. 577/1991",
+   "title": "Hotărârea Guvernului nr. 577/1991 pentru aprobarea semnarii Acordului internaţional privind utilizarea staţiilor de sol \"INMARSAT\" de navă în porturi şi în limitele mărilor teritoriale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95246",
+   "versions": [
+    {
+     "from": "1991-09-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95246",
+     "sha256": "44ac64a845736f90d9ea6fada6fe4c5c44221e8af6532a89c2fac255b8867ca6"
     }
    ]
   },
@@ -915,6 +3516,111 @@
    ]
   },
   {
+   "slug": "hg-582-1991",
+   "path": "hg/1991/582",
+   "short": "HG nr. 582/1991",
+   "title": "Hotărârea Guvernului nr. 582/1991 pentru aprobarea Protocolului sesiunii a VIII-a a Comisiei permanente interguvernamentale româno-cipriote de colaborare economică şi cooperare industriala şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95247",
+   "versions": [
+    {
+     "from": "1991-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95247",
+     "sha256": "e5f615eab4b2af4c82a4aa6cf6fe01656ead2d9df0e4a37c30acd9202713a82e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-583-1991",
+   "path": "hg/1991/583",
+   "short": "HG nr. 583/1991",
+   "title": "Hotărârea Guvernului nr. 583/1991 privind aprobarea Amendamentului la Convenţia privitoare la expoziţiile internaţionale, din 22 noiembrie 1928, astfel cum a fost completată prin protocoalele din 10 mai 1948, 16 noiembrie 1966 şi 30 noiembrie 1972 şi prin Amendamentul din 24 iunie 1982, adoptat de Adunarea generală a Biroului Internaţional al Expoziţiilor la 31 mai 1988",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16172",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16172",
+     "sha256": "0ac05e1c93c797676daf8b401021e6a009fb8a13d74868c5a95de461f1875654"
+    }
+   ]
+  },
+  {
+   "slug": "hg-584-1991",
+   "path": "hg/1991/584",
+   "short": "HG nr. 584/1991",
+   "title": "Hotărârea Guvernului nr. 584/1991 privind deblocarea plăţilor în economie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1914",
+   "versions": [
+    {
+     "from": "1991-09-06",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1914",
+     "sha256": "9567d3aa7a55cdd5b86d28a4d0c6d5ab5de440d942d548b17d7704ece3471f2a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-588-1991",
+   "path": "hg/1991/588",
+   "short": "HG nr. 588/1991",
+   "title": "Hotărârea Guvernului nr. 588/1991 privind organizarea, finanţarea şi coordonarea învăţămîntului preuniversitar din industria energiei electrice şi termice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20322",
+   "versions": [
+    {
+     "from": "1991-09-12",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20322",
+     "sha256": "fd0a0e569626618dcb1a2f5cf0b132515bc2e3a9cb0c1356abaf8ca395d00955"
+    }
+   ]
+  },
+  {
+   "slug": "hg-590-1991",
+   "path": "hg/1991/590",
+   "short": "HG nr. 590/1991",
+   "title": "Hotărârea Guvernului nr. 590/1991 privind Comisia centrală de repartizare a fondurilor băneşti constituite în baza Hotărîrii Guvernului nr. 553/1991 şi a celor depuse de către persoane fizice şi juridice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85917",
+   "versions": [
+    {
+     "from": "1991-09-11",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85917",
+     "sha256": "351002ba40a956cabbf7dc3755e54544cd63e5905cd373616e2a1a227707f704"
+    }
+   ]
+  },
+  {
+   "slug": "hg-591-1991",
+   "path": "hg/1991/591",
+   "short": "HG nr. 591/1991",
+   "title": "Hotărârea Guvernului nr. 591/1991 privind scutirea de taxe vamale pentru mărfurile importate din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1918",
+   "versions": [
+    {
+     "from": "1991-09-13",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1918",
+     "sha256": "464bab2af458ddee36ecc3a710c47f00fa49886b413708b6b5a4f5727e607696"
+    }
+   ]
+  },
+  {
+   "slug": "hg-595-1991",
+   "path": "hg/1991/595",
+   "short": "HG nr. 595/1991",
+   "title": "Hotărârea Guvernului nr. 595/1991 privind schimbarea destinaţiei unor clădiri proprietate de stat situate în municipiul Bistriţa, judeţul Bistriţa-Năsăud şi aprobarea mutării locatarilor din aceste clădiri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35582",
+   "versions": [
+    {
+     "from": "1991-09-17",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35582",
+     "sha256": "e76602820d239ede1074bc214d3d32f04cf2c4d1bd8a7e4b005f4e96d1b9cee8"
+    }
+   ]
+  },
+  {
    "slug": "hg-596-1991",
    "path": "hg/1991/596",
    "short": "HG nr. 596/1991",
@@ -926,6 +3632,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1920",
      "sha256": "540c93c9b4cb946ffe1a59a232ee929696cb012a3f8131a7dcfc2ec0ed69fbe1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-597-1991",
+   "path": "hg/1991/597",
+   "short": "HG nr. 597/1991",
+   "title": "Hotărârea Guvernului nr. 597/1991 privind transmiterea unui imobil proprietate de stat din municipiul Tulcea în folosinţă gratuita a Societăţii \"Caritas\" - Solidaritate Catolica - Filiala Tulcea",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92405",
+   "versions": [
+    {
+     "from": "1991-09-16",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92405",
+     "sha256": "aeab20c91384e75611e713bcaacd299068851ed69a41136a823d3ed3d2370dd7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-599-1991",
+   "path": "hg/1991/599",
+   "short": "HG nr. 599/1991",
+   "title": "Hotărârea Guvernului nr. 599/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31545",
+   "versions": [
+    {
+     "from": "1991-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31545",
+     "sha256": "498cc1f5bb2b6fb054986f44f3405f5ac02f41e250dc03f0f05b83e242184c3d"
     }
    ]
   },
@@ -945,6 +3681,201 @@
    ]
   },
   {
+   "slug": "hg-600-1991",
+   "path": "hg/1991/600",
+   "short": "HG nr. 600/1991",
+   "title": "Hotărârea Guvernului nr. 600/1991 privind aprobarea studiului tehnico-economic pentru obiectivul de investiţii \"Ansamblu de locuinţe - 800 apartamente - în oraşul Cernavoda pentru personalul de exploatare a centralei nuclearo-electrice, inclusiv anexele, dotările social-culturale şi lucrările tehnico-edilitare aferente\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92406",
+   "versions": [
+    {
+     "from": "1991-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92406",
+     "sha256": "58c3493c3dc44443ab738316a38a1d16e4c9e6913067ed9f20afc80086983675"
+    }
+   ]
+  },
+  {
+   "slug": "hg-601-1991",
+   "path": "hg/1991/601",
+   "short": "HG nr. 601/1991",
+   "title": "Hotărârea Guvernului nr. 601/1991 privind obiectivul de investiţii \"Extinderea statiei de epurare a apelor uzate din municipiul Vaslui\" la Regia autonoma de gospodărire comunala Vaslui",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92407",
+   "versions": [
+    {
+     "from": "1991-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92407",
+     "sha256": "ac2770126960ae09aeb9c4dd772331c8f626046b47e6ad768dacebd867e573c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-603-1991",
+   "path": "hg/1991/603",
+   "short": "HG nr. 603/1991",
+   "title": "Hotărârea Guvernului nr. 603/1991 pentru aprobarea Acordului privind cooperarea în domeniul sănătăţii şi al ştiinţelor medicale între Guvernul României şi Guvernul Republicii Turcia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95248",
+   "versions": [
+    {
+     "from": "1991-09-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95248",
+     "sha256": "21a7e800f364c9ca5c981bbf054fc8fe7fbcedf2587c67d88401829dea257a5f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-604-1991",
+   "path": "hg/1991/604",
+   "short": "HG nr. 604/1991",
+   "title": "Hotărârea Guvernului nr. 604/1991 pentru aprobarea Protocolului celei de-a XI-a sesiuni a Comisiei guvernamentale româno-chineze de colaborare economică şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92330",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92330",
+     "sha256": "832fbcc6fd41344f3f33fedf14e4b575a4dd6701585f1c0f618248c2d4cc8c62"
+    }
+   ]
+  },
+  {
+   "slug": "hg-605-1991",
+   "path": "hg/1991/605",
+   "short": "HG nr. 605/1991",
+   "title": "Hotărârea Guvernului nr. 605/1991 privind aprobarea Convenţiei dintre Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace privind desfiinţarea vizelor, semnată la Bucureşti la 6 august 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1923",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1923",
+     "sha256": "8d267c580b50003f25d748f39354c204fa0ef4cda8b675c8875ad254e3fa2dfe"
+    }
+   ]
+  },
+  {
+   "slug": "hg-606-1991",
+   "path": "hg/1991/606",
+   "short": "HG nr. 606/1991",
+   "title": "Hotărârea Guvernului nr. 606/1991 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Italiene, în materie de vize, încheiat la Bucureşti la 23 iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1924",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1924",
+     "sha256": "705998a2f6af8f906e27b344e3dfe651807014cea0ae09b7f343816169d0d1c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-607-1991",
+   "path": "hg/1991/607",
+   "short": "HG nr. 607/1991",
+   "title": "Hotărârea Guvernului nr. 607/1991 pentru aprobarea Protocolului celei de-a XIV-a sesiuni a Comisiei mixte româno-libiene de cooperare economică, stiinţifică şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92328",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92328",
+     "sha256": "699f9b2ec13964a1e6e5f846da95e9a7a48d821d27e0db6e1b08e4717c77fa38"
+    }
+   ]
+  },
+  {
+   "slug": "hg-608-1991",
+   "path": "hg/1991/608",
+   "short": "HG nr. 608/1991",
+   "title": "Hotărârea Guvernului nr. 608/1991 pentru aprobarea Protocolului celei de-a XIV-a sesiuni a Comisiei mixte româno-italiene de cooperare economică, industrială şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92329",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92329",
+     "sha256": "95d7a408687f7403f6ecc65f726c2d6b237252340efa599b300bff857d49535a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-611-1991",
+   "path": "hg/1991/611",
+   "short": "HG nr. 611/1991",
+   "title": "Hotărârea Guvernului nr. 611/1991 privind subvenţionarea de la bugetul administraţiei centrale de stat a unor sortimente de carne şi preparate din carne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35728",
+   "versions": [
+    {
+     "from": "1991-11-22",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35728",
+     "sha256": "0d4b172108dfc50a3b5bc4d910a095b951d1dd87ea1c037efe7f60fcd4bd94ec"
+    }
+   ]
+  },
+  {
+   "slug": "hg-614-1991",
+   "path": "hg/1991/614",
+   "short": "HG nr. 614/1991",
+   "title": "Hotărârea Guvernului nr. 614/1991 privind trecerea în administrarea Ministerului de Interne a unui imobil",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94285",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94285",
+     "sha256": "562e14364b3bb866bc840909a60a167e6648fb30bf487c98c28c57296a5885c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-615-1991",
+   "path": "hg/1991/615",
+   "short": "HG nr. 615/1991",
+   "title": "Hotărârea Guvernului nr. 615/1991 privind suplimentarea bugetului de venituri şi cheltuieli al Curţii Supreme de Justiţie pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1927",
+   "versions": [
+    {
+     "from": "1991-09-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1927",
+     "sha256": "f0b4a06a5508ac62167fd2fac61474f0425af74a14ec2383c56ac864b4d1fe7f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-616-1991",
+   "path": "hg/1991/616",
+   "short": "HG nr. 616/1991",
+   "title": "Hotărârea Guvernului nr. 616/1991 privind aprobarea înfiinţării distribuţiei de gaze naturale în oraşul Bălan, judeţul Harghita",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92326",
+   "versions": [
+    {
+     "from": "1991-09-26",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92326",
+     "sha256": "468f6ac80a6f977673bd4ef045fba737008ba713306fe568699392be94658bd1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-618-1991",
+   "path": "hg/1991/618",
+   "short": "HG nr. 618/1991",
+   "title": "Hotărârea Guvernului nr. 618/1991 privind exceptarea de la plata taxelor vamale a importului de zahăr",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92327",
+   "versions": [
+    {
+     "from": "1991-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92327",
+     "sha256": "b9bd2c4e0d1936d43d2d0dd45a32c571ff7e40605b51c0c90a4aaf22f1fa63a7"
+    }
+   ]
+  },
+  {
    "slug": "hg-62-1991",
    "path": "hg/1991/62",
    "short": "HG nr. 62/1991",
@@ -956,6 +3887,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92077",
      "sha256": "fcb11886a144f8d76ebcd45374e9a62f390b59d1aaeed15b7b6b1d7138be0f82"
+    }
+   ]
+  },
+  {
+   "slug": "hg-621-1991",
+   "path": "hg/1991/621",
+   "short": "HG nr. 621/1991",
+   "title": "Hotărârea Guvernului nr. 621/1991 privind modificarea competentei comisiilor de recepţie la unele obiective de investiţii din programul Ministerului Industriei, pentru Regia autonoma de electricitate \"Renel\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92337",
+   "versions": [
+    {
+     "from": "1991-09-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92337",
+     "sha256": "05c9d16f0844fc17994c3f1319965bcbf8c121b7be0e2c9270473e1eb51daf40"
+    }
+   ]
+  },
+  {
+   "slug": "hg-623-1991",
+   "path": "hg/1991/623",
+   "short": "HG nr. 623/1991",
+   "title": "Hotărârea Guvernului nr. 623/1991 privind completarea Hotărîrii Guvernului nr. 55/1990 şi Hotărîrii Guvernului nr. 404/aprilie 1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94286",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94286",
+     "sha256": "69ec4bf23e01a2f19a1ef9f7e56e2f06e9fa73f22ff528120ffd7b18c1731a4e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-624-1991",
+   "path": "hg/1991/624",
+   "short": "HG nr. 624/1991",
+   "title": "Hotărârea Guvernului nr. 624/1991 privind instituirea taxei de înscriere la concursul de admitere în instituţiile de învăţămînt postliceal şi de învăţămînt superior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1932",
+   "versions": [
+    {
+     "from": "1991-09-26",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1932",
+     "sha256": "6809dfeec2db35a125e4915b116f65ac485dc815cc693562c2a4a6d6c66a161d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-626-1991",
+   "path": "hg/1991/626",
+   "short": "HG nr. 626/1991",
+   "title": "Hotărârea Guvernului nr. 626/1991 privind măsurile ce se vor lua de unele ministere, în urma dizolvării unor societăţi comerciale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1934",
+   "versions": [
+    {
+     "from": "1991-09-27",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1934",
+     "sha256": "9a0bfc4b0aca6c6e4ce51c8646a3cfd73e11ab64d937b32e9983fa24634a99d2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-627-1991",
+   "path": "hg/1991/627",
+   "short": "HG nr. 627/1991",
+   "title": "Hotărârea Guvernului nr. 627/1991 privind şcolarizarea cetăţenilor din alte ţări în România, în anul de învăţămînt 1991/1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1935",
+   "versions": [
+    {
+     "from": "1991-09-27",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1935",
+     "sha256": "cd3dcc7a06f69cab88953e95b0506ee21380a16dcfb89301a6bb7f3d4f1b39bf"
+    }
+   ]
+  },
+  {
+   "slug": "hg-628-1991",
+   "path": "hg/1991/628",
+   "short": "HG nr. 628/1991",
+   "title": "Hotărârea Guvernului nr. 628/1991 privind acordarea unui ajutor umanitar Albaniei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1936",
+   "versions": [
+    {
+     "from": "1991-10-15",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1936",
+     "sha256": "85d516bd6d559da3a284964c9fe0a385a1359ee5c0d0fcdf9b0aa02b6b07447d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-629-1991",
+   "path": "hg/1991/629",
+   "short": "HG nr. 629/1991",
+   "title": "Hotărârea Guvernului nr. 629/1991 privind aprobarea Memorandumului de înţelegere dintre Guvernul României şi Guvernul Canadei privind cooperarea în domeniul culturii, învăţămîntului şi sportului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93221",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93221",
+     "sha256": "e37872c366c71569bee81f5c1237735dd5c49fd169174e95f5b5e982caef077a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-630-1991",
+   "path": "hg/1991/630",
+   "short": "HG nr. 630/1991",
+   "title": "Hotărârea Guvernului nr. 630/1991 privind aprobarea Acordului încheiat între Ministerul Comerţului şi Turismului din România şi Corporaţia de Turism din Venezuela de cooperare în domeniul turismului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92619",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92619",
+     "sha256": "70e1e9ccc2a29697aa04d53becaf85eb74d7377c3630afc59306452964ea9d2a"
     }
    ]
   },
@@ -975,6 +4026,21 @@
    ]
   },
   {
+   "slug": "hg-633-1991",
+   "path": "hg/1991/633",
+   "short": "HG nr. 633/1991",
+   "title": "Hotărârea Guvernului nr. 633/1991 privind înfiinţarea Regiei Autonome \"Pelendava\" Craiova şi regularizarea unor operaţiuni financiare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1939",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1939",
+     "sha256": "09fb1b3a513b740a851276eea5f0980380eeaaed6ea261ea96e9b70958a166e9"
+    }
+   ]
+  },
+  {
    "slug": "hg-634-1991",
    "path": "hg/1991/634",
    "short": "HG nr. 634/1991",
@@ -986,6 +4052,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1940",
      "sha256": "0c31f56d5eb5f28533cae94e356eabdfcfc21968da4580fce77db1b6da1cb3c1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-635-1991",
+   "path": "hg/1991/635",
+   "short": "HG nr. 635/1991",
+   "title": "Hotărârea Guvernului nr. 635/1991 privind înfiinţarea Societăţii comerciale \"Cematt\" - S.A Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95416",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95416",
+     "sha256": "88ff127ba0d755226e25b36eb4f5db5aff1e03098f8af0916fe53081567afb24"
     }
    ]
   },
@@ -1005,6 +4086,141 @@
    ]
   },
   {
+   "slug": "hg-646-1991",
+   "path": "hg/1991/646",
+   "short": "HG nr. 646/1991",
+   "title": "Hotărârea Guvernului nr. 646/1991 privind suplimentarea bugetului Ministerului Economiei şi Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95464",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95464",
+     "sha256": "a10bc213f3adb4abfad1761908c7dbdff62393834475678a2fad3bb44e62af89"
+    }
+   ]
+  },
+  {
+   "slug": "hg-647-1991",
+   "path": "hg/1991/647",
+   "short": "HG nr. 647/1991",
+   "title": "Hotărârea Guvernului nr. 647/1991 privind regimul vamal pentru lucrările de arta plastica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1944",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1944",
+     "sha256": "f2c2803655e81776545db58221b38b644eda1d5f6f66d1ea5fa6c548df03d309"
+    }
+   ]
+  },
+  {
+   "slug": "hg-648-1991",
+   "path": "hg/1991/648",
+   "short": "HG nr. 648/1991",
+   "title": "Hotărârea Guvernului nr. 648/1991 privind autorizarea funcţionării în România a \"Fundaţiei americano-române de ajutor medical I.N.C.\" - Filiala Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35761",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35761",
+     "sha256": "80d16fb509c6692afd6136a5051b062ca747647a8e20c4d60a9facd03fd31821"
+    }
+   ]
+  },
+  {
+   "slug": "hg-649-1991",
+   "path": "hg/1991/649",
+   "short": "HG nr. 649/1991",
+   "title": "Hotărârea Guvernului nr. 649/1991 privind înfiinţarea Societatilor comerciale \"Ispcaia\" - S.A., \"Al. Consult\" - S.A., \"Pan Proiect\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95466",
+   "versions": [
+    {
+     "from": "1991-10-03",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95466",
+     "sha256": "bff393520e2f8d47d5bfeb9d4fb14b33097d0fac61296e39fa1d19c32acebc26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-651-1991",
+   "path": "hg/1991/651",
+   "short": "HG nr. 651/1991",
+   "title": "Hotărârea Guvernului nr. 651/1991 privind înfiinţarea Societăţii comerciale \"Metrologia\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1946",
+   "versions": [
+    {
+     "from": "1991-10-04",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1946",
+     "sha256": "c35eaf938e64d87caee8a4c78183d6b0a44ba310bc2d954c656437830d17a477"
+    }
+   ]
+  },
+  {
+   "slug": "hg-652-1991",
+   "path": "hg/1991/652",
+   "short": "HG nr. 652/1991",
+   "title": "Hotărârea Guvernului nr. 652/1991 privind înfiinţarea Societăţii comerciale \"Chiminfarm - Data\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1947",
+   "versions": [
+    {
+     "from": "1991-10-04",
+     "units": 31,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1947",
+     "sha256": "cf2053c8b5cb60e0c29d24111d342f3ca2f8c2a063a0627e83f9355415266d08"
+    }
+   ]
+  },
+  {
+   "slug": "hg-653-1991",
+   "path": "hg/1991/653",
+   "short": "HG nr. 653/1991",
+   "title": "Hotărârea Guvernului nr. 653/1991 pentru aprobarea Protocolului sesiunii a XX-a a Comisiei mixte româno-iugoslave de colaborare economică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1948",
+   "versions": [
+    {
+     "from": "1991-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1948",
+     "sha256": "941db7d9bd3bbef28f5a93f1b88668f4db5cfbb433fe346a15bb57865926e4c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-654-1991",
+   "path": "hg/1991/654",
+   "short": "HG nr. 654/1991",
+   "title": "Hotărârea Guvernului nr. 654/1991 pentru aprobarea unor înţelegeri între Guvernul României şi Guvernul U.R.S.S. privind schimbul de mărfuri şi plăţile reciproce",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16173",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16173",
+     "sha256": "380f326132376cc684fafa73da43d56e67fd1705a65ab563ba139ad6743458aa"
+    }
+   ]
+  },
+  {
+   "slug": "hg-655-1991",
+   "path": "hg/1991/655",
+   "short": "HG nr. 655/1991",
+   "title": "Hotărârea Guvernului nr. 655/1991 pentru aprobarea înţelegerilor privind schimbul de mărfuri şi plăţile între Guvernul României şi Guvernul Republicii Federative Cehe şi Slovace",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92408",
+   "versions": [
+    {
+     "from": "1991-10-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92408",
+     "sha256": "f931228a8c715dbb59aa264141a6e393a38f75ec71680303edf4cbdac15d6d41"
+    }
+   ]
+  },
+  {
    "slug": "hg-656-1991",
    "path": "hg/1991/656",
    "short": "HG nr. 656/1991",
@@ -1020,6 +4236,51 @@
    ]
   },
   {
+   "slug": "hg-657-1991",
+   "path": "hg/1991/657",
+   "short": "HG nr. 657/1991",
+   "title": "Hotărârea Guvernului nr. 657/1991 privind abrogarea Hotărîrii Consiliului de Miniştri nr. 3135/1953 şi stabilirea de către Academia Română a unor îndreptări ale ortografiei limbii române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1950",
+   "versions": [
+    {
+     "from": "1991-10-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1950",
+     "sha256": "8ed908697b98b8492ddddf8e472904b9b9769d056a19d7a07caf98d7f029ff82"
+    }
+   ]
+  },
+  {
+   "slug": "hg-658-1991",
+   "path": "hg/1991/658",
+   "short": "HG nr. 658/1991",
+   "title": "Hotărârea Guvernului nr. 658/1991 referitoare la Acordul dintre Guvernul României şi Guvernul Statului Israel privind cooperarea în domeniul telecomunicaţiilor şi postelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16174",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16174",
+     "sha256": "9996df58f1a8647e65e6e49a68ac65f9c60355579987d0b0664d847bc8ac9ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hg-659-1991",
+   "path": "hg/1991/659",
+   "short": "HG nr. 659/1991",
+   "title": "Hotărârea Guvernului nr. 659/1991 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Regatului Norvegiei cu privire la promovarea şi protejarea reciprocă a investiţiilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93223",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93223",
+     "sha256": "4096a5bcc08b8614d71f6dd66869402f0260466963239d3ad94438594a76087c"
+    }
+   ]
+  },
+  {
    "slug": "hg-66-1991",
    "path": "hg/1991/66",
    "short": "HG nr. 66/1991",
@@ -1031,6 +4292,126 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92091",
      "sha256": "1474f22f144dacfdcdd8261aa089f4a8cd4cbf4260f097731264366c32a4cf24"
+    }
+   ]
+  },
+  {
+   "slug": "hg-661-1991",
+   "path": "hg/1991/661",
+   "short": "HG nr. 661/1991",
+   "title": "Hotărârea Guvernului nr. 661/1991 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Moldova privind călătoriile reciproce ale cetăţenilor, încheiat la Bucureşti la data de 29 august 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16163",
+   "versions": [
+    {
+     "from": "1991-10-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16163",
+     "sha256": "55bc8e5ffbfd7b4049d2a914231281b1c12253146f13af91c8d5590d845fd603"
+    }
+   ]
+  },
+  {
+   "slug": "hg-664-1991",
+   "path": "hg/1991/664",
+   "short": "HG nr. 664/1991",
+   "title": "Hotărârea Guvernului nr. 664/1991 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92620",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92620",
+     "sha256": "4fa0011ce25e2a3a9d4cd460fc66356e395f1006fe25171829867cedd8385cab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-665-1991",
+   "path": "hg/1991/665",
+   "short": "HG nr. 665/1991",
+   "title": "Hotărârea Guvernului nr. 665/1991 privind înfiinţarea Regiei autonome \"Institutul naţional de medicina veterinara Pasteur\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1954",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 40,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1954",
+     "sha256": "cca6556492c9fe1e4d92ebe0b9aa8e798e4f9f4e4bde19990c11b6102cebb77d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-666-1991",
+   "path": "hg/1991/666",
+   "short": "HG nr. 666/1991",
+   "title": "Hotărârea Guvernului nr. 666/1991 privind strămutarea \"Mormîntului Ostaşului Necunoscut\" în municipiul Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1955",
+   "versions": [
+    {
+     "from": "1991-10-04",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1955",
+     "sha256": "271e081bc1ab5fa253c574ce89d9f8308b3dc70e2b6ea9ba14e66559f1a4e62c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-667-1991",
+   "path": "hg/1991/667",
+   "short": "HG nr. 667/1991",
+   "title": "Hotărârea Guvernului nr. 667/1991 privind unele măsuri pentru asigurarea prestigiului social al funcţionarilor publici",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1956",
+   "versions": [
+    {
+     "from": "1991-10-08",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1956",
+     "sha256": "384d6570b27814a84dc0056482c5ea219ef8a3db404370b9a1afc4d2f553322f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-668-1991",
+   "path": "hg/1991/668",
+   "short": "HG nr. 668/1991",
+   "title": "Hotărârea Guvernului nr. 668/1991 privind unele măsuri legate de desfiinţarea Consiliului de Ajutor Economic Reciproc şi de crearea unei noi structuri de colaborare economică multilaterala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1957",
+   "versions": [
+    {
+     "from": "1991-10-15",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1957",
+     "sha256": "5d144f470226384dd149195f9a95c68a4f85af59fda008d67557fbe2af3097f1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-669-1991",
+   "path": "hg/1991/669",
+   "short": "HG nr. 669/1991",
+   "title": "Hotărârea Guvernului nr. 669/1991 privind aprobarea numărului maxim de posturi din unităţile notariale de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1958",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1958",
+     "sha256": "b2732de294e3d1ea60634e97a578f2a1efab1c33f1a02a1e0ba0f3e1606f712c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-670-1991",
+   "path": "hg/1991/670",
+   "short": "HG nr. 670/1991",
+   "title": "Hotărârea Guvernului nr. 670/1991 privind modificarea transelor de venit lunar impozabil şi a cotelor de impozit stabilite prin anexa nr. 2 la Hotărârea Guvernului nr. 219/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1959",
+   "versions": [
+    {
+     "from": "1991-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1959",
+     "sha256": "6caa381d40c06605019a4ec54201fe06e99ac1c00fb2577c3afe2d0985471242"
     }
    ]
   },
@@ -1071,6 +4452,36 @@
    ]
   },
   {
+   "slug": "hg-674-1991",
+   "path": "hg/1991/674",
+   "short": "HG nr. 674/1991",
+   "title": "Hotărârea Guvernului nr. 674/1991 pentru aprobarea unor înţelegeri între Guvernul României şi Guvernul Republicii Bulgaria privind schimbul de mărfuri şi plăţile reciproce",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1961",
+   "versions": [
+    {
+     "from": "1991-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1961",
+     "sha256": "996eef4bbdbe333546941692796c32fe3d67abfc6f993c5098fb44e104a50039"
+    }
+   ]
+  },
+  {
+   "slug": "hg-676-1991",
+   "path": "hg/1991/676",
+   "short": "HG nr. 676/1991",
+   "title": "Hotărârea Guvernului nr. 676/1991 pentru aprobarea Acordului privind transporturile aeriene dintre Guvernul României şi Guvernul Republicii Venezuela, semnat la Caracas la 10 iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1963",
+   "versions": [
+    {
+     "from": "1991-10-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1963",
+     "sha256": "a8b1696063ed7edd6eaa002dbd2cca7b8454581df4445ddb41c69cee18fbd9ca"
+    }
+   ]
+  },
+  {
    "slug": "hg-677-1991",
    "path": "hg/1991/677",
    "short": "HG nr. 677/1991",
@@ -1082,6 +4493,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1964",
      "sha256": "10666c4a6b1b3e39c21c77cd7f792a24e4a0ffcec77dc1f0aa8388fcab05bae0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-679-1991",
+   "path": "hg/1991/679",
+   "short": "HG nr. 679/1991",
+   "title": "Hotărârea Guvernului nr. 679/1991 privind impozitul pe spectacole",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1965",
+   "versions": [
+    {
+     "from": "1991-11-12",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1965",
+     "sha256": "b5038d508802fa22332358339797e90bdcb4f774107dd5fe4f7d81bd001b238b"
     }
    ]
   },
@@ -1101,6 +4527,111 @@
    ]
   },
   {
+   "slug": "hg-681-1991",
+   "path": "hg/1991/681",
+   "short": "HG nr. 681/1991",
+   "title": "Hotărârea Guvernului nr. 681/1991 privind dezvoltarea relaţiilor dintre Ministerul de Interne din România şi Ministerul de Interne din Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92325",
+   "versions": [
+    {
+     "from": "1991-10-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92325",
+     "sha256": "067fd2e683cb2dbc9b33ac68224992017b02ecc974f487b3292c57b006f98b6a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-682-1991",
+   "path": "hg/1991/682",
+   "short": "HG nr. 682/1991",
+   "title": "Hotărârea Guvernului nr. 682/1991 privind crearea organismelor \"Tempus\" în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1967",
+   "versions": [
+    {
+     "from": "1991-10-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1967",
+     "sha256": "04be7ba57ff273055c8e9778a1de3ef7d1553e3bbc7d51c1b9bdd24b187d427a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-683-1991",
+   "path": "hg/1991/683",
+   "short": "HG nr. 683/1991",
+   "title": "Hotărârea Guvernului nr. 683/1991 privind normele de desfăşurare şi aprobare a acţiunilor culturale din ţara",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1968",
+   "versions": [
+    {
+     "from": "1991-10-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1968",
+     "sha256": "bba799c0d2ee0d3b3a12aa1fdd3a3fd25e45322309cea751e5f7385352e46d37"
+    }
+   ]
+  },
+  {
+   "slug": "hg-684-1991",
+   "path": "hg/1991/684",
+   "short": "HG nr. 684/1991",
+   "title": "Hotărârea Guvernului nr. 684/1991 privind unele măsuri în organizarea şi funcţionarea Ministerului Agriculturii şi Alimentaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1969",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1969",
+     "sha256": "184305f9b65bb0440f9164b81fec3738f7e06e8f90944aa1372ac12ce268284f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-687-1991",
+   "path": "hg/1991/687",
+   "short": "HG nr. 687/1991",
+   "title": "Hotărârea Guvernului nr. 687/1991 privind plata, pe bază de tarife, a persoanelor care încasează amenzi, imputatii, despăgubiri şi cheltuieli de judecată, precum şi acordarea de stimulente personalului care contribuie la încasarea unor venituri cuvenite altor beneficiari decît bugetul administraţiei centrale de stat şi bugetele locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1971",
+   "versions": [
+    {
+     "from": "1991-10-22",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1971",
+     "sha256": "510af68515105efc93489f110e607db8f683eb404a7d27939f51b412a609fd0f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-688-1991",
+   "path": "hg/1991/688",
+   "short": "HG nr. 688/1991",
+   "title": "Hotărârea Guvernului nr. 688/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/30015",
+   "versions": [
+    {
+     "from": "1991-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/30015",
+     "sha256": "1c72ffa029b15a4fa8e5ca9262a64642cafac09bf21b3b2674abf9f1c8a65a1c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-689-1991",
+   "path": "hg/1991/689",
+   "short": "HG nr. 689/1991",
+   "title": "Hotărârea Guvernului nr. 689/1991 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92338",
+   "versions": [
+    {
+     "from": "1991-10-21",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92338",
+     "sha256": "9519eda908e93aa7dfc224da179aba1a71c75a3ff561d11e49afbf07a639d4b3"
+    }
+   ]
+  },
+  {
    "slug": "hg-691-1991",
    "path": "hg/1991/691",
    "short": "HG nr. 691/1991",
@@ -1112,6 +4643,51 @@
      "units": 33,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95468",
      "sha256": "2c922cea1935caa9993415d365716254f1f10c7cd7f9636486b90676dfb774f5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-692-1991",
+   "path": "hg/1991/692",
+   "short": "HG nr. 692/1991",
+   "title": "Hotărârea Guvernului nr. 692/1991 privind înfiinţarea unor societăţi comerciale ca urmare a reorganizării activităţii transporturilor feroviare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1973",
+   "versions": [
+    {
+     "from": "1991-10-28",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1973",
+     "sha256": "05a6f8e6c101a9cd8ab7ffb81c3358fd30f2dbb74e720af84eca50fa85b8ec4f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-693-1991",
+   "path": "hg/1991/693",
+   "short": "HG nr. 693/1991",
+   "title": "Hotărârea Guvernului nr. 693/1991 privind înfiinţarea Institutului Bancar Român",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1974",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1974",
+     "sha256": "20ef8b7e6fa0e8ab6c91005fca79cccead0b7fe2a2bcef8f160878c1daa1897a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-695-1991",
+   "path": "hg/1991/695",
+   "short": "HG nr. 695/1991",
+   "title": "Hotărârea Guvernului nr. 695/1991 privind unele măsuri de aplicare a taxei anuale pe audiovizual şi a tarifelor de abonament*)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1975",
+   "versions": [
+    {
+     "from": "1992-03-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1975",
+     "sha256": "f05f68178f54b8a021f17e5845f715ec52ce5e8089982373f117f388490bb749"
     }
    ]
   },
@@ -1146,6 +4722,36 @@
    ]
   },
   {
+   "slug": "hg-700-1991",
+   "path": "hg/1991/700",
+   "short": "HG nr. 700/1991",
+   "title": "Hotărârea Guvernului nr. 700/1991 privind asigurarea fondurilor de şcolarizare necesare elevilor care se pregătesc pentru aviaţia civilă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20328",
+   "versions": [
+    {
+     "from": "1991-11-01",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20328",
+     "sha256": "828eb91b4b32298c5df75e69fea7abefa1d4b204b172aca6e7db0da09fc71350"
+    }
+   ]
+  },
+  {
+   "slug": "hg-702-1991",
+   "path": "hg/1991/702",
+   "short": "HG nr. 702/1991",
+   "title": "Hotărârea Guvernului nr. 702/1991 privind înfiinţarea Regiei Autonome \"Cai de Rasa\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1977",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 29,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1977",
+     "sha256": "79071c41014665cb98b33b807a14f271aef1d4556aab50478a3de58de6f2c8ee"
+    }
+   ]
+  },
+  {
    "slug": "hg-703-1991",
    "path": "hg/1991/703",
    "short": "HG nr. 703/1991",
@@ -1157,6 +4763,51 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92349",
      "sha256": "ae198fb79c8789eb85b218170c2c649cfb8921881600e335579cba11cf737bce"
+    }
+   ]
+  },
+  {
+   "slug": "hg-704-1991",
+   "path": "hg/1991/704",
+   "short": "HG nr. 704/1991",
+   "title": "Hotărârea Guvernului nr. 704/1991 privind acordarea unor drepturi pentru stimularea personalului de control financiar de stat al Ministerului Economiei şi Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1978",
+   "versions": [
+    {
+     "from": "1991-11-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1978",
+     "sha256": "049ed117fa26db42115801e1774092c653a9a6eaebc1efbaf12a0b79055d30dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-705-1991",
+   "path": "hg/1991/705",
+   "short": "HG nr. 705/1991",
+   "title": "Hotărârea Guvernului nr. 705/1991 privind organizarea, finanţarea şi coordonarea învăţămîntului preuniversitar din ramurile exploatarii şi prelucrarii lemnului, celulozei şi hartiei, sticlei şi ceramicii fine",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92335",
+   "versions": [
+    {
+     "from": "1991-11-06",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92335",
+     "sha256": "03b2e03c6aabb8f3cdc42f82f8b13c5f798fb00eaae9c88407d5882eb00e2dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-706-1991",
+   "path": "hg/1991/706",
+   "short": "HG nr. 706/1991",
+   "title": "Hotărârea Guvernului nr. 706/1991 privind organizarea şi funcţionarea filialei Iaşi a Centrului pentru perfectionarea personalului din administraţia publică locala",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92350",
+   "versions": [
+    {
+     "from": "1991-11-04",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92350",
+     "sha256": "384860ef172ab5900eca2e44e7abdc24079c1676e33220005defd3cf725f5ece"
     }
    ]
   },
@@ -1176,6 +4827,51 @@
    ]
   },
   {
+   "slug": "hg-708-1991",
+   "path": "hg/1991/708",
+   "short": "HG nr. 708/1991",
+   "title": "Hotărârea Guvernului nr. 708/1991 privind scutirea de impozit pe circulaţia mărfurilor în activitatea de cercetare-dezvoltare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1980",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1980",
+     "sha256": "56cad4bcec8be7a57a0c079ca2c03c0b13f25e0cc79f9c46a9e03206c88ad6c3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-712-1991",
+   "path": "hg/1991/712",
+   "short": "HG nr. 712/1991",
+   "title": "Hotărârea Guvernului nr. 712/1991 privind înfiinţarea distribuţiei de gaze naturale în comuna Sîntana de Mureş, cu satele aferente Sîntana, Curteni, Chinari, Bărdeşti, judeţul Mureş, pentru consumul de gaze la gospodăriile populaţiei şi la obiectivele sociale-culturale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95500",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95500",
+     "sha256": "8ac89b48dd5000448d7e0e961f8a563dc4a4107014d9265054fc0c72ab5370ff"
+    }
+   ]
+  },
+  {
+   "slug": "hg-713-1991",
+   "path": "hg/1991/713",
+   "short": "HG nr. 713/1991",
+   "title": "Hotărârea Guvernului nr. 713/1991 privind modificarea unor articole din Hotărârea Guvernului nr. 405/14 iunie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95501",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95501",
+     "sha256": "82e788f41fef841e8855de979b13a844a1b86ba1fb042980a21ed11fa68937ef"
+    }
+   ]
+  },
+  {
    "slug": "hg-715-1991",
    "path": "hg/1991/715",
    "short": "HG nr. 715/1991",
@@ -1187,6 +4883,36 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95169",
      "sha256": "36288b68d53a2c964a9654aded1efdbf291d480a9173586de565dff128532a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-716-1991",
+   "path": "hg/1991/716",
+   "short": "HG nr. 716/1991",
+   "title": "Hotărârea Guvernului nr. 716/1991 privind modificarea şi completarea Hotărîrii Guvernului nr. 392/1991 privind exceptarea de taxe vamale pentru importurile necesare unităţilor din subordinea Primăriei municipiului Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95502",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95502",
+     "sha256": "1fe1f1d68dcd9f5169183f788014ee7575e0060e61fc0add75deadadefe5066a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-717-1991",
+   "path": "hg/1991/717",
+   "short": "HG nr. 717/1991",
+   "title": "Hotărârea Guvernului nr. 717/1991 privind aprobarea documentatiei tehnico-economice a obiectivului de investiţii \"Alimentarea cu apa a municipiului Bucureşti statia de pompare, ateliere şi dispecerat Grozavesti\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92336",
+   "versions": [
+    {
+     "from": "1991-11-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92336",
+     "sha256": "eab8b424cbdabe9b27ce657a1c0c863de4aa7f2843e0dd450094eb73dd0bc2f9"
     }
    ]
   },
@@ -1206,6 +4932,66 @@
    ]
   },
   {
+   "slug": "hg-720-1991",
+   "path": "hg/1991/720",
+   "short": "HG nr. 720/1991",
+   "title": "Hotărârea Guvernului nr. 720/1991 privind aprobarea Normelor de organizare şi exercitare a controlului financiar elaborate de Ministerul Economiei şi Finanţelor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1984",
+   "versions": [
+    {
+     "from": "1992-04-24",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1984",
+     "sha256": "34b516e57c3fee99a63a128becf1965032a7a945f91b59272779642892b1f4f0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-724-1991",
+   "path": "hg/1991/724",
+   "short": "HG nr. 724/1991",
+   "title": "Hotărârea Guvernului nr. 724/1991 privind autorizarea funcţionării în România a asociaţiei \"Illien Adoptions International\" Ltd., pe o durată de 2 ani",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35759",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35759",
+     "sha256": "5f35fc22e540f947874de48f52d67a1ca6dd0104a1bc92d6ccad7e498497a3a5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-726-1991",
+   "path": "hg/1991/726",
+   "short": "HG nr. 726/1991",
+   "title": "Hotărârea Guvernului nr. 726/1991 privind regimul licenţelor de import şi export",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1987",
+   "versions": [
+    {
+     "from": "1991-11-06",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1987",
+     "sha256": "b6335c2983c5462316ca99900ffdce3d79a1d82620f54a106d9a995c99bc1179"
+    }
+   ]
+  },
+  {
+   "slug": "hg-727-1991",
+   "path": "hg/1991/727",
+   "short": "HG nr. 727/1991",
+   "title": "Hotărârea Guvernului nr. 727/1991 privind transferul fără plata al unei părţi din imobil de la Departamentul industriei lemnului la Regia autonoma a pădurilor \"Romsilva\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92342",
+   "versions": [
+    {
+     "from": "1991-11-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92342",
+     "sha256": "80b025ec2b62aaab0ae17f9938016a2eeda67d5d658e3577b9eb18db991c4f93"
+    }
+   ]
+  },
+  {
    "slug": "hg-728-1991",
    "path": "hg/1991/728",
    "short": "HG nr. 728/1991",
@@ -1217,6 +5003,66 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1988",
      "sha256": "2ec1ee8d4630cd6adede8a23198bfa4d5c139d2941c6552c94ae1a455a07e4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-729-1991",
+   "path": "hg/1991/729",
+   "short": "HG nr. 729/1991",
+   "title": "Hotărârea Guvernului nr. 729/1991 privind înfiinţarea Societăţii comerciale pe acţiuni \"Institutul de optoelectronica\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92343",
+   "versions": [
+    {
+     "from": "1991-11-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92343",
+     "sha256": "b48dfb16136f0d4fe0f8238637293482bf1c46cdc4e9f9c01bc4f7e09419b858"
+    }
+   ]
+  },
+  {
+   "slug": "hg-730-1991",
+   "path": "hg/1991/730",
+   "short": "HG nr. 730/1991",
+   "title": "Hotărârea Guvernului nr. 730/1991 privind atribuirea burselor de scolarizare, burselor de merit şi a altor forme de sprijin material elevilor de la învăţămîntul de stat, curs de zi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92332",
+   "versions": [
+    {
+     "from": "1991-11-07",
+     "units": 20,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92332",
+     "sha256": "58356279053200fa47727dcb2bca372860bb49b971a0b2864502dd332e167063"
+    }
+   ]
+  },
+  {
+   "slug": "hg-732-1991",
+   "path": "hg/1991/732",
+   "short": "HG nr. 732/1991",
+   "title": "Hotărârea Guvernului nr. 732/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95504",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95504",
+     "sha256": "4afa99265e9267b98a94bc58ef0b9017cdcc035dbb07c280cd64b96e00e122dd"
+    }
+   ]
+  },
+  {
+   "slug": "hg-733-1991",
+   "path": "hg/1991/733",
+   "short": "HG nr. 733/1991",
+   "title": "Hotărârea Guvernului nr. 733/1991 privind aprobarea aderării Institutului român de standardizare la Comitetul European de Standardizare (C.E.N.) şi Comitetul European de Standardizare Electrotehnică(CENELEC)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92351",
+   "versions": [
+    {
+     "from": "1991-11-04",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92351",
+     "sha256": "fa6c7bad3b3a9c6d4e0e5dffea03c546de0280e4ec7c82f53ec86b2980d624e2"
     }
    ]
   },
@@ -1236,6 +5082,21 @@
    ]
   },
   {
+   "slug": "hg-735-1991",
+   "path": "hg/1991/735",
+   "short": "HG nr. 735/1991",
+   "title": "Hotărârea Guvernului nr. 735/1991 privind aprobarea aderării Institutului Român de Standardizare la reţeaua Internaţională pentru Terminologie (TermNet)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92334",
+   "versions": [
+    {
+     "from": "1991-11-07",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92334",
+     "sha256": "ae4c574a7dbda4e9819ea96716fd21fc1b437fba0253ec33989306075fd63682"
+    }
+   ]
+  },
+  {
    "slug": "hg-736-1991",
    "path": "hg/1991/736",
    "short": "HG nr. 736/1991",
@@ -1247,6 +5108,96 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1990",
      "sha256": "960f6017aa947064dfaec998511a19a2a0acb27741f71c7d062c494b2e536bee"
+    }
+   ]
+  },
+  {
+   "slug": "hg-737-1991",
+   "path": "hg/1991/737",
+   "short": "HG nr. 737/1991",
+   "title": "Hotărârea Guvernului nr. 737/1991 privind aprobarea organizării licitaţiei unui teren din oraşul Comăneşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95505",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95505",
+     "sha256": "e157250effb48d322cef1bf46ce644a57dedafb5df76d98bc79659f1f6e15ae9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-738-1991",
+   "path": "hg/1991/738",
+   "short": "HG nr. 738/1991",
+   "title": "Hotărârea Guvernului nr. 738/1991 privind aprobarea organizării licitaţiei unui teren din oraşul Comăneşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95506",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95506",
+     "sha256": "585723af6bbd2590a43aca1aeef59c9ce3a25f2cf94a3b0f3ea428ca54d202c7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-739-1991",
+   "path": "hg/1991/739",
+   "short": "HG nr. 739/1991",
+   "title": "Hotărârea Guvernului nr. 739/1991 privind înfiinţarea Societăţii comerciale - Centrul de perfecţionare, consultanţă şi management pentru comerţul internaţional - \"Percomex\" - S.A",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1991",
+   "versions": [
+    {
+     "from": "1991-11-04",
+     "units": 35,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1991",
+     "sha256": "3b77575645b2c7f1e0f2ce0136114d03c4508b40116a690b7c0776c5b0800fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-740-1991",
+   "path": "hg/1991/740",
+   "short": "HG nr. 740/1991",
+   "title": "Hotărârea Guvernului nr. 740/1991 privind aprobarea aderării Institutului Român de Standardizare la Institutul European de Standardizare în Domeniul Telecomunicaţiilor (E.T.S.I.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1992",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1992",
+     "sha256": "28eac2b53bbdb7b78f25207f785163abe7e8e68286dd6dfaec92bb3242ecaf12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-741-1991",
+   "path": "hg/1991/741",
+   "short": "HG nr. 741/1991",
+   "title": "Hotărârea Guvernului nr. 741/1991 privind afilierea Comisiei Naţionale pentru Standarde, Metrologie şi Calitate la Organizaţia Internaţionala a Uniunilor de Consumatori (I.O.C.U.)",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1993",
+   "versions": [
+    {
+     "from": "1992-07-02",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1993",
+     "sha256": "2a499c993227edbd3e4fe96c77d015345b9172aed5cf2da4c4b9d54a27b5d9b9"
+    }
+   ]
+  },
+  {
+   "slug": "hg-742-1991",
+   "path": "hg/1991/742",
+   "short": "HG nr. 742/1991",
+   "title": "Hotărârea Guvernului nr. 742/1991 privind aprobarea de noi racorduri de gaze naturale la gospodariile populaţiei",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95507",
+   "versions": [
+    {
+     "from": "1991-10-30",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95507",
+     "sha256": "86c1ce07cd94059ecc963c555e1aaaa44925a0ff3972f0ccd9a569acaad8f524"
     }
    ]
   },
@@ -1281,6 +5232,141 @@
    ]
   },
   {
+   "slug": "hg-750-1991",
+   "path": "hg/1991/750",
+   "short": "HG nr. 750/1991",
+   "title": "Hotărârea Guvernului nr. 750/1991 privind unele măsuri de intensificare a lucrărilor agricole de toamna şi de aplicare a Legii fondului funciar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1997",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 13,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1997",
+     "sha256": "11114fd00680100b2b58b823d5654ab039c0573ed033a72123d49011a1fa7b46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-753-1991",
+   "path": "hg/1991/753",
+   "short": "HG nr. 753/1991",
+   "title": "Hotărârea Guvernului nr. 753/1991 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92331",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92331",
+     "sha256": "99bd3c6092945c121e25f0415a20e2c260a49bc2af07c3fe716e81c27aa1db8b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-754-1991",
+   "path": "hg/1991/754",
+   "short": "HG nr. 754/1991",
+   "title": "Hotărârea Guvernului nr. 754/1991 privind angajarea unui credit de către Guvernul României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/1999",
+   "versions": [
+    {
+     "from": "1992-06-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/1999",
+     "sha256": "9ec9eb132007ee2bb237a70d17c7592a010fcdcf973263b48944be1644217d90"
+    }
+   ]
+  },
+  {
+   "slug": "hg-757-1991",
+   "path": "hg/1991/757",
+   "short": "HG nr. 757/1991",
+   "title": "Hotărârea Guvernului nr. 757/1991 pentru modificarea Hotărîrii Guvernului nr. 576/27 august 1991 privind acordarea unor burse de studii, doctorat şi specializare pentru tineri români din Republica Moldova şi R.S.S. Ucraineană şi tipărirea unor manuale şcolare pentru Republica Moldova",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51446",
+   "versions": [
+    {
+     "from": "1991-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51446",
+     "sha256": "e23255721c92c459ffa892f98f6247f81ca90603bdc36f917c8dfdcc4aa15197"
+    }
+   ]
+  },
+  {
+   "slug": "hg-758-1991",
+   "path": "hg/1991/758",
+   "short": "HG nr. 758/1991",
+   "title": "Hotărârea Guvernului nr. 758/1991 pentru modificarea Normelor metodologice privind vînzarea de active ale societăţilor comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2002",
+   "versions": [
+    {
+     "from": "1991-11-25",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2002",
+     "sha256": "4a4ab90dbcb9543a4f948e1ff4dfb560aaeb72b962f71c7c18783494d68e6b65"
+    }
+   ]
+  },
+  {
+   "slug": "hg-760-1991",
+   "path": "hg/1991/760",
+   "short": "HG nr. 760/1991",
+   "title": "Hotărârea Guvernului nr. 760/1991 privind plata personalului agenţilor economici a căror activitate s-a întrerupt temporar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2003",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2003",
+     "sha256": "4b0373bc1bd82ff8502c4041ae1d28997694e860d48c5adce1e3eb03bc512852"
+    }
+   ]
+  },
+  {
+   "slug": "hg-762-1991",
+   "path": "hg/1991/762",
+   "short": "HG nr. 762/1991",
+   "title": "Hotărârea Guvernului nr. 762/1991 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Armenia cu privire la relaţiile comercial-economice şi colaborarea tehnico-stiintifica",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92340",
+   "versions": [
+    {
+     "from": "1991-11-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92340",
+     "sha256": "e3e088c40e41c22f068c0105fc5abace032eb29d341e8f10e04f561041f5b44f"
+    }
+   ]
+  },
+  {
+   "slug": "hg-763-1991",
+   "path": "hg/1991/763",
+   "short": "HG nr. 763/1991",
+   "title": "Hotărârea Guvernului nr. 763/1991 cu privire la unificarea cursurilor de schimb ale leului şi extinderea convertibilităţii interne a leului la operaţiunile valutare curente",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2004",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2004",
+     "sha256": "e99104a6a97d87e4b05381d4e2d1b7b37504972e34d6997b08b5c14447b7634c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-764-1991",
+   "path": "hg/1991/764",
+   "short": "HG nr. 764/1991",
+   "title": "Hotărârea Guvernului nr. 764/1991 privind unele măsuri în legătură cu respectarea regimului licenţelor de export şi import",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2005",
+   "versions": [
+    {
+     "from": "1991-11-19",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2005",
+     "sha256": "7e2b0cf6a45498b15ed8397a613cf6ab5e7b214d65edb2320cbbdf0bdc3ded17"
+    }
+   ]
+  },
+  {
    "slug": "hg-765-1991",
    "path": "hg/1991/765",
    "short": "HG nr. 765/1991",
@@ -1311,6 +5397,66 @@
    ]
   },
   {
+   "slug": "hg-769-1991",
+   "path": "hg/1991/769",
+   "short": "HG nr. 769/1991",
+   "title": "Hotărârea Guvernului nr. 769/1991 privind structura organizatorică şi efectivele Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95753",
+   "versions": [
+    {
+     "from": "1991-12-06",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95753",
+     "sha256": "eb0857e78e18e6f0576e2fa32497ec76bf2dc1f935db31a1270866fac73a406b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-772-1991",
+   "path": "hg/1991/772",
+   "short": "HG nr. 772/1991",
+   "title": "Hotărârea Guvernului nr. 772/1991 privind modificarea Hotărîrii Guvernului nr. 1079/1990 privind efectuarea recensămîntului populaţiei şi locuinţelor din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2010",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2010",
+     "sha256": "5478eaa380d3d0c559cae55125cd877fcdac05fd81f5f547cb12d8d7059b2a39"
+    }
+   ]
+  },
+  {
+   "slug": "hg-773-1991",
+   "path": "hg/1991/773",
+   "short": "HG nr. 773/1991",
+   "title": "Hotărârea Guvernului nr. 773/1991 privind stabilirea preţurilor de vînzare cu amănuntul ale carburanţilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2011",
+   "versions": [
+    {
+     "from": "1991-11-25",
+     "units": 7,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2011",
+     "sha256": "a8f32d736c6e33193800775638b3d3789bc03a9ef71a4c7d695a45600cc0ef26"
+    }
+   ]
+  },
+  {
+   "slug": "hg-777-1991",
+   "path": "hg/1991/777",
+   "short": "HG nr. 777/1991",
+   "title": "Hotărârea Guvernului nr. 777/1991 privind unele măsuri de dezvoltare a relaţiilor comerciale dintre România şi Republica Moldova în anii 1991 şi 1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2015",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2015",
+     "sha256": "ff971c4ca20b08b2c984ac0d9fb884cca8049f377e5e5d6eeec565771479d657"
+    }
+   ]
+  },
+  {
    "slug": "hg-781-1991",
    "path": "hg/1991/781",
    "short": "HG nr. 781/1991",
@@ -1322,6 +5468,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2018",
      "sha256": "4b4019eb86de6366c7c2f5f9c745fd13a6bc2357a11184488f0c806fde01f679"
+    }
+   ]
+  },
+  {
+   "slug": "hg-782-1991",
+   "path": "hg/1991/782",
+   "short": "HG nr. 782/1991",
+   "title": "Hotărârea Guvernului nr. 782/1991 privind impozitul pe sumele obţinute din vînzarea activelor societăţilor comerciale cu capital de stat",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2019",
+   "versions": [
+    {
+     "from": "1991-11-30",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2019",
+     "sha256": "2a430c8aad4ed0d3dd7180cc7bc0bfa06dfea3996dc34f0dc4c054f962845279"
     }
    ]
   },
@@ -1371,6 +5532,81 @@
    ]
   },
   {
+   "slug": "hg-788-1991",
+   "path": "hg/1991/788",
+   "short": "HG nr. 788/1991",
+   "title": "Hotărârea Guvernului nr. 788/1991 privind aprobarea renunţării la cetăţenia română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96643",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96643",
+     "sha256": "20a55269cfad269de8c3aee7a1a63e9f4f3ce44f4787e2bbf8749371c7e598ab"
+    }
+   ]
+  },
+  {
+   "slug": "hg-789-1991",
+   "path": "hg/1991/789",
+   "short": "HG nr. 789/1991",
+   "title": "Hotărârea Guvernului nr. 789/1991 privind stabilirea şi sancţionarea contravenţiilor la normele sanitare veterinare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2020",
+   "versions": [
+    {
+     "from": "1991-12-21",
+     "units": 12,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2020",
+     "sha256": "cc1727cb355be147981ffd786496111e23eeb1fb1296faf0b1597dcb8c1e4286"
+    }
+   ]
+  },
+  {
+   "slug": "hg-790-1991",
+   "path": "hg/1991/790",
+   "short": "HG nr. 790/1991",
+   "title": "Hotărârea Guvernului nr. 790/1991 referitoare la stabilirea unor măsuri pentru aducerea la îndeplinire a sarcinilor care revin Guvernului din Legea privind organizarea şi desfăşurarea referendumului naţional asupra Constituţiei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35730",
+   "versions": [
+    {
+     "from": "1991-11-29",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35730",
+     "sha256": "2bd8ad61ab0b4036c75482960b412d99d02c73f1e3f2cf8fcd5d0790b98bd873"
+    }
+   ]
+  },
+  {
+   "slug": "hg-791-1991",
+   "path": "hg/1991/791",
+   "short": "HG nr. 791/1991",
+   "title": "Hotărârea Guvernului nr. 791/1991 privind măsurile organizatorice şi financiare ce urmează a fi luate la nivelul organelor centrale şi locale ale administraţiei de stat, pentru organizarea şi desfăşurarea referendumului naţional asupra Constituţiei României",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35729",
+   "versions": [
+    {
+     "from": "1991-11-29",
+     "units": 16,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35729",
+     "sha256": "512c13803d711d8f5b7d1f8b85a4a693dd66e5ace8b521164d4fbf3325876f92"
+    }
+   ]
+  },
+  {
+   "slug": "hg-792-1991",
+   "path": "hg/1991/792",
+   "short": "HG nr. 792/1991",
+   "title": "Hotărârea Guvernului nr. 792/1991 privind cooperarea cu parteneri străini pentru lucrări de cercetare geologica, de dezvoltare şi pentru creşterea factorului de recuperare, pe perimetre cu grad avansat de explorare şi exploatare din gestiunea Regiei Autonome a petrolului \"Petrom\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96638",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96638",
+     "sha256": "bbb4057a980421c004ece6c5ae4d3d15cc915ca74477f0c14c3a8518b4641d98"
+    }
+   ]
+  },
+  {
    "slug": "hg-793-1991",
    "path": "hg/1991/793",
    "short": "HG nr. 793/1991",
@@ -1416,6 +5652,21 @@
    ]
   },
   {
+   "slug": "hg-797-1991",
+   "path": "hg/1991/797",
+   "short": "HG nr. 797/1991",
+   "title": "Hotărârea Guvernului nr. 797/1991 pentru acceptarea Protocolului de menţinere în vigoare a Aranjamentului privind comerţul internaţional cu textile, încheiat la Geneva la 31 iulie 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52636",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52636",
+     "sha256": "bc940ebffc1069aa41f8181acbcc438721c0c89ecd4befcf996c7c80b15c36de"
+    }
+   ]
+  },
+  {
    "slug": "hg-798-1991",
    "path": "hg/1991/798",
    "short": "HG nr. 798/1991",
@@ -1442,6 +5693,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95761",
      "sha256": "6d130ca4178a393bafa9d28dd3fe2b576686103526523a33c51b1c08e8852f8e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-801-1991",
+   "path": "hg/1991/801",
+   "short": "HG nr. 801/1991",
+   "title": "Hotărârea Guvernului nr. 801/1991 privind modificarea structurii organizatorice a Ministerului Mediului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96624",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96624",
+     "sha256": "eaf0c2f52858c3b12df1106f0f1edd8b5b041138f688c27377ce4fcd4c449a8c"
     }
    ]
   },
@@ -1476,6 +5742,66 @@
    ]
   },
   {
+   "slug": "hg-806-1991",
+   "path": "hg/1991/806",
+   "short": "HG nr. 806/1991",
+   "title": "Hotărârea Guvernului nr. 806/1991 privind stabilirea datei pentru alegerea consiliilor locale şi a primarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95520",
+   "versions": [
+    {
+     "from": "1991-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95520",
+     "sha256": "30a041446ed1a60926504aea13317f1d1a2e010bf4f5e3fe42d43c529af89029"
+    }
+   ]
+  },
+  {
+   "slug": "hg-807-1991",
+   "path": "hg/1991/807",
+   "short": "HG nr. 807/1991",
+   "title": "Hotărârea Guvernului nr. 807/1991 privind acordarea unor reduceri de tarife pe calea ferată pentru studenţi şi elevi, în perioada vacanţei de iarnă 1991-1992",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95785",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95785",
+     "sha256": "6b138f88dcf6cc0737b1a8d5f79cc6a49ffcdf00423f631bfdff5bdd215c572b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-808-1991",
+   "path": "hg/1991/808",
+   "short": "HG nr. 808/1991",
+   "title": "Hotărârea Guvernului nr. 808/1991 privind măsuri de lichidare a urmărilor provocate de cutremurul din decembrie 1991 în judeţul Timiş",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95786",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95786",
+     "sha256": "188fa09dd661dac4d740f4287c24e672cb011bf1fbae0c9d10745c0e417e08c6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-809-1991",
+   "path": "hg/1991/809",
+   "short": "HG nr. 809/1991",
+   "title": "Hotărârea Guvernului nr. 809/1991 privind unele măsuri în legătură cu asigurarea locuinţelor şi altor clădiri aparţinînd persoanelor fizice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95787",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95787",
+     "sha256": "2716d759a4c893208a529ed7227d22a9bfe3dc1a795b70b301848dd2c9fc6725"
+    }
+   ]
+  },
+  {
    "slug": "hg-810-1991",
    "path": "hg/1991/810",
    "short": "HG nr. 810/1991",
@@ -1487,6 +5813,261 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2024",
      "sha256": "a64b19b4d780e228ed087a57f2b8e44a9229c6998535735ae7eae8db1c5b938d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-814-1991",
+   "path": "hg/1991/814",
+   "short": "HG nr. 814/1991",
+   "title": "Hotărârea Guvernului nr. 814/1991 privind scoaterea din categoria \"secret de stat\" a unor date şi informaţii referitoare la rezervele de metale preţioase şi metale rare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2027",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2027",
+     "sha256": "4dfbc7853ae6fb4363921c0430c5f30b5f6c0300e2cd11eed75e9a1dbcf6aa8c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-815-1991",
+   "path": "hg/1991/815",
+   "short": "HG nr. 815/1991",
+   "title": "Hotărârea Guvernului nr. 815/1991 privind extrădarea cetăţeanului italian Sorbo Francesco",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2028",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2028",
+     "sha256": "458d046789fd35d16842c34c9222be1d83c0955242041271b35f9c4670d39bba"
+    }
+   ]
+  },
+  {
+   "slug": "hg-816-1991",
+   "path": "hg/1991/816",
+   "short": "HG nr. 816/1991",
+   "title": "Hotărârea Guvernului nr. 816/1991 privind acordarea garanţiei guvernamentale pentru creditul extern în favoarea Societăţii comerciale \"Arcasrom\" - S.A. Bucureşti",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36124",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36124",
+     "sha256": "b5d1976e8d25b75edff9fa9b9aebdc47446029ea4fe2ca00393dd743ded20eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hg-819-1991",
+   "path": "hg/1991/819",
+   "short": "HG nr. 819/1991",
+   "title": "Hotărârea Guvernului nr. 819/1991 cu privire la reglementarea unor probleme financiar-valutare în legătură cu exportul şi importul în cliring şi operaţiuni de barter",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2029",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2029",
+     "sha256": "69e183873b12d08e2e1f3c4e3cf97aebd5f16852409cd8f33b476257f167c2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hg-820-1991",
+   "path": "hg/1991/820",
+   "short": "HG nr. 820/1991",
+   "title": "Hotărârea Guvernului nr. 820/1991 pentru aprobarea Acordului comercial dintre Guvernul României şi Guvernul şi Guvernul Republicii Federale Nigeria",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35751",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35751",
+     "sha256": "e62ca68243b9c362247f9d31dc73898deaeb4d16c947db872988c706be9d5c54"
+    }
+   ]
+  },
+  {
+   "slug": "hg-821-1991",
+   "path": "hg/1991/821",
+   "short": "HG nr. 821/1991",
+   "title": "Hotărârea Guvernului nr. 821/1991 privind exceptarea de la plata taxelor vamale a importurilor de cizme de protecţie din cauciuc pentru mineri",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96627",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96627",
+     "sha256": "8aa309d7e671995fa23309fa903ae4ddc97f26a1149294cf7f3a510a8c7cd26c"
+    }
+   ]
+  },
+  {
+   "slug": "hg-822-1991",
+   "path": "hg/1991/822",
+   "short": "HG nr. 822/1991",
+   "title": "Hotărârea Guvernului nr. 822/1991 privind majorarea bugetului de venituri şi cheltuieli al Secretariatului General al Guvernului pe anul 1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96628",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96628",
+     "sha256": "7bf15d069824af2c512152157bfd57c3e8e2ae5e33fb8b60de8892c03fe1d53e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-823-1991",
+   "path": "hg/1991/823",
+   "short": "HG nr. 823/1991",
+   "title": "Hotărârea Guvernului nr. 823/1991 privind înfiinţarea Muzeului \"George Enescu\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35750",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35750",
+     "sha256": "b3a0e30d475e28cdfbcbf9b9c46c14906310174317e57ab2fa3b8ce14c72b4f6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-824-1991",
+   "path": "hg/1991/824",
+   "short": "HG nr. 824/1991",
+   "title": "Hotărârea Guvernului nr. 824/1991 privind stabilirea unor măsuri pentru aducerea la îndeplinire a sarcinilor care revin Guvernului din Legea privind alegerile locale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95650",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 14,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95650",
+     "sha256": "738778ede69e23c1289c3900226d9855613624f65ebd54396e41cd242a39fe52"
+    }
+   ]
+  },
+  {
+   "slug": "hg-825-1991",
+   "path": "hg/1991/825",
+   "short": "HG nr. 825/1991",
+   "title": "Hotărârea Guvernului nr. 825/1991 privind stabilirea modelului listelor electorale pentru alegerea consiliilor locale şi a primarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95651",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95651",
+     "sha256": "21efd22a9af6a75ccbdedd4c5e91451b03b79f48d4138bb064c0c03b26bba3fb"
+    }
+   ]
+  },
+  {
+   "slug": "hg-826-1991",
+   "path": "hg/1991/826",
+   "short": "HG nr. 826/1991",
+   "title": "Hotărârea Guvernului nr. 826/1991 privind stabilirea modelului buletinelor de vot pentru alegerea consiliilor locale şi a primarilor",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95652",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95652",
+     "sha256": "663a6d9777ececd4d8c9b14a935896ec01af34458b4406bcf4e6e17bc8dbf591"
+    }
+   ]
+  },
+  {
+   "slug": "hg-828-1991",
+   "path": "hg/1991/828",
+   "short": "HG nr. 828/1991",
+   "title": "Hotărârea Guvernului nr. 828/1991 privind suplimentarea efectivelor Ministerului de Interne",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35755",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35755",
+     "sha256": "e7362c0d2b285c08b50fd6518978862ca1bbfb579ef8a1f9d8e31b2a68308a46"
+    }
+   ]
+  },
+  {
+   "slug": "hg-829-1991",
+   "path": "hg/1991/829",
+   "short": "HG nr. 829/1991",
+   "title": "Hotărârea Guvernului nr. 829/1991 privind aprobarea obiectivului de investiţii \"Dezvoltarea capacităţii staţiei de epurare Iaşi\", etapa a IV-a, din municipiul Iaşi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35754",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35754",
+     "sha256": "446747ca8cd707006f4f675443ed038ac822afddabb5ee2ea59c6bc1ef60563a"
+    }
+   ]
+  },
+  {
+   "slug": "hg-830-1991",
+   "path": "hg/1991/830",
+   "short": "HG nr. 830/1991",
+   "title": "Hotărârea Guvernului nr. 830/1991 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21374",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21374",
+     "sha256": "0774fd6aa24612fcd914bbd9645e83b2817f0cfc00add49050ef0f0cfb575e5b"
+    }
+   ]
+  },
+  {
+   "slug": "hg-831-1991",
+   "path": "hg/1991/831",
+   "short": "HG nr. 831/1991",
+   "title": "Hotărârea Guvernului nr. 831/1991 privind abrogarea Hotărîrii Consiliului de Miniştri nr. 810 din 29 iulie 1949",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/21289",
+   "versions": [
+    {
+     "from": "1991-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/21289",
+     "sha256": "5ea93836b24ace8b4708c0758893f1a3e1f6a6568abd7151d0633ca7ad90d2df"
+    }
+   ]
+  },
+  {
+   "slug": "hg-832-1991",
+   "path": "hg/1991/832",
+   "short": "HG nr. 832/1991",
+   "title": "Hotărârea Guvernului nr. 832/1991 privind stabilirea sărbătorilor Crăciunului şi Anului Nou ca zile nelucratoare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96629",
+   "versions": [
+    {
+     "from": "1991-12-19",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96629",
+     "sha256": "0b58cb24208b05858a67765d598ebb90a56e91467a8d0dd3a390beb9fca6aab6"
+    }
+   ]
+  },
+  {
+   "slug": "hg-833-1991",
+   "path": "hg/1991/833",
+   "short": "HG nr. 833/1991",
+   "title": "Hotărârea Guvernului nr. 833/1991 pentru modificarea prevederilor Hotărîrii Guvernului nr. 1032/1990 privind constituirea Comitetului pentru sprijinirea instituţiilor de ocrotire a copilului",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/35753",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/35753",
+     "sha256": "46933e8582eab7aeae902d43576257e010aa70e413eccd675396632bc13a9299"
     }
    ]
   },
@@ -1536,6 +6117,111 @@
    ]
   },
   {
+   "slug": "hg-844-1991",
+   "path": "hg/1991/844",
+   "short": "HG nr. 844/1991",
+   "title": "Hotărârea Guvernului nr. 844/1991 privind înfiinţarea Comitetului Interministerial de Garanţii şi Credite de Comerţ Exterior",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2039",
+   "versions": [
+    {
+     "from": "1992-01-15",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2039",
+     "sha256": "414fbc10f271a5a62b47bcfa89cc0e55d67ba13b00fc431329b2bc068f719f12"
+    }
+   ]
+  },
+  {
+   "slug": "hg-849-1991",
+   "path": "hg/1991/849",
+   "short": "HG nr. 849/1991",
+   "title": "Hotărârea Guvernului nr. 849/1991 privind drepturile băneşti ale gradaţilor şi soldaţilor în rezerva, pe toată durata concentrării cu scoaterea din producţie",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2042",
+   "versions": [
+    {
+     "from": "1992-02-27",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2042",
+     "sha256": "217c2d852f893a4092c34aee53e909264eeb0b6891a077eea7e1ebd0848fb52d"
+    }
+   ]
+  },
+  {
+   "slug": "hg-850-1991",
+   "path": "hg/1991/850",
+   "short": "HG nr. 850/1991",
+   "title": "Hotărârea Guvernului nr. 850/1991 pentru aprobarea Acordului dintre Guvernul României şi Guvernul Republicii Federale Germania privind navigaţia pe căile navigabile interioare",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2043",
+   "versions": [
+    {
+     "from": "1992-04-29",
+     "units": 19,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2043",
+     "sha256": "57deb44dd37d4b78b5519dc6603c50d856862aeb9bd389070216799afde022d3"
+    }
+   ]
+  },
+  {
+   "slug": "hg-851-1991",
+   "path": "hg/1991/851",
+   "short": "HG nr. 851/1991",
+   "title": "Hotărârea Guvernului nr. 851/1991 pentru aprobarea Protocolului celei de-a XIX-a sesiuni a Comisiei mixte guvernamentale româno-suedeze pentru comerţ şi cooperare economică, industriala şi tehnică",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93986",
+   "versions": [
+    {
+     "from": "1992-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93986",
+     "sha256": "f00cf1c70c9f482c23e8bef25ea5ab7665a169b362c0f01d8ec01b2837daf83e"
+    }
+   ]
+  },
+  {
+   "slug": "hg-853-1991",
+   "path": "hg/1991/853",
+   "short": "HG nr. 853/1991",
+   "title": "Hotărârea Guvernului nr. 853/1991 pentru acordarea cetăţeniei române",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49207",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49207",
+     "sha256": "5f0cc178149d306f3f5c3655030f531eae5e073575cac87c3cf49dbe0d46b6e1"
+    }
+   ]
+  },
+  {
+   "slug": "hg-854-1991",
+   "path": "hg/1991/854",
+   "short": "HG nr. 854/1991",
+   "title": "Hotărârea Guvernului nr. 854/1991 privind aprobarea renunţării la cetăţenia Română de către unele persoane",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49208",
+   "versions": [
+    {
+     "from": "1992-02-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49208",
+     "sha256": "d3eb5f45d791337cece85c3570c1655a6e6ff10ada1b0e0bc4b11d6e17a240c8"
+    }
+   ]
+  },
+  {
+   "slug": "hg-856-1991",
+   "path": "hg/1991/856",
+   "short": "HG nr. 856/1991",
+   "title": "Hotărârea Guvernului nr. 856/1991 privind modificarea şi completarea Hotărîrii Guvernului nr. 439/1991",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2046",
+   "versions": [
+    {
+     "from": "1992-06-01",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2046",
+     "sha256": "cb2b3cacea6a96f97ec213eec856ccfd11a76d6d1f935ebc9a338eb1da4cb265"
+    }
+   ]
+  },
+  {
    "slug": "hg-858-1991",
    "path": "hg/1991/858",
    "short": "HG nr. 858/1991",
@@ -1547,6 +6233,21 @@
      "units": 10,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2048",
      "sha256": "c79d2b474175ca23016516185db6ad54d1bd696de25541c04e5c80f35893f0c5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-859-1991",
+   "path": "hg/1991/859",
+   "short": "HG nr. 859/1991",
+   "title": "Hotărârea Guvernului nr. 859/1991 pentru modificarea pct. 4.7 din anexa nr. 3 la Metodologia concesionarii, închirierii şi locaţiei gestiunii, aprobată prin Hotărârea Guvernului nr. 1228/1990",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/2049",
+   "versions": [
+    {
+     "from": "1992-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/2049",
+     "sha256": "9e14b93dfb1e09e681e43b68759d3f5356744c950419bfaf1feae3532d47a335"
     }
    ]
   },

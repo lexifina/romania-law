@@ -346,6 +346,81 @@
      "sha256": "620f33c430afa0a1ba6cd2f853e804c824913901e4e6cc1564f1ddfcd2e5884b"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-12-2022",
+   "path": "decizie/orda/2022/12",
+   "short": "Decizia orda nr. 12/2022",
+   "title": "Decizia nr. 12/2022 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite producătorilor de opere audiovizuale prevăzute în anexa la Decizia directorului general al Oficiului Român pentru Drepturile de Autor nr. 17/2006 pentru publicarea în Monitorul Oficial al României, Partea I, a Protocolului având drept obiect Metodologia priv",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/252265",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/252265",
+     "sha256": "eee2daeeefae3aa52d0db175181ad712f09f252e8062373a07aace07f9e7fa43"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-35-2022",
+   "path": "decizie/orda/2022/35",
+   "short": "Decizia orda nr. 35/2022",
+   "title": "Decizia nr. 35/2022",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/256963",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/256963",
+     "sha256": "59bd757ccb50ed03e780ad64e790272e16b1e42770b1a2c749555760b95e2cdf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-6-2022",
+   "path": "decizie/orda/2022/6",
+   "short": "Decizia orda nr. 6/2022",
+   "title": "Decizia nr. 6/2022 privind modificarea, pe baza indicelui de inflație stabilit la nivel național, a remunerațiilor cuvenite artiștilor interpreți sau executanți și producătorilor de fonograme prevăzute în Metodologia privind remunerația datorată artiștilor interpreți sau executanți și producătorilor de fonograme pentru comunicarea publică a fonogramelor de comerț/fonogramelor publi",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251631",
+   "versions": [
+    {
+     "from": "2022-03-01",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251631",
+     "sha256": "db8af00c19314ed82e81daf3fa11de8a3828839f9eb89a623e0942f3b399a1b0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-81-2022",
+   "path": "decizie/orda/2022/81",
+   "short": "Decizia orda nr. 81/2022",
+   "title": "Decizia nr. 81/2022 privind aprobarea formatului repertoriului de publicații de presă al organismelor de gestiune colectivă",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/260240",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/260240",
+     "sha256": "5fcf4c73ca9eefffd99ef9d0be70f78e6dc602004a202c468f708581cc277788"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-9-2022",
+   "path": "decizie/orda/2022/9",
+   "short": "Decizia orda nr. 9/2022",
+   "title": "Decizia nr. 9/2022 privind publicarea în Monitorul Oficial al României, Partea I, a Protocolului prin care a fost convenită forma finală a Metodologiei privind comunicarea publică a operelor muzicale realizată prin punerea la dispoziția publicului a spectacolelor de teatru în mediul online, încheiat între UCMR-ADA, Asociația pentru Drepturi de Autor a Compozitorilor, pe de o parte",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/251923",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/251923",
+     "sha256": "dce9747092774917a7106fc0065ba1b8551bf095214528bc56a25512c2031e92"
+    }
+   ]
   }
  ]
 }

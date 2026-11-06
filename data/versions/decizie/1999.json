@@ -946,6 +946,36 @@
      "sha256": "16c7e81ff762535ef822585442b664225927f945ef95f678d5122dfa9e734ab0"
     }
    ]
+  },
+  {
+   "slug": "decizie-orda-12-1999",
+   "path": "decizie/orda/1999/12",
+   "short": "Decizia orda nr. 12/1999",
+   "title": "Decizia nr. 12/1999 privind desemnarea Uniunii Compozitorilor și Muzicologilor din România - Asociația Drepturilor de Autor (U.C.M.R.-A.D.A.), sa colecteze sumele datorate de utilizatori",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/22543",
+   "versions": [
+    {
+     "from": "2000-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/22543",
+     "sha256": "7b4cd3c255050e7b0a7d64ebcabfc85a5af147c09eab523a213452af50304042"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-orda-5-1999",
+   "path": "decizie/orda/1999/5",
+   "short": "Decizia orda nr. 5/1999",
+   "title": "Decizia nr. 5/1999 privind desemnarea Centrului Român pentru Administrarea Drepturilor Artiștilor Interpreți (CREDIDAM) drept organism de gestiune colectivă colector al remunerației compensatorii pentru copia privată în domeniul înregistrărilor audiovizuale, prevăzută la art. 107 alin. (1) din Legea nr. 8/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18927",
+   "versions": [
+    {
+     "from": "1999-08-04",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/18927",
+     "sha256": "ba8a9bdb3566c7bede024fa45853d1b4b4d2dec7487ebba858fe1db687b05855"
+    }
+   ]
   }
  ]
 }

@@ -136,6 +136,21 @@
      "sha256": "627568e37098c5aad8f6bfc47d3d2bb304bcd04ad1edbfd67f6711a2d06bf7f1"
     }
    ]
+  },
+  {
+   "slug": "hotarare-orda-1-2014",
+   "path": "hotarare/orda/2014/1",
+   "short": "Hotărârea orda nr. 1/2014",
+   "title": "Hotărârea nr. 1/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159152",
+   "versions": [
+    {
+     "from": "2014-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159152",
+     "sha256": "b5d13bca797695f4e8fa07639f5c32ced93856f3b30611126b9c1f0346de4174"
+    }
+   ]
   }
  ]
 }
