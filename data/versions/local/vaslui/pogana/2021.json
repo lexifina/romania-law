@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--pogana-54-2021",
+   "path": "local/vaslui/pogana/2021/54",
+   "short": "HCL Pogana nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pogana nr. 54/2021 Desemnare reprezentant al CL Pogana in CA al Scolii Gimnaziale nr 1 Pogana",
+   "url": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#5430",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#5430",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--pogana-55-2021",
    "path": "local/vaslui/pogana/2021/55",
    "short": "HCL Pogana nr. 55/2021",
@@ -378,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--pogana-63-2021",
+   "path": "local/vaslui/pogana/2021/63",
+   "short": "HCL Pogana nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pogana nr. 63/2021 privind desemnarea unui consilier local , care sa faca parte din comisia de interviu , pentru ocuparea postului de director din cadrul unitatilor de invatamant de pe raza comunei Pogana , judetul Vaslui",
+   "url": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#7185",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#7185",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--pogana-64-2021",
    "path": "local/vaslui/pogana/2021/64",
    "short": "HCL Pogana nr. 64/2021",
@@ -463,6 +493,21 @@
      "from": "2021-11-26",
      "units": 1,
      "source_url": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#8890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--pogana-70-2021",
+   "path": "local/vaslui/pogana/2021/70",
+   "short": "HCL Pogana nr. 70/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Pogana nr. 70/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

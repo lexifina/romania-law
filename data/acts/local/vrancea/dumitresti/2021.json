@@ -67,6 +67,140 @@
 "flags": {
 "text_pending": "source"
 }
+},
+{
+"slug": "hcl-vrancea--dumitresti-47-2021",
+"path": "local/vrancea/dumitresti/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 47/2021",
+"short": "HCL Dumitrești nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-49-2021",
+"path": "local/vrancea/dumitresti/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 49/2021 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45100",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-51-2021",
+"path": "local/vrancea/dumitresti/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 51/2021 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, din data de 12.10.2021",
+"short": "HCL Dumitrești nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45102",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-55-2021",
+"path": "local/vrancea/dumitresti/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 55/2021",
+"short": "HCL Dumitrești nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-72-2021",
+"path": "local/vrancea/dumitresti/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 72/2021 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pentru sedința din data de 28.12.2021",
+"short": "HCL Dumitrești nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45124",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-76-2021",
+"path": "local/vrancea/dumitresti/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 76/2021 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45128",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

@@ -3,6 +3,117 @@
 "shard": "local/vrancea/urechesti/2025",
 "acts": [
 {
+"slug": "hcl-vrancea--urechesti-20-2025",
+"path": "local/vrancea/urechesti/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 20/2025 alegerea preşedintelui de şedinţă pentru perioada iulie, august, septembrie 2025",
+"short": "HCL Urechești nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-26",
+"latest": "2025-06-26",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#101061",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-32-2025",
+"path": "local/vrancea/urechesti/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 32/2025 alegerea preşedintelui de şedinţă pentru perioada octombrie, noiembrie si decembrie 2025",
+"short": "HCL Urechești nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#106288",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-36-2025",
+"path": "local/vrancea/urechesti/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 36/2025 desemnarea de reprezentanti ai Consiliului Local al comunei Urechesti in Consiliul de administratie si in Comisia de Evaluare si Asigurare a Calitatii ale Scolii Gimnaziale Urechesti, judetul Vrancea",
+"short": "HCL Urechești nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-30",
+"latest": "2025-10-30",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#108844",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-42-2025",
+"path": "local/vrancea/urechesti/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 42/2025 acordarea unui mandat de reprezentare viceprimarului cu atributii de primar al UAT Comuna Urechesti in Adunarea Generala a membrilor Organizației de Management al Destinației „Ținutului Vrancei”",
+"short": "HCL Urechești nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#111712",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--urechesti-45-2025",
+"path": "local/vrancea/urechesti/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 45/2025",
+"short": "HCL Urechești nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": null,
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vrancea--urechesti-47-2025",
 "path": "local/vrancea/urechesti/2025/47",
 "kind": "local",

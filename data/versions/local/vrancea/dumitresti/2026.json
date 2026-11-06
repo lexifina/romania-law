@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/dumitresti/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--dumitresti-21-2026",
+   "path": "local/vrancea/dumitresti/2026/21",
+   "short": "HCL Dumitrești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 21/2026 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126442",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-22-2026",
+   "path": "local/vrancea/dumitresti/2026/22",
+   "short": "HCL Dumitrești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 22/2026 privind aprobarea salariilor de bază aferente unor funcții contractuale din cadrul familiei ocupaționale „ADMINISTRAȚIE” utilizate în aparatul de specialitate al primarului comunei Dumitresti , jud. Vrancea, la nivelul salariului minim pe economie prevăzut în HG nr. 146/2026 Consiliul Local al comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126443",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-23-2026",
+   "path": "local/vrancea/dumitresti/2026/23",
+   "short": "HCL Dumitrești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 23/2026 privind încetarea contractului de închiriere nr.4523/20.05.2025 pentru suprafețele de pajisti aflate în domeniul privat al comunei Comuna Dumitrești ca urmare a decesului titularului",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126444",
+   "versions": [
+    {
+     "from": "2026-07-10",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#126444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-26-2026",
+   "path": "local/vrancea/dumitresti/2026/26",
+   "short": "HCL Dumitrești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 26/2026 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pentru ședința ordinară din 31.08.2026",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#128655",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#128655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-4-2026",
+   "path": "local/vrancea/dumitresti/2026/4",
+   "short": "HCL Dumitrești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 4/2026 privind stabilirea situațiilor deosebite și a metodologiei de acordare a unor ajutoare de urgenţă din bugetul local persoanelor singure sau familiilor din comuna Dumitresti, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#118440",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#118440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-5-2026",
+   "path": "local/vrancea/dumitresti/2026/5",
+   "short": "HCL Dumitrești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 5/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

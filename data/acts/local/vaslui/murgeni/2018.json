@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/murgeni/2018",
+"acts": [
+{
+"slug": "hcl-vaslui--murgeni-57-2018",
+"path": "local/vaslui/murgeni/2018/57",
+"kind": "local",
+"year": "2018",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 57/2018",
+"short": "HCL Murgeni nr. 57/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-28",
+"latest": "2018-12-28",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2026/09/HCL-nr.-57din-28.12.2018-privind-aprobarea-salariilor-de-baza-din-cadrul-aparatului-de-specialitate-al-primarului-orasului-Murgeni.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

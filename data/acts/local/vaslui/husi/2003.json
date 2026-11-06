@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/husi/2003",
+"acts": [
+{
+"slug": "hcl-vaslui--husi-81-2003",
+"path": "local/vaslui/husi/2003/81",
+"kind": "local",
+"year": "2003",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Huși nr. 81/2003 privind aprobarea reevaluării patrimoniului Municipiului Huși la data de 28.02.2021 Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere : • Referatul Direcției Urbanism nr. 6467 din 18.03.2021; • Referatul de aprobare al Primarului municipiului Huși nr. 6486 din 18.03.2021 privind aprobarea reevaluării patrimoniului Municipiului Huși la data de 28.02.2021; • Raportul Direcției Ur",
+"short": "HCL Huși nr. 81/2003",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2003-08-28",
+"latest": "2003-08-28",
+"portal": "https://www.primariahusi.ro/wp-content/uploads/2022/07/hotararea_81_2021.pdf",
+"council": "vaslui/husi",
+"council_name": "Consiliul Local al Municipiului Huși",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

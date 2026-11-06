@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/rafaila/2025",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--rafaila-19-2025",
+   "path": "local/vaslui/rafaila/2025/19",
+   "short": "HCL Rafaila nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rafaila nr. 19/2025 privind revocarea HCL nr. 08/03.02.2025 privind modificarea inventarului bunurilor care alcătuiesc domeniul public al comunei Rafaila, județul Vaslui",
+   "url": "https://rafaila.ro/wp-content/uploads/2026/08/H.C.L.19-revocare-HCL-8-domeniu-public.pdf",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://rafaila.ro/wp-content/uploads/2026/08/H.C.L.19-revocare-HCL-8-domeniu-public.pdf",
+     "sha256": "f37c8bf8e4ebd675b2a0face942c34f3b9d242e3fc25cf29975a0b9ba4141043"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--rafaila-21-2025",
+   "path": "local/vaslui/rafaila/2025/21",
+   "short": "HCL Rafaila nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rafaila nr. 21/2025 privind modificarea H.C.L nr. 4 din 23.01.2025 privind utilizarea excedentului bugetului local al comunei Rafaila, județul Vaslui, rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://rafaila.ro/wp-content/uploads/2026/08/H.C.L.21.modificare-HCL-4-Excedent-bugetar.pdf",
+   "versions": [
+    {
+     "from": "2025-03-28",
+     "units": 1,
+     "source_url": "https://rafaila.ro/wp-content/uploads/2026/08/H.C.L.21.modificare-HCL-4-Excedent-bugetar.pdf",
+     "sha256": "9483e62ce5b206c2d27ffcd8db8464472948c18bd90108ef3232fb50419268a6"
+    }
+   ]
+  }
+ ]
+}

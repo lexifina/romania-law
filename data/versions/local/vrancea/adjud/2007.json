@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2007",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-14-2007",
+   "path": "local/vrancea/adjud/2007/14",
+   "short": "HCL Adjud nr. 14/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 14/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+   "versions": [
+    {
+     "from": "2007-03-22",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-03-55HCL_14.pdf",
+     "sha256": "7cfe435dd4d312c5e00853bc937571f083e0145053722293eb7c658f96c8ee9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-32-2007",
+   "path": "local/vrancea/adjud/2007/32",
+   "short": "HCL Adjud nr. 32/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 32/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta de indata ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetulu",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+   "versions": [
+    {
+     "from": "2007-04-12",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/14-04-25-03-44-16HCL_32.pdf",
+     "sha256": "268cd5c8d2c2ba5788047e7dda5d4ec7ce3bf896ab1a70f626041383db35122d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-40-2007",
+   "path": "local/vrancea/adjud/2007/40",
+   "short": "HCL Adjud nr. 40/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 40/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+   "versions": [
+    {
+     "from": "2007-05-10",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/14-04-25-03-44-49HCL_40.pdf",
+     "sha256": "1725f065c46a87e6b70469394aa888bdb0363ab5ed61fe966ba6b3309f4d0983"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-61-2007",
+   "path": "local/vrancea/adjud/2007/61",
+   "short": "HCL Adjud nr. 61/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 61/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/14-04-25-03-45-59HCL_61.pdf",
+     "sha256": "a07d8eb40aa1639145f0c545e7c29526cf3605e86aac6aec1eae199e72a906a3"
+    }
+   ]
+  }
+ ]
+}

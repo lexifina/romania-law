@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-105-2025",
+   "path": "local/vrancea/adjud/2025/105",
+   "short": "HCL Adjud nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 105/2025 privind alegerea președintelui de ședință pentru perioada iulie-septembrie 2025",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2025/07/hcl-105-Redacted.pdf",
+     "sha256": "68553752d5f21af0513a46db667aa1c2dc19a0704decb131577515ee6e17fafe"
+    }
+   ]
+  }
+ ]
+}

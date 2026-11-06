@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/murgeni/2019",
+"acts": [
+{
+"slug": "hcl-vaslui--murgeni-73-2019",
+"path": "local/vaslui/murgeni/2019/73",
+"kind": "local",
+"year": "2019",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 73/2019",
+"short": "HCL Murgeni nr. 73/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-29",
+"latest": "2019-10-29",
+"portal": "https://primaria-murgeni.ro/wp-content/uploads/2026/09/HCL-nr.-73-din-29-10-2019-privind-aprobarea-regulamnetului-consiliului-local-Murgeni.pdf",
+"council": "vaslui/murgeni",
+"council_name": "Consiliul Local al Orașului Murgeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

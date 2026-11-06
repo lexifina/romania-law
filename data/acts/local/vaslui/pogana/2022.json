@@ -619,6 +619,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-68-2022",
+"path": "local/vaslui/pogana/2022/68",
+"kind": "local",
+"year": "2022",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 68/2022 Desemnare reprezentant in CA a scolii Pogana",
+"short": "HCL Pogana nr. 68/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#29875",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-69-2022",
 "path": "local/vaslui/pogana/2022/69",
 "kind": "local",

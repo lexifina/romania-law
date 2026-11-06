@@ -378,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-54-2021",
+"path": "local/vaslui/pogana/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 54/2021 Desemnare reprezentant al CL Pogana in CA al Scolii Gimnaziale nr 1 Pogana",
+"short": "HCL Pogana nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#5430",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-55-2021",
 "path": "local/vaslui/pogana/2021/55",
 "kind": "local",
@@ -555,6 +577,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-63-2021",
+"path": "local/vaslui/pogana/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 63/2021 privind desemnarea unui consilier local , care sa faca parte din comisia de interviu , pentru ocuparea postului de director din cadrul unitatilor de invatamant de pe raza comunei Pogana , judetul Vaslui",
+"short": "HCL Pogana nr. 63/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#7185",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-64-2021",
 "path": "local/vaslui/pogana/2021/64",
 "kind": "local",
@@ -685,6 +729,29 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-70-2021",
+"path": "local/vaslui/pogana/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 70/2021",
+"short": "HCL Pogana nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": null,
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

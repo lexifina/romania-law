@@ -3,6 +3,117 @@
 "shard": "local/vrancea/poiana-cristei/2026",
 "acts": [
 {
+"slug": "hcl-vrancea--poiana-cristei-9-2026",
+"path": "local/vrancea/poiana-cristei/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 9/2026 privind alegerea preşedintelui pentru şedinţa din 27.02.2026",
+"short": "HCL Poiana Cristei nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#117662",
+"council": "vrancea/poiana-cristei",
+"council_name": "Consiliul Local al Comunei Poiana Cristei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--poiana-cristei-11-2026",
+"path": "local/vrancea/poiana-cristei/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 11/2026",
+"short": "HCL Poiana Cristei nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": null,
+"council": "vrancea/poiana-cristei",
+"council_name": "Consiliul Local al Comunei Poiana Cristei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--poiana-cristei-18-2026",
+"path": "local/vrancea/poiana-cristei/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 18/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local al Comunei Poiana Cristei pentru perioada aprilie-iunie 2026",
+"short": "HCL Poiana Cristei nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-31",
+"latest": "2026-03-31",
+"portal": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#119129",
+"council": "vrancea/poiana-cristei",
+"council_name": "Consiliul Local al Comunei Poiana Cristei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--poiana-cristei-20-2026",
+"path": "local/vrancea/poiana-cristei/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 20/2026 Privind reorganizarea aparatului de specialitate al primarului și aprobarea organigramei și a statului de funcții, în conformitate cu numărul maxim de posturi stabilit prin Ordinul Prefectului nr. 132/16.03.2026, la nivelul Unității Administrativ-Teritoriale Comuna Poiana Cristei, județul Vrancea",
+"short": "HCL Poiana Cristei nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-15",
+"latest": "2026-04-15",
+"portal": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#120072",
+"council": "vrancea/poiana-cristei",
+"council_name": "Consiliul Local al Comunei Poiana Cristei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--poiana-cristei-26-2026",
+"path": "local/vrancea/poiana-cristei/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 26/2026 Alegerea președintelui de ședință pentru ședința din 26.05.2026",
+"short": "HCL Poiana Cristei nr. 26/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-26",
+"latest": "2026-05-26",
+"portal": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#124234",
+"council": "vrancea/poiana-cristei",
+"council_name": "Consiliul Local al Comunei Poiana Cristei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--poiana-cristei-36-2026",
 "path": "local/vrancea/poiana-cristei/2026/36",
 "kind": "local",

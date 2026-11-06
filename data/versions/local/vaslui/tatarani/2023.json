@@ -3,6 +3,51 @@
  "shard": "local/vaslui/tatarani/2023",
  "acts": [
   {
+   "slug": "hcl-vaslui--tatarani-17-2023",
+   "path": "local/vaslui/tatarani/2023/17",
+   "short": "HCL Tătărăni nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 17/2023 pentru funcționarii publici și personalul contractual din aparatul de specialitate și serviciile publice subordonate Consiliului Local Tătărăni",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/03/Hotararea-nr-17-din-28.03.2023-Stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-personalul-contractual-din-aparatul-de-specialitate-si-serviciile-publice-subordona.pdf",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/03/Hotararea-nr-17-din-28.03.2023-Stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-personalul-contractual-din-aparatul-de-specialitate-si-serviciile-publice-subordona.pdf",
+     "sha256": "ae63e79bad7607a15707c38cb82b7ed3d416343a944892da1b18a9aceb49882d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-18-2023",
+   "path": "local/vaslui/tatarani/2023/18",
+   "short": "HCL Tătărăni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 18/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/03/Hotararea-nr-18-din-28.03.2023-Aprobarea-cumpararii-unui-imobil-de-interes-local-si-de-utilitate-publica.pdf",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/03/Hotararea-nr-18-din-28.03.2023-Aprobarea-cumpararii-unui-imobil-de-interes-local-si-de-utilitate-publica.pdf",
+     "sha256": "88c6003446052cc691c45b37696945c9861796a829f5776ef12b58d638432d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-19-2023",
+   "path": "local/vaslui/tatarani/2023/19",
+   "short": "HCL Tătărăni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 19/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-19-din-11.04.2023-Aprobarea-structurii-organizatorice-a-aparatului-de-specialitate-al-primarului-comunei-Tatarani-si-a-serviciilor-publice-din-subordinea-Consiliu.pdf",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-19-din-11.04.2023-Aprobarea-structurii-organizatorice-a-aparatului-de-specialitate-al-primarului-comunei-Tatarani-si-a-serviciilor-publice-din-subordinea-Consiliu.pdf",
+     "sha256": "b435e684bf65491776493717c46247357eba57e3dabc8f7b2ecb280b29a927de"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--tatarani-20-2023",
    "path": "local/vaslui/tatarani/2023/20",
    "short": "HCL Tătărăni nr. 20/2023",
@@ -14,6 +59,81 @@
      "units": 1,
      "source_url": null,
      "sha256": "3622a08e923d671e87c6408710e1e1fcc203e3e558fe718838f411b2e25bf30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-21-2023",
+   "path": "local/vaslui/tatarani/2023/21",
+   "short": "HCL Tătărăni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 21/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-21-din-28.04.2023-Modificarea-incepand-cu-anul-fiscal-2024-a-nivelului-valorilor-impozabile-impozitelor-taxelor-locale-taxelor-asimilate-si-amenzilor-prin-indexar.pdf",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-21-din-28.04.2023-Modificarea-incepand-cu-anul-fiscal-2024-a-nivelului-valorilor-impozabile-impozitelor-taxelor-locale-taxelor-asimilate-si-amenzilor-prin-indexar.pdf",
+     "sha256": "10d40ff484c24a4c6a4a6e8681605a9faf1ac30918d7547dcc69ea9d87e033e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-22-2023",
+   "path": "local/vaslui/tatarani/2023/22",
+   "short": "HCL Tătărăni nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 22/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-22-din-28.04.2023-Rectificarea-bugetului-de-venituri-si-cheltuieli-etapa-I-pe-anul-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-22-din-28.04.2023-Rectificarea-bugetului-de-venituri-si-cheltuieli-etapa-I-pe-anul-2023.pdf",
+     "sha256": "2105be5f70ca20eedea1b37b88ddddf88e6943fcb7cb4fadb20d3a40a910eae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-23-2023",
+   "path": "local/vaslui/tatarani/2023/23",
+   "short": "HCL Tătărăni nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 23/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-23-din-28.04.2023-Stabilirea-salariilor-personalului-din-cadrul-Primariei-comunei-Tatarani-judetul-Vaslui-incepand-cu-data-de-28-04-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-23-din-28.04.2023-Stabilirea-salariilor-personalului-din-cadrul-Primariei-comunei-Tatarani-judetul-Vaslui-incepand-cu-data-de-28-04-2023.pdf",
+     "sha256": "d5a40804beb3207395c0ef880116223659eb9737e231f0f659aa5955ab6aaff2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-25-2023",
+   "path": "local/vaslui/tatarani/2023/25",
+   "short": "HCL Tătărăni nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 25/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-25-din-28.04.2023-Alegerea-presedintelui-de-sedinta-a-Consiliului-Local-al-comunei-Tatarani-judetul-Vaslui.pdf",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/04/Hotararea-nr-25-din-28.04.2023-Alegerea-presedintelui-de-sedinta-a-Consiliului-Local-al-comunei-Tatarani-judetul-Vaslui.pdf",
+     "sha256": "c3803df9c460b90e9fd1502505d4fa73ad35febe9474916094a872059ad7cf8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tatarani-27-2023",
+   "path": "local/vaslui/tatarani/2023/27",
+   "short": "HCL Tătărăni nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tătărăni nr. 27/2023",
+   "url": "https://comuna-tatarani.ro/wp-content/uploads/2023/05/Hotararea-nr-27-din-16.05.2023-Aprobarea-sustinerii-Parteneriatului-LEADER-Movila-lui-Burcel-Vaslui-Nord-prin-includerea-teritoriului-comunei-Tatarani-in-parteneriat.pdf",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://comuna-tatarani.ro/wp-content/uploads/2023/05/Hotararea-nr-27-din-16.05.2023-Aprobarea-sustinerii-Parteneriatului-LEADER-Movila-lui-Burcel-Vaslui-Nord-prin-includerea-teritoriului-comunei-Tatarani-in-parteneriat.pdf",
+     "sha256": "1ef334e0d37d1232c32cf083ad6a185d128242fb816262be5d8ce938ac42a957"
     }
    ]
   }

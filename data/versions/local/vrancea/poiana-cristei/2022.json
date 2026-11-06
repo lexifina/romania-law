@@ -3,6 +3,111 @@
  "shard": "local/vrancea/poiana-cristei/2022",
  "acts": [
   {
+   "slug": "hcl-vrancea--poiana-cristei-10-2022",
+   "path": "local/vrancea/poiana-cristei/2022/10",
+   "short": "HCL Poiana Cristei nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 10/2022 privind aprobarea scoaterii la licitaţie publică în vederea închirierii spaţiului- din cladirea-primarie veche in suprafata de 31,6 m², T 13, P 405 avand destinaţia de farmacie,sat Poiana Cristei, com. Poiana Cristei, jud. Vrancea",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16512",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-11-2022",
+   "path": "local/vrancea/poiana-cristei/2022/11",
+   "short": "HCL Poiana Cristei nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 11/2022 privind desemnarea unui reprezentant din partea Consiliului Local –membru in comisia de evaluare licitatie publica inchiriere spatiu-farmacie si un supleant al acestuia",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16513",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-12-2022",
+   "path": "local/vrancea/poiana-cristei/2022/12",
+   "short": "HCL Poiana Cristei nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 12/2022 privind însuşirea raportului de evaluare al spaţiului - din cladirea-primarie veche in suprafata de 31,6 m², T 13, P 405 avand destinaţia de farmacie sat Poiana Cristei, com. Poiana Cristei, jud. Vrancea. şi aprobarea studiului de oportunitate şi al caietului de sarcini referitor la închirierea acestui spaţiu",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16514",
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#16514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-15-2022",
+   "path": "local/vrancea/poiana-cristei/2022/15",
+   "short": "HCL Poiana Cristei nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 15/2022 privind desemnarea unui reprezentant din partea Consiliului Local-membru in comisia de evaluare licitatie publica inchiriere pasune si tufaris",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25584",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-16-2022",
+   "path": "local/vrancea/poiana-cristei/2022/16",
+   "short": "HCL Poiana Cristei nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 16/2022 privind reactualizarea grupului de actiune comunitara la nivelul UAT Poiana Cristei",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25585",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-20-2022",
+   "path": "local/vrancea/poiana-cristei/2022/20",
+   "short": "HCL Poiana Cristei nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 20/2022 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25600",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#25600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-38-2022",
+   "path": "local/vrancea/poiana-cristei/2022/38",
+   "short": "HCL Poiana Cristei nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 38/2022 privind alegerea preşedintelui de şedinţă pentru urmatoarele 3 luni Consiliul local al comunei Poiana Cristei, Judeţul Vrancea, întrunit în şedinţă ordinară",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#37811",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#37811",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-39-2022",
    "path": "local/vrancea/poiana-cristei/2022/39",
    "short": "HCL Poiana Cristei nr. 39/2022",
@@ -93,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-45-2022",
+   "path": "local/vrancea/poiana-cristei/2022/45",
+   "short": "HCL Poiana Cristei nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 45/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-08-03",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-46-2022",
    "path": "local/vrancea/poiana-cristei/2022/46",
    "short": "HCL Poiana Cristei nr. 46/2022",
@@ -168,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-52-2022",
+   "path": "local/vrancea/poiana-cristei/2022/52",
+   "short": "HCL Poiana Cristei nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 52/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-53-2022",
    "path": "local/vrancea/poiana-cristei/2022/53",
    "short": "HCL Poiana Cristei nr. 53/2022",
@@ -193,6 +328,36 @@
      "from": "2022-10-13",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-55-2022",
+   "path": "local/vrancea/poiana-cristei/2022/55",
+   "short": "HCL Poiana Cristei nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 55/2022 privind alegerea presedintelui de sedinta pentru urmatoarele 3 luni",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38017",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-56-2022",
+   "path": "local/vrancea/poiana-cristei/2022/56",
+   "short": "HCL Poiana Cristei nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 56/2022 privind desemnarea unui reprezentant din partea Consiliului Local in consiliul de administratie al scolii gimnaziale",
+   "url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38018",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38018",
      "sha256": null
     }
    ]
@@ -438,6 +603,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--poiana-cristei-73-2022",
+   "path": "local/vrancea/poiana-cristei/2022/73",
+   "short": "HCL Poiana Cristei nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 73/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--poiana-cristei-74-2022",
    "path": "local/vrancea/poiana-cristei/2022/74",
    "short": "HCL Poiana Cristei nr. 74/2022",
@@ -463,6 +643,21 @@
      "from": "2022-12-29",
      "units": 1,
      "source_url": "https://poianacristei.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6252#38204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--poiana-cristei-8-2022",
+   "path": "local/vrancea/poiana-cristei/2022/8",
+   "short": "HCL Poiana Cristei nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Cristei nr. 8/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-02-21",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

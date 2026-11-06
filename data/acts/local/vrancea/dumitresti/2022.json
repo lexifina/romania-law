@@ -3,6 +3,51 @@
 "shard": "local/vrancea/dumitresti/2022",
 "acts": [
 {
+"slug": "hcl-vrancea--dumitresti-3-2022",
+"path": "local/vrancea/dumitresti/2022/3",
+"kind": "local",
+"year": "2022",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 3/2022",
+"short": "HCL Dumitrești nr. 3/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-12-2022",
+"path": "local/vrancea/dumitresti/2022/12",
+"kind": "local",
+"year": "2022",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 12/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 12/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24773",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-15-2022",
 "path": "local/vrancea/dumitresti/2022/15",
 "kind": "local",
@@ -22,6 +67,50 @@
 "council_name": "Consiliul Local al Comunei Dumitrești",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-22-2022",
+"path": "local/vrancea/dumitresti/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 22/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24912",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-28-2022",
+"path": "local/vrancea/dumitresti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 28/2022 Privind modificarea contractului de închiriere nr. 3151 din 18.04.2019, prin act aditional, încheiat între Comuna Dumitrești și Asociația ''Plaiul''",
+"short": "HCL Dumitrești nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30539",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +136,51 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-38-2022",
+"path": "local/vrancea/dumitresti/2022/38",
+"kind": "local",
+"year": "2022",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 38/2022",
+"short": "HCL Dumitrești nr. 38/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-39-2022",
+"path": "local/vrancea/dumitresti/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 39/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30742",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-44-2022",
 "path": "local/vrancea/dumitresti/2022/44",
 "kind": "local",
@@ -67,6 +201,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-54-2022",
+"path": "local/vrancea/dumitresti/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 54/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni Consiliul local al comunei Dumitrești , județul Vrancea,",
+"short": "HCL Dumitrești nr. 54/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#37537",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/ivanesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--ivanesti-93-2025",
+   "path": "local/vaslui/ivanesti/2025/93",
+   "short": "HCL Ivănești nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 93/2025",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-Hotararea-nr.93-din-27.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-Hotararea-nr.93-din-27.05.2025.pdf",
+     "sha256": "df6a9065a565357cdb9e4bf14dc34dfe818774b60213f6fcc3419f6d3ac972be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-96-2025",
+   "path": "local/vaslui/ivanesti/2025/96",
+   "short": "HCL Ivănești nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 96/2025",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-Hotararea-nr.96-din-27.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-27",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-Hotararea-nr.96-din-27.05.2025.pdf",
+     "sha256": "f41f9d6c4bc15b70bfa360aa28b8973a01b315027aab358f8f075fd3a9b4a785"
+    }
+   ]
+  }
+ ]
+}

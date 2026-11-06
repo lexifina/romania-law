@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--corbita-32-2024",
+"path": "local/vrancea/corbita/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbița nr. 32/2024 Proiect de hotărâre nr 12 din 03. 2024",
+"short": "HCL Corbița nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-28",
+"latest": "2024-03-28",
+"portal": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131761",
+"council": "vrancea/corbita",
+"council_name": "Consiliul Local al Comunei Corbița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--corbita-33-2024",
 "path": "local/vrancea/corbita/2024/33",
 "kind": "local",
@@ -287,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Corbița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--corbita-43-2024",
+"path": "local/vrancea/corbita/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbița nr. 43/2024 Proiect de hotărâre nr 23 /25.07.2024 privind aprobarea modalitatii de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatulului de specialitate al Primarului comunei Corbița și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau sub autoritatea Consiliului Local Corbița",
+"short": "HCL Corbița nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-25",
+"latest": "2024-07-25",
+"portal": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131838",
+"council": "vrancea/corbita",
+"council_name": "Consiliul Local al Comunei Corbița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

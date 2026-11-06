@@ -3,6 +3,28 @@
 "shard": "local/vrancea/popesti/2016",
 "acts": [
 {
+"slug": "hcl-vrancea--popesti-16-2016",
+"path": "local/vrancea/popesti/2016/16",
+"kind": "local",
+"year": "2016",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popești nr. 16/2016",
+"short": "HCL Popești nr. 16/2016",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2016-04-26",
+"latest": "2016-04-26",
+"portal": "https://www.primariapopestivn.ro/hotarari-ale-consiliului-local-2016/",
+"council": "vrancea/popesti",
+"council_name": "Consiliul Local al Comunei Popești",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--popesti-38-2016",
 "path": "local/vrancea/popesti/2016/38",
 "kind": "local",

@@ -47,6 +47,29 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-3-2026",
+"path": "local/vaslui/pogana/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 3/2026",
+"short": "HCL Pogana nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-30",
+"latest": "2026-01-30",
+"portal": null,
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-4-2026",
 "path": "local/vaslui/pogana/2026/4",
 "kind": "local",
@@ -488,6 +511,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-24-2026",
+"path": "local/vaslui/pogana/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 24/2026 Privind desemnarea de catre consiliul local , a doi consilieri locali , in cadrul comisiei de evaluare a performantelor profesionale a secretarului general al unitatii administrativ teritoriale",
+"short": "HCL Pogana nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-09",
+"latest": "2026-03-09",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#118107",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-25-2026",
 "path": "local/vaslui/pogana/2026/25",
 "kind": "local",
@@ -617,6 +662,29 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-31-2026",
+"path": "local/vaslui/pogana/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 31/2026",
+"short": "HCL Pogana nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-14",
+"latest": "2026-04-14",
+"portal": null,
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -818,6 +886,72 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-41-2026",
+"path": "local/vaslui/pogana/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 41/2026 privind aprobarea concesionarii Serviciului de distributie a gazelor naturale din comuna POGANA , județul Vaslui",
+"short": "HCL Pogana nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#122083",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-42-2026",
+"path": "local/vaslui/pogana/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 42/2026 privind aprobarea studiului de fundamentare a deciziei de concesionare a sistemului public de distributie a gazelor naturale",
+"short": "HCL Pogana nr. 42/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#122148",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-43-2026",
+"path": "local/vaslui/pogana/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 43/2026 privind aprobarea documentatiei de atribuire a contractului de concesionare a sistemului public de distributie a gazelor naturale",
+"short": "HCL Pogana nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#122150",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-44-2026",
 "path": "local/vaslui/pogana/2026/44",
 "kind": "local",
@@ -969,6 +1103,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-51-2026",
+"path": "local/vaslui/pogana/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 51/2026 privind alegerea unui președinte de ședință pentru conducerea ședinței Consiliului Local din data de 29.06.2026 și desemnarea unui președinte de ședință pentru următoarea ședință a Consiliului Local",
+"short": "HCL Pogana nr. 51/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-29",
+"latest": "2026-06-29",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#125538",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1280,6 +1436,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-66-2026",
+"path": "local/vaslui/pogana/2026/66",
+"kind": "local",
+"year": "2026",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 66/2026 pprivind desemnarea reprezentantului consiliului local în comisia de evaluare a probei interviului pentru concursul de ocupare a funcției de director al Școlii gimnaziale nr1 Pogana",
+"short": "HCL Pogana nr. 66/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#130282",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-67-2026",
 "path": "local/vaslui/pogana/2026/67",
 "kind": "local",
@@ -1299,6 +1477,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-68-2026",
+"path": "local/vaslui/pogana/2026/68",
+"kind": "local",
+"year": "2026",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 68/2026 privind desemnarea a 2 (doi) consilieri locali , care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale nr 1 Pogana , judetul Vaslui",
+"short": "HCL Pogana nr. 68/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-30",
+"latest": "2026-09-30",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#130359",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

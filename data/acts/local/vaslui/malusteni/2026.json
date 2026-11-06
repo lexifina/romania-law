@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/malusteni/2026",
+"acts": [
+{
+"slug": "hcl-vaslui--malusteni-34-2026",
+"path": "local/vaslui/malusteni/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mălușteni nr. 34/2026 privind desemnarea resprezentantului CL in comisia de evaluare a probei interviu pentru functia de director scoala",
+"short": "HCL Mălușteni nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://malusteni.ro/wp-content/uploads/2026/10/Hotararea-nr.34-29.09.2026-privind-desemnarea-resprezentantului-CL-in-comisia-de-evaluare-a-probei-interviu-pentru-functia-de-director-scoala.pdf",
+"council": "vaslui/malusteni",
+"council_name": "Consiliul Local al Comunei Mălușteni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

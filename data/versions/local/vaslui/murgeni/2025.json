@@ -3,6 +3,51 @@
  "shard": "local/vaslui/murgeni/2025",
  "acts": [
   {
+   "slug": "hcl-vaslui--murgeni-90-2025",
+   "path": "local/vaslui/murgeni/2025/90",
+   "short": "HCL Murgeni nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 90/2025 privind aprobarea \" Raport anual privind analiza capacitatii de aparare împotriva incendiilor/situatii de urgență și măsuri de îmbunătățire a acestora pentru anul 2026”",
+   "url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-90-din-2025-12-30-31674af21e.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-90-din-2025-12-30-31674af21e.pdf",
+     "sha256": "31674af21e2d64d6344fc1bf7598aed1279c258925b72bf52fcbd45a8388e9cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--murgeni-91-2025",
+   "path": "local/vaslui/murgeni/2025/91",
+   "short": "HCL Murgeni nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 91/2025 privind ”analiza stadiului de înscriere a datelor în Registrul Agricol pentru trimestrul IV al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități. ” Analizând temeiurile juridice, respectiv prevederile:  art.1 alin.(1) - (7) ,art.6 din Ordonanța Guvernului nr.28/2008 privind registrul agricol,cu modificările și completările ulterioare;  art.7 alin.(4) din Ordinul nr. 51",
+   "url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-91-din-2025-12-30-2501e1f189.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-91-din-2025-12-30-2501e1f189.pdf",
+     "sha256": "2501e1f189d1172d15a06b0269d51c1e60bf4d87804c950d1b26b30f81334ac6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--murgeni-93-2025",
+   "path": "local/vaslui/murgeni/2025/93",
+   "short": "HCL Murgeni nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 93/2025 privind actualizarea și modificarea unor poziții din inventarul domeniului privat al orașului Murgeni, aprobat prin H.C.L nr. 50/29.10.2018 Având în vedere temeiurile juridice, respectiv prevederile:  art.87, alin. (5) ,art. 129 alin (1) alin (2) lit.c), alin (6) lit. b) art. 354, art. 355, art 357 din OUG 57/2019 privind Codul Administrativ,cu modificările și completările ulterioare;  art. 7, a",
+   "url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-93-din-2025-12-30-c52750389d.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-93-din-2025-12-30-c52750389d.pdf",
+     "sha256": "c52750389df20db2d4c38b501a3370f2b3f33cd039dcc215ddbe9dba9dfbd57d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--murgeni-94-2025",
    "path": "local/vaslui/murgeni/2025/94",
    "short": "HCL Murgeni nr. 94/2025",
@@ -29,6 +74,21 @@
      "units": 1,
      "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-95-din-2025-12-30-71bec21e12.pdf",
      "sha256": "71bec21e12a9101134c74d965d0322b385f1219b274f3a9c080c1c69644a67f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--murgeni-96-2025",
+   "path": "local/vaslui/murgeni/2025/96",
+   "short": "HCL Murgeni nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Murgeni nr. 96/2025 privind validarea Dispozitiei Primarului nr . 734 din 10.12.2025 privind rectificarea nr.6 a bugetului local al orașului Murgeni pentru anul 2025 Având în vedere temeiurile juridice respectiv prevederile: Legii nr.273/2006 privind finantele publice locale cu modificările și completările ulterioare, art.19 alin(1) lit.(a) și (b), alin.(2), art.45 și art.82; Legea nr. 9/2025 a bugetului de stat pe a",
+   "url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-96-din-2025-12-30-258d964500.pdf",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://primaria-murgeni.ro/wp-content/uploads/2025/12/Hotararea-nr-96-din-2025-12-30-258d964500.pdf",
+     "sha256": "258d96450038420f965dc2f767546134cffaccb7035ae069aa2a22272af5abe8"
     }
    ]
   },

@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--corbita-32-2024",
+   "path": "local/vrancea/corbita/2024/32",
+   "short": "HCL Corbița nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbița nr. 32/2024 Proiect de hotărâre nr 12 din 03. 2024",
+   "url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131761",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--corbita-33-2024",
    "path": "local/vrancea/corbita/2024/33",
    "short": "HCL Corbița nr. 33/2024",
@@ -193,6 +208,21 @@
      "from": "2024-07-25",
      "units": 1,
      "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--corbita-43-2024",
+   "path": "local/vrancea/corbita/2024/43",
+   "short": "HCL Corbița nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Corbița nr. 43/2024 Proiect de hotărâre nr 23 /25.07.2024 privind aprobarea modalitatii de decontare a cheltuielilor de transport pentru funcționarii publici și personalul contractual din cadrul aparatulului de specialitate al Primarului comunei Corbița și al instituțiilor și serviciilor publice de interes local, înființate în subordinea, coordonarea sau sub autoritatea Consiliului Local Corbița",
+   "url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131838",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#131838",
      "sha256": null
     }
    ]

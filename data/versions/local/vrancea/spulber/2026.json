@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/spulber/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--spulber-25-2026",
+   "path": "local/vrancea/spulber/2026/25",
+   "short": "HCL Spulber nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Spulber nr. 25/2026 pentru modificarea și completarea unor acte normative, precum și pentru adoptarea unor măsuri pentru creșterea capacității financiare a unităților administrativ - teritoriale Consiliul local al comunei Spulber, judetul Vrancea întrunit în sedinta extraordinara de indata din 14 aprile 2026; Avand in vedere: - referatul de aprobare al primarului inregistrat sub nr. 2809/14.04.2026; - Raportul de spe",
+   "url": "https://primariaspulber.ro/wp-content/uploads/2026/06/HCL-25-reorganizare-conform-oug-7-din-2026.pdf",
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "units": 1,
+     "source_url": "https://primariaspulber.ro/wp-content/uploads/2026/06/HCL-25-reorganizare-conform-oug-7-din-2026.pdf",
+     "sha256": "401602aeee26165750a97c08effb369ce423e8669d165e8322a453f90687ebd8"
+    }
+   ]
+  }
+ ]
+}

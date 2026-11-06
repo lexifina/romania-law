@@ -3,6 +3,1536 @@
  "shard": "local/vaslui/husi/2014",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-1-2014",
+   "path": "local/vaslui/husi/2014/1",
+   "short": "HCL Huși nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 1/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna ianuarie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_01_2014.pdf",
+     "sha256": "ef8ec7bd8c5e22bb0a14dadc49ea8e920a5b4dd888ec9e7797d7101070bd0e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-100-2014",
+   "path": "local/vaslui/husi/2014/100",
+   "short": "HCL Huși nr. 100/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2014 privind aprobarea dezmembrarii unor imobile – teren (drumuri), apartinand domeniului public al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-06-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_100_2014.pdf",
+     "sha256": "f092864f3da98ab5daaaf0a6ee5456a2851326706d6dd3633534075fbad5875c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-102-2014",
+   "path": "local/vaslui/husi/2014/102",
+   "short": "HCL Huși nr. 102/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 102/2014",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_102_2014.pdf",
+     "sha256": "605bd48205df2ca4a95cf851368d41df502c4076cb78b53d6d69a101ee082ee5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-103-2014",
+   "path": "local/vaslui/husi/2014/103",
+   "short": "HCL Huși nr. 103/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2014 privind modificarea statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_103_2014.pdf",
+     "sha256": "45a1905dcb643c031527fbc78aeb5dd7cae80cbdb0c811f62fb91ba43eb02a66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-104-2014",
+   "path": "local/vaslui/husi/2014/104",
+   "short": "HCL Huși nr. 104/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 104/2014 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_104_2014.pdf",
+     "sha256": "77928ec32314dfd067eb03ae37a12218af9750d1d17e800e92ad54555a4cae31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-105-2014",
+   "path": "local/vaslui/husi/2014/105",
+   "short": "HCL Huși nr. 105/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 105/2014 privind rectificarea bugetului local – etapa iunie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_105_2014.pdf",
+     "sha256": "8fffaf9175c7cf13bdca174647d78cc66735f00b28da5e767a1b5d1fcbb9cc14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-107-2014",
+   "path": "local/vaslui/husi/2014/107",
+   "short": "HCL Huși nr. 107/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 107/2014 privind aprobarea schimbarii titularilor unor contracte de inchiriere",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_107_2014.pdf",
+     "sha256": "948ec333d355c0bb5639f74a234951cde20724c8c403f195ec5daac0c2aa7fa9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-108-2014",
+   "path": "local/vaslui/husi/2014/108",
+   "short": "HCL Huși nr. 108/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 108/2014 privind aprobarea dezmembrarii imobilului situat in intravilanul municipiului Husi, Piata Agroalimentara, in suprafata de 3225 mp, cu numarul cadastral 72308, inscris in cartea funciara 72308",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_108_2014.pdf",
+     "sha256": "ca22e5a85f5e4d621ba7b5d3594d1713f38c6321f8a8df8b226a78ba787f0143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-109-2014",
+   "path": "local/vaslui/husi/2014/109",
+   "short": "HCL Huși nr. 109/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 109/2014 privind aprobarea dezmembrarii imobilului situat in intravilanul municipiului Husi, T.3, P.48, in suprafata de 55003 mp, cu numarul cadastral 70476, inscris in cartea funciara 70476",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_109_2014.pdf",
+     "sha256": "bb23cbd84006288bd82fb020fadb380dd145bb6a2fe89eb8efe252a35aa8dc3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-11-2014",
+   "path": "local/vaslui/husi/2014/11",
+   "short": "HCL Huși nr. 11/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 11/2014 privind aprobarea Planului de actiuni si lucrari de interes local pentru repartizarea orelor de munca prestate de beneficiarii prevederilor Legii nr. 416/2001 privind venitul minim garantat pentru anul 2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_11_2014.pdf",
+     "sha256": "d55da3f51f494e867d0ead5beec5cf40143146f52296c4018e64c81b1a849851"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-110-2014",
+   "path": "local/vaslui/husi/2014/110",
+   "short": "HCL Huși nr. 110/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 110/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_110_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_110_2014.pdf",
+     "sha256": "532ad34aee79e1b2ab345314f343a0df239e4f4210381caf4df589a982cc0580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-111-2014",
+   "path": "local/vaslui/husi/2014/111",
+   "short": "HCL Huși nr. 111/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 111/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_111_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_111_2014.pdf",
+     "sha256": "9b6b8360b35ca3c74914b0e6b8b06d94c79f9e9cdf0948efa33a56b813a6e1a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-112-2014",
+   "path": "local/vaslui/husi/2014/112",
+   "short": "HCL Huși nr. 112/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 112/2014 privind retragerea dreptului de folosinta asupra unor terenuri atribuite in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, republicata in 2008, in intravilanul municipiului Husi, zona Cartierului Dric",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_112_2014.pdf",
+     "sha256": "59fa91797f3b7c81a7ffeca60123e610c44200ce130608ca87bcd5130bc3b6c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-114-2014",
+   "path": "local/vaslui/husi/2014/114",
+   "short": "HCL Huși nr. 114/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2014",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_114_2014.pdf",
+     "sha256": "e7d957c3a49a461195f5643ddb488308d9b278036ea962c29d7d934fb38e0594"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-115-2014",
+   "path": "local/vaslui/husi/2014/115",
+   "short": "HCL Huși nr. 115/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 115/2014 privind aprobarea inchirierii unui teren in suprafata de 6 mp, apartinand domeniului privat al municipiului Husi, in vederea amplasarii unor mese, situat in intravilanul municipiului Husi, strada General Teleman (fost Piata Victoriei) bl.4,sc.A,parter, judetul Vaslui, beneficiar",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_115_2014.pdf",
+     "sha256": "ea957f11616436e9eefe37afb830d8ff4a26d7e1f42b1da9adf476571631163a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-116-2014",
+   "path": "local/vaslui/husi/2014/116",
+   "short": "HCL Huși nr. 116/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 116/2014 privind modificarea organigramei si a statului de functii al Spitalului Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_116_2014.pdf",
+     "sha256": "0ded66a01f0dee352b257105e4d5283ce78180fb455fee366ec32a92f12c7da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-117-2014",
+   "path": "local/vaslui/husi/2014/117",
+   "short": "HCL Huși nr. 117/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 117/2014",
+   "url": "https://www.primariahusi.ro/hotarari-26-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_117_2014.pdf",
+     "sha256": "60b855dd2b2a3256bb95279de8110b2a7390686b2fcf77cffbc5aae98afbda18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-118-2014",
+   "path": "local/vaslui/husi/2014/118",
+   "short": "HCL Huși nr. 118/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 118/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iulie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_118_2014.pdf",
+     "sha256": "65dc03b77c7ec0dfb6d59abb2877118bc7f674dc8f7bfead43ce81e23299a4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-119-2014",
+   "path": "local/vaslui/husi/2014/119",
+   "short": "HCL Huși nr. 119/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 119/2014 privind desemnarea reprezentantului Consiliului Local Husi in Comisia de mediere pentru solutionarea divergentelor aparute intre Spitalul Municipal “Dimitrie Castroian” Husi cu Casa de Asigurari de Sanatate Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_119_2014.pdf",
+     "sha256": "90fb48e6afcc36a638b16435a8e32172c37f010ca4cea54f797bab48cea88814"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-12-2014",
+   "path": "local/vaslui/husi/2014/12",
+   "short": "HCL Huși nr. 12/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 12/2014 privind aprobarea indicatorilor tehnico-economici pentru obiectivul \"Alimentare cu energie electrica Cartier Dric 2 si Dric 3 din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_12_2014.pdf",
+     "sha256": "70df41a0b31d771839d01bc962e6770e8d7cd5c80c84a00308bb09cf9527ad57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-120-2014",
+   "path": "local/vaslui/husi/2014/120",
+   "short": "HCL Huși nr. 120/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 120/2014 privind alocarea sumei de 164682 lei reprezentand contributia Municipiului Husi pentru lucrarile de investitie “Alimentare cu energie electrica Cartier Dric.2 si Dric.3 din municipiul Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_120_2014.pdf",
+     "sha256": "49362c9d44bdac04b678a484249c0fe8937dee5110ed14ecf77ca2660110a407"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-121-2014",
+   "path": "local/vaslui/husi/2014/121",
+   "short": "HCL Huși nr. 121/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 121/2014 privind modificarea Hotararii Consiliului Local Husi nr.96/ 06.06.2014 pentru aprobarea proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL « CUZA VODĂ » HUȘI”,Axa prioritară 3 – Îmbunătățirea infrastructurii sociale,Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, univ",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_121_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_121_2014.pdf",
+     "sha256": "5e214e49dabaf0700eef78aaf185d0e204078668702110d8e00486388b975854"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-122-2014",
+   "path": "local/vaslui/husi/2014/122",
+   "short": "HCL Huși nr. 122/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 122/2014 privind aprobarea structurii organizatorice a Spitalului Municipal ”Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_122_2014.pdf",
+     "sha256": "2e88ff81bffc04d93b2f51f954c14153a25b2e25b7d1afa5d82109656ce3db89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-123-2014",
+   "path": "local/vaslui/husi/2014/123",
+   "short": "HCL Huși nr. 123/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 123/2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_123_2014.pdf",
+     "sha256": "84aef4f70d0f9f7de54354cf879b2acde1b2da7ad757701cf9ec8b0a03b64ad7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-125-2014",
+   "path": "local/vaslui/husi/2014/125",
+   "short": "HCL Huși nr. 125/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 125/2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_125_2014.pdf",
+     "sha256": "9d09a209fe9f33e9ffaa6b7a238a5ba92fab81def30cbfd8f3c4e48847c861c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-126-2014",
+   "path": "local/vaslui/husi/2014/126",
+   "short": "HCL Huși nr. 126/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 126/2014 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii si bugetului fondurilor externe nerambursabile incheiata la data de 30.06.2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_126_2014.pdf",
+     "sha256": "9884784bea0a351be5383fb47397f6b574940fa627caf272db15ff3e8dff5e3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-127-2014",
+   "path": "local/vaslui/husi/2014/127",
+   "short": "HCL Huși nr. 127/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 127/2014 pentru aprobarea includerii in buget a sumei de 60 mii lei fara TVA, in vederea intocmirii documentatiilor si finalizarea procesului de inventariere a terenurilor de pe raza Municipiului Husi, conform Legii nr.165/2013 privind masurile pentru finalizarea procesului de restituire",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_127_2014.pdf",
+     "sha256": "c3a51797d953fdb3830f4acaeb8f4f8758410c6d009568e7647bbd017e9e8f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-128-2014",
+   "path": "local/vaslui/husi/2014/128",
+   "short": "HCL Huși nr. 128/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 128/2014 privind rectificarea bugetului local – etapa iulie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_128_2014.pdf",
+     "sha256": "ca8f020e6a825ce48ab0afed0edd220d2a4779e8318c3f30137920f3b4c661ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-129-2014",
+   "path": "local/vaslui/husi/2014/129",
+   "short": "HCL Huși nr. 129/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2014 privind aprobarea evaluarii activelor fixe corporale , spatii cu alta destinatie, decat cea de locuinta, apartinand domeniului public si privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_129_2014.pdf",
+     "sha256": "5739cd84d7c3de611b959e5a1f3048050546c712f4a1eb782faa10ea584dfc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-13-2014",
+   "path": "local/vaslui/husi/2014/13",
+   "short": "HCL Huși nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 13/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_13_2014.pdf",
+     "sha256": "790405014052f153a62bd421fd41fcf5123a830569fd66ffe31630e30ff95f28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-130-2014",
+   "path": "local/vaslui/husi/2014/130",
+   "short": "HCL Huși nr. 130/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 130/2014 privind aprobarea alipirii unor imobile – teren (drumuri)apartinand domeniului public al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_130_2014.pdf",
+     "sha256": "bbcabc16b51f177a590240213bbe828a773ab6ee7152a7cda9810d5b007f2b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-131-2014",
+   "path": "local/vaslui/husi/2014/131",
+   "short": "HCL Huși nr. 131/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 131/2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_131_2014.pdf",
+     "sha256": "98e8ecf4a9822ea4d6d978118f962449e1af8ddb82a4b8a2e32cb7838e693a95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-132-2014",
+   "path": "local/vaslui/husi/2014/132",
+   "short": "HCL Huși nr. 132/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2014",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_132_2014.pdf",
+     "sha256": "427b33e53ce27528667cc3c4dd8a61cabef9068e01c4a19490bf31a0ff5412f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-135-2014",
+   "path": "local/vaslui/husi/2014/135",
+   "short": "HCL Huși nr. 135/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 135/2014 privind aprobarea predarii unor bunuri din Inventarul bunurilor care apartin domeniului public al municipiului Husi, catre SC “AQUAVAS” SA Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_135_2014.pdf",
+     "sha256": "d7abb28c3f2518c15bd4e82d04bcca4ea9504d8da2f820b85efc97724df6c51e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-136-2014",
+   "path": "local/vaslui/husi/2014/136",
+   "short": "HCL Huși nr. 136/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 136/2014 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_136_2014.pdf",
+     "sha256": "27acc9c9745e8fc71e888887cf35d63905b00945df2acefebd63ac043da66650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-137-2014",
+   "path": "local/vaslui/husi/2014/137",
+   "short": "HCL Huși nr. 137/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 137/2014 privind completarea inventarului bunurilor care apartin domeniului public al municipiului Husi, cu bunuri aferente Serviciului de iluminat public",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_137_2014.pdf",
+     "sha256": "7923a75fbab0bc49dbde9b1c09bb9edd15473897fb44be2c5c9c319eb0bc815c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-138-2014",
+   "path": "local/vaslui/husi/2014/138",
+   "short": "HCL Huși nr. 138/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 138/2014 privind emiterea acordului de edificare a unei constructii pe linia de hotar cu a unui imobil proprietatea municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_138_2014.pdf",
+     "sha256": "fe8b0409a171fe6c8ecf911840efec1df7b01c0b714cca3d3bcf08ad5e154c60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-139-2014",
+   "path": "local/vaslui/husi/2014/139",
+   "short": "HCL Huși nr. 139/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 139/2014 privind aprobarea documentatiei tehnico-economice pentru investitia “Reabilitare corp cladire vestiare Stadionul Municipal Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2014/",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_139_2014.pdf",
+     "sha256": "640cb23233be1debb98c2adcea740066cb21ebfd569b81d1c59cb87f98db829f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-14-2014",
+   "path": "local/vaslui/husi/2014/14",
+   "short": "HCL Huși nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 14/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “Reabilitare strazi in municipiul Husi: strada Corni, strada Sara, strada Saca si strada I.Al.Anghelus ”",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_14_2014.pdf",
+     "sha256": "245391c4ccba07b8e55b40faf48145a80a8f9a2de03de61892eec23e06782573"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-140-2014",
+   "path": "local/vaslui/husi/2014/140",
+   "short": "HCL Huși nr. 140/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 140/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna august 2014",
+   "url": "https://www.primariahusi.ro/hotarari-04-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_140_2014.pdf",
+     "sha256": "a2b0dc5c676316812388b0a39e9436c8e8c3b97dd69a1c97db5b8f8bfd9fb739"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-141-2014",
+   "path": "local/vaslui/husi/2014/141",
+   "short": "HCL Huși nr. 141/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 141/2014 pentru aprobarea proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI”,Axa prioritară 3 – Îmbunătățirea infrastructurii sociale,Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universitare și a infrastructurii pentru formare profesională continuă si a c",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_141_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-04",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_141_2014.pdf",
+     "sha256": "8c1f642243b528ffaf591f01c6eb93690d43520d2752c97dc2ddd1008d78fae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-142-2014",
+   "path": "local/vaslui/husi/2014/142",
+   "short": "HCL Huși nr. 142/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 142/2014",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_142_2014.pdf",
+     "sha256": "d618b1e9c2c13fd9bbe4ca398496acd2310b536d858fd8149ed1cb8f7ccd7bd8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-143-2014",
+   "path": "local/vaslui/husi/2014/143",
+   "short": "HCL Huși nr. 143/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 143/2014",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_143_2014.pdf",
+     "sha256": "898c0ceb30aeb43fead94609eacc9e85436456e9c3a0bd21a217d23c8088debd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-144-2014",
+   "path": "local/vaslui/husi/2014/144",
+   "short": "HCL Huși nr. 144/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 144/2014 privind transmiterea din administrarea Consiliului Local al Municipiului Husi, in administrarea Consiliului Judetean Vaslui a sectorului de drum judetean DJ 284, de la km 0+000 la km 2+650, aflat pe raza municipiului Husi, ce cuprinde strada Mihail Kogalniceanu si strada Corni, pe perioada executarii lucrarilor Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de mot",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_144_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_144_2014.pdf",
+     "sha256": "e0ae81cea277421e2975e5480c05710f520a0f3fb2d3a5405b3e7cece3569632"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-146-2014",
+   "path": "local/vaslui/husi/2014/146",
+   "short": "HCL Huși nr. 146/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 146/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_146_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_146_2014.pdf",
+     "sha256": "6e61bd347f403bdd827d2dfad037ca363a762f5583c8dae81b8c3cf993a7a585"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-147-2014",
+   "path": "local/vaslui/husi/2014/147",
+   "short": "HCL Huși nr. 147/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 147/2014 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 58,90 mp, apartinand domeniului privat al municipiului Husi,situat in Husi, Bd.1 Mai alaturat blocului N.2 Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere : expunerea de motive privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 58,90 mp, apartina",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_147_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_147_2014.pdf",
+     "sha256": "cb636ef0dc7f1dfa2c34fefb40e11f6834c1b834aa5f7ffc77dc237bbe3b7a11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-148-2014",
+   "path": "local/vaslui/husi/2014/148",
+   "short": "HCL Huși nr. 148/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 148/2014 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 300 mp, apartinand domeniului privat al municipiului Husi,situat in Husi, strada Barbu Lautaru, lot nr.6 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere : expunerea de motive privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 300 mp, apartinand do",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_148_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_148_2014.pdf",
+     "sha256": "604ec1bd16b792eb8cb890669ce8314c659cd3a461fddc21c6ab03a515821bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-149-2014",
+   "path": "local/vaslui/husi/2014/149",
+   "short": "HCL Huși nr. 149/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 149/2014 privind emiterea unui aviz de principiu in vederea vanzarii apartamentului apartinand domeniului privat al municipiului Husi, situat in strada Aleea Stadionului, nr.9, bl.23,sc.A,et.4,ap.3, catre actualul chirias Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind emiterea unui aviz de principiu in vederea vanzarii apartamentului apartinand domeniului",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_149_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_149_2014.pdf",
+     "sha256": "38a3b80fa71c1ab678c7b73fa06f35796a58f302c6139bbfcb35a0750e320186"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-15-2014",
+   "path": "local/vaslui/husi/2014/15",
+   "short": "HCL Huși nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 15/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “Lucrari de confectionare si montare copertine la Hala Agroalimentara Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_15_2014.pdf",
+     "sha256": "a20c551cd4c1d99309a9e90d7216bc7f3eb690b53fdaabcc893442307ba40b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-150-2014",
+   "path": "local/vaslui/husi/2014/150",
+   "short": "HCL Huși nr. 150/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 150/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_150_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_150_2014.pdf",
+     "sha256": "529fae36e266c6ea901f805b9e1ff395145041d671444cb833d475824574a26f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-151-2014",
+   "path": "local/vaslui/husi/2014/151",
+   "short": "HCL Huși nr. 151/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 151/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_151_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_151_2014.pdf",
+     "sha256": "11a1f89391257f168ffaeb95d1b068065d42bc8939fbdd794a41e13c521694d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-152-2014",
+   "path": "local/vaslui/husi/2014/152",
+   "short": "HCL Huși nr. 152/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 152/2014 privind aprobarea schimbarii titularului contractului de inchiriere al apartamentului situat in municipiul Husi, strada Scolii, nr.8, bl.30,sc.A,et.3,ap.15",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_152_2014.pdf",
+     "sha256": "d41bb8868cdeeb06bd68f5cc60fd0d1bbca5f842465f076e2d527fc58d60d98a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-153-2014",
+   "path": "local/vaslui/husi/2014/153",
+   "short": "HCL Huși nr. 153/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 153/2014",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_153_2014.pdf",
+     "sha256": "c4a807672f506df940518752b5bad76617870ccae1ffc381675f5de01306b28f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-154-2014",
+   "path": "local/vaslui/husi/2014/154",
+   "short": "HCL Huși nr. 154/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 154/2014",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_154_2014.pdf",
+     "sha256": "4dd176d35be242dd03c693aca55c440f0f6da435a54899568e7d615e0c430e7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-155-2014",
+   "path": "local/vaslui/husi/2014/155",
+   "short": "HCL Huși nr. 155/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 155/2014 privind aprobarea vanzarii prin licitatie publica a spatiului comercial nr.1, in suprafata construita de 53,59 mp, ce apartine domeniului privat al municipiului Husi, situat in intravilan`ul municipiului Husi, Bd.1 Mai bl.25,sc.B,parter, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_155_2014.pdf",
+     "sha256": "989635562b520d955fb752ea4d6980b557c1f71f25ff6e649f555b09534ccb7a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-156-2014",
+   "path": "local/vaslui/husi/2014/156",
+   "short": "HCL Huși nr. 156/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 156/2014 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2014/",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_156_2014.pdf",
+     "sha256": "3d0bf5c9b18d02b578a03b66810ff8db2f8503f76e4c0ec98b5f8079277aaa35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-157-2014",
+   "path": "local/vaslui/husi/2014/157",
+   "short": "HCL Huși nr. 157/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 157/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_157_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_157_2014.pdf",
+     "sha256": "4b881bd47494436dfd8309738a54bc9d2f967c066ec27d994ad947b73c4b8125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-158-2014",
+   "path": "local/vaslui/husi/2014/158",
+   "short": "HCL Huși nr. 158/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 158/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna septembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_158_2014.pdf",
+     "sha256": "d43c4c2e9f01d6ec9c8eefdb21d41303f0bca024f6a8aeb1ad3830a6df107328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-16-2014",
+   "path": "local/vaslui/husi/2014/16",
+   "short": "HCL Huși nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 16/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_16_2014.pdf",
+     "sha256": "7ff55a5d05aec3cd39f46b67962f609b7bccbec490861974f915123581a3cad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-160-2014",
+   "path": "local/vaslui/husi/2014/160",
+   "short": "HCL Huși nr. 160/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 160/2014 privind aprobarea organigramei si a statului de functii al personalului din cadrul Serviciului Public Local de Administrare a Cimitirelor din Municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_160_2014.pdf",
+     "sha256": "d423bad91f268de9ae0907299a1dae6b29042248772deeed99f35a5e891ec60a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-161-2014",
+   "path": "local/vaslui/husi/2014/161",
+   "short": "HCL Huși nr. 161/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 161/2014 privind aprobarea organigramei si a statului de functii al personalului din cadrul Centrului Public de Desfacere Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_161_2014.pdf",
+     "sha256": "4763aeb1195954aa46be30e67f549ab184d88049ee3c9dd4763e03ce28b7cfe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-162-2014",
+   "path": "local/vaslui/husi/2014/162",
+   "short": "HCL Huși nr. 162/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 162/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “ Inlocuire instalatia electrica de la Gradinita de copii cu program prelungit nr.10 Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_162_2014.pdf",
+     "sha256": "1b23cfe46f9aaf1d46729d7940d2e60fbd1a95a91392c216569cb37fcf5235a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-163-2014",
+   "path": "local/vaslui/husi/2014/163",
+   "short": "HCL Huși nr. 163/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 163/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia «Inlocuire invelitoare la corp cladire Colegiul Agricol ”Dimitrie Cantemir ” Husi »",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_163_2014.pdf",
+     "sha256": "ccddf381f2431c9da6f034327d48ce3b67c7af1770b8321aabcfcf0e96bb2b67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-164-2014",
+   "path": "local/vaslui/husi/2014/164",
+   "short": "HCL Huși nr. 164/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 164/2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_164_2014.pdf",
+     "sha256": "9f8fdf14d65f45cbc7b5156b11e8a8bc91ac2541b21aed868dc805cedd11d6c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-165-2014",
+   "path": "local/vaslui/husi/2014/165",
+   "short": "HCL Huși nr. 165/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 165/2014 privind rectificarea bugetului local cu suma de 521,5 mii lei – etapa septembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_165_2014.pdf",
+     "sha256": "ab9c99cdb43d6beb1b95c6741e64b734f2d66dd5a9ee25baf9eb19c49103fe6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-167-2014",
+   "path": "local/vaslui/husi/2014/167",
+   "short": "HCL Huși nr. 167/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 167/2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_167_2014.pdf",
+     "sha256": "b7f33db661f29d65fb209c712989eebee7188ae6f523eaa11b7e1c276e19d046"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-168-2014",
+   "path": "local/vaslui/husi/2014/168",
+   "short": "HCL Huși nr. 168/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 168/2014 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2014-2015",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_168_2014.pdf",
+     "sha256": "a1c70317a8e2bc03505dacae8a4d3da14f109bfcce650037bb1dc521a9af42a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-169-2014",
+   "path": "local/vaslui/husi/2014/169",
+   "short": "HCL Huși nr. 169/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 169/2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_169_2014.pdf",
+     "sha256": "773b21f52f2b347641b1da954f197533ca946af91538754ee8b783a4403bc8a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-170-2014",
+   "path": "local/vaslui/husi/2014/170",
+   "short": "HCL Huși nr. 170/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 170/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_170_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_170_2014.pdf",
+     "sha256": "0d7f6779728d5d7d92805ad1e76ac643a6ee0afa5082ee2f2e29723eda3fedb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-171-2014",
+   "path": "local/vaslui/husi/2014/171",
+   "short": "HCL Huși nr. 171/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 171/2014 privind aprobarea ordinii de prioritate a cererilor depuse conform Legii nr.15/2003, republicata, modificata si completata",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_171_2014.pdf",
+     "sha256": "e809b8a94f1b495b85fe795db9a0059dbfcb4eca1326a86d898aa32088d7fb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-172-2014",
+   "path": "local/vaslui/husi/2014/172",
+   "short": "HCL Huși nr. 172/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 172/2014 privind modificarea organigramei si a statului de functii al Spitalului Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_172_2014.pdf",
+     "sha256": "5e3f4ea6d8cf108bae5e1a9ff283d06013ea2c2e92f277745c5b0f2d53fc6987"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-173-2014",
+   "path": "local/vaslui/husi/2014/173",
+   "short": "HCL Huși nr. 173/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 173/2014",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_173_2014.pdf",
+     "sha256": "7a51834390303b0ff812449d5deb2d898968826bf4b36a09f414a81592a6fcc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-174-2014",
+   "path": "local/vaslui/husi/2014/174",
+   "short": "HCL Huși nr. 174/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 174/2014 privind darea in folosinta gratuita catre E-ON Moldova Distributie SA a stalpilor retelei electrice de interes public de joasa tensiune montati in Cartierele Dric 2 si Dric 3, necesara investitiei “ Realizarea de retele de alimentare cu energie electrica – cartierele de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_174_2014.pdf",
+     "sha256": "718bcaf7fe50d17a11ca659342281ca35ddf57fa44a36295a71d60019923c248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-175-2014",
+   "path": "local/vaslui/husi/2014/175",
+   "short": "HCL Huși nr. 175/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 175/2014 privind schimbarea din functie a viceprimarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_175_2014.pdf",
+     "sha256": "47c2b414204350fc8102f0c47bac7271fe00711dfb554bd023c2fbeabf17105b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-176-2014",
+   "path": "local/vaslui/husi/2014/176",
+   "short": "HCL Huși nr. 176/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 176/2014 privind alegerea viceprimarului Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-septembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-09-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_176_2014.pdf",
+     "sha256": "b3e44a33c9bff2dd6c9bfceeb2aa067674a22403c70ca3994c9e6d6989fd1872"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-177-2014",
+   "path": "local/vaslui/husi/2014/177",
+   "short": "HCL Huși nr. 177/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 177/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna octombrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-10-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_177_2014.pdf",
+     "sha256": "f5ac823ad7d30baff96ae44e8a8445e26c0860bf5e0b5e4b00d9e109c80062b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-179-2014",
+   "path": "local/vaslui/husi/2014/179",
+   "short": "HCL Huși nr. 179/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 179/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_179_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_179_2014.pdf",
+     "sha256": "d3edb0e49c1e8070cb070b9637631face330d9ba415f2d1bb3013fb1fbc06b4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2014",
+   "path": "local/vaslui/husi/2014/18",
+   "short": "HCL Huși nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “Lucrari de confectionare si montare imprejmuire cimitirul Husi ”",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_18_2014.pdf",
+     "sha256": "b653e0d72d13c36cd44d07e8377f27f9b5d00ec1d57a2d3620062d6a3e73b229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-180-2014",
+   "path": "local/vaslui/husi/2014/180",
+   "short": "HCL Huși nr. 180/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 180/2014 privind rectificarea bugetului local in sensul redistribuirii sumelor pentru plata drepturilor salariale aferente invatamantului preuniversitar de stat",
+   "url": "https://www.primariahusi.ro/hotarari-17-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-17",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_180_2014.pdf",
+     "sha256": "11f456dad4d59b72a795bd767deb156e787abab8369e0912cb6927988092e395"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-181-2014",
+   "path": "local/vaslui/husi/2014/181",
+   "short": "HCL Huși nr. 181/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 181/2014 Privind aprobarea proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI”, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale, Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universitare și a infrastructurii pentru formare profesională continuă si",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_181_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_181_2014.pdf",
+     "sha256": "8651907506f26c7182403eebb89d68f47724cf205b6999fbc6af8ade98233a94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-182-2014",
+   "path": "local/vaslui/husi/2014/182",
+   "short": "HCL Huși nr. 182/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 182/2014 privind aprobarea bugetului revizuit al proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI”, si a indicatorilor tehnico-economici ai investitiei",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_182_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_182_2014.pdf",
+     "sha256": "1b61cc63979137e92dc13d1dc3a4abd6c7336dff815ce7793fbe9b905633b09e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-183-2014",
+   "path": "local/vaslui/husi/2014/183",
+   "short": "HCL Huși nr. 183/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 183/2014 privind revocarea unor hotarâri ale Consiliului Local al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_183_2014.pdf",
+     "sha256": "d909d21ffe49ac6650405bbb8d75ca965560cebf7d0f15fd210df393e5032525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-184-2014",
+   "path": "local/vaslui/husi/2014/184",
+   "short": "HCL Huși nr. 184/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 184/2014 privind aprobarea executiei bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii incheiata la data de 30.09.2014",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_184_2014.pdf",
+     "sha256": "23156bb6596ff341cd0daa040c6ef037447699ed72ed21879527b6c837451b43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-185-2014",
+   "path": "local/vaslui/husi/2014/185",
+   "short": "HCL Huși nr. 185/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 185/2014 privind rectificarea bugetului local cu suma de 1050,0 mii lei reprezentand sume defalcate din TVA",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_185_2014.pdf",
+     "sha256": "f078a9c968a753e66a351e34238a27c44ce28baecd4dd8d79917c66746e2aefd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-186-2014",
+   "path": "local/vaslui/husi/2014/186",
+   "short": "HCL Huși nr. 186/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 186/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2014 al institutiilor publice finantate integral sau partial din venituri proprii – etapa octombrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_186_2014.pdf",
+     "sha256": "737f66e46a8666248d58794523889e1cb4f6b47875c9c9698f0cf092da6c052e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-187-2014",
+   "path": "local/vaslui/husi/2014/187",
+   "short": "HCL Huși nr. 187/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 187/2014 privind desemnarea reprezentantilor Consiliului Local al municipiului Husi in Comisiile pentru evaluarea si asigurarea calitatii in educatie, infiintate in unitatile de invatamant de stat preuniversitar din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_187_2014.pdf",
+     "sha256": "45ccd907a4672429b096128a011932a5492a3fba9288bf7db0019c03ee95e753"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-188-2014",
+   "path": "local/vaslui/husi/2014/188",
+   "short": "HCL Huși nr. 188/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 188/2014 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in Consiliile de administratie ale unitatilor de invatamant preuniversitar de stat din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_188_2014.pdf",
+     "sha256": "dc15f5159439cb00559c2a725eed7eb62e903ab7a972d3f1fcdee46f2046a352"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-189-2014",
+   "path": "local/vaslui/husi/2014/189",
+   "short": "HCL Huși nr. 189/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 189/2014 privind aprobarea Programului de pregatire, deszapezire si combaterea poleiului pe drumurile publice din municipiul Husi pentru perioada 15 noiembrie 2014 – 15 martie 2015 si a Programului cu principalele masuri pentru prevenirea si combaterea efectelor negative ale situatiilor d",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_189_2014.pdf",
+     "sha256": "45452e7d76d8b9978dc74f36c9ca052e279069eeb222918602068a2c56f44941"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-19-2014",
+   "path": "local/vaslui/husi/2014/19",
+   "short": "HCL Huși nr. 19/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 19/2014 privind adoptarea unor masuri pentru cainii fara stapan adoptati la distanta",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_19_2014.pdf",
+     "sha256": "61696c23a609bbb19f0c7839eb3dee09061ebc9d3541b8157fe79d5128d8f7d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-190-2014",
+   "path": "local/vaslui/husi/2014/190",
+   "short": "HCL Huși nr. 190/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 190/2014 privind constituirea Consiliului Comunitar Consultativ la nivelul municipiului Husi si aprobarea Regulamentului de organizare si functionare a acestuia",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2014/",
+   "versions": [
+    {
+     "from": "2014-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_190_2014.pdf",
+     "sha256": "e23aa4f98b7aa5bc1feb752d2cbe2592ea834c8f03f5b3fd366bc022eb1e663a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-191-2014",
+   "path": "local/vaslui/husi/2014/191",
+   "short": "HCL Huși nr. 191/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 191/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna noiembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_191_2014.pdf",
+     "sha256": "a7830d6406c6644db9a50a70ebb706c7c4bbdbdc364558fcc393a130ca0cd7c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-192-2014",
+   "path": "local/vaslui/husi/2014/192",
+   "short": "HCL Huși nr. 192/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 192/2014 privind schimbarea din functie a viceprimarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_192_2014.pdf",
+     "sha256": "2354931470c906db4f1a86b465d95c824df4a06b4cdcdf032a583026f1903a79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-193-2014",
+   "path": "local/vaslui/husi/2014/193",
+   "short": "HCL Huși nr. 193/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 193/2014 privind alegerea viceprimarului Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_193_2014.pdf",
+     "sha256": "7d44db7fc051e27ba538c06759e24cafbd4c6cfbdfa417120704b0cee6afeb51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-194-2014",
+   "path": "local/vaslui/husi/2014/194",
+   "short": "HCL Huși nr. 194/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 194/2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_194_2014.pdf",
+     "sha256": "c50862e31260808655ed94d0ed713e05b845011ce0fd941e13aa34c5b7548bb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-195-2014",
+   "path": "local/vaslui/husi/2014/195",
+   "short": "HCL Huși nr. 195/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 195/2014 pentru modificarea Hotararii Consiliului Local Husi nr.181/2014 privind aprobarea proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI”, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale, Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universita",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_195_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_195_2014.pdf",
+     "sha256": "3edda7c880fb075bc02be6e64223b4df09072368814ad2c2471116d4e3a9ab7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-196-2014",
+   "path": "local/vaslui/husi/2014/196",
+   "short": "HCL Huși nr. 196/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 196/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “Reabilitare strada Castroian municipiul Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_196_2014.pdf",
+     "sha256": "ce86c68fafd99e03402a946a979233e30632b64d63ba1cd47dd3c155865ab807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-197-2014",
+   "path": "local/vaslui/husi/2014/197",
+   "short": "HCL Huși nr. 197/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 197/2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_197_2014.pdf",
+     "sha256": "5d70890ceb23c2c4191894bd00aa2d8d410f8828388acee27d30da1c3320fdd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-198-2014",
+   "path": "local/vaslui/husi/2014/198",
+   "short": "HCL Huși nr. 198/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 198/2014 privind rectificarea bugetului local - etapa noiembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_198_2014.pdf",
+     "sha256": "1bd3e81eff651b7a75e537abc246c698729cd6fcfd359187a42f44f8f3823ef3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-199-2014",
+   "path": "local/vaslui/husi/2014/199",
+   "short": "HCL Huși nr. 199/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 199/2014 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2014-2015",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_199_2014.pdf",
+     "sha256": "e3ae1f1a69e16531e2035a09a4b8aefbbae0a6634ad4308ddc12e2f7e5821740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-2-2014",
+   "path": "local/vaslui/husi/2014/2",
+   "short": "HCL Huși nr. 2/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 2/2014 privind aprobarea utilizarii excedentului bugetar in suma de 44,10 mii lei inregistrat la 31.12.2013, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare in vederea decontarii sumelor in cadrul proiectului “Regenerarea Municipiului Husi,prin modernizarea spatiilor publice urbane -Cod SMIS 12183” Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere Expunerea de motive pri",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_02_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_02_2014.pdf",
+     "sha256": "8423b6276882fc5a282dba0873b97949dac54ef8e0620b923eb8655269349291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-20-2014",
+   "path": "local/vaslui/husi/2014/20",
+   "short": "HCL Huși nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 20/2014 privind aprobarea prelungirii duratei contractului de concesiune nr.30900 din 20.12.2004, concesionar doamna dr.Donosa Rodica, pentru spatiul cabinet medical nr.1, situat in incinta imobilului “Dispensar medical nr.1”, in suprafata totala de 45,94 mp, apartinand domeniului privat",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_20_2014.pdf",
+     "sha256": "ac92134eb8e3b1a39d8cebc3905b435a8407db5432baae568cd2086431ccd490"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-200-2014",
+   "path": "local/vaslui/husi/2014/200",
+   "short": "HCL Huși nr. 200/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 200/2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_200_2014.pdf",
+     "sha256": "936ae32c1be576af34ac6c8861d89e3139f73a2acd703117acf33f3821bf12d7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-201-2014",
    "path": "local/vaslui/husi/2014/201",
    "short": "HCL Huși nr. 201/2014",
@@ -18,6 +1548,261 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-203-2014",
+   "path": "local/vaslui/husi/2014/203",
+   "short": "HCL Huși nr. 203/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 203/2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_203_2014.pdf",
+     "sha256": "a05d99f7543b7ad92699e6ea8a832dd060148c265585c3415f88798221946c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-204-2014",
+   "path": "local/vaslui/husi/2014/204",
+   "short": "HCL Huși nr. 204/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 204/2014 privind aprobarea duratei de prelungire a contractelor de inchiriere pentru spatiile cu destinatia de cabinet de libera practica pentru serviciile publice conexe actului medical, incepand cu data de 01.01.2015",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_204_2014.pdf",
+     "sha256": "35f150eb5ef5e840135e1584dd66ad180e6c1a04345a281ccfb9138cfba15812"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-205-2014",
+   "path": "local/vaslui/husi/2014/205",
+   "short": "HCL Huși nr. 205/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 205/2014 privind modificarea Actului Constitutiv si Statutului Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de canalizare din municipiile Vaslui, Bârlad, Husi si orasul Negresti- judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_205_2014.pdf",
+     "sha256": "6b843075b4b6f8660d8f92cd4cf50f37889c6ecbb5e43972e90bae11ef090da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-206-2014",
+   "path": "local/vaslui/husi/2014/206",
+   "short": "HCL Huși nr. 206/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 206/2014 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_206_2014.pdf",
+     "sha256": "25a9f5042100e30ca8d65cc0c60a970feaeb4a25d6e52dd959e336be3af8d0ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-207-2014",
+   "path": "local/vaslui/husi/2014/207",
+   "short": "HCL Huși nr. 207/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 207/2014 privind aprobarea inchirierii prin licitatie publica a terenului in suprafata de6,15 mp, apartinand domeniului privat al municipiului Husi, strada Calea Basarabiei, in vecinatatea SC ”HUSANA” SA",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_207_2014.pdf",
+     "sha256": "8cbe9d812e4f3904f7adfab8dbc908ea69235ba5f19693a44274ddecde037ae7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-208-2014",
+   "path": "local/vaslui/husi/2014/208",
+   "short": "HCL Huși nr. 208/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 208/2014 privind transmiterea dreptului de concesiune asupra unei suprafete de teren situata in municipiul Husi, strada Sf.Gheorghe (bl.I.8), lot nr.5, in urma instrainarii constructiei cu destinatia de garaj",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_208_2014.pdf",
+     "sha256": "5fbd586e30c2ffafce5a89797b45ccc6b7832e6b2f59490a5be22fee1193a97b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-209-2014",
+   "path": "local/vaslui/husi/2014/209",
+   "short": "HCL Huși nr. 209/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 209/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_209_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_209_2014.pdf",
+     "sha256": "87f62f9678ef32ec3e4fa1c7341d79003d8f2d2e8f9c8f9a6a6f0bb6bb95bdff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-21-2014",
+   "path": "local/vaslui/husi/2014/21",
+   "short": "HCL Huși nr. 21/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 21/2014 privind aprobarea inventarului terenurilor disponibile pentru aplicarea Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala pentru anul 2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_21_2014.pdf",
+     "sha256": "1d2c2dc6eb3e17cbfa9ce79ee3a1e2921f749e217fe0809dd3c7f131dc5c041b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-210-2014",
+   "path": "local/vaslui/husi/2014/210",
+   "short": "HCL Huși nr. 210/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 210/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_210_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_210_2014.pdf",
+     "sha256": "00a5fb67d1cf8496f2bb4e5e9bcd8f329de76fe0f4c31823bd86ddffabaa98f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-211-2014",
+   "path": "local/vaslui/husi/2014/211",
+   "short": "HCL Huși nr. 211/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 211/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_211_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_211_2014.pdf",
+     "sha256": "3b57a486005b7a32646fc75bae8f8c9870bc911237e764f065c777bdef7eef52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-212-2014",
+   "path": "local/vaslui/husi/2014/212",
+   "short": "HCL Huși nr. 212/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 212/2014 privind emiterea avizului de principiu in vederea inchirierii prin licitatie publica a unui spatiu apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situat in Piata Victoriei Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind emiterea avizului de principiu in vederea inchirierii prin licitat",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_212_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_212_2014.pdf",
+     "sha256": "095ce2c296abb57cc8c252ff2af892c2b5667683748f87135a1cc4a9b3c00461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-213-2014",
+   "path": "local/vaslui/husi/2014/213",
+   "short": "HCL Huși nr. 213/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 213/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_213_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_213_2014.pdf",
+     "sha256": "598403a24f28bb5e8b15408d9d75252d0a2f1cf5300e0621f534bd3925bd6cf5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-215-2014",
+   "path": "local/vaslui/husi/2014/215",
+   "short": "HCL Huși nr. 215/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 215/2014",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_215_2014.pdf",
+     "sha256": "ff0e83336a1b7a5f80023cf36706f398d1e57e696d265756d11e2c81bb4130e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-216-2014",
+   "path": "local/vaslui/husi/2014/216",
+   "short": "HCL Huși nr. 216/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 216/2014 privind desemnarea reprezentantilor Consiliului Local al municipiului Husi in Comisia de concurs si Comisia de solutionare a contestatiilor la concursul organizat pentru ocuparea postului vacant de Sef serviciu la Centrul Public de Desfacere Husi",
+   "url": "https://www.primariahusi.ro/hotarari-13-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_216_2014.pdf",
+     "sha256": "0956f831cc35894a1ee15b1deaa22958743ad1c3d292102598bb9bf449982376"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-217-2014",
+   "path": "local/vaslui/husi/2014/217",
+   "short": "HCL Huși nr. 217/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 217/2014 pentru modificarea Hotararii Consiliului Local Husi nr.181/2014 modificata prin Hotararea Consiliului Local Husi nr.195/2014 privind aprobarea proiectului ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL « CUZA VODĂ » HUȘI, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale,Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echipa",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_217_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_217_2014.pdf",
+     "sha256": "abe70036cc4726132e1055747f8e6683ce748bb368f391fe199b3fd077bba3dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-218-2014",
+   "path": "local/vaslui/husi/2014/218",
+   "short": "HCL Huși nr. 218/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 218/2014 privind aprobarea documentatiei tehnico-economice a proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL « CUZA VODĂ » HUȘI”, a indicatorilor tehnico-economici ai proiectului si bugetului revizuit al acestuia Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea documentatiei tehnico-economice a proiec",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_218_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_218_2014.pdf",
+     "sha256": "a6bae2ea7f63aa2fe0e7c3505a864360c11fd8c4a42d46e760fc4a44cfd9d0c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-219-2014",
+   "path": "local/vaslui/husi/2014/219",
+   "short": "HCL Huși nr. 219/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 219/2014 privind numirea Comisiei speciale pentru intocmirea inventarului bunurilor care alcatuiesc domeniul public al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_219_2014.pdf",
+     "sha256": "e976bff2e3ee2e5d86e3d239b5feae3646711828f5311973c4ccd7da39521d8e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-22-2014",
    "path": "local/vaslui/husi/2014/22",
    "short": "HCL Huși nr. 22/2014",
@@ -29,6 +1814,141 @@
      "units": 4,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_22_2014.pdf",
      "sha256": "309650a6ecc30f3c8cf773d2f6a8f7eab637ee08da57ee70bfc1b96f592b872a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-220-2014",
+   "path": "local/vaslui/husi/2014/220",
+   "short": "HCL Huși nr. 220/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 220/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna decembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-08-decembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_220_2014.pdf",
+     "sha256": "5968d9ad712bcb825e654e8fb49f393186c18819dd422712c8578c11e8a0f547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-222-2014",
+   "path": "local/vaslui/husi/2014/222",
+   "short": "HCL Huși nr. 222/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 222/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia “Lucrari de instalare sistem de detectie si protectie impotriva incendiilor la Hala Agroalimentara Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-08-decembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_222_2014.pdf",
+     "sha256": "e13210aa35fde67960b7bc71568cade7d207cc61bd9c789f66935ddebc3716b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-224-2014",
+   "path": "local/vaslui/husi/2014/224",
+   "short": "HCL Huși nr. 224/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 224/2014 privind aprobarea documentatiei tehnico-economice a proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI”, a indicatorilor tehnico-economici ai proiectului si bugetului revizuit al acestuia Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea documentatiei tehnico-economice a proiectu",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_224_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_224_2014.pdf",
+     "sha256": "07a71ae5253ef4dd56f7373fac87eb00f2a1ad923d5a3d3f9098f0237b23f710"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-225-2014",
+   "path": "local/vaslui/husi/2014/225",
+   "short": "HCL Huși nr. 225/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 225/2014 privind aprobarea proiectului ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL «CUZA VODĂ» HUȘI, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale, Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universitare și a infrastructurii pentru formare profesională continuă si a",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_225_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_225_2014.pdf",
+     "sha256": "a1d455ca4ee3c7f9855336d62bafa1b1b073d631155effe8da0b770c1eb1e9c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-226-2014",
+   "path": "local/vaslui/husi/2014/226",
+   "short": "HCL Huși nr. 226/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 226/2014 privind rectificarea bugetului local - etapa decembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-08-decembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_226_2014.pdf",
+     "sha256": "d670993d7c14527b6d881de4979ad4eec4aeb692c58d43f6ae67d4eb5a94c6f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-227-2014",
+   "path": "local/vaslui/husi/2014/227",
+   "short": "HCL Huși nr. 227/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 227/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2014 al institutiilor publice finantate integral sau partial din venituri proprii – etapa decembrie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-08-decembrie-2014/",
+   "versions": [
+    {
+     "from": "2014-12-08",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_227_2014.pdf",
+     "sha256": "78e986bf8a5c1aea83fd7d0ffcef17f6f483f28f7da51ef59d23e21982cba5b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-228-2014",
+   "path": "local/vaslui/husi/2014/228",
+   "short": "HCL Huși nr. 228/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 228/2014 privind rectificarea bugetului local cu suma de 2801,0 mii lei reprezentand sume defalcate din TVA aprobate potrivit Ordonantei de Urgenta a Guvernului cu privire la rectificarea bugetului de stat pe anul 2014 si unele masuri bugetare Consiliul Local al municipiului Husi,judetul Vaslui ; Avand in vedere : expunerea de motive privind rectificarea bugetului local cu suma de 2801,0 mii lei reprezenta",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_228_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_228_2014.pdf",
+     "sha256": "596a41d684de492ec8234f3ecb375cdbba34fb6ed8af1f8d379b77ec3de63d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-229-2014",
+   "path": "local/vaslui/husi/2014/229",
+   "short": "HCL Huși nr. 229/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 229/2014 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2014 al institutiilor publice finantate integral sau partial din venituri proprii Consiliul Local al Municipiului Husi,judetul Vaslui; Avand in vedere : expunerea de motive privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2014 al institutiilor publice finantate integral sau partial din venituri pro",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_229_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_229_2014.pdf",
+     "sha256": "4a1401e528bb141c6ac50dea19d1652a4020fb844eaa880d19e8034c47f51d6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-23-2014",
+   "path": "local/vaslui/husi/2014/23",
+   "short": "HCL Huși nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 23/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_23_2014.pdf",
+     "sha256": "c845ece2686c01503cb486aca2216eb7c7bf7d077c7de63917a54ca9309f10d4"
     }
    ]
   },
@@ -153,6 +2073,171 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-238-2014",
+   "path": "local/vaslui/husi/2014/238",
+   "short": "HCL Huși nr. 238/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 238/2014 privind modificarea statului de functii al personalului din cadrul Statiei de Radioficare Husi Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere : expunerea de motive privind modificarea statului de functii al personalului din cadrul Statiei de Radioficare Husi; raportul de avizare al Comisiei juridice si de disciplina, pentru administratie publica locala, apararea ordinii pub",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_238_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_238_2014.pdf",
+     "sha256": "d68bc4e230982f7b01b1a1a1820a6c65e0314fce54d6188104a3ea5aeac6a4d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-239-2014",
+   "path": "local/vaslui/husi/2014/239",
+   "short": "HCL Huși nr. 239/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 239/2014 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi; raportul de avizare al Comisiei juridice si de",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_239_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_239_2014.pdf",
+     "sha256": "4f553569f5ce960b39f9ded76a1dd99c7384d38d459d85224c884aa513611446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-24-2014",
+   "path": "local/vaslui/husi/2014/24",
+   "short": "HCL Huși nr. 24/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 24/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna februarie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-06-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_24_2014.pdf",
+     "sha256": "2858f4bae2ad417eb91e55527a0a7a3d3e71e220581ae44d40146d6e72680577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-240-2014",
+   "path": "local/vaslui/husi/2014/240",
+   "short": "HCL Huși nr. 240/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 240/2014 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere : expunerea de motive privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi. raportul de avizare al Comisiei juridice si de discipl",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_240_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_240_2014.pdf",
+     "sha256": "0f1a2eba4125f3707c76a99067e6c310f81296aa34150b480daabf312f652481"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-241-2014",
+   "path": "local/vaslui/husi/2014/241",
+   "short": "HCL Huși nr. 241/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 241/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_241_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_241_2014.pdf",
+     "sha256": "0839e58c7c9bbe3688b22d27c340fa2c87b8ee770d5d17c1f2cf025f0fc07194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-242-2014",
+   "path": "local/vaslui/husi/2014/242",
+   "short": "HCL Huși nr. 242/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 242/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_242_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_242_2014.pdf",
+     "sha256": "a8fa0057e34357c849114b9bfffc1db85b5f50e7b7459c9a755cf8c40dfb85f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-243-2014",
+   "path": "local/vaslui/husi/2014/243",
+   "short": "HCL Huși nr. 243/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 243/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_243_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_243_2014.pdf",
+     "sha256": "6b96049dce388b87af83de592f2ed4440320c5aa3bf9e1bfacec4db936cef944"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-244-2014",
+   "path": "local/vaslui/husi/2014/244",
+   "short": "HCL Huși nr. 244/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 244/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_244_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_244_2014.pdf",
+     "sha256": "8470e5f6763398269947afc4ceb610ef4aaf62be0087bf671aed0100e15670f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-245-2014",
+   "path": "local/vaslui/husi/2014/245",
+   "short": "HCL Huși nr. 245/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 245/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_245_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_245_2014.pdf",
+     "sha256": "0deddde97c96561a576fe566cf803e8b30a288a58323f7491ef857682fc811d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-246-2014",
+   "path": "local/vaslui/husi/2014/246",
+   "short": "HCL Huși nr. 246/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 246/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_246_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_246_2014.pdf",
+     "sha256": "b9e4fc35577038e833c022d808e60c137039f0c6dfcc9e8fc1fcb8884ef34471"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-247-2014",
+   "path": "local/vaslui/husi/2014/247",
+   "short": "HCL Huși nr. 247/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 247/2014 privind aprobarea listei privind ordinea de prioritate in solutionarea cererilor depuse in vederea obtinerii unei locuinte din fondul locativ de stat pentru anul 2015 Consiliul Local al municipiului Husi,judetul Vaslui; Avand in vedere: expunerea de motive privind aprobarea listei privind ordinea de prioritate in solutionarea cererilor depuse in vederea obtinerii unei locuinte din fondul locativ d",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_247_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_247_2014.pdf",
+     "sha256": "1193327fb4d02047d372da95459a0020d88ee0244bc6896214d6b10b52ad73d4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-248-2014",
    "path": "local/vaslui/husi/2014/248",
    "short": "HCL Huși nr. 248/2014",
@@ -168,6 +2253,171 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-249-2014",
+   "path": "local/vaslui/husi/2014/249",
+   "short": "HCL Huși nr. 249/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 249/2014 privind aprobarea “Master Planului actualizat pentru judetul Vaslui“ si a “Listei de investitii prioritare” pentru perioada 2014 – 2020 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind aprobarea “Master Planului actualizat pentru judetul Vaslui“ si a “Listei de investitii prioritare” pentru perioada 2014 – 2020 ; raportul de avizare al Comisiei pen",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_249_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_249_2014.pdf",
+     "sha256": "943a6b5b9f76a5901cef2408b123112f828d66f4faf684a9dbed5e5aa2f8c0a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-25-2014",
+   "path": "local/vaslui/husi/2014/25",
+   "short": "HCL Huși nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 25/2014 privind modificarea organigramei si a statului de functii ale Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-06-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_25_2014.pdf",
+     "sha256": "447dce2f2eee710144d5ba9f8a3bd46a745a89ed21476d2911404910e0c805d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-250-2014",
+   "path": "local/vaslui/husi/2014/250",
+   "short": "HCL Huși nr. 250/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 250/2014 privind aprobarea Planului de Ocupare a Functiilor Publice pentru anul 2015 Consiliul Local al municipiului Husi , judetul Vaslui; Avand in vedere: expunerea de motive privind aprobarea Planului de Ocupare a Functiilor Publice pentru anul 2015; raportul de avizare al Comisiei juridice si de disciplina, pentru administratie publica locala, apararea ordinii publice, respectarea drepturilor si libert",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_250_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_250_2014.pdf",
+     "sha256": "3e0fb1b0222e79c869137cdc429fdb1488ee17408650cec0af3f0e417a4c636f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-251-2014",
+   "path": "local/vaslui/husi/2014/251",
+   "short": "HCL Huși nr. 251/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 251/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_251_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_251_2014.pdf",
+     "sha256": "2742b67d3b6be206a0ab4cc6342334ddcf8effcbfdb9837cdfeedaccba2aa2d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-26-2014",
+   "path": "local/vaslui/husi/2014/26",
+   "short": "HCL Huși nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 26/2014 privind aprobarea indicatorilor tehnico-economici pentru investitia \"Lucrari de reamenajare Hala Agroalimentara Husi - cladirea veche\"",
+   "url": "https://www.primariahusi.ro/hotarari-06-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_26_2014.pdf",
+     "sha256": "92485546f5d9e381189c85976709ca9d8f61b8f833dc7ffb82e84425cc656ec0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-27-2014",
+   "path": "local/vaslui/husi/2014/27",
+   "short": "HCL Huși nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 27/2014 privind aprobarea bugetului local pe anul 2014 si estimat pentru anii 2015-2017",
+   "url": "https://www.primariahusi.ro/hotarari-06-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_27_2014.pdf",
+     "sha256": "15fc0dc0e332a828f6c6d862b792883fbbbeff08f36e33ddc664b7c71151bb96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-28-2014",
+   "path": "local/vaslui/husi/2014/28",
+   "short": "HCL Huși nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 28/2014 privind aprobarea bugetului de venituri si cheltuieli pe anul 2014 si estimat pentru anii 2015-2017 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-06-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_28_2014.pdf",
+     "sha256": "4205d12881d4893ef2fa64a199ee34399e95a7f3a1f22d8dd4636f4d44d7b6ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-29-2014",
+   "path": "local/vaslui/husi/2014/29",
+   "short": "HCL Huși nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 29/2014 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_29_2014.pdf",
+     "sha256": "7ed2082748b303b70e49c652fac7c0c3de930f7d8dce2c28c1301efd5212e19e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-3-2014",
+   "path": "local/vaslui/husi/2014/3",
+   "short": "HCL Huși nr. 3/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 3/2014 privind aprobarea utilizarii excedentului anului 2012 pentru acoperirea definitiva a deficitului sectiunii de dezvoltare la sfarsitul exercitiului bugetar 2013",
+   "url": "https://www.primariahusi.ro/hotarari-13-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_03_2014.pdf",
+     "sha256": "befe659af567f984775b5ed09d18fc84d5b9ba3d40481109e2efa4bc9c74e4f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-30-2014",
+   "path": "local/vaslui/husi/2014/30",
+   "short": "HCL Huși nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 30/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_30_2014.pdf",
+     "sha256": "129f2e120a86bfb18cb728afce4dfa72a784d9dc3dec3ea0ab0eb16722918bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2014",
+   "path": "local/vaslui/husi/2014/31",
+   "short": "HCL Huși nr. 31/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_31_2014.pdf",
+     "sha256": "ac1736fe7632cc662899acf3b2a862ceca52e6ae9e4aab3f59b14a7f99c2a279"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-32-2014",
    "path": "local/vaslui/husi/2014/32",
    "short": "HCL Huși nr. 32/2014",
@@ -179,6 +2429,636 @@
      "units": 4,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_32_2014.pdf",
      "sha256": "525f080c1e732f82218c68d59ad472aa5034d786b5c462bbf71dbfd3fcb818a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-34-2014",
+   "path": "local/vaslui/husi/2014/34",
+   "short": "HCL Huși nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 34/2014 privind emiterea unui aviz de principiu in vederea alocarii sumei de 50.200 lei reprezentand contributia Consiliului local al municipiului Husi in cuantum de 5% din valoarea cheltuielilor de investitii efectuate de Spitalului Municipal “D. Castroian” Husi din bugetul Ministerului Sanatatii Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind emiterea u",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_34_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_34_2014.pdf",
+     "sha256": "04d462f360ea6a4ba8baa2220daea514ad72700f9d28c6be6becfc3de0efb163"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-35-2014",
+   "path": "local/vaslui/husi/2014/35",
+   "short": "HCL Huși nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_35_2014.pdf",
+     "sha256": "a325616fede7d55254f38bafed97145020b0f6258c9e9428279d05ae6d09444d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-36-2014",
+   "path": "local/vaslui/husi/2014/36",
+   "short": "HCL Huși nr. 36/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 36/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_36_2014.pdf",
+     "sha256": "3e4dc7f239d36c6b5738a762c944bcdaacc9044f96ebbe979d46668286fc6b6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-37-2014",
+   "path": "local/vaslui/husi/2014/37",
+   "short": "HCL Huși nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2014 privind aprobarea contractului pentru acordarea de servicii sociale specializate oferite de Asociatia Congregatia Surorile Saracilor Pr",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_37_2014.pdf",
+     "sha256": "1f73b23ebaa38c155c872df47e48d0191da40452dc5e366ca51c0fd2ec232712"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-38-2014",
+   "path": "local/vaslui/husi/2014/38",
+   "short": "HCL Huși nr. 38/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 38/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_38_2014.pdf",
+     "sha256": "23bee774bb572777ce6a6e79838d19a60b68bc88250c6c033e4d011367fa03f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-39-2014",
+   "path": "local/vaslui/husi/2014/39",
+   "short": "HCL Huși nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 39/2014 privind aprobarea contractului pentru acordarea de servicii sociale specializate oferite de Asociatia Centrul Diecezan Caritas Iasi, punct de lucru in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_39_2014.pdf",
+     "sha256": "d252d13be973629de80874093129190b113396ab1c0748c4bec05c666326322d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-40-2014",
+   "path": "local/vaslui/husi/2014/40",
+   "short": "HCL Huși nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 40/2014 privind alocarea de fonduri in anul 2014, din bugetul local, pentru serviciile sociale specializate oferite de Star of Hope Romania cu sediul in municipiul Iasi, punct de lucru in municipiul Husi, str. B-dul 1 Mai, bl. 25, Sc. D, parter",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_40_2014.pdf",
+     "sha256": "b930560c7db31a5e7f60036e6acc0db3b4a9183124202cea3e8ffdcb80eeb5fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-41-2014",
+   "path": "local/vaslui/husi/2014/41",
+   "short": "HCL Huși nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 41/2014 privind aprobarea contractului pentru acordarea de servicii sociale specializate oferite de Star of Hope Romania cu sediul in municipiul Iasi, punct de lucru in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_41_2014.pdf",
+     "sha256": "b141773a0baabfadd374cb764c1a9ae02ad7e81a7e01fb863ab821ccf7ed67f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-42-2014",
+   "path": "local/vaslui/husi/2014/42",
+   "short": "HCL Huși nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 42/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_42_2014.pdf",
+     "sha256": "5557e1e99db3ac21eedae18c40c27bbc602059e2e13219862a309192ab0f4ae9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-43-2014",
+   "path": "local/vaslui/husi/2014/43",
+   "short": "HCL Huși nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 43/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_43_2014.pdf",
+     "sha256": "1dad02979451202af676cbc97da8a36a723003117ff229dcfde8a9ab08af06d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-44-2014",
+   "path": "local/vaslui/husi/2014/44",
+   "short": "HCL Huși nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 44/2014 privind aprobarea prelungirii duratei contractului de concesiune nr. 30899 din 20.12.2004, concesionar d-nul dr.Vasilescu Ioan-Victor, pentru spatiul cabinet stomatologic nr.2, situat in incinta imobilului “Stomatologie”, in suprafata totala de 35,97 mp, apartinand domeniului priv",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_44_2014.pdf",
+     "sha256": "af165bf16dfb5ecb1b2c6c85d7192e130f6df75cd7036ed4318d51d1b8f9afc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-45-2014",
+   "path": "local/vaslui/husi/2014/45",
+   "short": "HCL Huși nr. 45/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 45/2014 privind trecerea din domeniul public in domeniul privat al municipiului Husi,in vederea scoaterii din functiune, casarii si valorificarii, a unor bunuri din Sectorul energie termica",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_45_2014.pdf",
+     "sha256": "5460b43b713737a02182f2b33fe42728378be6a14f1c153659485e6172f591e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-47-2014",
+   "path": "local/vaslui/husi/2014/47",
+   "short": "HCL Huși nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 47/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna martie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_47_2014.pdf",
+     "sha256": "20f969ffc662966d2a531c5456554a442f7b44d6673073afda9d941d3e379474"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-48-2014",
+   "path": "local/vaslui/husi/2014/48",
+   "short": "HCL Huși nr. 48/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 48/2014 privind aprobarea documentatiei tehnico-economice pentru “Reparatii curente Biblioteca Municipala Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_48_2014.pdf",
+     "sha256": "ac685f87e3c857dd64ca31f57238c0201665ead8dd720210963cbe9ed0e573de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-49-2014",
+   "path": "local/vaslui/husi/2014/49",
+   "short": "HCL Huși nr. 49/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 49/2014 privind rectificarea bugetului local – etapa martie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_49_2014.pdf",
+     "sha256": "6e7c555f1b1516405d281dc5cb0c04bbe1e888c25c2e785a6b58e261f7d622b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-5-2014",
+   "path": "local/vaslui/husi/2014/5",
+   "short": "HCL Huși nr. 5/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 5/2014 privind stabilirea numarului de veterani si vaduve de razboi, persoane cu handicap si asistenti personali ai acestora care au dreptul de a calatori gratuit pe mijloacele de transport in comun , pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2014/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_05_2014.pdf",
+     "sha256": "7d59f6583b91e8ca22f17e00de06bb7c6a420f1f1f04ce16a7c617faf7243fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-50-2014",
+   "path": "local/vaslui/husi/2014/50",
+   "short": "HCL Huși nr. 50/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 50/2014 privind rectificarea bugetului de venituri si cheltuieli pe anul 2014 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_50_2014.pdf",
+     "sha256": "a665eda876dd189dca0951cf32157e4d6c366dc869536910da960b6d9ce0b5e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-51-2014",
+   "path": "local/vaslui/husi/2014/51",
+   "short": "HCL Huși nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 51/2014 privind aprobarea inchirierii prin licitatie publica a unor terenuri ce apartin domeniului privat al municipiului Husi, in vederea amplasarii constructiilor provizorii cu destinatia de chioscuri de distributie presa, carte si produse complementare",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_51_2014.pdf",
+     "sha256": "29ac64a81b5bdb95fb2f810d2bdd965105413d33c50a10be6f0fc3ec9d02ed18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-52-2014",
+   "path": "local/vaslui/husi/2014/52",
+   "short": "HCL Huși nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 52/2014 privind transmiterea dreptului de concesiune asupra unei suprafete de teren situata in municipiul Husi, strada Dr.N.Lupu ( bl.I.8), lot nr.4, in urma instrainarii constructiei cu destinatia de garaj",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_52_2014.pdf",
+     "sha256": "070f0130f5e6bc667cc577228ec224724164aa161adbd10811a0d3150b4a9435"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-53-2014",
+   "path": "local/vaslui/husi/2014/53",
+   "short": "HCL Huși nr. 53/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 53/2014 privind transmiterea dreptului de concesiune asupra unei suprafete de teren situata in municipiul Husi, strada Stefan cel Mare, lot nr.7, in urma instrainarii constructiei cu destinatia de garaj",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_53_2014.pdf",
+     "sha256": "64ed37d9d97c295236618a2fc32245a4daa9dd9430e057b539a787fa34f956ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-54-2014",
+   "path": "local/vaslui/husi/2014/54",
+   "short": "HCL Huși nr. 54/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 54/2014 privind emiterea avizului de principiu in vederea concesionarii prin licitatie publica a terenului in suprafata de 34,00 mp, situat in intravilanul municipiului Husi, strada 1 Decembrie, zona “Cina”, judetul Vaslui Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere: expunerea de motive privind emiterea avizului de principiu in vederea concesionarii fara licitatie publica a tere",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_54_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_54_2014.pdf",
+     "sha256": "09527790cb771b16ae4c598a66cf1cd994eb8562e336a48ddd5c3127fe04ccf4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-55-2014",
+   "path": "local/vaslui/husi/2014/55",
+   "short": "HCL Huși nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 55/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_55_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_55_2014.pdf",
+     "sha256": "766b06e02c539735e4b9b71958dcfaebb2e709b5e07f0b12e5f1fa66787715fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-56-2014",
+   "path": "local/vaslui/husi/2014/56",
+   "short": "HCL Huși nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 56/2014 privind emiterea acordului favorabil in vederea inchirierii unor spatii din cadrul Colegiului National “Cuza-Voda” Husi si din cadrul Colegiului Agricol ”Dimitrie Cantemir” Husi, Asociatiei “Mihai Ralea” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_56_2014.pdf",
+     "sha256": "b5203f0bc2b64e63f617ceaaf7d3ae67476ed98197c3088a9352a86a153ddaf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-58-2014",
+   "path": "local/vaslui/husi/2014/58",
+   "short": "HCL Huși nr. 58/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 58/2014 privind aprobarea schimbarii titularului contractului de inchiriere al apartamentului situat in municipiul Husi, strada Stefan cel Mare, nr.20, bl.32, sc.B, et.3, ap.23",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_58_2014.pdf",
+     "sha256": "364c1788466e71e4f705ec5cd6d43b81392fba79278ba49c8a9e73402f73196e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-59-2014",
+   "path": "local/vaslui/husi/2014/59",
+   "short": "HCL Huși nr. 59/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 59/2014 privind aprobarea schimbarii titularului contractului de inchiriere al apartamentului situat in municipiul Husi, Soseaua Husi-Stanilesti, nr.9.B, bl.ANL.3, sc.A, parter, ap.2",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_59_2014.pdf",
+     "sha256": "8c2047d73f210c2b34ea22c9d3952917c9364b40b1dc73aba80592762015f355"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-6-2014",
+   "path": "local/vaslui/husi/2014/6",
+   "short": "HCL Huși nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 6/2014 privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Asociatia Centrul Diecezan Caritas Iasi, punct de lucru in municipiul Husi, in anul financiar 2014 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere : expunerea de motive privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Asociatia Centrul Die",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_06_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_06_2014.pdf",
+     "sha256": "8b4b3cdb1b869cad5aad0737445d28fd9ad64d4e212e272a72cee32a70badfe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-60-2014",
+   "path": "local/vaslui/husi/2014/60",
+   "short": "HCL Huși nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 60/2014 privind precizarea apartenentei unor terenuri la domeniul public al municipiului Husi, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_60_2014.pdf",
+     "sha256": "21aa7df1bf1f63e6c325dd3776371b144c1b911e00889c68bdf8a51accac5bdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-61-2014",
+   "path": "local/vaslui/husi/2014/61",
+   "short": "HCL Huși nr. 61/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 61/2014 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_61_2014.pdf",
+     "sha256": "7c40eff9bf6470b721266a767cd343283844f1a2be6cd085765d63e0ac9a3587"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-62-2014",
+   "path": "local/vaslui/husi/2014/62",
+   "short": "HCL Huși nr. 62/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 62/2014 privind aprobarea programului de reparatii strazi in municipiul Husi pentru anul 2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_62_2014.pdf",
+     "sha256": "b919cf9dbe44cba7f1b557cb86ddc0412c7211d88a552bb4308e56cdd36fe160"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-63-2014",
+   "path": "local/vaslui/husi/2014/63",
+   "short": "HCL Huși nr. 63/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2014 privind modificarea Actului Constitutiv si Statutului Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de canalizare din municipiile Vaslui, Bârlad, Husi si orasul Negresti- judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_63_2014.pdf",
+     "sha256": "31c254392908c13261112b8139ec064fc8ee212440d799749f79f1247bbccf69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-64-2014",
+   "path": "local/vaslui/husi/2014/64",
+   "short": "HCL Huși nr. 64/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 64/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_64_2014.pdf",
+     "sha256": "e018f11c79fdf89eaaa54494d5fe1f0ee0ad2658297244eb6215cd1aa103fcfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-65-2014",
+   "path": "local/vaslui/husi/2014/65",
+   "short": "HCL Huși nr. 65/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2014/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_65_2014.pdf",
+     "sha256": "d70105492e1f7d5973e2acf37c2ea5ff9498e73f4b0eccc38f7811fd33477f36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-67-2014",
+   "path": "local/vaslui/husi/2014/67",
+   "short": "HCL Huși nr. 67/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 67/2014 privind acordarea unui aviz de principiu pentru participarea la procesul de selectie a unitatilor administrative teritoriale demarat prin proiectul “Platforma pentru dezvoltare urbana durabila si integrata\" (SMIS 32572) implementat de Ministerul Dezvoltarii Regionale si Administratiei Publice ,prin care se urmareste întarirea capacitatii administratiei locale pentru a putea dezvolta si implementa",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_67_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_67_2014.pdf",
+     "sha256": "d863339aa67e8d894435adacc5f8c1c09befce1c74d3411a3ee6e1955d9c2409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-68-2014",
+   "path": "local/vaslui/husi/2014/68",
+   "short": "HCL Huși nr. 68/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 68/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna aprilie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_68_2014.pdf",
+     "sha256": "366c11e81ed23191127256011c562160e28a6493814e08c1254403554ecb9b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-69-2014",
+   "path": "local/vaslui/husi/2014/69",
+   "short": "HCL Huși nr. 69/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 69/2014 privind acordarea unui aviz de principiu pentru realizarea si depunerea de documentatii in vederea solicitarii unei finantarii pentru realizarea obiectivului de investitii “Lucrari de constructie si reabilitare Campus scolar Liceul Cuza Voda Husi“ in cadrul apelului de proiecte deschis pentru Programului Operational Regional 2007-2013, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale, Dome",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_69_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_69_2014.pdf",
+     "sha256": "57332965583db91e35a7abf5009ba1d164e1ae70434b9a6f7d21707de8652b8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-7-2014",
+   "path": "local/vaslui/husi/2014/7",
+   "short": "HCL Huși nr. 7/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 7/2014 privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Asociatia Congregatia Surorile Saracilor Pr.Vicenzo Morinello in anul financiar 2014 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Asociatia Congregatia Surorile Sarac",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_07_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_07_2014.pdf",
+     "sha256": "09db7b19421bb8a376fb70ef1055d7ceb9eddfac8d8050a46933257e662e78f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-70-2014",
+   "path": "local/vaslui/husi/2014/70",
+   "short": "HCL Huși nr. 70/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 70/2014 privind darea in folosinta gratuita catre E-ON Moldova Distributie SA a suprafetei de teren necesara investitiei “Realizarea de retele de alimentare cu energie electrica – cartierele de locuinte Dric 2 si Dric 3”",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_70_2014.pdf",
+     "sha256": "eccebc57b18c23d5a93e407d215a3234b83f63da5d97e736244329cad9307219"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2014",
+   "path": "local/vaslui/husi/2014/71",
+   "short": "HCL Huși nr. 71/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_71_2014.pdf",
+     "sha256": "73c3b9f2cb3e9e197e3a40434569b92fa5cefd63fd6e81e0e0a5ce2ce4c34650"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-72-2014",
+   "path": "local/vaslui/husi/2014/72",
+   "short": "HCL Huși nr. 72/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 72/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_72_2014.pdf",
+     "sha256": "c59e73b6de30929209ec11f5c78e749d4d696a066a0dfa4d9628904a30e23017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-73-2014",
+   "path": "local/vaslui/husi/2014/73",
+   "short": "HCL Huși nr. 73/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 73/2014 privind aprobarea ordinii de prioritate a cererilor depuse conform Legii nr.15/2003, republicata, modificata si completata",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_73_2014.pdf",
+     "sha256": "13c7417de7a583ac39462ad038a36cd9ee73026c52eb4f243db8df9e09042542"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-74-2014",
+   "path": "local/vaslui/husi/2014/74",
+   "short": "HCL Huși nr. 74/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 74/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_74_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_74_2014.pdf",
+     "sha256": "28dd2b7c66eb900091536b643207884ea5c323edbdfbdd6d587a7c7025022363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-75-2014",
+   "path": "local/vaslui/husi/2014/75",
+   "short": "HCL Huși nr. 75/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 75/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_75_2014.pdf",
+     "sha256": "e5f9e809f8c58df12ca2586f7fee9d1080c52daf6cd0848bbd1befe306cc03ec"
     }
    ]
   },
@@ -213,6 +3093,126 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-79-2014",
+   "path": "local/vaslui/husi/2014/79",
+   "short": "HCL Huși nr. 79/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 79/2014 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in cadrul Strategiei pentru consolidarea administratiei publice 2014-2020",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_79_2014.pdf",
+     "sha256": "e97054ce097c109b64d367fd612e6b3d6d4f77ad122eaa2163b9a41822774416"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-8-2014",
+   "path": "local/vaslui/husi/2014/8",
+   "short": "HCL Huși nr. 8/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 8/2014 privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Star of Hope Romania cu sediul in municipiul Iasi, punct de lucru in municipiul Husi in anul financiar 2014 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind acordarea unui aviz de principiu pentru prestarea serviciilor sociale specializate de Star of Hope",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_08_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_08_2014.pdf",
+     "sha256": "234a393401d41494cb633f95827c52883659bd4e62aea91bfe43ad4cd3257823"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-80-2014",
+   "path": "local/vaslui/husi/2014/80",
+   "short": "HCL Huși nr. 80/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 80/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_80_2014.pdf",
+     "sha256": "52e350c44111737f45f8c46c5b0434d9347be8ef9397f2d4a3577ea6dbb501f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-81-2014",
+   "path": "local/vaslui/husi/2014/81",
+   "short": "HCL Huși nr. 81/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 81/2014",
+   "url": "https://www.primariahusi.ro/hotarari-30-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_81_2014.pdf",
+     "sha256": "d49aa17bc40f09bb2c0399fca0f2fc5771941be5c1ad870cf09851c760eddc50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-82-2014",
+   "path": "local/vaslui/husi/2014/82",
+   "short": "HCL Huși nr. 82/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 82/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna mai 2014",
+   "url": "https://www.primariahusi.ro/hotarari-14-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_82_2014.pdf",
+     "sha256": "68d6056589fec1cc096881d7bcaed605bf7d8fe1eb3d01dcf22db47caaf35881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-85-2014",
+   "path": "local/vaslui/husi/2014/85",
+   "short": "HCL Huși nr. 85/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 85/2014 privind acordarea ajutoarelor de urgenta familiilor si persoanelor care se afla in situatie de necesitate cauzate de calamitati naturale pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_85_2014.pdf",
+     "sha256": "976409aaaae6d6733b7d4ac72b64c06ca6bb4fb3324012df0e8a18fbf93d251b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-86-2014",
+   "path": "local/vaslui/husi/2014/86",
+   "short": "HCL Huși nr. 86/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 86/2014 privind rectificarea bugetului local – etapa mai 2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_86_2014.pdf",
+     "sha256": "af844f74813ffb47e764db67457d6bafdfbd7b9ede87e2e94cadbe77168d2838"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-87-2014",
+   "path": "local/vaslui/husi/2014/87",
+   "short": "HCL Huși nr. 87/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 87/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_87_2014.pdf",
+     "sha256": "ad57f0b125c8f1b6ec584ac64ea51b254a05ba3012ab033c3a6328105e49e048"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-88-2014",
    "path": "local/vaslui/husi/2014/88",
    "short": "HCL Huși nr. 88/2014",
@@ -224,6 +3224,186 @@
      "units": 1,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_88_2014.pdf",
      "sha256": "3cab69a3e9d9138f6e24913ab9074f22800ceb333e049e5717529edb5baed6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-89-2014",
+   "path": "local/vaslui/husi/2014/89",
+   "short": "HCL Huși nr. 89/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 89/2014 privind prelungirea duratei contractelor de inchiriere care au ca obiect locuinte pentru tineri destinate inchirierii, construite prin intermediul Agentiei Nationale pentru Locuinte Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere: expunerea de motive privind prelungirea duratei contractelor de inchiriere care au ca obiect locuinte pentru tineri destinate inchirierii, construi",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_89_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_89_2014.pdf",
+     "sha256": "db775830c98a1412a2227b4da53a7010aa247b59a78f80adc43115f3ce7e897b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-9-2014",
+   "path": "local/vaslui/husi/2014/9",
+   "short": "HCL Huși nr. 9/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 9/2014",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_09_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_09_2014.pdf",
+     "sha256": "037f10e794de40270ae6bf95fbf98f00f5d81b66cdd6c1284dda5590a32034dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-90-2014",
+   "path": "local/vaslui/husi/2014/90",
+   "short": "HCL Huși nr. 90/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 90/2014 privind prelungirea duratei contractelor de inchiriere care au ca obiect locuinte care apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_90_2014.pdf",
+     "sha256": "f5546a21116b401788ea90819740ec415b4416641164957a421fc654999d5d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-91-2014",
+   "path": "local/vaslui/husi/2014/91",
+   "short": "HCL Huși nr. 91/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 91/2014 privind aprobarea vanzarii terenului in suprafata de 600 mp apartinand domeniului privat al municipiului Husi aflat in proprietatea municipiului Husi, situat in strada Dr",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_91_2014.pdf",
+     "sha256": "164ee70e2480920f282ccc450ef32aa23f395a299873041a7e8486d9ead5a55f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-92-2014",
+   "path": "local/vaslui/husi/2014/92",
+   "short": "HCL Huși nr. 92/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 92/2014",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_92_2014.pdf",
+     "sha256": "71828208be55735b79341430801fdf75b645c7202a9fee29fbdb9a5147fe14e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2014",
+   "path": "local/vaslui/husi/2014/93",
+   "short": "HCL Huși nr. 93/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2014 privind emiterea acordului favorabil in vederea incheierii unui contract de comodat intre Scoala Gimnaziala “Anastasie Panu” si “Asociatia Panu 82”",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_93_2014.pdf",
+     "sha256": "cc39a015394739bc7261baf53cdf6d025c8a7881d6cb97a388e9d5c304bd048c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-94-2014",
+   "path": "local/vaslui/husi/2014/94",
+   "short": "HCL Huși nr. 94/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 94/2014 privind modificarea inventarului bunurilor care alcatuiesc domeniului public al municipiului Husi – sectiunea I - Bunuri imobile",
+   "url": "https://www.primariahusi.ro/hotarari-27-mai-2014/",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_94_2014.pdf",
+     "sha256": "8e8dd44e6d6d666194c21453162487db902d5799460ab15fc5586c3ff2800f4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-95-2014",
+   "path": "local/vaslui/husi/2014/95",
+   "short": "HCL Huși nr. 95/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 95/2014 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iunie 2014",
+   "url": "https://www.primariahusi.ro/hotarari-06-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_95_2014.pdf",
+     "sha256": "bc0fedba47f461b880bf675f98172c528a4a8bc6b703dd44ff9db8b3b3603ca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-96-2014",
+   "path": "local/vaslui/husi/2014/96",
+   "short": "HCL Huși nr. 96/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 96/2014 pentru aprobarea proiectului “ASIGURAREA UNUI PROCES EDUCAȚIONAL COMPETITIV PRIN CREARE CAMPUS COLEGIUL NAȚIONAL « CUZA VODĂ » HUȘI”,Axa prioritară 3 – Îmbunătățirea infrastructurii sociale Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universitare și a infrastructurii pentru formare profesională continuă si a",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_96_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_96_2014.pdf",
+     "sha256": "3322f6f47bb0c40e7533cfcd2ff25a93f9ec462bbb69a85115edd7e88e8fb687"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-97-2014",
+   "path": "local/vaslui/husi/2014/97",
+   "short": "HCL Huși nr. 97/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 97/2014 privind aprobarea platii sumei de 96.307 lei reprezentand obligatii fiscale suplimentare stabilite potrivit Deciziei de impunere nr. F-VS 62/16.09.2013 emisa de Directia Generala Regionala a Finantelor Publice Iasi - Administratia Judeteana a Finantelor Publice Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-06-iunie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_97_2014.pdf",
+     "sha256": "fabdde38d38a805e70bdfdac0f201e2d1ac899ea4449718f262690ee4c287b5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2014",
+   "path": "local/vaslui/husi/2014/98",
+   "short": "HCL Huși nr. 98/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2014 privind modificarea Hotararii Consiliului Local nr.218 /14.09.2010 pentru modificarea valorii contributiei proprii din valoarea eligibila a proiectului “Regenerarea municipiului Husi prin modernizarea spatiilor publice urbane” prevazuta la art.2 din Hotararea Consiliului Local Husi nr.87/2009 si pentru aprobarea valorii totale a proiectului Consiliul Local al municipiului Husi, judetul Vaslui; Ava",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_98_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_98_2014.pdf",
+     "sha256": "097f874cc397c88c90d762ae7fba2e29a973453cfae683bd42a480a7c7653be3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-99-2014",
+   "path": "local/vaslui/husi/2014/99",
+   "short": "HCL Huși nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 99/2014 privind aprobarea includerii in buget a sumei de 86,8 mii lei in vederea intocmirii documentatiei cadastrale a strazilor din proiectul “Regenerarea municipiului Husi prin modernizarea spatiilor publice urbane” COD SMIS 12183 Consiliul Local al Municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea includerii in buget a sumei de 86,8 mii lei in vederea intocmirii d",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_99_2014.pdf",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_99_2014.pdf",
+     "sha256": "6f1f82a5da72bc56f9b34e67f862632d86877c0cd0d66c410de7a6f4e67dac5e"
     }
    ]
   }

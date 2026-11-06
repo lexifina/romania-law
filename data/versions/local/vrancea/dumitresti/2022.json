@@ -3,6 +3,21 @@
  "shard": "local/vrancea/dumitresti/2022",
  "acts": [
   {
+   "slug": "hcl-vrancea--dumitresti-12-2022",
+   "path": "local/vrancea/dumitresti/2022/12",
+   "short": "HCL Dumitrești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 12/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24773",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24773",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-15-2022",
    "path": "local/vrancea/dumitresti/2022/15",
    "short": "HCL Dumitrești nr. 15/2022",
@@ -13,6 +28,36 @@
      "from": "2022-03-30",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-22-2022",
+   "path": "local/vrancea/dumitresti/2022/22",
+   "short": "HCL Dumitrești nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 22/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24912",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24912",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-28-2022",
+   "path": "local/vrancea/dumitresti/2022/28",
+   "short": "HCL Dumitrești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 28/2022 Privind modificarea contractului de închiriere nr. 3151 din 18.04.2019, prin act aditional, încheiat între Comuna Dumitrești și Asociația ''Plaiul''",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30539",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30539",
      "sha256": null
     }
    ]
@@ -33,6 +78,51 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-3-2022",
+   "path": "local/vrancea/dumitresti/2022/3",
+   "short": "HCL Dumitrești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 3/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-38-2022",
+   "path": "local/vrancea/dumitresti/2022/38",
+   "short": "HCL Dumitrești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 38/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-39-2022",
+   "path": "local/vrancea/dumitresti/2022/39",
+   "short": "HCL Dumitrești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 39/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30742",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30742",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-44-2022",
    "path": "local/vrancea/dumitresti/2022/44",
    "short": "HCL Dumitrești nr. 44/2022",
@@ -43,6 +133,21 @@
      "from": "2022-10-12",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-54-2022",
+   "path": "local/vrancea/dumitresti/2022/54",
+   "short": "HCL Dumitrești nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 54/2022 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni Consiliul local al comunei Dumitrești , județul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#37537",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#37537",
      "sha256": null
     }
    ]

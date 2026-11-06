@@ -3,6 +3,28 @@
 "shard": "local/vaslui/pogana/2023",
 "acts": [
 {
+"slug": "hcl-vaslui--pogana-1-2023",
+"path": "local/vaslui/pogana/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 1/2023 Desemnarea a 2 cons locali - evaluare secretar",
+"short": "HCL Pogana nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#40315",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-2-2023",
 "path": "local/vaslui/pogana/2023/2",
 "kind": "local",
@@ -487,6 +509,50 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-24-2023",
+"path": "local/vaslui/pogana/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 24/2023 Privind vanzarea unui lot de teren in suprafata de 1000 mp , apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana , situat in intravilanul localitatii Pogana , T 85 P 209/1 , numar cadastral 71699",
+"short": "HCL Pogana nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#49876",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-25-2023",
+"path": "local/vaslui/pogana/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 25/2023 Privind vanzarea a 3 (trei) loturi de teren, apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana",
+"short": "HCL Pogana nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-26",
+"latest": "2023-05-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#49882",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-26-2023",
 "path": "local/vaslui/pogana/2023/26",
 "kind": "local",
@@ -550,6 +616,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-29-2023",
+"path": "local/vaslui/pogana/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 29/2023 Privind vanzarea unui lot de teren in suprafata de 957 mp , apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana , situat in intravilanul localitatii Pogana , T 85 P 239 , numar cadastral 72727",
+"short": "HCL Pogana nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#52335",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -751,6 +839,28 @@
 }
 },
 {
+"slug": "hcl-vaslui--pogana-39-2023",
+"path": "local/vaslui/pogana/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 39/2023 Privind vanzarea a 5 (cinci) loturi de teren, apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana",
+"short": "HCL Pogana nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-28",
+"latest": "2023-07-28",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#54222",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-40-2023",
 "path": "local/vaslui/pogana/2023/40",
 "kind": "local",
@@ -814,6 +924,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-43-2023",
+"path": "local/vaslui/pogana/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 43/2023 Privind vanzarea a 9 (noua) loturi de teren , apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana",
+"short": "HCL Pogana nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#55924",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1166,6 +1298,29 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-70-2023",
+"path": "local/vaslui/pogana/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 70/2023",
+"short": "HCL Pogana nr. 70/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-13",
+"latest": "2023-12-13",
+"portal": null,
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

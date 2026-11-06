@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/spulber/2025",
+"acts": [
+{
+"slug": "hcl-vrancea--spulber-70-2025",
+"path": "local/vrancea/spulber/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Spulber nr. 70/2025",
+"short": "HCL Spulber nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-14",
+"latest": "2025-10-14",
+"portal": "https://primariaspulber.ro/wp-content/uploads/2025/11/HCL-nr-70-din-14.10.2025-ACTUALIZRA-DG-STATII-DE-REINCARCARE.pdf",
+"council": "vrancea/spulber",
+"council_name": "Consiliul Local al Comunei Spulber",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

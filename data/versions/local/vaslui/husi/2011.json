@@ -3,6 +3,1641 @@
  "shard": "local/vaslui/husi/2011",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-1-2011",
+   "path": "local/vaslui/husi/2011/1",
+   "short": "HCL Huși nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 1/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna ianuarie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-07-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea01_2011.pdf",
+     "sha256": "100bb9bcd8724b4812669e743939c8b21f76948fc1317bcbc171130ed108dabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-10-2011",
+   "path": "local/vaslui/husi/2011/10",
+   "short": "HCL Huși nr. 10/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 10/2011 privind aprobarea planului de actiuni si de lucrari de interes local pentru beneficiarii prevederilor Legii nr. 416/2001 privind venitul minim garantat, modificata si completata, pentru anul 2011",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea10_2011.pdf",
+     "sha256": "47e2df4cc3e40f619898f023dcadb307420ff13f63189ebc31c4da37639788c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-100-2011",
+   "path": "local/vaslui/husi/2011/100",
+   "short": "HCL Huși nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2011 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 20 mp apartinand domeniului privat al municipiului Husi, situat in intravilanul municipiului Husi, str.Luceafarul- lot. 5 (in apropierea Caminului 13) Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea avizului de principiu in vederea concesionarii unui",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea100_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea100_2011.pdf",
+     "sha256": "d64908b9087e5275522d450870b40700586e1d604b105c7bd27b8ed5dc2f063c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-101-2011",
+   "path": "local/vaslui/husi/2011/101",
+   "short": "HCL Huși nr. 101/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 101/2011 privind aprobarea concesionarii prin licitatie publica a unei suprafete de teren de 49 mp pentru spatiu comercial, apartinand domeniului privat al municipiului Husi, situat in intravilanul municipiului Husi, B-dul 1 Mai nr.9, intre blocurile 27 si 29, nr.cadastral 72149, judetul",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea101_2011.pdf",
+     "sha256": "add869a7a58359cfd5d7472ffc19f2f7f7eac20a5980ba15971e69de8ad6fe33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-102-2011",
+   "path": "local/vaslui/husi/2011/102",
+   "short": "HCL Huși nr. 102/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 102/2011 privind aprobarea concesionarii prin licitatie publica a unui teren in suprafata de 7 ha, apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea realizarii unui parc fotovoltaic pentru producerea energiei electrice din surse regener",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea102_2011.pdf",
+     "sha256": "d2c2f538d12e41371e7a22de98d92bc943638aeb235fc25e88460fc5acb11a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-103-2011",
+   "path": "local/vaslui/husi/2011/103",
+   "short": "HCL Huși nr. 103/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2011 privind aprobarea concesionarii directe a unei suprafete de teren de 30 mp apartinand domeniului privat al municipiului Husi, situata in municipiul Husi, strada 14 Iulie, bl.N.1, sc.A, parter, ap.2, judetul Vaslui, beneficiar SC \"EUROSAN\" SRL",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea103_2011.pdf",
+     "sha256": "f699cae751e83f7447eacef22ec453e5e91067a61dcf2e82381b11235806e678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-105-2011",
+   "path": "local/vaslui/husi/2011/105",
+   "short": "HCL Huși nr. 105/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 105/2011 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea105_2011.pdf",
+     "sha256": "ee2c8140ce182c2be8444dd71321a1d316601ab823a14b1e2220842e012e4f6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-106-2011",
+   "path": "local/vaslui/husi/2011/106",
+   "short": "HCL Huși nr. 106/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 106/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea106_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea106_2011.pdf",
+     "sha256": "8865f0ec0eeb9f525290e7f9f7f9fd8c6c54577407f8ac64d92d3f9bec3bbf87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-107-2011",
+   "path": "local/vaslui/husi/2011/107",
+   "short": "HCL Huși nr. 107/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 107/2011 privind modificarea statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea107_2011.pdf",
+     "sha256": "89e0bf17c62912a93fc48f98326d486549f076176b18e93966a344864398b1d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-108-2011",
+   "path": "local/vaslui/husi/2011/108",
+   "short": "HCL Huși nr. 108/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 108/2011 privind aprobarea organigramei, a statului de functii si a Regulamentului de organizare si functionare a Politiei Locale a Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea108_2011.pdf",
+     "sha256": "da659ba70bcdd9bcb05913ac05ebcfdbc1701fd1dfa436fb45fa2c5802529169"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-11-2011",
+   "path": "local/vaslui/husi/2011/11",
+   "short": "HCL Huși nr. 11/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 11/2011 privind introducerea in inventarul domeniului public al municipiului Husi a bunurilor ce apartin sectorului apa si sectorului canal-epurare",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea11_2011.pdf",
+     "sha256": "c2c29ef35b4b4c0b0ae3f17c6227fa2dc69885920665eca84344c799bc5c9455"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-110-2011",
+   "path": "local/vaslui/husi/2011/110",
+   "short": "HCL Huși nr. 110/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 110/2011 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea110_2011.pdf",
+     "sha256": "625512dd5d2ece03f6938aa28349a99a2dcecdbf7d1af5b6ab6d55b6b7e28bf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-111-2011",
+   "path": "local/vaslui/husi/2011/111",
+   "short": "HCL Huși nr. 111/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 111/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna mai 2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea111_2011.pdf",
+     "sha256": "35bd860e0d326897425faed269965d9987fe2a4c5b6b56a32d8aa869791534b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-112-2011",
+   "path": "local/vaslui/husi/2011/112",
+   "short": "HCL Huși nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 112/2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea112_2011.pdf",
+     "sha256": "3a510afd83d09610bc8220b3e1cfac0603d427ff7f2cb6599f84b2c580f61dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-113-2011",
+   "path": "local/vaslui/husi/2011/113",
+   "short": "HCL Huși nr. 113/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 113/2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea113_2011.pdf",
+     "sha256": "cf8039342d501bc4026ecdd4a2aadcf6782816dc22368b937d0ad3a2ee47fcd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-114-2011",
+   "path": "local/vaslui/husi/2011/114",
+   "short": "HCL Huși nr. 114/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2011 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in comisia de evaluare si de solutionare a contestatiilor la evaluarea managementului Casei de Cultura \"Al. Giugaru\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea114_2011.pdf",
+     "sha256": "0ba899acdf7b968de34ff331f8349c63f41720cac7f1fae2d8df276a47f08307"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-115-2011",
+   "path": "local/vaslui/husi/2011/115",
+   "short": "HCL Huși nr. 115/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 115/2011 privind aprobarea vanzarii prin licitatie publica a terenului in suprafata de 20.000 mp din Tarlaua 33, Parcela 3577, apartinand domeniului privat al municipiului Husi, inscris n CF nr.72179 cu nr. cadastral 72206",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea115_2011.pdf",
+     "sha256": "aba2c0f04b4617d805f2c2f931982bf5a60caf8e01f75a299eb547a31c812695"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-116-2011",
+   "path": "local/vaslui/husi/2011/116",
+   "short": "HCL Huși nr. 116/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 116/2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea116_2011.pdf",
+     "sha256": "60888d4cbb6a9f6f9e577999a51588fe0876355a911e64e98e0c042a9ae324cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-117-2011",
+   "path": "local/vaslui/husi/2011/117",
+   "short": "HCL Huși nr. 117/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 117/2011 privind aprobarea contului de executie a bugetului local si bugetului institutiilor publice finantate integral sau partial din venituri proprii incheiat la data de 31.03.2011",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea117_2011.pdf",
+     "sha256": "84012bf95fb5afe801f4eba378b44e6cd1fd69593f9bcdbace4f2ea7841ae62f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-118-2011",
+   "path": "local/vaslui/husi/2011/118",
+   "short": "HCL Huși nr. 118/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 118/2011 privind aprobarea inchirierii prin licitatie publica a unui spatiu comercial apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situat in Piata Victoriei, Hala Agroalimentara",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea118_2011.pdf",
+     "sha256": "8441bdf3608b80407eea7becdedf142815281559d7fb335fdbcea36a2990855a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-119-2011",
+   "path": "local/vaslui/husi/2011/119",
+   "short": "HCL Huși nr. 119/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 119/2011 privind aprobarea concesionarii prin licitatie publica a 9 loturi de teren in suprafata de 300 mp fiecare, apartinand domeniului privat al municipiului Husi, situate in municipiul Husi, zona Dric, nr.2, judetul Vaslui, pentru construirea de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea119_2011.pdf",
+     "sha256": "404c54c9a3a64adb9dccb6a49c2a9b24cc017509831ec92cd52d3fde480b508b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-12-2011",
+   "path": "local/vaslui/husi/2011/12",
+   "short": "HCL Huși nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 12/2011 privind aprobarea evaluarii bunurilor ce apartin sectorului apa si sectorului canal-epurare din domeniul public al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea12_2011.pdf",
+     "sha256": "bcc46e2c94039c4eab62bc3759d39971e2d5875ecfe0839cc1c0bf9da6463ec1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-120-2011",
+   "path": "local/vaslui/husi/2011/120",
+   "short": "HCL Huși nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 120/2011 privind retragerea dreptului de folosinta asupra unui teren atribuit in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata, in intravilanul municipiului Husi, zona Cartierului Dric",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea120_2011.pdf",
+     "sha256": "091a3acf767f14f4e6f255b0de411417b41059c9f93cd47c4f9c7fc014a63261"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-121-2011",
+   "path": "local/vaslui/husi/2011/121",
+   "short": "HCL Huși nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 121/2011 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, in zona Cartierului Dric, pentru construirea unei locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, do",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea121_2011.pdf",
+     "sha256": "2696abba11a570506c03874e7971f0f2171c28f41c07715e4bd4df02254e9ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-122-2011",
+   "path": "local/vaslui/husi/2011/122",
+   "short": "HCL Huși nr. 122/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 122/2011 privind acceptarea, fara sarcini, a donatiei terenului in suprafata de 397,19 mp, situat in municipiul Husi, sola 70, parcela 4/3, cu scopul amenajarii unei cai de acces",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea122_2011.pdf",
+     "sha256": "89a3d7b6f3f3fc32819969655a69308977b625fbe8994781fd232568deddb568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-123-2011",
+   "path": "local/vaslui/husi/2011/123",
+   "short": "HCL Huși nr. 123/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 123/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea123_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea123_2011.pdf",
+     "sha256": "38a2ae3338127a43d82f5d32f86c032116a5befee307131e3748bbe75cee68da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-124-2011",
+   "path": "local/vaslui/husi/2011/124",
+   "short": "HCL Huși nr. 124/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 124/2011",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea124_2011.pdf",
+     "sha256": "43f60f602d6dcaa4054aade368d02f1a7c8d44af31bfda0df9f886e660b93d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-129-2011",
+   "path": "local/vaslui/husi/2011/129",
+   "short": "HCL Huși nr. 129/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2011 privind modificarea Actului Constitutiv si Statutului Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de canalizare din municipiile Vaslui, Barlad, Husi si orasul Negresti judetul Vaslui, la care judetul Vaslui este membr",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea129_2011.pdf",
+     "sha256": "356dd94c4a77ba9100c18f5cfe673b052c9aed0b08823e1b0cdf03478e7bfe16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-130-2011",
+   "path": "local/vaslui/husi/2011/130",
+   "short": "HCL Huși nr. 130/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 130/2011 privind mandatarea reprezentantului autoritatilor administratiei publice locale ale municipiului Husi in Adunarea Generala a Actionarilor la SC GOSCOMLOC SA HUSI sa numeasca administratorul special al SC GOSCOMLOC SA HUSI, societate in insolventa",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea130_2011.pdf",
+     "sha256": "ad8adc09b88f81cfae36dc25babc751fdb3c60c44db66e76b425fd08f3ed1385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-131-2011",
+   "path": "local/vaslui/husi/2011/131",
+   "short": "HCL Huși nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 131/2011 privind aprobarea Acordului de parteneriat a Municipiului Husi cu Asociatia Comunitara \"Totul pentru viata\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea131_2011.pdf",
+     "sha256": "5c88184c9d0f1cf85bc61ee51d5f78b1db265930bcb4d36b98867bd080e469c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-132-2011",
+   "path": "local/vaslui/husi/2011/132",
+   "short": "HCL Huși nr. 132/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2011 privind emiterea unui aviz de principiu in vederea concesionarii directe a unui teren in suprafata de 25,80 mp, in vederea construirii unui balcon la apartamentul nr.6, situat in Husi, Soseaua Husi-Stanilesti bl.1,sc.B Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea concesionarii directe a unui teren in su",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea132_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea132_2011.pdf",
+     "sha256": "cc3722096b9f02703b8ba620d87ec9398abfa7e3795c86d42b726d7b6cf2aaad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-133-2011",
+   "path": "local/vaslui/husi/2011/133",
+   "short": "HCL Huși nr. 133/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 133/2011 privind trecerea din domeniul public al municipiului Husi in domeniul privat al acestuia a bunului \"Conducta aductiune\" (Poganesti - Statia de tratare), in vederea dezafectarii acestuia",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2011/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea133_2011.pdf",
+     "sha256": "5db0d5af605d5041dab3d596c8006fc173d6065efe9fbfa12234958b19bf4b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-134-2011",
+   "path": "local/vaslui/husi/2011/134",
+   "short": "HCL Huși nr. 134/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 134/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iunie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-10-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea134_2011.pdf",
+     "sha256": "e666f23ad56321540cdb80f96b5c1a04e61a051c2bcf825cf0d16c08f444d7b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-136-2011",
+   "path": "local/vaslui/husi/2011/136",
+   "short": "HCL Huși nr. 136/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 136/2011 privind aprobarea structurii organizatorice si a statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-10-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea136_2011.pdf",
+     "sha256": "ec9bcfe983791d7838c607adcbf275eae1a38a75caf07d891592befe47bf0e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-137-2011",
+   "path": "local/vaslui/husi/2011/137",
+   "short": "HCL Huși nr. 137/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 137/2011 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie \"Amenajare trotuare strada Calarasi din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea137_2011.pdf",
+     "sha256": "84ec0fa6da04eb6c23413a66c8d368bb06f089891f098adf4f6a9b3207f57e57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-138-2011",
+   "path": "local/vaslui/husi/2011/138",
+   "short": "HCL Huși nr. 138/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 138/2011 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie \"Amenajare trotuare strada Castroian din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea138_2011.pdf",
+     "sha256": "ce45ad5e6956ca049e82f3e175ebb96575336520e8c68fa01c8bf38a8e6652ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-139-2011",
+   "path": "local/vaslui/husi/2011/139",
+   "short": "HCL Huși nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 139/2011 privind rectificarea bugetului local etapa iunie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea139_2011.pdf",
+     "sha256": "9e53991154d0a260ccdd695f1c8dea015f98f82da1cbbb3a896269857a024260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-14-2011",
+   "path": "local/vaslui/husi/2011/14",
+   "short": "HCL Huși nr. 14/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 14/2011 privind aprobarea Planului Urbanistic de Detaliu - \"Concesionare teren - extindere spatiu lucru\", municipiul Husi,strada 14 Iulie bl.N.1, sc.A, parter, ap.2, judetul Vaslui, beneficiar SC Eurosan SRL",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea14_2011.pdf",
+     "sha256": "96a3f8b556dde64cfc56878753d89bd9df5da21299114629415a966791a9cb58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-140-2011",
+   "path": "local/vaslui/husi/2011/140",
+   "short": "HCL Huși nr. 140/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 140/2011 privind aprobarea bugetului rectificat de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea140_2011.pdf",
+     "sha256": "e3eed9944596f1bd5f576b87c44c9c10db6c9f1c70c9750d34ee3c805b44abb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-141-2011",
+   "path": "local/vaslui/husi/2011/141",
+   "short": "HCL Huși nr. 141/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 141/2011 privind aprobarea bugetului Proiectului “ADMINnet – Către o dezvoltare armonioasă a zonei de frontieră România-Republica Moldova” Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea bugetului Proiectului “ADMINnet – Către o dezvoltare armonioasă a zonei de frontieră România-Republica Moldova”; In conformitate cu prevederile Legii privind fina",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea141_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea141_2011.pdf",
+     "sha256": "fd44208d67ca6ce5982f8554209c27983079c7f175f405f8c6a2a760efb12d58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-142-2011",
+   "path": "local/vaslui/husi/2011/142",
+   "short": "HCL Huși nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 142/2011 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea142_2011.pdf",
+     "sha256": "82cd7f7cb95eb65116551d8db54d0d0f47cefdbf575db85f864e323e68807541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-143-2011",
+   "path": "local/vaslui/husi/2011/143",
+   "short": "HCL Huși nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 143/2011 privind modificarea organigramei si a statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea143_2011.pdf",
+     "sha256": "8ee04464dc10513df7276c4ee2ed4fa4495af139bfadc6a62e088d9e57f638d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-144-2011",
+   "path": "local/vaslui/husi/2011/144",
+   "short": "HCL Huși nr. 144/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 144/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea144_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea144_2011.pdf",
+     "sha256": "d508620c53d030a3b1d28d1e6cdd2cbb51229d824ca7b49f1e1814b0cbfbec0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-145-2011",
+   "path": "local/vaslui/husi/2011/145",
+   "short": "HCL Huși nr. 145/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 145/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea145_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea145_2011.pdf",
+     "sha256": "4013ed9076e8c059a8e76c340f04d2e990f6ae0decbcda271216e43a0ac8d2e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-146-2011",
+   "path": "local/vaslui/husi/2011/146",
+   "short": "HCL Huși nr. 146/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 146/2011 privind emiterea avizului favorabil pentru aprobarea vanzarii apartamentului proprietatea municipiului Husi, situat in Husi strada 1 Decembrie bl.12, sc.B, et.4, ap.2, catre actualul chirias Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea avizului favorabil pentru aprobarea vanzarii apartamentului proprietatea municipiului Husi, situat in",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea146_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea146_2011.pdf",
+     "sha256": "f16ba49cf0024251bf986e638c6d28148cf53b0d2e71c7ca6a55a40b52f77aca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-147-2011",
+   "path": "local/vaslui/husi/2011/147",
+   "short": "HCL Huși nr. 147/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 147/2011 privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 36,94 mp, situat in intravilanul municipiului Husi, strada Meleti Istrati, langa Centrala Termica (bloc 24) Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 36,94 mp, situat i",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea147_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea147_2011.pdf",
+     "sha256": "4423d5799c3cdfa6268e1ad59f329d4f1113a27520eb973c53dd7f01d51778ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-148-2011",
+   "path": "local/vaslui/husi/2011/148",
+   "short": "HCL Huși nr. 148/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 148/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea148_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea148_2011.pdf",
+     "sha256": "dc313fbe219e1c2a05e8e29d6680c412add10f7846ba375986e3724b2ee56e0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-149-2011",
+   "path": "local/vaslui/husi/2011/149",
+   "short": "HCL Huși nr. 149/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 149/2011 privind emiterea unui aviz de principiu in vederea vanzarii prin licitatie publica a terenului in suprafata de 5000 mp, situat in municipiul Husi, zona Dric, judetul Vaslui Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea vanzarii prin licitatie publica a terenului in suprafata de 5000 mp, situat in municip",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea149_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea149_2011.pdf",
+     "sha256": "dbc21a581184db48c146a548bbb4f00353dd11ff3d91c2e1a260515379610e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-15-2011",
+   "path": "local/vaslui/husi/2011/15",
+   "short": "HCL Huși nr. 15/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 15/2011 privind aprobarea Planului Urbanistic de Detaliu - \"Concesionare teren -construire garaje auto\", municipiul Husi, strada Luceafarul, langa bloc B.2,judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea15_2011.pdf",
+     "sha256": "ee2d5e3b86c5012ba161bde45678b9b151fd22cc16c4e78cae3cd7c011b9af75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-150-2011",
+   "path": "local/vaslui/husi/2011/150",
+   "short": "HCL Huși nr. 150/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 150/2011 privind retragerea dreptului de folosinta asupra unor terenuri atribuite in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata, in intravilanul municipiului Husi, zona Cartierului Dr",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea150_2011.pdf",
+     "sha256": "5dbfc475c6f92a85e0213a3d8f73c17f7dc494af7b8572e24631a63d9767a89d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-151-2011",
+   "path": "local/vaslui/husi/2011/151",
+   "short": "HCL Huși nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 151/2011 privind aprobarea functionarii Gradinitei cu program prelungit nr.2 Husi ca structura a Gradinitei cu program prelungit nr.1 Husi, incepand cu anul scolar 2011-2012",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea151_2011.pdf",
+     "sha256": "fce7efa094313e8c9a7a02f8f13caa321d7905b411af92b50666ca1754082e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-152-2011",
+   "path": "local/vaslui/husi/2011/152",
+   "short": "HCL Huși nr. 152/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 152/2011 privind accesul, circulatia si alte activitati ce se pot desfasura in zona de frontiera",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2011/",
+   "versions": [
+    {
+     "from": "2011-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea152_2011.pdf",
+     "sha256": "178a4b868476f5b58209c369b7ccbec5baa0c7300ea563c5ef1a5d451f34112b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-153-2011",
+   "path": "local/vaslui/husi/2011/153",
+   "short": "HCL Huși nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 153/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iulie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea153_2011.pdf",
+     "sha256": "a78ec07e86afc8d3c21d09f120dae660ce8f622021082f1b8190b0d40d707d79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-154-2011",
+   "path": "local/vaslui/husi/2011/154",
+   "short": "HCL Huși nr. 154/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 154/2011 privind alocarea sumei de 5400 lei pentru intocmirea unui Studiu de Fezabilitate avand ca tema \"Amenajare parcare strada Al.I.Cuza bloc H.1\"",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea154_2011.pdf",
+     "sha256": "11270e216e2893a300979242fc3a71cdf9a757efebbc7e872ebd97ab8d7a5cee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-155-2011",
+   "path": "local/vaslui/husi/2011/155",
+   "short": "HCL Huși nr. 155/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 155/2011 privind aprobarea obiectivului de investitie \"Semaforizare intersectie strada Al.I.Cuza - strada Florilor\"",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea155_2011.pdf",
+     "sha256": "ddfd4f0a6cba8fb2595fefe3e99319dac1444ce264038e7a9894510fd25345f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-156-2011",
+   "path": "local/vaslui/husi/2011/156",
+   "short": "HCL Huși nr. 156/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 156/2011 privind aprobarea executiei bugetului local, bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii, bugetului creditelor interne si bugetului fondurilor externe nerambursabile incheiate la data de 30.06.2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea156_2011.pdf",
+     "sha256": "80e2eb29e1cd3da01a67e9827c669f960d604fbd398950aa81dc5a6a0978167b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-157-2011",
+   "path": "local/vaslui/husi/2011/157",
+   "short": "HCL Huși nr. 157/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 157/2011 privind rectificarea bugetului local cu suma de 366,4 mii lei - etapa iulie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea157_2011.pdf",
+     "sha256": "55794beab4ebb46fe484cccc5664fc51ae6de044b20332a81243405e18dd95f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-158-2011",
+   "path": "local/vaslui/husi/2011/158",
+   "short": "HCL Huși nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 158/2011 privind aprobarea schimbului de imobile intre Municipiul Husi si SC \"RECON\" SA Husi",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea158_2011.pdf",
+     "sha256": "25e3175f2ac9634475b5f15435fd6bef2b23185bd926433b126ae8cdf8bfadeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-159-2011",
+   "path": "local/vaslui/husi/2011/159",
+   "short": "HCL Huși nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 159/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea159_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea159_2011.pdf",
+     "sha256": "00b5afe7543b49a0ead5f62bcb337e465277ab66c2c610d0440028cb37b695b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-16-2011",
+   "path": "local/vaslui/husi/2011/16",
+   "short": "HCL Huși nr. 16/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 16/2011",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea16_2011.pdf",
+     "sha256": "cb4e7e8f2b14267feca0b7eaffb3e5bcb107aaf22c8130324b1b013060294e35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-160-2011",
+   "path": "local/vaslui/husi/2011/160",
+   "short": "HCL Huși nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 160/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea160_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea160_2011.pdf",
+     "sha256": "27c494b89c1953b61295ec6c4807ae67ad6891f6b66752b770e21c3df3ab9723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-161-2011",
+   "path": "local/vaslui/husi/2011/161",
+   "short": "HCL Huși nr. 161/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 161/2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea161_2011.pdf",
+     "sha256": "124a433a114b5aa9aa2aa2f43567f6c9c8d37c90031f4cb4fe7010a373f0bf4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-162-2011",
+   "path": "local/vaslui/husi/2011/162",
+   "short": "HCL Huși nr. 162/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 162/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea162_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea162_2011.pdf",
+     "sha256": "35486f0ded7417b14a6a3ff5226e99b2399ba4335843eb1d5ca1c7cd394dd8f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-163-2011",
+   "path": "local/vaslui/husi/2011/163",
+   "short": "HCL Huși nr. 163/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 163/2011 privind atribuirea cu titlu gratuit a doua loturi de teren in suprafata de 300 mp fiecare, in zona Cartierului Dric, pentru construirea de locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate per",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea163_2011.pdf",
+     "sha256": "a7f54d6ee160bb5696245248d7cba66f0c7b98ed94871579586b97be481468d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-164-2011",
+   "path": "local/vaslui/husi/2011/164",
+   "short": "HCL Huși nr. 164/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 164/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea164_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea164_2011.pdf",
+     "sha256": "e3a9dd6bd1f0e62fe75ca98572c154f22daa5da72117e099292c5ee9ca79b2c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-165-2011",
+   "path": "local/vaslui/husi/2011/165",
+   "short": "HCL Huși nr. 165/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 165/2011 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi; In conformitate cu prevederile art.63, art.64 si art.107 din Legea nr.188/1999 privind Statutul functionarilor publici, republicata, cu modificarile si completarile ulterioare; In temeiul art.36 alin.(3) litera ”b”, art.45 alin.(1) din Legea nr.215/2001 privind administrat",
+   "url": "https://www.primariahusi.ro/hotarari-20-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea165_2011.pdf",
+     "sha256": "420ee2e696645813658f62443a084b864876be65a47914752ae2a4e80f915b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-167-2011",
+   "path": "local/vaslui/husi/2011/167",
+   "short": "HCL Huși nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 167/2011 privind aprobarea listei cu lucrarile si obiectivele de investitii aferente sistemului de alimentare cu apa si de canalizare din municipiul Husi intocmita de catre consultantul SC \"Interdevelopment\" SRL Bucuresti, propuse a fi realizate prin POS Mediu - Axa prioritara 1 Fonduri d",
+   "url": "https://www.primariahusi.ro/hotarari-22-iulie-2011/",
+   "versions": [
+    {
+     "from": "2011-07-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea167_2011.pdf",
+     "sha256": "12f0d994cde035db8adc954a7c9afb4c50f466a07e2272f00a94ff81c7d7ed91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-168-2011",
+   "path": "local/vaslui/husi/2011/168",
+   "short": "HCL Huși nr. 168/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 168/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna august 2011",
+   "url": "https://www.primariahusi.ro/hotarari-05-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea168_2011.pdf",
+     "sha256": "838b918764d3b577dfa1bf7b7a15fbcc0b51466b4832e099c572e59299b648dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-169-2011",
+   "path": "local/vaslui/husi/2011/169",
+   "short": "HCL Huși nr. 169/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 169/2011 privind modificarea inventarului domeniului public al municipiului Husi atestat prin Hotararea Guvernului Romaniei nr. 1361/2001",
+   "url": "https://www.primariahusi.ro/hotarari-05-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea169_2011.pdf",
+     "sha256": "f7133ad0f9dd9bd3805747c4b40b97c39936b37708b990ded8f97b869c5947f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-17-2011",
+   "path": "local/vaslui/husi/2011/17",
+   "short": "HCL Huși nr. 17/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 17/2011",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea17_2011.pdf",
+     "sha256": "3622a6265a0658eb12396dd22ca4d18ee1c4bd4ddcbe5174cf5c4d9ea444a600"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-170-2011",
+   "path": "local/vaslui/husi/2011/170",
+   "short": "HCL Huși nr. 170/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 170/2011 privind aprobarea componentei Comisiei sociale si a criteriilor de stabilire a ordinii de prioritate in solutionarea cererilor pentru repartitia garsonierelor preluate de la SC “RECON” SA Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea componentei Comisiei sociale si a criteriilor de stabilire a ordinii de prioritate in solutionarea cerer",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea170_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea170_2011.pdf",
+     "sha256": "71261d66eb5165f236dc3393e4c0927dcc36ddbc8c7640b80972d9969bc99e11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-171-2011",
+   "path": "local/vaslui/husi/2011/171",
+   "short": "HCL Huși nr. 171/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 171/2011",
+   "url": "https://www.primariahusi.ro/hotarari-18-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea171_2011.pdf",
+     "sha256": "172a531ecad4401946785b9050873c67028a16597de94a166414b2126d3489e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-172-2011",
+   "path": "local/vaslui/husi/2011/172",
+   "short": "HCL Huși nr. 172/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 172/2011",
+   "url": "https://www.primariahusi.ro/hotarari-18-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea172_2011.pdf",
+     "sha256": "d5cbed94b9d4162628ffd71dc04f2df2317c5aef25573f821420ed7fd8abb39b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-173-2011",
+   "path": "local/vaslui/husi/2011/173",
+   "short": "HCL Huși nr. 173/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 173/2011 privind participarea Unitatii Administrativ Teritoriale - Municipiul Husi la \"Programul de imbunatatire a calitatii mediului prin impadurirea terenurilor degradate, reconstructia ecologica si gospodarirea durabila a padurilor\"",
+   "url": "https://www.primariahusi.ro/hotarari-18-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea173_2011.pdf",
+     "sha256": "495758c91034792960357c16bfb16a9c0f77b5c9e10ae22d47d595e3f57c1d53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-176-2011",
+   "path": "local/vaslui/husi/2011/176",
+   "short": "HCL Huși nr. 176/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 176/2011 privind aprobarea schimbului de terenuri intre MUNICIPIUL HUSI si SC ELECTROSANIT SRL HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea176_2011.pdf",
+     "sha256": "04a3ac2bef7722db60dd5f24d0a5138efd33241a4a8c197274e2e71bd0a5db73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-178-2011",
+   "path": "local/vaslui/husi/2011/178",
+   "short": "HCL Huși nr. 178/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 178/2011 privind aprobarea vanzarii unor loturi de teren, apartinand domeniului privat al municipiului Husi, aflate in proprietatea municipiului Husi, situate in Cartier Recea, pe care sunt construite locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea178_2011.pdf",
+     "sha256": "20db97fd22c089f13d234ef9a172768bdb5c15401fd5a6b2c7e1bec159d17668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2011",
+   "path": "local/vaslui/husi/2011/18",
+   "short": "HCL Huși nr. 18/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2011 privind aprobarea concesionarii prin licitatie publica a 11 loturi de teren in suprafata de 300 mp fiecare, apartinand domeniului privat al municipiului Husi, situate in municipiul Husi, zona Dric, nr.2, judetul Vaslui, pentru construirea de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea18_2011.pdf",
+     "sha256": "ebe810754e9311f613c281ca00a846bda3dc32d7958adb3d1c494194cf76003d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-181-2011",
+   "path": "local/vaslui/husi/2011/181",
+   "short": "HCL Huși nr. 181/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 181/2011 privind emiterea unui aviz de principiu in vederea vanzarii unui teren in suprafata de 21 mp, apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, strada Alexandru Giugaru, langa cladirea internat a Colegiului Agricol ”Dimitrie Cantemir”, lot nr.1 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui a",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea181_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea181_2011.pdf",
+     "sha256": "3c560bae47047b15686f5a80f4e52f3649ba5b0e380b8bc8a7a71fb291a099d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-183-2011",
+   "path": "local/vaslui/husi/2011/183",
+   "short": "HCL Huși nr. 183/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 183/2011 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 52,08 mp, situat in intravilanul municipiului Husi, strada Alexandru Giugaru, in fata blocului 9 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 52,08 mp, situat in intravilanu",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea183_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea183_2011.pdf",
+     "sha256": "ac13e76ce3898053f4b3e7ce5ea2b2ff8ae593df63309626c10ed45d07636085"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-184-2011",
+   "path": "local/vaslui/husi/2011/184",
+   "short": "HCL Huși nr. 184/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 184/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea184_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea184_2011.pdf",
+     "sha256": "8e66d7eaeaf661d9884ae0051bbc7e4db27848c6c2b96d7730d50a6ae68dbb91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-185-2011",
+   "path": "local/vaslui/husi/2011/185",
+   "short": "HCL Huși nr. 185/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 185/2011 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 30000 mp, situat in intravilanul municipiului Husi, Zona Recea, Tarla 57, Parcela 4642, nr.cadastral 72199, judetul Vaslui, in vederea realizarii unei zone de agrement Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea avizului de principiu in vederea c",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea185_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea185_2011.pdf",
+     "sha256": "60874b8dbe86d283d4aff5fa2ec7bf66e10436e0d7fb5ff1452d18e5b5f9f9b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-187-2011",
+   "path": "local/vaslui/husi/2011/187",
+   "short": "HCL Huși nr. 187/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 187/2011 privind atribuirea cu titlu gratuit a patru loturi de teren in suprafata de 300 mp fiecare, in zona Cartierului Dric, pentru construirea de locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate pe",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea187_2011.pdf",
+     "sha256": "ec98bf1f00de65276e2a22dbbf85329a533686698b3d3e21cb87eec9d5483dc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-189-2011",
+   "path": "local/vaslui/husi/2011/189",
+   "short": "HCL Huși nr. 189/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 189/2011",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea189_2011.pdf",
+     "sha256": "d87881d1171466e7b3d10559955b59f3490e257bf9d7976f3898ef90c05ab3f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-19-2011",
+   "path": "local/vaslui/husi/2011/19",
+   "short": "HCL Huși nr. 19/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 19/2011 privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 40 mp, situat in intravilanul municipiului Husi, Bd.1 Mai, intre blocurile 27-29 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 40 mp, situat in intravilanul municipiului Hu",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea19_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea19_2011.pdf",
+     "sha256": "28a35b4529ccdb876803cc1819bf9e29f1c4106875b545685375e66c3f1b8bf6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-190-2011",
+   "path": "local/vaslui/husi/2011/190",
+   "short": "HCL Huși nr. 190/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 190/2011 privind aprobarea participarii municipiului Husi, judetul Vaslui, in calitate de membru fondator la constituirea Asociatiei de Dezvoltare Intercomunitara \"Tara de Jos Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-25-august-2011/",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea190_2011.pdf",
+     "sha256": "00bf8eee56ae197d11056bd14604c977276d94231f4b0a6d3f91409490d0de96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-192-2011",
+   "path": "local/vaslui/husi/2011/192",
+   "short": "HCL Huși nr. 192/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 192/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna septembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea192_2011.pdf",
+     "sha256": "80fd139b0059f26c8ea4de13057a5d4785d839dcd68cc88c0292365687934a3e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-193-2011",
+   "path": "local/vaslui/husi/2011/193",
+   "short": "HCL Huși nr. 193/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 193/2011 privind aprobarea Proiectului “Actiuni de marketing si publicitate pentru promovarea produselor turistice specifice zonei Husi,judetul Vaslui” si a cheltuielilor legate de proiect Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea Proiectului “Actiuni de marketing si publicitate pentru promovarea produselor turistice specifice zonei Husi, ju",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea193_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea193_2011.pdf",
+     "sha256": "e6ef240c255ca294ac5eb8f2b657a96f1fb967a324861e1943093657559975d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-194-2011",
+   "path": "local/vaslui/husi/2011/194",
+   "short": "HCL Huși nr. 194/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 194/2011 privind rectificarea bugetului local etapa septembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea194_2011.pdf",
+     "sha256": "a3150e5fb0588af52cbd73b8ab16f0410892121bcdb926d0eafd0dacac91fe9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-195-2011",
+   "path": "local/vaslui/husi/2011/195",
+   "short": "HCL Huși nr. 195/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 195/2011 privind aprobarea bugetului rectificat de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea195_2011.pdf",
+     "sha256": "35e7c4bda5e185180fee7138b86a936168878af3d7d720f2a257490f605eed7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-196-2011",
+   "path": "local/vaslui/husi/2011/196",
+   "short": "HCL Huși nr. 196/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 196/2011 privind modificarea organigramei si a statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea196_2011.pdf",
+     "sha256": "7d0bfdf09a74625a0b14a33c8fb932bc25ae9ddbde96b95bc3b2581ac39733f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-197-2011",
+   "path": "local/vaslui/husi/2011/197",
+   "short": "HCL Huși nr. 197/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 197/2011 privind modificarea organigramei si a statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea197_2011.pdf",
+     "sha256": "d65b121f210619354ae3d796c4bcdc71b535abc8fec79b23cd505ff327f4c054"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-198-2011",
+   "path": "local/vaslui/husi/2011/198",
+   "short": "HCL Huși nr. 198/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 198/2011 privind inlocuirea unui membru in Consiliul de Administratie al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea198_2011.pdf",
+     "sha256": "18241a755565a6aaa47415797a774692d7372d996e463062407951eed4da22c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-199-2011",
+   "path": "local/vaslui/husi/2011/199",
+   "short": "HCL Huși nr. 199/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 199/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea199_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea199_2011.pdf",
+     "sha256": "1551e793f0d7df93ff288b630968c0bf1f159efc6ea58c6854ce5cf193056cef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-2-2011",
+   "path": "local/vaslui/husi/2011/2",
+   "short": "HCL Huși nr. 2/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 2/2011 privind aprobarea preluarii serviciului public de alimentare cu energie termica impreuna cu infrastructura aferenta serviciului, apartinand Municipiului Husi, de la SC \"GOSCOMLOC\" SA HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-07-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea02_2011.pdf",
+     "sha256": "2d91c0c5cccd6a39cfcf942cf35a2962b037d337daafd115ebb423f8880a7507"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-200-2011",
+   "path": "local/vaslui/husi/2011/200",
+   "short": "HCL Huși nr. 200/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 200/2011",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea200_2011.pdf",
+     "sha256": "9e10f8c8fe8f2dd7f992f3859c77af6219eb68bb8ac1ed617e4cc913129d8970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-201-2011",
+   "path": "local/vaslui/husi/2011/201",
+   "short": "HCL Huși nr. 201/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 201/2011",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea201_2011.pdf",
+     "sha256": "a00238d6fa048e9517ae9c04c37367744f6ca34653f272ca05c1ca29e6af51e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-202-2011",
+   "path": "local/vaslui/husi/2011/202",
+   "short": "HCL Huși nr. 202/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 202/2011 privind emiterea unui aviz de principiu pentru desfasurarea in perioada 2011 - 2013 la Colegiul National ”Cuza - Voda” Husi a cursurilor de formare in cadrul proiectului “Formarea continua a profesorilor de Limba Romana in societatea cunoasterii” Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu pentru desfasurarea in",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea202_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea202_2011.pdf",
+     "sha256": "61a4dbdf7276dfd42837b116c17ee9ccf5ef66263556896d507d3940998c455e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-203-2011",
+   "path": "local/vaslui/husi/2011/203",
+   "short": "HCL Huși nr. 203/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 203/2011 privind aprobarea Planului Urbanistic de Detaliu - \"Salon de infrumusetare\", municipiul Husi, strada Meleti Istrati, langa Centrala Termica, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea203_2011.pdf",
+     "sha256": "a86111dcb7a3736ed023ef4f91a020e888383c685afadd6e10a0054fefdc1f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-204-2011",
+   "path": "local/vaslui/husi/2011/204",
+   "short": "HCL Huși nr. 204/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 204/2011 privind aprobarea inchirierii prin licitatie publica a unui teren in suprafata de 15,68 mp pentru extinderea spatiului comercial, situat in intravilanul municipiului Husi, strada 1 Decembrie, vis-a-vis de intrarea la Spital, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea204_2011.pdf",
+     "sha256": "a95d33ce6b5c643e44a8b4f2302b17fb5e80a5bf723538cbda841b1d915fba42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-205-2011",
+   "path": "local/vaslui/husi/2011/205",
+   "short": "HCL Huși nr. 205/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 205/2011",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea205_2011.pdf",
+     "sha256": "04e2d2f4021cd3e75f42ca846ac4611d02592c62772c573a93393f00ba4c506e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-206-2011",
+   "path": "local/vaslui/husi/2011/206",
+   "short": "HCL Huși nr. 206/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 206/2011 privind aprobarea vanzarii terenului in suprafata de 21 mp apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, situat in intravilanul municipiului Husi, in strada Alexandru Giugaru, langa cladirea internat a Colegiului Agricol\"Dimitrie Cante",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea206_2011.pdf",
+     "sha256": "f5e9a462455d4801d98c222d0bd51d9abcfe96899d6c3822c45d812d576da719"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-207-2011",
+   "path": "local/vaslui/husi/2011/207",
+   "short": "HCL Huși nr. 207/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 207/2011 privind aprobarea concesionarii prin licitatie publica a 7 loturi de teren in suprafata de 300 mp fiecare, apartinand domeniului privat al municipiului Husi, situate in municipiul Husi, zona Dric , nr.2, judetul Vaslui, pentru construirea de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea207_2011.pdf",
+     "sha256": "9c828feb458d38e7fb9ffdf1c9f6a2e62a82eb186b24d4e8c592a44b6eb8d79e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-208-2011",
+   "path": "local/vaslui/husi/2011/208",
+   "short": "HCL Huși nr. 208/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 208/2011 privind retragerea dreptului de folosinta asupra unui teren atribuit in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata, in intravilanul municipiului Husi, zona Cartierului Dric",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea208_2011.pdf",
+     "sha256": "d9595572240bb9a1d698439be073c2f2d895ebf1f346e4f0b3afc39781db0191"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-209-2011",
+   "path": "local/vaslui/husi/2011/209",
+   "short": "HCL Huși nr. 209/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 209/2011 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, in zona Cartierului Dric, pentru construirea unei locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, do",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea209_2011.pdf",
+     "sha256": "1c3d1b1803e438cb083663323db76d26a80f6afd10a68e2a596e69117ce5e013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-21-2011",
+   "path": "local/vaslui/husi/2011/21",
+   "short": "HCL Huși nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 21/2011 privind desemnarea reprezentantilor Consiliului Local al municipiului Husi in Comisiile pentru evaluarea si asigurarea calitatii in educatie, infiintate in unitatile de invatamant de stat preuniversitar din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea21_2011.pdf",
+     "sha256": "9c32b19bdaa21ac726f4ea7916bf8e4bb27349dd78cecc75a95a761f974f4fb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-210-2011",
+   "path": "local/vaslui/husi/2011/210",
+   "short": "HCL Huși nr. 210/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 210/2011 privind trecerea unor constructii din domeniul public al municipiului Husi in domeniul privat al acestuia in vederea scoaterii din functiune si demolarii acestora",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea210_2011.pdf",
+     "sha256": "e06be568dde5a507f1a33c4763b1151908bb46bd3c52649304e135fe9023e0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-211-2011",
+   "path": "local/vaslui/husi/2011/211",
+   "short": "HCL Huși nr. 211/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 211/2011 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-septembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea211_2011.pdf",
+     "sha256": "abe7d0578787327559b62404df7343f520be46de880725e2e2a274d080fcbdcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-212-2011",
+   "path": "local/vaslui/husi/2011/212",
+   "short": "HCL Huși nr. 212/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 212/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna octombrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-14-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea212_2011.pdf",
+     "sha256": "c1d92505042b95b5be46d6596776ab0273d380693e97ed7e7860635cf6cda49b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-213-2011",
+   "path": "local/vaslui/husi/2011/213",
+   "short": "HCL Huși nr. 213/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 213/2011 privind modificarea statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-14-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea213_2011.pdf",
+     "sha256": "56d0a5b0019df0b6fc859352b71b0df30f66aa6a9bca384af068c417ef5eed41"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-214-2011",
    "path": "local/vaslui/husi/2011/214",
    "short": "HCL Huși nr. 214/2011",
@@ -14,6 +1649,51 @@
      "units": 3,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea214_2011.pdf",
      "sha256": "5ec5e1e00d136f621554b202a7620a02ebc4d29ff898df0822ea2ca4c22960f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-215-2011",
+   "path": "local/vaslui/husi/2011/215",
+   "short": "HCL Huși nr. 215/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 215/2011 privind aprobarea Proiectului “Actiuni de marketing si publicitate pentru promovarea produselor turistice specifice zonei Husi,judetul Vaslui” si a cheltuielilor legate de proiect in valoare de 947.555,56 lei Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea Proiectului “Actiuni de marketing si publicitate pentru promovarea produselor turis",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea215_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea215_2011.pdf",
+     "sha256": "e65afddea954be102f92129a280920fc57ec01201d0cbcad52532044fa6cf08f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-216-2011",
+   "path": "local/vaslui/husi/2011/216",
+   "short": "HCL Huși nr. 216/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 216/2011 privind aprobarea executiei bugetului local, bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii, bugetului creditelor interne si bugetului fondurilor externe nerambursabile incheiate la data de 30.09.2011",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea216_2011.pdf",
+     "sha256": "b042d7209620485ec2bab3e92442e967cb00685f97b0331bf0477e7926a86133"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-217-2011",
+   "path": "local/vaslui/husi/2011/217",
+   "short": "HCL Huși nr. 217/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 217/2011 privind rectificarea bugetului local cu suma de 210 mii lei reprezentand sume defalcate din TVA pentru echilibrarea bugetelor locale si cote defalcate din impozit pe venit",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea217_2011.pdf",
+     "sha256": "2959107b7705df5f8dc3cdac35bd68b19626d69f0d2818a0d2b7bd40cc5d6552"
     }
    ]
   },
@@ -44,6 +1724,21 @@
      "units": 7,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea219_2011.pdf",
      "sha256": "aef9294a64b91aa4efb60e518ebc3cf4f995b87f659f25dfc73fb1641a4d3de1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-22-2011",
+   "path": "local/vaslui/husi/2011/22",
+   "short": "HCL Huși nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 22/2011 privind infiintarea Politiei Locale a Municipiului Husi, ca institutie publica de interes local cu personalitate juridica, in subordinea Consiliului Local al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea22_2011.pdf",
+     "sha256": "05860a13cc1623ef7b462872725de0b66b774924861cde2c50b456b9b9791542"
     }
    ]
   },
@@ -138,6 +1833,21 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-227-2011",
+   "path": "local/vaslui/husi/2011/227",
+   "short": "HCL Huși nr. 227/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 227/2011 privind aprobarea concesionarii prin licitatie publica a unui teren in suprafata de 30000 mp, apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, situat in intravilanul municipiului Husi, zona Recea, Tarla 57, Parcela 4642, nr.cadastral 7219",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea227_2011.pdf",
+     "sha256": "e9507d6ac464a7a202868c82346c503ac5b91ffa8b01e1edf679f68506fffeff"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-228-2011",
    "path": "local/vaslui/husi/2011/228",
    "short": "HCL Huși nr. 228/2011",
@@ -149,6 +1859,21 @@
      "units": 4,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea228_2011.pdf",
      "sha256": "a57c4dfcc3f7dda4deafc1ee25d76c32f1419d647a7eb2039383ca6c62f0d5b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-229-2011",
+   "path": "local/vaslui/husi/2011/229",
+   "short": "HCL Huși nr. 229/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 229/2011 privind retragerea dreptului de folosinta asupra unor terenuri atribuite in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, republicata in anul 2008, in intravilanul municipiului Husi, zona Cartierului Dr",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea229_2011.pdf",
+     "sha256": "8579af40b6e2961d02c632f4539aa7dc8a18b40c5a78cea5db931622f7333912"
     }
    ]
   },
@@ -168,6 +1893,771 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-230-2011",
+   "path": "local/vaslui/husi/2011/230",
+   "short": "HCL Huși nr. 230/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 230/2011 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 160 mp, in zona Cartierului Dric, pentru construirea unei locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, do",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea230_2011.pdf",
+     "sha256": "807e7dcdfa2d622aeb02bdf1d96bafd1cbe336c095071ca75665574ddb6da47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-231-2011",
+   "path": "local/vaslui/husi/2011/231",
+   "short": "HCL Huși nr. 231/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 231/2011 privind asigurarea din bugetul local a sumei necesare acoperirii diferentei dintre pretul de producere, transport, distributie si furnizare a energiei termice livrate populatiei si pretul local al energiei termice facturate populatiei n Municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-octombrie-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea231_2011.pdf",
+     "sha256": "1fbce50417a011aee4edff747def5e1c0f6265f6aec0e09079096da57526c684"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-232-2011",
+   "path": "local/vaslui/husi/2011/232",
+   "short": "HCL Huși nr. 232/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 232/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna noiembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea232_2011.pdf",
+     "sha256": "e9b51539931d429ac1a0ee123888f5aa9475f61672c67adb71c7fc2f77f9730c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-233-2011",
+   "path": "local/vaslui/husi/2011/233",
+   "short": "HCL Huși nr. 233/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 233/2011 privind rectificarea bugetului local cu suma de 326,47 mii lei reprezentand \"Subventii primite de la bugetul Consiliului Judetean pentru protectia copilului\" si \"Sume defalcate din TVA pentru finantarea cheltuielilor descentralizate la nivelul comunelor, oraselor si municipiilor\"",
+   "url": "https://www.primariahusi.ro/hotarari-16-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea233_2011.pdf",
+     "sha256": "637fd13cea246a4ffc394f8ed12504e8398c8eff491813358eceb09e0bc3542e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-234-2011",
+   "path": "local/vaslui/husi/2011/234",
+   "short": "HCL Huși nr. 234/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 234/2011 privind aprobarea bugetului rectificat de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii - etapa noiembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-16-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea234_2011.pdf",
+     "sha256": "6378d9645a5f2f7eea2931b451d19d6a9f5821638b7ea0d689f5c5abd083dea6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-236-2011",
+   "path": "local/vaslui/husi/2011/236",
+   "short": "HCL Huși nr. 236/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 236/2011 privind modificarea cap.VI art.9 din Contractul nr.11527/02.05.2011 privind delegarea gestiunii serviciilor de amenajarea, intretinerea si infrumusetarea spatiilor verzi din municipiul Husi prin concesiune",
+   "url": "https://www.primariahusi.ro/hotarari-16-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea236_2011.pdf",
+     "sha256": "4041eac2f6c10162d134f39ba040624603f587dedd41f2acd563cbe8b3172cc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-238-2011",
+   "path": "local/vaslui/husi/2011/238",
+   "short": "HCL Huși nr. 238/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 238/2011 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-16-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea238_2011.pdf",
+     "sha256": "4571400c415f0d589eb1bc5f80f68968b77324181973883db305750343c133e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-239-2011",
+   "path": "local/vaslui/husi/2011/239",
+   "short": "HCL Huși nr. 239/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 239/2011 privind modificarea statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea239_2011.pdf",
+     "sha256": "9122d45052f732ad5c1b3f1be587194f5853f5cb6419c77427f7d1bc42648cb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-240-2011",
+   "path": "local/vaslui/husi/2011/240",
+   "short": "HCL Huși nr. 240/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 240/2011 privind modificarea statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea240_2011.pdf",
+     "sha256": "f257ae448d2f3261b1316f66907913488a9854535ff34b106c530e55e52691f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-241-2011",
+   "path": "local/vaslui/husi/2011/241",
+   "short": "HCL Huși nr. 241/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 241/2011 privind aprobarea Planului de Ocupare a Functiilor Publice pentru anul 2012",
+   "url": "https://www.primariahusi.ro/hotarari-24-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea241_2011.pdf",
+     "sha256": "d78f858501113ed0c817d3949b46ad12c66e6a5286c96edd089eb567223f1532"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-242-2011",
+   "path": "local/vaslui/husi/2011/242",
+   "short": "HCL Huși nr. 242/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 242/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea242_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea242_2011.pdf",
+     "sha256": "70b6c9ef2beaa406aba676c3560a9bcdafafbef64a5b84d20914ad44be9dc57b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-243-2011",
+   "path": "local/vaslui/husi/2011/243",
+   "short": "HCL Huși nr. 243/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 243/2011 privind aprobarea Programului de pregatire, dezapezire si combaterea poleiului Programului de masuri in perioada noiembrie 2011 - martie 2012 si constituirea Comandamentului local de iarna",
+   "url": "https://www.primariahusi.ro/hotarari-24-noiembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea243_2011.pdf",
+     "sha256": "f07b85a6a81a8353f3cfae7e48fe4de5b7ebcf7c731bf1a5ac4794ad365c6b11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-245-2011",
+   "path": "local/vaslui/husi/2011/245",
+   "short": "HCL Huși nr. 245/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 245/2011 privind punerea la dispozitia operatorului SC AQUAVAS SA VASLUI cu drept de folosinta a terenurilor pentru constructia / extinderea/ reabilitarea investitiilor aferente proiectului “Reabilitarea sistemului de alimentare cu apa, a sistemului de canalizare si a statiilor de epurare a apelor uzate din municipiile Vaslui, Barlad, Husi si orasul Negresti, judetul Vaslui” - aglomerarea Husi, finantat pr",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea245_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea245_2011.pdf",
+     "sha256": "9f651a9bed4f3ed21134bc6246a4349e99c9dce4214c0f3ff83a0504a4b43619"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-246-2011",
+   "path": "local/vaslui/husi/2011/246",
+   "short": "HCL Huși nr. 246/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 246/2011 privind darea in administrare a terenurilor pe c are vor fi amplasate mijloacele fixe aferente sistemului de alimentare cu apa si de canalizare din municipiul Husi, ce urmeaza a fi realizate prin proiectul “Reabilitarea sistemului de alimentare cu apa, a sistemului de canalizare si a statiilor de epurare a apelor uzate din municipiile Vaslui, Barlad, Husi si orasul Negresti, judetul Vaslui” - aglo",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea246_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea246_2011.pdf",
+     "sha256": "3a42c7b0a7fb448280d9fcad3c5e7bf7a5239d2d0610a34250c40d9a09cf4473"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-247-2011",
+   "path": "local/vaslui/husi/2011/247",
+   "short": "HCL Huși nr. 247/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 247/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna decembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea247_2011.pdf",
+     "sha256": "4ebdcae2876f6b99f158cf24620b9f9b43b874c5ab8d952032d177a6c9040333"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-248-2011",
+   "path": "local/vaslui/husi/2011/248",
+   "short": "HCL Huși nr. 248/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 248/2011 privind modificarea statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea248_2011.pdf",
+     "sha256": "32798dc266bbc8345ef09d10946619353ebc0cb875be9faebc3d61b97aa6a1a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-249-2011",
+   "path": "local/vaslui/husi/2011/249",
+   "short": "HCL Huși nr. 249/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 249/2011 privind aprobarea Notei de fundamentare actualizata in vederea efectuarii transferurilor in suma de 8.887.046,81 lei catre Compania Nationala de Investitii SA in vederea cofinantarii obiectivului de investitii \"Reabilitarea sistemului de alimentare cu apa potabila, a sistemului",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea249_2011.pdf",
+     "sha256": "9c5aef395ede88be53feeb43524d3665b588723efbaa97d03cd7d3647cb5286d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-25-2011",
+   "path": "local/vaslui/husi/2011/25",
+   "short": "HCL Huși nr. 25/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 25/2011 privind integrarea contractului de salubrizare existent în municipiul Husi în proiectul „Sistem integrat de management al deșeurilor solide în județul Vaslui” Consiliul local al municipiului Husi, județul Vaslui; Având in vedere expunerea de motive privind integrarea contractului de salubrizare existent în municipiul Husi în proiectul „Sistem integrat de management al deșeurilor solide în județul",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea25_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea25_2011.pdf",
+     "sha256": "e1413f37229533844b7fb45ca01d17f9930030d8f10a07952e5340a8321bcac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-250-2011",
+   "path": "local/vaslui/husi/2011/250",
+   "short": "HCL Huși nr. 250/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 250/2011 privind rectificarea bugetului local - etapa decembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea250_2011.pdf",
+     "sha256": "67860555a12522647fa9c021b3d406de9d14a092c7d2380529a4937fea09e535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-251-2011",
+   "path": "local/vaslui/husi/2011/251",
+   "short": "HCL Huși nr. 251/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 251/2011 privind rectificarea bugetului de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii - etapa decembrie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea251_2011.pdf",
+     "sha256": "69e8151cb9cd6227a8c416ab748ff296200ed9b2c48ed86f28fd3c2386be486c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-252-2011",
+   "path": "local/vaslui/husi/2011/252",
+   "short": "HCL Huși nr. 252/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 252/2011 privind rectificarea bugetului Proiectului “ADMINnet – Către o dezvoltare armonioasă a zonei de frontieră din România-Republica Moldova” Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind rectificarea bugetului Proiectului “ADMINnet – Către o dezvoltare armonioasă a zonei de frontieră din România-Republica Moldova; In conformitate cu prevederile Legii",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea252_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea252_2011.pdf",
+     "sha256": "aa1049a22d2d645fec3365ca6a037c168b2a276b1d470ac62428f9ce90436a40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-253-2011",
+   "path": "local/vaslui/husi/2011/253",
+   "short": "HCL Huși nr. 253/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 253/2011 privind aprobarea acordului de infratire intre municipiul Husi, judetul Vaslui din Romania si orasul Singera, municipiul Chisinau din Republica Moldova",
+   "url": "https://www.primariahusi.ro/hotarari-20-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea253_2011.pdf",
+     "sha256": "e3806a2d401f3953d152261edf8c368fbcf9195cf61205336aa555a8a1f0ba0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-254-2011",
+   "path": "local/vaslui/husi/2011/254",
+   "short": "HCL Huși nr. 254/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 254/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea254_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea254_2011.pdf",
+     "sha256": "2c9ba1f46f79ddf4940048336dbf996119e61d0fe329cc90256818ca376cc5bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-255-2011",
+   "path": "local/vaslui/husi/2011/255",
+   "short": "HCL Huși nr. 255/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 255/2011 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta a Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea255_2011.pdf",
+     "sha256": "ec905701568c5fa36a986193a768a0012fec5cb1267d4947405591416077474e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-256-2011",
+   "path": "local/vaslui/husi/2011/256",
+   "short": "HCL Huși nr. 256/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 256/2011 privind aprobarea executiei bugetului local, bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii, bugetului creditelor interne si bugetului fondurilor externe nerambursabile incheiate la data de 20.12.2011",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea256_2011.pdf",
+     "sha256": "00fd79fdd902978ce38324aff752eedeea87acfef0695f41fbe4ac32e8dd554b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-257-2011",
+   "path": "local/vaslui/husi/2011/257",
+   "short": "HCL Huși nr. 257/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 257/2011",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea257_2011.pdf",
+     "sha256": "ec103b8c59342d616514a4bfd4fa49b60d03a8a500d8419694951b254d8d8f04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-258-2011",
+   "path": "local/vaslui/husi/2011/258",
+   "short": "HCL Huși nr. 258/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 258/2011 privind aprobarea concesionarii prin licitatie publica a 4 loturi de teren in suprafata de 300 mp fiecare, apartinand domeniului privat al municipiului Husi, situate in municipiul Husi, zona Dric, nr.2, judetul Vaslui, pentru construirea de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea258_2011.pdf",
+     "sha256": "0259ff9c7cc884741e9eb2e98c2ddc282d0c2a926a6533f4a747776c7ba5233b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-259-2011",
+   "path": "local/vaslui/husi/2011/259",
+   "short": "HCL Huși nr. 259/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 259/2011 privind aprobarea trecerii terenului in suprafata de 29859 mp, cu destinatie reabilitare si inchidere finala depozit deseuri, proprietate publica a municipiului Husi, din administrarea Consiliului Local al Municipiului Husi in administrarea Consiliului Judetean Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea259_2011.pdf",
+     "sha256": "03be5b889e62e798b4202f38fbe8d1ae08f5d96ced3eaef19018f4cdba7d0d08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-26-2011",
+   "path": "local/vaslui/husi/2011/26",
+   "short": "HCL Huși nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 26/2011 privind modificarea organigramei si a statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea26_2011.pdf",
+     "sha256": "546f0b0dc063b444c62e52f0888f04073f39ae4df3fcf307e150704b6091bf87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-260-2011",
+   "path": "local/vaslui/husi/2011/260",
+   "short": "HCL Huși nr. 260/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 260/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea260_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea260_2011.pdf",
+     "sha256": "f8d89dc41f3586a39e7c44e68468bbdb6be568ef6bce6260e58389927691c259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-261-2011",
+   "path": "local/vaslui/husi/2011/261",
+   "short": "HCL Huși nr. 261/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 261/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea261_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea261_2011.pdf",
+     "sha256": "cce5942d09b6029599b3cfc57573ce30de4008514c7f4716a0ebbf3b91aba811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-262-2011",
+   "path": "local/vaslui/husi/2011/262",
+   "short": "HCL Huși nr. 262/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 262/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea262_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea262_2011.pdf",
+     "sha256": "22a56f726ce856c9f93739379e8d987cb3ad1eb01e39653e9292755a6934eb20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-263-2011",
+   "path": "local/vaslui/husi/2011/263",
+   "short": "HCL Huși nr. 263/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 263/2011 privind aprobarea inchirierii prin licitatie publica a unui spatiu comercial apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situat in Piata Victoriei, Hala Agroalimentara",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea263_2011.pdf",
+     "sha256": "481393698ede3a9161f0787bf844a371d82b2026f171675eaca337dfde540cb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-264-2011",
+   "path": "local/vaslui/husi/2011/264",
+   "short": "HCL Huși nr. 264/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 264/2011 privind retragerea dreptului de folosinta asupra unui teren atribuit in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata, in intravilanul municipiului Husi,zona Cartierului Dric",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea264_2011.pdf",
+     "sha256": "887e295dc6867c1f641be272ff3d53f57d69febcdd762afda1d620a4bc5e3e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-265-2011",
+   "path": "local/vaslui/husi/2011/265",
+   "short": "HCL Huși nr. 265/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 265/2011 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, strada Barbu Lautaru, lot nr.7, pentru construirea unei locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru co",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea265_2011.pdf",
+     "sha256": "f0d7150d8afc74a27f1d8573d75e56455b7f0b9cbd0ed4fcde4c7b3fa56d81bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-266-2011",
+   "path": "local/vaslui/husi/2011/266",
+   "short": "HCL Huși nr. 266/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 266/2011 privind trecerea din domeniul public in domeniul privat al Municipiului Husi a unor bunuri reprezentand retele de apa si echipamente tehnice din dotarea statiei de tratare a apei si a statiei de epurare, in vederea dezafectarii, casarii si a valorificarii acestora",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea266_2011.pdf",
+     "sha256": "6fd553f2830056f5708439385b9d15cfed56d24d662d6328c481f940a3a8df5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-267-2011",
+   "path": "local/vaslui/husi/2011/267",
+   "short": "HCL Huși nr. 267/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 267/2011 privind preluarea fara plata de catre Consiliul local al municipiului Husi, de la Inspectoratul judetean al Politiei de frontiera Vaslui, a unui autoturism marca ARO 246 TDX",
+   "url": "https://www.primariahusi.ro/hotarari-28-decembrie-2011/",
+   "versions": [
+    {
+     "from": "2011-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea267_2011.pdf",
+     "sha256": "90caf1c181eca0f4bad72da2a7832f4a1887c24de9f5fe91f70f6736cab1582d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-27-2011",
+   "path": "local/vaslui/husi/2011/27",
+   "short": "HCL Huși nr. 27/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 27/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna februarie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-11-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea27_2011.pdf",
+     "sha256": "347fb82acc03fc9dc984a678bb76c1df24ed706ba3e22cfa37806c2b9f4357e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-28-2011",
+   "path": "local/vaslui/husi/2011/28",
+   "short": "HCL Huși nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 28/2011 privind aprobarea valorii unor bunuri ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-11-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea28_2011.pdf",
+     "sha256": "a12ad5d4b3ed17091f7d0cd3ba59d23681bc6ed7c292dec3fdd4cb1050e6d865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-3-2011",
+   "path": "local/vaslui/husi/2011/3",
+   "short": "HCL Huși nr. 3/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 3/2011 privind aprobarea predarii infrastructurii aferenta serviciului public de alimentare cu energie termica apartinand Municipiului Husi, catre operatorul local SC \"URBANCALOR\" SRL HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-07-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea03_2011.pdf",
+     "sha256": "a3abde010f8bcd5b8775a70e43a7946820686d66d225e528f42a2fe55e850873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-30-2011",
+   "path": "local/vaslui/husi/2011/30",
+   "short": "HCL Huși nr. 30/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 30/2011 privind aprobarea schimbarii destinatiei a doua imobile apartinand Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-11-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea30_2011.pdf",
+     "sha256": "c4df290d9a46eda766755ef7eee1fc7235ad74fb783b462327081c523a2a5cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2011",
+   "path": "local/vaslui/husi/2011/31",
+   "short": "HCL Huși nr. 31/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2011 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-11-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea31_2011.pdf",
+     "sha256": "2286a261ddce295f9b4815936da813f557b36556049eda9288f1c32be5926234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-33-2011",
+   "path": "local/vaslui/husi/2011/33",
+   "short": "HCL Huși nr. 33/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 33/2011 privind aprobarea bugetului de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-11-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea33_2011.pdf",
+     "sha256": "7b240755457bf2d76f8d8ba4f15c77d470e6460b69b044bfe2fb1c490c5d0245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-34-2011",
+   "path": "local/vaslui/husi/2011/34",
+   "short": "HCL Huși nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 34/2011 cu privire la emiterea unui aviz favorabil privind constituirea comisiilor de concurs pentru ocuparea posturilor specifice comitetului director la Spitalul Municipal “Dimitrie Castroian” Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive cu privire la emiterea unui aviz favorabil privind constituirea comisiilor de concurs pentru ocuparea posturilor specifice",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea34_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea34_2011.pdf",
+     "sha256": "ba45e0562573615edcff9a3fcb2bf2debe651217e56df0a4b554339f2fee15ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-35-2011",
+   "path": "local/vaslui/husi/2011/35",
+   "short": "HCL Huși nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea35_2011.pdf",
+     "sha256": "2cf4ddaf84c564045bfef9e8b4d130988a381274a0f1cbb3dd358fa0f0bbd976"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-36-2011",
+   "path": "local/vaslui/husi/2011/36",
+   "short": "HCL Huși nr. 36/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 36/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea36_2011.pdf",
+     "sha256": "bdd1239468a916bbdebb99958f231f93e4594b51045c6a8d6d24409d77d1bf97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-37-2011",
+   "path": "local/vaslui/husi/2011/37",
+   "short": "HCL Huși nr. 37/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2011 privind stabilirea numarului de veterani si vaduve de razboi, persoane cu handicap si asistenti personali ai acestora care au dreptul de a calatori gratuit pe mijloacele de transport in comun, pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea37_2011.pdf",
+     "sha256": "a762a8c79e387d03423b68fcec30138d04dc5c9f5476a619d9745b5ed1404ce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-39-2011",
+   "path": "local/vaslui/husi/2011/39",
+   "short": "HCL Huși nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 39/2011 privind stabilirea veniturilor potentiale ce pot fi valorificate din anumite categorii de bunuri de catre beneficiarii de ajutor social",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea39_2011.pdf",
+     "sha256": "aafc29d49c36367974d33db28c1f090331a899682c4b6c1b49584f18ce0e4574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-4-2011",
+   "path": "local/vaslui/husi/2011/4",
+   "short": "HCL Huși nr. 4/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 4/2011 privind aprobarea predarii infrastructurii aferenta serviciului de alimentare cu apa si canalizare, apartinand municipiului Husi, catre S.C \"AQUAVAS\" S.A VASLUI",
+   "url": "https://www.primariahusi.ro/hotarari-07-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea04_2011.pdf",
+     "sha256": "f65ba4b31425b31ed831f1e660c4ec8df02529e8ecae71d6f886a2b72bf922e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-40-2011",
+   "path": "local/vaslui/husi/2011/40",
+   "short": "HCL Huși nr. 40/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 40/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea40_2011.pdf",
+     "sha256": "53ab3a0c62b916b3e26bdc59ceab0340edcaf17195a0a533bdf9324df7b8ef89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-41-2011",
+   "path": "local/vaslui/husi/2011/41",
+   "short": "HCL Huși nr. 41/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 41/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea41_2011.pdf",
+     "sha256": "fc9ead5a2cb4956e807f3b3dd28b28c6fe337b15cf07bdded2fae86dd433509a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-43-2011",
    "path": "local/vaslui/husi/2011/43",
    "short": "HCL Huși nr. 43/2011",
@@ -183,6 +2673,411 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-44-2011",
+   "path": "local/vaslui/husi/2011/44",
+   "short": "HCL Huși nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 44/2011 privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 12 mp apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situat in Piata Victoriei Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea concesionarii unui teren",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea44_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea44_2011.pdf",
+     "sha256": "69061ca0c63cdce7e22499da2d3ae90d0ee1630a00198cb1ce5173a9a860199f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-45-2011",
+   "path": "local/vaslui/husi/2011/45",
+   "short": "HCL Huși nr. 45/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 45/2011 privind acordarea unui aviz favorabil in vederea efectuarii unui schimb de terenuri intre Municipiul Husi si SC “Electrosanit” SRL Husi Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind acordarea unui aviz favorabil in vederea efectuarii unui schimb de terenuri intre Municipiul Husi si SC “Electrosanit” SRL Husi; In conformitate cu prevederile Legii",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea45_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea45_2011.pdf",
+     "sha256": "a74fbe8d8a8706c6c213e45dea14dc43e694b95e513bd8197a175130cbbb8100"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-46-2011",
+   "path": "local/vaslui/husi/2011/46",
+   "short": "HCL Huși nr. 46/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 46/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea46_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea46_2011.pdf",
+     "sha256": "f961e3ae3d11ba779a6c42072de0b206ba2acac292ffb88b0d399df0a58503d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-47-2011",
+   "path": "local/vaslui/husi/2011/47",
+   "short": "HCL Huși nr. 47/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 47/2011 privind aprobarea concesionarii prin licitatie publica a doua loturi de teren, in suprafata de 20 mp fiecare, pentru construirea a doua garaje, apartinand domeniului privat al municipiului Husi, aflate in proprietatea municipiului Husi, situate in municipiul Husi, strada Luceafaru",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea47_2011.pdf",
+     "sha256": "8787b2d14dafd05d6b957bcdeda08c4160556bf4b18b74578b5ceafd8bd241ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-48-2011",
+   "path": "local/vaslui/husi/2011/48",
+   "short": "HCL Huși nr. 48/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 48/2011 privind aprobarea inchirierii prin licitatie publica a unui spatiu comercial apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situate in Piata Victoriei, Hala Agroalimentara",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea48_2011.pdf",
+     "sha256": "58ed715264d33793d6b7e536bca795c7c120a3215184e1c4bab11a219410e6cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-49-2011",
+   "path": "local/vaslui/husi/2011/49",
+   "short": "HCL Huși nr. 49/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 49/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea49_2011.pdf",
+     "sha256": "0e8e85eca83280c78b3d5c977dc5d3a0a43a33402dcc166f96a5b3cb763921ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-5-2011",
+   "path": "local/vaslui/husi/2011/5",
+   "short": "HCL Huși nr. 5/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 5/2011 privind desemnarea reprezentantului Autoritatilor Administratiei Publice Locale ale Municipiului Husi in Adunarea Generala a Asociatilor la SC URBANCALOR SRL si aprobarea contractului de mandat al acestuia",
+   "url": "https://www.primariahusi.ro/hotarari-07-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea05_2011.pdf",
+     "sha256": "afbc70781c6a27105cd3141fc82bcfd040621f89370ca640070d3823cd15c999"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-50-2011",
+   "path": "local/vaslui/husi/2011/50",
+   "short": "HCL Huși nr. 50/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 50/2011 privind aprobarea valorilor de inventar a bunurilor imobile ce apartin domeniului privat al municipiului Husi si care au fost evaluate in baza Dispozitiei nr.2146 din 15.10.2010 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea valorilor de inventar a bunurilor imobile ce apartin domeniului privat al municipiului Husi si care au fost evalua",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea50_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea50_2011.pdf",
+     "sha256": "89aea61bd3ba8ed0a9488b2c70918e300c272818321e2ca22008b488e530a77d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-51-2011",
+   "path": "local/vaslui/husi/2011/51",
+   "short": "HCL Huși nr. 51/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 51/2011 privind aprobarea valorilor de inventar a bunurilor imobile ce apartin domeniului public al Municipiului Husi si care au fost evaluate si reevaluate in baza Dispozitiei nr.2146 din 15.10.2010 Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind aprobarea valorilor de inventar a bunurilor imobile ce apartin domeniului public al Municipiului Husi si care",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea51_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea51_2011.pdf",
+     "sha256": "3bdef1ffd05d5d0c2c07fb8ea289d7b6b4f0855bc4f5582456f4235215568554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-52-2011",
+   "path": "local/vaslui/husi/2011/52",
+   "short": "HCL Huși nr. 52/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 52/2011 privind revocarea dreptului Spitalului Municipal \"Dimitrie Castroian\" Husi de a administra unele bunuri imobile",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea52_2011.pdf",
+     "sha256": "a4827c0904573b50d24ee1827642bd8e71137de7cad3e5b5c673624a21bb843a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-53-2011",
+   "path": "local/vaslui/husi/2011/53",
+   "short": "HCL Huși nr. 53/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 53/2011 privind retragerea dreptului de folosinta asupra unor terenuri atribuite in conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, modificata si completata, in intravilanul municipiului Husi,zona Cartierului Dric",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea53_2011.pdf",
+     "sha256": "5f48ee75c45af51a532bf70c167c0557d4644b188ba1384bd85d3f9b4ad80244"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-54-2011",
+   "path": "local/vaslui/husi/2011/54",
+   "short": "HCL Huși nr. 54/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 54/2011 privind atribuirea cu titlu gratuit a trei loturi de teren in suprafata de 300 mp fiecare, in zona Cartierului Dric, pentru construirea de locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate perso",
+   "url": "https://www.primariahusi.ro/hotarari-24-februarie-2011/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea54_2011.pdf",
+     "sha256": "0a550ae7aefd25543870405e5e48a69a17d5db5182b2cfb08706efa4dcc519c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-56-2011",
+   "path": "local/vaslui/husi/2011/56",
+   "short": "HCL Huși nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 56/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna martie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-10-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea56_2011.pdf",
+     "sha256": "beb559eb0ec0f8ed81357181a408fc74dae68c0d1e4d1028bad0e12a91badbd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-57-2011",
+   "path": "local/vaslui/husi/2011/57",
+   "short": "HCL Huși nr. 57/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 57/2011 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitie \"Reabilitare si modernizare strazi in municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-10-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-10",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea57_2011.pdf",
+     "sha256": "d655b975a9782b511c4391b58ac6d9c667d092e71a655bb81684c4dbda671e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-59-2011",
+   "path": "local/vaslui/husi/2011/59",
+   "short": "HCL Huși nr. 59/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 59/2011 privind desemnarea reprezentantului Autoritatilor Administratiei Publice Locale ale Municipiului Husi in Adunarea Generala a Asociatilor la SC ECOSALUBRIZARE PREST SRL HUSI si aprobarea contractului de mandat al acestuia",
+   "url": "https://www.primariahusi.ro/hotarari-18-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea59_2011.pdf",
+     "sha256": "8839bafd8850c2c7210320b66b63eca3af3c851b8afafc6e1ad559e48cef5176"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-60-2011",
+   "path": "local/vaslui/husi/2011/60",
+   "short": "HCL Huși nr. 60/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 60/2011 privind mandatarea reprezentantului autoritatilor administratiei publice locale ale Municipiului Husi in Adunarea Generala a Asociatilor la S.C.ECOSALUBRIZARE PREST S.R.L",
+   "url": "https://www.primariahusi.ro/hotarari-18-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea60_2011.pdf",
+     "sha256": "fa937056a7149d89fd053c891b82866af6c90c8513779d1ef3ea3aa59e0aa94f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-61-2011",
+   "path": "local/vaslui/husi/2011/61",
+   "short": "HCL Huși nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 61/2011 privind modificarea organigramei si a statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-18-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea61_2011.pdf",
+     "sha256": "baf38c5adbde43270976fb6c9816b4eb421a89b6a27cf1148cf906fa7a85250c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-62-2011",
+   "path": "local/vaslui/husi/2011/62",
+   "short": "HCL Huși nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 62/2011 privind mandatarea reprezentantului administratiei publice locale in Adunarea Generala a Actionarilor la SC GOSCOMLOC SA HUSI pentru a aproba vanzarea unor active ale societatii",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea62_2011.pdf",
+     "sha256": "e9547541a51620fb2bced6c306c62b04fe1293c1b9b05c59a0080059c5f667eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-63-2011",
+   "path": "local/vaslui/husi/2011/63",
+   "short": "HCL Huși nr. 63/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2011 privind aprobarea contului anual de executie pe anul 2010 a bugetului local, bugetului institutiilor publice si activitatilor finantate integral din venituri proprii, bugetului institutiilor publice si activitatilor finantate din venituri proprii si subventii de la bugetul local,bu",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea63_2011.pdf",
+     "sha256": "01e42d1acb081fdf901854d7af7d80b0b3464aa3214e9c4e4af7abbb37ea8a98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-64-2011",
+   "path": "local/vaslui/husi/2011/64",
+   "short": "HCL Huși nr. 64/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 64/2011 privind rectificarea bugetului local cu suma de 51,82 mii lei reprezentand \"Subventii primite de la bugetul Consiliului Judetean pentru protectia copilului\"",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea64_2011.pdf",
+     "sha256": "54f300bf1f3676ea0378841986ebf5d2da6b577335a31b05c6138a46bf9d3a8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-65-2011",
+   "path": "local/vaslui/husi/2011/65",
+   "short": "HCL Huși nr. 65/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2011 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea65_2011.pdf",
+     "sha256": "65e2e0cf2ffe15f20bdf3bab97f3b894b52cec9b553583af0f15bff7ad81f63f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-66-2011",
+   "path": "local/vaslui/husi/2011/66",
+   "short": "HCL Huși nr. 66/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 66/2011 privind aprobarea bugetului imprumuturilor interne pe anul 2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea66_2011.pdf",
+     "sha256": "139c15bb599c93ca7e3fb663268256c41d8919b917d43f4fd17baaf6de24fd44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-67-2011",
+   "path": "local/vaslui/husi/2011/67",
+   "short": "HCL Huși nr. 67/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 67/2011 privind modificarea organigramei si a statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea67_2011.pdf",
+     "sha256": "399447a12b6c43d4258a537b89bb2c1d93aa2271b3c101913697b35d12387de4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-68-2011",
+   "path": "local/vaslui/husi/2011/68",
+   "short": "HCL Huși nr. 68/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 68/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea68_2011.pdf",
+     "sha256": "0103585cb6bad20d8d777951278c212172d05e9d27cbc0ecc036d514cc51de28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-69-2011",
+   "path": "local/vaslui/husi/2011/69",
+   "short": "HCL Huși nr. 69/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 69/2011 privind aprobarea contractului pentru acordarea de servicii sociale specializate oferite de Asociatia Centrul Diecezan Caritas Iasi, punct de lucru in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea69_2011.pdf",
+     "sha256": "d9e0d0cf10777c2c9b74935e98724b448c86af03e795edee51ff9dbba57bdbe9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-70-2011",
+   "path": "local/vaslui/husi/2011/70",
+   "short": "HCL Huși nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 70/2011 privind alocarea de fonduri in anul 2011, din bugetul local, pentru serviciile sociale specializate oferite de Star of Hope Romania cu sediul in municipiul Iasi, punct de lucru in municipiul Husi, str. B-dul 1 Mai, bl. 25,Sc. D, parter",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea70_2011.pdf",
+     "sha256": "c5b60896a5617a8cb7cb3f218c680f371390ddcef421c5812b8bb8365c930bd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2011",
+   "path": "local/vaslui/husi/2011/71",
+   "short": "HCL Huși nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2011 privind aprobarea contractului pentru acordarea de servicii sociale specializate oferite de Star of Hope Romania cu sediul in municipiul Iasi, punct de lucru in municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea71_2011.pdf",
+     "sha256": "5452058056391f81828a3ef20b9c8f76726bce1d452affa85c7fc3029753d50d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-72-2011",
    "path": "local/vaslui/husi/2011/72",
    "short": "HCL Huși nr. 72/2011",
@@ -194,6 +3089,426 @@
      "units": 3,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea72_2011.pdf",
      "sha256": "b31e3244baf645231e02571814dfcabe578fa29435d91b83867ee5f36483715f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-73-2011",
+   "path": "local/vaslui/husi/2011/73",
+   "short": "HCL Huși nr. 73/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 73/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea73_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea73_2011.pdf",
+     "sha256": "4e6faf387c90303898b1d5743816cda2478b32b68eecd46e5fd8aedad26df3c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-74-2011",
+   "path": "local/vaslui/husi/2011/74",
+   "short": "HCL Huși nr. 74/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 74/2011 privind aprobarea inchirierii prin licitatie publica a unui spatiu comercial apartinand domeniului public al municipiului Husi, aflat in administrarea Centrului Public de Desfacere Husi, situate in Piata Victoriei, Hala Agroalimentara",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea74_2011.pdf",
+     "sha256": "7293034f78f9c85af1b239c917a381291d19b0fc9d99c225380b9a4b0cc3293f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-75-2011",
+   "path": "local/vaslui/husi/2011/75",
+   "short": "HCL Huși nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 75/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea75_2011.pdf",
+     "sha256": "33fa4c5392f5a0986696366ab29e872f1cc1432fd01a889035c8391dfbc84214"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-76-2011",
+   "path": "local/vaslui/husi/2011/76",
+   "short": "HCL Huși nr. 76/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 76/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea76_2011.pdf",
+     "sha256": "57e79c69de446a484ee8da3c57d139be190665a247b2f40b2002fadd2b53e988"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-77-2011",
+   "path": "local/vaslui/husi/2011/77",
+   "short": "HCL Huși nr. 77/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 77/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea77_2011.pdf",
+     "sha256": "62cad75ebad403e2c03b5cb52b5730359cfdd8990c0e8fe7108d8ad3fe656f18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-79-2011",
+   "path": "local/vaslui/husi/2011/79",
+   "short": "HCL Huși nr. 79/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 79/2011 privind modificarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea79_2011.pdf",
+     "sha256": "a8b4d247ab5ad281eb42fc6fd9ec531ed9531d0a41256b07ea9af3e59de6b4a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-8-2011",
+   "path": "local/vaslui/husi/2011/8",
+   "short": "HCL Huși nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 8/2011 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitie \"Reabilitare si modernizare strazi in municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-14-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea08_2011.pdf",
+     "sha256": "44fc592b547bcd64c209ed9f2e296d94175a9bb9de94b140ef2a94c6284aa636"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-80-2011",
+   "path": "local/vaslui/husi/2011/80",
+   "short": "HCL Huși nr. 80/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 80/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea80_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea80_2011.pdf",
+     "sha256": "e35519ca0ba66c03374060f7eead8465871aabfd77b73780ef78739327a745e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-81-2011",
+   "path": "local/vaslui/husi/2011/81",
+   "short": "HCL Huși nr. 81/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 81/2011 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, in zona Cartierului Dric, pentru construirea unei locuinte proprietate personala conform Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala, dom",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea81_2011.pdf",
+     "sha256": "630e216c5401efa4ee0c8e56c28e466e267178acab289737c807480a27cd6f98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-82-2011",
+   "path": "local/vaslui/husi/2011/82",
+   "short": "HCL Huși nr. 82/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 82/2011 privind modificarea organigramei si a statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea82_2011.pdf",
+     "sha256": "dcc1fb7f74bed0fc3c5a90549318f5da2d2d8136d03e47ef660d764877f47989"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-83-2011",
+   "path": "local/vaslui/husi/2011/83",
+   "short": "HCL Huși nr. 83/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 83/2011 privind modificarea statului de functii al Spitalului Municipal \"Dimitrie Castroian\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea83_2011.pdf",
+     "sha256": "06e74e3c8b1d15af223e72012b75231feeb8c7a101795439801a69dc8df52223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-84-2011",
+   "path": "local/vaslui/husi/2011/84",
+   "short": "HCL Huși nr. 84/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 84/2011 privind emiterea unui aviz de principiu in vederea vanzarii terenului in suprafata de 20.000 mp situat in extravilanul municipiului Husi, T.33, P.3577, apatinand domeniului privat al municipiului Husi, proprietatea Municipiului Husi Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea vanzarii terenului in supr",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea84_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea84_2011.pdf",
+     "sha256": "37023cfc9a1c3824c4e75c3431d0835f06fd58c8085cbeaf4317fde047f30fc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-85-2011",
+   "path": "local/vaslui/husi/2011/85",
+   "short": "HCL Huși nr. 85/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 85/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea85_2011.pdf",
+     "sha256": "2daaea0a8457293dac8e7d93cef88c1a020e50dad292b0577811e6ef0685e0ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-86-2011",
+   "path": "local/vaslui/husi/2011/86",
+   "short": "HCL Huși nr. 86/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 86/2011",
+   "url": "https://www.primariahusi.ro/hotarari-24-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea86_2011.pdf",
+     "sha256": "fdfd8471d393ddc1df56ffb05e0f920116956975709e4dcf7ab8b762eec13785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-87-2011",
+   "path": "local/vaslui/husi/2011/87",
+   "short": "HCL Huși nr. 87/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 87/2011 privind mandatarea reprezentantului autoritatilor administratiei publice locale ale Municipiului Husi in Adunarea Generala a Actionarilor la SC GOSCOMLOC SA HUSI sa aprobe formularea cererii in vederea deschiderii procedurii de insolventa",
+   "url": "https://www.primariahusi.ro/hotarari-30-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea87_2011.pdf",
+     "sha256": "892a92cbfcec3a01d2fd5ab6db8efe5bdf25b4ab19a1d3a8796223c65fe632ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-88-2011",
+   "path": "local/vaslui/husi/2011/88",
+   "short": "HCL Huși nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 88/2011 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investitie \"Reabilitare si modernizare strazi in municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-30-martie-2011/",
+   "versions": [
+    {
+     "from": "2011-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea88_2011.pdf",
+     "sha256": "5af5a0d6b5798ab975fdd282e9667dcefea69027ce0014504e5298c9b6572513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-89-2011",
+   "path": "local/vaslui/husi/2011/89",
+   "short": "HCL Huși nr. 89/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 89/2011 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna aprilie 2011",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea89_2011.pdf",
+     "sha256": "2f8a217bab18d1e9efed90faf5b8ed6245c199f99990e19760b9f3169d34a649"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-9-2011",
+   "path": "local/vaslui/husi/2011/9",
+   "short": "HCL Huși nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 9/2011",
+   "url": "https://www.primariahusi.ro/hotarari-14-ianuarie-2011/",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea09_2011.pdf",
+     "sha256": "fc5532cb155e8f728c13d8818f8fde5b8629401cbc0fece9504b4ffc6558d543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-90-2011",
+   "path": "local/vaslui/husi/2011/90",
+   "short": "HCL Huși nr. 90/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 90/2011 privind aprobarea vanzarii prin licitatie publica a unui teren in suprafata de 10.000 mp, in punctul \"Statia de asfalt\", Tarlaua 33, Parcela 3577, apartinand domeniului privat al municipiului Husi, proprietatea municipiului Husi, situat in extravilanul municipiului Husi, judetul V",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea90_2011.pdf",
+     "sha256": "06b3ba3891936bec23983c7ceea50957575e8ad6dbee632fc59c87292ef3c8fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-91-2011",
+   "path": "local/vaslui/husi/2011/91",
+   "short": "HCL Huși nr. 91/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 91/2011 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie \"Amenajare trotuare strada Castroian din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea91_2011.pdf",
+     "sha256": "e4e36169a17f7c994d60f86fec4adddacd168d3d4bf5e4ed2fd273f71ab063e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-92-2011",
+   "path": "local/vaslui/husi/2011/92",
+   "short": "HCL Huși nr. 92/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 92/2011 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie \"Amenajare trotuare strada Calarasi din municipiul Husi\"",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea92_2011.pdf",
+     "sha256": "c7a6e2e78baecb97f8039955af9f72b8b89994cede0c0289ba8bcf43508effad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2011",
+   "path": "local/vaslui/husi/2011/93",
+   "short": "HCL Huși nr. 93/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2011 privind rectificarea bugetului local pe anul 2011 cu suma de 417 mii lei reprezentand sume FEN postaderare in contul platilor efectuate in anul curent",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea93_2011.pdf",
+     "sha256": "ccee5221bc4a4724f4fca79de372c73f1ca6f784b2a4eb2f45fbd80f3fcf045c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-94-2011",
+   "path": "local/vaslui/husi/2011/94",
+   "short": "HCL Huși nr. 94/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 94/2011 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2011 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea94_2011.pdf",
+     "sha256": "fc0e7eb7b56d6f311b0b67d9e052790a921d95f9167b5b057e940f81aee03418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-95-2011",
+   "path": "local/vaslui/husi/2011/95",
+   "short": "HCL Huși nr. 95/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 95/2011",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea95_2011.pdf",
+     "sha256": "1a2cc7a0d72a0809d638bc5fde3ff983fd423ea70117d5aae1629b43ee333f0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-96-2011",
+   "path": "local/vaslui/husi/2011/96",
+   "short": "HCL Huși nr. 96/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 96/2011 privind aprobarea predarii in administrare catre Ministerul Dezvoltarii Regionale si Turismului a strazilor aferente realizarii obiectivului de investitie \"Reabilitare si modernizare strazi din municipiul Husi\" prin Programul National de Dezvoltare a Infrastructurii, sursa de fina",
+   "url": "https://www.primariahusi.ro/hotarari-21-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea96_2011.pdf",
+     "sha256": "c6933c7d99c5f0588f9f8bf728e39f262c8344191f7e6e3134f88a222711f46d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-97-2011",
+   "path": "local/vaslui/husi/2011/97",
+   "short": "HCL Huși nr. 97/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 97/2011 privind aprobarea atribuirii Contractului de delegare a gestiunii prin concesionare a serviciului de producere, distributie si furnizare a energiei termice din Municipiul Husi, ofertantului desemnat castigator in urma procedurii de licitatie publica deschisa",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2011/",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea97_2011.pdf",
+     "sha256": "2b3cfb15404ab2d6598d8131f2c678bf9911145b3973973761bdfcfa3eaf8a8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2011",
+   "path": "local/vaslui/husi/2011/98",
+   "short": "HCL Huși nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2011",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea98_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea98_2011.pdf",
+     "sha256": "48046ddfccfcdc7746105a0c4a9fb93a2df0584f3e9d52d2a942637bddc3c4f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-99-2011",
+   "path": "local/vaslui/husi/2011/99",
+   "short": "HCL Huși nr. 99/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 99/2011 privind emiterea avizului de principiu in vederea concesionarii unui teren in suprafata de 20 mp apartinand domeniului privat al municipiului Husi, situat in intravilanul municipiului Husi, str.Luceafarul - lot. 4(in apropierea Caminului 13) Consiliul Local al municipiului Husi, judetul Vaslui; Avand in vedere expunerea de motive privind emiterea avizului de principiu in vederea concesionarii unui",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea99_2011.pdf",
+   "versions": [
+    {
+     "from": "2011-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea99_2011.pdf",
+     "sha256": "6f3c2a48746cc2e47026b2a1982de9979e32f72ced78976d281b9ed795549684"
     }
    ]
   }

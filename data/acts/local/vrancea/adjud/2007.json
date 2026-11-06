@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/vrancea/adjud/2007",
+"acts": [
+{
+"slug": "hcl-vrancea--adjud-14-2007",
+"path": "local/vrancea/adjud/2007/14",
+"kind": "local",
+"year": "2007",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 14/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+"short": "HCL Adjud nr. 14/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-03-22",
+"latest": "2007-03-22",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-32-2007",
+"path": "local/vrancea/adjud/2007/32",
+"kind": "local",
+"year": "2007",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 32/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta de indata ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetulu",
+"short": "HCL Adjud nr. 32/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-04-12",
+"latest": "2007-04-12",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-40-2007",
+"path": "local/vrancea/adjud/2007/40",
+"kind": "local",
+"year": "2007",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 40/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+"short": "HCL Adjud nr. 40/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-05-10",
+"latest": "2007-05-10",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-61-2007",
+"path": "local/vrancea/adjud/2007/61",
+"kind": "local",
+"year": "2007",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 61/2007 privind : aprobarea rectificarii bugetului local al municipiului Adjud pe anul 2007 Consiliul local al municipiului Adjud , judetul Vrancea intrunit in sedinta ordinara ; - Avand in vedere Expunerea de motive a primarului municipiului Adjud care a initiat proiectul de hotarare si in urma studierii Raportului Directiei economice din aparatul primarului cu privire la aprobarea rectificarii bugetului",
+"short": "HCL Adjud nr. 61/2007",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2007-06-28",
+"latest": "2007-06-28",
+"portal": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2007/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

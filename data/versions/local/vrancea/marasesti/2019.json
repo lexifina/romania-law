@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/marasesti/2019",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--marasesti-100-2019",
+   "path": "local/vrancea/marasesti/2019/100",
+   "short": "HCL Mărășești nr. 100/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 100/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl100.pdf",
+     "sha256": "ffb2d971f609a70a85dba7ea0379085661478b54535cf77c963828519b30727e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-101-2019",
+   "path": "local/vrancea/marasesti/2019/101",
+   "short": "HCL Mărășești nr. 101/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 101/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl101.pdf",
+     "sha256": "627bc4a9e97786165f3a1b76d201fe9fc00876964ee240b47c68ba9bd9ddb88b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-102-2019",
+   "path": "local/vrancea/marasesti/2019/102",
+   "short": "HCL Mărășești nr. 102/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 102/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl102.pdf",
+     "sha256": "b6a5e91378fe118311a45b7f691e332d7b80f8ad791b53ae17ab7f3377cd5782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-103-2019",
+   "path": "local/vrancea/marasesti/2019/103",
+   "short": "HCL Mărășești nr. 103/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 103/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl103.pdf",
+     "sha256": "d42fc466787ef131b12b2323f7368ba4a7c7b61b8214e574ae1478d57f5ea8f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-104-2019",
+   "path": "local/vrancea/marasesti/2019/104",
+   "short": "HCL Mărășești nr. 104/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 104/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl104.pdf",
+     "sha256": "5987491c64ab0dcaae152fb159a1799fc1c646468d98356c2a53eea9b85edaa1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-105-2019",
+   "path": "local/vrancea/marasesti/2019/105",
+   "short": "HCL Mărășești nr. 105/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 105/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl105.pdf",
+     "sha256": "864027a0813e1980d9122f6faf34eccbbeea4c7988172bc1993c38983504fa52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-106-2019",
+   "path": "local/vrancea/marasesti/2019/106",
+   "short": "HCL Mărășești nr. 106/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 106/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl106.pdf",
+     "sha256": "6e769f6cb67fff0d8f9488101c3c99e6b5f920c7881e0a70549f022ad9e8a151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-107-2019",
+   "path": "local/vrancea/marasesti/2019/107",
+   "short": "HCL Mărășești nr. 107/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 107/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl107.pdf",
+     "sha256": "6588362dc3088213572c0d114e46f1a7972fdbb5af1c8806e494f7cc28521898"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-108-2019",
+   "path": "local/vrancea/marasesti/2019/108",
+   "short": "HCL Mărășești nr. 108/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 108/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-19",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl108.pdf",
+     "sha256": "6d5d1697c3a89b37f93d058e4c14d71f6a3b10728375da514820995674074b87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-51-2019",
+   "path": "local/vrancea/marasesti/2019/51",
+   "short": "HCL Mărășești nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 51/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl51.pdf",
+     "sha256": "2589a70e10287a355a6f6140a6e625ea3a4cefe57ddd204f23f38e2b25f73920"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-52-2019",
+   "path": "local/vrancea/marasesti/2019/52",
+   "short": "HCL Mărășești nr. 52/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 52/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl52.pdf",
+     "sha256": "4e326b1fa8eadee722052db1c064a6e50ec6db60d993d697e4d70a0e94165648"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-53-2019",
+   "path": "local/vrancea/marasesti/2019/53",
+   "short": "HCL Mărășești nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 53/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl53.pdf",
+     "sha256": "a3c1adcd34e71033327104b9b3461ad251ae60c0fcb2b381046d9dff2ef1ab5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-54-2019",
+   "path": "local/vrancea/marasesti/2019/54",
+   "short": "HCL Mărășești nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 54/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl54.pdf",
+     "sha256": "17ce181ae160b1d2da5115d8ed4a83c4ffb666183bf06b101af1e3b1db5a799a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-55-2019",
+   "path": "local/vrancea/marasesti/2019/55",
+   "short": "HCL Mărășești nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 55/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-07-25",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl55.pdf",
+     "sha256": "a3269c78954181b658946ac58cca9003990368b1640884acaf5c69932943f8bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-56-2019",
+   "path": "local/vrancea/marasesti/2019/56",
+   "short": "HCL Mărășești nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 56/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl56.pdf",
+     "sha256": "2a2e28e18c74f56798ef5c6f12e96328d0a72b89de070079a594e55c43fa2f93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-57-2019",
+   "path": "local/vrancea/marasesti/2019/57",
+   "short": "HCL Mărășești nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 57/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl57.pdf",
+     "sha256": "e00cdba565109eeefb46e6bd0741e1e4e41cd2da60b6eb9ca352c4f1e2ae11c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-58-2019",
+   "path": "local/vrancea/marasesti/2019/58",
+   "short": "HCL Mărășești nr. 58/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 58/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl58.pdf",
+     "sha256": "0f8cd64127a4b0c278d28ea3b7a1f4329ebc8c9dda561ff6624397e3e1219194"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-59-2019",
+   "path": "local/vrancea/marasesti/2019/59",
+   "short": "HCL Mărășești nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 59/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl59.pdf",
+     "sha256": "c4e46ab34994163d790a7c3883b7d30e65c2a6f99881a148746b87b355a20a12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-60-2019",
+   "path": "local/vrancea/marasesti/2019/60",
+   "short": "HCL Mărășești nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 60/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-08-29",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl60.pdf",
+     "sha256": "57820b0290accf1f0bc0e41d69a0b9c5b85760bc42c91932c1d97d50dbc27011"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-61-2019",
+   "path": "local/vrancea/marasesti/2019/61",
+   "short": "HCL Mărășești nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 61/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl61.pdf",
+     "sha256": "015ebfbe8ec3dc8727b89acbda4dd65aa06662e4a91b5ec4adc7701c45780838"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-62-2019",
+   "path": "local/vrancea/marasesti/2019/62",
+   "short": "HCL Mărășești nr. 62/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 62/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl62.pdf",
+     "sha256": "adba10325f0d85bcdc470b7c6bbf76986c7c02e15da3303015e07dd9644fe96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-63-2019",
+   "path": "local/vrancea/marasesti/2019/63",
+   "short": "HCL Mărășești nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 63/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-17",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl63.pdf",
+     "sha256": "6d6756877dbc9157724ae04264ad2d7195f28ab0a238eea185ae48e6a3469eb5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-64-2019",
+   "path": "local/vrancea/marasesti/2019/64",
+   "short": "HCL Mărășești nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 64/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl64.pdf",
+     "sha256": "72df144a7834d4b08f5c43da63be920f0862c68376605ab0d63ebd4f71f7fe94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-65-2019",
+   "path": "local/vrancea/marasesti/2019/65",
+   "short": "HCL Mărășești nr. 65/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 65/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl65.pdf",
+     "sha256": "868a561562c6d1d9c93f7f4097ca2cd63b19ac0bf5179512c09b0bcfa69ff9d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-66-2019",
+   "path": "local/vrancea/marasesti/2019/66",
+   "short": "HCL Mărășești nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 66/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl66.pdf",
+     "sha256": "3788c86309f5bf104e0fdab8c334c71f15806d84a9526c84bc10ea728f8a9f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-67-2019",
+   "path": "local/vrancea/marasesti/2019/67",
+   "short": "HCL Mărășești nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 67/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl67.pdf",
+     "sha256": "aa03fd1d3622116208d3082a9ae746d5a498a78de982d537986b93f91a126413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-68-2019",
+   "path": "local/vrancea/marasesti/2019/68",
+   "short": "HCL Mărășești nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 68/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl68.pdf",
+     "sha256": "9c8ad4bc8eff0e7264afa56686611671f229c7ae94b8f4429e2f72ed4cda930f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-69-2019",
+   "path": "local/vrancea/marasesti/2019/69",
+   "short": "HCL Mărășești nr. 69/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 69/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl69.pdf",
+     "sha256": "5e07a9e014ccb473bd0de44cf8b9ab4d5023fc26d91335fad77feeaf1517c08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-70-2019",
+   "path": "local/vrancea/marasesti/2019/70",
+   "short": "HCL Mărășești nr. 70/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 70/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl70.pdf",
+     "sha256": "d60c9c0ee6edf303359221b251b9fb8d4ba26907d4c68862bbab70c1536e4f20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-71-2019",
+   "path": "local/vrancea/marasesti/2019/71",
+   "short": "HCL Mărășești nr. 71/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 71/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl71.pdf",
+     "sha256": "0775d7a91585dc98e6b4d7a2bb89ba22d3dad2f986689f3e8cdabe279c827390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-72-2019",
+   "path": "local/vrancea/marasesti/2019/72",
+   "short": "HCL Mărășești nr. 72/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 72/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl72.pdf",
+     "sha256": "5f78c92772260f29b74d471dd856e7e90c4c8a49c488bcd594e20c20f65a78dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-73-2019",
+   "path": "local/vrancea/marasesti/2019/73",
+   "short": "HCL Mărășești nr. 73/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 73/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl73.pdf",
+     "sha256": "7224d43ef575342bc41de9b13fb032c22d0902608c6d42ccd709d9bbe26e5a95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-74-2019",
+   "path": "local/vrancea/marasesti/2019/74",
+   "short": "HCL Mărășești nr. 74/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 74/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl74.pdf",
+     "sha256": "e9dc0ea5646bda9cbb09951d699665d7d914eb62748fe955dd0bdafae8656b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-75-2019",
+   "path": "local/vrancea/marasesti/2019/75",
+   "short": "HCL Mărășești nr. 75/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 75/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl75.pdf",
+     "sha256": "d9617d1dad2da27a32d6b0798e14caabb53181fe2502ff2f42c373748d9bc0ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-76-2019",
+   "path": "local/vrancea/marasesti/2019/76",
+   "short": "HCL Mărășești nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 76/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl76.pdf",
+     "sha256": "c5c8099350920c09bc34798b28e1f9453a4616500d451baf630241da11df1408"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-77-2019",
+   "path": "local/vrancea/marasesti/2019/77",
+   "short": "HCL Mărășești nr. 77/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 77/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl77.pdf",
+     "sha256": "e46e9300561de449771b214643f570a40ced4c5a9488881a4eb019c479d03dcc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-78-2019",
+   "path": "local/vrancea/marasesti/2019/78",
+   "short": "HCL Mărășești nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 78/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-09-26",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl78.pdf",
+     "sha256": "43310870079ea05f267d82d89cc7a69716c2cfbffd3fb39d72077542012376ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-79-2019",
+   "path": "local/vrancea/marasesti/2019/79",
+   "short": "HCL Mărășești nr. 79/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 79/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl79.pdf",
+     "sha256": "2ff7a7e213e4238467198b399c76101569fe16989a562e0cf9ac1848357cdead"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-80-2019",
+   "path": "local/vrancea/marasesti/2019/80",
+   "short": "HCL Mărășești nr. 80/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 80/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-04",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl80.pdf",
+     "sha256": "20e827f4965cc1079ef01a34e5d65958ffcc4a2cf2ad7cc7c3f59832bcc0af11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-81-2019",
+   "path": "local/vrancea/marasesti/2019/81",
+   "short": "HCL Mărășești nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 81/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl81.pdf",
+     "sha256": "9a451a919f9e894859d7d1278c3714e75e0c8be23518e0c2e418a74d314393d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-82-2019",
+   "path": "local/vrancea/marasesti/2019/82",
+   "short": "HCL Mărășești nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 82/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl82.pdf",
+     "sha256": "d7d642033940cd16c398f6f815adee3ec349fbd0f5a491a984ea6ae4cd8c78dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-83-2019",
+   "path": "local/vrancea/marasesti/2019/83",
+   "short": "HCL Mărășești nr. 83/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 83/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl83.pdf",
+     "sha256": "bcc92dba708f83047c8f7032efa87cf0abf7cf5f58cb5dcbbe008eec1c2816de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-84-2019",
+   "path": "local/vrancea/marasesti/2019/84",
+   "short": "HCL Mărășești nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 84/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl84.pdf",
+     "sha256": "4c8665756452923a09bc4cd731fbad4b63d2900fb91fc8980a6adf9f2db01579"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-85-2019",
+   "path": "local/vrancea/marasesti/2019/85",
+   "short": "HCL Mărășești nr. 85/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 85/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl85.pdf",
+     "sha256": "de8ade87744ad2c3dd10ae8b2fe623b3fff6ab0bcda853b1220ec8c4cad34383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-86-2019",
+   "path": "local/vrancea/marasesti/2019/86",
+   "short": "HCL Mărășești nr. 86/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 86/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl86.pdf",
+     "sha256": "e9f61afd942e1cd58de774c791455532568ead159b91e4853c8cac084c657ea7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-87-2019",
+   "path": "local/vrancea/marasesti/2019/87",
+   "short": "HCL Mărășești nr. 87/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 87/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl87.pdf",
+     "sha256": "999740fed34913da0a40b04623f4510cc346d1e8fe9414b8e283d056e141b574"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-88-2019",
+   "path": "local/vrancea/marasesti/2019/88",
+   "short": "HCL Mărășești nr. 88/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 88/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl88.pdf",
+     "sha256": "e40625891ccc6be31e093558d316ec4c4df37acd6405e0fc48bc8e6d4286c968"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-89-2019",
+   "path": "local/vrancea/marasesti/2019/89",
+   "short": "HCL Mărășești nr. 89/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 89/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-11",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl89.pdf",
+     "sha256": "613ad236c8de1d13741bef7f7f2b642c1350927bc6e330334ab738a8e81ec016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-90-2019",
+   "path": "local/vrancea/marasesti/2019/90",
+   "short": "HCL Mărășești nr. 90/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 90/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl90.pdf",
+     "sha256": "4d4771a8669b3d3d5bbd299805f2cbc1cc8ee12607a6f2d108c926278f4c9881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-91-2019",
+   "path": "local/vrancea/marasesti/2019/91",
+   "short": "HCL Mărășești nr. 91/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 91/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl91.pdf",
+     "sha256": "e59c58a7a41ad17352bd8a0bb8ba382c0f5bcf4d02ce9293b03f39913f0bd363"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-92-2019",
+   "path": "local/vrancea/marasesti/2019/92",
+   "short": "HCL Mărășești nr. 92/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 92/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl92.pdf",
+     "sha256": "aa3c65c56ad812019a614f8f952c68b793b9e0374eaf153893aa8f6912c1bca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-93-2019",
+   "path": "local/vrancea/marasesti/2019/93",
+   "short": "HCL Mărășești nr. 93/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 93/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl93.pdf",
+     "sha256": "65f1318a28cdaaea3748b4e1d6080e9249845c870c79c944208676390d3db22a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-94-2019",
+   "path": "local/vrancea/marasesti/2019/94",
+   "short": "HCL Mărășești nr. 94/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 94/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl94.pdf",
+     "sha256": "84cb8dc773e59e43967d12c56b90b0e8781f158c2e7dc05f065f96ea567aa1ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-95-2019",
+   "path": "local/vrancea/marasesti/2019/95",
+   "short": "HCL Mărășești nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 95/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl95.pdf",
+     "sha256": "864a226f580a9ec00dcae7c3993c3dd0c1f31ccedea7892e297a443938a039b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-96-2019",
+   "path": "local/vrancea/marasesti/2019/96",
+   "short": "HCL Mărășești nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 96/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl96.pdf",
+     "sha256": "23fc72ef64ffa79c82f9d73038f2a5c91a2c1af838f83e7a0c4dfe1b60a1df2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-97-2019",
+   "path": "local/vrancea/marasesti/2019/97",
+   "short": "HCL Mărășești nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 97/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-11-28",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl97.pdf",
+     "sha256": "6c493358f52188a58fe92b3003d50b62e264d1f33e581e784c9f16ebe3e2d557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-98-2019",
+   "path": "local/vrancea/marasesti/2019/98",
+   "short": "HCL Mărășești nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 98/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl98.pdf",
+     "sha256": "f00cdf65446ea4921252c853db4900f210d0a61957662508925d738746fbe018"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--marasesti-99-2019",
+   "path": "local/vrancea/marasesti/2019/99",
+   "short": "HCL Mărășești nr. 99/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Mărășești nr. 99/2019",
+   "url": "https://primariamarasesti.ro/consiliu-hotarari-adoptate-hlc-pe-2019/",
+   "versions": [
+    {
+     "from": "2019-12-02",
+     "units": 1,
+     "source_url": "https://primariamarasesti.ro/download/Hotarari%20Consiliu%20Local/2019/hcl99.pdf",
+     "sha256": "9aea0a6c3cb6b7056bbfce7ee160c7492c20f0c554cb7cf380fc22873b877250"
+    }
+   ]
+  }
+ ]
+}

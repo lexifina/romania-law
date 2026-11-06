@@ -3,6 +3,36 @@
  "shard": "local/vrancea/adjud/2011",
  "acts": [
   {
+   "slug": "hcl-vrancea--adjud-1-2011",
+   "path": "local/vrancea/adjud/2011/1",
+   "short": "HCL Adjud nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 1/2011 pentru aprobarea actului constitutiv al S.C",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-29HCL_1.pdf",
+     "sha256": "2e9f0c456215d4d4ce9f25e94ee02114e3ce9d035fcac5854d9f06d181ec464b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-100-2011",
+   "path": "local/vrancea/adjud/2011/100",
+   "short": "HCL Adjud nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 100/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-46HCL_100.pdf",
+     "sha256": "bea3d307b109d088ab12307e21d770a6c7d8a173368c312a93c2f3ecaa6aa4d9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--adjud-108-2011",
    "path": "local/vrancea/adjud/2011/108",
    "short": "HCL Adjud nr. 108/2011",
@@ -14,6 +44,36 @@
      "units": 5,
      "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-48HCL_108.pdf",
      "sha256": "ede91636adfe833e7071e7ace464c8dc9909003b31a5b716232deef0a36f0935"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-121-2011",
+   "path": "local/vrancea/adjud/2011/121",
+   "short": "HCL Adjud nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 121/2011 Privind aprobarea Caietului de obiective privind depunerea proiectului de management pentru postul de director al Bibliotecii municipale Adjud - Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - Analizând Expunerea de motive a Primarului municipiului ce a inițiat proiectul de hotărâre și raportul de specialitate; - Luând act de avizul Comisiei pentru activități social – cultur",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-11-03-53HCL_121.pdf",
+     "sha256": "16c8de4409ac9c268b1336e6f87c6ff7671d7cbdecacb3e7510d26b034eee829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-127-2011",
+   "path": "local/vrancea/adjud/2011/127",
+   "short": "HCL Adjud nr. 127/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 127/2011 Privind aprobarea Proiectului de management al Bibilotecii municipale Adjud Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - Analizând Expunerea de motive a Primarului municipiului ce a inițiat proiectul de hotărâre și raportul de specialitate; - Luând act de avizul Comisiei pentru activități social – culturale, culte, învățământ, sănătate, familie, muncă, protecție socială ș",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-49HCL_127.pdf",
+     "sha256": "af180c3f249aa91ab1ad5d5e85606143feb5edf9f3a19623a59ecabba570250b"
     }
    ]
   },
@@ -44,6 +104,216 @@
      "units": 1,
      "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_217.pdf",
      "sha256": "0b8a2b9fb3e14caf0a8e3618f0faf540a47b1a53e25f55523ecfd55f5374022d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-22-2011",
+   "path": "local/vrancea/adjud/2011/22",
+   "short": "HCL Adjud nr. 22/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 22/2011 privind aprobarea unor măsuri pentru realizarea construcțiilor pe terenurile atribuite in acest scop în municipiul Adjud Consiliul local al municipiului Adjud, judetul Vrancea intrunit in sedinta ordinara: - Examinand proiectul de hotarare initiat de Primarul municipiului Adjud cu privire la aprobarea unor măsuri pentru realizarea construcțiilor pe terenurile atribuite in acest scop în municipiul",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-34HCL_22.pdf",
+     "sha256": "8d34f2d259f810fc12aca04b73af2c32e1dab79fb59785bc68102d30c081f0cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-225-2011",
+   "path": "local/vrancea/adjud/2011/225",
+   "short": "HCL Adjud nr. 225/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 225/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_225.pdf",
+     "sha256": "24f0aa9e5c89854add38d2707d574bc0f1559efa68402abbe786c658910f8c41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-226-2011",
+   "path": "local/vrancea/adjud/2011/226",
+   "short": "HCL Adjud nr. 226/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 226/2011 Privind desemnarea reprezentanților în Consiliul de administrație al „Școlii cu clasele I _ VIII , nr. 2” Adjud - Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - având în vedere solicitarea Școlii cu clasele I _ VIII , nr. 2 Adjud pentru desemnarea a 2 reprezentanti ai Consiliului local în Consiliul de administrație; - analizând Expunerea de motive și Raportul de specialitat",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_226.pdf",
+     "sha256": "31b342993628e6181841409ec4281552c3472fde5694945f7b9847781d5a33db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-227-2011",
+   "path": "local/vrancea/adjud/2011/227",
+   "short": "HCL Adjud nr. 227/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 227/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_227.pdf",
+     "sha256": "9bfece42c1eeed7aa617536f2b7568d3536a561c9dcb0aa3751c06c3ace14f64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-228-2011",
+   "path": "local/vrancea/adjud/2011/228",
+   "short": "HCL Adjud nr. 228/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 228/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_228.pdf",
+     "sha256": "d877ca4b438908d6a30c64a707483e916754e80740fd4adbad3a3f761036bbc5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-229-2011",
+   "path": "local/vrancea/adjud/2011/229",
+   "short": "HCL Adjud nr. 229/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 229/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_229.pdf",
+     "sha256": "fd068af314006192ee6aca8a748f7aed297f012e8ae81eea98443e0c5c060568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-230-2011",
+   "path": "local/vrancea/adjud/2011/230",
+   "short": "HCL Adjud nr. 230/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 230/2011 Privind desemnarea reprezentanților în Consiliul de administrație al Colegiului Tehnic Gh",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-15",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_230.pdf",
+     "sha256": "7095bc271ac8b3ee4bed354e149ceb48c942d392bdacc027da344737c85e05d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-232-2011",
+   "path": "local/vrancea/adjud/2011/232",
+   "short": "HCL Adjud nr. 232/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 232/2011 Privind aprobarea rețelei școlare a municipiului Adjud pentru anul 2012 - 2013 - Consiliul local al municipiului Adjud, întrunit în ședință ordinară: - analizând Expunerea de motive și Raportul de specialitate la proiectul de hotărâre inițiat de primarul municipiului Adjud; - având în vedere prevederile art.6 din Legea nr.52/2003 privind transparența decizională în administrația publică - în confo",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_232.pdf",
+     "sha256": "824be2b19488758f5780bb1fba11fec7d84546bd798e075008a75805070e4374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-234-2011",
+   "path": "local/vrancea/adjud/2011/234",
+   "short": "HCL Adjud nr. 234/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 234/2011 Privind aprobarea revocării Hotărârii Consiliului local nr. 210/2011 Consiliul local al municipiului Adjud , întrunit în ȘedinȘă extraordinară: - Analizând Expunerea de motive a proiectului de hotărâre iniȘiat de primarul municipiului Adjud Și de Raportul de specialitate ; - Luând act de adresa InstituȘiei Prefectului Vrancea nr. 16240/2011 prin care se solicită revocarea HCL nr. 210/2011 - în tem",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-12-22",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/HCL_234.pdf",
+     "sha256": "d52b92d76773c9553939409e5d90d4865d116958f1e8a220fa768c79817510eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-6-2011",
+   "path": "local/vrancea/adjud/2011/6",
+   "short": "HCL Adjud nr. 6/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 6/2011 privind aprobarea trecerii din domeniul public in domeniul privat a terenului in suprafața de 54.953 mp situat in Adjud, zona Izlaz, tarla 119/1, parcela 615/1, având nr.cadastral 3019 N Consiliul local al municipiului Adjud, întrunit in ședința ordinara in data de …………..2011, la convocarea Primarului municipiului Adjud prin Dispoziția nr. …./….01.2011; -Avand in vedere Expunerea de motive a Prima",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-01-19",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-30HCL_6.pdf",
+     "sha256": "153600895fa1b3b3987f32c11d595f526e00a33de5c6aae6c0900ea943403ea9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-7-2011",
+   "path": "local/vrancea/adjud/2011/7",
+   "short": "HCL Adjud nr. 7/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 7/2011 Privind aprobarea vânzării prin licitație publica a terenului atras intravilan, aparținând domeniului privat al municipiului Adjud, in suprafața de 4.893 mp, situat in Adjud, T 119/1, P 615/1 Consiliul local al municipiului Adjud, județul Vrancea, întrunit in ședința ordinara in data de 27 ianuarie 2011, la convocarea prin dispoziție a Primarului municipiului Adjud ; -Avand in vedere Expunerea de",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-31HCL_7.pdf",
+     "sha256": "be5dd8ca501d87da5b3073ad415be01c45558bb330dbcbe044f2d17f077b5a85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-8-2011",
+   "path": "local/vrancea/adjud/2011/8",
+   "short": "HCL Adjud nr. 8/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 8/2011 privind aprobarea delegării gestiunii serviciului public de salubrizare al Municipiului Adjud – zone publice CONSILIUL LOCAL AL MUNICIPIULUI ADJUD, întrunit în ședință ordinară: - având în vedere expunerea de motive a Primarului municipiului Adjud – inițiatorul proiectului de hotărâre - cu privire la necesitatea dării în administrare a activității de salubrizare; - luând act de avizul favorabil al",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-31HCL_8.pdf",
+     "sha256": "2fb33533920f9af71bdad177d7c021aabebc889ae965c5c706d8c717a77cdc57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-9-2011",
+   "path": "local/vrancea/adjud/2011/9",
+   "short": "HCL Adjud nr. 9/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 9/2011 privind aprobarea unor măsuri organizatorice pentru funcționarea S.C",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2011/",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-32HCL_9.pdf",
+     "sha256": "63063daba7df188518549e3ac2ed549860ee8e2619bf5a860037ea5639ce85c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-99-2011",
+   "path": "local/vrancea/adjud/2011/99",
+   "short": "HCL Adjud nr. 99/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 99/2011",
+   "url": null,
+   "versions": [
+    {
+     "from": "2011-08-11",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2017/02/15-05-19-09-11-45HCL_99.pdf",
+     "sha256": "2214aec67de491531a577bbbe033c7e54110709d6eec9efb1670c0f4e5767e3e"
     }
    ]
   }

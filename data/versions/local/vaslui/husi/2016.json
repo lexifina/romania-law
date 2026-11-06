@@ -3,6 +3,696 @@
  "shard": "local/vaslui/husi/2016",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-1-2016",
+   "path": "local/vaslui/husi/2016/1",
+   "short": "HCL Huși nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 1/2016 privind alegerea Comisiei de validare a Consiliului Local al Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-21-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_1_2016.pdf",
+     "sha256": "6b4c030647251dc71625bbe55e14bbd8e21bfb5fc26501de7122bbcd9fb1f899"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-10-2016",
+   "path": "local/vaslui/husi/2016/10",
+   "short": "HCL Huși nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 10/2016 privind aprobarea concesionarii prin licitatie publica a 4 loturi de teren in suprafata de 300 mp fiecare, apartinand domeniului privat al municipiului Husi, situate in zona Dric nr.2, judetul Vaslui, pentru construirea de locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_10_2016-1.pdf",
+     "sha256": "969727395216a94100f35284f79c49f89ba63d3ac9845cf6357ac98d0aac27ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-100-2016",
+   "path": "local/vaslui/husi/2016/100",
+   "short": "HCL Huși nr. 100/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2016 privind preluarea Contractului de inchiriere nr.32759 din 13.06.2013 pentru terenul situat in municipiul Husi, strada General Teleman,la intersectie cu strada Lt.Aviator Mitache, pe care este construit un spatiu comercial",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_100_2016-II.pdf",
+     "sha256": "4ed9a2c98bee86023e52ddf2ae057b397c8beb19e62b78e09f17b343ad9e6df1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-101-2016",
+   "path": "local/vaslui/husi/2016/101",
+   "short": "HCL Huși nr. 101/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 101/2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_101_2016-II.pdf",
+     "sha256": "ec5cbd4e203208ab513b3a57742cf3d5fae20c19b3cd1918eb71cfb076f532ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-102-2016",
+   "path": "local/vaslui/husi/2016/102",
+   "short": "HCL Huși nr. 102/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 102/2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_102_2016-II.pdf",
+     "sha256": "353639062b5d6089bbd268a248b53c46bb05c4108b6348c5a62d9d0fe9cda8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-103-2016",
+   "path": "local/vaslui/husi/2016/103",
+   "short": "HCL Huși nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2016 privind aprobarea prelungirii unui contract de inchiriere avand ca obiect, spatiu aflat in administrarea Centrului Public de Desfacere Husi, strada Piata Victoriei, Noua Hala Agroalimentara",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_103_2016.pdf",
+     "sha256": "4b5cb6670784ebf1c51fb3a7cb87fd7e34105ff3f81ab20d8d05e9856a27f514"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-104-2016",
+   "path": "local/vaslui/husi/2016/104",
+   "short": "HCL Huși nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 104/2016 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_104_2016-II.pdf",
+     "sha256": "7ae77981179e851b50c359315cf488d64b264c9653bf7cea48580450dad13b69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-105-2016",
+   "path": "local/vaslui/husi/2016/105",
+   "short": "HCL Huși nr. 105/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 105/2016 privind modificarea statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_105_2016-II.pdf",
+     "sha256": "1c94805dde1a7370272eea8913c841cfec370107f60da7c0c36a24c36cb1e30a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-106-2016",
+   "path": "local/vaslui/husi/2016/106",
+   "short": "HCL Huși nr. 106/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 106/2016 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_106_2016-II.pdf",
+     "sha256": "d6debff7b96b454604d08b99df7010dfe89762fb6304b5aca80f336a84e1a39f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-107-2016",
+   "path": "local/vaslui/husi/2016/107",
+   "short": "HCL Huși nr. 107/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 107/2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_107_2016-II.pdf",
+     "sha256": "e3c60a981b910b5e3ec8ec971727f70f22ff774439eec9cb7390ecfe4353e04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-108-2016",
+   "path": "local/vaslui/husi/2016/108",
+   "short": "HCL Huși nr. 108/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 108/2016 privind rectificarea bugetului local cu suma de 112,0 mii lei reprezentand venituri proprii buget local – etapa noiembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_108_2016-II.pdf",
+     "sha256": "97222b77863b3652d58287ee5bf704fc40f5ef5315b3b5d10767ee10c5e5418a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-109-2016",
+   "path": "local/vaslui/husi/2016/109",
+   "short": "HCL Huși nr. 109/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 109/2016 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2016 al institutiilor publice finantate integral sau partial din venituri proprii - etapa noiembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_109_2016-II.pdf",
+     "sha256": "5f12c1fbb4cd5818e63f20bcc155497d616ce09505f2f1ffbbd4100ab6b15a4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-11-2016",
+   "path": "local/vaslui/husi/2016/11",
+   "short": "HCL Huși nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 11/2016",
+   "url": "https://www.primariahusi.ro/hotarari-28-ianuarie-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_11_2016.pdf",
+     "sha256": "59fae29101d15fa880718052a0ea8c3d0505755b6bd4ed2d1d14ad6df44478ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-110-2016",
+   "path": "local/vaslui/husi/2016/110",
+   "short": "HCL Huși nr. 110/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 110/2016 privind darea in administrarea unitatilor de invatamant de stat cu personalitate juridica din municipiul Husi a bunurilor imobile proprietatea publica a municipiului Husi, in care acestea isi desfasoara activitatea",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_110_2016-II.pdf",
+     "sha256": "d2172bee3147633e3c55a523347e445dde6396588b6eb48c78efd1e47e97bac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-111-2016",
+   "path": "local/vaslui/husi/2016/111",
+   "short": "HCL Huși nr. 111/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 111/2016 privind darea in administrarea institutiilor publice de cultura din municipiul Husi, a bunurilor imobile proprietatea publica a municipiului Husi, in care acestea isi desfasoara activitatea",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_111_2016-II.pdf",
+     "sha256": "acebff18c9e6255ac22db6dba52c57345eb2a38c1881338e27934b9a18460a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-112-2016",
+   "path": "local/vaslui/husi/2016/112",
+   "short": "HCL Huși nr. 112/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 112/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna decembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-19-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_112_2016-II.pdf",
+     "sha256": "867a6890faf9befa7e1f242f36a22a81e61acd148aa632e5cc863310ee2ba8ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-113-2016",
+   "path": "local/vaslui/husi/2016/113",
+   "short": "HCL Huși nr. 113/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 113/2016 privind aprobarea rectificarii bugetului imprumuturilor interne – etapa decembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-19-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_113_2016-II.pdf",
+     "sha256": "915e3a8a7f667cdbb0f8f361eed7a526ba00dfe5feecbf29fa1a68508e107331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-114-2016",
+   "path": "local/vaslui/husi/2016/114",
+   "short": "HCL Huși nr. 114/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 114/2016 privind aprobarea prelungirii delegarii gestiunii serviciului de transport public local prin curse regulate,efectuat pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-09-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-09",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_114_2016.pdf",
+     "sha256": "3b51f7da88b821b8d658281b07c3b0d668d357935fd65ca39e1ff5124ed279e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-115-2016",
+   "path": "local/vaslui/husi/2016/115",
+   "short": "HCL Huși nr. 115/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 115/2016 privind rectificarea bugetului local cu suma de -4803,14 mii lei reprezentand venituri proprii buget local, cote defalcate din impozit pe venit, sume defalcate din TVA si subventii",
+   "url": "https://www.primariahusi.ro/hotarari-19-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_115_2016-II.pdf",
+     "sha256": "93a6940497c3d70789c5131639449eca31a1a326c3af060add7bfa0410f63c1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-116-2016",
+   "path": "local/vaslui/husi/2016/116",
+   "short": "HCL Huși nr. 116/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 116/2016 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2016 al institutiilor publice finantate integral sau partial din venituri proprii - etapa decembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-19-decembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-12-19",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_116_2016-II.pdf",
+     "sha256": "e0b15f8cb1a32222f957cee861eaabb42a0695af72c5d3b693b2274da01cbbdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-118-2016",
+   "path": "local/vaslui/husi/2016/118",
+   "short": "HCL Huși nr. 118/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 118/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_118_2016.pdf",
+     "sha256": "99f18a36e6dbe27ed662e8485bbb023d6b555496184c974b52e83c7c176093ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-119-2016",
+   "path": "local/vaslui/husi/2016/119",
+   "short": "HCL Huși nr. 119/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 119/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_119_2016.pdf",
+     "sha256": "b608767198843ef74bf4c57a471ceaed3bad000e9f495d9d413b04ecef1148e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-12-2016",
+   "path": "local/vaslui/husi/2016/12",
+   "short": "HCL Huși nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 12/2016 privind aprobarea inventarului terenurilor disponibile pentru aplicarea Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinte proprietate personala pentru anul 2016",
+   "url": "https://www.primariahusi.ro/hotarari-28-ianuarie-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_12_2016.pdf",
+     "sha256": "63892e4c75139c3485de06b62793cb469651f6973a99c310b5c01e97799b08ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-120-2016",
+   "path": "local/vaslui/husi/2016/120",
+   "short": "HCL Huși nr. 120/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 120/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_120_2016.pdf",
+     "sha256": "9c57df6b59def22a4c97887e093631cb38eafc1f93481801d5960c3c3ad752aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-121-2016",
+   "path": "local/vaslui/husi/2016/121",
+   "short": "HCL Huși nr. 121/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 121/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_121_2016.pdf",
+     "sha256": "ee82f40fddb64d0f0a6ddcda43bbe21f40934553a778ba399cd6370a16eeae46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-122-2016",
+   "path": "local/vaslui/husi/2016/122",
+   "short": "HCL Huși nr. 122/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 122/2016 privind aprobarea inchirierii unei suprafete de teren de 6,50 mp apartinand domeniului privat al municipiului Husi, pentru scari de acces, situata in Husi, Bd.1 Mai, bl.20, sc.F, parter, beneficiar SC”PROFARM COMP” SRL",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_122_2016.pdf",
+     "sha256": "497076c221bf2fc4b2bb47017c7c1432102371ff382f1e31e6848f30a2fad101"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-123-2016",
+   "path": "local/vaslui/husi/2016/123",
+   "short": "HCL Huși nr. 123/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 123/2016 privind aprobarea inchirierii unei suprafete de teren de 3,60 mp apartinand domeniului privat al municipiului Husi, pentru trepte de acces, situata in Husi, strada Eroilor bl.15,sc.A,parter, ap.2, beneficiar SC”TRANMEXTIM” SRL",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_123_2016.pdf",
+     "sha256": "17b1e8b1447514e761cb8f3c8924f61ceb3cae658f09d98f97b4a3f8cf6f1d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-127-2016",
+   "path": "local/vaslui/husi/2016/127",
+   "short": "HCL Huși nr. 127/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 127/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_127_2016.pdf",
+     "sha256": "45a10979d8dc0233ebf611e31f78d006c00b0561f7e1ad6f83863c53c53da14e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-128-2016",
+   "path": "local/vaslui/husi/2016/128",
+   "short": "HCL Huși nr. 128/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 128/2016 privind aprobarea ordinii de prioritate a cererilor depuse conform Legii nr.15/2003, republicata, modificata si completata",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_128_2016.pdf",
+     "sha256": "1798147b1401e9250fbf8c6dca175bb3505d400bcd0141201ff3ac77f7da4cfd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-129-2016",
+   "path": "local/vaslui/husi/2016/129",
+   "short": "HCL Huși nr. 129/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2016",
+   "url": "https://www.primariahusi.ro/hotarari-25-mai-2017/",
+   "versions": [
+    {
+     "from": "2016-12-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/10/hotararea_129_2017.pdf",
+     "sha256": "ce55e3c169fa2c7454690cd3ef348cd1111f9baf04d1af55629c310163b41454"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-13-2016",
+   "path": "local/vaslui/husi/2016/13",
+   "short": "HCL Huși nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 13/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_13_2016-1.pdf",
+     "sha256": "de23ad7206da06a18562ca236418d6448ecca1cae6ca472b1e0a7df0c66005d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-130-2016",
+   "path": "local/vaslui/husi/2016/130",
+   "short": "HCL Huși nr. 130/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 130/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_130_2016.pdf",
+     "sha256": "5dc60cf802908ffe0d6ba895a48e1d0679f34388e7829c56d0adb0189d83f32f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-131-2016",
+   "path": "local/vaslui/husi/2016/131",
+   "short": "HCL Huși nr. 131/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 131/2016 privind modificarea organigramei si a statului de functii al Spitalului Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_131_2016.pdf",
+     "sha256": "9862b4920d554d6ccce60687c26ff78b23dec9583dfce6a44697d4a8f6dab7ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-132-2016",
+   "path": "local/vaslui/husi/2016/132",
+   "short": "HCL Huși nr. 132/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_132_2016.pdf",
+     "sha256": "4ebe6bbf4255b9a1f803a42dac625092632292f0eb63b8366cc5e7cecd2c9198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-133-2016",
+   "path": "local/vaslui/husi/2016/133",
+   "short": "HCL Huși nr. 133/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 133/2016 privind aprobarea rectificarii bugetului imprumuturilor interne pe anul 2016",
+   "url": "https://www.primariahusi.ro/hotarari-26-mai-2016/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_133_2016.pdf",
+     "sha256": "50c080f68ab75f5c594c82723df28e88ee63ff2c09559e1cbf75902724581a51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-134-2016",
+   "path": "local/vaslui/husi/2016/134",
+   "short": "HCL Huși nr. 134/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 134/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-02-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_134_2016.pdf",
+     "sha256": "b7cb01a914647850779ed86b3291b0b145e58fcecddbffe6298a34c8d0ef2fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-135-2016",
+   "path": "local/vaslui/husi/2016/135",
+   "short": "HCL Huși nr. 135/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 135/2016 privind aprobarea rectificarii bugetului imprumuturilor interne – etapa iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-02-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_135_2016.pdf",
+     "sha256": "fedbb81ec6bd953aaf58e9be5cf1e0d102a1283f3a591f2e54538cc68e3dd95d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-136-2016",
+   "path": "local/vaslui/husi/2016/136",
+   "short": "HCL Huși nr. 136/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 136/2016 privind rectificarea bugetului local etapa iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-02-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_136_2016.pdf",
+     "sha256": "676e7091f2a5c467884d2c34f718b391c773e472cf28616ea47e46fcf5993610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-137-2016",
+   "path": "local/vaslui/husi/2016/137",
+   "short": "HCL Huși nr. 137/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 137/2016 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii - etapa iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-02-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-02",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_137_2016.pdf",
+     "sha256": "dff56545df5133042658f2bd398054f4e5bf85183ef440416dfe06853ce79d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-14-2016",
+   "path": "local/vaslui/husi/2016/14",
+   "short": "HCL Huși nr. 14/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 14/2016 privind prelungirea duratei contractelor de inchiriere care au ca obiect locuinte pentru tineri destinate inchirierii, construite prin intermediul Agentiei Nationale pentru Locuinte",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_14_2016-1.pdf",
+     "sha256": "e4016a56d53a19481182f9792326d560165bc2ca273aaf9999525d6dd0fbe372"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-15-2016",
+   "path": "local/vaslui/husi/2016/15",
+   "short": "HCL Huși nr. 15/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 15/2016 privind aprobarea utilizarii excedentului bugetar in suma de 135,71 mii lei inregistrat la 31.12.2015, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare in vederea decontarii sumelor in cadrul proiectelor “Regenerarea Municipiului Husi,prin modernizarea spatiilor publice urbane - Cod SMIS 12183” si “Asigurarea unui proces educational competitiv prin creare Campus Colegiul National «Cuz",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_15_2016.pdf",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_15_2016.pdf",
+     "sha256": "743702d7bf64ff2b80666f19abbc01b5c9517dad01319228460907f5f8470773"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-16-2016",
+   "path": "local/vaslui/husi/2016/16",
+   "short": "HCL Huși nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 16/2016 privind preluarea Contractului de inchiriere nr.34319 din 01.01.2012 pentru terenul situat in municipiul Husi,strada Scolii, lipit de gardul Stadionului, in suprafata de 24,20 mp",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_16_2016-1.pdf",
+     "sha256": "c218988c44ad556ee8373d5ecf8306e5a3016343afb95120feeafb31b31f2a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-17-2016",
+   "path": "local/vaslui/husi/2016/17",
+   "short": "HCL Huși nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 17/2016 privind aprobarea ordinii de prioritate a cererilor depuse conform Legii nr.15/2003, republicata, modificata si completata",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_17_2016-1.pdf",
+     "sha256": "3e8420479f5719d64c3c9c9f8bb0e2a90125515ef9280ed62472903f7310ebe0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2016",
+   "path": "local/vaslui/husi/2016/18",
+   "short": "HCL Huși nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2016 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in Comisia sociala de analiza a dosarelor depuse in vederea repartizarii locuintelor pentru tineri destinate inchirierii conform Normelor Metodologice pentru punerea in aplicare a prevederilor Legii nr.152/",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_18_2016-1.pdf",
+     "sha256": "1f39fcf1206203114ce22f46686011b73085184860f45d90322adb6b1143f2cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-19-2016",
+   "path": "local/vaslui/husi/2016/19",
+   "short": "HCL Huși nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 19/2016 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in Comisia sociala de analiza a dosarelor depuse in vederea repartizarii locuintelor cu chirie din fondul locativ de stat, conform Normelor Metodologice pentru punerea in aplicare a prevederilor Legii locui",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_19_2016-1.pdf",
+     "sha256": "95ad9c54b342ec90ffb209c58c1e43bc4522fb6e8107d30e388dbdc1c71086b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-2-2016",
+   "path": "local/vaslui/husi/2016/2",
+   "short": "HCL Huși nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 2/2016 privind validarea mandatelor consilierilor alesi la 5 iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-21-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_2_2016.pdf",
+     "sha256": "9f5ffcbfb207a36c828c5b3c40d7f6560f04965d4e8268e1a8285d5f1b58239a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-20-2016",
    "path": "local/vaslui/husi/2016/20",
    "short": "HCL Huși nr. 20/2016",
@@ -18,6 +708,1026 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-21-2016",
+   "path": "local/vaslui/husi/2016/21",
+   "short": "HCL Huși nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 21/2016 privind modificarea organigramei si a statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_21_2016-1.pdf",
+     "sha256": "512688c8b4768f4aa677d16fad2d2a2743d9c1c1a7114ba0dd118de1b1e1733b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-22-2016",
+   "path": "local/vaslui/husi/2016/22",
+   "short": "HCL Huși nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 22/2016 privind modificarea statului de functii al personalului din cadrul Serviciului Public Comunitar Local de Evidenta Persoanelor Husi",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_22_2016-1.pdf",
+     "sha256": "c64240b60f3f6bf44acaa0638f4fbe6133e6fc9ab18b40da082013a820c22630"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-23-2016",
+   "path": "local/vaslui/husi/2016/23",
+   "short": "HCL Huși nr. 23/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 23/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna august 2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_23_2016-1.pdf",
+     "sha256": "6c8f91c5cc68de25724359ac71b17e89900c64f5c089e3b9ed2fbd4911c4727f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-24-2016",
+   "path": "local/vaslui/husi/2016/24",
+   "short": "HCL Huși nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 24/2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_24_2016-1.pdf",
+     "sha256": "4b94d5acde17569f0f6dd4c2b78f53301d876f3d0c050482bfe50153348a535d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-25-2016",
+   "path": "local/vaslui/husi/2016/25",
+   "short": "HCL Huși nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 25/2016 privind actualizarea documentatiei tehnico-economice pentru obiectivul “Executie lucrari de utilitati si sistematizare verticala locuinte ANL municipiul Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_25_2016-1.pdf",
+     "sha256": "eccedff6ce97c9ae154d56e1df1d9e9040a1ce58de84fe340f26a108584a355d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-26-2016",
+   "path": "local/vaslui/husi/2016/26",
+   "short": "HCL Huși nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 26/2016 privind actualizarea documentatiei tehnico-economice pentru utilitati la obiectivul de lucrari ‹‹Asigurarea unui proces educational competitiv prin creare Campus Colegiul National “Cuza Voda” Husi »",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_26_2016-1.pdf",
+     "sha256": "4751c6ef62b6483e3a8ba399b8d6781944cd33862aad9fedbdb3ac3fcaa04b00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-27-2016",
+   "path": "local/vaslui/husi/2016/27",
+   "short": "HCL Huși nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 27/2016 privind aprobarea documentatiei tehnico-economice “Dotari functionare Campus Scolar Cuza Voda Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_27_2016-1.pdf",
+     "sha256": "e8d52e034a8415144dc7b4f25f5e3cf7d69eb394c5fe601e59d3e5abb0201eab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-28-2016",
+   "path": "local/vaslui/husi/2016/28",
+   "short": "HCL Huși nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 28/2016 privind aprobarea, pentru anul 2016, a numarului de asistenti personali ai persoanelor cu handicap grav, incadrati cu contract individual de munca pe raza municipiului Husi, conform Hotararii Guvernului nr.427/2001",
+   "url": "https://www.primariahusi.ro/hotarari-28-ianuarie-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_28_2016.pdf",
+     "sha256": "1716ef2534e6fe1782cfb598596e176882e99b3a0db7ced2506c86b45c8c536d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-29-2016",
+   "path": "local/vaslui/husi/2016/29",
+   "short": "HCL Huși nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 29/2016 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2016-2017 pentru « Program reparatii strazi in Municipiul Husi pentru anul 2016»",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_29_2016-1.pdf",
+     "sha256": "f6d22caa9ae93e38cd60da20ad3d6d2a53d1f1481e87c3f4217b36b4b979de77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-3-2016",
+   "path": "local/vaslui/husi/2016/3",
+   "short": "HCL Huși nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 3/2016 privind constituirea Consiliului local al municipiului Husi ales la 5 iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-21-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_3_2016.pdf",
+     "sha256": "0ee2c0bf5da9dc18f898e92d081c47d4e2c54b1792b7f1afec8b9467d7d274bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-30-2016",
+   "path": "local/vaslui/husi/2016/30",
+   "short": "HCL Huși nr. 30/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 30/2016 privind aprobarea executiei bugetului local, bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii, si bugetului creditelor interne incheiata la data de 30.06.2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_30_2016-1.pdf",
+     "sha256": "05db7a4b518742aa64aff56dd6791e05f4ae99cfc0d2848d5444d5b5d30f1892"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2016",
+   "path": "local/vaslui/husi/2016/31",
+   "short": "HCL Huși nr. 31/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2016 privind rectificarea bugetului local cu suma de 333,3 mii lei reprezentand venituri proprii buget local - etapa august 2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_31_2016-1.pdf",
+     "sha256": "7868e111af75bda5721fdaaf597b53e22d7505c4cef2e56d09ec95fc33797bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-32-2016",
+   "path": "local/vaslui/husi/2016/32",
+   "short": "HCL Huși nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 32/2016 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2016 al institutiilor publice finantate integral sau partial din venituri proprii - etapa august 2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_32_2016-1.pdf",
+     "sha256": "e394d97e3706614b75af1560854240fcc5c6f3f6cdb398782d42f1d7361615c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-33-2016",
+   "path": "local/vaslui/husi/2016/33",
+   "short": "HCL Huși nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 33/2016 privind acordarea unui aviz de principiu pentru aprobarea participarii UAT Municipiul Husi in parteneriatul initiat de Fundatia Star of Hope Romania si realizarea de documentatii in vederea accesarii de finantari in cadrul Programului Operational Capital Uman 2014-2020 - Axa prioritara 4: Incluziunea sociala si combaterea saraciei; Obiectiv tematic 9: Promovarea incluziunii sociale, combaterea sar",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_33_2016-1.pdf",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_33_2016-1.pdf",
+     "sha256": "2bd010c821d149b294101be02e9bf54a8b2c8e0384a7b26431fece36645f1557"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-35-2016",
+   "path": "local/vaslui/husi/2016/35",
+   "short": "HCL Huși nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2016 privind aprobarea modificarilor la Contractul unic de delegare a gestiunii serviciului public de alimentare cu apa si de canalizare din judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-28-ianuarie-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_35_2016.pdf",
+     "sha256": "f60f94e565cbd5a35ed068df1b920ec763248524b84fab3770657358292debe3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-36-2016",
+   "path": "local/vaslui/husi/2016/36",
+   "short": "HCL Huși nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 36/2016",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_36_2016-1.pdf",
+     "sha256": "1ed59ed38bb58ce935c5aefc0a412cddd18167cea7aea45792adb5cd599033c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-37-2016",
+   "path": "local/vaslui/husi/2016/37",
+   "short": "HCL Huși nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2016 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-03-august-2016/",
+   "versions": [
+    {
+     "from": "2016-08-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_37_2016-1.pdf",
+     "sha256": "71910dfacd95f6bcb3affc5f85c9db6746c788c1a7a9bf91034cbc662f06a9ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-38-2016",
+   "path": "local/vaslui/husi/2016/38",
+   "short": "HCL Huși nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 38/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna septembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_38_2016-1.pdf",
+     "sha256": "6ac6ee6a8fd87032a220c49af68e09734a168beb5539a3bdebade72b5092d7cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-39-2016",
+   "path": "local/vaslui/husi/2016/39",
+   "short": "HCL Huși nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 39/2016 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_39_2016-1.pdf",
+     "sha256": "5d70037691669b2767a8d3422a3e437d553dc2285593b28a3cfeea6edce11a61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-4-2016",
+   "path": "local/vaslui/husi/2016/4",
+   "short": "HCL Huși nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 4/2016 privind alegerea presedintelui de sedinta a Consiliului Local al Municipiului Husi, pentru luna iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-21-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_4_2016.pdf",
+     "sha256": "5c73daa8298b9874a1efc035411ca3fd4932edefce33cd4c675af096f9b99ee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-40-2016",
+   "path": "local/vaslui/husi/2016/40",
+   "short": "HCL Huși nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 40/2016 privind transmiterea dreptului de concesiune asupra unei suprafete de teren situata in municipiul Husi,strada Sf",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_40_2016-1.pdf",
+     "sha256": "9a0ee957d95ed1d370c31cbc3d96787101945ed4dff19bd881a7e901462fe9a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-41-2016",
+   "path": "local/vaslui/husi/2016/41",
+   "short": "HCL Huși nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 41/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_41_2016-1.pdf",
+     "sha256": "40de1e3ec5f283f5d6feb24a797575bcb0c653cb11b79ccf7de83840e130ab37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-42-2016",
+   "path": "local/vaslui/husi/2016/42",
+   "short": "HCL Huși nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 42/2016",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_42_2016-1.pdf",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_42_2016-1.pdf",
+     "sha256": "1872c43ced326a783fa06b40a8cf44a4a6d7f8926a2dade88582c78303f94840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-43-2016",
+   "path": "local/vaslui/husi/2016/43",
+   "short": "HCL Huși nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 43/2016 privind aprobarea finantarii lucrarilor de inregistrare sistematica avand ca obiect sectoare cadastrale din cadrul UAT Municipiul Husi, in scopul inregistrarii gratuite a imobilelor in sistemul integrat de cadastru si carte funciara",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_43_2016-1.pdf",
+     "sha256": "830ce329718b39cdd6c724e65e3b7e402252b497596f17c1acaf18d83eb1f9d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-44-2016",
+   "path": "local/vaslui/husi/2016/44",
+   "short": "HCL Huși nr. 44/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 44/2016 privind stabilirea normativului propriu de cheltuieli privind consumul lunar de carburanti pentru autoturismele din parcul auto al Primariei Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_44_2016-1.pdf",
+     "sha256": "2325c12ae574a1e1b7a1457de3555187f15846ef1473069c2da46fb47a07b79d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-47-2016",
+   "path": "local/vaslui/husi/2016/47",
+   "short": "HCL Huși nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 47/2016 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2016-2017 pentru obiectivul de investitii « Modernizare strada Capitan Anastasiu – Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-18-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_47_2016.pdf",
+     "sha256": "d066b70019cc1e49ba85054d03ad875ef6a4f9a1d0ad6cf77213e530a0b206b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-48-2016",
+   "path": "local/vaslui/husi/2016/48",
+   "short": "HCL Huși nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 48/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_48_2016-1.pdf",
+     "sha256": "0d990022219a10ad3db0d19d822c183590f834941f3f5e57c87df34a876568b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-49-2016",
+   "path": "local/vaslui/husi/2016/49",
+   "short": "HCL Huși nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 49/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_49_2016-1.pdf",
+     "sha256": "66ed51bdee0e75390f4e82e2459540d834ebd4875350dd13d5b7846ddf36ae0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-5-2016",
+   "path": "local/vaslui/husi/2016/5",
+   "short": "HCL Huși nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 5/2016 privind constituirea comisiilor de specialitate",
+   "url": "https://www.primariahusi.ro/hotarari-21-iunie-2016/",
+   "versions": [
+    {
+     "from": "2016-06-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_5_2016.pdf",
+     "sha256": "776a1edfdf7c31046edc4651884cde89e4ae6f37b3ed834635e11521ef0d2646"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-51-2016",
+   "path": "local/vaslui/husi/2016/51",
+   "short": "HCL Huși nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 51/2016 privind desemnarea reprezentantului Municipiului Husi in Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din municipiile Vaslui, Birlad, Husi si orasul Negresti – judetul Vaslui (APC",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_51_2016-1.pdf",
+     "sha256": "6a29ccbc651a7ac6945137ebc8092d3cfba9b57bc075c813f6924f23bb882193"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-52-2016",
+   "path": "local/vaslui/husi/2016/52",
+   "short": "HCL Huși nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 52/2016 privind acordarea unui mandat special reprezentantului Consiliului Local al municipiului Husi in Adunarea Generala a Asociatiei pentru dezvoltare intercomunitara de utilitati publice pentru serviciul de alimentare cu apa si de canalizare din municipiile Vaslui, Barlad, Husi si ora",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_52_2016-1.pdf",
+     "sha256": "ad7d3b79af7703448a9b94c3fe208b4a9db3da0c5be37d2edf7a369bcfa354ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-53-2016",
+   "path": "local/vaslui/husi/2016/53",
+   "short": "HCL Huși nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 53/2016 privind aprobarea delegarii de gestiune prin concesionare a serviciului de transport public local de calatori prin curse regulate in municipiul Husi, precum si aprobarea Studiului de oportunitate privind delegarea de gestiune a transportului public local, Caietul de sarcini, Instr",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_53_2016-1.pdf",
+     "sha256": "097a7422885d1deb69906d8818198d1f282ee810ff632a11066f89322fd2ef8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-54-2016",
+   "path": "local/vaslui/husi/2016/54",
+   "short": "HCL Huși nr. 54/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 54/2016 privind aprobarea vanzarii prin licitatie publica a spatiului comercial nr.1, in suprafata construita de 53,59 mp si a cotei indivize de teren in suprafata de 11,08 mp, apartinand domeniului privat al municipiului Husi, situat in intravilanul municipiului Husi, Bd.1 Mai bl.25, sc",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_54_2016-1.pdf",
+     "sha256": "0c7619a15b77ca662874b13f71b86317df3a64fa263aa5433ee56fd4b46a64e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-55-2016",
+   "path": "local/vaslui/husi/2016/55",
+   "short": "HCL Huși nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 55/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_55_2016-1.pdf",
+     "sha256": "38c65cf5d30fa98d528fcd3459b6ea70fdcbe52b9f5551164176aa89ae12fe32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-56-2016",
+   "path": "local/vaslui/husi/2016/56",
+   "short": "HCL Huși nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 56/2016 privind aprobarea prelungirii duratei contractului de concesiune nr.30899 din 20.12.2004, concesionar d-nul dr.Vasilescu Ioan-Victor, pentru spatiul cabinet stomatologic nr.2, situat in incinta imobilului “Stomatologie”, in suprafata totala de 35,97 mp, apartinand domeniului priva",
+   "url": "https://www.primariahusi.ro/hotarari-29-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_56_2016.pdf",
+     "sha256": "b5744e7286628b3b875218b6cd1dd1ab66ca17f0ba545fdc6f9835812bbb4246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-58-2016",
+   "path": "local/vaslui/husi/2016/58",
+   "short": "HCL Huși nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 58/2016 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in Comisiile de concurs, constituite in vederea organizarii concursurilor pentru ocuparea functiilor de director si director adjunct la unitatile de invatamant preuniversitar de stat din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_58_2016-II.pdf",
+     "sha256": "46b8c3b3c6a28e1d2217134ba37e3806d007349d423e1b18a95b9d08d0796792"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-59-2016",
+   "path": "local/vaslui/husi/2016/59",
+   "short": "HCL Huși nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 59/2016 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_59_2016-II.pdf",
+     "sha256": "d75d1d67e8a81a3e6a4576672ea48adf710295483d1d1089f4bad0142fae3999"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-6-2016",
+   "path": "local/vaslui/husi/2016/6",
+   "short": "HCL Huși nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 6/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna iulie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_6_2016.pdf",
+     "sha256": "f457b9a45a8991bc993fc7d3e005cabb89f2b6824a58df2cdf12930d8cf288d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-60-2016",
+   "path": "local/vaslui/husi/2016/60",
+   "short": "HCL Huși nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 60/2016 privind aprobarea documentatiei tehnico-economice pentru obiectivul de investitie “Executie lucrari de utilitati si sistematizare verticala locuinte ANL municipiul Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-29-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_60_2016.pdf",
+     "sha256": "5b13ceeca5581bf7901632361ffe0d98f25e8f26754dc1d48181506d26ec5eb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-61-2016",
+   "path": "local/vaslui/husi/2016/61",
+   "short": "HCL Huși nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 61/2016 privind aprobarea documentatiei tehnico-economice pentru utilitati la obiectivul de lucrari «Asigurarea unui proces educational competitiv prin creare Campus Colegiul National “Cuza Voda” Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-29-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_61_2016.pdf",
+     "sha256": "3bed9696269c21cf59a11f2e8260adb9e2956e928d03ac163164ebb832a6c89d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-62-2016",
+   "path": "local/vaslui/husi/2016/62",
+   "short": "HCL Huși nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 62/2016 privind rectificarea bugetului local cu suma de 2302,35 mii lei reprezentand sume defalcate din TVA, sume primite de la Agentia Nationala de Cadastru si Publicitate Imobiliara si sume primite de la bugetul judetului catre bugetele locale pentru plata drepturilor de care beneficiea",
+   "url": "https://www.primariahusi.ro/hotarari-27-septembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-09-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_62_2016-II.pdf",
+     "sha256": "25638446867b927761158c91709b74c705b325d2ead2e8ddcf02a2f6f26dee0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-63-2016",
+   "path": "local/vaslui/husi/2016/63",
+   "short": "HCL Huși nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna octombrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-14-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_63_2016-II.pdf",
+     "sha256": "3efd6d711e929c22fc2d02c70dbad4b7d2b41386665819574381eefdc7184b6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-64-2016",
+   "path": "local/vaslui/husi/2016/64",
+   "short": "HCL Huși nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 64/2016 privind actualizarea programului de reparatii strazi in municipiul Husi pentru anul 2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_64_2016.pdf",
+     "sha256": "125ffde0ea0216713caa1677938b8e797e894289a1397298aafec44a756390cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-65-2016",
+   "path": "local/vaslui/husi/2016/65",
+   "short": "HCL Huși nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2016 privind desemnarea reprezentantilor Consiliului Local al Municipiului Husi in Comisia de concurs si in Comisia de solutionare a contestatiilor pentru ocuparea postului specific comitetului director de director medical la Spitalul Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-14-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_65_2016-II.pdf",
+     "sha256": "c1ddf6b8afcb12564f99bc0ccecd55b672930694f1fb02b059c644c9a80e7fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-66-2016",
+   "path": "local/vaslui/husi/2016/66",
+   "short": "HCL Huși nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 66/2016 privind aprobarea REGULAMENTULUI DE ORGANIZARE SI FUNCTIONARE a Consiliului Local al municipiului Husi constituit la 21 iunie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_66_2016-II.pdf",
+     "sha256": "1c13a9fe5048cc6c62b9ad29904b1932738c0ebecd66eafea679a7f16e19a959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-67-2016",
+   "path": "local/vaslui/husi/2016/67",
+   "short": "HCL Huși nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 67/2016 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_67_2016-II.pdf",
+     "sha256": "a1cd17dae643491637cf213eafb5e36ee6763599d343b0d8227910179ab19644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-68-2016",
+   "path": "local/vaslui/husi/2016/68",
+   "short": "HCL Huși nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 68/2016 privind completarea inventarului bunurilor ce apartin domeniului public al municipiului Husi, cu bunuri aferente Serviciului public de alimentare cu apa si de canalizare menajera",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_68_2016-II.pdf",
+     "sha256": "7219a973b4ff9784654612bfb8eebf720cef8478ff0ea903e40468003e87f879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-69-2016",
+   "path": "local/vaslui/husi/2016/69",
+   "short": "HCL Huși nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 69/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_69_2016-II.pdf",
+     "sha256": "8905ad1f7aa2f0ca7a6fb01650ddeb4862815f40a81592ab8a53311949b362d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-7-2016",
+   "path": "local/vaslui/husi/2016/7",
+   "short": "HCL Huși nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 7/2016 privind alegerea viceprimarului Municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_7_2016.pdf",
+     "sha256": "0496cffec3a5ca785424bf1dd91ee1a835c280d270cc12f4fcd6e3302351d0ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-70-2016",
+   "path": "local/vaslui/husi/2016/70",
+   "short": "HCL Huși nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 70/2016 privind aprobarea alipirii terenurilor apartinând domeniului privat al municipiului Husi în suprafata de 20 mp cu numarul cadastral 71974 si 8 mp cu numarul cadastral 75628",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_70_2016-II.pdf",
+     "sha256": "c8d621ccdd2252128385629bdcc6c1fa7a4fddb6542132251632bff5a89fd1c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2016",
+   "path": "local/vaslui/husi/2016/71",
+   "short": "HCL Huși nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_71_2016-II.pdf",
+     "sha256": "a081002de9cedb3a79163263d3385a75f875a16b7a07eb40ed76ac9986631403"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-72-2016",
+   "path": "local/vaslui/husi/2016/72",
+   "short": "HCL Huși nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 72/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_72_2016-II.pdf",
+     "sha256": "7eee62d3a45df01704fd7af48e906d8549f04149feac7ed2014590154b5bc8e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-73-2016",
+   "path": "local/vaslui/husi/2016/73",
+   "short": "HCL Huși nr. 73/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 73/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_73_2016-II.pdf",
+     "sha256": "3de889e785cd5d792beabe211f423c942526a7dda437f6d87cdc7fd022c3186a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-74-2016",
+   "path": "local/vaslui/husi/2016/74",
+   "short": "HCL Huși nr. 74/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 74/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_74_2016-II.pdf",
+     "sha256": "692263122135bd55f5ab1fe6651045f12037f810e51257323f2d31f6b4818365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-75-2016",
+   "path": "local/vaslui/husi/2016/75",
+   "short": "HCL Huși nr. 75/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 75/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_75_2016-II.pdf",
+     "sha256": "2a243aff46e9fe22418bf56445aad12ce0fe01bd5f64e04e2c2fcc46d5b2c545"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-76-2016",
+   "path": "local/vaslui/husi/2016/76",
+   "short": "HCL Huși nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 76/2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_76_2016-II.pdf",
+     "sha256": "0bc1b440200632d0efdd8a7675d4f15fb210d4dad19c11fa4081395c4e24f54e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-77-2016",
+   "path": "local/vaslui/husi/2016/77",
+   "short": "HCL Huși nr. 77/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 77/2016",
+   "url": "https://www.primariahusi.ro/hotarari-29-februarie-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_77_2016.pdf",
+     "sha256": "abffa41729aac3c26e2968c8b349e3eda39e110a9d0524cd15a4e9338efef1a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-78-2016",
+   "path": "local/vaslui/husi/2016/78",
+   "short": "HCL Huși nr. 78/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 78/2016 privind aprobarea locurilor pentru parcarile publice cu plata pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_78_2016-II.pdf",
+     "sha256": "f819d22c1636b868cfe15057c047c397cb73ca0f4c919895522ec81c4c285f07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-79-2016",
+   "path": "local/vaslui/husi/2016/79",
+   "short": "HCL Huși nr. 79/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 79/2016 privind aprobarea schimbarii titularului contractului de închiriere al apartamentului situat în municipiul Husi, strada 14 Iulie, nr.3, bl.30, sc.A, parter, ap.2 (fosta Bd.1 Mai)",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_79_2016-II.pdf",
+     "sha256": "832119391e7bd833021bd62cd3badbfeec1b8c28224423c854f57bb3ae46ce56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-8-2016",
+   "path": "local/vaslui/husi/2016/8",
+   "short": "HCL Huși nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 8/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_8_2016.pdf",
+     "sha256": "4ee5028f46fe78bcde628679f7a6e94ba6dafc69c11b534dfee4752e34a28691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-80-2016",
+   "path": "local/vaslui/husi/2016/80",
+   "short": "HCL Huși nr. 80/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 80/2016 privind aprobarea Regulamentului de Organizare si Functionare, Organigramei si a Statului de functii al Cresei din Municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_80_2016-II.pdf",
+     "sha256": "b8218c2c124bbefad40aa41359a9ddf8213512874ddbd17773ee93471211e620"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-81-2016",
+   "path": "local/vaslui/husi/2016/81",
+   "short": "HCL Huși nr. 81/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 81/2016 privind modificarea organigramei si a statului de functii al Spitalului Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_81_2016-II.pdf",
+     "sha256": "3f3a10a9fa7021e775ebf48829eaa039fea0af0b2b7b87430b3e901aebedbd5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-82-2016",
+   "path": "local/vaslui/husi/2016/82",
+   "short": "HCL Huși nr. 82/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 82/2016 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2016-2017 pentru obiectivul de investitii «Reabilitare Strada Ion Cernatescu in Municipiul Husi»",
+   "url": "https://www.primariahusi.ro/hotarari-14-martie-2016/",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_82_2016.pdf",
+     "sha256": "d5830ff89a37dc446f94144c55feab6f1e0c1bebb2897f6e1f7562881d91eeec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-83-2016",
+   "path": "local/vaslui/husi/2016/83",
+   "short": "HCL Huși nr. 83/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 83/2016 privind actualizarea documentatiei tehnico-economice pentru obiectivul “Executie lucrari de utilitati si sistematizare verticala locuinte ANL municipiul Husi“",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_83_2016-II.pdf",
+     "sha256": "5d6bf04d2ba47be9d7024115104ea2c60ba22c6a15f9967fc8e5b9855849beb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-84-2016",
+   "path": "local/vaslui/husi/2016/84",
+   "short": "HCL Huși nr. 84/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 84/2016 privind aprobarea prelungirii delegarii gestiunii serviciului de transport public local prin curse regulate,efectuat pe raza municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_84_2016-II.pdf",
+     "sha256": "6fc21e0b110534d71a23c2b98404091f03b593ec4bdcceeb9abf9961e6aa9151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-85-2016",
+   "path": "local/vaslui/husi/2016/85",
+   "short": "HCL Huși nr. 85/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 85/2016 privind aprobarea executiei bugetului local, bugetului institutiilor publice finantate integral sau partial din venituri proprii si subventii, si bugetului creditelor interne încheiata la data de 30.09.2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_85_2016-II.pdf",
+     "sha256": "b025237b8b45c2f95782af128e3d7217e0a7fcd4ee6ce3857b4a617c2933dd1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-86-2016",
+   "path": "local/vaslui/husi/2016/86",
+   "short": "HCL Huși nr. 86/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 86/2016 privind aprobarea cuantumului si numarului de burse acordate elevilor din învatamântul preuniversitar de stat din Municipiul Husi pentru semestrul I an scolar 2016-2017",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_86_2016-II.pdf",
+     "sha256": "0b0214aaa9fed897859653609589005be4794217fd81f511332ccbbd69e61f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-87-2016",
+   "path": "local/vaslui/husi/2016/87",
+   "short": "HCL Huși nr. 87/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 87/2016 privind aprobarea Programului de pregatire, deszapezire si combaterea poleiului pe drumurile publice din municipiul Husi pentru perioada 15 noiembrie 2016 – 15 martie 2017 si a Programului cu principalele masuri pentru prevenirea si combaterea efectelor negative ale situatiilor de",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_87_2016-II.pdf",
+     "sha256": "3da1bec75488b7669c0051791b03a3adf999fefb0964585367086f604852e176"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-88-2016",
    "path": "local/vaslui/husi/2016/88",
    "short": "HCL Huși nr. 88/2016",
@@ -29,6 +1739,186 @@
      "units": 7,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_88_2016-II.pdf",
      "sha256": "4ad20af4584f9c4cde067f9d6043f4f46dd2b2439fd1794b0f24aab2ec030edb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-89-2016",
+   "path": "local/vaslui/husi/2016/89",
+   "short": "HCL Huși nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 89/2016 privind rectificarea bugetului de venituri si cheltuieli al SC PARCURI VERZI HUSI pentru anul 2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_89_2016-II.pdf",
+     "sha256": "ab0e6d0bab4887540700daa30f42d354772ae8d5e7fd45b1047721e1fe1f6d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-9-2016",
+   "path": "local/vaslui/husi/2016/9",
+   "short": "HCL Huși nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 9/2016",
+   "url": "https://www.primariahusi.ro/hotarari-07-iulie-2016/",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_9_2016.pdf",
+     "sha256": "3849187d0893207fd1840eb106066afd92cdcbbe11875555dca15255d7996050"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-90-2016",
+   "path": "local/vaslui/husi/2016/90",
+   "short": "HCL Huși nr. 90/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 90/2016 privind rectificarea bugetului local cu suma de 821,56 mii lei reprezentând venituri proprii buget local – etapa octombrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_90_2016-II.pdf",
+     "sha256": "7cf5fd118792c18b9e2f28f31d7e6d672705bd6387461447c66acaa16910cbfc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-91-2016",
+   "path": "local/vaslui/husi/2016/91",
+   "short": "HCL Huși nr. 91/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 91/2016 privind aprobarea rectificarii bugetului de venituri si cheltuieli pe anul 2016 al institutiilor publice finantate integral sau partial din venituri proprii - etapa octombrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_91_2016-II.pdf",
+     "sha256": "21a674aa081ffd4dee2c2cd0b218318f80f3ee898bdcaf9095663bb1a778be6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-92-2016",
+   "path": "local/vaslui/husi/2016/92",
+   "short": "HCL Huși nr. 92/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 92/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna noiembrie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-11-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_92_2016-II.pdf",
+     "sha256": "29d13b849f145b84d2afef3d07e33fde0c60b6b0bc2a4fbbe4815bfad35a9a95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2016",
+   "path": "local/vaslui/husi/2016/93",
+   "short": "HCL Huși nr. 93/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2016",
+   "url": "https://www.primariahusi.ro/hotarari-30-martie-2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_93_2016.pdf",
+     "sha256": "8741ba2b0d1ffa8b14ed972365b00a822b782d2f2f2e3a49fc8630ecf40e397c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-94-2016",
+   "path": "local/vaslui/husi/2016/94",
+   "short": "HCL Huși nr. 94/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 94/2016",
+   "url": "https://www.primariahusi.ro/hotarari-30-martie-2016/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_94_2016.pdf",
+     "sha256": "af3e54ef42720a9de60c25bf9b02b1b57b266aebfd400aed410bd54ce30756c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-95-2016",
+   "path": "local/vaslui/husi/2016/95",
+   "short": "HCL Huși nr. 95/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 95/2016 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna aprilie 2016",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2016/",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_95_2016.pdf",
+     "sha256": "3111d93c92c0ad69bb6abe844ccba063d36544e910953dc6a43f92915d9ddd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-96-2016",
+   "path": "local/vaslui/husi/2016/96",
+   "short": "HCL Huși nr. 96/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 96/2016 privind aprobarea documentatiei tehnico-economice a obiectivului de investitie “Realizare retea de canalizare menajera strada Gheorghe Bucur, in municipiul Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-14-aprilie-2016/",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_96_2016.pdf",
+     "sha256": "fa863c1961883dd7e9535cce3f16373259a01b459a1bf72bf92003693db49622"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-97-2016",
+   "path": "local/vaslui/husi/2016/97",
+   "short": "HCL Huși nr. 97/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 97/2016 privind aprobarea predarii unor bunuri apartinand domeniului public al municipiului Husi, aferente infrastructurii serviciului de alimentare cu apa si canal-epurare – Sector canal epurare, catre SC “AQUAVAS”SA Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_97_2016-II.pdf",
+     "sha256": "45308138fc000ba708b53d530648b8a3a8888bcaeff53d6513f12a26dc46bce8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2016",
+   "path": "local/vaslui/husi/2016/98",
+   "short": "HCL Huși nr. 98/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2016 privind prelungirea duratei contractelor de inchiriere, avand ca obiect terenurile apartinand domeniului privat al municipiului Husi, pe care sunt amplasate constructii provizorii, cu destinatia de garaj sau magazie",
+   "url": "https://www.primariahusi.ro/hotarari-29-noiembrie-2016/",
+   "versions": [
+    {
+     "from": "2016-11-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_98_2016-II.pdf",
+     "sha256": "c5d66ce3acd17088cbb9e55684924fdfa436cde53a870e4601836c9ca94b66d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-99-2016",
+   "path": "local/vaslui/husi/2016/99",
+   "short": "HCL Huși nr. 99/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 99/2016 privind completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-aprilie-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2022/11/hotararea_99_2016.pdf",
+     "sha256": "dd23b404cafc96ba319789a004cc61d4e47f01d75cd92a0047e36f7509a4fda5"
     }
    ]
   }

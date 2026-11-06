@@ -3,6 +3,81 @@
  "shard": "local/vaslui/husi/2008",
  "acts": [
   {
+   "slug": "hcl-vaslui--husi-10-2008",
+   "path": "local/vaslui/husi/2008/10",
+   "short": "HCL Huși nr. 10/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 10/2008 Privind rectificarea bugetului local cu suma de 1903 mii lei reprezentind venituri proprii, cote defalcate din impozit pe venit, sume defalcate din TVA pentru echilibrarea bugetelor locale si subventii",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_10_2008.pdf",
+     "sha256": "f975bb344a0f3286d536777a80246ba151132ba16e5c63f09c4ac8f8e885e4a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-100-2008",
+   "path": "local/vaslui/husi/2008/100",
+   "short": "HCL Huși nr. 100/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 100/2008 privind prelungirea perioadei de angajare a unui numar de 33 persoane in cadrul Programului de Ocupare Temporara a Fortei de Munca",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_100_2008.pdf",
+     "sha256": "a9bb899b2c57cb963fb8cf4241a42385212698580e69ee62b7e7e8a0864f2b8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-101-2008",
+   "path": "local/vaslui/husi/2008/101",
+   "short": "HCL Huși nr. 101/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 101/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Amenajare Parc Rodina, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_101_2008.pdf",
+     "sha256": "7d2fff7af39b4c6ae54963d7df8b60b5e0390610ebefc1acdc3b7dd95f7a4677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-102-2008",
+   "path": "local/vaslui/husi/2008/102",
+   "short": "HCL Huși nr. 102/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 102/2008 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna noiembrie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_102_2008.pdf",
+     "sha256": "132f3448be2ed7399281c6dcce34799708641cce3687c01c5a63af424a1e9570"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-103-2008",
+   "path": "local/vaslui/husi/2008/103",
+   "short": "HCL Huși nr. 103/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 103/2008 privind rectificarea bugetului local cu suma de 670 mii lei reprezentand subventii de la bugetul de stat si venituri proprii buget local",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_103_2008.pdf",
+     "sha256": "bd4d9609b1f942c3dab113fae403ed2a9a462cc4e2ae16429b3b48e079fac3ae"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-104-2008",
    "path": "local/vaslui/husi/2008/104",
    "short": "HCL Huși nr. 104/2008",
@@ -48,6 +123,831 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-107-2008",
+   "path": "local/vaslui/husi/2008/107",
+   "short": "HCL Huși nr. 107/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 107/2008 privind suplimentarea numarului de asistenti personali pentru persoane cu handicap grav din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_107_2008.pdf",
+     "sha256": "59997c97170024ebb4dca4edb46ee8e8489635cd1372b1f0f6c1ac0d27613d56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-108-2008",
+   "path": "local/vaslui/husi/2008/108",
+   "short": "HCL Huși nr. 108/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 108/2008 privind aprobarea proiectului ce urmează a fi depus spre finanŃare în cadrul Programului OperaŃional Sectorial \"Creșterea CompetitivităŃii Economice\" 2007-2013, Axa III, Domeniul Major de IntervenŃie 2, OperaŃiunea 1 „SusŃinerea implementării de soluŃii de e-guvernare și asigurarea conexiunii la broadband, acolo unde este necesar”, precum și a cheltuielilor legate de acesta, inclusiv a valorii sal",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_108_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_108_2008.pdf",
+     "sha256": "d2886b5c73004f49cebe032c4b506a445a913d89c682968b9fd9ad143315645a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-109-2008",
+   "path": "local/vaslui/husi/2008/109",
+   "short": "HCL Huși nr. 109/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 109/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Inlocuire tamplarie Scoala nr.2, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_109_2008.pdf",
+     "sha256": "7d3227bedc7dd604424d1f6138bc60a291731a82ed806e32eb62de457f11f04a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-11-2008",
+   "path": "local/vaslui/husi/2008/11",
+   "short": "HCL Huși nr. 11/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 11/2008 Privind rectificarea bugetului de venituri si cheltuieli evidentiate in afara bugetului local pe anul 2008",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_11_2008.pdf",
+     "sha256": "2b46c97c6f6bfa0c655d0eaa27f40f0b9083cb3c545ab434a439041b37ada4f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-111-2008",
+   "path": "local/vaslui/husi/2008/111",
+   "short": "HCL Huși nr. 111/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 111/2008 privind modificarea pozitiei nr.326 din Inventarul bunurilor care apartin domeniului public al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-14-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_111_2008.pdf",
+     "sha256": "8cba32e4f4bcc10c201cc676e65c6051f37b34feb6d395c0a5cba4ca203066a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-112-2008",
+   "path": "local/vaslui/husi/2008/112",
+   "short": "HCL Huși nr. 112/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 112/2008 privind emiterea unui aviz de principiu in vederea vanzarii terenului situat in municipiul Husi, str",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_112_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-14",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_112_2008.pdf",
+     "sha256": "0c9738b777edfb9522dc1b61911d07a7127fdeb4c84f3a6397353e5b284e7523"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-113-2008",
+   "path": "local/vaslui/husi/2008/113",
+   "short": "HCL Huși nr. 113/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 113/2008 privind aprobarea PUD - \"Construire spatiu comercial - prestari servicii\", municipiul Husi, str.M.Kogalniceanu, langa Seminar, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_113_2008.pdf",
+     "sha256": "8d0f2b02e032b57cf90c6fc84ccd91da6d1c3b6535999648781b14dd54fb2a71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-115-2008",
+   "path": "local/vaslui/husi/2008/115",
+   "short": "HCL Huși nr. 115/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 115/2008 privind aprobarea PUD - \"Amenajare spatiu comercializare flori naturale\", municipiul Husi, strada Piata Victoriei, langa Hala Agroalimentara, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_115_2008.pdf",
+     "sha256": "768f54704e21c31dfce958420296ee17bd57b9b4d0e009c61103c063eddf5e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-117-2008",
+   "path": "local/vaslui/husi/2008/117",
+   "short": "HCL Huși nr. 117/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 117/2008 privind aprobarea PUD - \"Spatiu comercial\", strada Alexandru Giugaru, nr.2, municipiul Husi,judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_117_2008.pdf",
+     "sha256": "b15c6af67a7e5c03cd684e36cc48f5ba6c6d95b3cb03453aaa4d57d181a51410"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-118-2008",
+   "path": "local/vaslui/husi/2008/118",
+   "short": "HCL Huși nr. 118/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 118/2008",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_118_2008.pdf",
+     "sha256": "71124af580d36e71c796bde0060f3825ff717eaca106dbb22706638ee4a998e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-119-2008",
+   "path": "local/vaslui/husi/2008/119",
+   "short": "HCL Huși nr. 119/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 119/2008 privind aprobarea PUD - \"Spatiu comercial\", strada Al.I.Cuza bl.I.10, municipiul Husi,judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_119_2008.pdf",
+     "sha256": "29421bd9c3554a80ab6c0ab156bdb081e3f98fc78d9af6bd85c702a18c7a350b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-12-2008",
+   "path": "local/vaslui/husi/2008/12",
+   "short": "HCL Huși nr. 12/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 12/2008 Privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_12_2008.pdf",
+     "sha256": "57a9f622e60c86d8fabdde610235378d2c9bb722eb1bebbbbf73c435005fcc9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-120-2008",
+   "path": "local/vaslui/husi/2008/120",
+   "short": "HCL Huși nr. 120/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 120/2008 privind aprobarea inchirierii prin licitatie publica a unui teren in suprafata de 3,5 mp apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea amplasarii unui punct comercial, str.Al.I.Cuza, bl.I.10",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_120_2008.pdf",
+     "sha256": "e610fe9c8a323cfaba189043aef82eafac9ac6f25e2853029032a60ef4428713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-121-2008",
+   "path": "local/vaslui/husi/2008/121",
+   "short": "HCL Huși nr. 121/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 121/2008 privind aprobarea PUD - \"Amenajare vitrina\", municipiul Husi, strada Piata Victoriei \"Gang Romarta\", judetul Vaslui, beneficiar AF COVALIU F",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_121_2008.pdf",
+     "sha256": "d0d1b3104b1ec50863f495909152fcafed8bae9b394606baaf9434bbfe68ee3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-122-2008",
+   "path": "local/vaslui/husi/2008/122",
+   "short": "HCL Huși nr. 122/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 122/2008 privind aprobarea inchirierii unei suprafete de teren de 3,80 mp, apartinand domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea amenajarii unei vitrine, situate in intravilanul municipiului Husi, strada Piata Victoriei \"Gang Romarta\", judet",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_122_2008.pdf",
+     "sha256": "278824d855a90c748afc22ea5d63f1bd92b676fa7a597e707a600c417483663d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-123-2008",
+   "path": "local/vaslui/husi/2008/123",
+   "short": "HCL Huși nr. 123/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 123/2008 privind aprobarea PUD - \"Extindere spatiu comercial\", municipiul Husi, strada Calea Basarabiei, nr.90, bl.B.2,sc.A,parter, judetul Vaslui, beneficiar SC HERFARM SRL HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_123_2008.pdf",
+     "sha256": "7958b2fa259993461d358fc036c72c82319bf8c26087255d839418317b9eebb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-124-2008",
+   "path": "local/vaslui/husi/2008/124",
+   "short": "HCL Huși nr. 124/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 124/2008 privind aprobarea concesionarii directe a unei suprafete de teren de 39,90 mp din care: 36,50 mp apartinand domeniului privat al municipiului Husi si 3,40 mp apartinand domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea extinderii spatiului",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_124_2008.pdf",
+     "sha256": "c253830c5249d6ae1ce5e666734e472c4aa29f5160b2eaf056f123c4b4ad3064"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-126-2008",
+   "path": "local/vaslui/husi/2008/126",
+   "short": "HCL Huși nr. 126/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 126/2008",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_126_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_126_2008.pdf",
+     "sha256": "bb980ff33124bf0b75217796249345e11416b6f2aea92baf4899a4e97ec695b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-127-2008",
+   "path": "local/vaslui/husi/2008/127",
+   "short": "HCL Huși nr. 127/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 127/2008",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea_127_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea_127_2008.pdf",
+     "sha256": "46b58c0e14ef958edc4fe6700bc523216f9a0f4a89de1c7649a5486d1c75e750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-128-2008",
+   "path": "local/vaslui/husi/2008/128",
+   "short": "HCL Huși nr. 128/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 128/2008 privind emiterea unui aviz de principiu in vederea vanzarii terenului situat in municipiul Husi, str",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_128_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_128_2008.pdf",
+     "sha256": "b8e3c55e86cc8767a70df2dcc29c9af10e3b4d2a3a1f10f10a6c5739650f5c97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-129-2008",
+   "path": "local/vaslui/husi/2008/129",
+   "short": "HCL Huși nr. 129/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 129/2008",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_129_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_129_2008.pdf",
+     "sha256": "168cf3d8c01982348a72bc9f128d9a6068317d75b695344b3ad62ab2a1489578"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-13-2008",
+   "path": "local/vaslui/husi/2008/13",
+   "short": "HCL Huși nr. 13/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 13/2008 privind modificarea organigramei si a statului de functii al personalului din cadrul Serviciul Public Local de Salubritate Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-ianuarie-2008/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea13_2008.pdf",
+     "sha256": "85f4eb43323fbe619e8b0d7573960068bfd37553731a000d69f7a0fbf7901ac5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-130-2008",
+   "path": "local/vaslui/husi/2008/130",
+   "short": "HCL Huși nr. 130/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 130/2008 privind aprobarea pretului de vanzare a imobilului situat in Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_130_2008.pdf",
+     "sha256": "d6071622ee523e7c28ffd625e4174cce2925c0c2662ca1a177031ce8071aa15e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-131-2008",
+   "path": "local/vaslui/husi/2008/131",
+   "short": "HCL Huși nr. 131/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 131/2008 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_131_2008.pdf",
+     "sha256": "5afd30e65e51cb33fcd6e97f91bd76ee4b8de68ef1adf2e5e9c7429f012cfca2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-132-2008",
+   "path": "local/vaslui/husi/2008/132",
+   "short": "HCL Huși nr. 132/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 132/2008 privind aprobarea vanzarii prin licitatie publica a unui teren in suprafata de 10000 mp situata in Tarlaua 33, Parcela 3577 apartinand domeniului privat al municipiului Husi, proprietatea municipiului Husi, situat in extravilanul municipiului Husi, judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_132_2008.pdf",
+     "sha256": "d99f0c5f2ab2a731887bc8027558b522675d7f0b8e5ce76b3c9752888cda07ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-133-2008",
+   "path": "local/vaslui/husi/2008/133",
+   "short": "HCL Huși nr. 133/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 133/2008",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_133_2008.pdf",
+     "sha256": "e8d4a60d6ad23e2c1a5a823860bbdd5fd9a21e197d7f7a5c846de9174b634553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-134-2008",
+   "path": "local/vaslui/husi/2008/134",
+   "short": "HCL Huși nr. 134/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 134/2008 privind modificarea statului de functii al personalului din cadrul Serviciului Public de Salubrizare Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_134_2008.pdf",
+     "sha256": "bdf03da7e801f47a807ad4d330a9e7980a4a1f05c1eca2b71d5784dc7b1466d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-135-2008",
+   "path": "local/vaslui/husi/2008/135",
+   "short": "HCL Huși nr. 135/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 135/2008",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_135_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_135_2008.pdf",
+     "sha256": "e7d1cfc4ec710d62bbe02ca7c274f7d6b7b3580045c261ee591d6a54dd4f90b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-136-2008",
+   "path": "local/vaslui/husi/2008/136",
+   "short": "HCL Huși nr. 136/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 136/2008",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_136_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_136_2008.pdf",
+     "sha256": "46ef6d63ee85e46de5afcec4e366c8c37e3528cc6c37ab2a0f87622229b5e50d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-137-2008",
+   "path": "local/vaslui/husi/2008/137",
+   "short": "HCL Huși nr. 137/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 137/2008 privind acordarea avizului consultativ favorabil al Consiliului Local al municipiului Husi pentru numirea pe postul de director la Colegiul Agricol “D.Cantemir” din municipiul Husi,judetul Vaslui , a domnului prof",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_137_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_137_2008.pdf",
+     "sha256": "bbb91b00a484d4ea580ea102ec13a3b67c40bf6ff52d1abe80e64872d1470d1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-138-2008",
+   "path": "local/vaslui/husi/2008/138",
+   "short": "HCL Huși nr. 138/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 138/2008 privind modificarea Comisiei de analizare a solicitarilor depuse si intocmire a listelor nominale cu solicitantii declarati eligibili si neeligibili, pentru punerea in aplicare a Programului national privind sprijinirea construirii de locuinte proprietate personala",
+   "url": "https://www.primariahusi.ro/hotarari-27-noiembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_138_2008.pdf",
+     "sha256": "28f91003ce3d8c7892d201cf68e4c42e89c15b93e420b30534c70f8d96379888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-139-2008",
+   "path": "local/vaslui/husi/2008/139",
+   "short": "HCL Huși nr. 139/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 139/2008 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna decembrie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-05-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_139_2008.pdf",
+     "sha256": "064c2300d47c10cef12c394426d0e802c1c37d867bd6a90d44698291b3528bd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-14-2008",
+   "path": "local/vaslui/husi/2008/14",
+   "short": "HCL Huși nr. 14/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 14/2008 Privind aprobarea PUD \"Inchiriere teren - amenajare acces\", municipiul Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_14_2008.pdf",
+     "sha256": "e9d86e1c291879302ee287f61fac6a229a56a6689a40f4e823e34bb47e00857e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-140-2008",
+   "path": "local/vaslui/husi/2008/140",
+   "short": "HCL Huși nr. 140/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 140/2008 privind rectificarea bugetului local cu suma de 1137,3 mii lei reprezentand sume defalcate din TVA, venituri proprii buget local si subventii de la bugetul de stat",
+   "url": "https://www.primariahusi.ro/hotarari-05-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_140_2008.pdf",
+     "sha256": "0f070b55733da4d31daad88ecf6132a0737774426595aabf2353533bd4fe0cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-141-2008",
+   "path": "local/vaslui/husi/2008/141",
+   "short": "HCL Huși nr. 141/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 141/2008 privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-05-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_141_2008.pdf",
+     "sha256": "5d5796e26eb913ff02d61604c1938e85d631d747d41e1d30b30947b0f5f22037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-143-2008",
+   "path": "local/vaslui/husi/2008/143",
+   "short": "HCL Huși nr. 143/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 143/2008 privind aprobarea PUD - \"Amenajare spatiu comercial\", municipiul Husi, strada Stefan cel Mare (la intersectia str.Stefan cel Mare cu str",
+   "url": "https://www.primariahusi.ro/hotarari-05-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_143_2008.pdf",
+     "sha256": "6b49eaec4bb85c251f9bc51b8d6c9b690c4adeeeaca46418dada2313f1823755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-144-2008",
+   "path": "local/vaslui/husi/2008/144",
+   "short": "HCL Huși nr. 144/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 144/2008 privind aprobarea concesionarii prin licitatie publica a unei suprafete de teren de 15 mp apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea amenajarii unui spatiu comercial situat in intravilanul municipiului Husi, strada Stefan",
+   "url": "https://www.primariahusi.ro/hotarari-05-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_144_2008.pdf",
+     "sha256": "67c25f5afb0f63e5490de994af9a919e7b4f8900fa271c0241ba21436731e036"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-146-2008",
+   "path": "local/vaslui/husi/2008/146",
+   "short": "HCL Huși nr. 146/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 146/2008 privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_146_2008.pdf",
+     "sha256": "cd8f36e5e62bc12d98f50c820b5414b0bb455ba6ddd1cd6cf55f72e48969256b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-147-2008",
+   "path": "local/vaslui/husi/2008/147",
+   "short": "HCL Huși nr. 147/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 147/2008 privind rectificarea bugetului local pe anul 2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_147_2008.pdf",
+     "sha256": "8ae98af0b39b2b4dc1d7cace4ed5affce59a6ac6defdcc69b07ac40260083593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-148-2008",
+   "path": "local/vaslui/husi/2008/148",
+   "short": "HCL Huși nr. 148/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 148/2008 privind rectificarea bugetului de venituri si cheltuieli evidentiate in afara bugetului local pe anul 2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_148_2008.pdf",
+     "sha256": "64a4f19c417c420d3fec34370b2c93c0917b2a9d18580024002fce5b1527e11b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-149-2008",
+   "path": "local/vaslui/husi/2008/149",
+   "short": "HCL Huși nr. 149/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 149/2008 privind aprobarea acordului de parteneriat intre Consiliului Local al municipiului Husi si Colegiul Agricol “Dimitrie Cantemir” Husi pentru realizarea proiectului “Prin Europa la volanul calculatorului ” Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere expunerea de motive privind aprobarea acordului de parteneriat intre Consiliului Local al municipiului Husi si Colegiul Agric",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_149_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_149_2008.pdf",
+     "sha256": "20cd4becb9415670d12d8cb60e652fd38de8f9e0fda39299c62981874df04d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-150-2008",
+   "path": "local/vaslui/husi/2008/150",
+   "short": "HCL Huși nr. 150/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 150/2008 privind sustinerea financiara pentru anul 2009 ,de la bugetul local , a Fundatiei Star of Hope Romania , proiectului implementat la nivelul municipiului Husi „Interventie la nivelul familiei aflate in situatii de risc” Consiliul Local al municipiului Husi, judetul Vaslui ; Avand in vedere expunerea de motive privind sustinerea financiara pentru anul 2009, de la bugetul local , a Fundatiei Star of",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_150_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_150_2008.pdf",
+     "sha256": "e220b520633e6fe8750ed16e54ae4c65f2840e5a96fc5b65d3facd9d6c345a3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-151-2008",
+   "path": "local/vaslui/husi/2008/151",
+   "short": "HCL Huși nr. 151/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 151/2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_151_2008.pdf",
+     "sha256": "9b916084ee235693d1cf4115e0b663b097ee1e5d6a2b3bd81bce850dfb8bfd0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-152-2008",
+   "path": "local/vaslui/husi/2008/152",
+   "short": "HCL Huși nr. 152/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 152/2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_152_2008.pdf",
+     "sha256": "4debb0335cc4d675b5121d38b4b6b4c50edd750009b9d022fc1a3043455e83f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-153-2008",
+   "path": "local/vaslui/husi/2008/153",
+   "short": "HCL Huși nr. 153/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 153/2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_153_2008.pdf",
+     "sha256": "032ae31ef92e205cfb93e1bb2bf950c2a9b957bba6bcd6c1d4cb478ebfadb815"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-154-2008",
+   "path": "local/vaslui/husi/2008/154",
+   "short": "HCL Huși nr. 154/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 154/2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_154_2008.pdf",
+     "sha256": "0dd84147bdbacf0a65abfc3d8b751c9aa00f6fa22097668cc3dda131503099e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-155-2008",
+   "path": "local/vaslui/husi/2008/155",
+   "short": "HCL Huși nr. 155/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 155/2008",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_155_2008.pdf",
+     "sha256": "b7d589b7d00d079dbde26ba5d0dde36133994f743b1a973a32edf076fbf57ec5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-156-2008",
+   "path": "local/vaslui/husi/2008/156",
+   "short": "HCL Huși nr. 156/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 156/2008 privind emiterea unui aviz de principiu in vederea vanzarii terenului situat in municipiul Husi, str",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_156_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_156_2008.pdf",
+     "sha256": "8bdc9785a56d5ceeaa77d1a1f424579aad15d729aa5e68bc85d31c12dc8f4d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-16-2008",
+   "path": "local/vaslui/husi/2008/16",
+   "short": "HCL Huși nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 16/2008 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna februarie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-07-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea16_2008.pdf",
+     "sha256": "aa30c76cf2d955c526963ee17ac23ff458bf2a96260627984fbcd42bbe947d7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-17-2008",
+   "path": "local/vaslui/husi/2008/17",
+   "short": "HCL Huși nr. 17/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 17/2008 Privind aprobarea esalonarii pe o perioada de 20 ani, a ratelor lunare pentru vinzarea apartamentului situat in Husi, strada Scolii, bl.29,sc.D,ap.54",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_17_2008.pdf",
+     "sha256": "23fafcee233ccaf1f78db653a27a32766dc540e319a5e1e6c10ca62d08da95f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-18-2008",
+   "path": "local/vaslui/husi/2008/18",
+   "short": "HCL Huși nr. 18/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 18/2008 Privind aprobarea vinzarii apartamentelor proprietatea muncipiului Husi, situate in Husi str",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_18_2008.pdf",
+     "sha256": "1f47eacc1463df85c52c5f352617320be7f8720dfa5e85d52513d59adc54addd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-19-2008",
+   "path": "local/vaslui/husi/2008/19",
+   "short": "HCL Huși nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 19/2008 Privind aprobarea pretului de vinzare a apartamentului situat in Husi, strada Stefan cel Mare, nr.16, bl.L5, sc.B, et.2, ap.8, aflat in proprietatea municipiului Husi, catre actualul chirias",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_19_2008.pdf",
+     "sha256": "af983c06783d356af44c344a2e2f996ea27957bdbe932e4018ba633593a2193b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-2-2008",
+   "path": "local/vaslui/husi/2008/2",
+   "short": "HCL Huși nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 2/2008 Privind validarea mandatelor consilierilor alesi la 01 Iunie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2008/",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_2_2008.pdf",
+     "sha256": "71883cf1b5dd545ca923ad466fe9902727c92ee17624c846392499c11f4996c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-20-2008",
+   "path": "local/vaslui/husi/2008/20",
+   "short": "HCL Huși nr. 20/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 20/2008 privind aprobarea concesionarii directe a unei suprafete de teren de 30 mp apartinand domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea amplasarii unei statii automate pentru monitorizarea calitatii aerului, situat in intravilanul municipiul",
+   "url": "https://www.primariahusi.ro/hotarari-07-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea20_2008.pdf",
+     "sha256": "c228585209bfe06169a08cf06acf40d6defaaad3e536a75f0a8f9dcb865485e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-21-2008",
+   "path": "local/vaslui/husi/2008/21",
+   "short": "HCL Huși nr. 21/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 21/2008 Privind reactualizarea Comisiei pentru aprobarea pretului de vinzare a apartamentelor proprietate de stat si a imobilelor nationalizate aflate in proprietatea Consiliului Local Husi, catre actualii chiriasi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_21_2008.pdf",
+     "sha256": "1cdc8aa4436f7bb4881d70b4a04a8b75bbcb4a826e679696145b7631aafea01e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-22-2008",
    "path": "local/vaslui/husi/2008/22",
    "short": "HCL Huși nr. 22/2008",
@@ -63,6 +963,531 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-24-2008",
+   "path": "local/vaslui/husi/2008/24",
+   "short": "HCL Huși nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 24/2008 Privind aprobarea Strategiei locale privind alimentarea cu energie termica a municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-24-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_24_2008.pdf",
+     "sha256": "c1a8a329d7631b9b03bfa17ad58a68c348bc78151e2e2e06278c27d79542c54d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-25-2008",
+   "path": "local/vaslui/husi/2008/25",
+   "short": "HCL Huși nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 25/2008 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna august 2008",
+   "url": "https://www.primariahusi.ro/hotarari-01-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_25_2008.pdf",
+     "sha256": "4d2ee3ea9cadfc4cc97c55bd19344c9c3b69f651dc065c5a75e25b270af7f1a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-26-2008",
+   "path": "local/vaslui/husi/2008/26",
+   "short": "HCL Huși nr. 26/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 26/2008 privind imputernicirea domnului ing",
+   "url": "https://www.primariahusi.ro/hotarari-01-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_26_2008.pdf",
+     "sha256": "ab91079af9f5dd7e5ce9996b41a36c6593c4e79f0daa784fb50b3595853fb09f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-27-2008",
+   "path": "local/vaslui/husi/2008/27",
+   "short": "HCL Huși nr. 27/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 27/2008 Privind rectificarea bugetului local cu suma de 232 mii lei reprezentind veniturii proprii si subventii pentru compensarea cresterilor neprevizionate ale preturilor la combustibili",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_27_2008.pdf",
+     "sha256": "9a4dde8e602b99f3ec91f2c21c462130185548997b8877d009076c6219f9e6ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-28-2008",
+   "path": "local/vaslui/husi/2008/28",
+   "short": "HCL Huși nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 28/2008 Privind alocarea sumei de 215.982 lei reprezentind contributia Consiliului Local al municipiului Husi la finantarea programului \"Termoficarea 2006-2015 caldura si confort\" aferent anului 2008",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_28_2008.pdf",
+     "sha256": "66227f7dd4ac2459684e1bfeed30f45dcbab100531f9494c55ad812bcc635e86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-29-2008",
+   "path": "local/vaslui/husi/2008/29",
+   "short": "HCL Huși nr. 29/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 29/2008 Privind stabilirea zonelor unitare de incalzire in perspectiva asigurarii unui mediu curat prin folosirea sistemului centralizat de distribuire a energiei termice pentru incalzire si apa calda",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_29_2008.pdf",
+     "sha256": "403350f3cbabc86dca7bc16795cd9eba621019554373a03c40686cc54beffce2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-3-2008",
+   "path": "local/vaslui/husi/2008/3",
+   "short": "HCL Huși nr. 3/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 3/2008 Privind constituirea Consiliului Local al municipiului Husi ales la data de 01 Iunie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2008/",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_3_2008.pdf",
+     "sha256": "d857689c3abaa14eba2f933f3c696d4eb6680fbb125bdec0c3a077c52d1eca3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-30-2008",
+   "path": "local/vaslui/husi/2008/30",
+   "short": "HCL Huși nr. 30/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 30/2008",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea30_2008.pdf",
+     "sha256": "a7b3beca4071b18c962abfc886c0331342ea6df3f2a33fedc1741dac3c009f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-31-2008",
+   "path": "local/vaslui/husi/2008/31",
+   "short": "HCL Huși nr. 31/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 31/2008 Privind aprobarea subprogramului Reabilitare sistem alimentare cu apa, a sistemului de canalizare si a statiilor de epurare a apelor uzate in Vaslui, Barlad, Husi si Negresti-Judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_31_2008.pdf",
+     "sha256": "eb04037fc585e7f15557228141a2ae6f3cdb5a157d5507670dccfbbdbff32a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-32-2008",
+   "path": "local/vaslui/husi/2008/32",
+   "short": "HCL Huși nr. 32/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 32/2008 Privind aprobarea contractarii imprumutului in suma de 20.000 mii lei destinat finantarii obiectivului de investitii: \"Reabilitarea sistemului de alimentare cu apa potabila, a sistemului de canalizare si a statiei de epurare din municipiul Husi, judetul Vaslui, derulat in cadrul pro",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_32_2008.pdf",
+     "sha256": "5ba8194b64e8bf5635e04ba842ef878d0d845c052a4ce18a6dfc7afef44973e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-33-2008",
+   "path": "local/vaslui/husi/2008/33",
+   "short": "HCL Huși nr. 33/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 33/2008 Privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-15-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-15",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_33_2008.pdf",
+     "sha256": "4ebf219e8e9f4ee51ef6380dbb857c22fea0f7480c043721c0701e13a99119b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-34-2008",
+   "path": "local/vaslui/husi/2008/34",
+   "short": "HCL Huși nr. 34/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 34/2008 privind aprobarea angajarii unui numar de 50 persoane in cadrul Programului de ocupare temporara a fortei de munca",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea34_2008.pdf",
+     "sha256": "7da9e1942fc166128752fe100fb2bdd51506f1e763d539cf14b55182c64a125f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-35-2008",
+   "path": "local/vaslui/husi/2008/35",
+   "short": "HCL Huși nr. 35/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2008 Privind aprobarea pretului de vanzare a apartamentului situat in Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_35_2008.pdf",
+     "sha256": "3b6e165270fb321ba30537160fe5a706274c65a5215a4610c081d3d31655663e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-36-2008",
+   "path": "local/vaslui/husi/2008/36",
+   "short": "HCL Huși nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 36/2008 Privind aprobarea listei si a terenurilor aferente din proprietatea privata a municipiului Husi, cu destinatia de cabinete medicale, precum si a spatiilor in care se desfasoara activitati conexe actului medical in vederea vanzarii acestora catre titularii contractelor de concesiune",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_36_2008.pdf",
+     "sha256": "e7a81a4f3b7cff744b32fa98fc01fe69cda79168f3d222350811f556c31e34b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-37-2008",
+   "path": "local/vaslui/husi/2008/37",
+   "short": "HCL Huși nr. 37/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2008 privind modificarea statului de functii al personalului din cadrul Serviciul Public Comunitar de Evidenta Persoanei Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea37_2008.pdf",
+     "sha256": "1b739bf866e5299b9bb5d7c845683c4561d8f4f67b7dfd814cb4d1d6067e816a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-4-2008",
+   "path": "local/vaslui/husi/2008/4",
+   "short": "HCL Huși nr. 4/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 4/2008 Privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna Iunie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2008/",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_4_2008.pdf",
+     "sha256": "5c01bcc4f17ab963a90cba87ec63ddff8a074dd6cf0c4f2ee5cb61aa00bb9fdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-40-2008",
+   "path": "local/vaslui/husi/2008/40",
+   "short": "HCL Huși nr. 40/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 40/2008 privind aprobarea Raportului de Evaluare a Spatiilor Comerciale situate in municipiul Husi, Piata Victoriei, Hala Legume-Fructe",
+   "url": "https://www.primariahusi.ro/hotarari-28-februarie-2008/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea40_2008.pdf",
+     "sha256": "32ca11daa25cab17944bf5b4684d3dd6c13a43ddcbb629def3dc5d6de92aa22b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-41-2008",
+   "path": "local/vaslui/husi/2008/41",
+   "short": "HCL Huși nr. 41/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 41/2008 Privind stabilirea programului de audiente al consilierilor locali din cadrul Consiliului Local al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-28-august-2008/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_41_2008.pdf",
+     "sha256": "1525a47180ad4cdee22a98b8f0cba81d0001f42f217283e644fd6d4c3f6f7a43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-42-2008",
+   "path": "local/vaslui/husi/2008/42",
+   "short": "HCL Huși nr. 42/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 42/2008 privind emiterea unui aviz de principiu in vederea inchirierii prin licitatie publica a unui teren in suprafata de 7,59 mp, apartinand domeniului privat al municipiului Husi , situat in intravilanul municipiului Husi, strada 1 Decembrie, in spatele blocului 12 Consiliul Local al municipiului Husi,judetul Vaslui ; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vedere",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_42_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_42_2008.pdf",
+     "sha256": "e1fa7f6629ac812e734b07903fd2780ba77e25b31670d8adb5439fbd89a3e28a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-43-2008",
+   "path": "local/vaslui/husi/2008/43",
+   "short": "HCL Huși nr. 43/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 43/2008 Privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna Septembrie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-03-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_43_2008.pdf",
+     "sha256": "1b4f19a98f8705485d9116194f5aa110ef49543f380f27264ab8f5449d2d002d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-44-2008",
+   "path": "local/vaslui/husi/2008/44",
+   "short": "HCL Huși nr. 44/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 44/2008",
+   "url": "https://www.primariahusi.ro/hotarari-03-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_44_2008.pdf",
+     "sha256": "5a33fb4a325e72227d2e7c63d0d2510c1cf4cd467d0cbde4d3609276faec3ed6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-45-2008",
+   "path": "local/vaslui/husi/2008/45",
+   "short": "HCL Huși nr. 45/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 45/2008 Privind prelungirea perioadei de angajare a unui numar de 36 persoane in cadrul Programului de Ocupare Temporara a Fortei de Munca",
+   "url": "https://www.primariahusi.ro/hotarari-03-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_45_2008.pdf",
+     "sha256": "824a478df0b748a14d310b086b4ece689539a0b8289c6b7cc4ad527115cb9cb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-46-2008",
+   "path": "local/vaslui/husi/2008/46",
+   "short": "HCL Huși nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 46/2008 Privind rectificarea bugetului local cu suma de 913,6 mii lei reprezentand cote defalcate din impozitul pe venit si subventii de la bugetul de stat",
+   "url": "https://www.primariahusi.ro/hotarari-24-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_46_2008.pdf",
+     "sha256": "778b67daaf160c16502e667e380b13fe71610bcf1e1a2f6280126a8d630b21dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-47-2008",
+   "path": "local/vaslui/husi/2008/47",
+   "short": "HCL Huși nr. 47/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 47/2008 Privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-24-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_47_2008.pdf",
+     "sha256": "e30f66a20a621026768b9be922212437f72fb2316370f6e84bb3aa6e8092f800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-48-2008",
+   "path": "local/vaslui/husi/2008/48",
+   "short": "HCL Huși nr. 48/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 48/2008 Privind aprobarea documentatiei tehnico-economice a obiectivului de investitii \"Modernizare strada General Teleman din intersectia Bulevardul 1 Mai pana la intersectia cu strada Stefan cel Mare\", prevazuta in studiul de fezabilitate elaborat in acest scop",
+   "url": "https://www.primariahusi.ro/hotarari-24-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_48_2008.pdf",
+     "sha256": "02d0acdc40e471635fae9017b9332101f5f0d4a0b3a61b5f1b864b0cb576975d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-49-2008",
+   "path": "local/vaslui/husi/2008/49",
+   "short": "HCL Huși nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 49/2008 Privind aprobarea documentatiei tehnico-economice a obiectivului de investitii \"Reamenajare Parc Pompieri\", municipiul Husi, strada M.Kogalniceanu, prevazuta in studiul de fezabilitate elaborate in acest scop",
+   "url": "https://www.primariahusi.ro/hotarari-24-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_49_2008.pdf",
+     "sha256": "5d766b14bc96a60d57bb1571e25ceb6d4ca97ebc2f4dd282f8797a62700d6cd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-5-2008",
+   "path": "local/vaslui/husi/2008/5",
+   "short": "HCL Huși nr. 5/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 5/2008 Privind alegerea viceprimarului",
+   "url": "https://www.primariahusi.ro/hotarari-23-iunie-2008/",
+   "versions": [
+    {
+     "from": "2008-06-23",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_5_2008.pdf",
+     "sha256": "596aee089577018d82365e91f29f93745f842df0d5e2eddd418798aa0151e0a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-50-2008",
+   "path": "local/vaslui/husi/2008/50",
+   "short": "HCL Huși nr. 50/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 50/2008 Privind aprobarea pretului local de referinta pentru energia termica furnizata populatiei prin sisteme centralizate, in scopul incalzirii locuintelor",
+   "url": "https://www.primariahusi.ro/hotarari-24-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-24",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_50_2008.pdf",
+     "sha256": "50e2b9c9d6bd52878afd473cfc41c69918e0961b06456fee8e71d672c0dc598b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-51-2008",
+   "path": "local/vaslui/husi/2008/51",
+   "short": "HCL Huși nr. 51/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 51/2008 Privind aprobarea vanzarii apartamentului situat in Husi, Bd.1 Mai, bl.20,sc.D,et.4,ap.12, catre actualul chirias",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_51_2008.pdf",
+     "sha256": "2241fc05063755a31cdf58672404c3845464b9b418f80d640d0756b0b410f1a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-52-2008",
+   "path": "local/vaslui/husi/2008/52",
+   "short": "HCL Huși nr. 52/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 52/2008 Privind aprobarea inchirierii prin licitatie publica a unui teren in suprafata de 7,56 mp apartinand domeniului privat al municipiului Husi, aflat in proprietatea municipiului Husi , str.1 Decembrie, in spatele blocului 12",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_52_2008.pdf",
+     "sha256": "852e1339c4f0f555e48cba524f1cc4a9744c99eeb1fa350854525f60da57bb42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-53-2008",
+   "path": "local/vaslui/husi/2008/53",
+   "short": "HCL Huși nr. 53/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 53/2008 Privind aprobarea inchirierii prin licitatie publica a unui spatiu, in suprafata de 1,56 mp, cu destinatia de birou de copiat acte, apartinand domeniului public al municipiului Husi, aflat in proprietatea Consiliului Local al municipiului Husi, situat in sediul Primariei municipiulu",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_53_2008.pdf",
+     "sha256": "ec22d648eb05712b64c83c8bd382b4c2ceeb0f5a1e8d96b7485e013f00dacfe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-54-2008",
+   "path": "local/vaslui/husi/2008/54",
+   "short": "HCL Huși nr. 54/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 54/2008 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea54_2008.pdf",
+     "sha256": "dd378eb678d2301978b3af56b85856fb720b86271d68932f796e13b51fa0f265"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-55-2008",
+   "path": "local/vaslui/husi/2008/55",
+   "short": "HCL Huși nr. 55/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 55/2008 privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 27,00 mp, situat in intravilanul municipiului Husi, strada M.Kogalniceanu, langa Scoala de Arte si Meserii Consiliul Local al municipiului Husi,judetul Vaslui ; Avand in vedere expunerea de motive privind emiterea unui aviz de principiu in vederea concesionarii unui teren in suprafata de 27,00 mp, situat in",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_55_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_55_2008.pdf",
+     "sha256": "cb37393c2e2bbfc145da2bd5c49423f19a876c2fc89d38f75cce4a94dd1411cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-56-2008",
+   "path": "local/vaslui/husi/2008/56",
+   "short": "HCL Huși nr. 56/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 56/2008",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea56_2008.pdf",
+     "sha256": "6b50a3d2c128b2bf5d133f96c9f5d1b3e19ca845bef1a3ee228cb462736b524d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-57-2008",
+   "path": "local/vaslui/husi/2008/57",
+   "short": "HCL Huși nr. 57/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 57/2008",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2008/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea57_2008.pdf",
+     "sha256": "a6a3671f6ca1d188841a37a189e01fbb26aef6d902c04e47ecc7236aa0f5abf3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-58-2008",
    "path": "local/vaslui/husi/2008/58",
    "short": "HCL Huși nr. 58/2008",
@@ -74,6 +1499,111 @@
      "units": 6,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea58_2008.pdf",
      "sha256": "9fd3eb03cdac95f2806d7d390003d0951c2f243ee3e316186b98a7807a86f36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-59-2008",
+   "path": "local/vaslui/husi/2008/59",
+   "short": "HCL Huși nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 59/2008 Privind emiterea unui acord in vederea efectuarii unor modernizari la spatiul inchiriat de SC FLANDRA GRUP SRL HUSI, situat in Husi, Piata Victoriei, Hala Agroalimentara, Spatiul nr.25, inchiriat de societate conform contractului de inchiriere nr.11180 din 10.04.2008",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_59_2008.pdf",
+     "sha256": "69510529825326e4486b6e87ba4d70f9ff1867b57626a625cc26cbf7ceee5bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-6-2008",
+   "path": "local/vaslui/husi/2008/6",
+   "short": "HCL Huși nr. 6/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 6/2008 Privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna Iulie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-03-iulie-2008/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_6_2008.pdf",
+     "sha256": "500c99717eafbe9a265748d3d05773097773331a743cfa17d927c709a2241f68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-60-2008",
+   "path": "local/vaslui/husi/2008/60",
+   "short": "HCL Huși nr. 60/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 60/2008",
+   "url": "https://www.primariahusi.ro/hotarari-30-septembrie-2008/",
+   "versions": [
+    {
+     "from": "2008-09-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_60_2008.pdf",
+     "sha256": "cb127ddec324b23067bbb686ea8c24b9882587f2b14b9ef63ad14b766497b890"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-62-2008",
+   "path": "local/vaslui/husi/2008/62",
+   "short": "HCL Huși nr. 62/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 62/2008 privind alegerea presedintelui de sedinta a Consiliului Local al municipiului Husi pentru luna octombrie 2008",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_62_2008.pdf",
+     "sha256": "0cf0608391f624a26944150f874455ff9ee5603c72c8c491ba6b48d014f732c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-63-2008",
+   "path": "local/vaslui/husi/2008/63",
+   "short": "HCL Huși nr. 63/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2008 privind rectificarea bugetului local cu suma de 6.119 mii lei reprezentand sume defalcate din TVA pentru finantarea cheltuielilor descentralizate, sume defalcate din TVA pentru echilibrarea bugetelor locale si subventii pentru compensarea cresterilor neprevizionate ale preturilor l",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_63_2008.pdf",
+     "sha256": "923a0eb572a49cc08fc4dfe5a1e78fe3cdc1d4516b4a1bface3f821cd56d20ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-64-2008",
+   "path": "local/vaslui/husi/2008/64",
+   "short": "HCL Huși nr. 64/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 64/2008 privind rectificarea bugetului de venituri si cheltuieli evidentiate in afara bugetului local pe anul 2008",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_64_2008.pdf",
+     "sha256": "df1f0572f304ffc66e6c9995a4e18eda09ea061b1ffafab4b68aee8f5e9f3e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-65-2008",
+   "path": "local/vaslui/husi/2008/65",
+   "short": "HCL Huși nr. 65/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 65/2008 privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al institutiilor publice finantate integral sau partial din venituri proprii",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_65_2008.pdf",
+     "sha256": "4951d0b53265f1a6e7d0817485e589c1d4a4c468a0c91003814143851d3dde69"
     }
    ]
   },
@@ -179,6 +1709,351 @@
      "units": 7,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_73_2008.pdf",
      "sha256": "6d69ea5e166631ea383ef09ff2e858a4c65c0ed379453e8eb0f037e573e94f87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-74-2008",
+   "path": "local/vaslui/husi/2008/74",
+   "short": "HCL Huși nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 74/2008 privind diminuarea fondurilor lunare alocate de la bugetul local pentru anul 2008, pentru serviciile prestate de Asociatia \"Totul pentru viata\" Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_74_2008.pdf",
+     "sha256": "9893d004ba92d671afb9cf6e2ab28f031f36d9a6722d646c6e6235a56c0e0172"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-75-2008",
+   "path": "local/vaslui/husi/2008/75",
+   "short": "HCL Huși nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 75/2008 privind suplimentarea fondurilor alocate de la bugetul local pentru anul 2008, pentru serviciile oferite de Asociatia \"Congregatia Surorilor Saracilor Parintelui Vicenzo Morinello\" din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_75_2008.pdf",
+     "sha256": "ee48c593b58f02bf4bb8b9a00161a9000b10a3d91353db83b8dfe23d7e93b9b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-76-2008",
+   "path": "local/vaslui/husi/2008/76",
+   "short": "HCL Huși nr. 76/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 76/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Amenajare trotuare pentru str.Calea Basarabiei, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_76_2008.pdf",
+     "sha256": "e5e3560bf0fb9488cd23b06eabc5233aa204164a34291edd765c4e098cd20251"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-77-2008",
+   "path": "local/vaslui/husi/2008/77",
+   "short": "HCL Huși nr. 77/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 77/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Amenajare trotuare pentru str.Al.I.Cuza, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_77_2008.pdf",
+     "sha256": "82b5a57567258966ddd7a662af55b93ee3d97b770980c02f1d3c9f535007e465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-78-2008",
+   "path": "local/vaslui/husi/2008/78",
+   "short": "HCL Huși nr. 78/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 78/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Amenajare trotuare pentru str.1 Decembrie, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_78_2008.pdf",
+     "sha256": "3080982df50677ef9b6b3825201aa4c5a385f1a6fde759e93ddb668c0f7697a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-79-2008",
+   "path": "local/vaslui/husi/2008/79",
+   "short": "HCL Huși nr. 79/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 79/2008 privind aprobarea documentatiei tehnico- economice a obiectivului de investitii \"Amenajare trotuare pentru Cartier Dacia, municipiul Husi,judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_79_2008.pdf",
+     "sha256": "e148c192783488c1c8266e27a9d4f98771ff4d4b23cf622b90e65cdcf70f9056"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-82-2008",
+   "path": "local/vaslui/husi/2008/82",
+   "short": "HCL Huși nr. 82/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 82/2008 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-04-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_82_2008.pdf",
+     "sha256": "d99a3850493f1c0e7d3f5465126bfb183786e3f9a3effeca488133630b0b6a68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-83-2008",
+   "path": "local/vaslui/husi/2008/83",
+   "short": "HCL Huși nr. 83/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 83/2008 privind modificarea structurii organizatorice si a statului de functii al personalului din cadrul Cresei municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_83_2008.pdf",
+     "sha256": "ffed79301e512056bc268e3f5e0fb9a828d59492da6e6df4eaf5569728399fb4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-84-2008",
+   "path": "local/vaslui/husi/2008/84",
+   "short": "HCL Huși nr. 84/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 84/2008 privind modificarea statului de functii al personalului din cadrul Serviciului Public de Salubrizare Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_84_2008.pdf",
+     "sha256": "b188bea1cec59b0cdad14ae54533a9e03a55628aff74ff2f47223d541fb784d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-85-2008",
+   "path": "local/vaslui/husi/2008/85",
+   "short": "HCL Huși nr. 85/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 85/2008 privind aprobarea Planului de Ocupare a Functiilor Publice pentru anul 2009",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_85_2008.pdf",
+     "sha256": "4be356fdcdd1033b891a05007473e746fdcc1b7a340bcd96153eb9b0575d71c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-86-2008",
+   "path": "local/vaslui/husi/2008/86",
+   "short": "HCL Huși nr. 86/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 86/2008 privind desemnarea reprezentantului Consiliului Local al municipiului Husi in Consiliul de Administratie al Clubului Elevilor din municipiul Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_86_2008.pdf",
+     "sha256": "1eaed9d64e16fcd93b64c7201a33b5e51487d88ef8f8e5b16fff252155fd5bc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-88-2008",
+   "path": "local/vaslui/husi/2008/88",
+   "short": "HCL Huși nr. 88/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 88/2008",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_88_2008.pdf",
+     "sha256": "ec6035ac1f4c10937eb2d6774f1ad264ca9a10b4982895ee5c85440c49276c06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-89-2008",
+   "path": "local/vaslui/husi/2008/89",
+   "short": "HCL Huși nr. 89/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 89/2008 privind modificarea statului de functii al personalului din cadrul Serviciului Public de Salubrizare Husi",
+   "url": "https://www.primariahusi.ro/hotarari-22-mai-2008/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea89_2008.pdf",
+     "sha256": "1a50bafc0a7909c4749172b5d26fde3d560924e85d63fc491a5c58f3ae53d4ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-90-2008",
+   "path": "local/vaslui/husi/2008/90",
+   "short": "HCL Huși nr. 90/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 90/2008 privind modificarea statului de functii al personalului din cadrul Serviciului Voluntar pentru Situatii Urgenta Husi",
+   "url": "https://www.primariahusi.ro/hotarari-22-mai-2008/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea90_2008.pdf",
+     "sha256": "8ec92780271edbad3d6f472c14f59b540c66106a71701af761ed8df153fedcf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-91-2008",
+   "path": "local/vaslui/husi/2008/91",
+   "short": "HCL Huși nr. 91/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 91/2008 privind modificarea statului de functii al personalului din cadrul Serviciului Public Local de Asistenta Sociala Husi",
+   "url": "https://www.primariahusi.ro/hotarari-22-mai-2008/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea91_2008.pdf",
+     "sha256": "964c2dbaba6c0b0fac40fa9295c6405c7de892d55d881a6750a0f96e2e2eaba4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-92-2008",
+   "path": "local/vaslui/husi/2008/92",
+   "short": "HCL Huși nr. 92/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 92/2008 privind aprobarea PUD - \"Concesionare teren - Extindere Parc Auto\" , municipiul Husi, str.Saca, judetul Vaslui, beneficiar SC \"ANTA '95\" SRL HUSI",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_92_2008.pdf",
+     "sha256": "c0c1cfc9d4a6e8973ae72d92bfd11d27aecfdf36f453162812a6e7a7ea05fddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2008",
+   "path": "local/vaslui/husi/2008/93",
+   "short": "HCL Huși nr. 93/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2008 privind aprobarea concesionarii directe a unei suprafete de teren de 392,40 mp, din care: 274, 90 mp apartinand domeniului privat al municipiului Husi si 117,50 mp apartinand domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi,in vederea extinderii parcu",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_93_2008.pdf",
+     "sha256": "9b4e3ac4cd29c423f5fb20f023d91814957d0fc58bc84dc31ae058b8eabd1957"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-94-2008",
+   "path": "local/vaslui/husi/2008/94",
+   "short": "HCL Huși nr. 94/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 94/2008 privind aprobarea PUD - \"Concesionare teren - Amenajare terasa\" , municipiul Husi, str.1 Decembrie ( Gara) , judetul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_94_2008.pdf",
+     "sha256": "09e1d9d7be4b90a960fd5c2fc2901e49437703af09de6a793260655dffa43a86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-95-2008",
+   "path": "local/vaslui/husi/2008/95",
+   "short": "HCL Huși nr. 95/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 95/2008 privind aprobarea concesionarii prin licitatie publica a unei suprafete de teren de 100 mp din care:64,76 mp apartinand domeniului privat al municipiului Husi si 35,24 mp apartinand domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi, in vederea amenajarii unei terase, situat in intravilanul municipiului Husi, strada 1 Decembrie (Gara) , judetul Vaslui Consiliul Local a",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea_95_2008.pdf",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2023/01/hotarirea_95_2008.pdf",
+     "sha256": "2d940de66a24c1d2e8e7509eb10139080d0d76512daa567f66a3bc17f923dc26"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-96-2008",
+   "path": "local/vaslui/husi/2008/96",
+   "short": "HCL Huși nr. 96/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 96/2008 privind atribuirea in folosinta gratuita Autoritatii de Sanatate Publica Vaslui a spatiului avand suprafata construita de 270 mp si suprafata utila de 230 mp, ce apartine domeniului public al municipiului Husi, aflat in proprietatea municipiului Husi, situat in strada 1 Decembrie nr",
+   "url": "https://www.primariahusi.ro/hotarari-22-mai-2008/",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea96_2008.pdf",
+     "sha256": "1b15324e0188493ddbc7f9647e9ff6b067ed44be6fc06d2bda8c5ab6b03143d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-97-2008",
+   "path": "local/vaslui/husi/2008/97",
+   "short": "HCL Huși nr. 97/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 97/2008 privind modificarea si completarea inventarului bunurilor mobile si imobile ce apartin domeniului privat al municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_97_2008.pdf",
+     "sha256": "1e950c8ab09211e00475c61e9c174d5fe17d75f371a7acd797fed8385d9aa602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2008",
+   "path": "local/vaslui/husi/2008/98",
+   "short": "HCL Huși nr. 98/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2008",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_98_2008.pdf",
+     "sha256": "9e63c8b454c6b9ae9d99198f87ce7753c03bdb38f3798261a844266e7dc02f77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-99-2008",
+   "path": "local/vaslui/husi/2008/99",
+   "short": "HCL Huși nr. 99/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 99/2008 privind aprobarea amplasarii pe domeniu public al municipiului Husi a unui numar de 31 de platforme pentru containere deseuri menajere si pentru colectare selectiva in cadrul \"Master Plan privind gestionarea deseurilor 2007-2037, judetul Vaslui\"",
+   "url": "https://www.primariahusi.ro/hotarari-31-octombrie-2008/",
+   "versions": [
+    {
+     "from": "2008-10-31",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/02/hotarirea_99_2008.pdf",
+     "sha256": "9083ab326ab4670d4ea737cdbc6a4b25bed379ac03bc54e9f33ee2f064b61d4c"
     }
    ]
   }

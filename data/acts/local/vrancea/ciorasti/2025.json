@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/ciorasti/2025",
+"acts": [
+{
+"slug": "hcl-vrancea--ciorasti-62-2025",
+"path": "local/vrancea/ciorasti/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciorăști nr. 62/2025 pentru investiţia „MODERNIZARE ȘI EXTINDERE ILUMINAT PUBLIC ÎN COMUNA CIORĂȘTI, JUDEȚUL VRANCEA” aprobat prin HCL nr 6115.11.2024",
+"short": "HCL Ciorăști nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://comunaciorasti.ro/hotarari-ale-consiliului/",
+"council": "vrancea/ciorasti",
+"council_name": "Consiliul Local al Comunei Ciorăști",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

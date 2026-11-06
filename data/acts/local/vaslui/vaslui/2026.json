@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vaslui/vaslui/2026",
+"acts": [
+{
+"slug": "hcl-vaslui--vaslui-328-2026",
+"path": "local/vaslui/vaslui/2026/328",
+"kind": "local",
+"year": "2026",
+"number": "328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Vaslui nr. 328/2026 privind alegerea președintelui de ședință a Consiliului Local al Municipiului Vaslui pentru lunile NOIEMBRIE , DECEMBRIE, IANUARIE 2027 Consiliul Local al Municipiului Vaslui, Având în vedere: e Referatul Primarului Municipiului Vaslui cu nr. 131905 din 22.10.2026; e Raportul de specialitate cu nr. 131914 din 22.10.2026; e Avizele comisiilor de specialitate ale Consiliului Local Luând în considera",
+"short": "HCL Vaslui nr. 328/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-29",
+"latest": "2026-10-29",
+"portal": "https://primariavaslui.ro/wp-content/uploads/2026/11/HCL-328-29.10.2026.pdf",
+"council": "vaslui/vaslui",
+"council_name": "Consiliul Local al Municipiului Vaslui",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

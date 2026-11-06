@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/ivanesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--ivanesti-1-2026",
+   "path": "local/vaslui/ivanesti/2026/1",
+   "short": "HCL Ivănești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 1/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.1-DIN-30.01.2026-2.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.1-DIN-30.01.2026-2.pdf",
+     "sha256": "b2eb5f401e594149441b6380eafc9ec05e2e42124038f79730c7836720bb5b07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-10-2026",
+   "path": "local/vaslui/ivanesti/2026/10",
+   "short": "HCL Ivănești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 10/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.10-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.10-DIN-30.01.2026-1.pdf",
+     "sha256": "c53cfa1c9f28dec341985d6f461b45dd466e2c5878bb2928f218afe3ff9f88ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-11-2026",
+   "path": "local/vaslui/ivanesti/2026/11",
+   "short": "HCL Ivănești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 11/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.11-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.11-DIN-30.01.2026-1.pdf",
+     "sha256": "eea176d09775810dc8d18978a5347546949f1a4e131f864e221f95032b594606"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-2-2026",
+   "path": "local/vaslui/ivanesti/2026/2",
+   "short": "HCL Ivănești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 2/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.2-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.2-DIN-30.01.2026-1.pdf",
+     "sha256": "97382e0de854e2c33fb2e261b4e2d6313633fc92f52221ab5624ac56697b58d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-3-2026",
+   "path": "local/vaslui/ivanesti/2026/3",
+   "short": "HCL Ivănești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 3/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.3-DIN-30.01.2026-1-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.3-DIN-30.01.2026-1-1.pdf",
+     "sha256": "fa0c7d826c9b4176c3d60dd6b10f5964d9faaf9fbc9cc6c969004569ec94ee13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-4-2026",
+   "path": "local/vaslui/ivanesti/2026/4",
+   "short": "HCL Ivănești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 4/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.4-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.4-DIN-30.01.2026-1.pdf",
+     "sha256": "7a635a40d59e6f26f8abeb44f171373caae0cc712bbc84d6e46f9563f97e3d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-5-2026",
+   "path": "local/vaslui/ivanesti/2026/5",
+   "short": "HCL Ivănești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 5/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.5-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.5-DIN-30.01.2026-1.pdf",
+     "sha256": "360c39b80f85cde7b8ef86d27143d386a8ba0374f712be25e983cd0d7b4444cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-6-2026",
+   "path": "local/vaslui/ivanesti/2026/6",
+   "short": "HCL Ivănești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 6/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.6-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.6-DIN-30.01.2026-1.pdf",
+     "sha256": "e7cdf8d6d8815882af28f1566ab5a2beb780cb0de74b645f8b79b5dff0118c10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-7-2026",
+   "path": "local/vaslui/ivanesti/2026/7",
+   "short": "HCL Ivănești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 7/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.7-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.7-DIN-30.01.2026-1.pdf",
+     "sha256": "bab30c3e84a38cadf21086f7ee1b792c41957798655b6a2a597ee19cdc4e82f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-8-2026",
+   "path": "local/vaslui/ivanesti/2026/8",
+   "short": "HCL Ivănești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 8/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.8-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.8-DIN-30.01.2026-1.pdf",
+     "sha256": "b89aefe59ea60b76f914452e2854f8e88d7daf5264927b2840073c18cf2a8cf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--ivanesti-9-2026",
+   "path": "local/vaslui/ivanesti/2026/9",
+   "short": "HCL Ivănești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ivănești nr. 9/2026",
+   "url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.9-DIN-30.01.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://comunaivanesti.ro/wp-content/uploads/2026/08/principal-HCL-NR.9-DIN-30.01.2026-1.pdf",
+     "sha256": "92525d96424aa8fb4910acf43a3f47f3d3826048b52a3965370283915fe2ab72"
+    }
+   ]
+  }
+ ]
+}

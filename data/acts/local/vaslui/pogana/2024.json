@@ -3,6 +3,28 @@
 "shard": "local/vaslui/pogana/2024",
 "acts": [
 {
+"slug": "hcl-vaslui--pogana-1-2024",
+"path": "local/vaslui/pogana/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 1/2024 Privind desemnarea de catre consiliul local , a doi consilieri locali , in cadrul comisiei de evaluare a performantelor profesionale a secretarului general al unitatii administrativ teritoriale",
+"short": "HCL Pogana nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#68620",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vaslui--pogana-2-2024",
 "path": "local/vaslui/pogana/2024/2",
 "kind": "local",
@@ -66,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-5-2024",
+"path": "local/vaslui/pogana/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 5/2024 Privind vanzarea a 4 (patru) loturi de teren , apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana",
+"short": "HCL Pogana nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#68624",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-10-2024",
+"path": "local/vaslui/pogana/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 10/2024 Privind aprobarea decontarii cheltuielilor de transport , pentru functionarii publici si personalul contractual , din aparatul de specialitate a primarului comunei Pogana , judetul Vaslui",
+"short": "HCL Pogana nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-26",
+"latest": "2024-01-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#68883",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -440,6 +506,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-24-2024",
+"path": "local/vaslui/pogana/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 24/2024 Privind vanzarea a 2 (doua) loturi de teren , apartinand domeniului privat al unitatii administrativ teritoriale comuna Pogana",
+"short": "HCL Pogana nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-26",
+"latest": "2024-04-26",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#75720",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1056,6 +1144,28 @@
 "council_name": "Consiliul Local al Comunei Pogana",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-vaslui--pogana-53-2024",
+"path": "local/vaslui/pogana/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pogana nr. 53/2024 privind desemnarea a 2 (doi) consilieri locali , care sa faca parte din Consiliul de Administratie al Scolii Gimnaziale nr 1 Pogana , judetul Vaslui",
+"short": "HCL Pogana nr. 53/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://pogana.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5087#87271",
+"council": "vaslui/pogana",
+"council_name": "Consiliul Local al Comunei Pogana",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

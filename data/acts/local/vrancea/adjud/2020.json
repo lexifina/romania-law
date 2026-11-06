@@ -3,6 +3,50 @@
 "shard": "local/vrancea/adjud/2020",
 "acts": [
 {
+"slug": "hcl-vrancea--adjud-1-2020",
+"path": "local/vrancea/adjud/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 1/2020 privind aprobarea măsurilor necesare capacității de intervenție în prevenirea și combaterea infecțiilor cu noul Coronavirus",
+"short": "HCL Adjud nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-02",
+"latest": "2020-02-02",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-2-2020",
+"path": "local/vrancea/adjud/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 2/2020 privind aprobarea măsurilor necesare creșterii capacității de intervenție în prevenirea și combaterea infecțiilor cu noul Coronavirus",
+"short": "HCL Adjud nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-24",
+"latest": "2020-02-24",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-vrancea--adjud-3-2020",
 "path": "local/vrancea/adjud/2020/3",
 "kind": "local",
@@ -22,6 +66,271 @@
 "council_name": "Consiliul Local al Municipiului Adjud",
 "flags": {
 "text_pending": "ocr"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-4-2020",
+"path": "local/vrancea/adjud/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 4/2020",
+"short": "HCL Adjud nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-04",
+"latest": "2020-03-04",
+"portal": null,
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-5-2020",
+"path": "local/vrancea/adjud/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 5/2020 privind aprobarea unor măsuri suplimentare de combatere a noului Coronavirus",
+"short": "HCL Adjud nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-09",
+"latest": "2020-03-09",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-8-2020",
+"path": "local/vrancea/adjud/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 8/2020 privind gestionarea bolilor înalt contagioase pe teritoriul României",
+"short": "HCL Adjud nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-09",
+"latest": "2020-03-09",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-23-2020",
+"path": "local/vrancea/adjud/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 23/2020 privind adoptarea unor măsuri operative vizând prevenirea răspândirii infectării populației cu noua formă de Coronavirus SARS-CoV-2 care de",
+"short": "HCL Adjud nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-26-2020",
+"path": "local/vrancea/adjud/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 26/2020 privind adoptarea unor măsuri operative vizând prevenirea răspândirii infectării populației cu noua formă de Coronavirus SARS-CoV-2 car",
+"short": "HCL Adjud nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-17",
+"latest": "2020-03-17",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-28-2020",
+"path": "local/vrancea/adjud/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 28/2020 privind adoptarea unor măsuri operative vizând gestionarea răspândirii infecției populației cu noua formă de coronavirus SARS-CoV-2 care de",
+"short": "HCL Adjud nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-18",
+"latest": "2020-03-18",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-34-2020",
+"path": "local/vrancea/adjud/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 34/2020 privind instituirea măsurii obligatorii de purtare a măștii în spațiile publice",
+"short": "HCL Adjud nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-07",
+"latest": "2020-04-07",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-36-2020",
+"path": "local/vrancea/adjud/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 36/2020",
+"short": "HCL Adjud nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-09",
+"latest": "2020-04-09",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-122-2020",
+"path": "local/vrancea/adjud/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 122/2020 privind publicarea pe site a ratei incidenței cumulate pe 14 zile pentru fiecare localitate din Analiza de risc epidemiologic la nivelul județului",
+"short": "HCL Adjud nr. 122/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-13",
+"latest": "2020-10-13",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-132-2020",
+"path": "local/vrancea/adjud/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 132/2020 privind stabilirea unor măsuri pentru prevenirea și combaterea efectelor pandemiei COVID-19 în funcție de încadrarea în limitele de incidență cumu",
+"short": "HCL Adjud nr. 132/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-16",
+"latest": "2020-10-16",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-162-2020",
+"path": "local/vrancea/adjud/2020/162",
+"kind": "local",
+"year": "2020",
+"number": "162",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 162/2020 privind suspendarea cursurilor școlare în unitățile de învățământ în contextul confirmării unui caz/mai multor cazuri de COVID19",
+"short": "HCL Adjud nr. 162/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-02",
+"latest": "2020-11-02",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--adjud-201-2020",
+"path": "local/vrancea/adjud/2020/201",
+"kind": "local",
+"year": "2020",
+"number": "201",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 201/2020 privind menținerea/stabilirea unor măsuri pentru prevenirea și combaterea efectelor pande,iei COVID19, în funcție de încadrarea în limitel",
+"short": "HCL Adjud nr. 201/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://www.adjud.ro/municipiul-adjud/protectie-civila/covid19-ordonantemilitare-decrete-hotarari/",
+"council": "vrancea/adjud",
+"council_name": "Consiliul Local al Municipiului Adjud",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

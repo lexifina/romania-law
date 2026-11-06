@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/adjud/2024",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--adjud-135-2024",
+   "path": "local/vrancea/adjud/2024/135",
+   "short": "HCL Adjud nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 135/2024 privind alegerea președintelui de ședință pentru perioada august 2024 – octombrie 2024",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2024/08/hcl-135_Redacted.pdf",
+     "sha256": "3a65509b74d5a563c7751ff91255bc3ec28ec6092993b1bdee9acce6acf87a91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--adjud-182-2024",
+   "path": "local/vrancea/adjud/2024/182",
+   "short": "HCL Adjud nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Adjud nr. 182/2024 privind alegerea președintelui de ședință pentru perioada octombrie 2024 – decembrie 2024",
+   "url": "https://www.adjud.ro/municipiul-adjud/consiliul-local-pagina/hotarari/hotarari-2024/",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://www.adjud.ro/assets/media/2024/11/hcl-182-redacted.pdf",
+     "sha256": "d59e7cf78aa92927ef21157a6d1ce1e2a91c5af01ceacefbc29201b2cecfc18d"
+    }
+   ]
+  }
+ ]
+}

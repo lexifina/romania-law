@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/rafaila/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--rafaila-61-2023",
+   "path": "local/vaslui/rafaila/2023/61",
+   "short": "HCL Rafaila nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rafaila nr. 61/2023",
+   "url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.61-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.61-2023.pdf",
+     "sha256": "409745d71621155e913165c1075710da64a96ddd8b55c0f16506ba96cf5327c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--rafaila-62-2023",
+   "path": "local/vaslui/rafaila/2023/62",
+   "short": "HCL Rafaila nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rafaila nr. 62/2023 privind organizarea activității de apărare împotriva incendiilor la nivelul comunei Rafaila, jud",
+   "url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.62-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.62-2023.pdf",
+     "sha256": "fe40bb112a0f478877c5d387d17785b0be9fe0cc9f6a938fa4c046c27c681c30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--rafaila-63-2023",
+   "path": "local/vaslui/rafaila/2023/63",
+   "short": "HCL Rafaila nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Rafaila nr. 63/2023 privind aprobarea „Programului de deszăpezire și combatere a poleiului pe drumurile din administrarea comunei Rafaila, în perioada de iarnă, 01 noiembrie 2023 – 31 martie 2024” având în vedere: - adresa Consiliului Județean Vaslui nr. 19109 din 05.10.2023, prin care se solicită intocmirea „Programului de deszăpezire și combatere a poleiului pe drumurile din administrarea comunei Rafaila, în perioa",
+   "url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.63-2023.pdf",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://rafaila.ro/wp-content/uploads/2026/08/Hotararea-nr.63-2023.pdf",
+     "sha256": "caf0746a3de672b1737eea537378dd9ffcbb25c6840c003133ca7632272e4115"
+    }
+   ]
+  }
+ ]
+}
