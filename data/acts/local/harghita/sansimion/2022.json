@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/harghita/sansimion/2022",
+"acts": [
+{
+"slug": "hcl-harghita--sansimion-91-2022",
+"path": "local/harghita/sansimion/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 91/2022 privind revocarea Hotărârii Consiliului Local Sânsimion nr. 60/2022 privind stabilirea impozitelor și taxelor speciale pentru anul 2023",
+"short": "HCL Sânsimion nr. 91/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-04",
+"latest": "2023-08-04",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/115563",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

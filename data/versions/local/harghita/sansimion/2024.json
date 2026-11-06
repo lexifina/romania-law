@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/harghita/sansimion/2024",
+ "acts": [
+  {
+   "slug": "hcl-harghita--sansimion-69-2024",
+   "path": "local/harghita/sansimion/2024/69",
+   "short": "HCL Sânsimion nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 69/2024 privind organizarea și operarea punctelor de returnare al ambalajelor primare neutilizabile în sistemul de garanție-returnare SGR, la nivelul comunei Sânsimion, județul Harghita",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/194281",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/194281",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

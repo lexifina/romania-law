@@ -76,6 +76,81 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-121-2020",
+   "path": "local/dambovita/sotanga/2020/121",
+   "short": "HCL Șotânga nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 121/2020 privind aprobarea structurii rețelei școlare din comuna Șotânga pentru anul de învățământ 2021-2022",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12917",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-123-2020",
+   "path": "local/dambovita/sotanga/2020/123",
+   "short": "HCL Șotânga nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 123/2020 privind aprobarea cuantumului taxei de habitat cu destinatie speciala de salubrizare pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12919",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-128-2020",
+   "path": "local/dambovita/sotanga/2020/128",
+   "short": "HCL Șotânga nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 128/2020 privind aprobarea cotizatiei datorate de catre comuna Sotanga in calitate de membru al Asociatiei Comunelor din Romania, pentru anul 2021",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12924",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-131-2020",
+   "path": "local/dambovita/sotanga/2020/131",
+   "short": "HCL Șotânga nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 131/2020 privind acordarea ajutoarelor de urgenta familiilor și persoanelor care se află în situații de necesitate",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12927",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--sotanga-133-2020",
+   "path": "local/dambovita/sotanga/2020/133",
+   "short": "HCL Șotânga nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șotânga nr. 133/2020 privind aprobarea Regulamentului cuprinzând măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri ale consiliului local al comunei Sotanga",
+   "url": "https://emol.ro/sotanga-db/registru-hcl/12929",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sotanga-db/registru-hcl/12929",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

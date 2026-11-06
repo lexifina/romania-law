@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/branisca/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--branisca-44-2023",
+   "path": "local/hunedoara/branisca/2023/44",
+   "short": "HCL Brănișca nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 44/2023 privind solicitarea prelungirii termenului Scrisorii de garantare nr. 752/11.10.2017 de la FNGCIMM SA IFN in vederea garantarii obligatiilor de plata a avansului din fonduri nerambursabile pentru implementarea Proiectului privind: :”Reabilitarea, modernizarea si dotarea caminelor culturale din satele Branisca si Boz, comuna Branisca, judetul Hunedoara”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/113769",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/113769",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

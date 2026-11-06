@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/runcu/2024",
+"acts": [
+{
+"slug": "hcl-gorj--runcu-64-2024",
+"path": "local/gorj/runcu/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Runcu nr. 64/2024 privind modificarea art.1.din HCL 34/19.06.2024 privind aprobarea tarifului de alimentare cu energie electrică la stațiile de reîncărcare a vehiculelor electrice, amplasate pe terenul identificat cu nr. Cadastral 39131",
+"short": "HCL Runcu nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-10",
+"latest": "2024-12-10",
+"portal": "https://emol.ro/runcu-gj/registru-hcl/177417",
+"council": "gorj/runcu",
+"council_name": "Consiliul Local al Comunei Runcu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

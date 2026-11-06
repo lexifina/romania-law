@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/ulmi/2024",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--ulmi-36-2024",
+   "path": "local/giurgiu/ulmi/2024/36",
+   "short": "HCL Ulmi nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 36/2024 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/185360",
+   "versions": [
+    {
+     "from": "2025-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/185360",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

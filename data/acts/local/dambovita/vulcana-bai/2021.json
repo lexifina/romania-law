@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dambovita/vulcana-bai/2021",
+"acts": [
+{
+"slug": "hcl-dambovita--vulcana-bai-74-2021",
+"path": "local/dambovita/vulcana-bai/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 74/2021 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: „STABILIZAREA UNOR ALUNECĂRI DE TEREN ȘI A DOUĂ PODURI AFECTATE DE CALAMITĂȚI NATURALE, ÎN COMUNA VULCANA-BĂI”",
+"short": "HCL Vulcana-Băi nr. 74/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/42439",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-75-2021",
+"path": "local/dambovita/vulcana-bai/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 75/2021 privind actualizarea studiului de fezabilitate și a indicatorilor tehnico-economici, aferente comunei Vulcana-Băi din „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată, în județul Dâmbovița, în perioada 2014-2020”, aprobate prin Hotărârea nr. 14/2021",
+"short": "HCL Vulcana-Băi nr. 75/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-23",
+"latest": "2021-11-23",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/42440",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-86-2021",
+"path": "local/dambovita/vulcana-bai/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 86/2021 pentru modificarea și completarea Hotărârii Consiliului Local nr. 35/2021 privind indexarea impozitelor și taxelor locale pe anul 2021",
+"short": "HCL Vulcana-Băi nr. 86/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/47311",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-87-2021",
+"path": "local/dambovita/vulcana-bai/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 87/2021 privind aprobarea cotizației/contribuției comunei Vulcana-Băi datorată către Asociația de Dezvoltare Intercomunitară „Management Integrat al Deșeurilor în Județul Dâmbovița”, pentru anul 2022",
+"short": "HCL Vulcana-Băi nr. 87/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-27",
+"latest": "2021-12-27",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/47312",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

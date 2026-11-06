@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/gorj/bustuchin/2026",
+"acts": [
+{
+"slug": "hcl-gorj--bustuchin-77-2026",
+"path": "local/gorj/bustuchin/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 77/2026 privind modificarea și actualizarea organigramei și a ştatului de funcţii pentru funcţionarii publici şi personalul contractual din aparatul de specialitate al primarului comunei Bustuchin, județul Gorj",
+"short": "HCL Bustuchin nr. 77/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/292853",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-79-2026",
+"path": "local/gorj/bustuchin/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 79/2026 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2026 - R4",
+"short": "HCL Bustuchin nr. 79/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/296806",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/blajeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--blajeni-45-2023",
+   "path": "local/hunedoara/blajeni/2023/45",
+   "short": "HCL Blăjeni nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 45/2023",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/130626",
+   "versions": [
+    {
+     "from": "2023-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/130626",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

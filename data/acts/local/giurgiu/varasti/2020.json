@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/varasti/2020",
+"acts": [
+{
+"slug": "hcl-giurgiu--varasti-49-2020",
+"path": "local/giurgiu/varasti/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 49/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+"short": "HCL Vărăști nr. 49/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/31905",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-50-2020",
+"path": "local/giurgiu/varasti/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 50/2020 privind stabilirea numărului și a cuantumului burselor de care pot beneficia elevii de la cursurile cu frecvență din unitățile de învățământ de pe raza comunei",
+"short": "HCL Vărăști nr. 50/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/31906",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

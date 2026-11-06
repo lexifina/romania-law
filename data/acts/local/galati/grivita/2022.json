@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/galati/grivita/2022",
+"acts": [
+{
+"slug": "hcl-galati--grivita-32-2022",
+"path": "local/galati/grivita/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 32/2022 privind aprobarea Regulamentului Serviciului Județean de Salubrizare Galați",
+"short": "HCL Grivița nr. 32/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/69852",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-33-2022",
+"path": "local/galati/grivita/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 33/2022 privind aprobarea Regulamentului privind aplicarea unor măsuri de revigorare a activității culturale și de stimulare a competițiilor școlare, la nivelul Comunei Grivița, Județul Galați",
+"short": "HCL Grivița nr. 33/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/69853",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-34-2022",
+"path": "local/galati/grivita/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 34/2022 privind aprobarea cofinanțării din bugetul local al comunei Grivița, a cheltuielilor care nu se finanțează prin Programul National de Investitii ”Anghel Saligny” pentru obiectivului de investiție „Înființare sistem de distribuție gaze naturale în Comuna Grivita, județul Galați",
+"short": "HCL Grivița nr. 34/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-07",
+"latest": "2022-10-07",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/73388",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-40-2022",
+"path": "local/galati/grivita/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 40/2022 privind aprobarea REGULAMENTULUI DE ORGANIZARE sI FUNCtIONARE AL APARATULUI DE SPECIALITATE AL PRIMARULUI COMUNEI GRIVItA, judetul GALAtI",
+"short": "HCL Grivița nr. 40/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-08",
+"latest": "2022-11-08",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/78666",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--grivita-44-2022",
+"path": "local/galati/grivita/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Grivița nr. 44/2022 privind stabilirea impozitelor si taxelor locale pentru anul 2023",
+"short": "HCL Grivița nr. 44/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-04-25",
+"latest": "2023-04-25",
+"portal": "https://emol.ro/grivita-gl/registru-hcl/101556",
+"council": "galati/grivita",
+"council_name": "Consiliul Local al Comunei Grivița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

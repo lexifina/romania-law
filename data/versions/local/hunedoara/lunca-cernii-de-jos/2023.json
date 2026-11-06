@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/lunca-cernii-de-jos/2023",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-57-2023",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2023/57",
+   "short": "HCL Lunca Cernii de Jos nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 57/2023 privind stabilirea impozitului pe anul 2024, pe mijloacele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, prevăzute la art.470 alin.(5) și alin.(6) din Legea nr.227/2015 privind Codul Fiscal, indexate conform prevederilor art. 491 alin.(11) Cod Fiscal",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133533",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-58-2023",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2023/58",
+   "short": "HCL Lunca Cernii de Jos nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 58/2023 privind stabilirea impozitelor şi taxelor locale aplicabile în anul fiscal 2024",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133534",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--lunca-cernii-de-jos-59-2023",
+   "path": "local/hunedoara/lunca-cernii-de-jos/2023/59",
+   "short": "HCL Lunca Cernii de Jos nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 59/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+   "url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133535",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133535",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

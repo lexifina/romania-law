@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/galati/corni/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--corni-26-2026",
+   "path": "local/galati/corni/2026/26",
+   "short": "HCL Corni nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 26/2026 privind aprobarea schimbării destinației imobilului identificat cu numărul cadastral 102530 situat în sat Corni care face parte din baza materială a Școlii Gimnaziale nr.1 Macișeni, în vederea modernizarii unității de învățământ, pentru implementarea obiectivului de investiții „Modernizare corp C1 – școală și grădiniță în sat Corni, județul Galați”, inclus în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281737",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-27-2026",
+   "path": "local/galati/corni/2026/27",
+   "short": "HCL Corni nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 27/2026 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/281738",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/281738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-32-2026",
+   "path": "local/galati/corni/2026/32",
+   "short": "HCL Corni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 32/2026 privind rectificarea bugetului local al comunei Corni, judeţul Galaţi, în anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/286869",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/286869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-33-2026",
+   "path": "local/galati/corni/2026/33",
+   "short": "HCL Corni nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 33/2026 privind modificarea și completarea HCL nr. 14 din 11.05.2026 privind aprobarea Programului de Investitii Publice al comunei Corni, Județul Galați, pe anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/286870",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/286870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-34-2026",
+   "path": "local/galati/corni/2026/34",
+   "short": "HCL Corni nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 34/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Corni nr. 18 din 03.06.2026 privind aprobarea achiziției de servicii pentru activitățile de colectare separată și transport separat a deșeurilor menajere și al deșeurilor similare provenind din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat la nivelul unitatii administrativ-teritoriale Corni, Județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/286871",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/286871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-35-2026",
+   "path": "local/galati/corni/2026/35",
+   "short": "HCL Corni nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 35/2026 privind aprobarea cotizației anuale a Unității Administrativ-Teritoriale Comuna Corni, județul Galați, la Asociația de Dezvoltare Intercomunitară ’’ECOSERV” pentru anul 2026",
+   "url": "https://emol.ro/corni-gl/registru-hcl/286872",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/286872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--corni-36-2026",
+   "path": "local/galati/corni/2026/36",
+   "short": "HCL Corni nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Corni nr. 36/2026 privind aprobarea Regulamentului de organizare și funcționare a parcurilor și locurilor de joacă din comuna Corni, județul Galați",
+   "url": "https://emol.ro/corni-gl/registru-hcl/286873",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 1,
+     "source_url": "https://emol.ro/corni-gl/registru-hcl/286873",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

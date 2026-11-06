@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dolj/afumati/2022",
+"acts": [
+{
+"slug": "hcl-dolj--afumati-53-2022",
+"path": "local/dolj/afumati/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 53/2022 privind alocarea sumei de 50.000 lei din bugetul de venituri și cheltuieli al Comunei Afumați pentru iluminat ornamental-festiv cu ocazia sărbătorilor de iarnă",
+"short": "HCL Afumați nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132305",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-54-2022",
+"path": "local/dolj/afumati/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 54/2022 privind stabilirea perioadei în care se efectuează inventarierea bunurilor ce alcătuiesc domeniul public și privat al Comunei Afumați",
+"short": "HCL Afumați nr. 54/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132306",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--afumati-59-2022",
+"path": "local/dolj/afumati/2022/59",
+"kind": "local",
+"year": "2022",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Afumați nr. 59/2022 privind aprobarea documentației tehnico-economice și a devizului general aferenți investiției „Reabilitare și modernizare parc central Boureni”",
+"short": "HCL Afumați nr. 59/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-07",
+"latest": "2023-12-07",
+"portal": "https://emol.ro/afumati-dj/registru-hcl/132311",
+"council": "dolj/afumati",
+"council_name": "Consiliul Local al Comunei Afumați",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -3,6 +3,126 @@
  "shard": "local/gorj/turceni/2025",
  "acts": [
   {
+   "slug": "hcl-gorj--turceni-105-2025",
+   "path": "local/gorj/turceni/2025/105",
+   "short": "HCL Turceni nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 105/2025 privind aprobarea activităților finanțate integral din venituri proprii, sursa E de finanțare, ale Liceului Tehnologic Turceni",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/214768",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/214768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-108-2025",
+   "path": "local/gorj/turceni/2025/108",
+   "short": "HCL Turceni nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 108/2025 privind aprobarea rectificării bugetului Spitalului Orășenesc Turceni, pe anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/214771",
+   "versions": [
+    {
+     "from": "2025-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/214771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-112-2025",
+   "path": "local/gorj/turceni/2025/112",
+   "short": "HCL Turceni nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 112/2025 privind aprobarea documentației tehnice cadastrale de dezmembrare a unui imobil și înscrierea în Cartea Funciara a orașului Turceni",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/215868",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/215868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-114-2025",
+   "path": "local/gorj/turceni/2025/114",
+   "short": "HCL Turceni nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 114/2025 privind aprobarea Caietului de sarcini pentru achiziționarea de ”Servicii de elaborare a Planului Urbanistic Zonal (PUZ) pentru zona centrală a orașului Turceni, județul Gorj”",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/219236",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/219236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-115-2025",
+   "path": "local/gorj/turceni/2025/115",
+   "short": "HCL Turceni nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 115/2025 pentru aprobarea Regulamentului privind procedura pentru înregistrarea, evidenţa şi radierea vehiculelor pentru care există obligativitatea înregistrării, de pe raza administrativ- teritorială a orașului Turceni",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/219237",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/219237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-126-2025",
+   "path": "local/gorj/turceni/2025/126",
+   "short": "HCL Turceni nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 126/2025 privind aprobarea rectificării bugetului local al orașului Turceni, pe anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/219248",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/219248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-130-2025",
+   "path": "local/gorj/turceni/2025/130",
+   "short": "HCL Turceni nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 130/2025 privind aprobarea rectificării bugetului local al orașului Turceni, pe anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/221103",
+   "versions": [
+    {
+     "from": "2025-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/221103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-132-2025",
+   "path": "local/gorj/turceni/2025/132",
+   "short": "HCL Turceni nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 132/2025 privind aprobarea contului de executie a bugetului local și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe trimestrul II, anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/222248",
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/222248",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--turceni-176-2025",
    "path": "local/gorj/turceni/2025/176",
    "short": "HCL Turceni nr. 176/2025",
@@ -118,6 +238,96 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/turceni-gj/registru-hcl/245032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-77-2025",
+   "path": "local/gorj/turceni/2025/77",
+   "short": "HCL Turceni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 77/2025 pentru aprobarea Regulamentului privind stabilirea și sancționarea faptelor care constituie contravenții în domeniul edilitar-gospodăresc, ordinii, curățeniei și igienei publice, a circulației rutiere în orașul Turceni, județul Gorj",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211513",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-78-2025",
+   "path": "local/gorj/turceni/2025/78",
+   "short": "HCL Turceni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 78/2025 privind darea în folosință gratuită a unor bunuri achiziționate în cadrul proiectului “Dotarea cu mobilier, materiale didactice și echipamente digitale a Liceului Tehnologic Turceni, orașul Turceni, județul Gorj” finanțat în cadrul Programului Planul National de Redresare si Rezilienta (PNRR), către Liceul Tehnologic Turceni",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211514",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-79-2025",
+   "path": "local/gorj/turceni/2025/79",
+   "short": "HCL Turceni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 79/2025 privind aprobarea comunicării prin mijloace electronice de transmitere la distanță, a actelor administrative fiscale, a actelor de executare și altor acte emise de către Compartimentul Taxe și impozite din cadrul aparatului de specialitate al Primarului orașului Turceni",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211515",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-89-2025",
+   "path": "local/gorj/turceni/2025/89",
+   "short": "HCL Turceni nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 89/2025 privind aprobarea contului de executie a bugetului local și al bugetului instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe trimestrul I, anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211525",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-92-2025",
+   "path": "local/gorj/turceni/2025/92",
+   "short": "HCL Turceni nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 92/2025 privind aprobarea rectificării bugetului local al orașului Turceni, pe anul 2025 - 94",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211528",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--turceni-94-2025",
+   "path": "local/gorj/turceni/2025/94",
+   "short": "HCL Turceni nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Turceni nr. 94/2025 privind aprobarea rectificării bugetului local al orașului Turceni, pe anul 2025",
+   "url": "https://emol.ro/turceni-gj/registru-hcl/211956",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/turceni-gj/registru-hcl/211956",
      "sha256": null
     }
    ]

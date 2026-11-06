@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/harghita/sansimion/2020",
+ "acts": [
+  {
+   "slug": "hcl-harghita--sansimion-76-2020",
+   "path": "local/harghita/sansimion/2020/76",
+   "short": "HCL Sânsimion nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 76/2020 privind aprobarea acordului de parteneriat în forma actualizată ,pentru depunerea cererii de finanțare și realizarea proiectului comun ”ÎNFIINȚAREA REȚELOR INTELIGENTE DE DISTRIBUȚIE DE GAZE NATURALE ȘI BRANȘAMENTELE ÎN COMUNELE SÂNSIMION ȘI SÂNTIMBRU, JUDEȚUL HARGHITA”",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/18447",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/18447",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

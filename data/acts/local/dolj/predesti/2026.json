@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dolj/predesti/2026",
+"acts": [
+{
+"slug": "hcl-dolj--predesti-36-2026",
+"path": "local/dolj/predesti/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Predești nr. 36/2026 privind aprobarea cadrului de utilizare a zilierilor pentru desfășurarea unor activități necalificate cu caracter ocazional la nivelul UAT Comuna Predești, județul Dolj",
+"short": "HCL Predești nr. 36/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://emol.ro/predesti-dj/registru-hcl/285409",
+"council": "dolj/predesti",
+"council_name": "Consiliul Local al Comunei Predești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--predesti-37-2026",
+"path": "local/dolj/predesti/2026/37",
+"kind": "local",
+"year": "2026",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Predești nr. 37/2026 privind aprobarea Regulamentului privind utilizarea microbuzului de transport școlar în comuna Predești, județul Dolj",
+"short": "HCL Predești nr. 37/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-01",
+"latest": "2026-09-01",
+"portal": "https://emol.ro/predesti-dj/registru-hcl/285410",
+"council": "dolj/predesti",
+"council_name": "Consiliul Local al Comunei Predești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

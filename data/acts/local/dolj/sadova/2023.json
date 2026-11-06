@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dolj/sadova/2023",
+"acts": [
+{
+"slug": "hcl-dolj--sadova-70-2023",
+"path": "local/dolj/sadova/2023/70",
+"kind": "local",
+"year": "2023",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 70/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lII, anul 2023",
+"short": "HCL Sadova nr. 70/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-29",
+"latest": "2023-11-29",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/131398",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-78-2023",
+"path": "local/dolj/sadova/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 78/2023 privind stabilirea taxelor si impozitelor locale, precum si limitele amenzilor care se fac venit la bugetul local al comunei Sadova, aplicabile în anul fiscal 2024",
+"short": "HCL Sadova nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/135276",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-80-2023",
+"path": "local/dolj/sadova/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 80/2023 privind aprobarea REGULAMENTULUI-CADRU pentru închirierea sau concesionarea bunurilor imobile aparținând domeniului public sau privat al Comunei Sadova, Judeţul Dolj",
+"short": "HCL Sadova nr. 80/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-19",
+"latest": "2024-02-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/135278",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

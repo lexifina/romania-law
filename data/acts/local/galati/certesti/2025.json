@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/galati/certesti/2025",
+"acts": [
+{
+"slug": "hcl-galati--certesti-80-2025",
+"path": "local/galati/certesti/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 80/2025 privind aprobarea trecerii unui teren din categoria arabil în categoria drum, în suprafață de 542 mp, situat în intravilan, Cv 14, P 9, CF 106094, precum și trecerea din domeniul privat în domeniul public și declararea acestuia ca bun de uz și de interes public local",
+"short": "HCL Cerțești nr. 80/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/247014",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--certesti-81-2025",
+"path": "local/galati/certesti/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 81/2025 privind realizarea a unor lucrări de aducere la conformitate, modernizare, reabilitare, lărgire și îmbunătățire a drumurilor existente și acordarea cu titlu gratuit a drepturilor de uz și servitute asupra unor terenuri aparținând comunei Cerțești către HOOPEKS INTERNATIONAL S.R.L",
+"short": "HCL Cerțești nr. 81/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/247015",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--certesti-83-2025",
+"path": "local/galati/certesti/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 83/2025 privind aprobarea Programului de acțiune toamnă-iarnă pentru perioada 1 noiembrie 2025-31 martie 2026 la nivelul comunei Cerțești",
+"short": "HCL Cerțești nr. 83/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/certesti-gl/registru-hcl/247017",
+"council": "galati/certesti",
+"council_name": "Consiliul Local al Comunei Cerțești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

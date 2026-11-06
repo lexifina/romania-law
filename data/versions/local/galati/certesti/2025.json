@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/galati/certesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-galati--certesti-80-2025",
+   "path": "local/galati/certesti/2025/80",
+   "short": "HCL Cerțești nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 80/2025 privind aprobarea trecerii unui teren din categoria arabil în categoria drum, în suprafață de 542 mp, situat în intravilan, Cv 14, P 9, CF 106094, precum și trecerea din domeniul privat în domeniul public și declararea acestuia ca bun de uz și de interes public local",
+   "url": "https://emol.ro/certesti-gl/registru-hcl/247014",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/certesti-gl/registru-hcl/247014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--certesti-81-2025",
+   "path": "local/galati/certesti/2025/81",
+   "short": "HCL Cerțești nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 81/2025 privind realizarea a unor lucrări de aducere la conformitate, modernizare, reabilitare, lărgire și îmbunătățire a drumurilor existente și acordarea cu titlu gratuit a drepturilor de uz și servitute asupra unor terenuri aparținând comunei Cerțești către HOOPEKS INTERNATIONAL S.R.L",
+   "url": "https://emol.ro/certesti-gl/registru-hcl/247015",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/certesti-gl/registru-hcl/247015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--certesti-83-2025",
+   "path": "local/galati/certesti/2025/83",
+   "short": "HCL Cerțești nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerțești nr. 83/2025 privind aprobarea Programului de acțiune toamnă-iarnă pentru perioada 1 noiembrie 2025-31 martie 2026 la nivelul comunei Cerțești",
+   "url": "https://emol.ro/certesti-gl/registru-hcl/247017",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/certesti-gl/registru-hcl/247017",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

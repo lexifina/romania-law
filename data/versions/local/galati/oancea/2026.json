@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/galati/oancea/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--oancea-40-2026",
+   "path": "local/galati/oancea/2026/40",
+   "short": "HCL Oancea nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 40/2026 privind includerea unui teren în domeniul privat al c.Oancea, având suprafața de 376 mp. situat în intravilanul s.Slobozia Oancea, Cvartal 9, Parcela 2C",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/288310",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/288310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--oancea-41-2026",
+   "path": "local/galati/oancea/2026/41",
+   "short": "HCL Oancea nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 41/2026 privind includerea unui teren în domeniul privat al c.Oancea, având suprafața de 289 mp. situat în intravilanul com.s.Oancea, Cvartal 59, Parcela 2",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/288311",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/288311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--oancea-47-2026",
+   "path": "local/galati/oancea/2026/47",
+   "short": "HCL Oancea nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 47/2026 privind rectificare de buget la partea de venituri și cheltuieli pentru anul 2026",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/291696",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/291696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--oancea-48-2026",
+   "path": "local/galati/oancea/2026/48",
+   "short": "HCL Oancea nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 48/2026 privind aprobarea achiziției directe de servicii și atribuirea contractului de delegare a gestiunii activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenite din activități comerciale, din industrie și instituții, inclusiv fracții colectate separat, la nivelul comunei Oancea, județul Galați",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/291697",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/291697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--oancea-49-2026",
+   "path": "local/galati/oancea/2026/49",
+   "short": "HCL Oancea nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 49/2026 privind privind aprobarea documentatiei tehnico-economice si a indicatorilor aferenti obiectivului de investitii: „ACHIZITIA DE ECHIPAMENTE NECESARE PRODUCERII ENERGIEI REGENERABILE PENTRU DESERVIREA CLADIRILOR PUBLICE DIN COMUNA OANCEA, JUDETUL GALATI”",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/291698",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/291698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--oancea-50-2026",
+   "path": "local/galati/oancea/2026/50",
+   "short": "HCL Oancea nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Oancea nr. 50/2026 privind implementarea proiectului „ACHIZITIA DE ECHIPAMENTE NECESARE PRODUCERII ENERGIEI REGENERABILE PENTRU DESERVIREA CLADIRILOR PUBLICE DIN COMUNA OANCEA, JUDETUL GALATI”",
+   "url": "https://emol.ro/oancea-gl/registru-hcl/291699",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/oancea-gl/registru-hcl/291699",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

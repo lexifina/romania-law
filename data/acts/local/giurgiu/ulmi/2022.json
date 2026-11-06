@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/ulmi/2022",
+"acts": [
+{
+"slug": "hcl-giurgiu--ulmi-44-2022",
+"path": "local/giurgiu/ulmi/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 44/2022 privind rectificarea bugetului local al comunei Ulmi, virarea de credite bugetare de la un capitol la altul, virarea de credite intre trimestre in cadrul aceluiasi articol si modificarea listei de investitii",
+"short": "HCL Ulmi nr. 44/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83141",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-49-2022",
+"path": "local/giurgiu/ulmi/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 49/2022 privind aprobarea contractării unei finanțări rambursabile interne in valoare de 4.000.000,00 lei pentru asigurarea finantarii proiectelor de investitii de interes local",
+"short": "HCL Ulmi nr. 49/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-26",
+"latest": "2022-09-26",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83146",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-52-2022",
+"path": "local/giurgiu/ulmi/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 52/2022 privind rectificarea bugetului local al comunei Ulmi",
+"short": "HCL Ulmi nr. 52/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/83997",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-55-2022",
+"path": "local/giurgiu/ulmi/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 55/2022 privind rectificarea bugetului local al comunei Ulmi",
+"short": "HCL Ulmi nr. 55/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-06",
+"latest": "2022-12-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/84018",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-56-2022",
+"path": "local/giurgiu/ulmi/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 56/2022 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei, execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare a Serviciului local de Salubrizare al comunei Ulmi în trimestrul IV/2022",
+"short": "HCL Ulmi nr. 56/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/85353",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-57-2022",
+"path": "local/giurgiu/ulmi/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 57/2022 privind aprobarea raportului informarii si consultarii publicului pentru actualizarea PUG si Regulament local de urbanism aferent acestuia al comunei Ulmi judetul Giurgiu",
+"short": "HCL Ulmi nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/85354",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-58-2022",
+"path": "local/giurgiu/ulmi/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 58/2022 privind rectificarea bugetului local al comunei Ulmi",
+"short": "HCL Ulmi nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/85355",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-60-2022",
+"path": "local/giurgiu/ulmi/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 60/2022 privind stabilirea impozitelor şi taxelor locale,precum şi a taxelor speciale,pentru anul 2023",
+"short": "HCL Ulmi nr. 60/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/85357",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-61-2022",
+"path": "local/giurgiu/ulmi/2022/61",
+"kind": "local",
+"year": "2022",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 61/2022 privind organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei ULMI pentru anul 2023-2024",
+"short": "HCL Ulmi nr. 61/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-03",
+"latest": "2023-02-03",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/85358",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

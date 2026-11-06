@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/gorj/bustuchin/2024",
+"acts": [
+{
+"slug": "hcl-gorj--bustuchin-89-2024",
+"path": "local/gorj/bustuchin/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 89/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r9 si completarea Programului de Investitii Publice pentru anul 2024",
+"short": "HCL Bustuchin nr. 89/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-09",
+"latest": "2024-12-09",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/177213",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-91-2024",
+"path": "local/gorj/bustuchin/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 91/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r10",
+"short": "HCL Bustuchin nr. 91/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/179803",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-101-2024",
+"path": "local/gorj/bustuchin/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 101/2024 privind stabilirea impozitelor şi taxelor locale pentru anul 2025",
+"short": "HCL Bustuchin nr. 101/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/184883",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-103-2024",
+"path": "local/gorj/bustuchin/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 103/2024 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2024 – r11",
+"short": "HCL Bustuchin nr. 103/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/184885",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-gorj--bustuchin-104-2024",
+"path": "local/gorj/bustuchin/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 104/2024 privind aprobarea documentatiei tehnico-economica si a indicatorilor tehnico-economici din cadrul proiectului “Cresterea eficientei energetice a infrastructurii de iluminat public in comuna Bustuchin”, judetul Gorj, etapa II, desfasurat prin, ”Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public”, respectiv acordul privind asigurarea si sutinerea contributiei financiare aferente cheltuielilor implementarii proiectului si care nu sunt finantate de AFM;",
+"short": "HCL Bustuchin nr. 104/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/bustuchin-gj/registru-hcl/184886",
+"council": "gorj/bustuchin",
+"council_name": "Consiliul Local al Comunei Bustuchin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

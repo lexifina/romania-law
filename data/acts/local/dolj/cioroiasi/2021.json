@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dolj/cioroiasi/2021",
+"acts": [
+{
+"slug": "hcl-dolj--cioroiasi-44-2021",
+"path": "local/dolj/cioroiasi/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 44/2021 privind asumarea/neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor de panificație, laptelui și produselor lactate și fruxctelor sau legumelor, precum și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente Programului pentru școli al României",
+"short": "HCL Cioroiași nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-22",
+"latest": "2021-11-22",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/55576",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-45-2021",
+"path": "local/dolj/cioroiasi/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 45/2021 privind stabilirea nivelurilor impozitelor și taxelor locale aplicabile în comuna Cioroiași în anul 2022",
+"short": "HCL Cioroiași nr. 45/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-22",
+"latest": "2021-11-22",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/55577",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

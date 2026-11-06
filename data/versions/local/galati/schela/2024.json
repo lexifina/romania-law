@@ -1,0 +1,201 @@
+{
+ "country": "RO",
+ "shard": "local/galati/schela/2024",
+ "acts": [
+  {
+   "slug": "hcl-galati--schela-49-2024",
+   "path": "local/galati/schela/2024/49",
+   "short": "HCL Schela nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 49/2024 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Schela, județul Galați",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181167",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-51-2024",
+   "path": "local/galati/schela/2024/51",
+   "short": "HCL Schela nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 51/2024 privind constituirea și organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local al comunei Schela, judeţul Galaţi, pentru mandatul 2024-2028",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181187",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-53-2024",
+   "path": "local/galati/schela/2024/53",
+   "short": "HCL Schela nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 53/2024 privind aprobarea participarii Comunei SCHELA în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul MODERNIZAREA ȘI REABILITAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL, ÎN COMUNA SCHELA, JUDETUL GALAȚI, FAZA III",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181189",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-54-2024",
+   "path": "local/galati/schela/2024/54",
+   "short": "HCL Schela nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 54/2024 privind aprobarea indicatorilor tehnico-economici rezultați din documentația “Proiect tehnic de execuție” pentru obiectivul: „Înființare sistem public inteligent alternativ (SPIA) pentru procesare ape uzate și înființarea unui sistem individual adecvat (SIA) de colectare și epurare a apelor uzate în localitatea Negrea din comuna Schela, județul Galați’’",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181214",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181214",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-56-2024",
+   "path": "local/galati/schela/2024/56",
+   "short": "HCL Schela nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 56/2024 privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna noiembrie, anul 2024",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181216",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-57-2024",
+   "path": "local/galati/schela/2024/57",
+   "short": "HCL Schela nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 57/2024 privind aprobarea organizării reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Schela, judeţul Galați, pentru anul școlar 2025 -2026",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181217",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-58-2024",
+   "path": "local/galati/schela/2024/58",
+   "short": "HCL Schela nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 58/2024 privind aprobarea modificărilor tehnice intervenite prin Dispoziția de șantier nr.1 din 29.08.2024 și a actualizării indicatorilor tehnico-economici aferenți proiectului „ÎNFIINȚARE PISTE DE BICICLETE ÎN COMUNA SCHELA, JUDEȚUL GALAȚI”, ca urmare a modificărilor tehnice și financiare intervenite prin Dispoziția de șantier în perioada de execuție a lucrărilor, a stabilirii valorii estimate a sumelor necesare actualizării lucrărilor în cadrul Contractul de lucrări nr. 4785 din 22.07.2024, precum și aprobării valorii cheltuielilor de cofinanțare care vor fi suportate di bugetul local al comunei Schela, în cadrul acestui proiect",
+   "url": "https://emol.ro/schela-gl/registru-hcl/181218",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/181218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-60-2024",
+   "path": "local/galati/schela/2024/60",
+   "short": "HCL Schela nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 60/2024 privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna decembrie, anul 2024",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196507",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-61-2024",
+   "path": "local/galati/schela/2024/61",
+   "short": "HCL Schela nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 61/2024 privind stabilirea impozitelor și taxelor locale ce se vor percepe în anul fiscal 2025, la nivelul comunei Schela, județul Galați",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196512",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-62-2024",
+   "path": "local/galati/schela/2024/62",
+   "short": "HCL Schela nr. 62/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 62/2024 privind stabilirea taxelor speciale la nivelul Unității Administrativ Teritoriale Comuna Schela, județul Galați, pentru anul fiscal 2025",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196513",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-63-2024",
+   "path": "local/galati/schela/2024/63",
+   "short": "HCL Schela nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 63/2024 Privind stabilirea plafonului creanțelor fiscale ce pot fi anulate, aflate în sold la data 31 decembrie a anului în curs",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196514",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-67-2024",
+   "path": "local/galati/schela/2024/67",
+   "short": "HCL Schela nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 67/2024 privind dezmembrarea imobilului - teren situat în Cvartal 28, Parcela 311, 919/2, având nr. Cadastral 113167 în 2 loturi: lotul 1 în suprafață de 764 mp, având nr. Cadastral 113580 și lotul 2 în suprafață de 610 mp, având nr. Cadastral 113581, aparținând domeniului privat al Comunei Schela",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196518",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-68-2024",
+   "path": "local/galati/schela/2024/68",
+   "short": "HCL Schela nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 68/2024 Privind rectificarea bugetului local al comunei Schela, județul Galați, pe luna decembrie, anul 2024",
+   "url": "https://emol.ro/schela-gl/registru-hcl/196519",
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/196519",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

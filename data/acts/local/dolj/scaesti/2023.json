@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/dolj/scaesti/2023",
+"acts": [
+{
+"slug": "hcl-dolj--scaesti-41-2023",
+"path": "local/dolj/scaesti/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 41/2023 privind transformarea unei funcţi publice de execuţie şi modificarea ştatului de funcţii pentru aparatul de specialitate al primarului",
+"short": "HCL Scăești nr. 41/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/125026",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-46-2023",
+"path": "local/dolj/scaesti/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 46/2023 privind privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei SCAESTI judeţul DOLJ, începând cu luna noiembrie 2023",
+"short": "HCL Scăești nr. 46/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-22",
+"latest": "2023-11-22",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/127752",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-52-2023",
+"path": "local/dolj/scaesti/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 52/2023 privind rectificarea bugetului de venituri si cheltuieli pe anul 2023",
+"short": "HCL Scăești nr. 52/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/133059",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-53-2023",
+"path": "local/dolj/scaesti/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 53/2023 privind aprobare dare de seamă aferentă aferentă trimestrului lll al anului 2023",
+"short": "HCL Scăești nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/133060",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-54-2023",
+"path": "local/dolj/scaesti/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 54/2023 privind privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitie „Lucrari de interventie pentru cresterea eficientei energetice, modernizarea si extinderea Scolii Gimnaziale Scaesti - Structura Valea lui Patru”",
+"short": "HCL Scăești nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/133061",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-57-2023",
+"path": "local/dolj/scaesti/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 57/2023 privind rectificare bugetara de venituri si cheltuieli in trim IV al anului 2023",
+"short": "HCL Scăești nr. 57/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/134501",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--scaesti-58-2023",
+"path": "local/dolj/scaesti/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scăești nr. 58/2023 privind inventarul public, respectiv completarea, modificarea si actualizarea inventarului bunurilor care apartin domeniului public al comunei Scaesti, conform masurilor atasate",
+"short": "HCL Scăești nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-08",
+"latest": "2024-01-08",
+"portal": "https://emol.ro/scaesti-dj/registru-hcl/134502",
+"council": "dolj/scaesti",
+"council_name": "Consiliul Local al Comunei Scăești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

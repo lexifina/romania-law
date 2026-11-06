@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lunca-cernii-de-jos/2023",
+"acts": [
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-57-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 57/2023 privind stabilirea impozitului pe anul 2024, pe mijloacele de transport de marfă cu masa totală autorizată egală sau mai mare de 12 tone, prevăzute la art.470 alin.(5) și alin.(6) din Legea nr.227/2015 privind Codul Fiscal, indexate conform prevederilor art. 491 alin.(11) Cod Fiscal",
+"short": "HCL Lunca Cernii de Jos nr. 57/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133533",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-58-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 58/2023 privind stabilirea impozitelor şi taxelor locale aplicabile în anul fiscal 2024",
+"short": "HCL Lunca Cernii de Jos nr. 58/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133534",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-59-2023",
+"path": "local/hunedoara/lunca-cernii-de-jos/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 59/2023 privind rectificarea bugetului local al comunei Lunca Cernii de Jos pe anul 2023",
+"short": "HCL Lunca Cernii de Jos nr. 59/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/133535",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

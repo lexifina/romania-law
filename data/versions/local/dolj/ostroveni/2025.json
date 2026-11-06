@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/ostroveni/2025",
+ "acts": [
+  {
+   "slug": "hcl-dolj--ostroveni-37-2025",
+   "path": "local/dolj/ostroveni/2025/37",
+   "short": "HCL Ostroveni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 37/2025 privind rectificarea bugetului comunei Ostroveni pe anul 2025 si a Listei obiectivelor de investitii pe anul 2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/232411",
+   "versions": [
+    {
+     "from": "2025-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/232411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-40-2025",
+   "path": "local/dolj/ostroveni/2025/40",
+   "short": "HCL Ostroveni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 40/2025 privind aprobarea Regulamentului de instituire si administrare a taxei speciale de salubrizare la nivelul comunei Ostroveni, judetul Dolj",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/238795",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/238795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-41-2025",
+   "path": "local/dolj/ostroveni/2025/41",
+   "short": "HCL Ostroveni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 41/2025 privind stabilirea spatiului de depozitare provizoriu a deseurilor periculoase de la populatie si spatiului necesar pentru colectarea separata a deseurilor de hartie si carton,sticla,metal,materiale plastice,lemn, textile, ambalaje, deşeuri de echipamente electrice şi electronice, deşeuri de baterii şi acumulatori, ulei vegetal uzat şi deşeuri voluminoase, inclusiv saltele şi mobile,colectate de la locuitorii comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/238796",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/238796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-42-2025",
+   "path": "local/dolj/ostroveni/2025/42",
+   "short": "HCL Ostroveni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 42/2025 privind transmiterea fara plata din domeniul privat al UAT com.Ostroveni la Scoala Gimnaziala Ostroveni a bunurilor achizitionate de catre Consiliul Judetean Dolj prin proiectul ,,Dotarea cu mobilier ,materiale didactice si echipamente (inclusiv echipamente digitale) a unitatilor de invatamant preuniversitar si a unitatilor conexe din judetul Dolj,,",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/238797",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/238797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-43-2025",
+   "path": "local/dolj/ostroveni/2025/43",
+   "short": "HCL Ostroveni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 43/2025 privind infiintarea unui post de consilier scolar cu durata determinata in afara organigramei in cadrul Proiectului,, ” Furnizarea de servicii integrate in comunitatile rurale- facilitarea accesului persoanelor vulnerabile la servicii de baza eficiente si de calitate” Cod PIDS/586/PO4/339395,,",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/238798",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/238798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-44-2025",
+   "path": "local/dolj/ostroveni/2025/44",
+   "short": "HCL Ostroveni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 44/2025 privind alocarea sumelor necesare pentru achizitia de cadouri de Craciun pentru scolarii si prescolarii inscrisi la Scoala Gimnaziala Ostroveni si la structurile arondate",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/239994",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/239994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-45-2025",
+   "path": "local/dolj/ostroveni/2025/45",
+   "short": "HCL Ostroveni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 45/2025 privind aprobarea proiectului “DEZVOLTAREA TURISTICA A COMUNEI OSTROVENI PRIN AMENAJAREA UNEI ZONE CU DESTINATIE TURISTICA”",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/239995",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/239995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-46-2025",
+   "path": "local/dolj/ostroveni/2025/46",
+   "short": "HCL Ostroveni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 46/2025 privind rectificarea bugetului comunei Ostroveni pe anul 2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/239996",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/239996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-47-2025",
+   "path": "local/dolj/ostroveni/2025/47",
+   "short": "HCL Ostroveni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 47/2025 privind aprobarea Planului de analiza si acoperire a riscurilor la nivelul comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241072",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-48-2025",
+   "path": "local/dolj/ostroveni/2025/48",
+   "short": "HCL Ostroveni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 48/2025 privind aprobarea Planului de evacuare a populatiei,unor bunuri materiale si colectivitati de animale in situatii de urgenta la nivelul comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241073",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-49-2025",
+   "path": "local/dolj/ostroveni/2025/49",
+   "short": "HCL Ostroveni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 49/2025 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii:,,Extindere si modernizare sistem de supraveghere video,,",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241074",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-50-2025",
+   "path": "local/dolj/ostroveni/2025/50",
+   "short": "HCL Ostroveni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 50/2025 privind aprobarea taxelor distincte și taxei de salubrizare la nivelul comunei Ostroveni pentru anul 2026",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241075",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-51-2025",
+   "path": "local/dolj/ostroveni/2025/51",
+   "short": "HCL Ostroveni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 51/2025 privind aprobarea indicatorilor tehnico-economici pentru investiția ,,Reabilitarea si modernizarea terenului sintetic in comuna Ostroveni,judetul Dolj,,",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241076",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-52-2025",
+   "path": "local/dolj/ostroveni/2025/52",
+   "short": "HCL Ostroveni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 52/2025 privind modificarea denumirii unui obiectiv de investitii din lista obiectivelor de investitii pe anul 2025 modificata IV",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241077",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-53-2025",
+   "path": "local/dolj/ostroveni/2025/53",
+   "short": "HCL Ostroveni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 53/2025 privind rectificarea bugetului comunei Ostroveni pe anul 2025",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241078",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-54-2025",
+   "path": "local/dolj/ostroveni/2025/54",
+   "short": "HCL Ostroveni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 54/2025 privind organizarea retelei scolare la nivelul UAT comuna Ostroveni pentru anul scolar 2026-2027",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/241079",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/241079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--ostroveni-56-2025",
+   "path": "local/dolj/ostroveni/2025/56",
+   "short": "HCL Ostroveni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ostroveni nr. 56/2025 privind stabilirea taxelor si impozitelor locale pe anul 2025 la nivelul comunei Ostroveni",
+   "url": "https://emol.ro/ostroveni-dj/registru-hcl/244407",
+   "versions": [
+    {
+     "from": "2026-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ostroveni-dj/registru-hcl/244407",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

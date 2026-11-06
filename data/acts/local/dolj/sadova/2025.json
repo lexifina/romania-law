@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/dolj/sadova/2025",
+"acts": [
+{
+"slug": "hcl-dolj--sadova-53-2025",
+"path": "local/dolj/sadova/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 53/2025 privind stabilirea spatiului de depozitare provizoriu a deseurilor periculoase de la populatie si spatiului necesar pentru colectarea separata a deseurilor de hârtie şi carton, sticlă, metal, materiale plastice, lemn, textile, ambalaje, deşeuri de echipamente electrice şi electronice, deşeuri de baterii şi acumulatori, ulei vegetal uzat şi deşeuri voluminoase, inclusiv saltele şi mobilă,colectate de la locuitorii comunei Sadova",
+"short": "HCL Sadova nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/227008",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-54-2025",
+"path": "local/dolj/sadova/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 54/2025 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lll anul 2025",
+"short": "HCL Sadova nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/233605",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-63-2025",
+"path": "local/dolj/sadova/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 63/2025 privind aprobarea revenirii la destinația inițială a imobilului Cămin cultural, aflat în domeniul public al comunei Sadova, sat Piscu Sadovei, județul Dolj, strada Dunării, nr.86, respectiv din \"Centru Comunitar Integrat\" în \"Cămin cultural\", urmare încetării de drept a Contractului de finanțare nr. 1117/131/CCI/27.12.2023",
+"short": "HCL Sadova nr. 63/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/238086",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-66-2025",
+"path": "local/dolj/sadova/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 66/2025 privind organizarea rețelei școlare la nivelul UAT Comuna Sadova pentru anul școlar 2026-2027",
+"short": "HCL Sadova nr. 66/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/244985",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-70-2025",
+"path": "local/dolj/sadova/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 70/2025 privind stabilirea impozitelor și taxelor locale datorate de persoanele fizice și juridice din comuna Sadova, în anul 2026",
+"short": "HCL Sadova nr. 70/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-11",
+"latest": "2026-02-11",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/244989",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

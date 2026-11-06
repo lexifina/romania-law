@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/varasti/2022",
+"acts": [
+{
+"slug": "hcl-giurgiu--varasti-67-2022",
+"path": "local/giurgiu/varasti/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 67/2022 privind aprobarea Planului de măsuri și acțiune al CLSU Vărăști pentru combaterea efectelor negative ale situațiilor de urgență specifice sezonului rece 2022-2023",
+"short": "HCL Vărăști nr. 67/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-04",
+"latest": "2023-05-04",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/78873",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-76-2022",
+"path": "local/giurgiu/varasti/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 76/2022 privind aprobarea montării de elemente de calmare pe raza comunei Vărăști pentru prevenirea unor evenimente ruriere",
+"short": "HCL Vărăști nr. 76/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-09",
+"latest": "2023-05-09",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/103932",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

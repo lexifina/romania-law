@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/varasti/2024",
+"acts": [
+{
+"slug": "hcl-giurgiu--varasti-61-2024",
+"path": "local/giurgiu/varasti/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 61/2024 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 61/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-07",
+"latest": "2024-11-07",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202183",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-64-2024",
+"path": "local/giurgiu/varasti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 64/2024 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2024",
+"short": "HCL Vărăști nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-14",
+"latest": "2024-11-14",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202186",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-70-2024",
+"path": "local/giurgiu/varasti/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 70/2024 privind modificarea hotărârii Consiliului local Vărăști nr.45 din 19.09.2024 privind anularea tuturor accesoriilor obligațiilor bugetare principale restante potrivit prevederilor Ordonanței de Urgență nr.107 din 4 septembrie 2024 pentru reglementarea unor măsuri fiscal-bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+"short": "HCL Vărăști nr. 70/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202192",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-71-2024",
+"path": "local/giurgiu/varasti/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 71/2024 privind organizarea rețelei școlare a unităților de învățământ de pe raza comunei Vărăști, județul Giurgiu pentru anul școlar 2025-2026",
+"short": "HCL Vărăști nr. 71/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-05",
+"latest": "2024-12-05",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202193",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-74-2024",
+"path": "local/giurgiu/varasti/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 74/2024 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2024",
+"short": "HCL Vărăști nr. 74/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202197",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-76-2024",
+"path": "local/giurgiu/varasti/2024/76",
+"kind": "local",
+"year": "2024",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 76/2024 privind scăderea din evidența fiscală a bugetului local a obligațiilor fiscale reprezentând amenzi contravenționale pentru care s-a împlinit termenul legal de prescriere",
+"short": "HCL Vărăști nr. 76/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-23",
+"latest": "2024-12-23",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/202199",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

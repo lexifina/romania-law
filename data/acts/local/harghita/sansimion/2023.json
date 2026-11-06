@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/harghita/sansimion/2023",
+"acts": [
+{
+"slug": "hcl-harghita--sansimion-87-2023",
+"path": "local/harghita/sansimion/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 87/2023 privind aprobarea unui drept de trecere în favoarea UAT-Orașul Băile Tușnad, prin Consiliul Local Băile Tușnad, pentru un sector care constituie domeniul public al Comunei Sânsimion, aflat în proprietatea publică a Comunei Sânsimion, aflat în proprietate publică a Comunei Sânsimion și în administrarea Consiliului Local al comunei Sânsimion, în vederea realizării obiectivului de investiții „Reabilitare și modernizare aducțiune de apă și sistem de alimentare cu apă a orașului Băile Tușnad”",
+"short": "HCL Sânsimion nr. 87/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144538",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-94-2023",
+"path": "local/harghita/sansimion/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 94/2023 privind prelungirea valabilității Planului Urbanistic General al comunei Sânsimion, până la 31 decembrie 2026",
+"short": "HCL Sânsimion nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144580",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-97-2023",
+"path": "local/harghita/sansimion/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 97/2023 privind modificarea devizului general al proiectului „ÎNFIINȚAREA REȚELELOR INTELIGENTE DE DISTRIBUȚIE DE GAZE NATURALE ȘI BRANȘAMENTELE ÎN COMUNELE SÂNSIMION ȘI SÂNTIMBRU, JUDEȚUL HARGHITA”",
+"short": "HCL Sânsimion nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/144583",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

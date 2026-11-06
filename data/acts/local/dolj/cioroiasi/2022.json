@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/dolj/cioroiasi/2022",
+"acts": [
+{
+"slug": "hcl-dolj--cioroiasi-42-2022",
+"path": "local/dolj/cioroiasi/2022/42",
+"kind": "local",
+"year": "2022",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 42/2022 privind aprobarea participării la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și aprobarea devizului general pentru proiectul ”Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Cioroiași”",
+"short": "HCL Cioroiași nr. 42/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/79699",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-48-2022",
+"path": "local/dolj/cioroiasi/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 48/2022 privind aprobarea implementării proiectului ”Înființarea unui centru de colectare a deșeurilor prin aport voluntar în Comuna Cioroiași, județul Dolj”",
+"short": "HCL Cioroiași nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-17",
+"latest": "2022-11-17",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/79767",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

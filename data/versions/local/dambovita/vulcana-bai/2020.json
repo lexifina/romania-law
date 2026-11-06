@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/vulcana-bai/2020",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--vulcana-bai-69-2020",
+   "path": "local/dambovita/vulcana-bai/2020/69",
+   "short": "HCL Vulcana-Băi nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 69/2020 privind constituirea sectoarelor administrative ale comunei Vulcana-Băi, în scopul creării unor raporturi directe între cetățeni și consilierii locali",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/16715",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/16715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-74-2020",
+   "path": "local/dambovita/vulcana-bai/2020/74",
+   "short": "HCL Vulcana-Băi nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 74/2020 privind aprobarea proiectului „Îmbunătățirea infrastructurii Tehnologiei Informației și Comunicațiilor sistemice la nivelul unităților de învățământ preuniversitar din comuna Vulcana-Băi” și a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/16720",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/16720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-84-2020",
+   "path": "local/dambovita/vulcana-bai/2020/84",
+   "short": "HCL Vulcana-Băi nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 84/2020 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2021",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/23816",
+   "versions": [
+    {
+     "from": "2020-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/23816",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

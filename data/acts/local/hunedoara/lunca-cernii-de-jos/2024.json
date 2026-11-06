@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/lunca-cernii-de-jos/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-42-2024",
+"path": "local/hunedoara/lunca-cernii-de-jos/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 42/2024 privind participarea Comunei Lunca Cernii de Jos în cadrul Programului privind sprijinirea eficienței energetice și a gestionării inteligente a energiei în infrastructura de iluminat public – finanțat prin Administrației Fondului pentru Mediu, pentru imbunatatirea iluminatului public, cu proiectul “Modernizarea sistemului de iluminat public în comuna Lunca Cernii de Jos, judetul Hunedoara”",
+"short": "HCL Lunca Cernii de Jos nr. 42/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-30",
+"latest": "2024-09-30",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/172360",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-44-2024",
+"path": "local/hunedoara/lunca-cernii-de-jos/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 44/2024 privind alegerea președintelui de ședință al Consiliului Local al comunei Lunca Cernii de Jos",
+"short": "HCL Lunca Cernii de Jos nr. 44/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175765",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--lunca-cernii-de-jos-47-2024",
+"path": "local/hunedoara/lunca-cernii-de-jos/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lunca Cernii de Jos nr. 47/2024 privind aprobarea prețurilor de referință pentru masa lemnoasă pe picior care se recoltează din fondul forestier proprietate publică și privată a Comunei Lunca Cernii de Jos în anul 2025",
+"short": "HCL Lunca Cernii de Jos nr. 47/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-25",
+"latest": "2024-10-25",
+"portal": "https://emol.ro/luncacerniidejos-hd/registru-hcl/175768",
+"council": "hunedoara/lunca-cernii-de-jos",
+"council_name": "Consiliul Local al Comunei Lunca Cernii de Jos",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

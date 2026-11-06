@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/harghita/sansimion/2021",
+"acts": [
+{
+"slug": "hcl-harghita--sansimion-29-2021",
+"path": "local/harghita/sansimion/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 29/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 și estimarea bugetului de venituri și cheltuieli pentru anii 2022-2024 al comunei Sânsimion",
+"short": "HCL Sânsimion nr. 29/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30615",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-30-2021",
+"path": "local/harghita/sansimion/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 30/2021",
+"short": "HCL Sânsimion nr. 30/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30616",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-31-2021",
+"path": "local/harghita/sansimion/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 31/2021 privind aprobarea Bugetului de Venituri şi Cheltuieli al S.C.Gospodăria Comunală Sânsimion SRL pe anul 2021",
+"short": "HCL Sânsimion nr. 31/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30617",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-32-2021",
+"path": "local/harghita/sansimion/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 32/2021 privind Indexarea pentru anul fiscal 2022 a oricărui impozit sau oricărei taxe locale, care constă într-o anumită sumă în lei sau care este stabilită pe baza unei anumite sume în lei, precum limitele amenzilor prevăzute la art. 493, alin 3 și alin. 4 din Legea nr. 227/2015 actualizată. cu rata inflației de 2,6 %",
+"short": "HCL Sânsimion nr. 32/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30618",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--sansimion-34-2021",
+"path": "local/harghita/sansimion/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 34/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Sânsimion pentru lunile mai-iulie 2021",
+"short": "HCL Sânsimion nr. 34/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/sansimion-hr/registru-hcl/30620",
+"council": "harghita/sansimion",
+"council_name": "Consiliul Local al Comunei Sânsimion",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

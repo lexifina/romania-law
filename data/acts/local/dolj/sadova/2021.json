@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/dolj/sadova/2021",
+"acts": [
+{
+"slug": "hcl-dolj--sadova-93-2021",
+"path": "local/dolj/sadova/2021/93",
+"kind": "local",
+"year": "2021",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 93/2021 privind aprobare suplimentare sumă privind achiziția unui container grup sanitar",
+"short": "HCL Sadova nr. 93/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-19",
+"latest": "2021-11-19",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46845",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-98-2021",
+"path": "local/dolj/sadova/2021/98",
+"kind": "local",
+"year": "2021",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 98/2021 privind aprobare modificare PAAP 2021 privind modificare obiectiv de investiții „achiziție buldoexcavator second hand” în obiectivul de investiții „achiziție buldoexcavator nou” și aprobare încheiere contract de furnizare de produse privind achiziție buldoexcavator nou",
+"short": "HCL Sadova nr. 98/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46862",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-100-2021",
+"path": "local/dolj/sadova/2021/100",
+"kind": "local",
+"year": "2021",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 100/2021 privind aprobare strategie de contractare, caiet de sarcini, formulare, model de contract pentru procedura simplificată de achiziție publică de produse „ buldoexcavator”",
+"short": "HCL Sadova nr. 100/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46866",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--sadova-103-2021",
+"path": "local/dolj/sadova/2021/103",
+"kind": "local",
+"year": "2021",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sadova nr. 103/2021 privind suplimentare PAAP 2021 și încheiere contract furnizare produse coșuri de gunoi stradal",
+"short": "HCL Sadova nr. 103/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/sadova-dj/registru-hcl/46869",
+"council": "dolj/sadova",
+"council_name": "Consiliul Local al Comunei Sadova",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/dolj/cioroiasi/2023",
+"acts": [
+{
+"slug": "hcl-dolj--cioroiasi-31-2023",
+"path": "local/dolj/cioroiasi/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 31/2023 privind aprobarea Regulamentului- cadru pentru înregistrarea și arhivarea contractelor de arendă depuse la Primăria/ Consiliul local al comunei Cioroiași, județul Dolj",
+"short": "HCL Cioroiași nr. 31/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/118597",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-32-2023",
+"path": "local/dolj/cioroiasi/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 32/2023 privind alegerea președintelui de ședință pentru perioada de trei luni",
+"short": "HCL Cioroiași nr. 32/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/118598",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-35-2023",
+"path": "local/dolj/cioroiasi/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 35/2023 privind transformarea unor posturi de execuție, modificarea și actualizarea corespunzătoare a organigramei și statului de funcții pentru aparatul de specialitate al UAT Cioroiași, județul Dolj în anul 2023",
+"short": "HCL Cioroiași nr. 35/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-01",
+"latest": "2023-09-01",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/118626",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-38-2023",
+"path": "local/dolj/cioroiasi/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 38/2023 privind indexarea cu rata inflației în procent de 13,8%, a impozitelor și taxelor locale pentru anul fiscal 2024, conform Legii nr. 227/2015 privind Codul Fiscal",
+"short": "HCL Cioroiași nr. 38/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144451",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-41-2023",
+"path": "local/dolj/cioroiasi/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 41/2023 privind reactualizarea și completarea Regulamentului de Organizare și Funcționare al Aparatului de specialitate al Primarului Comunei Cioroiași",
+"short": "HCL Cioroiași nr. 41/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144454",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-47-2023",
+"path": "local/dolj/cioroiasi/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 47/2023 privind aprobarea rectificării bugetului local al comunei Cioroiași, în trimestrul IV, anul 2023",
+"short": "HCL Cioroiași nr. 47/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144472",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--cioroiasi-49-2023",
+"path": "local/dolj/cioroiasi/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cioroiași nr. 49/2023 privind alocarea unei sume din bugetul local",
+"short": "HCL Cioroiași nr. 49/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-23",
+"latest": "2024-02-23",
+"portal": "https://emol.ro/cioroiasi-dj/registru-hcl/144474",
+"council": "dolj/cioroiasi",
+"council_name": "Consiliul Local al Comunei Cioroiași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

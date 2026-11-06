@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/balanesti/2024",
+"acts": [
+{
+"slug": "hcl-gorj--balanesti-38-2024",
+"path": "local/gorj/balanesti/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălănești nr. 38/2024 privind aprobarea reactualizării Planului de Analiză și Acoperire a Riscurilor aferent comunei Bălănești, județul Gorj",
+"short": "HCL Bălănești nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-06",
+"latest": "2024-11-06",
+"portal": "https://emol.ro/balanesti-gj/registru-hcl/174273",
+"council": "gorj/balanesti",
+"council_name": "Consiliul Local al Comunei Bălănești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

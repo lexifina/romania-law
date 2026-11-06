@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/balabanesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-galati--balabanesti-123-2023",
+   "path": "local/galati/balabanesti/2023/123",
+   "short": "HCL Bălăbănești nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Bălăbănești nr. 123/2023 privind stabilirea și aprobarea impozitelor și taxelor locale pe anul 2024",
+   "url": "https://emol.ro/balabanesti-gl/registru-hcl/143401",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/balabanesti-gl/registru-hcl/143401",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

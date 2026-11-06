@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/gorj/capreni/2024",
+"acts": [
+{
+"slug": "hcl-gorj--capreni-53-2024",
+"path": "local/gorj/capreni/2024/53",
+"kind": "local",
+"year": "2024",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 53/2024 privind aprobarea contului de execuţie a bugetului local al Comunei Căpreni pe trimestrul II al anului 2025",
+"short": "HCL Căpreni nr. 53/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://emol.ro/capreni-gj/registru-hcl/233041",
+"council": "gorj/capreni",
+"council_name": "Consiliul Local al Comunei Căpreni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

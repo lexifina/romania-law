@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/varasti/2021",
+"acts": [
+{
+"slug": "hcl-giurgiu--varasti-52-2021",
+"path": "local/giurgiu/varasti/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 52/2021 privind aprobarea Planului de lucrări și acțiuni Legea nr.416/2001",
+"short": "HCL Vărăști nr. 52/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51868",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-54-2021",
+"path": "local/giurgiu/varasti/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 54/2021 privind aprobarea devizului general estimativ pentru obiectivul de investiții „Modernizare străzi de interes local în comuna Vărăști, județul Giurgiu” și a cererii de finanțare prin Programul Național de Investiții „Anghel Saligny”",
+"short": "HCL Vărăști nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51873",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-55-2021",
+"path": "local/giurgiu/varasti/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 55/2021 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vărăști, județul Giurgiu",
+"short": "HCL Vărăști nr. 55/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51874",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-56-2021",
+"path": "local/giurgiu/varasti/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 56/2021 privind aprobarea dezmembrării unei suprafețe de teren",
+"short": "HCL Vărăști nr. 56/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51875",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-63-2021",
+"path": "local/giurgiu/varasti/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 63/2021 privind înregistrarea comunei Vărăști în Sistemul Național Electronic de Plată on-line a taxelor și impozitelor locale (SNEP), utilizând cadrul bancar și implicit înrolarea în sistemul ”Ghișeul.ro”",
+"short": "HCL Vărăști nr. 63/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51895",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-64-2021",
+"path": "local/giurgiu/varasti/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 64/2021 privind aprobarea Procedurii de identificare a situațiilor de risc separare a copiilor de părinți și a modernizării situației familiilor cu copii în situație de risc și a copiilor separați de părinți",
+"short": "HCL Vărăști nr. 64/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51896",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-70-2021",
+"path": "local/giurgiu/varasti/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 70/2021 privind înființarea unui centru fix de colectare a deșeurilor de echipamente electrice și electronice pe raza comunei Vărăști",
+"short": "HCL Vărăști nr. 70/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-30",
+"latest": "2021-12-30",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/51902",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

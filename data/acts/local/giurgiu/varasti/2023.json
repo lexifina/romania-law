@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/varasti/2023",
+"acts": [
+{
+"slug": "hcl-giurgiu--varasti-81-2023",
+"path": "local/giurgiu/varasti/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 81/2023 privind rectificarea bugetului local pe anul 2023",
+"short": "HCL Vărăști nr. 81/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-14",
+"latest": "2023-11-14",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/144737",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-88-2023",
+"path": "local/giurgiu/varasti/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 88/2023 privind rectificarea bugetului local pe anul 2023",
+"short": "HCL Vărăști nr. 88/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/144762",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--varasti-89-2023",
+"path": "local/giurgiu/varasti/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 89/2023 privind rectificarea bugetului local pe anul 2023",
+"short": "HCL Vărăști nr. 89/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://emol.ro/varasti-gr/registru-hcl/144765",
+"council": "giurgiu/varasti",
+"council_name": "Consiliul Local al Comunei Vărăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

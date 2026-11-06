@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/afumati/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--afumati-39-2023",
+   "path": "local/dolj/afumati/2023/39",
+   "short": "HCL Afumați nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 39/2023 privind aprobarea organizării și desfășurării manifestării ''Ziua Comunei Afumați - Ropotinul Țestelor'' pentru anul 2023",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132358",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-45-2023",
+   "path": "local/dolj/afumati/2023/45",
+   "short": "HCL Afumați nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 45/2023 privind aprobarea Regulamentului privind modul de utilizare a microbuzului școlar, pentru transportul elevilor din cadrul Școlii Gimnaziale Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132368",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-46-2023",
+   "path": "local/dolj/afumati/2023/46",
+   "short": "HCL Afumați nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 46/2023 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al Primarului Comunei Afumați, județul Dolj",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132369",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-47-2023",
+   "path": "local/dolj/afumati/2023/47",
+   "short": "HCL Afumați nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 47/2023 privind aprobarea solicitării de prelungire a Scrisorii de garanșie de la FNGCIMM SA ISFN pentru implementarea proiectului ”ÎNFIINȚARE SISTEM PUBLIC DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN COMUNA AFUMAȚI, JUDEȚUL DOLJ”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132370",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-48-2023",
+   "path": "local/dolj/afumati/2023/48",
+   "short": "HCL Afumați nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 48/2023 privind rectificarea nr. 3 a bugetului local al Comunei Afumați pentru anul 2023",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132371",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-49-2023",
+   "path": "local/dolj/afumati/2023/49",
+   "short": "HCL Afumați nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 49/2023 privind aprobarea inițierii demersurilor de actualizare a Planului de Urbanism General (P.U.G.) și a Regulamentului Local de Urbanism (R.L.U.) aferent și prelungirea valabilității documentației de urbanism „Plan Urbanistic General (P.U.G.) al comunei Afumați și Regulamentul Local de Urbanism aferent, aprobat prin Hotărârea Consiliului Local al comunei Afumați nr. 24 din 28.10.2013”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132372",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132372",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/baia-de-cris/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--baia-de-cris-45-2024",
+"path": "local/hunedoara/baia-de-cris/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 45/2024 aprobarea organizării manifestării cultural-patriotice “ Serbarile Nationale Tebea 2024 in colaborare cu Instituția Prefectului județul Hunedoara și Consiliul Județean Hunedoara precum și aprobarea Regulamentului de Organizare a Serbarilor Nationale Tebea 2024",
+"short": "HCL Baia de Criș nr. 45/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-22",
+"latest": "2024-08-22",
+"portal": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82737",
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--baia-de-cris-47-2024",
+"path": "local/hunedoara/baia-de-cris/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 47/2024",
+"short": "HCL Baia de Criș nr. 47/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": null,
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--baia-de-cris-48-2024",
+"path": "local/hunedoara/baia-de-cris/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 48/2024 rectificarea bugetului local al comunei Baia de Cris pe anul 2024",
+"short": "HCL Baia de Criș nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82740",
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

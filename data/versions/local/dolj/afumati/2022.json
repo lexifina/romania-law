@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/afumati/2022",
+ "acts": [
+  {
+   "slug": "hcl-dolj--afumati-53-2022",
+   "path": "local/dolj/afumati/2022/53",
+   "short": "HCL Afumați nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 53/2022 privind alocarea sumei de 50.000 lei din bugetul de venituri și cheltuieli al Comunei Afumați pentru iluminat ornamental-festiv cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132305",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-54-2022",
+   "path": "local/dolj/afumati/2022/54",
+   "short": "HCL Afumați nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 54/2022 privind stabilirea perioadei în care se efectuează inventarierea bunurilor ce alcătuiesc domeniul public și privat al Comunei Afumați",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132306",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--afumati-59-2022",
+   "path": "local/dolj/afumati/2022/59",
+   "short": "HCL Afumați nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Afumați nr. 59/2022 privind aprobarea documentației tehnico-economice și a devizului general aferenți investiției „Reabilitare și modernizare parc central Boureni”",
+   "url": "https://emol.ro/afumati-dj/registru-hcl/132311",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/afumati-dj/registru-hcl/132311",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

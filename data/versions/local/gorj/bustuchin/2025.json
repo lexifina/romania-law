@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/bustuchin/2025",
+ "acts": [
+  {
+   "slug": "hcl-gorj--bustuchin-56-2025",
+   "path": "local/gorj/bustuchin/2025/56",
+   "short": "HCL Bustuchin nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 56/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 - R4",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/233301",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/233301",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-60-2025",
+   "path": "local/gorj/bustuchin/2025/60",
+   "short": "HCL Bustuchin nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 60/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 - R5 si modificarea programului de investitii la investitia ” Reducerea consumului de energie prin inlocuirea consumatorilor clasici cu cei pe baza de surse neconventionale",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/234337",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/234337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-68-2025",
+   "path": "local/gorj/bustuchin/2025/68",
+   "short": "HCL Bustuchin nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 68/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025 - R6",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/245151",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/245151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-69-2025",
+   "path": "local/gorj/bustuchin/2025/69",
+   "short": "HCL Bustuchin nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 69/2025 privind stabilirea impozitelor și taxelor locale la nivelul comunei Bustuchin, județul Gorj pentru anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/245152",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/245152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--bustuchin-73-2025",
+   "path": "local/gorj/bustuchin/2025/73",
+   "short": "HCL Bustuchin nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bustuchin nr. 73/2025 privind aprobarea taxei de salubrizare si a ,,Regulamentului privind instituirea si administrarea taxei speciale de salubrizare si tariful in cadrul ADIS Gorj’’ la nivelul UAT Bustuchin in anul 2026",
+   "url": "https://emol.ro/bustuchin-gj/registru-hcl/245156",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bustuchin-gj/registru-hcl/245156",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

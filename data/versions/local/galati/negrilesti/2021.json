@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/galati/negrilesti/2021",
+ "acts": [
+  {
+   "slug": "hcl-galati--negrilesti-23-2021",
+   "path": "local/galati/negrilesti/2021/23",
+   "short": "HCL Negrilești nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 23/2021 privind rectificarea bugetului local de venituri si cheltuieli pe trimIII anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39523",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-24-2021",
+   "path": "local/galati/negrilesti/2021/24",
+   "short": "HCL Negrilești nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 24/2021 privind achiziționare servicii juridice",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39524",
+   "versions": [
+    {
+     "from": "2021-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-25-2021",
+   "path": "local/galati/negrilesti/2021/25",
+   "short": "HCL Negrilești nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 25/2021 privind rectificarea bugetului local de venituri si cheltuieli pe trim III anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39525",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-26-2021",
+   "path": "local/galati/negrilesti/2021/26",
+   "short": "HCL Negrilești nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 26/2021 privind rectificarea bugetului local de venituri si cheltuieli pe trim.III anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39526",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-27-2021",
+   "path": "local/galati/negrilesti/2021/27",
+   "short": "HCL Negrilești nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 27/2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39527",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-28-2021",
+   "path": "local/galati/negrilesti/2021/28",
+   "short": "HCL Negrilești nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 28/2021 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pe trim IV anul 2021comuna Negrilesti judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39546",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-29-2021",
+   "path": "local/galati/negrilesti/2021/29",
+   "short": "HCL Negrilești nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 29/2021 privind aprobarea Cererii de Finantare si a Devizului general pentru obiectivul de investitii: „Infiintare retea de canalizare si statie de epurare in comuna Negrilesti, judetul Galati”",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39547",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-30-2021",
+   "path": "local/galati/negrilesti/2021/30",
+   "short": "HCL Negrilești nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 30/2021 privind .aprobarea Cererii de Finantare si a Devizului general pentru obiectivul de investitii: „Modernizare strazi, amenajare santuri si podete in comuna Negrilesti, judetul Galati”",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39548",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-31-2021",
+   "path": "local/galati/negrilesti/2021/31",
+   "short": "HCL Negrilești nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 31/2021 privind aprobarea protocolului de colaborare pentru “Crearea si implementarea serviciilor comunitare integrate pentru combaterea saraciei si excluziunii sociale”",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/39549",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/39549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-32-2021",
+   "path": "local/galati/negrilesti/2021/32",
+   "short": "HCL Negrilești nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 32/2021 privind rectificarea bugetului local de venituri si cheltuieli pe trim IV anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50045",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-33-2021",
+   "path": "local/galati/negrilesti/2021/33",
+   "short": "HCL Negrilești nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 33/2021 privind stabilire normativ combustibil",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50046",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-34-2021",
+   "path": "local/galati/negrilesti/2021/34",
+   "short": "HCL Negrilești nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 34/2021 privind aprobarea transferului mijlocului fix autoturism din gestiunea UAT Comuna Negrilesti, judetul Galati,in gestiunea Serviciului Public de Alimentare cu Apa Comuna Negrilesti",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50047",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-35-2021",
+   "path": "local/galati/negrilesti/2021/35",
+   "short": "HCL Negrilești nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 35/2021 privind aprobarea retelei scolare de pe raza unitatii administrativ teritoriale a comunei Negrilesti, judeţul Galaţi, pentru anul 2022-2023",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50048",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-36-2021",
+   "path": "local/galati/negrilesti/2021/36",
+   "short": "HCL Negrilești nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 36/2021 privind aprobare taxe si impozite locale pentru anul 2022 la nivelul comunei Negrilesti, judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50049",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-37-2021",
+   "path": "local/galati/negrilesti/2021/37",
+   "short": "HCL Negrilești nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 37/2021 privind aprobarea Programul cultural intitulat „Traditii si obiceiuri de iarna” com.Negrilesti, jud. Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50050",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-38-2021",
+   "path": "local/galati/negrilesti/2021/38",
+   "short": "HCL Negrilești nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 38/2021 privind aprobarea solicitarii prelungirii scrisorii de garantiei din partea Fondului National de Garantare a Creditelor pentru Intreprinderi Mici si Mijlocii-SA pentru proiectul Modernizarea comunei Negrilesti prin Achizitie utilaj pentru situatii de urgenta, Schimbarea sistemului de iluminat public si Amenajare parc si imprejmuire, finantat prin Masura 19.2 al comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50051",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-39-2021",
+   "path": "local/galati/negrilesti/2021/39",
+   "short": "HCL Negrilești nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 39/2021 privind aprobare indicatori tehnico- economici pentru investitia Amenajare parc si imprejmuire, comuna Negrilesti, judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50052",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-40-2021",
+   "path": "local/galati/negrilesti/2021/40",
+   "short": "HCL Negrilești nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 40/2021 privind rectificarea bugetului local de venituri si cheltuieli pe trim IV anul 2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50053",
+   "versions": [
+    {
+     "from": "2021-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-41-2021",
+   "path": "local/galati/negrilesti/2021/41",
+   "short": "HCL Negrilești nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 41/2021 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilesti, jud.Galati,pe trim.IV-2021",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/50054",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/50054",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

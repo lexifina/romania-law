@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/ulmi/2023",
+"acts": [
+{
+"slug": "hcl-giurgiu--ulmi-33-2023",
+"path": "local/giurgiu/ulmi/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 33/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții \"Rețea de canalizare și stație de epurare în comuna Ulmi, județul Giurgiu\", aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Ulmi nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/115647",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-47-2023",
+"path": "local/giurgiu/ulmi/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 47/2023 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin.(5) și alin.(6) Cod fiscal prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2023, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2024",
+"short": "HCL Ulmi nr. 47/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/129720",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

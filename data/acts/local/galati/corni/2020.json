@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/galati/corni/2020",
+"acts": [
+{
+"slug": "hcl-galati--corni-12-2020",
+"path": "local/galati/corni/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 12/2020",
+"short": "HCL Corni nr. 12/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-20",
+"latest": "2020-02-20",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9450",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-galati--corni-13-2020",
+"path": "local/galati/corni/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 13/2020 privind reorganizarea Serviciului Voluntar Pentru Situatii de Urgență constituit la nivelul comunei Corni , Județul Galați",
+"short": "HCL Corni nr. 13/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9462",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-15-2020",
+"path": "local/galati/corni/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 15/2020 privind aprobarea rectificării bugetului local al comunei Corni pe anul 2020",
+"short": "HCL Corni nr. 15/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9479",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-16-2020",
+"path": "local/galati/corni/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 16/2020 privind modificarea si completarea hotărârii Consiliului Local nr.9 din 20.02.2020 privind aprobarea Strategiei anuale de achiziție publică, pentru anul 2020, a Comunei Corni",
+"short": "HCL Corni nr. 16/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9480",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-17-2020",
+"path": "local/galati/corni/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 17/2020 privind aprobarea implementării proiectului „Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale” cod SMIS 126924",
+"short": "HCL Corni nr. 17/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9481",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-18-2020",
+"path": "local/galati/corni/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 18/2020 privind modificarea și completarea Hotărârii Consiliului Local nr.43 din 12.12.2019 privind aprobarea structurii organizatorice si a statului de functii ale comunei Corni",
+"short": "HCL Corni nr. 18/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/corni-gl/registru-hcl/9482",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-20-2020",
+"path": "local/galati/corni/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 20/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Corni, județul Galați",
+"short": "HCL Corni nr. 20/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30057",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-23-2020",
+"path": "local/galati/corni/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 23/2020 privind aprobarea rectificării bugetului local al comunei Corni, județul Galați, pe anul 2020",
+"short": "HCL Corni nr. 23/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30060",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-24-2020",
+"path": "local/galati/corni/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 24/2020 privind aprobarea diferențelor de valori rezultate din reevaluarea activelor fixe corporale din patromoniul comunei Corni, județul Galați, care nu se amortizează la data de 31.10.2020",
+"short": "HCL Corni nr. 24/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30061",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-28-2020",
+"path": "local/galati/corni/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 28/2020 privind aprobarea rectificării bugetului local al comunei Corni, județul Galați, pe anul 2020",
+"short": "HCL Corni nr. 28/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30065",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-30-2020",
+"path": "local/galati/corni/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 30/2020 privind aprobarea Strategiei și Programului anual de achiziții publice a comunei Corni, județul Galați, pentru anul 2021",
+"short": "HCL Corni nr. 30/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30067",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-31-2020",
+"path": "local/galati/corni/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 31/2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2021",
+"short": "HCL Corni nr. 31/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-23",
+"latest": "2020-12-23",
+"portal": "https://emol.ro/corni-gl/registru-hcl/30068",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

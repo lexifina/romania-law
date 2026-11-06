@@ -1,0 +1,161 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/blajeni/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--blajeni-14-2025",
+"path": "local/hunedoara/blajeni/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 14/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale-facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Blăjeni nr. 14/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/213671",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-16-2025",
+"path": "local/hunedoara/blajeni/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 16/2025 privind indexarea impozitelor și taxelor locale cu rata inflației, respectiv actualizarea limitelor amenzilor prevăzute la alin 3 și 4 ale art 493 din Legea nr. 227/2015 privind Codul Fiscal, pentru anul fiscal 2026",
+"short": "HCL Blăjeni nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-04",
+"latest": "2025-08-04",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/220076",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-17-2025",
+"path": "local/hunedoara/blajeni/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 17/2025 privind însușirea Actului Adițional nr.1 la contractul nr. 34/61 din 13.03.2025, privind „Prestarea Serviciului de Salubrizare în zona de colectare 1Brad, Județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+"short": "HCL Blăjeni nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/223700",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-19-2025",
+"path": "local/hunedoara/blajeni/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 19/2025",
+"short": "HCL Blăjeni nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/223702",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-25-2025",
+"path": "local/hunedoara/blajeni/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 25/2025 privind însușirea Actului Adițional nr. 2 la Contractul nr. 34/61 din 13.03.2025 privind „Prestarea Serviciului de Salubrizare în zona de colectare 1 Brad, Județul Hunedoara” și mandatarea președintelui Asociației să semneze acest document",
+"short": "HCL Blăjeni nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/235390",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-26-2025",
+"path": "local/hunedoara/blajeni/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 26/2025 privind constituirea, încadrarea și dotarea Serviciului Voluntar pentru Situații de Urgență la nivelul comunei Blăjeni, județul Hunedoara",
+"short": "HCL Blăjeni nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/235391",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-33-2025",
+"path": "local/hunedoara/blajeni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 33/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026 la nivelul comunei Blăjeni",
+"short": "HCL Blăjeni nr. 33/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/244313",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

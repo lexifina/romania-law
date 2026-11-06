@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/galati/schela/2025",
+ "acts": [
+  {
+   "slug": "hcl-galati--schela-58-2025",
+   "path": "local/galati/schela/2025/58",
+   "short": "HCL Schela nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 58/2025 privind stabilirea impozitelor și taxelor locale ce se vor percepe în anul fiscal 2026, la nivelul comunei Schela, județul Galați",
+   "url": "https://emol.ro/schela-gl/registru-hcl/245015",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/245015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--schela-59-2025",
+   "path": "local/galati/schela/2025/59",
+   "short": "HCL Schela nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Schela nr. 59/2025 privind stabilirea taxelor speciale la nivelul Unității Administrativ Teritoriale Comuna Schela, județul Galați, pentru anul fiscal 2026",
+   "url": "https://emol.ro/schela-gl/registru-hcl/245016",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/schela-gl/registru-hcl/245016",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

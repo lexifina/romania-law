@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/ilia/2025",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--ilia-52-2025",
+   "path": "local/hunedoara/ilia/2025/52",
+   "short": "HCL Ilia nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 52/2025 privind rectificarea bugetului local al Comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/239030",
+   "versions": [
+    {
+     "from": "2025-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/239030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--ilia-53-2025",
+   "path": "local/hunedoara/ilia/2025/53",
+   "short": "HCL Ilia nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ilia nr. 53/2025 privind rectificarea bugetului local al Comunei Ilia pe anul 2025",
+   "url": "https://emol.ro/ilia-hd/registru-hcl/240872",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/ilia-hd/registru-hcl/240872",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

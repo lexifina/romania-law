@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/dambovita/vulcana-bai/2020",
+"acts": [
+{
+"slug": "hcl-dambovita--vulcana-bai-69-2020",
+"path": "local/dambovita/vulcana-bai/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 69/2020 privind constituirea sectoarelor administrative ale comunei Vulcana-Băi, în scopul creării unor raporturi directe între cetățeni și consilierii locali",
+"short": "HCL Vulcana-Băi nr. 69/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/16715",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-74-2020",
+"path": "local/dambovita/vulcana-bai/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 74/2020 privind aprobarea proiectului „Îmbunătățirea infrastructurii Tehnologiei Informației și Comunicațiilor sistemice la nivelul unităților de învățământ preuniversitar din comuna Vulcana-Băi” și a cheltuielilor legate de proiect",
+"short": "HCL Vulcana-Băi nr. 74/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/16720",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--vulcana-bai-84-2020",
+"path": "local/dambovita/vulcana-bai/2020/84",
+"kind": "local",
+"year": "2020",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 84/2020 privind aprobarea planului de acțiuni sau de lucrări de interes local pentru repartizarea orelor de muncă ce se efectuează de persoanele beneficiare de ajutor social pe anul 2021",
+"short": "HCL Vulcana-Băi nr. 84/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://emol.ro/vulcana-bai-db/registru-hcl/23816",
+"council": "dambovita/vulcana-bai",
+"council_name": "Consiliul Local al Comunei Vulcana-Băi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

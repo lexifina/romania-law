@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/galati/jorasti/2020",
+"acts": [
+{
+"slug": "hcl-galati--jorasti-56-2020",
+"path": "local/galati/jorasti/2020/56",
+"kind": "local",
+"year": "2020",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 56/2020 privind rectificarea bugetului local al comunei Jorăști, județul Galați pe anul 2020",
+"short": "HCL Jorăști nr. 56/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-06",
+"latest": "2020-11-06",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14687",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-60-2020",
+"path": "local/galati/jorasti/2020/60",
+"kind": "local",
+"year": "2020",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 60/2020 privind rectificarea bugetului local al comunei Jorăști, județul Galați pe anul 2020",
+"short": "HCL Jorăști nr. 60/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-02",
+"latest": "2020-12-02",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14691",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-65-2020",
+"path": "local/galati/jorasti/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 65/2020 privind aprobarea Rețelei de școlarizare a unităților de învățământ preuniveristar de stat autorizate de comuna Jorăști , propuse să funcționeze în anul școlar 2021-2022",
+"short": "HCL Jorăști nr. 65/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14716",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-67-2020",
+"path": "local/galati/jorasti/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 67/2020 privind aprobarea inventarierii materiei impozabile pentru anul fiscal 2021",
+"short": "HCL Jorăști nr. 67/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14718",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-68-2020",
+"path": "local/galati/jorasti/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 68/2020 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2021",
+"short": "HCL Jorăști nr. 68/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14719",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-69-2020",
+"path": "local/galati/jorasti/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 69/2020 privind rectificarea bugetului local al comunei Jorăști, județul Galați, pe anul 2020",
+"short": "HCL Jorăști nr. 69/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-16",
+"latest": "2020-12-16",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/14720",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--jorasti-74-2020",
+"path": "local/galati/jorasti/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 74/2020 privind rectificarea bugetului local al comunei Jorăști, județul Galați pe anul 2020",
+"short": "HCL Jorăști nr. 74/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-24",
+"latest": "2020-12-24",
+"portal": "https://emol.ro/jorasti-gl/registru-hcl/16018",
+"council": "galati/jorasti",
+"council_name": "Consiliul Local al Comunei Jorăști",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

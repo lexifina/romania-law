@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/ilia/2025",
+"acts": [
+{
+"slug": "hcl-hunedoara--ilia-52-2025",
+"path": "local/hunedoara/ilia/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 52/2025 privind rectificarea bugetului local al Comunei Ilia pe anul 2025",
+"short": "HCL Ilia nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-03",
+"latest": "2025-12-03",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/239030",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--ilia-53-2025",
+"path": "local/hunedoara/ilia/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ilia nr. 53/2025 privind rectificarea bugetului local al Comunei Ilia pe anul 2025",
+"short": "HCL Ilia nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ilia-hd/registru-hcl/240872",
+"council": "hunedoara/ilia",
+"council_name": "Consiliul Local al Comunei Ilia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

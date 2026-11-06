@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/baia-de-cris/2024",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-45-2024",
+   "path": "local/hunedoara/baia-de-cris/2024/45",
+   "short": "HCL Baia de Criș nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 45/2024 aprobarea organizării manifestării cultural-patriotice “ Serbarile Nationale Tebea 2024 in colaborare cu Instituția Prefectului județul Hunedoara și Consiliul Județean Hunedoara precum și aprobarea Regulamentului de Organizare a Serbarilor Nationale Tebea 2024",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82737",
+   "versions": [
+    {
+     "from": "2024-08-22",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-47-2024",
+   "path": "local/hunedoara/baia-de-cris/2024/47",
+   "short": "HCL Baia de Criș nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 47/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baia-de-cris-48-2024",
+   "path": "local/hunedoara/baia-de-cris/2024/48",
+   "short": "HCL Baia de Criș nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 48/2024 rectificarea bugetului local al comunei Baia de Cris pe anul 2024",
+   "url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82740",
+   "versions": [
+    {
+     "from": "2024-09-11",
+     "units": 1,
+     "source_url": "https://baiadecris.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/36084#82740",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

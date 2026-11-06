@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/galati/corni/2024",
+"acts": [
+{
+"slug": "hcl-galati--corni-57-2024",
+"path": "local/galati/corni/2024/57",
+"kind": "local",
+"year": "2024",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 57/2024 privind aprobarea proiectului reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de ia nivelul comunei Corni pe anul şcolar 2025-2026, în vederea emiterii avizului conform de către Inspectoratul Şcolar Judeţean Galați",
+"short": "HCL Corni nr. 57/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/corni-gl/registru-hcl/192490",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-63-2024",
+"path": "local/galati/corni/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 63/2024 privind stabilirea impozitelor și taxelor locale, a taxelor speciale, precum și a altor taxe , pe anul 2025",
+"short": "HCL Corni nr. 63/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/corni-gl/registru-hcl/192514",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--corni-65-2024",
+"path": "local/galati/corni/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corni nr. 65/2024 privind atribuirea de denumiri de străzi în satele Corni , Măcișeni și Urlești ,sate componente comunei Corni , județul Galați",
+"short": "HCL Corni nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-17",
+"latest": "2025-02-17",
+"portal": "https://emol.ro/corni-gl/registru-hcl/192516",
+"council": "galati/corni",
+"council_name": "Consiliul Local al Comunei Corni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

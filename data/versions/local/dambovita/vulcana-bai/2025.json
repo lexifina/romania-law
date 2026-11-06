@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/vulcana-bai/2025",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--vulcana-bai-66-2025",
+   "path": "local/dambovita/vulcana-bai/2025/66",
+   "short": "HCL Vulcana-Băi nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 66/2025 privind aprobarea planului de măsuri pentru perioada sezonului rece, 1 noiembrie 2025 – 31 martie 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/234686",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/234686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-77-2025",
+   "path": "local/dambovita/vulcana-bai/2025/77",
+   "short": "HCL Vulcana-Băi nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 77/2025 privind stabilirea și aprobarea taxei de salubrizare pentru utilizatorii casnici pe anul 2026",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/245875",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/245875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-78-2025",
+   "path": "local/dambovita/vulcana-bai/2025/78",
+   "short": "HCL Vulcana-Băi nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 78/2025 pentru aprobarea cuantumului taxei de salubrizare privind utilizatorii noncasnici, pe anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/245876",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/245876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-82-2025",
+   "path": "local/dambovita/vulcana-bai/2025/82",
+   "short": "HCL Vulcana-Băi nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 82/2025 pentru aprobarea Procedurii privind stabilirea criteriilor de încadrare a clădirilor și/sau terenurilor neîngrijite situate în intravilanul comunei Vulcana-Băi, în vederea aplicării prevederilor art. 489 alin. (5) – (8) din Legea nr. 227/2015 privind Codul Fiscal, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/245880",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/245880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-83-2025",
+   "path": "local/dambovita/vulcana-bai/2025/83",
+   "short": "HCL Vulcana-Băi nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 83/2025 privind stabilirea unor impozite și taxe locale pentru anul 2026, cu precădere la nivelurile minime permise de lege",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/245881",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/245881",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

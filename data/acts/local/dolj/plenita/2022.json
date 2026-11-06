@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/dolj/plenita/2022",
+"acts": [
+{
+"slug": "hcl-dolj--plenita-40-2022",
+"path": "local/dolj/plenita/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 40/2022 privind aprobarea DEVIZULUI GENERAL, la faza Documentatie de Avizare a Lucrarilor de Interventii (D.A.L.I.) pentru obiectivul de investitii: „MODERNIZARE SI EXTINDERE PIATA, SAT PLENITA COMUNA PLENITA, JUDETUL DOLJ”",
+"short": "HCL Plenița nr. 40/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103214",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-41-2022",
+"path": "local/dolj/plenita/2022/41",
+"kind": "local",
+"year": "2022",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 41/2022 privind obiectivul de investitii: „MODERNIZARE SI EXTINDERE PIATA, SAT PLENITA COMUNA PLENITA, JUDETUL DOLJ”",
+"short": "HCL Plenița nr. 41/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103215",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-47-2022",
+"path": "local/dolj/plenita/2022/47",
+"kind": "local",
+"year": "2022",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 47/2022 privind aprobarea documentației tehnico-economică pentru investiția: “MODERNIZARE SI EXTINDERE PIAŢA, SAT PLENIŢA COMUNA PLENIŢA, JUDETUL DOLJ”",
+"short": "HCL Plenița nr. 47/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103230",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-48-2022",
+"path": "local/dolj/plenita/2022/48",
+"kind": "local",
+"year": "2022",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 48/2022 privind obiectivul de investitii “MODERNIZARE SI EXTINDERE PIAŢA, SAT PLENIŢA COMUNA PLENIŢA, JUDETUL DOLJ”",
+"short": "HCL Plenița nr. 48/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103231",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-52-2022",
+"path": "local/dolj/plenita/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 52/2022 privind aprobarea implementarii proiectului pentru obiectivul de investiții „Achiziţie buldoexcavator și accesorii” pentru dotarea Serviciului Voluntar al Situaţiilor de Urgenţã al comunei Plenita”",
+"short": "HCL Plenița nr. 52/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103286",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dolj--plenita-53-2022",
+"path": "local/dolj/plenita/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Plenița nr. 53/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Achiziţie buldoexcavator și accesorii” pentru dotarea Serviciului Voluntar al Situaţiilor de Urgenţã al comunei Plenita”",
+"short": "HCL Plenița nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-14",
+"latest": "2023-09-14",
+"portal": "https://emol.ro/plenita-dj/registru-hcl/103287",
+"council": "dolj/plenita",
+"council_name": "Consiliul Local al Comunei Plenița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

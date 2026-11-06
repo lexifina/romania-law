@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/vulcana-bai/2023",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--vulcana-bai-100-2023",
+   "path": "local/dambovita/vulcana-bai/2023/100",
+   "short": "HCL Vulcana-Băi nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 100/2023 privind modificarea și completarea art. 1 alin. (3) și a punctului 10 capitolul VIII – TAXE SPECIALE din anexa la Hotărârea Consiliului Local nr. 36/2023 privind indexarea impozitelor și taxelor locale pe anul 2024",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/136217",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/136217",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-104-2023",
+   "path": "local/dambovita/vulcana-bai/2023/104",
+   "short": "HCL Vulcana-Băi nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 104/2023 pentru validarea Dispoziției primarului comunei nr. 485/2023, nr. 4473/2023, nr. 477/2023 și nr. 479/2023 privind rectificarea bugetului local pe anul 2023, emise prin autorizarea dată de Consiliul Local cu Hotărârea nr. 11 din 27 ianuarie 2023 privind aprobarea bugetului local al comunei Vulcana-Băi, pe anul 2023",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/136221",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/136221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-98-2023",
+   "path": "local/dambovita/vulcana-bai/2023/98",
+   "short": "HCL Vulcana-Băi nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 98/2023 privind actualizarea Planului Urbanistic General al comunei Vulcana-Băi și a Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/136215",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/136215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-99-2023",
+   "path": "local/dambovita/vulcana-bai/2023/99",
+   "short": "HCL Vulcana-Băi nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 99/2023 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii noncasnici",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/136216",
+   "versions": [
+    {
+     "from": "2024-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/136216",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

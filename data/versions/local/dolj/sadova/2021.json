@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/sadova/2021",
+ "acts": [
+  {
+   "slug": "hcl-dolj--sadova-100-2021",
+   "path": "local/dolj/sadova/2021/100",
+   "short": "HCL Sadova nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 100/2021 privind aprobare strategie de contractare, caiet de sarcini, formulare, model de contract pentru procedura simplificată de achiziție publică de produse „ buldoexcavator”",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/46866",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/46866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-103-2021",
+   "path": "local/dolj/sadova/2021/103",
+   "short": "HCL Sadova nr. 103/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 103/2021 privind suplimentare PAAP 2021 și încheiere contract furnizare produse coșuri de gunoi stradal",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/46869",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/46869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-93-2021",
+   "path": "local/dolj/sadova/2021/93",
+   "short": "HCL Sadova nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 93/2021 privind aprobare suplimentare sumă privind achiziția unui container grup sanitar",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/46845",
+   "versions": [
+    {
+     "from": "2021-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/46845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-98-2021",
+   "path": "local/dolj/sadova/2021/98",
+   "short": "HCL Sadova nr. 98/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 98/2021 privind aprobare modificare PAAP 2021 privind modificare obiectiv de investiții „achiziție buldoexcavator second hand” în obiectivul de investiții „achiziție buldoexcavator nou” și aprobare încheiere contract de furnizare de produse privind achiziție buldoexcavator nou",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/46862",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/46862",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

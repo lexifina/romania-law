@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/ulmi/2025",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--ulmi-41-2025",
+   "path": "local/giurgiu/ulmi/2025/41",
+   "short": "HCL Ulmi nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 41/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului local de salubrizare al comunei Ulmi pentru trimestrul III/2025",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/231528",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/231528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-46-2025",
+   "path": "local/giurgiu/ulmi/2025/46",
+   "short": "HCL Ulmi nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 46/2025 privind organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei ULMI pentru anul 2026-2027",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/242081",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/242081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--ulmi-59-2025",
+   "path": "local/giurgiu/ulmi/2025/59",
+   "short": "HCL Ulmi nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 59/2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/ulmi-gr/registru-hcl/245277",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmi-gr/registru-hcl/245277",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

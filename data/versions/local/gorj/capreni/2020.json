@@ -1,0 +1,276 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/capreni/2020",
+ "acts": [
+  {
+   "slug": "hcl-gorj--capreni-10-2020",
+   "path": "local/gorj/capreni/2020/10",
+   "short": "HCL Căpreni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 10/2020 privind amenajarea și dotarea spațiului pentru arhivă și bibliotecă",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1289",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-11-2020",
+   "path": "local/gorj/capreni/2020/11",
+   "short": "HCL Căpreni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 11/2020 privind stabilirea sumei ce se acordă unei personae izolate sau autoizolate la domiciliu sau altă locuință pe teritoriul comunei Căpreni ca măsură de prevenire a COVID-19",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1290",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-12-2020",
+   "path": "local/gorj/capreni/2020/12",
+   "short": "HCL Căpreni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 12/2020 privind reactualizarea indicatorilor tehnico-economici pentru obiectivul de investiție ,,Construire pod peste pârâul Plopu, sat Cetatea, comuna Căpreni, județul Gorj”",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1291",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-13-2020",
+   "path": "local/gorj/capreni/2020/13",
+   "short": "HCL Căpreni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 13/2020 privind aprobarea contului anual de execuţie a bugetului local al Comunei Căpreni pe anul trimestrul I al anului 2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1292",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-14-2020",
+   "path": "local/gorj/capreni/2020/14",
+   "short": "HCL Căpreni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 14/2020 privind aprobarea acordării cheltuielilor de deplasare a cadrelor didactice pe lunile decembrie 2019, ianuarie şi februarie 2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1293",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-15-2020",
+   "path": "local/gorj/capreni/2020/15",
+   "short": "HCL Căpreni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 15/2020 privind aprobarea impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1294",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-16-2020",
+   "path": "local/gorj/capreni/2020/16",
+   "short": "HCL Căpreni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 16/2020 privind taxa de pășunat",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1295",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-17-2020",
+   "path": "local/gorj/capreni/2020/17",
+   "short": "HCL Căpreni nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 17/2020 privind aprobarea efectuării cadastrului și intabularea în CF a drumului DV 23 și terenul aferent",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1296",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-18-2020",
+   "path": "local/gorj/capreni/2020/18",
+   "short": "HCL Căpreni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 18/2020 privind aprobarea amenajării unor sectoare de drumuri cu pietriș precum și amenajarea cu grederul a drumurilor cu piatră și de pământ",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1297",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-19-2020",
+   "path": "local/gorj/capreni/2020/19",
+   "short": "HCL Căpreni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 19/2020 privind realizarea modernizării iluminatului public din satul Bulbuceni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4408",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-20-2020",
+   "path": "local/gorj/capreni/2020/20",
+   "short": "HCL Căpreni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 20/2020 privind reactualizarea Planului de Analiză și Acoperire a Riscurilor al Comunei Căpreni pe anul 2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4409",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-21-2020",
+   "path": "local/gorj/capreni/2020/21",
+   "short": "HCL Căpreni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 21/2020 privind realizarea SF-DALI pentru iluminatul public cu lămpi inovative, inteligente, eficiente și economice",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4410",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-22-2020",
+   "path": "local/gorj/capreni/2020/22",
+   "short": "HCL Căpreni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 22/2020 privind aprobarea devizului general actualizat si a indicatorilor tehnico-economici pentru obiectivul de investiţie \"Construire pod peste Râul Amaradia pe DV 23, km 0+350, comuna Căpreni, judeţul Gorj\"",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4411",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-23-2020",
+   "path": "local/gorj/capreni/2020/23",
+   "short": "HCL Căpreni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 23/2020 privind reactualizarea sumei reprezentând asigurarea cofinanţării de la bugetul local pentru categoriile de cheltuieli care nu se finanțează de la bugetul de stat prin PNDL, aferente obiectivului de investitie \"Construire pod peste Râul Amaradia pe DV 23, km 0+350, comuna Căpreni, judeţul Gorj\"",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4412",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-24-2020",
+   "path": "local/gorj/capreni/2020/24",
+   "short": "HCL Căpreni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 24/2020 privind aprobarea rectificării bugetului local al comunei Căpreni pe anul 2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/4413",
+   "versions": [
+    {
+     "from": "2020-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/4413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-7-2020",
+   "path": "local/gorj/capreni/2020/7",
+   "short": "HCL Căpreni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 7/2020 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență la nivelul comunei Căpreni",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1282",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-8-2020",
+   "path": "local/gorj/capreni/2020/8",
+   "short": "HCL Căpreni nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 8/2020 privind aprobarea organizării rețelei școlare a unităților de învățământ din comuna Căpreni , județul Gorj, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1283",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--capreni-9-2020",
+   "path": "local/gorj/capreni/2020/9",
+   "short": "HCL Căpreni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Căpreni nr. 9/2020 privind aprobarea rectificării bugetului local al comunei Căpreni pe anul 2020",
+   "url": "https://emol.ro/capreni-gj/registru-hcl/1288",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/capreni-gj/registru-hcl/1288",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

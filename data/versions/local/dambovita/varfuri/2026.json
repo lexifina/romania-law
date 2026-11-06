@@ -1,0 +1,621 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/varfuri/2026",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--varfuri-10-2026",
+   "path": "local/dambovita/varfuri/2026/10",
+   "short": "HCL Vârfuri nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 10/2026 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii noncasnici",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117042",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-11-2026",
+   "path": "local/dambovita/varfuri/2026/11",
+   "short": "HCL Vârfuri nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 11/2026 privind completarea inventarului domeniului public al comunei Vârfuri, județul Dâmbovița",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117045",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-12-2026",
+   "path": "local/dambovita/varfuri/2026/12",
+   "short": "HCL Vârfuri nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 12/2026 privind completarea inventarului domeniului privat al comunei Vârfuri, județul Dâmbovița",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117048",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-13-2026",
+   "path": "local/dambovita/varfuri/2026/13",
+   "short": "HCL Vârfuri nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 13/2026 privind alegerea președintelui de ședință pentru o perioadă de trei luni",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117051",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-14-2026",
+   "path": "local/dambovita/varfuri/2026/14",
+   "short": "HCL Vârfuri nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 14/2026 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor al comunei Vârfuri pe anul 2026,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117054",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-15-2026",
+   "path": "local/dambovita/varfuri/2026/15",
+   "short": "HCL Vârfuri nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 15/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-16-2026",
+   "path": "local/dambovita/varfuri/2026/16",
+   "short": "HCL Vârfuri nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 16/2026 aprobarea executiei bugetului de venituri și cheltuieli al comunei Vârfuri pe anul 2025,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#119603",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#119603",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-17-2026",
+   "path": "local/dambovita/varfuri/2026/17",
+   "short": "HCL Vârfuri nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 17/2026 aprobarea modificarii HCL nr. 2 /09.01.2026, privind aprobarea utilizării excedentului bugetului local existent la finele anului 2025",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#119605",
+   "versions": [
+    {
+     "from": "2026-03-23",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#119605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-18-2026",
+   "path": "local/dambovita/varfuri/2026/18",
+   "short": "HCL Vârfuri nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 18/2026 stabilirea numărului maxim de posturi, reorganizarea aparatului de specialitate al Primarului comunei Vârfuri, aprobarea organigramei şi a statului de funcții, în conformitate cu OUG nr. 7/2026 pentru modificarea şi completarea unor acte normative, precum şi pentru adoptarea unor măsuri pentru creşterea capacităţii financiare a unităţilor administrativ-teritoriale",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#120163",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#120163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-19-2026",
+   "path": "local/dambovita/varfuri/2026/19",
+   "short": "HCL Vârfuri nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 19/2026 modificarea bugetului local al Comunei Vârfuri pe trimestrul II/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#120165",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#120165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-20-2026",
+   "path": "local/dambovita/varfuri/2026/20",
+   "short": "HCL Vârfuri nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 20/2026 aprobarea bugetului local pe anul 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123201",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-21-2026",
+   "path": "local/dambovita/varfuri/2026/21",
+   "short": "HCL Vârfuri nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 21/2026 anexe propuneri buget 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123202",
+   "versions": [
+    {
+     "from": "2026-05-04",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-23-2026",
+   "path": "local/dambovita/varfuri/2026/23",
+   "short": "HCL Vârfuri nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 23/2026 HCLprivind aprobarea implementării proiectului ,, Construire capelă mortuară în comuna Vârfuri, județul Dâmbovița”,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123487",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-24-2026",
+   "path": "local/dambovita/varfuri/2026/24",
+   "short": "HCL Vârfuri nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 24/2026 HCL privind suplimentrea valorii TVA eligibile pentru cererile de transfer, pentru obiectivul de investiție ,,Eficientizare energetică, reabilitarea clădirilor publice şi creşterea gradului de reziliență al UAT COMUNA VÂRFURI” în cadrul PNRR/Componenta C10 – Fondul Local,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123489",
+   "versions": [
+    {
+     "from": "2026-05-20",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#123489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-25-2026",
+   "path": "local/dambovita/varfuri/2026/25",
+   "short": "HCL Vârfuri nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 25/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul II/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125103",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-26-2026",
+   "path": "local/dambovita/varfuri/2026/26",
+   "short": "HCL Vârfuri nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 26/2026 HCL privind aprobarea dării în folosință gratuită pe perioadă determinată Oficiului Poştal Vârfuri a unui spațiu din incinta blocului de locuințe, în vederea desfăşurării activităţii",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125104",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-27-2026",
+   "path": "local/dambovita/varfuri/2026/27",
+   "short": "HCL Vârfuri nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 27/2026 hcl privind modificarea Anexei 1 la HCL nr. 63/23.09.2024 pentru stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual - familia ocupaţională ”Administraţie” din cadrul Primăriei comunei Vârfuri, judetul Dâmboviţa,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125105",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-28-2026",
+   "path": "local/dambovita/varfuri/2026/28",
+   "short": "HCL Vârfuri nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 28/2026 privind aprobarea contului de executie al bugetului local pe trimestrul I, anul 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125106",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-29-2026",
+   "path": "local/dambovita/varfuri/2026/29",
+   "short": "HCL Vârfuri nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 29/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul II/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125107",
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#125107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-31-2026",
+   "path": "local/dambovita/varfuri/2026/31",
+   "short": "HCL Vârfuri nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 31/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul III/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128966",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-32-2026",
+   "path": "local/dambovita/varfuri/2026/32",
+   "short": "HCL Vârfuri nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 32/2026 darea în folosință gratuită a unui spațiu amplasat în incinta Căminului Cultural către SPEED SOFTWARE SOLUTIONS SRL",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128967",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-33-2026",
+   "path": "local/dambovita/varfuri/2026/33",
+   "short": "HCL Vârfuri nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 33/2026 aprobarea dării în folosință gratuită pe perioadă determinată Oficiului Poştal Vârfuri a unui spațiu din incinta Căminului Cultural, în vederea desfăşurării activităţii pe perioada consolidării şi reabilitării Blocului de locuințe",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128968",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-34-2026",
+   "path": "local/dambovita/varfuri/2026/34",
+   "short": "HCL Vârfuri nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 34/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul III/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128969",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-35-2026",
+   "path": "local/dambovita/varfuri/2026/35",
+   "short": "HCL Vârfuri nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 35/2026 alegerea preşedintelui de şedinţă al Consiliului Local Vârfuri pentru o perioadă de trei luni (august 2026 – octombrie 2026)",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128970",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-36-2026",
+   "path": "local/dambovita/varfuri/2026/36",
+   "short": "HCL Vârfuri nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 36/2026 aprobarea raportului asupra activitãţii desfãşurate de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128971",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-37-2026",
+   "path": "local/dambovita/varfuri/2026/37",
+   "short": "HCL Vârfuri nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 37/2026 luarea la cunostință a raportului de activitate privind stadiul de înscriere a datelor în registrul agricol al comunei Vârfuri pentru semestrul I, anul 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128972",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-38-2026",
+   "path": "local/dambovita/varfuri/2026/38",
+   "short": "HCL Vârfuri nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 38/2026 revocarea HCL nr. 31/24.06.2026 privind aprobarea dării în folosință gratuită pe perioadă determinată Oficiului Poştal Vârfuri a unui spațiu din incinta Blocului de locuințe, în vederea desfăşurării activităţii",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128973",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-39-2026",
+   "path": "local/dambovita/varfuri/2026/39",
+   "short": "HCL Vârfuri nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 39/2026 privind revocarea HCL nr. 38/07.07.2026 privind aprobarea dării în folosință gratuită pe perioadă determinată Oficiului Poştal Vârfuri a unui spațiu din incinta Căminului Cultural, în vederea desfăşurării activităţii pe perioada consolidării şi reabilitării Blocului de locuințe",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128974",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-40-2026",
+   "path": "local/dambovita/varfuri/2026/40",
+   "short": "HCL Vârfuri nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 40/2026 revocarea HCL nr. 37/07.07.2026 privind darea în folosință gratuită a unui spațiu amplasat în incinta Căminului Cultural către SPEED SOFTWARE SOLUTIONS SRL",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128975",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-41-2026",
+   "path": "local/dambovita/varfuri/2026/41",
+   "short": "HCL Vârfuri nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 41/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul III/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128977",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-42-2026",
+   "path": "local/dambovita/varfuri/2026/42",
+   "short": "HCL Vârfuri nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 42/2026 aprobarea clarificării structurii taxei de salubrizare ca urmarea a modificării fluxului de gestionare a deșeurilor municipale și a contribuției pentru economia circulară",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128978",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-43-2026",
+   "path": "local/dambovita/varfuri/2026/43",
+   "short": "HCL Vârfuri nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 43/2026 privind aprobarea contului de execuție al bugetului local trimestrul II/2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128979",
+   "versions": [
+    {
+     "from": "2026-08-19",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-44-2026",
+   "path": "local/dambovita/varfuri/2026/44",
+   "short": "HCL Vârfuri nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 44/2026 rectificarea bugetului local al Comunei Vârfuri pe trimestrul III/ 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128980",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#128980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-47-2026",
+   "path": "local/dambovita/varfuri/2026/47",
+   "short": "HCL Vârfuri nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 47/2026 privind aprobarea indicatorilor tehnico – economici și a devizului general final pentru obiectivul de investiții “Construire pod satul Şuvita, Comuna Vârfuri, judeţul Dâmboviţa”, aprobat pentru finanțare prin Programul național de investiții “Anghel Saligny”,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130458",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-48-2026",
+   "path": "local/dambovita/varfuri/2026/48",
+   "short": "HCL Vârfuri nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 48/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-49-2026",
+   "path": "local/dambovita/varfuri/2026/49",
+   "short": "HCL Vârfuri nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 49/2026 privind aprobarea indicatorilor tehnico-economici actualizati, pentru obiectivul de investiție ,,Eficientizare energetică, reabilitarea clădirilor publice şi creşterea gradului de reziliență al UAT COMUNA VÂRFURI” în cadrul PNRR/Componenta C10 – Fondul Local,",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130460",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#130460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-5-2026",
+   "path": "local/dambovita/varfuri/2026/5",
+   "short": "HCL Vârfuri nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 5/2026 privind aprobarea îndreptării erorii materiale din cuprinsul art. 2 alin. (2) lit. a) și d) la HCL nr. 73/29.12.2025 privind aprobarea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117026",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-6-2026",
+   "path": "local/dambovita/varfuri/2026/6",
+   "short": "HCL Vârfuri nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 6/2026 aprobarea cotizației comunei Vârfuri datorată Asociației de Dezvoltare Intercomunitară „Management Integrat al Deșeurilor în județul Dâmbovița”, pentru anul 2026",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117029",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-7-2026",
+   "path": "local/dambovita/varfuri/2026/7",
+   "short": "HCL Vârfuri nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 7/2026 aprobarea cuantumului taxei de salubrizare pentru utilizatorii casnici pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117036",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117036",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-8-2026",
+   "path": "local/dambovita/varfuri/2026/8",
+   "short": "HCL Vârfuri nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 8/2026 aprobarea cuantumului taxei de salubrizare pentru utilizatorii noncasnici pentru anul 2026, în cuantumul stabilit pentru anul 2025",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117037",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--varfuri-9-2026",
+   "path": "local/dambovita/varfuri/2026/9",
+   "short": "HCL Vârfuri nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfuri nr. 9/2026 privind aprobarea Metodologiei de instituire și colectare a taxei de salubrizare de la utilizatorii casnici",
+   "url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117040",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://varfuri.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/25659#117040",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

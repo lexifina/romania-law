@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/galati/brahasesti/2026",
+"acts": [
+{
+"slug": "hcl-galati--brahasesti-39-2026",
+"path": "local/galati/brahasesti/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brăhășești nr. 39/2026 privind .aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții Alunecare de teren Valea Boului , sat Toflea , Comuna Brăhășești , Județul Galați",
+"short": "HCL Brăhășești nr. 39/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-22",
+"latest": "2026-09-22",
+"portal": "https://emol.ro/brahasesti-gl/registru-hcl/278823",
+"council": "galati/brahasesti",
+"council_name": "Consiliul Local al Comunei Brăhășești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

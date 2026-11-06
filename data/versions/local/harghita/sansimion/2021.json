@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/harghita/sansimion/2021",
+ "acts": [
+  {
+   "slug": "hcl-harghita--sansimion-29-2021",
+   "path": "local/harghita/sansimion/2021/29",
+   "short": "HCL Sânsimion nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 29/2021 privind aprobarea bugetului de venituri și cheltuieli pe anul 2021 și estimarea bugetului de venituri și cheltuieli pentru anii 2022-2024 al comunei Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30615",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-30-2021",
+   "path": "local/harghita/sansimion/2021/30",
+   "short": "HCL Sânsimion nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 30/2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30616",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-31-2021",
+   "path": "local/harghita/sansimion/2021/31",
+   "short": "HCL Sânsimion nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 31/2021 privind aprobarea Bugetului de Venituri şi Cheltuieli al S.C.Gospodăria Comunală Sânsimion SRL pe anul 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30617",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-32-2021",
+   "path": "local/harghita/sansimion/2021/32",
+   "short": "HCL Sânsimion nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 32/2021 privind Indexarea pentru anul fiscal 2022 a oricărui impozit sau oricărei taxe locale, care constă într-o anumită sumă în lei sau care este stabilită pe baza unei anumite sume în lei, precum limitele amenzilor prevăzute la art. 493, alin 3 și alin. 4 din Legea nr. 227/2015 actualizată. cu rata inflației de 2,6 %",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30618",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-34-2021",
+   "path": "local/harghita/sansimion/2021/34",
+   "short": "HCL Sânsimion nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 34/2021 privind alegerea președintelui de ședință pentru ședințele Consiliului local al comunei Sânsimion pentru lunile mai-iulie 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30620",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30620",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

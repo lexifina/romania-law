@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/gurasada/2020",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--gurasada-22-2020",
+   "path": "local/hunedoara/gurasada/2020/22",
+   "short": "HCL Gurasada nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 22/2020 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2020 și virarea de credite de la un capitol la altul",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/6765",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/6765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-23-2020",
+   "path": "local/hunedoara/gurasada/2020/23",
+   "short": "HCL Gurasada nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 23/2020 privind alegerea dintre membrii Consiliului local al comunei Gurasada a unui preşedinte de şedinţă pentru o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/6766",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/6766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-24-2020",
+   "path": "local/hunedoara/gurasada/2020/24",
+   "short": "HCL Gurasada nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 24/2020 privind aprobarea obligatiilor, responsabilitătilor și sancțiunilor pentru faptele săvârșite de instituții publice, agenți economici și cetățeni în domeniul bunei gospodării a comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8408",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-25-2020",
+   "path": "local/hunedoara/gurasada/2020/25",
+   "short": "HCL Gurasada nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 25/2020 privind punerea in aplicare a O.U.G nr. 74/ 2018 pentru modificarea și completarea Legii nr. 211/ 2011 privind regimul deșeurilor,a Legii nr. 249/ 2015 privind modalitatea de gestionare a ambalajelor și a deșeurilor de ambalaje și a O.U.G nr. 196/ 2005 ,privind Fondul de mediu, prin adiționarea Contractului de delegare a gestiunii serviciului de salubrizare in zona de colectare 3 Centru/Barcea Mare nr.1760/ 760/ 27.11.2008",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8409",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-26-2020",
+   "path": "local/hunedoara/gurasada/2020/26",
+   "short": "HCL Gurasada nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 26/2020 privind aprobarea valorificării masei lemnoase în volum de 180 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8410",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-27-2020",
+   "path": "local/hunedoara/gurasada/2020/27",
+   "short": "HCL Gurasada nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 27/2020 privind aprobarea execuţiei bugetare pe trimestrul II- 2020 a bugetului local al comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8411",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-28-2020",
+   "path": "local/hunedoara/gurasada/2020/28",
+   "short": "HCL Gurasada nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 28/2020 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2020 și virarea de credite de la un capitol la altul",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8412",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-29-2020",
+   "path": "local/hunedoara/gurasada/2020/29",
+   "short": "HCL Gurasada nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 29/2020 privind aprobarea indicatorilor tehnico-economici potrivit devizului general reactualizat ai proiectului „Modernizare drumuri comunale,drumuri vicinale, străzi și ulițe de interes local în comuna Gurasada, Judeţul Hunedoara”",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/8413",
+   "versions": [
+    {
+     "from": "2020-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/8413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-31-2020",
+   "path": "local/hunedoara/gurasada/2020/31",
+   "short": "HCL Gurasada nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 31/2020 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2020 și virarea de credite de la un capitol la altul",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/9769",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/9769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-32-2020",
+   "path": "local/hunedoara/gurasada/2020/32",
+   "short": "HCL Gurasada nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 32/2020 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2020 și virarea de credite de la un capitol la altul",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/10465",
+   "versions": [
+    {
+     "from": "2020-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/10465",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-33-2020",
+   "path": "local/hunedoara/gurasada/2020/33",
+   "short": "HCL Gurasada nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 33/2020 privind alegerea dintre membrii Consiliului local al comunei Gurasada a unui preşedinte de şedinţă pentru o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/11141",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/11141",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-34-2020",
+   "path": "local/hunedoara/gurasada/2020/34",
+   "short": "HCL Gurasada nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 34/2020 privind organizarea comisiilor de specialitate ale consiliului local",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/11142",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/11142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-35-2020",
+   "path": "local/hunedoara/gurasada/2020/35",
+   "short": "HCL Gurasada nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 35/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/11143",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/11143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-36-2020",
+   "path": "local/hunedoara/gurasada/2020/36",
+   "short": "HCL Gurasada nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 36/2020",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/12004",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/12004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-37-2020",
+   "path": "local/hunedoara/gurasada/2020/37",
+   "short": "HCL Gurasada nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 37/2020 privind aprobarea încheierii unui Acord de parteneriat între comunele GURASADA, BURJUC, ZAM din județul Hunedoara și PETRIS din județul Arad, în vederea depunerii proiectului “Înființare de retele inteligente de distribuţie a gazelor naturale pentru autoritățile publice locale GURASADA, BURJUC, ZAM și PETRIS, în cadrul Programului Operațional Infrastructură Mare 2014-2020, Axa Prioritară 8 Sisteme inteligente şi sustenabile de transport al energiei electrice şi gazelor naturale, Obiectivul Specific 8.2 Creşterea gradului de interconectare a Sistemului Naţional de Transport a gazelor naturale cu alte state vecine",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/12005",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/12005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-38-2020",
+   "path": "local/hunedoara/gurasada/2020/38",
+   "short": "HCL Gurasada nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 38/2020 privind aprobarea valorificării masei lemnoase în volum de 211 mc, din fondul forestier proprietatea publică a comunei Gurasada şi a preţului de pornire la licitaţie/negociere pentru masă lemnoasă pe picior, prin licitaţie publică organizată de administratorul fondului forestier",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/12006",
+   "versions": [
+    {
+     "from": "2020-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/12006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-39-2020",
+   "path": "local/hunedoara/gurasada/2020/39",
+   "short": "HCL Gurasada nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 39/2020 privind stabilirea impozitelor şi taxelor locale pentru anul fiscal 2021",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/13055",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/13055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-40-2020",
+   "path": "local/hunedoara/gurasada/2020/40",
+   "short": "HCL Gurasada nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 40/2020 privind aprobarea cuantumului și a numărului burselor școlare ce se vor acorda în anul scolar 2020-2021 elevilor din învățământul preuniversitar de stat din comuna Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/13056",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/13056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-41-2020",
+   "path": "local/hunedoara/gurasada/2020/41",
+   "short": "HCL Gurasada nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 41/2020 privind aprobarea rectificării bugetului comunei Gurasada pe anul 2020 și virarea de credite de la un capitol la altul",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/13057",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/13057",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

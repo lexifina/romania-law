@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/harghita/voslabeni/2023",
+"acts": [
+{
+"slug": "hcl-harghita--voslabeni-89-2023",
+"path": "local/harghita/voslabeni/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 89/2023 privind aprobarea indicatorilor tehnico –economici aferenti obiectivul de investitie REALIZARE PLAN URBANISTIC GENERAL COMUNA VOSLABENI",
+"short": "HCL Voșlăbeni nr. 89/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/145458",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-93-2023",
+"path": "local/harghita/voslabeni/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 93/2023 privind aprobarea prețurilor de referință pentru masa lemnoasă, producția 2024, volumul ce se va recolta în anul 2024 modul de valorificare și destinația acestuia din fondul forestier proprietate publică a comunei Voșlăbeni, aflată în administrarea Direcției Silvice Harghita pe Raza Ocolului Silvic Borsec",
+"short": "HCL Voșlăbeni nr. 93/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/145630",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-94-2023",
+"path": "local/harghita/voslabeni/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 94/2023 privind aprobarea preturilor de referinta pentru masa lemnoasa, productia 2024, volumul ce se va recolta in anul 2024, modul de valorificare si destinatia acestuia din fondul forestier proprietate publica a comunei Voșlăbeni, aflata in Administrarea Direcției Silvice Harghita pe Raza Ocolului Silvic Miercurea Ciuc",
+"short": "HCL Voșlăbeni nr. 94/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/145631",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-97-2023",
+"path": "local/harghita/voslabeni/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 97/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții\"INFIINTARE CENTRU DE COLECTARE PRIN APORT VOLUNTAR IN COMUNA VOSLABENI, JUDEȚUL HARGHITA„aprobat pentru finanțare prinPNRR”",
+"short": "HCL Voșlăbeni nr. 97/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/145634",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

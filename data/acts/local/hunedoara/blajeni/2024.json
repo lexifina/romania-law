@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/blajeni/2024",
+"acts": [
+{
+"slug": "hcl-hunedoara--blajeni-21-2024",
+"path": "local/hunedoara/blajeni/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 21/2024 privind schimbarea destinației unui imobil-clădire situat în localitatea Blăjeni, nr. 62 înscris la poz. nr.62 în inventarul domeniului public de interes local, al comunei Blăjeni, din imobil cu destinație de „Dispensar Veterinar” în imobil cu destinația de „CASĂ MORTUARĂ”",
+"short": "HCL Blăjeni nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-11",
+"latest": "2024-09-11",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/168524",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-23-2024",
+"path": "local/hunedoara/blajeni/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 23/2024 privind aprobarea Devizului General actualizat și principalii indicatori tehnico-economici pentru obiectivul de investiții „ÎNFIINȚARE CENTRU PENTRU PĂSTRAREA TRADIȚIILOR ȘI MEȘTESUGURILOR, COMUNA Blăjeni, județul Hunedoara”",
+"short": "HCL Blăjeni nr. 23/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-27",
+"latest": "2024-09-27",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/170276",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-26-2024",
+"path": "local/hunedoara/blajeni/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 26/2024 privind aprobarea regulamentului privind funcționarea și exploatarea stației electrice de încărcare a autovehiculelor în comuna Blăjeni, județu Hunedoara",
+"short": "HCL Blăjeni nr. 26/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173484",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--blajeni-28-2024",
+"path": "local/hunedoara/blajeni/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 28/2024 privind indexarea impozitelor și taxelor locale cu rata inflației, respectiv actualizarea limitelor amenzilor prevăzute la alin 3 și 4 ale art 493 din Legea nr. 227/2015 privind Codul Fiscal, pentru anul fiscal 2025",
+"short": "HCL Blăjeni nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://emol.ro/blajeni-hd/registru-hcl/173486",
+"council": "hunedoara/blajeni",
+"council_name": "Consiliul Local al Comunei Blăjeni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

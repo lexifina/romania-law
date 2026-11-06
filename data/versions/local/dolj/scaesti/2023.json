@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/scaesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--scaesti-41-2023",
+   "path": "local/dolj/scaesti/2023/41",
+   "short": "HCL Scăești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 41/2023 privind transformarea unei funcţi publice de execuţie şi modificarea ştatului de funcţii pentru aparatul de specialitate al primarului",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/125026",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/125026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-46-2023",
+   "path": "local/dolj/scaesti/2023/46",
+   "short": "HCL Scăești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 46/2023 privind privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei SCAESTI judeţul DOLJ, începând cu luna noiembrie 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/127752",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/127752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-52-2023",
+   "path": "local/dolj/scaesti/2023/52",
+   "short": "HCL Scăești nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 52/2023 privind rectificarea bugetului de venituri si cheltuieli pe anul 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/133059",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/133059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-53-2023",
+   "path": "local/dolj/scaesti/2023/53",
+   "short": "HCL Scăești nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 53/2023 privind aprobare dare de seamă aferentă aferentă trimestrului lll al anului 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/133060",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/133060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-54-2023",
+   "path": "local/dolj/scaesti/2023/54",
+   "short": "HCL Scăești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 54/2023 privind privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitie „Lucrari de interventie pentru cresterea eficientei energetice, modernizarea si extinderea Scolii Gimnaziale Scaesti - Structura Valea lui Patru”",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/133061",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/133061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-57-2023",
+   "path": "local/dolj/scaesti/2023/57",
+   "short": "HCL Scăești nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 57/2023 privind rectificare bugetara de venituri si cheltuieli in trim IV al anului 2023",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/134501",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/134501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--scaesti-58-2023",
+   "path": "local/dolj/scaesti/2023/58",
+   "short": "HCL Scăești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scăești nr. 58/2023 privind inventarul public, respectiv completarea, modificarea si actualizarea inventarului bunurilor care apartin domeniului public al comunei Scaesti, conform masurilor atasate",
+   "url": "https://emol.ro/scaesti-dj/registru-hcl/134502",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scaesti-dj/registru-hcl/134502",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

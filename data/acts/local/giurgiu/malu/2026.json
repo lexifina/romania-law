@@ -1,0 +1,250 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/malu/2026",
+"acts": [
+{
+"slug": "hcl-giurgiu--malu-3-2026",
+"path": "local/giurgiu/malu/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 3/2026 privind înființarea Serviciului social Cantină Socială Malu, cod serviciu social 8899 CPDH-I și aprobarea Regulamentului de Organizare și Funcționare",
+"short": "HCL Malu nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-16",
+"latest": "2026-02-16",
+"portal": "https://emol.ro/malu-gr/registru-hcl/253067",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-6-2026",
+"path": "local/giurgiu/malu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 6/2026",
+"short": "HCL Malu nr. 6/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265684",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-7-2026",
+"path": "local/giurgiu/malu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 7/2026 privind aprobarea contului de execuţie bugetară la data de 31.12.2025",
+"short": "HCL Malu nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265685",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-8-2026",
+"path": "local/giurgiu/malu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 8/2026",
+"short": "HCL Malu nr. 8/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265690",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-10-2026",
+"path": "local/giurgiu/malu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 10/2026 privind aprobarea completării Programului anual al achiziţiilor publice şi a Programului anual al achiziţiilor sectoriale ale comunei Malu pentru anul 2026",
+"short": "HCL Malu nr. 10/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265695",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-11-2026",
+"path": "local/giurgiu/malu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 11/2026 privind aprobarea documentației tehnico-economice - Memoriul justificativ - pentru proiectul „Achiziție tractor cu remorcă pentru dotarea Serviciului Voluntar pentru Situații de Urgență (SVSU), comuna Malu - județul Giurgiu”",
+"short": "HCL Malu nr. 11/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265704",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-12-2026",
+"path": "local/giurgiu/malu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 12/2026 privind implementarea proiectului „Achiziție tractor cu remorcă pentru dotarea Serviciului Voluntar pentru Situații de Urgență (SVSU), comuna Malu – Judetul Giurgiu”",
+"short": "HCL Malu nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265709",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-13-2026",
+"path": "local/giurgiu/malu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 13/2026 privind privind aprobarea actualizării Devizului General și a indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare și extindere sistem alimentare cu apă și extindere rețea canalizare în Comuna Malu, județul Giurgiu”, urmare modificării cotei TVA de la 19% la 21% și a Dispoziției de șantier nr.1/2026",
+"short": "HCL Malu nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265710",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-14-2026",
+"path": "local/giurgiu/malu/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 14/2026 privind aprobarea utilizării excedentului bugetar al anului 2025",
+"short": "HCL Malu nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265711",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-16-2026",
+"path": "local/giurgiu/malu/2026/16",
+"kind": "local",
+"year": "2026",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 16/2026 privind stabilirea locurilor de acostare și staționare a ambarcațiunilor utilizate pentru pescuit comercial pe sectorul Dunării aferent unității administrativ-teritoriale Comuna Malu, județul Giurgiu, pentru anul 2026",
+"short": "HCL Malu nr. 16/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265730",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--malu-17-2026",
+"path": "local/giurgiu/malu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Malu nr. 17/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Malu, județul Giurgiu și aprobarea organigramei și a statului de funcții",
+"short": "HCL Malu nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-30",
+"latest": "2026-04-30",
+"portal": "https://emol.ro/malu-gr/registru-hcl/265739",
+"council": "giurgiu/malu",
+"council_name": "Consiliul Local al Comunei Malu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

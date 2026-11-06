@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/harghita/voslabeni/2021",
+ "acts": [
+  {
+   "slug": "hcl-harghita--voslabeni-59-2021",
+   "path": "local/harghita/voslabeni/2021/59",
+   "short": "HCL Voșlăbeni nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 59/2021 privind aprobarea nomenclatorului stradal al comunei Voslabeni judetul Harghita",
+   "url": "https://emol.ro/voslabeni-hr/registru-hcl/65368",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/voslabeni-hr/registru-hcl/65368",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+"country": "RO",
+"shard": "local/dambovita/ulmi/2022",
+"acts": [
+{
+"slug": "hcl-dambovita--ulmi-73-2022",
+"path": "local/dambovita/ulmi/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 73/2022",
+"short": "HCL Ulmi nr. 73/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": null,
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-74-2022",
+"path": "local/dambovita/ulmi/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 74/2022 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Ulmi si modificarii programului de investitii pe anul 2022",
+"short": "HCL Ulmi nr. 74/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-22",
+"latest": "2022-09-22",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#28096",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-91-2022",
+"path": "local/dambovita/ulmi/2022/91",
+"kind": "local",
+"year": "2022",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 91/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, indicatorilor tehnico-economici actualizați pentru obiectivul de investițitii”Reabilitare si modernizare strazi in satele Matraca si Nisipurile, comuna Ulmi,judetul Dambovita”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului ,",
+"short": "HCL Ulmi nr. 91/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-25",
+"latest": "2022-10-25",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#31302",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-99-2022",
+"path": "local/dambovita/ulmi/2022/99",
+"kind": "local",
+"year": "2022",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 99/2022 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Ulmi pe anul 2022",
+"short": "HCL Ulmi nr. 99/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-23",
+"latest": "2022-11-23",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#32520",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-117-2022",
+"path": "local/dambovita/ulmi/2022/117",
+"kind": "local",
+"year": "2022",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 117/2022 privind aprobarea retelei scolare de pe raza UAT Ulmi pt anul scolar 2023-2024",
+"short": "HCL Ulmi nr. 117/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://ulmi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/2348#36740",
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-dambovita--ulmi-122-2022",
+"path": "local/dambovita/ulmi/2022/122",
+"kind": "local",
+"year": "2022",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 122/2022",
+"short": "HCL Ulmi nr. 122/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": null,
+"council": "dambovita/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

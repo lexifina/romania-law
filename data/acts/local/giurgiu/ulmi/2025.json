@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/ulmi/2025",
+"acts": [
+{
+"slug": "hcl-giurgiu--ulmi-41-2025",
+"path": "local/giurgiu/ulmi/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 41/2025 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Ulmi si Serviciului local de salubrizare al comunei Ulmi pentru trimestrul III/2025",
+"short": "HCL Ulmi nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/231528",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-46-2025",
+"path": "local/giurgiu/ulmi/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 46/2025 privind organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de stat la nivelul comunei ULMI pentru anul 2026-2027",
+"short": "HCL Ulmi nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/242081",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--ulmi-59-2025",
+"path": "local/giurgiu/ulmi/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmi nr. 59/2025 privind stabilirea impozitelor şi taxelor locale, precum şi a taxelor speciale, pentru anul 2026",
+"short": "HCL Ulmi nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-28",
+"latest": "2026-07-28",
+"portal": "https://emol.ro/ulmi-gr/registru-hcl/245277",
+"council": "giurgiu/ulmi",
+"council_name": "Consiliul Local al Comunei Ulmi",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

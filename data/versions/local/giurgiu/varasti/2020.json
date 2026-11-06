@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/giurgiu/varasti/2020",
+ "acts": [
+  {
+   "slug": "hcl-giurgiu--varasti-49-2020",
+   "path": "local/giurgiu/varasti/2020/49",
+   "short": "HCL Vărăști nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 49/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31905",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-giurgiu--varasti-50-2020",
+   "path": "local/giurgiu/varasti/2020/50",
+   "short": "HCL Vărăști nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Vărăști nr. 50/2020 privind stabilirea numărului și a cuantumului burselor de care pot beneficia elevii de la cursurile cu frecvență din unitățile de învățământ de pe raza comunei",
+   "url": "https://emol.ro/varasti-gr/registru-hcl/31906",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/varasti-gr/registru-hcl/31906",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

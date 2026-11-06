@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/giurgiu/vanatorii-mici/2026",
+"acts": [
+{
+"slug": "hcl-giurgiu--vanatorii-mici-42-2026",
+"path": "local/giurgiu/vanatorii-mici/2026/42",
+"kind": "local",
+"year": "2026",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vânătorii Mici nr. 42/2026 privind aprobarea executiei bugetare pe trimestrul III, anul 2026",
+"short": "HCL Vânătorii Mici nr. 42/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/vanatoriimici-gr/registru-hcl/295406",
+"council": "giurgiu/vanatorii-mici",
+"council_name": "Consiliul Local al Comunei Vânătorii Mici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--vanatorii-mici-43-2026",
+"path": "local/giurgiu/vanatorii-mici/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vânătorii Mici nr. 43/2026 privind aprobarea rectificarii bugetului local de venituri si cheltuieli al comunei Vanatorii Mici pe anul 2026",
+"short": "HCL Vânătorii Mici nr. 43/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/vanatoriimici-gr/registru-hcl/295407",
+"council": "giurgiu/vanatorii-mici",
+"council_name": "Consiliul Local al Comunei Vânătorii Mici",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-giurgiu--vanatorii-mici-44-2026",
+"path": "local/giurgiu/vanatorii-mici/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vânătorii Mici nr. 44/2026",
+"short": "HCL Vânătorii Mici nr. 44/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/vanatoriimici-gr/registru-hcl/295408",
+"council": "giurgiu/vanatorii-mici",
+"council_name": "Consiliul Local al Comunei Vânătorii Mici",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-giurgiu--vanatorii-mici-46-2026",
+"path": "local/giurgiu/vanatorii-mici/2026/46",
+"kind": "local",
+"year": "2026",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vânătorii Mici nr. 46/2026 privind aprobarea finalizării și închiderii proiectului „ÎNFIINȚAREA UNUI CENTRU DE COLECTARE PRIN APORT VOLUNTAR ÎN COMUNA VÂNĂTORII MICI”, cod proiect C3I1A0122000419, finanțat în cadrul Planului Național de Redresare și Reziliență prin apelul nr. PNRR/2022/C3/S/I.1.A, precum și asigurarea sustenabilității investiției",
+"short": "HCL Vânătorii Mici nr. 46/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-28",
+"latest": "2026-10-28",
+"portal": "https://emol.ro/vanatoriimici-gr/registru-hcl/295410",
+"council": "giurgiu/vanatorii-mici",
+"council_name": "Consiliul Local al Comunei Vânătorii Mici",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

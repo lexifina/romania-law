@@ -1,0 +1,291 @@
+{
+ "country": "RO",
+ "shard": "local/galati/negrilesti/2020",
+ "acts": [
+  {
+   "slug": "hcl-galati--negrilesti-24-2020",
+   "path": "local/galati/negrilesti/2020/24",
+   "short": "HCL Negrilești nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 24/2020 privind aprobarea dezmembrarii imobilului situat in T4/1 P 10/1/9 comuna Negrilesti , judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11028",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-26-2020",
+   "path": "local/galati/negrilesti/2020/26",
+   "short": "HCL Negrilești nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 26/2020 privind aprobarea delegarii gestiunii serviciului de salubrizare, comuna Negrilesti, judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11030",
+   "versions": [
+    {
+     "from": "2020-08-04",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-27-2020",
+   "path": "local/galati/negrilesti/2020/27",
+   "short": "HCL Negrilești nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 27/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilesti, jud.Galati, pe trim.III-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11442",
+   "versions": [
+    {
+     "from": "2020-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-28-2020",
+   "path": "local/galati/negrilesti/2020/28",
+   "short": "HCL Negrilești nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 28/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilesti, jud.Galati, pe trim.III-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11443",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-29-2020",
+   "path": "local/galati/negrilesti/2020/29",
+   "short": "HCL Negrilești nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 29/2020 privind ; aprobarea Devizului general , aprobarea indicatorilor tehnico-economici „Modernizare strazi, amenajare santuri si podete in comuna Negrilesti,judetul Galati’’",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11444",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-30-2020",
+   "path": "local/galati/negrilesti/2020/30",
+   "short": "HCL Negrilești nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 30/2020 privind aprobarea Regulamentului de acordarea voucherelor de vacanta pentru fuctionarii publici si personalul contractual din cadrul Primariei comunei Negrilesti",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/11445",
+   "versions": [
+    {
+     "from": "2020-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/11445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-31-2020",
+   "path": "local/galati/negrilesti/2020/31",
+   "short": "HCL Negrilești nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 31/2020 privind alegerea preşedintelui de şedinţă pe trim. IV anul 2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13025",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-32-2020",
+   "path": "local/galati/negrilesti/2020/32",
+   "short": "HCL Negrilești nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 32/2020 privind organizarea comisiilor de specialitate in cadrul Consiliului local al comunei Negrilesti, judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13026",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-33-2020",
+   "path": "local/galati/negrilesti/2020/33",
+   "short": "HCL Negrilești nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 33/2020 privind alegerea viceprimarului comunei Negrilesti, judetul Galati",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13027",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-34-2020",
+   "path": "local/galati/negrilesti/2020/34",
+   "short": "HCL Negrilești nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 34/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilesti, jud.Galati, pe trim.IV-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13028",
+   "versions": [
+    {
+     "from": "2020-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-35-2020",
+   "path": "local/galati/negrilesti/2020/35",
+   "short": "HCL Negrilești nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 35/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilesti, jud.Galati, pe trim.IV-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13029",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-36-2020",
+   "path": "local/galati/negrilesti/2020/36",
+   "short": "HCL Negrilești nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 36/2020 privind aprobarea retelei scolare de pe raza unitatii administrativ teritoriale a comunei Negrilesti, judeţul Galaţi, pentru anul 2021-2022",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13030",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-37-2020",
+   "path": "local/galati/negrilesti/2020/37",
+   "short": "HCL Negrilești nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 37/2020 privind aprobarea Regulamentul de organizare şi funcţionare al Consiliului local al comunei comuna Negrilesti,judetul Galati’’",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13031",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-38-2020",
+   "path": "local/galati/negrilesti/2020/38",
+   "short": "HCL Negrilești nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 38/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilești, jud.Galați, pe trim.IV-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13550",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-39-2020",
+   "path": "local/galati/negrilesti/2020/39",
+   "short": "HCL Negrilești nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 39/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021 in comuna Negrilești, judetul Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13551",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-40-2020",
+   "path": "local/galati/negrilesti/2020/40",
+   "short": "HCL Negrilești nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 40/2020 privind aprobarea Programul cultural intitulat „Tradiții si obiceiuri de iarna” com.Negrilesti, jud. Galați",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13552",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-41-2020",
+   "path": "local/galati/negrilesti/2020/41",
+   "short": "HCL Negrilești nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 41/2020 privind aprobarea Contractului de comodat încheiat între Comuna Negrilesti și GAL Tecuci S-E",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13553",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-42-2020",
+   "path": "local/galati/negrilesti/2020/42",
+   "short": "HCL Negrilești nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 42/2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13554",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--negrilesti-43-2020",
+   "path": "local/galati/negrilesti/2020/43",
+   "short": "HCL Negrilești nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Negrilești nr. 43/2020 privind rectificarea bugetului local de venituri si cheltuieli al comunei Negrilești, jud.Galați, pe trim.IV-2020",
+   "url": "https://emol.ro/negrilesti-gl/registru-hcl/13555",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/negrilesti-gl/registru-hcl/13555",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

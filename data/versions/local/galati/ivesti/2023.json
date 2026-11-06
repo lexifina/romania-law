@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/galati/ivesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-galati--ivesti-102-2023",
+   "path": "local/galati/ivesti/2023/102",
+   "short": "HCL Ivești nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 102/2023 privind reorganizarea aparatului de specialitate, aprobarea organigramei şi a statului de funcţii pentru aparatul de specialitate al primarului comunei Iveşti, judeţul Galaţi, si a serviciilor publice de interes local din subordinea Consiliului local al comunei Ivesti, judetul Galaţi",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142815",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-103-2023",
+   "path": "local/galati/ivesti/2023/103",
+   "short": "HCL Ivești nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 103/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Iveşti, judeţul Galaţi",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142825",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-84-2023",
+   "path": "local/galati/ivesti/2023/84",
+   "short": "HCL Ivești nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 84/2023 privind includerea în domeniul privat al comunei Iveşti, judeţul Galaţi a bunurilor rezultate din implementarea proiectului de investiții „ACHIZIȚIE UTILAJE PENTRU SERVICIUL GOSPODĂRIE LOCALĂ ÎN COMUNA IVEȘTI, JUDEȚUL GALAȚI”” cofinanțat din FEADR-PNDR, Măsura19-Leader, submăsura 19.2- ”Sprijin pentru implementarea acțiunilor în cadrul strategiilor de dezvoltare locală”",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142655",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-85-2023",
+   "path": "local/galati/ivesti/2023/85",
+   "short": "HCL Ivești nr. 85/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 85/2023 privind aprobarea implementării Programului-pilot de acordare a unui suport alimentar pentru preşcolarii şi elevii din 350 de unităţi de învăţământ preuniversitar de stat, în cadrul Școlii Profesionale „Hortensia Papadat Bengescu” din comuna Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142656",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-86-2023",
+   "path": "local/galati/ivesti/2023/86",
+   "short": "HCL Ivești nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 86/2023 privind aprobarea indicatorilor economici ai proiectului: „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din comuna Ivești, județul Galați”, finanțat prin Programul Național de Redresare și Reziliență - Pilonul VI. Politici pentru noua Generație Componenta C15: Educație",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142657",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-87-2023",
+   "path": "local/galati/ivesti/2023/87",
+   "short": "HCL Ivești nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 87/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Iveşti, judeţul Galaţi",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142661",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-88-2023",
+   "path": "local/galati/ivesti/2023/88",
+   "short": "HCL Ivești nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 88/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Ivești, judeţul Galați, și din serviciile publice din subordinea Consiliului Local al Comunei Ivești, judeţul Galaţi începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142662",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-89-2023",
+   "path": "local/galati/ivesti/2023/89",
+   "short": "HCL Ivești nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 89/2023 privind acordarea de inlesniri de plata a majorărilor de întârziere privind obligațiile bugetare, constând în impozite şi taxe locale, redevențe si chirii datorate bugetului local de catre persoanele fizice care au calitatea de contribuabili pe raza UAT comuna Iveşti, judeţul Galaţi în anul 2023",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142765",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-90-2023",
+   "path": "local/galati/ivesti/2023/90",
+   "short": "HCL Ivești nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 90/2023 privind stabilirea impozitului pe mijloacele de transport prevăzute la art.470,alin.(5) și alin.(6) din Codul fiscal aprobat prin Legea nr.227/2015, cu modificările și completările ulterioare, pentru anul 2024",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142766",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-91-2023",
+   "path": "local/galati/ivesti/2023/91",
+   "short": "HCL Ivești nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 91/2023 privind aprobarea Planului de Analiză şi Acoperire a Riscurilor, pentru comuna Iveşti, judeţul Galaţi, actualizat",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142767",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-96-2023",
+   "path": "local/galati/ivesti/2023/96",
+   "short": "HCL Ivești nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 96/2023 privind rectificarea bugetului local de venituri şi cheltuieli al comunei Iveşti, judeţul Galaţi și utilizarea unor sume din excedentul bugetului local al anului 2022, pentru finanțarea deficitului secțiunii de dezvoltare",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142809",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-97-2023",
+   "path": "local/galati/ivesti/2023/97",
+   "short": "HCL Ivești nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 97/2023 privind aprobarea ajustării valorii lucrărilor și a devizului general actualizat urmare ajustării de preț, în contractul de lucrări pentru obiectivul de investiții „MODERNIZARE STRĂZI RURALE în comuna IVEȘTI, județul GALAȚI – Etapa 2”",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142810",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-98-2023",
+   "path": "local/galati/ivesti/2023/98",
+   "short": "HCL Ivești nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 98/2023 privind prelungirea valabilității Planului Urbanistic General și Regulamentului local de urbanism al comunei Ivești, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142811",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--ivesti-99-2023",
+   "path": "local/galati/ivesti/2023/99",
+   "short": "HCL Ivești nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ivești nr. 99/2023 privind modificarea componentei nominale a Consiliului de Administraţie al Clubului Sportiv „Gloria” Iveşti, județul Galați",
+   "url": "https://emol.ro/ivesti-gl/registru-hcl/142812",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ivesti-gl/registru-hcl/142812",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

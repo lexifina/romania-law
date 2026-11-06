@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/galati/jorasti/2023",
+ "acts": [
+  {
+   "slug": "hcl-galati--jorasti-29-2023",
+   "path": "local/galati/jorasti/2023/29",
+   "short": "HCL Jorăști nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 29/2023 privind aprobarea proiectului ''Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar din comuna Jorăști, județul Galați'', finanțat prin - Programul Național de Redresare și Reziliență - Pilonul VI. Politici pentru noua Generația Componenta C15: Educație",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125114",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-31-2023",
+   "path": "local/galati/jorasti/2023/31",
+   "short": "HCL Jorăști nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 31/2023 privind aprobarea studiului de fezabilitate/docuemntației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții 'țReabilitare străzi în lungime de apox. 6,0 km în comuna Jorăști, județul Galați'', aprobat pentru finanțare prin Programul național de investiții ''Anghel Saligny'', precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125116",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-33-2023",
+   "path": "local/galati/jorasti/2023/33",
+   "short": "HCL Jorăști nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 33/2023 privind rectificarea bugetului local al Comunei Jorăști, Județul GALAȚI pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125118",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-34-2023",
+   "path": "local/galati/jorasti/2023/34",
+   "short": "HCL Jorăști nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 34/2023 privind rectificarea bugetului local al Comunei Jorăști, Județul Galați pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125131",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--jorasti-45-2023",
+   "path": "local/galati/jorasti/2023/45",
+   "short": "HCL Jorăști nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Jorăști nr. 45/2023 privind rectificarea bugetului local al Comunei Jorăști, Județul Galați pe anul 2023",
+   "url": "https://emol.ro/jorasti-gl/registru-hcl/125142",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/jorasti-gl/registru-hcl/125142",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

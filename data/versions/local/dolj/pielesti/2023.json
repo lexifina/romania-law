@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/pielesti/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--pielesti-140-2023",
+   "path": "local/dolj/pielesti/2023/140",
+   "short": "HCL Pielești nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 140/2023 privind ,, Aprobarea Contului de execuție al bugetului local pe trimestrul al III lea 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130471",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-141-2023",
+   "path": "local/dolj/pielesti/2023/141",
+   "short": "HCL Pielești nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 141/2023 privind ,, Demararea procedurii de perfectare a unui contract de prestări servici privind lucrările de deszăpezire la nivelul UAT Comuna Pielești, pe perioada de iarnă 2023-2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130472",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-142-2023",
+   "path": "local/dolj/pielesti/2023/142",
+   "short": "HCL Pielești nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 142/2023 privind ,, Aprobarea Regulamentului de Organizare și Funcționare al Primăriei Comunei Pielești ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130473",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-143-2023",
+   "path": "local/dolj/pielesti/2023/143",
+   "short": "HCL Pielești nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 143/2023 privind ,, Aprobarea Organigramei și a Statului de Funcții al Aparatului de Specialitate al Primarului Comunei Pielești, județul Dolj,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130474",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-144-2023",
+   "path": "local/dolj/pielesti/2023/144",
+   "short": "HCL Pielești nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 144/2023 privind ,, Stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului Comunei Pielești, județul Dolj, începând cu 1. ianuarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130475",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-145-2023",
+   "path": "local/dolj/pielesti/2023/145",
+   "short": "HCL Pielești nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 145/2023 privind ,, Stabilirea salariilor de bază pentru funcțiile publice și contractuale din cadrul aparatului de specialitate al primarului Comunei Pielești, județul Dolj, începând cu luna noiembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130476",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-146-2023",
+   "path": "local/dolj/pielesti/2023/146",
+   "short": "HCL Pielești nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 146/2023 privind ,,Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna decembrie 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130477",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-149-2023",
+   "path": "local/dolj/pielesti/2023/149",
+   "short": "HCL Pielești nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 149/2023 privind ,,Rectificarea bugetului de venituri și cheltuieli al UAT Comuna Pielești pe trimestrul al IV lea 2023,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130836",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-150-2023",
+   "path": "local/dolj/pielesti/2023/150",
+   "short": "HCL Pielești nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 150/2023 privind ,, Aprobarea participării Comunei Pielești, județul Dolj la Parteneriatul LEADER cu denumirea ,, Asociația Grupul de Acțiune Locală - Câmpia Romanaților,, CIF 32351093",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/130837",
+   "versions": [
+    {
+     "from": "2023-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/130837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-151-2023",
+   "path": "local/dolj/pielesti/2023/151",
+   "short": "HCL Pielești nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 151/2023 privind ,,Rectificarea bugetului de venituri și cheltuieli al UAT Comuna Pielești pe trimestrul al IV lea 2023 - pe partea de funcționare ,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135065",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-154-2023",
+   "path": "local/dolj/pielesti/2023/154",
+   "short": "HCL Pielești nr. 154/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 154/2023 privind ,, Aprobarea propunerii Planului Anual de achiziții aferent anului 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135068",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-155-2023",
+   "path": "local/dolj/pielesti/2023/155",
+   "short": "HCL Pielești nr. 155/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 155/2023 privind ,, Demararea procedurii de schimb a suprafeței de 483 mp situată în T 29 - domeniul privat al UAT Comuna Pielești având CF 43902 Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135069",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-156-2023",
+   "path": "local/dolj/pielesti/2023/156",
+   "short": "HCL Pielești nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 156/2023 privind ,,Aprobarea Planului de muncă al beneficiarilor de ajutor social pentru luna ianuarie 2024,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135070",
+   "versions": [
+    {
+     "from": "2024-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--pielesti-159-2023",
+   "path": "local/dolj/pielesti/2023/159",
+   "short": "HCL Pielești nr. 159/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pielești nr. 159/2023 privind ... Aprobarea Taxelor și Impozitelor Locale pentru anul 2024 la nivelul UAT Comuna Pielești,,",
+   "url": "https://emol.ro/pielesti-dj/registru-hcl/135802",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pielesti-dj/registru-hcl/135802",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

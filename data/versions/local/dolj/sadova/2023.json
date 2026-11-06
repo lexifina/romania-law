@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/sadova/2023",
+ "acts": [
+  {
+   "slug": "hcl-dolj--sadova-70-2023",
+   "path": "local/dolj/sadova/2023/70",
+   "short": "HCL Sadova nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 70/2023 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lII, anul 2023",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/131398",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/131398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-78-2023",
+   "path": "local/dolj/sadova/2023/78",
+   "short": "HCL Sadova nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 78/2023 privind stabilirea taxelor si impozitelor locale, precum si limitele amenzilor care se fac venit la bugetul local al comunei Sadova, aplicabile în anul fiscal 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/135276",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/135276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-80-2023",
+   "path": "local/dolj/sadova/2023/80",
+   "short": "HCL Sadova nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 80/2023 privind aprobarea REGULAMENTULUI-CADRU pentru închirierea sau concesionarea bunurilor imobile aparținând domeniului public sau privat al Comunei Sadova, Judeţul Dolj",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/135278",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/135278",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

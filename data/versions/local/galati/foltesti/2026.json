@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/galati/foltesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-galati--foltesti-11-2026",
+   "path": "local/galati/foltesti/2026/11",
+   "short": "HCL Foltești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 11/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/09/HCL-11.2026.pdf",
+     "sha256": "8d18b4d1e8236632a328ec9064c12ea01aa0479901c9c9b28aa46ff60fd59386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-18-2026",
+   "path": "local/galati/foltesti/2026/18",
+   "short": "HCL Foltești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 18/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/09/HCL-18.2026.pdf",
+     "sha256": "395c94aeeff164ffdbc0f60629d7a05d5323bd8a642ba096979fff013ffadd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-31-2026",
+   "path": "local/galati/foltesti/2026/31",
+   "short": "HCL Foltești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 31/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/09/HCL-31.2026.pdf",
+     "sha256": "72c3e19ce3722177332b0ead4258086611e42c490c8f0821d8db5cc7ca73f8dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-galati--foltesti-32-2026",
+   "path": "local/galati/foltesti/2026/32",
+   "short": "HCL Foltești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Foltești nr. 32/2026 pentru aprobarea Normelor metodologice privind cheltuielile cu organizarea și desfășurarea olimpiadelor, concursurilor școlare, extrașcolare și extracurriculare, a taberelor de profil, a simpozioanelor și a altor activități specifice, precum și cuantumul stimulentelor financiare acordate elevilor; e)art.3, alin.(1), alin.(2), alin.(3), art.18^1 alin.(2) lit.f) din Legea nr. 69 /2020 a educației fi",
+   "url": "https://www.comunafoltesti.ro/monitorul-oficial-local/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://www.comunafoltesti.ro/wp-content/uploads/2026/09/HCL-32.2026.pdf",
+     "sha256": "e30df3f3c4ffa78860d1941f23d6e1ed2634b35674b78dd0eb3dc9d9345009c0"
+    }
+   ]
+  }
+ ]
+}

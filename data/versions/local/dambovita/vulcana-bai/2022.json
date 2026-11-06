@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/dambovita/vulcana-bai/2022",
+ "acts": [
+  {
+   "slug": "hcl-dambovita--vulcana-bai-100-2022",
+   "path": "local/dambovita/vulcana-bai/2022/100",
+   "short": "HCL Vulcana-Băi nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 100/2022 privind indexarea impozitului pe mijloacele de transport prevăzut la art. 470 alin.(5) și alin. (6) Cod fiscal prin aplicarea ratei de schimb a monedei euro în vigoare în prima zi lucrătoare a lunii octombrie 2021, la nivelurile minime prevăzute de Directiva 1999/62/CE, pe anul 2023",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/85019",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/85019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dambovita--vulcana-bai-95-2022",
+   "path": "local/dambovita/vulcana-bai/2022/95",
+   "short": "HCL Vulcana-Băi nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Vulcana-Băi nr. 95/2022 privind aprobarea cotizației/contribuției comunei Vulcana-Băi datorată către Asociația de Dezvoltare Intercomunitară „Apa Dâmbovița”, pentru anul 2023",
+   "url": "https://emol.ro/vulcana-bai-db/registru-hcl/85014",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/vulcana-bai-db/registru-hcl/85014",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

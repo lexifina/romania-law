@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Ostroveni nr. 26/2026 privind rectificarea II a bugetului comunei Ostroveni pe anul 2026 si modificarea I a Listei obiectivelor de investitii pe anul 2026
+
+HCL Ostroveni nr. 26/2026 · 1 versions, from 2026-09-02 (latest in force: 2026-09-02) · <https://emol.ro/ostroveni-dj/registru-hcl/279504>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-dolj--ostroveni-26-2026` (tags `hcl-dolj--ostroveni-26-2026/<day>`; `python tools/on.py <day> hcl-dolj--ostroveni-26-2026`).
+
+## Decisions made by hand
+
+- HCL Ostroveni nr. 26/2026: listed from Consiliul Local al Comunei Ostroveni (emol.ro); metadata only for now: no document of it is held.
+- HCL Ostroveni nr. 26/2026: dated from 2 September 2026, the day the council's register gives it as published (adopted 23 July 2026).
+- HCL Ostroveni nr. 26/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

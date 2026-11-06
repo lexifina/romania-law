@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/galati/poiana/2025",
+"acts": [
+{
+"slug": "hcl-galati--poiana-38-2025",
+"path": "local/galati/poiana/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 38/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+"short": "HCL Poiana nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-25",
+"latest": "2025-09-25",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240407",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-41-2025",
+"path": "local/galati/poiana/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 41/2025 privind rectificarea Bugetului unităţii administrativ teritoriale pe anul 2025 analizând temeiurile juridice",
+"short": "HCL Poiana nr. 41/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-15",
+"latest": "2025-10-15",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240425",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-44-2025",
+"path": "local/galati/poiana/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 44/2025 privind actualizarea indicatorilor tehnico-economici, aprobați prin HCL nr. 44 din data 11.10.2022, pentru obiectivul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE ȘI CONSOLIDAREA SEISMICĂ LA SEDIUL PRIMĂRIEI POIANA ȘI CĂMINULUI CULTURAL” propus spre finanțare prin PROGRAMUL REGIONAL SUD EST 2021-2027 – Acțiunea 2.2 - Consolidarea clădirilor aflate în risc seismic",
+"short": "HCL Poiana nr. 44/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-29",
+"latest": "2025-10-29",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/240438",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-49-2025",
+"path": "local/galati/poiana/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 49/2025 privind stabilirea unor suprafețe de teren neproductiv în vederea depozitării temporare a deșeurilor biodegradabile provenite din grădini și parcuri (deșeuri verzi), colectate separat de pe raza comunei Poiana , județul Galați",
+"short": "HCL Poiana nr. 49/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268644",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-galati--poiana-54-2025",
+"path": "local/galati/poiana/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana nr. 54/2025 privind aprobarea cheltuielilor pentru achiziţionarea pungilor de Crăciun, din bugetul Consiliului Local al comunei Poiana, județul Galați",
+"short": "HCL Poiana nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/poiana-gl/registru-hcl/268665",
+"council": "galati/poiana",
+"council_name": "Consiliul Local al Comunei Poiana",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

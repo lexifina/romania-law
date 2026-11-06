@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/dolj/sadova/2024",
+ "acts": [
+  {
+   "slug": "hcl-dolj--sadova-60-2024",
+   "path": "local/dolj/sadova/2024/60",
+   "short": "HCL Sadova nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 60/2024 privind actualizarea Regulamentului de Organizare si Functionare al Serviciului social-Îngrijire la domiciliu persoane vârstnice",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/180271",
+   "versions": [
+    {
+     "from": "2024-12-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/180271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-65-2024",
+   "path": "local/dolj/sadova/2024/65",
+   "short": "HCL Sadova nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 65/2024 privind aprobarea Regulamentului Local al comunei Sadova de implicare a publicului în elaborarea sau revizuirea documentațiilor de urbanism și amenajarea teritoriului",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/183324",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/183324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-66-2024",
+   "path": "local/dolj/sadova/2024/66",
+   "short": "HCL Sadova nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 66/2024 privind stabilirea impozitelor și taxelor locale datorate de persoanele fizice și juridice din comuna Sadova, în anul 2025",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/183325",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/183325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-67-2024",
+   "path": "local/dolj/sadova/2024/67",
+   "short": "HCL Sadova nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 67/2024 privind aprobarea contului de executie al bugetului de venituri si cheltuieli al comunei Sadova, pe trimestrul lll, anul 2024",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/183326",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/183326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-dolj--sadova-68-2024",
+   "path": "local/dolj/sadova/2024/68",
+   "short": "HCL Sadova nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sadova nr. 68/2024 privind organizarea retelei scolare la nivelul UAT comuna Sadova pentru anul scolar 2025-2026",
+   "url": "https://emol.ro/sadova-dj/registru-hcl/183327",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/sadova-dj/registru-hcl/183327",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

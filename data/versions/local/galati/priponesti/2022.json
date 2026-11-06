@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/galati/priponesti/2022",
+ "acts": [
+  {
+   "slug": "hcl-galati--priponesti-1-2022",
+   "path": "local/galati/priponesti/2022/1",
+   "short": "HCL Priponești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Priponești nr. 1/2022 PROIECT DE HOTARARE PRIVIND RECTIFICARE DE BUGET",
+   "url": "https://priponesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19360#14700",
+   "versions": [
+    {
+     "from": "2022-02-04",
+     "units": 1,
+     "source_url": "https://priponesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/19360#14700",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
