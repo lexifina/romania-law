@@ -86,3 +86,19 @@ These changes were first published credited to another law. The words are unchan
 - `art-005.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
 - `art-006-1.md`, in force from 2026-06-13: OUG nr. 7/2026 (first published as no law named).
 - `art-008.md`, in force from 2026-06-13: Legea nr. 92/2026 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 91/1995](../../../jurisprudenta/ccr/1995/91/)**, Monitorul Oficial nr. 272 din 23 noiembrie 1995 · art. 3 lit. b); art. 2 lit. s) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 3 lit. b), raportate la art. 2 lit. s) din Legea nr. 61/1991, astfel cum au fost modificate prin Ordonanţa Guvernului nr. 55/1994, aprobată prin Legea nr. 129/1994, sunt neconstituţionale în măsura în care se aplică pentru transformarea amenzii neachitate în închisoare contravenţională, urmînd ca aceasta transformare să se facă fără a se tine seama de coeficientul de majorare a limitelor amenzii contravenţionale conform Ordonanţei Guvernului nr. 55/1994. 2.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-11-23. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 368/2022](../../../jurisprudenta/ccr/2022/368/)**, Monitorul Oficial nr. 1146 din 29 noiembrie 2022 · art. 2 · only some words or a sentence inside the provision
+
+  > constată că sintagma „în mediul urban“ din cuprinsul art. 2 pct. 27) din Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-11-29) and ceases to have legal effect 45 days later, on 2023-01-13, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

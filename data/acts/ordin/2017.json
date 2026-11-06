@@ -6250,6 +6250,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anre-107-2017",
+"path": "ordin/anre/2017/107",
+"kind": "ordin",
+"year": "2017",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 107/2017 privind modificarea Regulamentului pentru acordarea autorizațiilor de înființare și a licențelor în sectorul gazelor naturale, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 34/2013",
+"short": "Ordin anre nr. 107/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-11-27",
+"latest": "2017-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/195032",
+"issuer": "anre",
+"joint": []
+},
+{
 "slug": "ordin-anre-109-2017",
 "path": "ordin/anre/2017/109",
 "kind": "ordin",
@@ -8739,6 +8758,25 @@
 "joint": []
 },
 {
+"slug": "ordin-cnas-1307-2017",
+"path": "ordin/cnas/2017/1307",
+"kind": "ordin",
+"year": "2017",
+"number": "1307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.307/2017 privind modificarea și completarea Normelor tehnice de realizare a programelor naționale de sănătate curative pentru anii 2017 și 2018, aprobate prin Ordinul președintelui Casei Naționale de Asigurări de Sănătate nr. 245/2017",
+"short": "Ordin cnas nr. 1307/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-12-29",
+"latest": "2017-12-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/196315",
+"issuer": "cnas",
+"joint": []
+},
+{
 "slug": "ordin-cncan-108-2017",
 "path": "ordin/cncan/2017/108",
 "kind": "ordin",
@@ -8754,6 +8792,25 @@
 "from": "2017-06-13",
 "latest": "2017-06-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/190064",
+"issuer": "cncan",
+"joint": []
+},
+{
+"slug": "ordin-cncan-114-2017",
+"path": "ordin/cncan/2017/114",
+"kind": "ordin",
+"year": "2017",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 114/2017 privind aprobarea Normelor fundamentale de securitate nucleară pentru instalațiile nucleare",
+"short": "Ordin cncan nr. 114/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-06-14",
+"latest": "2017-06-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/190074",
 "issuer": "cncan",
 "joint": []
 },
@@ -11885,6 +11942,25 @@
 "from": "2017-09-15",
 "latest": "2017-09-15",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/193214",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "ordin-educatie-4796-2017",
+"path": "ordin/educatie/2017/4796",
+"kind": "ordin",
+"year": "2017",
+"number": "4796",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.796/2017 privind aprobarea graficului de desfășurare a examenelor de certificare a calificării profesionale a absolvenților din învățământul profesional și tehnic preuniversitar în anul școlar 2017-2018",
+"short": "Ordin educatie nr. 4796/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-09-13",
+"latest": "2017-09-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/193179",
 "issuer": "educatie",
 "joint": []
 },
@@ -18700,6 +18776,33 @@
 ]
 },
 {
+"slug": "ordin-sanatate-728-2017",
+"path": "ordin/sanatate/2017/728",
+"kind": "ordin",
+"year": "2017",
+"number": "728",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 728/2017 ORDIN nr. 728/508/2017 pentru modificarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 674/252/2012 privind aprobarea formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu și a Normelor metodologice privind utilizarea și modul de completare a formularului de prescripție medicală electronică pentru medicamente cu și fără contribuție personală în tratamentul ambulatoriu",
+"short": "Ordin sanatate nr. 728/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-07-03",
+"latest": "2017-07-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/190764",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "508",
+"date": "2017-07-03",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-508-2017"
+}
+]
+},
+{
 "slug": "ordin-sanatate-737-2017",
 "path": "ordin/sanatate/2017/737",
 "kind": "ordin",
@@ -19838,6 +19941,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1303-2017",
+"path": "ordin/sanatate/2017/1303",
+"kind": "ordin",
+"year": "2017",
+"number": "1303",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.303/2017 ORDIN nr. 1.303/1.185/2017 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.301/500/2008 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008",
+"short": "Ordin sanatate nr. 1303/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-11-16",
+"latest": "2017-11-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/194715",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1185",
+"date": "2017-11-08",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1185-2017"
+}
+]
+},
+{
 "slug": "ordin-sanatate-1342-2017",
 "path": "ordin/sanatate/2017/1342",
 "kind": "ordin",
@@ -20786,6 +20916,25 @@
 "from": "2017-02-08",
 "latest": "2017-02-08",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/186411",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-88-2017",
+"path": "ordin/transporturi/2017/88",
+"kind": "ordin",
+"year": "2017",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 88/2017",
+"short": "Ordin transporturi nr. 88/2017",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2017-05-23",
+"latest": "2017-05-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/186847",
 "issuer": "transporturi",
 "joint": []
 },

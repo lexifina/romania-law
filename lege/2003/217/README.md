@@ -76,3 +76,13 @@ Act id: `legea-217-2003` (tags `legea-217-2003/<day>`; `python tools/on.py <day>
 - Legea nr. 217/2003: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 12 such paragraphs across all forms, for example «* Alineatul (2) al art. 18 a fost introdus prin Legea nr. 17», «Art. 23 este reprodus în forma prevazută de pct. 15 al art. », «Art. 24 este reprodus în forma prevazută de pct. 15 al art. ».
 - Legea nr. 217/2003: 12 changed article(s) with no note naming a law, committed as the publisher's: 2004-01-08 art-023, 2004-01-08 art-024, 2004-01-08 art-025, 2018-07-21 art-001, 2018-07-21 art-006, 2018-07-21 art-012, 2018-07-21 art-018, 2018-07-21 art-020, 2018-07-21 art-025, 2018-07-21 art-037, 2018-07-21 art-038, 2018-07-21 art-039.
 - Legea nr. 217/2003: forms with no change after normalisation, so no version: 2017-06-22 (189842), 2017-08-06 (191896).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 264/2017](../../../jurisprudenta/ccr/2017/264/)**, Monitorul Oficial nr. 468 din 22 iunie 2017 · art. 5 lit. c) · only some words or a sentence inside the provision
+
+  > constată că sintagma „în cazul în care conviețuiesc“ din cuprinsul art. 5 lit. c) din Legea nr. 217/2003 pentru prevenirea și combaterea violenței în familie este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-06-22) and ceases to have legal effect 45 days later, on 2017-08-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

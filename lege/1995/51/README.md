@@ -302,3 +302,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-060.md`, in force from 2023-04-15: Legea nr. 89/2023 (first published as no law named).
 - `art-081.md`, in force from 2023-04-15: Legea nr. 89/2023 (first published as no law named).
 - `art-084.md`, in force from 2023-04-15: Legea nr. 89/2023 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 225/2017](../../../jurisprudenta/ccr/2017/225/)**, Monitorul Oficial nr. 468 din 22 iunie 2017 · art. 14 lit. a) · only some words or a sentence inside the provision
+
+  > constată că sintagma „de natură să aducă atingere prestigiului profesiei“ de avocat din cuprinsul art. 14 lit. a) din Legea nr. 51/1995 pentru organizarea și exercitarea profesiei de avocat, republicată, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-06-22) and ceases to have legal effect 45 days later, on 2017-08-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

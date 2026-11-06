@@ -38,3 +38,13 @@ These changes were first published credited to another law. The words are unchan
 
 - `art-009.md`, in force from 1999-11-02: OUG nr. 163/1999 (first published as no law named).
 - `art-010.md`, in force from 1999-11-02: OUG nr. 163/1999 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 101/1998](../../../jurisprudenta/ccr/1998/101/)**, Monitorul Oficial nr. 340 din 9 septembrie 1998 · art. 2 alin. (3) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispozițiile art. 2 alin. (3) din Ordonanța de urgenta a Guvernului nr. 43/1997 pentru întocmirea bilanțului contabil special și regularizarea unor credite și dobânzi clasificate în categoria "pierdere" la Banca Agricolă - S.A., modificată și completată prin Ordonanța de urgenta a Guvernului nr. 48/1997, sunt neconstituționale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-09-09; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

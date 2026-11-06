@@ -949,3 +949,277 @@ These changes were first published credited to another law. The words are unchan
 - `art-404.md`, in force from 2026-04-26: Legea nr. 53/2026 (first published as no law named).
 - `art-597.md`, in force from 2026-05-24: Legea nr. 75/2026 (first published as no law named).
 - `art-438.md`, in force from 2026-06-13: Legea nr. 94/2026 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 599/2014](../../../jurisprudenta/ccr/2014/599/)**, Monitorul Oficial nr. 886 din 5 decembrie 2014 · art. 341 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 341 alin. (5) din Codul de procedură penală \[…\] şi constată că soluţia legislativă potrivit căreia judecătorul de cameră preliminară se pronunţă asupra plângerii "fără participarea petentului, a procurorului şi a intimaţilor" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-12-05) and ceases to have legal effect 45 days later, on 2015-01-19, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 641/2014](../../../jurisprudenta/ccr/2014/641/)**, Monitorul Oficial nr. 887 din 5 decembrie 2014 · art. 344 alin. (4); art. 345 alin. (1); art. 346 alin. (1); art. 347 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că dispoziţiile art. 344 alin. (4) din Codul de procedură penală sunt neconstituţionale. \[…\] constată că soluţia legislativă cuprinsă în art. 345 alin. (1) şi în art. 346 alin. (1) din Codul de procedură penală, potrivit căreia judecătorul de cameră preliminară se pronunţă "fără participarea procurorului şi a inculpatului", este neconstituţională. \[…\] constată că dispoziţiile art. 347 alin. (3) din Codul de procedură penală raportate la cele ale art. 344 alin. (4), art. 345 alin. (1) şi art. 346 alin. (1) din acelaşi cod sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2014-12-05) and ceases to have legal effect 45 days later, on 2015-01-19, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 663/2014](../../../jurisprudenta/ccr/2014/663/)**, Monitorul Oficial nr. 52 din 22 ianuarie 2015 · art. 341 alin. (10) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în art. 341 alin. (10) din Codul de procedură penală potrivit căreia judecătorul de cameră preliminară se pronunţă "fără participarea procurorului şi a inculpatului" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-01-22) and ceases to have legal effect 45 days later, on 2015-03-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 76/2015](../../../jurisprudenta/ccr/2015/76/)**, Monitorul Oficial nr. 174 din 13 martie 2015 · art. 374 alin. (7) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă de excludere a procurorului de la dezbaterea contradictorie a probelor cuprinsă în art. 374 alin. (7) teza a doua din Codul de procedură penală este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-03-13) and ceases to have legal effect 45 days later, on 2015-04-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 166/2015](../../../jurisprudenta/ccr/2015/166/)**, Monitorul Oficial nr. 264 din 21 aprilie 2015 · art. 549^1 alin. (2); art. 549^1 alin. (3); art. 549^1 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că dispoziţiile art. 549^1 alin. (2) din Codul de procedură penală sunt neconstituţionale. \[…\] constată că soluţia legislativă cuprinsă în art. 549^1 alin. (3) din Codul de procedură penală, potrivit căreia judecătorul de cameră preliminară se pronunţă "în camera de consiliu, fără participarea procurorului ori a persoanelor prevăzute la alin. (2)", este neconstituţională. \[…\] constată că soluţia legislativă cuprinsă în art. 549^1 alin. (5) din Codul de procedură penală, potrivit căreia instanţa ierarhic superioară ori completul competent se pronunţă "fără participarea procurorului şi a persoanelor prevăzute la alin. (2)", este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-04-21) and ceases to have legal effect 45 days later, on 2015-06-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 235/2015](../../../jurisprudenta/ccr/2015/235/)**, Monitorul Oficial nr. 364 din 26 mai 2015 · art. 488; art. 484 alin. (2) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că dispoziţiile art. 488 din Codul de procedură penală, precum şi soluţia legislativă cuprinsă în art. 484 alin. (2) din Codul de procedură penală, care exclude persoana vătămată, partea civilă şi partea responsabilă civilmente de la audierea în faţa instanţei de fond, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-05-26) and ceases to have legal effect 45 days later, on 2015-07-10, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 423/2015](../../../jurisprudenta/ccr/2015/423/)**, Monitorul Oficial nr. 538 din 20 iulie 2015 · art. 488^4 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 488^4 alin. (5) din Codul de procedură penală \[…\] şi constată că soluţia legislativă potrivit căreia contestaţia privind durata procesului penal se soluţionează "fără participarea părţilor şi a procurorului" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-07-20) and ceases to have legal effect 45 days later, on 2015-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 506/2015](../../../jurisprudenta/ccr/2015/506/)**, Monitorul Oficial nr. 539 din 20 iulie 2015 · art. 459 alin. (2) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 459 alin. (2) din Codul de procedură penală \[…\] şi constată că soluţia legislativă potrivit căreia admisibilitatea în principiu a cererii de revizuire se examinează de către instanţă "fără citarea părţilor" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-07-20) and ceases to have legal effect 45 days later, on 2015-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 542/2015](../../../jurisprudenta/ccr/2015/542/)**, Monitorul Oficial nr. 707 din 21 septembrie 2015 · art. 431 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 431 alin. (1) din Codul de procedură penală \[…\] şi constată că soluţia legislativă potrivit căreia admisibilitatea în principiu a contestaţiei în anulare se examinează de către instanţă "fără citarea părţilor" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-09-21) and ceases to have legal effect 45 days later, on 2015-11-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 552/2015](../../../jurisprudenta/ccr/2015/552/)**, Monitorul Oficial nr. 707 din 21 septembrie 2015 · art. 3 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în art. 3 alin. (3) teza a doua din Codul de procedură penală conform căreia exercitarea funcţiei de verificare a legalităţii netrimiterii în judecată este compatibilă cu exercitarea funcţiei de judecată este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-09-21) and ceases to have legal effect 45 days later, on 2015-11-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 496/2015](../../../jurisprudenta/ccr/2015/496/)**, Monitorul Oficial nr. 708 din 22 septembrie 2015 · art. 335 alin. (4) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 335 alin. (4) din Codul de procedură penală, excepţie ridicată direct de Avocatul Poporului, şi constată că soluţia legislativă potrivit căreia judecătorul de cameră preliminară hotărăşte "fără participarea procurorului şi a suspectului sau, după caz, a inculpatului" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-09-22) and ceases to have legal effect 45 days later, on 2015-11-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 631/2015](../../../jurisprudenta/ccr/2015/631/)**, Monitorul Oficial nr. 831 din 6 noiembrie 2015 · art. 347 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în art. 347 alin. (1) din Codul de procedură penală potrivit căreia numai "procurorul şi inculpatul" pot face contestaţie cu privire la modul de soluţionare a cererilor şi a excepţiilor, precum şi împotriva soluţiilor prevăzute la art. 346 alin. (3)-(5) este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-11-06) and ceases to have legal effect 45 days later, on 2015-12-21, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 591/2015](../../../jurisprudenta/ccr/2015/591/)**, Monitorul Oficial nr. 861 din 19 noiembrie 2015 · art. 440 alin. (2) · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 440 alin. (2) din Codul de procedură penală \[…\] şi constată că sintagma "dacă cererea este vădit nefondată" din cuprinsul acestora este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-11-19) and ceases to have legal effect 45 days later, on 2016-01-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 126/2016](../../../jurisprudenta/ccr/2016/126/)**, Monitorul Oficial nr. 185 din 11 martie 2016 · art. 453 alin. (1) lit. f) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în art. 453 alin. (1) lit. f) din Codul de procedură penală, care nu limitează cazul de revizuire la cauza în care a fost invocată excepţia de neconstituţionalitate, este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-03-11) and ceases to have legal effect 45 days later, on 2016-04-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 51/2016](../../../jurisprudenta/ccr/2016/51/)**, Monitorul Oficial nr. 190 din 14 martie 2016 · art. 142 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma "ori de alte organe specializate ale statului" din cuprinsul dispoziţiilor art. 142 alin. (1) din Codul de procedură penală este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-03-14) and ceases to have legal effect 45 days later, on 2016-04-28, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 24/2016](../../../jurisprudenta/ccr/2016/24/)**, Monitorul Oficial nr. 276 din 12 aprilie 2016 · art. 250 alin. (6) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în art. 250 alin. (6) din Codul de procedură penală care nu permite şi contestarea luării măsurii asigurătorii de către judecătorul de cameră preliminară ori de către instanţa de judecată este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-04-12) and ceases to have legal effect 45 days later, on 2016-05-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 501/2016](../../../jurisprudenta/ccr/2016/501/)**, Monitorul Oficial nr. 733 din 21 septembrie 2016 · art. 428 alin. (1); art. 426 lit. i) · provisions read together with others
+
+  > constată că dispoziţiile art. 428 alin. (1) cu referire la art. 426 lit. i) din Codul de procedură penală sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-09-21) and ceases to have legal effect 45 days later, on 2016-11-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 540/2016](../../../jurisprudenta/ccr/2016/540/)**, Monitorul Oficial nr. 841 din 24 octombrie 2016 · art. 434 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în dispoziţiile art. 434 alin. (1) teza întâi din Codul de procedură penală, care exclude atacarea cu recurs în casaţie a deciziilor pronunţate de Înalta Curte de Casaţie şi Justiţie, ca instanţă de apel, este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-10-24) and ceases to have legal effect 45 days later, on 2016-12-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 625/2016](../../../jurisprudenta/ccr/2016/625/)**, Monitorul Oficial nr. 107 din 7 februarie 2017 · art. 70 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în dispoziţiile art. 70 din Codul de procedură penală, care stabileşte că asupra cererii de recuzare a procurorului \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-02-07) and ceases to have legal effect 45 days later, on 2017-03-24, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 704/2016](../../../jurisprudenta/ccr/2016/704/)**, Monitorul Oficial nr. 158 din 2 martie 2017 · art. 227 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă care exclude aplicarea dispoziţiilor art. 227 din Codul de procedură penală este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-03-02) and ceases to have legal effect 45 days later, on 2017-04-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 22/2017](../../../jurisprudenta/ccr/2017/22/)**, Monitorul Oficial nr. 159 din 3 martie 2017 · art. 220 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că este neconstituţională soluţia legislativă reglementată de dispoziţiile art. 220 alin. (1) din Codul de procedură penală, care permite luarea măsurii arestului la domiciliu, în condiţiile în care anterior inculpatul a fost arestat preventiv sau la domiciliu în aceeaşi cauză, în lipsa unor temeiuri noi care fac necesară privarea sa de libertate.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-03-03) and ceases to have legal effect 45 days later, on 2017-04-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 90/2017](../../../jurisprudenta/ccr/2017/90/)**, Monitorul Oficial nr. 291 din 25 aprilie 2017 · art. 311 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 311 alin. (3) din Codul de procedură penală \[…\] și constată că soluția legislativă care exclude obligația informării suspectului/inculpatului despre schimbarea încadrării juridice este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-04-25) and ceases to have legal effect 45 days later, on 2017-06-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 18/2017](../../../jurisprudenta/ccr/2017/18/)**, Monitorul Oficial nr. 312 din 2 mai 2017 · art. 347 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă cuprinsă în dispoziţiile art. 347 alin. (1) din Codul de procedură penală, în redactarea anterioară modificării prin Legea nr. 75/2016 privind aprobarea Ordonanţei de urgenţă a Guvernului nr. 82/2014 pentru modificarea şi completarea Legii nr. 135/2010 privind Codul de procedură penală, care exclude posibilitatea de a face contestaţie împotriva soluţiei prevăzute la art. 346 alin. (2), este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-05-02) and ceases to have legal effect 45 days later, on 2017-06-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 257/2017](../../../jurisprudenta/ccr/2017/257/)**, Monitorul Oficial nr. 472 din 22 iunie 2017 · art. 21 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „în termenul prevăzut la art. 20 alin. (1)“ din cuprinsul art. 21 alin. (1) din Codul de procedură penală este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-06-22) and ceases to have legal effect 45 days later, on 2017-08-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 244/2017](../../../jurisprudenta/ccr/2017/244/)**, Monitorul Oficial nr. 529 din 6 iulie 2017 · art. 145 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 145 din Codul de procedură penală, care nu permite contestarea legalității măsurii supravegherii tehnice de către persoana vizată de aceasta, care nu are calitatea de inculpat, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-06) and ceases to have legal effect 45 days later, on 2017-08-20, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 302/2017](../../../jurisprudenta/ccr/2017/302/)**, Monitorul Oficial nr. 566 din 17 iulie 2017 · art. 281 alin. (1) lit. b) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 281 alin. (1) lit. b) din Codul de procedură penală, care nu reglementează în categoria nulităților absolute încălcarea dispozițiilor referitoare la competența materială și după calitatea persoanei a organului de urmărire penală, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-17) and ceases to have legal effect 45 days later, on 2017-08-31, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 437/2017](../../../jurisprudenta/ccr/2017/437/)**, Monitorul Oficial nr. 763 din 26 septembrie 2017 · art. 348 alin. (2) · only some words or a sentence inside the provision
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 348 alin. (2) din Codul de procedură penală \[…\] și constată că sintagma „sau, după caz, judecătorul de cameră preliminară de la instanța ierarhic superioară ori completul competent de la Înalta Curte de Casație și Justiție, învestit cu soluționarea contestației“ din cuprinsul acestora este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-09-26) and ceases to have legal effect 45 days later, on 2017-11-10, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 562/2017](../../../jurisprudenta/ccr/2017/562/)**, Monitorul Oficial nr. 837 din 23 octombrie 2017 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în a rt. 117 alin. (1) lit. a) și lit. b) din Codul de procedură penală, care exclude de la dreptul de a refuza să fie audiate în calitate de martor persoanele care au stabilit relații asemănătoare acelora dintre soți, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-10-23) and ceases to have legal effect 45 days later, on 2017-12-07, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 554/2017](../../../jurisprudenta/ccr/2017/554/)**, Monitorul Oficial nr. 1013 din 21 decembrie 2017 · art. 282 alin. (2) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 282 alin. (2) din Codul de procedură penală, care nu permite invocarea din oficiu a nulității relative, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-12-21) and ceases to have legal effect 45 days later, on 2018-02-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 802/2017](../../../jurisprudenta/ccr/2017/802/)**, Monitorul Oficial nr. 116 din 6 februarie 2018 · art. 345 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 345 alin. (1) din Codul de procedură penală, care nu permite judecătorului de cameră preliminară, în soluționarea cererilor și excepțiilor formulate ori excepțiilor ridicate din oficiu, să administreze alte mijloace de probă în afara „oricăror înscrisuri noi prezentate“ este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-02-06) and ceases to have legal effect 45 days later, on 2018-03-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 21/2018](../../../jurisprudenta/ccr/2018/21/)**, Monitorul Oficial nr. 175 din 23 februarie 2018 · art. 352 alin. (11); art. 352 alin. (12) · only some words or a sentence inside the provision
+
+  > constată că sintagma „instanța solicită“ cu raportare la sintagma „permiterea accesului la cele clasificate de către apărătorul inculpatului“ din cuprinsul dispozițiilor art. 352 alin. (11) din Codul de procedură penală este neconstituțională. \[…\] constată că sintagma „autoritatea emitentă“ din cuprinsul dispozițiilor art. 352 alin. (12) din Codul de procedură penală este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-02-23) and ceases to have legal effect 45 days later, on 2018-04-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 79/2018](../../../jurisprudenta/ccr/2018/79/)**, Monitorul Oficial nr. 399 din 9 mai 2018 · art. 215^1 alin. (8) · only some words or a sentence inside the provision
+
+  > constată că sintagma „în primă instanță“ cuprinsă în art. 215^1 alin. (8) din Codul de procedură penală este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-05-09) and ceases to have legal effect 45 days later, on 2018-06-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 354/2018](../../../jurisprudenta/ccr/2018/354/)**, Monitorul Oficial nr. 579 din 9 iulie 2018 · art. 252^3 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 252^3 alin. (3) teza finală din Codul de procedură penală care nu permite, în cursul judecății, contestarea luării de către instanță a măsurii valorificării bunurilor mobile sechestrate este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-07-09) and ceases to have legal effect 45 days later, on 2018-08-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 651/2018](../../../jurisprudenta/ccr/2018/651/)**, Monitorul Oficial nr. 1083 din 20 decembrie 2018 · art. 595 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 595 alin. (1) din Codul de procedură penală, care nu prevede și decizia Curții Constituționale prin care se constată neconstituționalitatea unei norme de incriminare ca un caz de înlăturare sau modificare a pedepsei/măsurii educative, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-12-20) and ceases to have legal effect 45 days later, on 2019-02-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 243/2019](../../../jurisprudenta/ccr/2019/243/)**, Monitorul Oficial nr. 429 din 30 mai 2019 · art. 341 alin. (9) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 341 alin. (9) din Codul de procedură penală, care exclude posibilitatea de a face contestație împotriva încheierii judecătorului de cameră preliminară cu privire la dispoziția de începere a judecății referitor la faptele și persoanele pentru care, în cursul cercetării penale, a fost pusă în mișcare acțiunea penală, pronunțată în temeiul art. 341 alin. (7) pct. 2 lit. c) din Codul de procedură penală, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-05-30) and ceases to have legal effect 45 days later, on 2019-07-14, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 87/2019](../../../jurisprudenta/ccr/2019/87/)**, Monitorul Oficial nr. 498 din 19 iunie 2019 · art. 174 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 174 alin. (1) din Codul de procedură penală, care nu prevede aplicarea cazurilor de incompatibilitate prevăzute de art. 64 din același act normativ și în ceea ce îl privește pe specialistul care funcționează în cadrul organelor judiciare sau din afara acestora, care efectuează constatarea potrivit art. 172 alin. (10) din Codul de procedură penală, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-19) and ceases to have legal effect 45 days later, on 2019-08-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 88/2019](../../../jurisprudenta/ccr/2019/88/)**, Monitorul Oficial nr. 499 din 20 iunie 2019 · art. 281 alin. (4) lit. a) · provisions read together with others
+
+  > constată că dispozițiile art. 281 alin. (4) lit. a) din Codul de procedură penală raportat la art. 281 alin. (1) lit. f) din același act normativ sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-20) and ceases to have legal effect 45 days later, on 2019-08-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 535/2019](../../../jurisprudenta/ccr/2019/535/)**, Monitorul Oficial nr. 1026 din 20 decembrie 2019 · art. 589 alin. (1) lit. b) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 589 alin. (1) lit. b) fraza întâi teza a doua din Codul de procedură penală, care exclude bărbatul condamnat care are un copil mai mic de un an de la posibilitatea amânării executării pedepsei închisorii sau a detențiunii pe viață, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-12-20) and ceases to have legal effect 45 days later, on 2020-02-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 236/2020](../../../jurisprudenta/ccr/2020/236/)**, Monitorul Oficial nr. 597 din 8 iulie 2020 · art. 118 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 118 din Codul de procedură penală, care nu reglementează dreptul martorului la tăcere și la neautoincriminare, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-08) and ceases to have legal effect 45 days later, on 2020-08-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 421/2020](../../../jurisprudenta/ccr/2020/421/)**, Monitorul Oficial nr. 661 din 27 iulie 2020 · art. 146^1 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în dispozițiile art. 146^1 din Codul de procedură penală, care nu permite contestarea legalității măsurii referitoare la obținerea datelor privind tranzacțiile financiare ale unei persoane de către persoana vizată de aceasta, care nu are calitatea de inculpat, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-27) and ceases to have legal effect 45 days later, on 2020-09-10, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 102/2021](../../../jurisprudenta/ccr/2021/102/)**, Monitorul Oficial nr. 357 din 7 aprilie 2021 · art. 52 alin. (3) · only some words or a sentence inside the provision
+
+  > constată că sintagma „cu excepția împrejurărilor care privesc existența infracțiunii“ din cuprinsul dispozițiilor art. 52 alin. (3) din Codul de procedură penală este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-04-07) and ceases to have legal effect 45 days later, on 2021-05-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 136/2021](../../../jurisprudenta/ccr/2021/136/)**, Monitorul Oficial nr. 494 din 12 mai 2021 · art. 539 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă din cuprinsul art. 539 din Codul de procedură penală care exclude dreptul la repararea pagubei în cazul privării de libertate dispuse în cursul procesului penal soluționat prin clasare, conform art. 16 alin. (1) lit. a)-d) din Codul de procedură penală, sau achitare este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-12) and ceases to have legal effect 45 days later, on 2021-06-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 175/2022](../../../jurisprudenta/ccr/2022/175/)**, Monitorul Oficial nr. 450 din 5 mai 2022 · art. 117 alin. (1) lit. a) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 117 alin. (1) lit. a) din Codul de procedură penală, care exclude de la dreptul de a refuza să fie audiate în calitate de martor persoanele care au stabilit relații asemănătoare acelora dintre părinți și copii, în cazul în care conviețuiesc cu suspectul sau inculpatul, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-05-05) and ceases to have legal effect 45 days later, on 2022-06-19, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 357/2022](../../../jurisprudenta/ccr/2022/357/)**, Monitorul Oficial nr. 1061 din 2 noiembrie 2022 · art. 248 alin. (5) · only some words or a sentence inside the provision
+
+  > constată că dispozițiile art. 248 alin. (5) din Codul de procedură penală, precum și sintagma „ia măsuri pentru efectuarea unei expertize medico-legale psihiatrice, dacă aceasta nu a fost făcută potrivit alin. (2)“, cuprinsă în art. 248 alin. (9) din același act normativ, sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-11-02) and ceases to have legal effect 45 days later, on 2022-12-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 50/2025](../../../jurisprudenta/ccr/2025/50/)**, Monitorul Oficial nr. 328 din 11 aprilie 2025 · art. 438 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă din cuprinsul art. 438 alin. (1) pct. 8 din Codul de procedură penală care exclude inculpatul de la dreptul de a formula recurs în casație în ipoteza în care în mod greșit nu a fost dispusă încetarea procesului penal este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-04-11) and ceases to have legal effect 45 days later, on 2025-05-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

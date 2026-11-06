@@ -16,3 +16,13 @@ Act id: `legea-230-2007` (tags `legea-230-2007/<day>`; `python tools/on.py <day>
 - Legea nr. 230/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Art. II din LEGEA nr. 175 din 16 iulie 2010, publicată în MO».
 - Legea nr. 230/2007: 2 changed article(s) with no note naming a law, committed as the publisher's: 2011-06-16 art-013, 2015-03-15 art-042.
 - Legea nr. 230/2007: forms with no change after normalisation, so no version: 2011-08-01 (140651).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 670/2011](../../../jurisprudenta/ccr/2011/670/)**, Monitorul Oficial nr. 421 din 16 iunie 2011 · art. 26 · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 26 din Legea nr. 230/2007 privind înfiinţarea, organizarea şi funcţionarea asociaţiilor de proprietari şi constată că sintagma "de la adoptarea acesteia" este neconstituţională \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-06-16) and ceases to have legal effect 45 days later, on 2011-07-31, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

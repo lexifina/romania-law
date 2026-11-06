@@ -22,3 +22,13 @@ Act id: `oug-1-2013` (tags `oug-1-2013/<day>`; `python tools/on.py <day> oug-1-2
 - OUG nr. 1/2013: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 4 such paragraphs across all forms, for example «Conform art. 147 din CONSTITUȚIA ROMÂNIEI republicată în MON», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 437 din 29 octombrie», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 463 din 17 septembri».
 - OUG nr. 1/2013: 1 changed article(s) with no note naming a law, committed as the publisher's: 2014-11-04 art-001.
 - OUG nr. 1/2013: forms with no change after normalisation, so no version: 2013-11-07 (161639), 2014-09-25 (161641), 2021-03-17 (239368), 2021-05-01 (247114).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 43/2021](../../../jurisprudenta/ccr/2021/43/)**, Monitorul Oficial nr. 269 din 17 martie 2021 · art. IV alin. (2) · unconstitutional only to the extent stated ("în măsura în care")
+
+  > constată că sintagma „la data înscrierii inițiale la pensie“ din cuprinsul art. IV alin. (2) din Ordonanța de urgență a Guvernului nr. 1/2013 pentru modificarea și completarea Legii nr. 263/2010 privind sistemul unitar de pensii publice este constituțională, în ceea ce privește beneficiarii pensiilor de invaliditate, în măsura în care se interpretează că se referă la stabilirea pensiei pentru limită de vârstă prin aplicarea, pentru prima oară, a condițiilor de vârstă legală de pensionare și stagiu complet de cotizare prevăzute de Legea nr. 263/2010.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-03-17) and ceases to have legal effect 45 days later, on 2021-05-01, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

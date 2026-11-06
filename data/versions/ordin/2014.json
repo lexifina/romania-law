@@ -7788,6 +7788,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-4808-2014",
+   "path": "ordin/educatie/2014/4808",
+   "short": "Ordin educatie nr. 4808/2014",
+   "title": "Ordinul nr. 4.808/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162538",
+   "versions": [
+    {
+     "from": "2014-10-29",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/162538",
+     "sha256": "63928208bb5f98f3fcb2c07b4a4031a3305006fb239731aa587fdaaa3741c0e5"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-4810-2014",
    "path": "ordin/educatie/2014/4810",
    "short": "Ordin educatie nr. 4810/2014",
@@ -9164,6 +9179,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/156436",
      "sha256": "6c7199ee2880b98630f85283624a02b8e383b543969755f71aec17a96c10e42b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-491-2014",
+   "path": "ordin/finante/2014/491",
+   "short": "Ordin finante nr. 491/2014",
+   "title": "Ordinul nr. 491/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157168",
+   "versions": [
+    {
+     "from": "2014-04-07",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250407101509id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/157168",
+     "sha256": "295850c84ca807639ad523a2d9f498a8b04e9c7d301e2615a1cb2b0449cb29f1"
     }
    ]
   },

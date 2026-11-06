@@ -12009,6 +12009,33 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-2409-2020",
+"path": "ordin/economie/2020/2409",
+"kind": "ordin",
+"year": "2020",
+"number": "2409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.409/2020 ORDIN nr. 2.409/3.501/2020 pentru aprobarea Normelor metodologice privind organizarea, funcționarea, rolul, atribuțiile, acreditarea și reacreditarea centrelor naționale și locale de informare și promovare turistică",
+"short": "Ordin economie nr. 2409/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-08-28",
+"latest": "2020-08-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/229605",
+"issuer": "economie",
+"joint": [
+{
+"issuer": "dezvoltare",
+"nr": "3501",
+"date": "2020-07-28",
+"name": "Ministerul Lucrărilor Publice, Dezvoltării și Administrației",
+"alias": "ordin-dezvoltare-3501-2020"
+}
+]
+},
+{
 "slug": "ordin-economie-2654-2020",
 "path": "ordin/economie/2020/2654",
 "kind": "ordin",
@@ -13641,6 +13668,25 @@
 "from": "2020-06-11",
 "latest": "2020-06-11",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226713",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "ordin-educatie-4523-2020",
+"path": "ordin/educatie/2020/4523",
+"kind": "ordin",
+"year": "2020",
+"number": "4523",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.523/2020 pentru aprobarea Normelor metodologice privind procedura de avizare a acordului de primire pentru cercetătorii străini în scopul desfășurării în România de activități de cercetare-dezvoltare-inovare",
+"short": "Ordin educatie nr. 4523/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/227019",
 "issuer": "educatie",
 "joint": []
 },
@@ -15479,6 +15525,33 @@
 ]
 },
 {
+"slug": "ordin-finante-1780-2020",
+"path": "ordin/finante/2020/1780",
+"kind": "ordin",
+"year": "2020",
+"number": "1780",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.780/2020 ORDIN nr. 1.780/2.805/2020 pentru stabilirea valorii sumei indexate care se acordă sub formă de tichete culturale pentru intervalul calendaristic cuprins între data de 1 aprilie 2020 și data de 31 iulie 2020",
+"short": "Ordin finante nr. 1780/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-06",
+"latest": "2020-04-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224675",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "cultura",
+"nr": "2805",
+"date": "2020-03-31",
+"name": "Ministerul Culturii",
+"alias": "ordin-cultura-2805-2020"
+}
+]
+},
+{
 "slug": "ordin-finante-1793-2020",
 "path": "ordin/finante/2020/1793",
 "kind": "ordin",
@@ -16396,6 +16469,25 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-3155-2020",
+"path": "ordin/finante/2020/3155",
+"kind": "ordin",
+"year": "2020",
+"number": "3155",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.155/2020 pentru aprobarea Normelor metodologice privind încheierea exercițiului bugetar al anului 2020",
+"short": "Ordin finante nr. 3155/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235370",
+"issuer": "finante",
+"joint": []
+},
+{
 "slug": "ordin-finante-3179-2020",
 "path": "ordin/finante/2020/3179",
 "kind": "ordin",
@@ -16685,6 +16777,60 @@
 ]
 },
 {
+"slug": "ordin-fonduri-1092-2020",
+"path": "ordin/fonduri/2020/1092",
+"kind": "ordin",
+"year": "2020",
+"number": "1092",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.092/2020 ORDIN nr. 1.092/2.083/2020 privind aprobarea Schemei de ajutor de minimis pentru creșterea contribuției sectorului TIC pentru competitivitatea economică, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", din cadrul Programului operațional Competitivitate 2014-2020",
+"short": "Ordin fonduri nr. 1092/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230685",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "adr",
+"nr": "2083",
+"date": "2020-09-11",
+"name": "Autoritatea pentru Digitalizarea României",
+"alias": "ordin-adr-2083-2020"
+}
+]
+},
+{
+"slug": "ordin-fonduri-1093-2020",
+"path": "ordin/fonduri/2020/1093",
+"kind": "ordin",
+"year": "2020",
+"number": "1093",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.093/2020 ORDIN nr. 1.093/2.082/2020 privind aprobarea Schemei de ajutor de stat pentru sprijinirea dezvoltării de produse și servicii TIC inovative create de IMM-uri, în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.1 \"Sprijinirea creșterii valorii adăugate generate de sectorul TIC și a inovării în domeniu prin dezvoltarea de clustere\", apelul 3, din Programul operațional Competitivitate 2014-2020",
+"short": "Ordin fonduri nr. 1093/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/230018",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "adr",
+"nr": "2082",
+"date": "2020-09-11",
+"name": "Autoritatea pentru Digitalizarea României",
+"alias": "ordin-adr-2082-2020"
+}
+]
+},
+{
 "slug": "ordin-fonduri-1182-2020",
 "path": "ordin/fonduri/2020/1182",
 "kind": "ordin",
@@ -16740,6 +16886,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/255363",
 "issuer": "fonduri",
 "joint": []
+},
+{
+"slug": "ordin-fonduri-1486-2020",
+"path": "ordin/fonduri/2020/1486",
+"kind": "ordin",
+"year": "2020",
+"number": "1486",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.486/2020 ORDIN nr. 1.486/4.255/2020 pentru aprobarea Schemei de ajutor de minimis Digitalizarea IMM-urilor în cadrul axei prioritare 2, prioritatea de investiție 2b - Dezvoltarea produselor și serviciilor TIC, a comerțului electronic și a cererii de TIC, acțiunea 2.2.2 \"Digitalizarea IMM-urilor\" din cadrul Programului operațional Competitivitate 2014-2020",
+"short": "Ordin fonduri nr. 1486/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235527",
+"issuer": "fonduri",
+"joint": [
+{
+"issuer": "adr",
+"nr": "4255",
+"date": "2020-12-08",
+"name": "Autoritatea pentru Digitalizarea României",
+"alias": "ordin-adr-4255-2020"
+}
+]
 },
 {
 "slug": "ordin-fonduri-1526-2020",
@@ -20628,6 +20801,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-1477-2020",
+"path": "ordin/munca/2020/1477",
+"kind": "ordin",
+"year": "2020",
+"number": "1477",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.477/2020 ORDIN nr. 1.477/1.056/2020 privind modificarea și completarea Clasificării ocupațiilor din România - nivel de ocupație (șase caractere), aprobată prin Ordinul ministrului muncii, familiei și protecției sociale și al președintelui Institutului Național de Statistică nr. 1.832/856/2011",
+"short": "Ordin munca nr. 1477/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-10-20",
+"latest": "2020-10-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/231549",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "ins",
+"nr": "1056",
+"date": "2020-10-14",
+"name": "Institutul Național de Statistică",
+"alias": "ordin-ins-1056-2020"
+}
+]
+},
+{
 "slug": "ordin-munca-1600-2020",
 "path": "ordin/munca/2020/1600",
 "kind": "ordin",
@@ -21479,6 +21679,33 @@
 ]
 },
 {
+"slug": "ordin-sanatate-502-2020",
+"path": "ordin/sanatate/2020/502",
+"kind": "ordin",
+"year": "2020",
+"number": "502",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 502/2020 ORDIN nr. 502/417/2020 pentru modificarea și completarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017",
+"short": "Ordin sanatate nr. 502/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-27",
+"latest": "2020-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224445",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "417",
+"date": "2020-03-23",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-417-2020"
+}
+]
+},
+{
 "slug": "ordin-sanatate-503-2020",
 "path": "ordin/sanatate/2020/503",
 "kind": "ordin",
@@ -21574,6 +21801,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-537-2020",
+"path": "ordin/sanatate/2020/537",
+"kind": "ordin",
+"year": "2020",
+"number": "537",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 537/2020 pentru completarea Ordinului ministrului sănătății nr. 1.009/2016 privind înregistrarea dispozitivelor medicale în baza națională de date",
+"short": "Ordin sanatate nr. 537/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224522",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-538-2020",
 "path": "ordin/sanatate/2020/538",
 "kind": "ordin",
@@ -21591,6 +21837,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224523",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-539-2020",
+"path": "ordin/sanatate/2020/539",
+"kind": "ordin",
+"year": "2020",
+"number": "539",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 539/2020 ORDIN nr. 539/437/2020 pentru prelungirea aplicării prevederilor Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 397/836/2018 privind aprobarea Normelor metodologice de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019, pentru prorogarea unor termene și pentru stabilirea unor măsuri în domeniul sănătății pe perioada instituirii stării de urgență pe teritoriul României",
+"short": "Ordin sanatate nr. 539/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-03-31",
+"latest": "2020-03-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224524",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "437",
+"date": "2020-03-31",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-437-2020"
+}
+]
 },
 {
 "slug": "ordin-sanatate-540-2020",
@@ -21941,6 +22214,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/224892",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-633-2020",
+"path": "ordin/sanatate/2020/633",
+"kind": "ordin",
+"year": "2020",
+"number": "633",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 633/2020 ORDIN nr. 633/470/2020 pentru modificarea și completarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017",
+"short": "Ordin sanatate nr. 633/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-04-16",
+"latest": "2020-04-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/224903",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "470",
+"date": "2020-04-16",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-470-2020"
+}
+]
 },
 {
 "slug": "ordin-sanatate-634-2020",
@@ -22589,6 +22889,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226019",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-866-2020",
+"path": "ordin/sanatate/2020/866",
+"kind": "ordin",
+"year": "2020",
+"number": "866",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 866/2020 ORDIN nr. 866/649/2020 privind modificarea și completarea anexei nr. 1 la Ordinul ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.301/500/2008 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008",
+"short": "Ordin sanatate nr. 866/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-01",
+"latest": "2020-06-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226124",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "649",
+"date": "2020-05-25",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-649-2020"
+}
+]
 },
 {
 "slug": "ordin-sanatate-872-2020",
@@ -25205,6 +25532,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2007-2020",
+"path": "ordin/sanatate/2020/2007",
+"kind": "ordin",
+"year": "2020",
+"number": "2007",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.007/2020 pentru modificarea și completarea Ordinului ministrului sănătății nr. 555/2020 privind aprobarea Planului de măsuri pentru pregătirea spitalelor în contextul epidemiei de coronavirus COVID-19, a Listei spitalelor care asigură asistența medicală pacienților testați pozitiv cu virusul SARS-CoV-2 în faza I și în faza a II-a și a Listei cu spitalele de suport pentru pacienții testați pozitiv sau suspecți cu virusul SARS-CoV-2",
+"short": "Ordin sanatate nr. 2007/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-11-18",
+"latest": "2020-11-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/233398",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-2008-2020",
 "path": "ordin/sanatate/2020/2008",
 "kind": "ordin",
@@ -25819,6 +26165,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2231-2020",
+"path": "ordin/sanatate/2020/2231",
+"kind": "ordin",
+"year": "2020",
+"number": "2231",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.231/2020 ORDIN nr. 2.231/1.213/2020 privind modificarea și completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.822/1.105/2020 pentru punerea în aplicare a prevederilor art. IV alin. (2) și (5) din Ordonanța de urgență a Guvernului nr. 180/2020 pentru modificarea și completarea Legii nr. 136/2020 privind instituirea unor măsuri în domeniul sănătății publice în situații de risc epidemiologic și biologic, a Ordonanței de urgență a Guvernului nr. 158/200 5 privind concediile și indemnizațiile de asigurări sociale de sănătate, precum și pentru stabilirea unor măsuri cu privire la acordarea concediilor medicale",
+"short": "Ordin sanatate nr. 2231/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-12-28",
+"latest": "2020-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235670",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1213",
+"date": "2020-12-22",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1213-2020"
+}
+]
+},
+{
 "slug": "ordin-sanatate-2232-2020",
 "path": "ordin/sanatate/2020/2232",
 "kind": "ordin",
@@ -25874,6 +26247,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/235792",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-2242-2020",
+"path": "ordin/sanatate/2020/2242",
+"kind": "ordin",
+"year": "2020",
+"number": "2242",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.242/2020 ORDIN nr. 2.242/1.230/2020 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 2242/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-01-04",
+"latest": "2021-01-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/235884",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1230",
+"date": "2020-12-30",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1230-2020"
+}
+]
 },
 {
 "slug": "ordin-sanatate-5271-2020",
@@ -27200,6 +27600,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/226970",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1082-2020",
+"path": "ordin/transporturi/2020/1082",
+"kind": "ordin",
+"year": "2020",
+"number": "1082",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.082/2020 ORDIN nr. 1.082/97/1.112/2020 privind măsuri și reguli în domeniul transporturilor, pe perioada stării de alertă, pentru prevenirea răspândirii COVID-19",
+"short": "Ordin transporturi nr. 1082/2020",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2020-06-19",
+"latest": "2020-06-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/226891",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "interne",
+"nr": "97",
+"date": "2020-06-18",
+"name": "Ministerul Afacerilor Interne",
+"alias": "ordin-interne-97-2020"
+},
+{
+"issuer": "sanatate",
+"nr": "1112",
+"date": "2020-06-18",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-1112-2020"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1098-2020",

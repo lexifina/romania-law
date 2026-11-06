@@ -13338,6 +13338,21 @@
    ]
   },
   {
+   "slug": "ordin-justitie-627-c-2004",
+   "path": "ordin/justitie/2004/627-c",
+   "short": "Ordin justitie nr. 627/C/2004",
+   "title": "Ordinul nr. 627/C/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50906",
+   "versions": [
+    {
+     "from": "2004-04-01",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406130344id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/50906",
+     "sha256": "5532d06a9044e85c03cb1a17e90e24f41ccba94113ff4d77512221b0dc744c3c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-mediu-1-2004",
    "path": "ordin/mediu/2004/1",
    "short": "Ordin mediu nr. 1/2004",

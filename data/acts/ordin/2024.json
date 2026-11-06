@@ -6182,6 +6182,61 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-197-2024",
+"path": "ordin/ansvsa/2024/197",
+"kind": "ordin",
+"year": "2024",
+"number": "197",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 197/2024 ORDIN nr. 197/2024/2/4/6/2025/52.526/2024/108/2025 privind modificarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor, al ministrului administrației și internelor, al ministrului mediului și gospodăririi apelor, al ministrului transporturilor, construcțiilor și turismului și al ministrului agriculturii, pădurilor și dezvoltării rurale nr. 30/366/337/1.511/577/2004 pentru aprobarea Listei posturilor de inspecție la frontieră, a punctelor de control, a punctelor de intrare și a punctelor de ieșire în care sunt organizate controale sanitar-veterinare și pentru siguranța alimentelor, precum și programul de lucru al acestora",
+"short": "Ordin ansvsa nr. 197/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293790",
+"issuer": "ansvsa",
+"joint": [
+{
+"issuer": "agricultura",
+"nr": "2",
+"date": "2025-01-09",
+"name": "Ministerul Agriculturii și Dezvoltării Rurale",
+"alias": "ordin-agricultura-2-2025"
+},
+{
+"issuer": "interne",
+"nr": "4",
+"date": "2025-01-13",
+"name": "Ministerul Afacerilor Interne",
+"alias": "ordin-interne-4-2025"
+},
+{
+"issuer": "transporturi",
+"nr": "6",
+"date": "2025-01-10",
+"name": "Ministerul Transporturilor și Infrastructurii",
+"alias": "ordin-transporturi-6-2025"
+},
+{
+"issuer": "vama",
+"nr": "52526",
+"date": "2024-12-31",
+"name": "Autoritatea Vamală Română",
+"alias": "ordin-vama-52526-2024"
+},
+{
+"issuer": "mediu",
+"nr": "108",
+"date": "2025-01-16",
+"name": "Ministerul Mediului, Apelor și Pădurilor",
+"alias": "ordin-mediu-108-2025"
+}
+]
+},
+{
 "slug": "ordin-antidoping-116-2024",
 "path": "ordin/antidoping/2024/116",
 "kind": "ordin",
@@ -18590,6 +18645,25 @@
 "joint": []
 },
 {
+"slug": "ordin-justitie-2938-c-2024",
+"path": "ordin/justitie/2024/2938-c",
+"kind": "ordin",
+"year": "2024",
+"number": "2938-c",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.938/C/2024 privind măsurile și procedurile pentru punerea în aplicare a Clasificării activităților din economia națională - CAEN Rev. 3, în ceea ce privește persoanele fizice și juridice supuse înregistrării în registrul comerțului, și pentru modificarea anexelor nr. 2a și 2b la Ordinul ministrului justiției nr. 5.307/C/2022 pentru aprobarea formatului formularului-tip de act constitutiv, a formatului cererii de înregistrare, a formatului, a elementelor de siguranță și a structurii certificatului de înregistrare, în formă letrică și electronică, a modelului declarației-tip pe propria răspundere cu privire la îndeplinirea condițiilor de funcționare/desfășurare a activității, a modelului certificatului constatator privind înregistrarea declarației pe propria răspundere cu privire la îndeplinirea condițiilor de funcționare/desfășurare a activității și a structurii identificatorului unic la nivel european - EUID",
+"short": "Ordin justitie nr. 2938/C/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-12-30",
+"latest": "2024-12-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293274",
+"issuer": "justitie",
+"joint": []
+},
+{
 "slug": "ordin-mediu-15-2024",
 "path": "ordin/mediu/2024/15",
 "kind": "ordin",
@@ -19879,6 +19953,25 @@
 "joint": []
 },
 {
+"slug": "ordin-mediu-2070-2024",
+"path": "ordin/mediu/2024/2070",
+"kind": "ordin",
+"year": "2024",
+"number": "2070",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.070/2024 pentru modificarea Metodologiei privind organizarea și funcționarea aplicațiilor SUMAL 2.0, obligațiile utilizatorilor SUMAL 2.0, structura și modalitatea de transmitere a informațiilor standardizate și costurile serviciilor de emitere a avizelor de însoțire pentru situațiile prevăzute la art. 11 din Normele referitoare la proveniența, circulația și comercializarea materialelor lemnoase, la regimul spațiilor de depozitare a materialelor lemnoase și al instalațiilor de prelucrat lemn rotund, precum și cele privind proveniența și circulația materialelor lemnoase destinate consumului propriu al proprietarului și unele măsuri de aplicare a prevederilor Regulamentului (UE) nr. 995/2010 al Parlamentului European și al Consiliului din 20 octombrie 2010 de stabilire a obligațiilor care revin operatorilor care introduc pe piață lemn și produse din lemn, aprobate prin Hotărârea Guvernului nr. 497/2020, aprobată prin Ordinul ministrului mediului, apelor și pădurilor nr. 118/2021",
+"short": "Ordin mediu nr. 2070/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289432",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-2087-2024",
 "path": "ordin/mediu/2024/2087",
 "kind": "ordin",
@@ -20397,6 +20490,33 @@
 ]
 },
 {
+"slug": "ordin-munca-632-2024",
+"path": "ordin/munca/2024/632",
+"kind": "ordin",
+"year": "2024",
+"number": "632",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 632/2024 ORDIN nr. 632/4.092/2024 privind completarea Listei specializărilor și a perfecționărilor pentru care furnizorii de formare profesională a adulților au dreptul să organizeze programe de formare profesională finalizate cu certificate de absolvire cu recunoaștere națională pentru absolvenții de studii universitare, prevăzută în anexa la Ordinul ministrului muncii și justiției sociale și al ministrului educației naționale nr. 1.151/4.115/2018",
+"short": "Ordin munca nr. 632/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283040",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "educatie",
+"nr": "4092",
+"date": "2024-03-29",
+"name": "Ministerul Educației",
+"alias": "ordin-educatie-4092-2024"
+}
+]
+},
+{
 "slug": "ordin-munca-634-2024",
 "path": "ordin/munca/2024/634",
 "kind": "ordin",
@@ -20682,6 +20802,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289937",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-2079-2024",
+"path": "ordin/munca/2024/2079",
+"kind": "ordin",
+"year": "2024",
+"number": "2079",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.079/2024 ORDIN nr. 2.079/1.928/2024 privind modificarea Procedurii de actualizare a Clasificării ocupațiilor din România, aprobată prin Ordinul ministrului muncii și solidarității sociale și al președintelui Institutului Național de Statistică nr. 37/83/2022",
+"short": "Ordin munca nr. 2079/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-13",
+"latest": "2024-11-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/290601",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "ins",
+"nr": "1928",
+"date": "2024-09-13",
+"name": "Institutul Național de Statistică",
+"alias": "ordin-ins-1928-2024"
+}
+]
 },
 {
 "slug": "ordin-munca-2489-2024",
@@ -21502,6 +21649,33 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1404-2024",
+"path": "ordin/sanatate/2024/1404",
+"kind": "ordin",
+"year": "2024",
+"number": "1404",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.404/2024 ORDIN nr. 1.404/247/2024 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 1404/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-03-12",
+"latest": "2024-03-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/279924",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "247",
+"date": "2024-02-29",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-247-2024"
+}
+]
+},
+{
 "slug": "ordin-sanatate-1424-2024",
 "path": "ordin/sanatate/2024/1424",
 "kind": "ordin",
@@ -21738,6 +21912,40 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-1705-2024",
+"path": "ordin/sanatate/2024/1705",
+"kind": "ordin",
+"year": "2024",
+"number": "1705",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.705/2024 ORDIN nr. 1.705/826/90/2024 pentru modificarea și completarea Ordinului ministrului sănătății, al ministrului mediului și pădurilor și al președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 10/368/11/2010 privind aprobarea procedurii de avizare a produselor biocide care sunt plasate pe piață pe teritoriul României",
+"short": "Ordin sanatate nr. 1705/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/283011",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "mediu",
+"nr": "826",
+"date": "2024-04-11",
+"name": "Ministerul Mediului, Apelor și Pădurilor",
+"alias": "ordin-mediu-826-2024"
+},
+{
+"issuer": "ansvsa",
+"nr": "90",
+"date": "2024-05-09",
+"name": "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+"alias": "ordin-ansvsa-90-2024"
+}
+]
+},
+{
 "slug": "ordin-sanatate-1706-2024",
 "path": "ordin/sanatate/2024/1706",
 "kind": "ordin",
@@ -21774,6 +21982,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/281087",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-1718-2024",
+"path": "ordin/sanatate/2024/1718",
+"kind": "ordin",
+"year": "2024",
+"number": "1718",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.718/2024 ORDIN nr. 1.718/319/2024 privind modificarea și completarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.857/441/2023",
+"short": "Ordin sanatate nr. 1718/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-04-05",
+"latest": "2024-04-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/281088",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "319",
+"date": "2024-03-29",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-319-2024"
+}
+]
 },
 {
 "slug": "ordin-sanatate-1908-2024",
@@ -22360,6 +22595,87 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3687-2024",
+"path": "ordin/sanatate/2024/3687",
+"kind": "ordin",
+"year": "2024",
+"number": "3687",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.687/2024 ORDIN nr. 3687/776/2024 pentru modificarea Ordinului ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.782/576/2006 privind înregistrarea și raportarea statistică a pacienților care primesc servicii medicale în regim de spitalizare continuă și spitalizare de zi",
+"short": "Ordin sanatate nr. 3687/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284648",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "776",
+"date": "2024-06-25",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-776-2024"
+}
+]
+},
+{
+"slug": "ordin-sanatate-3688-2024",
+"path": "ordin/sanatate/2024/3688",
+"kind": "ordin",
+"year": "2024",
+"number": "3688",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.688/2024 ORDIN nr. 3.688/777/2024 pentru modificarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 2.168/502/2023 privind aprobarea modelului unic al biletului de trimitere pentru investigații paraclinice utilizat în sistemul asigurărilor sociale de sănătate și a Instrucțiunilor privind utilizarea și modul de completare a biletului de trimitere pentru investigații paraclinice utilizat în sistemul asigurărilor sociale de sănătate",
+"short": "Ordin sanatate nr. 3688/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284638",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "777",
+"date": "2024-06-25",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-777-2024"
+}
+]
+},
+{
+"slug": "ordin-sanatate-3689-2024",
+"path": "ordin/sanatate/2024/3689",
+"kind": "ordin",
+"year": "2024",
+"number": "3689",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.689/2024 ORDIN nr. 3.689/778/2024 pentru modificarea și completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 867/541/2011 privind aprobarea modelului unic al biletului de trimitere pentru servicii medicale clinice/biletului de internare utilizat în sistemul asigurărilor sociale de sănătate și a Instrucțiunilor privind utilizarea și modul de completare a biletului de trimitere pentru servicii medicale clinice/biletului de internare utilizat în sistemul asigurărilor sociale de sănătate",
+"short": "Ordin sanatate nr. 3689/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/284645",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "778",
+"date": "2024-06-25",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-778-2024"
+}
+]
+},
+{
 "slug": "ordin-sanatate-3691-2024",
 "path": "ordin/sanatate/2024/3691",
 "kind": "ordin",
@@ -22878,6 +23194,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-4396-2024",
+"path": "ordin/sanatate/2024/4396",
+"kind": "ordin",
+"year": "2024",
+"number": "4396",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.396/2024 ORDIN nr. 4.396/1.355/2024 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008, și a normelor metodologice privind implementarea acestora",
+"short": "Ordin sanatate nr. 4396/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-09-05",
+"latest": "2024-09-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/288092",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1355",
+"date": "2024-09-02",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1355-2024"
+}
+]
+},
+{
 "slug": "ordin-sanatate-4403-2024",
 "path": "ordin/sanatate/2024/4403",
 "kind": "ordin",
@@ -22895,6 +23238,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/288196",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-4408-2024",
+"path": "ordin/sanatate/2024/4408",
+"kind": "ordin",
+"year": "2024",
+"number": "4408",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.408/2024 ORDIN nr. 4.408/1.297/2024 pentru modificarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 2.168/502/2023 privind aprobarea modelului unic al biletului de trimitere pentru investigații paraclinice utilizat în sistemul asigurărilor sociale de sănătate și a Instrucțiunilor privind utilizarea și modul de completare a biletului de trimitere pentru investigații paraclinice utilizat în sistemul asigurărilor sociale de sănătate",
+"short": "Ordin sanatate nr. 4408/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287884",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1297",
+"date": "2024-08-29",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1297-2024"
+}
+]
+},
+{
+"slug": "ordin-sanatate-4409-2024",
+"path": "ordin/sanatate/2024/4409",
+"kind": "ordin",
+"year": "2024",
+"number": "4409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.409/2024 ORDIN nr. 4.409/1.298/2024 pentru modificarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 867/541/2011 privind aprobarea modelului unic al biletului de trimitere pentru servicii medicale clinice/biletului de internare utilizat în sistemul asigurărilor sociale de sănătate și a Instrucțiunilor privind utilizarea și modul de completare a biletului de trimitere pentru servicii medicale clinice/biletului de internare utilizat în sistemul asigurărilor sociale de sănătate",
+"short": "Ordin sanatate nr. 4409/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-08-30",
+"latest": "2024-08-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/287886",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1298",
+"date": "2024-08-29",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1298-2024"
+}
+]
 },
 {
 "slug": "ordin-sanatate-4410-2024",
@@ -23179,6 +23576,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/289737",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-4966-2024",
+"path": "ordin/sanatate/2024/4966",
+"kind": "ordin",
+"year": "2024",
+"number": "4966",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.966/2024 ORDIN nr. 4.966/1.680/2024 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 4966/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-10-08",
+"latest": "2024-10-08",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/289227",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1680",
+"date": "2024-09-27",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1680-2024"
+}
+]
 },
 {
 "slug": "ordin-sanatate-5027-2024",
@@ -23653,6 +24077,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-5813-2024",
+"path": "ordin/sanatate/2024/5813",
+"kind": "ordin",
+"year": "2024",
+"number": "5813",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 5.813/2024 ORDIN nr. 5.813/56/2024 privind aprobarea Metodologiei de raportare, colectare și prelucrare a datelor, inclusiv a datelor cu caracter personal, privind stocurile, operațiunile comerciale, prescrierea și eliberarea medicamentelor de uz uman, precum și a datelor privind distribuția acestora în afara teritoriului României, operatorii asociați și persoanele împuternicite de către operator, condițiile și limitele de acces la datele cu caracter personal, măsurile și garanțiile privind securitatea și confidențialitatea datelor și informațiilor din Sistemul electronic de raportare, precum și modul de îndeplinire a măsurilor necesare în vederea informării persoanelor vizate asupra operațiunilor de prelucrare și modul de exercitare a drepturilor persoanelor vizate, în conformitate cu dispozițiile art. 804^1 alin. (7) din Legea nr. 95/2006 privind reforma în domeniul sănătății",
+"short": "Ordin sanatate nr. 5813/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293033",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "sts",
+"nr": "56",
+"date": "2024-12-12",
+"name": "Serviciul de Telecomunicații Speciale",
+"alias": "ordin-sts-56-2024"
+}
+]
+},
+{
 "slug": "ordin-sanatate-5825-2024",
 "path": "ordin/sanatate/2024/5825",
 "kind": "ordin",
@@ -23990,6 +24441,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/292986",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-6328-2024",
+"path": "ordin/sanatate/2024/6328",
+"kind": "ordin",
+"year": "2024",
+"number": "6328",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.328/2024 ORDIN nr. 6.328/2192/2024 privind modificarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008, și a normelor metodologice privind implementarea acestora",
+"short": "Ordin sanatate nr. 6328/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-03",
+"latest": "2025-01-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293135",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "2192",
+"date": "2024-12-30",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-2192-2024"
+}
+]
 },
 {
 "slug": "ordin-smap-62-2024",
@@ -25474,6 +25952,25 @@
 "from": "2024-11-18",
 "latest": "2024-11-18",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/291037",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-3850-2024",
+"path": "ordin/transporturi/2024/3850",
+"kind": "ordin",
+"year": "2024",
+"number": "3850",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.850/2024 pentru aprobarea Reglementărilor privind condițiile de instalare, reparare și inspecție a tahografelor utilizate în transporturile rutiere ori a limitatoarelor de viteză care echipează autovehiculele, precum și autorizarea operatorilor economici care desfășoară astfel de activități - RNTR 8",
+"short": "Ordin transporturi nr. 3850/2024",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-11-27",
+"latest": "2024-11-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/291396",
 "issuer": "transporturi",
 "joint": []
 },

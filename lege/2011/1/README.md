@@ -1383,3 +1383,25 @@ These changes were first published credited to another law. The words are unchan
 - `art-363.md`, in force from 2023-09-03: Legea nr. 199/2023 (first published as no law named).
 - `art-364.md`, in force from 2023-09-03: Legea nr. 199/2023 (first published as no law named).
 - `art-365.md`, in force from 2023-09-03: Legea nr. 199/2023 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 669/2014](../../../jurisprudenta/ccr/2014/669/)**, Monitorul Oficial nr. 59 din 23 ianuarie 2015 · art. 18 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că dispoziţiile art. 9 alin. (2) teza întâi din Legea învăţământului nr. 84/1995 şi art. 18 alin. (2) teza întâi din Legea educaţiei naţionale nr. 1/2011 sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-01-23) and ceases to have legal effect 45 days later, on 2015-03-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 657/2019](../../../jurisprudenta/ccr/2019/657/)**, Monitorul Oficial nr. 882 din 1 noiembrie 2019 · art. 84 alin. (3) · only some words or a sentence inside the provision
+
+  > constată că sintagma „pe bază de abonament“, cuprinsă în art. 84 alin. (3) din Legea educației naționale nr. 1/2011 este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-11-01) and ceases to have legal effect 45 days later, on 2019-12-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 642/2024](../../../jurisprudenta/ccr/2024/642/)**, Monitorul Oficial nr. 66 din 27 ianuarie 2025 · art. 82 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „de stat“ din cuprinsul dispozițiilor art. 82 alin. (1) din Legea educației naționale nr. 1/2011, anterior modificării prin art. I pct. 3 din Ordonanța de urgență a Guvernului nr. 69/2022 pentru modificarea și completarea Legii educației naționale nr. 1/2011 și prorogarea unor termene, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-01-27) and ceases to have legal effect 45 days later, on 2025-03-13, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

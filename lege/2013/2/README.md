@@ -46,3 +46,13 @@ Act id: `legea-2-2013` (tags `legea-2-2013/<day>`; `python tools/on.py <day> leg
 - Legea nr. 2/2013: articles of other acts printed among this act's articles are not its text: «Articolul 10^1» beginning «Prin derogare de la dispozițiile Ordonanței Guvernului nr. 2/2001».
 - Legea nr. 2/2013: 27 changed article(s) with no note naming a law, committed as the publisher's: 2014-09-27 art-001, 2014-09-27 art-003, 2014-09-27 art-004, 2014-09-27 art-005, 2014-09-27 art-006, 2014-09-27 art-007, 2014-09-27 art-008, 2014-09-27 art-010, 2014-09-27 art-015, 2014-09-27 art-016, 2014-09-27 art-020, 2014-09-27 art-021, 2016-12-15 art-003, 2017-07-20 art-001, 2017-07-20 art-003, 2017-07-20 art-004, 2017-07-20 art-005, 2017-07-20 art-006, 2017-07-20 art-007, 2017-07-20 art-008, 2017-07-20 art-010, 2017-07-20 art-012, 2017-07-20 art-013, 2017-07-20 art-018, 2017-07-20 art-019, 2017-07-20 art-020, 2017-07-20 art-021.
 - Legea nr. 2/2013: forms with no change after normalisation, so no version: 2021-11-01 (247131).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 369/2017](../../../jurisprudenta/ccr/2017/369/)**, Monitorul Oficial nr. 582 din 20 iulie 2017 · art. XVIII alin. (2) · only some words or a sentence inside the provision
+
+  > constată că sintagma „precum și în alte cereri evaluabile în bani în valoare de până la 1.000.000 lei inclusiv“ cuprinsă în art. XVIII alin. (2) din Legea nr. 2/2013 privind unele măsuri pentru degrevarea instanțelor judecătorești, precum și pentru pregătirea punerii în aplicare a Legii nr. 134/2010 privind Codul de procedură civilă este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-20) and ceases to have legal effect 45 days later, on 2017-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

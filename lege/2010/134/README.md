@@ -1906,3 +1906,37 @@ These changes were first published credited to another law. The words are unchan
 - `art-0331.md`, in force from 2025-05-15: Legea nr. 139/2024 (first published as no law named).
 - `art-1026.md`, in force from 2025-05-15: Legea nr. 57/2025 (first published as no law named).
 - `art-0150.md`, in force from 2025-12-14: Legea nr. 216/2025 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 485/2015](../../../jurisprudenta/ccr/2015/485/)**, Monitorul Oficial nr. 539 din 20 iulie 2015 · art. 13 alin. (2); art. 84 alin. (2); art. 486 alin. (3) · provisions read together with others
+
+  > constată că dispoziţiile art. 13 alin. (2) teza a doua, ale art. 84 alin. (2), precum şi ale art. 486 alin. (3) din Codul de procedură civilă, cu referire la menţiunile care decurg din obligativitatea formulării şi susţinerii cererii de recurs de către persoanele juridice prin avocat sau consilier juridic, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-07-20) and ceases to have legal effect 45 days later, on 2015-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 866/2015](../../../jurisprudenta/ccr/2015/866/)**, Monitorul Oficial nr. 69 din 1 februarie 2016 · art. 509 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma "pronunţate asupra fondului sau care evocă fondul" din cuprinsul dispoziţiilor art. 509 alin. (1) din Codul de procedură civilă este neconstituţională cu referire la motivul de revizuire prevăzut la pct. 11 din cuprinsul acestora.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-02-01) and ceases to have legal effect 45 days later, on 2016-03-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 290/2018](../../../jurisprudenta/ccr/2018/290/)**, Monitorul Oficial nr. 638 din 23 iulie 2018 · art. 127 alin. (1); art. 127 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că sintagma „de competența instanței la care își desfășoară activitatea“ din cuprinsul art. 127 alin. (1) din Codul de procedură civilă, precum și sintagma „care își desfășoară activitatea la instanța competentă să judece cauza“ din cuprinsul art. 127 alin. (2) din Codul de procedură civilă sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-07-23) and ceases to have legal effect 45 days later, on 2018-09-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 832/2021](../../../jurisprudenta/ccr/2021/832/)**, Monitorul Oficial nr. 430 din 3 mai 2022 · art. 323 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „întocmai și literal“ din cuprinsul art. 323 alin. (1) din Codul de procedură civilă, astfel cum acesta a fost modificat prin dispozițiile art. I pct. 35 din Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-05-03) and ceases to have legal effect 45 days later, on 2022-06-17, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 279/2022](../../../jurisprudenta/ccr/2022/279/)**, Monitorul Oficial nr. 676 din 6 iulie 2022 · art. 321 alin. (7) · only some words or a sentence inside the provision
+
+  > constată că sintagma „literal“ din cuprinsul art. 321 alin. (7) din Codul de procedură civilă, astfel cum acesta a fost modificat prin art. I pct. 33 din Legea nr. 310/2018 pentru modificarea și completarea Legii nr. 134/2010 privind Codul de procedură civilă, precum și pentru modificarea și completarea altor acte normative, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-07-06) and ceases to have legal effect 45 days later, on 2022-08-20, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

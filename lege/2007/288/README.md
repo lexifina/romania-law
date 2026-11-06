@@ -22,3 +22,13 @@ Act id: `legea-288-2007` (tags `legea-288-2007/<day>`; `python tools/on.py <day>
 - Legea nr. 288/2007: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 1 such paragraphs across all forms, for example «Art. II și-a încetat efectele juridice potrivit DECIZIEI CUR».
 - Legea nr. 288/2007: 2 changed article(s) with no note naming a law, committed as the publisher's: 2008-07-16 art-001, 2009-02-06 art-002.
 - Legea nr. 288/2007: forms with no change after normalisation, so no version: 2008-08-30 (215171), 2008-12-23 (215172).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1345/2008](../../../jurisprudenta/ccr/2008/1345/)**, Monitorul Oficial nr. 873 din 23 decembrie 2008 · art. II · only some words or a sentence inside the provision
+
+  > Admite excepția de neconstituționalitate a prevederilor art. II din Legea nr. 288/2007 potrivit cărora "Dispozițiile prezentei legi privind \[...\], precum și acțiunea în stabilirea paternității copilului din afara căsătoriei, sunt aplicabile și în cazul copiilor născuți înainte de intrarea sa în vigoare, chiar dacă cererea este în curs de judecată" \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-12-23) and ceases to have legal effect 45 days later, on 2009-02-06, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

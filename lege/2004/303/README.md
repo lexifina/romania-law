@@ -367,3 +367,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-111.md`, in force from 2022-12-16: Legea nr. 303/2022 (first published as no law named).
 - `art-112.md`, in force from 2022-12-16: Legea nr. 303/2022 (first published as no law named).
 - `art-113.md`, in force from 2022-12-16: Legea nr. 303/2022 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 588/2017](../../../jurisprudenta/ccr/2017/588/)**, Monitorul Oficial nr. 835 din 20 octombrie 2017 · art. 58 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 58 alin. (1) din Legea nr. 303/2004 privind statutul judecătorilor și procurorilor \[…\] și constată că soluția legislativă care nu precizează condițiile încetării detașării judecătorilor sau procurorilor este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-10-20) and ceases to have legal effect 45 days later, on 2017-12-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

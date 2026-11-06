@@ -89,3 +89,13 @@ Act id: `legea-346-2006` (tags `legea-346-2006/<day>`; `python tools/on.py <day>
 - Legea nr. 346/2006: the base text is missing. The law as first published is not held: the page of the portal shows the law as republished (Monitorul Oficial nr. 867 of 2017-11-02), not the text as first published, and the portal lists no consolidated form of it. The record starts at the text held, the republication, dated 2017-11-02, credited to the publisher as the oldest version available; any change made before that day is already in it. No enacted version is made up; the enactment is kept in the act's metadata (the precedent of the Codul familiei 1953 and Hotărârea Guvernului nr. 395/2016). The editorial notes printed in the text (the changes later laws made) are kept as notes, not as the text of the articles.
 - Legea nr. 346/2006: the signature block after the last article is not part of an article and is left out, as in every act of this record.
 - Legea nr. 346/2006: the words the checker counts as lost on the portal pages come from the portal's notes on amended or repealed provisions ("... abrogat la ..."), from the article numbers of the amending acts quoted there, or from the EU-transposition note; none is text of an article of this act, so they are left out.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 391/2019](../../../jurisprudenta/ccr/2019/391/)**, Monitorul Oficial nr. 510 din 24 iunie 2019 · art. 39 alin. (5) · only some words or a sentence inside the provision
+
+  > constată că sintagma „cu posibilitatea de prelungire cu până la un an“ din cuprinsul art. 39 alin. (5) din Legea nr. 346/2006 privind organizarea și funcționarea Ministerului Apărării Naționale este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-06-24) and ceases to have legal effect 45 days later, on 2019-08-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

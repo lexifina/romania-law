@@ -2004,3 +2004,37 @@ These changes were first published credited to another law. The words are unchan
 - `art-733.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
 - `art-734.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
 - `art-735.md`, in force from 2013-02-15: Legea nr. 76/2012 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1/1995](../../../jurisprudenta/ccr/1995/1/)**, Monitorul Oficial nr. 66 din 11 aprilie 1995 · art. 45 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > constata ca art. 45 alin. 1 din Codul de procedură civilă este neconstitutional în ce priveşte limitarea dreptului procurorului de a participa numai la procese privind "apărarea drepturilor şi intereselor legitime ale minorilor şi ale persoanelor puse sub interdicţia, precum şi în alte cazuri prevăzute de lege", urmînd ca în privinta acestei atribuţii să se aplice direct art. 130 alin. (1) din Constituţie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-04-11. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 73/1996](../../../jurisprudenta/ccr/1996/73/)**, Monitorul Oficial nr. 255 din 22 octombrie 1996 · art. 330^2 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 330^2 alin. 1 din Codul de procedură civilă \[…\]
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1996-10-22. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 11/1999](../../../jurisprudenta/ccr/1999/11/)**, Monitorul Oficial nr. 136 din 1 aprilie 1999 · art. 22 alin. (5) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţia art. 22 alin. 5 din Codul de procedură civilă, conform căreia termenul pentru exercitarea dreptului de recurs curge de la pronunţarea hotărârii care conţine regulatorul de competenţa, este neconstitutionala.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-04-01; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 194/2004](../../../jurisprudenta/ccr/2004/194/)**, Monitorul Oficial nr. 523 din 10 iunie 2004 · art. 308 alin. (4) · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 308 alin. 4 din Codul de procedură civilă, modificate şi completate prin Ordonanţa de urgenţă a Guvernului nr. 58/2003 \[…\] şi constată că acest text de lege este neconstituţional în partea exprimată prin sintagma "pronunţată fără citarea părţilor".
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2004-06-10) and ceases to have legal effect 45 days later, on 2004-07-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 303/2009](../../../jurisprudenta/ccr/2009/303/)**, Monitorul Oficial nr. 239 din 10 aprilie 2009 · art. 288 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că dispoziţiile art. 288 alin. 2 teza finală, "sub sancţiunea nulităţii", din Codul de procedură civilă sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-04-10) and ceases to have legal effect 45 days later, on 2009-05-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

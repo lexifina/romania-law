@@ -1023,6 +1023,21 @@
    ]
   },
   {
+   "slug": "ordin-aaas-58-2002",
+   "path": "ordin/aaas/2002/58",
+   "short": "Ordin aaas nr. 58/2002",
+   "title": "Ordinul nr. 58/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/38299",
+   "versions": [
+    {
+     "from": "2002-09-06",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/38299",
+     "sha256": "cd489e421463707411ab0e84bd42ff7ad137aa53327a20bb918927c17d62563c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-aaas-59-2002",
    "path": "ordin/aaas/2002/59",
    "short": "Ordin aaas nr. 59/2002",
@@ -3764,6 +3779,21 @@
      "units": 26,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36378",
      "sha256": "8b44fd9415c8b748b163636c35372b35a2c67ca3963a20336b438ee167aa298b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-46-2002",
+   "path": "ordin/agricultura/2002/46",
+   "short": "Ordin agricultura nr. 46/2002",
+   "title": "Ordinul nr. 46/2002 privind stabilirea speciilor de animale, a categoriilor de producție și greutății minime admise pentru export în anul 2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33913",
+   "versions": [
+    {
+     "from": "2002-02-07",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33913",
+     "sha256": "4664e17378d6153bd8ad1461a8459a884f628a96dfb37fc3c45fdaa9dffa314b"
     }
    ]
   },

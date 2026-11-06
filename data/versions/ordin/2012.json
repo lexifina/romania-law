@@ -1608,6 +1608,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-1529-2012",
+   "path": "ordin/anaf/2012/1529",
+   "short": "Ordin anaf nr. 1529/2012",
+   "title": "Ordinul nr. 1.529/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142045",
+   "versions": [
+    {
+     "from": "2012-10-16",
+     "units": 9,
+     "source_url": "https://web.archive.org/web/20250407101312id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/142045",
+     "sha256": "901e0d58effc8d95a1bde743d4a5181336eaa5dc29e444d781306e429b69a859"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-155-2012",
    "path": "ordin/anaf/2012/155",
    "short": "Ordin anaf nr. 155/2012",
@@ -5474,6 +5489,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135253",
      "sha256": "666a69212cd5046f3306df82df4bea7dccd434e66b74276050bcf29d35a38400"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-277-2012",
+   "path": "ordin/dezvoltare/2012/277",
+   "short": "Ordin dezvoltare nr. 277/2012",
+   "title": "Ordinul nr. 277/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
+   "versions": [
+    {
+     "from": "2012-04-02",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20250406232730id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/136801",
+     "sha256": "5473f93cb46feb811136c848c3e3209a75386dacd5a783d5fba29eb22914c201"
     }
    ]
   },
@@ -9513,6 +9543,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-257-2012",
+   "path": "ordin/interne/2012/257",
+   "short": "Ordin interne nr. 257/2012",
+   "title": "Ordinul nr. 257/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/142819",
+   "versions": [
+    {
+     "from": "2012-11-15",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406112905id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/142819",
+     "sha256": "ce3a0e2bcfc182e7ab8bf263115074d412f36bb7fed3e1e5b605798bdf7a36b9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-258-2012",
    "path": "ordin/interne/2012/258",
    "short": "Ordin interne nr. 258/2012",
@@ -11418,6 +11463,21 @@
    ]
   },
   {
+   "slug": "ordin-munca-409-2012",
+   "path": "ordin/munca/2012/409",
+   "short": "Ordin munca nr. 409/2012",
+   "title": "Ordinul nr. 409/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136461",
+   "versions": [
+    {
+     "from": "2012-03-22",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407144742id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/136461",
+     "sha256": "142ae87a10b77a03084e6ef2b511ab194aa384d440bc901ef650a543b17cfe18"
+    }
+   ]
+  },
+  {
    "slug": "ordin-munca-655-2012",
    "path": "ordin/munca/2012/655",
    "short": "Ordin munca nr. 655/2012",
@@ -13274,6 +13334,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139837",
      "sha256": "5c8405ccd8e16a7e7dbed1a24b898a4fa60de00f679f4cb981fb0b0f7f328100"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1110-2012",
+   "path": "ordin/transporturi/2012/1110",
+   "short": "Ordin transporturi nr. 1110/2012",
+   "title": "Ordinul nr. 1.110/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/140198",
+   "versions": [
+    {
+     "from": "2012-08-02",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406203857id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/140198",
+     "sha256": "35acb792dfb8727820ac1cd5dcdca731cd739674a5eab1cff6a4f8da61c51938"
     }
    ]
   },

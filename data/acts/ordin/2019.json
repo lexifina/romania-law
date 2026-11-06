@@ -2197,6 +2197,25 @@
 "joint": []
 },
 {
+"slug": "ordin-ancpi-867-2019",
+"path": "ordin/ancpi/2019/867",
+"kind": "ordin",
+"year": "2019",
+"number": "867",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 867/2019 privind modificarea și completarea Procedurii și modalității de alocare a sumelor, precum și raportarea de către beneficiari a stadiului de execuție a lucrărilor pentru lucrările de înregistrare sistematică inițiate de unitățile administrativ-teritoriale, aprobată prin Ordinul directorului general al Agenției Naționale de Cadastru și Publicitate Imobiliară nr. 819/2016",
+"short": "Ordin ancpi nr. 867/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-04-02",
+"latest": "2019-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/212312",
+"issuer": "ancpi",
+"joint": []
+},
+{
 "slug": "ordin-ancpi-1020-2019",
 "path": "ordin/ancpi/2019/1020",
 "kind": "ordin",
@@ -8044,6 +8063,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/213407",
 "issuer": "ansvsa",
 "joint": []
+},
+{
+"slug": "ordin-ansvsa-56-2019",
+"path": "ordin/ansvsa/2019/56",
+"kind": "ordin",
+"year": "2019",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 56/2019 ORDIN nr. 56/290/2019 privind modificarea Ordinului președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și al ministrului agriculturii și dezvoltării rurale nr. 129/566/2007 pentru aprobarea Normei privind controalele veterinare și zootehnice aplicabile comerțului intracomunitar cu anumite animale vii și produse de origine animală",
+"short": "Ordin ansvsa nr. 56/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-05-16",
+"latest": "2019-05-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/214020",
+"issuer": "ansvsa",
+"joint": [
+{
+"issuer": "agricultura",
+"nr": "290",
+"date": "2019-05-03",
+"name": "Ministerul Agriculturii și Dezvoltării Rurale",
+"alias": "ordin-agricultura-290-2019"
+}
+]
 },
 {
 "slug": "ordin-ansvsa-67-2019",
@@ -18674,6 +18720,33 @@
 ]
 },
 {
+"slug": "ordin-sanatate-383-2019",
+"path": "ordin/sanatate/2019/383",
+"kind": "ordin",
+"year": "2019",
+"number": "383",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 383/2019 ORDIN nr. 383/274/2019 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 383/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-03-19",
+"latest": "2019-03-19",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/211914",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "274",
+"date": "2019-03-15",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-274-2019"
+}
+]
+},
+{
 "slug": "ordin-sanatate-398-2019",
 "path": "ordin/sanatate/2019/398",
 "kind": "ordin",
@@ -19115,6 +19188,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-841-2019",
+"path": "ordin/sanatate/2019/841",
+"kind": "ordin",
+"year": "2019",
+"number": "841",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 841/2019 ORDIN nr. 841/528/2019 pentru modificarea și completarea anexelor nr. 2 și 4 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 841/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-06-07",
+"latest": "2019-06-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/214848",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "528",
+"date": "2019-05-30",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-528-2019"
+}
+]
+},
+{
 "slug": "ordin-sanatate-856-2019",
 "path": "ordin/sanatate/2019/856",
 "kind": "ordin",
@@ -19184,6 +19284,33 @@
 "date": "2019-07-01",
 "name": "Ministerul Educației Naționale",
 "alias": "ordin-educatie-4362-2019"
+}
+]
+},
+{
+"slug": "ordin-sanatate-980-2019",
+"path": "ordin/sanatate/2019/980",
+"kind": "ordin",
+"year": "2019",
+"number": "980",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 980/2019 ORDIN nr. 980/610/2019 pentru prelungirea aplicării prevederilor Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 397/836/2018 privind aprobarea Normelor metodologice de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019, precum și pentru modificarea și completarea acestuia",
+"short": "Ordin sanatate nr. 980/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-07-01",
+"latest": "2019-07-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/215573",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "610",
+"date": "2019-06-26",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-610-2019"
 }
 ]
 },
@@ -19706,6 +19833,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/218728",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-1483-2019",
+"path": "ordin/sanatate/2019/1483",
+"kind": "ordin",
+"year": "2019",
+"number": "1483",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.483/2019 ORDIN nr. 1.483/884/2019 pentru modificarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 397/836/2018 privind aprobarea Normelor metodologice de aplicare în anul 2018 a Hotărârii Guvernului nr. 140/2018 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2018-2019",
+"short": "Ordin sanatate nr. 1483/2019",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2019-10-07",
+"latest": "2019-10-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/218712",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "884",
+"date": "2019-09-30",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-884-2019"
+}
+]
 },
 {
 "slug": "ordin-sanatate-1522-2019",

@@ -981,3 +981,109 @@ These changes were first published credited to another law. The words are unchan
 - `art-361.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
 - `art-362.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
 - `art-363.md`, in force from 2014-02-01: Legea nr. 187/2012 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 33/1993](../../../jurisprudenta/ccr/1993/33/)**, Monitorul Oficial nr. 278 din 30 noiembrie 1993 · art. 224 · decided before the 2003 revision of the Constitution
+
+  > Constata ca art. 224 din Codul penal a fost abrogat parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acesta urmează a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1993-11-30. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 31/1993](../../../jurisprudenta/ccr/1993/31/)**, Monitorul Oficial nr. 13 din 19 ianuarie 1994 · art. 225 alin. (2) · decided before the 2003 revision of the Constitution
+
+  > Constata ca art. 225 alin. 2 din Codul penal a fost abrogat parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acesta urmează să se aplice numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri care formează obiectul exclusiv al proprietăţii publice, el neputându-se aplică în cazul proprietăţii cooperatiste.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-01-19. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 11/1994](../../../jurisprudenta/ccr/1994/11/)**, Monitorul Oficial nr. 126 din 23 mai 1994 · art. 248 · decided before the 2003 revision of the Constitution
+
+  > Admite excepţia de neconstituţionalitate cu privire la art. 248 din Codul penal şi constata ca dispoziţiile sale referitoare la paguba adusă avutului obştesc sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie, urmînd a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-05-23; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 32/1993](../../../jurisprudenta/ccr/1993/32/)**, Monitorul Oficial nr. 126 din 23 mai 1994 · art. 223 · decided before the 2003 revision of the Constitution
+
+  > Constata ca art. 223 din Codul penal a fost abrogat parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acesta urmează a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-05-23. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 49/1993](../../../jurisprudenta/ccr/1993/49/)**, Monitorul Oficial nr. 126 din 23 mai 1994 · art. 224; art. 234 · decided before the 2003 revision of the Constitution
+
+  > Constata ca dispoziţiile art. 224 şi ale art. 234 din Codul penal au fost abrogate parţial potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acestea urmează să se aplice numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-05-23. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 56/1994](../../../jurisprudenta/ccr/1994/56/)**, Monitorul Oficial nr. 156 din 22 iunie 1994 · art. 229 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 229 din Codul penal sunt abrogate parţial, conform art. 150 alin. (1) din Constituţie, şi, în consecinţa, urmează a se aplică numai cu privire la bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri care fac obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-06-22; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 18/1994](../../../jurisprudenta/ccr/1994/18/)**, Monitorul Oficial nr. 343 din 12 decembrie 1994 · art. 249 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 249 din Codul penal referitoare la paguba adusă avutului obştesc sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acestea urmează a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-12-12. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 81/1994](../../../jurisprudenta/ccr/1994/81/)**, Monitorul Oficial nr. 14 din 25 ianuarie 1995 · art. 200 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > Admite, în parte, excepţia de neconstituţionalitate privind art. 200 alin. 1 din Codul penal \[…\] şi constata ca prevederile acestui alineat sunt neconstituţionale, în măsura în care se aplică relaţiilor sexuale între persoane majore de acelaşi sex, liber consimţite, care nu sunt săvârşite în public ori nu produc scandal public.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-01-25. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 24/1994](../../../jurisprudenta/ccr/1994/24/)**, Monitorul Oficial nr. 29 din 8 februarie 1995 · art. 229 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 229 din Codul penal sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie şi, în consecinţa, acestea urmează a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-02-08. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 52/1994](../../../jurisprudenta/ccr/1994/52/)**, Monitorul Oficial nr. 29 din 8 februarie 1995 · art. 249 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 249 din Codul penal sunt parţial abrogate, potrivit art. 150 alin. (1) din Constituţie, acestea urmînd a se aplică numai cu privire la bunurile prevăzute de art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-02-08. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 128/1994](../../../jurisprudenta/ccr/1994/128/)**, Monitorul Oficial nr. 86 din 8 mai 1995 · art. 60 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile la condamnările pentru infracţiuni contra avutului obştesc ale art. 60 alin. 1 din Codul penal sunt parţial abrogate potrivit art. 150 alin. (1) din Constituţie, urmînd să fie aplicate numai condamnărilor pentru infracţiuni privind bunurile prevăzute în art. 135 alin. (4) din Constituţie, bunuri ce formează obiectul exclusiv al proprietăţii publice, cu aplicarea prealabilă a art. 26 alin. (2) din Legea nr. 47/1992.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1995-05-08. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 463/1997](../../../jurisprudenta/ccr/1997/463/)**, Monitorul Oficial nr. 53 din 6 februarie 1998 · art. 81 alin. (4) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 81 alin. 4 din Codul penal sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-02-06; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 25/1998](../../../jurisprudenta/ccr/1998/25/)**, Monitorul Oficial nr. 143 din 8 aprilie 1998 · art. 86^1 alin. (4) · decided before the 2003 revision of the Constitution
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 86^1 alin. 4 din Codul penal \[…\] şi constata ca aceste dispoziţii sunt neconstituţionale cat priveşte trimiterea la prevederile art. 81 alin. 4 din acelaşi cod.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-04-08; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 177/1998](../../../jurisprudenta/ccr/1998/177/)**, Monitorul Oficial nr. 77 din 24 februarie 1999 · art. 213 alin. (2) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţia "cu excepţia cazului când acesta este în întregime sau în parte al statului", prevăzută la art. 213 alin. 2 din Codul penal, este neconstitutionala.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-02-24; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 5/1999](../../../jurisprudenta/ccr/1999/5/)**, Monitorul Oficial nr. 95 din 5 martie 1999 · art. 214 alin. (3) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţia "cu excepţia cazului când acesta este în întregime sau în parte al statului" prevăzută la art. 214 alin. 3 din Codul penal este neconstitutionala.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-03-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 150/1999](../../../jurisprudenta/ccr/1999/150/)**, Monitorul Oficial nr. 605 din 10 decembrie 1999 · art. 217 alin. (6) · decided before the 2003 revision of the Constitution
+
+  > constata ca este neconstitutionala dispoziţia "cu excepţia cazului când acesta este în întregime sau în parte al statului", prevăzută la art. 217 alin. 6 din Codul penal.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-12-10; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 165/1999](../../../jurisprudenta/ccr/1999/165/)**, Monitorul Oficial nr. 624 din 21 decembrie 1999 · art. 220 alin. (4) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţia "cu excepţia cazului când acesta este întregime sau în parte al statului" din art. 220 alin. 4 din Codul penal este neconstitutionala.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-12-21; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

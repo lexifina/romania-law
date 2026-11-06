@@ -49,3 +49,13 @@ Act id: `og-39-1999` (tags `og-39-1999/<day>`; `python tools/on.py <day> og-39-1
 - OG nr. 39/1999: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2000-09-02 (art-022; form 18.12.2001).
 - OG nr. 39/1999: 3 changed article(s) with no note naming a law, committed as the publisher's: 1999-12-15 art-024, 2001-12-18 art-008, 2003-04-09 art-025.
 - OG nr. 39/1999: forms with no change after normalisation, so no version: 2000-07-04 (205773), 2000-07-05 (205774).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 54/2000](../../../jurisprudenta/ccr/2000/54/)**, Monitorul Oficial nr. 310 din 5 iulie 2000 · art. 5 lit. e) · decided before the 2003 revision of the Constitution
+
+  > Constata ca sunt neconstituționale dispozițiile art. 5 lit. e) din Ordonanța Guvernului nr. 39/1999 privind finalizarea procesului de restructurare a Băncii Române de Comerț Exterior - Bancorex - S.A. și fuziunea prin absorbție a acestei bănci cu Banca Comercială Română - S.A., modificată și completată prin Ordonanța Guvernului nr. 63/1999, Ordonanța de urgenta a Guvernului nr. 126/1999 și prin Ordonanța Guvernului nr. 61/2000.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2000-07-05; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

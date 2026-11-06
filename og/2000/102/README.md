@@ -20,3 +20,13 @@ Act id: `og-102-2000` (tags `og-102-2000/<day>`; `python tools/on.py <day> og-10
 - OG nr. 102/2000: the republication of 1 December 2004 ends with the publisher's note reproducing art. IV of OG nr. 43/2004 ("NOTĂ: Reproducem mai jos prevederile art. IV ..."); it is that ordinance's provision, not this ordinance's text, and is not read as an article.
 - OG nr. 102/2000.
 - OG nr. 102/2000: 33 changed article(s) with no note naming a law, committed as the publisher's: 2003-11-04 art-007, 2003-11-04 art-009, 2003-11-04 art-011, 2003-11-04 art-012, 2003-11-04 art-016, 2003-11-04 art-019, 2003-11-04 art-023, 2003-11-04 art-032, 2003-11-04 art-038, 2003-11-04 art-039, 2003-11-04 art-041, 2004-01-31 art-001, 2004-01-31 art-003, 2004-01-31 art-006, 2004-01-31 art-008, 2004-01-31 art-009, 2004-01-31 art-010, 2004-01-31 art-011, 2004-01-31 art-012, 2004-01-31 art-017, 2004-01-31 art-018, 2004-01-31 art-019, 2004-01-31 art-022, 2004-01-31 art-024, 2004-01-31 art-031, 2004-01-31 art-034, 2004-01-31 art-035, 2004-01-31 art-036, 2004-01-31 art-037, 2004-01-31 art-038, 2004-01-31 art-040, 2004-01-31 art-041, 2004-01-31 art-042.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 176/2001](../../../jurisprudenta/ccr/2001/176/)**, Monitorul Oficial nr. 374 din 11 iulie 2001 · art. 20 alin. (5); art. 21 alin. (6) · decided before the 2003 revision of the Constitution
+
+  > constata ca sunt neconstituţionale dispoziţiile art. 20 alin. (5), precum şi ale art. 21 alin. (6), referitoare la caracterul definitiv şi executoriu de drept al hotărârii judecătoriei, din Ordonanţa Guvernului nr. 102/2000 privind statutul şi regimul refugiatilor în România.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-07-11; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

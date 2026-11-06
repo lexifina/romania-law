@@ -50,3 +50,19 @@ Act id: `legea-255-2010` (tags `legea-255-2010/<day>`; `python tools/on.py <day>
 - Legea nr. 255/2010: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 5 such paragraphs across all forms, for example «La 18-04-2025 Alineatul (6^1) din Articolul 11, Capitolul II», «La 18-04-2025 Alineatul (6^10) din Articolul 11, Capitolul I», «La 18-04-2025 Alineatul (6^3) din Articolul 11, Capitolul II».
 - Legea nr. 255/2010: 11 changed article(s) with no note naming a law, committed as the publisher's: 2014-02-14 art-006, 2015-07-15 art-001, 2015-07-15 art-025, 2015-07-15 art-028, 2015-08-30 art-001, 2015-08-30 art-025, 2015-08-30 art-028, 2016-09-28 art-001, 2016-09-28 art-025, 2016-09-28 art-028, 2016-09-28 art-033.
 - Legea nr. 255/2010: forms with no change after normalisation, so no version: 2017-07-20 (191090), 2017-09-03 (192638), 2019-11-18 (219347), 2025-03-04 (294462).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 380/2015](../../../jurisprudenta/ccr/2015/380/)**, Monitorul Oficial nr. 527 din 15 iulie 2015 · art. 22 alin. (3) · provisions read together with others
+
+  > constată că prevederile art. 22 alin. (3) din Legea nr. 255/2010 privind exproprierea pentru cauză de utilitate publică, necesară realizării unor obiective de interes naţional, judeţean şi local, raportate la sintagma "la data întocmirii raportului de expertiză" cuprinsă în dispoziţiile art. 26 alin. (2) din Legea nr. 33/1994 privind exproprierea pentru cauză de utilitate publică, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-07-15) and ceases to have legal effect 45 days later, on 2015-08-29, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 67/2017](../../../jurisprudenta/ccr/2017/67/)**, Monitorul Oficial nr. 581 din 20 iulie 2017 · art. 14 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 14 din Legea nr. 255/2010, potrivit căreia scoaterea, definitivă ori temporară, din fondul forestier național a terenurilor necesare pentru obiectivele de interes național, județean și local se exceptează de la plata despăgubirilor prevăzute de art. 41 alin. (1) lit. b)-d) și art. 42 alin. (1) lit. b)-d) din Legea nr. 46/2008 - Codul silvic, cuvenite persoanelor fizice și persoanelor juridice private, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-20) and ceases to have legal effect 45 days later, on 2017-09-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -247,7 +247,9 @@ def _replace_block(text: str, old: list[str], new: str) -> str | None:
 
 
 def apply_court_effects(c: dict, folder: Path) -> list[str]:
-    """Adds the court versions of court-effects.json to the corpus; returns what was left out, with the reason."""
+    """Adds the court versions of court-effects.json to the corpus; returns what was left out, with the reason.
+    Also reads the court notes (court_notes(): findings shown in the act's README, its text unchanged)."""
+    c['_court_notes'] = court_notes(folder)
     data = court_effects(folder)
     skipped = []
     if not data:
@@ -309,6 +311,64 @@ def apply_court_effects(c: dict, folder: Path) -> list[str]:
             ch.pop('_ended', None)
         vs.insert(idx + 1, nv)
     return skipped
+
+
+# ---------------------------------------------------------------- Constitutional Court findings noted, not applied
+# (2026-11-06) Findings of unconstitutionality that do not map to striking whole provisions (only
+# some words inside one, a reading "în măsura în care", a "soluție legislativă", provisions read together with others)
+# or that were given before the 2003 revision (no 45-day rule) are listed in the act's README; its text is unchanged.
+# The rows are data/court-notes.csv, published through data-extra.json ("court-notes.csv": the lane's file), so a change
+# to them is a documentation input like any extra data file (caselaw/ccr-complete/tools/court_notes.py writes it).
+
+COURT_NOTES = 'court-notes.csv'
+RO_MONTHS = ['ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie', 'iulie', 'august', 'septembrie', 'octombrie',
+             'noiembrie', 'decembrie']
+NOTE_KINDS = {
+    'phrase': 'only some words or a sentence inside the provision',
+    'before-2003': 'decided before the 2003 revision of the Constitution',
+    'in-part': 'unconstitutional only to the extent stated ("în măsura în care")',
+    'solutie-legislativa': 'a rule read from the text ("soluție legislativă"), not its words',
+    'read-together': 'provisions read together with others',
+}
+
+
+def court_notes(folder: Path) -> dict[str, list[dict]]:
+    """{act folder: [note row, ...]} from the file data-extra.json names as court-notes.csv; {} when there is none."""
+    try:
+        src = json.loads((Path(folder) / 'data-extra.json').read_text(encoding='utf-8')).get(COURT_NOTES)
+        if not src or src == 'REMOVE' or not Path(src).exists():
+            return {}
+        rows = list(csv.DictReader(io.StringIO(Path(src).read_text(encoding='utf-8'))))
+    except (OSError, ValueError):
+        return {}
+    out: dict[str, list[dict]] = {}
+    for r in rows:
+        out.setdefault(r['act_path'], []).append(r)
+    return out
+
+
+def _md(s: str) -> str:
+    """Quoted court text as plain Markdown text (no emphasis, links or HTML read into it)."""
+    return re.sub(r'([\\`*_<>\[\]])', r'\\\1', s)
+
+
+def court_notes_section(where: str, notes: list[dict]) -> list[str]:
+    """The README section for an act's noted findings; `where` is the act's folder (links go up to the repo root)."""
+    if not notes:
+        return []
+    up = '../' * len(where.split('/'))
+    rows = ['', '## Constitutional Court findings not applied to this text', '',
+            'The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as '
+            'struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read '
+            'together with others, or a decision given before the 2003 revision of the Constitution. The text here is '
+            'unchanged; read the decision. `data/court-notes.csv` lists every such finding.']
+    for n in sorted(notes, key=lambda n: (n['mo_date'], n['decision'])):
+        y, mth, d = n['mo_date'].split('-')
+        head = (f'- **[{n["label"]}]({up}{n["decision_folder"]}/)**, Monitorul Oficial nr. {n["mo_number"]} din '
+                f'{int(d)} {RO_MONTHS[int(mth) - 1]} {y}' + (f' · {n["provisions"]}' if n['provisions'] else '') +
+                f' · {NOTE_KINDS.get(n["group"], n["group"])}')
+        rows += ['', head, '', f'  > {_md(n["words"])}', '', f'  {n["effect"]} The text here is unchanged; read the decision.']
+    return rows
 
 
 def validate(c: dict) -> list[str]:
@@ -862,7 +922,9 @@ def tables(c: dict, log: list[dict]) -> dict[str, str]:
                      'still names the commit that wrote them, and `data/credits.csv` lists every corrected credit.', '']
             rows += [f'- `{k}.md`, in force from {d}: {name(r["law"])} (first published as {name(r["was_law"])}).'
                      for (d, k), r in sorted(fixes.items())]
-        out[f'{a.get("path") or a["slug"]}/README.md'] = '\n'.join(rows) + '\n'
+        where = a.get('path') or a['slug']
+        rows += court_notes_section(where, c.get('_court_notes', {}).get(where, []))
+        out[f'{where}/README.md'] = '\n'.join(rows) + '\n'
     return out
 
 

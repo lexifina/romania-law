@@ -48,3 +48,13 @@ Act id: `legea-15-1994` (tags `legea-15-1994/<day>`; `python tools/on.py <day> l
 - Legea nr. 15/1994: the form of 31 August 2003 prints arts. 2, 4-6, 12-14, 16-18 and 24 with diacritics added only, under no note; that is the publisher's typesetting, credited to no law.
 - Legea nr. 15/1994: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2000-01-25 (art-001, art-021; form 31.08.2003); 2000-07-28 (art-011; form 31.08.2003).
 - Legea nr. 15/1994: 11 changed article(s) with no note naming a law, committed as the publisher's: 2003-08-31 art-002, 2003-08-31 art-004, 2003-08-31 art-005, 2003-08-31 art-006, 2003-08-31 art-012, 2003-08-31 art-013, 2003-08-31 art-014, 2003-08-31 art-016, 2003-08-31 art-017, 2003-08-31 art-018, 2003-08-31 art-024.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 101/1995](../../../jurisprudenta/ccr/1995/101/)**, Monitorul Oficial nr. 9 din 17 ianuarie 1996 · art. 34 · decided before the 2003 revision of the Constitution
+
+  > constata ca art. 34 din Legea nr. 15/1994 este neconstitutional.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1996-01-17. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.

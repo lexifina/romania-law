@@ -90,3 +90,25 @@ Act id: `legea-94-1992` (tags `legea-94-1992/<day>`; `python tools/on.py <day> l
 - Legea nr. 94/1992: the consolidator's notes printed inside an article ("*) NOTA C.T.C.E. S.A. Piatra-Neamţ:", quoting another act, with that act's lettered list) are not the act's text and are left out: 32 paragraphs and items across all forms.
 - Legea nr. 94/1992: 15 changed article(s) with no note naming a law, committed as the publisher's: 2002-03-13 art-059, 2002-03-13 art-067, 2002-03-13 art-077, 2002-03-13 art-091, 2002-03-13 art-131, 2005-03-25 art-009, 2005-07-01 art-009, 2006-08-15 art-009, 2008-10-27 art-009, 2008-10-27 art-014-5, 2013-04-01 art-049, 2014-06-16 art-049, 2014-06-16 art-066, 2016-03-19 art-066, 2017-07-01 art-015.
 - Legea nr. 94/1992: forms with no change after normalisation, so no version: 2004-01-19 (60347), 2004-03-05 (60348), 2005-11-12 (98529), 2006-06-30 (98530), 2020-12-31 (234916).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 64/1994](../../../jurisprudenta/ccr/1994/64/)**, Monitorul Oficial nr. 177 din 12 iulie 1994 · art. 1 alin. (1) · decided before the 2003 revision of the Constitution
+
+  > constata ca noţiunea "organ suprem" din art. 1 alin. (1) al Legii nr. 94/1992 este neconstitutionala în ce priveşte activitatea jurisdicţională a Curţii de Conturi.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1994-07-12. The decision was open to appeal (recurs) when given; a decision on appeal may have changed it. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 28/1999](../../../jurisprudenta/ccr/1999/28/)**, Monitorul Oficial nr. 178 din 26 aprilie 1999 · art. 19 lit. d) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 19 lit. d) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-04-26; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 29/1999](../../../jurisprudenta/ccr/1999/29/)**, Monitorul Oficial nr. 261 din 7 iunie 1999 · art. 19 lit. d) · decided before the 2003 revision of the Constitution
+
+  > constata ca prevederile art. 19 lit. d) din Legea nr. 94/1992 privind organizarea şi funcţionarea Curţii de Conturi sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1999-06-07; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

@@ -139,3 +139,19 @@ Act id: `legea-273-2004` (tags `legea-273-2004/<day>`; `python tools/on.py <day>
 - Legea nr. 273/2004: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 23 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 1.435/2004 pentru apro», «* A se vedea Hotărârea Guvernului nr. 1.442/2004 privind ser», «* A se vedea Legea nr. 274/2004 privind înființarea, organiz».
 - Legea nr. 273/2004: 11 changed article(s) with no note naming a law, committed as the publisher's: 2008-09-05 art-035, 2011-12-10 art-029-4, 2014-02-01 art-058, 2014-02-01 art-092, 2016-08-12 art-039, 2018-03-13 art-003, 2018-03-13 art-009, 2018-03-13 art-058, 2018-03-13 art-067, 2018-03-13 art-090, 2021-03-26 art-009.
 - Legea nr. 273/2004: forms with no change after normalisation, so no version: 2008-03-27 (97261), 2008-05-12 (97262), 2023-04-12 (266812).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 369/2008](../../../jurisprudenta/ccr/2008/369/)**, Monitorul Oficial nr. 238 din 27 martie 2008 · art. 35 alin. (2) lit. i); art. 63 alin. (3) · unconstitutional only to the extent stated ("în măsura în care")
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 35 alin. (2) lit. i) teza întâi şi, prin extindere, şi a prevederilor art. 63 alin. (3) şi (4) din Legea nr. 273/2004 privind regimul juridic al adopţiei \[…\] constatând că aceste prevederi contravin art. 20 din Constituţie, raportat la art. 5 paragraful 1 lit. a) şi art. 9 paragraful 1 din Convenţia europeană în materia adopţiei de copii, în măsura în care nu prevăd luarea consimţământului părinţilor fireşti, în faţa instanţei, odată cu soluţionarea cererii de încuviinţare a adopţiei.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2008-03-27) and ceases to have legal effect 45 days later, on 2008-05-11, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 106/2023](../../../jurisprudenta/ccr/2023/106/)**, Monitorul Oficial nr. 310 din 12 aprilie 2023 · art. 31 alin. (3) · only some words or a sentence inside the provision
+
+  > constată că dispozițiile art. 31 alin. (3) fraza a treia din Legea nr. 273/2004 privind procedura adopției sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2023-04-12) and ceases to have legal effect 45 days later, on 2023-05-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

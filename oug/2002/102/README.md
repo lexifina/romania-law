@@ -25,3 +25,13 @@ Act id: `oug-102-2002` (tags `oug-102-2002/<day>`; `python tools/on.py <day> oug
 - OUG nr. 102/2002: articles a form leaves out are shown repealed on the day the repealing act took effect (on publication for an emergency ordinance, 3 days after for a law, unless the act sets its own day), credited to that act as its repeal note names it: art. 3, left out from the form of 15.05.2004: repealed by Legea nr. 149/2004, in force 15.05.2004 (it sets no day of its own: in force 3 days after publication in Monitorul Oficial nr. 424 of 12 May 2004 (Constituția art. 78)); art. 4, left out from the form of 15.05.2004: repealed by Legea nr. 149/2004, in force 15.05.2004 (it sets no day of its own: in force 3 days after publication in Monitorul Oficial nr. 424 of 12 May 2004 (Constituția art. 78)).
 - OUG nr. 102/2002: 1 changed article(s) with no note naming a law, committed as the publisher's: 2003-03-26 art-004.
 - OUG nr. 102/2002: forms with no change after normalisation, so no version: 2003-07-28 (102458), 2003-11-10 (102459).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 259/2003](../../../jurisprudenta/ccr/2003/259/)**, Monitorul Oficial nr. 540 din 28 iulie 2003 · art. 1; art. 3; art. 4 · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 1, 3 şi 4 din Ordonanţa de urgenta a Guvernului nr. 102/2002 privind unele măsuri pentru stimularea cererii de atribuire a folosinţei gratuite şi a investiţiilor în imobilele ce fac obiectul Ordonanţei de urgenta a Guvernului nr. 168/2001 privind punerea în valoare a construcţiilor zootehnice dezafectate, destinate creşterii, ingrasarii şi exploatării animalelor, precum şi a fabricilor de nutreturi combinate dezafectate, aprobată cu modificări şi completări prin Legea nr. 78/2003 , sunt neconstituţionale.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2003-07-28; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

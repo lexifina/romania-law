@@ -39,3 +39,13 @@ Act id: `legea-72-2013` (tags `legea-72-2013/<day>`; `python tools/on.py <day> l
 - Legea nr. 72/2013: the portal prints repeal and change notes just after the article they concern; they are read as that article's notes. The signature block printed after the last article is not part of the article.
 - Legea nr. 72/2013: the portal's first consolidated form (18 December 2015) differs from the law as published only in printing: typing errors of the published text are corrected, and the transposition footnote printed after art. 24 ("Prezenta lege transpune Directiva 2011/7/UE ...") is no longer printed; the next form (1 February 2016) prints art. 20's quoted paragraph (2^1) without its quotation marks. No note names a law for these, so they are committed as the publisher's, not credited to any law.
 - Legea nr. 72/2013: 5 changed article(s) with no note naming a law, committed as the publisher's: 2015-12-18 art-002, 2015-12-18 art-003, 2015-12-18 art-005, 2015-12-18 art-024, 2016-02-01 art-020.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 745/2015](../../../jurisprudenta/ccr/2015/745/)**, Monitorul Oficial nr. 937 din 18 decembrie 2015 · art. 21 · only some words or a sentence inside the provision
+
+  > constată că sintagma "cu excepția prevederilor art. 15" cuprinsă în dispozițiile art. 21 din Legea nr. 72/2013 privind măsurile pentru combaterea întârzierii în executarea obligațiilor de plată a unor sume de bani rezultând din contracte încheiate între profesioniști și între aceștia și autorități contractante este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-12-18) and ceases to have legal effect 45 days later, on 2016-02-01, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

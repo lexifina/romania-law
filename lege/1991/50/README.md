@@ -400,3 +400,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-037.md`, in force from 2026-02-25: OUG nr. 7/2026 (first published as no law named).
 - `art-026.md`, in force from 2026-03-27: OUG nr. 7/2026 (first published as no law named).
 - `art-027.md`, in force from 2026-03-27: OUG nr. 7/2026 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 643/2024](../../../jurisprudenta/ccr/2024/643/)**, Monitorul Oficial nr. 41 din 17 ianuarie 2025 · art. 12 alin. (2); art. 12 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă la art. 12 alin. (2) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, care nu conferă efect suspensiv de drept acțiunii în anulare promovate de prefect împotriva unei autorizații de construire sau de desființare a lucrărilor de construcții, este neconstituțională. \[…\] constată că soluția legislativă cuprinsă la art. 12 alin. (1) din Legea nr. 50/1991 privind autorizarea executării lucrărilor de construcții, care nu permite persoanelor vătămate să atace la instanțele de contencios administrativ o autorizație de construire sau de desființare a lucrărilor de construcții, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-01-17) and ceases to have legal effect 45 days later, on 2025-03-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

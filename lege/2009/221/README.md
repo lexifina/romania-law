@@ -26,3 +26,13 @@ Act id: `legea-221-2009` (tags `legea-221-2009/<day>`; `python tools/on.py <day>
 - Legea nr. 221/2009: Decisions nr. 1.358/2010 and 1.360/2010 of the Constitutional Court (Monitorul Oficial nr. 761 of 15 November 2010), read through the official web service (documents 123582 and 123583), found art. 5 alin. (1) lit. a) teza întâi unconstitutional outright; they set no day, so the provision ceased to have effect 45 days after publication (Constituția art. 147 alin. (1)): 30 December 2010. The form of 7 November 2011 first prints lit. a) as "aplicabilitate încetată", under no note; the change is dated 30 December 2010 (editorial_days) and credited to both decisions (form_credits_all), as ruling 61 dates such a decision by its effect day, not by the later form.
 - Legea nr. 221/2009: changes whose notes give an in-force day between two forms the portal holds are dated by the note, with the later form's text for those articles: 2010-12-30 (art-005; form 07.11.2011).
 - Legea nr. 221/2009: forms with no change after normalisation, so no version: 2010-11-15 (123147).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1358/2010](../../../jurisprudenta/ccr/2010/1358/)**, Monitorul Oficial nr. 761 din 15 noiembrie 2010 · art. 5 alin. (1) lit. a) · only some words or a sentence inside the provision
+
+  > constată că prevederile art. 5 alin. (1) lit. a) teza întâi din Legea nr. 221/2009 privind condamnările cu caracter politic şi măsurile administrative asimilate acestora, pronunţate în perioada 6 martie 1945-22 decembrie 1989, cu modificările şi completările ulterioare, sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2010-11-15) and ceases to have legal effect 45 days later, on 2010-12-30, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

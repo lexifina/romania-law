@@ -1,21 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="553" viewBox="0 0 880 553" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="880" height="553" rx="10" fill="#0d1117" stroke="#3d444d"/>
 <text x="24" y="38" font-size="20" font-weight="600" fill="#e6edf3">Romanian law as a git history</text>
-<text x="856" y="38" font-size="12" text-anchor="end" fill="#9198a1">updated 2026-11-06 12:45 UTC</text>
+<text x="856" y="38" font-size="12" text-anchor="end" fill="#9198a1">updated 2026-11-06 13:47 UTC</text>
 <rect x="24" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
-<text x="36" y="88" font-size="19" font-weight="600" fill="#e6edf3">214,531</text>
+<text x="36" y="88" font-size="19" font-weight="600" fill="#e6edf3">214,732</text>
 <text x="36" y="108" font-size="11.5" fill="#9198a1">acts</text>
 <rect x="166" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
-<text x="178" y="88" font-size="19" font-weight="600" fill="#e6edf3">263,678</text>
+<text x="178" y="88" font-size="19" font-weight="600" fill="#e6edf3">263,884</text>
 <text x="178" y="108" font-size="11.5" fill="#9198a1">changes, as commits</text>
 <rect x="308" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
-<text x="320" y="88" font-size="19" font-weight="600" fill="#e6edf3">503,187</text>
+<text x="320" y="88" font-size="19" font-weight="600" fill="#e6edf3">504,026</text>
 <text x="320" y="108" font-size="11.5" fill="#9198a1">article files</text>
 <rect x="450" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
 <text x="462" y="88" font-size="19" font-weight="600" fill="#e6edf3">25,848</text>
 <text x="462" y="108" font-size="11.5" fill="#9198a1">court rulings</text>
 <rect x="592" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
-<text x="604" y="88" font-size="19" font-weight="600" fill="#e6edf3">225,754</text>
+<text x="604" y="88" font-size="19" font-weight="600" fill="#e6edf3">225,810</text>
 <text x="604" y="108" font-size="11.5" fill="#9198a1">official texts read</text>
 <rect x="734" y="58" width="134" height="64" rx="8" fill="#151b23" stroke="#3d444d"/>
 <text x="746" y="88" font-size="19" font-weight="600" fill="#e6edf3">1863–2026</text>
@@ -23,50 +23,50 @@
 <text x="24" y="150" font-size="13" font-weight="600" fill="#e6edf3">Changes by the year they took effect</text>
 <rect x="25.0" y="291.0" width="19.9" height="5.0" fill="#2b4a75"><title>before 1990: 620</title></rect>
 <text x="34.9" y="310" font-size="10" text-anchor="middle" fill="#9198a1">before 1990</text>
-<rect x="46.9" y="292.4" width="19.9" height="3.6" fill="#4c8ee8"><title>1990: 444</title></rect>
-<rect x="68.8" y="290.0" width="19.9" height="6.0" fill="#4c8ee8"><title>1991: 753</title></rect>
-<rect x="90.7" y="285.8" width="19.9" height="10.2" fill="#4c8ee8"><title>1992: 1,267</title></rect>
-<rect x="112.6" y="286.8" width="19.9" height="9.2" fill="#4c8ee8"><title>1993: 1,149</title></rect>
-<rect x="134.5" y="284.5" width="19.9" height="11.5" fill="#4c8ee8"><title>1994: 1,427</title></rect>
-<rect x="156.4" y="283.7" width="19.9" height="12.3" fill="#4c8ee8"><title>1995: 1,537</title></rect>
+<rect x="46.9" y="292.4" width="19.9" height="3.6" fill="#4c8ee8"><title>1990: 445</title></rect>
+<rect x="68.8" y="289.9" width="19.9" height="6.1" fill="#4c8ee8"><title>1991: 756</title></rect>
+<rect x="90.7" y="285.8" width="19.9" height="10.2" fill="#4c8ee8"><title>1992: 1,274</title></rect>
+<rect x="112.6" y="286.7" width="19.9" height="9.3" fill="#4c8ee8"><title>1993: 1,153</title></rect>
+<rect x="134.5" y="284.5" width="19.9" height="11.5" fill="#4c8ee8"><title>1994: 1,438</title></rect>
+<rect x="156.4" y="283.5" width="19.9" height="12.5" fill="#4c8ee8"><title>1995: 1,562</title></rect>
 <text x="166.3" y="310" font-size="10" text-anchor="middle" fill="#9198a1">95</text>
-<rect x="178.3" y="278.3" width="19.9" height="17.7" fill="#4c8ee8"><title>1996: 2,201</title></rect>
-<rect x="200.2" y="278.0" width="19.9" height="18.0" fill="#4c8ee8"><title>1997: 2,239</title></rect>
-<rect x="222.1" y="274.5" width="19.9" height="21.5" fill="#4c8ee8"><title>1998: 2,679</title></rect>
-<rect x="243.9" y="273.7" width="19.9" height="22.3" fill="#4c8ee8"><title>1999: 2,781</title></rect>
+<rect x="178.3" y="278.3" width="19.9" height="17.7" fill="#4c8ee8"><title>1996: 2,207</title></rect>
+<rect x="200.2" y="278.0" width="19.9" height="18.0" fill="#4c8ee8"><title>1997: 2,241</title></rect>
+<rect x="222.1" y="274.5" width="19.9" height="21.5" fill="#4c8ee8"><title>1998: 2,683</title></rect>
+<rect x="243.9" y="273.7" width="19.9" height="22.3" fill="#4c8ee8"><title>1999: 2,783</title></rect>
 <rect x="265.8" y="269.3" width="19.9" height="26.7" fill="#4c8ee8"><title>2000: 3,322</title></rect>
 <text x="275.8" y="310" font-size="10" text-anchor="middle" fill="#9198a1">00</text>
 <rect x="287.7" y="262.9" width="19.9" height="33.1" fill="#4c8ee8"><title>2001: 4,125</title></rect>
-<rect x="309.6" y="255.6" width="19.9" height="40.4" fill="#4c8ee8"><title>2002: 5,029</title></rect>
-<rect x="331.5" y="252.6" width="19.9" height="43.4" fill="#4c8ee8"><title>2003: 5,406</title></rect>
-<rect x="353.4" y="239.5" width="19.9" height="56.5" fill="#4c8ee8"><title>2004: 7,038</title></rect>
-<rect x="375.3" y="244.3" width="19.9" height="51.7" fill="#4c8ee8"><title>2005: 6,445</title></rect>
+<rect x="309.6" y="255.6" width="19.9" height="40.4" fill="#4c8ee8"><title>2002: 5,033</title></rect>
+<rect x="331.5" y="252.6" width="19.9" height="43.4" fill="#4c8ee8"><title>2003: 5,412</title></rect>
+<rect x="353.4" y="239.4" width="19.9" height="56.6" fill="#4c8ee8"><title>2004: 7,048</title></rect>
+<rect x="375.3" y="244.2" width="19.9" height="51.8" fill="#4c8ee8"><title>2005: 6,453</title></rect>
 <text x="385.3" y="310" font-size="10" text-anchor="middle" fill="#9198a1">05</text>
-<rect x="397.2" y="240.6" width="19.9" height="55.4" fill="#4c8ee8"><title>2006: 6,904</title></rect>
-<rect x="419.1" y="235.2" width="19.9" height="60.8" fill="#4c8ee8"><title>2007: 7,571</title></rect>
-<rect x="441.0" y="231.8" width="19.9" height="64.2" fill="#4c8ee8"><title>2008: 8,001</title></rect>
-<rect x="462.9" y="231.5" width="19.9" height="64.5" fill="#4c8ee8"><title>2009: 8,033</title></rect>
-<rect x="484.8" y="235.0" width="19.9" height="61.0" fill="#4c8ee8"><title>2010: 7,596</title></rect>
+<rect x="397.2" y="240.5" width="19.9" height="55.5" fill="#4c8ee8"><title>2006: 6,909</title></rect>
+<rect x="419.1" y="235.2" width="19.9" height="60.8" fill="#4c8ee8"><title>2007: 7,580</title></rect>
+<rect x="441.0" y="231.7" width="19.9" height="64.3" fill="#4c8ee8"><title>2008: 8,008</title></rect>
+<rect x="462.9" y="231.5" width="19.9" height="64.5" fill="#4c8ee8"><title>2009: 8,038</title></rect>
+<rect x="484.8" y="235.0" width="19.9" height="61.0" fill="#4c8ee8"><title>2010: 7,603</title></rect>
 <text x="494.7" y="310" font-size="10" text-anchor="middle" fill="#9198a1">10</text>
-<rect x="506.7" y="232.3" width="19.9" height="63.7" fill="#4c8ee8"><title>2011: 7,928</title></rect>
-<rect x="528.6" y="239.4" width="19.9" height="56.6" fill="#4c8ee8"><title>2012: 7,055</title></rect>
-<rect x="550.5" y="235.2" width="19.9" height="60.8" fill="#4c8ee8"><title>2013: 7,568</title></rect>
-<rect x="572.4" y="230.0" width="19.9" height="66.0" fill="#4c8ee8"><title>2014: 8,219</title></rect>
-<rect x="594.3" y="233.3" width="19.9" height="62.7" fill="#4c8ee8"><title>2015: 7,808</title></rect>
+<rect x="506.7" y="232.3" width="19.9" height="63.7" fill="#4c8ee8"><title>2011: 7,931</title></rect>
+<rect x="528.6" y="239.4" width="19.9" height="56.6" fill="#4c8ee8"><title>2012: 7,056</title></rect>
+<rect x="550.5" y="235.2" width="19.9" height="60.8" fill="#4c8ee8"><title>2013: 7,570</title></rect>
+<rect x="572.4" y="230.0" width="19.9" height="66.0" fill="#4c8ee8"><title>2014: 8,224</title></rect>
+<rect x="594.3" y="233.3" width="19.9" height="62.7" fill="#4c8ee8"><title>2015: 7,810</title></rect>
 <text x="604.2" y="310" font-size="10" text-anchor="middle" fill="#9198a1">15</text>
-<rect x="616.2" y="222.3" width="19.9" height="73.7" fill="#4c8ee8"><title>2016: 9,176</title></rect>
-<rect x="638.1" y="215.8" width="19.9" height="80.2" fill="#4c8ee8"><title>2017: 9,983</title></rect>
-<rect x="659.9" y="206.5" width="19.9" height="89.5" fill="#4c8ee8"><title>2018: 11,150</title></rect>
-<rect x="681.8" y="212.4" width="19.9" height="83.6" fill="#4c8ee8"><title>2019: 10,416</title></rect>
-<rect x="703.7" y="200.7" width="19.9" height="95.3" fill="#4c8ee8"><title>2020: 11,872</title></rect>
+<rect x="616.2" y="222.3" width="19.9" height="73.7" fill="#4c8ee8"><title>2016: 9,179</title></rect>
+<rect x="638.1" y="215.8" width="19.9" height="80.2" fill="#4c8ee8"><title>2017: 9,988</title></rect>
+<rect x="659.9" y="206.5" width="19.9" height="89.5" fill="#4c8ee8"><title>2018: 11,155</title></rect>
+<rect x="681.8" y="212.4" width="19.9" height="83.6" fill="#4c8ee8"><title>2019: 10,422</title></rect>
+<rect x="703.7" y="200.6" width="19.9" height="95.4" fill="#4c8ee8"><title>2020: 11,881</title></rect>
 <text x="713.7" y="310" font-size="10" text-anchor="middle" fill="#9198a1">20</text>
-<rect x="725.6" y="194.1" width="19.9" height="101.9" fill="#4c8ee8"><title>2021: 12,694</title></rect>
-<rect x="747.5" y="183.3" width="19.9" height="112.7" fill="#4c8ee8"><title>2022: 14,037</title></rect>
-<rect x="769.4" y="179.9" width="19.9" height="116.1" fill="#4c8ee8"><title>2023: 14,464</title></rect>
-<rect x="791.3" y="182.1" width="19.9" height="113.9" fill="#4c8ee8"><title>2024: 14,186</title></rect>
-<rect x="813.2" y="180.7" width="19.9" height="115.3" fill="#4c8ee8"><title>2025: 14,363</title></rect>
+<rect x="725.6" y="194.1" width="19.9" height="101.9" fill="#4c8ee8"><title>2021: 12,702</title></rect>
+<rect x="747.5" y="183.3" width="19.9" height="112.7" fill="#4c8ee8"><title>2022: 14,045</title></rect>
+<rect x="769.4" y="179.8" width="19.9" height="116.2" fill="#4c8ee8"><title>2023: 14,473</title></rect>
+<rect x="791.3" y="182.1" width="19.9" height="113.9" fill="#4c8ee8"><title>2024: 14,193</title></rect>
+<rect x="813.2" y="180.7" width="19.9" height="115.3" fill="#4c8ee8"><title>2025: 14,365</title></rect>
 <text x="823.2" y="310" font-size="10" text-anchor="middle" fill="#9198a1">25</text>
-<rect x="835.1" y="166.0" width="19.9" height="130.0" fill="#4c8ee8"><title>2026: 16,192</title></rect>
+<rect x="835.1" y="166.0" width="19.9" height="130.0" fill="#4c8ee8"><title>2026: 16,197</title></rect>
 <line x1="24" y1="296" x2="856" y2="296" stroke="#3d444d"/>
 <text x="24" y="338" font-size="13" font-weight="600" fill="#e6edf3">The plan, by part</text>
 <rect x="580" y="328" width="10" height="10" fill="#3fb950"/><text x="595" y="338" font-size="11" fill="#9198a1">published</text><rect x="670" y="328" width="10" height="10" fill="#1f5130"/><text x="685" y="338" font-size="11" fill="#9198a1">collected, not yet published</text>
@@ -77,14 +77,14 @@
 <text x="808" y="362.5" font-size="11.5" fill="#9198a1">96%</text>
 <text x="24" y="383.5" font-size="11.5" fill="#e6edf3">Case law</text>
 <rect x="270" y="371" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
-<rect x="270" y="371" width="388.7" height="17" rx="3" fill="#1f5130"/>
-<rect x="270" y="371" width="373.5" height="17" rx="3" fill="#3fb950"/>
-<text x="808" y="383.5" font-size="11.5" fill="#9198a1">70%</text>
+<rect x="270" y="371" width="396.4" height="17" rx="3" fill="#1f5130"/>
+<rect x="270" y="371" width="383.5" height="17" rx="3" fill="#3fb950"/>
+<text x="808" y="383.5" font-size="11.5" fill="#9198a1">72%</text>
 <text x="24" y="404.5" font-size="11.5" fill="#e6edf3">Secondary legislation</text>
 <rect x="270" y="392" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
 <rect x="270" y="392" width="405.5" height="17" rx="3" fill="#1f5130"/>
-<rect x="270" y="392" width="6.9" height="17" rx="3" fill="#3fb950"/>
-<text x="808" y="404.5" font-size="11.5" fill="#9198a1">1%</text>
+<rect x="270" y="392" width="238.8" height="17" rx="3" fill="#3fb950"/>
+<text x="808" y="404.5" font-size="11.5" fill="#9198a1">45%</text>
 <text x="24" y="425.5" font-size="11.5" fill="#e6edf3">Local acts</text>
 <rect x="270" y="413" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
 <rect x="270" y="413" width="323.8" height="17" rx="3" fill="#1f5130"/>
@@ -93,13 +93,13 @@
 <text x="24" y="446.5" font-size="11.5" fill="#e6edf3">EU and international</text>
 <rect x="270" y="434" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
 <rect x="270" y="434" width="501.6" height="17" rx="3" fill="#1f5130"/>
-<rect x="270" y="434" width="403.6" height="17" rx="3" fill="#3fb950"/>
-<text x="808" y="446.5" font-size="11.5" fill="#9198a1">76%</text>
+<rect x="270" y="434" width="496.0" height="17" rx="3" fill="#3fb950"/>
+<text x="808" y="446.5" font-size="11.5" fill="#9198a1">94%</text>
 <text x="24" y="467.5" font-size="11.5" fill="#e6edf3">Parliament and President</text>
 <rect x="270" y="455" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
 <rect x="270" y="455" width="472.5" height="17" rx="3" fill="#1f5130"/>
-<rect x="270" y="455" width="213.3" height="17" rx="3" fill="#3fb950"/>
-<text x="808" y="467.5" font-size="11.5" fill="#9198a1">40%</text>
+<rect x="270" y="455" width="313.1" height="17" rx="3" fill="#3fb950"/>
+<text x="808" y="467.5" font-size="11.5" fill="#9198a1">59%</text>
 <text x="24" y="488.5" font-size="11.5" fill="#e6edf3">Oversight and elections</text>
 <rect x="270" y="476" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
 <rect x="270" y="476" width="351.4" height="17" rx="3" fill="#1f5130"/>
@@ -107,8 +107,8 @@
 <text x="808" y="488.5" font-size="11.5" fill="#9198a1">66%</text>
 <text x="24" y="509.5" font-size="11.5" fill="#e6edf3">Legislative history and publications</text>
 <rect x="270" y="497" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>
-<rect x="270" y="497" width="223.5" height="17" rx="3" fill="#1f5130"/>
-<rect x="270" y="497" width="218.2" height="17" rx="3" fill="#3fb950"/>
+<rect x="270" y="497" width="223.7" height="17" rx="3" fill="#1f5130"/>
+<rect x="270" y="497" width="218.1" height="17" rx="3" fill="#3fb950"/>
 <text x="808" y="509.5" font-size="11.5" fill="#9198a1">41%</text>
 <text x="24" y="530.5" font-size="11.5" fill="#e6edf3">Historical law</text>
 <rect x="270" y="518" width="530" height="17" rx="3" fill="#151b23" stroke="#3d444d"/>

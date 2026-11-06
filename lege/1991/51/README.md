@@ -52,3 +52,19 @@ Act id: `legea-51-1991` (tags `legea-51-1991/<day>`; `python tools/on.py <day> l
 - Legea nr. 51/1991: from the form of 20 April 2018 the portal adds editorial notes to art. 3 lit. f): Decizia Curții Constituționale nr. 91/2018 (Monitorul Oficial nr. 348 of 20 April 2018) finds the words "aduc atingere gravă drepturilor și libertăților fundamentale ale cetățenilor români" unconstitutional and Decizia nr. 802/2018 (Monitorul Oficial nr. 218 of 20 March 2019) the words "ori altor asemenea interese ale țării"; the notes say the provisions were suspended and ceased to have legal effect on 4 June 2018 and 4 May 2019 (Constituția art. 147 alin. (1)). The portal keeps printing both phrases in the text of every later form, with only the notes added, so the text of art. 3 lit. f) is not changed on either day; no text the portal does not print is made up, and the forms of 20 April 2018, 4 June 2018, 20 March 2019 and 4 May 2019 are unchanged versions. The notes are kept out of the article text, as for other editorial notes.
 - Legea nr. 51/1991: 18 changed article(s) with no note naming a law, committed as the publisher's: 2014-02-01 art-001, 2014-02-01 art-002, 2014-02-01 art-003, 2014-02-01 art-004, 2014-02-01 art-005, 2014-02-01 art-006, 2014-02-01 art-007, 2014-02-01 art-008, 2014-02-01 art-010, 2014-02-01 art-011, 2014-02-01 art-012, 2014-02-01 art-016, 2014-02-01 art-017, 2014-02-01 art-018, 2014-02-01 art-023, 2014-02-01 art-026, 2014-02-01 art-027, 2014-02-01 art-028.
 - Legea nr. 51/1991: forms with no change after normalisation, so no version: 2018-04-20 (199645), 2018-06-04 (210105), 2019-03-20 (211519), 2019-05-04 (213128).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 91/2018](../../../jurisprudenta/ccr/2018/91/)**, Monitorul Oficial nr. 348 din 20 aprilie 2018 · art. 3 lit. f) · only some words or a sentence inside the provision
+
+  > constată că sintagma „aduc atingere gravă drepturilor și libertăților fundamentale ale cetățenilor români“ cuprinsă în art. 3 lit. f) din Legea nr. 51/1991 privind securitatea națională a României este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-04-20) and ceases to have legal effect 45 days later, on 2018-06-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 802/2018](../../../jurisprudenta/ccr/2018/802/)**, Monitorul Oficial nr. 218 din 20 martie 2019 · art. 3 lit. f) · only some words or a sentence inside the provision
+
+  > constată că sintagma „ori altor asemenea interese ale țării“, cuprinsă în dispozițiile art. 3 lit. f) din Legea nr. 51/1991 privind securitatea națională a României, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-03-20) and ceases to have legal effect 45 days later, on 2019-05-04, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -566,6 +566,33 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-99-2021",
+"path": "ordin/agricultura/2021/99",
+"kind": "ordin",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 99/2021 ORDIN nr. 99/814/2021 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2021, pe specii și zone",
+"short": "Ordin agricultura nr. 99/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/242929",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "mediu",
+"nr": "814",
+"date": "2021-05-20",
+"name": "Ministerul Mediului, Apelor și Pădurilor",
+"alias": "ordin-mediu-814-2021"
+}
+]
+},
+{
 "slug": "ordin-agricultura-101-2021",
 "path": "ordin/agricultura/2021/101",
 "kind": "ordin",
@@ -20696,6 +20723,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/246475",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-1898-2021",
+"path": "ordin/sanatate/2021/1898",
+"kind": "ordin",
+"year": "2021",
+"number": "1898",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.898/2021 ORDIN nr. 1.898/855/2021 pentru modificarea și completarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017",
+"short": "Ordin sanatate nr. 1898/2021",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2021-09-21",
+"latest": "2021-09-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/246562",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "855",
+"date": "2021-09-13",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-855-2021"
+}
+]
 },
 {
 "slug": "ordin-sanatate-1899-2021",

@@ -85,3 +85,13 @@ Act id: `legea-218-2002` (tags `legea-218-2002/<day>`; `python tools/on.py <day>
 - Legea nr. 218/2002: the forms of 1 July 2003 and 5 March 2018 differ from the form before them in spelling, diacritics and list layout (for example "îndrumă" / "îndruma", "inlaturare" / "înlăturare") that no note explains; those changes are the publisher's, labelled unexplained.
 - Legea nr. 218/2002: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 15 such paragraphs across all forms, for example «* A se vedea Hotărârea Guvernului nr. 1.061/2002 privind sta», «* A se vedea Legea nr. 360/2002 privind Statutul polițistulu», «* Prezenta lege a fost publicată în Monitorul Oficial al Rom».
 - Legea nr. 218/2002: 16 changed article(s) with no note naming a law, committed as the publisher's: 2003-07-01 art-007, 2003-07-01 art-018, 2003-07-01 art-022, 2003-07-01 art-026, 2003-07-01 art-028, 2003-07-01 art-031, 2003-07-01 art-034, 2003-07-01 art-035, 2003-07-01 art-037, 2003-07-01 art-039, 2003-07-01 art-040, 2003-07-01 art-041, 2003-07-01 art-042, 2003-07-01 art-043, 2003-07-01 art-047, 2018-03-05 art-005.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 215/2022](../../../jurisprudenta/ccr/2022/215/)**, Monitorul Oficial nr. 603 din 21 iunie 2022 · art. 36 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă de art. 36 alin. (5) din Legea nr. 218/2002 privind organizarea și funcționarea Poliției Române, care nu limitează durata măsurii conducerii persoanei la sediul poliției, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-06-21) and ceases to have legal effect 45 days later, on 2022-08-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

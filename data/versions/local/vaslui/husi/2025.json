@@ -2133,6 +2133,36 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-311-2025",
+   "path": "local/vaslui/husi/2025/311",
+   "short": "HCL Huși nr. 311/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 311/2025 privind aprobarea actualizării Proiectului Tehnic a indicatorilor tehnico- economici și descrierea investiției, urmare modificării denumirii obiectivului de investiții din ”Realizare parc nou în municipiul Huși, Cartier Dric 3” în ”Spațiu verde tip grădină, spațiu de recreere destinat copiilor și comunității în Dric 3” și modificării cotei TVA Consiliul Local al Municipiului Huși, județul Vaslui A",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_311_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_311_2025.pdf",
+     "sha256": "0360acfc49f6858388c2b30f79e0e1586505522b26c825626fc136c60042113d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-312-2025",
+   "path": "local/vaslui/husi/2025/312",
+   "short": "HCL Huși nr. 312/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 312/2025 privind aprobarea proiectului cu bugetul actualizat și a contribuției proprii a UAT Municipiul Huși urmare modificării denumirii obiectivului de investiții din ”Realizare parc nou în municipiul Huși, Cartier Dric 3” în ”Spațiu verde tip grădină, spațiu de recreere destinat copiilor și comunității în Dric 3” și modificării cotei TVA",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_312_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_312_2025.pdf",
+     "sha256": "7fbd1171506d9df2640cc3bb5bc5a3ea8481c2b5c5633097f208583b69dbb86f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-313-2025",
    "path": "local/vaslui/husi/2025/313",
    "short": "HCL Huși nr. 313/2025",
@@ -2144,6 +2174,51 @@
      "units": 3,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_313_2025.pdf",
      "sha256": "bea8c4430dcc0b2adc25e8600710df78dd8c0b451fc6cd05ba2ebb117e652cf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-316-2025",
+   "path": "local/vaslui/husi/2025/316",
+   "short": "HCL Huși nr. 316/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 316/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81399 în 2 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_316_2025.pdf",
+     "sha256": "91bfa9dd391d2aaf0078b9d1178522d48e5baa61f62a3553c4c442eb928c7032"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-317-2025",
+   "path": "local/vaslui/husi/2025/317",
+   "short": "HCL Huși nr. 317/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 317/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81198 în 3 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_317_2025.pdf",
+     "sha256": "0bdc9cba5189da38e8b40e26b80dd39b3f12619f8bfb1765d29929c073d86413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-318-2025",
+   "path": "local/vaslui/husi/2025/318",
+   "short": "HCL Huși nr. 318/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 318/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81461 în 2 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_318_2025.pdf",
+     "sha256": "bbc3299fb40904a8e792712f9d3d68fdd221f3d1af2f60d9902a5683560042c0"
     }
    ]
   },
@@ -2163,6 +2238,1251 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-320-2025",
+   "path": "local/vaslui/husi/2025/320",
+   "short": "HCL Huși nr. 320/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 320/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_320_2025.pdf",
+     "sha256": "5920f6897989b4f39eb4847fa7bcd06cb1745086826c3388f2d1056d4e5a0511"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-321-2025",
+   "path": "local/vaslui/husi/2025/321",
+   "short": "HCL Huși nr. 321/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 321/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_321_2025.pdf",
+     "sha256": "9bb9af953fc03d71d9156643c4bbd78277dd88e210d9fdb7bcc6abedbd45693f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-322-2025",
+   "path": "local/vaslui/husi/2025/322",
+   "short": "HCL Huși nr. 322/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 322/2025 privind aprobarea concesionării directe a unei suprafeţe de teren de 316 mp, aparţinând domeniului privat al municipiului Huşi, aflat in proprietatea Municipiului Huşi, situat în Cartier Dric 2, strada V.I.Popa, nr.63",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_322_2025.pdf",
+     "sha256": "c2fd6a18f676cbbaac7e173526c35ac0507464d04742f6e4ac34506887aae404"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-323-2025",
+   "path": "local/vaslui/husi/2025/323",
+   "short": "HCL Huși nr. 323/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 323/2025 privind emiterea unui aviz de principiu în vederea atribuirii în folosință gratuită a unui teren, în suprafață de 10.000 mp, pe o durată de 49 de ani, aflat în domeniul privat al Municipiului Huși, situate în extravilan Tarla 46, Parcela 3979, către Asociația Filantropia Ortodoxă Huși, pentru construirea unui Centru de Recuperare pentru Copiii cu dizabilități Consiliul Local al municipiului Huși",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_323_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_323_2025.pdf",
+     "sha256": "bee37b3e03f3d24df1dbf167c3f4ccf510e3fa6c77f6419345e07b6da3ef9131"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-325-2025",
+   "path": "local/vaslui/husi/2025/325",
+   "short": "HCL Huși nr. 325/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 325/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_325_2025.pdf",
+     "sha256": "64a7f0ceb7c7bc70b71a2fc00f28cdafec630767171174b5a6954d6c60dac5e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-328-2025",
+   "path": "local/vaslui/husi/2025/328",
+   "short": "HCL Huși nr. 328/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 328/2025 privind transmiterea în direct și înregistrarea ședințelor Consiliului Local al municipiului Huși, jud.Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_328_2025.pdf",
+     "sha256": "9d54abbbe9a409250f1beab614f3d6f3fdf7575753d49d97d984cbad6ef07d8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-329-2025",
+   "path": "local/vaslui/husi/2025/329",
+   "short": "HCL Huși nr. 329/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 329/2025 privind acordarea unui mandat special reprezentantului U.A.T Municipiul Huși în vederea exprimării optiunii de vot în Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara a județului Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_329_2025.pdf",
+     "sha256": "1a79a9719082c867ba3a834c11ee2719eba3c36011f3b36cce1c473ffbde24c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-331-2025",
+   "path": "local/vaslui/husi/2025/331",
+   "short": "HCL Huși nr. 331/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 331/2025 privind aprobarea cuantumului chiriei aferentă locuințelor pentru tineri destinate închirierii, realizate de Agenția națională pentru Locuințe în Municipiul Huși, valabilă pentru perioada 01.11.2025- 31.12.2025, și, respectiv, a sumelor cu titlu de recuperare a investiției ce se v",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_331_2025.pdf",
+     "sha256": "96d6e3c5617cb38a081a55e6fc7e30d86bdee69b82e4fd8844602504a6fbd3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-332-2025",
+   "path": "local/vaslui/husi/2025/332",
+   "short": "HCL Huși nr. 332/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 332/2025 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico-economici la faza SF,actualizati la data octombrie 2025, ai obiectivului de investitii “Realizarea infrastructurii educationale pentru invatamantul liceal-Constructia unui corp de cladire (P+1) pe actualul amp",
+   "url": "https://www.primariahusi.ro/hotarari-30-octombrie-2025/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_332_2025.pdf",
+     "sha256": "93e794788d2498153ef16a3df447a62a64195a62c3e1249086fb51aa65759879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-333-2025",
+   "path": "local/vaslui/husi/2025/333",
+   "short": "HCL Huși nr. 333/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 333/2025 privind aprobarea proiectului cu titlul “Realizarea infrastructurii educationale pentru invatamantul liceal-Constructia unui corp de cladire(P+1) pe actualul amplasament al Bibliotecii Colegiului National Cuza Voda Husi ”” și a valorii acestuia, precum și aprobarea depunerii cererii de finanțare “Realizarea infrastructurii educationale pentru invatamantul liceal-Constructia unui corp de cladire(P+",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_333_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_333_2025.pdf",
+     "sha256": "2975e55b1261bb71a2ff827cbc8ae0781b47b2ea8fca4005821a95293e27b0ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-334-2025",
+   "path": "local/vaslui/husi/2025/334",
+   "short": "HCL Huși nr. 334/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 334/2025 privind aprobarea Proiectului tehnic si a indicatorilor tehnico-economici actualizati la faza Proiect tehnic pentru realizarea obiectivului de investiții „Colegiul Agricol Dimitrie Cantemir Huși – Scoală Europeană sustenabilă pentru agricultura viitorului”, accesat în cadrul PNRR, Componenta C15. Educație, Reforma 4",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_334_2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_334_2025-1.pdf",
+     "sha256": "c1f89822ca0848141cd857fccb84d43277ca78384eb682c5d3864c96dc5d409d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-335-2025",
+   "path": "local/vaslui/husi/2025/335",
+   "short": "HCL Huși nr. 335/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 335/2025 privind aprobarea actualizării bugetului proiectului „Colegiul Agricol Dimitrie Cantemir Huși – Scoală Europeană sustenabilă pentru agricultura viitorului”, urmare a realizării Proiectului tehnic, în vederea implementării proiectului accesat în cadrul Planul Național de Redresare și Reziliență, Componenta C15. Educație, Reforma 4",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_335_2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_335_2025-1.pdf",
+     "sha256": "f6b4667d2cc89c9b5e3bb3f5d21d3ac814a70b2d7f2966cc91ddb4a467bb45bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-336-2025",
+   "path": "local/vaslui/husi/2025/336",
+   "short": "HCL Huși nr. 336/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 336/2025 privind aprobarea actualizării Proiectului Tehnic a indicatorilor tehnico-economici și descrierea investiției urmare actualizării documentației tehnice la faza PTH pentru obiectivul ”Reabilitarea/modernizarea Grădiniței nr.7 Huși” Consiliul Local al Municipiului Huși, județul Vaslui Având în vedere: • Referatul Serviciului Managementul Proiectelor Europene nr. 32733/17.11.2025; • Referatul de apro",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_336_2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_336_2025-1.pdf",
+     "sha256": "45d93807b34fbc4120014eaed6c63e91aac62506eb80b4887042ed13fbf7d90d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-337-2025",
+   "path": "local/vaslui/husi/2025/337",
+   "short": "HCL Huși nr. 337/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 337/2025 Privind aprobarea proiectului ”Reabilitarea/modernizarea Grădiniței nr.7 Huși”, a bugetului acestuia și contribuția proprie a UAT Municipiul Huși la finanțarea proiectului, urmare actualizării PTH și a indicatorilor tehnico-economici aferenți obiectivului de investiții ”Reabilitarea/modernizarea Grădiniței nr.7 Huși” Consiliul Local al municipiului Husi, judetul Vaslui ; Având în vedere: • Referat",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_337_2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_337_2025-1.pdf",
+     "sha256": "e2b0d0693d64821ca45d791ad5d3d8d2ca13193866abab4bf66417e1e16bb8de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-338-2025",
+   "path": "local/vaslui/husi/2025/338",
+   "short": "HCL Huși nr. 338/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 338/2025 privind aprobarea bugetului proiectului ”Spațiu verde tip grădină, spațiu de recreere destinate copiilor și comunității în Dric 3 și a contribuției proprii a UAT Municipiul Huși urmare semnării contractului de finanțare în cadrul Programului Regional Nord-Est 2021-2027, apel de proiecte PR/NE/2024/3/RSO2.7/1/Spații verzi MRJ+M",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_338_2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_338_2025-1.pdf",
+     "sha256": "ca45bb6aef3690127e79eae1b26fec76f40d4249660e3f949db7bfecd323f345"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-339-2025",
+   "path": "local/vaslui/husi/2025/339",
+   "short": "HCL Huși nr. 339/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 339/2025 privind completarea inventarului bunurilor mobile care aparțin domeniului privat al municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_339_2025.pdf",
+     "sha256": "1fa334ffd461781c328afcaf943777a0703bbb97321b47a27fcac0fc6b280425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-34-2025",
+   "path": "local/vaslui/husi/2025/34",
+   "short": "HCL Huși nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 34/2025 privind darea în administrarea Grădiniței cu program prelungit nr.10, situată în municipiul Huși, strada 1 Decembrie, nr.26, a imobilului aparținând Gradinitei nr.8, situat în Huși, str.Corni, nr.129, proprietatea municipiului Huși, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_34_2025.pdf",
+     "sha256": "4b037caca0eedca2a77ac2aa8c89d644e9f09f973844000e43ecec71ea7fd2c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-340-2025",
+   "path": "local/vaslui/husi/2025/340",
+   "short": "HCL Huși nr. 340/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 340/2025 privind atestarea inventarului bunurilor care aparţin domeniului public al municipiului Huşi, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_340_2025.pdf",
+     "sha256": "b9e10f8f086c54be5d2af2587c5ede1c68e233802907d06a7ca685d5c1ccb2b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-341-2025",
+   "path": "local/vaslui/husi/2025/341",
+   "short": "HCL Huși nr. 341/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 341/2025 privind declararea unui teren situat în intravilanul municipiului Huşi ca bun de uz şi de interes public local",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_341_2025.pdf",
+     "sha256": "b8d1b5ce751cdf4eaa7cfded88b4f40dccd1f60db91fc4bf4d3b7fda191d8657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-342-2025",
+   "path": "local/vaslui/husi/2025/342",
+   "short": "HCL Huși nr. 342/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 342/2025 privind darea în administrarea Grădiniței cu program prelungit nr.12 a bunurilor imobile și mobile proprietatea municipiului Huși, județul Vaslui, aparținând Grădiniței cu program prelungit nr.12, Grădiniței cu Program Prelungit nr.7, Grădiniței cu program prelungit nr.13, Grădin",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_342_2025.pdf",
+     "sha256": "a273aef95fe6277e006dd118d230875a3294361a184cd34467c75b1e840b400c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-345-2025",
+   "path": "local/vaslui/husi/2025/345",
+   "short": "HCL Huși nr. 345/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 345/2025",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_345_2025.pdf",
+     "sha256": "b0a32a70ad962652e979a096a1f48c399b2adf224b74448cdd88bf115462c55c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-346-2025",
+   "path": "local/vaslui/husi/2025/346",
+   "short": "HCL Huși nr. 346/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 346/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81591 în 3 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_346_2025.pdf",
+     "sha256": "39698629fb15409a1a6da826fdb3fecd6c3a742a30676426a9171ac545783af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-347-2025",
+   "path": "local/vaslui/husi/2025/347",
+   "short": "HCL Huși nr. 347/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 347/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81140 în 3 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_347_2025.pdf",
+     "sha256": "e00fd57c89165ff07efebe5f0ab4b54f2743ceffde2fa88b2feadabcc1a2bbe8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-348-2025",
+   "path": "local/vaslui/husi/2025/348",
+   "short": "HCL Huși nr. 348/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 348/2025 privind aprobarea prelungirii duratei unor contracte de inchiriere având ca obiect spații comerciale",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_348_2025.pdf",
+     "sha256": "2b5c6c3fb37ee22459b48f260e8e5b9d71281d83527097899c7f532641e4dc97"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-349-2025",
+   "path": "local/vaslui/husi/2025/349",
+   "short": "HCL Huși nr. 349/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 349/2025",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_349_2025.pdf",
+     "sha256": "a0e5d4932443c9acad914848ecfc4ab77cf8585a14fb36583ac68e9c38c08bb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-35-2025",
+   "path": "local/vaslui/husi/2025/35",
+   "short": "HCL Huși nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 35/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_35_2025.pdf",
+     "sha256": "5b66b667c4922bc645d0623d1a9e3c6a036a869a5bbae9f59e5a50537d5e64a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-350-2025",
+   "path": "local/vaslui/husi/2025/350",
+   "short": "HCL Huși nr. 350/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 350/2025 privind aprobarea prelungirii duratei contractului de închiriere nr.32272 din 31.10.2023, pentru terenul în suprafaţa de 5000 mp, situat în intravilanul municipiului Husi, apartinand domeniului public al municipiului Husi, str.Drumul Recea, nr.1 B",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_350_2025.pdf",
+     "sha256": "98147003993c0ebda15bd9c30fc78b8176ed220ed614baddc13d96c77b4cbd05"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-351-2025",
+   "path": "local/vaslui/husi/2025/351",
+   "short": "HCL Huși nr. 351/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 351/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2023 - 2026 pentru obiectivul Proiect nr.C5-B2.1.a-1572 intitulat “Renovarea energetica moderata a cladirii Gradinita cu program prelungit nr.10 Husi”accesat in cadrul Planului National de Redresare si Rezilienta,apelul de proiecte PNRR/2022/C5/2/B.2.1/1,Componenta 5",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_351_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_351_2025.pdf",
+     "sha256": "cc1a83c1117f83a0825c9574cf9d06b6958f2b78681d4e6c86a449ab188cc755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-352-2025",
+   "path": "local/vaslui/husi/2025/352",
+   "short": "HCL Huși nr. 352/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 352/2025",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_352_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_352_2025.pdf",
+     "sha256": "38760f0de0bc94eff84677151283e748edea926031a9a8777d8f968d0c492b73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-353-2025",
+   "path": "local/vaslui/husi/2025/353",
+   "short": "HCL Huși nr. 353/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 353/2025",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_353_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_353_2025.pdf",
+     "sha256": "e0de8f6f610cdf86be98fad1e7dce710a94bf3079b3a0cd6a40b24bf9eb03623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-354-2025",
+   "path": "local/vaslui/husi/2025/354",
+   "short": "HCL Huși nr. 354/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 354/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2025 - 2026 pentru proiectul “Realizarea unui Parc de Panouri Fotovoltaice in Municipiul Husi- cod SIMS 315760” Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere : • Referatul Serviciului Buget Contabilitate nr. 32639 din 14.11.2025; • Referatul de",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_354_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_354_2025.pdf",
+     "sha256": "69849d45351e6cda4caadc2f14ce36e2874d25498bbe5dc29dd4268d0ec93206"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-355-2025",
+   "path": "local/vaslui/husi/2025/355",
+   "short": "HCL Huși nr. 355/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 355/2025 privind actualizarea utilizarii excedentului bugetar in suma de 2.210,77 mii lei inregistrat la 31.12.2024, ca sursa de finantare a cheltuielilor sectiunii de dezvoltare buget local 2025",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_355_2025.pdf",
+     "sha256": "92e6e6a18f1ad106cb5a87393d15f86bfbab3cff32e740d51611440283faea0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-356-2025",
+   "path": "local/vaslui/husi/2025/356",
+   "short": "HCL Huși nr. 356/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 356/2025 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii - etapa noiembrie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_356_2025.pdf",
+     "sha256": "47eb862b15dae99812191cf8d239c2cacb831a87841120ab83e243aff27b7ab5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-357-2025",
+   "path": "local/vaslui/husi/2025/357",
+   "short": "HCL Huși nr. 357/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 357/2025 privind rectificarea bugetului local etapa noiembrie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-25-noiembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_357_2025.pdf",
+     "sha256": "213ff3a4814f87ece0a556dac564e176c025bd003c798348e7f2ba0902f58932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-358-2025",
+   "path": "local/vaslui/husi/2025/358",
+   "short": "HCL Huși nr. 358/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 358/2025 privind emiterea unui aviz de principiu in vederea alocarii sumei de 330,0 mii lei reprezentand contributia Consiliului Local al municipiului Husi in cuantum de 10% din valoarea cheltuielilor de investitii propuse de Spitalul Municipal “Dimitrie Castroian” Husi din bugetul Ministerului Sanatatii Consiliul Local al municipiului Husi , judetul Vaslui ; Avand in vedere : • Referatul Serviciului Buget",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_358_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_358_2025.pdf",
+     "sha256": "7bde8d4e9913fa17b7d4dd21d5747f3982912f2358b3aee89c80859f7c695d75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-359-2025",
+   "path": "local/vaslui/husi/2025/359",
+   "short": "HCL Huși nr. 359/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 359/2025 privind modificarea și completarea Inventarului bunurilor mobile şi imobile care aparțin domeniului privat al municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_359_2025.pdf",
+     "sha256": "570374d3dc13c73d8a19033b6ef81c33a505c5d0e1f6301779bbd983fb05e90e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-36-2025",
+   "path": "local/vaslui/husi/2025/36",
+   "short": "HCL Huși nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 36/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_36_2025.pdf",
+     "sha256": "a93d26151e0b02c6e33974c980aa268eebe00b193b8ac5bb3c4bd0869c6d3434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-362-2025",
+   "path": "local/vaslui/husi/2025/362",
+   "short": "HCL Huși nr. 362/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 362/2025 privind însuşirea de către Consiliul Local al municipiului Huși a completarii inventarului bunurilor imobile si mobile care aparţin domeniului public al municipiului Huşi",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_362_2025.pdf",
+     "sha256": "ea74de4494e8490dbf51464df59bd60f9f94b93130efbb6b2fc521ea118dab29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-363-2025",
+   "path": "local/vaslui/husi/2025/363",
+   "short": "HCL Huși nr. 363/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 363/2025 privind însuşirea de către Consiliul Local al municipiului Huși a completarii inventarului bunurilor imobile si mobile care aparţin domeniului public al municipiului Huşi",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_363_2025.pdf",
+     "sha256": "d161d4850e5dd18ef7c4c8fe54b13ef347069918329e420cbb03a9ecca5428dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-364-2025",
+   "path": "local/vaslui/husi/2025/364",
+   "short": "HCL Huși nr. 364/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 364/2025 privind însuşirea de către Consiliul Local al municipiului Huși a completarii inventarului bunurilor imobile si mobile care aparţin domeniului public al municipiului Huşi",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_364_2025.pdf",
+     "sha256": "766465beadfacc5075b9e2ae18aa74a64af53ef2dd6227f02892d461e065b6ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-365-2025",
+   "path": "local/vaslui/husi/2025/365",
+   "short": "HCL Huși nr. 365/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 365/2025 privind retragerea dreptului de folosinţă asupra unor terenuri atribuite în conformitate cu Legea nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_365_2025.pdf",
+     "sha256": "a2305afd1e039a4c8eb3ff960d4ce685c956b93f2feb04c0419d14c66e0a3876"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-366-2025",
+   "path": "local/vaslui/husi/2025/366",
+   "short": "HCL Huși nr. 366/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 366/2025 privind aprobarea inventarului terenurilor disponibile pentru aplicarea Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, pentru anul 2025",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_366_2025.pdf",
+     "sha256": "9f8457ab277f82ad5ac94deeeaaaf554801d15319a74c85ce72d567c59ad1cac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-367-2025",
+   "path": "local/vaslui/husi/2025/367",
+   "short": "HCL Huși nr. 367/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 367/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2023 – 2026 pentru obiectivul Proiect C5-B2.1.a-1580 intitulat „Renovare energetica moderata a cladirii Cresa municipala Husi” accesat in cadrul PNRR/2022/C5/2/B.2.1/1 Componenta 5 -Valul Renovării, Axa 2 –Schema de granturi pentru eficiența energetică și rezilienta în",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_367_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_367_2025.pdf",
+     "sha256": "82bfd3c0babe4d69d50c16b38cf90b1bb7c423becadf2ce7ee52043eb55d9dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-368-2025",
+   "path": "local/vaslui/husi/2025/368",
+   "short": "HCL Huși nr. 368/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 368/2025 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2024 - 2026 pentru obiectivul de investitii “Elaborare Studiu de Fezabilitate-Soseaua de centura(VO) a Municipiului Husi”",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_368_2025.pdf",
+     "sha256": "6309ae636c414db04bf58a87e683acab02ad5e58d40a8c30cc708c1be4eccddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-369-2025",
+   "path": "local/vaslui/husi/2025/369",
+   "short": "HCL Huși nr. 369/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 369/2025 privind aprobarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2025 - 2027 pentru proiectul “Spatiu verde tip gradina, spatiu de recreere destinat copiilor si comunitatii in Dric 3”-cod SMIS 348092 Consiliul Local al municipiului Huși, județul Vaslui; Având în vedere : • Referatul Serviciului Buget Contabilitate nr. 36381 din 16.12.2",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_369_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_369_2025.pdf",
+     "sha256": "fa2ab567b7fd441efa241554255a86509bbd142dd2811a39f7134b0a02725e8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-37-2025",
+   "path": "local/vaslui/husi/2025/37",
+   "short": "HCL Huși nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 37/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_37_2025.pdf",
+     "sha256": "a34c8f2155bfdcabe6c30d9013b7fcff6112730f8944a646c297d96ba8327f41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-370-2025",
+   "path": "local/vaslui/husi/2025/370",
+   "short": "HCL Huși nr. 370/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 370/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2023 - 2026 pentru obiectivul de investitii “Actualizarea Planului Urbanistic General și a Regulamentului Local de Urbanism pentru Municipiul Huși,jud",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_370_2025.pdf",
+     "sha256": "cb62e41ee59558aac4d94c6435f721d3ef4b757019f5369e087df3ce8a3895bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-371-2025",
+   "path": "local/vaslui/husi/2025/371",
+   "short": "HCL Huși nr. 371/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 371/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2024 - 2026 pentru obiectivul „Realizarea de documentatii tehnice pentru asigurarea gradului de maturitate al proiectului „Realizare infrastructura educationala pentru invatamantul liceal -constructia unul corp de cladire (P+1) pe actualul amplasament al bibliotecii Co",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_371_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_371_2025.pdf",
+     "sha256": "c4ff044db8c01cbd0fa298c51585b6588c6588b39f0ea71641483fa8e69b814e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-372-2025",
+   "path": "local/vaslui/husi/2025/372",
+   "short": "HCL Huși nr. 372/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 372/2025",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_372_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_372_2025.pdf",
+     "sha256": "490d89822eb84aba5978fba3b1d8c64585a44af23a7b8b7fbaf952e54e4dac52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-373-2025",
+   "path": "local/vaslui/husi/2025/373",
+   "short": "HCL Huși nr. 373/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 373/2025 privind actualizarea creditelor de angajament pentru actiuni multianuale ale bugetului local al Municipiului Husi, pentru perioada 2023 - 2026 pentru obiectivul Proiect nr.C5-B2.1.a-1572 intitulat “Renovarea energetica moderata a cladirii Gradinita cu program prelungit nr.10 Husi”accesat in cadrul Planului National de Redresare si Rezilienta,apelul de proiecte PNRR/2022/C5/2/B.2.1/1,Componenta 5",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_373_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_373_2025.pdf",
+     "sha256": "80076a75edd870187391ea6eac36fbea871884cd3e170a19569e585a4f3ee3d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-374-2025",
+   "path": "local/vaslui/husi/2025/374",
+   "short": "HCL Huși nr. 374/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 374/2025 privind rectificarea bugetului local etapa decembrie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_374_2025.pdf",
+     "sha256": "778ded4c57bbb3d26fea77dcdff734305f8eae7580f8252a211a17ce8605af04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-375-2025",
+   "path": "local/vaslui/husi/2025/375",
+   "short": "HCL Huși nr. 375/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 375/2025 privind rectificarea bugetului de venituri si cheltuieli al institutiilor publice finantate integral sau partial din venituri proprii - etapa decembrie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-18-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/12/hotararea_375_2025.pdf",
+     "sha256": "1d9fbd37f78e0fdf2f466fac9d4685e9b4e9f339a4a0abd73deb69c5598c1a56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-376-2025",
+   "path": "local/vaslui/husi/2025/376",
+   "short": "HCL Huși nr. 376/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 376/2025 privind organizarea retelei scolare a unitatilor de invatamant preuniversitar din municipiul Husi pentru anul scolar 2026-2027",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_376_2025.pdf",
+     "sha256": "b4fd7fa8ab8779250c2e5a5207a01ebc525443d112b2d4fdaa772aa01d6e74d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-377-2025",
+   "path": "local/vaslui/husi/2025/377",
+   "short": "HCL Huși nr. 377/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 377/2025 privind modificarea statului de functii al personalului din cadrul Spitalului Municipal “Dimitrie Castroian” Husi",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_377_2025.pdf",
+     "sha256": "7b2db32d8b448f8ac5c0785579704e535b880e80a694172e08dd3230ba34626b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-378-2025",
+   "path": "local/vaslui/husi/2025/378",
+   "short": "HCL Huși nr. 378/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 378/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 81738 în 2 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Recea",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_378_2025.pdf",
+     "sha256": "f341556b2af2afa493d70009ee18b8bdeb013e3ee8fcfbfa14d0ada89673c33d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-379-2025",
+   "path": "local/vaslui/husi/2025/379",
+   "short": "HCL Huși nr. 379/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 379/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 80009 în 8 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat în Cartier Dric.3",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_379_2025.pdf",
+     "sha256": "3da035fdc1080ea59181f2738f82d8aa77d3a4ac73807202e92232758e227b6e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-38-2025",
+   "path": "local/vaslui/husi/2025/38",
+   "short": "HCL Huși nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 38/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_38_2025.pdf",
+     "sha256": "d268ea87aad6f2239ec5ef778dbdd927e40fcbc578f95ea0a3432a677e70dca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-380-2025",
+   "path": "local/vaslui/husi/2025/380",
+   "short": "HCL Huși nr. 380/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 380/2025 privind declararea unor terenuri situate în intravilanul municipiului Huşi ca bunuri de uz şi de interes public local",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_380_2025.pdf",
+     "sha256": "0c92696f54c1536e0ae414b7285bc66c9c89296e51aa26910295b01a5435c3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-383-2025",
+   "path": "local/vaslui/husi/2025/383",
+   "short": "HCL Huși nr. 383/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 383/2025 privind aprobarea vânzării apartamentului și a boxei aferente acestuia, situat în municipiul Huși, str",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_383_2025.pdf",
+     "sha256": "c6253bafb25d4369b6b9dd624a27861d5e3f2abbb71059e3c110c10aca87efb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-384-2025",
+   "path": "local/vaslui/husi/2025/384",
+   "short": "HCL Huși nr. 384/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 384/2025 privind aprobarea depunerii de cereri de finantare in cadrul apelului de proiecte deschis de Grupul de Actiune Locala Husi-Comunitate Incluziva , SDL –Etapa a III-a a mecanismului DLRC - Programul Incluziune si Demnitate Sociala 2021-2027, Prioritate: P01",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_384_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_384_2025.pdf",
+     "sha256": "c72affdc3782ae319a3747de836fc0f56c4cc27666dcb1665e473669590e33cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-385-2025",
+   "path": "local/vaslui/husi/2025/385",
+   "short": "HCL Huși nr. 385/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 385/2025 pentru aprobarea unui aviz de pricipiu in vederea accesarii finantarii in cadrul “Programului național de consolidare a clădirilor cu risc seismic ridicat “(PNCCRS)- Subprogramul proiectarea și execuția lucrărilor de intervenții pentru clădirile de interes și utilitate publica, gestionat de Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei, pentru Spitalul Municipal Dimitrie Castroian H",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_385_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_385_2025.pdf",
+     "sha256": "8da52ac735bef0a8b324e0c0c33b292b3ba815002651ca8d9a8784ee57ff4d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-386-2025",
+   "path": "local/vaslui/husi/2025/386",
+   "short": "HCL Huși nr. 386/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 386/2025 Privind aprobarea bugetului proiectului ”Reabilitarea/modernizarea Grădiniței nr.7 Huși”și contribuția proprie a UAT Municipiul Huși la finanțarea acestuia, urmare semnării Contractului de finanțare aferent obiectivului de investiții ”Reabilitarea/modernizarea Grădiniței nr.7 Huși” Consiliul Local al municipiului Huși, județul Vaslui ; Având în vedere: • Referatul Serviciului Managementul Proiecte",
+   "url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_386_2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_386_2025.pdf",
+     "sha256": "4ffcd71e97d86dba4e779b7674336288dae42d2c01c7665762238cd6f6ced67c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-389-2025",
+   "path": "local/vaslui/husi/2025/389",
+   "short": "HCL Huși nr. 389/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 389/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_389_2025.pdf",
+     "sha256": "f6ec9c6026b5b662224e06951ba86d23d217fd150a51e58cd0b651243721b800"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-390-2025",
+   "path": "local/vaslui/husi/2025/390",
+   "short": "HCL Huși nr. 390/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 390/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_390_2025.pdf",
+     "sha256": "3e02c8d65c7e9459757eeb3bf664e65677f2a2ace3e138238c4762a5a36fa713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-391-2025",
+   "path": "local/vaslui/husi/2025/391",
+   "short": "HCL Huși nr. 391/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 391/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str.Ioan G",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_391_2025.pdf",
+     "sha256": "2be9c7e514d4acad62c5d7a5d57ea9f30f61e2d76b051dd6f467e99823b1d1e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-392-2025",
+   "path": "local/vaslui/husi/2025/392",
+   "short": "HCL Huși nr. 392/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 392/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_392_2025.pdf",
+     "sha256": "1464c30c0c10f62d633000806cda1dc035357ae73490b10041c2e3b1f7d50711"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-393-2025",
+   "path": "local/vaslui/husi/2025/393",
+   "short": "HCL Huși nr. 393/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 393/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_393_2025.pdf",
+     "sha256": "c9522c26af8351f011fd675bfb4e7a822d7cdf5de82fa747f6b3de1ec28219b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-394-2025",
+   "path": "local/vaslui/husi/2025/394",
+   "short": "HCL Huși nr. 394/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 394/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_394_2025.pdf",
+     "sha256": "b7b457139a7d985515e8e8f40636912f7b9ce41d90afe180ed52d7a28af21937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-395-2025",
+   "path": "local/vaslui/husi/2025/395",
+   "short": "HCL Huși nr. 395/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 395/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_395_2025.pdf",
+     "sha256": "9ac8886fe9172327981b15171a82c7a25061e850c77010fb08135cdf79512652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-396-2025",
+   "path": "local/vaslui/husi/2025/396",
+   "short": "HCL Huși nr. 396/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 396/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_396_2025.pdf",
+     "sha256": "8efdcd24a6be6fb8c7908927e04345b04b3ab6b0d8c14a1aaed7bb95c7f81b92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-397-2025",
+   "path": "local/vaslui/husi/2025/397",
+   "short": "HCL Huși nr. 397/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 397/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_397_2025.pdf",
+     "sha256": "f2f2de50995616aa5a1b51a8bbc4f6ad6bfd8a05f34b248b98df8381a7d3ec3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-398-2025",
+   "path": "local/vaslui/husi/2025/398",
+   "short": "HCL Huși nr. 398/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 398/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_398_2025.pdf",
+     "sha256": "51c7ed1757b6e4b336aa9121c8cfd3969d2ad636514a0ad9ddde6133d8f7e163"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-399-2025",
+   "path": "local/vaslui/husi/2025/399",
+   "short": "HCL Huși nr. 399/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 399/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_399_2025.pdf",
+     "sha256": "2ffacf5bb8c0688637064358447d575adaab7a5b360edf5b999b6f9ca47fc5a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-4-2025",
+   "path": "local/vaslui/husi/2025/4",
+   "short": "HCL Huși nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 4/2025 privind atestarea inventarului bunurilor care aparţin domeniului public al municipiului Huşi, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_04_2025.pdf",
+     "sha256": "5bea0eef2816f4d417ca6ba48641bfe57c9c8129fe2923f051fb84e8cd0d1a9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-400-2025",
+   "path": "local/vaslui/husi/2025/400",
+   "short": "HCL Huși nr. 400/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 400/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_400_2025.pdf",
+     "sha256": "7b4843beb6e3c0303aecd287136a53fa9268572730bfcf0b97f1e5b34c7c0fe4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-401-2025",
+   "path": "local/vaslui/husi/2025/401",
+   "short": "HCL Huși nr. 401/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 401/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_401_2025.pdf",
+     "sha256": "fe8a226f389cbe59deab5d82a6b81cacf47ead39f13b38a20819c541be4a3787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-402-2025",
+   "path": "local/vaslui/husi/2025/402",
+   "short": "HCL Huși nr. 402/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 402/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_402_2025.pdf",
+     "sha256": "19a86522752ddd9d5cdb1643397e34aac717d4ed913fd58e7fcc5c6db1481f5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-403-2025",
+   "path": "local/vaslui/husi/2025/403",
+   "short": "HCL Huși nr. 403/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 403/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_403_2025.pdf",
+     "sha256": "8654a29b219f525150e182a988d5b2effe409406e5a14389928f7c54c88408e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-404-2025",
+   "path": "local/vaslui/husi/2025/404",
+   "short": "HCL Huși nr. 404/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 404/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_404_2025.pdf",
+     "sha256": "c030b2a93be7ef3300c1379a456a12346988f19cdb54e2ebdab6ababe51ba41a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-405-2025",
+   "path": "local/vaslui/husi/2025/405",
+   "short": "HCL Huși nr. 405/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 405/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_405_2025.pdf",
+     "sha256": "5fe9a35cb2e7aa59eaf11ce8a79313cc17ed567102fd3d6846d379a60288be2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-406-2025",
+   "path": "local/vaslui/husi/2025/406",
+   "short": "HCL Huși nr. 406/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 406/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str.Ioan G",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_406_2025.pdf",
+     "sha256": "365cedcac9528835ced9ebc5832354cf6ed3754465c85eb840ffd370f96d2c4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-407-2025",
+   "path": "local/vaslui/husi/2025/407",
+   "short": "HCL Huși nr. 407/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 407/2025 privind atribuirea cu titlu gratuit a unui lot de teren in suprafata de 300 mp, situat in intravilanul municipiului Husi, str",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_407_2025.pdf",
+     "sha256": "eb1a2d1f4fe2fe09e0230c1f87cf29a830abb1f5cbf3905b9b5c024bf5fc8cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-408-2025",
+   "path": "local/vaslui/husi/2025/408",
+   "short": "HCL Huși nr. 408/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 408/2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_408_2025.pdf",
+     "sha256": "db1fddcc2b4ea889128a0a3b569eeef1fb5aed5d6eb9b8db67769e5706c00bec"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-409-2025",
    "path": "local/vaslui/husi/2025/409",
    "short": "HCL Huși nr. 409/2025",
@@ -2174,6 +3494,21 @@
      "units": 20,
      "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_409_2025.pdf",
      "sha256": "718e7a5267b4cff9565ec8e7d4e0480e9b89e99fca6005674b59f58abaaa513d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-41-2025",
+   "path": "local/vaslui/husi/2025/41",
+   "short": "HCL Huși nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 41/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local al municipiului Huşi pentru luna februarie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-05-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_41_2025.pdf",
+     "sha256": "6c518eb05acf68f9194ba9c933d7f3b1e4816cdfa6845504969b18f93ceb4030"
     }
    ]
   },
@@ -2268,6 +3603,216 @@
    ]
   },
   {
+   "slug": "hcl-vaslui--husi-417-2025",
+   "path": "local/vaslui/husi/2025/417",
+   "short": "HCL Huși nr. 417/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 417/2025 privind rectificarea bugetului local etapa II decembrie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-29-decembrie-2025/",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2026/01/hotararea_417_2025.pdf",
+     "sha256": "e00bc3df019bf549afa1d6c8910486252de29b06fa7c0b3baeb37793ecf4b1ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-42-2025",
+   "path": "local/vaslui/husi/2025/42",
+   "short": "HCL Huși nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 42/2025",
+   "url": "https://www.primariahusi.ro/hotarari-05-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_42_2025.pdf",
+     "sha256": "1bbeb2503f3145dc9311262e5953f5d043bb499b8380f76cc78c7ca08c16e0e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-43-2025",
+   "path": "local/vaslui/husi/2025/43",
+   "short": "HCL Huși nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 43/2025",
+   "url": "https://www.primariahusi.ro/hotarari-13-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/wp-content/uploads/2025/11/hotararea_43_2025.pdf",
+     "sha256": "5c384c9a9c65538ccdf78c963e59979cb07ac26467e613718980f510b5a2649a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-44-2025",
+   "path": "local/vaslui/husi/2025/44",
+   "short": "HCL Huși nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 44/2025 privind aprobarea tipului de suport alimentar acordat prescolarilor si elevilor Scolii Gimnaziale “Ion Creanga” Husi, in cadrul Programului national “Masa Sanatoasa”",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_44_2025.pdf",
+     "sha256": "a6e47bd30c0437ef681106443d3d4fd2f7451ce04959e1a923e4a0c0856edcf2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-45-2025",
+   "path": "local/vaslui/husi/2025/45",
+   "short": "HCL Huși nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 45/2025 privind aprobarea tipului de suport alimentar acordat elevilor Scolii Gimnaziale “Anastasie Panu” Husi, in cadrul Programului national “Masa Sanatoasa”",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_45_2025.pdf",
+     "sha256": "eb1daa609276edb67b310948918f2cfe2b0ad9a4479329b61751d501ef2ea017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-47-2025",
+   "path": "local/vaslui/husi/2025/47",
+   "short": "HCL Huși nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 47/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_47_2025.pdf",
+     "sha256": "7e7bbfec7807fea7b50af42533bc072e207cc4ed8411f490a937cf4a96cc4754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-49-2025",
+   "path": "local/vaslui/husi/2025/49",
+   "short": "HCL Huși nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 49/2025 privind completarea Inventarului bunurilor mobile care aparțin domeniului privat al municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_49_2025.pdf",
+     "sha256": "c65776dfc3959fa6c5b0a8c497e0d1d23e74d45e19589dd218900fd3a776ff03"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-5-2025",
+   "path": "local/vaslui/husi/2025/5",
+   "short": "HCL Huși nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 5/2025 privind aprobarea alipirii imobilului- teren aparținând domeniului privat al municipiului Huși,cu nr. cadastral 78900, in suprafata de 301 mp cu imobilul-teren apartinând domeniului privat al municipiului Huși cu nr. cadastral 78901, in suprafata de 304 mp",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_05_2025.pdf",
+     "sha256": "7f54a92823ab09137577d88b193ad207e7f2f371b783861d971c9919a6f7349b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-51-2025",
+   "path": "local/vaslui/husi/2025/51",
+   "short": "HCL Huși nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 51/2025 privind aprobarea prelungirii duratei a două contracte de închiriere pentru terenuri apartinând domeniului public al municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_51_2025.pdf",
+     "sha256": "8f5b28a6d0c46250d09775017fc6b23e8e0f1e466ef77b43ab507cdfecde2f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-59-2025",
+   "path": "local/vaslui/husi/2025/59",
+   "short": "HCL Huși nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 59/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_59_2025.pdf",
+     "sha256": "4414cfc46138bbf50615e141c45fcd14650f798be669019351f0c3583dc38546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-6-2025",
+   "path": "local/vaslui/husi/2025/6",
+   "short": "HCL Huși nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 6/2025 privind preluarea contractului de concesiune nr. 16690 din 31.05.2023 pentru terenul in suprafață de 300 mp, apartinând domeniului privat al Municipiului Huși, aflat în proprietatea municipiului Huși, situat în Cartier Dric 1, strada Ieremia Movilă, nr.28",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_06_2025.pdf",
+     "sha256": "6d006974a2535f1d304fe875fd9aa0fa4fe82a47b54633844b26ba691057e819"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-60-2025",
+   "path": "local/vaslui/husi/2025/60",
+   "short": "HCL Huși nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 60/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_60_2025.pdf",
+     "sha256": "078fd086dc93fc0189068cb452224a2be9b330e9622cfa1e61c51d2da3624f0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-63-2025",
+   "path": "local/vaslui/husi/2025/63",
+   "short": "HCL Huși nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 63/2025 privind aprobarea modificarii și completării Contractului de administrare nr.28929/20.12.2016, incheiat cu Colegiul Agricol ,,Dimitrie Cantemir”",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_63_2025.pdf",
+     "sha256": "2bbeedc116d0e9c5ca6759bfb408d314d38adc049b8ae705e1d2378b7bb4ba2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-71-2025",
+   "path": "local/vaslui/husi/2025/71",
+   "short": "HCL Huși nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 71/2025 privind aprobarea Studiului de fezabilitate si a indicatorilor tehnico-economici la faza SF, ai obiectivului de investitii “Realizarea infrastructurii educationale pentru invatamantul liceal-Constructia unui corp de cladire (P+1) pe actualul amplasament al Bibliotecii Colegiului Na",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_71_2025.pdf",
+     "sha256": "1752d4aefb1727161b8f28955d5af498ecf54d77ecaefc4baef495f7ec042b05"
+    }
+   ]
+  },
+  {
    "slug": "hcl-vaslui--husi-72-2025",
    "path": "local/vaslui/husi/2025/72",
    "short": "HCL Huși nr. 72/2025",
@@ -2279,6 +3824,291 @@
      "units": 1,
      "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_72_2025.pdf",
      "sha256": "51e7fffd6e470b2953a5057ab10a217610f5795801e55ff6ec416ab9530e505c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-74-2025",
+   "path": "local/vaslui/husi/2025/74",
+   "short": "HCL Huși nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 74/2025 privind modificarea statului de functii al personalului din cadrul aparatului de specialitate al primarului municipiului Husi",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_74_2025.pdf",
+     "sha256": "ec4ee838cd941675e0741083255e67854da3b4338d8626c36e41e0174c059b08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-75-2025",
+   "path": "local/vaslui/husi/2025/75",
+   "short": "HCL Huși nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 75/2025 privind aprobarea vânzării prin licitaţie publică a imobilului Centrală termică nr.5, situată în Huși, strada Școlii, nr.19A, aparținând domeniului privat al municipiului Huși, aflat în proprietatea municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_75_2025.pdf",
+     "sha256": "0966fbe4a0166f15af98cc0520a9ebc787c3106e0ec23062041d7a37aae5763a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-76-2025",
+   "path": "local/vaslui/husi/2025/76",
+   "short": "HCL Huși nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 76/2025 privind aprobarea concesionării prin licitaţie publică a terenului în suprafaţă de 9,00 mp, aparţinând domeniului privat al municipiului Huşi, aflat în proprietatea municipiului Huşi, situat pe strada 1 Decembrie, nr.26B",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_76_2025.pdf",
+     "sha256": "97bff3fdffbe27207aff1145e7067136fe26ca7b98a122243424be43b42590ac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-77-2025",
+   "path": "local/vaslui/husi/2025/77",
+   "short": "HCL Huși nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 77/2025 privind desemnarea reprezentanților Consiliului Local al municipiului Huşi în Comisiile pentru Evaluarea şi Asigurarea Calităţii Educaţiei, înfiinţate în unităţile de învăţământ de stat preuniversitar din municipiul Huşi, pentru mandatul 2024-2028",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_77_2025.pdf",
+     "sha256": "7171049031e8b4fa80f09a32ae90fbd20efd2afd1c0c5cb1d3c173d7c12f858b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-78-2025",
+   "path": "local/vaslui/husi/2025/78",
+   "short": "HCL Huși nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 78/2025 privind aprobarea procedurii de subventionare in anul 2025, de la bugetul local al municipiului Husi, in baza Legii nr.34/1998, cu modificarile si completarile ulterioare, a asociatiilor, fundatiilor si cultelor recunoscute in Romania, acreditate ca furnizori de servicii sociale, c",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_78_2025.pdf",
+     "sha256": "234ab2a37dc1ec94a0ba88543112ea4f62187fb34625fdf806a8982b74175b38"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-79-2025",
+   "path": "local/vaslui/husi/2025/79",
+   "short": "HCL Huși nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 79/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială, pentru anul 2025, la nivelul Municipiului Huși, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_79_2025.pdf",
+     "sha256": "7bfdb350c666095e42f6c64e56968a47a4b9793c2a86e5b18c97caaf40d64436"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-8-2025",
+   "path": "local/vaslui/husi/2025/8",
+   "short": "HCL Huși nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 8/2025",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_08_2025.pdf",
+     "sha256": "ff512cc925125170ee1d09a97ee5efb9f5ae1fc815e9f02a8780a9ed0819dbeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-80-2025",
+   "path": "local/vaslui/husi/2025/80",
+   "short": "HCL Huși nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 80/2025 privind transmiterea in folosinta gratuita a două autoturisme Dacia Spring Extreme 65 ce fac parte din domeniul privat al Municipiului Husi, catre Poliția Locală a Municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_80_2025.pdf",
+     "sha256": "2fa8073d6ddbad4399be165d2b0e615640531568a608d82fd70699dc963d0e3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-81-2025",
+   "path": "local/vaslui/husi/2025/81",
+   "short": "HCL Huși nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 81/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_81_2025.pdf",
+     "sha256": "15f16079d3ced7321d0f04885a967ecfe05c4a44f80b20d591bb26590e5a0469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-82-2025",
+   "path": "local/vaslui/husi/2025/82",
+   "short": "HCL Huși nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 82/2025 privind aprobarea constituirii si a componentei Comisiei de evaluare si selectionare a asociatiilor, fundatiilor si cultelor recunoscute in Romania, acreditate ca furnizori de servicii sociale, care pot primi subventii de la bugetul local in baza Legii nr.34/1998,in completarea res",
+   "url": "https://www.primariahusi.ro/hotarari-27-februarie-2025/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_82_2025.pdf",
+     "sha256": "b48cb3c720c859900904d196543254a9515949f458b01d45ae81915a36c9cad3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-84-2025",
+   "path": "local/vaslui/husi/2025/84",
+   "short": "HCL Huși nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 84/2025 privind alegerea preşedintelui de şedinţă a Consiliului Local al municipiului Huşi pentru luna martie 2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_84_2025.pdf",
+     "sha256": "ebfe372bd8422b7d8645e833dd2d36c0ee61a541ff84a0d5cec4c44c2e823eff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-85-2025",
+   "path": "local/vaslui/husi/2025/85",
+   "short": "HCL Huși nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 85/2025 privind aprobarea Planului anual de actiune pentru serviciile sociale administrate si finantate din bugetul Consiliului local al municipiului Husi pentru anul 2025 – (Anexa)",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-27",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_85_2025.pdf",
+     "sha256": "f9e72cff7c511bc4381256618da5665c922e4fcb45e001e540c96f4a12e3b3e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-87-2025",
+   "path": "local/vaslui/husi/2025/87",
+   "short": "HCL Huși nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 87/2025 privind alocarea sumei de 200.385,26 lei fără TVA pentru realizarea de branșamente de apă potabilă și branșamente de canalizare menajera in cartierul Dric 3, din municipiul Huși, județul Vaslui",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_87_2025.pdf",
+     "sha256": "3d2bf0194912eca187cc78bc606065b655405c939cc5cf506ec1daf6846635c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-9-2025",
+   "path": "local/vaslui/husi/2025/9",
+   "short": "HCL Huși nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 9/2025 privind modificarea şi completarea Inventarului bunurilor mobile şi imobile care aparțin domeniului privat al municipiului Huși",
+   "url": "https://www.primariahusi.ro/hotarari-30-ianuarie-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_09_2025.pdf",
+     "sha256": "64e3102cb1da02679560d6a6a42d131fd4f18854c865d56d90328a2c67c9e2da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-93-2025",
+   "path": "local/vaslui/husi/2025/93",
+   "short": "HCL Huși nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 93/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 79846 în 2 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat in Cartier Dric 3",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_93_2025.pdf",
+     "sha256": "c9b76e596b24a718ce6f41b3922af555c1c89caba528e18e4c65578844c99877"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-94-2025",
+   "path": "local/vaslui/husi/2025/94",
+   "short": "HCL Huși nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 94/2025 privind aprobarea dezmembrării imobilului-teren cu nr.cadastral 78605 în 4 loturi distincte, teren apartinand domeniului privat al Municipiului Husi, situat in Cartier Dric 2",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_94_2025.pdf",
+     "sha256": "d9473eb7b9ac29f07a4da909acc0e2ebdd5d4bf30a36f6b5377d023222f8dd75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-96-2025",
+   "path": "local/vaslui/husi/2025/96",
+   "short": "HCL Huși nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 96/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_96_2025.pdf",
+     "sha256": "01d9767907da37c7a0b3b61c4930b43f6c57fb647d20f5cab655b50e327eefb2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-97-2025",
+   "path": "local/vaslui/husi/2025/97",
+   "short": "HCL Huși nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 97/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_97_2025.pdf",
+     "sha256": "de7b546ca1e2eeea0fa46ad958dc088b7087b4f53d3cf83c903bdea22cd3397d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--husi-98-2025",
+   "path": "local/vaslui/husi/2025/98",
+   "short": "HCL Huși nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Huși nr. 98/2025",
+   "url": "https://www.primariahusi.ro/hotarari-27-martie-2025/",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://www.primariahusi.ro/documente/hotarari/hotarari_2025/hotararea_98_2025.pdf",
+     "sha256": "cebaff724a46736406eb615209fe7205e79dee3bec77dce29465d5cd5cd9a794"
     }
    ]
   }

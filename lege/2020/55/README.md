@@ -94,3 +94,13 @@ Act id: `legea-55-2020` (tags `legea-55-2020/<day>`; `python tools/on.py <day> l
 - Legea nr. 55/2020: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 60 such paragraphs across all forms, for example «Alineatul (3) din Articolul 4 și-a încetat efectele juridice», «Alineatul (4) din Articolul 4 și-a încetat efectele juridice», «Litera ș) din Articolul 65 și-a încetat efectele juridice co».
 - Legea nr. 55/2020: 2 changed article(s) with no note naming a law, committed as the publisher's: 2020-08-15 art-004, 2020-08-15 art-065.
 - Legea nr. 55/2020: forms with no change after normalisation, so no version: 2020-07-01 (227205), 2021-07-12 (243622), 2021-09-24 (245729), 2022-03-25 (252865).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 392/2021](../../../jurisprudenta/ccr/2021/392/)**, Monitorul Oficial nr. 688 din 12 iulie 2021 · art. 72 alin. (2); art. 72 alin. (1) · provisions read together with others
+
+  > constată că dispozițiile art. 72 alin. (2) din Legea nr. 55/2020 privind unele măsuri pentru prevenirea și combaterea efectelor pandemiei de COVID-19, cu referire la art. 42 alin. (3) din Ordonanța de urgență a Guvernului nr. 21/2004 privind Sistemul Național de Management al Situațiilor de Urgență, precum și soluția legislativă din art. 72 alin. (1) din Legea nr. 55/2020, potrivit căreia dispozițiile acestei legi se completează cu reglementările de drept comun aplicabile în materie în ceea ce privește soluționarea acțiunilor formulate împotriva hotărârilor Guvernului prin care se instituie, se prelungește sau se încetează starea de alertă, precum și a ordinelor și a instrucțiunilor prin care se stabilește aplicarea unor măsuri pe durata stării de alertă, sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-07-12) and ceases to have legal effect 45 days later, on 2021-08-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

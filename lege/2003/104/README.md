@@ -44,3 +44,13 @@ Act id: `legea-104-2003` (tags `legea-104-2003/<day>`; `python tools/on.py <day>
 - Legea nr. 104/2003: the forms of 26 September 2004 and 1 May 2006 differ from the earlier forms in diacritics and punctuation (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - Legea nr. 104/2003: 29 changed article(s) with no note naming a law, committed as the publisher's: 2004-09-26 art-001, 2004-09-26 art-004, 2004-09-26 art-005, 2004-09-26 art-008, 2004-09-26 art-010, 2004-09-26 art-011, 2004-09-26 art-017, 2004-09-26 art-019, 2004-09-26 art-021, 2004-09-26 art-023, 2006-05-01 art-002, 2006-05-01 art-003, 2006-05-01 art-004, 2006-05-01 art-005, 2006-05-01 art-006, 2006-05-01 art-007, 2006-05-01 art-008, 2006-05-01 art-009, 2006-05-01 art-010, 2006-05-01 art-011, 2006-05-01 art-012, 2006-05-01 art-013, 2006-05-01 art-015, 2006-05-01 art-016, 2006-05-01 art-018, 2006-05-01 art-019, 2006-05-01 art-020, 2006-05-01 art-026, 2006-05-01 art-029.
 - Legea nr. 104/2003: forms with no change after normalisation, so no version: 2020-03-12 (223557), 2020-04-26 (224221).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 53/2020](../../../jurisprudenta/ccr/2020/53/)**, Monitorul Oficial nr. 199 din 12 martie 2020 · art. 22 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 22 din Legea nr. 104/2003 privind manipularea cadavrelor umane și prelevarea organelor și țesuturilor de la cadavre în vederea transplantului, care exclude personalul care desfășoară activitatea de anatomie patologică și prosectură în instituțiile de medicină legală de la încadrarea în categoria locurilor de muncă în condiții deosebite de muncă, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-03-12) and ceases to have legal effect 45 days later, on 2020-04-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

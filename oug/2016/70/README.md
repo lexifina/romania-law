@@ -19,3 +19,13 @@ Act id: `oug-70-2016` (tags `oug-70-2016/<day>`; `python tools/on.py <day> oug-7
 - OUG nr. 70/2016: the form of 29 May 2019 (214247) prints no note, and it differs from the text as published in arts. I and II only in how the quoted articles of the Codul de procedură penală and of Legea nr. 304/2004 are typeset: the text as published opens each with its number and a dash inside quotation marks ("Art. 434. - (1) ...") and closes it with a quotation mark, and the form prints "Articolul 434" and the provisions without the quotation marks; the lines of dots that stand for omitted text are printed with a different number of dots. The wording is the same word for word. The change is the publisher's and credited to no law. The form of 13 July 2019 (216989) prints the same text and is unchanged.
 - OUG nr. 70/2016: 2 changed article(s) with no note naming a law, committed as the publisher's: 2019-05-29 art-001, 2019-05-29 art-002.
 - OUG nr. 70/2016: forms with no change after normalisation, so no version: 2019-07-13 (216989).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 220/2019](../../../jurisprudenta/ccr/2019/220/)**, Monitorul Oficial nr. 421 din 29 mai 2019 · art. III lit. a) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. III lit. a) din Ordonanța de urgență a Guvernului nr. 70/2016 pentru modificarea și completarea Codului de procedură penală și a Legii nr. 304/2004 privind organizarea judiciară care exclude atacarea cu recurs în casație a deciziilor Înaltei Curți de Casație și Justiție, ca instanță de apel, pronunțate anterior datei de 24 octombrie 2016, data publicării în Monitorul Oficial al României, Partea I, a Deciziei Curții Constituționale nr. 540 din 12 iulie 2016 și pentru care nu a fost epuizat termenul prevăzut de art. 435 din Codul de procedură penală, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-05-29) and ceases to have legal effect 45 days later, on 2019-07-13, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -505,3 +505,37 @@ These changes were first published credited to another law. The words are unchan
 - `art-070.md`, in force from 2024-06-28: OUG nr. 82/2024 (first published as no law named).
 - `art-076.md`, in force from 2024-06-28: OUG nr. 82/2024 (first published as no law named).
 - `art-077-1.md`, in force from 2024-06-28: OUG nr. 82/2024 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 258/2017](../../../jurisprudenta/ccr/2017/258/)**, Monitorul Oficial nr. 574 din 18 iulie 2017 · art. 22 alin. (8) · only some words or a sentence inside the provision
+
+  > constată că sintagma „precum și în situații temeinic justificate, menționate în actele administrative emise în acest scop“, cuprinsă în art. 22 alin. (8) teza întâi din Legea nr. 360/2002 privind Statutul polițistului, în redactarea anterioară intrării în vigoare a Ordonanței de urgență a Guvernului nr. 21/2016 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-18) and ceases to have legal effect 45 days later, on 2017-09-01, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 298/2021](../../../jurisprudenta/ccr/2021/298/)**, Monitorul Oficial nr. 669 din 7 iulie 2021 · art. 21 alin. (5) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă a art. 21 alin. (5) din Legea nr. 360/2002 privind Statutul polițistului, care exclude absolvenții cu diplomă de licență ai unui program de studii de ordine și siguranță publică, respectiv drept, organizat la forma de învățământ cu frecvență în cadrul Academiei de Poliție „Alexandru Ioan Cuza“ a Ministerului Afacerilor Interne, de la posibilitatea valorificării vechimii în structurile Ministerului Afacerilor Interne în vederea stabilirii gradului profesional acordat după absolvire, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-07-07) and ceases to have legal effect 45 days later, on 2021-08-21, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 548/2021](../../../jurisprudenta/ccr/2021/548/)**, Monitorul Oficial nr. 1015 din 25 octombrie 2021 · art. 58^3 alin. (4) · only some words or a sentence inside the provision
+
+  > constată că dispozițiile art. 58^3 alin. (4) teza întâi din Legea nr. 360/2002 privind Statutul polițistului, în redactarea anterioară modificării prin Ordonanța de urgență a Guvernului nr. 53/2018 pentru modificarea și completarea Legii nr. 360/2002 privind Statutul polițistului, sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-10-25) and ceases to have legal effect 45 days later, on 2021-12-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 789/2021](../../../jurisprudenta/ccr/2021/789/)**, Monitorul Oficial nr. 59 din 19 ianuarie 2022 · art. 27^46 alin. (1) lit. b) · only some words or a sentence inside the provision
+
+  > constată că sintagma „nu este cercetat disciplinar“ din cuprinsul dispozițiilor art. 27^46 alin. (1) lit. b) din Legea nr. 360/2002 privind Statutul polițistului este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-01-19) and ceases to have legal effect 45 days later, on 2022-03-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 88/2023](../../../jurisprudenta/ccr/2023/88/)**, Monitorul Oficial nr. 345 din 25 aprilie 2023 · art. 27^45 lit. b) · only some words or a sentence inside the provision
+
+  > constată că sintagma „nu este cercetat disciplinar“ din cuprinsul dispozițiilor art. 27^45 lit. b) din Legea nr. 360/2002 privind Statutul polițistului este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2023-04-25) and ceases to have legal effect 45 days later, on 2023-06-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

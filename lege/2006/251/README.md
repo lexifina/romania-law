@@ -32,3 +32,13 @@ Act id: `legea-251-2006` (tags `legea-251-2006/<day>`; `python tools/on.py <day>
 - Legea nr. 251/2006: those provisions are art. I pct. 30 (art. 29 alin. (1) lit. d)), 47 (art. 56), 48 (art. 57), 50 (art. 58^1) and, in pct. 53, the line of art. 60^1 alin. (1) lit. b); the first version holds the law without them, and a version on 1 January 2007 adds them, credited to the law.
 - Legea nr. 251/2006: the forms of 25 March 2009 and 1 July 2009 reprint the articles quoted in art. I as "Articolul N" without the quotation marks, under no note; that is the publisher's typesetting, credited to no law.
 - Legea nr. 251/2006: 2 changed article(s) with no note naming a law, committed as the publisher's: 2009-03-25 art-001, 2009-07-01 art-001.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 185/2009](../../../jurisprudenta/ccr/2009/185/)**, Monitorul Oficial nr. 187 din 25 martie 2009 · art. XIII · only some words or a sentence inside the provision
+
+  > constată că dispoziţiile art. XIII din Legea nr. 251/2006 pentru modificarea şi completarea Legii nr. 188/1999 privind Statutul funcţionarilor publici, referitoare la intrarea în vigoare "la 1 ianuarie 2007 a prevederilor art. 29 din Legea nr. 188/1999, republicată, cu modificările ulterioare, precum şi cu modificările şi completările aduse prin Legea nr. 251/2006 ", sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2009-03-25) and ceases to have legal effect 45 days later, on 2009-05-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

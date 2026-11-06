@@ -3033,6 +3033,21 @@
    ]
   },
   {
+   "slug": "ordin-anfp-4500-2008",
+   "path": "ordin/anfp/2008/4500",
+   "short": "Ordin anfp nr. 4500/2008",
+   "title": "Ordinul nr. 4.500/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92264",
+   "versions": [
+    {
+     "from": "2008-05-07",
+     "units": 17,
+     "source_url": "https://web.archive.org/web/20250407115413id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/92264",
+     "sha256": "df3ac070c7a0b4114316a93e923b1250902194950f3c58584ba9e483a1f0dc59"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anofm-112-2008",
    "path": "ordin/anofm/2008/112",
    "short": "Ordin anofm nr. 112/2008",
@@ -10968,6 +10983,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-564-2008",
+   "path": "ordin/interne/2008/564",
+   "short": "Ordin interne nr. 564/2008",
+   "title": "Ordinul nr. 564/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96389",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250424103841id_/https://legislatie.just.ro/Public/DetaliiDocument/96389",
+     "sha256": "8835639caa92ecc21974145e1f764b9676297b51e4b3938919960939aac0758e"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-565-2008",
    "path": "ordin/interne/2008/565",
    "short": "Ordin interne nr. 565/2008",
@@ -14913,6 +14943,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-2008-2008",
+   "path": "ordin/sanatate/2008/2008",
+   "short": "Ordin sanatate nr. 2008/2008",
+   "title": "Ordinul nr. 2.008/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100451",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/100451",
+     "sha256": "8176e411a00e547e6318de90205dfca1bfe489af648ecf19dcbc62e41bb80093"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-2021-2008",
    "path": "ordin/sanatate/2008/2021",
    "short": "Ordin sanatate nr. 2021/2008",
@@ -15029,6 +15074,21 @@
      "units": 2,
      "source_url": "https://web.archive.org/web/20220812061345id_/https://legislatie.just.ro/Public/DetaliiDocument/100759",
      "sha256": "7929dffeaf96f8a56f1a11220b449c7e90779581dbc46dd7298141619d62befd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-2124-2008",
+   "path": "ordin/sanatate/2008/2124",
+   "short": "Ordin sanatate nr. 2124/2008",
+   "title": "Ordinul nr. 2.124/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100762",
+   "versions": [
+    {
+     "from": "2008-12-24",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100762",
+     "sha256": "223b33e6a2760febc32f7ff354ac53edf086d44c76c2e50aa671cbcaee49fcda"
     }
    ]
   },
@@ -16004,6 +16064,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101429",
      "sha256": "250b39ca52adfa82b86011aeaa94dc6d80ec4049541b90a51a0fbed22691f79a"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1553-2008",
+   "path": "ordin/transporturi/2008/1553",
+   "short": "Ordin transporturi nr. 1553/2008",
+   "title": "Ordinul nr. 1.553/2008 pentru aprobarea Reglementării aeronautice civile române RACR-ASMET \"Asistența meteorologică a activităților aeronautice civile\", ediția 4/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100725",
+   "versions": [
+    {
+     "from": "2008-12-23",
+     "units": 5,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100725",
+     "sha256": "9e9608410566ce9575c70f15e6f8024103bee5e165c0b09b869127075bad6626"
     }
    ]
   },

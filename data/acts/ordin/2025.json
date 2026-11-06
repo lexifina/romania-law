@@ -1950,6 +1950,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-396-2025",
+"path": "ordin/anaf/2025/396",
+"kind": "ordin",
+"year": "2025",
+"number": "396",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 396/2025 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a formularului 217 \"Declarație privind impozitul pe veniturile din transferul dezmembrămintelor dreptului de proprietate sub condiție suspensivă\"",
+"short": "Ordin anaf nr. 396/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/296042",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-402-2025",
 "path": "ordin/anaf/2025/402",
 "kind": "ordin",
@@ -7685,6 +7704,25 @@
 "joint": []
 },
 {
+"slug": "ordin-concurenta-1829-2025",
+"path": "ordin/concurenta/2025/1829",
+"kind": "ordin",
+"year": "2025",
+"number": "1829",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.829/2025 privind punerea în aplicare a Instrucțiunilor pentru aprobarea modelului-cadru al metodologiei de stabilire a structurii tarifelor de utilizare a infrastructurii portuare pentru porturile maritime din rețeaua transeuropeană de transport",
+"short": "Ordin concurenta nr. 1829/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-07-23",
+"latest": "2025-07-23",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299964",
+"issuer": "concurenta",
+"joint": []
+},
+{
 "slug": "ordin-concurenta-2111-2025",
 "path": "ordin/concurenta/2025/2111",
 "kind": "ordin",
@@ -8481,6 +8519,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/302515",
 "issuer": "dgia",
 "joint": []
+},
+{
+"slug": "ordin-dizabilitati-28-2025",
+"path": "ordin/dizabilitati/2025/28",
+"kind": "ordin",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 28/2025 ORDIN nr. 28/11/2025 pentru punerea în aplicare a prevederilor art. 78 alin. (2^2)-(2^4) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+"short": "Ordin dizabilitati nr. 28/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-28",
+"latest": "2025-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293935",
+"issuer": "dizabilitati",
+"joint": [
+{
+"issuer": "anofm",
+"nr": "11",
+"date": "2025-01-21",
+"name": "Agenția Națională pentru Ocuparea Forței de Muncă",
+"alias": "ordin-anofm-11-2025"
+}
+]
 },
 {
 "slug": "ordin-dizabilitati-297-2025",
@@ -10280,6 +10345,33 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-3977-2025",
+"path": "ordin/educatie/2025/3977",
+"kind": "ordin",
+"year": "2025",
+"number": "3977",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.977/2025 ORDIN nr. 3.977/1.200/2025 pentru aprobarea calificărilor nou-introduse în Registrul național al calificărilor profesionale din România",
+"short": "Ordin educatie nr. 3977/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-12",
+"latest": "2025-06-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298990",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1200",
+"date": "2025-05-20",
+"name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+"alias": "ordin-munca-1200-2025"
+}
+]
+},
+{
 "slug": "ordin-educatie-3986-2025",
 "path": "ordin/educatie/2025/3986",
 "kind": "ordin",
@@ -10316,6 +10408,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/299027",
 "issuer": "educatie",
 "joint": []
+},
+{
+"slug": "ordin-educatie-4026-2025",
+"path": "ordin/educatie/2025/4026",
+"kind": "ordin",
+"year": "2025",
+"number": "4026",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.026/2025 ORDIN nr. 4.026/1.632/2025 pentru aprobarea Metodologiei-cadru privind înființarea \"Școlii din spital\", precum și a Metodologiei-cadru privind organizarea și funcționarea \"Școlii din spital\"",
+"short": "Ordin educatie nr. 4026/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-18",
+"latest": "2025-06-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/299112",
+"issuer": "educatie",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "1632",
+"date": "2025-05-29",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-1632-2025"
+}
+]
 },
 {
 "slug": "ordin-educatie-4038-2025",
@@ -10447,6 +10566,25 @@
 "from": "2025-05-29",
 "latest": "2025-05-29",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/298422",
+"issuer": "educatie",
+"joint": []
+},
+{
+"slug": "ordin-educatie-4200-2025",
+"path": "ordin/educatie/2025/4200",
+"kind": "ordin",
+"year": "2025",
+"number": "4200",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 4.200/2025 pentru aprobarea Procedurii privind mecanismul de semnalare anonimă a faptelor de violență și a suspiciunilor privind consumul de droguri și alte abateri de la normele de bună conduită în unitățile de învățământ preuniversitar",
+"short": "Ordin educatie nr. 4200/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/298499",
 "issuer": "educatie",
 "joint": []
 },
@@ -12561,6 +12699,25 @@
 "from": "2025-01-14",
 "latest": "2025-01-14",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/293547",
+"issuer": "finante",
+"joint": []
+},
+{
+"slug": "ordin-finante-85-2025",
+"path": "ordin/finante/2025/85",
+"kind": "ordin",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 85/2025 pentru modificarea și completarea unor ordine ale ministrului finanțelor în domeniul contabilității instituțiilor publice",
+"short": "Ordin finante nr. 85/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-01-21",
+"latest": "2025-01-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/293769",
 "issuer": "finante",
 "joint": []
 },
@@ -17429,6 +17586,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-483-2025",
+"path": "ordin/sanatate/2025/483",
+"kind": "ordin",
+"year": "2025",
+"number": "483",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 483/2025 ORDIN nr. 483/78/2025 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 483/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-02-14",
+"latest": "2025-02-14",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/294727",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "78",
+"date": "2025-01-31",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-78-2025"
+}
+]
+},
+{
 "slug": "ordin-sanatate-484-2025",
 "path": "ordin/sanatate/2025/484",
 "kind": "ordin",
@@ -17899,6 +18083,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/301675",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-824-2025",
+"path": "ordin/sanatate/2025/824",
+"kind": "ordin",
+"year": "2025",
+"number": "824",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 824/2025 ORDIN nr. 824/1.370/2025 pentru completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.857/441/2023 privind aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate",
+"short": "Ordin sanatate nr. 824/2025",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/301648",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "1370",
+"date": "2025-08-20",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-1370-2025"
+}
+]
 },
 {
 "slug": "ordin-sanatate-838-2025",

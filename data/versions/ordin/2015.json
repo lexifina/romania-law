@@ -3573,6 +3573,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-160-2015",
+   "path": "ordin/anre/2015/160",
+   "short": "Ordin anre nr. 160/2015",
+   "title": "Ordinul nr. 160/2015 privind modificarea și completarea Codului rețelei pentru Sistemul național de transport al gazelor naturale, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 16/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173463",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 30,
+     "source_url": "https://web.archive.org/web/20250407100812id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/173463",
+     "sha256": "eb9155c57a15987cbe7f7d6ff13bcdb1fef271b37fd1d347b8f600d0ab225156"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-161-2015",
    "path": "ordin/anre/2015/161",
    "short": "Ordin anre nr. 161/2015",
@@ -11223,6 +11238,21 @@
    ]
   },
   {
+   "slug": "ordin-interne-113-2015",
+   "path": "ordin/interne/2015/113",
+   "short": "Ordin interne nr. 113/2015",
+   "title": "Ordinul nr. 113/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/171285",
+   "versions": [
+    {
+     "from": "2015-09-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406220058id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/171285",
+     "sha256": "e011ca696b38e1e44ad10ca0ee8157f4ce0e62dc3e776c65992d8ee3276ff4fb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-interne-115-2015",
    "path": "ordin/interne/2015/115",
    "short": "Ordin interne nr. 115/2015",
@@ -16664,6 +16694,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/169102",
      "sha256": "9687b965864619229d1a9ea09947217da7bbecb3969463104b062971aae7e739"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-746-2015",
+   "path": "ordin/transporturi/2015/746",
+   "short": "Ordin transporturi nr. 746/2015",
+   "title": "Ordinul nr. 746/2015 privind adoptarea amendamentelor necesare adaptării, pentru a treia oară, la progresul științific și tehnic a prevederilor anexelor la Hotărârea Guvernului nr. 1.326/2009 privind transportul mărfurilor periculoase în România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168918",
+   "versions": [
+    {
+     "from": "2015-06-18",
+     "units": 1,
+     "source_url": "https://web.archive.org/web/20250406130022id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/168918",
+     "sha256": "0473f9d3a905c0f5bcac2f8c98d1f7c897babd11debea05ba20ea30bc09bdc26"
     }
    ]
   },

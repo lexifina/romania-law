@@ -58,3 +58,13 @@ Act id: `oug-111-2010` (tags `oug-111-2010/<day>`; `python tools/on.py <day> oug
 - OUG nr. 111/2010: the first version is the emergency ordinance as published in Monitorul Oficial nr. 830 of 10 December 2010 (DetaliiDocumentAfis/124331), dated 1 January 2011: its art. 28 puts it in force on 1 January 2011. The portal holds no consolidated form before 1 July 2011, so the changes made up to then arrive together that day.
 - OUG nr. 111/2010: 16 changed article(s) with no note naming a law, committed as the publisher's: 2012-10-14 art-011, 2012-10-14 art-031, 2014-02-01 art-031, 2014-02-01 art-033, 2014-09-27 art-003, 2014-09-27 art-030, 2014-09-27 art-038, 2017-01-01 art-002, 2017-01-25 art-002, 2017-01-25 art-023, 2017-01-25 art-026, 2017-01-25 art-027, 2017-08-07 art-034, 2019-05-06 art-011, 2021-05-17 art-017, 2023-09-19 art-018.
 - OUG nr. 111/2010: forms with no change after normalisation, so no version: 2020-03-21 (223649), 2021-04-08 (240500), 2021-05-27 (242500), 2021-07-11 (245502).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 232/2021](../../../jurisprudenta/ccr/2021/232/)**, Monitorul Oficial nr. 549 din 27 mai 2021 · art. 20 alin. (1) · provisions read together with others
+
+  > constată că dispozițiile art. 20 alin. (1) din Ordonanța de urgență a Guvernului nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor, cu referire la indemnizația lunară pentru creșterea copiilor prevăzută la art. 2 alin. (1) din acest act normativ, sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-27) and ceases to have legal effect 45 days later, on 2021-07-11, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

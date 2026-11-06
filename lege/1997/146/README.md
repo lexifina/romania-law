@@ -25,3 +25,13 @@ Act id: `legea-146-1997` (tags `legea-146-1997/<day>`; `python tools/on.py <day>
 - Legea nr. 146/1997: repeals dated before the form that first leaves the article out: 2004-05-29 (art-022; form 01.01.2005).
 - Legea nr. 146/1997: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 06.07.2009 art-022.
 - Legea nr. 146/1997: 34 changed article(s) with no note naming a law, committed as the publisher's: 2001-08-28 art-021, 2009-04-11 art-006, 2009-07-06 art-001, 2009-07-06 art-002, 2009-07-06 art-003, 2009-07-06 art-003-1, 2009-07-06 art-004, 2009-07-06 art-005, 2009-07-06 art-006, 2009-07-06 art-007, 2009-07-06 art-008, 2009-07-06 art-008-1, 2009-07-06 art-008-2, 2009-07-06 art-009, 2009-07-06 art-010, 2009-07-06 art-011, 2009-07-06 art-013, 2009-07-06 art-014, 2009-07-06 art-016, 2009-07-06 art-016-1, 2009-07-06 art-020, 2009-07-06 art-021, 2009-07-06 art-023, 2009-07-06 art-027, 2009-07-06 art-029, 2009-07-06 art-030, 2009-07-16 art-008-2, 2009-07-16 art-015, 2009-07-16 art-016-1, 2009-07-16 art-021, 2013-02-15 art-003-2, 2013-02-15 art-006, 2013-02-15 art-008-2, 2013-02-15 art-009.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 233/2003](../../../jurisprudenta/ccr/2003/233/)**, Monitorul Oficial nr. 537 din 25 iulie 2003 · art. 18 alin. (2) · decided before the 2003 revision of the Constitution
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 18 alin. (2) din Legea nr. 146/1997 privind taxele judiciare de timbru, cu modificările şi completările ulterioare \[…\] şi constata ca aceste dispoziţii sunt neconstituţionale în măsura în care se referă şi la taxele judiciare de timbru stabilite de instanţele judecătoreşti.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2003-07-25; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

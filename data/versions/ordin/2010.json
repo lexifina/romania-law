@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-120-2010",
+   "path": "ordin/agricultura/2010/120",
+   "short": "Ordin agricultura nr. 120/2010",
+   "title": "Ordinul nr. 120/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119233",
+   "versions": [
+    {
+     "from": "2010-06-03",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20161022161913id_/https://legislatie.just.ro/Public/DetaliiDocument/119233",
+     "sha256": "0d7ee2716d745e0b43a4b97d0cc918a03dce9557679a58b6449d0efd71485357"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-123-2010",
    "path": "ordin/agricultura/2010/123",
    "short": "Ordin agricultura nr. 123/2010",
@@ -689,6 +704,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123509",
      "sha256": "8fcdde737e5ed764dae1e4aa1793ae3074fb467cfe3a78bfa52e734072cdacef"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-agricultura-252-2010",
+   "path": "ordin/agricultura/2010/252",
+   "short": "Ordin agricultura nr. 252/2010",
+   "title": "Ordinul nr. 252/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123510",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407024917id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/123510",
+     "sha256": "753ef6cdb741cea3bd5046404d4da27d699cf2329e3bc89ccfd50f45f15e95a8"
     }
    ]
   },
@@ -1578,6 +1608,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-2238-2010",
+   "path": "ordin/anaf/2010/2238",
+   "short": "Ordin anaf nr. 2238/2010",
+   "title": "Ordinul nr. 2.238/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121123",
+   "versions": [
+    {
+     "from": "2010-08-02",
+     "units": 4,
+     "source_url": "https://web.archive.org/web/20250406083159id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/121123",
+     "sha256": "6fd20fbff4228b30bb02d256b674ec5707fedc716d66581deccfc35275f1aace"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-2245-2010",
    "path": "ordin/anaf/2010/2245",
    "short": "Ordin anaf nr. 2245/2010",
@@ -1713,6 +1758,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-2568-2010",
+   "path": "ordin/anaf/2010/2568",
+   "short": "Ordin anaf nr. 2568/2010",
+   "title": "Ordinul nr. 2.568/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122891",
+   "versions": [
+    {
+     "from": "2010-10-21",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406225422id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/122891",
+     "sha256": "1c4713a50786f66a58f67be77066bbd7b3241f5204ce9f80d58dd069fcadb0af"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-2584-2010",
    "path": "ordin/anaf/2010/2584",
    "short": "Ordin anaf nr. 2584/2010",
@@ -1784,6 +1844,21 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123884",
      "sha256": "d1dbaae5f9e0115104c608322d49d0508e2b7e2abdba941d91f412c1c49e817c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anaf-2730-2010",
+   "path": "ordin/anaf/2010/2730",
+   "short": "Ordin anaf nr. 2730/2010",
+   "title": "Ordinul nr. 2.730/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124249",
+   "versions": [
+    {
+     "from": "2010-12-08",
+     "units": 12,
+     "source_url": "https://web.archive.org/web/20250406153919id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/124249",
+     "sha256": "089f1884aa9cc1e2ab3850fa8cb75ffa934c35532d39cae0f4275b61d322799c"
     }
    ]
   },
@@ -4694,6 +4769,21 @@
      "units": 7,
      "source_url": "https://web.archive.org/web/20250406210258id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120464",
      "sha256": "a03cd569a6eee12cb493219ded7538f50875a2378ed6bb477372e1196037777b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-7-2010",
+   "path": "ordin/bnr/2010/7",
+   "short": "Ordin bnr nr. 7/2010",
+   "title": "Ordinul nr. 7/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120493",
+   "versions": [
+    {
+     "from": "2010-07-14",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250407014245id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/120493",
+     "sha256": "9de9d609048a20c5b709069f58f3b683793bb1870ffa3fa855cacdde7f70f5ee"
     }
    ]
   },
@@ -8009,6 +8099,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118518",
      "sha256": "0b199c1d097d83e8f929f1f67db76f4bdcd3520c782365b697ebe8d712bf9d10"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-1059-2010",
+   "path": "ordin/finante/2010/1059",
+   "short": "Ordin finante nr. 1059/2010",
+   "title": "Ordinul nr. 1.059/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118736",
+   "versions": [
+    {
+     "from": "2010-05-14",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250407045531id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/118736",
+     "sha256": "c88ad5535fbb2e73ddddd9206d9afd35653f67f920cc4cd842388b12a62e55b0"
     }
    ]
   },
@@ -15449,6 +15554,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117209",
      "sha256": "e8f5520c59f50bbaa4a252e2df203b15687e4c1d3758d20365650f910f65056e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-vama-6709-2010",
+   "path": "ordin/vama/2010/6709",
+   "short": "Ordin vama nr. 6709/2010",
+   "title": "Ordinul nr. 6.709/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121070",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407103237id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/121070",
+     "sha256": "00e135d3435c476c77a9a9d7cdcf8c7b83a2bc365d828edf7570099f11fc6009"
     }
    ]
   },

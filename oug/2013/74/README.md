@@ -41,3 +41,13 @@ Act id: `oug-74-2013` (tags `oug-74-2013/<day>`; `python tools/on.py <day> oug-7
 - OUG nr. 74/2013: the form of 22 November 2024 moves the day in art. 3 from 1 January 2025 to 1 March 2025 (wording changed with no note and no amending act identified): the printed text is kept, dated by that form, and no law is credited.
 - OUG nr. 74/2013: 6 changed article(s) with no note naming a law, committed as the publisher's: 2014-10-27 art-019, 2019-11-11 art-007, 2019-11-11 art-021, 2019-11-11 art-022, 2019-11-11 art-024, 2024-11-22 art-003.
 - OUG nr. 74/2013: forms with no change after normalisation, so no version: 2024-04-24 (281052).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 80/2024](../../../jurisprudenta/ccr/2024/80/)**, Monitorul Oficial nr. 382 din 24 aprilie 2024 · art. 8 alin. (4) · only some words or a sentence inside the provision
+
+  > constată că sintagma „care au valoare probatorie de înscrisuri în procesul penal“ din cuprinsul art. 8 alin. (4) din Ordonanța de urgență a Guvernului nr. 74/2013 privind unele măsuri pentru îmbunătățirea și reorganizarea activității Agenției Naționale de Administrare Fiscală, precum și pentru modificarea și completarea unor acte normative este neconstituțională în ceea ce privește procesul-verbal și actul de control încheiate potrivit art. 8 alin. (3) din același act normativ, precum și în ceea ce privește „explicațiile scrise solicitate în condițiile art. 6 alin. (2) lit. f)“ din același act normativ.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2024-04-24) and ceases to have legal effect 45 days later, on 2024-06-08, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

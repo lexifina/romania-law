@@ -2391,6 +2391,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-3330-2013",
+"path": "ordin/anaf/2013/3330",
+"kind": "ordin",
+"year": "2013",
+"number": "3330",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.330/2013",
+"short": "Ordin anaf nr. 3330/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-10-30",
+"latest": "2013-10-30",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/152183",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-3331-2013",
 "path": "ordin/anaf/2013/3331",
 "kind": "ordin",
@@ -8019,6 +8038,25 @@
 "joint": []
 },
 {
+"slug": "ordin-csa-3-2013",
+"path": "ordin/csa/2013/3",
+"kind": "ordin",
+"year": "2013",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3/2013",
+"short": "Ordin csa nr. 3/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-01-18",
+"latest": "2013-01-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/144771",
+"issuer": "csa",
+"joint": []
+},
+{
 "slug": "ordin-csa-4-2013",
 "path": "ordin/csa/2013/4",
 "kind": "ordin",
@@ -9247,6 +9285,25 @@
 "from": "2013-12-12",
 "latest": "2013-12-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/153577",
+"issuer": "dezvoltare",
+"joint": []
+},
+{
+"slug": "ordin-dezvoltare-3482-2013",
+"path": "ordin/dezvoltare/2013/3482",
+"kind": "ordin",
+"year": "2013",
+"number": "3482",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.482/2013",
+"short": "Ordin dezvoltare nr. 3482/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-12-18",
+"latest": "2013-12-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/153772",
 "issuer": "dezvoltare",
 "joint": []
 },
@@ -18621,6 +18678,25 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-724-2013",
+"path": "ordin/sanatate/2013/724",
+"kind": "ordin",
+"year": "2013",
+"number": "724",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 724/2013",
+"short": "Ordin sanatate nr. 724/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-06-10",
+"latest": "2013-06-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/148830",
+"issuer": "sanatate",
+"joint": []
+},
+{
 "slug": "ordin-sanatate-753-2013",
 "path": "ordin/sanatate/2013/753",
 "kind": "ordin",
@@ -18795,6 +18871,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/149887",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-851-2013",
+"path": "ordin/sanatate/2013/851",
+"kind": "ordin",
+"year": "2013",
+"number": "851",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 851/2013",
+"short": "Ordin sanatate nr. 851/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-07-12",
+"latest": "2013-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/149738",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "384",
+"date": "2013-07-04",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-384-2013"
+}
+]
 },
 {
 "slug": "ordin-sanatate-860-2013",
@@ -21580,6 +21683,25 @@
 "from": "2014-01-01",
 "latest": "2014-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/154031",
+"issuer": "transporturi",
+"joint": []
+},
+{
+"slug": "ordin-transporturi-1566-2013",
+"path": "ordin/transporturi/2013/1566",
+"kind": "ordin",
+"year": "2013",
+"number": "1566",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.566/2013",
+"short": "Ordin transporturi nr. 1566/2013",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-01-31",
+"latest": "2014-01-31",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/154955",
 "issuer": "transporturi",
 "joint": []
 },

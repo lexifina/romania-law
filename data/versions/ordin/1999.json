@@ -183,6 +183,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-48-1999",
+   "path": "ordin/agricultura/1999/48",
+   "short": "Ordin agricultura nr. 48/1999",
+   "title": "Ordinul nr. 48/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17980",
+   "versions": [
+    {
+     "from": "1999-04-23",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250406031515id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/17980",
+     "sha256": "093aa3442edc62f79d780313716af3830b6240a3640dc336f1850fd359188538"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-58-1999",
    "path": "ordin/agricultura/1999/58",
    "short": "Ordin agricultura nr. 58/1999",
@@ -1323,6 +1338,21 @@
    ]
   },
   {
+   "slug": "ordin-economie-183-1999",
+   "path": "ordin/economie/1999/183",
+   "short": "Ordin economie nr. 183/1999",
+   "title": "Ordinul nr. 183/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/18976",
+   "versions": [
+    {
+     "from": "1999-08-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406130517id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/18976",
+     "sha256": "1431ae4490c1783e250fba106d05c0895bf1fcd8d1ef6cd098282f004ca441dd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-economie-193-1999",
    "path": "ordin/economie/1999/193",
    "short": "Ordin economie nr. 193/1999",
@@ -1694,6 +1724,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17780",
      "sha256": "e0b3f0373d24bebc177065dd4f2d655e59492d13c2f227af1b18eacaa5384946"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-3502-1999",
+   "path": "ordin/educatie/1999/3502",
+   "short": "Ordin educatie nr. 3502/1999",
+   "title": "Ordinul nr. 3.502/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17781",
+   "versions": [
+    {
+     "from": "1999-04-16",
+     "units": 6,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/17781",
+     "sha256": "3df595b61d4d38ef1da72e3ffec8b8758499b6032fac875eb460cb44650cc714"
     }
    ]
   },

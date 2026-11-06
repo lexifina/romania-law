@@ -1518,6 +1518,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-3330-2013",
+   "path": "ordin/anaf/2013/3330",
+   "short": "Ordin anaf nr. 3330/2013",
+   "title": "Ordinul nr. 3.330/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152183",
+   "versions": [
+    {
+     "from": "2013-10-30",
+     "units": 18,
+     "source_url": "https://web.archive.org/web/20250425203123id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/152183",
+     "sha256": "3d3a88c2f6781d32e3f6435e471a4ae24c08bf47348f6fd6adac7c23e9f1d86a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-3331-2013",
    "path": "ordin/anaf/2013/3331",
    "short": "Ordin anaf nr. 3331/2013",
@@ -5628,6 +5643,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-3-2013",
+   "path": "ordin/csa/2013/3",
+   "short": "Ordin csa nr. 3/2013",
+   "title": "Ordinul nr. 3/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144771",
+   "versions": [
+    {
+     "from": "2013-01-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250406085339id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/144771",
+     "sha256": "dbeac3ecf4e71ef36cfd4fbb93b7a2644438b5515b9850b2a7068494bf15e412"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-4-2013",
    "path": "ordin/csa/2013/4",
    "short": "Ordin csa nr. 4/2013",
@@ -6359,6 +6389,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/153577",
      "sha256": "53ec2f985deb28db61e97e462e2f0249828f498c24e3624323a9bfdca89041ca"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dezvoltare-3482-2013",
+   "path": "ordin/dezvoltare/2013/3482",
+   "short": "Ordin dezvoltare nr. 3482/2013",
+   "title": "Ordinul nr. 3.482/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/153772",
+   "versions": [
+    {
+     "from": "2013-12-18",
+     "units": 5,
+     "source_url": "https://web.archive.org/web/20250406232730id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/153772",
+     "sha256": "a23407f09cdf2b3ad765d950219012cbe8a108d63f12177f8026db3ac71c95ac"
     }
    ]
   },
@@ -14058,6 +14103,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-724-2013",
+   "path": "ordin/sanatate/2013/724",
+   "short": "Ordin sanatate nr. 724/2013",
+   "title": "Ordinul nr. 724/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/148830",
+   "versions": [
+    {
+     "from": "2013-06-10",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20200220150932id_/https://legislatie.just.ro/Public/DetaliiDocument/148830",
+     "sha256": "03372c825ce6e91c47f0e3b80ce7a45887e9b1f736b7d0c6b42bcf8f4cb73bfd"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-753-2013",
    "path": "ordin/sanatate/2013/753",
    "short": "Ordin sanatate nr. 753/2013",
@@ -14204,6 +14264,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/149887",
      "sha256": "491c67ecd20188cc45e5e87c75ec5012d61c64cfccbc848866cad808444c86e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-851-2013",
+   "path": "ordin/sanatate/2013/851",
+   "short": "Ordin sanatate nr. 851/2013",
+   "title": "Ordinul nr. 851/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/149738",
+   "versions": [
+    {
+     "from": "2013-07-12",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250407042046id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/149738",
+     "sha256": "9f89bb902b25a88359d2db63718e04f2eb0a5003c23e944d285451e5e2ee4ea7"
     }
    ]
   },
@@ -15029,6 +15104,21 @@
      "units": 8,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154031",
      "sha256": "65ce59ce982a058f5f9f55c57e2e630c5e2f16d4ab565a91bceb6ddd83005257"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-transporturi-1566-2013",
+   "path": "ordin/transporturi/2013/1566",
+   "short": "Ordin transporturi nr. 1566/2013",
+   "title": "Ordinul nr. 1.566/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/154955",
+   "versions": [
+    {
+     "from": "2014-01-31",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20250407165021id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/154955",
+     "sha256": "e4b53ba34e8637b36b96dfa62b30e338eb984c97cb60d9fbe4b5ce227cc96365"
     }
    ]
   },

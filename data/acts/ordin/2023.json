@@ -6166,6 +6166,33 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-100-2023",
+"path": "ordin/ansvsa/2023/100",
+"kind": "ordin",
+"year": "2023",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 100/2023 ORDIN nr. 100/1.552/2023 privind modificarea și completarea anexei la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor și al ministrului transporturilor, infrastructurii și comunicațiilor nr. 128/1.669/2020 pentru aprobarea Procedurii de evaluare a transportatorilor maritimi și a navelor de transport animale vii în vederea autorizării sau operării de pe teritoriul României și pentru modificarea unor acte normative, precum și pentru modificarea anexei nr. 5 la Ordinul președintelui Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor nr. 96/2014 privind aprobarea tarifelor aplicabile în domeniul sanitar-veterinar și pentru siguranța alimentelor",
+"short": "Ordin ansvsa nr. 100/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-04",
+"latest": "2023-09-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274196",
+"issuer": "ansvsa",
+"joint": [
+{
+"issuer": "transporturi",
+"nr": "1552",
+"date": "2023-08-18",
+"name": "Ministerul Transporturilor și Infrastructurii",
+"alias": "ordin-transporturi-1552-2023"
+}
+]
+},
+{
 "slug": "ordin-ansvsa-101-2023",
 "path": "ordin/ansvsa/2023/101",
 "kind": "ordin",
@@ -11877,6 +11904,25 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-3662-2023",
+"path": "ordin/educatie/2023/3662",
+"kind": "ordin",
+"year": "2023",
+"number": "3662",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.662/2023 pentru modificarea Ordinului ministrului educației, cercetării, tineretului și sportului nr. 3.641/2011 privind aprobarea planurilor-cadru de învățământ pentru clasele a IX-a-a XII-a, filiera vocațională, profilul teologic, cultul ortodox, specializarea ghid turism religios",
+"short": "Ordin educatie nr. 3662/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-22",
+"latest": "2023-02-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/265256",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "ordin-educatie-3664-2023",
 "path": "ordin/educatie/2023/3664",
 "kind": "ordin",
@@ -13833,6 +13879,25 @@
 "joint": []
 },
 {
+"slug": "ordin-educatie-6768-2023",
+"path": "ordin/educatie/2023/6768",
+"kind": "ordin",
+"year": "2023",
+"number": "6768",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 6.768/2023 pentru aprobarea Metodologiei de acordare a creditelor transferabile în învățarea pe tot parcursul vieții",
+"short": "Ordin educatie nr. 6768/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2024-01-17",
+"latest": "2024-01-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/278201",
+"issuer": "educatie",
+"joint": []
+},
+{
 "slug": "ordin-educatie-6799-2023",
 "path": "ordin/educatie/2023/6799",
 "kind": "ordin",
@@ -14718,6 +14783,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/265638",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-1121-2023",
+"path": "ordin/finante/2023/1121",
+"kind": "ordin",
+"year": "2023",
+"number": "1121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.121/2023 ORDIN nr. 1.121/655/2023 privind stabilirea valorii sumei lunare indexate care se acordă sub formă de tichete de creșă pentru semestrul I al anului 2023",
+"short": "Ordin finante nr. 1121/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/266364",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "655",
+"date": "2023-02-17",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-655-2023"
+}
+]
 },
 {
 "slug": "ordin-finante-1178-2023",
@@ -15637,6 +15729,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-2533-2023",
+"path": "ordin/finante/2023/2533",
+"kind": "ordin",
+"year": "2023",
+"number": "2533",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.533/2023 ORDIN nr. 2.533/20.740/2023 pentru modificarea și completarea Normelor de aplicare a programelor guvernamentale de creditare \"StudentInvest\" și \"FamilyStart\", a modelului Convenției privind implementarea programelor \"StudentInvest\" și \"FamilyStart\", precum și a modelului Convenției de garantare, aprobate prin Ordinul ministrului finanțelor și al ministrului familiei, tineretului și egalității de șanse nr. 2.534/20.809/2022",
+"short": "Ordin finante nr. 2533/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-15",
+"latest": "2023-09-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274515",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "familie",
+"nr": "20740",
+"date": "2023-09-04",
+"name": "Ministerul Familiei, Tineretului și Egalității de Șanse",
+"alias": "ordin-familie-20740-2023"
+}
+]
+},
+{
 "slug": "ordin-finante-2538-2023",
 "path": "ordin/finante/2023/2538",
 "kind": "ordin",
@@ -15719,6 +15838,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/275104",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-2654-2023",
+"path": "ordin/finante/2023/2654",
+"kind": "ordin",
+"year": "2023",
+"number": "2654",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.654/2023 ORDIN nr. 2.654/1.925/2023 privind stabilirea valorii sumei lunare indexate care se acordă sub formă de tichete de creșă pentru semestrul II al anului 2023",
+"short": "Ordin finante nr. 2654/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-29",
+"latest": "2023-09-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274900",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "1925",
+"date": "2023-08-31",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-1925-2023"
+}
+]
 },
 {
 "slug": "ordin-finante-4705-2023",
@@ -21423,6 +21569,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-148-2023",
+"path": "ordin/sanatate/2023/148",
+"kind": "ordin",
+"year": "2023",
+"number": "148",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 148/2023 ORDIN nr. 148/23/2023 pentru modificarea Ordinului ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.782/576/2006 privind înregistrarea și raportarea statistică a pacienților care primesc servicii medicale în regim de spitalizare continuă și spitalizare de zi",
+"short": "Ordin sanatate nr. 148/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264515",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "23",
+"date": "2023-01-09",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-23-2023"
+}
+]
+},
+{
 "slug": "ordin-sanatate-166-2023",
 "path": "ordin/sanatate/2023/166",
 "kind": "ordin",
@@ -23949,6 +24122,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-3168-2023",
+"path": "ordin/sanatate/2023/3168",
+"kind": "ordin",
+"year": "2023",
+"number": "3168",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.168/2023 ORDIN nr. 3.168/720/2023 privind modificarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 106/32/2015 pentru aprobarea Regulamentelor-cadru de organizare și funcționare a comisiilor naționale și a comisiilor de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare, a standardelor de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare, precum și a metodologiei-cadru de evaluare a furnizorilor de servicii medicale, de dispozitive medicale, de medicamente și materiale sanitare",
+"short": "Ordin sanatate nr. 3168/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-09-20",
+"latest": "2023-09-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/274611",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "720",
+"date": "2023-09-01",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-720-2023"
+}
+]
+},
+{
 "slug": "ordin-sanatate-3210-2023",
 "path": "ordin/sanatate/2023/3210",
 "kind": "ordin",
@@ -24400,6 +24600,33 @@
 "date": "2023-10-17",
 "name": "Ministerul Mediului, Apelor și Pădurilor",
 "alias": "ordin-mediu-2669-2023"
+}
+]
+},
+{
+"slug": "ordin-sanatate-3445-2023",
+"path": "ordin/sanatate/2023/3445",
+"kind": "ordin",
+"year": "2023",
+"number": "3445",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.445/2023 ORDIN nr. 3.445/879/2023 pentru modificarea și completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+"short": "Ordin sanatate nr. 3445/2023",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-10-10",
+"latest": "2023-10-10",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/275151",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "879",
+"date": "2023-09-28",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-879-2023"
 }
 ]
 },

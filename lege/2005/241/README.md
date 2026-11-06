@@ -38,3 +38,13 @@ Act id: `legea-241-2005` (tags `legea-241-2005/<day>`; `python tools/on.py <day>
 - Legea nr. 241/2005: the changes no note explains (art. 9 on 23 June 2010; arts. 2, 8, 9, 13, 14 and 16 on 1 February 2014) differ from the text before only in diacritics and spelling, the publisher's typesetting. The form of 1 February 2014 reprints the note on art. 2 (OUG nr. 54/2010) as "Lit. g) a art. 2 ..." where earlier forms print "Litera g) a art. 2 ..."; it is the same note, so that change is not credited to the ordinance.
 - Legea nr. 241/2005: 7 changed article(s) with no note naming a law, committed as the publisher's: 2010-06-23 art-009, 2014-02-01 art-002, 2014-02-01 art-008, 2014-02-01 art-009, 2014-02-01 art-013, 2014-02-01 art-014, 2014-02-01 art-016.
 - Legea nr. 241/2005: forms with no change after normalisation, so no version: 2015-07-06 (169696).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 867/2021](../../../jurisprudenta/ccr/2021/867/)**, Monitorul Oficial nr. 325 din 1 aprilie 2022 · art. 10 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „pretențiile părții civile“, cuprinsă în dispozițiile art. 10 alin. (1) din Legea nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, în redactarea anterioară modificării prin Legea nr. 55/2021 privind modificarea și completarea Legii nr. 241/2005 pentru prevenirea și combaterea evaziunii fiscale, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-04-01) and ceases to have legal effect 45 days later, on 2022-05-16, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

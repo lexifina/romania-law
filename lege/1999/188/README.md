@@ -331,3 +331,13 @@ These changes were first published credited to another law. The words are unchan
 - `art-117.md`, in force from 2019-07-05: OUG nr. 57/2019 (first published as no law named).
 - `art-117-1.md`, in force from 2019-07-05: OUG nr. 57/2019 (first published as no law named).
 - `art-118.md`, in force from 2019-07-05: OUG nr. 57/2019 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 131/2025](../../../jurisprudenta/ccr/2025/131/)**, Monitorul Oficial nr. 641 din 8 iulie 2025 · art. 54 lit. h) · only some words or a sentence inside the provision
+
+  > constată că sintagma „care ar face-o incompatibilă cu exercitarea funcției publice“ din cuprinsul prevederilor art. 54 lit. h) teza finală din Legea nr. 188/1999 privind Statutul funcționarilor publici este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-07-08) and ceases to have legal effect 45 days later, on 2025-08-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

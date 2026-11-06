@@ -22,3 +22,13 @@ Act id: `legea-1-1991` (tags `legea-1-1991/<day>`; `python tools/on.py <day> leg
 - Legea nr. 1/1991: some forms print a wrong article number that repeats an earlier article's, between the two articles it sits between; Lexifina's code files it under the number in sequence: "Articolul 21" read as art. 23.
 - Legea nr. 1/1991: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «* Termenul de 15 zile curge de la data republicarii prezente», «LEGEA nr. 126 din 22 iunie 1998 publicată în MONITORUL OFICI».
 - Legea nr. 1/1991: 1 changed article(s) with no note naming a law, committed as the publisher's: 1999-06-24 art-023.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 81/1998](../../../jurisprudenta/ccr/1998/81/)**, Monitorul Oficial nr. 220 din 16 iunie 1998 · art. 6 alin. (1) lit. e) · decided before the 2003 revision of the Constitution
+
+  > constata ca dispoziţiile art. 6 alin. (1) lit. e) din Legea nr. 1/1991 privind protecţia socială a şomerilor şi reintegrarea lor profesională, republicată, sunt neconstituţionale în cazul în care se aplică unei persoane care, ca urmare a desfacerii contractului de muncă dintr-o cauza neimputabila acesteia, a devenit somer şi are, potrivit legii, dreptul la ajutor de şomaj Definitivă şi obligatorie.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 1998-06-16; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

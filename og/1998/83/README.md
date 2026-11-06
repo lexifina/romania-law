@@ -34,3 +34,13 @@ Act id: `og-83-1998` (tags `og-83-1998/<day>`; `python tools/on.py <day> og-83-1
 - OG nr. 83/1998: the signature block after the last article (the signatories, the place, the date and the number) is not part of an article and is left out, as in every act of this record.
 - OG nr. 83/1998: wording changes between forms that no note credits (typesetting, diacritics, misprints, renamed bodies) are the publisher's: no law is credited for them and each is dated by the first form that shows it.
 - OG nr. 83/1998: 3 changed article(s) with no note naming a law, committed as the publisher's: 2003-11-14 art-008, 2003-11-14 art-013, 2003-11-14 art-015.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 101/2001](../../../jurisprudenta/ccr/2001/101/)**, Monitorul Oficial nr. 317 din 14 iunie 2001 · art. 6 alin. (3) · decided before the 2003 revision of the Constitution
+
+  > constata ca sunt neconstituţionale dispoziţiile art. 6 alin. (3) din Ordonanţa Guvernului nr. 83/1998 privind impunerea unor venituri realizate din România de persoane fizice şi juridice nerezidente.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-06-14; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

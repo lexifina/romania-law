@@ -4216,3 +4216,19 @@ These changes were first published credited to another law. The words are unchan
 - `art-185.md`, in force from 2026-01-25: Legea nr. 163/2025 (first published as no law named).
 - `art-030-1.md`, in force from 2026-02-02: OG nr. 2/2026 (first published as no law named).
 - `art-030-12.md`, in force from 2026-02-02: OG nr. 2/2026 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 498/2018](../../../jurisprudenta/ccr/2018/498/)**, Monitorul Oficial nr. 650 din 26 iulie 2018 · art. 30 alin. (2); art. 280 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că dispozițiile art. 30 alin. (2) și (3), precum și sintagma „sistemul dosarului electronic de sănătate al pacientului“ din cuprinsul art. 280 alin. (2) din Legea nr. 95/2006 privind reforma în domeniul sănătății sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-07-26) and ceases to have legal effect 45 days later, on 2018-09-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 818/2019](../../../jurisprudenta/ccr/2019/818/)**, Monitorul Oficial nr. 561 din 29 iunie 2020 · art. 320 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „precum și daune sănătății propriei persoane“ din cuprinsul art. 320 alin. (1) din Legea nr. 95/2006 privind reforma în domeniul sănătății este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-06-29) and ceases to have legal effect 45 days later, on 2020-08-13, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

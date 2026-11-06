@@ -398,3 +398,19 @@ These changes were first published credited to another law. The words are unchan
 - `art-040.md`, in force from 2024-03-28: OUG nr. 28/2024 (first published as no law named).
 - `art-041-1.md`, in force from 2024-03-28: OUG nr. 28/2024 (first published as no law named).
 - `art-109.md`, in force from 2024-03-28: OUG nr. 28/2024 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 323/2019](../../../jurisprudenta/ccr/2019/323/)**, Monitorul Oficial nr. 595 din 19 iulie 2019 · art. 15 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că art. 15 alin. 2 din Legea nr. 80/1995 privind statutul cadrelor militare și sintagma „cu excepția personalului militar în activitate, polițiștilor și funcționarilor publici cu statut special“ din art. 61 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-07-19) and ceases to have legal effect 45 days later, on 2019-09-02, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 905/2020](../../../jurisprudenta/ccr/2020/905/)**, Monitorul Oficial nr. 495 din 12 mai 2021 · art. 87 alin. (3) · only some words or a sentence inside the provision
+
+  > constată că sintagma „sau cu privire la care s-a dispus amânarea aplicării pedepsei“, cuprinsă în dispozițiile art. 87 alin. 3 din Legea nr. 80/1995 privind statutul cadrelor militare, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-12) and ceases to have legal effect 45 days later, on 2021-06-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

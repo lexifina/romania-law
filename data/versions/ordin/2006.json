@@ -10053,6 +10053,21 @@
    ]
   },
   {
+   "slug": "ordin-finante-1074-2006",
+   "path": "ordin/finante/2006/1074",
+   "short": "Ordin finante nr. 1074/2006",
+   "title": "Ordinul nr. 1.074/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73107",
+   "versions": [
+    {
+     "from": "2006-06-30",
+     "units": 8,
+     "source_url": "https://web.archive.org/web/20250407151559id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/73107",
+     "sha256": "f0aaf067f0495ed787c47ceeddd70513bc33874051c65978d5be6ecc575831c6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-finante-1076-2006",
    "path": "ordin/finante/2006/1076",
    "short": "Ordin finante nr. 1076/2006",
@@ -17384,6 +17399,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73871",
      "sha256": "bde73419bb97aedf0f02a0df4c2cbb30cf787af463633a02f8b1c1131da0007f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-892-2006",
+   "path": "ordin/sanatate/2006/892",
+   "short": "Ordin sanatate nr. 892/2006",
+   "title": "Ordinul nr. 892/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73872",
+   "versions": [
+    {
+     "from": "2006-07-28",
+     "units": 6,
+     "source_url": "https://web.archive.org/web/20250406035451id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/73872",
+     "sha256": "cfefe4dbec0fe0397561b1f57a9c3cea4358f6e34eda6aff46553a70aef7a54a"
     }
    ]
   },

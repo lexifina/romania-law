@@ -28,3 +28,13 @@ Act id: `legea-90-2003` (tags `legea-90-2003/<day>`; `python tools/on.py <day> l
 - Legea nr. 90/2003: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 6 such paragraphs across all forms, for example «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 570 din 29 aprilie 2», «În concluzie, începând cu data de 28 iunie 2010, dispozițiil».
 - Legea nr. 90/2003: 3 changed article(s) with no note naming a law, committed as the publisher's: 2007-11-15 art-003, 2007-11-15 art-007, 2007-11-15 art-009.
 - Legea nr. 90/2003: forms with no change after normalisation, so no version: 2010-06-28 (146328).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 570/2010](../../../jurisprudenta/ccr/2010/570/)**, Monitorul Oficial nr. 430 din 28 iunie 2010 · art. 3 alin. (2); art. 4 alin. (1), (2) · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 3 alin. (2) şi art. 4 alin. (1) teza întâi şi alin. (2) din Legea nr. 90/2003 privind vânzarea spaţiilor aflate în proprietatea privată a statului sau a unităţilor administrativ-teritoriale, destinate sediilor partidelor politice \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2010-06-28) and ceases to have legal effect 45 days later, on 2010-08-12, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

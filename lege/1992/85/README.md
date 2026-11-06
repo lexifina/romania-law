@@ -38,3 +38,13 @@ Act id: `legea-85-1992` (tags `legea-85-1992/<day>`; `python tools/on.py <day> l
 - Legea nr. 85/1992: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 12 such paragraphs across all forms, for example «* Legea nr. 42/1990 a fost republicată în Monitorul Oficial », «Alin. 2 al art. 2 a revenit la forma avută anterior ORDONANȚ», «Alin. 2 al art. 6 a revenit la forma avută anterior ORDONANȚ».
 - Legea nr. 85/1992: 17 changed article(s) with no note naming a law, committed as the publisher's: 2000-07-03 art-001, 2000-07-03 art-007, 2000-07-03 art-010, 2000-07-03 art-011, 2000-07-03 art-015, 2000-07-03 art-017, 2000-07-03 art-019, 2011-12-17 art-001, 2011-12-17 art-002, 2011-12-17 art-003, 2011-12-17 art-006, 2011-12-17 art-007, 2011-12-17 art-010, 2011-12-17 art-011, 2011-12-17 art-012, 2011-12-17 art-015, 2011-12-17 art-019.
 - Legea nr. 85/1992: forms with no change after normalisation, so no version: 2001-01-01 (122875).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 70/2001](../../../jurisprudenta/ccr/2001/70/)**, Monitorul Oficial nr. 236 din 10 mai 2001 · art. 19 alin. (3) · decided before the 2003 revision of the Constitution
+
+  > Admite excepţia de neconstituţionalitate a dispoziţiilor art. 19 alin. 3 teza finala din Legea nr. 85/1992 privind vânzarea de locuinţe şi spaţii cu alta destinaţie construite din fondurile statului şi din fondurile unităţilor economice sau bugetare de stat, republicată \[…\] şi constata ca dispoziţia "Sumele restituite nu sunt purtătoare de dobânzi şi nici nu se actualizează" este neconstitutionala.
+
+  Given before the 2003 revision of the Constitution (no 45-day rule) and published on 2001-05-10; final. Under Constituția din 1991, art. 145 alin. (2), the Court's decisions are binding and have effect only for the future. The text here is unchanged; read the decision.

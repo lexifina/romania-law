@@ -2524,6 +2524,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anaf-1529-2012",
+"path": "ordin/anaf/2012/1529",
+"kind": "ordin",
+"year": "2012",
+"number": "1529",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.529/2012",
+"short": "Ordin anaf nr. 1529/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-10-16",
+"latest": "2012-10-16",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142045",
+"issuer": "anaf",
+"joint": []
+},
+{
 "slug": "ordin-anaf-1751-2012",
 "path": "ordin/anaf/2012/1751",
 "kind": "ordin",
@@ -7534,6 +7553,25 @@
 "from": "2012-04-13",
 "latest": "2012-04-13",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/137154",
+"issuer": "dezvoltare",
+"joint": []
+},
+{
+"slug": "ordin-dezvoltare-277-2012",
+"path": "ordin/dezvoltare/2012/277",
+"kind": "ordin",
+"year": "2012",
+"number": "277",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 277/2012",
+"short": "Ordin dezvoltare nr. 277/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-04-02",
+"latest": "2012-04-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136801",
 "issuer": "dezvoltare",
 "joint": []
 },
@@ -13372,6 +13410,25 @@
 "joint": []
 },
 {
+"slug": "ordin-interne-257-2012",
+"path": "ordin/interne/2012/257",
+"kind": "ordin",
+"year": "2012",
+"number": "257",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 257/2012",
+"short": "Ordin interne nr. 257/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-11-15",
+"latest": "2012-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/142819",
+"issuer": "interne",
+"joint": []
+},
+{
 "slug": "ordin-interne-258-2012",
 "path": "ordin/interne/2012/258",
 "kind": "ordin",
@@ -15365,6 +15422,25 @@
 "alias": "ordin-ins-81-2012"
 }
 ]
+},
+{
+"slug": "ordin-munca-409-2012",
+"path": "ordin/munca/2012/409",
+"kind": "ordin",
+"year": "2012",
+"number": "409",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 409/2012",
+"short": "Ordin munca nr. 409/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-03-22",
+"latest": "2012-03-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/136461",
+"issuer": "munca",
+"joint": []
 },
 {
 "slug": "ordin-munca-655-2012",
@@ -18884,6 +18960,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/139837",
 "issuer": "transporturi",
 "joint": []
+},
+{
+"slug": "ordin-transporturi-1110-2012",
+"path": "ordin/transporturi/2012/1110",
+"kind": "ordin",
+"year": "2012",
+"number": "1110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.110/2012",
+"short": "Ordin transporturi nr. 1110/2012",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-08-02",
+"latest": "2012-08-02",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/140198",
+"issuer": "transporturi",
+"joint": [
+{
+"issuer": "interne",
+"nr": "181",
+"date": "2012-07-19",
+"name": "Ministerul Administrației și Internelor",
+"alias": "ordin-interne-181-2012"
+}
+]
 },
 {
 "slug": "ordin-transporturi-1120-2012",

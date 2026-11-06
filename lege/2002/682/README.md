@@ -40,3 +40,13 @@ Act id: `legea-682-2002` (tags `legea-682-2002/<day>`; `python tools/on.py <day>
 - Legea nr. 682/2002: the form of 24 November 2005 prints arts. 1-17 without diacritics and with misprints ("oblibațiile") (portal typesetting: not an amendment; the printed text is kept and no law is credited, as for the other portal typesetting in this record).
 - Legea nr. 682/2002: 24 changed article(s) with no note naming a law, committed as the publisher's: 2005-11-24 art-001, 2005-11-24 art-002, 2005-11-24 art-004, 2005-11-24 art-005, 2005-11-24 art-006, 2005-11-24 art-007, 2005-11-24 art-008, 2005-11-24 art-009, 2005-11-24 art-010, 2005-11-24 art-011, 2005-11-24 art-012, 2005-11-24 art-013, 2005-11-24 art-014, 2005-11-24 art-015, 2005-11-24 art-016, 2005-11-24 art-017, 2005-11-24 art-018, 2005-11-24 art-019, 2005-11-24 art-020, 2005-11-24 art-021, 2005-11-24 art-022, 2005-11-24 art-023, 2005-11-24 art-024, 2005-11-24 art-025.
 - Legea nr. 682/2002: forms with no change after normalisation, so no version: 2015-03-13 (166530).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 67/2015](../../../jurisprudenta/ccr/2015/67/)**, Monitorul Oficial nr. 185 din 18 martie 2015 · art. 19 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă reglementată de art. 19 din Legea nr. 682/2002 care exclude de la beneficiul reducerii la jumătate a limitelor pedepsei prevăzute de lege persoana care are calitatea de martor, în sensul art. 2 lit. a) pct. 1, şi care nu a comis o infracţiune gravă este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2015-03-18) and ceases to have legal effect 45 days later, on 2015-05-02, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

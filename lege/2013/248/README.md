@@ -53,3 +53,13 @@ Act id: `legea-248-2013` (tags `legea-248-2013/<day>`; `python tools/on.py <day>
 - Legea nr. 248/2013: the first version is the law as published in Monitorul Oficial nr. 456 of 24 July 2013 (DetaliiDocumentAfis/150073), dated 27 July 2013: it sets no day of its own, so in force 3 days after publication (Constituția art. 78). The portal holds no consolidated form before 1 August 2015, so the changes made up to then arrive together that day.
 - Legea nr. 248/2013: the republication of 2 October 2015 (171764) is credited, for the changes no note explains, to Legea nr. 222/2015, under whose art. IV it was republished, as its own note says.
 - Legea nr. 248/2013: forms with no change after normalisation, so no version: 2024-01-11 (150073).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 679/2023](../../../jurisprudenta/ccr/2023/679/)**, Monitorul Oficial nr. 23 din 11 ianuarie 2024 · art. 17 alin. (1) lit. e) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă prevăzută de art. 17 alin. (1) lit. e) din Legea nr. 248/2013 privind organizarea și funcționarea Consiliului Economic și Social, care nu precizează cazurile și motivele de revocare a membrilor Consiliului Economic și Social și nici procedura de revocare a acestora, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2024-01-11) and ceases to have legal effect 45 days later, on 2024-02-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

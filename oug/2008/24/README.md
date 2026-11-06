@@ -61,3 +61,13 @@ Act id: `oug-24-2008` (tags `oug-24-2008/<day>`; `python tools/on.py <day> oug-2
 - OUG nr. 24/2008: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 6 such paragraphs across all forms, for example «Conform art. 147 alin. (1) din CONSTITUȚIA ROMÂNIEI republic», «Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 672 din 26 iunie 201», «În concluzie, în intervalul 8 august 2012 - 23 septembrie 20».
 - OUG nr. 24/2008: 8 changed article(s) with no note naming a law, committed as the publisher's: 2012-09-24 art-002, 2014-02-01 art-031, 2014-04-30 art-010, 2014-06-15 art-010, 2019-08-01 art-002, 2019-08-01 art-005, 2019-08-01 art-017, 2019-08-01 art-034.
 - OUG nr. 24/2008: forms with no change after normalisation, so no version: 2012-08-08 (155208), 2021-12-17 (249356).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 672/2012](../../../jurisprudenta/ccr/2012/672/)**, Monitorul Oficial nr. 559 din 8 august 2012 · art. 2 lit. b) · only some words or a sentence inside the provision
+
+  > constată că sintagmele "indiferent sub ce formă" şi "relatări verbale consemnate de lucrătorii Securităţii" din cuprinsul art. 2 lit. b) teza întâi din Ordonanţa de urgenţă a Guvernului nr. 24/2008 privind accesul la propriul dosar şi deconspirarea Securităţii sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2012-08-08) and ceases to have legal effect 45 days later, on 2012-09-22, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -915,6 +915,25 @@
 "joint": []
 },
 {
+"slug": "ordin-aaas-58-2002",
+"path": "ordin/aaas/2002/58",
+"kind": "ordin",
+"year": "2002",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 58/2002",
+"short": "Ordin aaas nr. 58/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-09-06",
+"latest": "2002-09-06",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/38299",
+"issuer": "aaas",
+"joint": []
+},
+{
 "slug": "ordin-aaas-59-2002",
 "path": "ordin/aaas/2002/59",
 "kind": "ordin",
@@ -2285,6 +2304,25 @@
 "alias": "ordin-mediu-384-2002"
 }
 ]
+},
+{
+"slug": "ordin-agricultura-46-2002",
+"path": "ordin/agricultura/2002/46",
+"kind": "ordin",
+"year": "2002",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 46/2002 privind stabilirea speciilor de animale, a categoriilor de producție și greutății minime admise pentru export în anul 2002",
+"short": "Ordin agricultura nr. 46/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-02-07",
+"latest": "2002-02-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33913",
+"issuer": "agricultura",
+"joint": []
 },
 {
 "slug": "ordin-agricultura-48-2002",

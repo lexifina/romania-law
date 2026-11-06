@@ -31,3 +31,13 @@ Act id: `oug-184-2002` (tags `oug-184-2002/<day>`; `python tools/on.py <day> oug
 - OUG nr. 184/2002: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 24.12.2006 art-t1-002, 24.12.2006 art-t2-003.
 - OUG nr. 184/2002: 11 changed article(s) with no note naming a law, committed as the publisher's: 2003-03-14 art-t1-001, 2003-03-14 art-t1-002, 2003-03-14 art-t2-001, 2003-03-14 art-t2-002, 2003-03-14 art-t2-003, 2003-03-14 art-t2-004, 2003-03-14 art-t2-005, 2003-03-14 art-t2-006, 2006-12-24 art-t1-001, 2006-12-24 art-t2-005, 2006-12-24 art-t2-006.
 - OUG nr. 184/2002: forms with no change after normalisation, so no version: 2003-06-30 (105297), 2020-11-16 (232254).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 355/2020](../../../jurisprudenta/ccr/2020/355/)**, Monitorul Oficial nr. 1084 din 16 noiembrie 2020 · art. II alin. (4) · unconstitutional only to the extent stated ("în măsura în care")
+
+  > constată că sintagma „după obținerea cetățeniei române de către persoanele respective“ din cuprinsul art. II alin. (4) din titlul II al Ordonanței de urgență a Guvernului nr. 184/2002 pentru modificarea și completarea Legii nr. 10/2001 privind regimul juridic al unor imobile preluate în mod abuziv în perioada 6 martie 1945-22 decembrie 1989, precum și pentru stabilirea unor măsuri pentru accelerarea aplicării acesteia și a Ordonanței de urgență a Guvernului nr. 94/2000 privind retrocedarea unor bunuri imobile care au aparținut cultelor religioase din România, aprobată cu modificări și completări prin Legea nr. 501/2002, este neconstituțională, în măsura în care se aplică cetățenilor străini și apatrizilor care îndeplinesc condițiile prevăzute de art. 44 alin. (2) fraza a doua din Constituție.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-11-16) and ceases to have legal effect 45 days later, on 2020-12-31, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

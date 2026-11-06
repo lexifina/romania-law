@@ -64,3 +64,13 @@ Act id: `legea-153-2017` (tags `legea-153-2017/<day>`; `python tools/on.py <day>
 - Legea-cadru nr. 153/2017: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 3 such paragraphs across all forms, for example «Art. I-IV și XV din ORDONANȚA DE URGENȚĂ nr. 156 din 30 dece».
 - Legea-cadru nr. 153/2017: 6 changed article(s) with no note naming a law, committed as the publisher's: 2020-05-24 art-003, 2020-05-24 art-016, 2020-05-24 art-017, 2020-05-24 art-023, 2020-05-24 art-028, 2020-05-24 art-033.
 - Legea-cadru nr. 153/2017: forms with no change after normalisation, so no version: 2018-01-06 (197709), 2018-04-13 (199601), 2018-10-11 (205375), 2018-12-07 (207247), 2018-12-13 (208493), 2019-03-18 (211496), 2019-07-05 (215691), 2019-07-18 (215793), 2019-07-21 (215845), 2020-02-12 (222862), 2020-04-09 (224081), 2020-07-07 (227317), 2020-07-13 (227318), 2020-07-30 (228082), 2020-12-31 (234867), 2021-01-01 (234868), 2021-07-12 (243623), 2021-07-29 (244580), 2022-04-14 (253953), 2022-06-23 (256230), 2022-08-07 (258051), 2022-11-03 (260168), 2022-12-02 (261190), 2022-12-09 (262018), 2022-12-24 (262597), 2023-01-07 (263408), 2023-06-01 (267844), 2023-06-12 (267912), 2023-06-30 (268118), 2023-09-03 (268542), 2023-10-20 (269035), 2023-10-24 (269060), 2024-03-08 (279273), 2024-03-11 (279293), 2024-03-25 (280224), 2024-03-29 (280341), 2024-04-05 (280810), 2024-04-25 (281055), 2025-01-01 (292687), 2025-02-28 (294445), 2025-03-13 (294575), 2025-07-01 (298705).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 413/2021](../../../jurisprudenta/ccr/2021/413/)**, Monitorul Oficial nr. 687 din 12 iulie 2021 · only some words or a sentence inside the provision
+
+  > constată că sintagma „alte instituții de spectacole sau concerte“ cuprinsă la pct. I din capitolul I din anexa nr. III la Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-07-12) and ceases to have legal effect 45 days later, on 2021-08-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -452,3 +452,13 @@ Act id: `legea-207-2015` (tags `legea-207-2015/<day>`; `python tools/on.py <day>
 - Codul de procedură fiscală: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 168 such paragraphs across all forms, for example «(la 01-01-2018 Alineatul (8), Articolul 163 din Capitolul II», «(la 01-01-2018 Articolul 336 din Titlul XI a fost completat », «(la 01-01-2018 Articolul 80 din Capitolul VII, Titlul III a ».
 - Codul de procedură fiscală: 14 changed article(s) with no note naming a law, committed as the publisher's: 2017-05-05 art-247, 2017-05-05 art-250, 2017-05-05 art-291, 2017-05-05 art-306, 2017-09-03 art-135, 2017-09-03 art-291-1, 2018-01-21 art-080, 2018-01-21 art-083, 2018-01-21 art-163, 2018-01-21 art-247, 2018-01-21 art-250, 2018-01-21 art-291, 2018-01-21 art-306, 2022-02-03 art-080.
 - Codul de procedură fiscală: forms with no change after normalisation, so no version: 2016-05-12 (178457), 2017-12-29 (195930), 2018-07-19 (202482), 2019-05-02 (213082), 2020-01-21 (222153), 2021-05-20 (241600), 2021-06-17 (242665), 2025-03-18 (295429).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 49/2025](../../../jurisprudenta/ccr/2025/49/)**, Monitorul Oficial nr. 237 din 18 martie 2025 · art. 25 alin. (3) lit. b) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 25 alin. (3) lit. b) și c) din Legea nr. 207/2015 privind Codul de procedură fiscală, care nu precizează criteriile necesare constatării îndeplinirii condițiilor ce atrag răspunderea solidară a persoanei juridice, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2025-03-18) and ceases to have legal effect 45 days later, on 2025-05-02, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

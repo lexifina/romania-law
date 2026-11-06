@@ -42,3 +42,13 @@ Act id: `oug-78-2016` (tags `oug-78-2016/<day>`; `python tools/on.py <day> oug-7
 - OUG nr. 78/2016: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - OUG nr. 78/2016: the first version is the emergency ordinance as published in Monitorul Oficial nr. 938 of 22 November 2016 (DetaliiDocumentAfis/183842), dated 22 November 2016: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal holds no consolidated form before 1 April 2018, so the changes made up to then arrive together that day.
 - OUG nr. 78/2016: forms with no change after normalisation, so no version: 2020-07-24 (228071), 2020-09-07 (229417), 2021-10-13 (246987).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 384/2020](../../../jurisprudenta/ccr/2020/384/)**, Monitorul Oficial nr. 657 din 24 iulie 2020 · art. 5 alin. (4) · only some words or a sentence inside the provision
+
+  > constată că sintagma „în cazul exercitării necorespunzătoare a atribuțiilor specifice funcției“, din cuprinsul dispozițiilor art. 5 alin. (4) din Ordonanța de urgență a Guvernului nr. 78/2016 pentru organizarea și funcționarea Direcției de Investigare a Infracțiunilor de Criminalitate Organizată și Terorism, precum și pentru modificarea și completarea unor acte normative, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-24) and ceases to have legal effect 45 days later, on 2020-09-07, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

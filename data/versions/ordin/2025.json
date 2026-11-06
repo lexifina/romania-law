@@ -1908,6 +1908,21 @@
    ]
   },
   {
+   "slug": "ordin-anaf-396-2025",
+   "path": "ordin/anaf/2025/396",
+   "short": "Ordin anaf nr. 396/2025",
+   "title": "Ordinul nr. 396/2025 pentru aprobarea modelului, conținutului, modalității de depunere și de gestionare a formularului 217 \"Declarație privind impozitul pe veniturile din transferul dezmembrămintelor dreptului de proprietate sub condiție suspensivă\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/296042",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 8,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/296042",
+     "sha256": "a253d4efdb5980bd8a6e7cf8125aa96eeed3137c1a3b05c30357be539050d166"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-402-2025",
    "path": "ordin/anaf/2025/402",
    "short": "Ordin anaf nr. 402/2025",
@@ -5193,6 +5208,21 @@
    ]
   },
   {
+   "slug": "ordin-concurenta-1829-2025",
+   "path": "ordin/concurenta/2025/1829",
+   "short": "Ordin concurenta nr. 1829/2025",
+   "title": "Ordinul nr. 1.829/2025 privind punerea în aplicare a Instrucțiunilor pentru aprobarea modelului-cadru al metodologiei de stabilire a structurii tarifelor de utilizare a infrastructurii portuare pentru porturile maritime din rețeaua transeuropeană de transport",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299964",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299964",
+     "sha256": "b775a9eeb1c76b31ff86489a68911a3eb77abc1c301463abaeeed7bbf7e2d5bf"
+    }
+   ]
+  },
+  {
    "slug": "ordin-concurenta-2111-2025",
    "path": "ordin/concurenta/2025/2111",
    "short": "Ordin concurenta nr. 2111/2025",
@@ -5819,6 +5849,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/302515",
      "sha256": "887ef52fe12fad31050431ed3dba2b2029815daee6ce260fbdb5f56580187b1c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-dizabilitati-28-2025",
+   "path": "ordin/dizabilitati/2025/28",
+   "short": "Ordin dizabilitati nr. 28/2025",
+   "title": "Ordinul nr. 28/2025 ORDIN nr. 28/11/2025 pentru punerea în aplicare a prevederilor art. 78 alin. (2^2)-(2^4) din Legea nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293935",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 10,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/293935",
+     "sha256": "225fa75859311c3e8bc5e0d4ca49b1bb2313ddcdb198328f59aee8558ade354c"
     }
    ]
   },
@@ -7218,6 +7263,21 @@
    ]
   },
   {
+   "slug": "ordin-educatie-3977-2025",
+   "path": "ordin/educatie/2025/3977",
+   "short": "Ordin educatie nr. 3977/2025",
+   "title": "Ordinul nr. 3.977/2025 ORDIN nr. 3.977/1.200/2025 pentru aprobarea calificărilor nou-introduse în Registrul național al calificărilor profesionale din România",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298990",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298990",
+     "sha256": "1ce2e234d21a89b2fd8d4cd768a967f7f663f72b084f08640e10c2dbe10b3186"
+    }
+   ]
+  },
+  {
    "slug": "ordin-educatie-3986-2025",
    "path": "ordin/educatie/2025/3986",
    "short": "Ordin educatie nr. 3986/2025",
@@ -7244,6 +7304,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299027",
      "sha256": "7e4eb63fac099e828d9d3f82b0d336ef84c5618b17536d5cb8a23a058362659d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4026-2025",
+   "path": "ordin/educatie/2025/4026",
+   "short": "Ordin educatie nr. 4026/2025",
+   "title": "Ordinul nr. 4.026/2025 ORDIN nr. 4.026/1.632/2025 pentru aprobarea Metodologiei-cadru privind înființarea \"Școlii din spital\", precum și a Metodologiei-cadru privind organizarea și funcționarea \"Școlii din spital\"",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299112",
+   "versions": [
+    {
+     "from": "2025-06-18",
+     "units": 3,
+     "source_url": "https://web.archive.org/web/20260219035014id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/299112",
+     "sha256": "ef05edeb3afbe52bfb6e74877ba04c8496e096491532f9bce31a0e7c6a5f60b4"
     }
    ]
   },
@@ -7349,6 +7424,21 @@
      "units": 18,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298422",
      "sha256": "bf0b75e5144bc705e673ead78aa0619113be159171a1c1aa4c7849c50a27d131"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-educatie-4200-2025",
+   "path": "ordin/educatie/2025/4200",
+   "short": "Ordin educatie nr. 4200/2025",
+   "title": "Ordinul nr. 4.200/2025 pentru aprobarea Procedurii privind mecanismul de semnalare anonimă a faptelor de violență și a suspiciunilor privind consumul de droguri și alte abateri de la normele de bună conduită în unitățile de învățământ preuniversitar",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/298499",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/298499",
+     "sha256": "45bb76e172cb97f9e4538076cec3edc98ad64512e65c8cc32d560e34c00c799f"
     }
    ]
   },
@@ -9884,6 +9974,21 @@
      "units": 17,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/298146",
      "sha256": "514888e9b7bdb4586cf0839381c78e9150039c75ba5b02c968f391d49468059c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-85-2025",
+   "path": "ordin/finante/2025/85",
+   "short": "Ordin finante nr. 85/2025",
+   "title": "Ordinul nr. 85/2025 pentru modificarea și completarea unor ordine ale ministrului finanțelor în domeniul contabilității instituțiilor publice",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/293769",
+   "versions": [
+    {
+     "from": "2025-01-21",
+     "units": 9,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/293769",
+     "sha256": "686cfb7edccbb79955ee90d5901579cb3b9b73a0ce02552ad311ccbce72b8c4f"
     }
    ]
   },
@@ -13788,6 +13893,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-483-2025",
+   "path": "ordin/sanatate/2025/483",
+   "short": "Ordin sanatate nr. 483/2025",
+   "title": "Ordinul nr. 483/2025 ORDIN nr. 483/78/2025 pentru modificarea și completarea anexei nr. 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.605/875/2014 privind aprobarea modului de calcul, a listei denumirilor comerciale și a prețurilor de decontare ale medicamentelor care se acordă bolnavilor în cadrul programelor naționale de sănătate și a metodologiei de calcul al acestora",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/294727",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/294727",
+     "sha256": "0b96f39d6bc1c8e2a084f69de4161d2e8f16c0432d8fbbaceb849c6cca19d006"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-484-2025",
    "path": "ordin/sanatate/2025/484",
    "short": "Ordin sanatate nr. 484/2025",
@@ -14144,6 +14264,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/301675",
      "sha256": "4d8100cf7d993b43146cdfb64a84a72b334f9fa0edd5c10f8865f3c21a440df0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-824-2025",
+   "path": "ordin/sanatate/2025/824",
+   "short": "Ordin sanatate nr. 824/2025",
+   "title": "Ordinul nr. 824/2025 ORDIN nr. 824/1.370/2025 pentru completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.857/441/2023 privind aprobarea Normelor metodologice de aplicare a Hotărârii Guvernului nr. 521/2023 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale, în cadrul sistemului de asigurări sociale de sănătate",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/301648",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20251211105120id_/https://legislatie.just.ro/Public/DetaliiDocument/301648",
+     "sha256": "f5f4905d4e3aabd6509dffe870e932aaacd1762ade3d506c882e3beb62312040"
     }
    ]
   },

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Municipiului Huși nr. 14/2021 privind desemnarea persoanei care să reprezinte interesele Municipiului Husi în Adunarea Generală a Asociatiei pentru Dezvoltare Intercomunitară a Judetului Vaslui Consiliul Local al municipiului Husi,judetul Vaslui ; Avand în vedere: • Referatul Biroului Tehnic nr. 1587 din 21.01.2021 ; • Referatul de aprobare al Primarului municipiului Huși nr. 1588 din 21.01.2021 privind desemnarea persoanei ca
+
+HCL Huși nr. 14/2021 · 1 versions, from 2021-01-28 (latest in force: 2021-01-28) · <https://www.primariahusi.ro/wp-content/uploads/2022/07/hotararea_14_2021.pdf>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-vaslui--husi-14-2021` (tags `hcl-vaslui--husi-14-2021/<day>`; `python tools/on.py <day> hcl-vaslui--husi-14-2021`).
+
+## Decisions made by hand
+
+- HCL Huși nr. 14/2021: listed from Consiliul Local al Municipiului Huși (www.primariahusi.ro); an individual decision: metadata only.
+- HCL Huși nr. 14/2021: dated from 28 January 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Huși nr. 14/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

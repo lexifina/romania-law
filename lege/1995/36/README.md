@@ -211,3 +211,19 @@ Act id: `legea-36-1995` (tags `legea-36-1995/<day>`; `python tools/on.py <day> l
 - Legea nr. 36/1995: the consolidator's notes printed inside an article ("*) NOTA C.T.C.E. S.A. Piatra-Neamţ:", quoting another act, with that act's lettered list) are not the act's text and are left out: 18 paragraphs and items across all forms.
 - Legea nr. 36/1995: 35 changed article(s) with no note naming a law, committed as the publisher's: 2000-10-31 art-004, 2000-10-31 art-012, 2000-10-31 art-013, 2000-10-31 art-018, 2000-10-31 art-047, 2000-10-31 art-049, 2000-10-31 art-050, 2000-10-31 art-055, 2000-10-31 art-062, 2000-10-31 art-064, 2000-10-31 art-065, 2000-10-31 art-066, 2000-10-31 art-077, 2000-10-31 art-081, 2000-10-31 art-088, 2000-10-31 art-089, 2000-10-31 art-093, 2000-10-31 art-094, 2000-10-31 art-100, 2000-10-31 art-101, 2000-10-31 art-105, 2000-10-31 art-115, 2003-06-17 art-088-1, 2003-06-17 art-088-2, 2003-06-17 art-088-3, 2003-06-17 art-088-4, 2003-06-17 art-088-5, 2003-06-17 art-088-6, 2003-06-17 art-088-7, 2003-06-17 art-088-8, 2003-06-17 art-088-9, 2013-01-23 art-016-11, 2013-01-23 art-046, 2016-11-12 art-174, 2017-03-24 art-068.
 - Legea nr. 36/1995: forms with no change after normalisation, so no version: 2020-01-28 (222193), 2022-10-21 (260071), 2022-12-05 (264967).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 291/2022](../../../jurisprudenta/ccr/2022/291/)**, Monitorul Oficial nr. 1028 din 21 octombrie 2022 · art. 75 alin. (11) · unconstitutional only to the extent stated ("în măsura în care")
+
+  > constată că dispozițiile art. 75 alin. (11) teza a treia din Legea notarilor publici și a activității notariale nr. 36/1995 sunt constituționale doar în măsura în care se interpretează în sensul că „recursul“ prevăzut de acestea este o cale devolutivă de atac împotriva hotărârilor Consiliului Uniunii Naționale a Notarilor Publici din România prin care se soluționează contestația pronunțată în materie disciplinară.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2022-10-21) and ceases to have legal effect 45 days later, on 2022-12-05, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 840/2026](../../../jurisprudenta/ccr/2026/840/)**, Monitorul Oficial nr. 854 din 12 octombrie 2026 · art. 23 alin. (1) lit. f) · only some words or a sentence inside the provision
+
+  > constată că sintagma „grave sau care aduce atingere prestigiului profesiei“ din cuprinsul art. 23 alin. (1) lit. f) din Legea notarilor publici și a activității notariale nr. 36/1995, în redactarea anterioară intrării în vigoare a Legii nr. 77/2012 pentru modificarea și completarea Legii notarilor publici și a activității notariale nr. 36/1995, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2026-10-12) and ceases to have legal effect 45 days later, on 2026-11-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

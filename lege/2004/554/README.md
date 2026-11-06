@@ -117,3 +117,31 @@ These changes were first published credited to another law. The words are unchan
 - `art-014.md`, in force from 2023-04-21: Legea nr. 102/2023 (first published as no law named).
 - `art-015.md`, in force from 2023-04-21: Legea nr. 102/2023 (first published as no law named).
 - `art-026.md`, in force from 2023-04-27: Rectificare MO nr. 362/2023 (first published as no law named).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 1609/2010](../../../jurisprudenta/ccr/2010/1609/)**, Monitorul Oficial nr. 70 din 27 ianuarie 2011 · art. 21 alin. (2) · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 21 alin. (2) teza a doua din Legea contenciosului administrativ nr. 554/2004 \[…\]
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-01-27) and ceases to have legal effect 45 days later, on 2011-03-13, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 302/2011](../../../jurisprudenta/ccr/2011/302/)**, Monitorul Oficial nr. 316 din 9 mai 2011 · art. 5 alin. (3) · only some words or a sentence inside the provision
+
+  > Admite excepţia de neconstituţionalitate a prevederilor art. 5 alin. (3) din Legea contenciosului administrativ nr. 554/2004 \[…\] şi constată că sintagma "cele care privesc apărarea şi securitatea naţională" cuprinsă de acestea este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2011-05-09) and ceases to have legal effect 45 days later, on 2011-06-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 898/2015](../../../jurisprudenta/ccr/2015/898/)**, Monitorul Oficial nr. 148 din 26 februarie 2016 · art. 24 alin. (3) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluţia legislativă potrivit căreia încheierea prevăzută de art. 24 alin. (3) din Legea nr. 554/2004 este "definitivă" este neconstituţională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2016-02-26) and ceases to have legal effect 45 days later, on 2016-04-11, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 12/2020](../../../jurisprudenta/ccr/2020/12/)**, Monitorul Oficial nr. 198 din 11 martie 2020 · art. 7 alin. (6); art. 11 alin. (1) lit. e); art. 11 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că sintagma „are semnificația concilierii în cazul litigiilor comerciale, dispozițiile Codului de procedură civilă fiind aplicabile în mod corespunzător“ din cuprinsul dispozițiilor art. 7 alin. (6) și dispozițiile art. 11 alin. (1) lit. e) din Legea contenciosului administrativ nr. 554/2004, în redactarea anterioară modificării prin Legea nr. 212/2018, precum și sintagma „data încheierii procesului-verbal de conciliere“ din art. 11 alin. (2) din Legea contenciosului administrativ nr. 554/2004 sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-03-11) and ceases to have legal effect 45 days later, on 2020-04-25, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

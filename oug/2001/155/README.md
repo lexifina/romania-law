@@ -42,3 +42,13 @@ Act id: `oug-155-2001` (tags `oug-155-2001/<day>`; `python tools/on.py <day> oug
 - OUG nr. 155/2001: the portal editorial notes printed as paragraphs of an article (on a Constitutional Court ruling, a rectification, a provision put back in force) are not text: 2 such paragraphs across all forms, for example «Potrivit prevederilor LEGII nr. 187 din 24 octombrie 2012, p».
 - OUG nr. 155/2001: 9 changed article(s) with no note naming a law, committed as the publisher's: 2002-04-29 art-002, 2002-04-29 art-003, 2002-04-29 art-006, 2002-04-29 art-012, 2002-04-29 art-013, 2014-02-01 art-012, 2014-02-01 art-013-3, 2014-02-01 art-017, 2018-03-09 art-014.
 - OUG nr. 155/2001: forms with no change after normalisation, so no version: 2018-04-23 (200035).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 23/2018](../../../jurisprudenta/ccr/2018/23/)**, Monitorul Oficial nr. 216 din 9 martie 2018 · art. 13^4 · only some words or a sentence inside the provision
+
+  > constată că sintagma „numai după identificarea acestora“, cuprinsă în art. 13^4 din Ordonanța de urgență a Guvernului nr. 155/2001 privind aprobarea programului de gestionare a câinilor fără stăpân, prin raportare la teza întâi a acestui articol, referitoare la „acțiunea de vaccinare antirabică a câinilor cu stăpân“, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-03-09) and ceases to have legal effect 45 days later, on 2018-04-23, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -3243,6 +3243,21 @@
    ]
   },
   {
+   "slug": "ordin-csa-13-2001",
+   "path": "ordin/csa/2001/13",
+   "short": "Ordin csa nr. 13/2001",
+   "title": "Ordinul nr. 13/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33514",
+   "versions": [
+    {
+     "from": "2002-01-22",
+     "units": 2,
+     "source_url": "https://web.archive.org/web/20250406023949id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/33514",
+     "sha256": "16be20ef7473a144d543aefd8a819bf745e36cedc9870b82d2e0d9958d029297"
+    }
+   ]
+  },
+  {
    "slug": "ordin-csa-14-2001",
    "path": "ordin/csa/2001/14",
    "short": "Ordin csa nr. 14/2001",

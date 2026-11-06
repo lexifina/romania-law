@@ -1053,6 +1053,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-99-2021",
+   "path": "ordin/agricultura/2021/99",
+   "short": "Ordin agricultura nr. 99/2021",
+   "title": "Ordinul nr. 99/2021 ORDIN nr. 99/814/2021 privind aprobarea măsurilor de reglementare a efortului de pescuit și cotele de pescuit alocate pentru anul 2021, pe specii și zone",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/242929",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 13,
+     "source_url": "https://web.archive.org/web/20251127153819id_/https://legislatie.just.ro/Public/DetaliiDocument/242929",
+     "sha256": "a7d76237edb173f7b040abb4c5424cae99c3e58ae2060aa19e5eef56112d36e6"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anaf-1019-2021",
    "path": "ordin/anaf/2021/1019",
    "short": "Ordin anaf nr. 1019/2021",
@@ -14114,6 +14129,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/246475",
      "sha256": "74ac7470382649442123c44ae6884a76a2c686c8176a81403d4e3b626f4018f4"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-sanatate-1898-2021",
+   "path": "ordin/sanatate/2021/1898",
+   "short": "Ordin sanatate nr. 1898/2021",
+   "title": "Ordinul nr. 1.898/2021 ORDIN nr. 1.898/855/2021 pentru modificarea și completarea Normelor de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 15/2018/1.311/2017",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/246562",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 4,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/246562",
+     "sha256": "424a5112c06de9605ba7ce90d37a749071dd78f0c7464a6fd3e5f2bc69a54d63"
     }
    ]
   },

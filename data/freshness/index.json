@@ -501,8 +501,8 @@
    "file": "data/freshness/circulara/1995.csv",
    "count": 33,
    "by_status": {
-    "current": 18,
-    "pending-change": 15,
+    "current": 17,
+    "pending-change": 16,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -12671,9 +12671,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 64,
     "unverified": 0,
-    "source-unavailable": 64
+    "source-unavailable": 0
    }
   },
   {
@@ -12684,9 +12684,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 102,
     "unverified": 0,
-    "source-unavailable": 102
+    "source-unavailable": 0
    }
   },
   {
@@ -12697,9 +12697,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 86,
     "unverified": 0,
-    "source-unavailable": 86
+    "source-unavailable": 0
    }
   },
   {
@@ -12710,9 +12710,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 52,
     "unverified": 0,
-    "source-unavailable": 52
+    "source-unavailable": 0
    }
   },
   {
@@ -12723,9 +12723,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 44,
     "unverified": 0,
-    "source-unavailable": 44
+    "source-unavailable": 0
    }
   },
   {
@@ -12736,9 +12736,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 78,
     "unverified": 0,
-    "source-unavailable": 78
+    "source-unavailable": 0
    }
   },
   {
@@ -12749,9 +12749,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 78,
     "unverified": 0,
-    "source-unavailable": 78
+    "source-unavailable": 0
    }
   },
   {
@@ -12762,9 +12762,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 29,
     "unverified": 0,
-    "source-unavailable": 29
+    "source-unavailable": 0
    }
   },
   {
@@ -12775,9 +12775,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 144,
     "unverified": 0,
-    "source-unavailable": 144
+    "source-unavailable": 0
    }
   },
   {
@@ -12788,9 +12788,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 61,
     "unverified": 0,
-    "source-unavailable": 61
+    "source-unavailable": 0
    }
   },
   {
@@ -12801,9 +12801,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 104,
     "unverified": 0,
-    "source-unavailable": 104
+    "source-unavailable": 0
    }
   },
   {
@@ -12814,9 +12814,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 125,
     "unverified": 0,
-    "source-unavailable": 125
+    "source-unavailable": 0
    }
   },
   {
@@ -12827,9 +12827,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 17,
     "unverified": 0,
-    "source-unavailable": 17
+    "source-unavailable": 0
    }
   },
   {
@@ -12840,9 +12840,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 2,
     "unverified": 0,
-    "source-unavailable": 2
+    "source-unavailable": 0
    }
   },
   {
@@ -12853,9 +12853,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 41,
     "unverified": 0,
-    "source-unavailable": 41
+    "source-unavailable": 0
    }
   },
   {
@@ -12866,9 +12866,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 19,
     "unverified": 0,
-    "source-unavailable": 19
+    "source-unavailable": 0
    }
   },
   {
@@ -12879,9 +12879,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 474,
     "unverified": 1,
-    "source-unavailable": 474
+    "source-unavailable": 0
    }
   },
   {
@@ -12892,9 +12892,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 463,
     "unverified": 0,
-    "source-unavailable": 463
+    "source-unavailable": 0
    }
   },
   {
@@ -12905,9 +12905,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 162,
     "unverified": 0,
-    "source-unavailable": 162
+    "source-unavailable": 0
    }
   },
   {
@@ -12918,9 +12918,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 3,
     "unverified": 0,
-    "source-unavailable": 3
+    "source-unavailable": 0
    }
   },
   {
@@ -12931,9 +12931,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 166,
     "unverified": 0,
-    "source-unavailable": 166
+    "source-unavailable": 0
    }
   },
   {
@@ -12944,9 +12944,9 @@
    "by_status": {
     "current": 0,
     "pending-change": 0,
-    "stale": 0,
+    "stale": 1,
     "unverified": 0,
-    "source-unavailable": 1
+    "source-unavailable": 0
    }
   },
   {
@@ -17451,9 +17451,9 @@
    "shard": "norma/1996",
    "kind": "norma",
    "file": "data/freshness/norma/1996.csv",
-   "count": 16,
+   "count": 18,
    "by_status": {
-    "current": 7,
+    "current": 9,
     "pending-change": 9,
     "stale": 0,
     "unverified": 0,
@@ -18426,9 +18426,9 @@
    "shard": "ordin/1998",
    "kind": "ordin",
    "file": "data/freshness/ordin/1998.csv",
-   "count": 212,
+   "count": 213,
    "by_status": {
-    "current": 116,
+    "current": 117,
     "pending-change": 96,
     "stale": 0,
     "unverified": 0,
@@ -18439,10 +18439,10 @@
    "shard": "ordin/1999",
    "kind": "ordin",
    "file": "data/freshness/ordin/1999.csv",
-   "count": 317,
+   "count": 318,
    "by_status": {
     "current": 184,
-    "pending-change": 133,
+    "pending-change": 134,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18478,10 +18478,10 @@
    "shard": "ordin/2002",
    "kind": "ordin",
    "file": "data/freshness/ordin/2002.csv",
-   "count": 893,
+   "count": 898,
    "by_status": {
-    "current": 450,
-    "pending-change": 443,
+    "current": 453,
+    "pending-change": 445,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18491,10 +18491,10 @@
    "shard": "ordin/2003",
    "kind": "ordin",
    "file": "data/freshness/ordin/2003.csv",
-   "count": 1062,
+   "count": 1066,
    "by_status": {
-    "current": 496,
-    "pending-change": 566,
+    "current": 497,
+    "pending-change": 569,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18504,10 +18504,10 @@
    "shard": "ordin/2004",
    "kind": "ordin",
    "file": "data/freshness/ordin/2004.csv",
-   "count": 1244,
+   "count": 1251,
    "by_status": {
-    "current": 563,
-    "pending-change": 681,
+    "current": 568,
+    "pending-change": 683,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18517,10 +18517,10 @@
    "shard": "ordin/2005",
    "kind": "ordin",
    "file": "data/freshness/ordin/2005.csv",
-   "count": 1227,
+   "count": 1232,
    "by_status": {
-    "current": 622,
-    "pending-change": 605,
+    "current": 623,
+    "pending-change": 609,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18530,10 +18530,10 @@
    "shard": "ordin/2006",
    "kind": "ordin",
    "file": "data/freshness/ordin/2006.csv",
-   "count": 1361,
+   "count": 1364,
    "by_status": {
-    "current": 727,
-    "pending-change": 634,
+    "current": 728,
+    "pending-change": 636,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18543,10 +18543,10 @@
    "shard": "ordin/2007",
    "kind": "ordin",
    "file": "data/freshness/ordin/2007.csv",
-   "count": 1164,
+   "count": 1168,
    "by_status": {
-    "current": 664,
-    "pending-change": 500,
+    "current": 666,
+    "pending-change": 502,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18556,10 +18556,10 @@
    "shard": "ordin/2008",
    "kind": "ordin",
    "file": "data/freshness/ordin/2008.csv",
-   "count": 1201,
+   "count": 1207,
    "by_status": {
-    "current": 673,
-    "pending-change": 528,
+    "current": 677,
+    "pending-change": 530,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18569,9 +18569,9 @@
    "shard": "ordin/2009",
    "kind": "ordin",
    "file": "data/freshness/ordin/2009.csv",
-   "count": 1008,
+   "count": 1011,
    "by_status": {
-    "current": 573,
+    "current": 576,
     "pending-change": 435,
     "stale": 0,
     "unverified": 0,
@@ -18582,10 +18582,10 @@
    "shard": "ordin/2010",
    "kind": "ordin",
    "file": "data/freshness/ordin/2010.csv",
-   "count": 1068,
+   "count": 1072,
    "by_status": {
-    "current": 664,
-    "pending-change": 404,
+    "current": 666,
+    "pending-change": 406,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18595,10 +18595,10 @@
    "shard": "ordin/2011",
    "kind": "ordin",
    "file": "data/freshness/ordin/2011.csv",
-   "count": 1060,
+   "count": 1063,
    "by_status": {
-    "current": 655,
-    "pending-change": 405,
+    "current": 656,
+    "pending-change": 407,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18621,9 +18621,9 @@
    "shard": "ordin/2013",
    "kind": "ordin",
    "file": "data/freshness/ordin/2013.csv",
-   "count": 1076,
+   "count": 1078,
    "by_status": {
-    "current": 699,
+    "current": 701,
     "pending-change": 377,
     "stale": 0,
     "unverified": 0,
@@ -18634,10 +18634,10 @@
    "shard": "ordin/2014",
    "kind": "ordin",
    "file": "data/freshness/ordin/2014.csv",
-   "count": 1189,
+   "count": 1193,
    "by_status": {
-    "current": 757,
-    "pending-change": 432,
+    "current": 758,
+    "pending-change": 435,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18647,9 +18647,9 @@
    "shard": "ordin/2015",
    "kind": "ordin",
    "file": "data/freshness/ordin/2015.csv",
-   "count": 1222,
+   "count": 1224,
    "by_status": {
-    "current": 774,
+    "current": 776,
     "pending-change": 448,
     "stale": 0,
     "unverified": 0,
@@ -18660,9 +18660,9 @@
    "shard": "ordin/2016",
    "kind": "ordin",
    "file": "data/freshness/ordin/2016.csv",
-   "count": 1353,
+   "count": 1356,
    "by_status": {
-    "current": 865,
+    "current": 868,
     "pending-change": 488,
     "stale": 0,
     "unverified": 0,
@@ -18673,10 +18673,10 @@
    "shard": "ordin/2017",
    "kind": "ordin",
    "file": "data/freshness/ordin/2017.csv",
-   "count": 1097,
+   "count": 1102,
    "by_status": {
-    "current": 753,
-    "pending-change": 344,
+    "current": 757,
+    "pending-change": 345,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18686,10 +18686,10 @@
    "shard": "ordin/2018",
    "kind": "ordin",
    "file": "data/freshness/ordin/2018.csv",
-   "count": 1198,
+   "count": 1203,
    "by_status": {
-    "current": 808,
-    "pending-change": 390,
+    "current": 812,
+    "pending-change": 391,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18699,9 +18699,9 @@
    "shard": "ordin/2019",
    "kind": "ordin",
    "file": "data/freshness/ordin/2019.csv",
-   "count": 1128,
+   "count": 1134,
    "by_status": {
-    "current": 799,
+    "current": 805,
     "pending-change": 329,
     "stale": 0,
     "unverified": 0,
@@ -18712,9 +18712,9 @@
    "shard": "ordin/2020",
    "kind": "ordin",
    "file": "data/freshness/ordin/2020.csv",
-   "count": 1405,
+   "count": 1413,
    "by_status": {
-    "current": 1031,
+    "current": 1039,
     "pending-change": 374,
     "stale": 0,
     "unverified": 0,
@@ -18725,10 +18725,10 @@
    "shard": "ordin/2021",
    "kind": "ordin",
    "file": "data/freshness/ordin/2021.csv",
-   "count": 1174,
+   "count": 1182,
    "by_status": {
-    "current": 905,
-    "pending-change": 269,
+    "current": 912,
+    "pending-change": 270,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18738,10 +18738,10 @@
    "shard": "ordin/2022",
    "kind": "ordin",
    "file": "data/freshness/ordin/2022.csv",
-   "count": 1377,
+   "count": 1385,
    "by_status": {
-    "current": 1046,
-    "pending-change": 331,
+    "current": 1053,
+    "pending-change": 332,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18751,10 +18751,10 @@
    "shard": "ordin/2023",
    "kind": "ordin",
    "file": "data/freshness/ordin/2023.csv",
-   "count": 1369,
+   "count": 1378,
    "by_status": {
-    "current": 1103,
-    "pending-change": 266,
+    "current": 1110,
+    "pending-change": 268,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18764,10 +18764,10 @@
    "shard": "ordin/2024",
    "kind": "ordin",
    "file": "data/freshness/ordin/2024.csv",
-   "count": 1297,
+   "count": 1305,
    "by_status": {
-    "current": 1080,
-    "pending-change": 217,
+    "current": 1087,
+    "pending-change": 218,
     "stale": 0,
     "unverified": 0,
     "source-unavailable": 0
@@ -18777,9 +18777,9 @@
    "shard": "ordin/2025",
    "kind": "ordin",
    "file": "data/freshness/ordin/2025.csv",
-   "count": 1106,
+   "count": 1107,
    "by_status": {
-    "current": 954,
+    "current": 955,
     "pending-change": 152,
     "stale": 0,
     "unverified": 0,
@@ -18790,9 +18790,9 @@
    "shard": "ordin/2026",
    "kind": "ordin",
    "file": "data/freshness/ordin/2026.csv",
-   "count": 852,
+   "count": 854,
    "by_status": {
-    "current": 812,
+    "current": 814,
     "pending-change": 40,
     "stale": 0,
     "unverified": 0,

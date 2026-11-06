@@ -756,6 +756,33 @@
 "joint": []
 },
 {
+"slug": "ordin-agricultura-190-2022",
+"path": "ordin/agricultura/2022/190",
+"kind": "ordin",
+"year": "2022",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 190/2022 ORDIN nr. 190/83/2022 pentru completarea Regulamentului privind gestionarea situațiilor de urgență generate de fenomene meteorologice periculoase având ca efect producerea secetei pedologice, aprobat prin Ordinul ministrului agriculturii și dezvoltării rurale și al ministrului afacerilor interne nr. 97/63/2020",
+"short": "Ordin agricultura nr. 190/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-12",
+"latest": "2022-07-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257472",
+"issuer": "agricultura",
+"joint": [
+{
+"issuer": "interne",
+"nr": "83",
+"date": "2022-07-12",
+"name": "Ministerul Afacerilor Interne",
+"alias": "ordin-interne-83-2022"
+}
+]
+},
+{
 "slug": "ordin-agricultura-192-2022",
 "path": "ordin/agricultura/2022/192",
 "kind": "ordin",
@@ -11606,6 +11633,25 @@
 "joint": []
 },
 {
+"slug": "ordin-economie-1436-2022",
+"path": "ordin/economie/2022/1436",
+"kind": "ordin",
+"year": "2022",
+"number": "1436",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.436/2022 privind aprobarea Ghidului solicitantului pentru instituirea schemei de ajutor de minimis în vederea tranziției către economia circulară",
+"short": "Ordin economie nr. 1436/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261474",
+"issuer": "economie",
+"joint": []
+},
+{
 "slug": "ordin-economie-1588-2022",
 "path": "ordin/economie/2022/1588",
 "kind": "ordin",
@@ -14784,6 +14830,33 @@
 "joint": []
 },
 {
+"slug": "ordin-finante-270-2022",
+"path": "ordin/finante/2022/270",
+"kind": "ordin",
+"year": "2022",
+"number": "270",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 270/2022 ORDIN nr. 270/2.774/2022 pentru stabilirea valorii sumei indexate care se acordă sub formă de tichete culturale pentru semestrul I al anului 2022",
+"short": "Ordin finante nr. 270/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-04",
+"latest": "2022-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253602",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "cultura",
+"nr": "2774",
+"date": "2022-03-29",
+"name": "Ministerul Culturii",
+"alias": "ordin-cultura-2774-2022"
+}
+]
+},
+{
 "slug": "ordin-finante-284-2022",
 "path": "ordin/finante/2022/284",
 "kind": "ordin",
@@ -14877,6 +14950,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/253476",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-366-2022",
+"path": "ordin/finante/2022/366",
+"kind": "ordin",
+"year": "2022",
+"number": "366",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 366/2022 ORDIN nr. 366/209/2022 pentru stabilirea valorii nominale indexate a unui tichet de masă pentru semestrul I al anului 2022",
+"short": "Ordin finante nr. 366/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-04",
+"latest": "2022-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253609",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "munca",
+"nr": "209",
+"date": "2022-02-18",
+"name": "Ministerul Muncii și Solidarității Sociale",
+"alias": "ordin-munca-209-2022"
+}
+]
 },
 {
 "slug": "ordin-finante-376-2022",
@@ -15354,6 +15454,40 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/256798",
 "issuer": "finante",
 "joint": []
+},
+{
+"slug": "ordin-finante-1488-2022",
+"path": "ordin/finante/2022/1488",
+"kind": "ordin",
+"year": "2022",
+"number": "1488",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.488/2022 ORDIN nr. 1.488/717/1.235/2022 privind stabilirea termenului de depunere a cererilor prevăzute la art. 6 din Ordinul ministrului finanțelor, al ministrului energiei și al ministrului dezvoltării, lucrărilor publice și administrației nr. 226/185/273/2022 pentru stabilirea procedurii privind acordarea subvențiilor prevăzute la art. III din Legea nr. 259/2021 pentru aprobarea Ordonanței de urgență a Guvernului nr. 118/2021 privind stabilirea unei scheme de compensare pentru consumul de energie electrică și gaze naturale pentru sezonul rece 2021-2022, precum și pentru completarea Ordonanței Guvernului nr. 27/1996 privind acordarea de facilități persoanelor care domiciliază sau lucrează în unele localități din Munții Apuseni și în Rezervația Biosferei „Delta Dunării”",
+"short": "Ordin finante nr. 1488/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-08-05",
+"latest": "2022-08-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/258306",
+"issuer": "finante",
+"joint": [
+{
+"issuer": "economie",
+"nr": "717",
+"date": "2022-07-15",
+"name": "Ministerul Energiei",
+"alias": "ordin-economie-717-2022"
+},
+{
+"issuer": "dezvoltare",
+"nr": "1235",
+"date": "2022-06-22",
+"name": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+"alias": "ordin-dezvoltare-1235-2022"
+}
+]
 },
 {
 "slug": "ordin-finante-1502-2022",
@@ -19018,6 +19152,25 @@
 ]
 },
 {
+"slug": "ordin-mediu-710-2022",
+"path": "ordin/mediu/2022/710",
+"kind": "ordin",
+"year": "2022",
+"number": "710",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 710/2022 pentru aprobarea Ghidului de finanțare a Programului privind ecologizarea zonelor afectate de deșeuri",
+"short": "Ordin mediu nr. 710/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-04",
+"latest": "2022-04-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253611",
+"issuer": "mediu",
+"joint": []
+},
+{
 "slug": "ordin-mediu-729-2022",
 "path": "ordin/mediu/2022/729",
 "kind": "ordin",
@@ -20738,6 +20891,33 @@
 "joint": []
 },
 {
+"slug": "ordin-munca-182-2022",
+"path": "ordin/munca/2022/182",
+"kind": "ordin",
+"year": "2022",
+"number": "182",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 182/2022 ORDIN nr. 182/456/2022 privind modificarea și completarea anexei la Ordinul ministrului muncii, familiei și egalității de șanse și al ministrului sănătății publice nr. 762/1.992/2007 pentru aprobarea criteriilor medico-psihosociale pe baza cărora se stabilește încadrarea în grad de handicap",
+"short": "Ordin munca nr. 182/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-03-28",
+"latest": "2022-03-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/253248",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "456",
+"date": "2022-02-23",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-456-2022"
+}
+]
+},
+{
 "slug": "ordin-munca-183-2022",
 "path": "ordin/munca/2022/183",
 "kind": "ordin",
@@ -20827,6 +21007,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/252531",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-644-2022",
+"path": "ordin/munca/2022/644",
+"kind": "ordin",
+"year": "2022",
+"number": "644",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 644/2022 ORDIN nr. 644/351/2022 privind modificarea și completarea Clasificării ocupațiilor din România - nivel de ocupație (șase caractere), aprobată prin Ordinul ministrului muncii, familiei și protecției sociale și al președintelui Institutului Național de Statistică nr. 1.832/856/2011",
+"short": "Ordin munca nr. 644/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-05-25",
+"latest": "2022-05-25",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/255684",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "ins",
+"nr": "351",
+"date": "2022-04-19",
+"name": "Institutul Național de Statistică",
+"alias": "ordin-ins-351-2022"
+}
+]
 },
 {
 "slug": "ordin-munca-705-2022",
@@ -21166,6 +21373,60 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/262299",
 "issuer": "munca",
 "joint": []
+},
+{
+"slug": "ordin-munca-2172-2022",
+"path": "ordin/munca/2022/2172",
+"kind": "ordin",
+"year": "2022",
+"number": "2172",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.172/2022 ORDIN nr. 2.172/3.829/2022 privind acordarea concediului de îngrijitor",
+"short": "Ordin munca nr. 2172/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/263025",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "sanatate",
+"nr": "3829",
+"date": "2022-12-19",
+"name": "Ministerul Sănătății",
+"alias": "ordin-sanatate-3829-2022"
+}
+]
+},
+{
+"slug": "ordin-munca-2228-2022",
+"path": "ordin/munca/2022/2228",
+"kind": "ordin",
+"year": "2022",
+"number": "2228",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.228/2022 ORDIN nr. 2.228/2022/3.025/2023 pentru modificarea și completarea Metodologiei de autorizare a furnizorilor de formare profesională a adulților, aprobată prin Ordinul ministrului muncii, solidarității sociale și familiei și al ministrului educației, cercetării și tineretului nr. 353/5.202/2003",
+"short": "Ordin munca nr. 2228/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2023-01-27",
+"latest": "2023-01-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/264409",
+"issuer": "munca",
+"joint": [
+{
+"issuer": "educatie",
+"nr": "3025",
+"date": "2023-01-12",
+"name": "Ministerul Educației",
+"alias": "ordin-educatie-3025-2023"
+}
+]
 },
 {
 "slug": "ordin-munca-2243-2022",
@@ -21527,6 +21788,33 @@
 "date": "2022-01-31",
 "name": "Casa Națională de Asigurări de Sănătate",
 "alias": "ordin-cnas-64-2022"
+}
+]
+},
+{
+"slug": "ordin-sanatate-189-2022",
+"path": "ordin/sanatate/2022/189",
+"kind": "ordin",
+"year": "2022",
+"number": "189",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 189/2022 ORDIN nr. 189/44/2022 pentru modificarea Ordinului ministrului sănătății publice și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.782/576/2006 privind înregistrarea și raportarea statistică a pacienților care primesc servicii medicale în regim de spitalizare continuă și spitalizare de zi",
+"short": "Ordin sanatate nr. 189/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-01-28",
+"latest": "2022-01-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/251227",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "44",
+"date": "2022-01-20",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-44-2022"
 }
 ]
 },
@@ -22452,6 +22740,33 @@
 ]
 },
 {
+"slug": "ordin-sanatate-1214-2022",
+"path": "ordin/sanatate/2022/1214",
+"kind": "ordin",
+"year": "2022",
+"number": "1214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.214/2022 ORDIN nr. 1.214/227/2022 pentru modificarea și completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.068/627/2021 privind aprobarea Normelor metodologice de aplicare în anul 2021 a Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022",
+"short": "Ordin sanatate nr. 1214/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-04-21",
+"latest": "2022-04-21",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/254331",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "227",
+"date": "2022-04-18",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-227-2022"
+}
+]
+},
+{
 "slug": "ordin-sanatate-1217-2022",
 "path": "ordin/sanatate/2022/1217",
 "kind": "ordin",
@@ -22945,6 +23260,33 @@
 "date": "2022-05-19",
 "name": "Casa Națională de Asigurări de Sănătate",
 "alias": "ordin-cnas-332-2022"
+}
+]
+},
+{
+"slug": "ordin-sanatate-1472-2022",
+"path": "ordin/sanatate/2022/1472",
+"kind": "ordin",
+"year": "2022",
+"number": "1472",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.472/2022 ORDIN nr. 1.472/20.539/2022 privind modificarea și completarea Ordinului ministrului sănătății și al ministrului muncii, familiei, protecției sociale și persoanelor vârstnice nr. 1.306/1.883/2016 pentru aprobarea criteriilor biopsihosociale de încadrare a copiilor cu dizabilități în grad de handicap și a modalităților de aplicare a acestora",
+"short": "Ordin sanatate nr. 1472/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/256703",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "familie",
+"nr": "20539",
+"date": "2022-06-09",
+"name": "Ministerul Familiei, Tineretului și Egalității de Șanse",
+"alias": "ordin-familie-20539-2022"
 }
 ]
 },
@@ -23561,6 +23903,33 @@
 "joint": []
 },
 {
+"slug": "ordin-sanatate-2285-2022",
+"path": "ordin/sanatate/2022/2285",
+"kind": "ordin",
+"year": "2022",
+"number": "2285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.285/2022 ORDIN nr. 2.285/471/2022 pentru modificarea și completarea Ordinului ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.068/627/2021 privind aprobarea Normelor metodologice de aplicare în anul 2021 a Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022",
+"short": "Ordin sanatate nr. 2285/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/257934",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "471",
+"date": "2022-07-15",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-471-2022"
+}
+]
+},
+{
 "slug": "ordin-sanatate-2286-2022",
 "path": "ordin/sanatate/2022/2286",
 "kind": "ordin",
@@ -23846,6 +24215,33 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/258739",
 "issuer": "sanatate",
 "joint": []
+},
+{
+"slug": "ordin-sanatate-2642-2022",
+"path": "ordin/sanatate/2022/2642",
+"kind": "ordin",
+"year": "2022",
+"number": "2642",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2.642/2022 ORDIN nr. 2.642/578/2022 pentru modificarea și completarea Normelor metodologice de aplicare în anul 2021 a Hotărârii Guvernului nr. 696/2021 pentru aprobarea pachetelor de servicii și a Contractului-cadru care reglementează condițiile acordării asistenței medicale, a medicamentelor și a dispozitivelor medicale în cadrul sistemului de asigurări sociale de sănătate pentru anii 2021-2022, aprobate prin Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 1.068/627/2021",
+"short": "Ordin sanatate nr. 2642/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-09-07",
+"latest": "2022-09-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/259137",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "578",
+"date": "2022-08-26",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-578-2022"
+}
+]
 },
 {
 "slug": "ordin-sanatate-2643-2022",
@@ -24508,6 +24904,33 @@
 "date": "2022-11-02",
 "name": "Ministerul Educației",
 "alias": "ordin-educatie-6192-2022"
+}
+]
+},
+{
+"slug": "ordin-sanatate-3322-2022",
+"path": "ordin/sanatate/2022/3322",
+"kind": "ordin",
+"year": "2022",
+"number": "3322",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.322/2022 ORDIN nr. 3.322/909/2022 privind modificarea și completarea anexelor nr. 1 și 2 la Ordinul ministrului sănătății și al președintelui Casei Naționale de Asigurări de Sănătate nr. 564/499/2021 pentru aprobarea protocoalelor terapeutice privind prescrierea medicamentelor aferente denumirilor comune internaționale prevăzute în Lista cuprinzând denumirile comune internaționale corespunzătoare medicamentelor de care beneficiază asigurații, cu sau fără contribuție personală, pe bază de prescripție medicală, în sistemul de asigurări sociale de sănătate, precum și denumirile comune internaționale corespunzătoare medicamentelor care se acordă în cadrul programelor naționale de sănătate, aprobată prin Hotărârea Guvernului nr. 720/2008, și a normelor metodologice privind implementarea acestora",
+"short": "Ordin sanatate nr. 3322/2022",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2022-11-04",
+"latest": "2022-11-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/261019",
+"issuer": "sanatate",
+"joint": [
+{
+"issuer": "cnas",
+"nr": "909",
+"date": "2022-10-31",
+"name": "Casa Națională de Asigurări de Sănătate",
+"alias": "ordin-cnas-909-2022"
 }
 ]
 },

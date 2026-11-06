@@ -2689,3 +2689,13 @@ Act id: `codul-civil` (tags `codul-civil/<day>`; `python tools/on.py <day> codul
 - Codul civil: 1 changed article(s) with no note naming a law, committed as the publisher's: 2018-10-03 art-0253.
 - Codul civil: forms with no change after normalisation, so no version: 2016-07-04 (179824), 2018-11-17 (210104), 2021-01-27 (236336), 2024-05-10 (282147), 2024-10-07 (288566).
 - Codul civil: cross-check passed, the 03.05.2026 form read from two captures (109884@20260625171643 and 130143@20260707145226) is identical in all 2674 articles.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 342/2024](../../../jurisprudenta/ccr/2024/342/)**, Monitorul Oficial nr. 1000 din 7 octombrie 2024 · art. 1391 alin. (1) · unconstitutional only to the extent stated ("în măsura în care")
+
+  > constată că dispozițiile art. 1.391 alin. (1) din Codul civil sunt neconstituționale, în măsura în care limitează posibilitatea victimelor indirecte de a fi despăgubite pentru restrângerea posibilităților lor de viață familială și socială ca urmare a vătămării integrității corporale ori a sănătății victimei directe.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2024-10-07) and ceases to have legal effect 45 days later, on 2024-11-21, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

@@ -471,3 +471,49 @@ Act id: `codul-penal` (tags `codul-penal/<day>`; `python tools/on.py <day> codul
 - Codul penal: from the form of 03.02.2019 on, the portal prints two holdings of High Court preliminary rulings on art. 6 as paragraphs of art. 183; they are dropped as editorial matter.
 - Codul penal: 12 changed article(s) with no note naming a law, committed as the publisher's: 2014-05-20 art-006, 2014-05-20 art-019, 2014-05-20 art-036, 2014-05-20 art-061, 2014-05-20 art-066, 2014-05-20 art-137, 2014-05-20 art-224, 2014-05-20 art-226, 2014-05-20 art-233, 2014-05-20 art-394, 2018-12-20 art-194, 2023-06-09 art-378.
 - Codul penal: forms with no change after normalisation, so no version: 2014-07-04 (163138), 2014-11-19 (163645), 2015-01-03 (165639), 2015-01-27 (173058), 2015-02-09 (178653), 2015-03-26 (178655), 2015-11-13 (178656), 2016-07-08 (180004), 2016-08-22 (185903), 2017-02-05 (185905), 2017-02-27 (186587), 2017-06-09 (189724), 2017-07-17 (191050), 2017-07-24 (191357), 2017-08-31 (192632), 2017-09-26 (193086), 2018-06-25 (201632), 2018-08-09 (203488), 2018-12-13 (208497), 2019-01-27 (210140), 2019-02-03 (210277), 2020-12-12 (232457), 2021-12-07 (248140), 2023-05-22 (267695), 2024-05-10 (282149).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 224/2017](../../../jurisprudenta/ccr/2017/224/)**, Monitorul Oficial nr. 427 din 9 iunie 2017 · art. 335 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 335 alin. (1) din Codul penal, care nu incriminează fapta de conducere pe drumurile publice a unui tractor agricol sau forestier, fără permis de conducere, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-06-09) and ceases to have legal effect 45 days later, on 2017-07-24, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 368/2017](../../../jurisprudenta/ccr/2017/368/)**, Monitorul Oficial nr. 566 din 17 iulie 2017 · art. 35 alin. (1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „și împotriva aceluiași subiect pasiv“ din cuprinsul dispozițiilor art. 35 alin. (1) din Codul penal este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-07-17) and ceases to have legal effect 45 days later, on 2017-08-31, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 297/2018](../../../jurisprudenta/ccr/2018/297/)**, Monitorul Oficial nr. 518 din 25 iunie 2018 · art. 155 alin. (1) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă care prevede întreruperea cursului termenului prescripției răspunderii penale prin îndeplinirea „oricărui act de procedură în cauză“, din cuprinsul dispozițiilor art. 155 alin. (1) din Codul penal, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-06-25) and ceases to have legal effect 45 days later, on 2018-08-09, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 601/2018](../../../jurisprudenta/ccr/2018/601/)**, Monitorul Oficial nr. 1057 din 13 decembrie 2018 · art. 129 alin. (2) lit. b) · only some words or a sentence inside the provision
+
+  > Admite excepția de neconstituționalitate a dispozițiilor art. 129 alin. (2) lit. b) din Codul penal \[…\] și constată că sintagma „cel puțin“ din cuprinsul acestora este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-12-13) and ceases to have legal effect 45 days later, on 2019-01-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 651/2018](../../../jurisprudenta/ccr/2018/651/)**, Monitorul Oficial nr. 1083 din 20 decembrie 2018 · art. 4 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 4 din Codul penal, care nu asimilează efectele unei decizii a Curții Constituționale prin care se constată neconstituționalitatea unei norme de incriminare cu cele ale unei legi penale de dezincriminare, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2018-12-20) and ceases to have legal effect 45 days later, on 2019-02-03, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 708/2021](../../../jurisprudenta/ccr/2021/708/)**, Monitorul Oficial nr. 1160 din 7 decembrie 2021 · art. 137 alin. (3) · provisions read together with others
+
+  > constată că dispozițiile art. 137 alin. (3) teza a doua, cu referire la sintagma „cifra de afaceri“, din Codul penal sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-12-07) and ceases to have legal effect 45 days later, on 2022-01-21, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 221/2023](../../../jurisprudenta/ccr/2023/221/)**, Monitorul Oficial nr. 505 din 9 iunie 2023 · art. 378 alin. (1) lit. c) · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 378 alin. (1) lit. c) din Codul penal, care nu incriminează neplata, cu rea-credință, timp de 3 luni, a pensiei de întreținere stabilite prin act notarial, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2023-06-09) and ceases to have legal effect 45 days later, on 2023-07-24, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

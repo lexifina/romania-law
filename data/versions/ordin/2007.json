@@ -14463,6 +14463,21 @@
    ]
   },
   {
+   "slug": "ordin-sanatate-1624-2007",
+   "path": "ordin/sanatate/2007/1624",
+   "short": "Ordin sanatate nr. 1624/2007",
+   "title": "Ordinul nr. 1.624/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85922",
+   "versions": [
+    {
+     "from": "2007-10-05",
+     "units": 15,
+     "source_url": "https://web.archive.org/web/20170703113015id_/https://legislatie.just.ro/Public/DetaliiDocument/85922",
+     "sha256": "61606b384ba1c2ddfec7612df9058c458c5304f18cf580c831d696d61999295c"
+    }
+   ]
+  },
+  {
    "slug": "ordin-sanatate-1625-2007",
    "path": "ordin/sanatate/2007/1625",
    "short": "Ordin sanatate nr. 1625/2007",

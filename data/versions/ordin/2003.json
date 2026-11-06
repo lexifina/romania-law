@@ -2943,6 +2943,21 @@
    ]
   },
   {
+   "slug": "ordin-agricultura-418-2003",
+   "path": "ordin/agricultura/2003/418",
+   "short": "Ordin agricultura nr. 418/2003",
+   "title": "Ordinul nr. 418/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/44924",
+   "versions": [
+    {
+     "from": "2003-07-11",
+     "units": 16,
+     "source_url": "https://web.archive.org/web/20250407001157id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/44924",
+     "sha256": "140faf07ca1ae2353b077f09b7afff977f8169c56a471e027faf5da42d9f4fef"
+    }
+   ]
+  },
+  {
    "slug": "ordin-agricultura-427-2003",
    "path": "ordin/agricultura/2003/427",
    "short": "Ordin agricultura nr. 427/2003",
@@ -11594,6 +11609,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42794",
      "sha256": "8aaefb9acd16e7df6b84af7de0d36d5bf7143c39d42e28fd1d5e9eafa04d5dd2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-finante-40-2003",
+   "path": "ordin/finante/2003/40",
+   "short": "Ordin finante nr. 40/2003",
+   "title": "Ordinul nr. 40/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41705",
+   "versions": [
+    {
+     "from": "2003-02-11",
+     "units": 14,
+     "source_url": "https://web.archive.org/web/20250407070934id_/https://legislatie.just.ro/Public/DetaliiDocumentAfis/41705",
+     "sha256": "a445e49eb1d1ba58754eba6de2e7e8b14c774ba2ce4120892e6d74fc96cc2410"
     }
    ]
   },

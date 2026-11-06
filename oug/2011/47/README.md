@@ -16,3 +16,13 @@ Act id: `oug-47-2011` (tags `oug-47-2011/<day>`; `python tools/on.py <day> oug-4
 - OUG nr. 47/2011: the newest form held is that of 25.05.2011; amendments in force after it may be missing.
 - OUG nr. 47/2011: added by Lexifina's automatic pass with the default rules: the forms are those the portal lists, each version is dated by its form or by the notes it prints, and no rule or ruling made for this act alone was applied. It was published only because every automatic check passed: two parses identical, the newest form read afresh equal to the latest version article by article, every article a form leaves out settled by the standing rules, every version dated by a rule or a stated in-force day, and no unexplained change other than diacritics or spacing.
 - OUG nr. 47/2011: the first version is the emergency ordinance as published in Monitorul Oficial nr. 365 of 25 May 2011 (DetaliiDocumentAfis/128843), dated 25 May 2011: an emergency ordinance with no day of its own, in force on publication (Constituția art. 115 alin. (5); Legea nr. 24/2000 art. 12 alin. (2)). The portal lists no consolidated form of it, so the text as published is its only version; the act page (DetaliiDocument/128843) prints the same text.
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 19/2013](../../../jurisprudenta/ccr/2013/19/)**, Monitorul Oficial nr. 84 din 7 februarie 2013 · art. 1 alin. (1) · provisions read together with others
+
+  > constată că prevederile art. 1 alin. (1) şi (4) din Ordonanţa de urgenţă a Guvernului nr. 47/2011 privind reglementarea situaţiei juridice a unor săli şi grădini de spectacol cinematografic, precum şi a altor imobile, cu referire la imobilele menţionate la poziţiile nr. 1-12, nr. 14-91, nr. 93-156 şi nr. 158-166 din anexa nr. 1 care face parte integrantă din Ordonanţa de urgenţă a Guvernului nr. 47/2011, precum şi cele ale art. 1 alin. (2) din aceeaşi ordonanţă de urgenţă sunt neconstituţionale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2013-02-07) and ceases to have legal effect 45 days later, on 2013-03-24, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

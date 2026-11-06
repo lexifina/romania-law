@@ -93,3 +93,25 @@ Act id: `oug-158-2005` (tags `oug-158-2005/<day>`; `python tools/on.py <day> oug
 - OUG nr. 158/2005: articles already shown repealed that a later form prints again as "Abrogat" are typesetting, committed as the publisher's: 10.07.2015 art-054.
 - OUG nr. 158/2005: 22 changed article(s) with no note naming a law, committed as the publisher's: 2006-01-23 art-001, 2006-01-23 art-006, 2006-01-23 art-010, 2006-01-23 art-044, 2006-01-23 art-062, 2006-11-28 art-001, 2006-11-28 art-062, 2014-11-04 art-003, 2015-07-10 art-001, 2015-07-10 art-004, 2015-07-10 art-005, 2015-07-10 art-008, 2015-07-10 art-010, 2018-01-18 art-006, 2020-02-12 art-004, 2020-02-12 art-006, 2020-02-12 art-027-2, 2020-02-12 art-037, 2020-02-12 art-044, 2020-02-12 art-045, 2020-02-12 art-046, 2020-08-23 art-006.
 - OUG nr. 158/2005: forms with no change after normalisation, so no version: 2017-10-12 (193568), 2017-11-26 (195368), 2019-07-19 (215867), 2019-09-02 (217734), 2021-05-27 (242504).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 460/2017](../../../jurisprudenta/ccr/2017/460/)**, Monitorul Oficial nr. 809 din 12 octombrie 2017 · art. 33 · a rule read from the text ("soluție legislativă"), not its words
+
+  > constată că soluția legislativă cuprinsă în art. 33 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate, care exclude posibilitatea acordării indemnizației de maternitate calculate în raport cu toate veniturile pe baza cărora s-a calculat și plătit contribuția pentru concedii și indemnizații, în alte situații decât cele prevăzute expres de acest text de lege, este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2017-10-12) and ceases to have legal effect 45 days later, on 2017-11-26, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 323/2019](../../../jurisprudenta/ccr/2019/323/)**, Monitorul Oficial nr. 595 din 19 iulie 2019 · art. 61 · only some words or a sentence inside the provision
+
+  > constată că art. 15 alin. 2 din Legea nr. 80/1995 privind statutul cadrelor militare și sintagma „cu excepția personalului militar în activitate, polițiștilor și funcționarilor publici cu statut special“ din art. 61 din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate sunt neconstituționale.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2019-07-19) and ceases to have legal effect 45 days later, on 2019-09-02, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
+
+- **[Decizia nr. 244/2021](../../../jurisprudenta/ccr/2021/244/)**, Monitorul Oficial nr. 551 din 27 mai 2021 · art. 26 alin. (1^1) · only some words or a sentence inside the provision
+
+  > constată că sintagma „în vârstă de până la 16 ani“ cuprinsă în art. 26 alin. (1^1) din Ordonanța de urgență a Guvernului nr. 158/2005 privind concediile și indemnizațiile de asigurări sociale de sănătate este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2021-05-27) and ceases to have legal effect 45 days later, on 2021-07-11, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.

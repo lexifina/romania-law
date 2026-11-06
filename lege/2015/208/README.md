@@ -156,3 +156,13 @@ Act id: `legea-208-2015` (tags `legea-208-2015/<day>`; `python tools/on.py <day>
 - Legea nr. 208/2015: the form of 8 May 2019 prints art. 93 alin. (2) without letters c)-k) and art. 101 without alin. (10), with no note; the form of 28 July 2019 prints them again, also with no note. These changes are committed as the text of the publisher, as the portal prints them.
 - Legea nr. 208/2015: 3 changed article(s) with no note naming a law, committed as the publisher's: 2019-05-08 art-093, 2019-05-08 art-101, 2019-07-28 art-093.
 - Legea nr. 208/2015: forms with no change after normalisation, so no version: 2016-07-22 (180377), 2020-03-17 (223609).
+
+## Constitutional Court findings not applied to this text
+
+The Constitutional Court found the provisions below unconstitutional in a way the files here do not show as struck out: only some words inside a provision, a reading of it, a rule read from it, provisions read together with others, or a decision given before the 2003 revision of the Constitution. The text here is unchanged; read the decision. `data/court-notes.csv` lists every such finding.
+
+- **[Decizia nr. 418/2020](../../../jurisprudenta/ccr/2020/418/)**, Monitorul Oficial nr. 612 din 13 iulie 2020 · art. 118 alin. (2) · only some words or a sentence inside the provision
+
+  > constată că sintagma „care au grup parlamentar propriu în cel puțin una din Camerele Parlamentului“ din cuprinsul art. 2 alin. (1) lit. e) din Legea nr. 370/2004 pentru alegerea Președintelui României, precum și al art. 118 alin. (2) din Legea nr. 208/2015 privind alegerea Senatului și a Camerei Deputaților, precum și pentru organizarea și funcționarea Autorității Electorale Permanente este neconstituțională.
+
+  Under Constituția art. 147 alin. (1), what the decision found unconstitutional is suspended from its publication (2020-07-13) and ceases to have legal effect 45 days later, on 2020-08-27, unless Parliament or the Government brings it into line with the Constitution in that time. The text here is unchanged; read the decision.
