@@ -121,6 +121,21 @@
      "sha256": "a287e82d3dc96296b1274cc7a919cefca1b8a2a964b8e271af2c0d24b102cddc"
     }
    ]
+  },
+  {
+   "slug": "hotarare-bnr-27-2014",
+   "path": "hotarare/bnr/2014/27",
+   "short": "Hotărârea bnr nr. 27/2014",
+   "title": "Hotărârea nr. 27/2014",
+   "url": "https://www.bnr.ro/19696-hotarare-27-2014",
+   "versions": [
+    {
+     "from": "2014-10-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19696-hotarare-27-2014",
+     "sha256": "627568e37098c5aad8f6bfc47d3d2bb304bcd04ad1edbfd67f6711a2d06bf7f1"
+    }
+   ]
   }
  ]
 }

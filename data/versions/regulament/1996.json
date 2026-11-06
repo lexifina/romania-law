@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "regulament-bnr-8-1996",
+   "path": "regulament/bnr/1996/8",
+   "short": "Regulament bnr nr. 8/1996",
+   "title": "Regulamentul nr. 8/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7835",
+   "versions": [
+    {
+     "from": "1997-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7835",
+     "sha256": "fbe59ed4c1f818446ce3f9710dc1f8dfa3c96b5aa1f76807ee6cb65e9f1882ac"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-7-1996",
    "path": "regulament/cnvm/1996/7",
    "short": "Regulament cnvm nr. 7/1996",

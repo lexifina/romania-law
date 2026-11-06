@@ -117,6 +117,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-12-1996",
+"path": "norma/bnr/1996/12",
+"kind": "norma",
+"year": "1996",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 12/1996",
+"short": "Norma bnr nr. 12/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-08-12",
+"latest": "1996-08-12",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7890",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-844-1996",
 "path": "norma/bnr/1996/844",
 "kind": "norma",

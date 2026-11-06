@@ -3,6 +3,25 @@
 "shard": "hotarare/1997",
 "acts": [
 {
+"slug": "hotarare-bnr-1-1997",
+"path": "hotarare/bnr/1997/1",
+"kind": "hotarare",
+"year": "1997",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/1997",
+"short": "Hotărârea bnr nr. 1/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-03-27",
+"latest": "1997-03-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10742",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-2-1997",
 "path": "hotarare/bnr/1997/2",
 "kind": "hotarare",
@@ -41,6 +60,25 @@
 "joint": []
 },
 {
+"slug": "hotarare-bnr-4-1997",
+"path": "hotarare/bnr/1997/4",
+"kind": "hotarare",
+"year": "1997",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 4/1997",
+"short": "Hotărârea bnr nr. 4/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-04-22",
+"latest": "1997-04-22",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10813",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-5-1997",
 "path": "hotarare/bnr/1997/5",
 "kind": "hotarare",
@@ -56,6 +94,25 @@
 "from": "1997-05-05",
 "latest": "1997-05-05",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/10831",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-6-1997",
+"path": "hotarare/bnr/1997/6",
+"kind": "hotarare",
+"year": "1997",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 6/1997",
+"short": "Hotărârea bnr nr. 6/1997",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-09-03",
+"latest": "1997-09-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/10849",
 "issuer": "bnr",
 "joint": []
 }

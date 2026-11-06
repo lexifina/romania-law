@@ -18603,6 +18603,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-116-2023",
+   "path": "ordin/anre/2023/116",
+   "short": "Ordin anre nr. 116/2023",
+   "title": "Ordinul nr. 116/2023 privind aprobarea tarifului pentru achiziția serviciilor de sistem pentru operatorul de transport și sistem Compania Națională de Transport al Energiei Electrice „Transelectrica” — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2023/12/Ord-116-2023.pdf",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/12/Ord-116-2023.pdf",
+     "sha256": "1304d78c37e6059f3bc971f036292e00d2e57defbf2ea82e8214908a6cb03631"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-22-2023",
    "path": "ordin/anre/2023/22",
    "short": "Ordin anre nr. 22/2023",
@@ -19049,6 +19064,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/266473",
      "sha256": "36f466c18ea8c47db17a72191d91c2ec7e20e38a66bfa8e95adc6639af38ccb5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-9-2023",
+   "path": "ordin/anre/2023/9",
+   "short": "Ordin anre nr. 9/2023",
+   "title": "Ordinul nr. 9/2023 privind stabilirea cotei obligatorii de achiziție de certificate verzi aferentă anului 2022",
+   "url": "https://anre.ro/wp-content/uploads/2023/03/Ord_9_2023.pdf",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 4,
+     "source_url": "https://anre.ro/wp-content/uploads/2023/03/Ord_9_2023.pdf",
+     "sha256": "616748df259d8959e155bc139b572e0725f5b14f1d9720f8455d8b874f77dc32"
     }
    ]
   },

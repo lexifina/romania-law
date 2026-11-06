@@ -14628,6 +14628,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-8-2003",
+   "path": "ordin/anpc/2003/8",
+   "short": "Ordin anpc nr. 8/2003",
+   "title": "Ordinul nr. 8/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/42129",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42129",
+     "sha256": "c06f10a6d14445014d57ba499b6d08a941d97239b99e2c5171b916b6f3eb4824"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-81-2003",
    "path": "ordin/anpc/2003/81",
    "short": "Ordin anpc nr. 81/2003",
@@ -14774,6 +14789,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/42709",
      "sha256": "c90b99b0f74e449febbec24fe377b6f5d17515e03c4996a74248534f369f91d1"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrgn-1075-2003",
+   "path": "ordin/anrgn/2003/1075",
+   "short": "Ordin anrgn nr. 1075/2003",
+   "title": "Ordinul nr. 1.075/2003",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/48681",
+   "versions": [
+    {
+     "from": "2003-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/48681",
+     "sha256": "536281b8d9ef40c7a73e0d8c0448ddad50c294a28d3616d0a9734178cc4c9119"
     }
    ]
   },

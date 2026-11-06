@@ -3,6 +3,25 @@
 "shard": "hotarare/1996",
 "acts": [
 {
+"slug": "hotarare-bnr-1-1996",
+"path": "hotarare/bnr/1996/1",
+"kind": "hotarare",
+"year": "1996",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/1996",
+"short": "Hotărârea bnr nr. 1/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1996-03-13",
+"latest": "1996-03-13",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7684",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-2-1996",
 "path": "hotarare/bnr/1996/2",
 "kind": "hotarare",

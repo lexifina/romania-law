@@ -663,6 +663,21 @@
    ]
   },
   {
+   "slug": "regulament-cnvm-12-2010",
+   "path": "regulament/cnvm/2010/12",
+   "short": "Regulament cnvm nr. 12/2010",
+   "title": "Regulamentul nr. 12/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119622",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119622",
+     "sha256": "d9e63f66b2276d6d750cc4d8d399fa43b61a054673ba2e0ab1579e3ef184b788"
+    }
+   ]
+  },
+  {
    "slug": "regulament-cnvm-16-2010",
    "path": "regulament/cnvm/2010/16",
    "short": "Regulament cnvm nr. 16/2010",

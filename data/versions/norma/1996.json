@@ -196,6 +196,21 @@
      "sha256": "227def0abe0dd1627242a59b275140a0b1608f64b42c20fbf7f96d9e97ebab96"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-12-1996",
+   "path": "norma/bnr/1996/12",
+   "short": "Norma bnr nr. 12/1996",
+   "title": "Norma nr. 12/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7890",
+   "versions": [
+    {
+     "from": "1996-08-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7890",
+     "sha256": "0b78f691c7877db3b1cf57ababb5575730ee93c6c34ffbaafb2415a6a34e6d27"
+    }
+   ]
   }
  ]
 }

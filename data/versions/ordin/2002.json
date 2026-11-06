@@ -12318,6 +12318,21 @@
    ]
   },
   {
+   "slug": "ordin-anrgn-531-2002",
+   "path": "ordin/anrgn/2002/531",
+   "short": "Ordin anrgn nr. 531/2002",
+   "title": "Ordinul nr. 531/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36188",
+   "versions": [
+    {
+     "from": "2002-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36188",
+     "sha256": "b453f09d1159fce2366f1c22cf48ed21fd16f4904bc96f84fae6c42745206bb9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-1-2002",
    "path": "ordin/bnr/2002/1",
    "short": "Ordin bnr nr. 1/2002",
@@ -12404,6 +12419,36 @@
      "units": 12,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/39193",
      "sha256": "050d8b6d84b87caff9977e920907a94ee4e2f4c109cf876d18d4f80ca4e585fe"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-62-2002",
+   "path": "ordin/bnr/2002/62",
+   "short": "Ordin bnr nr. 62/2002",
+   "title": "Ordinul nr. 62/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36964",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36964",
+     "sha256": "ab8b76c55261589cd3f6977e68bca4590c3d248a4295ad3d92aef7b4b9b0c9d2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-cnvm-104-2002",
+   "path": "ordin/cnvm/2002/104",
+   "short": "Ordin cnvm nr. 104/2002",
+   "title": "Ordinul nr. 104/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/41044",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/41044",
+     "sha256": "4c22f9b7aaece8d6ecc23424518a0fe93ab335ebb3393f8edcf9634a999447fb"
     }
    ]
   },

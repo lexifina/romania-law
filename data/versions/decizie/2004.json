@@ -828,6 +828,36 @@
    ]
   },
   {
+   "slug": "decizie-concurenta-142-2004",
+   "path": "decizie/concurenta/2004/142",
+   "short": "Decizia concurenta nr. 142/2004",
+   "title": "Decizia nr. 142/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52610",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52610",
+     "sha256": "2663a08316e2efd2a8918912ebc53be72793efd43a00a92f2ebd6c27a1450d28"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-24-2004",
+   "path": "decizie/concurenta/2004/24",
+   "short": "Decizia concurenta nr. 24/2004",
+   "title": "Decizia nr. 24/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/49662",
+   "versions": [
+    {
+     "from": "2004-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/49662",
+     "sha256": "5eda862cef4840d782dab6e52d39c8441333976f66c6828baacc856db14f2f50"
+    }
+   ]
+  },
+  {
    "slug": "decizie-concurenta-328-2004",
    "path": "decizie/concurenta/2004/328",
    "short": "Decizia concurenta nr. 328/2004",
@@ -839,6 +869,96 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/58680",
      "sha256": "8b92030e8da565ef9633e534d12458f1e720a96435b6e437e9508a8473c6370d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-45-2004",
+   "path": "decizie/concurenta/2004/45",
+   "short": "Decizia concurenta nr. 45/2004",
+   "title": "Decizia nr. 45/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50246",
+   "versions": [
+    {
+     "from": "2004-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50246",
+     "sha256": "d2b298d86470fd34e4bc30bec720607b0da6238fba3ac4ccca3fb7e635e2c904"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-57-2004",
+   "path": "decizie/concurenta/2004/57",
+   "short": "Decizia concurenta nr. 57/2004",
+   "title": "Decizia nr. 57/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/50770",
+   "versions": [
+    {
+     "from": "2004-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/50770",
+     "sha256": "7f7db48d76fc204c736a27a2cdfe529d05ff21a5cb8611f4166647bfbfd3704b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-76-2004",
+   "path": "decizie/concurenta/2004/76",
+   "short": "Decizia concurenta nr. 76/2004",
+   "title": "Decizia nr. 76/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51355",
+   "versions": [
+    {
+     "from": "2004-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51355",
+     "sha256": "094797105fe3a1a6621301764d1ae6a4c7cae37174062b200c473886f30f8c9e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-77-2004",
+   "path": "decizie/concurenta/2004/77",
+   "short": "Decizia concurenta nr. 77/2004",
+   "title": "Decizia nr. 77/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51462",
+   "versions": [
+    {
+     "from": "2004-04-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51462",
+     "sha256": "0387ab1a83af2785ee1460e4f4d9aed60990609957b1f9192a0c43591e461f55"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-78-2004",
+   "path": "decizie/concurenta/2004/78",
+   "short": "Decizia concurenta nr. 78/2004",
+   "title": "Decizia nr. 78/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51300",
+   "versions": [
+    {
+     "from": "2004-04-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51300",
+     "sha256": "741e4f4dd9142caab537c317016fb598343ffb94cf9add83466e69042e300b30"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-81-2004",
+   "path": "decizie/concurenta/2004/81",
+   "short": "Decizia concurenta nr. 81/2004",
+   "title": "Decizia nr. 81/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51413",
+   "versions": [
+    {
+     "from": "2004-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51413",
+     "sha256": "7b5f4a1eb90e4d41ced8d9166c4805bf8bc54e4a3c5bfe5fd56d73d6806da99f"
     }
    ]
   },
@@ -858,6 +978,156 @@
    ]
   },
   {
+   "slug": "decizie-csa-3204-2004",
+   "path": "decizie/csa/2004/3204",
+   "short": "Decizia csa nr. 3204/2004",
+   "title": "Decizia nr. 3.204/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52035",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52035",
+     "sha256": "6feda7329848be2801cc5a2ea71c792b29268d23589feeb9a9adb9a842b9d7a0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3238-2004",
+   "path": "decizie/csa/2004/3238",
+   "short": "Decizia csa nr. 3238/2004",
+   "title": "Decizia nr. 3.238/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52036",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52036",
+     "sha256": "24474914d20e1c71f2f7a9283f9235b7e427d5402fcc01c64eb588d2a8ac702f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3262-2004",
+   "path": "decizie/csa/2004/3262",
+   "short": "Decizia csa nr. 3262/2004",
+   "title": "Decizia nr. 3.262/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52037",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52037",
+     "sha256": "56cd5c8a6401a562c1a40b88a7ed5ed627a87147dc4fc18f41b7b6ad8be5c83a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3273-2004",
+   "path": "decizie/csa/2004/3273",
+   "short": "Decizia csa nr. 3273/2004",
+   "title": "Decizia nr. 3.273/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52038",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52038",
+     "sha256": "9a44244a55fe25209e5dc35a49b902c4f3209aef979c732e65fc3059e37cfe3e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3276-2004",
+   "path": "decizie/csa/2004/3276",
+   "short": "Decizia csa nr. 3276/2004",
+   "title": "Decizia nr. 3.276/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52118",
+   "versions": [
+    {
+     "from": "2004-05-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52118",
+     "sha256": "c81cafb188c54a03a2eb4e531001c95088073ae4297b926a22e26eb4b1faa4ce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3280-2004",
+   "path": "decizie/csa/2004/3280",
+   "short": "Decizia csa nr. 3280/2004",
+   "title": "Decizia nr. 3.280/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52204",
+   "versions": [
+    {
+     "from": "2004-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52204",
+     "sha256": "1faed43df85a9a388a43097aa20bc82712a33e31dc179907faec7313754e51df"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3282-2004",
+   "path": "decizie/csa/2004/3282",
+   "short": "Decizia csa nr. 3282/2004",
+   "title": "Decizia nr. 3.282/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52194",
+   "versions": [
+    {
+     "from": "2004-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52194",
+     "sha256": "2abc5fcb239c4e627c6b88f4e0fc37195fdbf9e979417e4d3091fad8b54711f9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3317-2004",
+   "path": "decizie/csa/2004/3317",
+   "short": "Decizia csa nr. 3317/2004",
+   "title": "Decizia nr. 3.317/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52995",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52995",
+     "sha256": "745318198a1fa2b0735432e5ebe17e06e6d90e2a86d1c2eefa2c16cacbe5a91e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3319-2004",
+   "path": "decizie/csa/2004/3319",
+   "short": "Decizia csa nr. 3319/2004",
+   "title": "Decizia nr. 3.319/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/52996",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/52996",
+     "sha256": "967f90bff15da053b837c1fcf2eaf509e0b80c1f8b949294a01d4a2efb0e1194"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3328-2004",
+   "path": "decizie/csa/2004/3328",
+   "short": "Decizia csa nr. 3328/2004",
+   "title": "Decizia nr. 3.328/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/53411",
+   "versions": [
+    {
+     "from": "2004-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/53411",
+     "sha256": "137917f0f039bbe0a12718fcc48835d667879921433a97765e1c9b2426380644"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-3360-2004",
    "path": "decizie/csa/2004/3360",
    "short": "Decizia csa nr. 3360/2004",
@@ -869,6 +1139,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55255",
      "sha256": "8436710610d6cbcd87ac2e5de88c7ee3057a0117359d8f604a607f5782c1b664"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3567-2004",
+   "path": "decizie/csa/2004/3567",
+   "short": "Decizia csa nr. 3567/2004",
+   "title": "Decizia nr. 3.567/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/54585",
+   "versions": [
+    {
+     "from": "2004-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/54585",
+     "sha256": "3ef1546fa60d25fbc0a54c9b57154b732c1e6c44233f0770bbfc1950d7dc490f"
     }
    ]
   },

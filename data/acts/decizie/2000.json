@@ -1124,6 +1124,25 @@
 "joint": []
 },
 {
+"slug": "decizie-concurenta-221-2000",
+"path": "decizie/concurenta/2000/221",
+"kind": "decizie",
+"year": "2000",
+"number": "221",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 221/2000",
+"short": "Decizia concurenta nr. 221/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-08-04",
+"latest": "2000-08-04",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/23673",
+"issuer": "concurenta",
+"joint": []
+},
+{
 "slug": "decizie-concurenta-250-2000",
 "path": "decizie/concurenta/2000/250",
 "kind": "decizie",
@@ -1196,6 +1215,25 @@
 "from": "2001-01-19",
 "latest": "2001-01-19",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/26256",
+"issuer": "concurenta",
+"joint": []
+},
+{
+"slug": "decizie-concurenta-565-2000",
+"path": "decizie/concurenta/2000/565",
+"kind": "decizie",
+"year": "2000",
+"number": "565",
+"withdrawn_by": null,
+"reason": null,
+"title": "Decizia nr. 565/2000",
+"short": "Decizia concurenta nr. 565/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-01-29",
+"latest": "2001-01-29",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/26424",
 "issuer": "concurenta",
 "joint": []
 }

@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-15-2011",
+   "path": "circulara/bnr/2011/15",
+   "short": "Circulara bnr nr. 15/2011",
+   "title": "Circulara nr. 15/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna mai 2011",
+   "url": "https://www.bnr.ro/21876-circulara-15-2011",
+   "versions": [
+    {
+     "from": "2011-05-02",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21876-circulara-15-2011",
+     "sha256": "a1f5cfac321ce48f931591754c4661a348d709a7b4026232264f99644ac821d9"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-16-2011",
    "path": "circulara/bnr/2011/16",
    "short": "Circulara bnr nr. 16/2011",
@@ -408,6 +423,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-35-2011",
+   "path": "circulara/bnr/2011/35",
+   "short": "Circulara bnr nr. 35/2011",
+   "title": "Circulara nr. 35/2011 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 septembrie - 23 octombrie 2011",
+   "url": "https://www.bnr.ro/19176-circulara-35-2011",
+   "versions": [
+    {
+     "from": "2011-10-19",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19176-circulara-35-2011",
+     "sha256": "46775dc27092502745928c6ec5c3ea8cad57cbf622cf8f5516846b6fcc36402f"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-36-2011",
    "path": "circulara/bnr/2011/36",
    "short": "Circulara bnr nr. 36/2011",
@@ -419,6 +449,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132719",
      "sha256": "5da0bf78a0b7a17e15471abd1d7363c67b9d950a4c97fd0f640922eb50d99df2"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2011",
+   "path": "circulara/bnr/2011/37",
+   "short": "Circulara bnr nr. 37/2011",
+   "title": "Circulara nr. 37/2011 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://www.bnr.ro/19995-circulara-37-2011",
+   "versions": [
+    {
+     "from": "2011-11-03",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19995-circulara-37-2011",
+     "sha256": "fc28d9ef16aef1efebc0ba80b4aa43719567b1ce622f860f097df24db94f7bd9"
     }
    ]
   },
@@ -494,6 +539,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133483",
      "sha256": "28a4ba04836cc8d662326e2008bdd6d35d99a1c5d5f5db53afa726654ea65999"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-42-2011",
+   "path": "circulara/bnr/2011/42",
+   "short": "Circulara bnr nr. 42/2011",
+   "title": "Circulara nr. 42/2011",
+   "url": "https://www.bnr.ro/20042-hotarare-10-2011",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20042-hotarare-10-2011",
+     "sha256": "2faddac5a63c77789d747e920e0344374737b8d34e01d85ef359f02a43edae27"
     }
    ]
   },

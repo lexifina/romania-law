@@ -16473,6 +16473,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-313-2007",
+   "path": "ordin/anpc/2007/313",
+   "short": "Ordin anpc nr. 313/2007",
+   "title": "Ordinul nr. 313/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83231",
+   "versions": [
+    {
+     "from": "2007-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83231",
+     "sha256": "e3103beddd931eef3acb71241ea134b48b4162030a12f9106f13839d461df830"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-343-2007",
    "path": "ordin/anpc/2007/343",
    "short": "Ordin anpc nr. 343/2007",
@@ -16488,6 +16503,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-347-2007",
+   "path": "ordin/anpc/2007/347",
+   "short": "Ordin anpc nr. 347/2007",
+   "title": "Ordinul nr. 347/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84127",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84127",
+     "sha256": "abf75ef044da22865a92c87e7edea078fa1c72b281a7412a8d0108b85a0b7cd2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-351-2007",
    "path": "ordin/anpc/2007/351",
    "short": "Ordin anpc nr. 351/2007",
@@ -16499,6 +16529,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83969",
      "sha256": "4da9e298da200e1053aca5ae74f3ca3033b0d17805ed5f974df2e2a9de97074b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-619-2007",
+   "path": "ordin/anpc/2007/619",
+   "short": "Ordin anpc nr. 619/2007",
+   "title": "Ordinul nr. 619/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86278",
+   "versions": [
+    {
+     "from": "2007-10-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86278",
+     "sha256": "1d75147e381aa109c6e4645b6bd215cec10520b88fbbb7c5497ee83fac819f77"
     }
    ]
   },
@@ -16593,6 +16638,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-146-2007",
+   "path": "ordin/ansvsa/2007/146",
+   "short": "Ordin ansvsa nr. 146/2007",
+   "title": "Ordinul nr. 146/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84128",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84128",
+     "sha256": "229ab895bf76b08e2c47e8b3ef19a2fc712474fe7aaa73698d523331e5af2801"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-150-2007",
    "path": "ordin/ansvsa/2007/150",
    "short": "Ordin ansvsa nr. 150/2007",
@@ -16604,6 +16664,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85308",
      "sha256": "4174ef46c639f0d2249e1a440cedc80c3d42914d66a547a81410623f1634fb67"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-200-2007",
+   "path": "ordin/ansvsa/2007/200",
+   "short": "Ordin ansvsa nr. 200/2007",
+   "title": "Ordinul nr. 200/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88927",
+   "versions": [
+    {
+     "from": "2008-01-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88927",
+     "sha256": "ee5007bd7090da7d161c50443bd0e7a8b837373f080b03d4d3d84138fb404e0f"
     }
    ]
   },

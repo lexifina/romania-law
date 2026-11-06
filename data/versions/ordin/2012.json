@@ -14013,6 +14013,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-9-2012",
+   "path": "ordin/anre/2012/9",
+   "short": "Ordin anre nr. 9/2012",
+   "title": "Ordinul nr. 9/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/136561",
+   "versions": [
+    {
+     "from": "2012-03-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/136561",
+     "sha256": "986669f6340e95f54c72a333c059dba9d65a6184880a5f7587d0bc42c355290e"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-31-2012",
+   "path": "ordin/ansvsa/2012/31",
+   "short": "Ordin ansvsa nr. 31/2012",
+   "title": "Ordinul nr. 31/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/137780",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/137780",
+     "sha256": "f493fb7f3538642ba3e834caf672db425cf60e207909443ac1962ec8fb70ec1a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-52-2012",
    "path": "ordin/ansvsa/2012/52",
    "short": "Ordin ansvsa nr. 52/2012",
@@ -14069,6 +14099,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/143700",
      "sha256": "86db8373353d52307e6200f5a51fa13e2d59e96014767baee20bde4e615b882c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-1242-2012",
+   "path": "ordin/bnr/2012/1242",
+   "short": "Ordin bnr nr. 1242/2012",
+   "title": "Ordinul nr. 1.242/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/144307",
+   "versions": [
+    {
+     "from": "2013-01-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144307",
+     "sha256": "70ef488e72b4b9e94e80f6d4165404a70f971d2d65c45898330aed0fcc3958be"
     }
    ]
   },
@@ -14163,6 +14208,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-678-2012",
+   "path": "ordin/bnr/2012/678",
+   "short": "Ordin bnr nr. 678/2012",
+   "title": "Ordinul nr. 678/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/139706",
+   "versions": [
+    {
+     "from": "2012-07-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/139706",
+     "sha256": "7b92587b9fb3b74fcbdd437e7a7f12a1a5df5b946fce4331b34ca26493176915"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-679-2012",
    "path": "ordin/bnr/2012/679",
    "short": "Ordin bnr nr. 679/2012",
@@ -14234,6 +14294,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/144106",
      "sha256": "9f4581399e9081d3bc80fa2c8f7ef2b423ee793299522e2e92aaef0c2821a963"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-2-2012",
+   "path": "ordin/csa/2012/2",
+   "short": "Ordin csa nr. 2/2012",
+   "title": "Ordinul nr. 2/2012",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/135402",
+   "versions": [
+    {
+     "from": "2012-02-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/135402",
+     "sha256": "a3554c9197a366d52d4d9929ebf63934fa129a06bf11adaa979d09a4941778b1"
     }
    ]
   }

@@ -873,6 +873,21 @@
    ]
   },
   {
+   "slug": "decizie-concurenta-221-2000",
+   "path": "decizie/concurenta/2000/221",
+   "short": "Decizia concurenta nr. 221/2000",
+   "title": "Decizia nr. 221/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/23673",
+   "versions": [
+    {
+     "from": "2000-08-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/23673",
+     "sha256": "910afaf17dc3b24367ced60a683587391a517edd478f4c5ab5e8baec1bbf7f94"
+    }
+   ]
+  },
+  {
    "slug": "decizie-concurenta-250-2000",
    "path": "decizie/concurenta/2000/250",
    "short": "Decizia concurenta nr. 250/2000",
@@ -929,6 +944,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26256",
      "sha256": "3673e775b5e3f5cbbcac2c3835a42a980ca10aa86ffa3fc2ec3ea8434a108334"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-565-2000",
+   "path": "decizie/concurenta/2000/565",
+   "short": "Decizia concurenta nr. 565/2000",
+   "title": "Decizia nr. 565/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/26424",
+   "versions": [
+    {
+     "from": "2001-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/26424",
+     "sha256": "fea5856a72a723e07adc6c33d17fcfcbf628ed7a863734233ddf0cf2d71f7ce7"
     }
    ]
   },

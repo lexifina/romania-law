@@ -573,6 +573,25 @@
 "joint": []
 },
 {
+"slug": "regulament-cnvm-12-2010",
+"path": "regulament/cnvm/2010/12",
+"kind": "regulament",
+"year": "2010",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 12/2010",
+"short": "Regulament cnvm nr. 12/2010",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2010-06-17",
+"latest": "2010-06-17",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/119622",
+"issuer": "cnvm",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-13-2010",
 "path": "regulament/cnvm/2010/13",
 "kind": "regulament",

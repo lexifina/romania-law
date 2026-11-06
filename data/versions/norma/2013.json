@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "norma-asf-13-2013",
+   "path": "norma/asf/2013/13",
+   "short": "Norma asf nr. 13/2013",
+   "title": "Norma nr. 13/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152381",
+   "versions": [
+    {
+     "from": "2013-11-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152381",
+     "sha256": "43577dfb788562a21cda0c941766664c8b38eee4eaea12b52ff2167fb0b4f217"
+    }
+   ]
+  },
+  {
    "slug": "norma-asf-14-2013",
    "path": "norma/asf/2013/14",
    "short": "Norma asf nr. 14/2013",

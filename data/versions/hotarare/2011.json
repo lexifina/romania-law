@@ -33,6 +33,36 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-1100-2011",
+   "path": "hotarare/bnr/2011/1100",
+   "short": "Hotărârea bnr nr. 1100/2011",
+   "title": "Hotărârea nr. 1.100/2011 pentru modificarea art. 7 alin. (2) lit. c) din Regulamentul de aplicare a prevederilor Legii nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării actelor de terorism, aprobat prin Hotărârea Guvernului nr. 594/2008",
+   "url": "https://www.bnr.ro/19574-hotarare-1100-2011",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19574-hotarare-1100-2011",
+     "sha256": "9df3f45f1095cb869b5789d59848bd94a663a9e0ba6feb2b1228e5dc39f24283"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-7-2011",
+   "path": "hotarare/bnr/2011/7",
+   "short": "Hotărârea bnr nr. 7/2011",
+   "title": "Hotărârea nr. 7/2011 privind radierea din Registrul general a Societății Comerciale A + FINANCE IFN - S.A",
+   "url": "https://www.bnr.ro/19133-hotarare-7-2011",
+   "versions": [
+    {
+     "from": "2011-06-24",
+     "units": 2,
+     "source_url": "https://www.bnr.ro/19133-hotarare-7-2011",
+     "sha256": "3c6e4a25ae9aa39275e121ee5f4c03506390f5a4b0c8e41b39b74308fddbe519"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-1-2011",
    "path": "hotarare/csspp/2011/1",
    "short": "Hotărârea csspp nr. 1/2011",
@@ -89,6 +119,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132609",
      "sha256": "37f83114ee8c23b01e4bb78607f1b5c4dfba3e105eea8df2c9bfcde0e2d7af93"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-csspp-18-2011",
+   "path": "hotarare/csspp/2011/18",
+   "short": "Hotărârea csspp nr. 18/2011",
+   "title": "Hotărârea nr. 18/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133261",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133261",
+     "sha256": "219860f94a100d4561decdbaa1f1465c8d7bfbbf15cb4528352bad126ffc7575"
     }
    ]
   },

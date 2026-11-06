@@ -17253,6 +17253,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-19-2024",
+   "path": "ordin/anre/2024/19",
+   "short": "Ordin anre nr. 19/2024",
+   "title": "Ordinul nr. 19/2024 privind aprobarea prețului de referință al energiei electrice produse în cogenerare de înaltă eficiență, care beneficiază de bonus",
+   "url": "https://anre.ro/wp-content/uploads/2024/06/Ord-19-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 5,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/06/Ord-19-2024.pdf",
+     "sha256": "7006432af204e6f042d0eb00587fb3696ea584b5da6ffe38258b8990d396ec0a"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-24-2024",
    "path": "ordin/anre/2024/24",
    "short": "Ordin anre nr. 24/2024",
@@ -17564,6 +17579,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/284659",
      "sha256": "8491f195ef8d610d5b78714b495f83afaebcf5b57ed2ac6052592846eab61625"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-46-2024",
+   "path": "ordin/anre/2024/46",
+   "short": "Ordin anre nr. 46/2024",
+   "title": "Ordinul nr. 46/2024 privind aprobarea tarifelor reglementate pentru prestarea serviciului de distribuție realizat de Societatea GAZ EST — S.A",
+   "url": "https://anre.ro/wp-content/uploads/2024/07/Ord-46-2024.pdf",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 4,
+     "source_url": "https://anre.ro/wp-content/uploads/2024/07/Ord-46-2024.pdf",
+     "sha256": "1934b4ff79db1711d90b0ba0177976c01e14b2323ac293abe1a4f513f9d3f6b5"
     }
    ]
   },

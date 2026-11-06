@@ -17208,6 +17208,51 @@
    ]
   },
   {
+   "slug": "ordin-anpc-216-2004",
+   "path": "ordin/anpc/2004/216",
+   "short": "Ordin anpc nr. 216/2004",
+   "title": "Ordinul nr. 216/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55282",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55282",
+     "sha256": "3c771df9edc486d4a70dd7e1df6af84ba7b05711e0fab1ca709083580e0f039c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-217-2004",
+   "path": "ordin/anpc/2004/217",
+   "short": "Ordin anpc nr. 217/2004",
+   "title": "Ordinul nr. 217/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55288",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55288",
+     "sha256": "41a30ca4e4f2357039dbbadd225b0996b68b78969a112585239ce8981495c26b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-226-2004",
+   "path": "ordin/anpc/2004/226",
+   "short": "Ordin anpc nr. 226/2004",
+   "title": "Ordinul nr. 226/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56047",
+   "versions": [
+    {
+     "from": "2005-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56047",
+     "sha256": "7851dd82865db0ce993c8c979c68ceb21eb3795959bb542b8268c58ac14948bb"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-231-2004",
    "path": "ordin/anpc/2004/231",
    "short": "Ordin anpc nr. 231/2004",
@@ -17219,6 +17264,51 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55656",
      "sha256": "1fabee3bb409a6b8007cedcb08dfc64279eb95cea84e409a21dd2db957ff9ba2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-257-2004",
+   "path": "ordin/anpc/2004/257",
+   "short": "Ordin anpc nr. 257/2004",
+   "title": "Ordinul nr. 257/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/56003",
+   "versions": [
+    {
+     "from": "2004-10-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/56003",
+     "sha256": "ce580eddab73b9735d1eb4ad236fc3bbc02088dcc486031388f89dea73b84112"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-285-2004",
+   "path": "ordin/anpc/2004/285",
+   "short": "Ordin anpc nr. 285/2004",
+   "title": "Ordinul nr. 285/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57388",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57388",
+     "sha256": "0349ffa0e4c545b4555563261a65d54a62aba45fda6cb79858e348ba9974f6f6"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-286-2004",
+   "path": "ordin/anpc/2004/286",
+   "short": "Ordin anpc nr. 286/2004",
+   "title": "Ordinul nr. 286/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/57385",
+   "versions": [
+    {
+     "from": "2004-12-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57385",
+     "sha256": "f5f6c4d6e07170f86c51b9ab465a74c264e68a44b22f5fb832fbc5740fac01dd"
     }
    ]
   },
@@ -17699,6 +17789,36 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/57811",
      "sha256": "f9847cf279d8c6083381950ed24900421e5eca043d8577642bafeb51b89c1111"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-40-2004",
+   "path": "ordin/ansvsa/2004/40",
+   "short": "Ordin ansvsa nr. 40/2004",
+   "title": "Ordinul nr. 40/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/55279",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/55279",
+     "sha256": "4a1365eaa41932defbae325a5d92560e1cd3b55e4938cde0bfdd466eebca78c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-163-2004",
+   "path": "ordin/bnr/2004/163",
+   "short": "Ordin bnr nr. 163/2004",
+   "title": "Ordinul nr. 163/2004",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/51949",
+   "versions": [
+    {
+     "from": "2004-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/51949",
+     "sha256": "c9cf9f0b9d25929acba52aea969f61a9e006850c0cf46c81d9aa894453a26461"
     }
    ]
   },

@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-1005-2010",
+   "path": "decizie/csa/2010/1005",
+   "short": "Decizia csa nr. 1005/2010",
+   "title": "Decizia nr. 1.005/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124794",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124794",
+     "sha256": "49e0860fb3980251cca36a4898fcb3f48107d433f8bb140fb119a58aa10db1c6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1016-2010",
    "path": "decizie/csa/2010/1016",
    "short": "Decizia csa nr. 1016/2010",
@@ -239,6 +254,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124584",
      "sha256": "6d7b3548353af6530b3e8c8f857d23bc66ea17adf6e3bd8507d856806eadb1d6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1028-2010",
+   "path": "decizie/csa/2010/1028",
+   "short": "Decizia csa nr. 1028/2010",
+   "title": "Decizia nr. 1.028/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125055",
+   "versions": [
+    {
+     "from": "2011-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125055",
+     "sha256": "b161739c4928ba5f9f2318a5d79908b2210f6d7db72f4ec703838db772b1c720"
     }
    ]
   },
@@ -318,6 +348,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-1063-2010",
+   "path": "decizie/csa/2010/1063",
+   "short": "Decizia csa nr. 1063/2010",
+   "title": "Decizia nr. 1.063/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125204",
+   "versions": [
+    {
+     "from": "2011-01-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125204",
+     "sha256": "4ab28993ac4d20f8f39c17c526d6de63067d26762e1a73165b8d9e234e345126"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-148-2010",
    "path": "decizie/csa/2010/148",
    "short": "Decizia csa nr. 148/2010",
@@ -363,6 +408,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-191-2010",
+   "path": "decizie/csa/2010/191",
+   "short": "Decizia csa nr. 191/2010",
+   "title": "Decizia nr. 191/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116832",
+   "versions": [
+    {
+     "from": "2010-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116832",
+     "sha256": "9cfafa2d20fbca46cfc8f197e5912537ca7abc236f4e42054cf4ac01450f4393"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-194-2010",
+   "path": "decizie/csa/2010/194",
+   "short": "Decizia csa nr. 194/2010",
+   "title": "Decizia nr. 194/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/116723",
+   "versions": [
+    {
+     "from": "2010-03-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/116723",
+     "sha256": "3f47eb07e0aef368765a15a7930847f148906cf5423a62912730d69b622fad96"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-219-2010",
    "path": "decizie/csa/2010/219",
    "short": "Decizia csa nr. 219/2010",
@@ -404,6 +479,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117377",
      "sha256": "4cc91dfd391a07a8c3a20be872cd5882a724972f67dce84191d1df1b5a7efc51"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-261-2010",
+   "path": "decizie/csa/2010/261",
+   "short": "Decizia csa nr. 261/2010",
+   "title": "Decizia nr. 261/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117528",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117528",
+     "sha256": "3fd63f79ed613c833e51912e83deb3d02575fd22b971da95ecfba8ef5e34cbf0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-262-2010",
+   "path": "decizie/csa/2010/262",
+   "short": "Decizia csa nr. 262/2010",
+   "title": "Decizia nr. 262/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/117530",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/117530",
+     "sha256": "6f1fd46dfcc37c1d88d2b8c4df0f9a1707c86e898973d6e6e7410e8386900fec"
     }
    ]
   },
@@ -513,6 +618,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-316-2010",
+   "path": "decizie/csa/2010/316",
+   "short": "Decizia csa nr. 316/2010",
+   "title": "Decizia nr. 316/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118181",
+   "versions": [
+    {
+     "from": "2010-04-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118181",
+     "sha256": "38bfc313651758f41e4c7afbd56ad8dd34c2ab6b62d835a43a40b8808cf597a0"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-317-2010",
    "path": "decizie/csa/2010/317",
    "short": "Decizia csa nr. 317/2010",
@@ -573,6 +693,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-332-2010",
+   "path": "decizie/csa/2010/332",
+   "short": "Decizia csa nr. 332/2010",
+   "title": "Decizia nr. 332/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118313",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118313",
+     "sha256": "e5929e1d281cbe0b353b4aa532b1a8cd704ee19334a36eeaa4630eeb6ade2bbc"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-357-2010",
    "path": "decizie/csa/2010/357",
    "short": "Decizia csa nr. 357/2010",
@@ -599,6 +734,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118639",
      "sha256": "6320344e1043240b894d862479af9c4cf7eaa7e6976b0e09e47344288ffd2486"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-36-2010",
+   "path": "decizie/csa/2010/36",
+   "short": "Decizia csa nr. 36/2010",
+   "title": "Decizia nr. 36/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115383",
+   "versions": [
+    {
+     "from": "2010-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115383",
+     "sha256": "8709eed6ecaddba874e98f8fcbacb49843b25253ff0b2bb4f0430302d0bcaf25"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-371-2010",
+   "path": "decizie/csa/2010/371",
+   "short": "Decizia csa nr. 371/2010",
+   "title": "Decizia nr. 371/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118640",
+   "versions": [
+    {
+     "from": "2010-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118640",
+     "sha256": "a1e3f370a7dfb31195d9b029a630419f50cd74688c994b556960a12232d62421"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-377-2010",
+   "path": "decizie/csa/2010/377",
+   "short": "Decizia csa nr. 377/2010",
+   "title": "Decizia nr. 377/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118804",
+   "versions": [
+    {
+     "from": "2010-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118804",
+     "sha256": "887a73513bf69392e7167ecaa89ca3a1031ef54390ba37b881cb1fc868855967"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-378-2010",
+   "path": "decizie/csa/2010/378",
+   "short": "Decizia csa nr. 378/2010",
+   "title": "Decizia nr. 378/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/118856",
+   "versions": [
+    {
+     "from": "2010-05-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/118856",
+     "sha256": "6942a0e2b2e549c0940dbc44010491c9167dc8f71192b63d2e61c8d5dd7fed3a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-402-2010",
+   "path": "decizie/csa/2010/402",
+   "short": "Decizia csa nr. 402/2010",
+   "title": "Decizia nr. 402/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119108",
+   "versions": [
+    {
+     "from": "2010-05-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119108",
+     "sha256": "017b7364d01f7b68848e29bc28f8244d159e67b12c1978c8f1c6e46a90c95804"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-420-2010",
+   "path": "decizie/csa/2010/420",
+   "short": "Decizia csa nr. 420/2010",
+   "title": "Decizia nr. 420/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119522",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119522",
+     "sha256": "26d62943b36b8cfdda0aa23dc7001bffca3ae94a188d55663f440ef6711b615f"
     }
    ]
   },
@@ -659,6 +884,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119526",
      "sha256": "e3552f404b24ccf3c55ae8dcf35bc0e5233b526c50756fb01f840721e44ed1e5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-429-2010",
+   "path": "decizie/csa/2010/429",
+   "short": "Decizia csa nr. 429/2010",
+   "title": "Decizia nr. 429/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119527",
+   "versions": [
+    {
+     "from": "2010-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119527",
+     "sha256": "907f163d9e0896d8b74c4eb67e5eae2856e6f88d57e0ff35745e8580286abc0c"
     }
    ]
   },
@@ -768,6 +1008,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-464-2010",
+   "path": "decizie/csa/2010/464",
+   "short": "Decizia csa nr. 464/2010",
+   "title": "Decizia nr. 464/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119619",
+   "versions": [
+    {
+     "from": "2010-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119619",
+     "sha256": "f334720d7c85c11da07f31fbfdc4f330fa990cb0385acb9957458493c06567ef"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-468-2010",
    "path": "decizie/csa/2010/468",
    "short": "Decizia csa nr. 468/2010",
@@ -809,6 +1064,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119568",
      "sha256": "3546b36c19d30f508a9428c5802b9efd1ae7d446fe42a8abf614886809a67002"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-478-2010",
+   "path": "decizie/csa/2010/478",
+   "short": "Decizia csa nr. 478/2010",
+   "title": "Decizia nr. 478/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119814",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119814",
+     "sha256": "e4c590e15a65997d3f6126ea0d6879285c99f8aa2c406d2498b374c57b347b19"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-479-2010",
+   "path": "decizie/csa/2010/479",
+   "short": "Decizia csa nr. 479/2010",
+   "title": "Decizia nr. 479/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119818",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119818",
+     "sha256": "03b20556ab013c3010eeae20e7b7a60d3900e68e1eb4b03a0e9ff4301b4618fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-481-2010",
+   "path": "decizie/csa/2010/481",
+   "short": "Decizia csa nr. 481/2010",
+   "title": "Decizia nr. 481/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119793",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119793",
+     "sha256": "7bdc26c2ee3ed56255a710bca2e7960045c72d0fc376b68b2e8dfabcb80e8d21"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-482-2010",
+   "path": "decizie/csa/2010/482",
+   "short": "Decizia csa nr. 482/2010",
+   "title": "Decizia nr. 482/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119794",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119794",
+     "sha256": "c5bc75a4ed1c2226f48f267064abf54c0de3cf88b93db8eaee00d3853daca90b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-483-2010",
+   "path": "decizie/csa/2010/483",
+   "short": "Decizia csa nr. 483/2010",
+   "title": "Decizia nr. 483/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119796",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119796",
+     "sha256": "4c08b16fe4b078cc1926cb3c291759f58b769522569223254027e6251a3e1b11"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-484-2010",
+   "path": "decizie/csa/2010/484",
+   "short": "Decizia csa nr. 484/2010",
+   "title": "Decizia nr. 484/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/119797",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/119797",
+     "sha256": "1471137a59e29e926bc18ca5dbb3d60222d076ee54ced841e243889bf7a09edf"
     }
    ]
   },
@@ -933,6 +1278,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-532-2010",
+   "path": "decizie/csa/2010/532",
+   "short": "Decizia csa nr. 532/2010",
+   "title": "Decizia nr. 532/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120887",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120887",
+     "sha256": "119b34a50ef7ac58a6a94a055e6742d1aff295dd6d45d6e56b1ffbd018f22d2c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-534-2010",
+   "path": "decizie/csa/2010/534",
+   "short": "Decizia csa nr. 534/2010",
+   "title": "Decizia nr. 534/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/120889",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/120889",
+     "sha256": "61751c7aa0302a97f07e194e0640dd4355bafa1652b6c02d90cdcd4c4f13eae6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-542-2010",
    "path": "decizie/csa/2010/542",
    "short": "Decizia csa nr. 542/2010",
@@ -963,6 +1338,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-55-2010",
+   "path": "decizie/csa/2010/55",
+   "short": "Decizia csa nr. 55/2010",
+   "title": "Decizia nr. 55/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115580",
+   "versions": [
+    {
+     "from": "2010-01-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115580",
+     "sha256": "0ac49b3073f37e44ee94dca4b78d9f986c39877515fbd657713c1f0d3e30986d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-552-2010",
    "path": "decizie/csa/2010/552",
    "short": "Decizia csa nr. 552/2010",
@@ -974,6 +1364,201 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121064",
      "sha256": "fdb61bfeab4df13584089e43328e32c94015515eafbfd9dcc42c474167a60358"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-592-2010",
+   "path": "decizie/csa/2010/592",
+   "short": "Decizia csa nr. 592/2010",
+   "title": "Decizia nr. 592/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121334",
+   "versions": [
+    {
+     "from": "2010-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121334",
+     "sha256": "b47b2d529031f1c35c02904505363f2e639295cf44895e7b4bdaabaccfbca10d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-594-2010",
+   "path": "decizie/csa/2010/594",
+   "short": "Decizia csa nr. 594/2010",
+   "title": "Decizia nr. 594/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121517",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121517",
+     "sha256": "7773de9891de35a88c1d0ce909322e0fcac2fd109f5f52a232f3a21bff6b2861"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-595-2010",
+   "path": "decizie/csa/2010/595",
+   "short": "Decizia csa nr. 595/2010",
+   "title": "Decizia nr. 595/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121536",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121536",
+     "sha256": "bdde8f16bbc1a46fb26d41056cfb64b42217c52bbde06a8f0f7524a75d5f2196"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-596-2010",
+   "path": "decizie/csa/2010/596",
+   "short": "Decizia csa nr. 596/2010",
+   "title": "Decizia nr. 596/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121538",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121538",
+     "sha256": "1193b9e41fa3688c93d40e4559614545560d569e888f5ab8b701f51163f39dd3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-599-2010",
+   "path": "decizie/csa/2010/599",
+   "short": "Decizia csa nr. 599/2010",
+   "title": "Decizia nr. 599/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121542",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121542",
+     "sha256": "467819ec154a83fc2a41000f6c226a87bbe2f3e29ef2be97dfbbc04a4ac6dd0b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-601-2010",
+   "path": "decizie/csa/2010/601",
+   "short": "Decizia csa nr. 601/2010",
+   "title": "Decizia nr. 601/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121539",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121539",
+     "sha256": "ea429b74016bb133a3b7610467815633d9168f8b1d5e06ee4070aad2ac85a52c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-602-2010",
+   "path": "decizie/csa/2010/602",
+   "short": "Decizia csa nr. 602/2010",
+   "title": "Decizia nr. 602/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121540",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121540",
+     "sha256": "821df0c176fb6f07a78877cf04353e21fa0272007f89233826b1b1e5876b49c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-603-2010",
+   "path": "decizie/csa/2010/603",
+   "short": "Decizia csa nr. 603/2010",
+   "title": "Decizia nr. 603/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121541",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121541",
+     "sha256": "faaedf769eed69fad2fb4f4d297515301bec44c21d264e7832ba0eed390c1a31"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-605-2010",
+   "path": "decizie/csa/2010/605",
+   "short": "Decizia csa nr. 605/2010",
+   "title": "Decizia nr. 605/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121545",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121545",
+     "sha256": "2b667ea8619cd6e91b35cdb91b435d00bbb1613b61061ccd81bcaac243098b8a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-606-2010",
+   "path": "decizie/csa/2010/606",
+   "short": "Decizia csa nr. 606/2010",
+   "title": "Decizia nr. 606/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121546",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121546",
+     "sha256": "d2d588ec818e98b175e9af6fef911c8d1f9168ffd9446f84b99afb258d1a9ad1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-607-2010",
+   "path": "decizie/csa/2010/607",
+   "short": "Decizia csa nr. 607/2010",
+   "title": "Decizia nr. 607/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121547",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121547",
+     "sha256": "813064a2611705e24cbf43691f51ef2db58c214eeae51f7fe6a1a72ee4601f7c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-608-2010",
+   "path": "decizie/csa/2010/608",
+   "short": "Decizia csa nr. 608/2010",
+   "title": "Decizia nr. 608/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122220",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122220",
+     "sha256": "0aac683dc444e1e186e94b75055a00dcdd167e350a52db926beb63a9946035b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-609-2010",
+   "path": "decizie/csa/2010/609",
+   "short": "Decizia csa nr. 609/2010",
+   "title": "Decizia nr. 609/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122221",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122221",
+     "sha256": "91ab2100e0ea12e3508c29d539a865f772c91572bd490fb0f10bc418ef8f1d4c"
     }
    ]
   },
@@ -1038,6 +1623,96 @@
    ]
   },
   {
+   "slug": "decizie-csa-662-2010",
+   "path": "decizie/csa/2010/662",
+   "short": "Decizia csa nr. 662/2010",
+   "title": "Decizia nr. 662/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121589",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121589",
+     "sha256": "24a021ad51081e29335d60bd1e4cf74f4c21351668de92514a0572bbfea048dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-663-2010",
+   "path": "decizie/csa/2010/663",
+   "short": "Decizia csa nr. 663/2010",
+   "title": "Decizia nr. 663/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121592",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121592",
+     "sha256": "3a99d3a6643e6072990915cac0975514992439ae869b788ad0d4085dc6f151be"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-670-2010",
+   "path": "decizie/csa/2010/670",
+   "short": "Decizia csa nr. 670/2010",
+   "title": "Decizia nr. 670/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121954",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121954",
+     "sha256": "c35e9741b3226a4422b75da468de2534af0d6d4a5835912904da35f38703ca24"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-675-2010",
+   "path": "decizie/csa/2010/675",
+   "short": "Decizia csa nr. 675/2010",
+   "title": "Decizia nr. 675/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122222",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122222",
+     "sha256": "21104563df81579a599d212c39ff86aee5b9b16c5d86fde23ff45ad8b404facc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-676-2010",
+   "path": "decizie/csa/2010/676",
+   "short": "Decizia csa nr. 676/2010",
+   "title": "Decizia nr. 676/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122223",
+   "versions": [
+    {
+     "from": "2010-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122223",
+     "sha256": "c0bb1bf4169737aa7ec3bb5cd24566482f8a0015574012088caa2d0ca2360614"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-677-2010",
+   "path": "decizie/csa/2010/677",
+   "short": "Decizia csa nr. 677/2010",
+   "title": "Decizia nr. 677/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121955",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121955",
+     "sha256": "e146fc0fedf47277188173aaffcf5edac574ce654766e5d6c31ca7a1bc837884"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-683-2010",
    "path": "decizie/csa/2010/683",
    "short": "Decizia csa nr. 683/2010",
@@ -1079,6 +1754,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122840",
      "sha256": "bbf625a85314f5dfc945fbb7b43961fec6c6edd2510c28a531593a187f942e0d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-82-2010",
+   "path": "decizie/csa/2010/82",
+   "short": "Decizia csa nr. 82/2010",
+   "title": "Decizia nr. 82/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115874",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115874",
+     "sha256": "94eee01eb95e30be30ac5e284df5f94aca70402a2240417bb0e79f21d09d60e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-829-2010",
+   "path": "decizie/csa/2010/829",
+   "short": "Decizia csa nr. 829/2010",
+   "title": "Decizia nr. 829/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/122829",
+   "versions": [
+    {
+     "from": "2010-10-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/122829",
+     "sha256": "d904c6f6a7945b03c498e7dd58535e4c90dedcf452cb4b844d78e6b3645f25dd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-830-2010",
+   "path": "decizie/csa/2010/830",
+   "short": "Decizia csa nr. 830/2010",
+   "title": "Decizia nr. 830/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123099",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123099",
+     "sha256": "b0c52ee9f0eb9013859fe5469e8054a7262a317b76aee49bfcd57149c5f091ce"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-831-2010",
+   "path": "decizie/csa/2010/831",
+   "short": "Decizia csa nr. 831/2010",
+   "title": "Decizia nr. 831/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123100",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123100",
+     "sha256": "73fff3b45abf58389c93050e02be53c6b1de81bacc2c2f33defe373ebbfb2cc7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-863-2010",
+   "path": "decizie/csa/2010/863",
+   "short": "Decizia csa nr. 863/2010",
+   "title": "Decizia nr. 863/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123722",
+   "versions": [
+    {
+     "from": "2010-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123722",
+     "sha256": "bf16f65ce46f6eff6bfeed13f30c6f5e08d78c6c76cbb5c418462c3667b11bf0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-864-2010",
+   "path": "decizie/csa/2010/864",
+   "short": "Decizia csa nr. 864/2010",
+   "title": "Decizia nr. 864/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123724",
+   "versions": [
+    {
+     "from": "2010-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123724",
+     "sha256": "0e1bc1408a2f484a5dc6358cfdbdd93eaf00f4957674294e3c6cdb29cc421ce5"
     }
    ]
   },
@@ -1139,6 +1904,111 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123684",
      "sha256": "c9560955268bd73170cc99e96511a5a84613f45027e12bbc6d6a47bd17e4da19"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-911-2010",
+   "path": "decizie/csa/2010/911",
+   "short": "Decizia csa nr. 911/2010",
+   "title": "Decizia nr. 911/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123685",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123685",
+     "sha256": "b02959eb2608f4263d54b93a9654a27739374f445f2868ea41fff69d50cc3a91"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-913-2010",
+   "path": "decizie/csa/2010/913",
+   "short": "Decizia csa nr. 913/2010",
+   "title": "Decizia nr. 913/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123686",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123686",
+     "sha256": "157c57bce8ab6b8ba5d0e004c2c19daceb67c15e13d36da1b8bd3c9de5c643c2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-915-2010",
+   "path": "decizie/csa/2010/915",
+   "short": "Decizia csa nr. 915/2010",
+   "title": "Decizia nr. 915/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123687",
+   "versions": [
+    {
+     "from": "2010-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123687",
+     "sha256": "cb17533611594f41bbf565e3c482744b917f60dadc2a84529ecd91075113fa9e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-92-2010",
+   "path": "decizie/csa/2010/92",
+   "short": "Decizia csa nr. 92/2010",
+   "title": "Decizia nr. 92/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115875",
+   "versions": [
+    {
+     "from": "2010-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115875",
+     "sha256": "397e99eb8f67c6dfaeb721e28afef0f10343d666c834e9e09f1d71ca5a02e346"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-931-2010",
+   "path": "decizie/csa/2010/931",
+   "short": "Decizia csa nr. 931/2010",
+   "title": "Decizia nr. 931/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123828",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123828",
+     "sha256": "2c750e17f7789cb86a61cd5541e38e1f4ea80cfa2ea9d5ee71d0e1f8318fdb31"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-932-2010",
+   "path": "decizie/csa/2010/932",
+   "short": "Decizia csa nr. 932/2010",
+   "title": "Decizia nr. 932/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123829",
+   "versions": [
+    {
+     "from": "2010-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123829",
+     "sha256": "f3c825d0d325ff73982dd8436b26745e2c3d9bd3eb69c0e3d2851ceb3cca04ea"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-964-2010",
+   "path": "decizie/csa/2010/964",
+   "short": "Decizia csa nr. 964/2010",
+   "title": "Decizia nr. 964/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/124790",
+   "versions": [
+    {
+     "from": "2010-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/124790",
+     "sha256": "55b9635dcb5db8ff31059dd62f1882debd0873e393b0556b43e17b5711ec122e"
     }
    ]
   },

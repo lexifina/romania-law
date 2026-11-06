@@ -459,6 +459,25 @@
 "joint": []
 },
 {
+"slug": "circulara-bnr-25-2004",
+"path": "circulara/bnr/2004/25",
+"kind": "circulara",
+"year": "2004",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Circulara nr. 25/2004 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna noiembrie 2004",
+"short": "Circulara bnr nr. 25/2004",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-11-04",
+"latest": "2004-11-04",
+"portal": "https://www.bnr.ro/20512-circulara-25-2004",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "circulara-bnr-26-2004",
 "path": "circulara/bnr/2004/26",
 "kind": "circulara",

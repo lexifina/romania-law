@@ -3,6 +3,21 @@
  "shard": "hotarare/2015",
  "acts": [
   {
+   "slug": "hotarare-asf-19-2015",
+   "path": "hotarare/asf/2015/19",
+   "short": "Hotărârea asf nr. 19/2015",
+   "title": "Hotărârea nr. 19/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/167334",
+   "versions": [
+    {
+     "from": "2015-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/167334",
+     "sha256": "4040e57413ac9a2740b3ac0cb4f359506ed41cb5b94319bf537c395d0c243be4"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-asf-209-2015",
    "path": "hotarare/asf/2015/209",
    "short": "Hotărârea asf nr. 209/2015",

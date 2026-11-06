@@ -16,6 +16,21 @@
      "sha256": "445f64d442e422384c0aa6ab92916f55052b4ac870d28c320c5cb6e19b88468d"
     }
    ]
+  },
+  {
+   "slug": "hotarare-bnr-179-2001",
+   "path": "hotarare/bnr/2001/179",
+   "short": "Hotărârea bnr nr. 179/2001",
+   "title": "Hotărârea nr. 179/2001",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/33025",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/33025",
+     "sha256": "41f1fd16292bd67cbce7f6da7696a1c589a215ecbd5d1f93b36df5b753558bb5"
+    }
+   ]
   }
  ]
 }

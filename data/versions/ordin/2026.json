@@ -12558,6 +12558,66 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-530-2026",
+   "path": "ordin/ansvsa/2026/530",
+   "short": "Ordin ansvsa nr. 530/2026",
+   "title": "Ordinul nr. 530/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311236",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311236",
+     "sha256": "94a261a42c3c39d3b4d3e2d38cec85af162df82fad3684821ec293150db32cd7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-531-2026",
+   "path": "ordin/ansvsa/2026/531",
+   "short": "Ordin ansvsa nr. 531/2026",
+   "title": "Ordinul nr. 531/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/311237",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/311237",
+     "sha256": "d43edbc5791582d2bb09b5641a773200f1eacd3e975f4dea1e7d43e4e393cc91"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-925-2026",
+   "path": "ordin/ansvsa/2026/925",
+   "short": "Ordin ansvsa nr. 925/2026",
+   "title": "Ordinul nr. 925/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314694",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314694",
+     "sha256": "22e7140daca44f1553000e23a5dee8cef8f90832bcc3f3df53ea1feb3609443b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-926-2026",
+   "path": "ordin/ansvsa/2026/926",
+   "short": "Ordin ansvsa nr. 926/2026",
+   "title": "Ordinul nr. 926/2026",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/314695",
+   "versions": [
+    {
+     "from": "2026-09-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/314695",
+     "sha256": "36295c43102c02635d037cd9489aa07a5d8e1ab4ea4446b0fc4a14c38460e417"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-962-2026",
    "path": "ordin/ansvsa/2026/962",
    "short": "Ordin ansvsa nr. 962/2026",

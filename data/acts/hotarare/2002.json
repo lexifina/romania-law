@@ -39,6 +39,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/35970",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "hotarare-bnr-40-2002",
+"path": "hotarare/bnr/2002/40",
+"kind": "hotarare",
+"year": "2002",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 40/2002",
+"short": "Hotărârea bnr nr. 40/2002",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2002-06-05",
+"latest": "2002-06-05",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/36434",
+"issuer": "bnr",
+"joint": []
 }
 ]
 }

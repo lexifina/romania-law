@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-19-2005",
+   "path": "circulara/bnr/2005/19",
+   "short": "Circulara bnr nr. 19/2005",
+   "title": "Circulara nr. 19/2005 privind decontarea transferurilor de fonduri ale instituțiilor de credit, ale Băncii Naționale a României și ale Trezoreriei Statului în perioada aferentă denominării monedei naționale",
+   "url": "https://www.bnr.ro/20280-circulara-19-2005",
+   "versions": [
+    {
+     "from": "2005-06-15",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/20280-circulara-19-2005",
+     "sha256": "481559caff2ddae397d017cd325f0b5df54873117151b6a43caeb80d52d44812"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-2-2005",
    "path": "circulara/bnr/2005/2",
    "short": "Circulara bnr nr. 2/2005",
@@ -273,6 +288,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-29-2005",
+   "path": "circulara/bnr/2005/29",
+   "short": "Circulara bnr nr. 29/2005",
+   "title": "Circulara nr. 29/2005 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna august 2005",
+   "url": "https://www.bnr.ro/21269-circulara-29-2005",
+   "versions": [
+    {
+     "from": "2005-08-08",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21269-circulara-29-2005",
+     "sha256": "46e81bd226c385a15d7d1ba3d6550b68237b0b4ec557119702d867ed1f4a82c2"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-30-2005",
    "path": "circulara/bnr/2005/30",
    "short": "Circulara bnr nr. 30/2005",
@@ -329,6 +359,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65351",
      "sha256": "b5bb5cd1863a1558a80c2f5ed2f43ed563ea7564b1e76824be9db63996e103e5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-35-2005",
+   "path": "circulara/bnr/2005/35",
+   "short": "Circulara bnr nr. 35/2005",
+   "title": "Circulara nr. 35/2005 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna octombrie 2005",
+   "url": "https://www.bnr.ro/21075-circulara-35-2005",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21075-circulara-35-2005",
+     "sha256": "76813429c8f8b3424290b4507dbcc82700696932cc9000c1c605fe7cf50cb642"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-36-2005",
+   "path": "circulara/bnr/2005/36",
+   "short": "Circulara bnr nr. 36/2005",
+   "title": "Circulara nr. 36/2005 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna noiembrie 2005",
+   "url": "https://www.bnr.ro/21078-circulara-36-2005",
+   "versions": [
+    {
+     "from": "2005-11-04",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21078-circulara-36-2005",
+     "sha256": "9c8e27280b57ffb15a9ace59ef19f41bb3c475ab41b5d1d61a1dd196dbfb1cb7"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-37-2005",
+   "path": "circulara/bnr/2005/37",
+   "short": "Circulara bnr nr. 37/2005",
+   "title": "Circulara nr. 37/2005 privind rata dobânzii plătită la rezervele minime obligatorii constituite în dolari S.U.A. începând cu perioada de aplicare 24 noiembrie - 23 decembrie 2005",
+   "url": "https://www.bnr.ro/21858-circulara-37-2005",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21858-circulara-37-2005",
+     "sha256": "5ffd0d900e2611914f532a7d8e408e6a05f7b1d4857214f9c5a444bd51b27549"
     }
    ]
   },
@@ -449,6 +524,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/59039",
      "sha256": "a8b1c8148f64d8000eb7aed82ec996c25556c05151d79f9bdabba1d044cf9806"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-6-2005",
+   "path": "circulara/bnr/2005/6",
+   "short": "Circulara bnr nr. 6/2005",
+   "title": "Circulara nr. 6/2005 pentru modificarea și completarea Regulamentului Băncii Naționale a României nr. 6/2002 privind regimul rezervelor minime obligatorii, precum și pentru stabilirea ratelor rezervelor minime obligatorii și modificarea ratei dobânzii, plătită la rezervele minime obligatorii constituite în dolari S.U.A",
+   "url": "https://www.bnr.ro/19560-circulara-6-2005",
+   "versions": [
+    {
+     "from": "2005-02-16",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19560-circulara-6-2005",
+     "sha256": "7156928c8a418c287830ad3d136153c88b424288874e00f6ac63cfe1d29d2970"
     }
    ]
   },

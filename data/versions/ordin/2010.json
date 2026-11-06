@@ -15033,6 +15033,51 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-104-2010",
+   "path": "ordin/ansvsa/2010/104",
+   "short": "Ordin ansvsa nr. 104/2010",
+   "title": "Ordinul nr. 104/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121930",
+   "versions": [
+    {
+     "from": "2010-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121930",
+     "sha256": "c37ae646b989d37036deca9798d5a77054f4ab9864b5f919b055f00ab6f67149"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-105-2010",
+   "path": "ordin/ansvsa/2010/105",
+   "short": "Ordin ansvsa nr. 105/2010",
+   "title": "Ordinul nr. 105/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121979",
+   "versions": [
+    {
+     "from": "2010-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121979",
+     "sha256": "be7b74faf3bd61d3dd265448c71c1546e3b576d0bd69d69bb2a0bf5631e8da5d"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-115-2010",
+   "path": "ordin/ansvsa/2010/115",
+   "short": "Ordin ansvsa nr. 115/2010",
+   "title": "Ordinul nr. 115/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/123749",
+   "versions": [
+    {
+     "from": "2010-11-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123749",
+     "sha256": "21e2638df339a62ba999ef7e2c8bf30760d3cd371fdfc2f8e22f43f2997af905"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-15-2010",
    "path": "ordin/ansvsa/2010/15",
    "short": "Ordin ansvsa nr. 15/2010",
@@ -15434,6 +15479,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/123296",
      "sha256": "0a4ff1e56a0318c7c6b053742a0c795c101089ca961136336db54bcb1b0a66b0"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-csa-615-2010",
+   "path": "ordin/csa/2010/615",
+   "short": "Ordin csa nr. 615/2010",
+   "title": "Ordinul nr. 615/2010",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/121616",
+   "versions": [
+    {
+     "from": "2010-08-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/121616",
+     "sha256": "1424ca91303e805be134ced7d5529957bcfa7a35f6aac8571e44b381805c492f"
     }
    ]
   },

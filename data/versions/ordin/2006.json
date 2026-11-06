@@ -18633,6 +18633,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-1-2006",
+   "path": "ordin/anpc/2006/1",
+   "short": "Ordin anpc nr. 1/2006",
+   "title": "Ordinul nr. 1/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71798",
+   "versions": [
+    {
+     "from": "2006-06-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71798",
+     "sha256": "6c2d4a5452de87e52fa92bf87898e970ab5b954fdead7be8c83596e361e80ae3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-135-2006",
    "path": "ordin/anpc/2006/135",
    "short": "Ordin anpc nr. 135/2006",
@@ -18644,6 +18659,51 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71759",
      "sha256": "7d19a12ae99a71d9bfc841700006b149235d249be047cbe90bf7d297c87c4df3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-136-2006",
+   "path": "ordin/anpc/2006/136",
+   "short": "Ordin anpc nr. 136/2006",
+   "title": "Ordinul nr. 136/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/71756",
+   "versions": [
+    {
+     "from": "2006-05-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/71756",
+     "sha256": "1c29e81158689d132721a9641837ff812f00d47ce03c643249c2b5da08ccb901"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-190-2006",
+   "path": "ordin/anpc/2006/190",
+   "short": "Ordin anpc nr. 190/2006",
+   "title": "Ordinul nr. 190/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73359",
+   "versions": [
+    {
+     "from": "2006-07-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73359",
+     "sha256": "506103ca3f04e9554533b78f31328470bb2e75b5b713371e241f82c1833951be"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-191-2006",
+   "path": "ordin/anpc/2006/191",
+   "short": "Ordin anpc nr. 191/2006",
+   "title": "Ordinul nr. 191/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/73436",
+   "versions": [
+    {
+     "from": "2006-07-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/73436",
+     "sha256": "98f7825899d4e487627ee577e0898efdc9882a588f5d457ec6aa2127d06458e7"
     }
    ]
   },
@@ -18693,6 +18753,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-300-2006",
+   "path": "ordin/anpc/2006/300",
+   "short": "Ordin anpc nr. 300/2006",
+   "title": "Ordinul nr. 300/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78498",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78498",
+     "sha256": "6cc126f55281c5d6968d3ad14739cad5f807c454e9b4bb45f0aed042a61c91f7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-339-2006",
    "path": "ordin/anpc/2006/339",
    "short": "Ordin anpc nr. 339/2006",
@@ -18704,6 +18779,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78412",
      "sha256": "e6b1b9c29e12cee70801c1c6e7f9c85633e20404145eec58ee1d77611b6a4cfd"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-29-2006",
+   "path": "ordin/anre/2006/29",
+   "short": "Ordin anre nr. 29/2006",
+   "title": "Ordinul nr. 29/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77163",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77163",
+     "sha256": "432b99d48cfcf469274863b256a20b16b1bde6828bc48ba2eb5734ebd98b41c6"
     }
    ]
   },
@@ -18809,6 +18899,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77749",
      "sha256": "8dec9e0059197700b1407d0df5573c35bfd0d35a2323e59fd266fcd312506cf3"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrgn-1333-2006",
+   "path": "ordin/anrgn/2006/1333",
+   "short": "Ordin anrgn nr. 1333/2006",
+   "title": "Ordinul nr. 1.333/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77756",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77756",
+     "sha256": "c0b3e4f09108bb3500a7b293d55072b1cca148e2a162feda6fbb3df4355a1b3e"
     }
    ]
   },
@@ -19158,6 +19263,21 @@
    ]
   },
   {
+   "slug": "ordin-anrgn-1358-2006",
+   "path": "ordin/anrgn/2006/1358",
+   "short": "Ordin anrgn nr. 1358/2006",
+   "title": "Ordinul nr. 1.358/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77742",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77742",
+     "sha256": "bb487462a1524c87f0ac70ae20e5dacd2d9a8b1e2f033942d976aa6a50682c43"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrgn-1359-2006",
    "path": "ordin/anrgn/2006/1359",
    "short": "Ordin anrgn nr. 1359/2006",
@@ -19263,6 +19383,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-168-2006",
+   "path": "ordin/ansvsa/2006/168",
+   "short": "Ordin ansvsa nr. 168/2006",
+   "title": "Ordinul nr. 168/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/77060",
+   "versions": [
+    {
+     "from": "2006-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/77060",
+     "sha256": "0231d9555f1d55a7f620a094606e27a12cb94aa662e6a8095fe9b83540cd29f8"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-174-2006",
    "path": "ordin/ansvsa/2006/174",
    "short": "Ordin ansvsa nr. 174/2006",
@@ -19319,6 +19454,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/76738",
      "sha256": "94353d4b8e06bd65a79cdee66138eb381a1d29faf1cfbb408b84c2b18b6540ff"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-271-2006",
+   "path": "ordin/ansvsa/2006/271",
+   "short": "Ordin ansvsa nr. 271/2006",
+   "title": "Ordinul nr. 271/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/78497",
+   "versions": [
+    {
+     "from": "2007-01-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/78497",
+     "sha256": "6f6c06dccd73f008974bc3de7a38f9ac53cfe04f2a2c9dd8a4ebfae848db28df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-287-2006",
+   "path": "ordin/ansvsa/2006/287",
+   "short": "Ordin ansvsa nr. 287/2006",
+   "title": "Ordinul nr. 287/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79823",
+   "versions": [
+    {
+     "from": "2007-03-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79823",
+     "sha256": "cc64c3a58df3fc3afeadd645901a7b2e8ce731f779f391ca07fa926a19a2afd8"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-288-2006",
+   "path": "ordin/ansvsa/2006/288",
+   "short": "Ordin ansvsa nr. 288/2006",
+   "title": "Ordinul nr. 288/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81105",
+   "versions": [
+    {
+     "from": "2007-04-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81105",
+     "sha256": "491b058845f365aa2be846ab9e86c86501cc05424535ffa71cfa316ccef1211f"
     }
    ]
   },

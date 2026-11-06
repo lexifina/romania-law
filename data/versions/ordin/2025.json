@@ -14943,6 +14943,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-18-2025",
+   "path": "ordin/anre/2025/18",
+   "short": "Ordin anre nr. 18/2025",
+   "title": "Ordinul nr. 18/2025 privind modificarea Metodologiei de stabilire a prețurilor pentru energia termică livrată în SACET din centrale cu unități de cogenerare care nu beneficiază de scheme de sprijin pentru promovarea cogenerării de înaltă eficiență, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 77/2022",
+   "url": "https://anre.ro/wp-content/uploads/2025/05/Ord-18-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/05/Ord-18-2025.pdf",
+     "sha256": "149d0d15642f4cf8c5eb81dd974083a72c38fe3d459f93a0479fd45c5a9a1dc9"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-19-2025",
+   "path": "ordin/anre/2025/19",
+   "short": "Ordin anre nr. 19/2025",
+   "title": "Ordinul nr. 19/2025 privind modificarea Metodologiei de stabilire și ajustare a prețurilor pentru energia electrică și termică produsă și livrată din centrale de cogenerare ce beneficiază de schema de sprijin, respectiv a bonusului pentru cogenerarea de înaltă eficiență, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 78/2022",
+   "url": "https://anre.ro/wp-content/uploads/2025/05/Ord-19-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/05/Ord-19-2025.pdf",
+     "sha256": "5e7ca516f675e60d8320dbea65498d37df226bde7e5bfe5e8592bce68f8b0d54"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-29-2025",
    "path": "ordin/anre/2025/29",
    "short": "Ordin anre nr. 29/2025",
@@ -15333,6 +15363,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-62-2025",
+   "path": "ordin/anre/2025/62",
+   "short": "Ordin anre nr. 62/2025",
+   "title": "Ordinul nr. 62/2025 privind aprobarea prețului de referință al energiei electrice produse în cogenerare de înaltă eficiență, care beneficiază de bonus",
+   "url": "https://anre.ro/wp-content/uploads/2025/10/Ord-62-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 5,
+     "source_url": "https://anre.ro/wp-content/uploads/2025/10/Ord-62-2025.pdf",
+     "sha256": "795fc5a2ec9efd0aa91eaa44a9553f24fc271bc2615b3507960aff670a6b8a23"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-72-2025",
    "path": "ordin/anre/2025/72",
    "short": "Ordin anre nr. 72/2025",
@@ -15419,6 +15464,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/305632",
      "sha256": "3d0677f84b73490fe33232e7108604a712b51b59f03a77522d1e63a5d86469df"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-954-2025",
+   "path": "ordin/ansvsa/2025/954",
+   "short": "Ordin ansvsa nr. 954/2025",
+   "title": "Ordinul nr. 954/2025",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/299610",
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/299610",
+     "sha256": "15ecff0d3a6c919a16385b51fc413c5d1f925b19e48e161863a1823d3e620e55"
     }
    ]
   },

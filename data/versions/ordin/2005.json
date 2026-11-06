@@ -16938,6 +16938,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-505-2005",
+   "path": "ordin/anpc/2005/505",
+   "short": "Ordin anpc nr. 505/2005",
+   "title": "Ordinul nr. 505/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66209",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66209",
+     "sha256": "554b425013bfbe99235a8527dfe114038697665287841823c93f80329105b318"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anpc-512-2005",
    "path": "ordin/anpc/2005/512",
    "short": "Ordin anpc nr. 512/2005",
@@ -17088,6 +17103,21 @@
    ]
   },
   {
+   "slug": "ordin-anrgn-1058-2005",
+   "path": "ordin/anrgn/2005/1058",
+   "short": "Ordin anrgn nr. 1058/2005",
+   "title": "Ordinul nr. 1.058/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67006",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67006",
+     "sha256": "5c9dd9f143896929296743347a24e94c6b569b1462428a7a55da38b49bc2f491"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anrgn-1059-2005",
    "path": "ordin/anrgn/2005/1059",
    "short": "Ordin anrgn nr. 1059/2005",
@@ -17099,6 +17129,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67007",
      "sha256": "f960937ec4a3dc473190387bd57a88e8adecfb61e58daa0f88ddd8e62f033018"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrgn-1060-2005",
+   "path": "ordin/anrgn/2005/1060",
+   "short": "Ordin anrgn nr. 1060/2005",
+   "title": "Ordinul nr. 1.060/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67008",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67008",
+     "sha256": "6e1dca290ef54afe2ed41c17729c54b4e593e8353c65071a83e9e1bc0e55bf70"
     }
    ]
   },
@@ -17294,6 +17339,21 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66977",
      "sha256": "8c7b7a14704d99aec5429f15b48d78acaed41f2d678cfc8a191e1e98ca16fb59"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anrgn-1077-2005",
+   "path": "ordin/anrgn/2005/1077",
+   "short": "Ordin anrgn nr. 1077/2005",
+   "title": "Ordinul nr. 1.077/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66995",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66995",
+     "sha256": "ecb11348c253f4997e24627e699d73814bfadce44e4ce3bb288a82a75de53edf"
     }
    ]
   },
@@ -17688,6 +17748,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-114-2005",
+   "path": "ordin/ansvsa/2005/114",
+   "short": "Ordin ansvsa nr. 114/2005",
+   "title": "Ordinul nr. 114/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67365",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67365",
+     "sha256": "0a784fa3443558e6de85f566e31f81a4a0810f5409b6ce48af1f823e36fedeb2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-122-2005",
    "path": "ordin/ansvsa/2005/122",
    "short": "Ordin ansvsa nr. 122/2005",
@@ -17699,6 +17774,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66524",
      "sha256": "0227959aba54df4030e6f8dda9468a03639cb4bcd42ca9dc7aa2f2b30e02a47b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-137-2005",
+   "path": "ordin/ansvsa/2005/137",
+   "short": "Ordin ansvsa nr. 137/2005",
+   "title": "Ordinul nr. 137/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/68281",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/68281",
+     "sha256": "d831071e7f5113d1350c1c59966c0a898f6619f50aa88c63f7c88f2d7556161e"
     }
    ]
   },
@@ -17733,6 +17823,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-68-2005",
+   "path": "ordin/ansvsa/2005/68",
+   "short": "Ordin ansvsa nr. 68/2005",
+   "title": "Ordinul nr. 68/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64351",
+   "versions": [
+    {
+     "from": "2005-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64351",
+     "sha256": "226fb21d3df3ff2f8fdcf2a74ae08e86b41a9d96e7de2659a3531f78c6919f7d"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-84-2005",
    "path": "ordin/ansvsa/2005/84",
    "short": "Ordin ansvsa nr. 84/2005",
@@ -17759,6 +17864,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65333",
      "sha256": "fbf3ae43371f08e9988884c8327e92a5ffe2cbb084fba7e4b621472c761050e2"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-97-2005",
+   "path": "ordin/ansvsa/2005/97",
+   "short": "Ordin ansvsa nr. 97/2005",
+   "title": "Ordinul nr. 97/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/66207",
+   "versions": [
+    {
+     "from": "2005-12-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66207",
+     "sha256": "d90fc7b356661d78a09d4fbd88fc219cf58762948457b0c8958e905ddb3328b4"
     }
    ]
   },

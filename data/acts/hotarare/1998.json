@@ -3,6 +3,25 @@
 "shard": "hotarare/1998",
 "acts": [
 {
+"slug": "hotarare-bnr-1-1998",
+"path": "hotarare/bnr/1998/1",
+"kind": "hotarare",
+"year": "1998",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 1/1998",
+"short": "Hotărârea bnr nr. 1/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-02-03",
+"latest": "1998-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/13912",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "hotarare-bnr-2-1998",
 "path": "hotarare/bnr/1998/2",
 "kind": "hotarare",
@@ -18,6 +37,25 @@
 "from": "1998-10-12",
 "latest": "1998-10-12",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/15855",
+"issuer": "bnr",
+"joint": []
+},
+{
+"slug": "hotarare-bnr-3-1998",
+"path": "hotarare/bnr/1998/3",
+"kind": "hotarare",
+"year": "1998",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 3/1998",
+"short": "Hotărârea bnr nr. 3/1998",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1998-12-28",
+"latest": "1998-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/16467",
 "issuer": "bnr",
 "joint": []
 }

@@ -13533,6 +13533,51 @@
    ]
   },
   {
+   "slug": "ordin-anpc-432-2009",
+   "path": "ordin/anpc/2009/432",
+   "short": "Ordin anpc nr. 432/2009",
+   "title": "Ordinul nr. 432/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110392",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110392",
+     "sha256": "2b1e4cc213beac2026fd7616db6e3cb944f93dffd9e20ff3e0ef2da4fda8cd4b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-433-2009",
+   "path": "ordin/anpc/2009/433",
+   "short": "Ordin anpc nr. 433/2009",
+   "title": "Ordinul nr. 433/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109004",
+   "versions": [
+    {
+     "from": "2009-07-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109004",
+     "sha256": "5076f50ecb87b182684fb047c48f181659501cf0d4e1abf8408f0083361d24fa"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-675-2009",
+   "path": "ordin/anpc/2009/675",
+   "short": "Ordin anpc nr. 675/2009",
+   "title": "Ordinul nr. 675/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114962",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114962",
+     "sha256": "41bdf053b3745debfb59034c13fb3f9831330c9c14f2730aa25ac867210df6b7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-10-2009",
    "path": "ordin/anre/2009/10",
    "short": "Ordin anre nr. 10/2009",
@@ -14249,6 +14294,21 @@
      "units": 2,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115177",
      "sha256": "1754b1d711deca2583fd088b5284f8b686d4aafe9c276279fc4ee94dd5c52e14"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-14-2009",
+   "path": "ordin/ansvsa/2009/14",
+   "short": "Ordin ansvsa nr. 14/2009",
+   "title": "Ordinul nr. 14/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110850",
+   "versions": [
+    {
+     "from": "2009-08-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110850",
+     "sha256": "a5027b9f65207a7e0ae3e7eb8b61931387dcb392d266f3bb5e82dff1c0435897"
     }
    ]
   },

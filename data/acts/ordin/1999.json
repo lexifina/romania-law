@@ -725,6 +725,25 @@
 "joint": []
 },
 {
+"slug": "ordin-bnr-475-1999",
+"path": "ordin/bnr/1999/475",
+"kind": "ordin",
+"year": "1999",
+"number": "475",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 475/1999",
+"short": "Ordin bnr nr. 475/1999",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1999-11-15",
+"latest": "1999-11-15",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/19904",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "ordin-camera-6-1999",
 "path": "ordin/camera/1999/6",
 "kind": "ordin",

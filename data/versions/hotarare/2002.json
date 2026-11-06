@@ -31,6 +31,21 @@
      "sha256": "397311393d730386f598a8ff1e82af16eaf406075faccdaa084011fbf346b4e0"
     }
    ]
+  },
+  {
+   "slug": "hotarare-bnr-40-2002",
+   "path": "hotarare/bnr/2002/40",
+   "short": "Hotărârea bnr nr. 40/2002",
+   "title": "Hotărârea nr. 40/2002",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/36434",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/36434",
+     "sha256": "84983873d3f23c6a5b39aea827a3d66bb2c72856cd48ba750dcc6867879ec564"
+    }
+   ]
   }
  ]
 }

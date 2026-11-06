@@ -273,6 +273,21 @@
    ]
   },
   {
+   "slug": "norma-bnr-6-1995",
+   "path": "norma/bnr/1995/6",
+   "short": "Norma bnr nr. 6/1995",
+   "title": "Norma nr. 6/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/5688",
+   "versions": [
+    {
+     "from": "1995-06-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/5688",
+     "sha256": "55cfd857e3dabf4271dc04df0c5e1aa63a1d362fed3bb72659a50051eedf1015"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-8-1995",
    "path": "norma/bnr/1995/8",
    "short": "Norma bnr nr. 8/1995",

@@ -1083,6 +1083,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-180-2013",
+   "path": "decizie/csa/2013/180",
+   "short": "Decizia csa nr. 180/2013",
+   "title": "Decizia nr. 180/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147920",
+   "versions": [
+    {
+     "from": "2013-05-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147920",
+     "sha256": "7ec73a57897e8bbff530074a63533fb1f3da16434132ffa7fd7f372843cc1ebf"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-192-2013",
    "path": "decizie/csa/2013/192",
    "short": "Decizia csa nr. 192/2013",
@@ -1158,6 +1173,66 @@
    ]
   },
   {
+   "slug": "decizie-csa-207-2013",
+   "path": "decizie/csa/2013/207",
+   "short": "Decizia csa nr. 207/2013",
+   "title": "Decizia nr. 207/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147720",
+   "versions": [
+    {
+     "from": "2013-05-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147720",
+     "sha256": "3f34768934e317d61a53aba76d795cd6f7757d68ca07c9db4176c981affd41fe"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-21-2013",
+   "path": "decizie/csa/2013/21",
+   "short": "Decizia csa nr. 21/2013",
+   "title": "Decizia nr. 21/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145129",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145129",
+     "sha256": "bd008fe812d24da903070ab39a7328f6717e12c0987f82ea6dc6d03cfbbf3df5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-210-2013",
+   "path": "decizie/csa/2013/210",
+   "short": "Decizia csa nr. 210/2013",
+   "title": "Decizia nr. 210/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147766",
+   "versions": [
+    {
+     "from": "2013-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147766",
+     "sha256": "34e7244f5073d5f36f92e8507bd30b09cfcef021f4c65f87bfe75b027855bd8f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-212-2013",
+   "path": "decizie/csa/2013/212",
+   "short": "Decizia csa nr. 212/2013",
+   "title": "Decizia nr. 212/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/147774",
+   "versions": [
+    {
+     "from": "2013-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147774",
+     "sha256": "698cd7a0455aa75d9a09ae3e95e55a44cb10383e743d99136b58f5e1f68eb087"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-223-2013",
    "path": "decizie/csa/2013/223",
    "short": "Decizia csa nr. 223/2013",
@@ -1184,6 +1259,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145174",
      "sha256": "584eddffe121c567ca15d2c62ffbbf45f18ae67f82eb5a8da1756014460c92e9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-29-2013",
+   "path": "decizie/csa/2013/29",
+   "short": "Decizia csa nr. 29/2013",
+   "title": "Decizia nr. 29/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145165",
+   "versions": [
+    {
+     "from": "2013-02-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145165",
+     "sha256": "50d3a9cff58706db04b3d30c561ab192c51764e9d0bd1026af3fa34381944cb6"
     }
    ]
   },
@@ -1248,6 +1338,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-44-2013",
+   "path": "decizie/csa/2013/44",
+   "short": "Decizia csa nr. 44/2013",
+   "title": "Decizia nr. 44/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145463",
+   "versions": [
+    {
+     "from": "2013-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145463",
+     "sha256": "c71d572cf6610674f32f8dfcee9c27674ddccf087aa886ad4a8e76d17baff13e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-47-2013",
    "path": "decizie/csa/2013/47",
    "short": "Decizia csa nr. 47/2013",
@@ -1274,6 +1379,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145879",
      "sha256": "6d26eddf16eb212257b0f7741259a2a41146eb68e64100e26c8a987907c262af"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-84-2013",
+   "path": "decizie/csa/2013/84",
+   "short": "Decizia csa nr. 84/2013",
+   "title": "Decizia nr. 84/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145996",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145996",
+     "sha256": "5836d66f399dcba0094d5ad036bf1f07211e856cf3f9dd822acfb5945e90c811"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-87-2013",
+   "path": "decizie/csa/2013/87",
+   "short": "Decizia csa nr. 87/2013",
+   "title": "Decizia nr. 87/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/145997",
+   "versions": [
+    {
+     "from": "2013-03-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/145997",
+     "sha256": "f8a3b69d9f836333690dd28fa2d6c5bba271f5d96f298e23c053ea956dbf68e4"
     }
    ]
   }

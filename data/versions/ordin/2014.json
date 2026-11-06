@@ -16338,6 +16338,66 @@
    ]
   },
   {
+   "slug": "ordin-anpc-137-2014",
+   "path": "ordin/anpc/2014/137",
+   "short": "Ordin anpc nr. 137/2014",
+   "title": "Ordinul nr. 137/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157672",
+   "versions": [
+    {
+     "from": "2014-04-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157672",
+     "sha256": "32104e01375d3472ac071c26cc35399f7266647901c9f8a4adae15662a5e7045"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-360-2014",
+   "path": "ordin/anpc/2014/360",
+   "short": "Ordin anpc nr. 360/2014",
+   "title": "Ordinul nr. 360/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161287",
+   "versions": [
+    {
+     "from": "2014-09-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161287",
+     "sha256": "9a98d3d3969ebbf83ca2597ee49d469d4ba2026dacf7c4f83131ad31013f05c5"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-384-2014",
+   "path": "ordin/anpc/2014/384",
+   "short": "Ordin anpc nr. 384/2014",
+   "title": "Ordinul nr. 384/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162041",
+   "versions": [
+    {
+     "from": "2014-10-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162041",
+     "sha256": "58e88387a832ff182848ce04460a69b796af9a982ad11a04b96af4afdfe8a15f"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anpc-89-2014",
+   "path": "ordin/anpc/2014/89",
+   "short": "Ordin anpc nr. 89/2014",
+   "title": "Ordinul nr. 89/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157034",
+   "versions": [
+    {
+     "from": "2014-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157034",
+     "sha256": "29fcbc8f1120b5024164acf6e6d985725705199c3a8ff4a214f5ec29495e90f2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-100-2014",
    "path": "ordin/anre/2014/100",
    "short": "Ordin anre nr. 100/2014",
@@ -17118,6 +17178,36 @@
    ]
   },
   {
+   "slug": "ordin-anre-95-2014",
+   "path": "ordin/anre/2014/95",
+   "short": "Ordin anre nr. 95/2014",
+   "title": "Ordinul nr. 95/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161974",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161974",
+     "sha256": "bde813c9786cedf024d3f20a94becaa1f26b5380656f5a3a95557799fd0c4e16"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-anre-96-2014",
+   "path": "ordin/anre/2014/96",
+   "short": "Ordin anre nr. 96/2014",
+   "title": "Ordinul nr. 96/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/162164",
+   "versions": [
+    {
+     "from": "2014-10-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162164",
+     "sha256": "0b6e26f54f30790147e1ddab4999416b70e71aa3ebf0cae862781748a60e58e9"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-98-2014",
    "path": "ordin/anre/2014/98",
    "short": "Ordin anre nr. 98/2014",
@@ -17144,6 +17234,66 @@
      "units": 9,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/162223",
      "sha256": "1447c915346b7edc2cda7fe6f4d42987bcd464b33a6ab53954e1d7cf6a4308e7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-152-2014",
+   "path": "ordin/ansvsa/2014/152",
+   "short": "Ordin ansvsa nr. 152/2014",
+   "title": "Ordinul nr. 152/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/161049",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161049",
+     "sha256": "09d4483fbef6dc97474e2d8695a95c195499bcf6e0a65a553ef18ef15fdb5123"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-24-2014",
+   "path": "ordin/ansvsa/2014/24",
+   "short": "Ordin ansvsa nr. 24/2014",
+   "title": "Ordinul nr. 24/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/155916",
+   "versions": [
+    {
+     "from": "2014-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/155916",
+     "sha256": "3f2fcd31c1dedb4f4395097ed453c96dee38e55c6c82daf2259306cf536bbebb"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-52-2014",
+   "path": "ordin/ansvsa/2014/52",
+   "short": "Ordin ansvsa nr. 52/2014",
+   "title": "Ordinul nr. 52/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/157504",
+   "versions": [
+    {
+     "from": "2014-04-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/157504",
+     "sha256": "16b11e02b2aec93e7779c9a344b69da57d0fd3587cbd940db44bf8212ff02c66"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-92-2014",
+   "path": "ordin/ansvsa/2014/92",
+   "short": "Ordin ansvsa nr. 92/2014",
+   "title": "Ordinul nr. 92/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/159749",
+   "versions": [
+    {
+     "from": "2014-07-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159749",
+     "sha256": "144956c4c4f67520610e2855f366c5b4b8fbf443ca00df57c952eea6c2c87aca"
     }
    ]
   },
@@ -17309,6 +17459,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160979",
      "sha256": "59f21c033b7c00f6e382d6fcccf78b677c154353f8c295b8424791a9793d4307"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-688-2014",
+   "path": "ordin/bnr/2014/688",
+   "short": "Ordin bnr nr. 688/2014",
+   "title": "Ordinul nr. 688/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/160980",
+   "versions": [
+    {
+     "from": "2014-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/160980",
+     "sha256": "97421cc78135e1cd43def39619c62db3695eca7b5db8cb7b7b8f9658dc2ef2ed"
     }
    ]
   }

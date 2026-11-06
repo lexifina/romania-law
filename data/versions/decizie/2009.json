@@ -288,6 +288,141 @@
    ]
   },
   {
+   "slug": "decizie-csa-1022-2009",
+   "path": "decizie/csa/2009/1022",
+   "short": "Decizia csa nr. 1022/2009",
+   "title": "Decizia nr. 1.022/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114915",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114915",
+     "sha256": "c85da2965be0dc4329170ff6cae30b6ac50f9894935b3a1aeb388b9c84cbd617"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1028-2009",
+   "path": "decizie/csa/2009/1028",
+   "short": "Decizia csa nr. 1028/2009",
+   "title": "Decizia nr. 1.028/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115021",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115021",
+     "sha256": "e595677848ba50d4ac01494a2f3a1ec4b633e9a61a7b226c7a5e91d7e1a7a1a9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1043-2009",
+   "path": "decizie/csa/2009/1043",
+   "short": "Decizia csa nr. 1043/2009",
+   "title": "Decizia nr. 1.043/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115022",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115022",
+     "sha256": "d6a8ae9889e53914b4310fa435a900f6a08e8a46e96f29094d3ced6773f34c14"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1047-2009",
+   "path": "decizie/csa/2009/1047",
+   "short": "Decizia csa nr. 1047/2009",
+   "title": "Decizia nr. 1.047/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115053",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115053",
+     "sha256": "eee63d07aa69f832c0726b164a331e54c1774093451a44b797e67ef356c6c367"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1048-2009",
+   "path": "decizie/csa/2009/1048",
+   "short": "Decizia csa nr. 1048/2009",
+   "title": "Decizia nr. 1.048/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115054",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115054",
+     "sha256": "de88f1ae76a1f3f5723034f2f501664d8a3976e8a86e64d6b2555ce11051b95a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1049-2009",
+   "path": "decizie/csa/2009/1049",
+   "short": "Decizia csa nr. 1049/2009",
+   "title": "Decizia nr. 1.049/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115055",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115055",
+     "sha256": "f9b310b6ee9eb91ad7048329d2b863d702ede070e02c565a7e946d9d3854e0d0"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1050-2009",
+   "path": "decizie/csa/2009/1050",
+   "short": "Decizia csa nr. 1050/2009",
+   "title": "Decizia nr. 1.050/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115056",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115056",
+     "sha256": "32c9c9c04abd690fa6223baa6deb0c3382410379f6a16d8731931eec003329a1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1051-2009",
+   "path": "decizie/csa/2009/1051",
+   "short": "Decizia csa nr. 1051/2009",
+   "title": "Decizia nr. 1.051/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115119",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115119",
+     "sha256": "fe5990f93cbb37a5c1454cc53620ef2fb0ab410aa3a310b2eabe7efca4a195c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1053-2009",
+   "path": "decizie/csa/2009/1053",
+   "short": "Decizia csa nr. 1053/2009",
+   "title": "Decizia nr. 1.053/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/115057",
+   "versions": [
+    {
+     "from": "2010-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/115057",
+     "sha256": "8198853d48afdaa3635cad4dc36af22716434d040eb607fba42b0bb8ba306936"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-108-2009",
    "path": "decizie/csa/2009/108",
    "short": "Decizia csa nr. 108/2009",
@@ -299,6 +434,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102577",
      "sha256": "d597859fe99d20362be7ea36d9b9567247321000bebe3c444fab5662e21997c9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-116-2009",
+   "path": "decizie/csa/2009/116",
+   "short": "Decizia csa nr. 116/2009",
+   "title": "Decizia nr. 116/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/102294",
+   "versions": [
+    {
+     "from": "2009-02-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102294",
+     "sha256": "f507136baf6d7a65d2431c78c78aff88864e0edada0651cf5965058304de489e"
     }
    ]
   },
@@ -348,6 +498,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-155-2009",
+   "path": "decizie/csa/2009/155",
+   "short": "Decizia csa nr. 155/2009",
+   "title": "Decizia nr. 155/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103117",
+   "versions": [
+    {
+     "from": "2009-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103117",
+     "sha256": "d963a9cc193b4b2ab8396c59ecf2ca1c247dd3ae0ec5162e1a1c169b3e7da9fd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-173-2009",
+   "path": "decizie/csa/2009/173",
+   "short": "Decizia csa nr. 173/2009",
+   "title": "Decizia nr. 173/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103551",
+   "versions": [
+    {
+     "from": "2009-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103551",
+     "sha256": "6781396c6410554e539c1aab93d4ce2e004e0686edc95dff55f2aa6a47051bd9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-178-2009",
+   "path": "decizie/csa/2009/178",
+   "short": "Decizia csa nr. 178/2009",
+   "title": "Decizia nr. 178/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103478",
+   "versions": [
+    {
+     "from": "2009-03-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103478",
+     "sha256": "894f047cb5a2b49193431c0d635453311ee687708404eac6240c4a7a20b91dd6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-18-2009",
    "path": "decizie/csa/2009/18",
    "short": "Decizia csa nr. 18/2009",
@@ -359,6 +554,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101441",
      "sha256": "3911ef064c0ebfccf77f154b3ee480030e0312d2c94f775d622b6b610b2738d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-183-2009",
+   "path": "decizie/csa/2009/183",
+   "short": "Decizia csa nr. 183/2009",
+   "title": "Decizia nr. 183/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/103952",
+   "versions": [
+    {
+     "from": "2009-03-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/103952",
+     "sha256": "e1d6d28b508354e842a010c98fcffc63bcf360ba8fa198af8ab553608b8a8db7"
     }
    ]
   },
@@ -408,6 +618,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-204-2009",
+   "path": "decizie/csa/2009/204",
+   "short": "Decizia csa nr. 204/2009",
+   "title": "Decizia nr. 204/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/104217",
+   "versions": [
+    {
+     "from": "2009-04-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104217",
+     "sha256": "214fd174bbd2904851cd425fbfad610c80be1e9d4acff75e808779a15eea1255"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-22-2009",
+   "path": "decizie/csa/2009/22",
+   "short": "Decizia csa nr. 22/2009",
+   "title": "Decizia nr. 22/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101442",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101442",
+     "sha256": "abc16c1dabb945aa9cd4ba710fe56e8210c6080dc3b64b9f0edc4f5f3efde04b"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-244-2009",
    "path": "decizie/csa/2009/244",
    "short": "Decizia csa nr. 244/2009",
@@ -449,6 +689,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/104803",
      "sha256": "97009700c8d1f1e6fb4d82c08fe2957d7deefc78b848cd2306388d75cc501b59"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-258-2009",
+   "path": "decizie/csa/2009/258",
+   "short": "Decizia csa nr. 258/2009",
+   "title": "Decizia nr. 258/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105120",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105120",
+     "sha256": "f690bdc6a4ad06b88f59e7eba48988d341b1622786bc3c97f3d8f5385c9b4c04"
     }
    ]
   },
@@ -513,6 +768,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-291-2009",
+   "path": "decizie/csa/2009/291",
+   "short": "Decizia csa nr. 291/2009",
+   "title": "Decizia nr. 291/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105121",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105121",
+     "sha256": "2f1ac1a202830bc065a54767e67ebc1f9e1b1cf2fb46afa420a8566c04be5f18"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-292-2009",
+   "path": "decizie/csa/2009/292",
+   "short": "Decizia csa nr. 292/2009",
+   "title": "Decizia nr. 292/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105122",
+   "versions": [
+    {
+     "from": "2009-04-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105122",
+     "sha256": "014da7e009e8a2972cfc9f715d4eded4af7fae16c54c05676086fbb73e1e4165"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-302-2009",
    "path": "decizie/csa/2009/302",
    "short": "Decizia csa nr. 302/2009",
@@ -528,6 +813,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-306-2009",
+   "path": "decizie/csa/2009/306",
+   "short": "Decizia csa nr. 306/2009",
+   "title": "Decizia nr. 306/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105346",
+   "versions": [
+    {
+     "from": "2009-05-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105346",
+     "sha256": "aadbf0f003081cb1118039c686fabe0a0b671df59a6c6ce1a53de2d78ed1ac94"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-307-2009",
    "path": "decizie/csa/2009/307",
    "short": "Decizia csa nr. 307/2009",
@@ -539,6 +839,126 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105476",
      "sha256": "02c2a148ded073050d4c5969d648b5bd6e12e00b4df8e3f492fe76a0b1174d23"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-32-2009",
+   "path": "decizie/csa/2009/32",
+   "short": "Decizia csa nr. 32/2009",
+   "title": "Decizia nr. 32/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101724",
+   "versions": [
+    {
+     "from": "2009-01-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101724",
+     "sha256": "4f3280137583ac09fb4eb1126350a95884f15bdf52ea179f6753c14e24fb4dae"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-325-2009",
+   "path": "decizie/csa/2009/325",
+   "short": "Decizia csa nr. 325/2009",
+   "title": "Decizia nr. 325/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105694",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105694",
+     "sha256": "25ddb6e57438433196e2a1efa78b8f96d46861c038115c0f0ca4ceffbc3d8cf2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-363-2009",
+   "path": "decizie/csa/2009/363",
+   "short": "Decizia csa nr. 363/2009",
+   "title": "Decizia nr. 363/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105909",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105909",
+     "sha256": "f2f926828ae0b2d5cee57f4ac4cd293276c0e11a04eeadf3ddee7f4dafaecc43"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-364-2009",
+   "path": "decizie/csa/2009/364",
+   "short": "Decizia csa nr. 364/2009",
+   "title": "Decizia nr. 364/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/105910",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/105910",
+     "sha256": "0b5ad3fbbd1e5679852ef206f9b7db553758f8c1cc77bc104ab32d2e32c534a2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-376-2009",
+   "path": "decizie/csa/2009/376",
+   "short": "Decizia csa nr. 376/2009",
+   "title": "Decizia nr. 376/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106485",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106485",
+     "sha256": "e52ddcb086be563624b1088e3075f8425c015c93fec9ecf1d6afff7007c4030a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-388-2009",
+   "path": "decizie/csa/2009/388",
+   "short": "Decizia csa nr. 388/2009",
+   "title": "Decizia nr. 388/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106486",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106486",
+     "sha256": "8aa3818131ae159713d20f3f1f4c0d335605832d64069b02c7be4e74cf229906"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-390-2009",
+   "path": "decizie/csa/2009/390",
+   "short": "Decizia csa nr. 390/2009",
+   "title": "Decizia nr. 390/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/106487",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/106487",
+     "sha256": "aad706d106f89b8efc480a37ec7428e04c8372b3e214198a16df1f28ba0b62d1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-4-2009",
+   "path": "decizie/csa/2009/4",
+   "short": "Decizia csa nr. 4/2009",
+   "title": "Decizia nr. 4/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101458",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101458",
+     "sha256": "c975a6705bbc44c96df62190b1aef67dfabe8bff16c9c51b631bfb5c2fadf464"
     }
    ]
   },
@@ -573,6 +993,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-459-2009",
+   "path": "decizie/csa/2009/459",
+   "short": "Decizia csa nr. 459/2009",
+   "title": "Decizia nr. 459/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/109193",
+   "versions": [
+    {
+     "from": "2009-07-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109193",
+     "sha256": "a451954229e4775f2ae7cc566cd36d86c0db4506c8c3bd46cabe5aa1ff78124c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-484-2009",
    "path": "decizie/csa/2009/484",
    "short": "Decizia csa nr. 484/2009",
@@ -584,6 +1019,81 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/109401",
      "sha256": "78a5b18a8b59bb580372f974af99575e72ee5078745a0d7065b8af13aa4fcce6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-506-2009",
+   "path": "decizie/csa/2009/506",
+   "short": "Decizia csa nr. 506/2009",
+   "title": "Decizia nr. 506/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110074",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110074",
+     "sha256": "bdd4795a128ce484606d0b837f8b7570ef075b8434453af231547ff2b1c458b4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-507-2009",
+   "path": "decizie/csa/2009/507",
+   "short": "Decizia csa nr. 507/2009",
+   "title": "Decizia nr. 507/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110077",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110077",
+     "sha256": "3e5f3ae504b35911ee307baf6555409e2e42f1c6f5629b11d6bf5c879ab90bd4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-508-2009",
+   "path": "decizie/csa/2009/508",
+   "short": "Decizia csa nr. 508/2009",
+   "title": "Decizia nr. 508/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110078",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110078",
+     "sha256": "41e877f1a04a0a82993b06cad0b4bfaca83940a674fa4a681b4733c679f20664"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-513-2009",
+   "path": "decizie/csa/2009/513",
+   "short": "Decizia csa nr. 513/2009",
+   "title": "Decizia nr. 513/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110081",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110081",
+     "sha256": "261a439714d270773f35abf3d073dfeb9ad833f7919e9fbc3f7bb47ef6db036e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-514-2009",
+   "path": "decizie/csa/2009/514",
+   "short": "Decizia csa nr. 514/2009",
+   "title": "Decizia nr. 514/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110082",
+   "versions": [
+    {
+     "from": "2009-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110082",
+     "sha256": "748763d0f2bdf56456671c6aafc6366878622a7701339ec20b5e7acb6359b842"
     }
    ]
   },
@@ -633,6 +1143,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-573-2009",
+   "path": "decizie/csa/2009/573",
+   "short": "Decizia csa nr. 573/2009",
+   "title": "Decizia nr. 573/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110373",
+   "versions": [
+    {
+     "from": "2009-08-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110373",
+     "sha256": "874144e7fd2feb9e96d92e86b6c8a1426e380d18cd0396ab989685b19fc035e0"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-575-2009",
    "path": "decizie/csa/2009/575",
    "short": "Decizia csa nr. 575/2009",
@@ -644,6 +1169,111 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110468",
      "sha256": "327e191ccc2c2dd403e4cf76d9ce2510653ab49321aade0bb55277dda3ee2b6a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-583-2009",
+   "path": "decizie/csa/2009/583",
+   "short": "Decizia csa nr. 583/2009",
+   "title": "Decizia nr. 583/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110579",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110579",
+     "sha256": "a299672084b5a3f9ee5736d2f019c78ab65e1609e40c33ff008b6726a2125a0b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-588-2009",
+   "path": "decizie/csa/2009/588",
+   "short": "Decizia csa nr. 588/2009",
+   "title": "Decizia nr. 588/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110558",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110558",
+     "sha256": "1f5d987574a3d838c245dedbdadf908aa03b1180a4851a4fad2f68d5bdf13acd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-591-2009",
+   "path": "decizie/csa/2009/591",
+   "short": "Decizia csa nr. 591/2009",
+   "title": "Decizia nr. 591/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110559",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110559",
+     "sha256": "200d1da2b4d881a3c5a51640e4ecca07214f99c05a1efb22f981875ec7acf0c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-592-2009",
+   "path": "decizie/csa/2009/592",
+   "short": "Decizia csa nr. 592/2009",
+   "title": "Decizia nr. 592/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110580",
+   "versions": [
+    {
+     "from": "2009-08-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110580",
+     "sha256": "02bed11d2ce6a9bf7c51f509384616d4cdaf06853e3b2b1572c489cb1d9e4864"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-602-2009",
+   "path": "decizie/csa/2009/602",
+   "short": "Decizia csa nr. 602/2009",
+   "title": "Decizia nr. 602/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110652",
+   "versions": [
+    {
+     "from": "2009-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110652",
+     "sha256": "77575f659cda161160b2b5a13dda98ea279a7d34e63f36299afd7590a537c282"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-603-2009",
+   "path": "decizie/csa/2009/603",
+   "short": "Decizia csa nr. 603/2009",
+   "title": "Decizia nr. 603/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110560",
+   "versions": [
+    {
+     "from": "2009-08-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110560",
+     "sha256": "930110ddc3bdf6e2a4a272542a2d93e97c4da6af4949c26495600c0e14b7a1ef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-616-2009",
+   "path": "decizie/csa/2009/616",
+   "short": "Decizia csa nr. 616/2009",
+   "title": "Decizia nr. 616/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/110653",
+   "versions": [
+    {
+     "from": "2009-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/110653",
+     "sha256": "6b9cdeb2b4e1707064906bb464f1f4f3077feac3592646d5f03504c157c36614"
     }
    ]
   },
@@ -674,6 +1304,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101818",
      "sha256": "00e157c05d549041cb7cd4ac8e3fd5652a24f70cfd1314e993f424edaa94f5a8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-677-2009",
+   "path": "decizie/csa/2009/677",
+   "short": "Decizia csa nr. 677/2009",
+   "title": "Decizia nr. 677/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111228",
+   "versions": [
+    {
+     "from": "2009-09-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111228",
+     "sha256": "5367205b1c5fc0c74553c3a54c91f19f0eddfb28da403263a9b35a1db118746b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-702-2009",
+   "path": "decizie/csa/2009/702",
+   "short": "Decizia csa nr. 702/2009",
+   "title": "Decizia nr. 702/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/111531",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/111531",
+     "sha256": "6d8563e09cb5ecb175a4069f82164ada13f4c6574ea4bd3972e5280dc3bba98f"
     }
    ]
   },
@@ -738,6 +1398,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-749-2009",
+   "path": "decizie/csa/2009/749",
+   "short": "Decizia csa nr. 749/2009",
+   "title": "Decizia nr. 749/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/112202",
+   "versions": [
+    {
+     "from": "2009-10-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112202",
+     "sha256": "65b0b6a8c8d2f5cd97d6988a109b0631716ff3f3495b4b5ec2c810de18b4cbc2"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-750-2009",
    "path": "decizie/csa/2009/750",
    "short": "Decizia csa nr. 750/2009",
@@ -749,6 +1424,21 @@
      "units": 4,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/112203",
      "sha256": "c72a8f0a0c5265a2c935cdba8ee58c0535a9dc919726d678f8c1fd016f50aac1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-781-2009",
+   "path": "decizie/csa/2009/781",
+   "short": "Decizia csa nr. 781/2009",
+   "title": "Decizia nr. 781/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113041",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113041",
+     "sha256": "e3af37633c29a68dd16f9a6efcf5dd70b23d62ab6e1a0ecbfce257e9908a1799"
     }
    ]
   },
@@ -794,6 +1484,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113044",
      "sha256": "1ce61922eddc80a0850c3d7929aca559ea3ff580e6cdccae5c87a12f07204157"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-801-2009",
+   "path": "decizie/csa/2009/801",
+   "short": "Decizia csa nr. 801/2009",
+   "title": "Decizia nr. 801/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113045",
+   "versions": [
+    {
+     "from": "2009-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113045",
+     "sha256": "b55c864764bba20fe67134e061f2303526961a63ced19a8cf5a6121fadd4c135"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-804-2009",
+   "path": "decizie/csa/2009/804",
+   "short": "Decizia csa nr. 804/2009",
+   "title": "Decizia nr. 804/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/113163",
+   "versions": [
+    {
+     "from": "2009-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/113163",
+     "sha256": "497e00d83654a6003581dcd39d8751cd5a1c1034359997f3912a93412a81f6ad"
     }
    ]
   },
@@ -873,6 +1593,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-893-2009",
+   "path": "decizie/csa/2009/893",
+   "short": "Decizia csa nr. 893/2009",
+   "title": "Decizia nr. 893/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114219",
+   "versions": [
+    {
+     "from": "2009-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114219",
+     "sha256": "5dabe56e6b9ae0035a585d9eca8f16885535d7a03046f0f3556f12016969da5b"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-90-2009",
    "path": "decizie/csa/2009/90",
    "short": "Decizia csa nr. 90/2009",
@@ -914,6 +1649,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/102170",
      "sha256": "56cdf08b791fed422d25fe006471870b239b8297152d392134d0bd7718951027"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-922-2009",
+   "path": "decizie/csa/2009/922",
+   "short": "Decizia csa nr. 922/2009",
+   "title": "Decizia nr. 922/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114380",
+   "versions": [
+    {
+     "from": "2009-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114380",
+     "sha256": "5db13032c9bde007eaca130a6c74acce1178f55b7e9b8f4ef4fbf1610987783c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-926-2009",
+   "path": "decizie/csa/2009/926",
+   "short": "Decizia csa nr. 926/2009",
+   "title": "Decizia nr. 926/2009",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/114514",
+   "versions": [
+    {
+     "from": "2009-12-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/114514",
+     "sha256": "9d04d92d6c4263857cc13e81d40feafa3b6342a26e92a70e6eab523af01c0656"
     }
    ]
   },

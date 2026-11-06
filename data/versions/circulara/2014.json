@@ -108,6 +108,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-16-2014",
+   "path": "circulara/bnr/2014/16",
+   "short": "Circulara bnr nr. 16/2014",
+   "title": "Circulara nr. 16/2014 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 aprilie-23 mai 2014",
+   "url": "https://www.bnr.ro/19925-circulara-16-2014",
+   "versions": [
+    {
+     "from": "2014-05-21",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19925-circulara-16-2014",
+     "sha256": "daa6c0e4a251c7e2065cf1d376fffe3add76211e31bd9bbe6cd12c8a8992a038"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-17-2014",
+   "path": "circulara/bnr/2014/17",
+   "short": "Circulara bnr nr. 17/2014",
+   "title": "Circulara nr. 17/2014",
+   "url": "https://www.bnr.ro/19280-circulara-17-2014",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19280-circulara-17-2014",
+     "sha256": "7133b68a94fe0e466e08f0c14386aeb7ba645ade4f4790658208aafec6fa1f9e"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-18-2014",
    "path": "circulara/bnr/2014/18",
    "short": "Circulara bnr nr. 18/2014",
@@ -119,6 +149,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/159081",
      "sha256": "fb81579a7bdbb3e58506eaf92f69feddfd39a96d5d4cb3c782108fff5f0a049b"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-19-2014",
+   "path": "circulara/bnr/2014/19",
+   "short": "Circulara bnr nr. 19/2014",
+   "title": "Circulara nr. 19/2014 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în lei și în dolari SUA începând cu perioada de aplicare 24 mai-23 iunie 2014",
+   "url": "https://www.bnr.ro/20365-circulara-19-2014",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20365-circulara-19-2014",
+     "sha256": "328bf86730e66ec3403069f8b2ed54e7b6a47781fa25dff4104dac785db01d2d"
     }
    ]
   },
@@ -329,6 +374,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/161953",
      "sha256": "f7009c2122d04183275546bc60c2b882caaa0931af326bc649ead7a9e42b1029"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2014",
+   "path": "circulara/bnr/2014/32",
+   "short": "Circulara bnr nr. 32/2014",
+   "title": "Circulara nr. 32/2014 privind nivelul ratei dobânzii de referință a Băncii Naționale a României",
+   "url": "https://www.bnr.ro/21558-circulara-32-2014",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21558-circulara-32-2014",
+     "sha256": "09e0e8143b596658ef7ddacf19a41018f621e4143cb16a2648ba920b8820ca38"
     }
    ]
   },

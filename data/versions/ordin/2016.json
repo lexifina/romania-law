@@ -19653,6 +19653,21 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-111-2016",
+   "path": "ordin/ansvsa/2016/111",
+   "short": "Ordin ansvsa nr. 111/2016",
+   "title": "Ordinul nr. 111/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/183053",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/183053",
+     "sha256": "c1f942398df40cca1944aaca2714f24107d3914176861fe35e71d9d62d385374"
+    }
+   ]
+  },
+  {
    "slug": "ordin-ansvsa-15-2016",
    "path": "ordin/ansvsa/2016/15",
    "short": "Ordin ansvsa nr. 15/2016",

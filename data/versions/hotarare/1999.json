@@ -3,6 +3,21 @@
  "shard": "hotarare/1999",
  "acts": [
   {
+   "slug": "hotarare-bnr-1-1999",
+   "path": "hotarare/bnr/1999/1",
+   "short": "Hotărârea bnr nr. 1/1999",
+   "title": "Hotărârea nr. 1/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17032",
+   "versions": [
+    {
+     "from": "1999-03-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17032",
+     "sha256": "5de9dbb4fcaad15138c8b71192bab22d0d9096557a737b9878f4f60be130d3f2"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-13-1999",
    "path": "hotarare/bnr/1999/13",
    "short": "Hotărârea bnr nr. 13/1999",

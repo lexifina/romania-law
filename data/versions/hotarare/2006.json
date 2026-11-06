@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-21-2006",
+   "path": "hotarare/bnr/2006/21",
+   "short": "Hotărârea bnr nr. 21/2006",
+   "title": "Hotărârea nr. 21/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74471",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74471",
+     "sha256": "c90bf66b860ed772f864bbfdf6b527b79bb0f99ba1fa650cc5e7dfd51fb7ead8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-22-2006",
+   "path": "hotarare/bnr/2006/22",
+   "short": "Hotărârea bnr nr. 22/2006",
+   "title": "Hotărârea nr. 22/2006",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/74472",
+   "versions": [
+    {
+     "from": "2006-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/74472",
+     "sha256": "9a5dcc82e5b955dcb82bb0a60a4dc4823365831af51805f8e61d719d576f2ee7"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-14-2006",
    "path": "hotarare/csspp/2006/14",
    "short": "Hotărârea csspp nr. 14/2006",

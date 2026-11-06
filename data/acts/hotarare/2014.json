@@ -153,6 +153,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/163527",
 "issuer": "asf",
 "joint": []
+},
+{
+"slug": "hotarare-bnr-27-2014",
+"path": "hotarare/bnr/2014/27",
+"kind": "hotarare",
+"year": "2014",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 27/2014",
+"short": "Hotărârea bnr nr. 27/2014",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2014-10-11",
+"latest": "2014-10-11",
+"portal": "https://www.bnr.ro/19696-hotarare-27-2014",
+"issuer": "bnr",
+"joint": []
 }
 ]
 }

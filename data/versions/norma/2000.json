@@ -166,6 +166,21 @@
      "sha256": "d2f07215cc3104fe34135b1fe59e7858172b1563d9629e3b0c0f8d651405550f"
     }
    ]
+  },
+  {
+   "slug": "norma-bnr-1-2000",
+   "path": "norma/bnr/2000/1",
+   "short": "Norma bnr nr. 1/2000",
+   "title": "Norma nr. 1/2000",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/20749",
+   "versions": [
+    {
+     "from": "2000-02-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/20749",
+     "sha256": "a52f6ef3d9a0bb1fa934fd64e9dfd7041351795d395cf89fa1b86027d07f901b"
+    }
+   ]
   }
  ]
 }

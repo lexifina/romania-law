@@ -258,6 +258,36 @@
    ]
   },
   {
+   "slug": "norma-bnr-3-1999",
+   "path": "norma/bnr/1999/3",
+   "short": "Norma bnr nr. 3/1999",
+   "title": "Norma nr. 3/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/16934",
+   "versions": [
+    {
+     "from": "1999-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/16934",
+     "sha256": "a730e9afa9991108d62c59bc41a38686c3d108ad3f95f45f27bfe3f33300a31b"
+    }
+   ]
+  },
+  {
+   "slug": "norma-bnr-4-1999",
+   "path": "norma/bnr/1999/4",
+   "short": "Norma bnr nr. 4/1999",
+   "title": "Norma nr. 4/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/17191",
+   "versions": [
+    {
+     "from": "1999-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/17191",
+     "sha256": "5b30ad271bc3d7b5cb421ed099fb17592a1b742999ae7f9028ae00d0a1bca5aa"
+    }
+   ]
+  },
+  {
    "slug": "norma-bnr-9-1999",
    "path": "norma/bnr/1999/9",
    "short": "Norma bnr nr. 9/1999",

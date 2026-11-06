@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-12-2016",
+   "path": "circulara/bnr/2016/12",
+   "short": "Circulara bnr nr. 12/2016",
+   "title": "Circulara nr. 12/2016",
+   "url": "https://www.bnr.ro/20439-circulara-12-2016",
+   "versions": [
+    {
+     "from": "2016-05-27",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20439-circulara-12-2016",
+     "sha256": "7beba5969d4ea2350bc8a3a0b5c63fa2f77af874add962032674b82d4ac36e81"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-13-2016",
    "path": "circulara/bnr/2016/13",
    "short": "Circulara bnr nr. 13/2016",
@@ -299,6 +314,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176619",
      "sha256": "bcd461ff589a90432cdb48387f2bdd3d5cf32a8452fa0e18302b4ff7381dd678"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-7-2016",
+   "path": "circulara/bnr/2016/7",
+   "short": "Circulara bnr nr. 7/2016",
+   "title": "Circulara nr. 7/2016 privind lansarea în circuitul numismatic a unui set de trei monede (din aur, din argint și din tombac cuprat) și a unei monede din argint dedicate împlinirii a 150 de ani de la înființarea Academiei Române",
+   "url": "https://www.bnr.ro/21757-circulara-7-2016",
+   "versions": [
+    {
+     "from": "2016-03-29",
+     "units": 6,
+     "source_url": "https://www.bnr.ro/21757-circulara-7-2016",
+     "sha256": "7deb191491eb49e6af0eb78811eda8a4b1a054c3b3bc7fbb682a8e124aabf5ec"
     }
    ]
   },

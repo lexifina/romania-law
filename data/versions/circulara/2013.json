@@ -348,6 +348,36 @@
    ]
   },
   {
+   "slug": "circulara-bnr-30-2013",
+   "path": "circulara/bnr/2013/30",
+   "short": "Circulara bnr nr. 30/2013",
+   "title": "Circulara nr. 30/2013 privind rata dobânzii penalizatoare pentru deficitele de rezerve minime obligatorii în monedă națională începând cu perioada de aplicare 24 octombrie-23 noiembrie 2013",
+   "url": "https://www.bnr.ro/20117-circulara-30-2013",
+   "versions": [
+    {
+     "from": "2013-10-11",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20117-circulara-30-2013",
+     "sha256": "bec15d183b37ebef5ada193dd061956646ee0c84ed5d9be025a1a8ed43385c27"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-31-2013",
+   "path": "circulara/bnr/2013/31",
+   "short": "Circulara bnr nr. 31/2013",
+   "title": "Circulara nr. 31/2013 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 septembrie-23 octombrie 2013",
+   "url": "https://www.bnr.ro/19741-circulara-31-2013",
+   "versions": [
+    {
+     "from": "2013-10-22",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19741-circulara-31-2013",
+     "sha256": "941e5ed615be2574853829973a236029a41ecbe82c677b82e6dca3789daab7d3"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-32-2013",
    "path": "circulara/bnr/2013/32",
    "short": "Circulara bnr nr. 32/2013",
@@ -374,6 +404,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152402",
      "sha256": "a1e9a521b502ad72f83ef21d84f4b31ce982ba7d07e98fc0915084a2b6a00286"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-34-2013",
+   "path": "circulara/bnr/2013/34",
+   "short": "Circulara bnr nr. 34/2013",
+   "title": "Circulara nr. 34/2013",
+   "url": "https://www.bnr.ro/19264-circulara-34-2013",
+   "versions": [
+    {
+     "from": "2013-11-18",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/19264-circulara-34-2013",
+     "sha256": "0ada32d45d43725764d21ac31fac8a22417d0c1a348e5c6223fe0e4e95aaf38d"
     }
    ]
   },
@@ -498,6 +543,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-7-2013",
+   "path": "circulara/bnr/2013/7",
+   "short": "Circulara bnr nr. 7/2013",
+   "title": "Circulara nr. 7/2013 privind punerea în circulație, în scop numismatic, a unor monede dedicate aniversării a 100 de ani de la înființarea, la București, a Academiei de Înalte Studii Comerciale și Industriale (astăzi Academia de Studii Economice)",
+   "url": "https://www.bnr.ro/19332-circulara-7-2013",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/19332-circulara-7-2013",
+     "sha256": "9b683a534af463abb2d98562ba92864eebc0cd24767f5da793cd3413eeeb8e65"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-8-2013",
    "path": "circulara/bnr/2013/8",
    "short": "Circulara bnr nr. 8/2013",
@@ -509,6 +569,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/147167",
      "sha256": "bc9d97987e7df51504e05f3a1bccaedd25d085071088dbc74698ffc2e4b4a6ee"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-9-2013",
+   "path": "circulara/bnr/2013/9",
+   "short": "Circulara bnr nr. 9/2013",
+   "title": "Circulara nr. 9/2013",
+   "url": "https://www.bnr.ro/21866-circulara-9-2013",
+   "versions": [
+    {
+     "from": "2013-05-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21866-circulara-9-2013",
+     "sha256": "99db10fefe7e934276e3c011675edcda9871d2e553eac549eb8280dea0c623e3"
     }
    ]
   }

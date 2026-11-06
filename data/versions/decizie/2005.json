@@ -828,6 +828,21 @@
    ]
   },
   {
+   "slug": "decizie-concurenta-178-2005",
+   "path": "decizie/concurenta/2005/178",
+   "short": "Decizia concurenta nr. 178/2005",
+   "title": "Decizia nr. 178/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31594",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31594",
+     "sha256": "cce615430eefac2f896323b62311842e38d4d9edbbcac274dbb43ab754488192"
+    }
+   ]
+  },
+  {
    "slug": "decizie-concurenta-207-2005",
    "path": "decizie/concurenta/2005/207",
    "short": "Decizia concurenta nr. 207/2005",
@@ -839,6 +854,216 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67133",
      "sha256": "ff8d97ad421c43668d39ea2a3769767264846adf12c3134aa65c33c97779738b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-33-2005",
+   "path": "decizie/concurenta/2005/33",
+   "short": "Decizia concurenta nr. 33/2005",
+   "title": "Decizia nr. 33/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/62686",
+   "versions": [
+    {
+     "from": "2005-06-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/62686",
+     "sha256": "02609171125ed0c6aa0300364984b8f44b0bea4c9c6cb319832cb1b02b413171"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-44-2005",
+   "path": "decizie/concurenta/2005/44",
+   "short": "Decizia concurenta nr. 44/2005",
+   "title": "Decizia nr. 44/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/61069",
+   "versions": [
+    {
+     "from": "2005-04-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/61069",
+     "sha256": "cd07e4cd7f320121261df3c61e2012a55ae745b27218cc27076c2aa05e580efa"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-75-2005",
+   "path": "decizie/concurenta/2005/75",
+   "short": "Decizia concurenta nr. 75/2005",
+   "title": "Decizia nr. 75/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63235",
+   "versions": [
+    {
+     "from": "2005-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63235",
+     "sha256": "f0502a2b389abd553f3ec84c207ac5494cc80d52afbc422301d598d9b24b6867"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-88-2005",
+   "path": "decizie/concurenta/2005/88",
+   "short": "Decizia concurenta nr. 88/2005",
+   "title": "Decizia nr. 88/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63149",
+   "versions": [
+    {
+     "from": "2005-07-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63149",
+     "sha256": "f39ec90010a24d2df4b233e8304ed889f84f05433270af13ae688ae73f49108e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3263-2005",
+   "path": "decizie/csa/2005/3263",
+   "short": "Decizia csa nr. 3263/2005",
+   "title": "Decizia nr. 3.263/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60357",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60357",
+     "sha256": "5af52f376f89ef746cc080eb9d91ade29bfd2028ff40ea6f54e30ce667814576"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3267-2005",
+   "path": "decizie/csa/2005/3267",
+   "short": "Decizia csa nr. 3267/2005",
+   "title": "Decizia nr. 3.267/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60358",
+   "versions": [
+    {
+     "from": "2005-03-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60358",
+     "sha256": "858cc15d126cbaf478fa1626f69b6138703d6e6b8134be6ed48cf761b084b987"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3270-2005",
+   "path": "decizie/csa/2005/3270",
+   "short": "Decizia csa nr. 3270/2005",
+   "title": "Decizia nr. 3.270/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/60452",
+   "versions": [
+    {
+     "from": "2005-04-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/60452",
+     "sha256": "332b76afd1e15fa2be7d84b1ba6c67a06ed4190ec6d92444143056723dfdbe6e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3344-2005",
+   "path": "decizie/csa/2005/3344",
+   "short": "Decizia csa nr. 3344/2005",
+   "title": "Decizia nr. 3.344/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64643",
+   "versions": [
+    {
+     "from": "2005-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64643",
+     "sha256": "1db9259073083a582a93e2d0a8c1bf1d85597c78fa9b22d23a0beaaa701551e8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3419-2005",
+   "path": "decizie/csa/2005/3419",
+   "short": "Decizia csa nr. 3419/2005",
+   "title": "Decizia nr. 3.419/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/63293",
+   "versions": [
+    {
+     "from": "2005-07-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/63293",
+     "sha256": "cae013aeefd57d4053aae869810467b741984f52035da455f6a9a3054b5345de"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3423-2005",
+   "path": "decizie/csa/2005/3423",
+   "short": "Decizia csa nr. 3423/2005",
+   "title": "Decizia nr. 3.423/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64686",
+   "versions": [
+    {
+     "from": "2005-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64686",
+     "sha256": "cd3719d89bdcb8073f7bbc49ef3ec1748a7d1dd0381aa207ba48da2874ad9488"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3456-2005",
+   "path": "decizie/csa/2005/3456",
+   "short": "Decizia csa nr. 3456/2005",
+   "title": "Decizia nr. 3.456/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65466",
+   "versions": [
+    {
+     "from": "2005-10-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65466",
+     "sha256": "5013d312240c2cafb963147e8f67ed0f93bb225d0b9443bc742fa61da3a342f5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3472-2005",
+   "path": "decizie/csa/2005/3472",
+   "short": "Decizia csa nr. 3472/2005",
+   "title": "Decizia nr. 3.472/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65439",
+   "versions": [
+    {
+     "from": "2005-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65439",
+     "sha256": "97e735b594d661b46d4568b194634f7d8176a55a80e0043a3442ed935f8221eb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3474-2005",
+   "path": "decizie/csa/2005/3474",
+   "short": "Decizia csa nr. 3474/2005",
+   "title": "Decizia nr. 3.474/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/31561",
+   "versions": [
+    {
+     "from": "2005-10-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/31561",
+     "sha256": "6a14049c593657e1d852234891ad77373791a0ce4e2927bb0f15686b795a7171"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3500-2005",
+   "path": "decizie/csa/2005/3500",
+   "short": "Decizia csa nr. 3500/2005",
+   "title": "Decizia nr. 3.500/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65778",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65778",
+     "sha256": "d9adf15534e916a6a9d2723f2ea88688495dac4771f1a31604f99bccee19836b"
     }
    ]
   },
@@ -873,6 +1098,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-3920-2005",
+   "path": "decizie/csa/2005/3920",
+   "short": "Decizia csa nr. 3920/2005",
+   "title": "Decizia nr. 3.920/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/64826",
+   "versions": [
+    {
+     "from": "2005-09-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/64826",
+     "sha256": "8360682f22d8bcac15266814278c27ec32c3bde28a3bf75631136af18a16fa98"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-3930-2005",
+   "path": "decizie/csa/2005/3930",
+   "short": "Decizia csa nr. 3930/2005",
+   "title": "Decizia nr. 3.930/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65406",
+   "versions": [
+    {
+     "from": "2005-10-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65406",
+     "sha256": "c3e6b4185a5ace57ebf06b5386357e622fb61241d48a5faf6a48c8307b15f35c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-4501-2005",
+   "path": "decizie/csa/2005/4501",
+   "short": "Decizia csa nr. 4501/2005",
+   "title": "Decizia nr. 4.501/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/65762",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/65762",
+     "sha256": "d5532bd0a140f9f1bfe8dbac4ef8adbbf56af0979acc766538b02448535d748f"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-4527-2005",
    "path": "decizie/csa/2005/4527",
    "short": "Decizia csa nr. 4527/2005",
@@ -884,6 +1154,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/66212",
      "sha256": "39aae317e1a11e966fc24e05c040ffaac5027ffd02f860a2b14c90d83bee1535"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-4549-2005",
+   "path": "decizie/csa/2005/4549",
+   "short": "Decizia csa nr. 4549/2005",
+   "title": "Decizia nr. 4.549/2005",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/67230",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/67230",
+     "sha256": "42632703d25475c58d8c36dec4edeb8ae1e469cce5708519e6d4f82959f0ceef"
     }
    ]
   }

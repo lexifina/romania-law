@@ -3,6 +3,21 @@
  "shard": "hotarare/1997",
  "acts": [
   {
+   "slug": "hotarare-bnr-1-1997",
+   "path": "hotarare/bnr/1997/1",
+   "short": "Hotărârea bnr nr. 1/1997",
+   "title": "Hotărârea nr. 1/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10742",
+   "versions": [
+    {
+     "from": "1997-03-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10742",
+     "sha256": "952f40dc188eb330df30add4cec1c4aca4e56071d0054a04f398b2afddadd908"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-2-1997",
    "path": "hotarare/bnr/1997/2",
    "short": "Hotărârea bnr nr. 2/1997",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hotarare-bnr-4-1997",
+   "path": "hotarare/bnr/1997/4",
+   "short": "Hotărârea bnr nr. 4/1997",
+   "title": "Hotărârea nr. 4/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10813",
+   "versions": [
+    {
+     "from": "1997-04-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10813",
+     "sha256": "9b16786892917939eed61aa7db9dd498f030e6e3e49321c51ccddb2ec022df13"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-5-1997",
    "path": "hotarare/bnr/1997/5",
    "short": "Hotărârea bnr nr. 5/1997",
@@ -44,6 +74,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10831",
      "sha256": "6ef041dcb0225fc90fb5185ad8f5124ed2d173d78e505799ec7fc7bd5949a7e8"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-6-1997",
+   "path": "hotarare/bnr/1997/6",
+   "short": "Hotărârea bnr nr. 6/1997",
+   "title": "Hotărârea nr. 6/1997",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/10849",
+   "versions": [
+    {
+     "from": "1997-09-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/10849",
+     "sha256": "a1ae46a851ddeebcc80bf1544009f92cf1ec29198094872f8b98c6e4cbf4fc6e"
     }
    ]
   }

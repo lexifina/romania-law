@@ -6708,6 +6708,25 @@
 "joint": []
 },
 {
+"slug": "ordin-anpc-8-2003",
+"path": "ordin/anpc/2003/8",
+"kind": "ordin",
+"year": "2003",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 8/2003",
+"short": "Ordin anpc nr. 8/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2004-01-01",
+"latest": "2004-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/42129",
+"issuer": "anpc",
+"joint": []
+},
+{
 "slug": "ordin-anpc-9-2003",
 "path": "ordin/anpc/2003/9",
 "kind": "ordin",
@@ -7574,6 +7593,25 @@
 "alias": "ordin-anrm-169-2003"
 }
 ]
+},
+{
+"slug": "ordin-anrgn-1075-2003",
+"path": "ordin/anrgn/2003/1075",
+"kind": "ordin",
+"year": "2003",
+"number": "1075",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 1.075/2003",
+"short": "Ordin anrgn nr. 1075/2003",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2003-12-20",
+"latest": "2003-12-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/48681",
+"issuer": "anrgn",
+"joint": []
 },
 {
 "slug": "ordin-anrm-12-2003",

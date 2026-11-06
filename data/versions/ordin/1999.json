@@ -4353,6 +4353,21 @@
    ]
   },
   {
+   "slug": "ordin-bnr-475-1999",
+   "path": "ordin/bnr/1999/475",
+   "short": "Ordin bnr nr. 475/1999",
+   "title": "Ordinul nr. 475/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19904",
+   "versions": [
+    {
+     "from": "1999-11-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19904",
+     "sha256": "fd1d2a0ad86a51d6db9f811434516e6d3d320201b0eb54c08d8e9ad940b46de2"
+    }
+   ]
+  },
+  {
    "slug": "ordin-cnvm-14-1999",
    "path": "ordin/cnvm/1999/14",
    "short": "Ordin cnvm nr. 14/1999",

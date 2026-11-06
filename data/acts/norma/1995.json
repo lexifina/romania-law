@@ -41,6 +41,25 @@
 "joint": []
 },
 {
+"slug": "norma-bnr-6-1995",
+"path": "norma/bnr/1995/6",
+"kind": "norma",
+"year": "1995",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 6/1995",
+"short": "Norma bnr nr. 6/1995",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1995-06-27",
+"latest": "1995-06-27",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/5688",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-8-1995",
 "path": "norma/bnr/1995/8",
 "kind": "norma",

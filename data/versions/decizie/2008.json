@@ -213,6 +213,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-1010-2008",
+   "path": "decizie/csa/2008/1010",
+   "short": "Decizia csa nr. 1010/2008",
+   "title": "Decizia nr. 1.010/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99234",
+   "versions": [
+    {
+     "from": "2008-11-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99234",
+     "sha256": "d007cbb34b94a30ddab2e86f71d6a353a64c7ef03e75e82f54af96615fb99438"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1024-2008",
    "path": "decizie/csa/2008/1024",
    "short": "Decizia csa nr. 1024/2008",
@@ -258,6 +273,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-1030-2008",
+   "path": "decizie/csa/2008/1030",
+   "short": "Decizia csa nr. 1030/2008",
+   "title": "Decizia nr. 1.030/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99451",
+   "versions": [
+    {
+     "from": "2008-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99451",
+     "sha256": "71ba5219011a61a6e7c1d22c68724bacb1217ec71837fec5b41e849e6a24ac4b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1035-2008",
+   "path": "decizie/csa/2008/1035",
+   "short": "Decizia csa nr. 1035/2008",
+   "title": "Decizia nr. 1.035/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99902",
+   "versions": [
+    {
+     "from": "2008-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99902",
+     "sha256": "2560121ac9e5f27e06d6b9265216ed0aece8aad9237061dcebfa2a88b7eda7b6"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1051-2008",
    "path": "decizie/csa/2008/1051",
    "short": "Decizia csa nr. 1051/2008",
@@ -288,6 +333,66 @@
    ]
   },
   {
+   "slug": "decizie-csa-1063-2008",
+   "path": "decizie/csa/2008/1063",
+   "short": "Decizia csa nr. 1063/2008",
+   "title": "Decizia nr. 1.063/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/99645",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/99645",
+     "sha256": "0531ad4796cf34994bfd50b627fe3283e9b0395c59241062fc99280c43fd5053"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1082-2008",
+   "path": "decizie/csa/2008/1082",
+   "short": "Decizia csa nr. 1082/2008",
+   "title": "Decizia nr. 1.082/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100338",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100338",
+     "sha256": "c7d99f50bef84df1328716b30956f01976fee83be543674e7782d72a9ebd4553"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1083-2008",
+   "path": "decizie/csa/2008/1083",
+   "short": "Decizia csa nr. 1083/2008",
+   "title": "Decizia nr. 1.083/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100339",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100339",
+     "sha256": "efd2df9678da916e434b3b3a2da6130269ae26046f8fb2a7cd0e05e7ab2d4928"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1084-2008",
+   "path": "decizie/csa/2008/1084",
+   "short": "Decizia csa nr. 1084/2008",
+   "title": "Decizia nr. 1.084/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100340",
+   "versions": [
+    {
+     "from": "2008-12-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100340",
+     "sha256": "422e8e8d11b3f94953fca9e409e1553f3671d24e051f4c4e09b1b6e3734a2874"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1090-2008",
    "path": "decizie/csa/2008/1090",
    "short": "Decizia csa nr. 1090/2008",
@@ -314,6 +419,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101020",
      "sha256": "9050bd2e0a99888f41bb088934d15dfb4c4d93e69560e61310cfe975263f3af4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1132-2008",
+   "path": "decizie/csa/2008/1132",
+   "short": "Decizia csa nr. 1132/2008",
+   "title": "Decizia nr. 1.132/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100497",
+   "versions": [
+    {
+     "from": "2008-12-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100497",
+     "sha256": "aa659a79a9cf2019c10707875735566033189d98d5daeb84d68ebe7e650744c3"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1137-2008",
+   "path": "decizie/csa/2008/1137",
+   "short": "Decizia csa nr. 1137/2008",
+   "title": "Decizia nr. 1.137/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/100973",
+   "versions": [
+    {
+     "from": "2009-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/100973",
+     "sha256": "d5ba77b1d5889da48c083c516724fb5d4d02c12267cea7b9c66be390fcc070d4"
     }
    ]
   },
@@ -378,6 +513,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-1165-2008",
+   "path": "decizie/csa/2008/1165",
+   "short": "Decizia csa nr. 1165/2008",
+   "title": "Decizia nr. 1.165/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101436",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101436",
+     "sha256": "ca1336e8cf4bb37544e26a99a2fd2ea70436e50eff88b17c4ef2e0afd6198f14"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1172-2008",
    "path": "decizie/csa/2008/1172",
    "short": "Decizia csa nr. 1172/2008",
@@ -389,6 +539,96 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101437",
      "sha256": "10bcd0571ed46027a9cac514a290416a0025595073d63049b7b99dcf4747f0cf"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1173-2008",
+   "path": "decizie/csa/2008/1173",
+   "short": "Decizia csa nr. 1173/2008",
+   "title": "Decizia nr. 1.173/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101063",
+   "versions": [
+    {
+     "from": "2009-01-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101063",
+     "sha256": "2ccbfab123a9f36f928fe705323de09a30dac1674c23d2ba8c1b5b017f5ebea7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1185-2008",
+   "path": "decizie/csa/2008/1185",
+   "short": "Decizia csa nr. 1185/2008",
+   "title": "Decizia nr. 1.185/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101455",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101455",
+     "sha256": "beef9aa1e6937971aa24ae004c43463c923aa3a78145fde33372fcf9a2576868"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1186-2008",
+   "path": "decizie/csa/2008/1186",
+   "short": "Decizia csa nr. 1186/2008",
+   "title": "Decizia nr. 1.186/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101456",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101456",
+     "sha256": "08fd9f3916d9cfd1c780a8c402946a70ca9ddee55f587e85f717a45f3a113c1d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1187-2008",
+   "path": "decizie/csa/2008/1187",
+   "short": "Decizia csa nr. 1187/2008",
+   "title": "Decizia nr. 1.187/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/101457",
+   "versions": [
+    {
+     "from": "2009-01-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/101457",
+     "sha256": "43acc3b4296c0abf3455671a0b7de37ba747d235b826c47d44dbb93b64fa9241"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-132-2008",
+   "path": "decizie/csa/2008/132",
+   "short": "Decizia csa nr. 132/2008",
+   "title": "Decizia nr. 132/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90114",
+   "versions": [
+    {
+     "from": "2008-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90114",
+     "sha256": "c5e3979bea63172733689ebee1c7f286ff5072a89728a94f0e680934c1d312a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-133-2008",
+   "path": "decizie/csa/2008/133",
+   "short": "Decizia csa nr. 133/2008",
+   "title": "Decizia nr. 133/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90115",
+   "versions": [
+    {
+     "from": "2008-03-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90115",
+     "sha256": "7304f428c0b1135b64b23cd856aea8f273220b0df775cb6ec1859a5f7499da25"
     }
    ]
   },
@@ -423,6 +663,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-202-2008",
+   "path": "decizie/csa/2008/202",
+   "short": "Decizia csa nr. 202/2008",
+   "title": "Decizia nr. 202/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/90440",
+   "versions": [
+    {
+     "from": "2008-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90440",
+     "sha256": "713e08a1626294a60dd579212e341ed466ae6379c35b7529b94bb04d5f2e8c9d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-214-2008",
    "path": "decizie/csa/2008/214",
    "short": "Decizia csa nr. 214/2008",
@@ -449,6 +704,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/90835",
      "sha256": "664e3b4c359f3f94e47cf9572faaf18b7db8db2332a54214df75ab0232402c2c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-233-2008",
+   "path": "decizie/csa/2008/233",
+   "short": "Decizia csa nr. 233/2008",
+   "title": "Decizia nr. 233/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91012",
+   "versions": [
+    {
+     "from": "2008-04-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91012",
+     "sha256": "4b9f82acf672529c2e5dc3003bba7a5a18979a5984bfbd9830286ee5dd7d3ef7"
     }
    ]
   },
@@ -543,6 +813,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-298-2008",
+   "path": "decizie/csa/2008/298",
+   "short": "Decizia csa nr. 298/2008",
+   "title": "Decizia nr. 298/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/91957",
+   "versions": [
+    {
+     "from": "2008-04-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/91957",
+     "sha256": "a7348cc0ed21bab828d6791e421fb5b9848d89b4ce1f41d9c235e9697023e312"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-306-2008",
    "path": "decizie/csa/2008/306",
    "short": "Decizia csa nr. 306/2008",
@@ -584,6 +869,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92775",
      "sha256": "b1f85bb0a91303d24bd7f0b9fb50f786e457dc9a8ac57060550926f0d1e53633"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-352-2008",
+   "path": "decizie/csa/2008/352",
+   "short": "Decizia csa nr. 352/2008",
+   "title": "Decizia nr. 352/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/92776",
+   "versions": [
+    {
+     "from": "2008-05-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/92776",
+     "sha256": "2c533764a13749c36bb1d0765e855583139dd5b4b152b073e76a7c25a2450024"
     }
    ]
   },
@@ -693,6 +993,96 @@
    ]
   },
   {
+   "slug": "decizie-csa-41-2008",
+   "path": "decizie/csa/2008/41",
+   "short": "Decizia csa nr. 41/2008",
+   "title": "Decizia nr. 41/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89153",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89153",
+     "sha256": "d7462c35b269582f43ba9644736690c31678455c93069d15154c7a52bccf3271"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-414-2008",
+   "path": "decizie/csa/2008/414",
+   "short": "Decizia csa nr. 414/2008",
+   "title": "Decizia nr. 414/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93618",
+   "versions": [
+    {
+     "from": "2008-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93618",
+     "sha256": "ac252a0b77213d4381b598875db19bb03d584bc5e080f46c43628a10261abf3a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-415-2008",
+   "path": "decizie/csa/2008/415",
+   "short": "Decizia csa nr. 415/2008",
+   "title": "Decizia nr. 415/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93619",
+   "versions": [
+    {
+     "from": "2008-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93619",
+     "sha256": "e103240ba299da109af2018c1584a6e335570db47dfbe5e3a97591a89212182e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-416-2008",
+   "path": "decizie/csa/2008/416",
+   "short": "Decizia csa nr. 416/2008",
+   "title": "Decizia nr. 416/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/93622",
+   "versions": [
+    {
+     "from": "2008-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/93622",
+     "sha256": "e4d38a1bf0cb40ee75ab190c1ad38b9f47550e09b4ef27f95ec42910329202de"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-43-2008",
+   "path": "decizie/csa/2008/43",
+   "short": "Decizia csa nr. 43/2008",
+   "title": "Decizia nr. 43/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/89237",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89237",
+     "sha256": "bb4c92a03230278e63cfed7dba05199d268519e65ad6709007ed8c01318a7133"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-500-2008",
+   "path": "decizie/csa/2008/500",
+   "short": "Decizia csa nr. 500/2008",
+   "title": "Decizia nr. 500/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94353",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94353",
+     "sha256": "c272ad145095270457e7e01412362e79ce84f0a8f6554b1dde4f6263136a59d5"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-515-2008",
    "path": "decizie/csa/2008/515",
    "short": "Decizia csa nr. 515/2008",
@@ -708,6 +1098,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-522-2008",
+   "path": "decizie/csa/2008/522",
+   "short": "Decizia csa nr. 522/2008",
+   "title": "Decizia nr. 522/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94775",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94775",
+     "sha256": "6f8d8418e76a4134a4f31ef9583d434a280b948821e04b12935c880b8bf23b3e"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-529-2008",
    "path": "decizie/csa/2008/529",
    "short": "Decizia csa nr. 529/2008",
@@ -719,6 +1124,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94684",
      "sha256": "e6ad5de660c9ce38cdc395c249364e103463fb3f19f44cf654215cc566daf898"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-534-2008",
+   "path": "decizie/csa/2008/534",
+   "short": "Decizia csa nr. 534/2008",
+   "title": "Decizia nr. 534/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94324",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94324",
+     "sha256": "f3990932cbad113421bedd5a567af5fee1ee3601b33e456a502ae948bbca291c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-535-2008",
+   "path": "decizie/csa/2008/535",
+   "short": "Decizia csa nr. 535/2008",
+   "title": "Decizia nr. 535/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/94325",
+   "versions": [
+    {
+     "from": "2008-06-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/94325",
+     "sha256": "eb30a0fda18dfb7fc65badf2066b78305940831d79364a0955f1ce63ab2d905a"
     }
    ]
   },
@@ -753,6 +1188,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-577-2008",
+   "path": "decizie/csa/2008/577",
+   "short": "Decizia csa nr. 577/2008",
+   "title": "Decizia nr. 577/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95257",
+   "versions": [
+    {
+     "from": "2008-07-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95257",
+     "sha256": "82e450224aa54ad067e6354a7c9d5f95e97d12443cbbea68b9cfa490eed03774"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-58-2008",
    "path": "decizie/csa/2008/58",
    "short": "Decizia csa nr. 58/2008",
@@ -764,6 +1214,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/89321",
      "sha256": "c2d9c0a8547114749e736862e6d0adbb258d482a55cb783d13f4a125f0830cad"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-598-2008",
+   "path": "decizie/csa/2008/598",
+   "short": "Decizia csa nr. 598/2008",
+   "title": "Decizia nr. 598/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95742",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95742",
+     "sha256": "b408076e142b203487e2e8abeb278f1f5a04bd111d9221872b6526b478c29e0a"
     }
    ]
   },
@@ -794,6 +1259,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95744",
      "sha256": "d8f18085cc4e8e4ad169edcabe50402fded47346ee1820028f387d634654c7c9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-601-2008",
+   "path": "decizie/csa/2008/601",
+   "short": "Decizia csa nr. 601/2008",
+   "title": "Decizia nr. 601/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95745",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95745",
+     "sha256": "28a43687714aa87aa638acd257541f8d9ba7ea06c46f310f8eb4806979c0d354"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-609-2008",
+   "path": "decizie/csa/2008/609",
+   "short": "Decizia csa nr. 609/2008",
+   "title": "Decizia nr. 609/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/95824",
+   "versions": [
+    {
+     "from": "2008-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/95824",
+     "sha256": "d99d6de3da4ef90e5a6560b9bfb1d202b0cbc798b76549d0d4fc2fbc3b4cb04c"
     }
    ]
   },
@@ -933,6 +1428,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-729-2008",
+   "path": "decizie/csa/2008/729",
+   "short": "Decizia csa nr. 729/2008",
+   "title": "Decizia nr. 729/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96770",
+   "versions": [
+    {
+     "from": "2008-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96770",
+     "sha256": "853e904275907298ac09d7a9d733bd0b45d3e27d8088a9f99ff898b19457faa8"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-732-2008",
    "path": "decizie/csa/2008/732",
    "short": "Decizia csa nr. 732/2008",
@@ -978,6 +1488,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-757-2008",
+   "path": "decizie/csa/2008/757",
+   "short": "Decizia csa nr. 757/2008",
+   "title": "Decizia nr. 757/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/96806",
+   "versions": [
+    {
+     "from": "2008-08-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/96806",
+     "sha256": "79b7216e982567139be8891942d1771552a755ea7e5ab64ab4b0e45c9cc3be52"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-761-2008",
+   "path": "decizie/csa/2008/761",
+   "short": "Decizia csa nr. 761/2008",
+   "title": "Decizia nr. 761/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97023",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97023",
+     "sha256": "d408210f2184a8bfdae8079f28e3a261caae3e5afcbc79045a4ef2373a2f0803"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-771-2008",
    "path": "decizie/csa/2008/771",
    "short": "Decizia csa nr. 771/2008",
@@ -1004,6 +1544,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97025",
      "sha256": "182f6213a59b19a6738ecb4438663b4bbc0e4ef4475a75ea95e79cd0014d2576"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-789-2008",
+   "path": "decizie/csa/2008/789",
+   "short": "Decizia csa nr. 789/2008",
+   "title": "Decizia nr. 789/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97072",
+   "versions": [
+    {
+     "from": "2008-09-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97072",
+     "sha256": "54d1f94378962d52e92fdccea4b08901a6718c8ea084bf47c45997819c432982"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-800-2008",
+   "path": "decizie/csa/2008/800",
+   "short": "Decizia csa nr. 800/2008",
+   "title": "Decizia nr. 800/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97026",
+   "versions": [
+    {
+     "from": "2008-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97026",
+     "sha256": "d91c429dbf62a680c74f312aee6cea63d109cbd4a8a3ba690cf2184c19f76a91"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-808-2008",
+   "path": "decizie/csa/2008/808",
+   "short": "Decizia csa nr. 808/2008",
+   "title": "Decizia nr. 808/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97203",
+   "versions": [
+    {
+     "from": "2008-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97203",
+     "sha256": "a8d13601bdec5d005659fa98cce690a04c6ca6afe8ba38e92b94dafc1aac001a"
     }
    ]
   },
@@ -1139,6 +1724,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97542",
      "sha256": "e94710e752c90f75f3f40d004da7e75656cf325cdf979e8db0f4a4b31e9542d8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-856-2008",
+   "path": "decizie/csa/2008/856",
+   "short": "Decizia csa nr. 856/2008",
+   "title": "Decizia nr. 856/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97544",
+   "versions": [
+    {
+     "from": "2008-09-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97544",
+     "sha256": "6fbf79c537c15f8aedeaa5476fedf61e6ddf360a39bfdc89d625b016fee569b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-857-2008",
+   "path": "decizie/csa/2008/857",
+   "short": "Decizia csa nr. 857/2008",
+   "title": "Decizia nr. 857/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97735",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97735",
+     "sha256": "62f622450bb530cf03402a4d0b9dc5500e1a6a93b7c15e9572dce0780e4e5039"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-860-2008",
+   "path": "decizie/csa/2008/860",
+   "short": "Decizia csa nr. 860/2008",
+   "title": "Decizia nr. 860/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/97655",
+   "versions": [
+    {
+     "from": "2008-09-29",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/97655",
+     "sha256": "27b776e25fcf4451169e7615b18819ef63a2c08278c275cd4ec785ea67435084"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-886-2008",
+   "path": "decizie/csa/2008/886",
+   "short": "Decizia csa nr. 886/2008",
+   "title": "Decizia nr. 886/2008",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/98341",
+   "versions": [
+    {
+     "from": "2008-10-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/98341",
+     "sha256": "5cdbb58bcb8cc99e64fad2c0c135a765eed563baf82c3ce32b89e88b4fab9932"
     }
    ]
   },

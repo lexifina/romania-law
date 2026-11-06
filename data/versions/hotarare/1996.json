@@ -3,6 +3,21 @@
  "shard": "hotarare/1996",
  "acts": [
   {
+   "slug": "hotarare-bnr-1-1996",
+   "path": "hotarare/bnr/1996/1",
+   "short": "Hotărârea bnr nr. 1/1996",
+   "title": "Hotărârea nr. 1/1996",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7684",
+   "versions": [
+    {
+     "from": "1996-03-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7684",
+     "sha256": "673ea412f1e922bce26241c4762aae49d11fd42b67c727a1e160c0f563b9b83a"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-bnr-2-1996",
    "path": "hotarare/bnr/1996/2",
    "short": "Hotărârea bnr nr. 2/1996",

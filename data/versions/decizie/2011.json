@@ -228,6 +228,96 @@
    ]
   },
   {
+   "slug": "decizie-csa-102-2011",
+   "path": "decizie/csa/2011/102",
+   "short": "Decizia csa nr. 102/2011",
+   "title": "Decizia nr. 102/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126320",
+   "versions": [
+    {
+     "from": "2011-02-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126320",
+     "sha256": "172358da1fbe3af2bb6610b09591a84e959cb3d27501852632cfd8acd45bee44"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-103-2011",
+   "path": "decizie/csa/2011/103",
+   "short": "Decizia csa nr. 103/2011",
+   "title": "Decizia nr. 103/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126368",
+   "versions": [
+    {
+     "from": "2011-02-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126368",
+     "sha256": "73137492d307a7e8e7ed0ca489dfa1fad0148bad4a9ccc62986aa93842daef84"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1031-2011",
+   "path": "decizie/csa/2011/1031",
+   "short": "Decizia csa nr. 1031/2011",
+   "title": "Decizia nr. 1.031/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133706",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133706",
+     "sha256": "17fa21a6cb5ca8365641e9ab3f37d04e1958e8fdb7722b9f6a8ba84c8d295b78"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1034-2011",
+   "path": "decizie/csa/2011/1034",
+   "short": "Decizia csa nr. 1034/2011",
+   "title": "Decizia nr. 1.034/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133903",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133903",
+     "sha256": "e2253be8ac084106eacbe41d5712071347e300f0b2f49d429a070c6ac0c7c8a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1067-2011",
+   "path": "decizie/csa/2011/1067",
+   "short": "Decizia csa nr. 1067/2011",
+   "title": "Decizia nr. 1.067/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134221",
+   "versions": [
+    {
+     "from": "2012-01-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134221",
+     "sha256": "74f751a278888ee83a8c554cfe2229fff8ba7f313b2f05339f113cb6b3f1411e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1068-2011",
+   "path": "decizie/csa/2011/1068",
+   "short": "Decizia csa nr. 1068/2011",
+   "title": "Decizia nr. 1.068/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134286",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134286",
+     "sha256": "4f33fb56c8cd4a091ae4382a0206af9f367973d399ab71a637aa2c5036ba8721"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1081-2011",
    "path": "decizie/csa/2011/1081",
    "short": "Decizia csa nr. 1081/2011",
@@ -239,6 +329,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134310",
      "sha256": "1d728541e3f472092fbaa08290b7d207d3a290e55dcffa2d776923b6baf5b292"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1083-2011",
+   "path": "decizie/csa/2011/1083",
+   "short": "Decizia csa nr. 1083/2011",
+   "title": "Decizia nr. 1.083/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134311",
+   "versions": [
+    {
+     "from": "2012-01-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134311",
+     "sha256": "81bad7bf61d47ad560453aa16f3e72820c26b93a092c708a8128a352fae7e61e"
     }
    ]
   },
@@ -258,6 +363,66 @@
    ]
   },
   {
+   "slug": "decizie-csa-1099-2011",
+   "path": "decizie/csa/2011/1099",
+   "short": "Decizia csa nr. 1099/2011",
+   "title": "Decizia nr. 1.099/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/134288",
+   "versions": [
+    {
+     "from": "2012-01-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/134288",
+     "sha256": "7698723c8af353b95d8126ad614277b847d0b35fe68a643c25594cc26e4496b9"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-124-2011",
+   "path": "decizie/csa/2011/124",
+   "short": "Decizia csa nr. 124/2011",
+   "title": "Decizia nr. 124/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126381",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126381",
+     "sha256": "996827be2f6d1cde940d13e47c46ff965829c7b47172e909e966ee65b04843c6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-130-2011",
+   "path": "decizie/csa/2011/130",
+   "short": "Decizia csa nr. 130/2011",
+   "title": "Decizia nr. 130/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126382",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126382",
+     "sha256": "273c1d875e9a386fd2e5b46c7b6abc9600766c1401a3f626afcdbc03fed949dc"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-131-2011",
+   "path": "decizie/csa/2011/131",
+   "short": "Decizia csa nr. 131/2011",
+   "title": "Decizia nr. 131/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126389",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126389",
+     "sha256": "3c6628a875a032c40931e6ddc8953bec17cd343799d6ebae1efff1651acf5502"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-153-2011",
    "path": "decizie/csa/2011/153",
    "short": "Decizia csa nr. 153/2011",
@@ -273,6 +438,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-154-2011",
+   "path": "decizie/csa/2011/154",
+   "short": "Decizia csa nr. 154/2011",
+   "title": "Decizia nr. 154/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126689",
+   "versions": [
+    {
+     "from": "2011-03-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126689",
+     "sha256": "91f1f2fa2414b41ab775db97b80f637c80a15442213d35921f84c437bd80435d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-155-2011",
    "path": "decizie/csa/2011/155",
    "short": "Decizia csa nr. 155/2011",
@@ -284,6 +464,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126688",
      "sha256": "e5e651fef02292efcf29f749e9a79c2afeae2ff77f096707e284e7ec559293c5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-201-2011",
+   "path": "decizie/csa/2011/201",
+   "short": "Decizia csa nr. 201/2011",
+   "title": "Decizia nr. 201/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127011",
+   "versions": [
+    {
+     "from": "2011-03-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127011",
+     "sha256": "41a87151ddb9e8ff5a8ab844059b5db2e91dafa91fa9c886ad89d2655a54d08a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-202-2011",
+   "path": "decizie/csa/2011/202",
+   "short": "Decizia csa nr. 202/2011",
+   "title": "Decizia nr. 202/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127027",
+   "versions": [
+    {
+     "from": "2011-03-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127027",
+     "sha256": "75a61c14b55e01dda61dfd1021c07a7fbea1a59a989cc9a9c11d6cd6e12d2269"
     }
    ]
   },
@@ -333,6 +543,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-209-2011",
+   "path": "decizie/csa/2011/209",
+   "short": "Decizia csa nr. 209/2011",
+   "title": "Decizia nr. 209/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127221",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127221",
+     "sha256": "72d798a08a3c7009756875f1c2e354394f8e52e001d0a92f18e5fc844a583aed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-21-2011",
+   "path": "decizie/csa/2011/21",
+   "short": "Decizia csa nr. 21/2011",
+   "title": "Decizia nr. 21/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125595",
+   "versions": [
+    {
+     "from": "2011-01-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125595",
+     "sha256": "462260bd468c29674f786a486d9a3221675e6e5abfe5f4f7aa75eb1e627d9051"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-210-2011",
+   "path": "decizie/csa/2011/210",
+   "short": "Decizia csa nr. 210/2011",
+   "title": "Decizia nr. 210/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127252",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127252",
+     "sha256": "452f75af2ba8bd4cdacda3a9441108875ad42c3262643766d604fb469bc8c412"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-222-2011",
    "path": "decizie/csa/2011/222",
    "short": "Decizia csa nr. 222/2011",
@@ -363,6 +618,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-224-2011",
+   "path": "decizie/csa/2011/224",
+   "short": "Decizia csa nr. 224/2011",
+   "title": "Decizia nr. 224/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127449",
+   "versions": [
+    {
+     "from": "2011-04-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127449",
+     "sha256": "4d215a7c4b4910921b073c4c0aba8dd16e2e9a738984b48c9993dc937fff6164"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-226-2011",
+   "path": "decizie/csa/2011/226",
+   "short": "Decizia csa nr. 226/2011",
+   "title": "Decizia nr. 226/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127491",
+   "versions": [
+    {
+     "from": "2011-04-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127491",
+     "sha256": "876eeb4b51f9f5e541bdc67205daade417feee4cef03f7dc9337f78dad177461"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-245-2011",
    "path": "decizie/csa/2011/245",
    "short": "Decizia csa nr. 245/2011",
@@ -374,6 +659,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127746",
      "sha256": "f5bdb1bd09b13c362f88c016807d181f8f05097e40ef80dadd720096896d1861"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-267-2011",
+   "path": "decizie/csa/2011/267",
+   "short": "Decizia csa nr. 267/2011",
+   "title": "Decizia nr. 267/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/127747",
+   "versions": [
+    {
+     "from": "2011-04-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/127747",
+     "sha256": "c99fd839442e3a98638415c869bb6129cf860ec55edb1e7943289e74d0230ca8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-272-2011",
+   "path": "decizie/csa/2011/272",
+   "short": "Decizia csa nr. 272/2011",
+   "title": "Decizia nr. 272/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128472",
+   "versions": [
+    {
+     "from": "2011-05-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128472",
+     "sha256": "a8a8e51260902a954b44f9c82a816aed17fc652612d2b39436c8cefaf8c594a1"
     }
    ]
   },
@@ -408,6 +723,66 @@
    ]
   },
   {
+   "slug": "decizie-csa-344-2011",
+   "path": "decizie/csa/2011/344",
+   "short": "Decizia csa nr. 344/2011",
+   "title": "Decizia nr. 344/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128885",
+   "versions": [
+    {
+     "from": "2011-05-27",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128885",
+     "sha256": "81f838195dc25fb23b6d2d28372a9915be572a40e51a851bf13b97d6488e93bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-345-2011",
+   "path": "decizie/csa/2011/345",
+   "short": "Decizia csa nr. 345/2011",
+   "title": "Decizia nr. 345/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/128839",
+   "versions": [
+    {
+     "from": "2011-05-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/128839",
+     "sha256": "41ff9d7c676f7817290715ab4046abcdb622085e8f1ea02cfb7775dbcfaa21ef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-35-2011",
+   "path": "decizie/csa/2011/35",
+   "short": "Decizia csa nr. 35/2011",
+   "title": "Decizia nr. 35/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125708",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125708",
+     "sha256": "74350cffa2da47e52d0087fd24e2e75cd9a4cdb35d9908996d0753d2c88a3027"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-36-2011",
+   "path": "decizie/csa/2011/36",
+   "short": "Decizia csa nr. 36/2011",
+   "title": "Decizia nr. 36/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/125709",
+   "versions": [
+    {
+     "from": "2011-01-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/125709",
+     "sha256": "9be05bf80e6c77b567c2683754c9951350c8a8471360bee0d997cd52191bbce1"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-382-2011",
    "path": "decizie/csa/2011/382",
    "short": "Decizia csa nr. 382/2011",
@@ -419,6 +794,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129102",
      "sha256": "e1ab08a1435c8a688517ffcdba1fa0b29c0004204732a121a3ae5d5b7235e4ab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-383-2011",
+   "path": "decizie/csa/2011/383",
+   "short": "Decizia csa nr. 383/2011",
+   "title": "Decizia nr. 383/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129103",
+   "versions": [
+    {
+     "from": "2011-06-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129103",
+     "sha256": "f6ac63a30e2def1df397a26fc15a18c7ca9985d216c720fc1b1ae14b8e7f4701"
     }
    ]
   },
@@ -468,6 +858,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-441-2011",
+   "path": "decizie/csa/2011/441",
+   "short": "Decizia csa nr. 441/2011",
+   "title": "Decizia nr. 441/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129786",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129786",
+     "sha256": "77d992f7bc90100cf8c9437041821ede26e7044fdf324b2fc33db98a98df4f6a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-442-2011",
+   "path": "decizie/csa/2011/442",
+   "short": "Decizia csa nr. 442/2011",
+   "title": "Decizia nr. 442/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129787",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129787",
+     "sha256": "0e86862b8944f99a323c8cb0f9f5a0cd18a6b5baeadff483bb1b5455ae313721"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-449-2011",
+   "path": "decizie/csa/2011/449",
+   "short": "Decizia csa nr. 449/2011",
+   "title": "Decizia nr. 449/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/129788",
+   "versions": [
+    {
+     "from": "2011-07-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/129788",
+     "sha256": "ff88544b00084e4e4c0447e2c473cf2d9d432d15dec11b229851ba412dfbf2ec"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-462-2011",
    "path": "decizie/csa/2011/462",
    "short": "Decizia csa nr. 462/2011",
@@ -498,6 +933,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-494-2011",
+   "path": "decizie/csa/2011/494",
+   "short": "Decizia csa nr. 494/2011",
+   "title": "Decizia nr. 494/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130401",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130401",
+     "sha256": "84416f8c94d618c96245d590800b91934e27295ff368cb9fa65f591d2a8a652b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-524-2011",
+   "path": "decizie/csa/2011/524",
+   "short": "Decizia csa nr. 524/2011",
+   "title": "Decizia nr. 524/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130545",
+   "versions": [
+    {
+     "from": "2011-08-03",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130545",
+     "sha256": "19f6c3faa37af5cf45c75f46f056c02e5b30d8b1551b90ea0ecaa5b8eb8f9450"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-525-2011",
+   "path": "decizie/csa/2011/525",
+   "short": "Decizia csa nr. 525/2011",
+   "title": "Decizia nr. 525/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/130798",
+   "versions": [
+    {
+     "from": "2011-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130798",
+     "sha256": "396a817e3da9c34e2f0b07e60351a27634deab0f93401286ff01323a2f6f5552"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-534-2011",
    "path": "decizie/csa/2011/534",
    "short": "Decizia csa nr. 534/2011",
@@ -509,6 +989,81 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/130979",
      "sha256": "fe6de7a4b0dad9cc9468930c6cefc30ea142f726a591e74ede4cefc30d945e1e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-547-2011",
+   "path": "decizie/csa/2011/547",
+   "short": "Decizia csa nr. 547/2011",
+   "title": "Decizia nr. 547/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131022",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131022",
+     "sha256": "b366b2edca5ce57d4910584bd1de776d29c1cdf2ba4a07c4e6f6a62c4fcc98ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-548-2011",
+   "path": "decizie/csa/2011/548",
+   "short": "Decizia csa nr. 548/2011",
+   "title": "Decizia nr. 548/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131023",
+   "versions": [
+    {
+     "from": "2011-08-25",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131023",
+     "sha256": "71624e45db01ab99c65590d89397c864e6c190d67bea9ee9d20340806d3301bd"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-568-2011",
+   "path": "decizie/csa/2011/568",
+   "short": "Decizia csa nr. 568/2011",
+   "title": "Decizia nr. 568/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131139",
+   "versions": [
+    {
+     "from": "2011-08-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131139",
+     "sha256": "6ea1d846e9359371571064e33ef7becfe245be831841be2a8ef42464605aa3c8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-569-2011",
+   "path": "decizie/csa/2011/569",
+   "short": "Decizia csa nr. 569/2011",
+   "title": "Decizia nr. 569/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131047",
+   "versions": [
+    {
+     "from": "2011-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131047",
+     "sha256": "24810e2100135455fe74089c612b8f94877bace81e2001fa1e567f7d8f789a46"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-570-2011",
+   "path": "decizie/csa/2011/570",
+   "short": "Decizia csa nr. 570/2011",
+   "title": "Decizia nr. 570/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131173",
+   "versions": [
+    {
+     "from": "2011-09-01",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131173",
+     "sha256": "4ba174ba8e6de6e56cdb403cbdac06775d8a463e7579744c817b4872dc7b6efe"
     }
    ]
   },
@@ -558,6 +1113,81 @@
    ]
   },
   {
+   "slug": "decizie-csa-605-2011",
+   "path": "decizie/csa/2011/605",
+   "short": "Decizia csa nr. 605/2011",
+   "title": "Decizia nr. 605/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131245",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131245",
+     "sha256": "79521dfb744e69047bae30b850c9457e7c7fd759800aa2107a9e5477014a0fc7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-614-2011",
+   "path": "decizie/csa/2011/614",
+   "short": "Decizia csa nr. 614/2011",
+   "title": "Decizia nr. 614/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131362",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131362",
+     "sha256": "560438983b2062aab8c0a764ac7f372894e0d25ca6ee8b2dde9a7178132be983"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-64-2011",
+   "path": "decizie/csa/2011/64",
+   "short": "Decizia csa nr. 64/2011",
+   "title": "Decizia nr. 64/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126121",
+   "versions": [
+    {
+     "from": "2011-02-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126121",
+     "sha256": "a86e93a943d60ba1e3b47dfbb3be2d5ef6693ff2b0d9f2b4cdda23385062ffcb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-649-2011",
+   "path": "decizie/csa/2011/649",
+   "short": "Decizia csa nr. 649/2011",
+   "title": "Decizia nr. 649/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131768",
+   "versions": [
+    {
+     "from": "2011-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131768",
+     "sha256": "93b6a03f070b11c88deaf1e7681794aa8537fefc9f19ab96ab2bbc5e91b9d76a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-65-2011",
+   "path": "decizie/csa/2011/65",
+   "short": "Decizia csa nr. 65/2011",
+   "title": "Decizia nr. 65/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126215",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126215",
+     "sha256": "b433fe2b0508c38d8c6e93bb90a263f42aa10886afdb8b072fda942dabfb4ffb"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-650-2011",
    "path": "decizie/csa/2011/650",
    "short": "Decizia csa nr. 650/2011",
@@ -603,6 +1233,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-671-2011",
+   "path": "decizie/csa/2011/671",
+   "short": "Decizia csa nr. 671/2011",
+   "title": "Decizia nr. 671/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131906",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131906",
+     "sha256": "51352d3c8b9f464cd190f48d2c633d27967cb4b0bf9e35401b1b86708efc206e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-672-2011",
+   "path": "decizie/csa/2011/672",
+   "short": "Decizia csa nr. 672/2011",
+   "title": "Decizia nr. 672/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131991",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131991",
+     "sha256": "8fc83684d1a1421c3fba821c53555659cc6d9bb2682fd5ab89ae1d909eb02e3b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-673-2011",
+   "path": "decizie/csa/2011/673",
+   "short": "Decizia csa nr. 673/2011",
+   "title": "Decizia nr. 673/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/131992",
+   "versions": [
+    {
+     "from": "2011-10-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/131992",
+     "sha256": "a44d8981791391724f99ee3dbf25e67f76e75d12f14f2c54f86d0a45dede4f6d"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-697-2011",
    "path": "decizie/csa/2011/697",
    "short": "Decizia csa nr. 697/2011",
@@ -614,6 +1289,81 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132185",
      "sha256": "5bcab6194d22a8ec0f63eb87be165060ef3ae1b8aa7bf243f1f3fcc984f16649"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-698-2011",
+   "path": "decizie/csa/2011/698",
+   "short": "Decizia csa nr. 698/2011",
+   "title": "Decizia nr. 698/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132199",
+   "versions": [
+    {
+     "from": "2011-10-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132199",
+     "sha256": "6713f76c4f4491d036576dd22a3b7cc0abfbaf98c9b88190e28f45b9465746b1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-715-2011",
+   "path": "decizie/csa/2011/715",
+   "short": "Decizia csa nr. 715/2011",
+   "title": "Decizia nr. 715/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132509",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132509",
+     "sha256": "5584df22c1a2b096c1a06d0d49e3571ab36dc4e253e50c6b70f09802318b9837"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-716-2011",
+   "path": "decizie/csa/2011/716",
+   "short": "Decizia csa nr. 716/2011",
+   "title": "Decizia nr. 716/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132510",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132510",
+     "sha256": "dd3bc837a62745876b2549ac05ac363edd95349cebf92148f2f191828de9cee5"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-717-2011",
+   "path": "decizie/csa/2011/717",
+   "short": "Decizia csa nr. 717/2011",
+   "title": "Decizia nr. 717/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132512",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132512",
+     "sha256": "c3f3d5b71d79bbed86c1c22580ede2f94d19e4a505abb9500cfd8b6cf5573b0b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-718-2011",
+   "path": "decizie/csa/2011/718",
+   "short": "Decizia csa nr. 718/2011",
+   "title": "Decizia nr. 718/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132516",
+   "versions": [
+    {
+     "from": "2011-10-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132516",
+     "sha256": "63a31315d667860b1711fc03ede10e05b2bdc119af08e88e88056f800aa917b7"
     }
    ]
   },
@@ -663,6 +1413,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-760-2011",
+   "path": "decizie/csa/2011/760",
+   "short": "Decizia csa nr. 760/2011",
+   "title": "Decizia nr. 760/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132780",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132780",
+     "sha256": "7612eed762b46a2826ab100bd032bb26e5aef700c823fe36dca83f77287c876f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-768-2011",
+   "path": "decizie/csa/2011/768",
+   "short": "Decizia csa nr. 768/2011",
+   "title": "Decizia nr. 768/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132781",
+   "versions": [
+    {
+     "from": "2011-11-09",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132781",
+     "sha256": "309915f112979cb7c4813ce374d0034feb53647b40994f38da51edb91aab7123"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-778-2011",
+   "path": "decizie/csa/2011/778",
+   "short": "Decizia csa nr. 778/2011",
+   "title": "Decizia nr. 778/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132827",
+   "versions": [
+    {
+     "from": "2011-11-10",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132827",
+     "sha256": "e7314816ee2877d84f921091df0ee90614f987287046063884a55af18bd2be16"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-779-2011",
    "path": "decizie/csa/2011/779",
    "short": "Decizia csa nr. 779/2011",
@@ -674,6 +1469,96 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132828",
      "sha256": "991277c223f2cceeb148e1e8c0895c3fc14469040a58baede6c1b480cf61f2a7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-78-2011",
+   "path": "decizie/csa/2011/78",
+   "short": "Decizia csa nr. 78/2011",
+   "title": "Decizia nr. 78/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126257",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126257",
+     "sha256": "2f2ef89351d42776e1075f71f87cd4bf5305d05da9b7f5c2ae3d4c265a3e85ef"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-79-2011",
+   "path": "decizie/csa/2011/79",
+   "short": "Decizia csa nr. 79/2011",
+   "title": "Decizia nr. 79/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126256",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126256",
+     "sha256": "dad15fc9485bcc911022ff5e107ec935ef8376e2dcb415e44a290838f4a23c10"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-794-2011",
+   "path": "decizie/csa/2011/794",
+   "short": "Decizia csa nr. 794/2011",
+   "title": "Decizia nr. 794/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/132978",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/132978",
+     "sha256": "12d56fb21fb8358b364df16712ef69ad6fa33d9874420e3af94eab46ef7a0067"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-798-2011",
+   "path": "decizie/csa/2011/798",
+   "short": "Decizia csa nr. 798/2011",
+   "title": "Decizia nr. 798/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133136",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133136",
+     "sha256": "a34ebce0fd13c84440a33fc5fd54502345842fd0599a6dfb9f55be24e3357655"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-799-2011",
+   "path": "decizie/csa/2011/799",
+   "short": "Decizia csa nr. 799/2011",
+   "title": "Decizia nr. 799/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133116",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133116",
+     "sha256": "a90e5dc6fe374211e7d4b1383a9e2cd242b130b10a5b0ade548d5049dd5b5318"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-80-2011",
+   "path": "decizie/csa/2011/80",
+   "short": "Decizia csa nr. 80/2011",
+   "title": "Decizia nr. 80/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126251",
+   "versions": [
+    {
+     "from": "2011-02-17",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126251",
+     "sha256": "5831f99d0cd8ae9182fcbddcdb3db2a5d31df52acc6db31abb8bfad308647ee2"
     }
    ]
   },
@@ -693,6 +1578,96 @@
    ]
   },
   {
+   "slug": "decizie-csa-809-2011",
+   "path": "decizie/csa/2011/809",
+   "short": "Decizia csa nr. 809/2011",
+   "title": "Decizia nr. 809/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133161",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133161",
+     "sha256": "f1b8aba1bb081194a35144fd21f6b5956b6ecf44216c3541a8e700bef3c7dc2c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-81-2011",
+   "path": "decizie/csa/2011/81",
+   "short": "Decizia csa nr. 81/2011",
+   "title": "Decizia nr. 81/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126219",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126219",
+     "sha256": "8ebcbc3b23677609255e8c1b9ae860cd7d8b5066b207f7d00f23336e8632e248"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-810-2011",
+   "path": "decizie/csa/2011/810",
+   "short": "Decizia csa nr. 810/2011",
+   "title": "Decizia nr. 810/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133164",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133164",
+     "sha256": "5c9e943589d134eabf38270ffc9b82bc15250a15c01c5ff616607b807ca2bea2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-811-2011",
+   "path": "decizie/csa/2011/811",
+   "short": "Decizia csa nr. 811/2011",
+   "title": "Decizia nr. 811/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133165",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133165",
+     "sha256": "528b716dc3e4e8ead10e77f12e39736c3bd0c5038c74ed5580bbac4e095d728e"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-812-2011",
+   "path": "decizie/csa/2011/812",
+   "short": "Decizia csa nr. 812/2011",
+   "title": "Decizia nr. 812/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133166",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133166",
+     "sha256": "24d2cab7c24ae664bf2c5b0ecf69d8d6e2cdc5810cce1a6985e81acb39f69b32"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-817-2011",
+   "path": "decizie/csa/2011/817",
+   "short": "Decizia csa nr. 817/2011",
+   "title": "Decizia nr. 817/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133118",
+   "versions": [
+    {
+     "from": "2011-11-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133118",
+     "sha256": "69383f4fd382118cb1f911a5137e5c06d0fa258d673612b9f01cf325d3dc48e8"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-830-2011",
    "path": "decizie/csa/2011/830",
    "short": "Decizia csa nr. 830/2011",
@@ -704,6 +1679,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133163",
      "sha256": "db3caa4113fb3c6b8a713d9ee36c64be97f22e58f064d5846b049ffa72a5d265"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-841-2011",
+   "path": "decizie/csa/2011/841",
+   "short": "Decizia csa nr. 841/2011",
+   "title": "Decizia nr. 841/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133356",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133356",
+     "sha256": "e1b53be5599041156f5925eb6862fee186a0dbc327233830dcd3049e5641f264"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-842-2011",
+   "path": "decizie/csa/2011/842",
+   "short": "Decizia csa nr. 842/2011",
+   "title": "Decizia nr. 842/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133357",
+   "versions": [
+    {
+     "from": "2011-12-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133357",
+     "sha256": "097551f4baba1de48d98307348dca6d31153850985ff8828d1b46b402f9fbf50"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-843-2011",
+   "path": "decizie/csa/2011/843",
+   "short": "Decizia csa nr. 843/2011",
+   "title": "Decizia nr. 843/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133400",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133400",
+     "sha256": "17413b405b78d6c61cc5d0ce3c45d5ea6a4543de387d10b0c904810e6c744d10"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-844-2011",
+   "path": "decizie/csa/2011/844",
+   "short": "Decizia csa nr. 844/2011",
+   "title": "Decizia nr. 844/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133396",
+   "versions": [
+    {
+     "from": "2011-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133396",
+     "sha256": "310db0288a2cf02db735c9b92d0fc05e2cca9cd725c3e71096936a8925619f68"
     }
    ]
   },
@@ -734,6 +1769,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133749",
      "sha256": "41e738137c1aad114da3dce3f86798f705e568e5116edb2f73092207d01b885d"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-859-2011",
+   "path": "decizie/csa/2011/859",
+   "short": "Decizia csa nr. 859/2011",
+   "title": "Decizia nr. 859/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/133705",
+   "versions": [
+    {
+     "from": "2011-12-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133705",
+     "sha256": "389788343debd2ab9077e24521d30f0a5a8638c644da6a3cd69ecab80ffc5607"
     }
    ]
   },
@@ -794,6 +1844,21 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/133460",
      "sha256": "1e5a29aa96547ea5cd8bbeabc7d5bfda6651339b533303169e21127e8715d3f7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-95-2011",
+   "path": "decizie/csa/2011/95",
+   "short": "Decizia csa nr. 95/2011",
+   "title": "Decizia nr. 95/2011",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/126220",
+   "versions": [
+    {
+     "from": "2011-02-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/126220",
+     "sha256": "e7de038228793e714c6f9fd1238e7bebc436a65ba129126a84affb9a88de02e7"
     }
    ]
   }

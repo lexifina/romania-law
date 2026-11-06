@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hotarare-asf-619-2016",
+   "path": "hotarare/asf/2016/619",
+   "short": "Hotărârea asf nr. 619/2016",
+   "title": "Hotărârea nr. 619/2016",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/176695",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/176695",
+     "sha256": "23299a4393fbbdbd212a77372f392e1174247c506f2855eb1129c28778f7795d"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-asf-67-2016",
    "path": "hotarare/asf/2016/67",
    "short": "Hotărârea asf nr. 67/2016",
@@ -44,6 +59,36 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/179631",
      "sha256": "c783a9a4216a716f2b07924ef0ea74613f37b1cdce1deb5d459c5ceebcbde401"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-478-2016",
+   "path": "hotarare/bnr/2016/478",
+   "short": "Hotărârea bnr nr. 478/2016",
+   "title": "Hotărârea nr. 478/2016 pentru modificarea și completarea Normelor metodologice de aplicare a Legii nr. 544/2001 privind liberul acces la informațiile de interes public, aprobate prin Hotărârea Guvernului nr. 123/2002",
+   "url": "https://www.bnr.ro/19087-hotarare-478-2016",
+   "versions": [
+    {
+     "from": "2016-07-08",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19087-hotarare-478-2016",
+     "sha256": "f2b65be8aac8aa5568050c246c38ca2ab239875199d24376ec5083abd5f980cc"
+    }
+   ]
+  },
+  {
+   "slug": "hotarare-bnr-931-2016",
+   "path": "hotarare/bnr/2016/931",
+   "short": "Hotărârea bnr nr. 931/2016",
+   "title": "Hotărârea nr. 931/2016 privind înființarea Comitetului interministerial pentru trecerea la moneda euro",
+   "url": "https://www.bnr.ro/21889-hotarare-931-2016",
+   "versions": [
+    {
+     "from": "2016-12-16",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21889-hotarare-931-2016",
+     "sha256": "1952a3c9ba2e0eac4cada4232f939243ca4a655f54df658032d035952b394f5c"
     }
    ]
   }

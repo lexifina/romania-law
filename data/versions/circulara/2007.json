@@ -3,6 +3,21 @@
  "shard": "circulara/2007",
  "acts": [
   {
+   "slug": "circulara-bnr-1-2007",
+   "path": "circulara/bnr/2007/1",
+   "short": "Circulara bnr nr. 1/2007",
+   "title": "Circulara nr. 1/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna ianuarie 2007",
+   "url": "https://www.bnr.ro/21215-circulara-1-2007",
+   "versions": [
+    {
+     "from": "2007-01-10",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21215-circulara-1-2007",
+     "sha256": "0bbda05c2ebb577ae16a5a865093478cd622fab9c398bfa7e01748241feb577a"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-10-2007",
    "path": "circulara/bnr/2007/10",
    "short": "Circulara bnr nr. 10/2007",
@@ -153,6 +168,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-2-2007",
+   "path": "circulara/bnr/2007/2",
+   "short": "Circulara bnr nr. 2/2007",
+   "title": "Circulara nr. 2/2007",
+   "url": "https://www.bnr.ro/21272-circulara-2-2007",
+   "versions": [
+    {
+     "from": "2007-01-23",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21272-circulara-2-2007",
+     "sha256": "7c30706877f66143e015b141a0a53e79719f2a518c82e67a9e226a02ec7c6a82"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-20-2007",
    "path": "circulara/bnr/2007/20",
    "short": "Circulara bnr nr. 20/2007",
@@ -164,6 +194,21 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85246",
      "sha256": "4959428fa31d8885382f2e549a50d727f05ad49ca990a4cbae5f20de60c5525a"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-21-2007",
+   "path": "circulara/bnr/2007/21",
+   "short": "Circulara bnr nr. 21/2007",
+   "title": "Circulara nr. 21/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României, valabil în luna septembrie 2007",
+   "url": "https://www.bnr.ro/20407-circulara-21-2007",
+   "versions": [
+    {
+     "from": "2007-09-07",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20407-circulara-21-2007",
+     "sha256": "5539fc177c4bac0fa32d462a981ae25b332100a3ca0de9276f3c42158332ae88"
     }
    ]
   },
@@ -254,6 +299,36 @@
      "units": 5,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86577",
      "sha256": "1a1a8bb6291ef89fca85258b669c765403c1c43742c14ee62f19095c675f36f9"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-28-2007",
+   "path": "circulara/bnr/2007/28",
+   "short": "Circulara bnr nr. 28/2007",
+   "title": "Circulara nr. 28/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna noiembrie 2007",
+   "url": "https://www.bnr.ro/20623-circulara-28-2007",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20623-circulara-28-2007",
+     "sha256": "6579868df226be5b9f4cfe43501122c1ea9f1075021063878034c3845fa0883e"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-29-2007",
+   "path": "circulara/bnr/2007/29",
+   "short": "Circulara bnr nr. 29/2007",
+   "title": "Circulara nr. 29/2007 privind ratele dobânzilor plătite la rezervele minime obligatorii constituite în euro și în dolari S.U.A. începând cu perioada de aplicare 24 octombrie - 23 noiembrie 2007",
+   "url": "https://www.bnr.ro/20624-circulara-29-2007",
+   "versions": [
+    {
+     "from": "2007-11-09",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/20624-circulara-29-2007",
+     "sha256": "66b5f8069d7579eacc4a9ea231c4d132bc50c190acd58e66dbce03181cce35bd"
     }
    ]
   },
@@ -389,6 +464,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/80600",
      "sha256": "a8e6ab8d6e4f93e82396735c3fe586a045777dc73873890b33b9da4c1d73b9a5"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-8-2007",
+   "path": "circulara/bnr/2007/8",
+   "short": "Circulara bnr nr. 8/2007",
+   "title": "Circulara nr. 8/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna aprilie 2007",
+   "url": "https://www.bnr.ro/21855-circulara-8-2007",
+   "versions": [
+    {
+     "from": "2007-04-06",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21855-circulara-8-2007",
+     "sha256": "30e128b370cc9afb86107a47903295958e95f820c3c4a0388dc1313aa9571a35"
     }
    ]
   },

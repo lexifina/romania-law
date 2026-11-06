@@ -15288,6 +15288,21 @@
    ]
   },
   {
+   "slug": "ordin-anpc-360-2013",
+   "path": "ordin/anpc/2013/360",
+   "short": "Ordin anpc nr. 360/2013",
+   "title": "Ordinul nr. 360/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152470",
+   "versions": [
+    {
+     "from": "2013-12-11",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152470",
+     "sha256": "095a4e01c2ed7035fd7114ac59990f7d6b1051cbc55963950a13754005fbb1c3"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-100-2013",
    "path": "ordin/anre/2013/100",
    "short": "Ordin anre nr. 100/2013",
@@ -15498,6 +15513,21 @@
    ]
   },
   {
+   "slug": "ordin-anre-9-2013",
+   "path": "ordin/anre/2013/9",
+   "short": "Ordin anre nr. 9/2013",
+   "title": "Ordinul nr. 9/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/146163",
+   "versions": [
+    {
+     "from": "2013-03-19",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/146163",
+     "sha256": "1dcdbfd653bee53f1f7b09f836ec2006306b25f65dd845c420164374b5f0ecb7"
+    }
+   ]
+  },
+  {
    "slug": "ordin-anre-90-2013",
    "path": "ordin/anre/2013/90",
    "short": "Ordin anre nr. 90/2013",
@@ -15539,6 +15569,51 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/154035",
      "sha256": "5b941b00d6df3153185339f453152663722a192d8fe34ed57244929123a46a5b"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-63-2013",
+   "path": "ordin/ansvsa/2013/63",
+   "short": "Ordin ansvsa nr. 63/2013",
+   "title": "Ordinul nr. 63/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150047",
+   "versions": [
+    {
+     "from": "2013-07-23",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150047",
+     "sha256": "d64ab60ed8c83d2f8964f9a286efcf90f4e8610c92164324498ad8b3eac20495"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-65-2013",
+   "path": "ordin/ansvsa/2013/65",
+   "short": "Ordin ansvsa nr. 65/2013",
+   "title": "Ordinul nr. 65/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150012",
+   "versions": [
+    {
+     "from": "2013-07-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150012",
+     "sha256": "cad54624ac1e76db372626ce057cc4083e0c2228f9338fa27f0f893ef2332b13"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-ansvsa-90-2013",
+   "path": "ordin/ansvsa/2013/90",
+   "short": "Ordin ansvsa nr. 90/2013",
+   "title": "Ordinul nr. 90/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/152346",
+   "versions": [
+    {
+     "from": "2013-11-04",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/152346",
+     "sha256": "930708bedbf8023d3eec29766433b16008ce13d7d16c4a3460a82f183ed8d351"
     }
    ]
   },
@@ -15674,6 +15749,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150476",
      "sha256": "632e8836b04849101d13f16d2a2ad9516dd141b206cc8c0659b9e905054995a7"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-bnr-746-2013",
+   "path": "ordin/bnr/2013/746",
+   "short": "Ordin bnr nr. 746/2013",
+   "title": "Ordinul nr. 746/2013",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/150766",
+   "versions": [
+    {
+     "from": "2013-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/150766",
+     "sha256": "654546d2ed757e59170cbc786e7b3ddb24f74be587a7771aa8d4c1df9734291c"
     }
    ]
   },

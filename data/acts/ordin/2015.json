@@ -7662,6 +7662,25 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-54-2015",
+"path": "ordin/ansvsa/2015/54",
+"kind": "ordin",
+"year": "2015",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 54/2015",
+"short": "Ordin ansvsa nr. 54/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-05-26",
+"latest": "2015-05-26",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/168314",
+"issuer": "ansvsa",
+"joint": []
+},
+{
 "slug": "ordin-ansvsa-77-2015",
 "path": "ordin/ansvsa/2015/77",
 "kind": "ordin",
@@ -8590,6 +8609,25 @@
 "latest": "2016-01-01",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/174493",
 "issuer": "aparare",
+"joint": []
+},
+{
+"slug": "ordin-asf-3470-2015",
+"path": "ordin/asf/2015/3470",
+"kind": "ordin",
+"year": "2015",
+"number": "3470",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 3.470/2015",
+"short": "Ordin asf nr. 3470/2015",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2015-12-07",
+"latest": "2015-12-07",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/173599",
+"issuer": "asf",
 "joint": []
 },
 {

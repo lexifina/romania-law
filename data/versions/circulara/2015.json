@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "circulara-bnr-14-2015",
+   "path": "circulara/bnr/2015/14",
+   "short": "Circulara bnr nr. 14/2015",
+   "title": "Circulara nr. 14/2015 privind ratele dobânzilor plătite la rezervele minime obligatorii începând cu perioada de aplicare 24 martie-23 aprilie 2015",
+   "url": "https://www.bnr.ro/21681-circulara-14-2015",
+   "versions": [
+    {
+     "from": "2015-04-10",
+     "units": 1,
+     "source_url": "https://www.bnr.ro/21681-circulara-14-2015",
+     "sha256": "e97aeaa47425d33280edaf3f1e585ba69bc53cf9774bc768a2c7715a4e19faf9"
+    }
+   ]
+  },
+  {
    "slug": "circulara-bnr-15-2015",
    "path": "circulara/bnr/2015/15",
    "short": "Circulara bnr nr. 15/2015",
@@ -359,6 +374,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/171771",
      "sha256": "c9e33195b2a4b6fd8fed96f6fc8a4947c8e04e0d3b9da43ffd4ffe56ba7bef64"
+    }
+   ]
+  },
+  {
+   "slug": "circulara-bnr-32-2015",
+   "path": "circulara/bnr/2015/32",
+   "short": "Circulara bnr nr. 32/2015",
+   "title": "Circulara nr. 32/2015 privind lansarea în circuitul numismatic a unei monede din argint dedicate împlinirii a 70 de ani de la înființarea Universității de Medicină și Farmacie din Târgu Mureș",
+   "url": "https://www.bnr.ro/21752-circulara-32-2015",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 5,
+     "source_url": "https://www.bnr.ro/21752-circulara-32-2015",
+     "sha256": "a62769a576d2224faacc7b2334fcd42d1e2db1be62bccd34c99e62e7a6e692ec"
     }
    ]
   },

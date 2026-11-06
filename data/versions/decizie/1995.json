@@ -211,6 +211,36 @@
      "sha256": "1dba4df6248e54c18e1f69fdb9ec0957d7d24aeed905a9a6821cd59ec9c5abdc"
     }
    ]
+  },
+  {
+   "slug": "decizie-cnvm-66-1995",
+   "path": "decizie/cnvm/1995/66",
+   "short": "Decizia cnvm nr. 66/1995",
+   "title": "Decizia nr. 66/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6090",
+   "versions": [
+    {
+     "from": "1995-06-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6090",
+     "sha256": "35cf5bee111e48b10c53d86cea0a3f125745869b55586d03e0b37284c348b7ec"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-cnvm-86-1995",
+   "path": "decizie/cnvm/1995/86",
+   "short": "Decizia cnvm nr. 86/1995",
+   "title": "Decizia nr. 86/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/6182",
+   "versions": [
+    {
+     "from": "1995-07-24",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/6182",
+     "sha256": "a9c51cafc78055a02f9321bfc605255a21af9ccc2ab926b27e75a9364a6e3735"
+    }
+   ]
   }
  ]
 }

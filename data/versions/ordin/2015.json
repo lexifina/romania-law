@@ -18033,6 +18033,36 @@
    ]
   },
   {
+   "slug": "ordin-ansvsa-54-2015",
+   "path": "ordin/ansvsa/2015/54",
+   "short": "Ordin ansvsa nr. 54/2015",
+   "title": "Ordinul nr. 54/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/168314",
+   "versions": [
+    {
+     "from": "2015-05-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/168314",
+     "sha256": "60dc1a365d1c8100320cd4dc129f1581b758fd807bd0aba26086e4b2dc1af10c"
+    }
+   ]
+  },
+  {
+   "slug": "ordin-asf-3470-2015",
+   "path": "ordin/asf/2015/3470",
+   "short": "Ordin asf nr. 3470/2015",
+   "title": "Ordinul nr. 3.470/2015",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/173599",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/173599",
+     "sha256": "08fc61d519a0df96635990152b5f512b68e8043b09b4d1d64dfc503f38665783"
+    }
+   ]
+  },
+  {
    "slug": "ordin-bnr-101-2015",
    "path": "ordin/bnr/2015/101",
    "short": "Ordin bnr nr. 101/2015",

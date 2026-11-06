@@ -79,6 +79,25 @@
 "joint": []
 },
 {
+"slug": "regulament-bnr-8-1996",
+"path": "regulament/bnr/1996/8",
+"kind": "regulament",
+"year": "1996",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Regulamentul nr. 8/1996",
+"short": "Regulament bnr nr. 8/1996",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "1997-06-20",
+"latest": "1997-06-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/7835",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "regulament-cnvm-1-1996",
 "path": "regulament/cnvm/1996/1",
 "kind": "regulament",

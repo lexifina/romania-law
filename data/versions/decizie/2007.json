@@ -363,6 +363,36 @@
    ]
   },
   {
+   "slug": "decizie-concurenta-7-2007",
+   "path": "decizie/concurenta/2007/7",
+   "short": "Decizia concurenta nr. 7/2007",
+   "title": "Decizia nr. 7/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/81555",
+   "versions": [
+    {
+     "from": "2007-05-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/81555",
+     "sha256": "757714c48bc4ff369c8556ac504bd0ba7559966c6cee4ed1443d4ebb9d008cb6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1000-2007",
+   "path": "decizie/csa/2007/1000",
+   "short": "Decizia csa nr. 1000/2007",
+   "title": "Decizia nr. 1.000/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87560",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87560",
+     "sha256": "0ff6f17d1f734f724b3fc0a8e8f621347dc70e5354ed96467490fb19c946b606"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1005-2007",
    "path": "decizie/csa/2007/1005",
    "short": "Decizia csa nr. 1005/2007",
@@ -408,6 +438,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-1020-2007",
+   "path": "decizie/csa/2007/1020",
+   "short": "Decizia csa nr. 1020/2007",
+   "title": "Decizia nr. 1.020/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87669",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87669",
+     "sha256": "c872c3683abe3f57dd17990b6f45412bc8cdf7044b7e60fd28a172bd753084d4"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1021-2007",
+   "path": "decizie/csa/2007/1021",
+   "short": "Decizia csa nr. 1021/2007",
+   "title": "Decizia nr. 1.021/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87670",
+   "versions": [
+    {
+     "from": "2007-12-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87670",
+     "sha256": "458d89685b6a2211662dfe68e1adef68004da1135fd552627c7cba0053d18830"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1023-2007",
    "path": "decizie/csa/2007/1023",
    "short": "Decizia csa nr. 1023/2007",
@@ -419,6 +479,51 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87802",
      "sha256": "3ba96035a4b778e8a78f098f4a2da4ab5579bda526687103105f5f631ef1c546"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1024-2007",
+   "path": "decizie/csa/2007/1024",
+   "short": "Decizia csa nr. 1024/2007",
+   "title": "Decizia nr. 1.024/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87803",
+   "versions": [
+    {
+     "from": "2007-12-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87803",
+     "sha256": "08c46073ffc4ecbed5d181ab764fab7bf6632fbc3019549b59285292a10e84fb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1037-2007",
+   "path": "decizie/csa/2007/1037",
+   "short": "Decizia csa nr. 1037/2007",
+   "title": "Decizia nr. 1.037/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87969",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87969",
+     "sha256": "1201b0116a84d45fea6edb476e3b60b7b03ffc59fdd24bb0365314f45996c47f"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1040-2007",
+   "path": "decizie/csa/2007/1040",
+   "short": "Decizia csa nr. 1040/2007",
+   "title": "Decizia nr. 1.040/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87983",
+   "versions": [
+    {
+     "from": "2007-12-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87983",
+     "sha256": "7df0997d2e6fa9d690d196f5c0f308a2e95c25bbfd9546f0851470a03d4b2338"
     }
    ]
   },
@@ -468,6 +573,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-1061-2007",
+   "path": "decizie/csa/2007/1061",
+   "short": "Decizia csa nr. 1061/2007",
+   "title": "Decizia nr. 1.061/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88427",
+   "versions": [
+    {
+     "from": "2008-01-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88427",
+     "sha256": "fd6ece26d924d8728f98b38f4b6b6ad5a80e7f771151991e1a9e566fa83a84f0"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-1069-2007",
    "path": "decizie/csa/2007/1069",
    "short": "Decizia csa nr. 1069/2007",
@@ -494,6 +614,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88188",
      "sha256": "1688f18993ad264ae74f5ca08882f00066d5867f447a42260ad430f6b8ca9250"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-1090-2007",
+   "path": "decizie/csa/2007/1090",
+   "short": "Decizia csa nr. 1090/2007",
+   "title": "Decizia nr. 1.090/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/88603",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/88603",
+     "sha256": "0b65b551904caa5e86461a0d4b463982531d49f832f85b540d6aac9f46b4bb77"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-11-2007",
+   "path": "decizie/csa/2007/11",
+   "short": "Decizia csa nr. 11/2007",
+   "title": "Decizia nr. 11/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79281",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79281",
+     "sha256": "4cb7f645a1d6dcff50afa4648b4c84364d52964b1804eedc106cf40c2f7b8ab9"
     }
    ]
   },
@@ -738,6 +888,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-370-2007",
+   "path": "decizie/csa/2007/370",
+   "short": "Decizia csa nr. 370/2007",
+   "title": "Decizia nr. 370/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/82819",
+   "versions": [
+    {
+     "from": "2007-06-15",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/82819",
+     "sha256": "7e0e301217f26978e0ff904134fea6b46e311c8853708bd2d9cf8aa102852170"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-389-2007",
    "path": "decizie/csa/2007/389",
    "short": "Decizia csa nr. 389/2007",
@@ -764,6 +929,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83155",
      "sha256": "8776dd100d7a8c73fc9c1602f0c5b8d6f135c10469b282160ea19a749bb4dac1"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-404-2007",
+   "path": "decizie/csa/2007/404",
+   "short": "Decizia csa nr. 404/2007",
+   "title": "Decizia nr. 404/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/83149",
+   "versions": [
+    {
+     "from": "2007-06-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/83149",
+     "sha256": "f73fdfd0146729d0ff0b440ac7e0a77f83271918849a62be67e7d8784a3492be"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-41-2007",
+   "path": "decizie/csa/2007/41",
+   "short": "Decizia csa nr. 41/2007",
+   "title": "Decizia nr. 41/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79177",
+   "versions": [
+    {
+     "from": "2007-02-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79177",
+     "sha256": "894b035d2b00f61ca75e8a301f8ab39a3ebc2ddfaef313fece26a1c359ee5a05"
     }
    ]
   },
@@ -858,6 +1053,111 @@
    ]
   },
   {
+   "slug": "decizie-csa-4303-2007",
+   "path": "decizie/csa/2007/4303",
+   "short": "Decizia csa nr. 4303/2007",
+   "title": "Decizia nr. 4.303/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79064",
+   "versions": [
+    {
+     "from": "2007-01-30",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79064",
+     "sha256": "d33bb73dcf23f45a3e8236647ad7bfbb16a6ae64e34915b365af70b028cf8a93"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-438-2007",
+   "path": "decizie/csa/2007/438",
+   "short": "Decizia csa nr. 438/2007",
+   "title": "Decizia nr. 438/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84503",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84503",
+     "sha256": "60e78925a6d209ec24047dff7fc613899495ff7aabfd16adfef513bdb24116e6"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-440-2007",
+   "path": "decizie/csa/2007/440",
+   "short": "Decizia csa nr. 440/2007",
+   "title": "Decizia nr. 440/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84001",
+   "versions": [
+    {
+     "from": "2007-07-31",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84001",
+     "sha256": "ed1af64a3fb3bc374a53b6d7e3f44d2d2ed714b0e9699becc93127e1297816b7"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-441-2007",
+   "path": "decizie/csa/2007/441",
+   "short": "Decizia csa nr. 441/2007",
+   "title": "Decizia nr. 441/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84125",
+   "versions": [
+    {
+     "from": "2007-08-02",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84125",
+     "sha256": "6bb5952f0cac3bfb8f161e0975dbd23a572984ecaaec7715295c36fdc187fe7c"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-442-2007",
+   "path": "decizie/csa/2007/442",
+   "short": "Decizia csa nr. 442/2007",
+   "title": "Decizia nr. 442/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84504",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84504",
+     "sha256": "3b142f9e3cd1ce1a6a2c1f8705497a8f5dafe5eaa04a725bb4f7c85a49c7aede"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-454-2007",
+   "path": "decizie/csa/2007/454",
+   "short": "Decizia csa nr. 454/2007",
+   "title": "Decizia nr. 454/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84373",
+   "versions": [
+    {
+     "from": "2007-08-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84373",
+     "sha256": "405b38458e4fdd05009905a9788ed6759bcb839cbdcfbaee4d040da46b9f309b"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-46-2007",
+   "path": "decizie/csa/2007/46",
+   "short": "Decizia csa nr. 46/2007",
+   "title": "Decizia nr. 46/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79470",
+   "versions": [
+    {
+     "from": "2007-02-13",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79470",
+     "sha256": "d19fcf472665afc8bf33641af10ca9d6322df3e439da2298ee9c8cfb03322dd3"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-474-2007",
    "path": "decizie/csa/2007/474",
    "short": "Decizia csa nr. 474/2007",
@@ -873,6 +1173,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-488-2007",
+   "path": "decizie/csa/2007/488",
+   "short": "Decizia csa nr. 488/2007",
+   "title": "Decizia nr. 488/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84512",
+   "versions": [
+    {
+     "from": "2007-08-16",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84512",
+     "sha256": "0be53fc85750c67bff52402076816fa383460946aef5c8bc9aa2b9858659691b"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-496-2007",
    "path": "decizie/csa/2007/496",
    "short": "Decizia csa nr. 496/2007",
@@ -884,6 +1199,66 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84405",
      "sha256": "9bb099b21e0d8f80ecd07bf5b6813d28c8fde67891268a2541b8c0ef2745aefb"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-501-2007",
+   "path": "decizie/csa/2007/501",
+   "short": "Decizia csa nr. 501/2007",
+   "title": "Decizia nr. 501/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84603",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84603",
+     "sha256": "1d792e83236262cf1b3d2f4d5829957529d6c87b0826f29c1b7caff6b7375f51"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-502-2007",
+   "path": "decizie/csa/2007/502",
+   "short": "Decizia csa nr. 502/2007",
+   "title": "Decizia nr. 502/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84604",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84604",
+     "sha256": "692ae9e170cdc8b8d504a86c14ac22efbf1fe35c92ed193e690e4fab869288ed"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-503-2007",
+   "path": "decizie/csa/2007/503",
+   "short": "Decizia csa nr. 503/2007",
+   "title": "Decizia nr. 503/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84605",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84605",
+     "sha256": "164194c26b819ff50525005c9a2cf17e573b6d6c28b4c23d48f40290b159f3f8"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-505-2007",
+   "path": "decizie/csa/2007/505",
+   "short": "Decizia csa nr. 505/2007",
+   "title": "Decizia nr. 505/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84606",
+   "versions": [
+    {
+     "from": "2007-08-20",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84606",
+     "sha256": "ffb9aa25c63cb1723fcbf3c8e091494bbb96666a50ce1f151d3607542ea4ae95"
     }
    ]
   },
@@ -944,6 +1319,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84662",
      "sha256": "304760149e29efa5d297105dba11f40f210f3eb612f1440502ef720de173eb89"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-537-2007",
+   "path": "decizie/csa/2007/537",
+   "short": "Decizia csa nr. 537/2007",
+   "title": "Decizia nr. 537/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84628",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84628",
+     "sha256": "e7e046174162684f783c814f4104b8a97b2d8cbd178e1aa7468618418d3fa25a"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-546-2007",
+   "path": "decizie/csa/2007/546",
+   "short": "Decizia csa nr. 546/2007",
+   "title": "Decizia nr. 546/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/84629",
+   "versions": [
+    {
+     "from": "2007-08-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/84629",
+     "sha256": "631bb4ed29e8e7b0f15bb49881cdb086314d78680b039d5f8988d8a2d14dced0"
     }
    ]
   },
@@ -1143,6 +1548,21 @@
    ]
   },
   {
+   "slug": "decizie-csa-628-2007",
+   "path": "decizie/csa/2007/628",
+   "short": "Decizia csa nr. 628/2007",
+   "title": "Decizia nr. 628/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85722",
+   "versions": [
+    {
+     "from": "2007-09-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85722",
+     "sha256": "598f8977ae0208ed842105b9ed411360c542f3ac41a67345f21bbe1dcdebf2d4"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-65-2007",
    "path": "decizie/csa/2007/65",
    "short": "Decizia csa nr. 65/2007",
@@ -1218,6 +1638,51 @@
    ]
   },
   {
+   "slug": "decizie-csa-682-2007",
+   "path": "decizie/csa/2007/682",
+   "short": "Decizia csa nr. 682/2007",
+   "title": "Decizia nr. 682/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85945",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85945",
+     "sha256": "c9f0dc54a9451d28783289473fdb800158e83c5d73f27c4261195a70610af6be"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-693-2007",
+   "path": "decizie/csa/2007/693",
+   "short": "Decizia csa nr. 693/2007",
+   "title": "Decizia nr. 693/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85946",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85946",
+     "sha256": "db2a384c2552d8e644ea7b1f5fa4d20a1d39b012ab5809a6224ebc4a8efdf988"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-695-2007",
+   "path": "decizie/csa/2007/695",
+   "short": "Decizia csa nr. 695/2007",
+   "title": "Decizia nr. 695/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/85947",
+   "versions": [
+    {
+     "from": "2007-10-08",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/85947",
+     "sha256": "db22f59b4df3d9d6cdf110f8abfc3d86b48a420b7dd31143665ee82b4ed85a6c"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-89-2007",
    "path": "decizie/csa/2007/89",
    "short": "Decizia csa nr. 89/2007",
@@ -1244,6 +1709,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86556",
      "sha256": "eee848d8738a70bacf14133860d0d80fb0050b8c2bd39adc19d97a8733fd7cab"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-9-2007",
+   "path": "decizie/csa/2007/9",
+   "short": "Decizia csa nr. 9/2007",
+   "title": "Decizia nr. 9/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/79280",
+   "versions": [
+    {
+     "from": "2007-02-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/79280",
+     "sha256": "cc8b6963a51853013d322f171f59a0fec2f32b8d5c9a5e14b06131ab5c6eae26"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-943-2007",
+   "path": "decizie/csa/2007/943",
+   "short": "Decizia csa nr. 943/2007",
+   "title": "Decizia nr. 943/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/86852",
+   "versions": [
+    {
+     "from": "2007-11-12",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/86852",
+     "sha256": "c051361930a6077f53a84119b15ee5ad83de932a1cb4f807b3370e2d97eea376"
     }
    ]
   },
@@ -1323,6 +1818,36 @@
    ]
   },
   {
+   "slug": "decizie-csa-962-2007",
+   "path": "decizie/csa/2007/962",
+   "short": "Decizia csa nr. 962/2007",
+   "title": "Decizia nr. 962/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87090",
+   "versions": [
+    {
+     "from": "2007-11-21",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87090",
+     "sha256": "a80f597f0076552b26806eea086f9d1c7e398775098bbbad9aa5eeaf0a1a1017"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-971-2007",
+   "path": "decizie/csa/2007/971",
+   "short": "Decizia csa nr. 971/2007",
+   "title": "Decizia nr. 971/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87350",
+   "versions": [
+    {
+     "from": "2007-11-28",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87350",
+     "sha256": "7ce0081f909180e6029ff979d28b91b4baf79ec6f7a6853e84e44e047fac4856"
+    }
+   ]
+  },
+  {
    "slug": "decizie-csa-983-2007",
    "path": "decizie/csa/2007/983",
    "short": "Decizia csa nr. 983/2007",
@@ -1334,6 +1859,36 @@
      "units": 3,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87410",
      "sha256": "d80e10a48e459dcd1d9c98f3283570534b01686f4e38d21a204fd51c1df9def2"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-994-2007",
+   "path": "decizie/csa/2007/994",
+   "short": "Decizia csa nr. 994/2007",
+   "title": "Decizia nr. 994/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87559",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87559",
+     "sha256": "3340e81e5d42d6b2bfd6db00d00c89385ab9696f1c7956826bd16322cff75d37"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-csa-995-2007",
+   "path": "decizie/csa/2007/995",
+   "short": "Decizia csa nr. 995/2007",
+   "title": "Decizia nr. 995/2007",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/87523",
+   "versions": [
+    {
+     "from": "2007-12-05",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/87523",
+     "sha256": "20559dd38e269a18a6c545107ec01f620036a78fb7ebbaecd7ba92125d22f89e"
     }
    ]
   }

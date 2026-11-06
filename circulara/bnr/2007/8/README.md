@@ -1,0 +1,18 @@
+# Circulara nr. 8/2007 privind nivelul ratei dobânzii de referință a Băncii Naționale a României valabil în luna aprilie 2007
+
+Circulara bnr nr. 8/2007 · 1 versions, from 2007-04-06 (latest in force: 2007-04-06) · <https://www.bnr.ro/21855-circulara-8-2007>
+
+**Status:** Published as it appeared in the Monitorul Oficial, from the issuer's own website; later amendments, if any, are not yet applied.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Text | [text.md](text.md) | 0 |  |
+
+Act id: `circulara-bnr-8-2007` (tags `circulara-bnr-8-2007/<day>`; `python tools/on.py <day> circulara-bnr-8-2007`).
+
+## Decisions made by hand
+
+- Circulara bnr nr. 8/2007: added from the official website of the Banca Națională a României (https://www.bnr.ro/21855-circulara-8-2007, retrieved 2026-11-06) as the circular as published in Monitorul Oficial nr. 240 of 6 April 2007. Whether later acts amended it has not yet been checked; amendments, if any, are not applied here. It will be extended or relabelled when that check is done.
+- Circulara bnr nr. 8/2007: built by Lexifina's norms lane with the default rules for an act known from its issuer's website alone, and no ruling made for this act alone: the issuer, number, signing day and Monitorul Oficial reference are those the website gives.
+- Circulara bnr nr. 8/2007: the first version is the circular as published in Monitorul Oficial nr. 240 of 6 April 2007, in force from its publication in the Monitorul Oficial (the day the issuer gives).
+- Circulara bnr nr. 8/2007: its text is kept whole as one unit: its articles could not be split without losing words.

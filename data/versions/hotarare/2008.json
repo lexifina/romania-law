@@ -3,6 +3,21 @@
  "shard": "hotarare/2008",
  "acts": [
   {
+   "slug": "hotarare-bnr-594-2008",
+   "path": "hotarare/bnr/2008/594",
+   "short": "Hotărârea bnr nr. 594/2008",
+   "title": "Hotărârea nr. 594/2008 privind aprobarea Regulamentului de aplicare a prevederilor Legii nr. 656/2002 pentru prevenirea și sancționarea spălării banilor, precum și pentru instituirea unor măsuri de prevenire și combatere a finanțării actelor de terorism",
+   "url": "https://www.bnr.ro/19183-hotarare-594-2008",
+   "versions": [
+    {
+     "from": "2008-06-14",
+     "units": 3,
+     "source_url": "https://www.bnr.ro/19183-hotarare-594-2008",
+     "sha256": "3760940f19af8935f43c13e936f0fa3db67899a0e3c07c5f8ac6e7d6987ca865"
+    }
+   ]
+  },
+  {
    "slug": "hotarare-csspp-1-2008",
    "path": "hotarare/csspp/2008/1",
    "short": "Hotărârea csspp nr. 1/2008",

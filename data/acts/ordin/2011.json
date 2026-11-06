@@ -4880,6 +4880,25 @@
 "joint": []
 },
 {
+"slug": "ordin-ansvsa-121-2011",
+"path": "ordin/ansvsa/2011/121",
+"kind": "ordin",
+"year": "2011",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 121/2011",
+"short": "Ordin ansvsa nr. 121/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2013-02-01",
+"latest": "2013-02-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/134727",
+"issuer": "ansvsa",
+"joint": []
+},
+{
 "slug": "ordin-antidoping-78-2011",
 "path": "ordin/antidoping/2011/78",
 "kind": "ordin",
@@ -5718,6 +5737,25 @@
 "alias": "ordin-cnvm-71-2011"
 }
 ]
+},
+{
+"slug": "ordin-bnr-12-2011",
+"path": "ordin/bnr/2011/12",
+"kind": "ordin",
+"year": "2011",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 12/2011",
+"short": "Ordin bnr nr. 12/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2012-01-01",
+"latest": "2012-01-01",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/132566",
+"issuer": "bnr",
+"joint": []
 },
 {
 "slug": "ordin-bnr-13-2011",
@@ -7393,6 +7431,25 @@
 "from": "2011-01-24",
 "latest": "2011-01-24",
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/125495",
+"issuer": "csa",
+"joint": []
+},
+{
+"slug": "ordin-csa-2-2011",
+"path": "ordin/csa/2011/2",
+"kind": "ordin",
+"year": "2011",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Ordinul nr. 2/2011",
+"short": "Ordin csa nr. 2/2011",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2011-01-20",
+"latest": "2011-01-20",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/125411",
 "issuer": "csa",
 "joint": []
 },

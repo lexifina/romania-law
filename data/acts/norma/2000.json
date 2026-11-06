@@ -3,6 +3,25 @@
 "shard": "norma/2000",
 "acts": [
 {
+"slug": "norma-bnr-1-2000",
+"path": "norma/bnr/2000/1",
+"kind": "norma",
+"year": "2000",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Norma nr. 1/2000",
+"short": "Norma bnr nr. 1/2000",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2000-02-03",
+"latest": "2000-02-03",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/20749",
+"issuer": "bnr",
+"joint": []
+},
+{
 "slug": "norma-bnr-2-2000",
 "path": "norma/bnr/2000/2",
 "kind": "norma",

@@ -20,6 +20,25 @@
 "portal": "https://legislatie.just.ro/Public/DetaliiDocument/29433",
 "issuer": "bnr",
 "joint": []
+},
+{
+"slug": "hotarare-bnr-179-2001",
+"path": "hotarare/bnr/2001/179",
+"kind": "hotarare",
+"year": "2001",
+"number": "179",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea nr. 179/2001",
+"short": "Hotărârea bnr nr. 179/2001",
+"code": null,
+"status": "as published, amendments not yet checked",
+"versions": 1,
+"from": "2001-12-28",
+"latest": "2001-12-28",
+"portal": "https://legislatie.just.ro/Public/DetaliiDocument/33025",
+"issuer": "bnr",
+"joint": []
 }
 ]
 }

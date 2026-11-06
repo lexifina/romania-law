@@ -828,6 +828,21 @@
    ]
   },
   {
+   "slug": "decizie-concurenta-111-1999",
+   "path": "decizie/concurenta/1999/111",
+   "short": "Decizia concurenta nr. 111/1999",
+   "title": "Decizia nr. 111/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19088",
+   "versions": [
+    {
+     "from": "1999-08-26",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19088",
+     "sha256": "54b3a6ae5f3ab889a8b7927c1c2db2d326d40594f23436bf3e652db05ae68098"
+    }
+   ]
+  },
+  {
    "slug": "decizie-concurenta-118-1999",
    "path": "decizie/concurenta/1999/118",
    "short": "Decizia concurenta nr. 118/1999",
@@ -839,6 +854,21 @@
      "units": 7,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19089",
      "sha256": "1ba702aba4eb4f604825c9173a2b94c4055539a8bc51f86bfd5e765189703398"
+    }
+   ]
+  },
+  {
+   "slug": "decizie-concurenta-120-1999",
+   "path": "decizie/concurenta/1999/120",
+   "short": "Decizia concurenta nr. 120/1999",
+   "title": "Decizia nr. 120/1999",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/19191",
+   "versions": [
+    {
+     "from": "1999-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/19191",
+     "sha256": "18ca3e4c091a28be1f5596efc248ae6bb2880417f82ecdcef1ef7f4a75bae7d4"
     }
    ]
   },

@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "regulament-asf-16-2014",
+   "path": "regulament/asf/2014/16",
+   "short": "Regulament asf nr. 16/2014",
+   "title": "Regulamentul nr. 16/2014",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/217825",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/217825",
+     "sha256": "f308e8fef2d11d88e561b64e08bf4c52f1977829243a7e1f2cf1d1dad14e4f6e"
+    }
+   ]
+  },
+  {
    "slug": "regulament-asf-3-2014",
    "path": "regulament/asf/2014/3",
    "short": "Regulament asf nr. 3/2014",
