@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/mintiu-gherlii/2025",
+"acts": [
+{
+"slug": "hcl-cluj--mintiu-gherlii-35-2025",
+"path": "local/cluj/mintiu-gherlii/2025/35",
+"kind": "local",
+"year": "2025",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 35/2025 privind aprobarea ACORDULUI DE COLABORARE în vederea asigurarea sustenabilității Proiectului „Microbuze electrice pentru elevii din județul Cluj”",
+"short": "HCL Mintiu Gherlii nr. 35/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-28",
+"latest": "2025-10-28",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/231779",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-47-2025",
+"path": "local/cluj/mintiu-gherlii/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 47/2025 privind stabilirea impozitelor şi taxelor locale pentru anul 2026",
+"short": "HCL Mintiu Gherlii nr. 47/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-31",
+"latest": "2025-12-31",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/243179",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

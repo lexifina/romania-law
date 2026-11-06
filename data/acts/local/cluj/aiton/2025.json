@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/cluj/aiton/2025",
+"acts": [
+{
+"slug": "hcl-cluj--aiton-84-2025",
+"path": "local/cluj/aiton/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 84/2025 privind modificarea organigramei şi a statului de funcții ale aparatului de specialitate al primarului comunei Aiton",
+"short": "HCL Aiton nr. 84/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233126",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-87-2025",
+"path": "local/cluj/aiton/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 87/2025 privind stabilirea nivelurilor impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Aiton nr. 87/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238324",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-88-2025",
+"path": "local/cluj/aiton/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 88/2025 privind aprobarea documentatiei cadastrale de dezmembrare în doua loturi a imobilului cu nr. cad. 51403, inscris in CF. Nr. 51403 Aiton si înscrierea suprafețelor dezmembrate în Cartea Funciară",
+"short": "HCL Aiton nr. 88/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238326",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-89-2025",
+"path": "local/cluj/aiton/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 89/2025 privind aprobarea documentatiei cadastrale de dezmembrare în doua loturi a imobilului cu nr. cad. 53288, inscris in CF. Nr. 53288 Aiton si înscrierea suprafețelor dezmembrate în Cartea Funciară",
+"short": "HCL Aiton nr. 89/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238327",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-96-2025",
+"path": "local/cluj/aiton/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 96/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul IV 2025",
+"short": "HCL Aiton nr. 96/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238334",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-97-2025",
+"path": "local/cluj/aiton/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 97/2025 Privind reaprobarea documentației tehnico-economice faza Studiu de fezabilitate pentru investiția “ÎNFIINȚARE SPAȚII DE JOACĂ ÎN COMUNA AITON, JUDEȚUL CLUJ”",
+"short": "HCL Aiton nr. 97/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238640",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-98-2025",
+"path": "local/cluj/aiton/2025/98",
+"kind": "local",
+"year": "2025",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 98/2025 privind reaprobarea implementării proiectului “ÎNFIINȚARE SPAȚII DE JOACĂ ÎN COMUNA AITON, JUDEȚUL CLUJ”",
+"short": "HCL Aiton nr. 98/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/238641",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-99-2025",
+"path": "local/cluj/aiton/2025/99",
+"kind": "local",
+"year": "2025",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 99/2025 privind stabilirea nivelurilor impozitelor și taxelor locale pentru anul 2026",
+"short": "HCL Aiton nr. 99/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/244219",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-100-2025",
+"path": "local/cluj/aiton/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 100/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul IV 2025",
+"short": "HCL Aiton nr. 100/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/244220",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/baciu/2025",
+ "acts": [
+  {
+   "slug": "hcl-cluj--baciu-114-2025",
+   "path": "local/cluj/baciu/2025/114",
+   "short": "HCL Baciu nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 114/2025 privind aprobarea planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor, pe raza comunei Baciu, județul Cluj",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/237969",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/237969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--baciu-127-2025",
+   "path": "local/cluj/baciu/2025/127",
+   "short": "HCL Baciu nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Baciu nr. 127/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/baciu-cj/registru-hcl/243950",
+   "versions": [
+    {
+     "from": "2025-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/baciu-cj/registru-hcl/243950",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

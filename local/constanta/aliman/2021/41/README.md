@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Aliman nr. 41/2021 privind achiziţionarea serviciului de transport rutier preşcolari şi elevi din cadrul unităţilor de învăţământ preuniversitar de stat de pe raza comunei Aliman, judeţul Constanţa
+
+HCL Aliman nr. 41/2021 · 1 versions, from 2021-06-18 (latest in force: 2021-06-18) · <https://emol.ro/aliman-ct/registru-hcl/34568>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-constanta--aliman-41-2021` (tags `hcl-constanta--aliman-41-2021/<day>`; `python tools/on.py <day> hcl-constanta--aliman-41-2021`).
+
+## Decisions made by hand
+
+- HCL Aliman nr. 41/2021: listed from Consiliul Local al Comunei Aliman (emol.ro); metadata only for now: no document of it is held.
+- HCL Aliman nr. 41/2021: dated from 18 June 2021, the day it was adopted (the register gives no later day of publication).
+- HCL Aliman nr. 41/2021: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

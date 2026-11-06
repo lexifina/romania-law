@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/agigea/2025",
+"acts": [
+{
+"slug": "hcl-constanta--agigea-219-2025",
+"path": "local/constanta/agigea/2025/219",
+"kind": "local",
+"year": "2025",
+"number": "219",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Agigea nr. 219/2025 privind modificarea HCL nr.197 din 16.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Agigea nr. 219/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/agigea-ct/registru-hcl/243800",
+"council": "constanta/agigea",
+"council_name": "Consiliul Local al Comunei Agigea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

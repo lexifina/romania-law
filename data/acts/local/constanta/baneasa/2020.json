@@ -1,0 +1,207 @@
+{
+"country": "RO",
+"shard": "local/constanta/baneasa/2020",
+"acts": [
+{
+"slug": "hcl-constanta--baneasa-66-2020",
+"path": "local/constanta/baneasa/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 66/2020",
+"short": "HCL Băneasa nr. 66/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-15",
+"latest": "2020-09-15",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/8979",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-67-2020",
+"path": "local/constanta/baneasa/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 67/2020",
+"short": "HCL Băneasa nr. 67/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-20",
+"latest": "2020-10-20",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/10159",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-68-2020",
+"path": "local/constanta/baneasa/2020/68",
+"kind": "local",
+"year": "2020",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 68/2020 privind actualizarea „Programului anual al achiziţiilor publice pentru anul 2020”, luna Octombrie 2020",
+"short": "HCL Băneasa nr. 68/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-20",
+"latest": "2020-10-20",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/10160",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-69-2020",
+"path": "local/constanta/baneasa/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 69/2020",
+"short": "HCL Băneasa nr. 69/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-20",
+"latest": "2020-10-20",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/10161",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-70-2020",
+"path": "local/constanta/baneasa/2020/70",
+"kind": "local",
+"year": "2020",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 70/2020 Privind completarea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Băneasa",
+"short": "HCL Băneasa nr. 70/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-10-20",
+"latest": "2020-10-20",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/10162",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-76-2020",
+"path": "local/constanta/baneasa/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 76/2020 Privind aprobarea proiectului ”Servicii Esentiale si Egale = Sanatate pentru Toti”, al comunei Baneasa în calitate de Promotor de Proiect si Primariile comunelor Oltina si Dobromir in calitate de Parteneri de Proiect, prin Mecanismul Financiar Norvegian 2014-2021 si Mecanismul Financiar al Spatiului Economic European 2014-2021, Apelul “Imbunatatirea Accesului la serviciile de sanatate in special pentru grupurile vulnerabile, inclusiv Romi”",
+"short": "HCL Băneasa nr. 76/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13158",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-80-2020",
+"path": "local/constanta/baneasa/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 80/2020 Pentru validarea Dispozițiilor primarului nr. 324/02.11.2020 respectiv nr. 371/04.12.2020 privind rectificarea bugetului local",
+"short": "HCL Băneasa nr. 80/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13162",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-81-2020",
+"path": "local/constanta/baneasa/2020/81",
+"kind": "local",
+"year": "2020",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 81/2020 privind rectificarea bugetului local pe anul 2020 luna Decembrie 2020",
+"short": "HCL Băneasa nr. 81/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13163",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-83-2020",
+"path": "local/constanta/baneasa/2020/83",
+"kind": "local",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 83/2020 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2021",
+"short": "HCL Băneasa nr. 83/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/13165",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

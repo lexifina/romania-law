@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/doclin/2025",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--doclin-43-2025",
+   "path": "local/caras-severin/doclin/2025/43",
+   "short": "HCL Doclin nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 43/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Doclin pentru o perioadă de trei luni (OCTOMBRIE, NOIEMBRIE, DECEMBRIE 2025)",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/228906",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/228906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-50-2025",
+   "path": "local/caras-severin/doclin/2025/50",
+   "short": "HCL Doclin nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 50/2025 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar , pe raza comunei Doclin, pentru anul şcolar 2026 – 2027",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/242709",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/242709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-51-2025",
+   "path": "local/caras-severin/doclin/2025/51",
+   "short": "HCL Doclin nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 51/2025 privind indexarea şi stabilirea impozitelor şi taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/242710",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/242710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-52-2025",
+   "path": "local/caras-severin/doclin/2025/52",
+   "short": "HCL Doclin nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 52/2025 privind înființarea postului contractual de „șofer” și aprobarea „Organigramei” și „Statului de Funcții” de la nivelul comunei Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/242711",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/242711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-55-2025",
+   "path": "local/caras-severin/doclin/2025/55",
+   "short": "HCL Doclin nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 55/2025 privind alegerea preşedintelui de şedinţă al Consiliului Local Doclin pentru o perioadă de trei luni ( Ianuarie-Februarie-Martie 2026 )",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/242714",
+   "versions": [
+    {
+     "from": "2026-01-14",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/242714",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

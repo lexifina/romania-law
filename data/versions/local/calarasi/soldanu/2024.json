@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/soldanu/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--soldanu-56-2024",
+   "path": "local/calarasi/soldanu/2024/56",
+   "short": "HCL Șoldanu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 56/2024 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2025 la Comuna Șoldanu",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/185019",
+   "versions": [
+    {
+     "from": "2024-12-24",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/185019",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

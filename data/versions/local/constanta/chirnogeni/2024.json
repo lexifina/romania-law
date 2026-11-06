@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/chirnogeni/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--chirnogeni-52-2024",
+   "path": "local/constanta/chirnogeni/2024/52",
+   "short": "HCL Chirnogeni nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 52/2024 privind aprobarea participării la „Programul privind Creșterea eficienţei energetice a infrastructurii de iluminat public” cu proiectul “Creșterea eficienței energetice a infrastructurii de iluminat public în Comuna CHIRNOGENI, județ Constanța”",
+   "url": "https://emol.ro/chirnogeni-ct/registru-hcl/188075",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chirnogeni-ct/registru-hcl/188075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--chirnogeni-55-2024",
+   "path": "local/constanta/chirnogeni/2024/55",
+   "short": "HCL Chirnogeni nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 55/2024 privind aprobarea studiului de fezabilitate si a indicatorilor tehnico-economici aferenți obiectivului de investitii „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CHIRNOGENI, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/chirnogeni-ct/registru-hcl/188081",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chirnogeni-ct/registru-hcl/188081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--chirnogeni-58-2024",
+   "path": "local/constanta/chirnogeni/2024/58",
+   "short": "HCL Chirnogeni nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chirnogeni nr. 58/2024 privind constituirea comisiei de evaluare a ofertelor pentru atribuirea contractului de concesiune a Serviciului de utilitate publică de distribuţie a gazelor naturale, pentru obiectivul „ÎNFIINȚARE SISTEM INTELIGENT DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA CHIRNOGENI, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/chirnogeni-ct/registru-hcl/188084",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chirnogeni-ct/registru-hcl/188084",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

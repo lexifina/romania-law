@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/coronini/2023",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--coronini-46-2023",
+   "path": "local/caras-severin/coronini/2023/46",
+   "short": "HCL Coronini nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 46/2023 privind aprobarea solicitarii prelungirii Scrisorii de garanție nr. 22/18.03.2021 de la FNGCIMM SA IFN în valoare de 130.000,00 lei, în vederea garantării obligațiilor de plată a avansului de 130.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat „Construire alee pietonală pentru acces Cetate Ladislau și parcare adiacentă DN 57, în comuna Coronini, județul Caraș - Severin”, în baza contractului de finanțare nerambursabilă nr. C1920072R217251105160/ 30.09.2019 cu modificările și completările ulterioare, încheiat cu Agenția pentru Finanțarea Investițiilor Rurale",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/140943",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/140943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-49-2023",
+   "path": "local/caras-severin/coronini/2023/49",
+   "short": "HCL Coronini nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 49/2023 privind aprobarea contractării unui împrumut în valoare de 1.000.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 92/2023 privind aprobarea unor măsuri fiscal-bugetare, prin acordarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/140946",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/140946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-50-2023",
+   "path": "local/caras-severin/coronini/2023/50",
+   "short": "HCL Coronini nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 50/2023 privind aprobarea încheierii protocolului de colaborare între Ministerul Muncii și Solidarității Sociale și Unitatea Administrativ Teritorială Comuna Coronini pentru implementarea proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/140947",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/140947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-51-2023",
+   "path": "local/caras-severin/coronini/2023/51",
+   "short": "HCL Coronini nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 51/2023 privind completarea Hotărârii Consiliului Local Coronini nr. 21/04.04.2017 referitoare la implementarea proiectului ,,CONSOLIDARE, RESTAURARE, CONSERVARE ȘI PROTECȚIE CETATEA LADISLAU, REALIZAREA UNUI PUNCT DE BELVEDERE PRIN REAMENAJAREA TURN-ului 3 de sud-vest, CONSERVAREA ZIDURILOR ȘI TURNURILOR CETĂȚII CU ASIZE DE PIATRĂ, AMENAJARE PLATFORME ȘI PASARELE, CONSTRUIRE CORP ANEXĂ, REALIZARE INSTALAȚII ELECTRICE ȘI SANITARE, REALIZARE ILUMINAT ARHITECTURAL ȘI AMBIENTAL, AMENAJARE INCINTĂ SIT, REALIZARE ALEI PIETONALE”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/140948",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/140948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-59-2023",
+   "path": "local/caras-severin/coronini/2023/59",
+   "short": "HCL Coronini nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 59/2023",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/140956",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/140956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-65-2023",
+   "path": "local/caras-severin/coronini/2023/65",
+   "short": "HCL Coronini nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 65/2023 privind ,,Organizarea retelei școlare a unităţilor de învăţământ preuniversitar din raza teritorială a Unitatii Administrativ-Teritoriale a comunei Coronini pentru anul școlar 2024 – 2025”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/141297",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/141297",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

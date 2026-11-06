@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ciudanovita/2021",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ciudanovita-75-2021",
+   "path": "local/caras-severin/ciudanovita/2021/75",
+   "short": "HCL Ciudanovița nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 75/2021 privind ,,Amenajare platforma deseuri inerte in localitatea Ciudanovita,comuna Ciudanovita,,",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51748",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-76-2021",
+   "path": "local/caras-severin/ciudanovita/2021/76",
+   "short": "HCL Ciudanovița nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 76/2021 privind actualizarea valorii investitiei,,Reabilitare si modernizare sediu primarie localitatea Ciudanovita,comuna Ciudanovita,judetul Caras Severin,,ca urmare a prevederilor OG nr.15/2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51749",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-78-2021",
+   "path": "local/caras-severin/ciudanovita/2021/78",
+   "short": "HCL Ciudanovița nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 78/2021 privind aprobarea contului de executie al exercitiului bugetar la 30 iunie 2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51753",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-79-2021",
+   "path": "local/caras-severin/ciudanovita/2021/79",
+   "short": "HCL Ciudanovița nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 79/2021 privind Rectificare bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51754",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-80-2021",
+   "path": "local/caras-severin/ciudanovita/2021/80",
+   "short": "HCL Ciudanovița nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 80/2021 privind aprobarea raportului privind activitatea asistentilor personali desfasurata pe semestrul 1 al anului 2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51755",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-82-2021",
+   "path": "local/caras-severin/ciudanovita/2021/82",
+   "short": "HCL Ciudanovița nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 82/2021 privind aprobarea alocarii sumei de 6200 lei din bugetul local in vederea achizitionarii de steaguri ce se vor monta cu ocazia sarbatoririi zilei nationale a Romaniei",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51757",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-83-2021",
+   "path": "local/caras-severin/ciudanovita/2021/83",
+   "short": "HCL Ciudanovița nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 83/2021 privind aprobarea achizitionarii si montarea de ghirlande stradale cu ocazia sarbatorilor de iarna in localitatile din comuna Ciudanovita",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51758",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-85-2021",
+   "path": "local/caras-severin/ciudanovita/2021/85",
+   "short": "HCL Ciudanovița nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 85/2021 privind rectificarea bugetului de venituri si cheltuieli pe anul 2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51769",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-86-2021",
+   "path": "local/caras-severin/ciudanovita/2021/86",
+   "short": "HCL Ciudanovița nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 86/2021 privind aprobarea alocarii unei sume de bani pentru achizitionarea de pomi ornamentali,care se vor planta in zonele de agrement",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51770",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-87-2021",
+   "path": "local/caras-severin/ciudanovita/2021/87",
+   "short": "HCL Ciudanovița nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 87/2021 privind aprobarea oportunitatii si necesitatii investitiei ,,Infiintare sistem inteligent de distributie gaze naturale in comuna Ciudanovita,judetul Caras Severin",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51771",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-90-2021",
+   "path": "local/caras-severin/ciudanovita/2021/90",
+   "short": "HCL Ciudanovița nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 90/2021 privind rectificarea bugetului local al comunei Ciudanovita pe anul 2021",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51924",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-91-2021",
+   "path": "local/caras-severin/ciudanovita/2021/91",
+   "short": "HCL Ciudanovița nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 91/2021 privind aprobarea achizitionarii unui numar de 25 bucati de panouri directionale in comuna Ciudanovita",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51938",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-92-2021",
+   "path": "local/caras-severin/ciudanovita/2021/92",
+   "short": "HCL Ciudanovița nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 92/2021 privind aprobarea Planului de actiuni si lucrari de interes local pentru anul 2022",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51939",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-93-2021",
+   "path": "local/caras-severin/ciudanovita/2021/93",
+   "short": "HCL Ciudanovița nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 93/2021 privind aprobarea numarului si cuantumului lunar al burselor acordate elevilor din unitatile de invatamant preuniversitar de stat din comuna Ciudanovita pentru semestrul I si al-II-lea al anului scolar 2021-2022",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51940",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-94-2021",
+   "path": "local/caras-severin/ciudanovita/2021/94",
+   "short": "HCL Ciudanovița nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 94/2021 privind asigurarea continuitatii Serviciului Public de Salubrizare al comunei Ciudanovita pentru activitatile privind colectarea si transportul deseurilor municipale,a deseurilor similare provenind din activitati comerciale, din industrie si institutii,inclusiv fracti colectate separat,fara a aduce atingere fluxului de deseuri,de echipamente electrice si electronice,baterii si acumulatori si deseuri provenite din locuinte generate de activitati de raemanajare si reabilitare interioara si sau exterioara acestora",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/51941",
+   "versions": [
+    {
+     "from": "2021-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/51941",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

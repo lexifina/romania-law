@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/calarasi/roseti/2021",
+"acts": [
+{
+"slug": "hcl-calarasi--roseti-47-2021",
+"path": "local/calarasi/roseti/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 47/2021 privind analiza stadiului de înscriere a datelor în registrul agricol la trimestrul III al anului 2021",
+"short": "HCL Roseți nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-25",
+"latest": "2021-10-25",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/39501",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-56-2021",
+"path": "local/calarasi/roseti/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 56/2021 privind participarea comunei Roseți, județul Călărași la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public precum și aprobarea documentației tehnico-economice, indicatorii tehnico- economici și auditul energetic pentru obiectivul de investiții ‘’Modernizarea și eficientizarea iluminatului public în comuna Roseți, județul Călărași’’",
+"short": "HCL Roseți nr. 56/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/45598",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-57-2021",
+"path": "local/calarasi/roseti/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 57/2021 privind acordul comunei Roseți, județul Călărași pentru utilizarea domeniului public/privat al comunei Roseți de către SC RCS & RDS SA, în vederea executării lucrării Construire rețea de telecomunicații prin fibră optică pentru furnizare servicii de televiziune prin cablu, internet și telefonie",
+"short": "HCL Roseți nr. 57/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/45599",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

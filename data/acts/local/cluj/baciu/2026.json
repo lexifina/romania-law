@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/baciu/2026",
+"acts": [
+{
+"slug": "hcl-cluj--baciu-130-2026",
+"path": "local/cluj/baciu/2026/130",
+"kind": "local",
+"year": "2026",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baciu nr. 130/2026 privind aprobarea bugetului de venituri și cheltuieli rectificat pe trim. IV anul 2026",
+"short": "HCL Baciu nr. 130/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/baciu-cj/registru-hcl/296029",
+"council": "cluj/baciu",
+"council_name": "Consiliul Local al Comunei Baciu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

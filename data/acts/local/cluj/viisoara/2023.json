@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/viisoara/2023",
+"acts": [
+{
+"slug": "hcl-cluj--viisoara-50-2023",
+"path": "local/cluj/viisoara/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 50/2023 privind aprobarea indicatorilor tehnico-economici ai proiectului pentru obiectivul de investiții „Reamenajare, modernizare parc Viișoara”",
+"short": "HCL Viișoara nr. 50/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/138551",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-51-2023",
+"path": "local/cluj/viisoara/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 51/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN LOCALITĂȚILE VIIȘOARA ȘI URCA, COMUNA VIIȘOARA, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezetând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Viișoara nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-23",
+"latest": "2024-01-23",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/138561",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

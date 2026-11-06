@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/ulmu/2023",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--ulmu-56-2023",
+   "path": "local/calarasi/ulmu/2023/56",
+   "short": "HCL Ulmu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 56/2023 privind aprobarea organizarii retelei scolare la nivelul comunei Ulmu, judetul Calarasi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/137720",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/137720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-57-2023",
+   "path": "local/calarasi/ulmu/2023/57",
+   "short": "HCL Ulmu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 57/2023 privind modificarea taxei de salubrizare pentru Unitatea Administrativ Teritorială Comuna Ulmu, județul Calarasi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/137721",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/137721",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

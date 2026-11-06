@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/stefan-voda/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--stefan-voda-12-2026",
+   "path": "local/calarasi/stefan-voda/2026/12",
+   "short": "HCL Ștefan Vodă nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 12/2026 privind aprobarea bugetului local al Comunei Ștefan Vodă pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/267881",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/267881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-13-2026",
+   "path": "local/calarasi/stefan-voda/2026/13",
+   "short": "HCL Ștefan Vodă nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 13/2026 privind utilizarea excedentului din anii precedenți și aprobarea listei obiectivelor de investiții pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/267882",
+   "versions": [
+    {
+     "from": "2026-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/267882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-14-2026",
+   "path": "local/calarasi/stefan-voda/2026/14",
+   "short": "HCL Ștefan Vodă nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 14/2026 privind rectificarea bugetului local al Comunei Ștefan Vodă pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/269430",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/269430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-15-2026",
+   "path": "local/calarasi/stefan-voda/2026/15",
+   "short": "HCL Ștefan Vodă nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 15/2026 privind acordarea dreptului de uz și a dreptului de servitute în favoarea Rețele Electrice România SA asupra suprafeței de 1254 m teren ce aparține domeniului public al Comunei Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/269431",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/269431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-16-2026",
+   "path": "local/calarasi/stefan-voda/2026/16",
+   "short": "HCL Ștefan Vodă nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 16/2026 privind rectificarea bugetului local al Comunei Ștefan Vodă pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/270662",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/270662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-17-2026",
+   "path": "local/calarasi/stefan-voda/2026/17",
+   "short": "HCL Ștefan Vodă nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 17/2026 privind aprobarea Regulamentului de gospodărire comunală al Comunei Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/275930",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/275930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-18-2026",
+   "path": "local/calarasi/stefan-voda/2026/18",
+   "short": "HCL Ștefan Vodă nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 18/2026 privind aprobarea execuției bugetare pe trimestrul I al anului 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/275931",
+   "versions": [
+    {
+     "from": "2026-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/275931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-19-2026",
+   "path": "local/calarasi/stefan-voda/2026/19",
+   "short": "HCL Ștefan Vodă nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 19/2026 privind stabilirea unor măsuri pentru asigurarea condiţiilor de dezvoltare fizică şi morală a elevilor",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/281699",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/281699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-21-2026",
+   "path": "local/calarasi/stefan-voda/2026/21",
+   "short": "HCL Ștefan Vodă nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 21/2026 privind aprobarea execuției bugetare pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/281701",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/281701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-22-2026",
+   "path": "local/calarasi/stefan-voda/2026/22",
+   "short": "HCL Ștefan Vodă nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 22/2026 privind rectificarea bugetului local al Comunei Ștefan Vodă pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/281702",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/281702",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-23-2026",
+   "path": "local/calarasi/stefan-voda/2026/23",
+   "short": "HCL Ștefan Vodă nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 23/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare și extindere sistem de canalizare în comuna Ștefan Vodă, județul Călărași”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/281703",
+   "versions": [
+    {
+     "from": "2026-08-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/281703",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-24-2026",
+   "path": "local/calarasi/stefan-voda/2026/24",
+   "short": "HCL Ștefan Vodă nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 24/2026 privind aprobarea înregistrării Comunei Ștefan Vodă în Sistemul Național Electronic de Plată a Impozitelor și Taxelor utilizând cardul bancar și a modului de suportare a comisionului bancar la tranzacțiile online",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/283518",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/283518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-25-2026",
+   "path": "local/calarasi/stefan-voda/2026/25",
+   "short": "HCL Ștefan Vodă nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 25/2026 privind aprobarea statutului Comunei Ștefan Vodă",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/283519",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/283519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-28-2026",
+   "path": "local/calarasi/stefan-voda/2026/28",
+   "short": "HCL Ștefan Vodă nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 28/2026 privind reaprobarea indicatorilor tehnico-economici pentru obiectivul de investiții „Reabilitare, modernizare, dotare și Extinderea Așezământului Cultural din Comuna Ștefan Vodă, Județul Călărași”",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/293314",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/293314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-29-2026",
+   "path": "local/calarasi/stefan-voda/2026/29",
+   "short": "HCL Ștefan Vodă nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 29/2026 privind rectificarea bugetului local al Comunei Ștefan Vodă pe anul 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/296325",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/296325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-voda-31-2026",
+   "path": "local/calarasi/stefan-voda/2026/31",
+   "short": "HCL Ștefan Vodă nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan Vodă nr. 31/2026 privind aprobarea execuției bugetare pe trimestrul III al anului 2026",
+   "url": "https://emol.ro/stefanvoda-cl/registru-hcl/296327",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stefanvoda-cl/registru-hcl/296327",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

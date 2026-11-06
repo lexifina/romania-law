@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ciudanovita/2023",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ciudanovita-56-2023",
+   "path": "local/caras-severin/ciudanovita/2023/56",
+   "short": "HCL Ciudanovița nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 56/2023 privind participarea UAT Comuna Ciudanovița la proiectul Dezvoltare Teritorială Integrată “Banatul Montan, ținutul minelor”și asocierea în vederea depunerii solicitării în cadrul Apelului național de exprimare a interesului pentru dezvoltarea/actualizarea unei strategii de dezvoltare teritorială integrată lansat de Comitetul pentru Coordonarea Investițiilor Teritoriale Integrate",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187559",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-73-2023",
+   "path": "local/caras-severin/ciudanovita/2023/73",
+   "short": "HCL Ciudanovița nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 73/2023 privind aprobarea actualizării valorii investitiței, a devizului general și a indicatorilor tehnico-economici aferenți proiectului „Reabilitare și modernizare sediu primăria Ciudanovița, localitatea Ciudanovița Colonie, comuna Ciudanovița, județul Caraș-Severin”",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/187791",
+   "versions": [
+    {
+     "from": "2025-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/187791",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

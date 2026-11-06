@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ezeris/2021",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ezeris-100-2021",
+   "path": "local/caras-severin/ezeris/2021/100",
+   "short": "HCL Ezeriș nr. 100/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 100/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50022",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-109-2021",
+   "path": "local/caras-severin/ezeris/2021/109",
+   "short": "HCL Ezeriș nr. 109/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 109/2021 privind aprobarea planului de școlarizare pentru anul de învățământ 2022-2023",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50031",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-90-2021",
+   "path": "local/caras-severin/ezeris/2021/90",
+   "short": "HCL Ezeriș nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 90/2021",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50013",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-91-2021",
+   "path": "local/caras-severin/ezeris/2021/91",
+   "short": "HCL Ezeriș nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 91/2021",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50014",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-92-2021",
+   "path": "local/caras-severin/ezeris/2021/92",
+   "short": "HCL Ezeriș nr. 92/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 92/2021 privind aprobarea solicitării fondurilor necesare plăților pentru ajutoarele de încălzire (combustibili solizi), pentru sezonul rece 01.11.2021-31.03.2022",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50015",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-93-2021",
+   "path": "local/caras-severin/ezeris/2021/93",
+   "short": "HCL Ezeriș nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 93/2021 privind înființarea serviciului de iluminat public, comuna Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50011",
+   "versions": [
+    {
+     "from": "2021-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-95-2021",
+   "path": "local/caras-severin/ezeris/2021/95",
+   "short": "HCL Ezeriș nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 95/2021 privind rectificarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/50017",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/50017",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

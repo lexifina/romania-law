@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/cluj/cojocna/2022",
+"acts": [
+{
+"slug": "hcl-cluj--cojocna-84-2022",
+"path": "local/cluj/cojocna/2022/84",
+"kind": "local",
+"year": "2022",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 84/2022 privind rectificarea bugetului de venituri și cheltuieli și a programului de investiții al Comunei Cojocna pentru anul 2022",
+"short": "HCL Cojocna nr. 84/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/78627",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-86-2022",
+"path": "local/cluj/cojocna/2022/86",
+"kind": "local",
+"year": "2022",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 86/2022 privind implementarea proiectului \"Înființarea unui centru de colectare prin aport voluntar in Comuna Cojocna, judetul Cluj” în cadrul apelului de proiecte cu titlul PNRR/2022/C3/S/I.1.A, Componenta C3-Managementul deseurilor, Investiția I.1. Dezvoltarea, modernizarea și completarea sistemelor de management integrat al deșeurilor municipale la nivel de județ sau la nivel de orașe/comune, Subinvestitia I. I.A Înființarea de centre de colectare prin aport voluntar din Planul Național de Redresare și Reziliență (PNRR), și a cheltuielilor aferente acestuia",
+"short": "HCL Cojocna nr. 86/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/78629",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-87-2022",
+"path": "local/cluj/cojocna/2022/87",
+"kind": "local",
+"year": "2022",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 87/2022 privind acordul Consiliului Local Cojocna în calitate de administrator al domeniului public și privat al Comunei Cojocna în vederea aprobării executării lucrărilor de ,,MODERNIZARE SI REABILITARE DE DRUMURI JUDETENE DJ 161 A – APAHIDA – COJOCNA, km 7+100 – km 9+700, L=2,60 km”, realizate pe domeniul public comunal al localității Cojocna, Comuna Cojocna, jud. Cluj",
+"short": "HCL Cojocna nr. 87/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-18",
+"latest": "2022-11-18",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/78630",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-90-2022",
+"path": "local/cluj/cojocna/2022/90",
+"kind": "local",
+"year": "2022",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 90/2022 privind actualizarea nomenclatorului stradal al Comunei Cojocna",
+"short": "HCL Cojocna nr. 90/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-14",
+"latest": "2022-12-14",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/80762",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-96-2022",
+"path": "local/cluj/cojocna/2022/96",
+"kind": "local",
+"year": "2022",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 96/2022 privind prelungirea valabilităţii Planului Urbanistic General (P.U.G.) al Comunei COJOCNA până la intrarea în vigoare a noului Plan urbanistic general",
+"short": "HCL Cojocna nr. 96/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-06",
+"latest": "2023-01-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/83059",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

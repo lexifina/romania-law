@@ -1,0 +1,139 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/vermes/2024",
+"acts": [
+{
+"slug": "hcl-caras-severin--vermes-22-2024",
+"path": "local/caras-severin/vermes/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 22/2024 privind aprobarea încheierii unui Protocol de colaborare cu Ministerul Muncii și Solidarității Sociale, în cadrul proiectului „HUB de Servicii MMSS-SII MMSS”, cod MySmis 130963",
+"short": "HCL Vermeș nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190896",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-24-2024",
+"path": "local/caras-severin/vermes/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 24/2024",
+"short": "HCL Vermeș nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190928",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-29-2024",
+"path": "local/caras-severin/vermes/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 29/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de pe raza comunei Vermeş, începând cu anul școlar 2025-2026",
+"short": "HCL Vermeș nr. 29/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190942",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-31-2024",
+"path": "local/caras-severin/vermes/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 31/2024 privind aprobarea indicatorilor tehnico-economici pentru obiectivul „Împrejmuire clădire, realizare platou, dotare și încălzire Cămin Cultural Izgar, județul Caraș-Severin”",
+"short": "HCL Vermeș nr. 31/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190944",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-33-2024",
+"path": "local/caras-severin/vermes/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 33/2024 privind stabilirea impozitelor, taxelor locale şi a taxelor speciale pentru anul 2025",
+"short": "HCL Vermeș nr. 33/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190947",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-38-2024",
+"path": "local/caras-severin/vermes/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 38/2024 privind participarea la Programul privind creşterea eficienţei energetice a infrastructurii de iluminat public, aprobarea Devizului general, a documentației tehnico-economice și a indicatorilor tehnico-economici ai obiectivului de investiții “Modernizarea sistemului de iluminat public stradal, în comuna Vermeș, județul Caraș-Severin, etapa a II-a”",
+"short": "HCL Vermeș nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-05",
+"latest": "2025-02-05",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/190955",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/maureni/2021",
+"acts": [
+{
+"slug": "hcl-caras-severin--maureni-126-2021",
+"path": "local/caras-severin/maureni/2021/126",
+"kind": "local",
+"year": "2021",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 126/2021 privind aprobarea organigramei, a numărului de personal şi a statului de funcţii a aparatului de specialitate al Primarului comunei Măureni şi a instituţiilor publice de interes local fără personalitate juridică",
+"short": "HCL Măureni nr. 126/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/47419",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-138-2021",
+"path": "local/caras-severin/maureni/2021/138",
+"kind": "local",
+"year": "2021",
+"number": "138",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 138/2021 privind aprobarea dării în administrare a unor activități din cadrul Serviciului public de salubrizare al Comuna Măureni către Serviciul Public de Gospodărie Comunală Măureni, serviciu public de interes local, specializat, cu personalitate juridică, organizat în subordinea consiliului local al comunei Măureni, judeţul Caraș-Severin",
+"short": "HCL Măureni nr. 138/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/47431",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-139-2021",
+"path": "local/caras-severin/maureni/2021/139",
+"kind": "local",
+"year": "2021",
+"number": "139",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 139/2021 privind aprobarea execuţiei bugetului local al comunei Măureni pe trimestrul IV 2021",
+"short": "HCL Măureni nr. 139/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-23",
+"latest": "2021-12-23",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/47432",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/berzasca/2025",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--berzasca-42-2025",
+   "path": "local/caras-severin/berzasca/2025/42",
+   "short": "HCL Berzasca nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 42/2025 privind acordarea dreptului de acces gratuit la o suprafață de teren de 1m.p în cadrul Proiectului ''Realizarea infrastructurii de Broadband și racordarea la rețeaua de energie electrică exitentă printr-un branșament nou în județul Caraș-Severin, UAT Berzasca, localitatea Bigăr'' din cadrul proiectului ''Asigurarea accesului la internet Broadband în județele Mehedinți și Caraș-Severin''",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230065",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-44-2025",
+   "path": "local/caras-severin/berzasca/2025/44",
+   "short": "HCL Berzasca nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 44/2025 privind rectificarea de buget local pe trimestrul III și IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230067",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-45-2025",
+   "path": "local/caras-severin/berzasca/2025/45",
+   "short": "HCL Berzasca nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 45/2025 privind aprobarea contractării unui împrumut în valoare de 825.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230078",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-46-2025",
+   "path": "local/caras-severin/berzasca/2025/46",
+   "short": "HCL Berzasca nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 46/2025 privind însușirea Protocolului de transport cu microbuzele pentru transportul școlar, încheiat între UAT Berzasca și Școala Gimnazială Berzasca, de către Consiliul Local al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230079",
+   "versions": [
+    {
+     "from": "2025-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-50-2025",
+   "path": "local/caras-severin/berzasca/2025/50",
+   "short": "HCL Berzasca nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 50/2025 privind rectificarea de buget local pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247489",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-51-2025",
+   "path": "local/caras-severin/berzasca/2025/51",
+   "short": "HCL Berzasca nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 51/2025 privind rectificarea de buget local pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247490",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-52-2025",
+   "path": "local/caras-severin/berzasca/2025/52",
+   "short": "HCL Berzasca nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 52/2025 privind rectificarea de buget local pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247492",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-53-2025",
+   "path": "local/caras-severin/berzasca/2025/53",
+   "short": "HCL Berzasca nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 53/2025 privind aprobarea indicatorilor tehnico-economici actualizați pentru proiectul ''Reabilitare, modernizare și dotare cămine culturale în localitățile Berzasca, Bigăr și Liubcova, comuna Berzasca, județul Caraș-Severin''",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247493",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-54-2025",
+   "path": "local/caras-severin/berzasca/2025/54",
+   "short": "HCL Berzasca nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 54/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247494",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-55-2025",
+   "path": "local/caras-severin/berzasca/2025/55",
+   "short": "HCL Berzasca nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 55/2025 privind rectificarea de buget local pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247495",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-56-2025",
+   "path": "local/caras-severin/berzasca/2025/56",
+   "short": "HCL Berzasca nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 56/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247513",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-57-2025",
+   "path": "local/caras-severin/berzasca/2025/57",
+   "short": "HCL Berzasca nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 57/2025 privind rectificarea de buget local pe trimestrul IV, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247515",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-58-2025",
+   "path": "local/caras-severin/berzasca/2025/58",
+   "short": "HCL Berzasca nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 58/2025 privind organizarea rețelei școlare a unităților de învățământ preunversitar de stat și particular, pentru anul școlar 2026-2027, de pe raza unității administrativ-teritoariale a comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247516",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-59-2025",
+   "path": "local/caras-severin/berzasca/2025/59",
+   "short": "HCL Berzasca nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 59/2025 privind aprobarea sumei de 8.000,67 lei reprezentând contravaloarea a 160 pachete pentru Sărbătorile de iarnă, în anul 2025, pentru elevii din unitățile de învățământ de pe raza comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247519",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-60-2025",
+   "path": "local/caras-severin/berzasca/2025/60",
+   "short": "HCL Berzasca nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 60/2025 privind aprobarea impozitelor și taxelor locale începând cu anul 2026, la nivelul comunei Berzasca, județul Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/247520",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247520",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

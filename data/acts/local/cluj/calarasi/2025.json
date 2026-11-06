@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/calarasi/2025",
+"acts": [
+{
+"slug": "hcl-cluj--calarasi-68-2025",
+"path": "local/cluj/calarasi/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Călărași nr. 68/2025 privind stabilirea impozitelor, taxelor și tarifelor locale pentru anul 2026",
+"short": "HCL Călărași nr. 68/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-09",
+"latest": "2026-01-09",
+"portal": "https://emol.ro/calarasi-cj/registru-hcl/244529",
+"council": "cluj/calarasi",
+"council_name": "Consiliul Local al Comunei Călărași",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

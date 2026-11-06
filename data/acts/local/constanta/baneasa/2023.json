@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/baneasa/2023",
+"acts": [
+{
+"slug": "hcl-constanta--baneasa-75-2023",
+"path": "local/constanta/baneasa/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 75/2023 Privind însuşirea variantei finale a proiectului de stemă a comunei Băneasa, județul Constanța",
+"short": "HCL Băneasa nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-12",
+"latest": "2023-12-12",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/131034",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-87-2023",
+"path": "local/constanta/baneasa/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 87/2023 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2024",
+"short": "HCL Băneasa nr. 87/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/134738",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/viisoara/2022",
+ "acts": [
+  {
+   "slug": "hcl-cluj--viisoara-21-2022",
+   "path": "local/cluj/viisoara/2022/21",
+   "short": "HCL Viișoara nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2022 privind aprobarea programului de măsuri pentru Îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj pentru anul 2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73825",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-22-2022",
+   "path": "local/cluj/viisoara/2022/22",
+   "short": "HCL Viișoara nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2022 privind aprobarea proiectului și a cheltuielilor aferente proiectului „ÎNFIINȚARE PISTĂ PENTRU BICICLETE ÎN COMUNA VIIȘOARA, SAT URCA, JUD. CLUJ”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73826",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-24-2022",
+   "path": "local/cluj/viisoara/2022/24",
+   "short": "HCL Viișoara nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2022 privind aprobarea contractului de asociere comunei Viișoara în vederea constituirii Regiei Autonome „Ocolul Silvic Soimul Aries”, constituirea Regiei Autonome ”Ocolul Silvic Soimul Aries” în vederea gospodăririi fondului forestier propriu al unităților administrativ-teritoriale: Comuna Aiton, Comuna Baciu, Comuna Ceanu Mare, Comuna Ciurila, Comuna Luna, Comuna Mihai Viteazu, Comuna Moldovenești, Comuna Papiu Ilarian, Comuna Petrestii de Jos, Comuna Sandulesti, Comuna Sanger, Comuna Taureni, Comuna Tritenii de Jos, Municipiul Turda, Comuna Tureni, Comuna Valea Larga, Comuna Zau de Campie și aprobarea Regulamentului activității de administrare a pădurilor în regim silvic",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73964",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73964",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-26-2022",
+   "path": "local/cluj/viisoara/2022/26",
+   "short": "HCL Viișoara nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2022 privind participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: stații de reîncarcare pentru vehicule electrice în localități” și aprobarea indicatorilor tehnico-economici pentru proiectul ”REALIZARE STAȚII DE ÎNCĂRCARE PENTRU AUTOVEHICULE ELECTRICE, ÎN COMUNA VIIȘOARA, JUDEȚUL CLUJ”",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73966",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-29-2022",
+   "path": "local/cluj/viisoara/2022/29",
+   "short": "HCL Viișoara nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2022",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/73979",
+   "versions": [
+    {
+     "from": "2022-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/73979",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

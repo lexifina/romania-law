@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/marga/2022",
+"acts": [
+{
+"slug": "hcl-caras-severin--marga-64-2022",
+"path": "local/caras-severin/marga/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 64/2022 privind pentru aprobarea Regulamentului privind stabilirea unor măsuri obligatorii în domeniul gestionării deșeurilor edilitar-gospodărești, administrarea fondului locativ public și privat și alte măsuri pentru asigurarea ordinii și curățeniei în comuna Marga, județul Caraș-Severin",
+"short": "HCL Marga nr. 64/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/78902",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-65-2022",
+"path": "local/caras-severin/marga/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 65/2022 privind predarea către E-Distribuție Banat SA a capacității energetice care face obiectul lucrării EXTINDERE REȚEA LECTRICĂ DE INTERES PUBLIC DIN ZONA STRADA COLONIEI ACH",
+"short": "HCL Marga nr. 65/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/78903",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-66-2022",
+"path": "local/caras-severin/marga/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 66/2022 privind aprobarea sumei de 26 000 lei pentru materiale necesare Bisericii Baptiste SION Marga",
+"short": "HCL Marga nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-10",
+"latest": "2022-11-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/78904",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-67-2022",
+"path": "local/caras-severin/marga/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 67/2022 privind aprobarea rectificării Bugetului local de Venituri și Cheltuieli al comunei Margam pe trim. IV 2022",
+"short": "HCL Marga nr. 67/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-02",
+"latest": "2022-11-02",
+"portal": "https://emol.ro/marga-cs/registru-hcl/98975",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

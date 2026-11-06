@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/otelu-rosu/2022",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-70-2022",
+   "path": "local/caras-severin/otelu-rosu/2022/70",
+   "short": "HCL Oțelu Roșu nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 70/2022 privind modificarea Regulamentului privind organizarea şi desfăşurarea comerţului stradal si a altor activitati pe domeniul public si privat al orasului Otelu Rosu, constituit ca anexa la HCL nr. 68/30.06.2021, precum şi a Tabloului cuprinzând valorile impozabile, impozitele şi taxele locale, alte taxe asimilate acestora, precum şi amenzile aplicabile începând cu anul 2022, constituit ca anexa nr. 1 la HCL nr. 185/22.12.2021",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/74678",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/74678",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

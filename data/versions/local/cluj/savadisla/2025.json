@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/savadisla/2025",
+ "acts": [
+  {
+   "slug": "hcl-cluj--savadisla-110-2025",
+   "path": "local/cluj/savadisla/2025/110",
+   "short": "HCL Săvădisla nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 110/2025 privind stabilirea impozitelor și taxelor locale pe anul 2026 al comunei Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/244910",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/244910",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

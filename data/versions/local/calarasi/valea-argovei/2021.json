@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/valea-argovei/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--valea-argovei-48-2021",
+   "path": "local/calarasi/valea-argovei/2021/48",
+   "short": "HCL Valea Argovei nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 48/2021",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/37222",
+   "versions": [
+    {
+     "from": "2021-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/37222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-49-2021",
+   "path": "local/calarasi/valea-argovei/2021/49",
+   "short": "HCL Valea Argovei nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 49/2021",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/37223",
+   "versions": [
+    {
+     "from": "2021-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/37223",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-50-2021",
+   "path": "local/calarasi/valea-argovei/2021/50",
+   "short": "HCL Valea Argovei nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 50/2021 privind rectificarea de buget local pe anul 2021",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/38907",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/38907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-51-2021",
+   "path": "local/calarasi/valea-argovei/2021/51",
+   "short": "HCL Valea Argovei nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 51/2021 privind aprobarea cererii de finantare, a devizului general si a indicatorilor tehnico-economici estimativi pentru obiectivul de investitii :Asfaltarea drumurilor de interes local in satele Valea Argovei si Vladiceasca, comuna Valea Argovei, judetul Calarasi",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/38908",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/38908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-52-2021",
+   "path": "local/calarasi/valea-argovei/2021/52",
+   "short": "HCL Valea Argovei nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 52/2021 privind aprobarea cererii de finantare, a devizului general si a indicatorilor tehnico-economici estimativi pentru obiectivul de investitii :Modernizare strazi in satul Silistea, comuna Valea Argovei, judetul Calarasi:”",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/38909",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/38909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-53-2021",
+   "path": "local/calarasi/valea-argovei/2021/53",
+   "short": "HCL Valea Argovei nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 53/2021 privind aprobarea scutirii de la plata taxei de salubrizare, pentru locuitorii satului Ostrovu",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/38910",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/38910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-54-2021",
+   "path": "local/calarasi/valea-argovei/2021/54",
+   "short": "HCL Valea Argovei nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 54/2021 privind aprobarea contului de incheiere a exercitiului bugetar pe trimestrul III / 2021",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40003",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-56-2021",
+   "path": "local/calarasi/valea-argovei/2021/56",
+   "short": "HCL Valea Argovei nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 56/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40005",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-58-2021",
+   "path": "local/calarasi/valea-argovei/2021/58",
+   "short": "HCL Valea Argovei nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 58/2021 privind aprobarea cererii de finantare, a devizului general si a indicatorilor tehnico-economici estimativi pentru obiectivul de investitii „INFIINTARE RETEA DE APA UZATA CU STATIE DE EPURARE IN SATUL SILISTEA, COMUNA VALEA ARGOVEI, JUDETUL CALARASI”",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40070",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-59-2021",
+   "path": "local/calarasi/valea-argovei/2021/59",
+   "short": "HCL Valea Argovei nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 59/2021 privind aprobarea procedurii de desfășurare a sedintelor comisiilor de specialitate precum și a sedintelor în plen a Consiliului Local în situatii excepționale",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/40071",
+   "versions": [
+    {
+     "from": "2021-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/40071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-60-2021",
+   "path": "local/calarasi/valea-argovei/2021/60",
+   "short": "HCL Valea Argovei nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 60/2021 privind rectificarea de buget local pe anul 2021",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/42821",
+   "versions": [
+    {
+     "from": "2021-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/42821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-62-2021",
+   "path": "local/calarasi/valea-argovei/2021/62",
+   "short": "HCL Valea Argovei nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 62/2021 privind rectificare de buget local",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44736",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-63-2021",
+   "path": "local/calarasi/valea-argovei/2021/63",
+   "short": "HCL Valea Argovei nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 63/2021 privind aprobarea impozitelor si taxelor locale pentru anul fiscal 2022",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44737",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-64-2021",
+   "path": "local/calarasi/valea-argovei/2021/64",
+   "short": "HCL Valea Argovei nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 64/2021 privind aprobarea Regulamentului de organizare şi funcţionare a Serviciului de iluminat, a Indicatorilor de performanță, a Studiului de Oportunitate, stabilirea formei de gestiune, a Caietului de sarcini a serviciului de iluminat public şi Contractul cadru de delegarea gestiunii pentru activităţile de întreţinere şi reparații a sistemului de iluminat public, verificarea/repararea, montarea/demontarea ornamentelor pentru sărbători din Comuna Valea Argovei, judet Calarasi",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44738",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-65-2021",
+   "path": "local/calarasi/valea-argovei/2021/65",
+   "short": "HCL Valea Argovei nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 65/2021 privind aprobarea darii in administrare a unor bunuri imobile, proprietate publica a comunei Valea Argovei, catre Scoala Gimnaziala nr.1 din comuna Valea Argovei",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44739",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--valea-argovei-67-2021",
+   "path": "local/calarasi/valea-argovei/2021/67",
+   "short": "HCL Valea Argovei nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Valea Argovei nr. 67/2021 privind rectificare de buget local",
+   "url": "https://emol.ro/valeaargovei-cl/registru-hcl/44741",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/valeaargovei-cl/registru-hcl/44741",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

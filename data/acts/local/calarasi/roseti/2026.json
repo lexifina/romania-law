@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/calarasi/roseti/2026",
+"acts": [
+{
+"slug": "hcl-calarasi--roseti-115-2026",
+"path": "local/calarasi/roseti/2026/115",
+"kind": "local",
+"year": "2026",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 115/2026 privind aprobarea proiectului, a finanțării și a indicatorilor tehnico-economici, în vederea depunerii spre finanțare a obiectivului de investiții „CONSTRUIRE SISTEM DE STOCARE A ENERGIEI ELECTRICE ÎN COMUNA ROSEȚI, JUDEȚUL CĂLĂRAȘI”, în cadrul Programului Cheie 1 - Fondul pentru modernizare",
+"short": "HCL Roseți nr. 115/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-06",
+"latest": "2026-10-06",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/291123",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-120-2026",
+"path": "local/calarasi/roseti/2026/120",
+"kind": "local",
+"year": "2026",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 120/2026 privind aprobarea indicatorilor tehnico-economici și a proiectului tehnic aferent obiectivului de investiții “Lucrări de reparație și întreținere curentă de străzi, în comuna Roseți, județul Călărași ”",
+"short": "HCL Roseți nr. 120/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/296603",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-124-2026",
+"path": "local/calarasi/roseti/2026/124",
+"kind": "local",
+"year": "2026",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 124/2026",
+"short": "HCL Roseți nr. 124/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/296607",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-125-2026",
+"path": "local/calarasi/roseti/2026/125",
+"kind": "local",
+"year": "2026",
+"number": "125",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 125/2026 privind abrogarea Hotărârii Consiliului Local Roseți nr. 10 din 26 februarie 2007 privind stabilire taxa de salubrizare și managementul deșeurilor la platforma de gunoi a comunei Roseți precum și abrogarea nr. crt. 5 al capitolului VIII din anexa la Hotărârea Consiliului Local Roseți nr. 102 din 29.12.2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+"short": "HCL Roseți nr. 125/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-05",
+"latest": "2026-11-05",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/296608",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

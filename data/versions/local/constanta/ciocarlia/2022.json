@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/ciocarlia/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--ciocarlia-131-2022",
+   "path": "local/constanta/ciocarlia/2022/131",
+   "short": "HCL Ciocârlia nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 131/2022 privind delegarea gestiunii prin achiziții publice de servicii a activităților de sortare, tratare mecano-biologică și depozitare a deșeurilor municipale din Unitatea Administrativ Teritoriala Ciocârlia, fără punerea la dispoziție a infrastructurii",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/107003",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/107003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--ciocarlia-132-2022",
+   "path": "local/constanta/ciocarlia/2022/132",
+   "short": "HCL Ciocârlia nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 132/2022 privind aprobarea Participării Comunei Ciocârlia la teritoriul Grupul de Acțiune Locală Dobrogea Centrală",
+   "url": "https://emol.ro/ciocarlia-ct/registru-hcl/107004",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ciocarlia-ct/registru-hcl/107004",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

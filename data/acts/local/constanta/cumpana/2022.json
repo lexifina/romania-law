@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/constanta/cumpana/2022",
+"acts": [
+{
+"slug": "hcl-constanta--cumpana-69-2022",
+"path": "local/constanta/cumpana/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cumpăna nr. 69/2022 privind aprobarea contului de executie al bugetului local al comunei Cumpana la 31 martie 2022",
+"short": "HCL Cumpăna nr. 69/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-04-13",
+"latest": "2022-04-13",
+"portal": "https://emol.ro/cumpana-ct/registru-hcl/57010",
+"council": "constanta/cumpana",
+"council_name": "Consiliul Local al Comunei Cumpăna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

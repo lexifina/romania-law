@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/doclin/2023",
+"acts": [
+{
+"slug": "hcl-caras-severin--doclin-24-2023",
+"path": "local/caras-severin/doclin/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 24/2023 privind aprobarea contului de execuție a bugetului local la data de 30.06.2023",
+"short": "HCL Doclin nr. 24/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-18",
+"latest": "2023-08-18",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/115868",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-30-2023",
+"path": "local/caras-severin/doclin/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 30/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+"short": "HCL Doclin nr. 30/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/123977",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-33-2023",
+"path": "local/caras-severin/doclin/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 33/2023 privind aprobarea preţurilor şi tarifelor pentru furnizarea serviciilor de furnizare apă potabilă şi canalizare, practicate de catre Serviciul Public de Alimentare cu Apă și de Canalizare al Comunei Doclin",
+"short": "HCL Doclin nr. 33/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/123980",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-34-2023",
+"path": "local/caras-severin/doclin/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 34/2023 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Doclin nr. 34/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-16",
+"latest": "2023-10-16",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/123981",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-41-2023",
+"path": "local/caras-severin/doclin/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 41/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+"short": "HCL Doclin nr. 41/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/134893",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-42-2023",
+"path": "local/caras-severin/doclin/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 42/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile ȋn anul fiscal 2024",
+"short": "HCL Doclin nr. 42/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/134894",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

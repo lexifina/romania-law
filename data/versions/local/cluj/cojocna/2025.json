@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/cojocna/2025",
+ "acts": [
+  {
+   "slug": "hcl-cluj--cojocna-85-2025",
+   "path": "local/cluj/cojocna/2025/85",
+   "short": "HCL Cojocna nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 85/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/cojocna-cj/registru-hcl/243320",
+   "versions": [
+    {
+     "from": "2026-01-19",
+     "units": 1,
+     "source_url": "https://emol.ro/cojocna-cj/registru-hcl/243320",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

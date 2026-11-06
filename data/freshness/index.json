@@ -1448,12 +1448,12 @@
    "shard": "cnsc/2026",
    "kind": "cnsc",
    "file": "data/freshness/cnsc/2026.csv",
-   "count": 447,
+   "count": 651,
    "by_status": {
     "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 447,
+    "unverified": 651,
     "source-unavailable": 0
    }
   },

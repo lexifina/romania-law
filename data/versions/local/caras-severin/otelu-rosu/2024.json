@@ -1,0 +1,906 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/otelu-rosu/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-1-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/1",
+   "short": "HCL Oțelu Roșu nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 1/2024 privind aprobare ordine de zi şedinţă extraordinară din 09.01.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/138434",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/138434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-10-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/10",
+   "short": "HCL Oțelu Roșu nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 10/2024 privind aprobarea ” PLANULUI DE ACȚIUNI ŞI LUCRĂRI DE INTERES LOCAL PENTRU PERSOANELE APTE DE MUNCĂ, DIN FAMILIILE BENEFICIARE DE VENIT MINIM DE INCLUZIUNE PENTRU ANUL 2024 ”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139280",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-11-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/11",
+   "short": "HCL Oțelu Roșu nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 11/2024 privind aprobarea ”RAPORTULUI, privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap în perioada iulie-decembrie 2023”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139281",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-12-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/12",
+   "short": "HCL Oțelu Roșu nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 12/2024 privind aprobarea ”PLANULUI ANUAL DE ACȚIUNE privind serviciile sociale administrate și finanțate din bugetul Consiliului local al orașului Oțelu Roșu în anul 2024”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139282",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-13-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/13",
+   "short": "HCL Oțelu Roșu nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 13/2024 privind aprobarea dezmembrării imobilului înscris în CF nr. 35979 Oţelu Roşu, nr. cad. 35979 în suprafaţă de 1087 mp, în douăloturi, lot 1 de 700 m2 şi lot 2 de 387m2",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139283",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-17-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/17",
+   "short": "HCL Oțelu Roșu nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 17/2024 privind aprobare ordinei de zi a şedinţei ordinare a Consiliului Local al oraşului Oţelu Roşu din data de 12.02.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143226",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-18-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/18",
+   "short": "HCL Oțelu Roșu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 18/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Oțelu Roșu din data de 25.01.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143227",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-19-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/19",
+   "short": "HCL Oțelu Roșu nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 19/2024 privind aprobarea execuţiei bugetare pe anul 2023 conform anexelor ( contul de execuţie al bugetului local la data de 31.12.2023, partea de venituri şi cheltuieli, cât şi contul de excuţie al bugetului finanţat din venituri proprii la data de 31.12.2023, partea de venituri si cheltuieli), cât şi însuţirea situaţiei plăţilor restante la finele trimestrului IV din anul 2023",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143228",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-2-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/2",
+   "short": "HCL Oțelu Roșu nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 2/2024 privind aprobarea acoperirii deficitului secţiunii de dezvoltare, în sumă de 142 800 lei, la sfârşitul exerciţiului bugetar al anului 2023, din excedentul anilor anteriori",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/138435",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/138435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-20-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/20",
+   "short": "HCL Oțelu Roșu nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 20/2024 privind aprobarea pe total şi pe trimestre a bugetului local şi bugetului activităţii autofinanţate pe anul 2024, pe structura de funcţionare şi pe structura de dezvoltare, cât şi programul de investiţii ca anexă la buget",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143229",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-21-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/21",
+   "short": "HCL Oțelu Roșu nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 21/2024 privind aprobarea utilizării parţiale a unei sume (172 550 lei) din excedentul bugetar al anului 2023",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143230",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-22-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/22",
+   "short": "HCL Oțelu Roșu nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 22/2024 privind preluarea personalului medical de specialitate din creşa publică arondată Grădiniţei cu Program Prelungit Oţelu Roşu înstructura de persoanl medico-sanitar angajat de Primăria oraşului Oţelu Roşu precum şi aprobarea organigramei şi a Statului de Funcţii ale aparatului de specialitate al Primarului oraşului Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/143231",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/143231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-23-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/23",
+   "short": "HCL Oțelu Roșu nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 23/2024 privind aprobare ordine de zi a şedinţei extraordinare a Consiliului Local al oraşului Oţelu Roşu din data de 29.02.2024;",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148080",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-24-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/24",
+   "short": "HCL Oțelu Roșu nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 24/2024 privind aprobarea procesului verbal al ședinței ordinare a Consiliului local Oțelu Roșu din data de 12.02.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148081",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-26-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/26",
+   "short": "HCL Oțelu Roșu nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 26/2024 privind rectificarea bugetului Consiliului local Oţelu Roşu pe anul 2024;",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148083",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-27-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/27",
+   "short": "HCL Oțelu Roșu nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 27/2024 privind aprobarea organizării şi finanţării evenimentului cultural “8 Martie – Ziua internaţională a femeii”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148084",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-28-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/28",
+   "short": "HCL Oțelu Roșu nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 28/2024 privind aprobarea indicatorilor tehnico – economici, a devizului general şi a proiectului tehnic pentru obiectivul “Amenajare platforme betonate în cadrul locurilor de joacă din cartierul Cireşa, străzile Baia, Libertăţii, Rozelor şi Parcul central în Oraşul Oţelu Roşu, jud. Caraş – Severin”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148085",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-29-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/29",
+   "short": "HCL Oțelu Roșu nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 29/2024 privind aprobarea achiziţionării serviciilor de consultanţă depunere proiect şi a serviciilor de actualizare a documentaţiei tehnico – economice, faza DALI în vederea accesării obiectivului “AMA – Asistenţă Medicală Ambulatorie de înaltă calitate la Spitalul Orăşenesc Oţelu Roşu”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148086",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-3-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/3",
+   "short": "HCL Oțelu Roșu nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 3/2024 privind aprobarea modificării valorii Contractului de prestări servicii silvice nr. 6134/31.12.2021",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/138436",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/138436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-30-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/30",
+   "short": "HCL Oțelu Roșu nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 30/2024 privind aprobarea achiziţionării serviciilor pentru elaborarea “Strategiei Integrate de Dezvoltare Urbană (SIDU) cu orizontul de timp 2024 – 2030 a Oraşului Oţelu Roşu”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148087",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-33-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/33",
+   "short": "HCL Oțelu Roșu nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 33/2024 privind darea în folosinţă gratuită către AJOFM Caraş - Severin a unui spaţiu în suprafaţă de 20 mp, situat în imobilul “Casa de Cultură”, strada 22 Decembrie 1989, nr. 1",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148090",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-4-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/4",
+   "short": "HCL Oțelu Roșu nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 4/2024 privind reorganizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat acreditate pentru anul şcolar 2024 – 2025",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/138437",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/138437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-40-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/40",
+   "short": "HCL Oțelu Roșu nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 40/2024 privind aprobarea dezmembrării imobilului având nr. cad. 35852 Oţelu Roşu, în suprafaţă de 8258 mp, în 5 loturi, lot 1 de 500 mp – nr. cad. 36077, lot 2 de 500 mp – nr. cad. 36078, lot 3 de 500 mp – nr. cad. 36079, lot 4 de 6667 mp – nr. cad. 36080 şi lot 5 de 91 mp – nr. cad. 36081",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148097",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-41-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/41",
+   "short": "HCL Oțelu Roșu nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 41/2024 privind aprobarea dezmembrării imobilului având nr. cad. 34995 Oţelu Roşu, în suprafaţă de 393006 m2, în 3 loturi, lot 1 de 20700 m2, – nr. cad. 36102, lot 2 de 302826 m2,– nr. cad. 36104, lot 3 de 69480 m2,– nr. cad. 36103",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148098",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-42-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/42",
+   "short": "HCL Oțelu Roșu nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 42/2024 privind aprobarea iniţierii procedurii de concesionare a suprafeţelor rămase disponibile având categoria de folosinţă „pajişti” cuprinse în amenajamentul pastoral întocmit la nivelul UAT Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/148099",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/148099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-43-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/43",
+   "short": "HCL Oțelu Roșu nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 43/2024 privind aprobare ordine de zi şedinţă extraordinară din 21.03.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185248",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-44-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/44",
+   "short": "HCL Oțelu Roșu nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 44/2024 privind prezentarea şi aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Oţelu Roşu din data de 29.02.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185249",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-45-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/45",
+   "short": "HCL Oțelu Roșu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 45/2024 privind rectificarea bugetului şi a activităţii autofinanţate a Consiliului local Oţelu Roşu pe anul 2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185250",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-46-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/46",
+   "short": "HCL Oțelu Roșu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 46/2024 privind aprobarea documentaţiei de atribuire a contractului de concesiune pajişti aflate în domeniul public al oraşului Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185251",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-47-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/47",
+   "short": "HCL Oțelu Roșu nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 47/2024 privind aprobarea achiziţiei serviciilor de consultanţă şi asistenţă de specialitate, prin experţi cooptaţi, necesare în desfăşurarea procesului de achiziţie pentru obiectivul “Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar de pe raza oraşului Oţelu Roşu, jud. Caraş – Severin;",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/186629",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/186629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-48-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/48",
+   "short": "HCL Oțelu Roșu nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 48/2024 privind completarea Regulamentului Serviciului de Salubrizare “Salubris” din cadrul UAT Oţelu Roşu aprobat ca Anexa nr. 1 la HCL nr. 95/18.06.2019",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185252",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-49-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/49",
+   "short": "HCL Oțelu Roșu nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 49/2024 privind modificarea şi completarea Anexei nr. 1 şi Anexei nr. 2 la HCL nr. 209/14.11.2023",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185253",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-50-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/50",
+   "short": "HCL Oțelu Roșu nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 50/2024 privind aprobare ordine de zi ședinţă ordinară din 28.03.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185254",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-51-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/51",
+   "short": "HCL Oțelu Roșu nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 51/2024 privind achiziţionare aparate pentru întreţinerea aleilor şi spaţiilor verzi din oraşul Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185255",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-52-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/52",
+   "short": "HCL Oțelu Roșu nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 52/2024 privind achiziţionare “Mobilier urban -Staţie autobuz tip III” la valoarea estimată de 29.350 lei +TVA",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185256",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-53-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/53",
+   "short": "HCL Oțelu Roșu nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 53/2024 privind aprobarea indicatorilor tehnico-economici, a Devizului General şi a Documentaţiei de Avizare a Lucrărilor de Intervenţii pentru obiectivul „Desfiinţare, Construire şi Dotare Piaţă Agroalimentară”, din oraşul Oţelu Roşu, jud. Caraş-Severin",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185257",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-54-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/54",
+   "short": "HCL Oțelu Roșu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 54/2024 privind achiziţionare echipamente pentru obiectivul „Dotarea a trei locuri de joacă pe str. Libertăţii, str. Gai şi Parcul Central în oraşul Oţelu Roşu, jud. Caraş-Severin” la valoarea estimată de 270.000 lei +TVA",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185258",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-55-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/55",
+   "short": "HCL Oțelu Roșu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 55/2024 privind achiziţionare „Plante ornamentale, flori şi seminţe gazon” în oraşul Oţelu Roşu la valoarea estimată de 30.000 lei cu TVA inclus",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185259",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-56-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/56",
+   "short": "HCL Oțelu Roșu nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 56/2024 privind aprobarea modificării HCL nr. 118 din 30.06.2022 ref la obiectivul de investiţii „Construire creşă mică, str. Ştrandului, nr. 2, oraşul Oțelu Roşu, jud. Caraş-Severin”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185260",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-58-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/58",
+   "short": "HCL Oțelu Roșu nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 58/2024 privind rectificarea bugetului local şi al activităţii autofinanţate pe anul 2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185262",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-59-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/59",
+   "short": "HCL Oțelu Roșu nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 59/2024 privind aprobarea alocării sumei de 180000 lei, reprezentând 10% cofinanţare reparaţii capitale la Spitalul Orăşenesc Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185263",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-6-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/6",
+   "short": "HCL Oțelu Roșu nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 6/2024 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului Local al oraşului Oţelu Roşu din data de 25.01.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139276",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-60-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/60",
+   "short": "HCL Oțelu Roșu nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 60/2024 privind aprobarea proiectului < AMA – Asistenţă Medicală Ambulatorie de înaltă calitate la Spitalul Orăşenesc Oţelu Roşu > şi a cheltuielilor legate de proiect",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185264",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-61-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/61",
+   "short": "HCL Oțelu Roșu nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 61/2024 privind revocarea HCL nr. 14/25.01.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185265",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-64-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/64",
+   "short": "HCL Oțelu Roșu nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 64/2024 privind aprobarea indicatorilor tehnico – economici actualizaţi, şi a devizului general actualizat pentru obiectivul de investiţii “Amenajare promenadă de-a lungul râului Bistra pe partea stângă, pe o lungime de cca. 2 Km şi modernizare locuri de joacă pentru copii”, în oraşul Oţelu Roşu, jud. Caraş-Severin",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185268",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-65-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/65",
+   "short": "HCL Oțelu Roșu nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 65/2024 privind aprobarea caietului de sarcini şi încheierii unui contract de furnizare carburant pentru activitatea curentă a parcului auto şi a utilajelor consumatoare de carburant din dotarea “Autorităţii contractante Oraşul Oţelu Roşu” pentru anul 2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185269",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-66-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/66",
+   "short": "HCL Oțelu Roșu nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 66/2024 privind organizarea şi finanţarea evenimentului cultural – artistic “1 Iunie Ziua internaţională a copilului”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185270",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-7-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/7",
+   "short": "HCL Oțelu Roșu nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 7/2024 privind prezentarea şi aprobarea procesului verbal al şedinţei ordinare a Consiliului local Oţelu Roşu din data de 21.12.2023",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139277",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-73-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/73",
+   "short": "HCL Oțelu Roșu nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 73/2024 privind rectificarea bugetului local şi al activităţii autofinanţate pe anul 2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185277",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185277",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-74-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/74",
+   "short": "HCL Oțelu Roșu nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 74/2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185278",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-76-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/76",
+   "short": "HCL Oțelu Roșu nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 76/2024 privind aprobarea indicatorilor tehnico-economici şi a devizului general pentru obiectivul de investiţii “Lucrări de amenajare a unui teren sintetic în Cartierul Gai, oraşul Oţelu Roşu, jud. Caraş-Severin”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185280",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185280",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-77-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/77",
+   "short": "HCL Oțelu Roșu nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 77/2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185281",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-78-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/78",
+   "short": "HCL Oțelu Roșu nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 78/2024 privind organizarea şi finanţarea evenimentului cultural artistic “Ruga la Mal”",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185282",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-79-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/79",
+   "short": "HCL Oțelu Roșu nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 79/2024 privind aprobarea dotării cu mobilier a Cabinetului Stomatologic Şcolar Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185283",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-8-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/8",
+   "short": "HCL Oțelu Roșu nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 8/2024 privind prezentarea şi aprobarea procesului verbal al şedinţei extraordinare a Consiliului local Oţelu Roşu din data de 09.01.2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139278",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139278",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-80-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/80",
+   "short": "HCL Oțelu Roșu nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 80/2024 privind aprobarea achiziţionării serviciilor de medicina muncii pentru anul 2024",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185284",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-81-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/81",
+   "short": "HCL Oțelu Roșu nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 81/2024 privind aprobarea achiziţionării serviciilor de asistenţă şi support pentru modulele de “Casierie” şi “Comercial Contracte” din cadrul pachetului informatics integrat APLxPERT",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185285",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-84-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/84",
+   "short": "HCL Oțelu Roșu nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 84/2024 privind aprobarea alipirii imobilului înscris în CF nr. 36081, nr. cad. 36081 în suprafaţă de 91 mp cu imobilul înscris în CF nr. 35851, nr. cad. 35851 în suprafaţă de 409 mp",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185288",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-86-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/86",
+   "short": "HCL Oțelu Roșu nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 86/2024 privind monitorizarea postînchidere a depozitului de deşeuri",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/185290",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/185290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--otelu-rosu-9-2024",
+   "path": "local/caras-severin/otelu-rosu/2024/9",
+   "short": "HCL Oțelu Roșu nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Oțelu Roșu nr. 9/2024 privind salariile de bază pentru funcţiile publice şi contactuale din cadrul aparatului de specialitate al primarului, ale serviciilor publice şi instituţiilor publice din subordinea Consiliului local al oraşului Oţelu Roşu",
+   "url": "https://emol.ro/otelurosu-cs/registru-hcl/139279",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/otelurosu-cs/registru-hcl/139279",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

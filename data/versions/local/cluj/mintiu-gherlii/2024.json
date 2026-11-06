@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/mintiu-gherlii/2024",
+ "acts": [
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-35-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/35",
+   "short": "HCL Mintiu Gherlii nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 35/2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/170885",
+   "versions": [
+    {
+     "from": "2024-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/170885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--mintiu-gherlii-46-2024",
+   "path": "local/cluj/mintiu-gherlii/2024/46",
+   "short": "HCL Mintiu Gherlii nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 46/2024 privind stabilirea impozitelor si taxelor locale pe anul 2025",
+   "url": "https://emol.ro/mintiugherlii-cj/registru-hcl/183727",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/mintiugherlii-cj/registru-hcl/183727",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

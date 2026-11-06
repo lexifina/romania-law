@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/rusca-montana/2025",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--rusca-montana-123-2025",
+   "path": "local/caras-severin/rusca-montana/2025/123",
+   "short": "HCL Rusca Montană nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 123/2025 privind aprobarea Regulamentului de funcționare al Comisiei de Selecție și Nominalizare (CSN) a administratorului societății SC EC Ruscom Best SRL",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272104",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-125-2025",
+   "path": "local/caras-severin/rusca-montana/2025/125",
+   "short": "HCL Rusca Montană nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 125/2025 privind solicitarea trecerii unui teren, din domeniul public al statului, administrarea Ministerului Finanțelor, în domeniul public al UAT Rusca Montană și administrarea Consiliului Local al Comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272106",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-126-2025",
+   "path": "local/caras-severin/rusca-montana/2025/126",
+   "short": "HCL Rusca Montană nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 126/2025 privind aprobarea actualizării indicatorilor tehnico-economici și DG după procedura de achiziție a proiectului ''Extinderea rețelelor de canalizare și racordurilor și stație de epurare nouă în comuna Rusca Montană, Jud. Caraș-Severin''",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272116",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-127-2025",
+   "path": "local/caras-severin/rusca-montana/2025/127",
+   "short": "HCL Rusca Montană nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 127/2025 privind aprobarea actualizării indicatorilor tehnico-economici și DG după proiectul tehnic și Dispoziția de șantier pentru proiectul de investiții ''Extinderea rețelelor de canalizare și racordurilor și stație de epurare nouă în comuna Rusca Montană, Jud. Caraș-Severin''",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272117",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-134-2025",
+   "path": "local/caras-severin/rusca-montana/2025/134",
+   "short": "HCL Rusca Montană nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 134/2025 privind rectificarea bugetului local al comunei Rusca Montană pentru anul 2025",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272176",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-135-2025",
+   "path": "local/caras-severin/rusca-montana/2025/135",
+   "short": "HCL Rusca Montană nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 135/2025 privind aprobarea achiziționării serviciilor pentru lucrări de instalații electrice și monatre de stâlpi, materiale necesare, pentru instalare și montare accesorii la nivelul comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272177",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-136-2025",
+   "path": "local/caras-severin/rusca-montana/2025/136",
+   "short": "HCL Rusca Montană nr. 136/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 136/2025 privind aprobarea achiziționării serviciilor pentru toaletarea vegetației și lucrări la înălțime cu nacela, la nivelul comunei Rusca Montană, județul Caraș-Severin",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272178",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-138-2025",
+   "path": "local/caras-severin/rusca-montana/2025/138",
+   "short": "HCL Rusca Montană nr. 138/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 138/2025 privind aprobarea achiziționării serviciilor privind reparația instalației electrice și de conectare la internet, la nivelul Primăriei comunei Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272180",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-139-2025",
+   "path": "local/caras-severin/rusca-montana/2025/139",
+   "short": "HCL Rusca Montană nr. 139/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 139/2025 privind aprobarea achiziționării serviciilor privind reparația sistemului de supraveghere în comuna Rusca Montană, județul Caraș-Severin",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272181",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-140-2025",
+   "path": "local/caras-severin/rusca-montana/2025/140",
+   "short": "HCL Rusca Montană nr. 140/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 140/2025 privind aprobarea achiziționării serviciilor pentru evaluarea patrimoniului deținut de comuna Rusca Montană, județul Caraș-Severin",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272182",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-141-2025",
+   "path": "local/caras-severin/rusca-montana/2025/141",
+   "short": "HCL Rusca Montană nr. 141/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 141/2025 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente și a contratelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru școli în perioada 2026-2029, la nivelul UAT Rusca Montană",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272183",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-142-2025",
+   "path": "local/caras-severin/rusca-montana/2025/142",
+   "short": "HCL Rusca Montană nr. 142/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 142/2025 privind aprobarea valorii impozitelor și taxelor locale și altor taxe asimilate acestora precum și a amenzilor aplicabile la nivelul comunei Rusca Montană, pentru anul fiscal 2026, ca urmare a indexării acestora cu procentul de 5,6 % reprezentând rata inflației",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/272184",
+   "versions": [
+    {
+     "from": "2026-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/272184",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

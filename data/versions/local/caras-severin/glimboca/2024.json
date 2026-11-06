@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/glimboca/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--glimboca-24-2024",
+   "path": "local/caras-severin/glimboca/2024/24",
+   "short": "HCL Glimboca nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 24/2024 privind stabilirea impozitelor și taxelor locale în comuna Glimboca, județul Caraș-Severin, pentru anul 2025",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/178570",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/178570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-30-2024",
+   "path": "local/caras-severin/glimboca/2024/30",
+   "short": "HCL Glimboca nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 30/2024 privind organizarea rețelei școlare din comuna Glimboca, județul Caraș-Severin pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/195914",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/195914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-32-2024",
+   "path": "local/caras-severin/glimboca/2024/32",
+   "short": "HCL Glimboca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 32/2024 privind aprobarea Programului anual de achiziții publice pe anul 2025 la nivelul comunei Glimboca, județul Caraș-Severin",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/195916",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/195916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-33-2024",
+   "path": "local/caras-severin/glimboca/2024/33",
+   "short": "HCL Glimboca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 33/2024 privind stabilirea taxelor specialitate pe anul 2025 la nivelul comunei Glimboca, jud. Caraș-Severin",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/195917",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/195917",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

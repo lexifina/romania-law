@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/calarasi/roseti/2024",
+"acts": [
+{
+"slug": "hcl-calarasi--roseti-98-2024",
+"path": "local/calarasi/roseti/2024/98",
+"kind": "local",
+"year": "2024",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 98/2024",
+"short": "HCL Roseți nr. 98/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/182968",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-103-2024",
+"path": "local/calarasi/roseti/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 103/2024 privind privind indexarea cu rata de schimb a monedei euro a impozitului pe mijloacele de transport marfă cu masă totală autorizată egală sau mai mare de 12 tone precum și a unei combinaţii de autovehicule, autovehicul articulat sau tren rutier de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone pentru anul 2025",
+"short": "HCL Roseți nr. 103/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186686",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--roseti-105-2024",
+"path": "local/calarasi/roseti/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Roseți nr. 105/2024 privind aprobarea taxei de închiriere și a regulamentului privind modalitatea de închiriere a utilajelor buldoexcavator, respectiv tractor cu remorcă, aflate în patrimoniul comunei Roseți, județul Călărași",
+"short": "HCL Roseți nr. 105/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-14",
+"latest": "2025-01-14",
+"portal": "https://emol.ro/roseti-cl/registru-hcl/186688",
+"council": "calarasi/roseti",
+"council_name": "Consiliul Local al Comunei Roseți",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

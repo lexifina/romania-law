@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/calarasi/stefan-cel-mare/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--stefan-cel-mare-60-2023",
+"path": "local/calarasi/stefan-cel-mare/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 60/2023 privind stabilirea impozitului pe anul 2024 la vehiculele de 12 tone sau peste 12 tone prevăzute la art. 470 alin. (5) și (6) din legea nr. 227/2015 privind Codul Fiscal",
+"short": "HCL Ștefan cel Mare nr. 60/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-09",
+"latest": "2023-11-09",
+"portal": "https://emol.ro/stefancelmare-cl/registru-hcl/129689",
+"council": "calarasi/stefan-cel-mare",
+"council_name": "Consiliul Local al Comunei Ștefan cel Mare",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

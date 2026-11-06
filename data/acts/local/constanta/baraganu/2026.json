@@ -1,0 +1,271 @@
+{
+"country": "RO",
+"shard": "local/constanta/baraganu/2026",
+"acts": [
+{
+"slug": "hcl-constanta--baraganu-1-2026",
+"path": "local/constanta/baraganu/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 1/2026 privind aprobarea Planul de acțiuni privind serviciile sociale administrate şi finanţate din bugetul Consiliului Local al comunei Bărăganu pentru anul 2026",
+"short": "HCL Bărăganu nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273394",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-2-2026",
+"path": "local/constanta/baraganu/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 2/2026 privind aprobarea Planului anual de acțiuni/lucrări de interes local pentru anul 2026 prevăzut de art.61 alin.(1), lit. a) din Legea nr.196/2016 privind venitul minim de incluziune",
+"short": "HCL Bărăganu nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273395",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-3-2026",
+"path": "local/constanta/baraganu/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 3/2026 privind stabilirea situațiilor deosebite și modalitatea de acordare a ajutoarelor de urgență, a ajutoarelor comunitare și a ajutoarelor de înmormântare, în baza Legii nr.196 /2016 privind venitul minim de incluziune",
+"short": "HCL Bărăganu nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273396",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-5-2026",
+"path": "local/constanta/baraganu/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 5/2026 privind încheierea exercițiului bugetar pentru anul 2025",
+"short": "HCL Bărăganu nr. 5/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273398",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-6-2026",
+"path": "local/constanta/baraganu/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 6/2026 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+"short": "HCL Bărăganu nr. 6/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273399",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-7-2026",
+"path": "local/constanta/baraganu/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 7/2026 privind aplicarea reducerilor prevăzute de Ordonanța de Urgență nr. 9/2026 pentru impozitele și taxele locale aferente anului 2026",
+"short": "HCL Bărăganu nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273400",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-8-2026",
+"path": "local/constanta/baraganu/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 8/2026",
+"short": "HCL Bărăganu nr. 8/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273401",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-9-2026",
+"path": "local/constanta/baraganu/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 9/2026 privind aprobarea reorganizării aparatului de specialitate al primarului, precum şi a instituţiilor publice locale comuna Bărăganu, în conformitate cu OUG nr. 7/2026 Comunei Bărăganu, Județul Constanța",
+"short": "HCL Bărăganu nr. 9/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273402",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-10-2026",
+"path": "local/constanta/baraganu/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 10/2026 privind privind încheierea unui contract de consultanţă, asistenţă şi reprezentare juridică , pentru anul 2026",
+"short": "HCL Bărăganu nr. 10/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273403",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-11-2026",
+"path": "local/constanta/baraganu/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 11/2026 privind privind aprobarea bugetului local de venituri si cheltuieli pe anul 2026 și estimări pe anii 2027-2029, a listei de investiții și a Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole si surse de finanțare",
+"short": "HCL Bărăganu nr. 11/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273404",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-12-2026",
+"path": "local/constanta/baraganu/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 12/2026 privind privind digitalizarea serviciilor de plată a impozitelor și taxelor locale prin înrolarea în platforma www.ghiseul.ro și implementarea terminalelor POS la casieria instituției",
+"short": "HCL Bărăganu nr. 12/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273405",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baraganu-13-2026",
+"path": "local/constanta/baraganu/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 13/2026 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+"short": "HCL Bărăganu nr. 13/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-11",
+"latest": "2026-06-11",
+"portal": "https://emol.ro/baraganu-ct/registru-hcl/273406",
+"council": "constanta/baraganu",
+"council_name": "Consiliul Local al Comunei Bărăganu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

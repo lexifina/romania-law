@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/mintiu-gherlii/2026",
+"acts": [
+{
+"slug": "hcl-cluj--mintiu-gherlii-14-2026",
+"path": "local/cluj/mintiu-gherlii/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 14/2026 privind aprobarea bugetului general de venituri si cheltuieli al COMUNEI MINTIU GHERLII PE ANUL 2026",
+"short": "HCL Mintiu Gherlii nr. 14/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-15",
+"latest": "2026-05-15",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/267285",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-20-2026",
+"path": "local/cluj/mintiu-gherlii/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 20/2026 privind aprobarea tarifului aferent utilizării stațiilor de încărcare vehicule electrice amplasate pe domeniul public al comunei Mintiu Gherlii",
+"short": "HCL Mintiu Gherlii nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-20",
+"latest": "2026-07-20",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/278376",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

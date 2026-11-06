@@ -1,0 +1,204 @@
+{
+"country": "RO",
+"shard": "local/cluj/geaca/2025",
+"acts": [
+{
+"slug": "hcl-cluj--geaca-46-2025",
+"path": "local/cluj/geaca/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 46/2025 privind aprobarea utilizării excedentului rezultat la închiderea exerciţiului bugetar al anului 2024",
+"short": "HCL Geaca nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-01",
+"latest": "2025-09-01",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/223205",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-50-2025",
+"path": "local/cluj/geaca/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 50/2025 privind aprobare dezmembrare imobil-teren număr cadastral 57113, 57070, 57119 inscris provizoriu pe Geaca",
+"short": "HCL Geaca nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/225569",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-52-2025",
+"path": "local/cluj/geaca/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 52/2025 privind avizarea lucrării \"INTERNET ZONE ALBE –JUD SM, MM, CJ, BN - ZONA 5\", realizată în Comuna GEACA, judeţul Cluj si acces pe domeniul public/privat al comunei Geaca pentru lucrarile ce se vor desfasura",
+"short": "HCL Geaca nr. 52/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/232446",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-53-2025",
+"path": "local/cluj/geaca/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 53/2025 privind avizarea lucrării \"Construire statie de baza pentru servicii de comunicatii electronice - in satul sucutard, comuna Geaca, judetul Cluj.\", realizată în Comuna GEACA, judeţul Cluj si acces pe domeniul public/privat al comunei Geaca pentru lucrarile ce se vor desfasura",
+"short": "HCL Geaca nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/232447",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-54-2025",
+"path": "local/cluj/geaca/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 54/2025 privind aprobarea Regulamentului de Organizare şi Funcţionare al Primăriei comunei Geaca, judetul Cluj",
+"short": "HCL Geaca nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/232448",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-55-2025",
+"path": "local/cluj/geaca/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 55/2025 Privind rectificarea bugetului local de venituri si cheltuieli in luna octombrie 2025",
+"short": "HCL Geaca nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/232449",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-59-2025",
+"path": "local/cluj/geaca/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 59/2025 Privind rectificarea bugetului local de venituri si cheltuieli in luna noiembrie 2025- Scoala Gimnaziala Geaca",
+"short": "HCL Geaca nr. 59/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/236024",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-60-2025",
+"path": "local/cluj/geaca/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 60/2025 Privind rectificarea bugetului local de venituri si cheltuieli in luna noiembrie 2025 - Comuna Geaca",
+"short": "HCL Geaca nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/236025",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--geaca-64-2025",
+"path": "local/cluj/geaca/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Geaca nr. 64/2025 Privind rectificarea bugetului local de venituri si cheltuieli in luna decembrie 2025 - Comuna Geaca",
+"short": "HCL Geaca nr. 64/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/geaca-cj/registru-hcl/242540",
+"council": "cluj/geaca",
+"council_name": "Consiliul Local al Comunei Geaca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

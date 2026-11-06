@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ezeris/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ezeris-82-2024",
+   "path": "local/caras-severin/ezeris/2024/82",
+   "short": "HCL Ezeriș nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 82/2024 privind aprobarea întocmirii documentației tehnico-economice pentru Extindere iluminat public pe Strada nr. 13 Broscărie și Strada ''Drum agricol Tăului'' în intravilanul localității Soceni, comuna Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/183200",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/183200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-83-2024",
+   "path": "local/caras-severin/ezeris/2024/83",
+   "short": "HCL Ezeriș nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 83/2024 privind aprobarea măsurilor pentru gospodărirea Comunei Ezeriș pentru perioada 2024 - 2028",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/183202",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/183202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-86-2024",
+   "path": "local/caras-severin/ezeris/2024/86",
+   "short": "HCL Ezeriș nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 86/2024 privind gestionarea deșeurilor rezultate în urma construcțiilor, demolării și biodeșeurilor la nivelul Comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/183206",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/183206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-88-2024",
+   "path": "local/caras-severin/ezeris/2024/88",
+   "short": "HCL Ezeriș nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 88/2024 privind aprobarea participării Comunei Ezeriș în cadrul Programului privind creșeterea eficienței energetice a infrastructurii de iluminat public, precum și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul ''Modernizare sistem de iluminat public stradal comuna Ezeriș, Județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/183227",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/183227",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-90-2024",
+   "path": "local/caras-severin/ezeris/2024/90",
+   "short": "HCL Ezeriș nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 90/2024 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ezeriș, județul Caraș-Severin",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/195153",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/195153",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-95-2024",
+   "path": "local/caras-severin/ezeris/2024/95",
+   "short": "HCL Ezeriș nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 95/2024 privind rectificarea bugetului local pe anul 2024",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/195166",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/195166",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

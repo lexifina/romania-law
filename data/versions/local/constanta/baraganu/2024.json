@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/baraganu/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--baraganu-18-2024",
+   "path": "local/constanta/baraganu/2024/18",
+   "short": "HCL Bărăganu nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 18/2024 privind aprobarea Regulamentului de instituire și administrare a taxei de salubrizare, precum și stabilirea taxei de salubrizare pentru utilizatorii serviciului de salubrizare",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/207573",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/207573",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/constanta/ciocarlia/2022",
+"acts": [
+{
+"slug": "hcl-constanta--ciocarlia-131-2022",
+"path": "local/constanta/ciocarlia/2022/131",
+"kind": "local",
+"year": "2022",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 131/2022 privind delegarea gestiunii prin achiziții publice de servicii a activităților de sortare, tratare mecano-biologică și depozitare a deșeurilor municipale din Unitatea Administrativ Teritoriala Ciocârlia, fără punerea la dispoziție a infrastructurii",
+"short": "HCL Ciocârlia nr. 131/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/107003",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--ciocarlia-132-2022",
+"path": "local/constanta/ciocarlia/2022/132",
+"kind": "local",
+"year": "2022",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciocârlia nr. 132/2022 privind aprobarea Participării Comunei Ciocârlia la teritoriul Grupul de Acțiune Locală Dobrogea Centrală",
+"short": "HCL Ciocârlia nr. 132/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-20",
+"latest": "2022-12-20",
+"portal": "https://emol.ro/ciocarlia-ct/registru-hcl/107004",
+"council": "constanta/ciocarlia",
+"council_name": "Consiliul Local al Comunei Ciocârlia",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

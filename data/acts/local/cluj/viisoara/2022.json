@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/cluj/viisoara/2022",
+"acts": [
+{
+"slug": "hcl-cluj--viisoara-21-2022",
+"path": "local/cluj/viisoara/2022/21",
+"kind": "local",
+"year": "2022",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 21/2022 privind aprobarea programului de măsuri pentru Îmbunătățirea activității de gospodărire a comunei Viișoara, județul Cluj pentru anul 2022",
+"short": "HCL Viișoara nr. 21/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73825",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-22-2022",
+"path": "local/cluj/viisoara/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2022 privind aprobarea proiectului și a cheltuielilor aferente proiectului „ÎNFIINȚARE PISTĂ PENTRU BICICLETE ÎN COMUNA VIIȘOARA, SAT URCA, JUD. CLUJ”",
+"short": "HCL Viișoara nr. 22/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73826",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-24-2022",
+"path": "local/cluj/viisoara/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2022 privind aprobarea contractului de asociere comunei Viișoara în vederea constituirii Regiei Autonome „Ocolul Silvic Soimul Aries”, constituirea Regiei Autonome ”Ocolul Silvic Soimul Aries” în vederea gospodăririi fondului forestier propriu al unităților administrativ-teritoriale: Comuna Aiton, Comuna Baciu, Comuna Ceanu Mare, Comuna Ciurila, Comuna Luna, Comuna Mihai Viteazu, Comuna Moldovenești, Comuna Papiu Ilarian, Comuna Petrestii de Jos, Comuna Sandulesti, Comuna Sanger, Comuna Taureni, Comuna Tritenii de Jos, Municipiul Turda, Comuna Tureni, Comuna Valea Larga, Comuna Zau de Campie și aprobarea Regulamentului activității de administrare a pădurilor în regim silvic",
+"short": "HCL Viișoara nr. 24/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73964",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-26-2022",
+"path": "local/cluj/viisoara/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2022 privind participarea la „Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea infrastructurii pentru vehicule de transport rutier nepoluant din punct de vedere energetic: stații de reîncarcare pentru vehicule electrice în localități” și aprobarea indicatorilor tehnico-economici pentru proiectul ”REALIZARE STAȚII DE ÎNCĂRCARE PENTRU AUTOVEHICULE ELECTRICE, ÎN COMUNA VIIȘOARA, JUDEȚUL CLUJ”",
+"short": "HCL Viișoara nr. 26/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73966",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--viisoara-29-2022",
+"path": "local/cluj/viisoara/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 29/2022",
+"short": "HCL Viișoara nr. 29/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-30",
+"latest": "2022-09-30",
+"portal": "https://emol.ro/viisoara-cj/registru-hcl/73979",
+"council": "cluj/viisoara",
+"council_name": "Consiliul Local al Comunei Viișoara",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

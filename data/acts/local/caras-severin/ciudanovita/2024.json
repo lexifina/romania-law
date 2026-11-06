@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/ciudanovita/2024",
+"acts": [
+{
+"slug": "hcl-caras-severin--ciudanovita-80-2024",
+"path": "local/caras-severin/ciudanovita/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 80/2024 privind aprobarea actualizării valorii investitiței, a devizului general și a indicatorilor tehnico-economici aferenți proiectului „Reabilitare și modernizare sediu primăria Ciudanovița, localitatea Ciudanovița Colonie, comuna Ciudanovița, județul Caraș-Severin”",
+"short": "HCL Ciudanovița nr. 80/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187842",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-83-2024",
+"path": "local/caras-severin/ciudanovita/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 83/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar cu personalitate juridică de pe raza UAT Comuna Ciudanovița pentru anul școlar 2025-2026",
+"short": "HCL Ciudanovița nr. 83/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187854",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-85-2024",
+"path": "local/caras-severin/ciudanovita/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 85/2024 privind aprobarea actualizării devizului general actualizat și a indicatorilor tehnico-economici pentru investiţia „Sistem de canalizare, racorduri canal și branșamente apă în localitățile Ciudanovița Colonie, Ciudanovița și sat Jitin, comuna Ciudanovița, județul Caraș-Severin” aprobat pentru finanțare prin Programul Național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Ciudanovița nr. 85/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-22",
+"latest": "2025-01-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187856",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

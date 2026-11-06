@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/constanta/cerchezu/2023",
+"acts": [
+{
+"slug": "hcl-constanta--cerchezu-46-2023",
+"path": "local/constanta/cerchezu/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 46/2023 privind aprobarea tipului de suport alimentar ce se va acorda preșcolarilor și elevilor din unitățile de învățământ de pe raza comunei Cerchezu",
+"short": "HCL Cerchezu nr. 46/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-03",
+"latest": "2023-11-03",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/129495",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-48-2023",
+"path": "local/constanta/cerchezu/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 48/2023 privind alocarea din bugetul local a sumei de 15 000 lei, necesară pentru acordarea unor cadouri, elevilor şi preşcolarilor din cadrul unităţilor de învăţământ de pe raza comunei Cerchezu, jud. Constanţa, cu ocazia sarbătorilor de iarna",
+"short": "HCL Cerchezu nr. 48/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-21",
+"latest": "2023-11-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/129789",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-49-2023",
+"path": "local/constanta/cerchezu/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 49/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Cerchezu, judeţul Constanta, începând cu 1 ianuarie 2024",
+"short": "HCL Cerchezu nr. 49/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-21",
+"latest": "2023-11-21",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/129790",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

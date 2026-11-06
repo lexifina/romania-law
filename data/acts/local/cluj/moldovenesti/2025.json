@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/moldovenesti/2025",
+"acts": [
+{
+"slug": "hcl-cluj--moldovenesti-8-2025",
+"path": "local/cluj/moldovenesti/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moldovenești nr. 8/2025 privind actualizarea contractului de servicii încheiat în baza HCL nr.4 din 25.01.2023 pentru gestionarea câinilor fără stăpân",
+"short": "HCL Moldovenești nr. 8/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-08-08",
+"latest": "2025-08-08",
+"portal": "https://emol.ro/moldovenesti-cj/registru-hcl/220598",
+"council": "cluj/moldovenesti",
+"council_name": "Consiliul Local al Comunei Moldovenești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

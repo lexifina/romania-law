@@ -1,7 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hg-1-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/91583
 hg-10-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/52281
-hg-100-1991,pending-change,2026-11-04,2026-11-11,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1600
+hg-100-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1600
 hg-103-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/1603
 hg-104-1991,pending-change,2026-11-04,2026-11-11,amendment-search,hg-166-1993,1993-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/1604
 hg-107-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/92080
@@ -26,7 +26,7 @@ hg-129-1991,pending-change,2026-11-04,2026-11-11,amendment-search,hg-700-1995,19
 hg-13-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/15045
 hg-133-1991,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-02-05,no,https://legislatie.just.ro/Public/DetaliiDocument/1630
 hg-134-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/46789
-hg-138-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1632
+hg-138-1991,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1366-2001,2001-12-27,no,https://legislatie.just.ro/Public/DetaliiDocument/1632
 hg-139-1991,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/72213
 hg-14-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/15046
 hg-140-1991,pending-change,2026-11-04,2026-11-11,amendment-search,hg-174-1992,1992-05-04,no,https://legislatie.just.ro/Public/DetaliiDocument/1633
@@ -463,7 +463,7 @@ hg-784-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.ju
 hg-785-1991,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/95757
 hg-788-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96643
 hg-789-1991,pending-change,2026-11-06,2026-11-13,amendment-search,hg-794-1993,1994-12-27,no,https://legislatie.just.ro/Public/DetaliiDocument/2020
-hg-79-1991,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/1570
+hg-79-1991,pending-change,2026-11-06,2026-11-13,amendment-search,hg-204-1991,1991-03-22,no,https://legislatie.just.ro/Public/DetaliiDocument/1570
 hg-790-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35730
 hg-791-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35729
 hg-792-1991,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/96638

@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/baneasa/2021",
+ "acts": [
+  {
+   "slug": "hcl-constanta--baneasa-82-2021",
+   "path": "local/constanta/baneasa/2021/82",
+   "short": "HCL Băneasa nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 82/2021 privind rectificarea bugetului local pe anul 2021, luna Noiembrie 2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/42825",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/42825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-87-2021",
+   "path": "local/constanta/baneasa/2021/87",
+   "short": "HCL Băneasa nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 87/2021",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/45775",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baneasa-89-2021",
+   "path": "local/constanta/baneasa/2021/89",
+   "short": "HCL Băneasa nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 89/2021 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2022",
+   "url": "https://emol.ro/baneasa-ct/registru-hcl/45777",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/baneasa-ct/registru-hcl/45777",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

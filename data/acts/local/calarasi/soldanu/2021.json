@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/soldanu/2021",
+"acts": [
+{
+"slug": "hcl-calarasi--soldanu-48-2021",
+"path": "local/calarasi/soldanu/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 48/2021 privind aprobarea Strategiei de dezvoltare locală a Comunei Șoldanu pentru perioada 2021 - 2027 și în orizontul anului 2030",
+"short": "HCL Șoldanu nr. 48/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/42649",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-54-2021",
+"path": "local/calarasi/soldanu/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 54/2021 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2022, la Comuna Șoldanu, Județul Călărași",
+"short": "HCL Șoldanu nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/44382",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

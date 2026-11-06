@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/aliman/2020",
+ "acts": [
+  {
+   "slug": "hcl-constanta--aliman-63-2020",
+   "path": "local/constanta/aliman/2020/63",
+   "short": "HCL Aliman nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 63/2020 privind alegerea președintelui de ședință al Consiliului Local Aliman pentru o perioadă de 3 luni",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/16613",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/16613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-64-2020",
+   "path": "local/constanta/aliman/2020/64",
+   "short": "HCL Aliman nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 64/2020 privind stabilirea și organizarea comisiilor de specialitate din cadrul Consiliului Local al Comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/16614",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/16614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-65-2020",
+   "path": "local/constanta/aliman/2020/65",
+   "short": "HCL Aliman nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 65/2020 privind alegerea viceprimarului Comunei Aliman, județul Constanța",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/16615",
+   "versions": [
+    {
+     "from": "2020-11-13",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/16615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-66-2020",
+   "path": "local/constanta/aliman/2020/66",
+   "short": "HCL Aliman nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 66/2020 privind aprobarea rectificării bugetului local al Comunei Aliman pe anul 2020",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34493",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-70-2020",
+   "path": "local/constanta/aliman/2020/70",
+   "short": "HCL Aliman nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 70/2020 privind stabilirea impozitelor si taxelor locale, precum şi a taxelor speciale aplicabile în Comuna Aliman în anul fiscal 2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34497",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-71-2020",
+   "path": "local/constanta/aliman/2020/71",
+   "short": "HCL Aliman nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 71/2020 privind acordarea unor ajutoare financiare familiilor din comuna Aliman, judeţul Constanţa, care au implinit 50 de ani de la căsătorie în anul 2020",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34498",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-72-2020",
+   "path": "local/constanta/aliman/2020/72",
+   "short": "HCL Aliman nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 72/2020 privind aprobarea repartizării sumelor necesare acordării drepturilor băneşti aferente personalului didactic din cadrul unităţilor de învăţământ de pe raza comunei Aliman care solicită cheltuieli de deplasare în anul şcolar 2020-2021",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34499",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-73-2020",
+   "path": "local/constanta/aliman/2020/73",
+   "short": "HCL Aliman nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 73/2020",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34500",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-74-2020",
+   "path": "local/constanta/aliman/2020/74",
+   "short": "HCL Aliman nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 74/2020 privind aprobarea achiziţiei de lucrări de întreţinere alei de acces laterale străzi pietruite din sat Vlahii, comuna Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34501",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-75-2020",
+   "path": "local/constanta/aliman/2020/75",
+   "short": "HCL Aliman nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 75/2020 privind aprobarea achiziţiei de lucrări de întreţinere alei de acces laterale străzi cu asfalt din sat Vlahii, comuna Aliman, judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34502",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34502",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-79-2020",
+   "path": "local/constanta/aliman/2020/79",
+   "short": "HCL Aliman nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 79/2020 privind aprobarea proiectului tehnic aferent obiectivului de lucrări „REPARAŢII CURENTE CASA AGRONOMULUI – 1 APARTAMENT, LOC. ALIMAN, COM. ALIMAN, JUDEŢUL CONSTANŢA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34506",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-80-2020",
+   "path": "local/constanta/aliman/2020/80",
+   "short": "HCL Aliman nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 80/2020 privind aprobarea actualizării programului anual al achiziţiilor publice pe anul 2020",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/34507",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/34507",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

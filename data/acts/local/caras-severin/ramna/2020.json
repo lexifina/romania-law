@@ -1,0 +1,270 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/ramna/2020",
+"acts": [
+{
+"slug": "hcl-caras-severin--ramna-19-2020",
+"path": "local/caras-severin/ramna/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 19/2020 privind rectificarea bugetului local al comunei Ramna pe anul 2020",
+"short": "HCL Ramna nr. 19/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-24",
+"latest": "2020-07-24",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/14851",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-20-2020",
+"path": "local/caras-severin/ramna/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 20/2020 privind aprobarea execuției bugetelor, secțiunea de funcționare și secțiunea de dezvoltare pe trimestrul II, anul 2020",
+"short": "HCL Ramna nr. 20/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-12",
+"latest": "2020-08-12",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/14852",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-22-2020",
+"path": "local/caras-severin/ramna/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 22/2020 privind rectificarea bugetului local al comunei Ramna pe anul 2020",
+"short": "HCL Ramna nr. 22/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-08-31",
+"latest": "2020-08-31",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/14854",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-24-2020",
+"path": "local/caras-severin/ramna/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 24/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Ramna nr. 24/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18062",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-25-2020",
+"path": "local/caras-severin/ramna/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 25/2020 privind organizarea comisiilor de specialitate, pe principalele domenii de activitate, la nivelul Consiliului Local al comunei RAMNA",
+"short": "HCL Ramna nr. 25/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18063",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-26-2020",
+"path": "local/caras-severin/ramna/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 26/2020 privind alegerea viceprimarului comunei Ramna",
+"short": "HCL Ramna nr. 26/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-19",
+"latest": "2020-11-19",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18064",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-27-2020",
+"path": "local/caras-severin/ramna/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 27/2020 privind alocarea de la bugetul local a sumei de 23.800 lei pentru reparatia Bisericii Ortodoxe Valeapai, de pe raza UAT Ramna, in urma solicitarii acesteia",
+"short": "HCL Ramna nr. 27/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18065",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-28-2020",
+"path": "local/caras-severin/ramna/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 28/2020 privind aprobarea modificării si subventionarii tarifului pentru prestarea serviciului de salubrizare din bugetul comunei Ramna pe anul 2020",
+"short": "HCL Ramna nr. 28/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18066",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-29-2020",
+"path": "local/caras-severin/ramna/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 29/2020 privind aprobarea proiectului ” Îmbunătățirea conținutului digital și a infrastructurii TIC sistemice a unității de învățământ preuniversitar din Comuna Ramna, Județul Caraș-Severin” în vederea finanțării acestuia în cadrul Programului Operaţional Competitivitate Axa prioritară 2 - Tehnologia Informaţiei şi Comunicaţiilor (TIC) pentru o economie digitală competitivă Prioritatea de investiții 2c. - Consolidarea aplicaţiilor TIC pentru e-guvernare, e-învăţare, e-incluziune, e-cultură, e-sănătate Obiectiv Specific OS 2.4 - Creşterea gradului de utilizare a Internetului Acţiunea 2.3.3 – Îmbunătățirea conținutului digital și a infrastructurii TIC sistemice în domeniul e-educație, e-incluziune, e-sănătate și e-cultură – SECŢIUNEA E-EDUCAŢIE Apelul de proiecte nr. 2",
+"short": "HCL Ramna nr. 29/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18067",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-30-2020",
+"path": "local/caras-severin/ramna/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 30/2020 privind rectificarea bugetului local al comunei Ramna pe anul 2020",
+"short": "HCL Ramna nr. 30/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-20",
+"latest": "2020-11-20",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/18068",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-32-2020",
+"path": "local/caras-severin/ramna/2020/32",
+"kind": "local",
+"year": "2020",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 32/2020 privind stabilirea impozitelor şi a taxelor locale pentru anul 2021",
+"short": "HCL Ramna nr. 32/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37589",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ramna-34-2020",
+"path": "local/caras-severin/ramna/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ramna nr. 34/2020 privind rectificarea bugetului local al comunei Ramna pe anul 2020",
+"short": "HCL Ramna nr. 34/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/ramna-cs/registru-hcl/37591",
+"council": "caras-severin/ramna",
+"council_name": "Consiliul Local al Comunei Ramna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

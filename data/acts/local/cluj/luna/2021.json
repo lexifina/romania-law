@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/cluj/luna/2021",
+"acts": [
+{
+"slug": "hcl-cluj--luna-40-2021",
+"path": "local/cluj/luna/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 40/2021 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Luna",
+"short": "HCL Luna nr. 40/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42212",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-43-2021",
+"path": "local/cluj/luna/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 43/2021 pentru aprobarea Regulamentului privind normele de gospodărire comunală, pe teritoriul Comunei Luna, Județul Cluj",
+"short": "HCL Luna nr. 43/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42215",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-44-2021",
+"path": "local/cluj/luna/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 44/2021 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2022",
+"short": "HCL Luna nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42216",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-47-2021",
+"path": "local/cluj/luna/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 47/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+"short": "HCL Luna nr. 47/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42219",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-49-2021",
+"path": "local/cluj/luna/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 49/2021 privind stabilirea procedurii de desfășurare a ședințelor Consiliului Local al Comunei Luna prin mijloace electronice de comunicare la distanță",
+"short": "HCL Luna nr. 49/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42826",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-54-2021",
+"path": "local/cluj/luna/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 54/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+"short": "HCL Luna nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/42831",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-57-2021",
+"path": "local/cluj/luna/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 57/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+"short": "HCL Luna nr. 57/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": "https://emol.ro/luna-cj/registru-hcl/44149",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-59-2021",
+"path": "local/cluj/luna/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 59/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+"short": "HCL Luna nr. 59/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/luna-cj/registru-hcl/45007",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

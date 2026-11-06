@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/calarasi/2023",
+ "acts": [
+  {
+   "slug": "hcl-cluj--calarasi-42-2023",
+   "path": "local/cluj/calarasi/2023/42",
+   "short": "HCL Călărași nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 42/2023 privind neasumarea responsabilității organizării și derulării la nivel local a procedurilor de atribuire a contractelor/ acordurilor- cadru pentru achiziționarea produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, aferente Programului pentru Școli al României în perioada 2023-2029, precum și pentru stabilirea bugetului pentru implementarea acestuia în anul școlar 2023-2024, adoptat prin Hotărârea Guvernului nr.652/2023, publicată în Monitorul Oficial al României nr.728/08.08.2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/118900",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/118900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-43-2023",
+   "path": "local/cluj/calarasi/2023/43",
+   "short": "HCL Călărași nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 43/2023 privind Proiect de hotărâre privind aprobarea indicatorilor tehnico economici și a devizului general actualizat in urma finalizării procedurii de achiziție publică de lucrări la obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN COMUNA CĂLĂRAȘI, SAT CĂLĂRAȘI-GARĂ, JUDEȚUL CLUJ” aprobat pentru finanțare prin Programul Național de Investiții Anghel Saligny precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/120388",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/120388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-45-2023",
+   "path": "local/cluj/calarasi/2023/45",
+   "short": "HCL Călărași nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 45/2023 privind aprobarea documentatiei tehnico-economice faza SF si a principalilor indicatori tehnico-economici pentru proiectul “ Sisteme inteligente de management local prin: extindere sistem de monitorizare si siguranta a spatiului public, extinderea sistemului WiFi si plata online a taxelor si impozitelor” – componenta extindere sistem de monitorizare si siguranta a spatiului public",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/121288",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/121288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-47-2023",
+   "path": "local/cluj/calarasi/2023/47",
+   "short": "HCL Călărași nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 47/2023 privind aprobarea planului anual de acțiune privind serviciile sociale acordate la nivelul comunei Călărași, jud. Cluj, in anul 2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/121290",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/121290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-56-2023",
+   "path": "local/cluj/calarasi/2023/56",
+   "short": "HCL Călărași nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 56/2023 privind modificarea și completarea Hotărârii de consiliu local nr.67/23.11.2022",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/128920",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/128920",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-58-2023",
+   "path": "local/cluj/calarasi/2023/58",
+   "short": "HCL Călărași nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 58/2023 Proiect de hotărare privind rectificarea bugetului de venituri și cheltuieli, actualizare lista de investitii si plan anual de achizitii publice, an 2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/133402",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/133402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-59-2023",
+   "path": "local/cluj/calarasi/2023/59",
+   "short": "HCL Călărași nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 59/2023 privind aprobarea execuției de venituri și cheltuieli la trim.IV, an 2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/133403",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/133403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-60-2023",
+   "path": "local/cluj/calarasi/2023/60",
+   "short": "HCL Călărași nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 60/2023 Proiect de hotărare privind rectificarea bugetului de venituri și cheltuieli, an 2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/134707",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/134707",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

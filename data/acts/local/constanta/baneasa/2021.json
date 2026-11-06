@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/constanta/baneasa/2021",
+"acts": [
+{
+"slug": "hcl-constanta--baneasa-82-2021",
+"path": "local/constanta/baneasa/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 82/2021 privind rectificarea bugetului local pe anul 2021, luna Noiembrie 2021",
+"short": "HCL Băneasa nr. 82/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/42825",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-87-2021",
+"path": "local/constanta/baneasa/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 87/2021",
+"short": "HCL Băneasa nr. 87/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/45775",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-89-2021",
+"path": "local/constanta/baneasa/2021/89",
+"kind": "local",
+"year": "2021",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 89/2021 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2022",
+"short": "HCL Băneasa nr. 89/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-22",
+"latest": "2021-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/45777",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

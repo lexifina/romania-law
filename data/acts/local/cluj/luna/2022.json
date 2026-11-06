@@ -1,0 +1,138 @@
+{
+"country": "RO",
+"shard": "local/cluj/luna/2022",
+"acts": [
+{
+"slug": "hcl-cluj--luna-37-2022",
+"path": "local/cluj/luna/2022/37",
+"kind": "local",
+"year": "2022",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 37/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+"short": "HCL Luna nr. 37/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-01",
+"latest": "2022-11-01",
+"portal": "https://emol.ro/luna-cj/registru-hcl/77691",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-39-2022",
+"path": "local/cluj/luna/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 39/2022 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2023",
+"short": "HCL Luna nr. 39/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/luna-cj/registru-hcl/81840",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-40-2022",
+"path": "local/cluj/luna/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 40/2022 privind aprobarea execuției bugetului de venituri și cheltuieli al Comunei Luna la trimestrul III al anului 2022",
+"short": "HCL Luna nr. 40/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/luna-cj/registru-hcl/81841",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-45-2022",
+"path": "local/cluj/luna/2022/45",
+"kind": "local",
+"year": "2022",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 45/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+"short": "HCL Luna nr. 45/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/luna-cj/registru-hcl/83199",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-50-2022",
+"path": "local/cluj/luna/2022/50",
+"kind": "local",
+"year": "2022",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 50/2022 privind aprobarea prelungirii valabilității Planului Urbanistic General al Comunei Luna, până la aprobarea variantei actualizate a planului",
+"short": "HCL Luna nr. 50/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-19",
+"latest": "2022-12-19",
+"portal": "https://emol.ro/luna-cj/registru-hcl/83200",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--luna-51-2022",
+"path": "local/cluj/luna/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 51/2022 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2022",
+"short": "HCL Luna nr. 51/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-30",
+"latest": "2022-12-30",
+"portal": "https://emol.ro/luna-cj/registru-hcl/84888",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

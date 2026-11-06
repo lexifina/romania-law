@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/roseti/2025",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--roseti-102-2025",
+   "path": "local/calarasi/roseti/2025/102",
+   "short": "HCL Roseți nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 102/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/245891",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/245891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-103-2025",
+   "path": "local/calarasi/roseti/2025/103",
+   "short": "HCL Roseți nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 103/2025 privind aprobarea documentației cadastrale de dezmembrare a imobilului teren intravilan cu nr. cadastral 23175, situat în comuna Roseți, județul Călărași, strada Borcea, tarla 84, domeniu privat al comunei Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/245892",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/245892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-106-2025",
+   "path": "local/calarasi/roseti/2025/106",
+   "short": "HCL Roseți nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 106/2025",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/245895",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/245895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-108-2025",
+   "path": "local/calarasi/roseti/2025/108",
+   "short": "HCL Roseți nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 108/2025 privind aprobarea documentației Plan Urbanistic Zonal și a a Regulamentului Local aferent “CONSTRUIRE POD BASCULĂ CAPACITATE 60 TONE” în comuna Roseți, județul Călărași, tarla 52/2, parcela 48/1, nr. cadastral 2416",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/245897",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/245897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-96-2025",
+   "path": "local/calarasi/roseti/2025/96",
+   "short": "HCL Roseți nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 96/2025 privind aprobarea organizării și desfășurării sărbătorii tematice “Poveste de Crăciun 2025” în comuna Roseți, județul Călărași",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/238971",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/238971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-98-2025",
+   "path": "local/calarasi/roseti/2025/98",
+   "short": "HCL Roseți nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 98/2025 privind actualizarea devizului general aferent obiectivului de investiții” MODERNIZAREA SI EFICIENTIZAREA ILUMINATULUI PUBLIC ÎN COMUNA ROSEȚI, JUDEȚUL CĂLĂRAȘI”,",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/240592",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/240592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--roseti-99-2025",
+   "path": "local/calarasi/roseti/2025/99",
+   "short": "HCL Roseți nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Roseți nr. 99/2025 privind indexarea cu rata de schimb a monedei euro a impozitului pe mijloacele de transport marfă cu masă totală autorizată egală sau mai mare de 12 tone precum și a unei combinaţii de autovehicule, autovehicul articulat sau tren rutier de transport de marfă cu masa totală maximă autorizată egală sau mai mare de 12 tone pentru anul 2026",
+   "url": "https://emol.ro/roseti-cl/registru-hcl/245888",
+   "versions": [
+    {
+     "from": "2026-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/roseti-cl/registru-hcl/245888",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

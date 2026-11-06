@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/marga/2020",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--marga-57-2020",
+   "path": "local/caras-severin/marga/2020/57",
+   "short": "HCL Marga nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 57/2020 privind rectificarea bugetului local al comunei Marga pe trim. III 2020",
+   "url": "https://emol.ro/marga-cs/registru-hcl/14092",
+   "versions": [
+    {
+     "from": "2020-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/14092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-63-2020",
+   "path": "local/caras-severin/marga/2020/63",
+   "short": "HCL Marga nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 63/2020 privind rectificarea bugetului local al comunei Marga pe trim. IV 2020",
+   "url": "https://emol.ro/marga-cs/registru-hcl/33602",
+   "versions": [
+    {
+     "from": "2020-11-21",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/33602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-67-2020",
+   "path": "local/caras-severin/marga/2020/67",
+   "short": "HCL Marga nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 67/2020 privind rectificarea bugetului local al comunei Marga pe trim. IV 2020",
+   "url": "https://emol.ro/marga-cs/registru-hcl/33606",
+   "versions": [
+    {
+     "from": "2020-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/33606",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

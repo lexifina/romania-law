@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/bucosnita/2025",
+"acts": [
+{
+"slug": "hcl-caras-severin--bucosnita-154-2025",
+"path": "local/caras-severin/bucosnita/2025/154",
+"kind": "local",
+"year": "2025",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 154/2025 privind aprobarea rețelei școlare de pe raza comunei Bucoșnița, județul Caraș-Severin, pentru anul școlar 2026-2027",
+"short": "HCL Bucoșnița nr. 154/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://emol.ro/bucosnita-cs/registru-hcl/242599",
+"council": "caras-severin/bucosnita",
+"council_name": "Consiliul Local al Comunei Bucoșnița",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/calarasi/ulmu/2026",
+"acts": [
+{
+"slug": "hcl-calarasi--ulmu-17-2026",
+"path": "local/calarasi/ulmu/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 17/2026 privind utilizarea excedentului bugetului Scolii Gimnaziale nr. 1 Ulmu pe anul 2026, sursa “E”",
+"short": "HCL Ulmu nr. 17/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275066",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-18-2026",
+"path": "local/calarasi/ulmu/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 18/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa “A” si “E”",
+"short": "HCL Ulmu nr. 18/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275067",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-20-2026",
+"path": "local/calarasi/ulmu/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 20/2026 privind rectificarea bugetului local pe anul 2026",
+"short": "HCL Ulmu nr. 20/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275069",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-22-2026",
+"path": "local/calarasi/ulmu/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2026 privind implementarea proiectului „Achizitionarea de utilaje pentru transportul si manipularea deseurilor in comuna Ulmu, judetul Calarasi”",
+"short": "HCL Ulmu nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275070",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-23-2026",
+"path": "local/calarasi/ulmu/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 23/2026 privind aprobarea Devizului general şi a indicatorilor tehnico-economici pentru proiectul „Achizitionarea de utilaje pentru transportul si manipularea deseurilor in comuna Ulmu, judetul Calarasi”",
+"short": "HCL Ulmu nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275072",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-24-2026",
+"path": "local/calarasi/ulmu/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 24/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa “A”",
+"short": "HCL Ulmu nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/275073",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-29-2026",
+"path": "local/calarasi/ulmu/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 29/2026 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul II privind anul 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+"short": "HCL Ulmu nr. 29/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/282648",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-30-2026",
+"path": "local/calarasi/ulmu/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 30/2026 privind aprobarea contului de executie bugetara incheiat la data de 30 iunie 2026",
+"short": "HCL Ulmu nr. 30/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/282649",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-31-2026",
+"path": "local/calarasi/ulmu/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 31/2026 privind aprobarea indicatorilor tehnico-economici si obiectivul de investitie, actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare strazi in comuna Ulmu, judetul Calarasi”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Ulmu nr. 31/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-07",
+"latest": "2026-08-07",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/282650",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-35-2026",
+"path": "local/calarasi/ulmu/2026/35",
+"kind": "local",
+"year": "2026",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 35/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa „A„",
+"short": "HCL Ulmu nr. 35/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/291314",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-36-2026",
+"path": "local/calarasi/ulmu/2026/36",
+"kind": "local",
+"year": "2026",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 36/2026 privind numărul de utilizatori casnici ai serviciului de salubrizare-colectarea, transportul și gestionarea deșeurilor de pe teritoriul localității Ulmu, județul Călărași",
+"short": "HCL Ulmu nr. 36/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/291333",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

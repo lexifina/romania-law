@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/rusca-montana/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--rusca-montana-115-2024",
+   "path": "local/caras-severin/rusca-montana/2024/115",
+   "short": "HCL Rusca Montană nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 115/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanțelor bugetare și a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198591",
+   "versions": [
+    {
+     "from": "2024-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-123-2024",
+   "path": "local/caras-severin/rusca-montana/2024/123",
+   "short": "HCL Rusca Montană nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 123/2024 privind rectificarea bugetului local",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198599",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-124-2024",
+   "path": "local/caras-severin/rusca-montana/2024/124",
+   "short": "HCL Rusca Montană nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 124/2024 privind rețeaua școlară a unităților de învățământ preuniversitar de stat de pe raza teritorială a comunei Rusca Montană, județul Caraș-Severin, pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198600",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--rusca-montana-126-2024",
+   "path": "local/caras-severin/rusca-montana/2024/126",
+   "short": "HCL Rusca Montană nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 126/2024 privind aprobarea valorii impozitelor și taxelor locale și altor taxe asimilate acestora precum și a amenzilor aplicabile la nivelul comunei Rusca Montană, pentru anul fiscal 2025, ca urmare a indexării acestora cu procentul de 10,4% reprezentând rata inflației",
+   "url": "https://emol.ro/ruscamontana-cs/registru-hcl/198602",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/ruscamontana-cs/registru-hcl/198602",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

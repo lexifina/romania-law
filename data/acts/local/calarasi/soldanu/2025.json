@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/soldanu/2025",
+"acts": [
+{
+"slug": "hcl-calarasi--soldanu-25-2025",
+"path": "local/calarasi/soldanu/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 25/2025 privind aprobarea Regulamentului pentru înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării la Comuna Șoldanu",
+"short": "HCL Șoldanu nr. 25/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-17",
+"latest": "2025-10-17",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/214484",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--soldanu-38-2025",
+"path": "local/calarasi/soldanu/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 38/2025 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2026 la Comuna Șoldanu",
+"short": "HCL Șoldanu nr. 38/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/soldanu-cl/registru-hcl/243918",
+"council": "calarasi/soldanu",
+"council_name": "Consiliul Local al Comunei Șoldanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

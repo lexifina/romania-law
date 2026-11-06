@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/viisoara/2020",
+ "acts": [
+  {
+   "slug": "hcl-cluj--viisoara-22-2020",
+   "path": "local/cluj/viisoara/2020/22",
+   "short": "HCL Viișoara nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 22/2020 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara la 30.06.2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21406",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-23-2020",
+   "path": "local/cluj/viisoara/2020/23",
+   "short": "HCL Viișoara nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 23/2020 privind punerea la dispoziția proiectului ,,Sistem informațional pentru managementul integrat al apelor - etapa II'' dezvoltat de către Administrația Națională ,,Apele Române\"",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21407",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-24-2020",
+   "path": "local/cluj/viisoara/2020/24",
+   "short": "HCL Viișoara nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 24/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21408",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-25-2020",
+   "path": "local/cluj/viisoara/2020/25",
+   "short": "HCL Viișoara nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 25/2020 privind aprobarea achiziționării de servicii juridice de consultanță, de asistență și/sau de reprezentare de către comuna Viișoara/primăria comunei Viișoara/Consiliul local al comunei Viișoara, pentru promovarea unor acțiuni, apărări sau căi de atac",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/21409",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/21409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-26-2020",
+   "path": "local/cluj/viisoara/2020/26",
+   "short": "HCL Viișoara nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 26/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/22626",
+   "versions": [
+    {
+     "from": "2020-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/22626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-30-2020",
+   "path": "local/cluj/viisoara/2020/30",
+   "short": "HCL Viișoara nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 30/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli, lista de investiții pentru 2020",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23358",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-31-2020",
+   "path": "local/cluj/viisoara/2020/31",
+   "short": "HCL Viișoara nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 31/2020 privind aprobarea execuției bugetare al bugetului de venituri și cheltuieli al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23359",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-33-2020",
+   "path": "local/cluj/viisoara/2020/33",
+   "short": "HCL Viișoara nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 33/2020 privind organizarea evenimentului ”Nunta de aur 2020” comuna Viișoara, județul Cluj",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23361",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-34-2020",
+   "path": "local/cluj/viisoara/2020/34",
+   "short": "HCL Viișoara nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 34/2020 privind aprobarea Regulamentului de organizare și funcționare al Consiliului local al comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23362",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--viisoara-35-2020",
+   "path": "local/cluj/viisoara/2020/35",
+   "short": "HCL Viișoara nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Viișoara nr. 35/2020 privind aprobarea modificării Organigramei și a Statului de Funcții al aparatului de specialitate al primarului Comunei Viișoara",
+   "url": "https://emol.ro/viisoara-cj/registru-hcl/23363",
+   "versions": [
+    {
+     "from": "2020-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/viisoara-cj/registru-hcl/23363",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

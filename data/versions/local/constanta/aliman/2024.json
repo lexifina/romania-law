@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/aliman/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--aliman-58-2024",
+   "path": "local/constanta/aliman/2024/58",
+   "short": "HCL Aliman nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 58/2024 privind aprobarea documentației tehnico-economice pentru obiectivul de investiții „REȚEA ALIMENTARE CU APĂ SAT FLORILE-ZONA 1, COMUNA ALIMAN, JUDEȚUL CONSTANȚA”, faza-Proiect Tehnic",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197318",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-60-2024",
+   "path": "local/constanta/aliman/2024/60",
+   "short": "HCL Aliman nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 60/2024 privind modificarea Hotărârii Consiliului Local Aliman nr. 34 din 30 aprilie 2024 privind demararea implementării unui program de salubrizare în comuna Aliman, denumit „CURĂȚENIE GENERALĂ ÎN COMUNA ALIMAN, JUDEȚUL CONSTANȚA”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/197345",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/197345",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

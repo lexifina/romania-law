@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/aliman/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--aliman-48-2022",
+   "path": "local/constanta/aliman/2022/48",
+   "short": "HCL Aliman nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 48/2022 privind participarea Comunei Aliman la implementarea proiectului din Investiţia I.4 „Implementarea a 3.000 m de trasee cicloturistice la nivel naţional” finanţat din PNRR, Componenta 11 – Turism şi cultură",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/93863",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/93863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-49-2022",
+   "path": "local/constanta/aliman/2022/49",
+   "short": "HCL Aliman nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 49/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Modernizare străzi în satele Aliman şi Dunăreni, judeţul Constanţa”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/93864",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/93864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-55-2022",
+   "path": "local/constanta/aliman/2022/55",
+   "short": "HCL Aliman nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 55/2022 privind aprobarea proiectului tehnic aferent obiectivului de lucrări „Întreţinere drum comunal DC 51 Aliman-Dunăreni, în comuna Aliman, judeţul Constanţa”",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/93885",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/93885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--aliman-57-2022",
+   "path": "local/constanta/aliman/2022/57",
+   "short": "HCL Aliman nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Aliman nr. 57/2022 privind delegarea gestiunii activităţilor de sortare, tratare mecano-biologică şi depozitare a deşeurilor municipale colectate de pe raza Comunei Aliman, Judeţul Constanţa",
+   "url": "https://emol.ro/aliman-ct/registru-hcl/93887",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/aliman-ct/registru-hcl/93887",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/calarasi/ulmu/2025",
+"acts": [
+{
+"slug": "hcl-calarasi--ulmu-45-2025",
+"path": "local/calarasi/ulmu/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 45/2025 privind modificarea denumirii unei strazi in comuna Ulmu, judetul Calarasi",
+"short": "HCL Ulmu nr. 45/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-13",
+"latest": "2025-11-13",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/235405",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-50-2025",
+"path": "local/calarasi/ulmu/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 50/2025 privind aprobarea actualizării devizului general la obiectivul de investiție „Creșterea eficienței energetice a infrastructurii de iluminat public în comuna Ulmu, județul Călărași „Program finanțat prin AFM”",
+"short": "HCL Ulmu nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-08",
+"latest": "2025-12-08",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/239576",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-51-2025",
+"path": "local/calarasi/ulmu/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 51/2025 privind aprobarea contului de executie bugetara pentru trimestrul IV",
+"short": "HCL Ulmu nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253194",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-54-2025",
+"path": "local/calarasi/ulmu/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 54/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Ulmu nr. 54/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253196",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-55-2025",
+"path": "local/calarasi/ulmu/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 55/2025 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ulmul județul Călărași",
+"short": "HCL Ulmu nr. 55/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253197",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-56-2025",
+"path": "local/calarasi/ulmu/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 56/2025 privind aprobarea și indexarea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+"short": "HCL Ulmu nr. 56/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253198",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-57-2025",
+"path": "local/calarasi/ulmu/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 57/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Ulmu nr. 57/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/253199",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

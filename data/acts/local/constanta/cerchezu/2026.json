@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/constanta/cerchezu/2026",
+"acts": [
+{
+"slug": "hcl-constanta--cerchezu-41-2026",
+"path": "local/constanta/cerchezu/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 41/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2026",
+"short": "HCL Cerchezu nr. 41/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-08-13",
+"latest": "2026-08-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/289503",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-43-2026",
+"path": "local/constanta/cerchezu/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 43/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2026",
+"short": "HCL Cerchezu nr. 43/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293055",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-52-2026",
+"path": "local/constanta/cerchezu/2026/52",
+"kind": "local",
+"year": "2026",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 52/2026 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții „Centrală electrică fotovoltaică de 100 kWp cu sistem de stocare a energiei de 241 kWh, pentru autoconsumul propriu al UAT Comuna Cerchezu, județul Constanța”",
+"short": "HCL Cerchezu nr. 52/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293064",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-53-2026",
+"path": "local/constanta/cerchezu/2026/53",
+"kind": "local",
+"year": "2026",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 53/2026 privind aprobarea depunerii și implementării proiectului „Centrală electrică fotovoltaică de 100 kWp cu sistem de stocare a energiei de 241 kWh, pentru autoconsumul propriu al UAT Comuna Cerchezu, județul Constanța”, finanțat din Fondul pentru modernizare, Programul-cheie 1 „Surse regenerabile de energie și stocarea energiei”",
+"short": "HCL Cerchezu nr. 53/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-22",
+"latest": "2026-10-22",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/293065",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-54-2026",
+"path": "local/constanta/cerchezu/2026/54",
+"kind": "local",
+"year": "2026",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 54/2026 privind rectificarea bugetului de venituri si cheltuieli al comunei Cerchezu, pe anul 2026",
+"short": "HCL Cerchezu nr. 54/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/294961",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

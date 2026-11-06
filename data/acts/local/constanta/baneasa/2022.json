@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/constanta/baneasa/2022",
+"acts": [
+{
+"slug": "hcl-constanta--baneasa-51-2022",
+"path": "local/constanta/baneasa/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 51/2022 privind revocarea dreptului de administrare al Consiliului Județean Constanța pentru terenul in suprafata de 7300 mp situat in strada Prelungirea Sudului, nr. FN a localității Băneasa",
+"short": "HCL Băneasa nr. 51/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77661",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-52-2022",
+"path": "local/constanta/baneasa/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 52/2022 privind rectificarea bugetului local pe anul 2022, luna octombrie 2022",
+"short": "HCL Băneasa nr. 52/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77662",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-53-2022",
+"path": "local/constanta/baneasa/2022/53",
+"kind": "local",
+"year": "2022",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 53/2022 privind trecerea unor bunuri proprietate publică a comunei Băneasa, situate în intravilanul comunei Băneasa, str. Trandafirilor, nr- 87-89 din domeniul public al Comunei Băneasa şi administrarea Consiliului Local al Comunei Băneasa în domeniul public al Judeţului Constanța şi administrarea Consiliului Judeţean Constanța precum și crearea unui drept de servitute",
+"short": "HCL Băneasa nr. 53/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77663",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-54-2022",
+"path": "local/constanta/baneasa/2022/54",
+"kind": "local",
+"year": "2022",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 54/2022 privind modificarea art. nr. 1 al HCL nr .11/25.02.2021 privind stabilirea unor normative de cheltuieli aprobarea consumului lunar de carburanti pentru autoturismele aflate in dotarea aparatului de specialitate al primarului privind modificarea art. nr. 1 al HCL nr .11/25.02.2021 privind stabilirea unor normative de cheltuieli aprobarea consumului lunar de carburanti pentru autoturismele aflate in dotarea aparatului de specialitate al primarului",
+"short": "HCL Băneasa nr. 54/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77664",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-55-2022",
+"path": "local/constanta/baneasa/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 55/2022",
+"short": "HCL Băneasa nr. 55/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77665",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-56-2022",
+"path": "local/constanta/baneasa/2022/56",
+"kind": "local",
+"year": "2022",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 56/2022 privind aprobarea indicatorilor tehnico-economici actualizati si a devizului general actualizat pentru obiectivul de investitii ,,REABILITARE DRUM COMUNAL DC 475_V\", aprobat pentru finantare prin Programul national de investitii ,,Anghel Saligny\", precum si a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Băneasa nr. 56/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77666",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-57-2022",
+"path": "local/constanta/baneasa/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 57/2022 Privind aprobarea indicatorilor tehnico-economici actualizați, a devizului general actualizat și a contribuției de la bugetul local pentru Obiectivul investițional ”REABILITARE TROTUARE STRADA TRANDAFIRILOR SI STRADA FLORILOR IN COMUNA BANEASA, JUDETUL CONSTANTA ”,finanțat prin Programul Național de Investiții Anghel Saligny",
+"short": "HCL Băneasa nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-11",
+"latest": "2022-11-11",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/77667",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--baneasa-63-2022",
+"path": "local/constanta/baneasa/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băneasa nr. 63/2022 privind stabilirea nivelurilor pentru valorile impozabile, impozitelor şi taxelor locale şi a altor taxe asimilate acestora, aplicabile începând cu anul 2023",
+"short": "HCL Băneasa nr. 63/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-22",
+"latest": "2022-12-22",
+"portal": "https://emol.ro/baneasa-ct/registru-hcl/83681",
+"council": "constanta/baneasa",
+"council_name": "Consiliul Local al Comunei Băneasa",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

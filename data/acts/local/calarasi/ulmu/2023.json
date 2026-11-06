@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/ulmu/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--ulmu-56-2023",
+"path": "local/calarasi/ulmu/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 56/2023 privind aprobarea organizarii retelei scolare la nivelul comunei Ulmu, judetul Calarasi",
+"short": "HCL Ulmu nr. 56/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/137720",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--ulmu-57-2023",
+"path": "local/calarasi/ulmu/2023/57",
+"kind": "local",
+"year": "2023",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 57/2023 privind modificarea taxei de salubrizare pentru Unitatea Administrativ Teritorială Comuna Ulmu, județul Calarasi",
+"short": "HCL Ulmu nr. 57/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-16",
+"latest": "2024-01-16",
+"portal": "https://emol.ro/ulmu-cl/registru-hcl/137721",
+"council": "calarasi/ulmu",
+"council_name": "Consiliul Local al Comunei Ulmu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

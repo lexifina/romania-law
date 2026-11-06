@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/cornereva/2023",
+"acts": [
+{
+"slug": "hcl-caras-severin--cornereva-51-2023",
+"path": "local/caras-severin/cornereva/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 51/2023 privind stabilirea nivelurilor pentru valorile impozabile, impozitele și taxele locale și alte taxe asimilate acestora, precum și amnezile aplicabile în anul 2024",
+"short": "HCL Cornereva nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/136260",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-52-2023",
+"path": "local/caras-severin/cornereva/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 52/2023 privind stabilirea de măsuri obligatorii în domeniul gestionării deșeurilor provenite din construcții și demolări precum și a sancțiunilor și a faptelor ce constituie infracțiuni",
+"short": "HCL Cornereva nr. 52/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/136261",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-53-2023",
+"path": "local/caras-severin/cornereva/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 53/2023 privind acordarea Diplomei de fidelitate și a unui premiu în valoare de 500 lei, din bugetul local pe anul 2023, cuplurilor care au împlinit sau împlinesc în acest an 50 de ani de căsătorie neîntreruptă, ambii soți sunt în viață și au domiciliul în comuna Cornereva",
+"short": "HCL Cornereva nr. 53/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/136262",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-54-2023",
+"path": "local/caras-severin/cornereva/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 54/2023 privind aprobarea planului de achiziții publice (principalele lucrări propuse a se executa) pentru anul 2024",
+"short": "HCL Cornereva nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/136263",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-59-2023",
+"path": "local/caras-severin/cornereva/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 59/2023 privind aprobarea cuantumului cotei adiționale a cotizației pe anul 2024, la Filiala Județeană Caraș-Severin a Asociației Comunelor din România",
+"short": "HCL Cornereva nr. 59/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/136268",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

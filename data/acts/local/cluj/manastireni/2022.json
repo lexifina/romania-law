@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/manastireni/2022",
+"acts": [
+{
+"slug": "hcl-cluj--manastireni-72-2022",
+"path": "local/cluj/manastireni/2022/72",
+"kind": "local",
+"year": "2022",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mănăstireni nr. 72/2022 privind stabilirea taxei de salubrizare pentru anul 2023",
+"short": "HCL Mănăstireni nr. 72/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/manastireni-cj/registru-hcl/85498",
+"council": "cluj/manastireni",
+"council_name": "Consiliul Local al Comunei Mănăstireni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

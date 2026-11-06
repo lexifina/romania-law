@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/mintiu-gherlii/2024",
+"acts": [
+{
+"slug": "hcl-cluj--mintiu-gherlii-35-2024",
+"path": "local/cluj/mintiu-gherlii/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 35/2024 privind anularea accesoriilor aferente obligaţiilor bugetare principale, restante la data de 31 august 2024 inclusiv, conform OUG nr. 107/2024 pentru reglementarea unor măsuri fiscal - bugetare în domeniul gestionării creanţelor bugetare şi a deficitului bugetar pentru bugetul general consolidat al României în anul 2024, precum şi pentru modificarea şi completarea unor acte normative",
+"short": "HCL Mintiu Gherlii nr. 35/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-14",
+"latest": "2024-10-14",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/170885",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--mintiu-gherlii-46-2024",
+"path": "local/cluj/mintiu-gherlii/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mintiu Gherlii nr. 46/2024 privind stabilirea impozitelor si taxelor locale pe anul 2025",
+"short": "HCL Mintiu Gherlii nr. 46/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://emol.ro/mintiugherlii-cj/registru-hcl/183727",
+"council": "cluj/mintiu-gherlii",
+"council_name": "Consiliul Local al Comunei Mintiu Gherlii",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/bozovici/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--bozovici-120-2024",
+   "path": "local/caras-severin/bozovici/2024/120",
+   "short": "HCL Bozovici nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 120/2024 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitarde pe raza comunei Bozovici pentru anul școlar 2025-2026",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/191739",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/191739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-121-2024",
+   "path": "local/caras-severin/bozovici/2024/121",
+   "short": "HCL Bozovici nr. 121/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 121/2024 privind aprobarea obiectivului de investiții ”Achiziție nacelă pentru lucrări de intervenție iluminat public și alte lucrări de interes public”",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/191740",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/191740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-124-2024",
+   "path": "local/caras-severin/bozovici/2024/124",
+   "short": "HCL Bozovici nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 124/2024 privind analiza stadiului de înscriere a datelor în Registrul Agricol al U.A.T.. Bozovici, pentru trimestrul 4 al anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/191747",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/191747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bozovici-126-2024",
+   "path": "local/caras-severin/bozovici/2024/126",
+   "short": "HCL Bozovici nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 126/2024 privind aprobarea sumei de 60 mii lei din bugetul local, pentru executarea lucrărilor de REABILITARE DRUM ACCES MÂNĂSTIREA ȚARA ALMĂJULUI, din localitatea Bozovici, județul Caraș",
+   "url": "https://emol.ro/bozovici-cs/registru-hcl/191749",
+   "versions": [
+    {
+     "from": "2025-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bozovici-cs/registru-hcl/191749",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

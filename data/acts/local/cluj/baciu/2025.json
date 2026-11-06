@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/baciu/2025",
+"acts": [
+{
+"slug": "hcl-cluj--baciu-114-2025",
+"path": "local/cluj/baciu/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baciu nr. 114/2025 privind aprobarea planului de măsuri necesare pentru interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor, pe raza comunei Baciu, județul Cluj",
+"short": "HCL Baciu nr. 114/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://emol.ro/baciu-cj/registru-hcl/237969",
+"council": "cluj/baciu",
+"council_name": "Consiliul Local al Comunei Baciu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--baciu-127-2025",
+"path": "local/cluj/baciu/2025/127",
+"kind": "local",
+"year": "2025",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baciu nr. 127/2025 privind stabilirea impozitelor si taxelor locale pentru anul 2026",
+"short": "HCL Baciu nr. 127/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-24",
+"latest": "2025-12-24",
+"portal": "https://emol.ro/baciu-cj/registru-hcl/243950",
+"council": "cluj/baciu",
+"council_name": "Consiliul Local al Comunei Baciu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

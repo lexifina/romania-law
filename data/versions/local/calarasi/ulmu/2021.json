@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/ulmu/2021",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--ulmu-1-2021",
+   "path": "local/calarasi/ulmu/2021/1",
+   "short": "HCL Ulmu nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 1/2021 privind acoperirea definitivă a deficitului bugetar pe anul 2020 a secțiunii de dezvoltare Sursa ”A” din excedentul bugetului local și secțiunea, funcționare sursa ”E” din excedentul bugetului integral venituri proprii",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24352",
+   "versions": [
+    {
+     "from": "2021-01-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-10-2021",
+   "path": "local/calarasi/ulmu/2021/10",
+   "short": "HCL Ulmu nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 10/2021 privind aprobarea contului de execuție bugetară încheiat la data de 31 decembrie 2020",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24361",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-11-2021",
+   "path": "local/calarasi/ulmu/2021/11",
+   "short": "HCL Ulmu nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 11/2021 privind aprobarea contului de execuție bugetară încheiat la data de 31 martie 2021",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24362",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-12-2021",
+   "path": "local/calarasi/ulmu/2021/12",
+   "short": "HCL Ulmu nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 12/2021 privind stabilirea impozitelor și taxelor locale pentru anul 2022",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24363",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-13-2021",
+   "path": "local/calarasi/ulmu/2021/13",
+   "short": "HCL Ulmu nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 13/2021 privind aprobarea bugetului local pe anul 2021",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24364",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-14-2021",
+   "path": "local/calarasi/ulmu/2021/14",
+   "short": "HCL Ulmu nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 14/2021 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice ce își desfășoară activitatea în cadrul Școlii Gimnaziale nr.1 Ulmu pentru lunile decembrie 2020-martie 2021",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24365",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-4-2021",
+   "path": "local/calarasi/ulmu/2021/4",
+   "short": "HCL Ulmu nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 4/2021 privind analiza stadiului de înscriere a datelor în registrul agricol pentru anul 2020 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24355",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-7-2021",
+   "path": "local/calarasi/ulmu/2021/7",
+   "short": "HCL Ulmu nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 7/2021 privind aprobarea taxei de închiriere a utilajulul buldoescavator aflat în patrimoniul comunei Ulmu, județul Călărași",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24358",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-8-2021",
+   "path": "local/calarasi/ulmu/2021/8",
+   "short": "HCL Ulmu nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 8/2021 privind mandatarea reprezentantului comunei Ulmu în vederea exercitării atribuțiilor în Adunarea Generală a Asociaților din cadrul ADI ”ECOAQUA” Călărași",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24359",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-9-2021",
+   "path": "local/calarasi/ulmu/2021/9",
+   "short": "HCL Ulmu nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 9/2021 privind alegerea președintelui de ședință al Consiliului Local Ulmu pentru o perioadă de trei luni (mai 2021-iulie 2021)",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24360",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24360",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

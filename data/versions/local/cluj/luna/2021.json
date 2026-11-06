@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/luna/2021",
+ "acts": [
+  {
+   "slug": "hcl-cluj--luna-40-2021",
+   "path": "local/cluj/luna/2021/40",
+   "short": "HCL Luna nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 40/2021 privind modificarea organigramei și a statului de funcții ale aparatului de specialitate al Primarului Comunei Luna",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42212",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-43-2021",
+   "path": "local/cluj/luna/2021/43",
+   "short": "HCL Luna nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 43/2021 pentru aprobarea Regulamentului privind normele de gospodărire comunală, pe teritoriul Comunei Luna, Județul Cluj",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42215",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42215",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-44-2021",
+   "path": "local/cluj/luna/2021/44",
+   "short": "HCL Luna nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 44/2021 privind indexarea impozitelor si taxelor locale pentru anul fiscal 2022",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42216",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-47-2021",
+   "path": "local/cluj/luna/2021/47",
+   "short": "HCL Luna nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 47/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42219",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-49-2021",
+   "path": "local/cluj/luna/2021/49",
+   "short": "HCL Luna nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 49/2021 privind stabilirea procedurii de desfășurare a ședințelor Consiliului Local al Comunei Luna prin mijloace electronice de comunicare la distanță",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42826",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-54-2021",
+   "path": "local/cluj/luna/2021/54",
+   "short": "HCL Luna nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 54/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/42831",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/42831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-57-2021",
+   "path": "local/cluj/luna/2021/57",
+   "short": "HCL Luna nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 57/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/44149",
+   "versions": [
+    {
+     "from": "2021-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/44149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--luna-59-2021",
+   "path": "local/cluj/luna/2021/59",
+   "short": "HCL Luna nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Luna nr. 59/2021 privind rectificarea bugetului de venituri și cheltuieli al Comunei Luna pe anul 2021",
+   "url": "https://emol.ro/luna-cj/registru-hcl/45007",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/luna-cj/registru-hcl/45007",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

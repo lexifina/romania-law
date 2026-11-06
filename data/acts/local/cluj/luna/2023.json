@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/cluj/luna/2023",
+"acts": [
+{
+"slug": "hcl-cluj--luna-44-2023",
+"path": "local/cluj/luna/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 44/2023",
+"short": "HCL Luna nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-10-01",
+"latest": "2023-10-01",
+"portal": "https://emol.ro/luna-cj/registru-hcl/122824",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--luna-54-2023",
+"path": "local/cluj/luna/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 54/2023 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2024",
+"short": "HCL Luna nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-26",
+"latest": "2023-11-26",
+"portal": "https://emol.ro/luna-cj/registru-hcl/130233",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

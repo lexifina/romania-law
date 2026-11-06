@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/soldanu/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--soldanu-83-2022",
+   "path": "local/calarasi/soldanu/2022/83",
+   "short": "HCL Șoldanu nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șoldanu nr. 83/2022 privind stabilirea impozitelor și taxelor locale pentru anul fiscal 2023, la Comuna Șoldanu, Județul Călărași",
+   "url": "https://emol.ro/soldanu-cl/registru-hcl/83898",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/soldanu-cl/registru-hcl/83898",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

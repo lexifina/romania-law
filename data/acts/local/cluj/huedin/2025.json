@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/huedin/2025",
+"acts": [
+{
+"slug": "hcl-cluj--huedin-190-2025",
+"path": "local/cluj/huedin/2025/190",
+"kind": "local",
+"year": "2025",
+"number": "190",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Huedin nr. 190/2025 privind aprobarea inchir erii prin licitalie public6, pe o perioadd de 1 an a unui teren aparlin6nd domeniului public al Oragului Huedin. situat in oraq Huedin, str. Vlideasa, nr.4B, jud. Cluj in suprafalI totald de 20mp., cu destinatia de amplasare construclie cu caracter provizoriu, aprobarea anuldrii locului de parcare nr.22,in suprafald de 12,5mp. cin spatele blocului din strada Vlldeasa, nr.4B gi aprobarea Caietului de sarcini, a documentaliei de atribuire, a contractului de incliiriere;i a prelului minim de pornire a licitafiei",
+"short": "HCL Huedin nr. 190/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-23",
+"latest": "2025-12-23",
+"portal": "https://primariahuedin.ro/document-category/hotarari-de-consiliu-local/",
+"council": "cluj/huedin",
+"council_name": "Consiliul Local al Orașului Huedin",
+"flags": {
+"text_pending": "review"
+}
+}
+]
+}

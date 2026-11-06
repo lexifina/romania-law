@@ -1,0 +1,96 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/castelu/2022",
+ "acts": [
+  {
+   "slug": "hcl-constanta--castelu-110-2022",
+   "path": "local/constanta/castelu/2022/110",
+   "short": "HCL Castelu nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 110/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-111-2022",
+   "path": "local/constanta/castelu/2022/111",
+   "short": "HCL Castelu nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 111/2022 PRIVIND APROBAREA SITUAȚIEI FINANCIARE TRIMESTRIALE, PRECUM ŞI A CONTURILOR DE EXECUŢIE EVIDENŢIATE ÎN AFARA BUGETULUI LOCAL AL COMUNEI CASTELU ÎNTOCMITE LA DATA DE 30.09.2022",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#33782",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#33782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-112-2022",
+   "path": "local/constanta/castelu/2022/112",
+   "short": "HCL Castelu nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 112/2022 PRIVIND APROBAREA SUSŢINERII FINANCIARE ŞI FINALIZĂRII ÎN TERMEN A OBIECTIVULUI DE INVESTIŢII „MODERNIZAREA ŞI DOTAREA CĂMINULUI CULTURAL DIN LOCALITATEA NISIPARI, JUDEŢUL CONSTANŢA”",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#33783",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#33783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-113-2022",
+   "path": "local/constanta/castelu/2022/113",
+   "short": "HCL Castelu nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 113/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-138-2022",
+   "path": "local/constanta/castelu/2022/138",
+   "short": "HCL Castelu nr. 138/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 138/2022 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ AL CONSILIULUI LOCAL AL COMUNEI CASTELU PENTRU DATA DE 29 DECEMBRIE 2022",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#37987",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#37987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--castelu-139-2022",
+   "path": "local/constanta/castelu/2022/139",
+   "short": "HCL Castelu nr. 139/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Castelu nr. 139/2022 PENTRU REVOCAREA HOTĂRÂRII CONSILIULUI LOCAL NR. 115 DIN 18 NOIEMBRIE 2022 PRIVIND APROBAREA MODIFICĂRII ŞI COMPLETĂRII ART. 23, ALIN. (5) și ART. 27 ALIN. (1) DIN ANEXA LA HOTĂRÂREA CONSILIULUI LOCAL NR. 33/14.04.2021 PRIVIND APROBAREA REGULAMENTULUI DE ORGANIZARE ŞI FUNCŢIONARE A CONSILIULUI LOCAL AL COMUNEI CASTELU, JUDEŢUL CONSTANŢA",
+   "url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#37994",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://castelu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/1812#37994",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

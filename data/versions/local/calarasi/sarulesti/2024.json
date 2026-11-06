@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/sarulesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--sarulesti-81-2024",
+   "path": "local/calarasi/sarulesti/2024/81",
+   "short": "HCL Sărulești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 81/2024 privind aprobarea necesității și oportunității realizarii obiectivului de investiții „Achizitionarea unui Buldoexcavator pentru dotarea serviciului de salubritate”",
+   "url": "https://emol.ro/sarulesti-cl/registru-hcl/187074",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sarulesti-cl/registru-hcl/187074",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

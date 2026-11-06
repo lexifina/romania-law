@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/calarasi/sarulesti/2022",
+"acts": [
+{
+"slug": "hcl-calarasi--sarulesti-114-2022",
+"path": "local/calarasi/sarulesti/2022/114",
+"kind": "local",
+"year": "2022",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 114/2022 privind aprobarea documentației de atribuire pentru delegarea serviciului privind operarea Centrului de Management Integrat al Deseurilor Ciocănesti si a stațiilor de transfer Lehliu-Gara, Oltenita, Călărasi",
+"short": "HCL Sărulești nr. 114/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/96536",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-115-2022",
+"path": "local/calarasi/sarulesti/2022/115",
+"kind": "local",
+"year": "2022",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 115/2022 privind valorile impozabile, impozite, taxe locale si alte taxe asimilate acestora, precum si amenzile aplicate in Comuna Sarulesti pentru anul 2023",
+"short": "HCL Sărulești nr. 115/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/96537",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-116-2022",
+"path": "local/calarasi/sarulesti/2022/116",
+"kind": "local",
+"year": "2022",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 116/2022 privind aprobarea Nomeclatorului stradal al comunei Sărulesti, judetul Călărasi",
+"short": "HCL Sărulești nr. 116/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-03-24",
+"latest": "2023-03-24",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/96538",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

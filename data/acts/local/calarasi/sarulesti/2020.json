@@ -1,0 +1,292 @@
+{
+"country": "RO",
+"shard": "local/calarasi/sarulesti/2020",
+"acts": [
+{
+"slug": "hcl-calarasi--sarulesti-85-2020",
+"path": "local/calarasi/sarulesti/2020/85",
+"kind": "local",
+"year": "2020",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 85/2020 privind constituirea comisiilor de specialitate ale Consiliului local Sărulești",
+"short": "HCL Sărulești nr. 85/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-05",
+"latest": "2020-11-05",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26074",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-86-2020",
+"path": "local/calarasi/sarulesti/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 86/2020 privind rectificarea bugetului comunei pe anul 2020-secțiunea dezvoltare",
+"short": "HCL Sărulești nr. 86/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26083",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-87-2020",
+"path": "local/calarasi/sarulesti/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 87/2020 privind rectificarea bugetului comunei Sărulești pe anul 2020-secțiunea funcționare",
+"short": "HCL Sărulești nr. 87/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26084",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-88-2020",
+"path": "local/calarasi/sarulesti/2020/88",
+"kind": "local",
+"year": "2020",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 88/2020 privind utilizare sume din excedentul anului 2019 pentru-pompe de căldură dispensar Sandulita",
+"short": "HCL Sărulești nr. 88/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26085",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-91-2020",
+"path": "local/calarasi/sarulesti/2020/91",
+"kind": "local",
+"year": "2020",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 91/2020 privind aprobarea Rapoartelor de evaluare a bunurilor aflate în domeniul public și privat al comunei Sărulești, județul Călărași",
+"short": "HCL Sărulești nr. 91/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26088",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-92-2020",
+"path": "local/calarasi/sarulesti/2020/92",
+"kind": "local",
+"year": "2020",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 92/2020 privind aprobare prelungire PUZ și RLU-Parc panouri fotovoltaice aprobate prin HCL nr.63/30.08.2013",
+"short": "HCL Sărulești nr. 92/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26089",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-93-2020",
+"path": "local/calarasi/sarulesti/2020/93",
+"kind": "local",
+"year": "2020",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 93/2020 privind aprobare prelungire PUZ-lucrări de construire construcții energetice, centrală fotovoltaică de producere a energiei electrice din conversie solară și RLU aprobate prin HCL nr. 49/28.06.2013",
+"short": "HCL Sărulești nr. 93/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-11",
+"latest": "2020-11-11",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26090",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-94-2020",
+"path": "local/calarasi/sarulesti/2020/94",
+"kind": "local",
+"year": "2020",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 94/2020 privind rectificarea bugetului comunei Sărulești pe anul 2020-Secțiunea funcționare",
+"short": "HCL Sărulești nr. 94/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26105",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-98-2020",
+"path": "local/calarasi/sarulesti/2020/98",
+"kind": "local",
+"year": "2020",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 98/2020 privind aprobarea Planului de măsuri privind colectarea selectivă a deșeurilor în cadrul Primăriei Sărulești, județul Călărași",
+"short": "HCL Sărulești nr. 98/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26109",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-99-2020",
+"path": "local/calarasi/sarulesti/2020/99",
+"kind": "local",
+"year": "2020",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 99/2020 privind valori impozabile, impozite, taxe locale și alte taxe asimilate acestora, precum și amenzile aplicate în comuna Sărulești pentru anul 2021",
+"short": "HCL Sărulești nr. 99/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26110",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-100-2020",
+"path": "local/calarasi/sarulesti/2020/100",
+"kind": "local",
+"year": "2020",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 100/2020 privind aprobarea modificării prețului serviciilor de pază a pădurii în suprafață de 17 ha",
+"short": "HCL Sărulești nr. 100/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26111",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-101-2020",
+"path": "local/calarasi/sarulesti/2020/101",
+"kind": "local",
+"year": "2020",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 101/2020 privind apartenența la domeniul privat al comunei Sărulești a terenului intravilan situat în Cv. 17, P 513/1 și 515/1",
+"short": "HCL Sărulești nr. 101/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26112",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--sarulesti-102-2020",
+"path": "local/calarasi/sarulesti/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Sărulești nr. 102/2020 privind aprobarea dreptului de uz și servitute în favoarea Sc. E-Distribuție Dobrogea SA pentru terenurile pe care se vor executa lucrări conform proiectului 14/2020",
+"short": "HCL Sărulești nr. 102/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-29",
+"latest": "2020-12-29",
+"portal": "https://emol.ro/sarulesti-cl/registru-hcl/26113",
+"council": "calarasi/sarulesti",
+"council_name": "Consiliul Local al Comunei Sărulești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

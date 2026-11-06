@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/baraganu/2025",
+ "acts": [
+  {
+   "slug": "hcl-constanta--baraganu-35-2025",
+   "path": "local/constanta/baraganu/2025/35",
+   "short": "HCL Bărăganu nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 35/2025 privind alegerea președintelui de ședință al Consiliului local al comunei Bărăganu",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273423",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-36-2025",
+   "path": "local/constanta/baraganu/2025/36",
+   "short": "HCL Bărăganu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 36/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273430",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-37-2025",
+   "path": "local/constanta/baraganu/2025/37",
+   "short": "HCL Bărăganu nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 37/2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273431",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-38-2025",
+   "path": "local/constanta/baraganu/2025/38",
+   "short": "HCL Bărăganu nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 38/2025 privind organizarea rețelei unităților de învățământ, de pe raza Comunei Bărăganu pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273432",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-40-2025",
+   "path": "local/constanta/baraganu/2025/40",
+   "short": "HCL Bărăganu nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 40/2025 privind aprobarea Regulamentului pentru acordarea unor premii persoanelor vârstnice",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273434",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-41-2025",
+   "path": "local/constanta/baraganu/2025/41",
+   "short": "HCL Bărăganu nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 41/2025 privind achiziționarea și acordarea unor pachete cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273435",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-42-2025",
+   "path": "local/constanta/baraganu/2025/42",
+   "short": "HCL Bărăganu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 42/2025 privind aprobarea organigramei și statului de funcţii al aparatului de specialitate al primarului Comunei Bărăganu, Județul Constanța",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273436",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-44-2025",
+   "path": "local/constanta/baraganu/2025/44",
+   "short": "HCL Bărăganu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 44/2025 privind alipirea a două imobile proprietate privată a Comunei Bărăganu, având numerele cadastrale 104752 și 104751, situate în comuna Bărăganu",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273438",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-45-2025",
+   "path": "local/constanta/baraganu/2025/45",
+   "short": "HCL Bărăganu nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 45/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273439",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-46-2025",
+   "path": "local/constanta/baraganu/2025/46",
+   "short": "HCL Bărăganu nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 46/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273440",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-47-2025",
+   "path": "local/constanta/baraganu/2025/47",
+   "short": "HCL Bărăganu nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 47/2025 privind aprobarea numărului total de asistenţi personali ai persoanelor cu handicap grav, pentru anul 2026",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273441",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-48-2025",
+   "path": "local/constanta/baraganu/2025/48",
+   "short": "HCL Bărăganu nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 48/2025 privind modificarea și completarea H.C.L.nr.15/16.12.2024 și H.C.L nr.11/25.03.2025 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Bărăganu, județul Constanța",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273479",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-49-2025",
+   "path": "local/constanta/baraganu/2025/49",
+   "short": "HCL Bărăganu nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 49/2025 privind aprobarea rectificării bugetului local de venituri și cheltuieli și a listei de investiții pe anul 2025",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273480",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--baraganu-50-2025",
+   "path": "local/constanta/baraganu/2025/50",
+   "short": "HCL Bărăganu nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bărăganu nr. 50/2025 privind stabilirea impozitelor și taxelor locale pentru anul 2026",
+   "url": "https://emol.ro/baraganu-ct/registru-hcl/273481",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/baraganu-ct/registru-hcl/273481",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

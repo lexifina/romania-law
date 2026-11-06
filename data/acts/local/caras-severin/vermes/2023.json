@@ -1,0 +1,226 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/vermes/2023",
+"acts": [
+{
+"slug": "hcl-caras-severin--vermes-37-2023",
+"path": "local/caras-severin/vermes/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 37/2023 privind aprobarea Planului de amplasament şi delimitare cu propunere de dezlipire a imobilului, teren situat în localitatea Izgar, înscris în Cartea Funciară nr. 140 Izgar, UAT Vermeş, nr. topografic 972/1/a/1, proprietatea comunei Vermeş, judeţul Caraş-Severin",
+"short": "HCL Vermeș nr. 37/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/167642",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-41-2023",
+"path": "local/caras-severin/vermes/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 41/2023 privind rectificarea bugetului comunei Vermeş pe anul 2023",
+"short": "HCL Vermeș nr. 41/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168072",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-42-2023",
+"path": "local/caras-severin/vermes/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 42/2023 privind modificarea şi completarea Hotărârii Consiliului Local nr. 1/2023 - privind aprobarea utilizării excedentului bugetar pe anul 2022",
+"short": "HCL Vermeș nr. 42/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168073",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-44-2023",
+"path": "local/caras-severin/vermes/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 44/2023 privind modificarea şi completarea Hotărârii Consiliului Local nr. 1/2023 - privind aprobarea utilizării excedentului bugetar pe anul 2022",
+"short": "HCL Vermeș nr. 44/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168075",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-45-2023",
+"path": "local/caras-severin/vermes/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 45/2023 privind rectificarea bugetului comunei Vermeş pe anul 2023",
+"short": "HCL Vermeș nr. 45/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168076",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-47-2023",
+"path": "local/caras-severin/vermes/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 47/2023 privind aprobarea contractării unei finanțări rambursabile interne in valoare de 3.500.000 lei",
+"short": "HCL Vermeș nr. 47/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168149",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-49-2023",
+"path": "local/caras-severin/vermes/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 49/2023 privind rectificarea bugetului comunei Vermeș pe anul 2023",
+"short": "HCL Vermeș nr. 49/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168151",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-54-2023",
+"path": "local/caras-severin/vermes/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 54/2023 privind rectificarea bugetului comunei Vermeș pe anul 2023",
+"short": "HCL Vermeș nr. 54/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168200",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-55-2023",
+"path": "local/caras-severin/vermes/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 55/2023 privind rectificarea bugetului comunei Vermeș pe anul 2023",
+"short": "HCL Vermeș nr. 55/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168201",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-56-2023",
+"path": "local/caras-severin/vermes/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 56/2023 privind aprobarea creditului de investiții pentru finanțarea cheltuielilor eligibile, a cheltuielilor neeligibile inclusiv TVA-ul aferente proiectului “Asigurarea energiei din surse regenerabile pentru consum propriu al clădirilor publice și a iluminatului public în Comuna Vermeș, județul Caraș-Severin”",
+"short": "HCL Vermeș nr. 56/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168202",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

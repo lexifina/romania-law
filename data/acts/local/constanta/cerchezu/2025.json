@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/constanta/cerchezu/2025",
+"acts": [
+{
+"slug": "hcl-constanta--cerchezu-37-2025",
+"path": "local/constanta/cerchezu/2025/37",
+"kind": "local",
+"year": "2025",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 37/2025 privind aprobarea regulamentului pentru amplasarea constructiilor, instalatiilor si panourilor publicitare in zona drumurilor de interes local ale comunei Cerchezu , judetul Constanta",
+"short": "HCL Cerchezu nr. 37/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-09-12",
+"latest": "2025-09-12",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/231471",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-40-2025",
+"path": "local/constanta/cerchezu/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 40/2025 privind indexarea nivelurilor impozitului pe mijloacele de transport cu masa totala maxima autorizata mai mare sau egala cu 12 tone pentru anul 2026",
+"short": "HCL Cerchezu nr. 40/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-10-27",
+"latest": "2025-10-27",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/231887",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-46-2025",
+"path": "local/constanta/cerchezu/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 46/2025 privind aprobarea PLANULUI URBANISTIC ZONAL (PUZ) - Parc energetic eolian 48 CE, stații de transformare, rețele electrice de racord, construire și modernizare căi de comunicație și acces",
+"short": "HCL Cerchezu nr. 46/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-26",
+"latest": "2025-11-26",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/234742",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-50-2025",
+"path": "local/constanta/cerchezu/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 50/2025 privind trecerea din domeniul public în domeniul privat a comunei Cerchezu, județul Constanța a fostului sediu CAP Cerchezu (dinspensar uman, biblioteca)",
+"short": "HCL Cerchezu nr. 50/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-12-11",
+"latest": "2025-12-11",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/244622",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-constanta--cerchezu-53-2025",
+"path": "local/constanta/cerchezu/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 53/2025",
+"short": "HCL Cerchezu nr. 53/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/cerchezu-ct/registru-hcl/246205",
+"council": "constanta/cerchezu",
+"council_name": "Consiliul Local al Comunei Cerchezu",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/glimboca/2026",
+"acts": [
+{
+"slug": "hcl-caras-severin--glimboca-2-2026",
+"path": "local/caras-severin/glimboca/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 2/2026 privind ...validarea dispozitiei nr. 3 din 29.01.2026",
+"short": "HCL Glimboca nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-29",
+"latest": "2026-01-29",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/266029",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-3-2026",
+"path": "local/caras-severin/glimboca/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 3/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „REABILITARE ALEI PIETONALE, RIGOLE COMUNA GLIMBOCA, JUDEȚUL CARAȘ-SEVERIN”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Glimboca nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-05",
+"latest": "2026-05-05",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/266030",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-7-2026",
+"path": "local/caras-severin/glimboca/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 7/2026 privind ...aprobarea regulamentului de acordare a finantarilor nerambursabile din bugetul comunei Glimboca in baza Legii nr. 69din 2000",
+"short": "HCL Glimboca nr. 7/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/286095",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-9-2026",
+"path": "local/caras-severin/glimboca/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 9/2026 privind virarea de credite bugetare in bugetul comunei Glimboca",
+"short": "HCL Glimboca nr. 9/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-30",
+"latest": "2026-07-30",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/286185",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

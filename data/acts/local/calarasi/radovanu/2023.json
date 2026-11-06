@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/calarasi/radovanu/2023",
+"acts": [
+{
+"slug": "hcl-calarasi--radovanu-91-2023",
+"path": "local/calarasi/radovanu/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 91/2023 privind aprobarea participării la „Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE ȘCOALA VALEA POPII, SAT RADOVANU, COMUNA RADOVANU, JUDEȚUL CĂLĂRAȘI”",
+"short": "HCL Radovanu nr. 91/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/141068",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-calarasi--radovanu-92-2023",
+"path": "local/calarasi/radovanu/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 92/2023 privind aprobarea participării la „Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE ȘCOALA CORP 2, SAT RADOVANU, COMUNA RADOVANU, JUDEȚUL CĂLĂRAȘI",
+"short": "HCL Radovanu nr. 92/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-02",
+"latest": "2024-02-02",
+"portal": "https://emol.ro/radovanu-cl/registru-hcl/141069",
+"council": "calarasi/radovanu",
+"council_name": "Consiliul Local al Comunei Radovanu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

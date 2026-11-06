@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/marga/2022",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--marga-64-2022",
+   "path": "local/caras-severin/marga/2022/64",
+   "short": "HCL Marga nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 64/2022 privind pentru aprobarea Regulamentului privind stabilirea unor măsuri obligatorii în domeniul gestionării deșeurilor edilitar-gospodărești, administrarea fondului locativ public și privat și alte măsuri pentru asigurarea ordinii și curățeniei în comuna Marga, județul Caraș-Severin",
+   "url": "https://emol.ro/marga-cs/registru-hcl/78902",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/78902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-65-2022",
+   "path": "local/caras-severin/marga/2022/65",
+   "short": "HCL Marga nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 65/2022 privind predarea către E-Distribuție Banat SA a capacității energetice care face obiectul lucrării EXTINDERE REȚEA LECTRICĂ DE INTERES PUBLIC DIN ZONA STRADA COLONIEI ACH",
+   "url": "https://emol.ro/marga-cs/registru-hcl/78903",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/78903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-66-2022",
+   "path": "local/caras-severin/marga/2022/66",
+   "short": "HCL Marga nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 66/2022 privind aprobarea sumei de 26 000 lei pentru materiale necesare Bisericii Baptiste SION Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/78904",
+   "versions": [
+    {
+     "from": "2022-11-10",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/78904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-67-2022",
+   "path": "local/caras-severin/marga/2022/67",
+   "short": "HCL Marga nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 67/2022 privind aprobarea rectificării Bugetului local de Venituri și Cheltuieli al comunei Margam pe trim. IV 2022",
+   "url": "https://emol.ro/marga-cs/registru-hcl/98975",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/98975",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

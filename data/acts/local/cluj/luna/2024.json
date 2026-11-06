@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/cluj/luna/2024",
+"acts": [
+{
+"slug": "hcl-cluj--luna-42-2024",
+"path": "local/cluj/luna/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Luna nr. 42/2024 privind stabilirea impozitelor si taxelor locale pentru anul fiscal 2025",
+"short": "HCL Luna nr. 42/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-21",
+"latest": "2024-11-21",
+"portal": "https://emol.ro/luna-cj/registru-hcl/177966",
+"council": "cluj/luna",
+"council_name": "Consiliul Local al Comunei Luna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

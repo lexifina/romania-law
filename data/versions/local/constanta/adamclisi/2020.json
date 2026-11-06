@@ -1,0 +1,246 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/adamclisi/2020",
+ "acts": [
+  {
+   "slug": "hcl-constanta--adamclisi-73-2020",
+   "path": "local/constanta/adamclisi/2020/73",
+   "short": "HCL Adamclisi nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 73/2020 privind rectificarea bugetului de venituri si cheltuieli al Comunei Adamclisi pe anul 2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/16029",
+   "versions": [
+    {
+     "from": "2020-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/16029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-75-2020",
+   "path": "local/constanta/adamclisi/2020/75",
+   "short": "HCL Adamclisi nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 75/2020 privind rectificarea bugetului de venituri si cheltuieli al Comunei Adamclisi pentru anul 2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18651",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-76-2020",
+   "path": "local/constanta/adamclisi/2020/76",
+   "short": "HCL Adamclisi nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 76/2020 privind actualizarea Programului anual al achizitiilor publice al comunei Adamclisi pentru anul 2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18652",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-77-2020",
+   "path": "local/constanta/adamclisi/2020/77",
+   "short": "HCL Adamclisi nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 77/2020 privind aprobarea scoaterii din functiune in vederea casarii a unor mijloace fixe si a unor obiecte de inventar din patrimoniul privat al comunei Adamclisi care sunt amortizate integral , au durata de functionare expirata si nu mai pot fi utilizate",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18653",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-78-2020",
+   "path": "local/constanta/adamclisi/2020/78",
+   "short": "HCL Adamclisi nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 78/2020 privind stabilirea numarului de autoturisme din dotarea UAT Comuna Adamclisi si aprobarea utilizarii autoturismului marca Dacia Duster, nr. 33 PAD de catre Compartimentul Politie Locala",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18654",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-79-2020",
+   "path": "local/constanta/adamclisi/2020/79",
+   "short": "HCL Adamclisi nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 79/2020 privind achizitionarea unui autoturism nou din bugetul local de venituri si cheltuieli al comunei Adamclisi pe anul 2020 pentru UAT Comuna Adamclisi",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18655",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-80-2020",
+   "path": "local/constanta/adamclisi/2020/80",
+   "short": "HCL Adamclisi nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 80/2020 privind aprobarea emiterii unui acord de amplasare si acces pe drumurile locale de pe raza UAT Adamclisi in vederea implementarii proiectului ,, Dezvoltare retea cablu cu fibra optica Orange in judetul Constanta, tronson Dobromir - Adamclisi",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18656",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-82-2020",
+   "path": "local/constanta/adamclisi/2020/82",
+   "short": "HCL Adamclisi nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 82/2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18658",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-84-2020",
+   "path": "local/constanta/adamclisi/2020/84",
+   "short": "HCL Adamclisi nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 84/2020 privind alocarea sumei de 16.800 lei fara TVA pentru servicii de import si actualizare date pentru aplicatia de impozite si taxe locale utlizata de catre Compartimentul contabilitate, buget-finante, impozite si taxe locale",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18660",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-85-2020",
+   "path": "local/constanta/adamclisi/2020/85",
+   "short": "HCL Adamclisi nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 85/2020 privind completarea si modificarea inventarului domeniului public al comunei Adamclisi aprobat prin Hotararea Consiliului Local al comunei Adamclisi nr. 14 / 26.02.2019 privind aprobarea si insusirea inventarului bunurilor care apartin domeniului public si privat al comunei Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18661",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-86-2020",
+   "path": "local/constanta/adamclisi/2020/86",
+   "short": "HCL Adamclisi nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 86/2020 Privind aprobarea utilizarii sumei de 700.000 lei din excedentul bugetului local al comunei Adamclisi la data de 31.12.2019 si includerea acestei sume in bugetul de venituri si cheltuieli al comunei Adamclisi pe anul 2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18662",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-87-2020",
+   "path": "local/constanta/adamclisi/2020/87",
+   "short": "HCL Adamclisi nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 87/2020 privind anularea integrala a cartii funciare nr. 100449 intabulata de catre UAT Comuna Adamclisi",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18663",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-88-2020",
+   "path": "local/constanta/adamclisi/2020/88",
+   "short": "HCL Adamclisi nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 88/2020 Privind aprobarea Contractului de sponsorizare incheiat intre Asociatia Barza Viezure Manz si Prrimaria comunei Adamclisi avand ca obiect sponsorizarea cu pachete cu ocazia sarbatorilor de iarna pentru scolarii si prescolarii din cadrul Liceului Tehnologic ,, Jean Dinu’’ Adamclisi",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18664",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-89-2020",
+   "path": "local/constanta/adamclisi/2020/89",
+   "short": "HCL Adamclisi nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 89/2020 Privind acordarea de alimente de baza in concordanta cu masurile de prevenire a raspandirii virusului SARS – COV 19 si a situatiei economico-financiare precare a locuitorilor din comuna Adamclisi, judetul Constanta",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18665",
+   "versions": [
+    {
+     "from": "2020-12-18",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-90-2020",
+   "path": "local/constanta/adamclisi/2020/90",
+   "short": "HCL Adamclisi nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 90/2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18670",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--adamclisi-91-2020",
+   "path": "local/constanta/adamclisi/2020/91",
+   "short": "HCL Adamclisi nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Adamclisi nr. 91/2020 privind rectificarea bugetului de venituri si cheltuieli al Comunei Adamclisi pe anul 2020",
+   "url": "https://emol.ro/adamclisi-ct/registru-hcl/18671",
+   "versions": [
+    {
+     "from": "2020-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/adamclisi-ct/registru-hcl/18671",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

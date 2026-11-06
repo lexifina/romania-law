@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/cluj/savadisla/2023",
+ "acts": [
+  {
+   "slug": "hcl-cluj--savadisla-113-2023",
+   "path": "local/cluj/savadisla/2023/113",
+   "short": "HCL Săvădisla nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 113/2023 privind faptele săvârșite de instituțiile publice , agenții economici, alte persoane juridice, precum și de cetățeni, care constituie contravenții în domeniul bunei gospodăriri al localităților comunei Săvădisla",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/134318",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/134318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-114-2023",
+   "path": "local/cluj/savadisla/2023/114",
+   "short": "HCL Săvădisla nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 114/2023 privind stabilirea impozitelor și taxelor locale pe anul 2024 al comunei Săvădisla, județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/134319",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/134319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--savadisla-119-2023",
+   "path": "local/cluj/savadisla/2023/119",
+   "short": "HCL Săvădisla nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Săvădisla nr. 119/2023 privind actualizarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului comunei Săvădisla,județul Cluj",
+   "url": "https://emol.ro/savadisla-cj/registru-hcl/134324",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/savadisla-cj/registru-hcl/134324",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

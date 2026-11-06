@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/cerchezu/2021",
+ "acts": [
+  {
+   "slug": "hcl-constanta--cerchezu-37-2021",
+   "path": "local/constanta/cerchezu/2021/37",
+   "short": "HCL Cerchezu nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 37/2021 privind rectificarea bugetului pe anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/37534",
+   "versions": [
+    {
+     "from": "2021-10-11",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/37534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-38-2021",
+   "path": "local/constanta/cerchezu/2021/38",
+   "short": "HCL Cerchezu nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 38/2021 privind rectificarea bugetului pe anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40163",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-44-2021",
+   "path": "local/constanta/cerchezu/2021/44",
+   "short": "HCL Cerchezu nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 44/2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/40169",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/40169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-50-2021",
+   "path": "local/constanta/cerchezu/2021/50",
+   "short": "HCL Cerchezu nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 50/2021 privind aprobarea numărului de burse şi cuantumul burselor aferente semestrului I al anului şcolar 2021 - 2022 pentru elevii din învăţământul preuniversitar de stat",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/44357",
+   "versions": [
+    {
+     "from": "2021-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/44357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-52-2021",
+   "path": "local/constanta/cerchezu/2021/52",
+   "short": "HCL Cerchezu nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 52/2021 privind rectificarea bugetului pe anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/45323",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/45323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-53-2021",
+   "path": "local/constanta/cerchezu/2021/53",
+   "short": "HCL Cerchezu nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 53/2021 privind aprobarea contractului de prestări servicii privind colectarea deşeurilor de pe raza Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/48105",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/48105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-54-2021",
+   "path": "local/constanta/cerchezu/2021/54",
+   "short": "HCL Cerchezu nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 54/2021 privind aprobarea Planului anual de servicii sociale pentru anul 2021",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/48106",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/48106",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

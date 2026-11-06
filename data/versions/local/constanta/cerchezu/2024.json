@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/constanta/cerchezu/2024",
+ "acts": [
+  {
+   "slug": "hcl-constanta--cerchezu-54-2024",
+   "path": "local/constanta/cerchezu/2024/54",
+   "short": "HCL Cerchezu nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 54/2024 privind alocarea din bugetul local a sumei de 25 000 lei, necesară pentru acordarea unor cadouri, elevilor şi preşcolarilor din cadrul unităţilor de învăţământ de pe raza comunei Cerchezu, jud. Constanţa, cu ocazia sarbătorilor de iarna",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/177826",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/177826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-55-2024",
+   "path": "local/constanta/cerchezu/2024/55",
+   "short": "HCL Cerchezu nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 55/2024 privind anularea dobânzilor, penalităților și a tuturor accesoriilor aferente obligațiilor bugetare principale, restante la 31 august 2024 inclusiv, datorate bugetului local al Comunei Cerchezu",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/177827",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/177827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-69-2024",
+   "path": "local/constanta/cerchezu/2024/69",
+   "short": "HCL Cerchezu nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 69/2024",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/186914",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/186914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-constanta--cerchezu-73-2024",
+   "path": "local/constanta/cerchezu/2024/73",
+   "short": "HCL Cerchezu nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerchezu nr. 73/2024 privind aprobarea “Regulamentului de instituire si administrare a taxei speciale de salubrizare pentru finantarea sistemului de management integrat al deseurilor in judetul Constanta”",
+   "url": "https://emol.ro/cerchezu-ct/registru-hcl/186918",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cerchezu-ct/registru-hcl/186918",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

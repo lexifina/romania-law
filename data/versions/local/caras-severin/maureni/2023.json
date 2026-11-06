@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/maureni/2023",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--maureni-108-2023",
+   "path": "local/caras-severin/maureni/2023/108",
+   "short": "HCL Măureni nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 108/2023 privind declararea apartenenței la domeniul public al comunei Măureni a investiției „ Dispensar medical cu 5 cabinete medicale în localitatea Măureni ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/130115",
+   "versions": [
+    {
+     "from": "2023-12-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/130115",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

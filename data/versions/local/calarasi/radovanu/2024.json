@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/radovanu/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--radovanu-94-2024",
+   "path": "local/calarasi/radovanu/2024/94",
+   "short": "HCL Radovanu nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 94/2024 privind aprobarea participării la „Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul MODERNIZARE ȘI EXTINDERE ILUMINAT PUBLIC ÎN CADRUL PROGRAMULUI PRIVIND CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC, COMUNA RADOVANU, JUD. CĂLĂRAȘI-ETAPA II",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/186443",
+   "versions": [
+    {
+     "from": "2025-01-13",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/186443",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

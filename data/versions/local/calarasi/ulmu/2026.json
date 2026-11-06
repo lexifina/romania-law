@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/ulmu/2026",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--ulmu-17-2026",
+   "path": "local/calarasi/ulmu/2026/17",
+   "short": "HCL Ulmu nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 17/2026 privind utilizarea excedentului bugetului Scolii Gimnaziale nr. 1 Ulmu pe anul 2026, sursa “E”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275066",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-18-2026",
+   "path": "local/calarasi/ulmu/2026/18",
+   "short": "HCL Ulmu nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 18/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa “A” si “E”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275067",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-20-2026",
+   "path": "local/calarasi/ulmu/2026/20",
+   "short": "HCL Ulmu nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 20/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275069",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-22-2026",
+   "path": "local/calarasi/ulmu/2026/22",
+   "short": "HCL Ulmu nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 22/2026 privind implementarea proiectului „Achizitionarea de utilaje pentru transportul si manipularea deseurilor in comuna Ulmu, judetul Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275070",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-23-2026",
+   "path": "local/calarasi/ulmu/2026/23",
+   "short": "HCL Ulmu nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 23/2026 privind aprobarea Devizului general şi a indicatorilor tehnico-economici pentru proiectul „Achizitionarea de utilaje pentru transportul si manipularea deseurilor in comuna Ulmu, judetul Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275072",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-24-2026",
+   "path": "local/calarasi/ulmu/2026/24",
+   "short": "HCL Ulmu nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 24/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa “A”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/275073",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/275073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-29-2026",
+   "path": "local/calarasi/ulmu/2026/29",
+   "short": "HCL Ulmu nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 29/2026 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul II privind anul 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/282648",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/282648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-30-2026",
+   "path": "local/calarasi/ulmu/2026/30",
+   "short": "HCL Ulmu nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 30/2026 privind aprobarea contului de executie bugetara incheiat la data de 30 iunie 2026",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/282649",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/282649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-31-2026",
+   "path": "local/calarasi/ulmu/2026/31",
+   "short": "HCL Ulmu nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 31/2026 privind aprobarea indicatorilor tehnico-economici si obiectivul de investitie, actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare strazi in comuna Ulmu, judetul Calarasi”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/282650",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/282650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-35-2026",
+   "path": "local/calarasi/ulmu/2026/35",
+   "short": "HCL Ulmu nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 35/2026 privind utilizarea excedentului bugetului local pe anul 2026, sursa „A„",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/291314",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/291314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-36-2026",
+   "path": "local/calarasi/ulmu/2026/36",
+   "short": "HCL Ulmu nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 36/2026 privind numărul de utilizatori casnici ai serviciului de salubrizare-colectarea, transportul și gestionarea deșeurilor de pe teritoriul localității Ulmu, județul Călărași",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/291333",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/291333",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

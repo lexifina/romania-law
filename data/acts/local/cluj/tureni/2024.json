@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/cluj/tureni/2024",
+"acts": [
+{
+"slug": "hcl-cluj--tureni-106-2024",
+"path": "local/cluj/tureni/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 106/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI ȘI STRĂZI ÎN COMUNA TURENI, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Progamul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Tureni nr. 106/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/193295",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--tureni-107-2024",
+"path": "local/cluj/tureni/2024/107",
+"kind": "local",
+"year": "2024",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tureni nr. 107/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat în urma dispoziției nr. 5383/02.04.2024 aferent NR SI NCS nr.1/02.04.2024 pentru obiectivul de investiții „MODERNIZARE DRUMURI ȘI STRĂZI ÎN COMUNA TURENI, JUDEȚUL CLUJ”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Tureni nr. 107/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-02-24",
+"latest": "2025-02-24",
+"portal": "https://emol.ro/tureni-cj/registru-hcl/193297",
+"council": "cluj/tureni",
+"council_name": "Consiliul Local al Comunei Tureni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/radovanu/2023",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--radovanu-91-2023",
+   "path": "local/calarasi/radovanu/2023/91",
+   "short": "HCL Radovanu nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 91/2023 privind aprobarea participării la „Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE ȘCOALA VALEA POPII, SAT RADOVANU, COMUNA RADOVANU, JUDEȚUL CĂLĂRAȘI”",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141068",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--radovanu-92-2023",
+   "path": "local/calarasi/radovanu/2023/92",
+   "short": "HCL Radovanu nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Radovanu nr. 92/2023 privind aprobarea participării la „Programului privind creșterea eficienței energetice și gestionarea inteligentă a energiei în clădirile publice” și aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „CREȘTEREA EFICIENȚEI ENERGETICE ȘI GESTIONAREA INTELIGENTĂ A ENERGIEI ÎN CLĂDIRILE PUBLICE ȘCOALA CORP 2, SAT RADOVANU, COMUNA RADOVANU, JUDEȚUL CĂLĂRAȘI",
+   "url": "https://emol.ro/radovanu-cl/registru-hcl/141069",
+   "versions": [
+    {
+     "from": "2024-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/radovanu-cl/registru-hcl/141069",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/cluj/cojocna/2023",
+"acts": [
+{
+"slug": "hcl-cluj--cojocna-68-2023",
+"path": "local/cluj/cojocna/2023/68",
+"kind": "local",
+"year": "2023",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 68/2023 privind acordarea unei sume forfetare în vederea prevenirii abandonului școlar și a părăsirii timpurii a școlii",
+"short": "HCL Cojocna nr. 68/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/125407",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-75-2023",
+"path": "local/cluj/cojocna/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 75/2023 privind adoptarea Regulamentului privind îmbunătățirea activității de întreținere și înfrumusețare a comunei Cojocna, aferent proiectului ”ADOPTĂ UN SPAȚIU VERDE”",
+"short": "HCL Cojocna nr. 75/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-06",
+"latest": "2023-12-06",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/130165",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-78-2023",
+"path": "local/cluj/cojocna/2023/78",
+"kind": "local",
+"year": "2023",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 78/2023 privind reducerea cu 10% a numărului maxim de posturi din aparatul de specialitate al primarului comunei Cojocna, jud.Cluj",
+"short": "HCL Cojocna nr. 78/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135730",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--cojocna-80-2023",
+"path": "local/cluj/cojocna/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cojocna nr. 80/2023 privind indexarea impozitelor și taxelor locale cu rata de schimb a monedei euro potrivit Directivei 1999/62/CE privind vehiculele de transport marfă",
+"short": "HCL Cojocna nr. 80/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-15",
+"latest": "2024-01-15",
+"portal": "https://emol.ro/cojocna-cj/registru-hcl/135732",
+"council": "cluj/cojocna",
+"council_name": "Consiliul Local al Comunei Cojocna",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

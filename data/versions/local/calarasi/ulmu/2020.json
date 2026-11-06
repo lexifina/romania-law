@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/ulmu/2020",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--ulmu-17-2020",
+   "path": "local/calarasi/ulmu/2020/17",
+   "short": "HCL Ulmu nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 17/2020 privind aprobarea cofinanţării din bugetul propriu al comunei Ulmu, a proiectului „Extindere Scoala Gimnaziala nr. 1 Ulmu, cu grupuri sanitare, sat Ulmu, comuna Ulmu, judetul Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/6625",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/6625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-18-2020",
+   "path": "local/calarasi/ulmu/2020/18",
+   "short": "HCL Ulmu nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 18/2020 privind aprobarea amenajamentului pastoral al comunei Ulmu",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/6626",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/6626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-19-2020",
+   "path": "local/calarasi/ulmu/2020/19",
+   "short": "HCL Ulmu nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 19/2020 privind stabilirea impozitelor si taxelor locale pentru anul 2021",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/6627",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/6627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-21-2020",
+   "path": "local/calarasi/ulmu/2020/21",
+   "short": "HCL Ulmu nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 21/2020 privind stabilirea unor taxe speciale pentru anul 2020",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/6629",
+   "versions": [
+    {
+     "from": "2020-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/6629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-27-2020",
+   "path": "local/calarasi/ulmu/2020/27",
+   "short": "HCL Ulmu nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 27/2020 privind constituirea Comisiilor de specialitate pe domenii de activitate",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24329",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-29-2020",
+   "path": "local/calarasi/ulmu/2020/29",
+   "short": "HCL Ulmu nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 29/2020 privind punerea la dispoziția proiectului Watman ”Sistem Informațional pentru managementul integrat al apelor-etapa II” dezvoltat de către Administrația Națională ” Apele Române” a terenului pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24331",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-30-2020",
+   "path": "local/calarasi/ulmu/2020/30",
+   "short": "HCL Ulmu nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 30/2020 privind punerea la dispoziția proiectului ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată pentru aria de operare a Operatorului Regional în județele Călărași și Ialomița, în perioada 2014-2020”, a terenului/terenurilor pentru construcția/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24332",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-32-2020",
+   "path": "local/calarasi/ulmu/2020/32",
+   "short": "HCL Ulmu nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 32/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24334",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-33-2020",
+   "path": "local/calarasi/ulmu/2020/33",
+   "short": "HCL Ulmu nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 33/2020 privind aprobarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Ulmu județul Călărași",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24335",
+   "versions": [
+    {
+     "from": "2020-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-36-2020",
+   "path": "local/calarasi/ulmu/2020/36",
+   "short": "HCL Ulmu nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 36/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/24339",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/24339",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

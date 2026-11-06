@@ -1,0 +1,208 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/maureni/2020",
+"acts": [
+{
+"slug": "hcl-caras-severin--maureni-122-2020",
+"path": "local/caras-severin/maureni/2020/122",
+"kind": "local",
+"year": "2020",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 122/2020 privind actualizarea indicatorilor tehnico-economici ai investiţiei de ,,Canalizare menajeră şi staţie de epurare în localităţile Măureni şi Şoşdea”",
+"short": "HCL Măureni nr. 122/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23795",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-123-2020",
+"path": "local/caras-severin/maureni/2020/123",
+"kind": "local",
+"year": "2020",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 123/2020 privind rectificarea bugetului local al comunei Măureni pentru anul 2020",
+"short": "HCL Măureni nr. 123/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23796",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-124-2020",
+"path": "local/caras-severin/maureni/2020/124",
+"kind": "local",
+"year": "2020",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 124/2020",
+"short": "HCL Măureni nr. 124/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23797",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-126-2020",
+"path": "local/caras-severin/maureni/2020/126",
+"kind": "local",
+"year": "2020",
+"number": "126",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 126/2020",
+"short": "HCL Măureni nr. 126/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23799",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-128-2020",
+"path": "local/caras-severin/maureni/2020/128",
+"kind": "local",
+"year": "2020",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 128/2020 privind aprobarea contractării si garantarii unei finanţări rambursabile interne în valoare de 320.000 lei",
+"short": "HCL Măureni nr. 128/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23801",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-130-2020",
+"path": "local/caras-severin/maureni/2020/130",
+"kind": "local",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 130/2020 privind modificarea HCL nr. 72/2020 privind aprobarea indicatorilor tehnico-economici ai investiţiei de „ Construire corp nou Grădiniță P+1E și amenajări exterioare în localitatea Măureni, jud. Caraș-Severin ”",
+"short": "HCL Măureni nr. 130/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23803",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-131-2020",
+"path": "local/caras-severin/maureni/2020/131",
+"kind": "local",
+"year": "2020",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 131/2020",
+"short": "HCL Măureni nr. 131/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23804",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-132-2020",
+"path": "local/caras-severin/maureni/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 132/2020",
+"short": "HCL Măureni nr. 132/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-15",
+"latest": "2020-12-15",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23806",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--maureni-136-2020",
+"path": "local/caras-severin/maureni/2020/136",
+"kind": "local",
+"year": "2020",
+"number": "136",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Măureni nr. 136/2020 privind însușirea dispoziției primarului nr. 160/21.12.2020 și aprobarea rectificării bugetului local al comunei Măureni pentru anul 2020",
+"short": "HCL Măureni nr. 136/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/maureni-cs/registru-hcl/23810",
+"council": "caras-severin/maureni",
+"council_name": "Consiliul Local al Comunei Măureni",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

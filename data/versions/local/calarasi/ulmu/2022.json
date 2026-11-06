@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/ulmu/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--ulmu-46-2022",
+   "path": "local/calarasi/ulmu/2022/46",
+   "short": "HCL Ulmu nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 46/2022 privind aprobarea depunerii cererii de finanțare pentru proiectul ”Înființare centru de colectare prin aport voluntar în comuna Ulmu județul Călărași„",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/80660",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/80660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-51-2022",
+   "path": "local/calarasi/ulmu/2022/51",
+   "short": "HCL Ulmu nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 51/2022 privind aprobarea Studiului de fezabilitate, devizul general si indicatori tehnico - economici ai proiectului “Lucrari de instalare sistem de supraveghere video in satele Ulmu, Zimbru, Faurei si Chirnogi, comuna Ulmu, jud. Calarasi “",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/81857",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/81857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-52-2022",
+   "path": "local/calarasi/ulmu/2022/52",
+   "short": "HCL Ulmu nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 52/2022 privind implementarea proiectului „Lucrari de instalare sistem de supraveghere video in satele Ulmu, Zimbru, Faurei si Chirnogi, comuna Ulmu, jud. Calarasi”",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/81858",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/81858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--ulmu-56-2022",
+   "path": "local/calarasi/ulmu/2022/56",
+   "short": "HCL Ulmu nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ulmu nr. 56/2022 privind modificarea taxei de salubrizare pentru Unitatea Administrativ Teritorială Comuna Ulmu, județul Calarasi",
+   "url": "https://emol.ro/ulmu-cl/registru-hcl/86569",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ulmu-cl/registru-hcl/86569",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

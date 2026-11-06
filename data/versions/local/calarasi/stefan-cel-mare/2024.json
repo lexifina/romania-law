@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/stefan-cel-mare/2024",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-64-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/64",
+   "short": "HCL Ștefan cel Mare nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 64/2024 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al comunei Ștefan cel Mare, județul Călărași",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/174025",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/174025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-65-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/65",
+   "short": "HCL Ștefan cel Mare nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 65/2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/174026",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/174026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-71-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/71",
+   "short": "HCL Ștefan cel Mare nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 71/2024 privind aprobarea regulamentului de organizare și funcționare al aparatului de specialitate al primarului și al instituțiilor publice și serviciilor publice de interes local",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181144",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-75-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/75",
+   "short": "HCL Ștefan cel Mare nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 75/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar din comuna Ştefan cel Mare, judeţul Călăraşi, pentru anul şcolar 2025-2026",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/181299",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/181299",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-78-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/78",
+   "short": "HCL Ștefan cel Mare nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 78/2024 privind aprobarea participării comunei Ștefan cel Mare în cadrul Programului privind creșterea eficienței energetice a infrastructurii de iluminat public, precum si aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici pentru proiectul „Modernizarea sistemului de iluminat public stradal în comuna Ștefan cel Mare, județul Călărași - Etapa II”",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/186604",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/186604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-81-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/81",
+   "short": "HCL Ștefan cel Mare nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 81/2024 privind validarea validarea Dispoziției nr. 277 din 9 decembrie 2024 privind rectificarea bugetului pe anul 2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/190869",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/190869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-82-2024",
+   "path": "local/calarasi/stefan-cel-mare/2024/82",
+   "short": "HCL Ștefan cel Mare nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 82/2024 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici fără contracte de prestări servicii de salubrizare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/190870",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/190870",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

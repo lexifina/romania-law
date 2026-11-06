@@ -1,0 +1,95 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/paltinis/2026",
+"acts": [
+{
+"slug": "hcl-caras-severin--paltinis-1-2026",
+"path": "local/caras-severin/paltinis/2026/1",
+"kind": "local",
+"year": "2026",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 1/2026 privind aprobarea acoperirii definitive a deficitului Secțiunii de dezvoltare SD02, sursa A, în sumă de 651.522,96 lei, din excedentul anilor precedenți, al Comunei Păltiniș",
+"short": "HCL Păltiniș nr. 1/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/262179",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-2-2026",
+"path": "local/caras-severin/paltinis/2026/2",
+"kind": "local",
+"year": "2026",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 2/2026",
+"short": "HCL Păltiniș nr. 2/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/262181",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-3-2026",
+"path": "local/caras-severin/paltinis/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 3/2026 privind aprobarea Programului anual de achiziții publice al comunei Păltiniș pentru anul 2026",
+"short": "HCL Păltiniș nr. 3/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/262182",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--paltinis-4-2026",
+"path": "local/caras-severin/paltinis/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 4/2026 privind modificarea art. 2 de la HCL nr. 39/05.11.2021, privind aprobarea cererii de finanțare și a devizului general estimate pentru obiectivul de investiții „Modernizare străzi în localitățile Cornuțel și Ohabița, din comuna Păltiniș, județul Caraș-Severin” prin Programul național de investiții „Anghel Saligny”",
+"short": "HCL Păltiniș nr. 4/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/paltinis-cs/registru-hcl/262183",
+"council": "caras-severin/paltinis",
+"council_name": "Consiliul Local al Comunei Păltiniș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

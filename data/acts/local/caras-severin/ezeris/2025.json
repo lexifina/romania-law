@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/ezeris/2025",
+"acts": [
+{
+"slug": "hcl-caras-severin--ezeris-101-2025",
+"path": "local/caras-severin/ezeris/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 101/2025 privind neasumarea derulării la nivelul Comunei Ezeriș a Programului pentru școli al României in perioada 2026-2029 conform prevederilor HG 652/2023",
+"short": "HCL Ezeriș nr. 101/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247795",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-102-2025",
+"path": "local/caras-severin/ezeris/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 102/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Ezeriș nr. 102/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247796",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-103-2025",
+"path": "local/caras-severin/ezeris/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 103/2025 privind aprobarea planului de școlarizare pentru anul de învățământ 2026-2027",
+"short": "HCL Ezeriș nr. 103/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247799",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-108-2025",
+"path": "local/caras-severin/ezeris/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 108/2025",
+"short": "HCL Ezeriș nr. 108/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247805",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-111-2025",
+"path": "local/caras-severin/ezeris/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 111/2025 privind aprobarea Planului Anual al achizițiilor publice pentru anul 2026",
+"short": "HCL Ezeriș nr. 111/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247820",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-112-2025",
+"path": "local/caras-severin/ezeris/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 112/2025 privind aprobarea cotelor de combustibil pentru Comuna Ezeriș, serviciile aflate în subordinea Comunei Ezeriș și a Consiliului Local Ezeriș, pentru anul 2026",
+"short": "HCL Ezeriș nr. 112/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247823",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-113-2025",
+"path": "local/caras-severin/ezeris/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 113/2025 privind aprobarea încheierii unui acord de parteneriat între Comuna Ezeriș, Comuna Fârliug și Comuna Zorlențu Mare în scopul realizării unor atribuții stabilite prin legea autorităților administrației publice locale, în domeniul Urbanismului si Amenajării teritoriului pentru obiectivul : ,,ÎNFIINTARE SISTEM INTELIGENT DISTRIBUȚIE GAZE NATURALE ÎN COMUNELE: EZERIȘ, (LOCALITĂȚILE EZERIȘ SI SOCENI), FÂRLIUG (LOCALITĂȚILE FÂRLIUG, SCĂIUȘ, REMETEA POGONICI ȘI DEZEȘTI) ȘI ZORLENȚU MARE( LOCALITĂȚILE ZORLENȚU MARE SI ZORLENCIOR) JUDEȚUL CARAȘ-SEVERIN”",
+"short": "HCL Ezeriș nr. 113/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247826",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-115-2025",
+"path": "local/caras-severin/ezeris/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 115/2025 privind stabilirea impozitelor si taxelor locale începând cu anul 2026",
+"short": "HCL Ezeriș nr. 115/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-22",
+"latest": "2026-01-22",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247828",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-116-2025",
+"path": "local/caras-severin/ezeris/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 116/2025 privind rectificarea bugetului local pe anul 2025",
+"short": "HCL Ezeriș nr. 116/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-09-11",
+"latest": "2026-09-11",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/247829",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

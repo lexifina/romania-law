@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ezeris/2020",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ezeris-102-2020",
+   "path": "local/caras-severin/ezeris/2020/102",
+   "short": "HCL Ezeriș nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 102/2020 privind aprobarea măsurilor pentru gospodărirea Comunei Ezeris pentru perioada 2020-2024",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/15994",
+   "versions": [
+    {
+     "from": "2020-11-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/15994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-108-2020",
+   "path": "local/caras-severin/ezeris/2020/108",
+   "short": "HCL Ezeriș nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 108/2020 privind aprobarea comisiei tehnico-economice în vederea aprobarării documentațiilor și a indicatorilor tehnnico-economici pentru lucrările de investiții derulate la nivelul Comunei Ezeriș, constituită conform dispoziției primarului Comunei Ezeriș , nr. 87/10.12.2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16000",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-110-2020",
+   "path": "local/caras-severin/ezeris/2020/110",
+   "short": "HCL Ezeriș nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 110/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16002",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-111-2020",
+   "path": "local/caras-severin/ezeris/2020/111",
+   "short": "HCL Ezeriș nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 111/2020 privind aprobarea de către Consiliul Local Ezeriș a achizițiilor de bunuri și servicii în funcție de posibilitățile financiare existente la nivelul Comunei Ezeriș până la finalul anului 2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16003",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-112-2020",
+   "path": "local/caras-severin/ezeris/2020/112",
+   "short": "HCL Ezeriș nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 112/2020 privind aprobarea modificarii organigramei și a statului de funcții ale aparatului de specialitate a primarului Comunei Ezeriș",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16004",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-114-2020",
+   "path": "local/caras-severin/ezeris/2020/114",
+   "short": "HCL Ezeriș nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 114/2020 privind aprobarea întocmirii documentațiilor tehnico-economice pentru obiective de investiții ce vor fi realizate la nivelul comunei Ezeriș pentru anul 2021",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16006",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-117-2020",
+   "path": "local/caras-severin/ezeris/2020/117",
+   "short": "HCL Ezeriș nr. 117/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 117/2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16009",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-118-2020",
+   "path": "local/caras-severin/ezeris/2020/118",
+   "short": "HCL Ezeriș nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 118/2020 privind rectificarea bugetului local pe anul 2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16010",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ezeris-119-2020",
+   "path": "local/caras-severin/ezeris/2020/119",
+   "short": "HCL Ezeriș nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 119/2020 privind aprobarea indicatorilor tehnico-economici pentru lucrările aferente obiectivelor afectate de calamitățile naturale din 18-19.06.2020",
+   "url": "https://emol.ro/ezeris-cs/registru-hcl/16011",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ezeris-cs/registru-hcl/16011",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

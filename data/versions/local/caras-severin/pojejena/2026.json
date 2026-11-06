@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/pojejena/2026",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--pojejena-23-2026",
+   "path": "local/caras-severin/pojejena/2026/23",
+   "short": "HCL Pojejena nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 23/2026 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284593",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-24-2026",
+   "path": "local/caras-severin/pojejena/2026/24",
+   "short": "HCL Pojejena nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 24/2026 privind aprobarea contului de executie bugetara a bugetului local pentru anul 2025",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284597",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-25-2026",
+   "path": "local/caras-severin/pojejena/2026/25",
+   "short": "HCL Pojejena nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 25/2026 privind aprobarea efectuarii lucrarii de refacere a trotuarului si a rigolei din fata Dispensarului din localitatea Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284607",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-26-2026",
+   "path": "local/caras-severin/pojejena/2026/26",
+   "short": "HCL Pojejena nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 26/2026 privind aprobarea efectuarii lucrarii de refacere a trotuarului si a rigolei din fata ,,Centrului administrativ si social-cultural,localitatea Divici in comuna Pojejena’’",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284608",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-27-2026",
+   "path": "local/caras-severin/pojejena/2026/27",
+   "short": "HCL Pojejena nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 27/2026 privind aprobarea efectuarii lucrarilor de cimentare si montare gresie in incinta ,,Centrului administrativ si social-cultural,localitatea Divici in comuna Pojejena’’",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284609",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-28-2026",
+   "path": "local/caras-severin/pojejena/2026/28",
+   "short": "HCL Pojejena nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 28/2026 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284610",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-29-2026",
+   "path": "local/caras-severin/pojejena/2026/29",
+   "short": "HCL Pojejena nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 29/2026 privind aprobarea digitalizarii serviciilor de plata a impozitelor si taxelor locale prin inrolarea in platforma www.ghiseul.ro si implementarea terminalelor POS la casieria institutiei",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284621",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-30-2026",
+   "path": "local/caras-severin/pojejena/2026/30",
+   "short": "HCL Pojejena nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 30/2026 privind aprobarea lucrarilor de finisare interioare si instalatii sanitare la Dispensarul din localitatea Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284622",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-31-2026",
+   "path": "local/caras-severin/pojejena/2026/31",
+   "short": "HCL Pojejena nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 31/2026 privind aprobarea Regulamentului pentru aplicarea taxei speciale,functionarea, exploatarea,administrarea si stabilirea tarifului de utilizare a statiilor de incarcare pentru autovehicule electrice/hybrid plug-in aferente obiectivului de investitii ,,Construire statii de incarcare in comuna Pojejena” realizat in cadrul proiectului ,,Reabilitarea moderata a cladirilor publice pentru furnizarea de servicii – Dispensar comuna Pojejena”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284623",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-34-2026",
+   "path": "local/caras-severin/pojejena/2026/34",
+   "short": "HCL Pojejena nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 34/2026 privind aprobarea implementării proiectului „LUCRARI DE CONSTRUIRE: PARC INTELIGENT ÎN LOCALITATEA POJEJENA, COMUNA POJEJENA, JUDETUL CARAS-SEVERIN”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284626",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-35-2026",
+   "path": "local/caras-severin/pojejena/2026/35",
+   "short": "HCL Pojejena nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 35/2026 privind aprobarea rectificarii bugetului general al comunei Pojejena pe anul 2026",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284627",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-36-2026",
+   "path": "local/caras-severin/pojejena/2026/36",
+   "short": "HCL Pojejena nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 36/2026 privind analiza stadiului de inscriere a datelor in registrul agricol pentru trimestrul II anul 2026 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284628",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-41-2026",
+   "path": "local/caras-severin/pojejena/2026/41",
+   "short": "HCL Pojejena nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 41/2026 privind completarea Organigramei si a Statului de functii al aparatului de specialitate al primarului com. Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284633",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-42-2026",
+   "path": "local/caras-severin/pojejena/2026/42",
+   "short": "HCL Pojejena nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 42/2026 privind aprobarea indicatorilor tehnico – economici - Proiectul tehnic si devizul general aferenti investitiei ,,Amenajare Parc cu loc de joaca in localitatea Radimna”",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/284634",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/284634",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

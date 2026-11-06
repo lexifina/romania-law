@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/berzasca/2024",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--berzasca-20-2024",
+   "path": "local/caras-severin/berzasca/2024/20",
+   "short": "HCL Berzasca nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 20/2024",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166614",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-21-2024",
+   "path": "local/caras-severin/berzasca/2024/21",
+   "short": "HCL Berzasca nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 21/2024 privind funcționarea Serviciului de alimentare cu apă și de canalizare, cu personalitate juridică, în subordinea Consiliului Local al comunei Berzasca, în actuala formă juridică",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166617",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-22-2024",
+   "path": "local/caras-severin/berzasca/2024/22",
+   "short": "HCL Berzasca nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 22/2024 privind rectificarea de buget local pe trimestrul III, anul 2024",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/166618",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/166618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-28-2024",
+   "path": "local/caras-severin/berzasca/2024/28",
+   "short": "HCL Berzasca nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 28/2024 privind aprobarea solicitării prelungirii scrisorii de garanție bancară de la CEC Bank SA - Sucursala Reșița, în vederea garantării obligațiilor de plată a avansului de 830.000 lei, din fondurile nerambursabile pentru implementarea proiectului ''Modernizare și dotare cămine culturale Liubcova, Berzasca și Bigăr, comuna Berzasca, județul Caraș-Severin'', în baza contractului de finanțare nerambursabilă nr. C0760CM00031551100087 din 21.12.2016, în favoarea Agenției pentru Finanțarea Investițiilor Rurale - Centrul Regional pentru Finanțarea Investițiilor Rurale 5 Vest - România",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/178979",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/178979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-29-2024",
+   "path": "local/caras-severin/berzasca/2024/29",
+   "short": "HCL Berzasca nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 29/2024 privind aprobarea prețurilor de pornire la licitație pentru punerea în valoare a masei lemnoase din fondul forestier, proprietatea publică a comunei Berzasca, administrată de către Ocolul Silvic Eparhial Gorj",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/178982",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/178982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-32-2024",
+   "path": "local/caras-severin/berzasca/2024/32",
+   "short": "HCL Berzasca nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 32/2024 privind aprobarea indicatorilor tehnico-economici actualizați pentru proiectul ''Modernizare sală de sport și parcare auto în localitatea Berzasca''",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/179015",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/179015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-33-2024",
+   "path": "local/caras-severin/berzasca/2024/33",
+   "short": "HCL Berzasca nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 33/2024 privind aprobarea condițiilor de prelungire a scrisorii de garanție bancară în valoare de 830.000 lei pentru proiectul ''Reabilitare, modernizare și dotare Cămine Culturale din localitățile Berzasca, Bigăr și Liubcova, com. Berzasca, jud, Caraș-Severin'' până la data de 06.10.2024",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/179031",
+   "versions": [
+    {
+     "from": "2024-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/179031",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

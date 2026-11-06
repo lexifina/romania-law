@@ -1,0 +1,231 @@
+{
+ "country": "RO",
+ "shard": "local/calarasi/stefan-cel-mare/2022",
+ "acts": [
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-61-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/61",
+   "short": "HCL Ștefan cel Mare nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 61/2022 privind validarea dispoziției primarului comunei nr. 334 din 2.XI.2022 privind majorarea bugetului pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80757",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-62-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/62",
+   "short": "HCL Ștefan cel Mare nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 62/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80758",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-63-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/63",
+   "short": "HCL Ștefan cel Mare nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 63/2022 privind aprobarea taxei pentru închirierea tractorului și buldoexcavatorului, utilaje proprietatea comunei",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80759",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-64-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/64",
+   "short": "HCL Ștefan cel Mare nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 64/2022 privind aprobarea neasumării de către comuna Ștefan cel Mare a a responsabilităţii organizării şi derulării procedurilor de atribuire a contractelor/ acordurilor cadru pentru achiziţionarea şi distribuirea de legume şi fructe, produse lactate şi produse de panificaţie, aferente PROGRAMULUI PENTRU ŞCOLI AL ROMÂNIEI şi prestarea de servicii pentru derularea măsurilor educative – măsuri de încurajare a consumului de legume, fructe şi produse lactate în şcoli",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80767",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-65-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/65",
+   "short": "HCL Ștefan cel Mare nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 65/2022 privind aprobarea unor protocoale de colaborare interinstituționale cu Ministerul Muncii și Solidarității Sociale pentru implementarea eficientă a Proiectului „HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/80768",
+   "versions": [
+    {
+     "from": "2022-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/80768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-70-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/70",
+   "short": "HCL Ștefan cel Mare nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 70/2022 privind validarea dispozițiilor primarului comunei nr. 354 din 28.XI.2022 privind majorarea bugetului local pe anul 2022 și virarea unor credite bugetare în cadrul aceluiași capitol și nr. 362 din 5.XII. 2022 privind majorarea bugetului pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83767",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-71-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/71",
+   "short": "HCL Ștefan cel Mare nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 71/2022 privind implementarea proiectului „Centru de zi pentru persoane vârstnice, comuna Ștefan cel Mare, județul Călărași’’",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83768",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-72-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/72",
+   "short": "HCL Ștefan cel Mare nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 72/2022 privind aprobarea „Normelor procedurale interne pentru organizarea şi desfăşurarea propriilor proceduri de atribuire a contractelor de achiziţie publică ce au ca obiect servicii prevăzute în anexa nr. 2 la Legea nr. 98/2016 privind achiziţiile publice,cu valoarea estimată fără TVA, mai mică decât cea prevăzută la art.7 alin. (1), lit.d)”",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83769",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-73-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/73",
+   "short": "HCL Ștefan cel Mare nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 73/2022 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar din comuna Ştefan cel Mare, judeţul Călăraşi, pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83770",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-74-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/74",
+   "short": "HCL Ștefan cel Mare nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 74/2022 privind aprobarea Documentației de atribuire a contractului de delegare prin concesiune a serviciului de operare a Centrului de Management Integrat al Deșeurilor Ciocănești si a stațiilor de transfer Lehliu-Gara, Oltenița, Călărași, transportul deșeurilor reziduale de la stațiile de transfer la depozitul conform de deșeuri nepericuloase Ciocănești precum si colectarea, transportul deșeurilor voluminoase, deșeurilor din construcții si demolări, deșeurilor menajere periculoase din județul Călăraș",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83771",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-75-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/75",
+   "short": "HCL Ștefan cel Mare nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 75/2022 privind aprobarea achiziţionării activităților juridice de consultanță, de asistenţă şi/sau de reprezentare",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83772",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-76-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/76",
+   "short": "HCL Ștefan cel Mare nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 76/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/83773",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/83773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-77-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/77",
+   "short": "HCL Ștefan cel Mare nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 77/2022 privind validarea dispoziției primarului comunei nr. 378 din 19.XII.2022 privind majorarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/86031",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/86031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-78-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/78",
+   "short": "HCL Ștefan cel Mare nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 78/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/86032",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/86032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-calarasi--stefan-cel-mare-79-2022",
+   "path": "local/calarasi/stefan-cel-mare/2022/79",
+   "short": "HCL Ștefan cel Mare nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ștefan cel Mare nr. 79/2022 privind aprobarea Strategiei de dezvoltare locală a comunei Ștefan cel Mare, județul Călărași, pentru perioada 2022-2030",
+   "url": "https://emol.ro/stefancelmare-cl/registru-hcl/86033",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/stefancelmare-cl/registru-hcl/86033",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
