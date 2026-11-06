@@ -72,6 +72,21 @@
    ]
   },
   {
+   "slug": "hg-1-1996",
+   "path": "hg/1996/1",
+   "short": "HG nr. 1/1996",
+   "title": "Hotărârea Guvernului nr. 1/1996 privind prelungirea valabilităţii licenţelor de export pentru produse lemnoase, eliberate în conformitate cu Hotărârea Guvernului nr. 246/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7683",
+   "versions": [
+    {
+     "from": "1996-01-10",
+     "units": 3,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7683",
+     "sha256": "ce9187115b4e4bf52d0468bf59369acc2610cbc9df0b69bceae0c6b7c82a6254"
+    }
+   ]
+  },
+  {
    "slug": "hg-10-1996",
    "path": "hg/1996/10",
    "short": "HG nr. 10/1996",
@@ -8337,6 +8352,21 @@
    ]
   },
   {
+   "slug": "hg-2-1996",
+   "path": "hg/1996/2",
+   "short": "HG nr. 2/1996",
+   "title": "Hotărârea Guvernului nr. 2/1996 privind transmiterea unui imobil, situat în oraşul Rasnov, judeţul Braşov, în administrarea Ministerului Apărării Naţionale",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7709",
+   "versions": [
+    {
+     "from": "1996-01-18",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7709",
+     "sha256": "33e2e09db86201001fb77f5dbcd4926df9d30f562f43dd53eea890ae063cdd2d"
+    }
+   ]
+  },
+  {
    "slug": "hg-200-1996",
    "path": "hg/1996/200",
    "short": "HG nr. 200/1996",
@@ -8423,6 +8453,21 @@
      "units": 1,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8855",
      "sha256": "8e27d5f9c1000335a9db79442645a3198c7a2296accfed647d673f9959624bc5"
+    }
+   ]
+  },
+  {
+   "slug": "hg-21-1996",
+   "path": "hg/1996/21",
+   "short": "HG nr. 21/1996",
+   "title": "Hotărârea Guvernului nr. 21/1996 privind majorarea valorii ajutoarelor umanitare de urgenţă aprobate prin Hotărârea Guvernului nr. 1.064/1995",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/8007",
+   "versions": [
+    {
+     "from": "1996-01-23",
+     "units": 2,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/8007",
+     "sha256": "97034c0aa95a2e3cd109a2ed800d589dfd4e1e3297e5fcd1a990e3f78dba8cb1"
     }
    ]
   },
@@ -13500,6 +13545,21 @@
    ]
   },
   {
+   "slug": "hg-6-1996",
+   "path": "hg/1996/6",
+   "short": "HG nr. 6/1996",
+   "title": "Hotărârea Guvernului nr. 6/1996 privind numirea în funcţie a subprefectului judeţului Ialomiţa",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7781",
+   "versions": [
+    {
+     "from": "1996-01-18",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7781",
+     "sha256": "bedb20a0ff647c4177dfcf6d69dcf91f21c520cd23a922f48ec8a06b4642dee5"
+    }
+   ]
+  },
+  {
    "slug": "hg-60-1996",
    "path": "hg/1996/60",
    "short": "HG nr. 60/1996",
@@ -14696,6 +14756,21 @@
      "units": 6,
      "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/9758",
      "sha256": "e9a2ddf587f6d5641403fdf7baeca55ddcfb04b8e51c2da70f1ff23f08185739"
+    }
+   ]
+  },
+  {
+   "slug": "hg-7-1996",
+   "path": "hg/1996/7",
+   "short": "HG nr. 7/1996",
+   "title": "Hotărârea Guvernului nr. 7/1996 pentru aprobarea Acordului de cooperare tehnică, ştiinţifică şi tehnologică dintre Guvernul României şi Guvernul Republicii Bolivia",
+   "url": "https://legislatie.just.ro/Public/DetaliiDocument/7800",
+   "versions": [
+    {
+     "from": "1996-01-22",
+     "units": 1,
+     "source_url": "https://legislatie.just.ro/Public/DetaliiDocument/7800",
+     "sha256": "565164a4d244805673d16b514a3bd1cd6e3b164b86608310247831ebb6722c52"
     }
    ]
   },

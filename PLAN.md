@@ -2,15 +2,15 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**59.5%** of the plan is published, weighted by how binding each source is and how often it is used. **79.2%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 03:04 UTC.
+**60.3%** of the plan is published, weighted by how binding each source is and how often it is used. **79.9%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-06 03:23 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.4% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 52,203 of 55,923 acts · 94.3% | automatic: the official text as published plus every consolidated form | collecting |
-| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 11,676 of 8,321 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
-| Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 3,522 of 5,166 acts · 68.2% | searched for one by one in the official service; only its text is used | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 53,683 of 55,923 acts · 96.5% | automatic: the official text as published plus every consolidated form | collecting |
+| Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 12,252 of 8,321 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
+| Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 3,721 of 5,166 acts · 72.0% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
 | CCR decisions | jurisprudenta/ccr/ | 9.5% | 22,969 of 25,189 decisions; 97 of 984 rulings applied · 74.9% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
 | ICCJ RIL and HP | jurisprudenta/iccj/ | 4.7% | 1,874 of 2,113 decisions · 88.7% | official texts as published, linked to the articles they interpret | collecting |
@@ -36,16 +36,16 @@ This is the plan for this repository, part by part, with what is published so fa
 | Court of Accounts | curtea-de-conturi/ | 0.3% | target unknown | official texts as published | collecting |
 | Ombudsman (Avocatul Poporului) | avocatul-poporului/ | 0.2% | 582 of 1,807 documents · 32.2% | the Ombudsman's own publications | collecting |
 | **EU and international** | | | | | |
-| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 2,882 of 3,500 acts · 31.4% | official texts, linked from the ratifying acts | collecting |
+| Treaties | tratat/ (texts), linked from the ratifying acts | 2.0% | 0 of 2,648 treaty texts; 3,003 of 3,500 acts · 32.7% | official texts, linked from the ratifying acts | collecting |
 | EU transposition links | data/eu-transposition.csv | 2.8% | 6,938 of 5,834 notification records · 100.0% | EU notification records and the transposition clauses in the acts | done |
 | EU law in Romanian | ue/<kind>/<year>/<number>/ | 0.5% | 16,409 of 16,415 EU acts · 100.0% | the Romanian Official Journal text of each regulation and directive in force | done |
 | **Parliament and President** | | | | | |
-| Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 8,715 of 9,678 decrees · 90.0% | promulgation data on each law; normative decrees as acts | collecting |
+| Presidential decrees | promulgation data on each law; normative decrees in decret/ | 0.3% | 8,911 of 9,678 decrees · 92.1% | promulgation data on each law; normative decrees as acts | collecting |
 | Parliament decisions | hotarare-parlament/ | 0.4% | 0 of 7,050 decisions · 0.0% | official texts as published | planned |
 | **Legislative history and publications** | | | | | |
-| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills.csv | 5.4% | 70,044 of 177,116 acts; 2,952 of 9,960 laws (+2 more) · 40.7% | the Chamber of Deputies' act sheets and bill files | collecting |
+| Legislative history (amendment links, bills, Council opinions) | data/act-links-<year>.csv, data/bills.csv | 5.4% | 70,044 of 180,096 acts; 4,278 of 10,115 laws (+2 more) · 42.7% | the Chamber of Deputies' act sheets and bill files | collecting |
 | Draft acts in public consultation | proiect/<initiator>/<year>/ | 0.9% | target unknown | official drafts and explanatory notes as published, each stage appended | collecting |
-| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 177,116 of 177,116 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
+| Monitorul Oficial parts | MO reference in each version; data/mo-links.csv | 1.2% | 180,096 of 180,096 acts · 38.5% | the Monitorul Oficial reference of every version | planned |
 | Collective labour agreements (MO Part V) | cct/ | 0.3% | 0 of 57 agreements · 0.0% | official texts as published | planned |
 | **Historical law** | | | | | |
 | Historical law | cod/ (old codes), decret-lege/, pre-1990 lege/ and decret/ | 2.4% | 9 of 10 codes and statutes; 26 of 200 decree-laws (+1 more) · 43.6% | built by hand from the official texts | collecting |

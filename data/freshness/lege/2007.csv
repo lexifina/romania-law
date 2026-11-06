@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+legea-1-2007,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/78746
 legea-10-2007,pending-change,2026-11-04,2026-11-11,amendment-search,,2014-01-16,no,https://legislatie.just.ro/Public/DetaliiDocument/78625
 legea-101-2007,pending-change,2026-11-06,2026-11-13,amendment-search,,2011-07-21,no,https://legislatie.just.ro/Public/DetaliiDocument/81395
 legea-102-2007,pending-change,2026-11-04,2026-11-11,amendment-search,,2010-12-23,no,https://legislatie.just.ro/Public/DetaliiDocument/81402
@@ -154,6 +155,7 @@ legea-246-2007,current,2026-11-03,2026-11-10,edition-index,oug-114-2018,2018-12-
 legea-247-2007,pending-change,2026-11-04,2026-11-11,amendment-search,legea-188-2000,2011-10-20,no,https://legislatie.just.ro/Public/DetaliiDocument/83716
 legea-248-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83842
 legea-249-2007,pending-change,2026-11-04,2026-11-11,amendment-search,,2011-03-29,no,https://legislatie.just.ro/Public/DetaliiDocument/83844
+legea-25-2007,pending-change,2026-11-06,2026-11-13,amendment-search,,2010-08-23,no,https://legislatie.just.ro/Public/DetaliiDocument/78675
 legea-250-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83701
 legea-251-2007,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/83846
 legea-252-2007,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/83919
@@ -195,6 +197,7 @@ legea-286-2007,pending-change,2026-11-04,2026-11-11,amendment-search,oug-128-200
 legea-287-2007,pending-change,2026-11-04,2026-11-11,amendment-search,,2023-01-19,no,https://legislatie.just.ro/Public/DetaliiDocument/86639
 legea-288-2007,stale,2025-11-17,2025-11-24,consolidated-form,,,,https://legislatie.just.ro/Public/DetaliiDocument/215173
 legea-289-2007,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/86643
+legea-29-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/78681
 legea-290-2007,pending-change,2026-11-04,2026-11-11,amendment-search,legea-270-2020,2020-12-26,no,https://legislatie.just.ro/Public/DetaliiDocument/86986
 legea-291-2007,stale,2026-02-16,2026-02-23,consolidated-form,legea-189-2015,2015-07-09,yes,https://legislatie.just.ro/Public/DetaliiDocument/86736
 legea-292-2007,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/86738
@@ -205,6 +208,7 @@ legea-296-2007,pending-change,2026-11-06,2026-11-13,amendment-search,amending ac
 legea-297-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/86842
 legea-298-2007,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/86844
 legea-299-2007,stale,2026-02-16,2026-02-23,consolidated-form,legea-224-2018,2018-08-05,yes,https://legislatie.just.ro/Public/DetaliiDocument/87091
+legea-3-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/78596
 legea-30-2007,pending-change,2026-11-04,2026-11-11,amendment-search,oug-163-2008,2008-12-04,no,https://legislatie.just.ro/Public/DetaliiDocument/78683
 legea-300-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87015
 legea-301-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87017
@@ -216,6 +220,7 @@ legea-306-2007,current,2026-11-04,2026-11-11,amendment-search,,,,https://legisla
 legea-307-2007,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87132
 legea-308-2007,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87268
 legea-309-2007,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87144
+legea-31-2007,pending-change,2026-11-06,2026-11-13,amendment-search,hg-3-2026,2026-07-01,no,https://legislatie.just.ro/Public/DetaliiDocument/78685
 legea-310-2007,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87164
 legea-311-2007,pending-change,2026-11-04,2026-11-11,amendment-search,,2008-06-03,no,https://legislatie.just.ro/Public/DetaliiDocument/87166
 legea-312-2007,current,2026-11-03,2026-11-10,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/87168
