@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2015",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-130-2015",
+   "path": "local/teleorman/alexandria/2015/130",
+   "short": "HCL Alexandria nr. 130/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 130/2015",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-141-din-31-octombrie-2007-cu-privire-la-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria-3/",
+   "versions": [
+    {
+     "from": "2015-04-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-130_29-apr-20151.pdf",
+     "sha256": "19c2225bc2d16ef04573671fbf52a2cd00e2468a9daeb0303a631f8db38635fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-151-2015",
+   "path": "local/teleorman/alexandria/2015/151",
+   "short": "HCL Alexandria nr. 151/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 151/2015",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-92-31-10-2008-privind-aprobarea-statutului-municipiului-alexandria-2/",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-151_25-mai-2015.pdf",
+     "sha256": "123cffb4b01240e3c7553b7664bccd7a0c19ab415d26c23387db0bfe9311175a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-158-2015",
+   "path": "local/teleorman/alexandria/2015/158",
+   "short": "HCL Alexandria nr. 158/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 158/2015",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-1-din-08-ianuarie-2015-privind-stabilirea-retelei-unitatilor-de-invatamnat-preuniversitar-din-municipiul-alexandria-pentru-anul-scolar-2015-2016/",
+   "versions": [
+    {
+     "from": "2015-05-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-158_25-mai-2015.pdf",
+     "sha256": "3155aaad1771dd1e6d5090eb761582ce06058065a8ad4e200eb65210db0e7861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-360-2015",
+   "path": "local/teleorman/alexandria/2015/360",
+   "short": "HCL Alexandria nr. 360/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 360/2015",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-si-a-anexei-nr-2-la-contractul-de-delegare-a-gestiunii-catre-sc-serviciul-sanitar-veterinar-srl-alexandria-aprobat-prin-hcl-nr-87-12-04-2011/",
+   "versions": [
+    {
+     "from": "2015-11-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-360_25-nov-2015.pdf",
+     "sha256": "7e8a5fe1e9fd4c5457b04c24527a50905326d4240c9fce0e68a15b247ec2fdad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-9-2015",
+   "path": "local/teleorman/alexandria/2015/9",
+   "short": "HCL Alexandria nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 9/2015 cu privire la desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-354-din-26-noiembrie-2014-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-nr-9_30-ian-2015.pdf",
+     "sha256": "3df55bbf9701904a6bab7db5feb4d6199d6afbfa89955b517df568a151480594"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2022",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-12-2022",
+   "path": "local/teleorman/alexandria/2022/12",
+   "short": "HCL Alexandria nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 12/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-12_31.01.2022.pdf",
+     "sha256": "964c82412877e6936cfd3e8d5d2ae3613db93e85bfc83e319b901434a87a23ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-165-2022",
+   "path": "local/teleorman/alexandria/2022/165",
+   "short": "HCL Alexandria nr. 165/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 165/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-165_30.05.2022.pdf",
+     "sha256": "17d6bbe22a9051199797936f74f24b2c8ba915ca6ee495d53c4355c0defc69cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-186-2022",
+   "path": "local/teleorman/alexandria/2022/186",
+   "short": "HCL Alexandria nr. 186/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 186/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-186_21.06.2022.pdf",
+     "sha256": "3a7cba64f43f230ef37268fbc037e3bd2879d073af82f822a1be2da5c01d804a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-192-2022",
+   "path": "local/teleorman/alexandria/2022/192",
+   "short": "HCL Alexandria nr. 192/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 192/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-192_06.07.2022.pdf",
+     "sha256": "71d83389edfa90218e9bad39a684106f124409f2556423f6a431af65bac2baec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-210-2022",
+   "path": "local/teleorman/alexandria/2022/210",
+   "short": "HCL Alexandria nr. 210/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 210/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-210_25.07.2022.pdf",
+     "sha256": "8bb8a503efa2fd51ba605c5413f799e71618999d907ae26040830b110f416f5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-217-2022",
+   "path": "local/teleorman/alexandria/2022/217",
+   "short": "HCL Alexandria nr. 217/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 217/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-217_25.07.2022.pdf",
+     "sha256": "a622010ecf276e85812bc31c464621e6897d9e6c7c87abad9bc6fa1564608914"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-308-2022",
+   "path": "local/teleorman/alexandria/2022/308",
+   "short": "HCL Alexandria nr. 308/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 308/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-17",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-308_17.10.2022.pdf",
+     "sha256": "87a1e3959040c4a157a8ae2f4af9e77277bd1f59c97651dd5635eecfab87e0b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-311-2022",
+   "path": "local/teleorman/alexandria/2022/311",
+   "short": "HCL Alexandria nr. 311/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 311/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-311_31.10.2022.pdf",
+     "sha256": "21d32ab0ee20dccf5db024006794e2fac4767e934b1e80908d7204bedc71c39b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-340-2022",
+   "path": "local/teleorman/alexandria/2022/340",
+   "short": "HCL Alexandria nr. 340/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 340/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-340_25.11.2022.pdf",
+     "sha256": "73f1dc0629e3ce81b03fbbbb0cd338d58432a3dcfcf0709257950c096c41e5a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-362-2022",
+   "path": "local/teleorman/alexandria/2022/362",
+   "short": "HCL Alexandria nr. 362/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 362/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-362_25.11.2022.pdf",
+     "sha256": "29ef980c0d2ba584a37ce77ae0d025aa5be3f80fd832f8be6f4901914a2cf192"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-368-2022",
+   "path": "local/teleorman/alexandria/2022/368",
+   "short": "HCL Alexandria nr. 368/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 368/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-368_19.12.2022-3.pdf",
+     "sha256": "66644c9722a6fa3425e4519633d3368ec3680ca68dc085714f59fee0ff32217b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-59-2022",
+   "path": "local/teleorman/alexandria/2022/59",
+   "short": "HCL Alexandria nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 59/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-59_14.03.2022.pdf",
+     "sha256": "a2716cfb703deb0e6f588723ae67c614f8cf4c5d7562154907a9a973eb389f9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-60-2022",
+   "path": "local/teleorman/alexandria/2022/60",
+   "short": "HCL Alexandria nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 60/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-60_30.03.2022.pdf",
+     "sha256": "553b9df83fc3080c41a025235c141a35df7fc5469bb4e48e0fb647161898bbba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-73-2022",
+   "path": "local/teleorman/alexandria/2022/73",
+   "short": "HCL Alexandria nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 73/2022",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/9/HCL-73_30.03.2022.pdf",
+     "sha256": "afe229a18c709a9a050d558e7fe9d589e6ee83183c79fc849520d1f432d755b5"
+    }
+   ]
+  }
+ ]
+}

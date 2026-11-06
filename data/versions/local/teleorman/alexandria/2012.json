@@ -3,6 +3,21 @@
  "shard": "local/teleorman/alexandria/2012",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-146-2012",
+   "path": "local/teleorman/alexandria/2012/146",
+   "short": "HCL Alexandria nr. 146/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 146/2012 privind desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-10-din-26-ianuarie-2012-privind-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-de-invata/",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_146_din_21_dec_2012.pdf",
+     "sha256": "af0e1feefba641753011bd6c11010b6bf8b82c22e37e0662b6c86f8d62e13bb8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-15-2012",
    "path": "local/teleorman/alexandria/2012/15",
    "short": "HCL Alexandria nr. 15/2012",
@@ -29,6 +44,51 @@
      "units": 3,
      "source_url": "https://alexandria.ro/storage/hcl_nr_16_din_18_iul_2012.pdf",
      "sha256": "a8d030133f06b48fbc7ea042b8f494768a2807db68bca19ac32f84d906cf0f53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-44-2012",
+   "path": "local/teleorman/alexandria/2012/44",
+   "short": "HCL Alexandria nr. 44/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 44/2012 privind asocierea municipiului Alexandria , prin Consiliul local al municipiului Alexandria, cu sediul in municipiul Alexandria, str",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-162-din-30-iulie-2010-privind-asocierea-municipiului-alexandria-prin-consiliul-local-al-municipiului-alexandria-cu-sediul-in-municipiul-alexandria-str-dunarii-nr/",
+   "versions": [
+    {
+     "from": "2012-07-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_44_din_18_iul_2012.pdf",
+     "sha256": "eaf1a2bb7dcfc17abf4734801d43b90d6d4f7692ab320473fd67a8287df2bfaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-55-2012",
+   "path": "local/teleorman/alexandria/2012/55",
+   "short": "HCL Alexandria nr. 55/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 55/2012 privind declararea ca bunuri apartinind domeniului privat de interes local a unor terenuri din municipiul Alexandria Consiliul local al municipiului Alexandria, judetul Teleorman, întrunit în sedintã ordinara, având în vedere: - expunerea de motive nr.16112/31.07.2012, a Primarului municipiului Alexandria; - raportul nr.16165/01.08.2012, al Serviciului Valorificare Patrimoniu; - raportul comisiilo",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-120-31-10-2007-privind-declararea-ca-bunuri-apartinind-domeniului-privat-de-interes-local-a-unor-terenuri-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2012-08-22",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_55_din_22_aug_2012.pdf",
+     "sha256": "586ff738942794b5ca551a5e7ee8aca3464d103b17f86f4924e23cd852b1c2db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-78-2012",
+   "path": "local/teleorman/alexandria/2012/78",
+   "short": "HCL Alexandria nr. 78/2012",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 78/2012 privind desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-10-din-26-ianuarie-2012-privind-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-de-invata-2/",
+   "versions": [
+    {
+     "from": "2012-09-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_78_din_28_sep_2012.pdf",
+     "sha256": "0ef21b87dc1584fb7449b10e0c39d81f449b2f99743301a467c825a416707e67"
     }
    ]
   }

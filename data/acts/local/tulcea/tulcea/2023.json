@@ -3,6 +3,50 @@
 "shard": "local/tulcea/tulcea/2023",
 "acts": [
 {
+"slug": "hcl-tulcea--tulcea-4-2023",
+"path": "local/tulcea/tulcea/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 4/2023 PRIVIND ÎNREGISTRAREA, EVIDENȚA ȘI RADIEREA VEHICULELOR PENTRU CARE EXISTĂ OBLIGATIVITATEA ÎNREGISTRĂRII ÎN MUNICIPIUL TULCEA Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședință ordinară la data de 26.01.2023",
+"short": "HCL Tulcea nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-26",
+"latest": "2023-01-26",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2025/08/HCL-nr.-4-din-26.01.2023.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-40-2023",
+"path": "local/tulcea/tulcea/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 40/2023",
+"short": "HCL Tulcea nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-28",
+"latest": "2023-02-28",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2023/06/HOTARAREA_NR._40-28.02.2023_compressed.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--tulcea-196-2023",
 "path": "local/tulcea/tulcea/2023/196",
 "kind": "local",

@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2016",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-117-2016",
+   "path": "local/teleorman/alexandria/2016/117",
+   "short": "HCL Alexandria nr. 117/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 117/2016",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-320-29-10-2015-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-de-invatamna/",
+   "versions": [
+    {
+     "from": "2016-04-20",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-117_20-apr-2016.pdf",
+     "sha256": "dcf63b16eef7a8999735ea871029c1554b9952d16ef7f6bdecf61d6a3893ff85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-121-2016",
+   "path": "local/teleorman/alexandria/2016/121",
+   "short": "HCL Alexandria nr. 121/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 121/2016",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-anexei-nr-2-a-hcl-nr-69-29-08-2016-privind-aprobarea-vanzarii-unor-unitati-locative-construite-prin-agentia-nationala-pentru-locuinte-in-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2016-09-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-121_28-sep-2016.pdf",
+     "sha256": "09dc8ba9c73e2cd95fd585a32166c6d17c732e17195b43b4c38b1630383a81b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-59-2016",
+   "path": "local/teleorman/alexandria/2016/59",
+   "short": "HCL Alexandria nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 59/2016 privind alegerea comisiei de validare a Consiliului local al municipiului Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-1-din-21-iunie-2016-privind-alegerea-comisiei-de-validare-a-consiliului-local-al-municipiului-alexandria/",
+   "versions": [
+    {
+     "from": "2016-08-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-nr.59_29-aug-2016.pdf",
+     "sha256": "06d732286f2881d617d57b7675baa90962f0e2bb2f0a01aee56138b3fc58a8a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-61-2016",
+   "path": "local/teleorman/alexandria/2016/61",
+   "short": "HCL Alexandria nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 61/2016 cu privire la organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local al municipiului Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-6-21-06-2016-cu-privire-la-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria/",
+   "versions": [
+    {
+     "from": "2016-08-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-nr.-61_29-aug-2016.pdf",
+     "sha256": "1ec332dcffa466c457c9716f0cff8c8346028ea940740194859d6a8fe48aa9a9"
+    }
+   ]
+  }
+ ]
+}

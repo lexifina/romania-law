@@ -3,6 +3,351 @@
  "shard": "local/tulcea/tulcea/2009",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-101-2009",
+   "path": "local/tulcea/tulcea/2009/101",
+   "short": "HCL Tulcea nr. 101/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 101/2009 privind includerea in domeniul public al municipiului Tulcea a unui numar de 12 parcari",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-101-2009.pdf",
+     "sha256": "2129f2ff2c0211c07188459e5e7d204089444b1dde6ac525f0673b7c51982ffd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-103-2009",
+   "path": "local/tulcea/tulcea/2009/103",
+   "short": "HCL Tulcea nr. 103/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 103/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-103-2009.pdf",
+     "sha256": "c723458d0d85ceeb8de1f4efc33b0c8cbd6ecf1255d3a5ba15cb9624950251eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-108-2009",
+   "path": "local/tulcea/tulcea/2009/108",
+   "short": "HCL Tulcea nr. 108/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 108/2009 PRIVIND APROBAREA ACTELOR ADITIONALE LA CONTRACTUL DE CONCESIUNE NR.29865 / 05.10.2005",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-108-2009.pdf",
+     "sha256": "43076636a23dce2b50a819517e1285319eaf08cd624df933be839af238ecab1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-122-2009",
+   "path": "local/tulcea/tulcea/2009/122",
+   "short": "HCL Tulcea nr. 122/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 122/2009 privind trecerea terenului in suprafata de 160,15 mp din domeniul public si din administrarea S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-06-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-122-2009.pdf",
+     "sha256": "10485bf984b33dd4354fbfccb160b2eace0fdae4f39a9a079cba61938bd91a4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-13-2009",
+   "path": "local/tulcea/tulcea/2009/13",
+   "short": "HCL Tulcea nr. 13/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 13/2009 privind concesionarea prin incredintare directa a suprafetei de 1,20 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-13-2009.pdf",
+     "sha256": "a08edefcac5cbcba90b8fd9d4757430d6be55756d83d721bc7b84fafd0014e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-14-2009",
+   "path": "local/tulcea/tulcea/2009/14",
+   "short": "HCL Tulcea nr. 14/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 14/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-14-2009.pdf",
+     "sha256": "ff9272c7dbf860dbc0a6b256beb2ea2a7644652346e0a5541c28a227ad385365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-15-2009",
+   "path": "local/tulcea/tulcea/2009/15",
+   "short": "HCL Tulcea nr. 15/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 15/2009 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU “ANEXE GOSPODARESTI ALE EXPLOATATIEI AGRICOLE” ZONA VITICULTURII, EXTRAVILAN, TARLA 66, PARCELA 2027/2, Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-15-2009.pdf",
+     "sha256": "83429207a4c5d03f627e92890cea917447fa8d8c98c3781711257559aa7dbf58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-152-2009",
+   "path": "local/tulcea/tulcea/2009/152",
+   "short": "HCL Tulcea nr. 152/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 152/2009 privind concesionarea prin incredintare directa a suprafetei de 10,25mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. Slt",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-152-2009.pdf",
+     "sha256": "7d3f6a53468e1e3028be9169f6a4dffd40292a5f3633b9a76d565168c8ddac86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-156-2009",
+   "path": "local/tulcea/tulcea/2009/156",
+   "short": "HCL Tulcea nr. 156/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 156/2009 privind modificarea Statului de functii al Directiei de Asistenta si Protectie Sociala Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-156-2009.pdf",
+     "sha256": "853ee2cc380311293e333dc862dc199f70ca71f4b2735822a66910155e3cd016"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-16-2009",
+   "path": "local/tulcea/tulcea/2009/16",
+   "short": "HCL Tulcea nr. 16/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 16/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-16-2009.pdf",
+     "sha256": "2a826f98afb9901b7f36110d340fd93c8f16c52bd184d8002cf86996c988c2de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-168-2009",
+   "path": "local/tulcea/tulcea/2009/168",
+   "short": "HCL Tulcea nr. 168/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 168/2009 privind acordul de principiu pentru trecerea, fara plata, din domeniul public al statului si din administrarea Ministerului Tineretului si Sportului-Directia Judeteana pentru Tineret Tulcea, în domeniul public al municipiului Tulcea si în administrarea Consiliului Local Tulcea, a Centrului de agrement Bididia, situat in Municipiul Tulcea, strada Elizeului, nr. 70, Judetul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-168-2009.pdf",
+     "sha256": "eda2f67eae193a8217020d622552ef83af312cbcb5e50f518258ff766cd2f551"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-17-2009",
+   "path": "local/tulcea/tulcea/2009/17",
+   "short": "HCL Tulcea nr. 17/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 17/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-17-2009.pdf",
+     "sha256": "d4d9766113350e0bc8911addc72a345da91d8e3ef7f742a03578056485cb1315"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-172-2009",
+   "path": "local/tulcea/tulcea/2009/172",
+   "short": "HCL Tulcea nr. 172/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 172/2009 privind preluarea in domeniul privat al localitatii a terenului in suprafata de 2.891,41mp, situat in municipiul Tulcea, strada Portului, nr.15, sector cadastral nr. 24.9",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-09-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-172-2009.pdf",
+     "sha256": "917a42b4926578a2e1a9937d35bebf2fff6afc9319cfdcdb008cd40252de26c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-191-2009",
+   "path": "local/tulcea/tulcea/2009/191",
+   "short": "HCL Tulcea nr. 191/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 191/2009 privind rectificarea bugetului local pe anul 2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-10-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-191-2009.pdf",
+     "sha256": "288a87a09da9ffac7c12c31bfcac40ae2dc6a0daa6a4f2eefe893456c1c5a483"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-197-2009",
+   "path": "local/tulcea/tulcea/2009/197",
+   "short": "HCL Tulcea nr. 197/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 197/2009 privind aprobarea propunerii de transmitere a unor imobile din domeniul public al statului si din administrarea Ministerului Educatiei, Cercetarii si Inovarii în domeniul public al municipiului Tulcea si in administrarea Consiliului Local al Municipiului Tulcea, situate in Tulcea, strada Elizeului, nr. 28",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-197-2009.pdf",
+     "sha256": "f80e9228910ff678954fb7cd8a9ed5079684d19f87cd8a8d935a2a203d5703d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-198-2009",
+   "path": "local/tulcea/tulcea/2009/198",
+   "short": "HCL Tulcea nr. 198/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 198/2009 privind aprobarea propunerii de transmitere a unui imobil din domeniul public al statului si din administrarea Ministerului Tineretului si Sportului în domeniul public al municipiului Tulcea si in administrarea Consiliului Local al Municipiului Tulcea, situat in Tulcea, strada Isaccei, nr. 18",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-198-2009.pdf",
+     "sha256": "524d105ec9e8ee0bae317f3e4b71387c06cdf466b14d45aa800cc36bff8043ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-2-2009",
+   "path": "local/tulcea/tulcea/2009/2",
+   "short": "HCL Tulcea nr. 2/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 2/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-2-2009.pdf",
+     "sha256": "355c521c7771bc3198d91fc4dfb4600251f4bd2fe122749b74659c3d9ec6c15c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-247-2009",
+   "path": "local/tulcea/tulcea/2009/247",
+   "short": "HCL Tulcea nr. 247/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 247/2009 privind trecerea din domeniul privat al municipiului in domeniul public al municipiului Tulcea a terenului in suprafata de 13,75mp, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-11-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-247-2009.pdf",
+     "sha256": "a7c1d08b943b2c714bc8fd5408ac321ce27d71883bae1cd5f729039f5366e865"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-26-2009",
+   "path": "local/tulcea/tulcea/2009/26",
+   "short": "HCL Tulcea nr. 26/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 26/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-26-2009.pdf",
+     "sha256": "465ceae62449273ebb7cb1e7819f9b26121a43f60fbed38dc871bd6fc10c54fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-274-2009",
+   "path": "local/tulcea/tulcea/2009/274",
+   "short": "HCL Tulcea nr. 274/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 274/2009 privind concesionarea prin incredintare directa a terenului in suprafata de 15,37mp, din domeniul privat al municipiului Tulcea, situat in Str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-274-2009.pdf",
+     "sha256": "5ab3a9d86888eab5a132ebd2042018cb7cf8a8112a4a8bee0bd471aadcfccc4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-3-2009",
+   "path": "local/tulcea/tulcea/2009/3",
+   "short": "HCL Tulcea nr. 3/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 3/2009 PRIVIND MODIFICAREA SI COMPLETAREA COMISIEI DE SPECIALITATE A CONSILIULUI LOCAL AL MUNICIPIULUI TULCEA NR. 2 PENTRU ORGANIZARE SI DEZVOLTARE URBANISTICA, REALIZAREA LUCRARILOR PUBLICE , PROTECTIA MEDIULUI ÎNCONJURATOR, CONSERVAREA MONUMENTELOR ISTORICE SI DE ARHITECTURA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-3-2009.pdf",
+     "sha256": "715799bbd686948cd740c97d81f9ca8f6a1b47b02ae2cfb83e0b128a86a160ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-38-2009",
+   "path": "local/tulcea/tulcea/2009/38",
+   "short": "HCL Tulcea nr. 38/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 38/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-38-2009.pdf",
+     "sha256": "884ae304fa05fd1581d8614d8a01004bc1cadc2c00b10ea325c91e5e04089f69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-39-2009",
+   "path": "local/tulcea/tulcea/2009/39",
+   "short": "HCL Tulcea nr. 39/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 39/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-39-2009.pdf",
+     "sha256": "6cadb060af62acf29c723e73f05449d204810ba5b554a8adba701737f4cbb2b1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-4-2009",
    "path": "local/tulcea/tulcea/2009/4",
    "short": "HCL Tulcea nr. 4/2009",
@@ -18,6 +363,156 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-40-2009",
+   "path": "local/tulcea/tulcea/2009/40",
+   "short": "HCL Tulcea nr. 40/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 40/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-40-2009.pdf",
+     "sha256": "d0bbe7c31372840eef5fbc53db273260d05753d4b6a1846b9a01a9558289e156"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-41-2009",
+   "path": "local/tulcea/tulcea/2009/41",
+   "short": "HCL Tulcea nr. 41/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 41/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-41-2009.pdf",
+     "sha256": "51814b78cac43a02b4e1eb1f1678c5d055ecc3177bf300848aeb9bf34c6474c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-42-2009",
+   "path": "local/tulcea/tulcea/2009/42",
+   "short": "HCL Tulcea nr. 42/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 42/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-42-2009.pdf",
+     "sha256": "d5f2c39cee6bd67b29d46f713955f5f9753f0fb3a2b2f88c21a5fc55caea3cd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-45-2009",
+   "path": "local/tulcea/tulcea/2009/45",
+   "short": "HCL Tulcea nr. 45/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 45/2009 PRIVIND APROBAREA PLANULUI URBANISTIC DE DETALIU „CLADIRE TIPIZATA – MAGAZIN COMERCIAL + ANEXE, ÎMPREJMUIRE, SEMNAL PUBLICITAR”, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-45-2009.pdf",
+     "sha256": "b89e6bbf07e2f59db8948a77580fb9e0e1c3a1243737bf1739db793e44b07245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-47-2009",
+   "path": "local/tulcea/tulcea/2009/47",
+   "short": "HCL Tulcea nr. 47/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 47/2009 privind participarea municipiului Tulcea la constituirea „ Asociatiei de Dezvoltare Interjudeteana a Infrastructurii de Deseuri menajere ” Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-47-2009.pdf",
+     "sha256": "83db102ec4a3ca84f157b4decb99695b1e5c9d47acedcb1c096e82f115ed50fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-56-2009",
+   "path": "local/tulcea/tulcea/2009/56",
+   "short": "HCL Tulcea nr. 56/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 56/2009 privind concesionarea prin incredintare directa a terenului in suprafata de 117 mp, apartinand domeniului privat al municipiului Tulcea, situat in Tulcea str.Forestierului FN, in favoarea SC Tulcea Gaz SA, pentru obiectivul “Statie reglare de sector-zona vest-capacitate 5000Nmc/h”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-56-2009.pdf",
+     "sha256": "2ed35b574a5e80a2ee55ae56903f0c92d69ffd74510baecd9236f3d7983a39d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-57-2009",
+   "path": "local/tulcea/tulcea/2009/57",
+   "short": "HCL Tulcea nr. 57/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 57/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-57-2009.pdf",
+     "sha256": "767f86e7fd27ff625255e86595997d81e26f155411e694b2c87f054d0e4bd48b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-59-2009",
+   "path": "local/tulcea/tulcea/2009/59",
+   "short": "HCL Tulcea nr. 59/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 59/2009 privind concesionarea prin incredintare directa a suprafetei de 7,90 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. Podgoriilor, nr. 7, bl. G, sc. C, ap. 2, pentru amenajare birouri contabilitate si aprobarea PUD “AMENAJARE BIROURI CONTABILITATE”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-59-2009.pdf",
+     "sha256": "73966a10586a100db1ba2bad41d4c699df483d47427f70d032b135755672f2e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-6-2009",
+   "path": "local/tulcea/tulcea/2009/6",
+   "short": "HCL Tulcea nr. 6/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 6/2009 privind modalitatea de acordare a gratuitatii pe mijloacele de transport în comun precum si cuantumul acesteia pentru persoanele cu handicap grav si accentuat, cât si pentru însotitorii adultilor cu handicap auditiv si mental accentuat, asistentii personali ai persoanelor cu handicap grav, asistentii personali profesionisti ai persoanelor cu handicap grav si accentuat din municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-01-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-6-2009.pdf",
+     "sha256": "3ba20fca717df9649065cd42df1df39b1f88c8cf91ccc2633c503b84bb3738f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-65-2009",
+   "path": "local/tulcea/tulcea/2009/65",
+   "short": "HCL Tulcea nr. 65/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 65/2009 privind aprobarea bugetului de venituri si cheltuieli pe anul 2009 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-65-2009.pdf",
+     "sha256": "143de374c3ba90d58c427678d561f037070b8520fdbf3de4acdeba847abb8b65"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-66-2009",
    "path": "local/tulcea/tulcea/2009/66",
    "short": "HCL Tulcea nr. 66/2009",
@@ -29,6 +524,36 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-66-2009.pdf",
      "sha256": "550ce60a5441968bf0fcd245218d0eb57589e097275c79387bbf35cd02e90198"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-70-2009",
+   "path": "local/tulcea/tulcea/2009/70",
+   "short": "HCL Tulcea nr. 70/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 70/2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-70-2009.pdf",
+     "sha256": "55d6003fe17afe23d6e080eec2523412fd7ee497674d160379445d1be9f137f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-84-2009",
+   "path": "local/tulcea/tulcea/2009/84",
+   "short": "HCL Tulcea nr. 84/2009",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 84/2009 privind concesionarea prin incredintare directa a suprafetei de 54 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2009-04-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-84-2009.pdf",
+     "sha256": "f2712a0a6fa53db7d3c12e5a79ecf2d285264a3d08ccba1f5d28be01497ee537"
     }
    ]
   }

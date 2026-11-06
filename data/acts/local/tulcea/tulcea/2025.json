@@ -3,6 +3,50 @@
 "shard": "local/tulcea/tulcea/2025",
 "acts": [
 {
+"slug": "hcl-tulcea--tulcea-154-2025",
+"path": "local/tulcea/tulcea/2025/154",
+"kind": "local",
+"year": "2025",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 154/2025 privind aprobarea Componentei inițiale a planului de selecție pentru 3 (trei) administratori în Consiliul de Administrație al societății Transport Public S.A.Tulcea, care cuprinde și Scrisoarea de așteptări privind stabilirea performanțelor așteptate de la organele de administrare și conducere, a politicii autorității publice tutelare privind această întreprindere publică, precum și a obiectivelor",
+"short": "HCL Tulcea nr. 154/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-28",
+"latest": "2025-05-28",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2025/06/HCL-nr.-154-din-28.05.2025.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-288-2025",
+"path": "local/tulcea/tulcea/2025/288",
+"kind": "local",
+"year": "2025",
+"number": "288",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 288/2025 PRIVIND ÎNREGISTRAREA, EVIDENȚA ȘI RADIEREA VEHICULELOR PENTRU CARE EXISTĂ OBLIGATIVITATEA ÎNREGISTRĂRII ÎN MUNICIPIUL TULCEA Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședință ordinară la data de 30 septembrie 2025; Examinând proiectul de hotărâre privind înregistrarea, evidența și radierea vehiculelor pentru care există obligativitatea înregistrării în Municipiul Tulcea",
+"short": "HCL Tulcea nr. 288/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-30",
+"latest": "2025-09-30",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2025/10/HCL-nr.-288-din-30.09.2025.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--tulcea-290-2025",
 "path": "local/tulcea/tulcea/2025/290",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Municipiului Tulcea",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-357-2025",
+"path": "local/tulcea/tulcea/2025/357",
+"kind": "local",
+"year": "2025",
+"number": "357",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 357/2025",
+"short": "HCL Tulcea nr. 357/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2026/01/HCL-nr.-357-din-22.12.2025.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

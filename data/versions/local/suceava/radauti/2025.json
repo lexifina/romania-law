@@ -1,0 +1,711 @@
+{
+ "country": "RO",
+ "shard": "local/suceava/radauti/2025",
+ "acts": [
+  {
+   "slug": "hcl-suceava--radauti-10-2025",
+   "path": "local/suceava/radauti/2025/10",
+   "short": "HCL Rădăuți nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 10/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-suspendarea-efectelor-hcl-nr-253-19-12-2024-pentru-modificarea-si-completarea-hcl-nr-123-din-27-aprilie-2023-privind-stabilirea-salariilor-pentru-functiile-publice-si-contractuale-d/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-10-din-30.01.2025.pdf",
+     "sha256": "bd0253f0651ca46f530a1eee7cdd6a605169305fbaa6d3d157013a42dc55a1f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-11-2025",
+   "path": "local/suceava/radauti/2025/11",
+   "short": "HCL Rădăuți nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 11/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-organigramei-si-a-statului-de-functii-pentru-spitalul-municipal-sf-dr-cosma-si-damian-radauti/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-11-din-30.01.2025-blurat.pdf",
+     "sha256": "590de93f036ee54a9218dd6b4b9dfaffbe1ce3fbf36d11b42a5d3d7916aaff09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-111-2025",
+   "path": "local/suceava/radauti/2025/111",
+   "short": "HCL Rădăuți nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 111/2025",
+   "url": "https://primariaradauti.ro/hotarare-pentru-modificarea-h-c-l-nr-235-27-11-2024-privind-constituirea-comisiilor-de-analiza-selectie-a-solicitarilor-si-de-repartizare-a-locuintelor-anl-locuintelor-sociale-si-locuintelor-din-f/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-111-blurat.pdf",
+     "sha256": "91e039223c5e4ebcd384c581b7bb8f2837fbeee2b85ab790a672e53ef3a1b7ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-113-2025",
+   "path": "local/suceava/radauti/2025/113",
+   "short": "HCL Rădăuți nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 113/2025",
+   "url": "https://primariaradauti.ro/hotarare-de-modificare-si-completare-a-hcl-nr-237-27-11-2024-privind-desemnarea-reprezentantilor-consiliului-local-al-municipiului-radauti-in-comisia-de-evaluare-si-asigurare-a-calitatii-invatamantu/",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-113-blurat.pdf",
+     "sha256": "c539a9de28a79b5ea81bd503a411b5126765280abb1f8131d7c1e1284f23b26d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-12-2025",
+   "path": "local/suceava/radauti/2025/12",
+   "short": "HCL Rădăuți nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 12/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-12-din-30.01.2025-blurat.pdf",
+     "sha256": "72a9e773b27da9f68284027d4340e85d4ec982b9dba3089c3c1abd5e9d499680"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-13-2025",
+   "path": "local/suceava/radauti/2025/13",
+   "short": "HCL Rădăuți nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 13/2025 privind prelungirea duratei de închiriere a unei locuințe ANL, situată în municipiul Rădăuți, strada Gării, nr. 4, sc. B, ap. 20 Consiliul Local al municipiului Radauți, județul Suceava: Având în vedere e Referatul de aprobare al primarului municipiului Rădăuți, Bogdan-Andrei LOGHIN înregistrat sub nr. 99024/17.01.2025; + Raportul de specialitate al compartimentului locativ din cadrul Primăriei Mu",
+   "url": "https://primariaradauti.ro/hotarare-privind-prelungirea-duratei-de-inchiriere-a-unei-locuinte-anl-situata-in-municipiul-radauti-strada-garii-nr-4-sc-b-ap-20/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-13-din-30.01.2025-blurat.pdf",
+     "sha256": "25b3b6c0fedf1f536d49bdd08670503ad24b04607df683bf381237722db95a0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-135-2025",
+   "path": "local/suceava/radauti/2025/135",
+   "short": "HCL Rădăuți nr. 135/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 135/2025",
+   "url": "https://primariaradauti.ro/hotarare-de-modificare-si-completare-a-h-c-l-nr-83-31-03-2025-privind-prelungirea-duratei-contractelor-de-inchiriere-privind-suprafetele-locative-cu-destinatia-de-locuinte-sociale-si-constatarea-inc/",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-135-blurat.pdf",
+     "sha256": "52c420e31998c842dd24596d9d2b29c8443b720d3eda52fe52f4f20b04bd7f09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-14-2025",
+   "path": "local/suceava/radauti/2025/14",
+   "short": "HCL Rădăuți nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 14/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-14-din-30.01.2025-blurat.pdf",
+     "sha256": "04d6cfb9f71a20907c557503bd0b83cbccb8da94aa8bcc7dbfffa2aa9f1b7063"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-159-2025",
+   "path": "local/suceava/radauti/2025/159",
+   "short": "HCL Rădăuți nr. 159/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 159/2025",
+   "url": "https://primariaradauti.ro/hotarare-pentru-rectificarea-h-c-l-nr-145-03-06-2025-privind-aprobarea-documentatiei-tehnico-economice-faza-dali-si-a-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-consolid/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-159-din-26.06.2025.pdf",
+     "sha256": "e144354b7f700305766c3833d9434b95ac5855987f7d067abbf78a7b3e1ba8a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-16-2025",
+   "path": "local/suceava/radauti/2025/16",
+   "short": "HCL Rădăuți nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 16/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-mutarii-unei-familii-ce-locuieste-in-locuintele-sociale-din-strada-1-mai-nr-103-la-locuinta-sociala-vacanta-din-ansamblul-de-8-apartamente-situata-in-strada-george-grigor/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-16-din-30.01.2025-blurat.pdf",
+     "sha256": "22cee7a6a68c19c8d798d10e6b1d738829478615a9d0e17738fed78f88465abd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-17-2025",
+   "path": "local/suceava/radauti/2025/17",
+   "short": "HCL Rădăuți nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 17/2025 privind aprobarea compensării chiriei pentru suma de 3.143 lei ca urmare cheltuielilor prilejuite de reparația fațadei imobilului- locuință din fondul locativ de stat, situat în str",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-compensarii-chiriei-pentru-suma-de-3-143-lei-ca-urmare-cheltuielilor-prilejuite-de-reparatia-fatadei-imobilului-locuinta-din-fondul-locativ-de-stat-situat-in-str-calea-ce/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-17-din-30.01.2025-blurat.pdf",
+     "sha256": "bfa2f96f77eaba6fcf949d2ca45d6563a03de22daaed53250de8236c781ebc27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-18-2025",
+   "path": "local/suceava/radauti/2025/18",
+   "short": "HCL Rădăuți nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 18/2025",
+   "url": "https://primariaradauti.ro/hotarare-pentru-acordarea-de-facilitati-fiscale-pentru-contribuabili-persoane-fizice-si-juridice/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-18-din-30.-01.2025-blurat.pdf",
+     "sha256": "601c8cfca0c7ec9cdc22f21156552af73a7f3cb3c118ec0534201536e224f777"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-19-2025",
+   "path": "local/suceava/radauti/2025/19",
+   "short": "HCL Rădăuți nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 19/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-19-din-30.01.2025.pdf",
+     "sha256": "1c8a3a40984626a17a5d354406b6893d1aaa1a0ac09d8f2d68baf619a2f2139b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-2-2025",
+   "path": "local/suceava/radauti/2025/2",
+   "short": "HCL Rădăuți nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 2/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-atestarea-apartenentei-la-domeniul-privat-al-municipiului-radauti-judetul-suceava-a-9-parcele-de-teren/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-2-din-30.01.2025.pdf",
+     "sha256": "8ea09bf5f8d6d80946a9cb1c6da7aa96ffc11b982f0f6c7168acbd2115e1d618"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-20-2025",
+   "path": "local/suceava/radauti/2025/20",
+   "short": "HCL Rădăuți nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 20/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-20-din-30.01.2025.pdf",
+     "sha256": "c0a3e34abff7f07596afe707689f29cd1d313fff8c7a79ea0e906374cd14ac17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-21-2025",
+   "path": "local/suceava/radauti/2025/21",
+   "short": "HCL Rădăuți nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 21/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-21-din-30.01.2025-blurat.pdf",
+     "sha256": "cd163f760650c2ecea0c67e7a5b5c80a726fda2f2abb211ec552d3e4cbb9d104"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-22-2025",
+   "path": "local/suceava/radauti/2025/22",
+   "short": "HCL Rădăuți nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 22/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-22-din-30.01.2025-blurat.pdf",
+     "sha256": "41dbfe2b0e350c220f17b644744b9ecfb27e2341fc278676c34587eb2ed50e0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-23-2025",
+   "path": "local/suceava/radauti/2025/23",
+   "short": "HCL Rădăuți nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 23/2025",
+   "url": "https://primariaradauti.ro/hotarare-pentru-modificarea-si-completarea-hcl-nr-250-2024-privind-stabilirea-impozitelor-si-taxelor-locale-pentru-anul-2025/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-23-din-30.01.2025.pdf",
+     "sha256": "86dc94d1d2261489ffc06f7550a53d5951721278a9f7f4bd67ac97807915a58c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-274-2025",
+   "path": "local/suceava/radauti/2025/274",
+   "short": "HCL Rădăuți nr. 274/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 274/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-organizarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-de-stat-si-particular-din-municipiul-radauti-pentru-anul-scolar-2026-2027/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-274-din-27.11.2025.pdf",
+     "sha256": "61d731090ed1b56d308647327d0789eb734e4ccdd36c420e6d0954052cb6024f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-276-2025",
+   "path": "local/suceava/radauti/2025/276",
+   "short": "HCL Rădăuți nr. 276/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 276/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-insusirea-raportului-informarii-si-consultarii-publicului-referitor-la-opiniile-colectate-pentru-actualizarea-documentatiei-de-urbanism-plan-urbanistic-general-pug-al-mu/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-276-din-27.11.2025.pdf",
+     "sha256": "281492a2bcc2b076693d1137e6acd53e4b2fcd76610f1784fcc6a917e1e294a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-277-2025",
+   "path": "local/suceava/radauti/2025/277",
+   "short": "HCL Rădăuți nr. 277/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 277/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-actualizarii-registrului-local-al-spatiilor-verzi-din-municipiul-radauti-judetul-suceava/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-277-din-27.11.2025.pdf",
+     "sha256": "5f9599b3886c55eea8f11b066ce0fcfa89f5a332d86d11e878c4c03a9430131c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-278-2025",
+   "path": "local/suceava/radauti/2025/278",
+   "short": "HCL Rădăuți nr. 278/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 278/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-contului-de-executie-la-30-06-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-278-din-27.11.2025.pdf",
+     "sha256": "a3f01c5c86bdba20f2d54c59754b75a29efeadf32403774eb638e11cb7358766"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-279-2025",
+   "path": "local/suceava/radauti/2025/279",
+   "short": "HCL Rădăuți nr. 279/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 279/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-contului-de-executie-la-30-09-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-279-din-27.11.2025.pdf",
+     "sha256": "f4d1ed92195e98c8e8f4b854020baec5a568fc6c997b679e0cdcf75151d0792c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-280-2025",
+   "path": "local/suceava/radauti/2025/280",
+   "short": "HCL Rădăuți nr. 280/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 280/2025",
+   "url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-280-din-27.11.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-280-din-27.11.2025.pdf",
+     "sha256": "d364d8eb8fd871e83b4df5f0c05b6281fe565e5576c5d44d498d6f6214f63113"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-281-2025",
+   "path": "local/suceava/radauti/2025/281",
+   "short": "HCL Rădăuți nr. 281/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 281/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-tarifelor-pentru-serviciul-public-de-producere-transport-si-distributie-a-energiei-termice-prestate-de-catre-s-c-servicii-comunale-s-a-radauti-incepand-cu-luna-noiembri/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-281-din-27.11.2025.pdf",
+     "sha256": "be167ee1fc2c974102c11c641721c2283c15e610a7149de9b1346ff769ec5331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-282-2025",
+   "path": "local/suceava/radauti/2025/282",
+   "short": "HCL Rădăuți nr. 282/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 282/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-modificarea-statului-de-functii-al-spitalului-municipal-sf-dr-cosma-si-damian-radauti-6/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-282-din-27.11.2025.pdf",
+     "sha256": "3e5534e101b5ee7e9e1ae7595554412083a984a7dd1f32d6737ad6cf4b0f52e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-283-2025",
+   "path": "local/suceava/radauti/2025/283",
+   "short": "HCL Rădăuți nr. 283/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 283/2025",
+   "url": "https://primariaradauti.ro/hotarare-pentru-aprobarea-prelungirii-duratei-a-11-contracte-privind-inchirierea-unor-terenuri-agricole-apartinand-domeniului-privat-al-municipiului-radauti/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-283-din-27.11.2025-blurat.pdf",
+     "sha256": "37c4a31ee72e37b0c5ea0ca729fb50b7219732a04d19b6aadeb0e0d6f7714024"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-284-2025",
+   "path": "local/suceava/radauti/2025/284",
+   "short": "HCL Rădăuți nr. 284/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 284/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-acordarea-mandatului-special-reprezentantului-uat-municipiul-radauti-judetul-suceava-in-adunarea-generala-a-asociatiei-judetene-pentru-apa-si-canalizare-suceava-si-asociati/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-284-din-27.11.2025.pdf",
+     "sha256": "a42ec89d3e5b6dd8f432a678438e288e55f52f7aedf6460b2bf3b810768b3895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-287-2025",
+   "path": "local/suceava/radauti/2025/287",
+   "short": "HCL Rădăuți nr. 287/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 287/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-287-din-27.11.2025.pdf",
+     "sha256": "470fa4136f12407764eceb4fa852f5e49184178dd3f729a581e59f932f55fac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-288-2025",
+   "path": "local/suceava/radauti/2025/288",
+   "short": "HCL Rădăuți nr. 288/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 288/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-municipiului-radauti-pentru-anul-2025-si-modificarea-si-completarea-listelor-de-investitii-2/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-288-din-28.11.2025.pdf",
+     "sha256": "609ad8d587e542e236a04c58cfbc783bbae8d65cbba470ae98edc31345196351"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-289-2025",
+   "path": "local/suceava/radauti/2025/289",
+   "short": "HCL Rădăuți nr. 289/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 289/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-organizarii-sarbatorilor-de-iarna-din-municipiul-radauti/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/12/HCL-nr.-289-din-28.11.2025.pdf",
+     "sha256": "6cbf196cf454e1f567170ee5d238c8b7497e0545c7ce0213b2503b79ee0b5c29"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-291-2025",
+   "path": "local/suceava/radauti/2025/291",
+   "short": "HCL Rădăuți nr. 291/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 291/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-municipiului-radauti-pentru-anul-2025-si-modificarea-si-completarea-listei-de-investitii/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-291-din-18.12.2025.pdf",
+     "sha256": "7c36546fbfa2544c816380263bc003f4bf11207a4964dec10b02eea4c9d53d57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-292-2025",
+   "path": "local/suceava/radauti/2025/292",
+   "short": "HCL Rădăuți nr. 292/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 292/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-stabilirea-cantitatilor-minime-de-colectare-si-gestionare-a-deseurilor-menajere-estimate-a-fi-generate-de-catre-utilizatorii-non-casnici-de-pe-raza-municipiului-radauti/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-292-din-18.12.2025.pdf",
+     "sha256": "bc5714a27963c793a1b010557ae0dc6cacfb798f5172d99e6bdb4b86145299e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-293-2025",
+   "path": "local/suceava/radauti/2025/293",
+   "short": "HCL Rădăuți nr. 293/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 293/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-atestarea-apartenentei-la-domeniul-privat-al-municipiului-radauti-judetul-suceava-a-18-parcele-de-teren/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-293-din-18.12.2025.pdf",
+     "sha256": "3187c231514f5520282f5576d74e2e37ebad320ec442ca1bde3536f05418a94e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-294-2025",
+   "path": "local/suceava/radauti/2025/294",
+   "short": "HCL Rădăuți nr. 294/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 294/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-modificarea-si-completarea-h-c-l-nr-31-2-02-2024-privind-aprobarea-inventarului-bunurilor-care-apartin-domeniului-privat-al-municipiului-radauti-judetul-suceava-modificata-prin-hc/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-294-din-18.12.2025.pdf",
+     "sha256": "53bc9d847dd3ec6575f18122a7abf072672228079d39bea541c96932b20cf171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-295-2025",
+   "path": "local/suceava/radauti/2025/295",
+   "short": "HCL Rădăuți nr. 295/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 295/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-exercitarea-dreptului-de-preemptiune-de-catre-unitatea-administrativ-teritoriala-municipiul-radauti-pentru-cumpararea-imobilului-situat-in-strada-piata-unirii-nr-67-din-municipiul-r/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-295-din-18.12.2025-blurat.pdf",
+     "sha256": "69baaaca3785409591c60a8f3d9ce6d7825024122c830d850db21a2d184a19da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-296-2025",
+   "path": "local/suceava/radauti/2025/296",
+   "short": "HCL Rădăuți nr. 296/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 296/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-planului-urbanistic-zonal-p-u-z-si-a-regulamentului-local-de-urbanism-pentru-elaborare-puz-pentru-introducere-teren-in-intravilan-si-reglementare-pentru-functiuni-de-mic/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-296-din-18.12.2025.pdf",
+     "sha256": "242e96cab37b1ca2428b68aa57ec9e6e9340660046f54b9605d0d84712b67e96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-297-2025",
+   "path": "local/suceava/radauti/2025/297",
+   "short": "HCL Rădăuți nr. 297/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 297/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-prelungirea-contractelor-de-inchiriere-folosinta-gratuita-pentru-spatiile-cu-alta-destinatie-aflate-in-proprietatea-privata-a-municipiului-radauti/",
+   "versions": [
+    {
+     "from": "2025-12-18",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-297-din-18.12.2025-blurat.pdf",
+     "sha256": "7f0caaef72bcd57d35459bfbe78491017a7affc6b39e9f951e5a48c3ebcb914c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-3-2025",
+   "path": "local/suceava/radauti/2025/3",
+   "short": "HCL Rădăuți nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 3/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-atestarea-apartenentei-la-domeniul-privat-al-municipiului-radauti-judetul-suceava-a-13-parcele-de-teren/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-3-din-30.01.2025.pdf",
+     "sha256": "a15cc1c465739947de4a4666ca66bace4cfac7021e0b12aaaa6d81ef321cd30f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-300-2025",
+   "path": "local/suceava/radauti/2025/300",
+   "short": "HCL Rădăuți nr. 300/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 300/2025",
+   "url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-300-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-300-din-29.12.2025.pdf",
+     "sha256": "ee6a215d02b0659934cff8b57b89cb3a756a44b66da7c1341539b1807b5f6593"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-301-2025",
+   "path": "local/suceava/radauti/2025/301",
+   "short": "HCL Rădăuți nr. 301/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 301/2025",
+   "url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-301-din-29.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2026/01/HCL-nr.-301-din-29.12.2025.pdf",
+     "sha256": "6c4a1448725199595ef1839038f55ef1f4616c85955d7f8df950a38e3e6a3cc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-4-2025",
+   "path": "local/suceava/radauti/2025/4",
+   "short": "HCL Rădăuți nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 4/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-atestarea-inventarului-bunurilor-care-fac-parte-din-domeniul-public-al-municipiului-radauti-judetul-suceava/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-4-din-30.01.2025.pdf",
+     "sha256": "4e6ee03482aa51c22e25c86af83a15798baad8c1d33157dd2c442a9bd2d57b75"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-5-2025",
+   "path": "local/suceava/radauti/2025/5",
+   "short": "HCL Rădăuți nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 5/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-aprobarea-trecerii-din-domeniul-privat-al-municipiului-radauti-in-domeniul-public-al-municipiului-radauti-a-imobilelor-terenuri-%CC%8E-parcare-%CC%8E-situate-in-intravilanul/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-5-din-30.01.2025.pdf",
+     "sha256": "070bd81e22f6a69dd292b36dc89a0bed19a498b3b75248fb050df81cd1179575"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-6-2025",
+   "path": "local/suceava/radauti/2025/6",
+   "short": "HCL Rădăuți nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 6/2025",
+   "url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-6-din-30.05.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-6-din-30.05.2025.pdf",
+     "sha256": "49dda2158783e5805a9b3508324ba82025316fa41a7f975e9484a13a91b2c985"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-7-2025",
+   "path": "local/suceava/radauti/2025/7",
+   "short": "HCL Rădăuți nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 7/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-7-din-30.01.2025-blurat.pdf",
+     "sha256": "053ff22eb25e3f3dff824110250f0e3366c5bda347f1e0c6589b6ee8c31596be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-8-2025",
+   "path": "local/suceava/radauti/2025/8",
+   "short": "HCL Rădăuți nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 8/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-stabilirea-duratei-contractului-de-dare-in-administrare-a-serviciului-de-transport-distributie-si-furnizare-a-energiei-termice-in-sistem-centralizat-nr-17021-22-11-2018-inregistrat/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-8-din-30.01.2025.pdf",
+     "sha256": "94f1e27790089bac720b1fa39710b923ac7a364baf6a3873bf2fcb704cb7a924"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-suceava--radauti-9-2025",
+   "path": "local/suceava/radauti/2025/9",
+   "short": "HCL Rădăuți nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 9/2025",
+   "url": "https://primariaradauti.ro/hotarare-privind-modificarea-statului-de-functii-pentru-institutiile-si-serviciile-publice-aflate-in-subordinea-consiliului-local-radauti/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://primariaradauti.ro/wp-content/uploads/2025/11/hcl-nr.-9-din-30.01.2025-blurat.pdf",
+     "sha256": "7443edf804e502c45dc61d6a079a138e4a644e4359c6fa65dc476cac048cf918"
+    }
+   ]
+  }
+ ]
+}

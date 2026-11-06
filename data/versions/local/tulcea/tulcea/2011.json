@@ -3,6 +3,381 @@
  "shard": "local/tulcea/tulcea/2011",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-1-2011",
+   "path": "local/tulcea/tulcea/2011/1",
+   "short": "HCL Tulcea nr. 1/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-1-2011.pdf",
+     "sha256": "5627263697cfa2d9b814f948975ca6f8b381d5b23b453c9a4effdbc4cb7e45c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-100-2011",
+   "path": "local/tulcea/tulcea/2011/100",
+   "short": "HCL Tulcea nr. 100/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 100/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-100-2011.pdf",
+     "sha256": "8413776d47542590707518db611bbf029dc8f62baaa27e7a53206a9dbbba94a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-112-2011",
+   "path": "local/tulcea/tulcea/2011/112",
+   "short": "HCL Tulcea nr. 112/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 112/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-04-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-112-2011.pdf",
+     "sha256": "53e34575329e68fc7385c48d11f1e893a794f0f827e5d419cb4adfb79643bdb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-119-2011",
+   "path": "local/tulcea/tulcea/2011/119",
+   "short": "HCL Tulcea nr. 119/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 119/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-119-2011.pdf",
+     "sha256": "b0a89d4d2f33a62ab8f46af2bd55b7efd92fb44fc362138d9dc250bd1d79ac71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-12-2011",
+   "path": "local/tulcea/tulcea/2011/12",
+   "short": "HCL Tulcea nr. 12/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 12/2011 privind trecerea din domeniul public al statului si din administrarea Ministerului Transporturilor si Infrastructurii – Compania Nationala de Autostrazi si Drumuri Nationale din România SA, in domeniul public al municipiului Tulcea si in administrarea Consiliului Local Tulcea, a drumului DN 22 G (Centura Tulcea)–Km 0+000 – Km 3+950",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-12-2011.pdf",
+     "sha256": "3be84d37a0a50d9ee4e9b5afd3cb336b5c2708b861573d573d41f02cb0c046f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-120-2011",
+   "path": "local/tulcea/tulcea/2011/120",
+   "short": "HCL Tulcea nr. 120/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 120/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-120-2011.pdf",
+     "sha256": "a1cf66e05e05121d707b115d9c427c339bdb3752d708ce2999f50f21923ba17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-121-2011",
+   "path": "local/tulcea/tulcea/2011/121",
+   "short": "HCL Tulcea nr. 121/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 121/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-121-2011.pdf",
+     "sha256": "ceea9f48ac99608fb9a5bf62c6844fafad17df414b6b3c118bb527b8d7c60aa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-126-2011",
+   "path": "local/tulcea/tulcea/2011/126",
+   "short": "HCL Tulcea nr. 126/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 126/2011 privind inventarierea in domeniul public al municipiului a terenurilor aferente cailor de acces Aleea “A” – in suprafata de 1552mp si Aleea “B” – in suprafata totala de 939mp, situate in Tulcea -Cartierul Mesteceni, in vederea intabularii",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-126-2011.pdf",
+     "sha256": "9a131b731df8224ee46560153dcd724cdeb6ed08c318b0a33ef18aaa0af68a89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-127-2011",
+   "path": "local/tulcea/tulcea/2011/127",
+   "short": "HCL Tulcea nr. 127/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 127/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-127-2011.pdf",
+     "sha256": "a5e3f7bca2c2d2edc62e83a1800c63eb86d7379f691081e5f4efa73590d6484c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-13-2011",
+   "path": "local/tulcea/tulcea/2011/13",
+   "short": "HCL Tulcea nr. 13/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 13/2011 privind inventarierea in domeniul privat al municipiului Tulcea, a spatiului cu alta destinatie decat cea de locuinta in suprafata de 21,60 mp, situat in Tulcea, Aleea Ciocîrliei – spate bl. X4 si inchirierea prin licitatie a acestuia, pentru destinatia de garaj, aprobarea Caietului de sarcini si Instructiunilor de participare la licitatie",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-01-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-13-2011.pdf",
+     "sha256": "cf4173a2aa13331f82bd243499484abee0fe3d6db656954ae92ef53ad565eaa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-131-2011",
+   "path": "local/tulcea/tulcea/2011/131",
+   "short": "HCL Tulcea nr. 131/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 131/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-131-2011.pdf",
+     "sha256": "dfe30f323e0c822a2f165f068c4cbc93edd38f0679a1736e477ef971b6f21ab3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-139-2011",
+   "path": "local/tulcea/tulcea/2011/139",
+   "short": "HCL Tulcea nr. 139/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 139/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-139-2011.pdf",
+     "sha256": "9f2493ff74b2caaf9e8286dd75fa1053180b6438e7ad495bc88860741a2c1093"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-142-2011",
+   "path": "local/tulcea/tulcea/2011/142",
+   "short": "HCL Tulcea nr. 142/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 142/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-142-2011.pdf",
+     "sha256": "b9acbf3db99c15e7ce702ca2381ce5edc8a04ed89e0468bec4ab00293ebe1f95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-143-2011",
+   "path": "local/tulcea/tulcea/2011/143",
+   "short": "HCL Tulcea nr. 143/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 143/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-143-2011.pdf",
+     "sha256": "7102d88b01fd0ea1c1a89f0ba52e1527d1e3adcd8bf7dd0f5a053ecf7732354b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-145-2011",
+   "path": "local/tulcea/tulcea/2011/145",
+   "short": "HCL Tulcea nr. 145/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 145/2011 privind aprobarea contului de executie al bugetului local pe anul 2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-145-2011.pdf",
+     "sha256": "921abd3779f8bdabbfccbcf13f9b04484ac6fcbc7d9f48f5413468acbc979782"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-146-2011",
+   "path": "local/tulcea/tulcea/2011/146",
+   "short": "HCL Tulcea nr. 146/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 146/2011 privind aprobarea contului de executie al bugetului local pe trimestrul I – 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-146-2011.pdf",
+     "sha256": "2863d2be2bc0c9334bef68c56e98631f5c53ee353afcd7447dfd1413a6d083ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-150-2011",
+   "path": "local/tulcea/tulcea/2011/150",
+   "short": "HCL Tulcea nr. 150/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 150/2011 privind aprobarea comisiei speciale pentru inventarierea bunurilor care alcatuiesc domeniul privat al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-150-2011.pdf",
+     "sha256": "14c140dfb7bec5ac3472f16bd1d75c527885257fbf5c0c5866aca03aa5dff90d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-151-2011",
+   "path": "local/tulcea/tulcea/2011/151",
+   "short": "HCL Tulcea nr. 151/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 151/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-151-2011.pdf",
+     "sha256": "2820d0859540b1ef52ca01f74319138c66db93fa749add90a6151ed436e76b21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-153-2011",
+   "path": "local/tulcea/tulcea/2011/153",
+   "short": "HCL Tulcea nr. 153/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 153/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-153-2011.pdf",
+     "sha256": "d9581532079a8efefd46c6a91642e4803c6f107ed1920df144438fd418e4202e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-154-2011",
+   "path": "local/tulcea/tulcea/2011/154",
+   "short": "HCL Tulcea nr. 154/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 154/2011 privind inventarierea in domeniul public al municipiului Tulcea a zidului de sprijin mal str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-154-2011.pdf",
+     "sha256": "c6584e34887eb7a0b8a39102bb46c25d61f72d2ad8e8231c9027b79c9ffe87e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-155-2011",
+   "path": "local/tulcea/tulcea/2011/155",
+   "short": "HCL Tulcea nr. 155/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 155/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-155-2011.pdf",
+     "sha256": "c4a77f6668f438e7d01f2ccdd5dadc34ae9104fd2865e567952841cbad5e8937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-156-2011",
+   "path": "local/tulcea/tulcea/2011/156",
+   "short": "HCL Tulcea nr. 156/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 156/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-156-2011.pdf",
+     "sha256": "eda3dc8b588926e142022fa12d2129454d20e130017451204c975d8fdb751713"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-158-2011",
+   "path": "local/tulcea/tulcea/2011/158",
+   "short": "HCL Tulcea nr. 158/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 158/2011 privind concesionarea prin licitatie a terenului in suprafata de 932 mp, apartinand domeniului privat al municipiului, situat in Tulcea, strada Sperantei-P55, Cartier Mesteceni, pentru destinatia de spatiu comercial",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-158-2011.pdf",
+     "sha256": "8c05da3901db7ef7f02b31a6183de10798158a32e0988da3b7c0f8f12c24f28d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-159-2011",
+   "path": "local/tulcea/tulcea/2011/159",
+   "short": "HCL Tulcea nr. 159/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 159/2011 privind concesionarea prin incredintare directa pentru extindere spatiu comercial existent, a suprafetei de 180 mp din cei 450 mp inchiriati pentru parcare, teren din domeniul privat al municipiului, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-159-2011.pdf",
+     "sha256": "a6024c85d86335e7a441585d98f9b968bd202ff9901929c3f4bfc99656c9378c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-160-2011",
+   "path": "local/tulcea/tulcea/2011/160",
+   "short": "HCL Tulcea nr. 160/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 160/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-160-2011.pdf",
+     "sha256": "38b6a9abb8675ef8880b6c104bffeabf7aca26220d6f73614773e7479a2016bb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-161-2011",
    "path": "local/tulcea/tulcea/2011/161",
    "short": "HCL Tulcea nr. 161/2011",
@@ -33,6 +408,411 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-166-2011",
+   "path": "local/tulcea/tulcea/2011/166",
+   "short": "HCL Tulcea nr. 166/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 166/2011 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU OBIECTIVUL “DEZVOLTAREA INFRASTRUCTURII TURISTICE DE AGREMENT (REPARATIA CORPULUI NAVEI CU ZBATURI ”REPUBLICA”, BUN CULTURAL CLASAT ÎN CATEGORIA „TEZAUR”, PRINORDINUL MINISTRULUI CULTURII SI PATRIMONIULUI NATIONAL CU NR. 2346/22.05.2008“ SI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-166-2011.pdf",
+     "sha256": "2f25b27da9dd3d3eced4e75ff30cbceba68e10f029a4ee6e7f20b44db797be80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-167-2011",
+   "path": "local/tulcea/tulcea/2011/167",
+   "short": "HCL Tulcea nr. 167/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 167/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-167-2011.pdf",
+     "sha256": "0c89bcae7f76618221b6352707a5df73993e9afda2dc19aa50a4f9ecccd06bd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-169-2011",
+   "path": "local/tulcea/tulcea/2011/169",
+   "short": "HCL Tulcea nr. 169/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 169/2011 pentru trecerea unor imobile din domeniul public al statului si din administrarea Ministerului Administratiei si Internelor- Inspectoratul de Jandarmi Judetean Tulcea, în domeniul public al municipiului Tulcea si în administrarea Consiliului Local Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-169-2011.pdf",
+     "sha256": "8032acd8a48ac500b2e5aa6490126cd080e9daa64d4e7ef5cde8b36f4838b1c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-171-2011",
+   "path": "local/tulcea/tulcea/2011/171",
+   "short": "HCL Tulcea nr. 171/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 171/2011 pentru scoaterea din inventarul domeniului public al municipiului Tulcea a bunului imobil – strada Transformatorului si trotuarul aferent",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-171-2011.pdf",
+     "sha256": "80690aed9e5992cc2f2daf029b5b71493f6cac7666ecd304ebf334adc437c365"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-174-2011",
+   "path": "local/tulcea/tulcea/2011/174",
+   "short": "HCL Tulcea nr. 174/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 174/2011 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 4.966 mp, situat in Tulcea, str.Ing",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-174-2011.pdf",
+     "sha256": "9ae8c77f17c0b2e4bc8e564c01b8cf246233a831871fa5f1a167adaef907816b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-175-2011",
+   "path": "local/tulcea/tulcea/2011/175",
+   "short": "HCL Tulcea nr. 175/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 175/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-175-2011.pdf",
+     "sha256": "58b669f73bf75b34930e98b7e66b7cb2a6c52d03476a1da44bf7e039fbfb5951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-176-2011",
+   "path": "local/tulcea/tulcea/2011/176",
+   "short": "HCL Tulcea nr. 176/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 176/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-176-2011.pdf",
+     "sha256": "8c639e8de82c0de28c586b679adcd0e9de1c3ccaeca47daf667b5a5b8d3fd34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-181-2011",
+   "path": "local/tulcea/tulcea/2011/181",
+   "short": "HCL Tulcea nr. 181/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 181/2011 PRIVIND APROBAREA PROGRAMULUI DE FUNCTIONARE A UNITATILOR ECONOMICE DIN MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-181-2011.pdf",
+     "sha256": "062ff4442aff5ff77627a8f62c16bf76598d03f21a61a217a29e053dcbb172e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-183-2011",
+   "path": "local/tulcea/tulcea/2011/183",
+   "short": "HCL Tulcea nr. 183/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 183/2011 privind participarea municipiului Tulcea la constituirea „ Asociatiei de Dezvoltare Interjudeteana a Infrastructurii de Deseuri menajere ” Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-183-2011.pdf",
+     "sha256": "bedfd9c4cad97a93f3e98ca5ba04fef4cd126f74c9debc9a0ee064f7f1706317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-185-2011",
+   "path": "local/tulcea/tulcea/2011/185",
+   "short": "HCL Tulcea nr. 185/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 185/2011 privind trecerea din domeniul public al statului si din administrarea Ministerului Transporturilor si Infrastructurii, in domeniul public al municipiului Tulcea si în administrarea Consiliului Local al Municipiului Tulcea, a Portului comercial Tulcea si a Falezei Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-185-2011.pdf",
+     "sha256": "0cb436b5bd911b680fc8f75c9ca7b3db65029dd0631bbfc06d96cc79a034a6ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-187-2011",
+   "path": "local/tulcea/tulcea/2011/187",
+   "short": "HCL Tulcea nr. 187/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 187/2011 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 7,35mp, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-187-2011.pdf",
+     "sha256": "be40c5c1e3957ce2cd8ec1dfe591300f5291af7659bff635553903f8135ab468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-188-2011",
+   "path": "local/tulcea/tulcea/2011/188",
+   "short": "HCL Tulcea nr. 188/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 188/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-188-2011.pdf",
+     "sha256": "0bf4efcaa1d9e339fbd0241615a5a9503a852cf5f4c0690c96b463b834af272d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-190-2011",
+   "path": "local/tulcea/tulcea/2011/190",
+   "short": "HCL Tulcea nr. 190/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 190/2011 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU OBIECTIVUL “REABILITARE STR. ISACCEI, MUNICIPIUL TULCEA“ SI A INDICATORILOR TEHNICOECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-08-10",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-190-2011.pdf",
+     "sha256": "f0aa7368b637a082313df6b91a25cc39e95a820f3de6d8a87de721e091dced57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-192-2011",
+   "path": "local/tulcea/tulcea/2011/192",
+   "short": "HCL Tulcea nr. 192/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 192/2011 pentru aprobarea rapoartelor de evaluare si a efectuarii schimbului de imobile intre municipiul Tulcea si SC STX OSV Tulcea S.A",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-192-2011.pdf",
+     "sha256": "4d9a3bc4eda7c59fe80d438cdfcfae88d887940a8cb1833e06e1fb84e3caa0f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-193-2011",
+   "path": "local/tulcea/tulcea/2011/193",
+   "short": "HCL Tulcea nr. 193/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 193/2011 PRIVIND STABILIREA LOCULUI SI A DOMENIILOR ÎN CARE CONTRAVENIENTII VOR PRESTA ACTIVITATI ÎN FOLOSUL COMUNITATII",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-193-2011.pdf",
+     "sha256": "3abad59fdd2599a3a9144227696952aae526048bdf6fda3a4f3b995df53f6ece"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-194-2011",
+   "path": "local/tulcea/tulcea/2011/194",
+   "short": "HCL Tulcea nr. 194/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 194/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-194-2011.pdf",
+     "sha256": "87cb5e2aa18847c2ee0c28d8339bd619f8c8c69eaa6e86233a50e74b1eaa5d8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-195-2011",
+   "path": "local/tulcea/tulcea/2011/195",
+   "short": "HCL Tulcea nr. 195/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 195/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-195-2011.pdf",
+     "sha256": "9ba9e16018f4a6863bf2918cd7b59ad2026f2a723742a09e5664c9b48ae45e48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-196-2011",
+   "path": "local/tulcea/tulcea/2011/196",
+   "short": "HCL Tulcea nr. 196/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 196/2011 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU OBIECTIVUL DE INVESTITII “TRECEREA PE GAZE NATURALE A CT CASA DE PROTOCOL, STR. 14 NOIEMBRIE, MUNICIPIUL TULCEA“ SI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-09",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-196-2011.pdf",
+     "sha256": "c7292bf1e195192dad0cd4d461abe83206297d8bc6df07e59190595a0c8f868d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-202-2011",
+   "path": "local/tulcea/tulcea/2011/202",
+   "short": "HCL Tulcea nr. 202/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 202/2011 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 3.906 mp, aferent obiectivului “bloc de locuinte”, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-202-2011.pdf",
+     "sha256": "3ee2a127675147496a465e2cf2adc341fc5163f3c43c24bb49f69d59d92edb78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-203-2011",
+   "path": "local/tulcea/tulcea/2011/203",
+   "short": "HCL Tulcea nr. 203/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 203/2011 privind inventarierea in domeniul public al municipiului Tulcea a terenului in suprafata de 20.284mp, aferent strazii ing",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-203-2011.pdf",
+     "sha256": "36f106173547aab69597db5fe75aca825010346d47c9e49e9c3e28e66857a3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-204-2011",
+   "path": "local/tulcea/tulcea/2011/204",
+   "short": "HCL Tulcea nr. 204/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 204/2011 privind modificarea suprafetei de teren aferenta sediului Sectiei Întretinere Domeniu Public, situata in Tulcea, str. Spitalului, evidentiata la pozitia 952 din inventarul domeniului public, de la 10.000mp la 19.787mp, conform masuratorilor topo cadastrale, in vederea inregistrarii in cartea funciara",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-204-2011.pdf",
+     "sha256": "7396e6c25a5d5cf1b5d82265046ab2701530e86508446771bf76979b3d669c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-206-2011",
+   "path": "local/tulcea/tulcea/2011/206",
+   "short": "HCL Tulcea nr. 206/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 206/2011 privind inchirierea prin licitatie, a unor loturi de teren din municipiul Tulcea, pentru amplasarea magazinelor mobile",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-206-2011.pdf",
+     "sha256": "34129956b88f23e15f0604a5b7bbb375c659a531e34a9bdd37adac368c9d5d18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-207-2011",
+   "path": "local/tulcea/tulcea/2011/207",
+   "short": "HCL Tulcea nr. 207/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 207/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-207-2011.pdf",
+     "sha256": "bb3c0e6436e9694dd33cc268abd9fb47822895322aeee012bdc31c1bb0a1e84e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-21-2011",
+   "path": "local/tulcea/tulcea/2011/21",
+   "short": "HCL Tulcea nr. 21/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 21/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-21-2011.pdf",
+     "sha256": "2608a3ff414d41a9215227bf738fb95462f486f7bd2dea2f97b77bede6d51439"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-211-2011",
+   "path": "local/tulcea/tulcea/2011/211",
+   "short": "HCL Tulcea nr. 211/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 211/2011 pentru modificarea si completarea HCL 45/2004 – privind aprobarea criteriilor de prioritate si componentei comisiei sociale de repartizare a locuintelor construite pentru tineri si alte categorii sociale",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-211-2011.pdf",
+     "sha256": "9152cd757b01fbfdf1a903d728e84b44e64430f1f31b2ec8442597651e453901"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-215-2011",
+   "path": "local/tulcea/tulcea/2011/215",
+   "short": "HCL Tulcea nr. 215/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 215/2011 privind aprobarea modificarii Statului de functii al Directiei de Asistenta si Protectie Sociala Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-215-2011.pdf",
+     "sha256": "7d5bf03d805fb41ae91d45db9f5791c09c02df9ba380965265f21efd8d5b7a0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-217-2011",
+   "path": "local/tulcea/tulcea/2011/217",
+   "short": "HCL Tulcea nr. 217/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 217/2011 PRIVIND ACORDAREA UNEI PRESTATII FINANCIARE EXCEPTIONALE",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-217-2011.pdf",
+     "sha256": "31b37d1047f15dd8b6fce0e97fa1981758ae47878127f9219f433fdd7eb8d1a4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-219-2011",
    "path": "local/tulcea/tulcea/2011/219",
    "short": "HCL Tulcea nr. 219/2011",
@@ -44,6 +824,336 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-219-2011.pdf",
      "sha256": "8b28c65716170d15c729f5d2ab51b667219d6d89a5c80e7e2ebc3967371fca73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-220-2011",
+   "path": "local/tulcea/tulcea/2011/220",
+   "short": "HCL Tulcea nr. 220/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 220/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-220-2011.pdf",
+     "sha256": "812aca8b1d68ec797617baa07a4ef3877ed0773dc2e86188f32c2175ffc94635"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-222-2011",
+   "path": "local/tulcea/tulcea/2011/222",
+   "short": "HCL Tulcea nr. 222/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 222/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-222-2011.pdf",
+     "sha256": "ed8b2d8936828d0cf55782612de8eec1b2a6079ec11e67f55a2d58e2a0ab08df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-223-2011",
+   "path": "local/tulcea/tulcea/2011/223",
+   "short": "HCL Tulcea nr. 223/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 223/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-223-2011.pdf",
+     "sha256": "75f8eae92ab9765fec8c8802390e27b0612a482f8ced243d871e857481f95840"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-227-2011",
+   "path": "local/tulcea/tulcea/2011/227",
+   "short": "HCL Tulcea nr. 227/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 227/2011 privind modificarea suprafetei de teren aferenta strazii Cascadei, evidentiata la pozitia 274 din inventarul domeniului public, de la 600,00mp la 1.483mp, conform masuratorilor topo cadastrale, in vederea inregistrarii in cartea funciara",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-227-2011.pdf",
+     "sha256": "6a5442357ae365963e76b6db8db73f8cd79fdd76b37223ce385ad1bbe423b9a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-228-2011",
+   "path": "local/tulcea/tulcea/2011/228",
+   "short": "HCL Tulcea nr. 228/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 228/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-228-2011.pdf",
+     "sha256": "51bcfb10cfc248a3d70a6392df078b68de3ee9a0220a47c4961ee83556a75d1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-229-2011",
+   "path": "local/tulcea/tulcea/2011/229",
+   "short": "HCL Tulcea nr. 229/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 229/2011 privind inventarierea in domeniul public al municipiului Tulcea a terenului in suprafata de 39.557mp, aferent drumului industrial D5, in vederea intabularii",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-229-2011.pdf",
+     "sha256": "ef4220feb2a9009d9470e3ad71db9647e30a85d45d5e971f797bc1aeed7050fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-231-2011",
+   "path": "local/tulcea/tulcea/2011/231",
+   "short": "HCL Tulcea nr. 231/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 231/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-231-2011.pdf",
+     "sha256": "e01a74e54d8242c6ae5d3fdeb28a9e45ce1d64ff7dd97d382e81effce6b9b6ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-232-2011",
+   "path": "local/tulcea/tulcea/2011/232",
+   "short": "HCL Tulcea nr. 232/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 232/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-232-2011.pdf",
+     "sha256": "4f8913e6f2e416b2a8532b4d445adb4a4aa5ecd90d5fc072c00030ac4e1cb3bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-236-2011",
+   "path": "local/tulcea/tulcea/2011/236",
+   "short": "HCL Tulcea nr. 236/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 236/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-236-2011.pdf",
+     "sha256": "2a7d26018b67a1ae2b0ed21964cde8f3b733f0fe4e04922e66cd87729043e2e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-237-2011",
+   "path": "local/tulcea/tulcea/2011/237",
+   "short": "HCL Tulcea nr. 237/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 237/2011 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU OBIECTIVUL “TRECEREA PE GAZE NATURALE CT CASA CASATORIILOR, STR.GLORIEI, MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-237-2011.pdf",
+     "sha256": "3dc7059f4db6a38d816c5d8147af0a30adf91e173b5703be548bcdb9da425157"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-238-2011",
+   "path": "local/tulcea/tulcea/2011/238",
+   "short": "HCL Tulcea nr. 238/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 238/2011 PRIVIND APROBAREA DOCUMENTATIEI DE AVIZARE A LUCRARILOR DE INTERVENTIE PENTRU OBIECTIVUL “TRECEREA PE GAZE NATURALE CENTRUL DE ZI PENTRU COPII “PASI SPRE LUMINA”, STR.14 NOIEMBRIE, MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-14",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-238-2011.pdf",
+     "sha256": "3c056ff0b938b792690ddb911738fd5754651be0a350664e2c0dff040923f446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-239-2011",
+   "path": "local/tulcea/tulcea/2011/239",
+   "short": "HCL Tulcea nr. 239/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 239/2011 privind acordarea facilitatilor fiscale la plata impozitului/ taxei pe cladiri, potrivit prevederilor art. 286 alin. (8) si (9) din Legea nr. 571/ 2003 privind Codul fiscal, Republicata, cu modificarile si completarile ulterioare si procedura de acordare a acestora",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-239-2011.pdf",
+     "sha256": "b30c8c3ba939cb111ab662bc8991b3a16a4be8989e22bfc5adf1310d6f087094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-241-2011",
+   "path": "local/tulcea/tulcea/2011/241",
+   "short": "HCL Tulcea nr. 241/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 241/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-09-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-241-2011.pdf",
+     "sha256": "a2c0484424e88d0f87e2192f964718d6e5b728435a2bb9944fd028dff0a63567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-244-2011",
+   "path": "local/tulcea/tulcea/2011/244",
+   "short": "HCL Tulcea nr. 244/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 244/2011 privind rectificarea bugetului local pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-244-2011.pdf",
+     "sha256": "007fd648cda3e6acfa52cfacfc8fa0c8eb0719a48a54b09b23459581adececf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-250-2011",
+   "path": "local/tulcea/tulcea/2011/250",
+   "short": "HCL Tulcea nr. 250/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 250/2011 privind vanzarea a 3 loturi de teren apartinand domeniului privat al municipiului Tulcea, concesionate, in suprafata totala de 2.844,78 mp, care au alta destinatie decat pentru constructia de locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-11-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-250-2011.pdf",
+     "sha256": "eb7dcd170cb85a7670fea7131abf8e39ae40a252f8ded0418416fb2d540cb65e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-254-2011",
+   "path": "local/tulcea/tulcea/2011/254",
+   "short": "HCL Tulcea nr. 254/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 254/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-07",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-254-2011.pdf",
+     "sha256": "ad04858612e1590236c605b7173998c480f3b5d544fbcf8890c7bd6b59222136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-255-2011",
+   "path": "local/tulcea/tulcea/2011/255",
+   "short": "HCL Tulcea nr. 255/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 255/2011 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-255-2011.pdf",
+     "sha256": "141a0642d4bb390a9173aea319c477282b53a15813ed8f08ca85df955ad0aa25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-26-2011",
+   "path": "local/tulcea/tulcea/2011/26",
+   "short": "HCL Tulcea nr. 26/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 26/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-26-2011.pdf",
+     "sha256": "54a196b464762c580639994339a5a33210b72533e9920cadb2918a4741daf83d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-264-2011",
+   "path": "local/tulcea/tulcea/2011/264",
+   "short": "HCL Tulcea nr. 264/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 264/2011 privind modificarea suprafetei de teren si a suprafetei construite aferente imobilului Strandul “Tudor Vladimirescu” Plaja, evidentiat la pozitiile 547 si 548 din inventarul domeniului public, conform masuratorilor topo cadastrale, in vederea inregistrarii in cartea funciara",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-264-2011.pdf",
+     "sha256": "327fdd65a6fddb226d4c0cb312c8971c9fe301f28eb6f1497fdff1de2419aac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-265-2011",
+   "path": "local/tulcea/tulcea/2011/265",
+   "short": "HCL Tulcea nr. 265/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 265/2011 privind preluarea cu titlu gratuit din proprietatea SC Kaufland Romania SC in domeniul privat al municipiului Tulcea a obiectivului „Sens Giratoriu” situat la intersectia strazii1848 cu strada Barajului, Km 2+560 dr si trecerea acestuia în domeniul public al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-265-2011.pdf",
+     "sha256": "df99575043a95b324918130c385170c9abae49832dc36a1ce522e3b76d21fbb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-267-2011",
+   "path": "local/tulcea/tulcea/2011/267",
+   "short": "HCL Tulcea nr. 267/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 267/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-267-2011.pdf",
+     "sha256": "fcc5b9ec1d6a0d5ed8520eefaa2b3a8fe7d2a3b0a7ac634de9675b1c3cd51e8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-268-2011",
+   "path": "local/tulcea/tulcea/2011/268",
+   "short": "HCL Tulcea nr. 268/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 268/2011 privind concesionarea prin incredintare directa a terenului in suprafata de 807 mp, apartinand domeniului privat al municipiului Tulcea, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-268-2011.pdf",
+     "sha256": "6e773869c4fbe4b3d5371eb00eb6e9ce164418e357f104dc1edac043b086edb0"
     }
    ]
   },
@@ -63,6 +1173,81 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-28-2011",
+   "path": "local/tulcea/tulcea/2011/28",
+   "short": "HCL Tulcea nr. 28/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 28/2011 privind aprobarea bugetului de venituri si cheltuieli al Municipiului Tulcea pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-28-2011.pdf",
+     "sha256": "80360396ca907df2d40e811dee7148ee98876c6649adc99560a15e293ababee0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-284-2011",
+   "path": "local/tulcea/tulcea/2011/284",
+   "short": "HCL Tulcea nr. 284/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 284/2011 privind atribuirea prin inchiriere a terenului în suprafata de 168,47mp, apartinand domeniului public al municipiului, situat in Tulcea, Strada Babadag, FN (langa Hotel Select), cu destinatia parcare auto",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-284-2011.pdf",
+     "sha256": "055951590f8ffe7d8daf7610ced109d302de5ac2e85876b1dc889b116266d7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-285-2011",
+   "path": "local/tulcea/tulcea/2011/285",
+   "short": "HCL Tulcea nr. 285/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 285/2011 privind atribuirea prin inchiriere a terenului în suprafata de 135 mp, apartinand domeniului public al municipiului, situat in Tulcea, Strada Babadag, FN (langa magazin WINMARKT), cu destinatia parcare auto",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-285-2011.pdf",
+     "sha256": "b83de77e98e3a0f4526bf19c848e560fb35e6b3188bc8eca550448e1baab71df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-287-2011",
+   "path": "local/tulcea/tulcea/2011/287",
+   "short": "HCL Tulcea nr. 287/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 287/2011 privind aprobarea unitatilor de învatamânt preuniversitar de stat si particular din municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-287-2011.pdf",
+     "sha256": "289fc75cb3f3521869faee2e9fce48ff614b7ac05369b8ea3fb3b497992d86a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-29-2011",
+   "path": "local/tulcea/tulcea/2011/29",
+   "short": "HCL Tulcea nr. 29/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 29/2011 privind aprobarea bugetului de venituri si cheltuieli la activitatile finantate integral sau partial din venituri proprii pe anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-29-2011.pdf",
+     "sha256": "ae10de1d2a143f838c3530d60958be1636c57756a9a37f9bba67e81c61d55b4a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-33-2011",
    "path": "local/tulcea/tulcea/2011/33",
    "short": "HCL Tulcea nr. 33/2011",
@@ -74,6 +1259,276 @@
      "units": 7,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-33-2011.pdf",
      "sha256": "5e93deabe4545d209d8a62729aea5175f1f60e55d5b32a8f9e0879497f6cd041"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-34-2011",
+   "path": "local/tulcea/tulcea/2011/34",
+   "short": "HCL Tulcea nr. 34/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 34/2011 privind cesionarea drepturilor si obligatiilor ce decurg din autorizatia de construire nr. 456/27968/04.10.2005 in beneficiul titularilor contractelor de construire",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-34-2011.pdf",
+     "sha256": "1ba14438b873db547bf3c308ed19e0b9e933d7210d2fe929c91d7c36a188d9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-35-2011",
+   "path": "local/tulcea/tulcea/2011/35",
+   "short": "HCL Tulcea nr. 35/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 35/2011 privind schimbarea destinatiei imobilului situat in mun. Tulcea, str. Socului, nr. 4, bl. 2, sc. A, ap. 1 apartinand domeniului public al municipiului, din locuinta sociala in spatiu cu alta destinatie decat cea de locuinta",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-35-2011.pdf",
+     "sha256": "648827f9cc7639a21dfde391286b6db450d637d3b48fe2f480b507b4f0d91f1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-38-2011",
+   "path": "local/tulcea/tulcea/2011/38",
+   "short": "HCL Tulcea nr. 38/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 38/2011 privind preluarea din domeniul privat al statului si din administrarea Regiei Autonome de Distributie si Exploatare a Filmelor <<Romania-Film>>, in domeniul public al municipiului Tulcea si in administrarea Consiliului Local Tulcea a imobilului “Gradina de Vara – DACIA” , situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-38-2011.pdf",
+     "sha256": "0cb0f83d6a86d834fa71b62a2eecf48833af88c6f80dd77b93fb8bde7ed4c1e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-39-2011",
+   "path": "local/tulcea/tulcea/2011/39",
+   "short": "HCL Tulcea nr. 39/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 39/2011 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 14.737,83 mp, situat in Tulcea, strada Taberei FN-zona industriala Vest si concesionarea acestuia prin licitatie pentru activitati industriale, aprobarea: Studiului de oportunitate, Caietului de sarcini, Instructiunilor de participare la licitatie, PUZ “Unitate de recuperare feroaliaje din zgura metalurgica” si a",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-39-2011.pdf",
+     "sha256": "c18f38a237a4efc2d3afec3ee716d7c02e237d35d1cb17c5f02cd97141a6111c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-42-2011",
+   "path": "local/tulcea/tulcea/2011/42",
+   "short": "HCL Tulcea nr. 42/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 42/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-42-2011.pdf",
+     "sha256": "3a2d4b884dd216af523d215f695a25ad87d7d7b4fdd0829cad40bfc5af6c4f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-43-2011",
+   "path": "local/tulcea/tulcea/2011/43",
+   "short": "HCL Tulcea nr. 43/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 43/2011 privind concesionarea prin incredintare directa a suprafetei de 10,34 mp, teren din domeniul privat al municipiului, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-43-2011.pdf",
+     "sha256": "0433f6d0dc798588d6f48e410c2e1213bd2f102f762d46cdbd303cf4e8753527"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-44-2011",
+   "path": "local/tulcea/tulcea/2011/44",
+   "short": "HCL Tulcea nr. 44/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 44/2011 privind concesionarea prin incredintare directa a suprafetei de 7,80 mp, teren din domeniul privat al municipiului, situat in Tulcea, Aleea Albatros bl. C1, sc. A, ap.3, pentru amenajare sediu firma si aprobarea PUD “AMENAJARE BIROURI SEDIU FIRMA CU ACCES DIN EXTERIOR SI EXTINDERE”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-44-2011.pdf",
+     "sha256": "349525c4b541bc2493d22d7ed0d2aa65b260f9a2682fde3e9ee1ea8d56f1b3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-55-2011",
+   "path": "local/tulcea/tulcea/2011/55",
+   "short": "HCL Tulcea nr. 55/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 55/2011 privind diminuarea cu 50% a platii redeventei datorata de concesionarii afectati de proiectul “Reabilitare si modernizare zona industriala est din municipiul Tulcea”, pentru anul 2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-55-2011.pdf",
+     "sha256": "9ac71e2286b9dd17cbb8ac657c466c3479d8c1e920ee918cb47ff8bf810f7809"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-56-2011",
+   "path": "local/tulcea/tulcea/2011/56",
+   "short": "HCL Tulcea nr. 56/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 56/2011 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE “RECONSTRUCTIA ECOLOGICA ÎN POLDERUL ZAGHEN DIN REZERVATIA BIOSFEREI TRANSFRONTALIERE DELTA DUNARII, ROMÂNIA/UCRAINA “ SI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-02-07",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-56-2011.pdf",
+     "sha256": "de377037bb25f7fa485cd29ee6f00d235c62aab396f055025292d75963b810fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-61-2011",
+   "path": "local/tulcea/tulcea/2011/61",
+   "short": "HCL Tulcea nr. 61/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 61/2011 privind inventarierea in domeniul public al municipiului a terenului in suprafata de 145,57 ha, cu destinatia de balti si lacuri naturale aferent polderului Zaghen",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-09",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-61-2011.pdf",
+     "sha256": "a5931736813347dd823e4f8f515a3f18547f882a38c265800295aed0a38df23e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-62-2011",
+   "path": "local/tulcea/tulcea/2011/62",
+   "short": "HCL Tulcea nr. 62/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 62/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-62-2011.pdf",
+     "sha256": "ae643f78dd5b59333c45c37ee6416c51541c9cf30aa63394daa8d9c6f48ad2bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-70-2011",
+   "path": "local/tulcea/tulcea/2011/70",
+   "short": "HCL Tulcea nr. 70/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 70/2011 privind vanzarea a 2 loturi de teren apartinand domeniului privat al municipiului Tulcea, concesionate, in suprafata totala de 441,5 mp, care au alta destinatie decat pentru constructia de locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-70-2011.pdf",
+     "sha256": "ba80492c03d05f6c7b6677dae3211e90e48b9725a365e61efb3e3a1d30e86004"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-71-2011",
+   "path": "local/tulcea/tulcea/2011/71",
+   "short": "HCL Tulcea nr. 71/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 71/2011 pentru acordul de principiu privind schimbul de imobile intre municipiul Tulcea si Confederatia Nationala Sindicala “Cartel ALFA” Uniunea Sindicala Teritoriala Filiala Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-71-2011.pdf",
+     "sha256": "8f634bedcccf380c71db1f084ef10080d0cd950e6f97bab98a8bfd88fd0b52ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-72-2011",
+   "path": "local/tulcea/tulcea/2011/72",
+   "short": "HCL Tulcea nr. 72/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 72/2011 privind schimbarea categoriei de folosinta din Arabil – in Padure, a terenului apartinand domeniului public al municipiului Tulcea-Polderul Zaghen, situat in Tulcea, Tarla 77, alcatuit din lotul 1-Parcela 2184 si lotul 2-Parcela 2184/1, in suprafata totala de 23.536mp",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-72-2011.pdf",
+     "sha256": "6b372a716a66e93cfbcd51ffe5e8a930c928edeb2a03f599d3dd954a535c0994"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-73-2011",
+   "path": "local/tulcea/tulcea/2011/73",
+   "short": "HCL Tulcea nr. 73/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 73/2011 privind acordul de principiu pentru preluarea fara plata a unui numar de treisprezece constructii usoare din elemente modulate, din domeniul privat al statului si administrarea Ministerului Administratiei si Internelor prin Inspectoratul pentru Situatii de Urgenta “Delta” al Judetului Tulcea in domeniul public al municipiului Tulcea si in administrarea Consiliului Local al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-73-2011.pdf",
+     "sha256": "45c09fc2474ea193602d93b69d23cc3bacd9ba07bcfdf8dd8afdf7b6c0b5a207"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-75-2011",
+   "path": "local/tulcea/tulcea/2011/75",
+   "short": "HCL Tulcea nr. 75/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 75/2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-75-2011.pdf",
+     "sha256": "9892134980793efddd61cdb905f00112c42afe838cf21967efc19945939302d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-88-2011",
+   "path": "local/tulcea/tulcea/2011/88",
+   "short": "HCL Tulcea nr. 88/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 88/2011 privind reorganizarea serviciilor din cadrul aparatului de specialitate al Primarului Municipiului Tulcea si a Institutiilor subordonate Consiliului Local",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-88-2011.pdf",
+     "sha256": "5eea11e45ee351638db6fb92fc33c5e75c1ac456c24186e56cab2ffe5509eb0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-98-2011",
+   "path": "local/tulcea/tulcea/2011/98",
+   "short": "HCL Tulcea nr. 98/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 98/2011 privind inventarierea in domeniul public al municipiului a terenului in suprafata de 23,27 ha, situat in extravilanul municipiului Tulcea,tarlaua 80 parcela HS 2262 aferent polderului Zaghen",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2011/hcl-98-2011.pdf",
+     "sha256": "46f8fa688001bdbf921d20bf7aa982dec6f55909a8bcad3d73d54eb25be8c011"
     }
    ]
   }

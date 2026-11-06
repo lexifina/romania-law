@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/radauti/2021",
+"acts": [
+{
+"slug": "hcl-suceava--radauti-285-2021",
+"path": "local/suceava/radauti/2021/285",
+"kind": "local",
+"year": "2021",
+"number": "285",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 285/2021",
+"short": "HCL Rădăuți nr. 285/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://primariaradauti.ro/wp-content/uploads/2025/11/HCL-nr.-285-din-21.12.2021-STATUT-UAT-RADAUTI.pdf",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

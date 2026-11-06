@@ -3,6 +3,28 @@
 "shard": "local/tulcea/tulcea/2024",
 "acts": [
 {
+"slug": "hcl-tulcea--tulcea-7-2024",
+"path": "local/tulcea/tulcea/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 7/2024",
+"short": "HCL Tulcea nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/04/Hotararea-nr.-7.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-tulcea--tulcea-8-2024",
 "path": "local/tulcea/tulcea/2024/8",
 "kind": "local",
@@ -22,6 +44,160 @@
 "council_name": "Consiliul Local al Municipiului Tulcea",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-15-2024",
+"path": "local/tulcea/tulcea/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 15/2024",
+"short": "HCL Tulcea nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-17",
+"latest": "2024-05-17",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/05/HOTARAREA-nr.-15-din-17.05.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-47-2024",
+"path": "local/tulcea/tulcea/2024/47",
+"kind": "local",
+"year": "2024",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 47/2024",
+"short": "HCL Tulcea nr. 47/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-03",
+"latest": "2024-06-03",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/06/Hotararea-nr.-47-din-03.06.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-69-2024",
+"path": "local/tulcea/tulcea/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 69/2024",
+"short": "HCL Tulcea nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-13",
+"latest": "2024-06-13",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/06/Hotarare-nr.-69-din-13.06.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-70-2024",
+"path": "local/tulcea/tulcea/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 70/2024",
+"short": "HCL Tulcea nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-13",
+"latest": "2024-06-13",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/06/Hotarare-nr.-70-din-13.06.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-71-2024",
+"path": "local/tulcea/tulcea/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 71/2024",
+"short": "HCL Tulcea nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-06-13",
+"latest": "2024-06-13",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/06/Hotararea-nr.-71-din-13.06.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-248-2024",
+"path": "local/tulcea/tulcea/2024/248",
+"kind": "local",
+"year": "2024",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 248/2024 privind instituirea unor măsuri fiscale în baza prevederilor art. X din Ordonanța de Urgență a Guvernului nr. 107/2024, constând în anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024, datorate bugetului local al Municipiului Tulcea Consiliul Local al Municipiului Tulcea, întrunit în ședința ordinară din data de 26 septembrie 2024, legal constituită",
+"short": "HCL Tulcea nr. 248/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/10/HCL-nr.-248-din-26.09.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-tulcea--tulcea-275-2024",
+"path": "local/tulcea/tulcea/2024/275",
+"kind": "local",
+"year": "2024",
+"number": "275",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 275/2024",
+"short": "HCL Tulcea nr. 275/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://www.primariatulcea.ro/wp-content/uploads/2024/10/HCL-nr.-275-din-26.09.2024.pdf",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

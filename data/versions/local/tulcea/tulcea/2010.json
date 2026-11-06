@@ -3,6 +3,216 @@
  "shard": "local/tulcea/tulcea/2010",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-1-2010",
+   "path": "local/tulcea/tulcea/2010/1",
+   "short": "HCL Tulcea nr. 1/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2010 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-1-2010.pdf",
+     "sha256": "b4b394b1936e9aeb2beccac522429f9bb697aa0ede1379bfe2843484ceda1716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-105-2010",
+   "path": "local/tulcea/tulcea/2010/105",
+   "short": "HCL Tulcea nr. 105/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 105/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-105-2010.pdf",
+     "sha256": "a079e821c9f987634668c76727e62b03c39ce827f19aed54a8db20687d1dbdb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-107-2010",
+   "path": "local/tulcea/tulcea/2010/107",
+   "short": "HCL Tulcea nr. 107/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 107/2010 privind acordul de principiu pentru trecerea din domeniul public al statului si din administrarea Ministerului Administratiei si Internelor, in domeniul public al municipiului Tulcea si in administrarea Consiliului Local Tulcea, a suprafatei construite de 13,86 mp din holul de la parterul cladirii IPJ Tulcea situat in municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-107-2010.pdf",
+     "sha256": "2367b6e2125f148dd6d6497b740c7045d5a3c8c5702bbb026686118e2d1c917a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-108-2010",
+   "path": "local/tulcea/tulcea/2010/108",
+   "short": "HCL Tulcea nr. 108/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 108/2010 privind acordul de principiu pentru trecerea din domeniul public al municipiului Tulcea si din administrarea Consiliului Local Tulcea in domeniul public al statului si in administrarea Ministerului Administratiei si Internelor a spatiului construit in suprafata de 13,73 mp (camera nr. 14) din imobilul situat in municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-108-2010.pdf",
+     "sha256": "20f468a1685bc93239be58538c7bd4c5682c35f82f2546d369a98fd53135bc52"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-114-2010",
+   "path": "local/tulcea/tulcea/2010/114",
+   "short": "HCL Tulcea nr. 114/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 114/2010 privind aprobarea proiectului si a acordului de parteneriat privind realizarea în comun a obiectivului \"Valorificarea turistica a manastirilor tulcene prin imbunatatirea infrastructurii de acces si de mediu\"",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-114-2010.pdf",
+     "sha256": "bdc95bbcb97cafc84f1cd873985c22f747c90ae1e13b13773ef80123b773816f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-115-2010",
+   "path": "local/tulcea/tulcea/2010/115",
+   "short": "HCL Tulcea nr. 115/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 115/2010 privind contul de executie al bugetului local pe anul 2009",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-05-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-115-2010.pdf",
+     "sha256": "6978d80539133b7aeeebba5afd0f1791678d3ad33df0a173f6fd5b587dc5cc98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-138-2010",
+   "path": "local/tulcea/tulcea/2010/138",
+   "short": "HCL Tulcea nr. 138/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 138/2010 privind rectificarea bugetului local pe anul 2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-138-2010.pdf",
+     "sha256": "4972a93be3534a895f7e78a18870faa1116fd9b2f59c844bccd78580ac3dc96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-156-2010",
+   "path": "local/tulcea/tulcea/2010/156",
+   "short": "HCL Tulcea nr. 156/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 156/2010 privind trecerea din domeniul public al municipiului Tulcea in domeniul public al statului a locuintelor ANL situate in Tulcea,strada 1848, nr. 14 si strada Iuliu Maniu, nr. 28",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-156-2010.pdf",
+     "sha256": "34c6fd6266ec3cfc457f3fd8a8f64cc89caa9d1932b933a5b0e9754e4d98e1ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-157-2010",
+   "path": "local/tulcea/tulcea/2010/157",
+   "short": "HCL Tulcea nr. 157/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 157/2010 privind acordul de principiu pentru preluarea fara plata a unui numar de 13 constructii usoare (case modulare), din domeniul public al statului si administrarea Ministerului Administratiei si Internelor-Inspectoratul General pentru Situatii de Urgenta “Delta” al Judetului Tulcea in domeniul public al municipiului Tulcea si in administrarea Consiliului Local Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-157-2010.pdf",
+     "sha256": "a0333ed403ee7341c835ee1e3ce56fde9af815a509be72bac4b85327a29290ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-158-2010",
+   "path": "local/tulcea/tulcea/2010/158",
+   "short": "HCL Tulcea nr. 158/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 158/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 3.316mp, situat in Tulcea, strada Viitorului FN",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-158-2010.pdf",
+     "sha256": "36b929b1928881d31fac4f4214875bb2515bc25bc2c507375acf1f19d5e60dd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-159-2010",
+   "path": "local/tulcea/tulcea/2010/159",
+   "short": "HCL Tulcea nr. 159/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 159/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 5.194mp, situat in Tulcea, strada Forestierului FN",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-159-2010.pdf",
+     "sha256": "298af7e07e78dfb177a89c02554b18cb3000c039b5963c3714e905aa75f67017"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-160-2010",
+   "path": "local/tulcea/tulcea/2010/160",
+   "short": "HCL Tulcea nr. 160/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 160/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 62.541mp, situat in Tulcea, strada Taberei FN",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-160-2010.pdf",
+     "sha256": "2d5750c76f0ba958536a563a36edad22a42f4a0ad29784adb07e32f571fefa6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-161-2010",
+   "path": "local/tulcea/tulcea/2010/161",
+   "short": "HCL Tulcea nr. 161/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 161/2010 privind concesionarea prin incredintare directa a suprafetei de 0,60 mp, teren din domeniul privat al municipiului, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-161-2010.pdf",
+     "sha256": "37bad863e8b683a4c4a5f4057f70e9510a66f62406d76a8407f51b6526f7bfab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-162-2010",
+   "path": "local/tulcea/tulcea/2010/162",
+   "short": "HCL Tulcea nr. 162/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 162/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-162-2010.pdf",
+     "sha256": "4fe6be49d084a6b92e494633815be69742d64cd8f8a0af23364e564a891da20f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-165-2010",
    "path": "local/tulcea/tulcea/2010/165",
    "short": "HCL Tulcea nr. 165/2010",
@@ -18,6 +228,216 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-168-2010",
+   "path": "local/tulcea/tulcea/2010/168",
+   "short": "HCL Tulcea nr. 168/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 168/2010 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-168-2010.pdf",
+     "sha256": "01704c838dd114aa3b82410464695823543292a46328b425e333892483702aab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-17-2010",
+   "path": "local/tulcea/tulcea/2010/17",
+   "short": "HCL Tulcea nr. 17/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 17/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-06-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-17-2010.pdf",
+     "sha256": "67b2246a469e15816ae710b0657af73f6458a8abb6990db9eacf8d281305decc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-191-2010",
+   "path": "local/tulcea/tulcea/2010/191",
+   "short": "HCL Tulcea nr. 191/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 191/2010 pentru acordul de principiu privind schimbul de imobile intre municipiul Tulcea si Partidul Social Democrat –reprezentat de Organizatia Municipala PSD Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-191-2010.pdf",
+     "sha256": "ccd38a129d97b95e9a361dcbf0d4d5f1553c5631433a3ae5525b804fda05a468"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-193-2010",
+   "path": "local/tulcea/tulcea/2010/193",
+   "short": "HCL Tulcea nr. 193/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 193/2010 privind trecerea din domeniul public al municipiului Tulcea si din administrarea Consiliului Local al municipiului Tulcea in domeniul public al statului si in administrarea Ministerului Educatiei, Cercetarii, Tineretului si Sportului- Autoritatea Nationala pentru Sport si Tineret- Directia Judeteana pentru Sport Tulcea, a terenului in suprafata de 3.000 mp, situat in Tulcea, strada Isaccei, nr. 20",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-193-2010.pdf",
+     "sha256": "162dfb3f4e85ac9860ada3c00a77f80ef1dc9d9c1fab67a0cf343aee01c9664a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-194-2010",
+   "path": "local/tulcea/tulcea/2010/194",
+   "short": "HCL Tulcea nr. 194/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 194/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-194-2010.pdf",
+     "sha256": "7685852538b0407b11057ba100f0f9904e556147ebd58332b732f09d4bbfcb54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-196-2010",
+   "path": "local/tulcea/tulcea/2010/196",
+   "short": "HCL Tulcea nr. 196/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 196/2010 privind inchirierea prin licitatie, in perioada sezonului estival, a unor loturi de teren situate pe Faleza Dunarii, apartinand domeniului public al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-196-2010.pdf",
+     "sha256": "0347a6037786d61dc39917a36aee1c55aea26d09cd8b5db078ee54e7ffcefc1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-197-2010",
+   "path": "local/tulcea/tulcea/2010/197",
+   "short": "HCL Tulcea nr. 197/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 197/2010 privind inchirierea prin licitatie a 2 loturi de teren in suprafata de 4,40 mp fiecare, apartinand domeniului public si privat al municipiului, situate in Tulcea, strada Comertului si strada Gavrilov Corneliu, pentru ampasare chiosc – comercializare produse de panificatie, aprobarea Caietului de sarcini si a Instructiunilor de participare la licitatie",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-197-2010.pdf",
+     "sha256": "b506764546e64d6740e4754606787dbe81e797e09f211b730c585fb79c68e8bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-199-2010",
+   "path": "local/tulcea/tulcea/2010/199",
+   "short": "HCL Tulcea nr. 199/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 199/2010 privind concesionarea prin incredintare directa a terenului in suprafata de 2525,10mp, din domeniul privat al municipiului, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-199-2010.pdf",
+     "sha256": "d7580997ead11d88786599c56fb010aa63eb5c364ba9b6c2a975fe904daae218"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-200-2010",
+   "path": "local/tulcea/tulcea/2010/200",
+   "short": "HCL Tulcea nr. 200/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 200/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-200-2010.pdf",
+     "sha256": "505d6118227964233d18f033157fb687b033b5d9b9ced07e2d2576c28bbf75cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-201-2010",
+   "path": "local/tulcea/tulcea/2010/201",
+   "short": "HCL Tulcea nr. 201/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 201/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-201-2010.pdf",
+     "sha256": "fa0d02a4da21ce40ee382cdd79cf99e62adb6a7ab85a0ab19eec68581b4c710e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-207-2010",
+   "path": "local/tulcea/tulcea/2010/207",
+   "short": "HCL Tulcea nr. 207/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 207/2010 privind reorganizarea serviciilor din cadrul aparatului de specialitate al Primarului Municipiului Tulcea si a Institutiilor subordonate Consiliului Local",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-207-2010.pdf",
+     "sha256": "00feee7cadccf8ff726489e4f2844feafd359472420323d5bf6e3ffe18e4a456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-210-2010",
+   "path": "local/tulcea/tulcea/2010/210",
+   "short": "HCL Tulcea nr. 210/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 210/2010 privind trecerea din domeniul public al statului si din administrarea Ministerului Apararii Nationale in domeniul public al municipiului Tulcea si in administrarea Consiliului Local Tulcea a trei imobile situate in municipiul Tulcea str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-05",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-210-2010.pdf",
+     "sha256": "21a60a419e5f29686973bc67f3ed21c043e4fa50ee176d36e64aa566a218afd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-211-2010",
+   "path": "local/tulcea/tulcea/2010/211",
+   "short": "HCL Tulcea nr. 211/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 211/2010 privind rectificarea bugetului local pe anul 2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-211-2010.pdf",
+     "sha256": "d1a7af2553a555bdabdd82c90c63e56f93a3f95f07c13b33a6c9c60fe0a33da7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-222-2010",
+   "path": "local/tulcea/tulcea/2010/222",
+   "short": "HCL Tulcea nr. 222/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 222/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-222-2010.pdf",
+     "sha256": "06192510d0ea67327227c5eb016312414cdfec401e8f25a6f8575dc634d1e915"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-223-2010",
    "path": "local/tulcea/tulcea/2010/223",
    "short": "HCL Tulcea nr. 223/2010",
@@ -29,6 +449,336 @@
      "units": 7,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-223-2010.pdf",
      "sha256": "a85fd89374bbea70267534fe3f49724c5865b24e69134de8874738e139747b25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-224-2010",
+   "path": "local/tulcea/tulcea/2010/224",
+   "short": "HCL Tulcea nr. 224/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 224/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 345 mp, situat in Tulcea, strada Labirintului FN si concesionarea prin licitatie a acestuia, pentru destinatia de parcare auto, aprobarea: Studiului de oportunitate, Caietului de sarcini si Instructiunilor de participare la licitatie",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-224-2010.pdf",
+     "sha256": "a2f45c1800cfa8796d9353ce1d54b8290122505f58d85d5bc2e953038afecdd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-23-2010",
+   "path": "local/tulcea/tulcea/2010/23",
+   "short": "HCL Tulcea nr. 23/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 23/2010 privind modificarea suprafetei de teren a imobilului “Piata Mircea cel Batrîn”, inregistrat la pozitia 935 din inventarul domeniului public, conform masuratorilor topo cadastrale – de la 10.271,51mp la 13.285mp, in vederea inregistrarii in cartea funciara",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-01-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-23-2010.pdf",
+     "sha256": "e1364aac9ef9a08ce9edbd4f9895e26c23425fbe354ed42e511ccbe3adb8204f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-234-2010",
+   "path": "local/tulcea/tulcea/2010/234",
+   "short": "HCL Tulcea nr. 234/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 234/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-08-13",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-234-2010.pdf",
+     "sha256": "bc986d0339516c75d1db85501af0590ddc32e279d22b3fcc1dfec231084dfdd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-236-2010",
+   "path": "local/tulcea/tulcea/2010/236",
+   "short": "HCL Tulcea nr. 236/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 236/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-236-2010.pdf",
+     "sha256": "929a203b33a4df00eabbe374399abff2c7a85b29dcdae44bc5a57e8c61b0414e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-237-2010",
+   "path": "local/tulcea/tulcea/2010/237",
+   "short": "HCL Tulcea nr. 237/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 237/2010 privind practicarea pescuitului in Lacul Ciuperca",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-237-2010.pdf",
+     "sha256": "e9d8492f645156a5c4d3f47f6e2459870f6e2a2dcfadfa4f00d243a590acb340"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-24-2010",
+   "path": "local/tulcea/tulcea/2010/24",
+   "short": "HCL Tulcea nr. 24/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 24/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-24-2010.pdf",
+     "sha256": "aafc8e03435bf065204d4ae83af4c3a22285535adc7e8cf45a82ce3fc725d93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-240-2010",
+   "path": "local/tulcea/tulcea/2010/240",
+   "short": "HCL Tulcea nr. 240/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 240/2010 PRIVIND ACORDAREA UNEI PRESTATII FINANCIARE EXCEPTIONALE",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-240-2010.pdf",
+     "sha256": "d35fb2dcdf1d1a4372f9b7f9726a704a22c65c7226a7e984adf01c5117547675"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-241-2010",
+   "path": "local/tulcea/tulcea/2010/241",
+   "short": "HCL Tulcea nr. 241/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 241/2010 privind rectificarea bugetului de venituri si cheltuieli pe anul 2010 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-241-2010.pdf",
+     "sha256": "b9b8b679d677c346a2cd3958fafaef5ea7a7d63338842c457a5a22f9f39c3cce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-246-2010",
+   "path": "local/tulcea/tulcea/2010/246",
+   "short": "HCL Tulcea nr. 246/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 246/2010 PRIVIND APROBAREA PROGRAMULUI DE INTERVENTII PE TIMP FRIGUROS IN MUNICIPIUL TULCEA IN PERIOADA 15.11.2010 – 15.03.2011",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-246-2010.pdf",
+     "sha256": "5d8602c29fb88dabd7b55132d7a922c1aaa4f210da965c0e2ffab1487b867328"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-249-2010",
+   "path": "local/tulcea/tulcea/2010/249",
+   "short": "HCL Tulcea nr. 249/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 249/2010 privind concesionarea prin incredintare directa a suprafetei de 21 mp, teren din domeniul privat al municipiului , situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-249-2010.pdf",
+     "sha256": "1d6f994920e9e3cfba115751152e46fca3a9c339cc3b3682ecff8637e24ea6a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-25-2010",
+   "path": "local/tulcea/tulcea/2010/25",
+   "short": "HCL Tulcea nr. 25/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 25/2010 privind aprobarea bugetului de venituri si cheltuieli pe anul 2010 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-25-2010.pdf",
+     "sha256": "d10b3ae75b36482f5e62a4f0239b1ca0aa64263dc3ee2f6db65c7cecd6843f94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-250-2010",
+   "path": "local/tulcea/tulcea/2010/250",
+   "short": "HCL Tulcea nr. 250/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 250/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-250-2010.pdf",
+     "sha256": "bbacdcb96079c96c98e4b866165dceee900e6f5908639513ec32ceb145e56d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-260-2010",
+   "path": "local/tulcea/tulcea/2010/260",
+   "short": "HCL Tulcea nr. 260/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 260/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-260-2010.pdf",
+     "sha256": "d8da7989cd426e459e7de158a0cad56ecd24a910a430a80624341cd1f979174f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-261-2010",
+   "path": "local/tulcea/tulcea/2010/261",
+   "short": "HCL Tulcea nr. 261/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 261/2010 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-261-2010.pdf",
+     "sha256": "22d8200a6a8fd08b694eb1b5746ac0af969ec64dfbdb55076d69554375a284b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-270-2010",
+   "path": "local/tulcea/tulcea/2010/270",
+   "short": "HCL Tulcea nr. 270/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 270/2010 privind inchirierea prin licitatie a unui lot de teren in suprafata de 6,00 mp, apartinand domeniului privat al municipiului, situat in Tulcea, strada Eternitatii FN (vis-à-vis de intrare Cimitir Eternitatea I), pentru amplasare chiosc – comercializare produse de panificatie",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-270-2010.pdf",
+     "sha256": "38b449d55a36b6fc7ec16b4f8099e123c90b9d854a7bc5bbb815b0ce68a52c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-275-2010",
+   "path": "local/tulcea/tulcea/2010/275",
+   "short": "HCL Tulcea nr. 275/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 275/2010 privind rectificarea bugetului local pe anul 2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-08",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-275-2010.pdf",
+     "sha256": "7e736dccb5a62396135fffbc3c090672f15fa039d3267980d67df8fecc6f7a5b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-277-2010",
+   "path": "local/tulcea/tulcea/2010/277",
+   "short": "HCL Tulcea nr. 277/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 277/2010 privind aprobarea Studiului de fezabilitate ,,MODERNIZARE PLATFORMA VEST DIN PIATA VECHE”, Tulcea, str. Isaccei, nr. 17 si a indicatorilor tehnico-economici",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-277-2010.pdf",
+     "sha256": "68db9651b9e6cab536101138eedfc471fe7ae77202f7e45f51be9f7790596d68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-278-2010",
+   "path": "local/tulcea/tulcea/2010/278",
+   "short": "HCL Tulcea nr. 278/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 278/2010 privind inventarierea in domeniul public al municipiului a 2 loturi de teren in suprafata totala de 475 mp, situate in Tulcea, Str. Biruintei, FN, in vederea realizarii unei parcari si a unei platforme pentru pubele de gunoi",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-278-2010.pdf",
+     "sha256": "377afc2842d6bfc8ac07e4e2eb20cee3ff90e26e50cc96892e565a0f018ce970"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-279-2010",
+   "path": "local/tulcea/tulcea/2010/279",
+   "short": "HCL Tulcea nr. 279/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 279/2010 privind inventarierea in domeniul public al municipiului a terenului in suprafata de 646 mp, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-279-2010.pdf",
+     "sha256": "25fb3bddfa225c0bb1bb4e691550dca06dd3e1b4b759371a39237a7ae2dcb2b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-280-2010",
+   "path": "local/tulcea/tulcea/2010/280",
+   "short": "HCL Tulcea nr. 280/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 280/2010 privind schimbarea destinatiei constructiilor, apartinand domeniului public al municipiului, din gradinite pentru prescolari, in locuinte sociale",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-280-2010.pdf",
+     "sha256": "cd2e56af8ee9ae670695fe2ffb03b2b7bae9dcc58ca9dee255a18ab7a73446c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-281-2010",
+   "path": "local/tulcea/tulcea/2010/281",
+   "short": "HCL Tulcea nr. 281/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 281/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-281-2010.pdf",
+     "sha256": "cab8d030bacf78bc983a6813d9f53051d715418a310882c2c463af601b769ac2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-282-2010",
+   "path": "local/tulcea/tulcea/2010/282",
+   "short": "HCL Tulcea nr. 282/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 282/2010 privind concesionarea prin licitatie a terenului in suprafata de 73,45 mp apartinand domeniului privat al municipiului Tulcea, situat in Tulcea, strada Isaccei intre bl. I5A si bl. I5A – I5B, pentru construire agentie de turism, aprobarea: Studiului de oportunitate, Caietului de sarcini, Instructiunilor de participare la licitatie, PUZ “Construire Sediu de firma Agentie de Turism P+1” si a Regulam",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-12-20",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-282-2010.pdf",
+     "sha256": "11aefd153be7380e0a006dda40ba017d4307603deb699cd12203ee99fd7f9c27"
     }
    ]
   },
@@ -63,6 +813,36 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-36-2010",
+   "path": "local/tulcea/tulcea/2010/36",
+   "short": "HCL Tulcea nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 36/2010 privind aprobarea cuantumului chiriei pentru locuintele tip ANL situate pe str. 1848, nr.14, ai caror chiriasi, titulari de contract, au implinit, pana la data de 01.02.2010, varsta de 35 ani",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-36-2010.pdf",
+     "sha256": "012f33fc1f900456f380db6c9c8fbd44b758e7807f9fa0e1c191c2d03c8cbe91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-37-2010",
+   "path": "local/tulcea/tulcea/2010/37",
+   "short": "HCL Tulcea nr. 37/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 37/2010 privind modalitatea de acordare a gratuitatii pe mijloacele de transport în comun precum si cuantumul acesteia pentru persoanele cu handicap grav si accentuat, cât si pentru însotitorii adultilor cu handicap auditiv si mental accentuat, asistentii personali ai persoanelor cu handicap grav, asistentii personali profesionisti ai persoanelor cu handicap grav si accentuat din municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-37-2010.pdf",
+     "sha256": "b4662a57ae5c4492ad3b803997c00f2ceaf01e4f1903f37a89173c036369ab5a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-5-2010",
    "path": "local/tulcea/tulcea/2010/5",
    "short": "HCL Tulcea nr. 5/2010",
@@ -74,6 +854,156 @@
      "units": 1,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-5-2010.pdf",
      "sha256": "8682fa2aa14a92e00cf0931beac6dc989b6eb1abbe37671bfdeaabd04c76ce58"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-51-2010",
+   "path": "local/tulcea/tulcea/2010/51",
+   "short": "HCL Tulcea nr. 51/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 51/2010 privind concesionarea prin licitatie a terenului in suprafata de 1003mp, apartinand domeniului privat al municipiului Tulcea, situat in zona Dallco, str. Atelierelor, parcela D2-lot 1, pentru prestari servicii ambarcatiuni, aprobarea: Studiului de oportunitate, Caietului de sarcini si a Instructiunilor de participare la licitatie",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-02-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-51-2010.pdf",
+     "sha256": "378837d3e6aa226f26ceec4ee0e8b8d802427fefbda751f2b4030a0aac11c96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-62-2010",
+   "path": "local/tulcea/tulcea/2010/62",
+   "short": "HCL Tulcea nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 62/2010 privind rectificarea bugetului local pe anul 2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-62-2010.pdf",
+     "sha256": "fb44b9db29a74ad2458aac8c9acc0cb8730b55bf5e835f87a209553a89e67b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-78-2010",
+   "path": "local/tulcea/tulcea/2010/78",
+   "short": "HCL Tulcea nr. 78/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 78/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-78-2010.pdf",
+     "sha256": "7c3c77363771eb476fd867dda77c29f465d31f872170a16d504d71ec11ea9fd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-80-2010",
+   "path": "local/tulcea/tulcea/2010/80",
+   "short": "HCL Tulcea nr. 80/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 80/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 4.515mp (aferent cladirii “Casa Sindicatelor”), situat in Tulcea, Piata Independentei nr.1",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-80-2010.pdf",
+     "sha256": "4fbc583b21f03ae2f1c85d849afa27f677b9dfcc056e2dc89e725f16c80a413f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-81-2010",
+   "path": "local/tulcea/tulcea/2010/81",
+   "short": "HCL Tulcea nr. 81/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 81/2010 privind inventarierea in domeniul privat al municipiului Tulcea, a terenului in suprafata de 135,05mp, situat in Tulcea, strada Eternitatii FN (langa bl.N9)",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-81-2010.pdf",
+     "sha256": "3b142da0205daf2b12c0b829c2329fd5db6abfd528861e0fe8db35cd2e8220bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-82-2010",
+   "path": "local/tulcea/tulcea/2010/82",
+   "short": "HCL Tulcea nr. 82/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 82/2010 privind modificarea suprafetei de teren a imobilului “Parc Monument str. Gloriei”, apartinand domeniului public al municipiului Tulcea, conform masuratorilor topo cadastrale – de la 40.000 mp la 25.982 mp, in vederea inregistrarii in cartea funciara",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-82-2010.pdf",
+     "sha256": "c44fdbe51ee79acda5f606cec1ed4574b4c393ef7d4f65d457348c13b8b0e2a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-83-2010",
+   "path": "local/tulcea/tulcea/2010/83",
+   "short": "HCL Tulcea nr. 83/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 83/2010",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-83-2010.pdf",
+     "sha256": "71e3ddffdce9cfd8e20d0f527599ac086a4943bd3fbb45226a21af1313655a10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-84-2010",
+   "path": "local/tulcea/tulcea/2010/84",
+   "short": "HCL Tulcea nr. 84/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 84/2010 privind vanzarea a 4 loturi de teren apartinand domeniului privat al municipiului Tulcea, concesionate, in suprafata totala de 142,29 mp, care au alta destinatie decat pentru constructia de locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-84-2010.pdf",
+     "sha256": "5e5734ee22cb1ece4e48c692890c4effa62f54d84d045042e7adde040293fe59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-87-2010",
+   "path": "local/tulcea/tulcea/2010/87",
+   "short": "HCL Tulcea nr. 87/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 87/2010 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2010/hcl-87-2010.pdf",
+     "sha256": "ae8c507022111c9f5a92742e6f106c88da3b6f2452a27cdf9fc7d906667b6040"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-88-2010",
+   "path": "local/tulcea/tulcea/2010/88",
+   "short": "HCL Tulcea nr. 88/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 88/2010 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE “ÎMBUN?T??IRI ALE SISTEMELOR DE AP? ?I AP? UZAT? ÎN JUDE?UL TULCEA “ ?I A INDICATORILOR TEHNICO-ECONOMICI, PENTRU MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2010-10-12",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-88-mai-2012.pdf",
+     "sha256": "1b563d60cb27f7456b90a9643ef7539333274d10f85769cc56a81d20a37b194e"
     }
    ]
   }

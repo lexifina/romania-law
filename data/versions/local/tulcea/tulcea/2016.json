@@ -3,6 +3,81 @@
  "shard": "local/tulcea/tulcea/2016",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-1-2016",
+   "path": "local/tulcea/tulcea/2016/1",
+   "short": "HCL Tulcea nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2016 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-01-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/1.pdf",
+     "sha256": "cb82cfe764159d32949364124b367ce084a4c951a5b0b6dc3b4a7b50d9fcbb76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-103-2016",
+   "path": "local/tulcea/tulcea/2016/103",
+   "short": "HCL Tulcea nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 103/2016 privind asocierea Municipiului Tulcea prin Consiliul Local al Municipiului Tulcea cu Judeţul Tulcea prin",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot103.pdf",
+     "sha256": "eb56dfe9eae1b9ab7b5505def41258fb352e8d9e589caa34f445fa847205f233"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-104-2016",
+   "path": "local/tulcea/tulcea/2016/104",
+   "short": "HCL Tulcea nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 104/2016 privind modificarea şi completarea organigramei şi statului de funcţii ale aparatului de specialitate al Primarului Municipiului Tulcea şi structurilor fără personalitate juridică subordonate Consiliului Local al Municipiului Tulcea, aprobate prin Hotărârea Consiliului Local al Municipiului Tulcea nr. 105 din 30.07.2015, cu modificările şi completările ulterioare",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-11-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/104.pdf",
+     "sha256": "f920405cb81ef55d8cf8b4ff2f87ba16925165f0a58d52439e11c7f9daea8b57"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-106-2016",
+   "path": "local/tulcea/tulcea/2016/106",
+   "short": "HCL Tulcea nr. 106/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 106/2016 privind inventarierea î n domeniul privat al municipiului Tulcea a terenului în suprafaţă de 3398 mp, situat în Tulcea, strada Cascadei FN",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/106.pdf",
+     "sha256": "f89d419a903a7794c5cffa44e4d8d300a3664063777c8436b4aec58bc244aa2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-108-2016",
+   "path": "local/tulcea/tulcea/2016/108",
+   "short": "HCL Tulcea nr. 108/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 108/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/108.pdf",
+     "sha256": "52f0d0b43ffa82b295e36ab9a2d56d0e3b2b5c76a002e90700f8dd19514d0566"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-109-2016",
    "path": "local/tulcea/tulcea/2016/109",
    "short": "HCL Tulcea nr. 109/2016",
@@ -14,6 +89,21 @@
      "units": 1,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/109.pdf",
      "sha256": "c680c534bea3aede888e3c3df086b90d9efb8f9b930e94838541688922fe3167"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-111-2016",
+   "path": "local/tulcea/tulcea/2016/111",
+   "short": "HCL Tulcea nr. 111/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 111/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/111.pdf",
+     "sha256": "8d068a5f34363dd530f91d38966ebb9d981fbbdcade23dc434337ba50285fff2"
     }
    ]
   },
@@ -48,6 +138,51 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-2-2016",
+   "path": "local/tulcea/tulcea/2016/2",
+   "short": "HCL Tulcea nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 2/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/2.pdf",
+     "sha256": "37b40abec743a1c42043948aee42047a9253ab184cda93dbdcc41d68f8dea84f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-21-2016",
+   "path": "local/tulcea/tulcea/2016/21",
+   "short": "HCL Tulcea nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 21/2016 pentru aprobarea Ghidului Solicitantului privind regimul finanţărilor nerambursabile alocate de la Bugetul Local pentru activităţi nonprofit de interes local şi a Ghidului Solicitantului privind regimul finanţărilor nerambursabile alocate de la Bugetul Local cultelor religioase recunoscute de lege, care îşi desfăşoară activitatea în Municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/21.pdf",
+     "sha256": "3f6969fbc6fda912a521cfd49c0df11652ec1caed7ed6b37d03b807eded2090e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-22-2016",
+   "path": "local/tulcea/tulcea/2016/22",
+   "short": "HCL Tulcea nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 22/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/022.pdf",
+     "sha256": "aa16c04724ffe1cb0cfe58bddec96a61e5ede148c4dde140d473e2c2d0f4ad07"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-24-2016",
    "path": "local/tulcea/tulcea/2016/24",
    "short": "HCL Tulcea nr. 24/2016",
@@ -59,6 +194,51 @@
      "units": 4,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/24.pdf",
      "sha256": "c5b53a5e4a0258fb5da34b60f0eb709c09c87a94881e9ed01d8e0641f19cef87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-26-2016",
+   "path": "local/tulcea/tulcea/2016/26",
+   "short": "HCL Tulcea nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 26/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/26.pdf",
+     "sha256": "05c77a8b1ccd52ad2c674bc020273a348970e0ec42219682d088eb799689a9d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-29-2016",
+   "path": "local/tulcea/tulcea/2016/29",
+   "short": "HCL Tulcea nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 29/2016 Privind aprobarea listei cuprinzând “Inventarul bunurilor care alc ătuiesc domeniul privat al municipiului Tulcea”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-07-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2017/29.pdf",
+     "sha256": "68524d640adc8e44104498ace0f817a7601ef7d1ff8b2393e39841e5f6d4347e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-3-2016",
+   "path": "local/tulcea/tulcea/2016/3",
+   "short": "HCL Tulcea nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 3/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/3.pdf",
+     "sha256": "2bda773b48cd969a31fa19cc23bc0422bc9c1dca83eeff3aab25ba364773f71f"
     }
    ]
   },
@@ -78,6 +258,351 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-38-2016",
+   "path": "local/tulcea/tulcea/2016/38",
+   "short": "HCL Tulcea nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 38/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/38.pdf",
+     "sha256": "62ab5835658f7179b3cd76e952873e583aee875865a854c98c33f27ecbf7cf62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-39-2016",
+   "path": "local/tulcea/tulcea/2016/39",
+   "short": "HCL Tulcea nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 39/2016 privind darea în folosinţă gratuită către S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/39.pdf",
+     "sha256": "00675f3840b0427d05f50be33cef0b3766078bbc0431a688ed8347aa04421ae3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-4-2016",
+   "path": "local/tulcea/tulcea/2016/4",
+   "short": "HCL Tulcea nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 4/2016 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ A CONSILIULUI LOCAL AL MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/04.pdf",
+     "sha256": "e599aed8e83c9b54ca2a0ed9794ff95aa9f8cba4191ac3dc78b6cac8dd167062"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-40-2016",
+   "path": "local/tulcea/tulcea/2016/40",
+   "short": "HCL Tulcea nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 40/2016 privind darea în folosinţă gratuită către S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/40.pdf",
+     "sha256": "65d301e62745bc09fc38e602939ce224fa8721e6e1f3be630827f41696cc0961"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-45-2016",
+   "path": "local/tulcea/tulcea/2016/45",
+   "short": "HCL Tulcea nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 45/2016 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-02",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/45.pdf",
+     "sha256": "119c43210ca078e5c14774c9ad466660463756618f0c009aa7b578aca40d1249"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-47-2016",
+   "path": "local/tulcea/tulcea/2016/47",
+   "short": "HCL Tulcea nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 47/2016 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/47.pdf",
+     "sha256": "9c4e883b3e800d401fde9337e0f4e89dfecb9af1730fa0c74b7893838c78aa61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-48-2016",
+   "path": "local/tulcea/tulcea/2016/48",
+   "short": "HCL Tulcea nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 48/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-08-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/48.pdf",
+     "sha256": "d6beb584efe46b4f5400c0ce871ca7a6ea83e7cb252b2b1892eb477a5b2c4cf0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-49-2016",
+   "path": "local/tulcea/tulcea/2016/49",
+   "short": "HCL Tulcea nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 49/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot49.pdf",
+     "sha256": "e24c4012baf7433709dc564fcc1750b6ba9f874cf995091009cca2d365ec1077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-5-2016",
+   "path": "local/tulcea/tulcea/2016/5",
+   "short": "HCL Tulcea nr. 5/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 5/2016 PRIVIND ALEGEREA VICEPRIMARULUI MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/05.pdf",
+     "sha256": "2970027c636029c63bb2db84f4bd1c7fc8927a3d0d024fbeaa629e0118f601a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-53-2016",
+   "path": "local/tulcea/tulcea/2016/53",
+   "short": "HCL Tulcea nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 53/2016 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot53.pdf",
+     "sha256": "8ae6e0af45b6512784f4abde5f455fc2559219f4055dc3c7b03e9ec04935a822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-55-2016",
+   "path": "local/tulcea/tulcea/2016/55",
+   "short": "HCL Tulcea nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 55/2016 privind asocierea Municipiului Tulcea prin Consiliului Local al Municipiului Tulcea cu Judeţul Tulcea prin",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/55.pdf",
+     "sha256": "6593c28bb977d4b282cbd2566f892a5c1b243524ce909791560acd864cf4450d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-57-2016",
+   "path": "local/tulcea/tulcea/2016/57",
+   "short": "HCL Tulcea nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 57/2016 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2016 al Direcţiei de Întreţinere şi Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot57.pdf",
+     "sha256": "9f680b9e7ccd9a5506ba6eecf50b218fcaecb414c2c0d8378bfe515b3c3938dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-59-2016",
+   "path": "local/tulcea/tulcea/2016/59",
+   "short": "HCL Tulcea nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 59/2016 pentru modificarea și completarea art.3 din Hotărârea Consiliului Local al Municipiului Tulcea nr.60/30.04.2015 privind participarea Municipiului Tulcea prin Consiliul Local Tulcea ca membru asociat în Asociația pentru Dezvoltare Intercomunitară Investițiile Teritoriale Integrate Delta Dunării",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot59.pdf",
+     "sha256": "2cbec74d85fc7aa9865cbb7f879a52f47b0a37e8d72a6b8d70b2390fb969ebde"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-6-2016",
+   "path": "local/tulcea/tulcea/2016/6",
+   "short": "HCL Tulcea nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 6/2016 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2016 al Direcţiei de Întreţinere şi Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/6.pdf",
+     "sha256": "a7b117f8ae0c700039eb6633de283e4a9be0390a3707b123d3b591860346efcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-62-2016",
+   "path": "local/tulcea/tulcea/2016/62",
+   "short": "HCL Tulcea nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 62/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot62.pdf",
+     "sha256": "5212f2b57fdf73ead0e57013602f5371d4780311d1ca4126104d46269e8c1020"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-63-2016",
+   "path": "local/tulcea/tulcea/2016/63",
+   "short": "HCL Tulcea nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 63/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/63.pdf",
+     "sha256": "faf50e393a524cea65e840c626d2f2fcffb7d7855cb09111f16bd2dcb3bd81fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-64-2016",
+   "path": "local/tulcea/tulcea/2016/64",
+   "short": "HCL Tulcea nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 64/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/64.pdf",
+     "sha256": "46677046e80be45e49a190d972d4b071987bf579b55a1d9dcb7b9bb11389da6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-65-2016",
+   "path": "local/tulcea/tulcea/2016/65",
+   "short": "HCL Tulcea nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 65/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/65.pdf",
+     "sha256": "37fbc7743aed640fb7f93f9d70edb4d9cc83a01fffa68262e8135fd89a204888"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-66-2016",
+   "path": "local/tulcea/tulcea/2016/66",
+   "short": "HCL Tulcea nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 66/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/66.pdf",
+     "sha256": "a30f341548cb48e4745a713edf63172e0259e6424da53cf8f78c4831ed8379e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-67-2016",
+   "path": "local/tulcea/tulcea/2016/67",
+   "short": "HCL Tulcea nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 67/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/67.pdf",
+     "sha256": "64b041c908738e51b3ab21c15a480d8fce0f3c78efa0e9293120a0f35b84fe4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-68-2016",
+   "path": "local/tulcea/tulcea/2016/68",
+   "short": "HCL Tulcea nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 68/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot68.pdf",
+     "sha256": "6ea7a177954d5a862c0a876c03c24cb4e6767846bd033c073ac534c2b120df91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-69-2016",
+   "path": "local/tulcea/tulcea/2016/69",
+   "short": "HCL Tulcea nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 69/2016 privind inventarierea în domeniul public al municipiului Tulcea a terenului în suprafaţă totală de 13.881 mp, aferent digului învecinat cu faleza municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot69.pdf",
+     "sha256": "3b272e92bba282fc80a96504da804d65750b7296005ee2aeb51787fdceb6b1f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-7-2016",
+   "path": "local/tulcea/tulcea/2016/7",
+   "short": "HCL Tulcea nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 7/2016 privind aprobarea bugetului de venituri şi cheltuieli al Municipiului Tulcea pe anul 2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/7.pdf",
+     "sha256": "d80dd99abd11df0079bcabdfd9d66cb72360a782e2f7d3852c69a04c33cdb002"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-70-2016",
    "path": "local/tulcea/tulcea/2016/70",
    "short": "HCL Tulcea nr. 70/2016",
@@ -89,6 +614,246 @@
      "units": 6,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/70.pdf",
      "sha256": "6ea77e2e20e41b4d1e55afa85e882621a1cb2fef91922f12b01193365cba0389"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-71-2016",
+   "path": "local/tulcea/tulcea/2016/71",
+   "short": "HCL Tulcea nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 71/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot71.pdf",
+     "sha256": "6d97f59286272582b64cce9761f0999dd7f65047e454a7ecbd157d382762fc37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-72-2016",
+   "path": "local/tulcea/tulcea/2016/72",
+   "short": "HCL Tulcea nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 72/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-03-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/72.pdf",
+     "sha256": "a465de844f9315959eadbbd3d532977caf5cd0cef30d2ffd626010a3bf1b5c0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-73-2016",
+   "path": "local/tulcea/tulcea/2016/73",
+   "short": "HCL Tulcea nr. 73/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 73/2016 privind inventarierea în domeniul public al municipiului Tulcea a terenului în suprafaţă de 476 mp, aferent sediului Societăţii Naţionale de Cruce Roşie din România, Filiala Tulcea, situat în Tulcea, Aleea Crucii Roşii, nr.1",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot73.pdf",
+     "sha256": "a93013466a250672e7739e185158694c601ad74835d74878b10f8a12a373889a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-74-2016",
+   "path": "local/tulcea/tulcea/2016/74",
+   "short": "HCL Tulcea nr. 74/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 74/2016 privind inventarierea în domeniul public al municipiului Tulcea a terenului în suprafaţă de 259 mp, aferent parcării publice situată în Tulcea, peste drum de Orăşelul copiilor, strada Isaccei FN",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot74.pdf",
+     "sha256": "feb8f02acf119c8b43bb07a47cbf5a7ba3ccf5cfe6b2378d2e528dc8c1cc00f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-75-2016",
+   "path": "local/tulcea/tulcea/2016/75",
+   "short": "HCL Tulcea nr. 75/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 75/2016 privind aprobarea Regulamentului de organizare şi funcţionare a Obiectivului turistic „SAT PESCĂRESC TRADIŢIONAL”, situat în Tulcea, şoseaua Tulcea – Murighiol, km 1 şi a tarifelor ce vor fi utilizate la acest obiectiv",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/75.pdf",
+     "sha256": "3dd87c124e9ea3c04b7ca7cba1bbe5e4049fa5fe8a2f80010a836756976efaed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-76-2016",
+   "path": "local/tulcea/tulcea/2016/76",
+   "short": "HCL Tulcea nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 76/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot76.pdf",
+     "sha256": "d746328a05bb85fceded1a9cf7144063eb60f0118fe32a6ae0b0aed64cbb4247"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-77-2016",
+   "path": "local/tulcea/tulcea/2016/77",
+   "short": "HCL Tulcea nr. 77/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 77/2016 pentru stabilirea comisiei de evaluare a ofertelor şi a comisiei de soluţionare a contestaţiilor privind concesionarea sau î nchirierea bunurilor din domeniul public şi privat al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot77.pdf",
+     "sha256": "f238bb533c39f6f770c128d557177a8dc7ef9a7c7dc44a21cd729e021893e0f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-82-2016",
+   "path": "local/tulcea/tulcea/2016/82",
+   "short": "HCL Tulcea nr. 82/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 82/2016 PRIVIND ACORDAREA UNUI AJUTOR DE URGENŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/82.pdf",
+     "sha256": "d6829a9ae1a88a41dceca6a20f6ad2eff549f573e4803c4b411fd252c62d4aee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-83-2016",
+   "path": "local/tulcea/tulcea/2016/83",
+   "short": "HCL Tulcea nr. 83/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 83/2016 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor comerciale radiate din evidenţa fiscală",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/83.pdf",
+     "sha256": "b6af925376a012730e2a8dd22c7b73ef8a3c9f31ecb5f055351d08177d881af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-84-2016",
+   "path": "local/tulcea/tulcea/2016/84",
+   "short": "HCL Tulcea nr. 84/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 84/2016 privind darea î n folosinţă gratuită către S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/84.pdf",
+     "sha256": "3620c89d7b779f43ef0506fc3dc5b50f7bd16841b71224d3ff9581ca4bffd374"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-85-2016",
+   "path": "local/tulcea/tulcea/2016/85",
+   "short": "HCL Tulcea nr. 85/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 85/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/85.pdf",
+     "sha256": "88ad13362e676e4013c6ae7f273e1f7b6b0913e9037e66a200ff884dd3ecf42e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-86-2016",
+   "path": "local/tulcea/tulcea/2016/86",
+   "short": "HCL Tulcea nr. 86/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 86/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/86.pdf",
+     "sha256": "582a7899c908748966408e02d0a1e6f5e93f63d4c2ea8fa7678357f21bf90abb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-87-2016",
+   "path": "local/tulcea/tulcea/2016/87",
+   "short": "HCL Tulcea nr. 87/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 87/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/87.pdf",
+     "sha256": "f0270f4f36c71e4a207a21995b0c63ab5158b96ca0b9618f98baa2122a25d552"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-88-2016",
+   "path": "local/tulcea/tulcea/2016/88",
+   "short": "HCL Tulcea nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 88/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/88.pdf",
+     "sha256": "1dcc8191d8b902aefa6c51aa6f6db99c0cde763a2766f6fabdbb5aec069e1520"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-89-2016",
+   "path": "local/tulcea/tulcea/2016/89",
+   "short": "HCL Tulcea nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 89/2016 pentru modificarea şi completarea HCL nr. 75/15.04.2016 privind aprobarea Regulamentului de organizare şi funcţionare a Obiectivului turistic „SAT PESCĂRESC TRADIŢIONAL”, situat în Tulcea, şoseaua Tulcea – Murighiol, km 1 şi a tarifelor ce vor fi utilizate la acest obiectiv",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot89.pdf",
+     "sha256": "2b1e0d57ce48a53a572695e2cb6462dbd6ba00468b247e89cca37c2f676b0881"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-9-2016",
+   "path": "local/tulcea/tulcea/2016/9",
+   "short": "HCL Tulcea nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 9/2016 privind aprobarea bugetului fondurilor externe nerambursabile al Municipiului Tulcea pe anul 2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/9.pdf",
+     "sha256": "d20a036cb4b6e85dd79700c041b68e23f5a7b001dd519e1e45774036661ff035"
     }
    ]
   },
@@ -119,6 +884,81 @@
      "units": 7,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/91.pdf",
      "sha256": "fb4c046aadac20d862941aefa4eecd6649a71048546b452bf8e0f54e097f6f19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-92-2016",
+   "path": "local/tulcea/tulcea/2016/92",
+   "short": "HCL Tulcea nr. 92/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 92/2016 privind aprobarea Regulamentului de organizare şi funcţionare a serviciului social ”Unitatea Mobilă de Recuperare”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/92.pdf",
+     "sha256": "0c2a0ce98bd2b2e833d5c360a807b93cac74aee5b7bd631bddf7477964f69ed1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-93-2016",
+   "path": "local/tulcea/tulcea/2016/93",
+   "short": "HCL Tulcea nr. 93/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 93/2016 privind aprobarea rapoartelor de evaluare pentru locuinţele construite din fondurile statului, aparţinând domeniului privat al municipiului Tulcea, aprobate spre vânzare actualilor chiriaşi în baza HCL nr.102/18.06.2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot93.pdf",
+     "sha256": "90e468765334fab7a479300aa8436b5494b788a50b8d14ea7a6d426a2229ca6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-94-2016",
+   "path": "local/tulcea/tulcea/2016/94",
+   "short": "HCL Tulcea nr. 94/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 94/2016 privind concesionarea prin încredinţare directă a terenurilor în suprafaţă de 881 mp fiecare, aferente drumurilor de exploatare DE 647 şi DE 649, aparţinând domeniului privat al municipiului Tulcea, situate în extravilanul municipiului Tulcea, T43",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/hot94.pdf",
+     "sha256": "71430a834cf6c3393a76f20f812622d685948e168a0f8c9a06587617fba29c20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-95-2016",
+   "path": "local/tulcea/tulcea/2016/95",
+   "short": "HCL Tulcea nr. 95/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 95/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/95.pdf",
+     "sha256": "4eb260108617abee3503d126c87bfb58494beec4f5cd4e03f88d9044300c5e71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-96-2016",
+   "path": "local/tulcea/tulcea/2016/96",
+   "short": "HCL Tulcea nr. 96/2016",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 96/2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2016-05-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2016/96.pdf",
+     "sha256": "73bdc475fba7e1d6c5d149bf420fff82701b39f9758973130f66782460c99105"
     }
    ]
   }

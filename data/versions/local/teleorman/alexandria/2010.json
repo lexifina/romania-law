@@ -3,6 +3,36 @@
  "shard": "local/teleorman/alexandria/2010",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-153-2010",
+   "path": "local/teleorman/alexandria/2010/153",
+   "short": "HCL Alexandria nr. 153/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 153/2010",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-118-24-08-2006-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-al-unor-terenuri-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL_153.pdf",
+     "sha256": "03a01a9bdf3fe535c0b2a175ed891a966fed6142b7339c5a1bb0aa8e3b71d46e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-155-2010",
+   "path": "local/teleorman/alexandria/2010/155",
+   "short": "HCL Alexandria nr. 155/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 155/2010",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-2-la-hcl-nr-92-30-04-2009-privind-aprobarea-zonelor-de-interes-comercial-ale-municipiului-alexandria-si-aprobarea-tarifelor-pentru-inchirierea-spatiilor-cu-alta-desti/",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL_155.pdf",
+     "sha256": "7e177dd738e028d0f4a2eb50da911da1cc02d2e04c4b98c5f0f7d7b1b206bdc8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-167-2010",
    "path": "local/teleorman/alexandria/2010/167",
    "short": "HCL Alexandria nr. 167/2010",
@@ -18,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--alexandria-180-2010",
+   "path": "local/teleorman/alexandria/2010/180",
+   "short": "HCL Alexandria nr. 180/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 180/2010",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-89-30-04-2009-privind-stabilirea-zonelor-unitare-de-incalzire-pentru-modernizarea-sistemului-de-alimentare-centralizata-cu-energie-termica-sacet-in-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_180_debransari-S1.pdf",
+     "sha256": "c0e7d75ac3fac221c7a3da46b1495a4ddb0ceaafe5b2868025ea0ed8cb75ef91"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-2-2010",
    "path": "local/teleorman/alexandria/2010/2",
    "short": "HCL Alexandria nr. 2/2010",
@@ -29,6 +74,81 @@
      "units": 3,
      "source_url": "https://alexandria.ro/storage/Hotarare-nr-2_28-ian-1010-a-Consiliului-Local-al-mun-Alexandria.pdf",
      "sha256": "53ad9a7a69287453ea0a04e363b956141deb613032f03ab93ceee0b518a06f80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-253-2010",
+   "path": "local/teleorman/alexandria/2010/253",
+   "short": "HCL Alexandria nr. 253/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 253/2010",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-234-29-10-2009-privind-declararea-ca-bunuri-apartinind-domeniului-privat-de-interes-local-al-municipiului-alexandria-a-unor-terenuri-pe-care-au-fost-cons/",
+   "versions": [
+    {
+     "from": "2010-11-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL_253_30_nov_2010.pdf",
+     "sha256": "ebb0c48510c28525eddeb9597b1f6438df6118e2acf8ed5211e6e4c14ba82111"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-35-2010",
+   "path": "local/teleorman/alexandria/2010/35",
+   "short": "HCL Alexandria nr. 35/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 35/2010 privind declararea ca bunuri apartinand domeniului privat de interes local a unor terenuri din municipiul Alexandria Consiliul local al municipiului Alexandria, judetul Teleorman, întrunit în sedintã ordinara, având în vedere: - expunerea de motive nr. 3909 / 22.02.2010 a Primarului municipiului Alexandria; - raportul nr. 3910 / 22.02.2010 al Serviciului Valorificare Patrimoniu; - raportul comisii",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-120-16-06-2009-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-a-unor-terenuri-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/Hotarare-nr-35_24-febr-2010-a-Consiliului-Local-al-mun-Alexandria.pdf",
+     "sha256": "a753b84960ac88ad73757df9b9c39a686d7300c89eb4b556a987abbc55874818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-36-2010",
+   "path": "local/teleorman/alexandria/2010/36",
+   "short": "HCL Alexandria nr. 36/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 36/2010 privind declararea ca bunuri apartinand domeniului privat de interes local a unor terenuri din municipiul Alexandria Consiliul local al municipiului Alexandria, judetul Teleorman, întrunit în sedintã ordinara, având în vedere: - expunerea de motive nr. 3911 / 22.02.2010 a Primarului municipiului Alexandria; - raportul nr. 3912 / 22.02.2010 al Serviciului Valorificare Patrimoniu; - raportul comisii",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-137-17-07-2009-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-a-unor-terenuri-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2010-02-24",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/Hotarare-nr-36_24-febr-2010-a-Consiliului-Local-al-mun-Alexandria.pdf",
+     "sha256": "bd0c90553e9ed56b702bc9977fa90e55b931952ef939699460b3b85bf81290f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-49-2010",
+   "path": "local/teleorman/alexandria/2010/49",
+   "short": "HCL Alexandria nr. 49/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 49/2010 privind declararea ca bunuri apartinand domeniului privat de interes local al municipiului Alexandria a unitatilor locative din blocul B8, str.1 Mai, nr. 107 si blocul F, str",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-256-26-11-2009-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-al-municipiului-alexandria-a-unitatilor-locative-din-blocul-b8-s/",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/Hotarare-nr-49_31-martie-2010-a-Consiliului-Local-al-mun-Alexandria.pdf",
+     "sha256": "750b6e41aee0096cd9ec39aa04b8e0687ca44d135166c56e2aa97a76c1c03b0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-62-2010",
+   "path": "local/teleorman/alexandria/2010/62",
+   "short": "HCL Alexandria nr. 62/2010",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 62/2010 privind declararea ca bunuri aparținând domeniului privat de interes local a unor terenuri din municipiul Alexandria Consiliul Local al municipiului Alexandria, județul Teleorman întrunit în sedință ordinară, având în vedere: - expunerea de motive nr. 6644/29.03.2010, a Primarului municipiului Alexandria; - raportul nr. 6645/29.03.2010, al Serviciului Valorificare Patrimoniu; - raportul comisiilor",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-la-hcl-nr-70-30-04-2009-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-a-unor-terenuri-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2010-03-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/Hotarare-nr-62_31-martie-2010-a-Consiliului-Local-al-mun-Alexandria.pdf",
+     "sha256": "531a3715337603d0028b9efe397c60c5c4e1464731205b1a5762b1cfa83a216a"
     }
    ]
   }

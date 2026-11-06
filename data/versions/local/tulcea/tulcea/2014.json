@@ -3,6 +3,441 @@
  "shard": "local/tulcea/tulcea/2014",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-1-2014",
+   "path": "local/tulcea/tulcea/2014/1",
+   "short": "HCL Tulcea nr. 1/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/1.pdf",
+     "sha256": "adee257276d1599e9ec7dfd2872d4b7dc40208c269650c3fe5873dff068a1598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-103-2014",
+   "path": "local/tulcea/tulcea/2014/103",
+   "short": "HCL Tulcea nr. 103/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 103/2014 Privind preluarea din domeniul privat al statului si din administrarea Regiei Autonome de Distributie si Exploatare a Filmelor „Romania-Film”, in domeniul public al municipiului Tulcea si in administrarea Consiliului Local al Municipiului Tulcea a imobilului “Cinematograful Tineretului”, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/103-2.pdf",
+     "sha256": "3f2965cf8f72cee9a8f9edd4f34c25ec9a49927a412db3cfb169d11102fd8b8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-109-2014",
+   "path": "local/tulcea/tulcea/2014/109",
+   "short": "HCL Tulcea nr. 109/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 109/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/109.pdf",
+     "sha256": "f7c423bddddee9b61c1afba2b5fdd329eaebb933986515fe1ee9b897af76facb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-111-2014",
+   "path": "local/tulcea/tulcea/2014/111",
+   "short": "HCL Tulcea nr. 111/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 111/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/111.pdf",
+     "sha256": "e72e58c7fe034a5c16a488a134621ff318b55c83e81b06d972a8310cbc0f7a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-112-2014",
+   "path": "local/tulcea/tulcea/2014/112",
+   "short": "HCL Tulcea nr. 112/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 112/2014 privind asocierea Consiliului Local al Municipiului Tulcea cu Centrul Cultural „Jean Bart” Tulcea în vederea susținerii și organizării “Târgului Meșterilor Populari” Consiliul Local al Municipiului Tulcea, întrunit în ședința ordinară din data de 30.07.2014, legal constituită; Examinând proiectul de hotărâre privind asocierea Consiliului Local al Municipiului Tulcea cu Centrul Cultural „Jean Bart”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/112.pdf",
+     "sha256": "12764730eb3f9b7cc816d1f3ea21fd1e1658eee1ffe833ce6bcee033ce6f5120"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-113-2014",
+   "path": "local/tulcea/tulcea/2014/113",
+   "short": "HCL Tulcea nr. 113/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 113/2014 PRIVIND APROBAREA CONSTITUIRII FONDULUI DE RISC PENTRU ACOPERIREA RISCURILOR FINANCIARE CE DECURG DIN ACORDUL DE GARANTARE A FINANȚĂRII RAMBURSABILE INTERNE ÎN VALOARE DE 914.392 EURO AFERENTE INVESTIȚIILOR DIN PROIECTUL „REABILITAREA ȘI EXTINDEREA SISTEMELOR DE ALIMENTARE CU APĂ ȘI APĂ UZATĂ DIN JUDEȚUL TULCEA” Consiliul Local al Municipiului Tulcea, întrunit în ședința ordinară din data de 30.07",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/113.pdf",
+     "sha256": "74d9588d45f5b04a7ff1c78f6038d14443e207f3185a8d2ab3761c555982e3b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-114-2014",
+   "path": "local/tulcea/tulcea/2014/114",
+   "short": "HCL Tulcea nr. 114/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 114/2014 PRIVIND DESEMNAREA PERSOANEI CARE VA ȚINE REGISTRUL DE EVIDENȚĂ A DATORIEI PUBLICE LOCALE ȘI REGISTRUL DE EVIDENȚĂ A GARANȚIILOR LOCALE ALE UNITĂȚII ADMINISTRATIV-TERITORIALE MUNICIPIUL TULCEA Consiliul Local al Municipiului Tulcea, întrunit în ședința ordinară din data de 30.07.2014, legal constituită; Examinând proiectul de hotărâre privind desemnarea persoanei care va ține registrul de evidență",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/114.pdf",
+     "sha256": "ecf747516d185e572d5b7bc7f3bfdb17ca8b979707558d06622265799ed9e14d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-116-2014",
+   "path": "local/tulcea/tulcea/2014/116",
+   "short": "HCL Tulcea nr. 116/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 116/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/116.pdf",
+     "sha256": "f318a0dddc5e7e7e892ba41897df40774f758772dc89774ae142a0197b09c937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-118-2014",
+   "path": "local/tulcea/tulcea/2014/118",
+   "short": "HCL Tulcea nr. 118/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 118/2014 privind modificarea si completarea art.1, lit.a) din HCL nr.20/2012 pentru stabilirea comisiei de evaluare a ofertelor și a comisiei de solutionare a contestatiilor privind concesionarea sau inchirierea bunurilor din domeniul public si privat al municipiului Tulcea Consiliul Local al municipiului Tulcea, intrunit în sedinta ordinara din data de 30 iulie 2014; Examinand proiectul de hotarare privin",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/118.pdf",
+     "sha256": "304c40283b2a1b0df045072771ddbe7b0c4f6bd242e72df15e552c5f83b7fff5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-119-2014",
+   "path": "local/tulcea/tulcea/2014/119",
+   "short": "HCL Tulcea nr. 119/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 119/2014 pentru modificarea si completarea art.1 din HCL nr. 45/2004 privind aprobarea criteriilor de prioritate si componenta comisiei sociale de repartizare a locuintelor construite pentru tineri si alte categorii sociale Consiliul Local al municipiului Tulcea, intrunit în sedinta ordinara din data de 30 iulie 2014; Examinand proiectul de hotarare pentru modificarea si completarea art.1 din HCL nr. 45/20",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/119.pdf",
+     "sha256": "a9e8975efa073408d4ace4cbcacb2e49bd43faaddafbea882cb9b369abd51fc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-120-2014",
+   "path": "local/tulcea/tulcea/2014/120",
+   "short": "HCL Tulcea nr. 120/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 120/2014 pentru acordul de principiu privind schimbul de terenuri intre Municipiul Tulcea si S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/120.pdf",
+     "sha256": "08462baaa3626f6598a652f026168cc588a4bd8139b1a0c7cfab144865b47006"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-121-2014",
+   "path": "local/tulcea/tulcea/2014/121",
+   "short": "HCL Tulcea nr. 121/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 121/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/121.pdf",
+     "sha256": "d0f2157149bf63101e389a305cf6d3e5f1880d3c63ca58a62df120c85cf21074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-123-2014",
+   "path": "local/tulcea/tulcea/2014/123",
+   "short": "HCL Tulcea nr. 123/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 123/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/123.pdf",
+     "sha256": "2a599127987ca854ad0d071d2595693394b62a51027a37aecde42de69ca23446"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-124-2014",
+   "path": "local/tulcea/tulcea/2014/124",
+   "short": "HCL Tulcea nr. 124/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 124/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/124.pdf",
+     "sha256": "a27c80ad77f7b9e9e9238e219e05cf571695e4dbc7e8a2b02222bf8ca480ffb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-13-2014",
+   "path": "local/tulcea/tulcea/2014/13",
+   "short": "HCL Tulcea nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 13/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/13.pdf",
+     "sha256": "0f7dd2bba80d554514e441b6cb16ad852b87407383948b7f8148e975dd1e29e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-133-2014",
+   "path": "local/tulcea/tulcea/2014/133",
+   "short": "HCL Tulcea nr. 133/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 133/2014 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședintă ordinară la data de 26 septembrie 2014; În baza dispozițiilor art. 13, alin. 1 din Regulamentul de Organizare și Funcționare al Consiliului Local al Municipiului Tulcea, aprobat prin Hotărârea Consiliului Local nr. 29/2008; Având în vedere prevederile art. 41 din Legea nr. 215/2001",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/133.pdf",
+     "sha256": "29235219f039d9ad8d36549a8446070e6895db5dcf88b1b55052ef102f2b7533"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-14-2014",
+   "path": "local/tulcea/tulcea/2014/14",
+   "short": "HCL Tulcea nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 14/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/14.pdf",
+     "sha256": "03edf7f2475e7c7e8c608fd24c93c001cebf2062dbacd31db4b5167c801c159c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-141-2014",
+   "path": "local/tulcea/tulcea/2014/141",
+   "short": "HCL Tulcea nr. 141/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 141/2014 PRIVIND APROBAREA PROIECTULUI ȘI A CHELTUIELILOR LEGATE DE PROIECTUL “REABILITĂRI ȘI DOTĂRI INVESTIȚIONALE ȘCOALA DE ARTE ȘI MESERII COLEGIUL AGRICOL N. CORNATEANU, MUNICIPIUL TULCEA”, Axa prioritară 3 – Îmbunătățirea infrastructurii sociale Domeniul major de intervenție 3.4 – Reabilitarea, modernizarea, dezvoltarea și echiparea infrastructurii educaționale preuniversitare, universitare și a infra",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/141.pdf",
+     "sha256": "b83bd34dc413b328f55d4a04fae42b69bb39fbb2514158c31448d9e61450d01d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-142-2014",
+   "path": "local/tulcea/tulcea/2014/142",
+   "short": "HCL Tulcea nr. 142/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 142/2014 PRIVIND ACORDAREA UNEI PRESTAȚII FINANCIARE EXCEPȚIONALE Consiliul Local al Municipiului Tulcea, întrunit în ședință ordinară la data de 26.09.2014; Examinând Proiectul de Hotărâre privind acordarea unei prestații financiare excepționale, proiect inițiat de primar; Luând în discuție Raportul Direcției de Asistență și Protecție Socială înregistrat sub nr.14824/09.09.2014 și Expunerea de motive înre",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/142.pdf",
+     "sha256": "e3732a88a06ab6d15554ef7fe7dfb1840a687d4161c298b65d927e8c35154fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-144-2014",
+   "path": "local/tulcea/tulcea/2014/144",
+   "short": "HCL Tulcea nr. 144/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 144/2014 pentru aprobarea rapoartelor de evaluare si a efectuarii schimbului de imobile intre Municipiul Tulcea si S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/144.pdf",
+     "sha256": "38552104808ef361588dd04e639449ff3dde4fd32583e14141b945764e4f2779"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-145-2014",
+   "path": "local/tulcea/tulcea/2014/145",
+   "short": "HCL Tulcea nr. 145/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 145/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/145.pdf",
+     "sha256": "67f6eb6ff60ba26e09589500c966d0578eca50ab90aab5dbbf6d97bccc0305a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-146-2014",
+   "path": "local/tulcea/tulcea/2014/146",
+   "short": "HCL Tulcea nr. 146/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 146/2014 privind darea in folosinta gratuita catre S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/146.pdf",
+     "sha256": "cbf8fc4cd668534f0ad17dfe36b5958bec131c9d4145a1fc175f9e48d05b5ff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-147-2014",
+   "path": "local/tulcea/tulcea/2014/147",
+   "short": "HCL Tulcea nr. 147/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 147/2014 privind darea in folosinta gratuita catre S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/147.pdf",
+     "sha256": "7eed9702433a61a105831057afb25c703dfc8b886ccf312295632736b44cb958"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-148-2014",
+   "path": "local/tulcea/tulcea/2014/148",
+   "short": "HCL Tulcea nr. 148/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 148/2014 privind darea in folosinta gratuita catre S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/148.pdf",
+     "sha256": "1f2c4dcc2df18ffbfe3cb7e67847caf37e2bd828ea01be760a582b61c046350a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-15-2014",
+   "path": "local/tulcea/tulcea/2014/15",
+   "short": "HCL Tulcea nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 15/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/15.pdf",
+     "sha256": "e272604c15b7019bad8e86d58eee142e75eaed699e63fcb34402b134dbc875a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-151-2014",
+   "path": "local/tulcea/tulcea/2014/151",
+   "short": "HCL Tulcea nr. 151/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 151/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/151.pdf",
+     "sha256": "682ee1ba8a03893705ff85611f50fbaae44fab779922bba55a9b8fbbc4f911e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-152-2014",
+   "path": "local/tulcea/tulcea/2014/152",
+   "short": "HCL Tulcea nr. 152/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 152/2014 Privind aprobarea ajutorului de stat acordat S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/152.pdf",
+     "sha256": "17254513f0da226268b4a3a85ed022a62f62a9cb47bd005e0d0ca15782ce5bac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-153-2014",
+   "path": "local/tulcea/tulcea/2014/153",
+   "short": "HCL Tulcea nr. 153/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 153/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/153.pdf",
+     "sha256": "3aec132b8c9b7b9a0b221c49670cad3817f94db7c72ed387b6d82bec2ad96c87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-157-2014",
+   "path": "local/tulcea/tulcea/2014/157",
+   "short": "HCL Tulcea nr. 157/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 157/2014 privind aprobarea numărului de burse și cuantumul acestora acordate elevilor din învățământul preuniversitar de stat în anul școlar 2014 – 2015 Consiliul Local al Municipiului Tulcea, întrunit în ședința ordinară la data de 27.11.2014; Examinând proiectul de hotărâre privind aprobarea numărului de burse și cuantumul acestora acordate elevilor din învățământul preuniversitar de stat în anul școlar",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/157.pdf",
+     "sha256": "299d6bc52e5f0c979c1f51111fc3d8efee2683f8b5bc34ec82df29232507b36e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-159-2014",
    "path": "local/tulcea/tulcea/2014/159",
    "short": "HCL Tulcea nr. 159/2014",
@@ -14,6 +449,21 @@
      "units": 1,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/159.pdf",
      "sha256": "d6bd385c91e16fbd2f13497344e007f04fa2b308e3804d5e07d70766d421c740"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-16-2014",
+   "path": "local/tulcea/tulcea/2014/16",
+   "short": "HCL Tulcea nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 16/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/16.pdf",
+     "sha256": "34d1d99e543079ac3ed1fcdc715779701c74e2822f20b6cbf6d70d48943cf5aa"
     }
    ]
   },
@@ -33,6 +483,141 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-165-2014",
+   "path": "local/tulcea/tulcea/2014/165",
+   "short": "HCL Tulcea nr. 165/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 165/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/165.pdf",
+     "sha256": "85385beb1df3e2cd88174a42ab59bca90dfe705ed156b0250c6c79aada21c756"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-166-2014",
+   "path": "local/tulcea/tulcea/2014/166",
+   "short": "HCL Tulcea nr. 166/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 166/2014 privind aprobarea cofinantarii proiectului „ Asistenta tehnica pentru pregatirea aplicatiei de finantare si a documentatiilor de atribuire pentru Programul Regional de Dezvoltare a infrastructurii de apa si apa uzata din judetul Tulcea, in perioada 2014 – 2020” Consiliul Local al Municipiului Tulcea, întrunit în ședință ordinară la data de 27.11.2014; Examinand proiectul de hotărâre privind aproba",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/166.pdf",
+     "sha256": "b699acf46fce3e8a6247c0f39c8ee4fe744bd980e2f27ce91c577d2b012a950d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-167-2014",
+   "path": "local/tulcea/tulcea/2014/167",
+   "short": "HCL Tulcea nr. 167/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 167/2014 privind aprobarea Listei de investitii prioritare in sectorul de apa si apa uzata din judetul Tulcea, aferenta perioadei 2014-2020, finantata prin Programul Operational Sectorial Mediu Consiliul Local al Municipiului Tulcea, întrunit în ședință ordinară la data de 27.11.2014; Examinand proiectul de hotărâre privind, aprobarea Listei de investitii prioritare in sectorul de apa si apa uzata din jude",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/167.pdf",
+     "sha256": "966a8c8da9b8f694d31fa659d601e08ae35635ba34bd3aa177216732e711f422"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-17-2014",
+   "path": "local/tulcea/tulcea/2014/17",
+   "short": "HCL Tulcea nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 17/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/17.pdf",
+     "sha256": "9173c3ce5b3d431ca7fbd0213566495a16e2a9468e7a65d28c9b1455730fb25a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-171-2014",
+   "path": "local/tulcea/tulcea/2014/171",
+   "short": "HCL Tulcea nr. 171/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 171/2014 privind aprobarea prețului local al energiei termice facturate populației și acordarea subvenției din bugetul local Consiliul Local al Municipiului Tulcea, întrunit în ședința extraordinară din data de 03.12.2014, legal constituită; Examinând proiectul de hotărâre privind aprobarea prețului local al energiei termice facturate populației și acordarea subvenției din bugetul local, proiect din iniția",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/171.pdf",
+     "sha256": "1636754ba106baaee6d2b91e6c91a19ce02e953b02e3eca90c4832a61af7a61e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-174-2014",
+   "path": "local/tulcea/tulcea/2014/174",
+   "short": "HCL Tulcea nr. 174/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 174/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/174.pdf",
+     "sha256": "0b429776d9a475fd8ac896a70f274d7f19648cbfaa763689c268147fd3e82321"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-176-2014",
+   "path": "local/tulcea/tulcea/2014/176",
+   "short": "HCL Tulcea nr. 176/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 176/2014 privind rectificarea bugetului local pe anul 2014 Consiliul Local al Municipiului Tulcea, întrunit în ședinta ordinară la data de 23.12.2014; Examinând proiectul de hotărâre privind rectificarea bugetului local pe anul 2014, proiect din inițiativa primarului; Văzând raportul prezentat de Direcția Economică, înregistrat sub nr. E35913/15.12.2014; În conformitate cu prevederile art. 19, alin. (2) și",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/176.pdf",
+     "sha256": "fece2d026c171be7153d82662e02ae37021543029e37630a8c6cc0168df3d506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-181-2014",
+   "path": "local/tulcea/tulcea/2014/181",
+   "short": "HCL Tulcea nr. 181/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 181/2014 privind acordarea normei de hrană polițiștilor locali din cadrul Direcției de Poliție Locală din aparatul de specialitate al Primarului Municipiului Tulcea Consiliul Local al Municipiului Tulcea, Județul Tulcea, întrunit în ședința ordinară din data de 23.12.2014, Examinând proiectul de hotărâre privind acordarea normei de hrană polițiștilor locali din cadrul Direcției de Poliție Locală din aparat",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/181.pdf",
+     "sha256": "44f472228543deb0be5d6ba3cffe1df73eb5e4aab96594a18bb96e93bec85a20"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-187-2014",
+   "path": "local/tulcea/tulcea/2014/187",
+   "short": "HCL Tulcea nr. 187/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 187/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/187.pdf",
+     "sha256": "7f02267f7d3f8244fb491c61d7e29035e43604887e4f0e72be633380d286f92f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-192-2014",
    "path": "local/tulcea/tulcea/2014/192",
    "short": "HCL Tulcea nr. 192/2014",
@@ -44,6 +629,66 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/192.pdf",
      "sha256": "de3084335c865f9ccaf2461d1bb343a42b722458a715ca5e87d5ebc6be84ebac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-20-2014",
+   "path": "local/tulcea/tulcea/2014/20",
+   "short": "HCL Tulcea nr. 20/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 20/2014 PRIVIND INVENTARIEREA IN DOMENIUL PUBLIC AL MUNICIPIULUI TULCEA A TERENULUI IN SUPRAFATA DE 2.394 MP, AFERENT SEGMENTULUI DE DRUM INTRAREA PLAUR, IN VEDEREA INREGISTRARII IN CARTEA FUNCIARA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/20.pdf",
+     "sha256": "a53eef25ed9888fe1307a48672d8dd0766446f519a916e14f4c7c5640e851b7c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-26-2014",
+   "path": "local/tulcea/tulcea/2014/26",
+   "short": "HCL Tulcea nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 26/2014 PRIVIND APROBAREA COMPONENŢEI NOMINALE A COMISIEI TEHNICE DE AMENAJAREA TERITORIULUI ŞI URBANISM A MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/26.pdf",
+     "sha256": "71ca2a2c8e56cd1b4136cd3c483eafeeba2bb24c9f0236fbd1bb965a656f8e22"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-30-2014",
+   "path": "local/tulcea/tulcea/2014/30",
+   "short": "HCL Tulcea nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 30/2014 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/30.pdf",
+     "sha256": "fcc824344251beb1b13a694ca494105f0a38d71fc521d68ef10bd940d24d442a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-32-2014",
+   "path": "local/tulcea/tulcea/2014/32",
+   "short": "HCL Tulcea nr. 32/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 32/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/32.pdf",
+     "sha256": "fd4baaa3fb5af8bc18d326ecc7a36c4c54c883f17bebd1f8ea1242d72aefc72b"
     }
    ]
   },
@@ -63,6 +708,141 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-37-2014",
+   "path": "local/tulcea/tulcea/2014/37",
+   "short": "HCL Tulcea nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 37/2014 PRIVIND APROBAREA ASOCIERII MUNICIPIULUI TULCEA PRIN CONSILIUL LOCAL AL MUNICIPIULUI TULCEA CU JUDEțUL TULCEA PRIN CONSILIUL JUDEțEAN TULCEA ŞI DIRECŢIA DE SĂNĂTATE PUBLICĂ JUDEŢEANĂ TULCEA ÎN VEDEREA PROMOVĂRII ŞI REALIZĂRII INVESTIŢIEI „CONSTRUIRE ANSAMBLU DE LOCUINŢE PENTRU TINERI SPECIALIŞTI DIN DOMENIUL SĂNĂTĂŢII, ÎN REGIM DE ÎNCHIRIERE”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/37.pdf",
+     "sha256": "635c01ad9aa41008ed6955096fb0d6c649c520683dcaa949fd294aaabfeffd06"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-42-2014",
+   "path": "local/tulcea/tulcea/2014/42",
+   "short": "HCL Tulcea nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 42/2014 PRIVIND CONCESIONAREA PRIN LICITATIE A TERENULUI IN SUPRAFATA DE 656 MP SITUAT IN TULCEA, STR.BARAJULUI FN, PENTRU DEPOZIT DE MATERIALE DE CONSTRUCTII SI APROBAREA: STUDIULUI DE OPORTUNITATE, CAIETULUI DE SARCINI, INSTRUCTIUNILOR DE PARTICIPARE LA LICITATIE",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/42.pdf",
+     "sha256": "9986619ce222b1c11aafce9e82e17d3165abe5a26028c7ac6842b3ac6f0f306d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-43-2014",
+   "path": "local/tulcea/tulcea/2014/43",
+   "short": "HCL Tulcea nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 43/2014 PRIVIND INVENTARIEREA IN DOMENIUL PRIVAT AL MUNICIPIULUI A TERENULUI IN SUPRAFATA DE 9,64 MP, SITUAT IN TULCEA, STR. PODGORIILOR, NR. 14, BL. 10, SC. B, AP. 1, CONCESIONAREA ACESTUIA PRIN INCREDINTARE DIRECTA PENTRU CONSTRUIRE BALCON SI APROBAREA PUD “CONCESIONARE TEREN PENTRU CONSTRUIRE SI INCHIDERE BALCON”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/43.pdf",
+     "sha256": "8e4940238dd321e767c7c687aff738b1dad42f63dcb782453de1604f508268c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-55-2014",
+   "path": "local/tulcea/tulcea/2014/55",
+   "short": "HCL Tulcea nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 55/2014 PRIVIND RECTIFICAREA BUGETULUI LOCAL PE ANUL 2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/55.pdf",
+     "sha256": "2318b2e57edf9fe5d4375f2e169853d2dd612656dc0372c9ca40dd2a429d7657"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-58-2014",
+   "path": "local/tulcea/tulcea/2014/58",
+   "short": "HCL Tulcea nr. 58/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 58/2014 PRIVIND ACORDAREA DREPTURILOR DE HRANĂ PENTRU PERSONALUL DIRECŢIEI DE POLIŢIE LOCALĂ TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/58.pdf",
+     "sha256": "2b0489dfb805e668e43863d84d3851f7c88a2bec19d02d45c2d97fc20f1d1ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-59-2014",
+   "path": "local/tulcea/tulcea/2014/59",
+   "short": "HCL Tulcea nr. 59/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 59/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/59.pdf",
+     "sha256": "a61956c96c51e77b08b77c191256e9639e21537f0611c8d435cc79467a17114c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-6-2014",
+   "path": "local/tulcea/tulcea/2014/6",
+   "short": "HCL Tulcea nr. 6/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 6/2014 PRIVIND APROBAREA BUGETULUI DE VENITURI SI CHELTUIELI PE ANUL 2014 AL DIRECTIEI DE INTRETINERE SI ADMINISTRARE PATRIMONIU TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-01-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/6.pdf",
+     "sha256": "b80819b068e636673255ad20ee71565bea097e68ee0715acdbed120e36e3cbea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-60-2014",
+   "path": "local/tulcea/tulcea/2014/60",
+   "short": "HCL Tulcea nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 60/2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/60.pdf",
+     "sha256": "d0376b42bcfba9d2e09432b87c054f255e076860934895240c85f9c288dbd3a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-65-2014",
+   "path": "local/tulcea/tulcea/2014/65",
+   "short": "HCL Tulcea nr. 65/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 65/2014 PRIVIND APROBAREA ORGANIGRAMEI, STATULUI DE FUNCTII SI DE PERSONAL ALE DIRECTIEI DE INTRETINERE SI ADMINISTRARE PATRIMONIU TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/65.pdf",
+     "sha256": "27c93077c91f83b17e66d8463eec627d5da611aa0dbf63bf7005d1419854f9ee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-66-2014",
    "path": "local/tulcea/tulcea/2014/66",
    "short": "HCL Tulcea nr. 66/2014",
@@ -74,6 +854,51 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2014/66.pdf",
      "sha256": "660d7f3d21310980c49fddaa8a012e9acef21cba66bef5cfeb8dc5fcccce0193"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-92-2014",
+   "path": "local/tulcea/tulcea/2014/92",
+   "short": "HCL Tulcea nr. 92/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 92/2014 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/92-2.pdf",
+     "sha256": "3b5d6755c144d04af039d48c3acd9687178f02a950f25a79110be114828f10ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-94-2014",
+   "path": "local/tulcea/tulcea/2014/94",
+   "short": "HCL Tulcea nr. 94/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 94/2014 Privind rectificarea bugetului de venituri si cheltuieli pe anul 2014 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/94-2.pdf",
+     "sha256": "aebeda623fcb4a3d78a60f7e3b62bb747cb95f3e93fafcf08f49da580487db2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-99-2014",
+   "path": "local/tulcea/tulcea/2014/99",
+   "short": "HCL Tulcea nr. 99/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 99/2014 Privind aprobarea casării unor bunuri-mijloace fixe scoase din funcţiune, care aparţin domeniului privat al Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/99-2.pdf",
+     "sha256": "4893f968233139ba5508089bd78fc0fc6efe4b6839e9cd9763007755405bca1b"
     }
    ]
   }

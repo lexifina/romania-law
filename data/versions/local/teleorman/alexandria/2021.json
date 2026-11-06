@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2021",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-191-2021",
+   "path": "local/teleorman/alexandria/2021/191",
+   "short": "HCL Alexandria nr. 191/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 191/2021",
+   "url": "https://alexandria.ro/priveste-abrogarea-partiala-a-hotararii-consiliului-local-al-municipiului-alexandria-nr-110-23-aprilie-2021-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-a-unor-terenuri/",
+   "versions": [
+    {
+     "from": "2021-07-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-191.pdf",
+     "sha256": "641d3630918952f01856f32e509409b7dedf7e9c0ea95c9787832c79de26524b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-199-2021",
+   "path": "local/teleorman/alexandria/2021/199",
+   "short": "HCL Alexandria nr. 199/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 199/2021 privind aprobarea garantării finanțării rambursabile interne în baza garanțiilor proprii, în valoare de 6.800.000 lei pentru o perioada de 10 ani cu perioada de grație de 2 ani, în vederea asigurării cofinanțării cheltuielilor neeligibile pentru proiecte finanțate din fonduri structurale POR 2014-2020 Consiliul Local al Municipiului Alexandria , județul Teleorman întrunit în sedința ordinară , ava",
+   "url": "https://alexandria.ro/hotararea-nr-199-din-18-08-2021-privind-aprobarea-garantarii-finantarii-rambursabile-interne-in-baza-garantiilor-proprii-in-valoare-de-6-800-000-lei-pentru-o-perioada-de-10-ani-cu-perioada-de-gratie/",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-199_18.08.2021.pdf",
+     "sha256": "2acb3a162f728502480d3b582df103bfa63ae3bfa2436832d865fb078bd8bd62"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-206-2021",
+   "path": "local/teleorman/alexandria/2021/206",
+   "short": "HCL Alexandria nr. 206/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 206/2021",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-anexei-nr-1-la-hcl-nr-66-29-03-2021-cu-privire-la-aprobarea-criteriilor-pentru-repartizarea-locuintelor-din-fondul-locativ-de-stat-al-municipiul-alexandria-pentru/",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-206_18.08.2021.pdf",
+     "sha256": "44583f17a511152c0d050771d5f17d1518b2417e4b2486cb2325a2de0d786d67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-207-2021",
+   "path": "local/teleorman/alexandria/2021/207",
+   "short": "HCL Alexandria nr. 207/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 207/2021",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-anexei-nr-1-la-hcl-nr-65-29-03-2021-cu-privire-la-aprobarea-criteriilor-pentru-repartizarea-locuintelor-sociale-pentru-anul-2022-din-municipiul-alexandria-si-cons/",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-207_18.08.2021.pdf",
+     "sha256": "76b32905dea4f485823b5761a93c91157b585a992981df0010a23fbe67b1e139"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-208-2021",
+   "path": "local/teleorman/alexandria/2021/208",
+   "short": "HCL Alexandria nr. 208/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 208/2021",
+   "url": "https://alexandria.ro/priveste-modificarea-pozitiei-3-din-anexa-hcl-nr-95-30-aprilie-2009-privind-declararea-ca-bunuri-apartinand-domeniului-privat-de-interes-local-al-municipiului-alexandria-a-unor-unitati-locative-i/",
+   "versions": [
+    {
+     "from": "2021-08-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-208_18.08.2021.pdf",
+     "sha256": "2c7b99a0404e17f13ad8ced0cdff9b390a50bfc148aadc699117d25d5ebf87ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-224-2021",
+   "path": "local/teleorman/alexandria/2021/224",
+   "short": "HCL Alexandria nr. 224/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 224/2021 Pentru modificarea anexei la HCL nr. 6/29.01.2021 privind organizarea rețelei școlare a unităților de învățământ preuniversitar din municipiul Alexandria pentru anul școlar 2021-2022",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-6-29-01-2021-privind-organizarea-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-din-municipiul-alexandria-pentru-anul-scolar-2021-2022/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-224_29.09.2021.pdf",
+     "sha256": "c1b101cc6dd20dc739d4582ff72d56cc0402d4858f2d3f6baf200910d66e6035"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-227-2021",
+   "path": "local/teleorman/alexandria/2021/227",
+   "short": "HCL Alexandria nr. 227/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 227/2021",
+   "url": "https://alexandria.ro/priveste-aprobarea-suspendarii-hcl-nr-257-2018-privind-aprobarea-registrului-local-al-spatiilor-verzi-din-municipiului-alexandria-incepand-cu-data-de-30-09-2021-pana-la-actualizarea-acestuia/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-227.pdf",
+     "sha256": "0b6961e391a0e57cbf71771e37e850d173a514084417966db50f9499b12670bf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-232-2021",
+   "path": "local/teleorman/alexandria/2021/232",
+   "short": "HCL Alexandria nr. 232/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 232/2021",
+   "url": "https://alexandria.ro/priveste-aprobarea-modificarii-anexei-nr-3-la-hcl-nr-105-23-04-2021-privind-aprobarea-organigramei-statului-de-functii-si-a-regulamentului-de-organizare-si-functionare-ale-clubului-sportiv-municip/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-232_29.09.2021.pdf",
+     "sha256": "f59215179331c13e043d510f551bdd8d3b6249ef749da7e6b3b25c214147581c"
+    }
+   ]
+  }
+ ]
+}

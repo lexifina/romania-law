@@ -31,6 +31,51 @@
      "sha256": "63b5ce4cfaf9ca70068619694beaf72444937f96e4aa88ba9fd86694bbcb43a5"
     }
    ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-248-2011",
+   "path": "local/teleorman/alexandria/2011/248",
+   "short": "HCL Alexandria nr. 248/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 248/2011",
+   "url": "https://alexandria.ro/priveste-modificarea-anexi-la-hcl-nr-207-din-29-septembrie-2011-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+   "versions": [
+    {
+     "from": "2011-10-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_248_din_26_oct_2011.pdf",
+     "sha256": "45191661d62e02d3441522624199ed55b142f4dbb095e4aba36b6c1fbfb1d43a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-254-2011",
+   "path": "local/teleorman/alexandria/2011/254",
+   "short": "HCL Alexandria nr. 254/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 254/2011",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-19-10-02-2011-privind-aprobarea-bugetului-general-al-municipiului-alexandria-pe-anul-2011/",
+   "versions": [
+    {
+     "from": "2011-11-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_254_din_29_nov_20111.pdf",
+     "sha256": "d128dedf2e08e0dd380e1fb4ca01dbd8f2f78aba54113ca925fa3699c1e1c316"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-276-2011",
+   "path": "local/teleorman/alexandria/2011/276",
+   "short": "HCL Alexandria nr. 276/2011",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 276/2011 privind infiintarea Comisiei de avizare a cererilor de organizare a adunarilor publice din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-revocarea-hcl-nr-251-14-11-2011-privind-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2011-12-21",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_276_din_21_dec_2011.pdf",
+     "sha256": "393839f9f9fc5289a58985412015125d969fd05fa20b40092bb729f6259598bb"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/tulcea/tulcea/2005",
+"acts": [
+{
+"slug": "hcl-tulcea--tulcea-214-2005",
+"path": "local/tulcea/tulcea/2005/214",
+"kind": "local",
+"year": "2005",
+"number": "214",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 214/2005 privind concesionarea prin incredintare directa a unor terenuri din domeniul privat al municipiului Tulcea, situate in Zona Est",
+"short": "HCL Tulcea nr. 214/2005",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2005-06-30",
+"latest": "2005-06-30",
+"portal": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+"council": "tulcea/tulcea",
+"council_name": "Consiliul Local al Municipiului Tulcea",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

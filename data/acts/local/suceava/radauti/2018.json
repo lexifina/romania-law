@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/suceava/radauti/2018",
+"acts": [
+{
+"slug": "hcl-suceava--radauti-273-2018",
+"path": "local/suceava/radauti/2018/273",
+"kind": "local",
+"year": "2018",
+"number": "273",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 273/2018",
+"short": "HCL Rădăuți nr. 273/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://primariaradauti.ro/wp-content/uploads/2025/11/HCL-nr.-273-din-20.12.2018.pdf",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

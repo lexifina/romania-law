@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-teleorman--alexandria-39-2013",
+"path": "local/teleorman/alexandria/2013/39",
+"kind": "local",
+"year": "2013",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 39/2013 privind organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local al municipiului Alexandria",
+"short": "HCL Alexandria nr. 39/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-21",
+"latest": "2013-02-21",
+"portal": "https://alexandria.ro/priveste-modificarea-hcl-nr-6-21-06-2012-privind-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-56-2013",
+"path": "local/teleorman/alexandria/2013/56",
+"kind": "local",
+"year": "2013",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 56/2013",
+"short": "HCL Alexandria nr. 56/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-02-27",
+"latest": "2013-02-27",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-118-31-05-2011-privind-aprobarea-regulamentului-de-convietuire-sociala-in-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-teleorman--alexandria-57-2013",
 "path": "local/teleorman/alexandria/2013/57",
 "kind": "local",
@@ -44,6 +88,72 @@
 "council_name": "Consiliul Local al Municipiului Alexandria",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-115-2013",
+"path": "local/teleorman/alexandria/2013/115",
+"kind": "local",
+"year": "2013",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 115/2013",
+"short": "HCL Alexandria nr. 115/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-04-29",
+"latest": "2013-04-29",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-nr-4-la-hcl-nr-65-31-03-2011-de-stabilire-a-modalitatii-de-delegare-a-gestiunii-si-atribuirea-controlului-de-delegare-gestiunii-catre-sc-piete-si-targuri-srl/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-307-2013",
+"path": "local/teleorman/alexandria/2013/307",
+"kind": "local",
+"year": "2013",
+"number": "307",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 307/2013 cu privire la infiintarea comisiei de avizare a cererilor de organizare a adunarilor publice din municipiul Alexandria",
+"short": "HCL Alexandria nr. 307/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-10-30",
+"latest": "2013-10-30",
+"portal": "https://alexandria.ro/priveste-modificarea-hcl-nr-141-din-31-octombrie-2007-cu-privire-la-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-362-2013",
+"path": "local/teleorman/alexandria/2013/362",
+"kind": "local",
+"year": "2013",
+"number": "362",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 362/2013 cu privire la desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+"short": "HCL Alexandria nr. 362/2013",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2013-12-19",
+"latest": "2013-12-19",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-302-din-30-octombrie-2013-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

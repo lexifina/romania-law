@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/teleorman/rosiorii-de-vede/2025",
+"acts": [
+{
+"slug": "hcl-teleorman--rosiorii-de-vede-31-2025",
+"path": "local/teleorman/rosiorii-de-vede/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 31/2025 privind aprobarea documentației și a indicatorilor tehnico-economici pt. obiectivul de investiții Natura urbană",
+"short": "HCL Roșiorii de Vede nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-20",
+"latest": "2025-02-20",
+"portal": null,
+"council": "teleorman/rosiorii-de-vede",
+"council_name": "Consiliul Local al Municipiului Roșiorii de Vede",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

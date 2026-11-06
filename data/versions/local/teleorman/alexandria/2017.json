@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2017",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-130-2017",
+   "path": "local/teleorman/alexandria/2017/130",
+   "short": "HCL Alexandria nr. 130/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 130/2017",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-ii-la-hcl-nr-199-din-28-decembrie-2016-privind-aprobarea-organigramei-a-statului-de-functii-si-a-numarului-de-personal-ale-aparatului-de-speci/",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-130_11-mai-2017.pdf",
+     "sha256": "550fb2ba0a49cb0db01119fa3cff384dc137342fddd042ac012912527bf7828b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-185-2017",
+   "path": "local/teleorman/alexandria/2017/185",
+   "short": "HCL Alexandria nr. 185/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 185/2017",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-118-31-05-2011-privind-aprobarea-regulamentului-de-convietuire-sociala-in-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2017-06-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-185_28-iun-2017.pdf",
+     "sha256": "4bcc7b99d1473e30b7505ed1e2afe557cc6513e64e6edd22e343e034e5d1b47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-82-2017",
+   "path": "local/teleorman/alexandria/2017/82",
+   "short": "HCL Alexandria nr. 82/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 82/2017",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-7-26-01-2017-privind-asocierea-municipiului-alexandria-prin-consiliul-local-al-municipiului-alexandria-cu-sc-administratia-strazilorconstructii/",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-82_15-mar-2017.pdf",
+     "sha256": "d71a1d05e384da4f9e429ac0d79e1ca1f08978b4511421f30613cdba5fbdd858"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-85-2017",
+   "path": "local/teleorman/alexandria/2017/85",
+   "short": "HCL Alexandria nr. 85/2017",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 85/2017",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-anexei-nr-2-a-hcl-nr-16-26-01-2017-privind-aprobarea-vanzarii-in-rate-a-unitatii-locative-nr-21-din-blocul-704c-sc-a-str-bucuresti/",
+   "versions": [
+    {
+     "from": "2017-03-15",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-85_15-mar-2017.pdf",
+     "sha256": "47e6ca99c0e667b4bfc58bccd7aac4ba471330cd596f685c5165a8fd9465b45f"
+    }
+   ]
+  }
+ ]
+}

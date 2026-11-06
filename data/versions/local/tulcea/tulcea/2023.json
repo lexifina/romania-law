@@ -16,6 +16,36 @@
      "sha256": "ec5829b31cd88e29b8239c3b39e6e60943714a2d9e0cbbd9ec0ef7083475a74f"
     }
    ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-4-2023",
+   "path": "local/tulcea/tulcea/2023/4",
+   "short": "HCL Tulcea nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 4/2023 PRIVIND ÎNREGISTRAREA, EVIDENȚA ȘI RADIEREA VEHICULELOR PENTRU CARE EXISTĂ OBLIGATIVITATEA ÎNREGISTRĂRII ÎN MUNICIPIUL TULCEA Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședință ordinară la data de 26.01.2023",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2025/08/HCL-nr.-4-din-26.01.2023.pdf",
+   "versions": [
+    {
+     "from": "2023-01-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2025/08/HCL-nr.-4-din-26.01.2023.pdf",
+     "sha256": "7ac53d6f9e53f3b56877b0a0449a23a18c0808326a4d6983792b47b8de506f7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-40-2023",
+   "path": "local/tulcea/tulcea/2023/40",
+   "short": "HCL Tulcea nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 40/2023",
+   "url": "https://www.primariatulcea.ro/wp-content/uploads/2023/06/HOTARAREA_NR._40-28.02.2023_compressed.pdf",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2023/06/HOTARAREA_NR._40-28.02.2023_compressed.pdf",
+     "sha256": "539c911a802ec190cdfb739a45cce67a97100bf212d7d50256fb29318ebc2943"
+    }
+   ]
   }
  ]
 }

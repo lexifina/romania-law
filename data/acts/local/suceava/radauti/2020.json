@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/suceava/radauti/2020",
+"acts": [
+{
+"slug": "hcl-suceava--radauti-87-2020",
+"path": "local/suceava/radauti/2020/87",
+"kind": "local",
+"year": "2020",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 87/2020",
+"short": "HCL Rădăuți nr. 87/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-27",
+"latest": "2020-05-27",
+"portal": "https://primariaradauti.ro/wp-content/uploads/2025/11/Hcl-nr.-87-din-27.05.2020.pdf",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-suceava--radauti-230-2020",
+"path": "local/suceava/radauti/2020/230",
+"kind": "local",
+"year": "2020",
+"number": "230",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Rădăuți nr. 230/2020",
+"short": "HCL Rădăuți nr. 230/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://primariaradauti.ro/wp-content/uploads/2025/11/HCL-nr.-230-din-26.11.2020.pdf",
+"council": "suceava/radauti",
+"council_name": "Consiliul Local al Municipiului Rădăuți",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2015",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-9-2015",
+"path": "local/teleorman/alexandria/2015/9",
+"kind": "local",
+"year": "2015",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 9/2015 cu privire la desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+"short": "HCL Alexandria nr. 9/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-01-30",
+"latest": "2015-01-30",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-354-din-26-noiembrie-2014-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-130-2015",
+"path": "local/teleorman/alexandria/2015/130",
+"kind": "local",
+"year": "2015",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 130/2015",
+"short": "HCL Alexandria nr. 130/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-04-29",
+"latest": "2015-04-29",
+"portal": "https://alexandria.ro/priveste-modificarea-hcl-nr-141-din-31-octombrie-2007-cu-privire-la-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria-3/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-151-2015",
+"path": "local/teleorman/alexandria/2015/151",
+"kind": "local",
+"year": "2015",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 151/2015",
+"short": "HCL Alexandria nr. 151/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-05-25",
+"latest": "2015-05-25",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-92-31-10-2008-privind-aprobarea-statutului-municipiului-alexandria-2/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-158-2015",
+"path": "local/teleorman/alexandria/2015/158",
+"kind": "local",
+"year": "2015",
+"number": "158",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 158/2015",
+"short": "HCL Alexandria nr. 158/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-05-25",
+"latest": "2015-05-25",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-1-din-08-ianuarie-2015-privind-stabilirea-retelei-unitatilor-de-invatamnat-preuniversitar-din-municipiul-alexandria-pentru-anul-scolar-2015-2016/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-360-2015",
+"path": "local/teleorman/alexandria/2015/360",
+"kind": "local",
+"year": "2015",
+"number": "360",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 360/2015",
+"short": "HCL Alexandria nr. 360/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-11-25",
+"latest": "2015-11-25",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-nr-1-si-a-anexei-nr-2-la-contractul-de-delegare-a-gestiunii-catre-sc-serviciul-sanitar-veterinar-srl-alexandria-aprobat-prin-hcl-nr-87-12-04-2011/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

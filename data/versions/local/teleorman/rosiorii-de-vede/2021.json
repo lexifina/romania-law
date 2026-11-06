@@ -3,6 +3,186 @@
  "shard": "local/teleorman/rosiorii-de-vede/2021",
  "acts": [
   {
+   "slug": "hcl-teleorman--rosiorii-de-vede-1-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/1",
+   "short": "HCL Roșiorii de Vede nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 1/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%201%20din%2022.%2001.%202021%20-%20aprobarea%20conturilor%20de%20executie%20ale%20bugetului%20local,%20bugetului%20institutiilor%20publice%20si%20activitatilor%20finantate%20integral%20sau%20partial.pdf",
+     "sha256": "c9682b925141183bddba14e8d6b91d0d23535661ee95454134f31d0ba6a87abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-19-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/19",
+   "short": "HCL Roșiorii de Vede nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 19/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2019%20din%2025.%2002.%202021%20-%20%20inchirierea%20suprafetei%20de%2043.67%20mp%20si%20modificarea%20contractului%20de%20inchiriere%20nr.%205764%20din%2014.03.2008%20-%20str.%20Oltului,%20nr.%2035.pdf",
+     "sha256": "a935db7dc17df4a4b870a95a002e49e18c6612ff6339197919e7b29e987592e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-2-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/2",
+   "short": "HCL Roșiorii de Vede nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 2/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%202%20din%2022.%2001.%202021-%20cesiunea%20contractului%20de%20concesiune%20nr.%20141%20din%2006.08.2008.pdf",
+     "sha256": "03b02d86c2933e2d8eb243fb6ab3dd08cea272e241ef8e21f1d0ecf1f06e5c51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-20-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/20",
+   "short": "HCL Roșiorii de Vede nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 20/2021 privind închirierea suprafetei de 24.48 mp și modificarea contractului de inchiriere nr. 7121 din 09.04.2019 - str. Oltului, nr. 35.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2020%20din%2025.%2002.%202021%20-%20privind%20%C3%AEnchirierea%20suprafetei%20de%2024.48%20mp%20%C8%99i%20modificarea%20contractului%20de%20inchiriere%20nr.%207121%20din%2009.04.2019%20%20-%20str.%20Oltului,%20nr.%2035.pdf",
+     "sha256": "0feb5583b38c793c37d250b367a6990289cbbc1a716c8fd0155542575d3c9e55"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-24-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/24",
+   "short": "HCL Roșiorii de Vede nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 24/2021 pentru anul 2021 la contractele de inchiriere ce au ca obiect locuinte pentru tineri destinate inchirierii, construite de ANL.pdf",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2024%20din%2025.%2002.%202021%20-%20stabilirea%20chiriilor%20pentru%20anul%202021%20la%20contractele%20de%20inchiriere%20ce%20au%20ca%20obiect%20locuinte%20pentru%20tineri%20destinate%20inchirierii,%20construite%20de%20ANL.pdf",
+     "sha256": "5f6f500466c6482e4d8a2df5be80f27a1d218076d0842c66cc7db70c30de5f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-26-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/26",
+   "short": "HCL Roșiorii de Vede nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 26/2021 pentru activitatile specifice serviciului de salubrizare a municipiului.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2026%20din%2025.%2002.%202021%20-%20ajustarea%20tarifelor%20practicate%20de%20SC%20URBIS%20SERVCONSTRUCT%20SA%20pentru%20activitatile%20specifice%20serviciului%20de%20salubrizare%20a%20municipiului.pdf",
+     "sha256": "8023788b6f6a5e8684281434c825a960efc2d3ec18b853afb7a0c05f4ca7afa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-27-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/27",
+   "short": "HCL Roșiorii de Vede nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 27/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2027%20din%2025.%2002.%202021%20-%20primirea%20in%20folosinta%20gratuita%20a%20CL%20al%20municipiului%20a%20unor%20bunuri,%20proprietate%20privata%20a%20judetului%20-%20Sist.%20Integrat%20de%20Management%20al%20Deseurilor.pdf",
+     "sha256": "3b50a3235682a00ff26be722e8942b7b83b83a4c2e342cbbb59e8581ff9d2fa8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-29-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/29",
+   "short": "HCL Roșiorii de Vede nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 29/2021 Privind atribuirea destinației și de “Muzeu Virtual” spațiului în suprafață de 93,15 mp din cadrul Centrului Cultural situat în str. Mărășești, nr. 41, imobil proprietate publică a UAT municipiul Roșiori de Vede Consiliul Local al Municipiului Rosiorii de Vede, Județul Teleorman întrunit în ședință ordinară, astăzi 25.02.2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2029%20din%2025.%2002.%202021%20-%20atribuirea%20destina%C8%9Biei%20%C8%99i%20de%20Muzeu%20Virtual%20spa%C8%9Biului%20%C3%AEn%20suprafa%C8%9B%C4%83%20de%2093,15%20mp%20din%20cadrul%20Centrului%20Cultural.pdf",
+     "sha256": "ff18ef921b3c4d4b726b3ec084fba2adf909dc23c6a1e6fcea23c04c7bfed3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-30-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/30",
+   "short": "HCL Roșiorii de Vede nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 30/2021 pentru imbunatatirea conditiilor de viata.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2030%20din%2025.%2002.%202021%20-%20constituirea%20grupului%20de%20lucru%20in%20vederea%20identificarii%20si%20gestionarii%20asezarilor%20informale%20-%20pentru%20imbunatatirea%20conditiilor%20de%20viata.pdf",
+     "sha256": "22600fe53ced15a476582396b1d492acbb11cc64e6e104333188d9e6282a7750"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-33-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/33",
+   "short": "HCL Roșiorii de Vede nr. 33/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 33/2021 pentru admiterea persoanelor vârstnice în Căminul de Bătrâni Sf. Teodor.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2033%20din%2025.%2002.%202021%20-%20actualizarea%20Manualului%20de%20proceduri%20pentru%20admiterea%20persoanelor%20v%C3%A2rstnice%20%C3%AEn%20C%C4%83minul%20de%20B%C4%83tr%C3%A2ni%20Sf.%20Teodor.pdf",
+     "sha256": "bcf408d5fa089b4eb8ed799785d970cefaf0d7b02f343a3e3bd4c2918d20582e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-34-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/34",
+   "short": "HCL Roșiorii de Vede nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 34/2021 privind aprobsarea structurii organizatorice de personal, a organigramei si statului de functii.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2034%20din%2025.%2002.%202021%20-%20modificarea%20HCL%20nr.%2011530.05.2017%20privind%20aprobsarea%20structurii%20organizatorice%20de%20personal,%20a%20organigramei%20si%20statului%20de%20functii.pdf",
+     "sha256": "c930e16f27cb152f7a40ec10c83060c4eca1032d2478c9e5499f109c595d56ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-38-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/38",
+   "short": "HCL Roșiorii de Vede nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 38/2021 privind prelungirea duratei valabilitatii bunurilor proprietate publică catre Spiatalul Caritas.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2038%20din%2025%20martie%202021%20privind%20prelungirea%20duratei%20valabilitatii%20bunurilor%20proprietate%20public%C4%83%20catre%20Spiatalul%20Caritas.pdf",
+     "sha256": "0464dd91d6d960c3fb5ceadb712100207f89b02281d5e330545a154a81fe0b34"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--rosiorii-de-vede-39-2021",
    "path": "local/teleorman/rosiorii-de-vede/2021/39",
    "short": "HCL Roșiorii de Vede nr. 39/2021",
@@ -18,6 +198,216 @@
    ]
   },
   {
+   "slug": "hcl-teleorman--rosiorii-de-vede-40-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/40",
+   "short": "HCL Roșiorii de Vede nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 40/2021 privind HCL nr. 69 din 31. 05. 2018.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2040%20din%2025%20martie%202021%20privind%20HCL%20nr.%2069%20din%2031.%2005.%202018.pdf",
+     "sha256": "a7109e62ce6e6e9edba1d933d0298a6d0bfe28e9f2dea0d03006032a73347f44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-41-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/41",
+   "short": "HCL Roșiorii de Vede nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 41/2021 privind reglementarea perioadei în care este datorată redevența conf. contractelor de delegare a gestiunii serviciului de transport gratuit elevi - SC",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2041%20din%2025%20martie%202021%20privind%20reglementarea%20perioadei%20%C3%AEn%20care%20este%20datorat%C4%83%20redeven%C8%9Ba%20conf.%20contractelor%20de%20delegare%20a%20gestiunii%20serviciului%20de%20transport%20gratuit%20elevi%20-%20SC%20Transurbana.pdf",
+     "sha256": "331b89f00b2fc96b547f5bb60cc3e1d21dd9ab26a4c18b00a2f053b63f81aa77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-42-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/42",
+   "short": "HCL Roșiorii de Vede nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 42/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+     "sha256": "9087ae74e8419e14e09ec5b490db7885c13d03836d261216231038e5a9b1c73f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-43-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/43",
+   "short": "HCL Roșiorii de Vede nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 43/2021 privind actualizarea HCL nr. 24 din 25. 02. 2021 referitoare la stabilirea chiriilor pe anul 2021.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2043%20din%2025%20martie%202021%20privind%20actualizarea%20HCL%20nr.%2024%20din%2025.%2002.%202021%20referitoare%20la%20stabilirea%20chiriilor%20pe%20anul%202021.pdf",
+     "sha256": "a246a71b3908f0c847d4f764626bf7c419d08d24906335472ffdc218d8f23a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-44-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/44",
+   "short": "HCL Roșiorii de Vede nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 44/2021 privind actualizarea categoriilor de venituri luate în calcul la stabilirea venitului lunar pe membru de familie pentru îngrijirea persoanelor varstni",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2044%20din%2025%20martie%202021%20privind%20actualizarea%20categoriilor%20de%20venituri%20luate%20%C3%AEn%20calcul%20la%20stabilirea%20venitului%20lunar%20pe%20membru%20de%20familie%20pentru%20%C3%AEngrijirea%20persoanelor%20varstnice%20%20la%20Caminul%20de%20batr.pdf",
+     "sha256": "77b31fd5a53abe113942e313874b306c823aea492cb9eebbcc19bf5fe007e6c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-45-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/45",
+   "short": "HCL Roșiorii de Vede nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 45/2021 privind actualizarea Regulamentului de Organizare și Funcționare al Căminului de Bătrâni Sf. Teodor.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2045%20din%2025%20martie%202021%20privind%20actualizarea%20Regulamentului%20de%20Organizare%20%C8%99i%20Func%C8%9Bionare%20al%20C%C4%83minului%20de%20B%C4%83tr%C3%A2ni%20Sf.%20Teodor.pdf",
+     "sha256": "b9b4f56b1dfcf2bc69342196ae52a0c567bf6c7755698abb3e90c6df60fbcd6d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-46-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/46",
+   "short": "HCL Roșiorii de Vede nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 46/2021 privind actualizarea Manualului de de proceduri pentru admiterea persoanelor fără adăpost în Adăpostul de Noapte.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2046%20din%2025%20martie%202021%20privind%20actualizarea%20Manualului%20de%20de%20proceduri%20pentru%20admiterea%20persoanelor%20f%C4%83r%C4%83%20ad%C4%83post%20%C3%AEn%20Ad%C4%83postul%20de%20Noapte.pdf",
+     "sha256": "d7c66775cb74a7962177ea700ef833ddc68e5a31e2df697d4e6e74d9ef4ef671"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-47-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/47",
+   "short": "HCL Roșiorii de Vede nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 47/2021 privind actualizarea Regulamentului de Organizare și Funcționare al Adăpostului de Noapte.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2047%20din%2025%20martie%202021%20privind%20actualizarea%20Regulamentului%20de%20Organizare%20%C8%99i%20Func%C8%9Bionare%20al%20Ad%C4%83postului%20de%20Noapte.pdf",
+     "sha256": "002e6eab379101e457c779edaf2469d2ffba5f93dc0f850f1db7041840c47b4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-48-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/48",
+   "short": "HCL Roșiorii de Vede nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 48/2021 privind actualizarea Manualului de proceduri pentru asistarea la Cantina de Ajutor Social.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2048%20din%2025%20martie%202021%20privind%20actualizarea%20Manualului%20de%20proceduri%20pentru%20asistarea%20la%20Cantina%20de%20Ajutor%20Social.pdf",
+     "sha256": "9223469d198da5a7e649209546460093e43d3a052698a778bac966343522e0aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-49-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/49",
+   "short": "HCL Roșiorii de Vede nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 49/2021 privind actualizarea Regulamentului de Organizare si Functionare a Serviciului social de zi - Cantina de Ajutor Social.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2049%20din%2025%20martie%202021%20privind%20actualizarea%20Regulamentului%20de%20Organizare%20si%20Functionare%20a%20Serviciului%20social%20de%20zi%20-%20Cantina%20de%20Ajutor%20Social.pdf",
+     "sha256": "30d5facd71c39be9ba37dcde575dea31b705b2e0655612b366fbaf9fcdff6bef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-5-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/5",
+   "short": "HCL Roșiorii de Vede nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 5/2021 referitoare la darea in folosinta gratuita pe termen limitat catre SC Urbis Servconstruct SA a unui teren.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%205%20din%2022.%2001.%202021%20-%20modificarea%20H.C.L.%20nr.%202023.02.2017%20referitoare%20la%20darea%20in%20folosinta%20gratuita%20pe%20termen%20limitat%20catre%20SC%20Urbis%20Servconstruct%20SA%20a%20unui%20teren.pdf",
+     "sha256": "7e02822ac126e8ee55ad45fbaf97dbbed5e3a032ecaf0f17e72d5c9180085074"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-51-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/51",
+   "short": "HCL Roșiorii de Vede nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 51/2021 privind aprobarea Parteneriatului pentru dezvoltare locală cu Federatia Filantropica.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2051%20din%2025%20martie%202021%20privind%20aprobarea%20Parteneriatului%20pentru%20dezvoltare%20local%C4%83%20cu%20Federatia%20Filantropica.pdf",
+     "sha256": "5948ca5d05b70c7613982b65e63bf4a1ed0a8b2d37ff03c49536ed44a0374183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-52-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/52",
+   "short": "HCL Roșiorii de Vede nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 52/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+     "sha256": "349205ab9d1910d3908ed70f08337913385116d515290520f7ea812b85a945e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-54-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/54",
+   "short": "HCL Roșiorii de Vede nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 54/2021 privind modificarea inventarului bunurilor care aparțin domeniului public al municipiului.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2054%20din%2025%20martie%202021%20privind%20modificarea%20inventarului%20bunurilor%20care%20apar%C8%9Bin%20domeniului%20public%20al%20municipiului.pdf",
+     "sha256": "a4c86bc0dc63b2ef472cbb17ca18ec4d56d08d9ea15833aa80ee52453f4409a9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--rosiorii-de-vede-57-2021",
    "path": "local/teleorman/rosiorii-de-vede/2021/57",
    "short": "HCL Roșiorii de Vede nr. 57/2021",
@@ -29,6 +419,381 @@
      "units": 1,
      "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2057%20din%2015.%2004.%202021%20privind%20stabilirea%20impozitelor%20%C8%99i%20taxelor%20locale.pdf",
      "sha256": "26056b8f05291ebb4784542567b074d8adb2980e75287716e31588f8f8d37de7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-6-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/6",
+   "short": "HCL Roșiorii de Vede nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 6/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%206%20din%2022.%2001.%202021%20-modifi.%20H.C.L.%20nr.%20123%20din%202012%20ref.%20la%20darea%20in%20folos.%20grat.%20pe%20term.%20limit.catre%20SC%20Urbis%20%20a%20trei%20imobile%20-%20str.%20Republicii,%20str.%20Vadul%20Vezii,%20Zona%20Abator.pdf",
+     "sha256": "de2aec983b1bf1d4ebad89bea540f21c4bcb2475fb17c2d67c458c66dbbc2479"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-61-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/61",
+   "short": "HCL Roșiorii de Vede nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 61/2021 privind modificarea HCL nr. 124 din 21. 09. 2020 pentru vanzarea prin licitatie publica aunui teren apartinand domeniului privat - Aleea CFR, fn.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-15",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2061%20din%2015.%2004.%202021%20privind%20modificarea%20HCL%20nr.%20124%20din%2021.%2009.%202020%20pentru%20vanzarea%20prin%20licitatie%20publica%20aunui%20teren%20apartinand%20domeniului%20privat%20-%20Aleea%20CFR,%20fn.pdf",
+     "sha256": "6d66af71269803385f7d72d5390a339c06b30fb9415a02ceccd69442f83c3143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-64-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/64",
+   "short": "HCL Roșiorii de Vede nr. 64/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 64/2021 privind aprobarea bugetului de venituri si cheltuieli pentru anul 2021 al SC URBIS SERVCONSTRUCT SA.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2064%20din%2022.04.2021%20privind%20aprobarea%20bugetului%20de%20venituri%20si%20cheltuieli%20pentru%20anul%202021%20al%20SC%20URBIS%20SERVCONSTRUCT%20SA.pdf",
+     "sha256": "7bd767a8f53a15d60a195d2c1178e7ab1ede932c1e99a93a093ca51c989ad8fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-65-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/65",
+   "short": "HCL Roșiorii de Vede nr. 65/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 65/2021 privind aprobarea conturilor de executie ale bugetului local, bugetului institutiilor publice si activitatilor finantate integral sau partial.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2065%20din%2022.%2004.%202021%20privind%20aprobarea%20conturilor%20de%20executie%20ale%20bugetului%20local,%20bugetului%20institutiilor%20publice%20si%20activitatilor%20finantate%20integral%20sau%20partial.pdf",
+     "sha256": "bec94554ac39cf816aeec40d234963f0cb48ad58fc4a6068aa35140a46840390"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-66-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/66",
+   "short": "HCL Roșiorii de Vede nr. 66/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 66/2021 privind aprobarea structurii organizatorice de personal, a organigramei si statului de functii ale aparatului de specialitate al primarului.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2066%20din%2022.%2004.%202021%20privind%20aprobarea%20structurii%20organizatorice%20de%20personal,%20a%20organigramei%20si%20statului%20de%20functii%20ale%20aparatului%20de%20specialitate%20al%20primarului.pdf",
+     "sha256": "193912a15c97ef0efb6d7750b0f81b084ac4d12719c176e2d11f4c2165164f53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-67-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/67",
+   "short": "HCL Roșiorii de Vede nr. 67/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 67/2021 privind cesiunea contractului de inchiriere nr. 3074 din 01. 01. 2001 avand ca obiect inchirierea unei suprafete de 78,20 mp.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2067%20din%2022.%2004.%202021%20privind%20cesiunea%20contractului%20de%20inchiriere%20nr.%203074%20din%2001.%2001.%202001%20%20avand%20ca%20obiect%20inchirierea%20unei%20suprafete%20de%2078,20%20mp.pdf",
+     "sha256": "7dcb6609265c9ec347d7c35ceb4cbcdbd23b1695396e70e7aef28f02a6d6cddd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-68-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/68",
+   "short": "HCL Roșiorii de Vede nr. 68/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 68/2021 privind cesiunea contractului de concesiune nr. 2 din 07. 01. 2002 având ca obievt concesionarea suprafetei de 574 mp.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2068%20din%2022.%2004.%202021%20privind%20cesiunea%20contractului%20de%20concesiune%20nr.%202%20din%2007.%2001.%202002%20av%C3%A2nd%20ca%20obievt%20concesionarea%20suprafetei%20de%20574%20mp.pdf",
+     "sha256": "4931d3addee0f4d43af81e4e6ae0dabf752cc366c089664b1ad508ed360be78e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-7-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/7",
+   "short": "HCL Roșiorii de Vede nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 7/2021 privind asistența socială a persoanelor vârstnice, republicată?, cu modificările și completările ulterioare ; - prevederile Legii nr. 292/2011 a asistenței sociale, în special cele ale art.7, art. 9 alin.(9) și art.11 lit.b) și lit.e) referitoare la acordarea de beneficii de asistență socială pentru prevenirea și combaterea sărăciei și riscului de excluziune socială, coroborate cu cele ale art.15",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%207%20din%2022.%2001.%202021%20-%20modalitatea%20de%20acordare%20a%20beneficiilor%20de%20asisten%C8%9B%C4%83%20social%C4%83%20persoanelor%20v%C3%A2rstnice.pdf",
+     "sha256": "13b935f2d275c83076fbed5de8cf222b787cb7a461391bd91d740e1907732891"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-71-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/71",
+   "short": "HCL Roșiorii de Vede nr. 71/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 71/2021 privind rectificarea bugetului local.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2071%20din%2027%20mai%202021%20privind%20rectificarea%20bugetului%20local.pdf",
+     "sha256": "381f1f8c074ca52ffd63dad88e9600fdaa2dc806b6192cdf6c6427eb4acb90b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-75-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/75",
+   "short": "HCL Roșiorii de Vede nr. 75/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 75/2021 privind asocierea ... cu Asociatia TET Alexandria pentru realizarea in comun a Festivalului de teatru tanar IDEO IDEIS.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2075%20din%2027%20mai%202021%20privind%20asocierea%20...%20cu%20Asociatia%20TET%20Alexandria%20pentru%20realizarea%20in%20comun%20a%20Festivalului%20de%20teatru%20tanar%20IDEO%20IDEIS.pdf",
+     "sha256": "c40845fc955fb9333427909c6cabeb2da9f816e19c6702e5424aee7f824af2b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-76-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/76",
+   "short": "HCL Roșiorii de Vede nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 76/2021 privind aprobarea numarului si cuantumului lunar al burselor acordate elevilor ... pt. sem. al II-lea al anului scolar 2020 - 2021.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2076%20din%2027%20mai%202021%20privind%20aprobarea%20numarului%20si%20cuantumului%20lunar%20al%20burselor%20acordate%20elevilor%20%20...%20pt.%20sem.%20al%20II-lea%20al%20anului%20scolar%202020%20-%202021.pdf",
+     "sha256": "c03700787accc53c2e4ff36bf50bdcc88fe26c2270451b18698f49f24463bbd7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-77-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/77",
+   "short": "HCL Roșiorii de Vede nr. 77/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 77/2021 privind utilizarea unui teren apartinand domeniului public ... pentru Modernizare LEA joasa tensiune si bransamente-PCZ1253.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2077%20din%2027%20mai%202021%20privind%20utilizarea%20unui%20teren%20apartinand%20domeniului%20public%20...%20pentru%20Modernizare%20LEA%20joasa%20tensiune%20si%20bransamente-PCZ1253.pdf",
+     "sha256": "82d571eea231ff5a4abf6fe9cbb4995e855ca2dd035bbb339e1ebdc97ebaaba9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-78-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/78",
+   "short": "HCL Roșiorii de Vede nr. 78/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 78/2021 privind cesiunea contractului de locatiune inregistrat sub nr. 2344 din 01. 07. 2001.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2078%20din%2027%20mai%202021%20privind%20cesiunea%20contractului%20de%20locatiune%20inregistrat%20sub%20nr.%202344%20din%2001.%2007.%202001.pdf",
+     "sha256": "0cfd984d93d875e75f0fc7cc6dcfa162a962f31d479504b73502abaca4a1c322"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-79-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/79",
+   "short": "HCL Roșiorii de Vede nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 79/2021 privind cesiunea contractului de locatiune inregistrat sub nr. 2393 din 20. 08. 2002.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2079%20din%2027%20mai%202021%20privind%20cesiunea%20contractului%20de%20locatiune%20inregistrat%20sub%20nr.%202393%20din%2020.%2008.%202002.pdf",
+     "sha256": "ed6501303268d2f643526231da75ecd897b461b52ae30179366cf3476ab4e5b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-8-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/8",
+   "short": "HCL Roșiorii de Vede nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 8/2021 pentru repartizarea orelor de muncă ce trebuie prestate de către beneficiarii de ajutor.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%208%20din%2022.%2001.%202021%20-%20aprobarea%20Planului%20anual%20de%20ac%C8%9Biuni%20de%20interes%20local%20pentru%20repartizarea%20orelor%20de%20munc%C4%83%20ce%20trebuie%20prestate%20de%20c%C4%83tre%20beneficiarii%20de%20ajutor.pdf",
+     "sha256": "a6c17677e9382f987be296cb9a098ff953507fd9c73bb952ecf05f317d579384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-80-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/80",
+   "short": "HCL Roșiorii de Vede nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 80/2021 privind modificarea inventarului bunurilor care apartin domeniului public.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2080%20din%2027%20mai%202021%20privind%20modificarea%20inventarului%20bunurilor%20care%20apartin%20domeniului%20public.pdf",
+     "sha256": "fd5de1ef9117d076cdecd93ab2a0e3daeec72ec93f4fc61883a59a533591ff2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-81-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/81",
+   "short": "HCL Roșiorii de Vede nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 81/2021 privind inchirierea prin licitatie publica a unui teren apartinand domeniului privat de interes local ... situat in str",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2081%20din%2027%20mai%202021%20privind%20inchirierea%20prin%20licitatie%20publica%20a%20unui%20teren%20apartinand%20domeniului%20privat%20de%20interes%20local%20...%20situat%20in%20str.%20Vadul%20Vezii%20f.n..pdf",
+     "sha256": "1fbbdaa280fc5f578a276eeeaff20a8c0b56345de4448dfb9bb771a383eef852"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-82-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/82",
+   "short": "HCL Roșiorii de Vede nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 82/2021 privind schimbarea destinatiei imobilului Centrul de Zi Vadul Vezii din Adapost Educational de Zi ... in locuinta sociala..pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2082%20din%2027%20mai%202021%20privind%20schimbarea%20destinatiei%20imobilului%20Centrul%20de%20Zi%20Vadul%20Vezii%20din%20Adapost%20Educational%20de%20Zi%20%20...%20in%20locuinta%20sociala..pdf",
+     "sha256": "82c0b6ba5a69583e1d34434018cabd8d665ed6159b58b6f16369376f850bfbff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-84-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/84",
+   "short": "HCL Roșiorii de Vede nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 84/2021",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+     "sha256": "d3c69d6e31e9dee1b5bc44fdd70b11be4babe7edd9f48ebf5233a8a3b0766347"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-85-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/85",
+   "short": "HCL Roșiorii de Vede nr. 85/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 85/2021 privind aprobarea prelungirii contractelor de inchiriere care expira in anul 2021 ale imibilelor ... din fondul locativ.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2085%20din%2027%20mai%202021%20privind%20aprobarea%20prelungirii%20contractelor%20de%20inchiriere%20care%20expira%20in%20anul%202021%20ale%20imibilelor%20...%20din%20fondul%20locativ.pdf",
+     "sha256": "82a5d80b79353e8f771748ec5dc9264895b4957585f05c4524ba936e5442ab50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-86-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/86",
+   "short": "HCL Roșiorii de Vede nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 86/2021 privind modificarea HCl nr. 115 din 30 mai 2017 privind aprobarea structurii organizatorice.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2086%20din%2027%20mai%202021%20privind%20modificarea%20HCl%20nr.%20115%20din%2030%20mai%202017%20privind%20aprobarea%20structurii%20organizatorice.pdf",
+     "sha256": "9236ce466122e576e4b691f1554674c7b5c15e8e7654994d25f2aa4f95b84513"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-88-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/88",
+   "short": "HCL Roșiorii de Vede nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 88/2021 privind aprobarea participarii in cadrul programului South-Muntenia Energy Efficiency for Public Investment Programme.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2088%20din%2027%20mai%202021%20privind%20aprobarea%20participarii%20in%20cadrul%20programului%20South-Muntenia%20Energy%20Efficiency%20for%20Public%20Investment%20Programme.pdf",
+     "sha256": "14dfeb42e3644f4ef85b84d6c836ea3226eb5ae477eff814fe2aa4095696af8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-89-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/89",
+   "short": "HCL Roșiorii de Vede nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 89/2021 privind aprobarea contributiei materiale ... pentru functionarea CS Sporting Rosiori 2008, in anul 2021.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2089%20din%2007%20iunie%202021%20privind%20aprobarea%20contributiei%20materiale%20...%20pentru%20functionarea%20CS%20Sporting%20Rosiori%202008,%20in%20anul%202021.pdf",
+     "sha256": "6442d6ca6211dd917eed6c2fc312f71af26ae51a871bf2c59a8221f03d9ab470"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-9-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/9",
+   "short": "HCL Roșiorii de Vede nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 9/2021 pentru serv.l social prestat prin Căminul de bătrâni Sf",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-01-22",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%209%20din%2022.%2001.%202021%20-%20stabilirea%20standardului%20minim%20de%20cost%20pentru%20serv.l%20social%20prestat%20prin%20C%C4%83minul%20de%20b%C4%83tr%C3%A2ni%20Sf.%20Teodor%20Cod%208730-CR-V-I%20%C8%99i%20a%20costului%20mediu%20lunar%20de.pdf",
+     "sha256": "f6453116c7a456b49426cfb66b1c10c70a0fcc7286e206258c698e0d5185f521"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-90-2021",
+   "path": "local/teleorman/rosiorii-de-vede/2021/90",
+   "short": "HCL Roșiorii de Vede nr. 90/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 90/2021 privind modificarea HCL nr. 115 din 30. 05. 2027 privind aprobarea structurii organizatorice, de personal, a organigramei si a statului de functii.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/hotarari-2021",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/377/HCL%20nr.%2090%20din%2007%20iunie%202021%20privind%20modificarea%20HCL%20nr.%20115%20din%2030.%2005.%202027%20privind%20aprobarea%20structurii%20organizatorice,%20de%20personal,%20a%20organigramei%20si%20a%20statului%20de%20functii.pdf",
+     "sha256": "dad74b66fde1731f7835148057ab9f1944b217409bff508d16ccb45ced093968"
     }
    ]
   }

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2018",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-94-2018",
+"path": "local/teleorman/alexandria/2018/94",
+"kind": "local",
+"year": "2018",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 94/2018",
+"short": "HCL Alexandria nr. 94/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-03-28",
+"latest": "2018-03-28",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-276-din-28-septembrie-2017-privind-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-de-in-2/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-165-2018",
+"path": "local/teleorman/alexandria/2018/165",
+"kind": "local",
+"year": "2018",
+"number": "165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 165/2018",
+"short": "HCL Alexandria nr. 165/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-05-21",
+"latest": "2018-05-21",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hotararii-nr-16-31-01-2018-privind-declararea-ca-bun-apartinand-domeniului-public-de-interes-local-al-municipiului-alexandria-a-unui-teren-din-municipiul-alexan/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-278-2018",
+"path": "local/teleorman/alexandria/2018/278",
+"kind": "local",
+"year": "2018",
+"number": "278",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 278/2018",
+"short": "HCL Alexandria nr. 278/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-10-25",
+"latest": "2018-10-25",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-134-din-27-aprilie-2018-privind-aprobarea-organizarii-retelei-scolare-a-unitatilor-de-invatamant-preuniversitar-din-municipiul-alexandria-pentru-anul-scolar-20/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-324-2018",
+"path": "local/teleorman/alexandria/2018/324",
+"kind": "local",
+"year": "2018",
+"number": "324",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 324/2018",
+"short": "HCL Alexandria nr. 324/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-11-28",
+"latest": "2018-11-28",
+"portal": "https://alexandria.ro/priveste-modificarea-anexa-la-hcl-nr-282-25-octombrie-2018-privind-organizarea-festivalului-de-colinde-traditii-si-obiceiuri-de-iarna-editia-a-iv-a-in-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-367-2018",
+"path": "local/teleorman/alexandria/2018/367",
+"kind": "local",
+"year": "2018",
+"number": "367",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 367/2018",
+"short": "HCL Alexandria nr. 367/2018",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2018-12-20",
+"latest": "2018-12-20",
+"portal": "https://alexandria.ro/priveste-modificarea-hotararii-consiliului-local-nr-246-din-28-septembrie-2017-privind-aprobarea-modelului-de-contract-de-management-administrativ-financiar-ce-se-va-incheia-intre-primarul-municipi/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

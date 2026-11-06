@@ -3,6 +3,216 @@
  "shard": "local/tulcea/tulcea/2008",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-1-2008",
+   "path": "local/tulcea/tulcea/2008/1",
+   "short": "HCL Tulcea nr. 1/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 1/2008 PRIVIND CONSTATAREA REZULTATULUI ALEGERII MEMBRILOR COMISIEI DE VALIDARE A CONSILIULUI LOCAL AL MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-1-iunie2008.pdf",
+     "sha256": "2ef6035cc5e3869726fd932bfd2f19f27a10765778a55ce31a7f56ec56e0a3d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-10-2008",
+   "path": "local/tulcea/tulcea/2008/10",
+   "short": "HCL Tulcea nr. 10/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 10/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-01-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-10-2008.pdf",
+     "sha256": "10da27d598fae9b7fb57eda18d6ce86b91555d19e887ad3b37cdecbc6c799cc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-104-2008",
+   "path": "local/tulcea/tulcea/2008/104",
+   "short": "HCL Tulcea nr. 104/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 104/2008 PRIVIND ATRIBUIREA ÎN ADMINISTRARE A MIJLOACELOR FIXE REZULTATE CA URMARE A RECEPTIONARII OBIECTIVULUI DE INVESTITII “CANALIZARE MENAJERA STR. LUPENI – LIBERTATII, MUNICIPIUL TULCEA”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-104-2008.pdf",
+     "sha256": "768533103a1ba7c171fe5f45732c8f56af926d6c259f7422ba814528672fe6ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-107-2008",
+   "path": "local/tulcea/tulcea/2008/107",
+   "short": "HCL Tulcea nr. 107/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 107/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-107-2008.pdf",
+     "sha256": "71832b50974b07fd33da9d6f76976dd2b302e381d041bad9edbe77b04ecc109e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-108-2008",
+   "path": "local/tulcea/tulcea/2008/108",
+   "short": "HCL Tulcea nr. 108/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 108/2008 privind concesionarea prin incredintare directa a terenului în suprafata de 245,60 mp, din domeniul privat al localitatii, situat în Tulcea, str. Garii, nr. 3-4, pentru amenajare si modernizare spatiu comercial cu destinatia de alimentatie publica",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-108-2008.pdf",
+     "sha256": "f68197068e12c951bb8b23700fa53545eea728979fea924ecfed2b5925dc5383"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-109-2008",
+   "path": "local/tulcea/tulcea/2008/109",
+   "short": "HCL Tulcea nr. 109/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 109/2008 privind avizul de principiu pentru concesionarea prin incredintare directa a suprafetei de aproximativ 300 mp, teren din domeniul privat al municipiului Tulcea, destinat construirii unei locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-109-2008.pdf",
+     "sha256": "9fc60cd52f32a3d355f30bcbb0c0d6bbe3a94b89688865ccbd9fc3455d1df260"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-113-2008",
+   "path": "local/tulcea/tulcea/2008/113",
+   "short": "HCL Tulcea nr. 113/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 113/2008 Privind aprobarea modificarii Contractului de Delegare a Gestiunii Serviciilor Publice de Salubrizare a Mun. Tulcea, prin Act Aditional",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-113-septembrie2008.pdf",
+     "sha256": "e74527f2b2b94df1b00b646123e10bdf670bbc2bff0e7484111fbb1cea43e385"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-114-2008",
+   "path": "local/tulcea/tulcea/2008/114",
+   "short": "HCL Tulcea nr. 114/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 114/2008 privind vânzarea a 29 loturi de teren, concesionate, în suprafata totala de 12.667,962 mp, din domeniul privat al municipiului Tulcea, care au alta destinatie decât pentru constructia de locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-114-2008.pdf",
+     "sha256": "5a9471d84608bdf8d73f260ab75d6cf899a641fd24d5098e0090ff7c995479ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-119-2008",
+   "path": "local/tulcea/tulcea/2008/119",
+   "short": "HCL Tulcea nr. 119/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 119/2008 pentru revocarea HCL 212/26.07.2007 privind concesionarea prin incredintare directa a terenului apartinand domeniului public al municipiului Tulcea, din incinta SC AQUASERV SA, in suprafata de 20 mp, pentru un post de transformare si cabluri electrice",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-119-2008.pdf",
+     "sha256": "3c72efe3e3e55c5d8bf0715bb343be08a1ca7728163ce91304709f36e1c5ee91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-120-2008",
+   "path": "local/tulcea/tulcea/2008/120",
+   "short": "HCL Tulcea nr. 120/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 120/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-120-2008.pdf",
+     "sha256": "0b1c05c81c8e515bc51d0355dc73b10b1dcbd8b8f4dba7222a3c6a4436b7286d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-123-2008",
+   "path": "local/tulcea/tulcea/2008/123",
+   "short": "HCL Tulcea nr. 123/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 123/2008 privind desemnarea reprezentantului Consiliului Local al MunicipiuluiTul cea în Adunarea Generala a Actionarilor la Societatea Comerciala „F.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-10",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-123-octombrie2008.pdf",
+     "sha256": "cc5aa84e5a97d592925b94353c33a62d416417761a0b5c0cac93d632bba44472"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-124-2008",
+   "path": "local/tulcea/tulcea/2008/124",
+   "short": "HCL Tulcea nr. 124/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 124/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-124-2008.pdf",
+     "sha256": "d9aaebd6cf2f2e17fa8dc497acd0ec8c8b37f810f18a06b059d301b19e671ca1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-125-2008",
+   "path": "local/tulcea/tulcea/2008/125",
+   "short": "HCL Tulcea nr. 125/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 125/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-125-2008.pdf",
+     "sha256": "ced6fd6bffd20f0815629aef4e6da4d99ed985697686f8b2866064fb6c194863"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-126-2008",
+   "path": "local/tulcea/tulcea/2008/126",
+   "short": "HCL Tulcea nr. 126/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 126/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-126-2008.pdf",
+     "sha256": "9e38ad14544df64f97a0db1500dafc0a7ad06ca4cee63924e4f95ddaad31e884"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-13-2008",
    "path": "local/tulcea/tulcea/2008/13",
    "short": "HCL Tulcea nr. 13/2008",
@@ -18,6 +228,111 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-131-2008",
+   "path": "local/tulcea/tulcea/2008/131",
+   "short": "HCL Tulcea nr. 131/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 131/2008 privind aprobarea Studiului de Fezabilitate “REABILITARE CONDUCTA ALIMENTARE CU APA STR. VICTORIEI, TRONSON CUPRINS ÎNTRE BL. 1 SI BL. 9 – MUNICIPIUL TULCEA” si a indicatorilor tehnico-economici",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-131-2008.pdf",
+     "sha256": "a5676358eb5569333c4b8154aaa0bbf5da8da5de6a40fb35931a57b2af8cce15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-132-2008",
+   "path": "local/tulcea/tulcea/2008/132",
+   "short": "HCL Tulcea nr. 132/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 132/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-132-2008.pdf",
+     "sha256": "6a4a5254b3a2dcdd07c1e7cd8f4656631ee34098868fd847e151acae553124bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-141-2008",
+   "path": "local/tulcea/tulcea/2008/141",
+   "short": "HCL Tulcea nr. 141/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 141/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-141-octombrie2008.pdf",
+     "sha256": "8ee9dbd92b700cba00a4322a45965328c21d029ab7a13143638d8cacb269cff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-147-2008",
+   "path": "local/tulcea/tulcea/2008/147",
+   "short": "HCL Tulcea nr. 147/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 147/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-147-octombrie2008.pdf",
+     "sha256": "d6316f12e75a86b06284a207d0a2d6f6ca6dd41e5d4698b41e8ab12c0defeeab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-148-2008",
+   "path": "local/tulcea/tulcea/2008/148",
+   "short": "HCL Tulcea nr. 148/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 148/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-148-octombrie2008.pdf",
+     "sha256": "b67d9a6909462f7212a757514bd4e6fd9e8362cce1213eaa798c3bf65dde6e64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-149-2008",
+   "path": "local/tulcea/tulcea/2008/149",
+   "short": "HCL Tulcea nr. 149/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 149/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-10-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-149-octombrie2008.pdf",
+     "sha256": "b75f030111a0e9e39496abb9b7e7b25489322b31294c2f94dc245ddaa243b54f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-15-2008",
+   "path": "local/tulcea/tulcea/2008/15",
+   "short": "HCL Tulcea nr. 15/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 15/2008 privind trecerea din domeniul public in domeniul privat al localitatii, a terenului in suprafata de 648mp, situat in Tulcea, str. Cimbrului, nr. 13 (in realitate nr. 11)",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-15-iulie2008.pdf",
+     "sha256": "e8a464958f0d9e62866eea7966fbddd7c325cadcb6f114ddd837c5f3c1c73f6e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-158-2008",
    "path": "local/tulcea/tulcea/2008/158",
    "short": "HCL Tulcea nr. 158/2008",
@@ -29,6 +344,396 @@
      "units": 6,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-158-noiembrie2008.pdf",
      "sha256": "e6d1a3a59a2bb2332885041977477476251b591232ca36a54442f5904b5b7fe7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-16-2008",
+   "path": "local/tulcea/tulcea/2008/16",
+   "short": "HCL Tulcea nr. 16/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 16/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-16-iulie2008.pdf",
+     "sha256": "30c4b414b8b1f61e739de8c08b28eac977cd42aef93559fdf9187c079ec6b5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-161-2008",
+   "path": "local/tulcea/tulcea/2008/161",
+   "short": "HCL Tulcea nr. 161/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 161/2008 privind aprobarea cuantumului chiriei pentru locuintele tip ANL din cartierul Tineretului, ai caror chiriasi, titulari de contract, au implinit, pana la data de 01.12.2008, varsta de 35 ani",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-161-noiembrie2008.pdf",
+     "sha256": "27ccd90987a1b4ad2de1d1d46ab3deadfa127cb08dea903591d5218c076beac7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-162-2008",
+   "path": "local/tulcea/tulcea/2008/162",
+   "short": "HCL Tulcea nr. 162/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 162/2008 privind aprobarea Organigramei, Statului de functii si Regulamentului de Organizare si Functionare ale Directiei de Asistenta si Protectie Sociala Tulcea, ca urmare a reorganizarii activitatii prin transferul ansamblului de atributii si competente exercitate de Ministerul Sanatatii catre autoritatile administratiei publice locale",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-11-12",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2009/HCL-162-2009.pdf",
+     "sha256": "23c78a5721127c82b53a6f3fee703cc0c6fab9bb56fdfc9fb8e84afbd769ccaf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-174-2008",
+   "path": "local/tulcea/tulcea/2008/174",
+   "short": "HCL Tulcea nr. 174/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 174/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-174-noiembrie2008.pdf",
+     "sha256": "1f0c3a812d897644e0519724739b7942e8db2f99c9e27b18862ffe469bec1c4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-176-2008",
+   "path": "local/tulcea/tulcea/2008/176",
+   "short": "HCL Tulcea nr. 176/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 176/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-11-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-176-noiembrie2008.pdf",
+     "sha256": "72355d04ffb2b2ff83df7caa6c422d57b6bd19cfc97d311a76f2cf5bf4dea4e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-19-2008",
+   "path": "local/tulcea/tulcea/2008/19",
+   "short": "HCL Tulcea nr. 19/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 19/2008 privind concesionarea prin incredintare directa a suprafetei de aproximativ 300mp, teren din domeniul privat al municipiului Tulcea, zona SUD-VII pentru construirea unei locuinte",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-19-iulie2008.pdf",
+     "sha256": "da7d9bce27a0d49307add6e63cf7c57d88a5273d369b7e1f15cd9573681d7783"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-194-2008",
+   "path": "local/tulcea/tulcea/2008/194",
+   "short": "HCL Tulcea nr. 194/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 194/2008 privind modificarea art. 1 din HCL nr. 5 7/2005 privind trecerea din domeniul public in domeniul privat a terenului in suprafata de 1.614 mp, concesionarea prin licitatie publica deschisa a terenului in suprafata de 1.614mp, situat in Tulcea, strada Portului FN (in vecinatatea autogarii), pentru realizarea obiectivului “HOTEL DE 4 STELE“ si aprobarea: Studiului de oportunitate, Caietului de sarcin",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-194-decembrie2008.pdf",
+     "sha256": "e73b13c47422e227427dde54532f22e33feef8b0012e6c6550cd58d15ac11d50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-204-2008",
+   "path": "local/tulcea/tulcea/2008/204",
+   "short": "HCL Tulcea nr. 204/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 204/2008 privind concesionarea prin incredintare directa a suprafetei de 5,25 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. Rozmarin, nr. 2 , bl. R1, sc. C, ap.2, pentru construire balcon si aprobarea PUD “ Construire si inchidere balcon”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-12-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-204-decembrie2008.pdf",
+     "sha256": "9ca7ee3dca6a63538b3a47c33178ad770c15e8388256214cd068d7f9686d13e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-24-2008",
+   "path": "local/tulcea/tulcea/2008/24",
+   "short": "HCL Tulcea nr. 24/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 24/2008 privind aprobarea organigramei, numarului de personal si a statului de functii al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-24-2008.pdf",
+     "sha256": "ad7696a008c07e48d5918f658f81d4feca611609643154948272abfc42c6e51c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-25-2008",
+   "path": "local/tulcea/tulcea/2008/25",
+   "short": "HCL Tulcea nr. 25/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 25/2008 privind aprobarea aprobarea planului urbanistic de detaliu ”LOCUINTA P+M ” STR.INTRAREA LIVEZILOR IV, NR.3, TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-08",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2012/hcl-25-2012.pdf",
+     "sha256": "ab243a29458ab02924c62904d9e657d6583e03527fb070ee37b736be538f8621"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-28-2008",
+   "path": "local/tulcea/tulcea/2008/28",
+   "short": "HCL Tulcea nr. 28/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 28/2008 privind Acordul de principiu pentru cofinantarea de catre Consiliul Local Tulcea a investitiilor privind termoficarea Municipiului Tulcea, din cadrul Programului „Termoficare 2006-2015 – caldura si confort”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-07-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-28-iulie2008.pdf",
+     "sha256": "cc1ea91ff8c024ce54315f5e765952d0a4dd08cf2a8c3e9d1803987e63ce2060"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-36-2008",
+   "path": "local/tulcea/tulcea/2008/36",
+   "short": "HCL Tulcea nr. 36/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 36/2008 privind rectificarea bugetului local pe anul 2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-36-2008.pdf",
+     "sha256": "e4108d73055208e268eb1322f0b3db4e721e70c40263017809fb494a7ddca24f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-46-2008",
+   "path": "local/tulcea/tulcea/2008/46",
+   "short": "HCL Tulcea nr. 46/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 46/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-02-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-46-2008.pdf",
+     "sha256": "d3238d6eb680fa412755273384a76e5f707859ec9468bbba93c290dfcf63f624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-47-2008",
+   "path": "local/tulcea/tulcea/2008/47",
+   "short": "HCL Tulcea nr. 47/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 47/2008 PRIVIND VEHICULELE FARA STAPÂN SAU ABANDONATE AFLATE PE DOMENIUL PUBLIC SAU PRIVAT AL MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-47-2008.pdf",
+     "sha256": "dca25a4122b899da280838f29d7e487c7e2ec13363e9df5375f00b75ce89df2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-48-2008",
+   "path": "local/tulcea/tulcea/2008/48",
+   "short": "HCL Tulcea nr. 48/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 48/2008 privind concesionarea prin incredintare directa a suprafetei de 14,00mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. Pacii, nr 5, Bl S1, Sc B, Ap 1, parter, pentru extindere cladire spatiu comercial, in cadrul obiectivului “AMENAJARE SPATIU COMERCIAL CU ACCES DIRECT DIN EXTERIOR SI EXTINDERE”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-48-august2008.pdf",
+     "sha256": "62fcfcd05f3c17e3861f6bae30ab5b40058d3884e8832a77b43e2043093780aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-49-2008",
+   "path": "local/tulcea/tulcea/2008/49",
+   "short": "HCL Tulcea nr. 49/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 49/2008 PRIVIND ALEGEREA PRESEDINTELUI DE SEDINTA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-49-2008.pdf",
+     "sha256": "7eeb51c0b725f962e232a2a0a66e6666f372c6ead6472691fd4eb68de39b214d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-50-2008",
+   "path": "local/tulcea/tulcea/2008/50",
+   "short": "HCL Tulcea nr. 50/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 50/2008 privind concesionarea prin incredintare directa a suprafetei de 27,60mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, Str Isaccei, nr 19, Bl I5B, Sc C, Ap 1, pentru extindere cladire spatiu comercial, in cadrul obiectivului “AMENAJARE SEDIU FIRMA + SPATIU COMERT SI ACCES DIN EXTERIOR”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-08-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-50-august2008.pdf",
+     "sha256": "ff29c43476385fc8c6a45a5be9b6b3518177d889ee7793289a6725f33cd7d3fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-59-2008",
+   "path": "local/tulcea/tulcea/2008/59",
+   "short": "HCL Tulcea nr. 59/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 59/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-59-2008.pdf",
+     "sha256": "ab94d87f7c8ea7f6f7ba04c86e10710cab1c4f5d56542d1502c7d304f410cb5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-66-2008",
+   "path": "local/tulcea/tulcea/2008/66",
+   "short": "HCL Tulcea nr. 66/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 66/2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-03-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-66-2008.pdf",
+     "sha256": "35e120bd84f31cc0a22502e4360d17771d3979c72042817197c693e59ed152fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-7-2008",
+   "path": "local/tulcea/tulcea/2008/7",
+   "short": "HCL Tulcea nr. 7/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 7/2008 privind concesionarea prin licitatie, a 10 loturi de teren, in suprafata totala de 16.983mp, situate in Municipiul Tulcea, zona Dallco, intre str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-06-18",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-7-2008.pdf",
+     "sha256": "73b3cb9ea91c7de69baef86f10dfe5a79d9433af31ff4327a10b4d6c2032846c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-72-2008",
+   "path": "local/tulcea/tulcea/2008/72",
+   "short": "HCL Tulcea nr. 72/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 72/2008 privind contul de executie al bugetului local pe anul 2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-72-2008.pdf",
+     "sha256": "5026787137d2b16291930071ca8fa1a5f4c0a64d89c96a97f5e8ebaa977bb1d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-73-2008",
+   "path": "local/tulcea/tulcea/2008/73",
+   "short": "HCL Tulcea nr. 73/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 73/2008 privind rectificarea bugetului local pe anul 2008",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-73-2008.pdf",
+     "sha256": "1ad3ddb827798962fc37632993ff35c54ca01276731bfd2187b14882ae03c123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-74-2008",
+   "path": "local/tulcea/tulcea/2008/74",
+   "short": "HCL Tulcea nr. 74/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 74/2008 privind utilizarea partiala a fondului de rezerva",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-74-2008.pdf",
+     "sha256": "35cedf4c838ddba7381cbe7bed46a16524fe30190c0281a42c5256ea24e094ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-75-2008",
+   "path": "local/tulcea/tulcea/2008/75",
+   "short": "HCL Tulcea nr. 75/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 75/2008 privind rectificarea bugetului de venituri si cheltuieli pe anul 2008 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-04-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-75-2008.pdf",
+     "sha256": "0afa7833dc345828d9bd85cc7ad2902959cae8ca9f2ac1d17d4b4b3960949e02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-94-2008",
+   "path": "local/tulcea/tulcea/2008/94",
+   "short": "HCL Tulcea nr. 94/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 94/2008 PRIVIND ATRIBUIREA ÎN ADMINISTRARE A BUNURILOR REZULTATE CA URMARE A RECEPTIONARII OBIECTIVULUI DE INVESTITII “LTE LOCUINTE STR. 1848, MUNICIPIUL TULCEA”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-94-2008.pdf",
+     "sha256": "4bf4662a97a8330ad5c6265afc9695dca3b87031f2a982cabc77acd33fac70f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-97-2008",
+   "path": "local/tulcea/tulcea/2008/97",
+   "short": "HCL Tulcea nr. 97/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 97/2008 PRIVIND ATRIBUIREA ÎN ADMINISTRARE A MIJLOACELOR FIXE REZULTATE CA URMARE A RECEPTIONARII OBIECTIVULUI DE INVESTITII “REABILITAREA MONUMENTULUI INDEPENDENTEI, MUNICIPIUL TULCEA”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2008/hcl-97-2008.pdf",
+     "sha256": "0107320c7b34fed1b47cef7ab408a7774f62d97e254894736b31983b7c8f4071"
     }
    ]
   }

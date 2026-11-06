@@ -3,6 +3,261 @@
  "shard": "local/tulcea/tulcea/2007",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-101-2007",
+   "path": "local/tulcea/tulcea/2007/101",
+   "short": "HCL Tulcea nr. 101/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 101/2007 privind concesionarea prin incredintare directa a suprafetei de 8,3 mp, teren din domeniul privat al municipiului, pentru extindere cladire spatiu comercial, Strada Pacii, nr. 66, Bl. 176, Sc. D, Ap 2, Tulcea, in cadrul obiectivului “AMENAJARE SPATIU COMERCIAL CU ACCES DIRECT DIN EXTERIOR”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-101-2007.pdf",
+     "sha256": "a7bcc414cae5bb334455b63880bbaea1d02c3be5d21fc27d9893f9285e56944d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-110-2007",
+   "path": "local/tulcea/tulcea/2007/110",
+   "short": "HCL Tulcea nr. 110/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 110/2007 privind aprobarea functiilor publice din cadrul aparatului de specialitate al Primarului Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-110-2007.pdf",
+     "sha256": "c2ae8bc914e9bce223b12fcfd997fa5f3fd04aa5f2c08c0e4af99e7fa1b9b0bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-123-2007",
+   "path": "local/tulcea/tulcea/2007/123",
+   "short": "HCL Tulcea nr. 123/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 123/2007 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE “ALIMENTARE ENERGIE ELECTRICÃ LTE BLOC B4 STR. BABADAG TULCEA” ªI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-123-2007.pdf",
+     "sha256": "e6a3fb31671117ff3050f0400c75de41c0d0dbfa6a4954fa6dbd6c51de1f4849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-124-2007",
+   "path": "local/tulcea/tulcea/2007/124",
+   "short": "HCL Tulcea nr. 124/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 124/2007 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE “REMODELARE URBANÃ PIAÞA CIVICÃ MUNICIPIUL TULCEA” ªI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-124-2007.pdf",
+     "sha256": "eaa283aadd83da96439eefc96845938a2b2d8185ebdc3fb203ee0c81f56d044a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-130-2007",
+   "path": "local/tulcea/tulcea/2007/130",
+   "short": "HCL Tulcea nr. 130/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 130/2007 privind actualizarea listei cuprinzand “Inventarul bunurilor care apartin domeniului public al municipiului Tulcea” aprobat prin Hotararea Guvernului Romaniei nr.1.360/27.12.2001",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-130-2007.pdf",
+     "sha256": "845cebbac68acee6c115e1e533502b6b6107020e4deb9fe6e37066e6cd8cfbbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-168-2007",
+   "path": "local/tulcea/tulcea/2007/168",
+   "short": "HCL Tulcea nr. 168/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 168/2007 privind aprobarea comisiei speciale pentru inventarierea bunurilor care alcatuiesc domeniul public al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-05-31",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-168-2007.pdf",
+     "sha256": "a6cfa4c7613ee040b93656026e9e16f00dfaca0a28204c28eea76791ef87af45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-185-2007",
+   "path": "local/tulcea/tulcea/2007/185",
+   "short": "HCL Tulcea nr. 185/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 185/2007 privind concesionarea prin incredintare directa a suprafetei de 14,40mp, teren din domeniul privat al localitatii, situat in Tulcea, Aleea Metalurgistilor, nr.1, bl.Z11, sc.C, ap.5, pentru amenajarea unui balcon si aprobarea PUD-“Construire si inchidere balcon”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-185-2007.pdf",
+     "sha256": "4d4844ec585b8bb132d99d649e7de3997da4e2f94c5f7afbbc6b825a956b9c65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-186-2007",
+   "path": "local/tulcea/tulcea/2007/186",
+   "short": "HCL Tulcea nr. 186/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 186/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-186-2007.pdf",
+     "sha256": "e71e6dfcabd8c7de83aa713e2e8269109f0740a7334e442645228a871b732217"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-187-2007",
+   "path": "local/tulcea/tulcea/2007/187",
+   "short": "HCL Tulcea nr. 187/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 187/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-06-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-187-2007.pdf",
+     "sha256": "deb205626694a0c70fa8c522b0fa7917a9214c14bd44ca7102fe800d1963202c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-198-2007",
+   "path": "local/tulcea/tulcea/2007/198",
+   "short": "HCL Tulcea nr. 198/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 198/2007 privind insusirea inventarului reactualizat al bunurilor care alcatuiesc domeniul public al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-06-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-198-2007.pdf",
+     "sha256": "545b0ac646a4c702cdc66447f0729568473063b9f031bd92be7320772d06e2ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-205-2007",
+   "path": "local/tulcea/tulcea/2007/205",
+   "short": "HCL Tulcea nr. 205/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 205/2007 pentru aprobarea pretului local al energiei termice facturata populatiei",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-205-2007.pdf",
+     "sha256": "7dfcf969e455f3c1d2d6aead01ee0454c72214b0ce78816dc17c506750e58a64"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-206-2007",
+   "path": "local/tulcea/tulcea/2007/206",
+   "short": "HCL Tulcea nr. 206/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 206/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-206-2007.pdf",
+     "sha256": "e98198d88c0508c2dba2014d083b296705bd75cfa181d93c0a9cbc7606e26764"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-208-2007",
+   "path": "local/tulcea/tulcea/2007/208",
+   "short": "HCL Tulcea nr. 208/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 208/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-208-2007.pdf",
+     "sha256": "a66fd02432a5a74c228a6af8ce3fdf1a4354c111eb99216effb355f946ebeffb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-212-2007",
+   "path": "local/tulcea/tulcea/2007/212",
+   "short": "HCL Tulcea nr. 212/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 212/2007 privind concesionarea prin incredintare directa a terenului apartinand domeniului public al municipiului Tulcea, din incinta SC AQUASERV SA, in suprafata de 20 mp, pentru un post de transformare si cabluri electrice",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-212-2007.pdf",
+     "sha256": "91cdfbcd98985269be0bf6198ffc06e8ee78edecbd0efbe88f68b0dc82099431"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-215-2007",
+   "path": "local/tulcea/tulcea/2007/215",
+   "short": "HCL Tulcea nr. 215/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 215/2007 privind concesionarea prin incredintare directa a suprafetei de 4,00 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str.Taberei, nr.38, bl.C2, sc.A, ap.10, pentru construirea unui balcon si aprobarea PUD “ Construire si inchidere balcon ”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-07-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-215-2007.pdf",
+     "sha256": "d16bcaf846aa2aa0a541a8a11b10463aebd872ddc03fd9d9a4da505d6e85083b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-230-2007",
+   "path": "local/tulcea/tulcea/2007/230",
+   "short": "HCL Tulcea nr. 230/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 230/2007 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE “LOCUINÞE BLOC B 4, STR. BABADAG, TULCEA” ªI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-230-2007.pdf",
+     "sha256": "5b8d437174a7882046d909adc908817e2292a578455105a535e42727565aac19"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-231-2007",
+   "path": "local/tulcea/tulcea/2007/231",
+   "short": "HCL Tulcea nr. 231/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 231/2007 PRIVIND NUMIREA DIRECTORULUI EXECUTIV, RESPECTIV A DIRECTORULUI EXECUTIV ADJUNCT AL DIRECÞIEI POLIÞIE COMUNITARÃ PENTRU ORDINE PUBLICÃ A MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-09-06",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-231-2007.pdf",
+     "sha256": "30924ddf23eb251df9141436f00effe201f00c348c80351b4011558260cfeef9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-240-2007",
    "path": "local/tulcea/tulcea/2007/240",
    "short": "HCL Tulcea nr. 240/2007",
@@ -14,6 +269,111 @@
      "units": 6,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-240-2007.pdf",
      "sha256": "08ca786a01490c656cbd4c4901030307783090c59a5b2add34a9dbf4056b4f43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-246-2007",
+   "path": "local/tulcea/tulcea/2007/246",
+   "short": "HCL Tulcea nr. 246/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 246/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-09-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-246-2007.pdf",
+     "sha256": "e636d99f5e994630c9d4396f4c49c0e1bdea60b0f980ba87895428e9b2ca63ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-247-2007",
+   "path": "local/tulcea/tulcea/2007/247",
+   "short": "HCL Tulcea nr. 247/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 247/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-09-27",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-247-2007.pdf",
+     "sha256": "9091b25b4150af430fb52c98f0e92cb00e10775cab4ec20d1a6ab07e7bf96077"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-284-2007",
+   "path": "local/tulcea/tulcea/2007/284",
+   "short": "HCL Tulcea nr. 284/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 284/2007 privind concesionarea prin incredintare directa a terenului in suprafeta de 187mp, din domeniul privat al localitatii, situat in Tulcea, Strada Portului, nr. 28A (in partea de nord a autogarii) pentru amenajare si modernizare terasa destinata alimentatiei publice",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-284-2007.pdf",
+     "sha256": "b180bb88c9e4070378728f8e99eaab43f0110629ffeac862f89c8fc27fb33917"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-286-2007",
+   "path": "local/tulcea/tulcea/2007/286",
+   "short": "HCL Tulcea nr. 286/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 286/2007 privind concesionarea prin incredintare directa a suprafetei de 3,95mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. 1848, nr. 27, bl. 19, sc. B, ap. 4, pentru extindere cladire sediu firma si aprobarea PUD “AMENAJARE SEDIU FIRMA CU ACCES DIN EXTERIOR”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-286-2007.pdf",
+     "sha256": "54c6944418abedbee1165cb3772460901201961606314373104694ececa37da1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-287-2007",
+   "path": "local/tulcea/tulcea/2007/287",
+   "short": "HCL Tulcea nr. 287/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 287/2007 privind concesionarea prin incredintare directa a suprafetei de 2,10mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str. Isaccei, nr. 29, bl. I7, sc. A, ap. 2, pentru extindere cladire cabinet stomatologic si aprobarea PUD “AMENAJARE CABINET STOMATOLOGIC CU ACCES DIN EXTERIOR”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-287-2007.pdf",
+     "sha256": "9fe0cb8d1c6ee8204ec6c8d982bc5e170deb413537e574aaa2b22cde89b09818"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-293-2007",
+   "path": "local/tulcea/tulcea/2007/293",
+   "short": "HCL Tulcea nr. 293/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 293/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-10-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-293-2007.pdf",
+     "sha256": "cf9d30221032b0456a9c1e4d11b072944e33463f18ca6d4b50ae5e1f97b32bff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-308-2007",
+   "path": "local/tulcea/tulcea/2007/308",
+   "short": "HCL Tulcea nr. 308/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 308/2007 PRIVIND MODIFICAREA ªI COMPLETAREA COMISIEI DE SPECIALITATE NR. 2 PENTRU ORGANIZARE ªI DEZVOLTARE URBANISTICÃ, REALIZAREA LUCRÃRILOR PUBLICE , PROTECÞIA MEDIULUI ÎNCONJURÃTOR, CONSERVAREA MONUMENTELOR ISTORICE ªI DE ARHITECTURÃ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-308-2007.pdf",
+     "sha256": "b02b9eccf645539cbd6691c13d25d09f23128acdd8638351c92d7ac39e1eec03"
     }
    ]
   },
@@ -48,6 +408,111 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-315-2007",
+   "path": "local/tulcea/tulcea/2007/315",
+   "short": "HCL Tulcea nr. 315/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 315/2007 privind organizarea pomului de iarna 2007, de catre Directia de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-315-2007.pdf",
+     "sha256": "ded22c90c73ce0a7d7b48d00a755ef323739932c4c9b759e33cc11199f7c211d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-317-2007",
+   "path": "local/tulcea/tulcea/2007/317",
+   "short": "HCL Tulcea nr. 317/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 317/2007 privind trecerea terenului, aferent obiectivului “Piata Veche”, situat in Tulcea, str. Isaccei, Nr. 17, in suprafata de 6296,74mp, din domeniului privat in domeniul public al localitatii si includerea acestuia in “Inventarul bunurilor care alcatuiesc domeniul public al Municipiului Tulcea”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-317-2007.pdf",
+     "sha256": "5e37e4871dbaa511d7b2faea211252c7bc3eb455f08a7fe8ddc5c87dbf6b0a2e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-321-2007",
+   "path": "local/tulcea/tulcea/2007/321",
+   "short": "HCL Tulcea nr. 321/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 321/2007 privind modificarea suprafetei imobilului de la pozitia 962 din inventarul domeniului public, rectificarea adresei imobilului, din str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-321-2007.pdf",
+     "sha256": "bd83d616227699282be3ff92315a07aa2f33a5462aaf4bf0c80ed78d6987d129"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-327-2007",
+   "path": "local/tulcea/tulcea/2007/327",
+   "short": "HCL Tulcea nr. 327/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 327/2007 privind concesionarea prin incredintare directa a suprafetei de 14,94 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, str.Plevnei, nr.36, bl.D3, sc.B, ap.1, pentru sediu firma cu acces din exterior si aprobarea PUD “ Amenajare sediu firma (Birouri) cu acces din exterior”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-11-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-327-2007.pdf",
+     "sha256": "a9e7e6f6115c0d4eb06d5c72dbdff1496c64f6f0ef2b4bafc1ffc2fc70bf04c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-343-2007",
+   "path": "local/tulcea/tulcea/2007/343",
+   "short": "HCL Tulcea nr. 343/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 343/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-12-19",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-343-2007.pdf",
+     "sha256": "323725327d02739ae90dfcc16a1f012357742aada53cd64e60b11003ea382692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-76-2007",
+   "path": "local/tulcea/tulcea/2007/76",
+   "short": "HCL Tulcea nr. 76/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 76/2007 privind concesionarea prin incredintare directa a suprafetei de 6,60 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea, Aleea Merisor, nr.4, bl.A3, sc.C, ap.1, pentru construirea unui balcon si aprobarea PUD “ Construire si inchidere balcon ”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-76-2007.pdf",
+     "sha256": "12ec7cc7e8fc34a9bca18fea0da5ef50dfd00e6d60b29005ffb3cb0892d809b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-77-2007",
+   "path": "local/tulcea/tulcea/2007/77",
+   "short": "HCL Tulcea nr. 77/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 77/2007 privind concesionarea prin incredintare directa a doua loturi in suprafaþa de 2,00 mp fiecare, apartinand domeniului privat al localitatii, situate in Tulcea, Aleea Chiparosului si Aleea Cristina pentru amplasarea a doua containere metalice de telecomunicatii",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-77-2007.pdf",
+     "sha256": "3f1b5fefbab50ef3d4349da3d40510e4077802ae02a33c6a69b51649cb96955a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-81-2007",
    "path": "local/tulcea/tulcea/2007/81",
    "short": "HCL Tulcea nr. 81/2007",
@@ -59,6 +524,51 @@
      "units": 4,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-81-2007.pdf",
      "sha256": "67ac72429402e6151aad04928ea50de7f16ccc8d930a9d4e7ebc360c9e84c44f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-85-2007",
+   "path": "local/tulcea/tulcea/2007/85",
+   "short": "HCL Tulcea nr. 85/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 85/2007 privind acordul de principiu pentru trecerea din domeniul public al judetului Tulcea ºi din administrarea Consiliului Judetean Tulcea, în domeniul public al municipiului Tulcea ºi în administrarea Consiliului Local Tulcea, a 8 incaperi, cu o suprafata utila de 152,05 mp (camerele 1,2,3,4,5,6,7,14-inclusiv anexele aferente), situate in imobilul din Tulcea, str. Spitalului, nr. 2 (incinta Inspectora",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-03-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-85-2007.pdf",
+     "sha256": "555db326cf073d3e357e28a8aa4d86ed52379a80b28bb90b7a9fadd15e3b2d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-98-2007",
+   "path": "local/tulcea/tulcea/2007/98",
+   "short": "HCL Tulcea nr. 98/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 98/2007 privind trecerea din domeniul public in domeniul privat al municipiului Tulcea, a terenului in suprafata de 131,181 mp, din totalul de 19934,70 mp, actualizarea pozitiei nr. 976 din “Inventarul bunurilor care apartin domeniului public al municipiului Tulcea” si concesionarea prin incredintare directa a suprafetei de 131,181 mp, teren din domeniul privat al localitatii, situat in municipiul Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-98-2007.pdf",
+     "sha256": "e8564ec09c429f8c961b58fe08fcca4905f0dc0982ca007f7cfe34ea1812a87e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-99-2007",
+   "path": "local/tulcea/tulcea/2007/99",
+   "short": "HCL Tulcea nr. 99/2007",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 99/2007",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2007-04-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2007/hcl-99-2007.pdf",
+     "sha256": "36b495a08205f47e4064b1b3fcfcc6683575360ec21f72dc72a3efddff2bf7fb"
     }
    ]
   }

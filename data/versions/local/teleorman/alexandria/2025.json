@@ -3,6 +3,126 @@
  "shard": "local/teleorman/alexandria/2025",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-132-2025",
+   "path": "local/teleorman/alexandria/2025/132",
+   "short": "HCL Alexandria nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 132/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/HCL-132.pdf",
+     "sha256": "b421987ad5e086a553bd6e253292c5bb45959154b300288f60784af99ebd49ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-16-2025",
+   "path": "local/teleorman/alexandria/2025/16",
+   "short": "HCL Alexandria nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 16/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-16_31.01.2025.pdf",
+     "sha256": "7c2b58421df0f4b5cad758d93cf08a70b3b4bd92c922bb80a0acec80fd67734a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-182-2025",
+   "path": "local/teleorman/alexandria/2025/182",
+   "short": "HCL Alexandria nr. 182/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 182/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-182_28.05.2025.pdf",
+     "sha256": "133a965424c4040dfe13460fd3e2e7c3d987ca98db9382f3d60ac7aef51f0c25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-183-2025",
+   "path": "local/teleorman/alexandria/2025/183",
+   "short": "HCL Alexandria nr. 183/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 183/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-05-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-183_28.05.2025.pdf",
+     "sha256": "dd13c726e49ec67af718cc8969545ed1eb85a5e7fac4ed0d7f746d55cb977a35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-197-2025",
+   "path": "local/teleorman/alexandria/2025/197",
+   "short": "HCL Alexandria nr. 197/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 197/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/HCL-197.pdf",
+     "sha256": "4bf3e1b69482c9e08634f880cd5c50322d944ef3a9951fcd238387910ab3d58d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-21-2025",
+   "path": "local/teleorman/alexandria/2025/21",
+   "short": "HCL Alexandria nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 21/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/HCL-21.pdf",
+     "sha256": "9144a09ecc5517984e194440109b882fd1a50f84843e4387d700bd5a1577c541"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-212-2025",
+   "path": "local/teleorman/alexandria/2025/212",
+   "short": "HCL Alexandria nr. 212/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 212/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-212_30.06.2025.pdf",
+     "sha256": "cf3496e78db3d6f22286f321d86855de797c80fdda7b9574158c352bd3f5200d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-338-2025",
+   "path": "local/teleorman/alexandria/2025/338",
+   "short": "HCL Alexandria nr. 338/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 338/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-338_29.10.2025.pdf",
+     "sha256": "7d37ff7bf4c55ea9319569fcdc25ad95e6941b7b5090289a2ea034a20994b8ce"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-343-2025",
    "path": "local/teleorman/alexandria/2025/343",
    "short": "HCL Alexandria nr. 343/2025",
@@ -14,6 +134,51 @@
      "units": 1,
      "source_url": "https://alexandria.ro/storage/formidable/69/HCL-343.pdf",
      "sha256": "b7b9fa05a95e478ce51f2b09f339ff154a71d2f1c7cda318a688aa6377fcaa10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-350-2025",
+   "path": "local/teleorman/alexandria/2025/350",
+   "short": "HCL Alexandria nr. 350/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 350/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-350_29.11.2025.pdf",
+     "sha256": "0c56ba53a0e04d85cdaa372a812564619fc2e97301b24a40ef02410a0d87c34a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-4-2025",
+   "path": "local/teleorman/alexandria/2025/4",
+   "short": "HCL Alexandria nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 4/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2025/",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/69/1.-HCL-04-din-31.01.2025.pdf",
+     "sha256": "071fa397c0f4be3e8d9ff6009720e17bc014c7bb7c829cdc1d7c5d85ed40ff46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-64-2025",
+   "path": "local/teleorman/alexandria/2025/64",
+   "short": "HCL Alexandria nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 64/2025",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-64_25.02.2026.pdf",
+     "sha256": "f36c14ec4fd08e477efb46e4f74fde47ea5ce23a9bc575fd680596467d8283a3"
     }
    ]
   }

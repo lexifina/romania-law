@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2008",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-2-2008",
+   "path": "local/teleorman/alexandria/2008/2",
+   "short": "HCL Alexandria nr. 2/2008",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 2/2008",
+   "url": "https://alexandria.ro/anexa-la-hcl-nr-2_29-ian-2008/",
+   "versions": [
+    {
+     "from": "2008-01-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/Anexa-la-HCL-nr-2_29-ian-2008.pdf",
+     "sha256": "2319be0953a281202db3254a2230b9200fcf1eb402c31c08651b97fabc2cdd05"
+    }
+   ]
+  }
+ ]
+}

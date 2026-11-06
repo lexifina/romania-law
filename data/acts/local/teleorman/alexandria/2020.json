@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2020",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-49-2020",
+"path": "local/teleorman/alexandria/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 49/2020",
+"short": "HCL Alexandria nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-25",
+"latest": "2020-11-25",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-9-din-28-10-2020-privind-asigurarea-de-materiale-de-protectie-sanitara-in-mod-gratuit-cetatenilor-municipiului-alexandria-care-participa-la-scrutinul-pen/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-86-2020",
+"path": "local/teleorman/alexandria/2020/86",
+"kind": "local",
+"year": "2020",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 86/2020",
+"short": "HCL Alexandria nr. 86/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-anexei-la-hcl-nr-37-din-16-septembrie-2008-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-consiliului-local-al-municipiului-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

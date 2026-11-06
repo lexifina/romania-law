@@ -3,6 +3,246 @@
  "shard": "local/teleorman/alexandria/2024",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-1-2024",
+   "path": "local/teleorman/alexandria/2024/1",
+   "short": "HCL Alexandria nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 1/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-01_19.01.2024.pdf",
+     "sha256": "4b86831161c5ac0b0575a131d63fd8587e2be999952d5ff824e7c4fa18bd8f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-10-2024",
+   "path": "local/teleorman/alexandria/2024/10",
+   "short": "HCL Alexandria nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 10/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-10_19.01.2024.pdf",
+     "sha256": "ad02e375506830c7bf10d536dc8d721f2a79b493955b0c29229ba7259233f493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-111-2024",
+   "path": "local/teleorman/alexandria/2024/111",
+   "short": "HCL Alexandria nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 111/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/1.-HCL-111_29.03.2024.pdf",
+     "sha256": "49620a2d25ff45bd66aa5ed6b74a69589e6352f648226f81b19dcfe439b2f135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-125-2024",
+   "path": "local/teleorman/alexandria/2024/125",
+   "short": "HCL Alexandria nr. 125/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 125/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/67/1.-HCL-125_20.12.2024.pdf",
+     "sha256": "79a76d749951241ad11027711ef7332b602d6b92620c20b9bc0ff00501c1ca41"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-127-2024",
+   "path": "local/teleorman/alexandria/2024/127",
+   "short": "HCL Alexandria nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 127/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-127.pdf",
+     "sha256": "91362b20507382e63b30dd3cd465c342913c451d0fa03bb191a92b3449784e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-163-2024",
+   "path": "local/teleorman/alexandria/2024/163",
+   "short": "HCL Alexandria nr. 163/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 163/2024 Privind: modificarea și completarea Art.1 și Anexei 1, poziția 1 (Lista cu elementele terenurilor care atestă apartenența la domeniul public al municipiului Alexandria) la H.C.L.nr.115/29.03.2024, privind atestarea apartenenței la domeniul public a unor terenuri din municipiul Alexandria",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-05-16",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-163-.pdf",
+     "sha256": "ac56f26a7248a53cc8633f235b88abe63cf213393160ef2513df25abe8257b28"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-18-2024",
+   "path": "local/teleorman/alexandria/2024/18",
+   "short": "HCL Alexandria nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 18/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-18_29.01.2024.pdf",
+     "sha256": "582971b0352189b15867eac458bcefefee28b019cb8b6ed153c77437131cdd86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-191-2024",
+   "path": "local/teleorman/alexandria/2024/191",
+   "short": "HCL Alexandria nr. 191/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 191/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/1-HCL-nr-191-din-29.05.2024.pdf",
+     "sha256": "63e194869326a0127925220596dc55abcc870cfb5cce925139ada4290c616f27"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-2-2024",
+   "path": "local/teleorman/alexandria/2024/2",
+   "short": "HCL Alexandria nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 2/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-19",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-02_19.01.2024.pdf",
+     "sha256": "bbf3f44d1c2a1d8b78991681e2a44fbf509628d3ccd1dcc117b901b9971edf4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-288-2024",
+   "path": "local/teleorman/alexandria/2024/288",
+   "short": "HCL Alexandria nr. 288/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 288/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/1.-HCL-288_21.08.2024.pdf",
+     "sha256": "f6c14cb58f87bb9040f94d6ed5f38f8829b104fdf75bc6b01b2bd3ac069bfaff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-33-2024",
+   "path": "local/teleorman/alexandria/2024/33",
+   "short": "HCL Alexandria nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 33/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/67/HCL-33.pdf",
+     "sha256": "1553d258332e7bea59e693e16a71becdf50a1bae1e4a36a592d09cddca700850"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-343-2024",
+   "path": "local/teleorman/alexandria/2024/343",
+   "short": "HCL Alexandria nr. 343/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 343/2024 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 13.500.000 lei Vizualizare",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-343.pdf",
+     "sha256": "240340630f1ebc6fce6229df82297888b6d217c072d03e5a4077e8f18996bac1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-352-2024",
+   "path": "local/teleorman/alexandria/2024/352",
+   "short": "HCL Alexandria nr. 352/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 352/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-09-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/1.-HCL-352_25.09.2024.pdf",
+     "sha256": "2385c766d94a6ed464364a8c31709bfaeccd5cbc31b4cf396cab8774d964df1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-41-2024",
+   "path": "local/teleorman/alexandria/2024/41",
+   "short": "HCL Alexandria nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 41/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-41_29.01.2024.pdf",
+     "sha256": "798ed43acf669b2248e7110b76a8106028d20cf950de8d277ab34da49dfd442b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-45-2024",
+   "path": "local/teleorman/alexandria/2024/45",
+   "short": "HCL Alexandria nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 45/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/65/HCL-45_29.01.2024.pdf",
+     "sha256": "b8284b402348807fe05a1a80e913486268862a60405852f893f9a9effd4664ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-47-2024",
+   "path": "local/teleorman/alexandria/2024/47",
+   "short": "HCL Alexandria nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 47/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/67/1.-HCL-47_26.11.2024.pdf",
+     "sha256": "d3b4c7507ac98c97f4d699ee82fed64384ae7432558c32382d3fdc2eec23b62f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-5-2024",
    "path": "local/teleorman/alexandria/2024/5",
    "short": "HCL Alexandria nr. 5/2024",
@@ -14,6 +254,36 @@
      "units": 1,
      "source_url": "https://alexandria.ro/storage/formidable/67/1.-HCL-nr.-05_29.10.2024.pdf",
      "sha256": "d2110c097af11605c652f822f3766794de29a51da13bd30b5da1767aa20aa1b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-50-2024",
+   "path": "local/teleorman/alexandria/2024/50",
+   "short": "HCL Alexandria nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 50/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+   "versions": [
+    {
+     "from": "2024-11-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/67/1.-HCL-50_29.11.2024.pdf",
+     "sha256": "64266736b44ba4f8cd5bdb91c35454b3c4732b22656fce5ffee7cca17cf6479d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-93-2024",
+   "path": "local/teleorman/alexandria/2024/93",
+   "short": "HCL Alexandria nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 93/2024",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2024-mandat-nou/",
+   "versions": [
+    {
+     "from": "2024-12-05",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/67/1.-HCL-93_05.12.2024.pdf",
+     "sha256": "88b05fe85f0f6175613c93dd09665b9d8747ff3d8801220203390ddfb49061cc"
     }
    ]
   }

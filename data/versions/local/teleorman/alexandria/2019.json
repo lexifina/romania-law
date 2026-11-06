@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2019",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-112-2019",
+   "path": "local/teleorman/alexandria/2019/112",
+   "short": "HCL Alexandria nr. 112/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 112/2019",
+   "url": "https://alexandria.ro/priveste-desfasurarea-adunarilor-publice-in-perioada-principalelor-manifestari-cultural-artistice-sportive-si-de-tineret-prevazute-in-hcl-nr-05-30-01-2019-sau-lucrari-edilitare/",
+   "versions": [
+    {
+     "from": "2019-04-12",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-112_12-apr-2019.pdf",
+     "sha256": "9e703f22a9533256943b768c84bdb5ff744bd84cc40914b5de9ed9661868dd1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-130-2019",
+   "path": "local/teleorman/alexandria/2019/130",
+   "short": "HCL Alexandria nr. 130/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 130/2019",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-185-28-06-2017-privind-regulamentul-de-convietuire-sociala-in-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-130_24-apr-2019.pdf",
+     "sha256": "4c30061376b54cf0b810485ce335f1032a8fa5f735f0b53945d6a6ebaf57dc1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-317-2019",
+   "path": "local/teleorman/alexandria/2019/317",
+   "short": "HCL Alexandria nr. 317/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 317/2019",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-1-din-21-iunie-2016-privind-alegerea-comisiei-de-validare-a-consiliului-local-al-municipiului-alexandria-2/",
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-317_14-OCT-2019.pdf",
+     "sha256": "67817d37f404743f19a323c2d4a1dacea4987ac839b6aa6b4e6107cefbeeb0b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-323-2019",
+   "path": "local/teleorman/alexandria/2019/323",
+   "short": "HCL Alexandria nr. 323/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 323/2019",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-6-21-06-2016-cu-privire-la-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria-4/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-323_31.pdf",
+     "sha256": "0514559dbe4406af81496fcd3d71c262050c6e1f7b7f03ae7374807e9cbe0faa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-53-2019",
+   "path": "local/teleorman/alexandria/2019/53",
+   "short": "HCL Alexandria nr. 53/2019",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 53/2019",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-128-din-24-04-2019/",
+   "versions": [
+    {
+     "from": "2019-07-24",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/adresa-nr.-53-din-24.07.20191.pdf",
+     "sha256": "5aa93e95559b83253e71cbf862e7e1820aaac43ff59bb64f7e74766662ec0288"
+    }
+   ]
+  }
+ ]
+}

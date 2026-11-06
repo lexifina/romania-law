@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/timis/timisoara/2025",
+ "acts": [
+  {
+   "slug": "hcl-timis--timisoara-267-2025",
+   "path": "local/timis/timisoara/2025/267",
+   "short": "HCL Timișoara nr. 267/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Timișoara nr. 267/2025",
+   "url": "https://www.primariatm.ro/transparenta/monitorul-oficial/alte-documente",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://assets.primariatm.ro/ea950e72-3bf3-4237-89cb-328e668a890d/Adresa%20si%20sentinta%20Cresta.pdf",
+     "sha256": "d411e8fc391ffb41a03a26bf7d90159cefa675cf73c0f5134ad850ea3eab30fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--timisoara-629-2025",
+   "path": "local/timis/timisoara/2025/629",
+   "short": "HCL Timișoara nr. 629/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Timișoara nr. 629/2025",
+   "url": "https://www.primariatm.ro/transparenta/monitorul-oficial/alte-documente",
+   "versions": [
+    {
+     "from": "2025-07-08",
+     "units": 1,
+     "source_url": "https://assets.primariatm.ro/1e29bf29-b6bb-4211-a9d6-ce8468d3d7c1/Sentinta_629.pdf",
+     "sha256": "631a8a944b62542c6405f81dc9af5791c3c624eafc4fc98d02c1bda1542677e3"
+    }
+   ]
+  }
+ ]
+}

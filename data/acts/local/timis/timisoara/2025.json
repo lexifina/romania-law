@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/timis/timisoara/2025",
+"acts": [
+{
+"slug": "hcl-timis--timisoara-267-2025",
+"path": "local/timis/timisoara/2025/267",
+"kind": "local",
+"year": "2025",
+"number": "267",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Timișoara nr. 267/2025",
+"short": "HCL Timișoara nr. 267/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-02",
+"latest": "2025-04-02",
+"portal": "https://www.primariatm.ro/transparenta/monitorul-oficial/alte-documente",
+"council": "timis/timisoara",
+"council_name": "Consiliul Local al Municipiului Timișoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-timis--timisoara-629-2025",
+"path": "local/timis/timisoara/2025/629",
+"kind": "local",
+"year": "2025",
+"number": "629",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Timișoara nr. 629/2025",
+"short": "HCL Timișoara nr. 629/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-08",
+"latest": "2025-07-08",
+"portal": "https://www.primariatm.ro/transparenta/monitorul-oficial/alte-documente",
+"council": "timis/timisoara",
+"council_name": "Consiliul Local al Municipiului Timișoara",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

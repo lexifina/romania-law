@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/rosiorii-de-vede/2000",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--rosiorii-de-vede-85-2000",
+   "path": "local/teleorman/rosiorii-de-vede/2000/85",
+   "short": "HCL Roșiorii de Vede nr. 85/2000",
+   "title": "Hotărârea Consiliului Local al Municipiului Roșiorii de Vede nr. 85/2000 privind infintarea unei strazi si atribuirea numelui de Aleea Lotrului.pdf)",
+   "url": "https://www.primariarosioriidevede.ro/index.php/ro/arhiva",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 1,
+     "source_url": "https://www.primariarosioriidevede.ro/attachments/article/530/HCL%20nr.%2085%20din%2020%20decembrie%202000%20privind%20infintarea%20unei%20strazi%20si%20atribuirea%20numelui%20de%20Aleea%20Lotrului.pdf",
+     "sha256": "9532ede1820fc475a3724f041a10e41209cb5184192f8d2a962111f00a3c5485"
+    }
+   ]
+  }
+ ]
+}

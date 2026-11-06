@@ -3,6 +3,201 @@
  "shard": "local/teleorman/alexandria/2026",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-226-2026",
+   "path": "local/teleorman/alexandria/2026/226",
+   "short": "HCL Alexandria nr. 226/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 226/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/HCL-226.pdf",
+     "sha256": "52f3895f4a7900c5d39b306042768582666020ce0b78861a4402a1d11dff7db1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-229-2026",
+   "path": "local/teleorman/alexandria/2026/229",
+   "short": "HCL Alexandria nr. 229/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 229/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-229_26.06.2026.pdf",
+     "sha256": "8cafcf9049dd431a26f07d7cfefd2555e4c692c6482f8849b02096e3caf5e1f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-237-2026",
+   "path": "local/teleorman/alexandria/2026/237",
+   "short": "HCL Alexandria nr. 237/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 237/2026 privind abrogarea poziției nr.2 din Anexa nr.1 la HCL nr. 147/29.04.2026, referitoare la stabilirea unor amplasamente pentru staționare taxi în municipiul Alexandria",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-237_26.06.2026.pdf",
+     "sha256": "3824f4769f5b04b8b20405073786e34488a7bf24b7dbb32ab3c8e50e4ef52697"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-253-2026",
+   "path": "local/teleorman/alexandria/2026/253",
+   "short": "HCL Alexandria nr. 253/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 253/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-253_28.07.2026.pdf",
+     "sha256": "865df4cb0aa2a316fec77ee96970abd74d02d1311af76abfaaac7375b06da0d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-272-2026",
+   "path": "local/teleorman/alexandria/2026/272",
+   "short": "HCL Alexandria nr. 272/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 272/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/HCL-272_28.07.2026.pdf",
+     "sha256": "7436ba8743df775e09980f3961e37f821a7175a39c4da88eba0f2c6a9ac2bf69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-28-2026",
+   "path": "local/teleorman/alexandria/2026/28",
+   "short": "HCL Alexandria nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 28/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-28_28.01.2026.pdf",
+     "sha256": "70b302e893bd190029c1c4f663ff5e5822f46712e7bdd41053bb0a82c96a6e46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-323-2026",
+   "path": "local/teleorman/alexandria/2026/323",
+   "short": "HCL Alexandria nr. 323/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 323/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-323_07.09.2026.pdf",
+     "sha256": "1862a8f39e92dfd5c61b3472397e5cf302ec5ff98752e5fb1f56d9ad4be790b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-329-2026",
+   "path": "local/teleorman/alexandria/2026/329",
+   "short": "HCL Alexandria nr. 329/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 329/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-329_28.09.2026.pdf",
+     "sha256": "56493b37f78edc08eb8e02f54423852118863c81d34968fda0c67b04c63fcd1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-359-2026",
+   "path": "local/teleorman/alexandria/2026/359",
+   "short": "HCL Alexandria nr. 359/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 359/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-359_28.09.2026.pdf",
+     "sha256": "52a3462e7f346c0f825616e5c0b1dd4625c0da2ba918c869d68ad050695aa699"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-363-2026",
+   "path": "local/teleorman/alexandria/2026/363",
+   "short": "HCL Alexandria nr. 363/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 363/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-nr-363_28.09.2026.pdf",
+     "sha256": "a0f5ead6f33bc9a88dabd03656a1cb5dcaff9d15b91dd9c8bb6add95347432d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-40-2026",
+   "path": "local/teleorman/alexandria/2026/40",
+   "short": "HCL Alexandria nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 40/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-40_25.02.2026.pdf",
+     "sha256": "658eeb84ef719ab19ca6d027ae7b7de442fa10d598fe173a21a3d7e08f7e712b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-65-2026",
+   "path": "local/teleorman/alexandria/2026/65",
+   "short": "HCL Alexandria nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 65/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-65_25.02.2026.pdf",
+     "sha256": "2114062f5c92ca525c308e34e23b9a594210cc2b784c539af0b651f401200873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-68-2026",
+   "path": "local/teleorman/alexandria/2026/68",
+   "short": "HCL Alexandria nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 68/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-68_25.02.2026.pdf",
+     "sha256": "ff91399b4e4bac7919a0554fb4ade072bc4ea142c183d44c325dd9090abb621b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-7-2026",
    "path": "local/teleorman/alexandria/2026/7",
    "short": "HCL Alexandria nr. 7/2026",
@@ -14,6 +209,81 @@
      "units": 1,
      "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-07_22.01.2026.pdf",
      "sha256": "5fb9d22675a625c7bfe9b74bd1cd19f2be8338d9b69fb0b66d51404d5a696b56"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-74-2026",
+   "path": "local/teleorman/alexandria/2026/74",
+   "short": "HCL Alexandria nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 74/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/HCL-74.pdf",
+     "sha256": "cef9459d08e328c731ffa0dd1c93989ec9e96f80e8e8ca141d76e5ea70404002"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-75-2026",
+   "path": "local/teleorman/alexandria/2026/75",
+   "short": "HCL Alexandria nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 75/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-75_10.03.2026.pdf",
+     "sha256": "276a9e65c2c91b7d0dfb6d66d6b075dce30c105b1ee37446b87bf46674914718"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-76-2026",
+   "path": "local/teleorman/alexandria/2026/76",
+   "short": "HCL Alexandria nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 76/2026 privind abrogarea pozițiilor nr. 1 și nr. 2 din Anexa nr. 1 la HCL nr. 118/20.12.2024 referitoare la atestarea apartenței la domeniul public a unor terenuri din municipiul Alexandria",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-76_10.03.2026.pdf",
+     "sha256": "51130575076dc251e5bb2ffbe4d341075cc4ac33f9a9ff8085406386724b7ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-79-2026",
+   "path": "local/teleorman/alexandria/2026/79",
+   "short": "HCL Alexandria nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 79/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-79_31.03.2026.pdf",
+     "sha256": "4a294af1c039c752187be89f9937957909944c4e8c4c5a7b598beb33fa5e6263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-80-2026",
+   "path": "local/teleorman/alexandria/2026/80",
+   "short": "HCL Alexandria nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 80/2026",
+   "url": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2026/",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/formidable/71/1.-HCL-80_31.03.2026.pdf",
+     "sha256": "348e01a46c6030d384f5c09c5db894d22a1c564ddc59db66721e7187a9b5c2fb"
     }
    ]
   }

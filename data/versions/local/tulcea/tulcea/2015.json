@@ -3,6 +3,141 @@
  "shard": "local/tulcea/tulcea/2015",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-10-2015",
+   "path": "local/tulcea/tulcea/2015/10",
+   "short": "HCL Tulcea nr. 10/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 10/2015 Privind aprobarea utilizării excedentului din anii precedenţi pentru acoperirea deficitului Sectiunii de Dezvoltare înregistrat la sfârşitul anului 2014",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/10.pdf",
+     "sha256": "ad79a25855af2529b18bd0f179a570fe922ca2eb399a7aeadbf34aff4387a8cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-101-2015",
+   "path": "local/tulcea/tulcea/2015/101",
+   "short": "HCL Tulcea nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 101/2015 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL “ÎMBUNĂTĂŢIREA CAPACITĂŢII DE PRELUARE A APELOR METEORICE DIN MUNICIPIUL TULCEA“ ŞI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-05-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/101.pdf",
+     "sha256": "7ab07bbbbea87842179ad3a3ee665616c3ad5b4afc842ba80736a604800d9b40"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-105-2015",
+   "path": "local/tulcea/tulcea/2015/105",
+   "short": "HCL Tulcea nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 105/2015 Privind aprobarea organigramei şi statului de funcţii ale aparatului de specialitate al Primarului Municipiului Tulcea şi structurilor fără personalitate juridică subordonate Consiliului Local al Municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/105.pdf",
+     "sha256": "a0cc10c7dce5e2f51547d86f4067e6fd13599cd93590feb31ce890378512fa46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-117-2015",
+   "path": "local/tulcea/tulcea/2015/117",
+   "short": "HCL Tulcea nr. 117/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 117/2015 Privind scutirea de la plata impozitului pe clădiri datorat bugetului local de Asociaţia “Casiana”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/117.pdf",
+     "sha256": "17fb57fe2a2a51d612477d7027e02641a2a433f507896785c36af6b6005b177c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-13-2015",
+   "path": "local/tulcea/tulcea/2015/13",
+   "short": "HCL Tulcea nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 13/2015 Privind stabilirea unor situaţii deosebite în care pot fi acordate ajutoare de urgenţă şi a formularului de cerere privind acordarea beneficiilor sociale din bugetul local",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/13.pdf",
+     "sha256": "128a145f1dd4cc785b9db4ff69b653edb5a4e813ea47211fb2c9da6810b9fb72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-136-2015",
+   "path": "local/tulcea/tulcea/2015/136",
+   "short": "HCL Tulcea nr. 136/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 136/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/136.pdf",
+     "sha256": "efa4d11bdbf9a5d171d1e7019858e0669334321896e17b020783ab21b25ba2b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-137-2015",
+   "path": "local/tulcea/tulcea/2015/137",
+   "short": "HCL Tulcea nr. 137/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 137/2015 Privind trecerea din domeniul public al municipiului Tulcea in domeniul privat al municipiului Tulcea a 4 centrale termice, care deservesc locuintele ANL situate in Tulcea pe str.Izvorului, nr. 4, nr. 6 si nr. 8",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/137.pdf",
+     "sha256": "692d86e075bc0e011b7257cfc99caffd7f098bf8a7e080d2f8edac02e8f9bae8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-138-2015",
+   "path": "local/tulcea/tulcea/2015/138",
+   "short": "HCL Tulcea nr. 138/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 138/2015 Privind atribuirea in folosinta gratuita pe toata perioada existentei constructiilor a terenurilor din domeniul privat al municipiului, aferente locuintelor tip ANL, situate in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/138.pdf",
+     "sha256": "0a3b91564231ba8665df3b7cbcc474b9684ac895307049233e5209d64263a89a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-140-2015",
+   "path": "local/tulcea/tulcea/2015/140",
+   "short": "HCL Tulcea nr. 140/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 140/2015 Privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 30 mp, situat in Tulcea, strada Eternitatii FN (spate bl.N7) si inchirierea acestuia prin licitaţie pentru amplasarea provizorie a unui atelier de pictura icoane",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-09-24",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/140.pdf",
+     "sha256": "d1f86a51fe03a4f411f8dcd5a355fb0bb59360b5e407bbed78eed81161bde62e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-142-2015",
    "path": "local/tulcea/tulcea/2015/142",
    "short": "HCL Tulcea nr. 142/2015",
@@ -33,6 +168,96 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-162-2015",
+   "path": "local/tulcea/tulcea/2015/162",
+   "short": "HCL Tulcea nr. 162/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 162/2015 Privind inventarierea in domeniul public al municipiului a terenului in suprafata de 17,71 mp, situat in Tulcea la intersectia strazii Iuliu Maniu cu strada Spitalului si darea acestuia in folosinta gratuita catre S.C",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/162.pdf",
+     "sha256": "707233e18e2e6f9615a0f873ad387a3c692addd5d891e9fb0efd69f331362b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-163-2015",
+   "path": "local/tulcea/tulcea/2015/163",
+   "short": "HCL Tulcea nr. 163/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 163/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/163.pdf",
+     "sha256": "ffe801e57e43213951d24071aab7ec45652331d0c92b5e73f5a4432aebb9c0be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-164-2015",
+   "path": "local/tulcea/tulcea/2015/164",
+   "short": "HCL Tulcea nr. 164/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 164/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/164.pdf",
+     "sha256": "a96e9b9d3ac2ce48e1e8128e2bc4c7adb3a75051e7062aa61e609cfb2dfa0f84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-165-2015",
+   "path": "local/tulcea/tulcea/2015/165",
+   "short": "HCL Tulcea nr. 165/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 165/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/165.pdf",
+     "sha256": "8f2e29f47aac7a50760759a469478b8a0d806286483e05485c74ef9a22dec5e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-166-2015",
+   "path": "local/tulcea/tulcea/2015/166",
+   "short": "HCL Tulcea nr. 166/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 166/2015 pentru spatiu depozitare si aprobarea PUD “Concesionare teren pentru extindere constructie existenta cu spatiu depozitare”",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/166.pdf",
+     "sha256": "70a3f7774797435793005cf9946b780b1eb8f74ef1b7d6ee8c92736900f26ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-175-2015",
+   "path": "local/tulcea/tulcea/2015/175",
+   "short": "HCL Tulcea nr. 175/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 175/2015 Privind aprobarea prelungirii duratei Contractului nr. 12.420/26.04.2006 de delegare a gestiunii serviciului public de intretinere, administrare si exploatare a pietelor agroalimentare din Municipiul Tulcea prin concesiune, prin Act Aditional",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/175.pdf",
+     "sha256": "f6fa06ec5cb0ee160ffb93f49bbd0b3ecebca2a6bf72670ca164e1e1048daa4a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-176-2015",
    "path": "local/tulcea/tulcea/2015/176",
    "short": "HCL Tulcea nr. 176/2015",
@@ -44,6 +269,21 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/176.pdf",
      "sha256": "ed8895a18735e96bc3fa27ce2ae684e34e51af539d2287049cab16ae454ebc4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-179-2015",
+   "path": "local/tulcea/tulcea/2015/179",
+   "short": "HCL Tulcea nr. 179/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 179/2015 PRIVIND ALEGEREA PREȘEDINTELUI DE ȘEDINȚĂ Consiliul Local al Municipiului Tulcea, județul Tulcea, întrunit în ședintă ordinară la data de 26 noiembrie 2015; În baza dispozițiilor art. 13, alin. (1) din Regulamentul de Organizare și Funcționare al Consiliului Local al Municipiului Tulcea, aprobat prin Hotărârea Consiliului Local nr. 29/2008; Având în vedere prevederile art. 41 din Legea nr. 215/200",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/179.pdf",
+     "sha256": "b02faea7bf41bce44ec2c1571a09997c10f1efa2dcf4ffc3cf100e759393aa24"
     }
    ]
   },
@@ -63,6 +303,111 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-190-2015",
+   "path": "local/tulcea/tulcea/2015/190",
+   "short": "HCL Tulcea nr. 190/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 190/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/190.pdf",
+     "sha256": "fc16ad6ae24fc6ccd9cd7be005a4e28c6b3a7409967fb2278d1b000a91ecb7bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-191-2015",
+   "path": "local/tulcea/tulcea/2015/191",
+   "short": "HCL Tulcea nr. 191/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 191/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/191.pdf",
+     "sha256": "683b0f9a56deb43c9ad8631e16b97eb2e99e6f1577eed0a33fab388e03a0875c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-195-2015",
+   "path": "local/tulcea/tulcea/2015/195",
+   "short": "HCL Tulcea nr. 195/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 195/2015 privind modificarea art.1, lit.a) din HCL nr.20/2012 pentru stabilirea comisiei de evaluare a ofertelor și a comisiei de solutionare a contestatiilor privind concesionarea sau inchirierea bunurilor din domeniul public si privat al municipiului Tulcea Consiliul Local al Municipiului Tulcea, intrunit în sedinta ordinara din data de 26 noiembrie 2015; Examinand proiectul de hotarare privind modificar",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-11-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/195.pdf",
+     "sha256": "cebea425e913c28090cb385b53a55ba8c61d1fbaaf8cb023bccacec9dcf7c27e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-197-2015",
+   "path": "local/tulcea/tulcea/2015/197",
+   "short": "HCL Tulcea nr. 197/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 197/2015 PRIVIND APROBAREA LISTEI DE INVESTITII IN CARE SUNT CUPRINSE CONTRACTELE DE FINANTARE NERAMBURSABILA A CAROR DURATA SE PRELUNGESTE IN ANUL 2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-12-07",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/197.pdf",
+     "sha256": "eb6403a8c46f137ee13578bfe8f3213a7d3f279f868d6badde8e0dc607fcebc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-200-2015",
+   "path": "local/tulcea/tulcea/2015/200",
+   "short": "HCL Tulcea nr. 200/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 200/2015 privind acordarea normei de hrană personalului din cadrul Direcţiei de Poliţie Locală din aparatul de specialitate al Primarului Municipiului Tulcea în anul 2016",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/200.pdf",
+     "sha256": "43acef9539b5f582f3ae8b9d417bbd6f7e30622e3ac8b5d12b6d4a37822571fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-211-2015",
+   "path": "local/tulcea/tulcea/2015/211",
+   "short": "HCL Tulcea nr. 211/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 211/2015 privind inventarierea in domeniul privat al municipiului a terenului in suprafata de 6,75 mp, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/211.pdf",
+     "sha256": "a6d55c10608398143f78625ad2e02cd8bcfeaea463870fe5b4883b653f35a3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-212-2015",
+   "path": "local/tulcea/tulcea/2015/212",
+   "short": "HCL Tulcea nr. 212/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 212/2015 privind trecerea din domeniul public in domeniul privat al municipiului a terenului in suprafata de 382 mp, situat in Tulcea, str.Babadag, nr.125, concesionarea acestuia prin incredintare directa pentru extindere hotel si aprobarea PUZ “ EXTINDERE HOTEL CITY CU DOUA CORPURI ALIPITE P+2E SI P+7E, CONCESIONARE TEREN” şi a Regulamentului local de urbanism aferent",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/212.pdf",
+     "sha256": "636ced9f5b0caa495118afa4b5ba21310ae88238ec3eee80679586db651342d3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-25-2015",
    "path": "local/tulcea/tulcea/2015/25",
    "short": "HCL Tulcea nr. 25/2015",
@@ -74,6 +419,201 @@
      "units": 8,
      "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/25.pdf",
      "sha256": "05a8019d995e88042b4d81d2b71cb581d7a83ae64c8cf33583a1837899a84afc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-29-2015",
+   "path": "local/tulcea/tulcea/2015/29",
+   "short": "HCL Tulcea nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 29/2015 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/29.pdf",
+     "sha256": "126c947b2ad5ec78de4dab3827760888c5445d531e6612d940c1b83559f47037"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-32-2015",
+   "path": "local/tulcea/tulcea/2015/32",
+   "short": "HCL Tulcea nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 32/2015 PRIVIND APROBAREA STUDIULUI DE FEZABILITATE PENTRU OBIECTIVUL “MODERNIZAREA SISTEMULUI RUTIER, REABILITAREA CONDUCTEI DE ALIMENTARE CU APĂ ŞI REABILITAREA, EXTINDEREA REŢELEI DE COLECTARE APE MENAJERE DE PE STR. AURELIANĂ ŞI STR. LUTERANĂ, MUNICIPIUL TULCEA“ ŞI A INDICATORILOR TEHNICO-ECONOMICI",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-02-09",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/32.pdf",
+     "sha256": "5a2734eec5ddfc990b9257d8e2dc6a46ba32053b9c739270a86e868c46ab28ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-44-2015",
+   "path": "local/tulcea/tulcea/2015/44",
+   "short": "HCL Tulcea nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 44/2015 Privind aprobarea comisiei speciale pentru inventarierea bunurilor care alcatuiesc domeniul privat al municipiului Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/44.pdf",
+     "sha256": "0490e0445d3260e528b26175b762a2e427d237a6c01d79fda87b4e986d3ec582"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-46-2015",
+   "path": "local/tulcea/tulcea/2015/46",
+   "short": "HCL Tulcea nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 46/2015 Privind darea in folosinta gratuita catre Administratia Rezervatiei Biosferei Delta Dunarii a 6 loturi de teren in suprafata de 0,98 mp fiecare, situate in diverse locuri din municipiul Tulcea, in vederea amplasarii a 6 panouri de informare si de semnalizare a zonelor strict protejate",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/46.pdf",
+     "sha256": "ac7d7d990ee3d6923e62e8616a4ac5cc236ee63e628572c88368d13dbd93cf1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-47-2015",
+   "path": "local/tulcea/tulcea/2015/47",
+   "short": "HCL Tulcea nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 47/2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/47.pdf",
+     "sha256": "9aa3db9c0e561745b174dd1d8a383ebc6aa45170c557cdba2fc0ba33a1797644"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-49-2015",
+   "path": "local/tulcea/tulcea/2015/49",
+   "short": "HCL Tulcea nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 49/2015 Privind trecerea din domeniul public in domeniul privat al municipiului Tulcea a 60 barci de agrement, 69 hidrobiciclete si 20 motoare pentru hidrobiciclete in vederea valorificarii si/sau casarii acestora",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-03-26",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/49.pdf",
+     "sha256": "172ac19100a501c66ec972e8e2be526d6aa997595ca18d6c3aa97d62c9a20fea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-7-2015",
+   "path": "local/tulcea/tulcea/2015/7",
+   "short": "HCL Tulcea nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 7/2015 Privind aprobarea bugetului de venituri si cheltuieli pe anul 2015 al Directiei de Intretinere si Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-02-13",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/7.pdf",
+     "sha256": "f90a621003c400e39f723d755e640aa12181699bc281ba46cdd1204929542465"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-81-2015",
+   "path": "local/tulcea/tulcea/2015/81",
+   "short": "HCL Tulcea nr. 81/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 81/2015 Privind rectificarea bugetului fondurilor externe nerambursabile al Municipiului Tulcea pe anul 2015",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/81.pdf",
+     "sha256": "a4f4dea338052d936f27ac4e13dc94beae43e64d64ce383fe6c12009169fe74c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-82-2015",
+   "path": "local/tulcea/tulcea/2015/82",
+   "short": "HCL Tulcea nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 82/2015 Privind acordul de principiu pentru vanzarea directa catre SC Energy Group SRL, a terenului in suprafata de 11 mp, apartinand domeniului privat al municipiului, situat in Tulcea, str",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/82.pdf",
+     "sha256": "215585e6e07c55d4fdf4b273da4e41f38808b8d65756798547d17799967e39b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-83-2015",
+   "path": "local/tulcea/tulcea/2015/83",
+   "short": "HCL Tulcea nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 83/2015 Privind concesionarea prin licitatie a terenului in suprafata de 2904,00 mp, apartinand domeniului privat al municipiului, situat in Tulcea, str.Prislav FN, pentru activitati industriale si prestari servicii, aprobarea PUZ “Concesionare teren pentru activitati industriale sau prestari servicii”, str.Prislav FN si a Regulamentului local de urbanism aferent",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-05-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/83.pdf",
+     "sha256": "507e4361935faeb93799caa4bbfb7653918ccc13c66de52cfb4f2886c366bf50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-85-2015",
+   "path": "local/tulcea/tulcea/2015/85",
+   "short": "HCL Tulcea nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 85/2015 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/85.pdf",
+     "sha256": "a8f260b56d489e1c50b6f0c31d44c1f388e2ca32c422c35d549f9331e5b6a188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-94-2015",
+   "path": "local/tulcea/tulcea/2015/94",
+   "short": "HCL Tulcea nr. 94/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 94/2015 Privind acordarea unei prestaţii financiare excepţionale pentru copiii înscrişi în programul Centrului de zi „Aproape de tine” Asociaţia Mâini Întinse",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/94.pdf",
+     "sha256": "fc12b3c49298ca9ee0729c29c0cef59594999bd235b80a945d93acf7f645a461"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-96-2015",
+   "path": "local/tulcea/tulcea/2015/96",
+   "short": "HCL Tulcea nr. 96/2015",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 96/2015 Privind asocierea Consiliul Local al Municipiului Tulcea cu",
+   "url": "https://www.primariatulcea.ro/arhiva-h-c-l/",
+   "versions": [
+    {
+     "from": "2015-07-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/files/legislatie/hcl/2015/96.pdf",
+     "sha256": "d0247d5f542d530639ceecf93e6ab6f371b4ccc750da555250e1af1aab3319b0"
     }
    ]
   }

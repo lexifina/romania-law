@@ -3,6 +3,21 @@
  "shard": "local/teleorman/alexandria/2013",
  "acts": [
   {
+   "slug": "hcl-teleorman--alexandria-115-2013",
+   "path": "local/teleorman/alexandria/2013/115",
+   "short": "HCL Alexandria nr. 115/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 115/2013",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-nr-4-la-hcl-nr-65-31-03-2011-de-stabilire-a-modalitatii-de-delegare-a-gestiunii-si-atribuirea-controlului-de-delegare-gestiunii-catre-sc-piete-si-targuri-srl/",
+   "versions": [
+    {
+     "from": "2013-04-29",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/anexa_la_hcl_nr_115_din_29_apr_2013.pdf",
+     "sha256": "ca81af4c4ea19fcf2262d9f8d5b18ec9cc20c58708781065bf479f6a466e0b49"
+    }
+   ]
+  },
+  {
    "slug": "hcl-teleorman--alexandria-29-2013",
    "path": "local/teleorman/alexandria/2013/29",
    "short": "HCL Alexandria nr. 29/2013",
@@ -14,6 +29,66 @@
      "units": 1,
      "source_url": "https://alexandria.ro/storage/hcl_nr_29_din_30_ian_2013_Cor.pdf",
      "sha256": "e564059bba81eaad8892dba9426b5c453d3b08e211c498b63e68e289fb3b9ed2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-307-2013",
+   "path": "local/teleorman/alexandria/2013/307",
+   "short": "HCL Alexandria nr. 307/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 307/2013 cu privire la infiintarea comisiei de avizare a cererilor de organizare a adunarilor publice din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-141-din-31-octombrie-2007-cu-privire-la-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2013-10-30",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_307_din_30_oct_2013.pdf",
+     "sha256": "d8d09bbdecadfd90323a184b5c20199e4b8db98d58d14b6ee52fe73880cc1cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-362-2013",
+   "path": "local/teleorman/alexandria/2013/362",
+   "short": "HCL Alexandria nr. 362/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 362/2013 cu privire la desemnarea reprezentantilor Consiliului Local al municipiului Alexandria in Consiliile de Administratie ale unitatilor de invatamnat preuniversitar de stat din municipiul Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-302-din-30-octombrie-2013-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_362_din_19_dec_2013.pdf",
+     "sha256": "28cb20ee776ce7e5c7ce7244a57f9d800a612d925a7447c8ff6ffb279269d68b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-39-2013",
+   "path": "local/teleorman/alexandria/2013/39",
+   "short": "HCL Alexandria nr. 39/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 39/2013 privind organizarea comisiilor de specialitate pe domenii de activitate ale Consiliului local al municipiului Alexandria",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-6-21-06-2012-privind-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria/",
+   "versions": [
+    {
+     "from": "2013-02-21",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/hcl_nr_39_din_21_feb_2013.pdf",
+     "sha256": "f41f563ab4487008e1d6496c0ad3c5af9de7ebb3f6a8d42579369f67c50924cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-56-2013",
+   "path": "local/teleorman/alexandria/2013/56",
+   "short": "HCL Alexandria nr. 56/2013",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 56/2013",
+   "url": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-118-31-05-2011-privind-aprobarea-regulamentului-de-convietuire-sociala-in-municipiul-alexandria/",
+   "versions": [
+    {
+     "from": "2013-02-27",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/anexa_la_hcl_nr_56_din_27_feb_2013.pdf",
+     "sha256": "3ef69e042de032306261470866528d12dd587c7369e1a70d33f96753b2fcb936"
     }
    ]
   },

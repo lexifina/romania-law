@@ -1,0 +1,126 @@
+{
+ "country": "RO",
+ "shard": "local/teleorman/alexandria/2014",
+ "acts": [
+  {
+   "slug": "hcl-teleorman--alexandria-152-2014",
+   "path": "local/teleorman/alexandria/2014/152",
+   "short": "HCL Alexandria nr. 152/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 152/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-6-21-06-2012-privind-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria/",
+   "versions": [
+    {
+     "from": "2014-05-15",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-152_15-mai-2014.pdf",
+     "sha256": "4f71197f54feea29a476eea13235d23c4cecda8e9a876f57379226ff0da06080"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-200-2014",
+   "path": "local/teleorman/alexandria/2014/200",
+   "short": "HCL Alexandria nr. 200/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 200/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-83-27-02-2014-privind-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-aga-consiliul-director-si-a-cenzorului-la-asociatia-club-sportiv-basch/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-200_18-iun-2014.pdf",
+     "sha256": "c047c1dfed78d939a53e546fba3ce8414a80ea75651fc0bdd17d2ac624ac34a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-201-2014",
+   "path": "local/teleorman/alexandria/2014/201",
+   "short": "HCL Alexandria nr. 201/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 201/2014",
+   "url": "https://alexandria.ro/priveste-revocarea-hcl-nr-136-29-aprilie-2014/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-201_18-iun-2014.pdf",
+     "sha256": "5df6cece724e605d6dc797732640e0f0106512edd8a91e20a2222b11341b2fb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-205-2014",
+   "path": "local/teleorman/alexandria/2014/205",
+   "short": "HCL Alexandria nr. 205/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 205/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-93-29-04-2013-privind-asocierea-municipiului-alexandria-prin-consiliul-local-al-municipiului-alexandria-cu-sc-piete-si-targuri-alexandria-srl-in-vederea-constituirii-s/",
+   "versions": [
+    {
+     "from": "2014-06-18",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-205_18-iun-2014.pdf",
+     "sha256": "0850df013b5850f830375511a91aa6ac4ebb4aff64cfd68cf55227dc89079773"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-263-2014",
+   "path": "local/teleorman/alexandria/2014/263",
+   "short": "HCL Alexandria nr. 263/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 263/2014",
+   "url": "https://alexandria.ro/priveste-revocarea-hcl-nr-235-30-07-2014-privind-aprobarea-schimbului-de-terenuri-intre-municipiul-alexandria-si-d-l-memis-felix-martin-situate-in-str-negru-voda-nr-141a-respectiv-str-bucurest/",
+   "versions": [
+    {
+     "from": "2014-08-20",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-263_20-aug-2014.pdf",
+     "sha256": "ed28974316c217af2bbb62e022f232872551f6833c3711616352f5c9b0e23a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-295-2014",
+   "path": "local/teleorman/alexandria/2014/295",
+   "short": "HCL Alexandria nr. 295/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 295/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-3-din-11-ianuarie-2011-cu-privire-la-constituirea-comisiei-locale-de-ordine-publica-la-nivelul-municipiului-alexandria-2/",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-295_23-oct-2014.pdf",
+     "sha256": "7b236ad024d934022c5bb5fb7d3c3100667c7a853ee29cee57c1cb3b389692bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-327-2014",
+   "path": "local/teleorman/alexandria/2014/327",
+   "short": "HCL Alexandria nr. 327/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 327/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-302-din-30-octombrie-2013-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d-4/",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-327_23-oct-2014.pdf",
+     "sha256": "ec64fcdcf50fcce4dd24ad2c5d95c402f95ab3bc6f84257176958b6f91fc7c96"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-teleorman--alexandria-82-2014",
+   "path": "local/teleorman/alexandria/2014/82",
+   "short": "HCL Alexandria nr. 82/2014",
+   "title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 82/2014",
+   "url": "https://alexandria.ro/priveste-modificarea-hcl-nr-98-din-23-august-2007-cu-privire-la-asocierea-consiliului-local-al-municipiului-alexandria-cu-asociatia-sportiva-handbal-club-teleorman/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://alexandria.ro/storage/HCL-82_27-FEB-2014.pdf",
+     "sha256": "c78c34b25329d22888807290d43a9b983d086034fbb5dbe271fd1865421ab13f"
+    }
+   ]
+  }
+ ]
+}

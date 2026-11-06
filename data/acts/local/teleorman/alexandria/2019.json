@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2019",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-53-2019",
+"path": "local/teleorman/alexandria/2019/53",
+"kind": "local",
+"year": "2019",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 53/2019",
+"short": "HCL Alexandria nr. 53/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-07-24",
+"latest": "2019-07-24",
+"portal": "https://alexandria.ro/priveste-modificarea-si-completarea-hcl-nr-128-din-24-04-2019/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-112-2019",
+"path": "local/teleorman/alexandria/2019/112",
+"kind": "local",
+"year": "2019",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 112/2019",
+"short": "HCL Alexandria nr. 112/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-12",
+"latest": "2019-04-12",
+"portal": "https://alexandria.ro/priveste-desfasurarea-adunarilor-publice-in-perioada-principalelor-manifestari-cultural-artistice-sportive-si-de-tineret-prevazute-in-hcl-nr-05-30-01-2019-sau-lucrari-edilitare/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-130-2019",
+"path": "local/teleorman/alexandria/2019/130",
+"kind": "local",
+"year": "2019",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 130/2019",
+"short": "HCL Alexandria nr. 130/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-24",
+"latest": "2019-04-24",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-185-28-06-2017-privind-regulamentul-de-convietuire-sociala-in-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-317-2019",
+"path": "local/teleorman/alexandria/2019/317",
+"kind": "local",
+"year": "2019",
+"number": "317",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 317/2019",
+"short": "HCL Alexandria nr. 317/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-14",
+"latest": "2019-10-14",
+"portal": "https://alexandria.ro/priveste-modificarea-hcl-nr-1-din-21-iunie-2016-privind-alegerea-comisiei-de-validare-a-consiliului-local-al-municipiului-alexandria-2/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-323-2019",
+"path": "local/teleorman/alexandria/2019/323",
+"kind": "local",
+"year": "2019",
+"number": "323",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 323/2019",
+"short": "HCL Alexandria nr. 323/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-31",
+"latest": "2019-10-31",
+"portal": "https://alexandria.ro/priveste-modificarea-anexei-la-hcl-nr-6-21-06-2016-cu-privire-la-organizarea-comisiilor-de-specialitate-pe-domenii-de-activitate-ale-consiliului-local-al-municipiului-alexandria-4/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/teleorman/alexandria/2023",
+"acts": [
+{
+"slug": "hcl-teleorman--alexandria-2-2023",
+"path": "local/teleorman/alexandria/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 2/2023",
+"short": "HCL Alexandria nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-4-2023",
+"path": "local/teleorman/alexandria/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 4/2023",
+"short": "HCL Alexandria nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-5-2023",
+"path": "local/teleorman/alexandria/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 5/2023",
+"short": "HCL Alexandria nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-6-2023",
+"path": "local/teleorman/alexandria/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 6/2023",
+"short": "HCL Alexandria nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-25",
+"latest": "2023-01-25",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-87-2023",
+"path": "local/teleorman/alexandria/2023/87",
+"kind": "local",
+"year": "2023",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 87/2023",
+"short": "HCL Alexandria nr. 87/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-16",
+"latest": "2023-03-16",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-117-2023",
+"path": "local/teleorman/alexandria/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 117/2023",
+"short": "HCL Alexandria nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-218-2023",
+"path": "local/teleorman/alexandria/2023/218",
+"kind": "local",
+"year": "2023",
+"number": "218",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 218/2023",
+"short": "HCL Alexandria nr. 218/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-28",
+"latest": "2023-06-28",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-264-2023",
+"path": "local/teleorman/alexandria/2023/264",
+"kind": "local",
+"year": "2023",
+"number": "264",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 264/2023",
+"short": "HCL Alexandria nr. 264/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-22",
+"latest": "2023-08-22",
+"portal": "https://alexandria.ro/monitorul-oficial-local/hotarari-adoptate/hcl-2023/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

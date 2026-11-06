@@ -45,6 +45,72 @@
 "flags": {
 "text_withheld": "personal_data"
 }
+},
+{
+"slug": "hcl-teleorman--alexandria-248-2011",
+"path": "local/teleorman/alexandria/2011/248",
+"kind": "local",
+"year": "2011",
+"number": "248",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 248/2011",
+"short": "HCL Alexandria nr. 248/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-10-26",
+"latest": "2011-10-26",
+"portal": "https://alexandria.ro/priveste-modificarea-anexi-la-hcl-nr-207-din-29-septembrie-2011-cu-privire-la-desemnarea-reprezentantilor-consiliului-local-al-municipiului-alexandria-in-consiliile-de-administratie-ale-unitatilor-d/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-254-2011",
+"path": "local/teleorman/alexandria/2011/254",
+"kind": "local",
+"year": "2011",
+"number": "254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 254/2011",
+"short": "HCL Alexandria nr. 254/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-11-29",
+"latest": "2011-11-29",
+"portal": "https://alexandria.ro/priveste-modificarea-hcl-nr-19-10-02-2011-privind-aprobarea-bugetului-general-al-municipiului-alexandria-pe-anul-2011/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-teleorman--alexandria-276-2011",
+"path": "local/teleorman/alexandria/2011/276",
+"kind": "local",
+"year": "2011",
+"number": "276",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Alexandria nr. 276/2011 privind infiintarea Comisiei de avizare a cererilor de organizare a adunarilor publice din municipiul Alexandria",
+"short": "HCL Alexandria nr. 276/2011",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2011-12-21",
+"latest": "2011-12-21",
+"portal": "https://alexandria.ro/priveste-revocarea-hcl-nr-251-14-11-2011-privind-infiintarea-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice-din-municipiul-alexandria/",
+"council": "teleorman/alexandria",
+"council_name": "Consiliul Local al Municipiului Alexandria",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

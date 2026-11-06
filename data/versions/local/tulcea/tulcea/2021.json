@@ -3,6 +3,66 @@
  "shard": "local/tulcea/tulcea/2021",
  "acts": [
   {
+   "slug": "hcl-tulcea--tulcea-205-2021",
+   "path": "local/tulcea/tulcea/2021/205",
+   "short": "HCL Tulcea nr. 205/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 205/2021 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor radiate din evidenţa fiscală",
+   "url": "https://www.primariatulcea.ro/hcl/page/16/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-205-din-29.07.2021.pdf",
+     "sha256": "e77f2fae4bc7159fdd1215d04d6ccbe5dc72427eac26eab0678abce41c3c3946"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-215-2021",
+   "path": "local/tulcea/tulcea/2021/215",
+   "short": "HCL Tulcea nr. 215/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 215/2021 privind modificarea suprafeței bunului imobil Teren str",
+   "url": "https://www.primariatulcea.ro/hcl/page/15/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-215-din-29.07.2021.pdf",
+     "sha256": "c0fd517da60c00732a5142c167f6b71b636b378cff8306ab79acffbd46827092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-217-2021",
+   "path": "local/tulcea/tulcea/2021/217",
+   "short": "HCL Tulcea nr. 217/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 217/2021 privind inventarierea în domeniul privat al municipiului Tulcea a terenului în suprafată de 121,00 mp, situat în municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/15/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-217-din-29.07.2021.pdf",
+     "sha256": "7252f5af4df57362e850ab8536139c06f68297f031be541f9c1cbea556fcc599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-221-2021",
+   "path": "local/tulcea/tulcea/2021/221",
+   "short": "HCL Tulcea nr. 221/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 221/2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/15/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-221-din-29.07.2021.pdf",
+     "sha256": "8edae18748d7a0785e1a61bc67f47dc9a71f252d233ffddef7e1600484bc744d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-224-2021",
    "path": "local/tulcea/tulcea/2021/224",
    "short": "HCL Tulcea nr. 224/2021",
@@ -14,6 +74,111 @@
      "units": 1,
      "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-224-din-29.07.2021.pdf",
      "sha256": "3281366671d708ed6f474fb5e450909dfca02058cf2c62a8fc5c220fd2416def"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-227-2021",
+   "path": "local/tulcea/tulcea/2021/227",
+   "short": "HCL Tulcea nr. 227/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 227/2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/14/",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-227-din-29.07.2021.pdf",
+     "sha256": "9e0eafd3ba9ac48a3417b9a9fb21db898b5abd67190d69a77f16a24eef66d787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-229-2021",
+   "path": "local/tulcea/tulcea/2021/229",
+   "short": "HCL Tulcea nr. 229/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 229/2021 privind rectificarea bugetului de venituri şi cheltuieli al Municipiului Tulcea pentru anul 2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/14/",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/08/HCL-nr.-229-din-10.08.2021.pdf",
+     "sha256": "65fa45b5d5cd049a32cd9814cf6bf0c100277649850541f6dbc07fb65deed71a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-233-2021",
+   "path": "local/tulcea/tulcea/2021/233",
+   "short": "HCL Tulcea nr. 233/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 233/2021 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2021 al Direcţiei Întreţinere şi Administrare Patrimoniu Tulcea",
+   "url": "https://www.primariatulcea.ro/hcl/page/14/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-233-din-30.08.2021.pdf",
+     "sha256": "eca3c8d4cc3eccee9d710ac89704208def8a974ab448367bca4c3d570bd5040e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-238-2021",
+   "path": "local/tulcea/tulcea/2021/238",
+   "short": "HCL Tulcea nr. 238/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 238/2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-238-din-30.08.2021.pdf",
+     "sha256": "e2cf27f4f0c755265703e0bc0cfc0794ce4a1f5eddf9d833508adc76b4adb690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-239-2021",
+   "path": "local/tulcea/tulcea/2021/239",
+   "short": "HCL Tulcea nr. 239/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 239/2021 privind modificarea suprafeței de teren aferentă bunului imobil „Parcul Personalităților, str. Isaccei”, înregistrată la poziția 651 din Inventarul bunurilor care aparțin domeniului public al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiului Tulcea nr",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-239-din-30.08.2021.pdf",
+     "sha256": "ad4f9269d6eae292f0395371d06aaf4a079e48ed94dd75840fe6d49150837fda"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-241-2021",
+   "path": "local/tulcea/tulcea/2021/241",
+   "short": "HCL Tulcea nr. 241/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 241/2021 privind modificarea suprafeței de teren aferentă construcțiilor provizorii cu destinația de garaje din zona Spitalului str. 1848 – str",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-241-din-30.08.2021.pdf",
+     "sha256": "d41a12aa840adfadfc44c1b789bb8ea4a67eddf935adff2e7d4bd3be54f2f188"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-242-2021",
+   "path": "local/tulcea/tulcea/2021/242",
+   "short": "HCL Tulcea nr. 242/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 242/2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/13/",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/09/HCL-nr.-242-din-30.08.2021n.pdf",
+     "sha256": "d75b7a071bfca4968edf20f345cd4535dbb597c01e38ec879fb712b73ca0c399"
     }
    ]
   },
@@ -48,6 +213,171 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--tulcea-252-2021",
+   "path": "local/tulcea/tulcea/2021/252",
+   "short": "HCL Tulcea nr. 252/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 252/2021 privind inventarierea în domeniul public al municipiului Tulcea, a terenului în suprafaţă de 324 mp, situat în Tulcea, str. Alunișului, lângă Depozitul de bunuri și manual școlare aflat în administrarea Inspectoratului Școlar Județean Tulcea, din Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/12/",
+   "versions": [
+    {
+     "from": "2021-09-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-252-din-15.09.2021.pdf",
+     "sha256": "8a749dad465ced5fb2df1394f491135d717744c944951be87d0203d823ba1f9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-256-2021",
+   "path": "local/tulcea/tulcea/2021/256",
+   "short": "HCL Tulcea nr. 256/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 256/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 401 mp, teren aferent Căii de acces, situată în Tulcea, Aleea Chiparosului, în spate bl. 4, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/12/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-256-din-29.09.2021.pdf",
+     "sha256": "d667aaf0e6422e774032dba3dd3f58ead9ff83a72fbab259bd8b6fe4e47739b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-257-2021",
+   "path": "local/tulcea/tulcea/2021/257",
+   "short": "HCL Tulcea nr. 257/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 257/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 802 mp, teren aferent Căii de acces, situată în Tulcea, Aleea Chiparosului, în spate bl. 2, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/12/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-257-din-29.09.2021.pdf",
+     "sha256": "67e456c8fd6404262d4c7a74f412ed8c822cb4f4fea9ad627fdf851879de3829"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-258-2021",
+   "path": "local/tulcea/tulcea/2021/258",
+   "short": "HCL Tulcea nr. 258/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 258/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 755 mp, teren aferent Căii de acces, situată în Tulcea, str. 1848, nr. 16A – Zona Telena, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/12/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-258-din-29.09.2021.pdf",
+     "sha256": "75dd84087d2c5fa280e80cba6a21763ed09a8abd505e817be249ed67be302832"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-259-2021",
+   "path": "local/tulcea/tulcea/2021/259",
+   "short": "HCL Tulcea nr. 259/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 259/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 813 mp, teren aferent Căii de acces, situată în Tulcea, str. 1848, nr. 18, bl. 14, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/12/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-259-din-29.09.2021.pdf",
+     "sha256": "f20eea7177cf45bab0351112ba8d92062c3c8282754eb810bb7b4f70efcb3d60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-260-2021",
+   "path": "local/tulcea/tulcea/2021/260",
+   "short": "HCL Tulcea nr. 260/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 260/2021 privind inventarierea în domeniul public al municipiului Tulcea a imobilului în suprafață de 159 mp teren, din care 129 mp suprafață construită la sol, situat în Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/11/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-260-din-29.09.2021.pdf",
+     "sha256": "9babafef9121bdee7139e327fdb81ed85a9bb8a2f3d887a2992676db4fd25e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-262-2021",
+   "path": "local/tulcea/tulcea/2021/262",
+   "short": "HCL Tulcea nr. 262/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 262/2021 privind modificarea suprafețelor de teren aferente unor străzi aparținând domeniul public al municipiului Tulcea, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/11/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-262-din-29.09.2021.pdf",
+     "sha256": "af211203182d76eba492809c6864cb9f931200ec49ef99f9b682bf6361634d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-263-2021",
+   "path": "local/tulcea/tulcea/2021/263",
+   "short": "HCL Tulcea nr. 263/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 263/2021 privind modificarea suprafeței de teren aferentă bunului imobil “Parcul 23August str. Păcii”, înregistrată la poziția 655 din Inventarul bunurilor care aparțin domeniului public al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiului Tulcea nr. 59/25.02",
+   "url": "https://www.primariatulcea.ro/hcl/page/11/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-263-din-29.09.2021.pdf",
+     "sha256": "58036b3d73c99edc9d855b4d995f243dbd888e7cc894ded4689e0e7663a0361c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-265-2021",
+   "path": "local/tulcea/tulcea/2021/265",
+   "short": "HCL Tulcea nr. 265/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 265/2021 privind modificarea denumirii bunului imobil situat în Tulcea, str. Viticulturii, nr. 10 bis, înregistrat la poziția 1255 din Inventarul bunurilor care aparțin domeniului public al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiului Tulcea nr. 59/25.02",
+   "url": "https://www.primariatulcea.ro/hcl/page/11/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-265-din-29.09.2021.pdf",
+     "sha256": "bb09a3f671520c4ea3c4a95963374dc742409b963b59a92c22a18c3054d83d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-269-2021",
+   "path": "local/tulcea/tulcea/2021/269",
+   "short": "HCL Tulcea nr. 269/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 269/2021 privind schimbarea destinaţiei locuinţei, aparţinând domeniului privat al municipiului Tulcea, situat în Tulcea, str. Slt",
+   "url": "https://www.primariatulcea.ro/hcl/page/11/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-269-din-29.09.2021.pdf",
+     "sha256": "38961e97a74973931c342ebccb1a21d6a6570701a2f78dda79a1166925db3af7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-273-2021",
+   "path": "local/tulcea/tulcea/2021/273",
+   "short": "HCL Tulcea nr. 273/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 273/2021 PRIVIND APROBAREA COMPONENȚEI NOMINALE A COMISIEI TEHNICE DE AMENAJARE A TERITORIULUI ȘI URBANISM A MUNICIPIULUI TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/10/",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-273-din-29.09.2021.pdf",
+     "sha256": "5cf47f2499d0003d12b1bffb6f4237a2d0f8a1e41b1863339ab473653fd92bfb"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--tulcea-277-2021",
    "path": "local/tulcea/tulcea/2021/277",
    "short": "HCL Tulcea nr. 277/2021",
@@ -59,6 +389,516 @@
      "units": 1,
      "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-277-din-29.09.2021.pdf",
      "sha256": "cd844f38be1da49b9158a1ec7a0124b6f4854635f6954cda7c6af0bb60a23123"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-279-2021",
+   "path": "local/tulcea/tulcea/2021/279",
+   "short": "HCL Tulcea nr. 279/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 279/2021 PRIVIND ACTUALIZAREA ’’STRATEGIEI DE ALIMENTARE CU ENERGIE TERMICĂ ÎN SISTEM CENTRALIZAT A MUNICIPIULUI TULCEA”",
+   "url": "https://www.primariatulcea.ro/hcl/page/10/",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/10/HCL-nr.-279-din-29.09.2021.pdf",
+     "sha256": "691476cf7a96147abaf680e872635f558ecdbc91ae13549662b7e73c89b79e6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-284-2021",
+   "path": "local/tulcea/tulcea/2021/284",
+   "short": "HCL Tulcea nr. 284/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 284/2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/9/",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-284-din-15.10.2021.pdf",
+     "sha256": "37bdfef019e032b6707620f73d6eb8944a83349d7906bbd986929bf220a6b038"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-285-2021",
+   "path": "local/tulcea/tulcea/2021/285",
+   "short": "HCL Tulcea nr. 285/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 285/2021 privind trecerea din domeniul privat al municipiului Tulcea în domeniul public al municipiului Tulcea a terenului în suprafață de 1257 mp, situat în Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/9/",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-285-din-15.10.2021.pdf",
+     "sha256": "5f140fc70ba84d0907210b0a8d9b1b81c0fb119cda4717991613026a69fd29f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-286-2021",
+   "path": "local/tulcea/tulcea/2021/286",
+   "short": "HCL Tulcea nr. 286/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 286/2021 privind alipirea terenului în suprafață de 882 mp, situat în Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/9/",
+   "versions": [
+    {
+     "from": "2021-10-15",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-286-din-15.10.2021.pdf",
+     "sha256": "bee1a9e52ab00bdf3644159466f29585de7121ce92ee21745316ffd81865f5a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-302-2021",
+   "path": "local/tulcea/tulcea/2021/302",
+   "short": "HCL Tulcea nr. 302/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 302/2021 PRIVIND TRANSPORTUL DE PERSOANE SAU BUNURI ÎN REGIM DE TAXI ÎN MUNICIPIUL TULCEA",
+   "url": "https://www.primariatulcea.ro/hcl/page/8/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-302-din-28.10.2021.pdf",
+     "sha256": "1e89180c355e027ccaae9f78aa72b9c3d18fcdf0ab043b1bac6e3f1a72e4e2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-303-2021",
+   "path": "local/tulcea/tulcea/2021/303",
+   "short": "HCL Tulcea nr. 303/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 303/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 74 mp, teren aferent căii de acces, situată în Tulcea, delimitată în partea de N-V de str. Meduzei, Tronson II şi în partea de S-E de str. Cîmpului, conform măsurătorilor topo cadastrale, în vederea îns",
+   "url": "https://www.primariatulcea.ro/hcl/page/8/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-303-din-28.10.2021.pdf",
+     "sha256": "578bbcd326f17f51ebeffa0ec8b48638499fe4aadf57e2eb39c7872c1ed8bb47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-304-2021",
+   "path": "local/tulcea/tulcea/2021/304",
+   "short": "HCL Tulcea nr. 304/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 304/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 7783 mp, teren având categoria de folosință drum, cu tronson din str",
+   "url": "https://www.primariatulcea.ro/hcl/page/8/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-304-din-28.10.2021.pdf",
+     "sha256": "034c8b9f20bf3a1adf94b463cc4c040a3c6afc20a23e19c0ffc9080f76b3b515"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-306-2021",
+   "path": "local/tulcea/tulcea/2021/306",
+   "short": "HCL Tulcea nr. 306/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 306/2021 privind inventarierea în domeniul privat al municipiului Tulcea a terenului în suprafaţă de 10221 mp, situat în municipiul Tulcea, Tarla 20, Parcela A300, str. Transformatorului, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/8/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-306-din-28.10.2021.pdf",
+     "sha256": "97f4fadde3a66c501ab024ea53e54a7fbab8d35c0f78f4a663c37a2e84faadfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-307-2021",
+   "path": "local/tulcea/tulcea/2021/307",
+   "short": "HCL Tulcea nr. 307/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 307/2021 privind modificarea suprafeței de teren aferentă bunului imobil “Teren Cartier E 3 (zona Ene Med) – aferent garaje”, înregistrată la poziția 1193 din Inventarul bunurilor care aparțin domeniului privat al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiu",
+   "url": "https://www.primariatulcea.ro/hcl/page/8/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-307-din-28.10.2021.pdf",
+     "sha256": "6a79fcba9a03d18a65f4900aca9985d3959aba4cdae6bd2495cb07a3821d6182"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-308-2021",
+   "path": "local/tulcea/tulcea/2021/308",
+   "short": "HCL Tulcea nr. 308/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 308/2021 privind modificarea suprafeței de teren aferentă bunului imobil “Parcul Personalităților str. Isaccei”, înregistrată la poziția 651 din Inventarul bunurilor care aparțin domeniului public al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiului Tulcea nr",
+   "url": "https://www.primariatulcea.ro/hcl/page/7/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-308-din-28.10.2021.pdf",
+     "sha256": "6cd626b0485a199eba111ab2c7ad2e56d2bd3d83d4aff4d9112138ff802e2b44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-310-2021",
+   "path": "local/tulcea/tulcea/2021/310",
+   "short": "HCL Tulcea nr. 310/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 310/2021 privind modificarea suprafețelor de teren aferente unor străzi aparținând domeniul public al municipiului Tulcea, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/7/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-310-din-28.10.2021.pdf",
+     "sha256": "cea7d7438a03d040efa51e071c144b5ed1673e97f020e3f7a8552ca5dc568a16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-311-2021",
+   "path": "local/tulcea/tulcea/2021/311",
+   "short": "HCL Tulcea nr. 311/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 311/2021 privind aprobarea Listei de priorități, precum și a Listei de repartizarea locuințelor construite de Agenția Națională pentru Locuințe destinate închirierii pentru tineri",
+   "url": "https://www.primariatulcea.ro/hcl/page/7/",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/11/HCL-nr.-311-din-28.10.2021.pdf",
+     "sha256": "60568201452cc899effab86048506e5285ff0345ba005f87ec7b226edcb7519c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-321-2021",
+   "path": "local/tulcea/tulcea/2021/321",
+   "short": "HCL Tulcea nr. 321/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 321/2021 privind rectificarea bugetului de venituri şi cheltuieli al Municipiului Tulcea pentru anul 2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/6/",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-321-din-25.11.2021.pdf",
+     "sha256": "187ef1d22b61cb3aa065dc59185625c865280522744e28febd94bb0d5bf64cad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-322-2021",
+   "path": "local/tulcea/tulcea/2021/322",
+   "short": "HCL Tulcea nr. 322/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 322/2021 privind rectificarea bugetului de venituri şi cheltuieli pentru activităţile unităților de învățământ preuniversitar de stat finanţate integral sau parţial din venituri proprii pe anul 2021",
+   "url": "https://www.primariatulcea.ro/hcl/page/6/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-322-din-25.11.2021.pdf",
+     "sha256": "bc28f68ce1b4fe601251470cdc6d41ab4b3128e197ad44c59c28d20c68a25dcb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-324-2021",
+   "path": "local/tulcea/tulcea/2021/324",
+   "short": "HCL Tulcea nr. 324/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 324/2021 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor radiate din evidenţa fiscală",
+   "url": "https://www.primariatulcea.ro/hcl/page/6/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-324-din-25.11.2021.pdf",
+     "sha256": "cb3e829ceccf6d2cf826be39fd8a0a2c3a2f9d1c966f843af8794d517f496ed0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-325-2021",
+   "path": "local/tulcea/tulcea/2021/325",
+   "short": "HCL Tulcea nr. 325/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 325/2021 privind anularea creanţelor fiscaledatorate de persoanele fizice aflate în stare de insolvabilitate",
+   "url": "https://www.primariatulcea.ro/hcl/page/6/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-325-din-25.11.2021.pdf",
+     "sha256": "0fdc40596dd88b65350b6731cd75c15f60bc6455214b539b05f86ef375af2f54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-330-2021",
+   "path": "local/tulcea/tulcea/2021/330",
+   "short": "HCL Tulcea nr. 330/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 330/2021 privind modificarea suprafețelor de teren aferente unor străzi aparținând domeniul public al Municipiului Tulcea, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/5/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-330-din-25.11.2021.pdf",
+     "sha256": "cd39a19745233a06ef1daec7224d779364ffc7beef22db8433c1419430b82d46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-335-2021",
+   "path": "local/tulcea/tulcea/2021/335",
+   "short": "HCL Tulcea nr. 335/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 335/2021 privind inventarierea în domeniul privat al Municipiului Tulcea a terenului în suprafaţă de 359 mp, situat în Municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/5/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-335-din-25.11.2021.pdf",
+     "sha256": "2eea13c3441b6b4c485f76d5f7fb621aa4e5d97ba83590c07d897e6ddc93256a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-336-2021",
+   "path": "local/tulcea/tulcea/2021/336",
+   "short": "HCL Tulcea nr. 336/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 336/2021 privind inventarierea în domeniul privat al municipiului Tulcea a terenului în suprafață de 363 mp aferent balcoanelor, situat în Tulcea, zona E3, sector 20, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/5/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-336-din-25.11.2021.pdf",
+     "sha256": "d4af684e389137e7882d76c7204ee752698eb923cd709161f95645fad0a62706"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-337-2021",
+   "path": "local/tulcea/tulcea/2021/337",
+   "short": "HCL Tulcea nr. 337/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 337/2021 privind inventarierea în domeniul privat al municipiului Tulcea a terenului în suprafață de 523 mp aferent balcoanelor, situat în Tulcea, zona E3, sector 21, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/5/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-337-din-25.11.2021.pdf",
+     "sha256": "05b4fa4cd1432b26e672e83e03c8d439b078c01728a4c4a1173e5a7670468688"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-338-2021",
+   "path": "local/tulcea/tulcea/2021/338",
+   "short": "HCL Tulcea nr. 338/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 338/2021 privind inventarierea în domeniul public al Municipiului Tulcea a suprafeței de 2029 mp, situat în Tulcea, Str. Ing",
+   "url": "https://www.primariatulcea.ro/hcl/page/5/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-338-din-25.11.2021.pdf",
+     "sha256": "4d6a8aac751e7747b8460bcfacc6619d0f15cfea6bb2d286f970c59c49d3a708"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-341-2021",
+   "path": "local/tulcea/tulcea/2021/341",
+   "short": "HCL Tulcea nr. 341/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 341/2021 privind aprobarea raportului de evaluare pentru terenul în suprafață de 300,47 mp, identificat cu numărul cadastral 36097, carte funciară nr. 36097, aparținând domeniului privat al municipiului Tulcea, strada Azaleei, nr. 56 și vânzarea în rate cu exercitarea dreptului de preempțiu",
+   "url": "https://www.primariatulcea.ro/hcl/page/4/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-341-din-25.11.2021.pdf",
+     "sha256": "295a5aa9c69b57e7f72487192c70fb89ad6c4f591737b4559d2a0692bdfc4873"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-349-2021",
+   "path": "local/tulcea/tulcea/2021/349",
+   "short": "HCL Tulcea nr. 349/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 349/2021 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/hcl/page/4/",
+   "versions": [
+    {
+     "from": "2021-12-03",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2022/01/HCL-nr.-349-din-03.12.2021.pdf",
+     "sha256": "0c41ad69f1b51a80d46d9d67cfa935a3a51410a69f5eea220f41943f27fad151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-356-2021",
+   "path": "local/tulcea/tulcea/2021/356",
+   "short": "HCL Tulcea nr. 356/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 356/2021 privind acordarea unei prestaţii financiare excepţionale pentru copiii înscrişi la activitatea de tip „Școală după Școală” desfăşurată în cadrul Centrului Multifuncţional Sofia, centru aflat în subordinea Direcţiei de Asistenţă şi Protecţie Socială",
+   "url": "https://www.primariatulcea.ro/hcl/page/3/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-356-din-16.12.2021.pdf",
+     "sha256": "58ae1377e871474b307916e78f60fc0fb0ab22f122c3d7a81875f76af8b42450"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-357-2021",
+   "path": "local/tulcea/tulcea/2021/357",
+   "short": "HCL Tulcea nr. 357/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 357/2021 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru persoanele apte de muncă din familiile beneficiare de ajutor social, conform prevederilor Legii nr. 416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare şi ale Legii nr. 272/",
+   "url": "https://www.primariatulcea.ro/hcl/page/3/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-357-din-16.12.2021.pdf",
+     "sha256": "82cc893184c25dc77a0814594df99063dce2d52c4d5e94562b83738ff620c190"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-361-2021",
+   "path": "local/tulcea/tulcea/2021/361",
+   "short": "HCL Tulcea nr. 361/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 361/2021 privind inventarierea în domeniul privat al Municipiului Tulcea a terenului în suprafaţă de 717 mp, situat în Municipiul Tulcea, str",
+   "url": "https://www.primariatulcea.ro/hcl/page/3/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-361-din-16.12.2021.pdf",
+     "sha256": "7c4240f8678269426d8d2e7a8d5fbd7a4fca16ea861a3bcef84cfaa45115edf7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-362-2021",
+   "path": "local/tulcea/tulcea/2021/362",
+   "short": "HCL Tulcea nr. 362/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 362/2021 privind inventarierea în domeniul privat al Municipiului Tulcea a suprafeței de 413 mp, teren aferent balcoanelor, situată în Tulcea, sector 16, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/3/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-362-din-16.12.2021.pdf",
+     "sha256": "fd2a25e3dddb94ada995f53212a66c6b33b73e035c7dcc6442417e8710d57fa3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-363-2021",
+   "path": "local/tulcea/tulcea/2021/363",
+   "short": "HCL Tulcea nr. 363/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 363/2021 privind inventarierea în domeniul public al municipiului Tulcea a suprafeței de 59976 mp, teren aferent Căilor de acces, spaţiilor verzi şi aleilor pietonale, situate în Tulcea, Sector 21, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/3/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-363-din-16.12.2021.pdf",
+     "sha256": "66ed96fcf1bbe98bd1c8dde0ae46cbf3b87698c6fa6f08e2fa2bb6a4036b9bbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-364-2021",
+   "path": "local/tulcea/tulcea/2021/364",
+   "short": "HCL Tulcea nr. 364/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 364/2021 privind modificarea suprafețelor de teren aferente unor străzi aparținând domeniul public al Municipiului Tulcea, conform măsurătorilor topo cadastrale, în vederea înscrierii în cartea funciară",
+   "url": "https://www.primariatulcea.ro/hcl/page/2/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-364-din-16.12.2021.pdf",
+     "sha256": "43a046b5bc0a6772a997908ccb0c539507ef2d4d3b09b69c3e215a2f80284d8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-365-2021",
+   "path": "local/tulcea/tulcea/2021/365",
+   "short": "HCL Tulcea nr. 365/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 365/2021 privind modificarea suprafeței construite a bunului imobil situat în Tulcea, Strada Arțarilor, nr. 2B, înregistrat la poziția 1255 din Inventarul bunurilor care aparțin domeniului public al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Municipiului Tulcea nr",
+   "url": "https://www.primariatulcea.ro/hcl/page/2/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-365-din-16.12.2021.pdf",
+     "sha256": "9c4af14d6edd33e13ba668e9d5471ea02c4d19c63029b2697a6c18dd1b0f7209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-366-2021",
+   "path": "local/tulcea/tulcea/2021/366",
+   "short": "HCL Tulcea nr. 366/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 366/2021 privind modificarea suprafeței de teren aferentă bunului imobil “Teren la intrarea în Tulcea dinspre Babadag ( Troița )”, înregistrată la poziția 584 din Inventarul bunurilor care aparțin domeniului privat al municipiului Tulcea, actualizat prin Hotǎrârea Consiliului Local al Munic",
+   "url": "https://www.primariatulcea.ro/hcl/page/2/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-366-din-16.12.2021.pdf",
+     "sha256": "076646a6a6825d278e55d6c7e6ee7d4d40801d658866fbdc5b75bcb8f9fed38b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-367-2021",
+   "path": "local/tulcea/tulcea/2021/367",
+   "short": "HCL Tulcea nr. 367/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 367/2021 privind dezmembrarea terenului în suprafaţă de 4400 mp, aparținând domeniului privat al municipiului Tulcea, situat în Tulcea, strada Combustibilului, nr. 2, înscris în cartea funciară nr. 33186",
+   "url": "https://www.primariatulcea.ro/hcl/page/2/",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-367-din-16.12.2021.pdf",
+     "sha256": "cd93f4b9eda81cc43ac76ef6380060a5ea4f1c8ddf10115a97a8c591067bbed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-382-2021",
+   "path": "local/tulcea/tulcea/2021/382",
+   "short": "HCL Tulcea nr. 382/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 382/2021 privind rectificarea bugetului de venituri şi cheltuieli al Municipiului Tulcea pentru anul 2021",
+   "url": "https://www.primariatulcea.ro/hcl/",
+   "versions": [
+    {
+     "from": "2021-04-12",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-382-din-16.12.2021.pdf",
+     "sha256": "76bf99be4b90bd7d18b4a35ad488342de424e7adc765d8498fa2c5cfdb4796ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--tulcea-383-2021",
+   "path": "local/tulcea/tulcea/2021/383",
+   "short": "HCL Tulcea nr. 383/2021",
+   "title": "Hotărârea Consiliului Local al Municipiului Tulcea nr. 383/2021 PRIVIND ALEGEREA PREŞEDINTELUI DE ŞEDINŢĂ",
+   "url": "https://www.primariatulcea.ro/hcl/",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://www.primariatulcea.ro/wp-content/uploads/2021/12/HCL-nr.-383-din-29.12.2021.pdf",
+     "sha256": "0110164b6b6e7f1b62f2827b4dc6a745579e933852d0701728c0c708eaaec522"
     }
    ]
   }
