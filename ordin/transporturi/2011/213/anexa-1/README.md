@@ -1,4 +1,4 @@
-# Anexa nr. 1: Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 16. Pricopi Mirela 2800808214157 Direcția generală infrastructură și transport aerian
+# Anexa nr. 1: Nr. crt. Numele și prenumele Codul numeric personal Structura din care face parte 16. Pricopi Mirela [CNP omis] Direcția generală infrastructură și transport aerian
 
 Part of the order: printed in the order's own document, after its signature, the act as published in Monitorul Oficial.
 
