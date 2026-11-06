@@ -3,6 +3,28 @@
 "shard": "local/bacau/brusturoasa/2021",
 "acts": [
 {
+"slug": "hcl-bacau--brusturoasa-83-2021",
+"path": "local/bacau/brusturoasa/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 83/2021 privind desemnarea unui consider local in Comisia de evaluare a probei de interviu, din cadrul Concursului pentru ocuparea functiiior de director/director adjunct din unitatile de invatamant preuniversitar de stat din Comuna Brusturoasa",
+"short": "HCL Brusturoasa nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/45491",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-84-2021",
 "path": "local/bacau/brusturoasa/2021/84",
 "kind": "local",
@@ -26,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-85-2021",
+"path": "local/bacau/brusturoasa/2021/85",
+"kind": "local",
+"year": "2021",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 85/2021 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invațamant din comuna Brusturoasa, pentru perioada septembrie-octombrie 2021",
+"short": "HCL Brusturoasa nr. 85/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-22",
+"latest": "2021-11-22",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/45512",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-86-2021",
 "path": "local/bacau/brusturoasa/2021/86",
 "kind": "local",
@@ -45,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-87-2021",
+"path": "local/bacau/brusturoasa/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 87/2021 privind aprobarea unui sprijin financiar de la bugetul local pentru parohia ortodoxa ” Nașterea Maicii Domnului” Brusturoasa",
+"short": "HCL Brusturoasa nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-22",
+"latest": "2021-11-22",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/45514",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -89,6 +155,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-90-2021",
+"path": "local/bacau/brusturoasa/2021/90",
+"kind": "local",
+"year": "2021",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 90/2021 privind aprobarea anularii unor creante reprezentand amenzi,",
+"short": "HCL Brusturoasa nr. 90/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-22",
+"latest": "2021-11-22",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/45517",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -266,6 +354,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-99-2021",
+"path": "local/bacau/brusturoasa/2021/99",
+"kind": "local",
+"year": "2021",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 99/2021 privind aprobarea anularii unor creante reprezentand amenzi",
+"short": "HCL Brusturoasa nr. 99/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-16",
+"latest": "2021-12-16",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/47585",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

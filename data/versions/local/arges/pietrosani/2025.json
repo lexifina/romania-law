@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-33-2025",
+   "path": "local/arges/pietrosani/2025/33",
+   "short": "HCL Pietroșani nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 33/2025 privind desemnarea unui consilier local care sa faca parte din CEAC si doi consilieri locali pentru a fi membrii in Consiliul de Administratie al Scolii Gimnaziale nr.1 Pietrosani",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/231295",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/231295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-34-2025",
    "path": "local/arges/pietrosani/2025/34",
    "short": "HCL Pietroșani nr. 34/2025",
@@ -123,6 +138,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-41-2025",
+   "path": "local/arges/pietrosani/2025/41",
+   "short": "HCL Pietroșani nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 41/2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/231303",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/231303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-42-2025",
+   "path": "local/arges/pietrosani/2025/42",
+   "short": "HCL Pietroșani nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 42/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/231304",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/231304",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-43-2025",
    "path": "local/arges/pietrosani/2025/43",
    "short": "HCL Pietroșani nr. 43/2025",
@@ -138,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--pietrosani-44-2025",
+   "path": "local/arges/pietrosani/2025/44",
+   "short": "HCL Pietroșani nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 44/2025 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al Comunei Pietrosani",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/239306",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/239306",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--pietrosani-45-2025",
    "path": "local/arges/pietrosani/2025/45",
    "short": "HCL Pietroșani nr. 45/2025",
@@ -148,6 +208,51 @@
      "from": "2026-02-23",
      "units": 1,
      "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/239311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-46-2025",
+   "path": "local/arges/pietrosani/2025/46",
+   "short": "HCL Pietroșani nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 46/2025 privind modificarea Hotărârii Consiliului Local nr. 42/19.11.2024 având ca obiect aprobarea indicatorilor tehnico-economici și ai devizului general pentru obiectivul de investiții: „Cresterea eficientei energetice a infrastructurii de iluminat public in UAT Pietrosani, Judetul Arges”",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/239312",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/239312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-47-2025",
+   "path": "local/arges/pietrosani/2025/47",
+   "short": "HCL Pietroșani nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 47/2025 privind aprobarea rectificarii bugetului pentru anul 2025",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/239313",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/239313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--pietrosani-48-2025",
+   "path": "local/arges/pietrosani/2025/48",
+   "short": "HCL Pietroșani nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 48/2025 privind alegere presedinte de sedinta perioada ianuarie-martie 2026",
+   "url": "https://emol.ro/pietrosani-ag/registru-hcl/239314",
+   "versions": [
+    {
+     "from": "2026-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/pietrosani-ag/registru-hcl/239314",
      "sha256": null
     }
    ]

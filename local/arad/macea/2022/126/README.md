@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Macea nr. 126/2022 privind îndreptarea unei erori materiale din Anexa nr.1 la Hotărârea Consiliului Local Macea nr. 95 din 29.09.2022 privind aprobarea nomenclatorului stradal al comunei Macea
+
+HCL Macea nr. 126/2022 · 1 versions, from 2023-03-02 (latest in force: 2023-03-02) · <https://emol.ro/macea-ar/registru-hcl/84201>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arad--macea-126-2022` (tags `hcl-arad--macea-126-2022/<day>`; `python tools/on.py <day> hcl-arad--macea-126-2022`).
+
+## Decisions made by hand
+
+- HCL Macea nr. 126/2022: listed from Consiliul Local al Comunei Macea (emol.ro); an individual decision: metadata only.
+- HCL Macea nr. 126/2022: dated from 2 March 2023, the day the council's register gives it as published (adopted 22 December 2022).
+- HCL Macea nr. 126/2022: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

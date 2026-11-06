@@ -136,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-arad--varadia-de-mures-66-2024",
+"path": "local/arad/varadia-de-mures/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 66/2024 privind constituirea comisiei in vederea desemnarii reprezentantului comunei Vărădia de Mureș în Consiliul de Administrație al RPL Ocolul Silvic Valea Mureșului R.A",
+"short": "HCL Vărădia de Mureș nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-04",
+"latest": "2024-12-04",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/178710",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varadia-de-mures-67-2024",
 "path": "local/arad/varadia-de-mures/2024/67",
 "kind": "local",
@@ -287,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Vărădia de Mureș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varadia-de-mures-74-2024",
+"path": "local/arad/varadia-de-mures/2024/74",
+"kind": "local",
+"year": "2024",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 74/2024 privind desemnarea reprezentantului Comunei Vărădia de Mureș în Consiliul de Administrație al Regiei Publice Locale „Ocolul Silvic Valea Mureșului” R.A.Bârzava",
+"short": "HCL Vărădia de Mureș nr. 74/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://emol.ro/varadiademures-ar/registru-hcl/185913",
+"council": "arad/varadia-de-mures",
+"council_name": "Consiliul Local al Comunei Vărădia de Mureș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

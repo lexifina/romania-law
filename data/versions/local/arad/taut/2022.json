@@ -3,6 +3,36 @@
  "shard": "local/arad/taut/2022",
  "acts": [
   {
+   "slug": "hcl-arad--taut-72-2022",
+   "path": "local/arad/taut/2022/72",
+   "short": "HCL Tauț nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 72/2022 privind aprobarea Ordinei de zi",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.72-din-23.12.2022-privind-aprobarea-Ordinei-de-zi.pdf",
+     "sha256": "f065ef9e6650ba120de4c2d4ece19a5138941e100a3055dbba8b579ac1c3ec6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-73-2022",
+   "path": "local/arad/taut/2022/73",
+   "short": "HCL Tauț nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 73/2022 privind rectificarea bugetului local la data de 23.12.2022",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.73-din-23.12.2022-privind-rectificarea-bugetului-local-la-data-de-23.12.2022.pdf",
+     "sha256": "e03894f44f36477493f179245557214c4b1aab03e8883f351a3943b2684548f1"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--taut-74-2022",
    "path": "local/arad/taut/2022/74",
    "short": "HCL Tauț nr. 74/2022",
@@ -29,6 +59,66 @@
      "units": 1,
      "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.75-din-23.12.2022-privind-aprobarea-taxei-pentru-utilizatorii-casnici-si-tarifu-pentru-utilizatorii-non-casnici.pdf",
      "sha256": "84c112242315438521654c2dc4e9df3c33d453442ccd529ad298ee79b27be2a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-76-2022",
+   "path": "local/arad/taut/2022/76",
+   "short": "HCL Tauț nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 76/2022 privind modificarea Contractului de delegare a gestiunii serviciului de alimentare cu apa si canalizare prin actul aditional nr.8",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.76-din-23.12.2022-privind-modificarea-Contractului-de-delegare-a-gestiunii-serviciului-de-alimentare-cu-apa-si-canalizare-prin-actul-aditional-nr.8.pdf",
+     "sha256": "82e16b3f4b27bc85df2fc7e3f4bdb598503a091245d36fbed504a1bd7e90fe3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-77-2022",
+   "path": "local/arad/taut/2022/77",
+   "short": "HCL Tauț nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 77/2022 privind aprobarea situatiilor financiare la data de 31.12.2022si 31.12.2021",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.77-din-23.12.2022-privind-aprobarea-situatiilor-financiare-la-data-de-31.12.2022si-31.12.2021.pdf",
+     "sha256": "4feb675b284ef31e1a66ee2022263e3a6dc10a5b918c0ac376b82546067070a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-78-2022",
+   "path": "local/arad/taut/2022/78",
+   "short": "HCL Tauț nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 78/2022 privind aprobarea decontarii cheltuielilor cu naveta personalului didactic auxiliar de la scoala gimnaziala Taut in anul 2023",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.78-din-23.12.2022-privind-aprobarea-decontarii-cheltuielilor-cu-naveta-personalului-didactic-auxiliar-de-la-scoala-gimnaziala-Taut-in-anul-2023.pdf",
+     "sha256": "b11a97dd7a8a347236efa3ca866942c9ca04c90f7ca879cf45550957a7a3704a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-79-2022",
+   "path": "local/arad/taut/2022/79",
+   "short": "HCL Tauț nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 79/2022 privind aprobarea volumului de masa lemnoasa ce se va exploata din fondul forestier proprietatea UAT Taut in anul 2023",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2022-12-23",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.79-din-23.12.2022-privind-aprobarea-volumului-de-masa-lemnoasa-ce-se-va-exploata-din-fondul-forestier-proprietatea-UAT-Taut-in-anul-2023.pdf",
+     "sha256": "96806ead1846f7c1f7a58d29e8b7f01715b7ed2a3002a4ea47fb17993beef09d"
     }
    ]
   }

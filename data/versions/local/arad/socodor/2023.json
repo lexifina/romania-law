@@ -48,6 +48,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-123-2023",
+   "path": "local/arad/socodor/2023/123",
+   "short": "HCL Socodor nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 123/2023 privind participarea la apelul de proiecte derulat prin FONDUL PENTRU MODERNIZARE ÎN ROMÂNIA Programul -Cheie 1, Surse Regenerabile de Energie și Stocarea Energiei: Sprijinirea investiţiilor în noi capacităţi de producere a energiei electrice produsă din surse regenerabile pentru autoconsum, cu proiectul: „Înființare parc fotovoltaic pentru autoconsum in Comuna Socodor, Jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/131234",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/131234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-124-2023",
+   "path": "local/arad/socodor/2023/124",
+   "short": "HCL Socodor nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 124/2023 privind aprobarea Studiului de Fezabilitate aferent obiectivului de investiție cu titlul „Înființare parc fotovoltaic pentru autoconsum in Comuna Socodor, Jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/131235",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/131235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-125-2023",
+   "path": "local/arad/socodor/2023/125",
+   "short": "HCL Socodor nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 125/2023 privind depunerea și implementarea proiectului cu titlul „Înființare parc fotovoltaic pentru autoconsum in Comuna Socodor, Jud. Arad”",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/131236",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/131236",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-126-2023",
    "path": "local/arad/socodor/2023/126",
    "short": "HCL Socodor nr. 126/2023",
@@ -73,6 +118,21 @@
      "from": "2024-01-31",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/131238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-128-2023",
+   "path": "local/arad/socodor/2023/128",
+   "short": "HCL Socodor nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 128/2023 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru lunile octombrie - noiembrie 2023",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/131239",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/131239",
      "sha256": null
     }
    ]
@@ -193,6 +253,21 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/135541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-137-2023",
+   "path": "local/arad/socodor/2023/137",
+   "short": "HCL Socodor nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 137/2023 privind aprobarea planului de lucrări și acțiuni de interes local efectuate de beneficiarii de ajutor social, pentru anul 2024",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/135542",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/135542",
      "sha256": null
     }
    ]

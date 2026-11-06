@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-104-2021",
+   "path": "local/arges/maracineni/2021/104",
+   "short": "HCL Mărăcineni nr. 104/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 104/2021",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/43449",
+   "versions": [
+    {
+     "from": "2021-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/43449",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-105-2021",
    "path": "local/arges/maracineni/2021/105",
    "short": "HCL Mărăcineni nr. 105/2021",

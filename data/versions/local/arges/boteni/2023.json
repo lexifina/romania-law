@@ -3,6 +3,36 @@
  "shard": "local/arges/boteni/2023",
  "acts": [
   {
+   "slug": "hcl-arges--boteni-16-2023",
+   "path": "local/arges/boteni/2023/16",
+   "short": "HCL Boteni nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 16/2023",
+   "url": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.1516-MAI-2023.pdf",
+     "sha256": "33469a1fbc4e3e2429dab900f9a496dc556e9a11bb0d96f43482974a389f1bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-18-2023",
+   "path": "local/arges/boteni/2023/18",
+   "short": "HCL Boteni nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 18/2023",
+   "url": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-07-24",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.17-19-IULIE-2023.pdf",
+     "sha256": "ef29a84aedcafe3b6e316e89da0354f906ac56b8da0d0dad0441a62f77cf4599"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--boteni-6-2023",
    "path": "local/arges/boteni/2023/6",
    "short": "HCL Boteni nr. 6/2023",
@@ -14,6 +44,21 @@
      "units": 1,
      "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.6-7-FEBRUARIE-2023.pdf",
      "sha256": "705a86434458307b3804823a53a4b4932ab7be40b867deef366f519262705d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-8-2023",
+   "path": "local/arges/boteni/2023/8",
+   "short": "HCL Boteni nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 8/2023 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului Comunei Boteni jud",
+   "url": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.8-10-MARTIE-2023.pdf",
+     "sha256": "1e4d466419e4f4fa4306c4fa98bb2b7609efc7c75b6b5ba543e884b08c88c444"
     }
    ]
   }

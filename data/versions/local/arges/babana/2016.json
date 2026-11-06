@@ -3,6 +3,21 @@
  "shard": "local/arges/babana/2016",
  "acts": [
   {
+   "slug": "hcl-arges--babana-10-2016",
+   "path": "local/arges/babana/2016/10",
+   "short": "HCL Băbana nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 10/2016 pentru cuplurile care au implinit 50 ani de casatorie",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2010%20cupluri.pdf",
+     "sha256": "5c31fbe93b3cd029bf560772e1766bd53c641bf94c7052a2d77581d5f79f9e4a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--babana-14-2016",
    "path": "local/arges/babana/2016/14",
    "short": "HCL Băbana nr. 14/2016",
@@ -18,6 +33,96 @@
    ]
   },
   {
+   "slug": "hcl-arges--babana-17-2016",
+   "path": "local/arges/babana/2016/17",
+   "short": "HCL Băbana nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 17/2016 Privind angajarea unui avocat , care sa reprezinte Consiliul Local Babana in instanta, privind atacarea dispozitiei nr. 2O4h1.08.2015, avand in vedere recuperarea sumei de !.0572lei, reprezendand \"Cadouri de Craciun\" acordate copiilor de la Scoala Gimnaziala Babana ; Consiliul Local al comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 11.08.2016 Avand in vedere: -refe rat nr",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-08-11",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2017%20avocat%20cl.pdf",
+     "sha256": "a826dae0e10743ded92a302455d84601cd2ad04421dbe76dc53a3ae55bccfd78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-19-2016",
+   "path": "local/arges/babana/2016/19",
+   "short": "HCL Băbana nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 19/2016 Privind aprobarea delegarii gestiunii serviciului public de alimentare cu api al comunei BABANA cltre operatorul S.C",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-08-24",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2019%20gestiune.pdf",
+     "sha256": "a9b5b76aaf64e361abd849720bd51c23052089eb56ea636a5de28876d84c6deb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-25-2016",
+   "path": "local/arges/babana/2016/25",
+   "short": "HCL Băbana nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 25/2016 pentru Consiliu Administratie Scoala",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-09-14",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2025%20cl%20sc.pdf",
+     "sha256": "a15630cdbcf214a7900f560623a71a5c75dff7c82d3cc8bd4dcbbe62e63c9747"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-26-2016",
+   "path": "local/arges/babana/2016/26",
+   "short": "HCL Băbana nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 26/2016 privind aprobarea asocierii qi participirii Comunei Babana, judet-ul Argeg la constituirea ONG-ului Asociatia Grupul de Ac[iune Locald Dealurile Cotmenei Consiliul Local al comunei.Babana., judeful Argeg, AnalizAnd: - expunerea de motive nr. 45301291091201,6 a primarului comunei Babana prin care se propune aderarea Comunei Babana , judelul Argeg la ONG-ul Grupul de Ac[iune Locald ,, Dealurile Cotm",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-10-04",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2026%20dealurile.pdf",
+     "sha256": "525b3bee2c577372d64ec9f55a5193af2c102d66227d04d7a2035b2441280a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-27-2016",
+   "path": "local/arges/babana/2016/27",
+   "short": "HCL Băbana nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 27/2016 Privind rectificarea Bugetului Local al comunei Babana, judetul Arges Consiliul Local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2027%20statie.pdf",
+     "sha256": "4d9055a7274ca6e9fb501bdac22f39d97ea90434f7c8f8989ceab9a4278254da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-28-2016",
+   "path": "local/arges/babana/2016/28",
+   "short": "HCL Băbana nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 28/2016 Privind aprobarea masurilor premergatoare sezonului rece\" 2016-2017 Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 12.10.2016",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2028%20masuri.pdf",
+     "sha256": "f7b5ee36c0e5372c982c9bcdf9e8cc394b4819b76f7addaedc5015f1bc970bd9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--babana-29-2016",
    "path": "local/arges/babana/2016/29",
    "short": "HCL Băbana nr. 29/2016",
@@ -29,6 +134,81 @@
      "units": 1,
      "source_url": "https://www.primariababana.ro/images/pdf/hot%2029%201%2016.pdf",
      "sha256": "fe4f573e7f3c4eef699a2179c6152b034aa49a88db8f10d233aa99bda51000e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-32-2016",
+   "path": "local/arges/babana/2016/32",
+   "short": "HCL Băbana nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 32/2016 Privind rectificarea Bugetului Local al comunei Babana, judetul Arges Consiliul Loca1 al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-10-12",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2032%20rectificare%2016.pdf",
+     "sha256": "4d38a452cd3f247e4ea71ee642ee82ef5da9bcb5d31c0c5234b00562f191ee91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-39-2016",
+   "path": "local/arges/babana/2016/39",
+   "short": "HCL Băbana nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 39/2016 privind cifra de scolarizare anul scolar 7017-2A18; Avizui farrorabil al comisiei de specialitate din cadrul Consiliulul Local; - in temeiul art. 36 din Legea nr.2t5/2001 a Administraliei publice locale, republicatS, adopta urmatoarea: HOTARARE Art.L",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2039%2016.pdf",
+     "sha256": "ca02e5423aa18c4690ddc7b0e385338e3707bb7139030958e75ee57772901a42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-40-2016",
+   "path": "local/arges/babana/2016/40",
+   "short": "HCL Băbana nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 40/2016 Privind achizitia si montarea unei statii de autobuz in satul Babana, punctul \"Corbu\" Consiliul Local al comunei Babana, jud",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-12-06",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hoy%2040%2016.pdf",
+     "sha256": "e65b8757d3e3d08d3591856f5bc23ad7b43640a25f2112540dd031e7834cb543"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-8-2016",
+   "path": "local/arges/babana/2016/8",
+   "short": "HCL Băbana nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 8/2016 Privind repartizarea consilierilor' locali pe zone in mandatul 2016-2020 Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara d.in data de 07.07.2016 Avand in vedere; - validarea alegerilor locale din data de 05.06.2016 - ordonanta 3512002 privind aprobarea Regulamentului cadru de Organizare si Functionare a Consiliilor Locale. - avizele comisiilor de specialitate Consili",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-07-07",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%208%20zone.pdf",
+     "sha256": "cee41dbea5cffe073bb89e9e50152a6f2b3a1c54a3c11cb08c0f3ce6803b798f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-9-2016",
+   "path": "local/arges/babana/2016/9",
+   "short": "HCL Băbana nr. 9/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 9/2016 Privind alegerea presedintelui si secretarului pentru fiecare comisie de specialitate ' t\"tt::::i::::., al comunei Babaira, judetur Arges, inrrunir in sedinra ordinara din dara de 07.07.2016 Avand in vedere; - validarea alegerilor locale din data de 05.06.2016 - ordonanta 3512002 privind aprobarea Regulamentului Cadru de Organizare si Functionare a Consiliilor Locale conform art. 18. - avizele com",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2016-06-05",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%209%20comisii.pdf",
+     "sha256": "e146fed68a4d81d6aa448a75dcc86a5300e65710625677878c3af4e993a77202"
     }
    ]
   }

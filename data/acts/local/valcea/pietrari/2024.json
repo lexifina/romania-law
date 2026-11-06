@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/pietrari/2024",
+"acts": [
+{
+"slug": "hcl-valcea--pietrari-68-2024",
+"path": "local/valcea/pietrari/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 68/2024 Aprobarea Reţelei şcolare a unităţilor de învăţământ preuniversitar, pentru anul şcolar 2025 – 2026, din cadrul comunei Pietrari, judeţul Vâlcea",
+"short": "HCL Pietrari nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-29",
+"latest": "2024-11-29",
+"portal": "https://pietrari.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3102#87700",
+"council": "valcea/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

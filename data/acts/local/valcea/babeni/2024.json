@@ -3,6 +3,50 @@
 "shard": "local/valcea/babeni/2024",
 "acts": [
 {
+"slug": "hcl-valcea--babeni-17-2024",
+"path": "local/valcea/babeni/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 17/2024 aprobarea utilizării sumei de 2.394.660 lei in anul 2024, din excedentul bugetului local rezultat la încheierea exerciţiului bugetar 2023 pentru finanțarea unor cheltuieli ale secțiunii de dezvoltare",
+"short": "HCL Băbeni nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#71059",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--babeni-54-2024",
+"path": "local/valcea/babeni/2024/54",
+"kind": "local",
+"year": "2024",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 54/2024 rectificarea bugetului local al orașului Băbeni pentru anul 2024",
+"short": "HCL Băbeni nr. 54/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-07-26",
+"latest": "2024-07-26",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#79881",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-valcea--babeni-109-2024",
 "path": "local/valcea/babeni/2024/109",
 "kind": "local",

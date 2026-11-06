@@ -3,6 +3,51 @@
 "shard": "local/arges/maracineni/2025",
 "acts": [
 {
+"slug": "hcl-arges--maracineni-150-2025",
+"path": "local/arges/maracineni/2025/150",
+"kind": "local",
+"year": "2025",
+"number": "150",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 150/2025 privind acordarea ”Diplomei de fidelitate” și premierea a două cupluri din comuna Mărăcineni, județul Argeș, care aniversează 50 de ani de casatorie neintreruptă",
+"short": "HCL Mărăcineni nr. 150/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/244288",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-151-2025",
+"path": "local/arges/maracineni/2025/151",
+"kind": "local",
+"year": "2025",
+"number": "151",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 151/2025",
+"short": "HCL Mărăcineni nr. 151/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/244289",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-152-2025",
 "path": "local/arges/maracineni/2025/152",
 "kind": "local",
@@ -44,6 +89,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-154-2025",
+"path": "local/arges/maracineni/2025/154",
+"kind": "local",
+"year": "2025",
+"number": "154",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 154/2025 Privind elaborarea și întocmirea Bugetului local rectificat nr.8, al comunei Mărăcineni pe anul 2025",
+"short": "HCL Mărăcineni nr. 154/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-27",
+"latest": "2025-11-27",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/244292",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -246,6 +313,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-164-2025",
+"path": "local/arges/maracineni/2025/164",
+"kind": "local",
+"year": "2025",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 164/2025 Privind elaborarea și întocmirea Bugetului local rectificat nr.9, al comunei Mărăcineni pe anul 2025",
+"short": "HCL Mărăcineni nr. 164/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/244452",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-165-2025",
 "path": "local/arges/maracineni/2025/165",
 "kind": "local",
@@ -288,6 +377,29 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-167-2025",
+"path": "local/arges/maracineni/2025/167",
+"kind": "local",
+"year": "2025",
+"number": "167",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 167/2025",
+"short": "HCL Mărăcineni nr. 167/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-24",
+"latest": "2026-02-24",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/246307",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

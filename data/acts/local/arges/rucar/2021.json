@@ -25,6 +25,72 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-71-2021",
+"path": "local/arges/rucar/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 71/2021 privind desemnarea reprezentanților Consiliului Local în Consiliile de Administrație ale școlilor",
+"short": "HCL Rucăr nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47552",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-72-2021",
+"path": "local/arges/rucar/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 72/2021 privind încheierea unui contract pentru achiziționarea serviciilor de consultanță în vederea accesării unor proiecte în cadrul programului național ”Anghel Saligny”",
+"short": "HCL Rucăr nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47553",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-73-2021",
+"path": "local/arges/rucar/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 73/2021 privind atestarea unor bunuri la domeniul public al comunei Rucăr",
+"short": "HCL Rucăr nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47554",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-74-2021",
 "path": "local/arges/rucar/2021/74",
 "kind": "local",
@@ -44,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-75-2021",
+"path": "local/arges/rucar/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 75/2021 privind transformarea apartamentelor din Baraca Familială A – 2 scări din punctul Valea lui Maldăr, în locuințe sociale",
+"short": "HCL Rucăr nr. 75/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-05",
+"latest": "2021-10-05",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47556",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -89,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-78-2021",
+"path": "local/arges/rucar/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 78/2021 privind aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei a proiectului privind obiectivul “Extindere rețea de canalizare menajeră în comuna Rucăr, județul Argeș”",
+"short": "HCL Rucăr nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-02",
+"latest": "2021-11-02",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47559",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -159,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-82-2021",
+"path": "local/arges/rucar/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 82/2021 privind desemnarea reprezentanților Consiliului Local pentru constituirea comisiilor de evaluare a probei interviu, pentru ocuparea funcției de director",
+"short": "HCL Rucăr nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-09",
+"latest": "2021-11-09",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47563",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-83-2021",
 "path": "local/arges/rucar/2021/83",
 "kind": "local",
@@ -181,6 +313,29 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-84-2021",
+"path": "local/arges/rucar/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 84/2021",
+"short": "HCL Rucăr nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-02",
+"latest": "2021-12-02",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47565",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--rucar-85-2021",
 "path": "local/arges/rucar/2021/85",
 "kind": "local",
@@ -200,6 +355,72 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-86-2021",
+"path": "local/arges/rucar/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 86/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+"short": "HCL Rucăr nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47567",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-87-2021",
+"path": "local/arges/rucar/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 87/2021 privind aprobarea Regulamentului privind repartizarea, închirierea și administrarea locuințelor sociale aflate în proprietatea privată a comunei Rucăr, aprobarea Criteriilor de ierarhizare în vederea repartizarii locuințelor și aprobarea modificării modelului de contract de închiriere pentru suprafețe locative cu destinație de locuință socială",
+"short": "HCL Rucăr nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47568",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-88-2021",
+"path": "local/arges/rucar/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 88/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+"short": "HCL Rucăr nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-13",
+"latest": "2021-12-13",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/47569",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--barzava-133-2024",
+   "path": "local/arad/barzava/2024/133",
+   "short": "HCL Bârzava nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 133/2024 privind desemnarea unui consilier local care să facă parte în comisia de recepție",
+   "url": "https://emol.ro/barzava-ar/registru-hcl/180544",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/barzava-ar/registru-hcl/180544",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--barzava-134-2024",
    "path": "local/arad/barzava/2024/134",
    "short": "HCL Bârzava nr. 134/2024",

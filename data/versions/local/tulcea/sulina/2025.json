@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-tulcea--sulina-59-2025",
+   "path": "local/tulcea/sulina/2025/59",
+   "short": "HCL Sulina nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 59/2025 privind aprobarea majorării tarifului pentru transport public local de persoane prin curse regulate în orașul Sulina",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/files/HCL59din2025_bilet_transport.docx",
+     "sha256": "1e0cf94e60efe78bc38def1fc395b5732970b1307ba02c9d27a1d183c8616f87"
+    }
+   ]
+  },
+  {
    "slug": "hcl-tulcea--sulina-8-2025",
    "path": "local/tulcea/sulina/2025/8",
    "short": "HCL Sulina nr. 8/2025",
@@ -119,6 +134,21 @@
      "units": 1,
      "source_url": "https://primaria-sulina.ro/files/HCL8din30ian2025_aprobare_PUZ.docx",
      "sha256": "ae08998f5c8647c561dc3167b3dd35c61d66e23ad793f153c87445b62f9b13e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--sulina-84-2025",
+   "path": "local/tulcea/sulina/2025/84",
+   "short": "HCL Sulina nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Sulina nr. 84/2025",
+   "url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 1,
+     "source_url": "https://primaria-sulina.ro/arhiv--hot-rari-cl-2025.html",
+     "sha256": "9aeda84e9fb8a2b4304152b99b408c092ab4b55392985656bd55cac3dfe0d570"
     }
    ]
   }

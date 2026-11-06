@@ -3,6 +3,51 @@
  "shard": "local/arad/zimandu-nou/2021",
  "acts": [
   {
+   "slug": "hcl-arad--zimandu-nou-130-2021",
+   "path": "local/arad/zimandu-nou/2021/130",
+   "short": "HCL Zimandu Nou nr. 130/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 130/2021 privind alegerea preşedintelui de şedinţă a Consiliului local al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42637",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-131-2021",
+   "path": "local/arad/zimandu-nou/2021/131",
+   "short": "HCL Zimandu Nou nr. 131/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 131/2021 privind aprobarea ordinei de zi a şedinţei ordinare a Consiliului local Zimandu Nou din data de 25.11.2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42638",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-132-2021",
+   "path": "local/arad/zimandu-nou/2021/132",
+   "short": "HCL Zimandu Nou nr. 132/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 132/2021 privind aprobarea procesului-verbal al şedinţei anterioare din data de 25.10.2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42639",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42639",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--zimandu-nou-133-2021",
    "path": "local/arad/zimandu-nou/2021/133",
    "short": "HCL Zimandu Nou nr. 133/2021",
@@ -13,6 +58,246 @@
      "from": "2021-11-25",
      "units": 1,
      "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-134-2021",
+   "path": "local/arad/zimandu-nou/2021/134",
+   "short": "HCL Zimandu Nou nr. 134/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 134/2021 privind aprobarea prelungirii duratei Contractului de Concesiune nr. 94 din 10.11.2016",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42641",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-135-2021",
+   "path": "local/arad/zimandu-nou/2021/135",
+   "short": "HCL Zimandu Nou nr. 135/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 135/2021 privind acordul de folosință în calitate de administrator drum a străzii nr.6 intravilan Andrei Șaguna în vederea întocmirii documentației PUZ și RLU - Zonă rezidențială Andrei Șaguna și funcțiuni complementare",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42642",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-136-2021",
+   "path": "local/arad/zimandu-nou/2021/136",
+   "short": "HCL Zimandu Nou nr. 136/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 136/2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42643",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-137-2021",
+   "path": "local/arad/zimandu-nou/2021/137",
+   "short": "HCL Zimandu Nou nr. 137/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 137/2021 privind aprobarea alocării unui teren în vederea depozitării temporare a deşeurilor biodegradabile și voluminoase",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42644",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-138-2021",
+   "path": "local/arad/zimandu-nou/2021/138",
+   "short": "HCL Zimandu Nou nr. 138/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 138/2021 privind aprobarea alocării unui teren în vederea depozitării temporare a deşeurilor inerte rezultate din activităţi de construcţii și demolări de pe raza UAT comuna Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42645",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-139-2021",
+   "path": "local/arad/zimandu-nou/2021/139",
+   "short": "HCL Zimandu Nou nr. 139/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 139/2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42646",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-140-2021",
+   "path": "local/arad/zimandu-nou/2021/140",
+   "short": "HCL Zimandu Nou nr. 140/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 140/2021 privind dezmembrarea imobilului înscris în CF nr. 305373 Zimandu Nou în două loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42647",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-141-2021",
+   "path": "local/arad/zimandu-nou/2021/141",
+   "short": "HCL Zimandu Nou nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 141/2021 aprobarea unui schimb de terenuri între comuna Zimandu Nou şi ROMAGRARIA SRL",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/42648",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/42648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-142-2021",
+   "path": "local/arad/zimandu-nou/2021/142",
+   "short": "HCL Zimandu Nou nr. 142/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 142/2021 privind aprobarea ordinei de zi a şedinţei extraordinare a Consiliului local Zimandu Nou din data de 21.12.2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46335",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-143-2021",
+   "path": "local/arad/zimandu-nou/2021/143",
+   "short": "HCL Zimandu Nou nr. 143/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 143/2021 privind aprobarea procesului-verbal al şedinţei anterioare din data de 25.11.2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46336",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-144-2021",
+   "path": "local/arad/zimandu-nou/2021/144",
+   "short": "HCL Zimandu Nou nr. 144/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 144/2021 privind rectificarea bugetului local al comunei Zimandu Nou pe anul 2021",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46337",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-145-2021",
+   "path": "local/arad/zimandu-nou/2021/145",
+   "short": "HCL Zimandu Nou nr. 145/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 145/2021 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 624/11.10.2018 de la FNGCIMM SA IFN in valoare de 1.000.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 1.000.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat –„ Construire grădiniţă cu program prelungit în localitatea Andrei Şaguna, judeţul Arad ”",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46338",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-146-2021",
+   "path": "local/arad/zimandu-nou/2021/146",
+   "short": "HCL Zimandu Nou nr. 146/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 146/2021 privind retragerea dreptului de folosință atribuit prin Hotărârea Consiliului Local al Comunei Zimandu nr. 53/28.05.2010",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46339",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-147-2021",
+   "path": "local/arad/zimandu-nou/2021/147",
+   "short": "HCL Zimandu Nou nr. 147/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 147/2021 privind întabularea definitivă în proprietatea privată a comunei Zimandu Nou a unui teren intravilan de pe teritoriul administrativ al comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46340",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-148-2021",
+   "path": "local/arad/zimandu-nou/2021/148",
+   "short": "HCL Zimandu Nou nr. 148/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 148/2021 privind dezmembrarea imobilului înscris în CF nr. 304684 Zimandu Nou în două loturi",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46341",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--zimandu-nou-149-2021",
+   "path": "local/arad/zimandu-nou/2021/149",
+   "short": "HCL Zimandu Nou nr. 149/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 149/2021 privind aprobarea primei înscrieri în cartea funciară a lotului teren intravilan neîmprejmuit, proprietatea privată a comunei Zimandu Nou",
+   "url": "https://emol.ro/zimandunou-ar/registru-hcl/46342",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/zimandunou-ar/registru-hcl/46342",
      "sha256": null
     }
    ]

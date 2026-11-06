@@ -25,6 +25,29 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-55-2020",
+"path": "local/arad/halmagiu/2020/55",
+"kind": "local",
+"year": "2020",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 55/2020",
+"short": "HCL Hălmagiu nr. 55/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-03",
+"latest": "2020-12-03",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/15481",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-56-2020",
 "path": "local/arad/halmagiu/2020/56",
 "kind": "local",
@@ -89,6 +112,28 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-59-2020",
+"path": "local/arad/halmagiu/2020/59",
+"kind": "local",
+"year": "2020",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 59/2020 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 59/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/15527",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -203,6 +248,51 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-65-2020",
+"path": "local/arad/halmagiu/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 65/2020",
+"short": "HCL Hălmagiu nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/15533",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-66-2020",
+"path": "local/arad/halmagiu/2020/66",
+"kind": "local",
+"year": "2020",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 66/2020 privind aprobarea numirii reprezentanților Consiliului Local Hălmagiu în Consiliul de Administrație al unității de învățământ preuniversitar de pe raza comunei Hălmagiu, județul Arad și Comisia de Evaluare și Asigurare a Calității Educației",
+"short": "HCL Hălmagiu nr. 66/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/15534",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-67-2020",
 "path": "local/arad/halmagiu/2020/67",
 "kind": "local",
@@ -244,6 +334,28 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-69-2020",
+"path": "local/arad/halmagiu/2020/69",
+"kind": "local",
+"year": "2020",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 69/2020 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 69/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-19",
+"latest": "2020-12-19",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/15553",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

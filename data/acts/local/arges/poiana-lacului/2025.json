@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/poiana-lacului/2025",
+"acts": [
+{
+"slug": "hcl-arges--poiana-lacului-164-2025",
+"path": "local/arges/poiana-lacului/2025/164",
+"kind": "local",
+"year": "2025",
+"number": "164",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 164/2025",
+"short": "HCL Poiana Lacului nr. 164/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-02",
+"latest": "2025-12-02",
+"portal": "https://poianalacului.ro/wp-content/uploads/2026/07/Bug_rectif_HCL_63_28.11.2025-si-Disp.nr_.164_02.12.2025-1.pdf",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

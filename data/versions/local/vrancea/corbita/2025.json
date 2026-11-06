@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/corbita/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--corbita-10-2025",
+   "path": "local/vrancea/corbita/2025/10",
+   "short": "HCL Corbița nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbița nr. 10/2025 HCL privind: aprobarea bugetului local inițial și albugetului activităților finanțate integral sau parțial din venituri proprii, inițial, pentru anul 2025",
+   "url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#112432",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 1,
+     "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#112432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--corbita-4-2025",
+   "path": "local/vrancea/corbita/2025/4",
+   "short": "HCL Corbița nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbița nr. 4/2025 HCL privind: modificarea organigramei, al statului de funcții li al numărului de personal pentru aparatul de specialitate al primarului comunei Corbița, județul Vrancea",
+   "url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#103298",
+   "versions": [
+    {
+     "from": "2025-07-29",
+     "units": 1,
+     "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#103298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--corbita-9-2025",
+   "path": "local/vrancea/corbita/2025/9",
+   "short": "HCL Corbița nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Corbița nr. 9/2025 HCL aprobarea planului de acțiuni/lucrări de interes local pe anul 2025, ce vor fi prestate de către persoanele apte de muncă, beneficiare de ajutor de incluziune, care au obligația, conform legi, să presteze lunar activități/acțiuni de interes local",
+   "url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#112420",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#112420",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

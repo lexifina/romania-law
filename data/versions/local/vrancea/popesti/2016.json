@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/popesti/2016",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--popesti-38-2016",
+   "path": "local/vrancea/popesti/2016/38",
+   "short": "HCL Popești nr. 38/2016",
+   "title": "Hotărârea Consiliului Local al Comunei Popești nr. 38/2016 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE PRECUM SI A TAXELOR SPECIALE, PENTRU ANUL 2017",
+   "url": "https://www.primariapopestivn.ro/hotarari-ale-consiliului-local-2016/",
+   "versions": [
+    {
+     "from": "2016-11-23",
+     "units": 1,
+     "source_url": "https://www.primariapopestivn.ro/fisiere/2019/05/hcl_nr_38_din_23112016_-impozite-si-taxe-2017.docx",
+     "sha256": "732cddac0ff93964194c2edce93f8bd4983cca6fbaa568844ff98f42bcb85f87"
+    }
+   ]
+  }
+ ]
+}

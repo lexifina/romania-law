@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/arad/sebis/2019",
+"acts": [
+{
+"slug": "hcl-arad--sebis-82-2019",
+"path": "local/arad/sebis/2019/82",
+"kind": "local",
+"year": "2019",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 82/2019",
+"short": "HCL Sebiș nr. 82/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-10-14",
+"latest": "2019-10-14",
+"portal": "https://primariasebis.ro/hotarari/hotarari-2019/",
+"council": "arad/sebis",
+"council_name": "Consiliul Local al Orașului Sebiș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+}
+]
+}

@@ -3,6 +3,51 @@
  "shard": "local/alba/mihalt/2025",
  "acts": [
   {
+   "slug": "hcl-alba--mihalt-1-2025",
+   "path": "local/alba/mihalt/2025/1",
+   "short": "HCL Mihalț nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 1/2025 privind stabilirea și preluarea excedentului anual al bugetului local al comunei Mihalț rezultat la încheierea exercițiului bugetar al anului 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/1.-Hotararea-nr.-1-privind-stabilirea-si-preluarea-excedentului-anual-al-bugetului-local-al-comunei-Mihalt-rezultat-la-incheierea-exercitiului-bugetar-al-anului-2024.pdf",
+     "sha256": "bd62770bc6641a65773c443eb9c70b35d1f8421958d803b1e8918726ca850148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-10-2025",
+   "path": "local/alba/mihalt/2025/10",
+   "short": "HCL Mihalț nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 10/2025 privind aprobarea rezultatului inventarierii anuale – 2024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/10.-Hotararea-nr.-10-privind-aprobarea-rezultatului-inventarierii-anuale-2024.pdf",
+     "sha256": "763edbafb8865600437badc933a70629e18889592ed231d19141c181941a4151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-12-2025",
+   "path": "local/alba/mihalt/2025/12",
+   "short": "HCL Mihalț nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 12/2025 privind aprobarea bugetului de venituri și cheltuieli al comunei Mihalț pe anul 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/12.-Hotararea-nr.-12-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-comunei-MIhalt-pe-anul-2025.pdf",
+     "sha256": "badcb4cc45eec285e1b0beee29146f20a33adc6e43791584f923b50db7e7b4c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-13-2025",
    "path": "local/alba/mihalt/2025/13",
    "short": "HCL Mihalț nr. 13/2025",
@@ -18,6 +63,96 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-15-2025",
+   "path": "local/alba/mihalt/2025/15",
+   "short": "HCL Mihalț nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 15/2025 privind aprobarea alocării sumei de 14.000 lei din bugetul local pentru Asociația Țara Secașelor",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/15.-Hotararea-nr.-15-privind-aprobarea-alocarii-sumei-de-14.000-lei-din-bugetul-local-pentru-Asociatia-Tara-Secaselor.pdf",
+     "sha256": "f70fbfcbd4e0e8dfd4843627771b12d04c845f887e5539e069e72610152f6147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-16-2025",
+   "path": "local/alba/mihalt/2025/16",
+   "short": "HCL Mihalț nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 16/2025 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice, pe luna februarie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/16.-Hotararea-nr.-16-privind-aprobarea-decontarii-cheltuielilor-pentru-naveta-cadrelor-didactice-pe-luna-februarie.pdf",
+     "sha256": "298236be664ad3ff1e7e321eb3b5b8292eef30c308ecd53acdece9acd9fb5f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-17-2025",
+   "path": "local/alba/mihalt/2025/17",
+   "short": "HCL Mihalț nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 17/2025 privind aprobarea cuantumului cotizației la Asociația de Dezvoltare Intercomunitară SALUBRIS Alba 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/17.-Hotararea-nr.17-privind-aprobarea-cuantumului-cotizatiei-la-Asociatia-de-Dezvoltare-Intercomunitara-SALUBRIS-Alba-2025.pdf",
+     "sha256": "738694b45b1ab7c6b584b05d423b376424b1c732874c1a0bbdb4ef7cd80982cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-18-2025",
+   "path": "local/alba/mihalt/2025/18",
+   "short": "HCL Mihalț nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 18/2025 privind aprobarea cuantumului cotizației la Asociația de Dezvoltare Intercomunitară APA ALBA pentru anul 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/18.-Hotararea-nr.-18-privind-aprobarea-cuantumului-cotizatiei-la-Asociatia-de-Dezvoltare-Intercomunitara-APA-ALBA-pentru-anul-2025.pdf",
+     "sha256": "8485ee8722b87943aa167fef0f4c2f5ca595affad643d7c8db5f9ba37b116d87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-19-2025",
+   "path": "local/alba/mihalt/2025/19",
+   "short": "HCL Mihalț nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 19/2025 privind alegerea președintelui de ședință al Consiliului Local al Comunei Mihalț pentru ședințele din aprilie – iunie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/19.-Hotararea-nr.-19-privind-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-Comunei-Mihalt-pentru-sedintele-din-aprilie-iunie.pdf",
+     "sha256": "233486c776f5cb09821e4ba189a37f21cbb224ba678c7c8c2c2eac4f61f6db11"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-2-2025",
+   "path": "local/alba/mihalt/2025/2",
+   "short": "HCL Mihalț nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 2/2025 privind aprobarea Planului de acțiuni lucrări de interes local care pot fi realizate în anul 2025 de persoanele beneficiare ale venitului minim de incluziune",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/2.-Hotararea-nr.-2-privind-aprobarea-Planului-de-actiunilucrari-de-interes-local-care-pot-fi-realizate-in-anul-2025-de-persoanele-beneficiare-ale-venitului-minim-de-incluz.pdf",
+     "sha256": "7cb93b5d0bb410420adaa89ab663d7ac84171439cd464bc6c89125ae3a763798"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-20-2025",
    "path": "local/alba/mihalt/2025/20",
    "short": "HCL Mihalț nr. 20/2025",
@@ -29,6 +164,396 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/20.-Hotararea-nr.-20-privind-modif.-si-completarea-Hotararii-Consiliului-Local-Mihalt-nr.-4-din-2021-Regulament-de-gospodarire-comunala.pdf",
      "sha256": "f8d0774656b0416a124779f1a880ff21a70f0909c10b9b797ae5d92577c73ec8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-21-2025",
+   "path": "local/alba/mihalt/2025/21",
+   "short": "HCL Mihalț nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 21/2025 privind aprobarea cotizației Comunei Mihalț la AIDA – TL pe anul 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/21.-Hotararea-nr.-21-privind-aprobarea-cotizatiei-Comunei-Mihalt-la-AIDA-TL-pe-anul-2025.pdf",
+     "sha256": "5dcafee86938d36cf33791ef67e93f955ecee4b96b1e2337203a052d26526e2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-22-2025",
+   "path": "local/alba/mihalt/2025/22",
+   "short": "HCL Mihalț nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 22/2025 privind modificarea statului de funcții al aparatului de specialitate al primarului comunei Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/22.-Hotararea-nr.-22-privind-modificarea-statului-de-functii-al-aparatului-de-specialitate-al-primarului-comunei-Mihalt.pdf",
+     "sha256": "8044c12d41bcd8f17ac73d093ad75dd7ee771195eb215e4d43fe08d781eb23c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-23-2025",
+   "path": "local/alba/mihalt/2025/23",
+   "short": "HCL Mihalț nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 23/2025 privind aprobarea execuției bugetului local al comunei Mihalț pe trim. I 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/23.-Hotararea-nr.-23-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt-pe-trim.-I-2025.pdf",
+     "sha256": "2758b8af988e32341aca0798f03c0c850049b1902b4aca8a89a34c2c71acc04d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-25-2025",
+   "path": "local/alba/mihalt/2025/25",
+   "short": "HCL Mihalț nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 25/2025 pentru acordare sprijin financiar Parohiei Ortodoxe Obreja",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/25.-Hotararea-nr.-25-alocare-sume-prevazute-in-bugetul-local-pentru-acordare-sprijin-financiar-Parohiei-Ortodoxe-Obreja.pdf",
+     "sha256": "747cccea0485ff9f7a795db1eaf36d1bd527de64eff066050f6166c995488bfa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-26-2025",
+   "path": "local/alba/mihalt/2025/26",
+   "short": "HCL Mihalț nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 26/2025 privind aprobarea rectificării bugetului local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/26.-Hotararea-nr.-26-privind-aprobarea-rectificarii-bugetului-local.pdf",
+     "sha256": "45659912d29b23740eaf78fac5b9e6a2bb31de6fda427800d73c0f7481ad74b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-27-2025",
+   "path": "local/alba/mihalt/2025/27",
+   "short": "HCL Mihalț nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 27/2025 privind decontarea cheltuielilor pentru naveta cadrelor didactice, pe luna martie 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/27.-Hotararea-nr.-27-privind-decontarea-cheltuielilor-pentru-naveta-cadrelor-didactice-pe-luna-martie-2025.pdf",
+     "sha256": "94a798836ebf5e9c625bb59616487fc243daca5eb41cec83932143e6bcf19291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-28-2025",
+   "path": "local/alba/mihalt/2025/28",
+   "short": "HCL Mihalț nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 28/2025 privind modif",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/28.-Hotararea-nr.-28-privind-modif.-Hotararii-nr.-31-din-19.05.2020.pdf",
+     "sha256": "b029a86e035c3fdfb97eae24c86c4f7d86530c8117f4f0dfcfb7633d9c1f374c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-29-2025",
+   "path": "local/alba/mihalt/2025/29",
+   "short": "HCL Mihalț nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 29/2025 privind aprobare actualizare deviz și chelt buget local lucrări școală PNRR",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/29.-Hotararea-nr.-29-privind-aprobare-actualizare-deviz-si-chelt-buget-local-lucrari-scoala-PNRR.pdf",
+     "sha256": "9aa72f964bd7e45440c1971b15f09e7c1cd214c7e001d7643a0ff65106728d51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-3-2025",
+   "path": "local/alba/mihalt/2025/3",
+   "short": "HCL Mihalț nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 3/2025 privind aprobarea principalelor manifestări cultural – artistice și educative",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/3.-Hotararea-nr.-3-privind-aprobarea-principalelor-manifestari-cultural-%E2%80%93-artistice-si-educative.pdf",
+     "sha256": "5e450d0129422f3e8de42f0b108c23886694645b835f397c61d7c107f0bae92f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-30-2025",
+   "path": "local/alba/mihalt/2025/30",
+   "short": "HCL Mihalț nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 30/2025 privind actualizare deviz general lucrări cămin cul",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/30.-Hotarare-nr.-30-privind-actualizare-deviz-general-lucrari-camin-cul.-Mihalt-PNRR.pdf",
+     "sha256": "36756aaa1ad4291aea613cf69b44d2f0a24a2e30156b7a68fd513b649c5f4495"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-31-2025",
+   "path": "local/alba/mihalt/2025/31",
+   "short": "HCL Mihalț nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 31/2025 privind aprobare ind. teh. -ec. acostamente, șanțuri, accese DC 39 intravilan Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/31.-Hotararea-nr.-31-privind-aprobare-ind.-teh.-ec.-acostamente-santuri-accese-DC-39-intravilan-Mihalt.pdf",
+     "sha256": "1bd006c3c044f01395aef328a6ebd8216ac9230f0a83aa1061fb629f1fceea50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-32-2025",
+   "path": "local/alba/mihalt/2025/32",
+   "short": "HCL Mihalț nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 32/2025 privind utilizare sume din excedent bugetar 2024 pentru secțiunea de dezvoltare a bugetului local în anul 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/32.-Hotararea-nr.-32-privind-utilizare-sume-din-excedent-bugetar-2024-pentru-sectiunea-de-dezvoltare-a-bugetului-local-in-anul-2025.pdf",
+     "sha256": "e74db74d15cbabf4ff29868da9f9f2b8a6d534ef4e0446e31b67cdff4a73d9d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-33-2025",
+   "path": "local/alba/mihalt/2025/33",
+   "short": "HCL Mihalț nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 33/2025 privind aprobare rectificare buget local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-05-23",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/33.-Hotararea-nr.-33-privind-aprobare-rectificare-buget-local.pdf",
+     "sha256": "a0f795596111ae654a0674ecffa1daf6ab1b08f8f1579d7b57965681cac7db60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-34-2025",
+   "path": "local/alba/mihalt/2025/34",
+   "short": "HCL Mihalț nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 34/2025 privind aprobarea rectificării bugetului local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/34.-Hotararea-nr.-34-privind-aprobarea-rectificarii-bugetului-local.pdf",
+     "sha256": "c99c0ab42bd4e5337312a9672ddbbecb6e5d01f5455223ceae3479855fa258e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-35-2025",
+   "path": "local/alba/mihalt/2025/35",
+   "short": "HCL Mihalț nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 35/2025 privind reorganizarea Serviciului Voluntar pentru situații de Urgență Mihalț",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/35.-Hotararea-nr.-35-privind-reorganizarea-Serviciului-Voluntar-pentru-situatii-de-Urgenta-Mihalt.pdf",
+     "sha256": "befe5b931fc37ff0270c43224a9663edad15a941f60f043f068c0c956c8e0879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-37-2025",
+   "path": "local/alba/mihalt/2025/37",
+   "short": "HCL Mihalț nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 37/2025 privind decontare cheltuieli navetă cadre didactice mai și aprilie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/37.-Hotararea-nr.-37-privind-decontare-cheltuieli-naveta-cadre-didactice-mai-si-aprilie.pdf",
+     "sha256": "51dde7c317c4e4583f269ef8357e4b20bf62cb0d07ff095214fe1d5295b5af42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-38-2025",
+   "path": "local/alba/mihalt/2025/38",
+   "short": "HCL Mihalț nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 38/2025 privind aprobarea modului de întocmire a registrului agricol pe perioada 2025 – 2029",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/38.-Hotararea-nr.-38-privind-aprobarea-modului-de-intocmire-a-registrului-agricol-pe-perioada-2025-%E2%80%93-2029.pdf",
+     "sha256": "221a1a5c794fe6fa3c9dae49acde9e9389d84e502c1bb5e974c3f075c97a5220"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-39-2025",
+   "path": "local/alba/mihalt/2025/39",
+   "short": "HCL Mihalț nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 39/2025 pentru ședințele din iulie- septembrie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/39.-Hotararea-nr.-39-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-Comunei-Mihalt-pentru-sedintele-din-iulie-septembrie.pdf",
+     "sha256": "735fa593608bffd46d5af4e4c427a4ecd91340581234222531243dafdfb973e1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-4-2025",
+   "path": "local/alba/mihalt/2025/4",
+   "short": "HCL Mihalț nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 4/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": null,
+     "sha256": "c5ea7a26801996bea9948f4e2af08deafbf8851a0b5bf951264002af305e1820"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-41-2025",
+   "path": "local/alba/mihalt/2025/41",
+   "short": "HCL Mihalț nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 41/2025 privind aprobare rectificare buget local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-07-14",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/41.-Hotarare-nr.-41-privind-aprobare-rectificare-buget-local.pdf",
+     "sha256": "fd1bebe2ac88b8ec599cd605b3454c6701cff00758f734677b3230c1d3bfa49a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-43-2025",
+   "path": "local/alba/mihalt/2025/43",
+   "short": "HCL Mihalț nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 43/2025 privind aprobarea execuției bugetului local al comunei Mihalț pe trim. II 2025",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/43.-Hotararea-nr.-43-privind-aprobarea-executiei-bugetului-local-al-comunei-Mihalt-pe-trim.-II-2025.pdf",
+     "sha256": "d31219e12c13a3bc3cbff4090d8251095b5133da72cfbeb00df65494395eb291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-44-2025",
+   "path": "local/alba/mihalt/2025/44",
+   "short": "HCL Mihalț nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 44/2025 privind aprobare decontare cheltuieli navetă cadre didactice iunie 2025",
+   "url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/44.-Hotararea-nr.-44-privind-aprobare-decontare-cheltuieli-naveta-cadre-didactice-iunie-2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/44.-Hotararea-nr.-44-privind-aprobare-decontare-cheltuieli-naveta-cadre-didactice-iunie-2025.pdf",
+     "sha256": "15e5ff4bc65b1c4f8b0736564fe3b10237b3ef619cc5e33eadf1a98f55bcccc1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-45-2025",
+   "path": "local/alba/mihalt/2025/45",
+   "short": "HCL Mihalț nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 45/2025 privind modificare program transport local prin excluderea unor curse",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/45.-Hotararea-nr.-45-privind-modificare-program-transport-local-prin-excluderea-unor-curse.pdf",
+     "sha256": "ba572d2d4a9e8791e5c6098814669895a030ceff5fc4bfd670b4bc290a31d48c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-46-2025",
+   "path": "local/alba/mihalt/2025/46",
+   "short": "HCL Mihalț nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 46/2025 privind aprobarea rectificării bugetului local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/10/46.-Hotarare-nr.-46-privind-aprobarea-rectificarii-bugetului-local.pdf",
+     "sha256": "6730522ce952e4fd87415f9a9645b48c9d3056dd1eac1cec017376c9af91c4f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-47-2025",
+   "path": "local/alba/mihalt/2025/47",
+   "short": "HCL Mihalț nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 47/2025 privind încheierea Actului adițional nr.2 la Protocolul de colaborare – modernizare DN14B",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-14",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/10/47.-Hotararea-nr.-47-privind-incheierea-Actului-aditional-nr.2-la-Protocolul-de-colaborare-modernizare-DN14B.pdf",
+     "sha256": "39fd3418a01de8bee5e4ef096063fe5147df9cd125e369cd82a9e37980cfe3c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-49-2025",
+   "path": "local/alba/mihalt/2025/49",
+   "short": "HCL Mihalț nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 49/2025 privind aprobarea rectificării bugetului local",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/10/49.-Hotararea-nr.-49-privind-aprobarea-rectificarii-bugetului-local.pdf",
+     "sha256": "32d186f54b3182b267e7ce18e7946d8459b6af588231ff4850f91e557d395a52"
     }
    ]
   },
@@ -134,6 +659,21 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/11/58.-Hotararea-nr.-58-aprobare-PUZ-Statie-de-sortare-balast-cantar-si-imprejmuire.pdf",
      "sha256": "e936c3c3c6799d92885d938058eb02fa9b8f500597805dde5cbdd94637af00e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-6-2025",
+   "path": "local/alba/mihalt/2025/6",
+   "short": "HCL Mihalț nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 6/2025 privind modificarea Hotărârii Consiliului local Mihalț nr. 242024",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-01-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/6.-Hotararea-nr.-6-privind-modificarea-Hotararii-Consiliului-local-Mihalt-nr.-242024.pdf",
+     "sha256": "06ed7c104fb63731bd63042ca4f0f50bdbce3906c4bad9562c6a791ed0aa24f5"
     }
    ]
   },
@@ -288,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-alba--mihalt-7-2025",
+   "path": "local/alba/mihalt/2025/7",
+   "short": "HCL Mihalț nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 7/2025 privind aprobarea decontării cheltuielilor pentru naveta cadrelor didactice – ianuarie",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/7.-Hotararea-nr.-7-privind-aprobarea-decontarii-cheltuielilor-pentru-naveta-cadrelor-didactice-ianuarie.pdf",
+     "sha256": "5d2d8c9c28bbaebb79571791b7c2ab4fac414553de9016fd88c90000357eb56a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--mihalt-70-2025",
    "path": "local/alba/mihalt/2025/70",
    "short": "HCL Mihalț nr. 70/2025",
@@ -374,6 +929,36 @@
      "units": 1,
      "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2026/09/75.-Hotarare-nr.-75-alegerea-presedintelui-de-sedinta-al-Consiliului-Local-al-Comunei-Mihalt-pentru-sedintele-din-lunile-ian.-martie-2026.pdf",
      "sha256": "78724c3436c712b3f02f5f762deb8c7acac8ffcb81b3e313369d60b5734f0add"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-8-2025",
+   "path": "local/alba/mihalt/2025/8",
+   "short": "HCL Mihalț nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 8/2025 privind aprobarea Planului anual de acțiune privind serviciile sociale",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/8.-Hotararea-nr.-8-privind-aprobarea-Planului-anual-de-actiune-privind-serviciile-sociale.pdf",
+     "sha256": "830be3ed376cd6894ac63d7795a0f99ad81c4e6ac885c1c8aedd5ea226beef8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--mihalt-9-2025",
+   "path": "local/alba/mihalt/2025/9",
+   "short": "HCL Mihalț nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mihalț nr. 9/2025 privind rectificarea Cărților Funciare nr. 75166 Mihalț și nr. 76138 Mihalț în sensul radierii dr. de proprietate asupra unor terenuri",
+   "url": "https://www.primariamihalt.ro/hotarari-ale-consiliului-local-2025/",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://www.primariamihalt.ro/wp-content/uploads/2025/08/9.-Hotararea-nr.-9-privind-rectificarea-Cartilor-Funciare-nr.-75166-Mihalt-si-nr.-76138-Mihalt-in-sensul-radierii-dr.-de-proprietate-asupra-unor-terenuri.pdf",
+     "sha256": "9cbd50eedc8d86bb455b0cc868d87e4d928e9cfb16ca0d7a13c303c9f79a5d77"
     }
    ]
   }

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--sistarovat-52-2025",
+   "path": "local/arad/sistarovat/2025/52",
+   "short": "HCL Șiștarovăț nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 52/2025 privind aprobarea ordinii de zi a sedintei DE INDATA din 14.11.2025",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/235444",
+   "versions": [
+    {
+     "from": "2025-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/235444",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--sistarovat-53-2025",
    "path": "local/arad/sistarovat/2025/53",
    "short": "HCL Șiștarovăț nr. 53/2025",
@@ -73,6 +88,21 @@
      "from": "2025-12-12",
      "units": 1,
      "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/237987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sistarovat-57-2025",
+   "path": "local/arad/sistarovat/2025/57",
+   "short": "HCL Șiștarovăț nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 57/2025 privind aprobarea pretului de vanzare a 507,77 mc masa lemnoasa din Partida 1556 Crâng Sistarovat",
+   "url": "https://emol.ro/sistarovat-ar/registru-hcl/237988",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sistarovat-ar/registru-hcl/237988",
      "sha256": null
     }
    ]

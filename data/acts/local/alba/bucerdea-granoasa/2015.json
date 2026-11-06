@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/bucerdea-granoasa/2015",
+"acts": [
+{
+"slug": "hcl-alba--bucerdea-granoasa-4-2015",
+"path": "local/alba/bucerdea-granoasa/2015/4",
+"kind": "local",
+"year": "2015",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucerdea Grânoasă nr. 4/2015 privind aprobarea Bugetului si a Listei de investitii a Comunei Bucerdea Granoasa pentru anul 2015",
+"short": "HCL Bucerdea Grânoasă nr. 4/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-02-11",
+"latest": "2015-02-11",
+"portal": "https://www.bucerdea-granoasa.ro/informatii-publice/hotarari-c-l/",
+"council": "alba/bucerdea-granoasa",
+"council_name": "Consiliul Local al Comunei Bucerdea Grânoasă",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

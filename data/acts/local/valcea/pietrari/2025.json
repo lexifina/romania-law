@@ -1,0 +1,29 @@
+{
+"country": "RO",
+"shard": "local/valcea/pietrari/2025",
+"acts": [
+{
+"slug": "hcl-valcea--pietrari-39-2025",
+"path": "local/valcea/pietrari/2025/39",
+"kind": "local",
+"year": "2025",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietrari nr. 39/2025",
+"short": "HCL Pietrari nr. 39/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-06-13",
+"latest": "2025-06-13",
+"portal": null,
+"council": "valcea/pietrari",
+"council_name": "Consiliul Local al Comunei Pietrari",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+}
+]
+}

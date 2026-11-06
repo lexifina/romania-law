@@ -1,0 +1,921 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/vizantea-livezi/2025",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-1-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/1",
+   "short": "HCL Vizantea-Livezi nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 1/2025 Aprobarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al primarului comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98986",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-10-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/10",
+   "short": "HCL Vizantea-Livezi nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 10/2025 Aprobarea Planului de acțiuni/lucrări de interes local ce vor fi executate de beneficiarii ajutorului de incluziune apți de muncă, potrivit Legii nr.98/2016 privind venitul minim de incluziune, pentru anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98997",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98997",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-12-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/12",
+   "short": "HCL Vizantea-Livezi nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 12/2025 Alegerea preşedintelui de şedinţă al Consiliului Local Vizantea – Livezi, judeţul Vrancea, pentru ședința ordinară din data de 21 februarie 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99000",
+   "versions": [
+    {
+     "from": "2025-02-21",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-14-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/14",
+   "short": "HCL Vizantea-Livezi nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 14/2025 Aprobarea act de punere în valoare nr.2400124701470 și valorificarea cantității de 46,88 mc masă lemnoasă - proprietatea comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99002",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-15-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/15",
+   "short": "HCL Vizantea-Livezi nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 15/2025 Aprobarea și actualizarea Planului de Analiză și Acoperire a Riscurilor",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99029",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-16-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/16",
+   "short": "HCL Vizantea-Livezi nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 16/2025 Alegerea preşedintelui de şedinţă al Consiliului Local Vizantea – Livezi, judeţul Vrancea, pentru lunile aprilie, mai, iunie 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99030",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99030",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-18-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/18",
+   "short": "HCL Vizantea-Livezi nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 18/2025 Aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99032",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-19-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/19",
+   "short": "HCL Vizantea-Livezi nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 19/2025 Aprobarea bugetului local pe anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99033",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99033",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-2-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/2",
+   "short": "HCL Vizantea-Livezi nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 2/2025 Aprobarea Statului de Funcții și a Organigramei Primăriei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98989",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-20-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/20",
+   "short": "HCL Vizantea-Livezi nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 20/2025 Participarea UAT Vizantea-Livezi la Programul privind acordarea de sprijin în vederea achiziționării de aparate pentru încălzirea locuințelor pentru localităţile din zona montană - Program finanțat de Administrația Fondului pentru Mediu",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99034",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-21-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/21",
+   "short": "HCL Vizantea-Livezi nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 21/2025 Clasificarea unui drum de interes local, categoria de folosință drum comunal, situat în intravilanul Comunei Vizantea-Livezi, T59, P.11012",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99035",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99035",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-22-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/22",
+   "short": "HCL Vizantea-Livezi nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 22/2025 Modificarea și completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99230",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-23-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/23",
+   "short": "HCL Vizantea-Livezi nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 23/2025 Modificarea și completarea inventarului bunurilor care alcătuiesc domeniul public al comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99231",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-24-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/24",
+   "short": "HCL Vizantea-Livezi nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 24/2025 Rezilierea contractului de concesiune încheiat între Primăria Comunei Vizantea-Livezi și SC FUNGUS PRODUCTS SRL",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99233",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-25-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/25",
+   "short": "HCL Vizantea-Livezi nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 25/2025 Aprobarea participării UAT Vizantea-Livezi la Programul Rabla Plus - finanțat de Administrația Fondului pentru Mediu",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99234",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#99234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-26-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/26",
+   "short": "HCL Vizantea-Livezi nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 26/2025 Avizarea documentației de atribuire a Contractului de delegare a gestiunii activității de colectare și transport a deșeurilor municipale din Lotul 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea și aprobarea mandatării cu mandat special a Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată” să exercite, în numele și pe seama Unității Administrativ-Teritoriale comuna Vizantea-Livezi, delegarea gestiunii serviciului privind colectarea deșeurilor municipale și transportul acestora la punctele/stațiile de transfer la nivelul Lotului 2 (zonele 2-5 – Vidra, Gugești, CMID Haret și Adjud), județul Vrancea, pentru proiectul ,,Sistem de Management Integrat al Deșeurilor în județul Vrancea”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115203",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-27-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/27",
+   "short": "HCL Vizantea-Livezi nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 27/2025 Alocarea din bugetul local al comunei Vizantea-Livezi a unei sume pentru premierea elevilor Școlii Gimnaziale Vizantea-Răzășeasca cu rezultate deosebite în anul școlar 2024-2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115204",
+   "versions": [
+    {
+     "from": "2025-05-26",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115204",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-28-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/28",
+   "short": "HCL Vizantea-Livezi nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 28/2025 Modificarea și completarea Contractului de Asociere - la Hotărârea UAT Vizantea-Livezi nr.27 din 09.10.2008 privind asocierea UAT Vizantea-Livezi cu unitățile administrativ-teritoriale din județ în vederea constituirii Asociației de Dezvoltare Intercomunitară „Vrancea Curată” pentru dezvoltarea sistemului de management integrat al deșeurilor și extinderea infrastructurii în județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115205",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115205",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-29-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/29",
+   "short": "HCL Vizantea-Livezi nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 29/2025 Aprobarea proiectului tehnic (PT) și a indicatorilor tehnico-economici pentru obiectivul de investiții “Inființare rețea stație de reîncărcare pentru vehicule electrice sat Vizantea-Răzășeasca- punct Primărie, comuna Vizantea-Livezi, județul Vrancea”;",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115206",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115206",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-3-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/3",
+   "short": "HCL Vizantea-Livezi nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 3/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-30-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/30",
+   "short": "HCL Vizantea-Livezi nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 30/2025 Alegerea preşedintelui de şedinţă al Consiliului Local Vizantea – Livezi, judeţul Vrancea, pentru lunile iulie, august, septembrie 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115207",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115207",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-31-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/31",
+   "short": "HCL Vizantea-Livezi nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 31/2025 Obținerea acordului de principiu pentru implementarea proiectului “Vizantea – Satul cu bunici”, care va fi depus în cadrul Programului Incluziune și Demnitate Socială 2021 – 2027",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115208",
+   "versions": [
+    {
+     "from": "2025-06-13",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-32-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/32",
+   "short": "HCL Vizantea-Livezi nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 32/2025 Alocarea din bugetul local al comunei Vizantea-Livezi a unei sume în scopul organizării unei excursii pentru elevii cu rezultate bune și foarte bune la învăţătură în anul școlar 2024-2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115209",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115209",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-34-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/34",
+   "short": "HCL Vizantea-Livezi nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 34/2025 Completarea inventarului bunurilor care alcătuiesc domeniul privat al comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115350",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-35-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/35",
+   "short": "HCL Vizantea-Livezi nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 35/2025 Aprobarea aderării UAT Vizantea-Livezi la Organizația de Management al Destinației ”Ținutului Vrancei”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115351",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-36-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/36",
+   "short": "HCL Vizantea-Livezi nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 36/2025 Aprobarea rectificării bugetului local al comunei Vizantea-Livezi, trimestrul III, anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115352",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-37-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/37",
+   "short": "HCL Vizantea-Livezi nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 37/2025 Actualizarea indicatorilor tehnico - economici pentru obiectivul “Construire parc fotovoltaic sat Vizantea-Mănăstireasca”, finanțat prin Programul Fondul pentru Modernizare",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115353",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-39-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/39",
+   "short": "HCL Vizantea-Livezi nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 39/2025 Aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115355",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-4-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/4",
+   "short": "HCL Vizantea-Livezi nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 4/2025 Completarea și actualizarea nomenclatorului stradal al comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98991",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-40-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/40",
+   "short": "HCL Vizantea-Livezi nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 40/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-41-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/41",
+   "short": "HCL Vizantea-Livezi nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 41/2025 Aprobarea documentației de avizare a lucrărilor de intervenții (DALI) și a indicatorilor tehnico economici pentru obiectivul de investiții Consolidare, modernizare, extindere și reabilitare energetică școala gimnazială și grădinița Vizantea-Răzășeasca, comuna Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115357",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-42-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/42",
+   "short": "HCL Vizantea-Livezi nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 42/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-43-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/43",
+   "short": "HCL Vizantea-Livezi nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 43/2025 Aprobarea participării Comunei Vizantea-Livezi în calitate de solicitant în Proiectul „Vizantea – Satul cu bunici”, cod MySMIS2021SMIS2021+ [348462], din cadrul apelului „PIDS632PIDS_P6OP4ESO4.11PIDS_A26 - Servicii de îngrijire la domiciliu pentru persoanele vârstnice - Regiuni mai puțin dezvoltate” deschis prin „Programul Incluziune și Demnitate Socială (PIDS) 2021-2027“și aprobarea cheltuielilor legate de proiect",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115359",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-44-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/44",
+   "short": "HCL Vizantea-Livezi nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 44/2025 Actualizarea Registrului Local al Spațiilor Verzi aparținând Comunei Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115360",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-45-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/45",
+   "short": "HCL Vizantea-Livezi nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 45/2025 Alegerea preşedintelui de şedinţă al Consiliului Local Vizantea – Livezi, judeţul Vrancea pentru lunile octombrie, noiembrie, decembrie 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115361",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-46-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/46",
+   "short": "HCL Vizantea-Livezi nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 46/2025 Modificarea și completarea inventarului bunurilor care alcătuiesc domeniul public al comunei Vizantea-Livezi, județul Vrancea;",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115362",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-47-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/47",
+   "short": "HCL Vizantea-Livezi nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 47/2025 Rectificarea bugetului local al comunei Vizantea-Livezi,județul Vrancea, în trimestrul III, IV, anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115363",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-49-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/49",
+   "short": "HCL Vizantea-Livezi nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 49/2025 Aprobarea înființării unei societăți comerciale, cu asociat unic UAT Comuna Vizantea-Livezi",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115365",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-5-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/5",
+   "short": "HCL Vizantea-Livezi nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 5/2025 Obținerea acordului de principiu pentru realizarea investiției “Reabilitare strada Cărbunaru, sat Vizantea-Mănăstireasca, comuna Vizantea-Livezi, județul Vrancea”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98992",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-50-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/50",
+   "short": "HCL Vizantea-Livezi nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 50/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-51-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/51",
+   "short": "HCL Vizantea-Livezi nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 51/2025 Aprobarea ”Strategiei de dezvoltare integrată a Microregiunii Țara Vrancei” - livrabil final în cadrul sub-activității SA2.2 ”Elaborarea, validarea și aprobarea Strategiei de dezvoltare integrată pentru Microregiunea Țara Vrancei” din proiectul ”Țara Vrancei, țara noastră, țara ta” (cod SMIS 329683) finanțat prin Programul de Asistență Tehnică 2021-2027 – beneficiar Asociația pentru Dezvoltare Teritorială Integrată Țara Vrancei",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115367",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-52-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/52",
+   "short": "HCL Vizantea-Livezi nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 52/2025 Obținerea acordului de principiu pentru realizarea investiției “Consolidare, reabilitare și modernizare Dispensar medical Vizantea-Mănăstirească”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115368",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-53-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/53",
+   "short": "HCL Vizantea-Livezi nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 53/2025 Rectificarea bugetului local, trimestrul IV, anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115369",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-54-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/54",
+   "short": "HCL Vizantea-Livezi nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 54/2025 Aprobarea implementării proiectului “Consolidare, reabilitare și modernizare Dispensar medical Vizantea-Mănăstirească” și a cheltuielilor legate de proiect",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115370",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-55-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/55",
+   "short": "HCL Vizantea-Livezi nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 55/2025 Clasificarea unui drum de interes local, categoria de folosință drum comunal, situat în intravilanul Comunei Vizantea-Livezi, T31, P.811",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115371",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-56-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/56",
+   "short": "HCL Vizantea-Livezi nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 56/2025 Actualizarea devizului general pentru obiectivul “Înființare rețea stație de reîncărcare pentru vehicule electrice sat Vizantea-Răzășeasca - punct Primărie, comuna Vizantea-Livezi, județul Vrancea”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115372",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-57-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/57",
+   "short": "HCL Vizantea-Livezi nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 57/2025 Preluarea în proprietate a bunului mobil – activ fix – 1 microbuz electric școlar achiziționat prin proiectul „Verde la educație – microbuze electrice pentru elevi”, finanțat prin Planul Național de Redresare și Reziliență - Componenta 15 – Educație",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115373",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-58-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/58",
+   "short": "HCL Vizantea-Livezi nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 58/2025 Aprobarea solicitării de anulare a numărului cadastral 51052 în sensul radierii dreptului de proprietate al UAT Comuna Vizantea-Livezi, asupra imobilului-construcţie situat în satul Mesteacănu",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115374",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-59-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/59",
+   "short": "HCL Vizantea-Livezi nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 59/2025 Completarea Strategiei de Dezvoltare Locală a Comunei Vizantea-Livezi, județul Vrancea pentru perioada 2021-2027",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115375",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115375",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-6-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/6",
+   "short": "HCL Vizantea-Livezi nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 6/2025 Obținerea acordului de principiu pentru realizarea investiției “Reabilitare strada Izvoarelor, sat Vizantea-Mănăstireasca, comuna Vizantea-Livezi, județul Vrancea”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98993",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-60-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/60",
+   "short": "HCL Vizantea-Livezi nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 60/2025 Rectificarea bugetului local, trimestrul IV, anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115376",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-61-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/61",
+   "short": "HCL Vizantea-Livezi nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 61/2025 Aprobarea rețelei școlare pentru anul școlar 2026-2027",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115377",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-62-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/62",
+   "short": "HCL Vizantea-Livezi nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 62/2025 Implementarea proiectului „Digitalizarea turismului local al Comunei Vizantea-Livezi, județul Vrancea” în cadrul PNRR2025C11REFORMA 1",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115378",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-63-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/63",
+   "short": "HCL Vizantea-Livezi nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 63/2025 Implementarea proiectului “Vizantea-Livezi Smart Village – Soluții digitale pentru dezvoltare durabilă”",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115379",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-64-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/64",
+   "short": "HCL Vizantea-Livezi nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 64/2025 Alegerea preşedintelui de şedinţă al Consiliului Local Vizantea – Livezi, judeţul Vrancea pentru lunile ianuarie, februarie, martie 2026",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115380",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-65-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/65",
+   "short": "HCL Vizantea-Livezi nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 65/2025 Organizarea “Pomului de iarnă” pentru copiii Școlii Gimnaziale Vizantea-Răzășeasca, Comuna Vizantea-Livezi, județul Vrancea",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115381",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-66-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/66",
+   "short": "HCL Vizantea-Livezi nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 66/2025 Rectificarea bugetului local, trimestrul IV, anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115382",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-67-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/67",
+   "short": "HCL Vizantea-Livezi nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 67/2025 Stabilirea impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115383",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#115383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-7-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/7",
+   "short": "HCL Vizantea-Livezi nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 7/2025 Aprobarea achiziționării de servicii juridice de consultanță, de asistență și de reprezentare",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98994",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98994",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-8-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/8",
+   "short": "HCL Vizantea-Livezi nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 8/2025 Aprobarea Planului de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local Vizantea-Livezi, pentru anul 2025",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98995",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--vizantea-livezi-9-2025",
+   "path": "local/vrancea/vizantea-livezi/2025/9",
+   "short": "HCL Vizantea-Livezi nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vizantea-Livezi nr. 9/2025 Aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestrul I, anul 2024",
+   "url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98996",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 1,
+     "source_url": "https://vizantealivezi.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6504#98996",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

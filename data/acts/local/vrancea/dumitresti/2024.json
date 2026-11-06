@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/vrancea/dumitresti/2024",
+"acts": [
+{
+"slug": "hcl-vrancea--dumitresti-19-2024",
+"path": "local/vrancea/dumitresti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 19/2024 privind alegerea președintelui de sedință a Consiliului Local Dumitrești, județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-28",
+"latest": "2024-06-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#79026",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-21-2024",
+"path": "local/vrancea/dumitresti/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 21/2024 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii '' REFACERE DRUMURI AFECTATE DE CALAMITATI IN COMUNA DUMITREȘTI , JUDETUL VRANCEA,,",
+"short": "HCL Dumitrești nr. 21/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#82351",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

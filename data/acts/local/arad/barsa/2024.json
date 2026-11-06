@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arad/barsa/2024",
+"acts": [
+{
+"slug": "hcl-arad--barsa-28-2024",
+"path": "local/arad/barsa/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsa nr. 28/2024",
+"short": "HCL Bârsa nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-18",
+"latest": "2024-04-18",
+"portal": "https://www.comunabirsa.ro/wp-content/uploads/2025/02/HCL-IRATOSU-nr-28-din-18-04-2024.pdf",
+"council": "arad/barsa",
+"council_name": "Consiliul Local al Comunei Bârsa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--barsa-756-2024",
+"path": "local/arad/barsa/2024/756",
+"kind": "local",
+"year": "2024",
+"number": "756",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsa nr. 756/2024",
+"short": "HCL Bârsa nr. 756/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-16",
+"latest": "2024-12-16",
+"portal": "https://www.comunabirsa.ro/wp-content/uploads/2025/02/Hot%C4%83r%C3%A2re-nr.-756-din-16.12.2024-Consiliul-Local.pdf",
+"council": "arad/barsa",
+"council_name": "Consiliul Local al Comunei Bârsa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

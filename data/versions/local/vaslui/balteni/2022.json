@@ -1,0 +1,1101 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/balteni/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--balteni-1-2022",
+   "path": "local/vaslui/balteni/2022/1",
+   "short": "HCL Bălteni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 1/2022 APROBAREA PLANULUI DE ACTIUNI SI LUCRARI VMG",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23015",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-10-2022",
+   "path": "local/vaslui/balteni/2022/10",
+   "short": "HCL Bălteni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 10/2022 MODIFICARE ORGANIGRAMA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23096",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-11-2022",
+   "path": "local/vaslui/balteni/2022/11",
+   "short": "HCL Bălteni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 11/2022 PROIECT HCL APROBARE P A A R",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23097",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-12-2022",
+   "path": "local/vaslui/balteni/2022/12",
+   "short": "HCL Bălteni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 12/2022 PROIECT HCL APROBARE PUZ",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23098",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-13-2022",
+   "path": "local/vaslui/balteni/2022/13",
+   "short": "HCL Bălteni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 13/2022 PROIECT HCL MAJORAREA TAXEI SPECIALE DE SALUBRIZARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23099",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-14-2022",
+   "path": "local/vaslui/balteni/2022/14",
+   "short": "HCL Bălteni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 14/2022 PROIECT HCL DISTRIBUIRE GAZE NATURALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23100",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-15-2022",
+   "path": "local/vaslui/balteni/2022/15",
+   "short": "HCL Bălteni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 15/2022 PROIECT HCL ACORDARE MANDAT SPECIAL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23101",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-16-2022",
+   "path": "local/vaslui/balteni/2022/16",
+   "short": "HCL Bălteni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 16/2022 PROIECT H ACORDAREA MANDATULUI SPECIAL PT, APC",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23102",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-18-2022",
+   "path": "local/vaslui/balteni/2022/18",
+   "short": "HCL Bălteni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 18/2022 PROIECT HCL APROBARE CHELTUIELI GIS",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23104",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-19-2022",
+   "path": "local/vaslui/balteni/2022/19",
+   "short": "HCL Bălteni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 19/2022 PROIEECT DE HCL APROB CONT DE EXECUTIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23118",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-2-2022",
+   "path": "local/vaslui/balteni/2022/2",
+   "short": "HCL Bălteni nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 2/2022 APROBAREA CONTULUI DE EXECUTIE BUGETARA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23020",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-20-2022",
+   "path": "local/vaslui/balteni/2022/20",
+   "short": "HCL Bălteni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 20/2022 PROIECT HCL APROBARE PUZ",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23119",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-21-2022",
+   "path": "local/vaslui/balteni/2022/21",
+   "short": "HCL Bălteni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 21/2022 PROIECT HCL RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23120",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-22-2022",
+   "path": "local/vaslui/balteni/2022/22",
+   "short": "HCL Bălteni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 22/2022 PROIECT HCL DOSARE DE INSOLVABILITATE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23122",
+   "versions": [
+    {
+     "from": "2022-04-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-23-2022",
+   "path": "local/vaslui/balteni/2022/23",
+   "short": "HCL Bălteni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 23/2022 ALEGEREA PESEDINTELUI DE SEDINTA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23146",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-24-2022",
+   "path": "local/vaslui/balteni/2022/24",
+   "short": "HCL Bălteni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 24/2022 MODIFICAREA ORGANIGRAMEI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23147",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-25-2022",
+   "path": "local/vaslui/balteni/2022/25",
+   "short": "HCL Bălteni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 25/2022 MODIFICAREA HCL 33/2022 TAXE SPECIALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23148",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-27-2022",
+   "path": "local/vaslui/balteni/2022/27",
+   "short": "HCL Bălteni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 27/2022 SISTEM MONITORIZARE SI SIGURANTA A SPATIULUI PUBLIC",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23159",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23159",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-28-2022",
+   "path": "local/vaslui/balteni/2022/28",
+   "short": "HCL Bălteni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 28/2022 SISTEM MONITORIZARE SI SIGURANTA A SPATIULUI PUBLIC",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23160",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-29-2022",
+   "path": "local/vaslui/balteni/2022/29",
+   "short": "HCL Bălteni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 29/2022 APROBAREA SYRATEGIEI DE DEZV LOCALA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23162",
+   "versions": [
+    {
+     "from": "2022-05-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-3-2022",
+   "path": "local/vaslui/balteni/2022/3",
+   "short": "HCL Bălteni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 3/2022 PRIVIND ACOPERIREA DEFINITIVA A DEFICITULUI SECTIUNII DE FUNCTIONARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23026",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-30-2022",
+   "path": "local/vaslui/balteni/2022/30",
+   "short": "HCL Bălteni nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 30/2022 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36779",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-31-2022",
+   "path": "local/vaslui/balteni/2022/31",
+   "short": "HCL Bălteni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 31/2022 Proiect hot. modificare organigrama",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36780",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36780",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-32-2022",
+   "path": "local/vaslui/balteni/2022/32",
+   "short": "HCL Bălteni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 32/2022 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36789",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-33-2022",
+   "path": "local/vaslui/balteni/2022/33",
+   "short": "HCL Bălteni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 33/2022 PRIVIND STABILIREA IMPOZITELOR SI TAXELOR LOCALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36785",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-34-2022",
+   "path": "local/vaslui/balteni/2022/34",
+   "short": "HCL Bălteni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 34/2022 APROBARE CONT DE EXECUTIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36792",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-35-2022",
+   "path": "local/vaslui/balteni/2022/35",
+   "short": "HCL Bălteni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 35/2022 ANALIZA STAD INSCRIRII DATELOR IN REGISTRUL AGRICOL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36795",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-36-2022",
+   "path": "local/vaslui/balteni/2022/36",
+   "short": "HCL Bălteni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 36/2022 ALEGEREA PR DEC SEDINTA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36802",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-37-2022",
+   "path": "local/vaslui/balteni/2022/37",
+   "short": "HCL Bălteni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 37/2022 DEZMEMBRARE TEREN",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36808",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36808",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-38-2022",
+   "path": "local/vaslui/balteni/2022/38",
+   "short": "HCL Bălteni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 38/2022 ACTUALIZARE SALARII",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36786",
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-39-2022",
+   "path": "local/vaslui/balteni/2022/39",
+   "short": "HCL Bălteni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 39/2022 CONSTIT.DREPT DE SUPERFICIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36811",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-4-2022",
+   "path": "local/vaslui/balteni/2022/4",
+   "short": "HCL Bălteni nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 4/2022 STABIILIREA RETELEI SCOLARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23027",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-40-2022",
+   "path": "local/vaslui/balteni/2022/40",
+   "short": "HCL Bălteni nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 40/2022 APROBARE DOSARE DE INSOLVABILITATE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36814",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-42-2022",
+   "path": "local/vaslui/balteni/2022/42",
+   "short": "HCL Bălteni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 42/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-43-2022",
+   "path": "local/vaslui/balteni/2022/43",
+   "short": "HCL Bălteni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 43/2022 APROBARE S F PT. PROIECT APA SI APA UZATA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36823",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-44-2022",
+   "path": "local/vaslui/balteni/2022/44",
+   "short": "HCL Bălteni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 44/2022 APROBARE S F PROIECT MODERNIZ DRUMURI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36825",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-45-2022",
+   "path": "local/vaslui/balteni/2022/45",
+   "short": "HCL Bălteni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 45/2022 MODIFICARE HCL TAXE SPECIALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36826",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-46-2022",
+   "path": "local/vaslui/balteni/2022/46",
+   "short": "HCL Bălteni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 46/2022 MODIFICARE HCL INFIINTARE COMP ASIST SOC",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36827",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-47-2022",
+   "path": "local/vaslui/balteni/2022/47",
+   "short": "HCL Bălteni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 47/2022 PUNEREA LA DISPOZITIA PROIECT APA APA UZATA A TERENULUI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36833",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-48-2022",
+   "path": "local/vaslui/balteni/2022/48",
+   "short": "HCL Bălteni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 48/2022 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36837",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-5-2022",
+   "path": "local/vaslui/balteni/2022/5",
+   "short": "HCL Bălteni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 5/2022 MODIFICAREA ORGANIGRAMEI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23028",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-50-2022",
+   "path": "local/vaslui/balteni/2022/50",
+   "short": "HCL Bălteni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 50/2022 DECLARARE DE UZ SI UTILIT PUBL A DRUMULUI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36842",
+   "versions": [
+    {
+     "from": "2022-09-16",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36842",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-51-2022",
+   "path": "local/vaslui/balteni/2022/51",
+   "short": "HCL Bălteni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 51/2022 RECTIFICARE B UGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36848",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-52-2022",
+   "path": "local/vaslui/balteni/2022/52",
+   "short": "HCL Bălteni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 52/2022 MODIFICARE ORGANIGRAMA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36850",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-53-2022",
+   "path": "local/vaslui/balteni/2022/53",
+   "short": "HCL Bălteni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 53/2022 REVOCAREA HCL CU SALARIILE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36853",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-54-2022",
+   "path": "local/vaslui/balteni/2022/54",
+   "short": "HCL Bălteni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 54/2022 MODIFICARE HCL PROIECGT G I S",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36854",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-55-2022",
+   "path": "local/vaslui/balteni/2022/55",
+   "short": "HCL Bălteni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 55/2022 MASURI REGISTRUL AGRICOL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36856",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-56-2022",
+   "path": "local/vaslui/balteni/2022/56",
+   "short": "HCL Bălteni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 56/2022 APROBARE CONT DE EXECUTIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36857",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-57-2022",
+   "path": "local/vaslui/balteni/2022/57",
+   "short": "HCL Bălteni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 57/2022 APROBARE PROIECT ''ECOSISTEM DIGITAL''",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36858",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-58-2022",
+   "path": "local/vaslui/balteni/2022/58",
+   "short": "HCL Bălteni nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 58/2022 CONSTRUIRE SALA DE SPORT",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36859",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-59-2022",
+   "path": "local/vaslui/balteni/2022/59",
+   "short": "HCL Bălteni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 59/2022 APROBARE PROGRAM DE DESZAPEZIRE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36860",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-6-2022",
+   "path": "local/vaslui/balteni/2022/6",
+   "short": "HCL Bălteni nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 6/2022 MAJORAREA TAXEI DE SALUBRIZARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23029",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23029",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-60-2022",
+   "path": "local/vaslui/balteni/2022/60",
+   "short": "HCL Bălteni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 60/2022 ALEGERE PRESEDINTE DE SEDINTA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36872",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36872",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-61-2022",
+   "path": "local/vaslui/balteni/2022/61",
+   "short": "HCL Bălteni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 61/2022 RECTIFICARE BBUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36873",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-62-2022",
+   "path": "local/vaslui/balteni/2022/62",
+   "short": "HCL Bălteni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 62/2022 UTILIZAREA EXCEDENT",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36874",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-63-2022",
+   "path": "local/vaslui/balteni/2022/63",
+   "short": "HCL Bălteni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 63/2022 I NFIINTARE SERVICIU CAINI FARA STAPAN",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36875",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-64-2022",
+   "path": "local/vaslui/balteni/2022/64",
+   "short": "HCL Bălteni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 64/2022 PROIECT HOT.COMPLETARE CONTRACT DELEGARE GESTIUNE APC-AQUAVAS",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36993",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-65-2022",
+   "path": "local/vaslui/balteni/2022/65",
+   "short": "HCL Bălteni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 65/2022 APROBARE CUANTUM BURSE SCOLARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36996",
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#36996",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-66-2022",
+   "path": "local/vaslui/balteni/2022/66",
+   "short": "HCL Bălteni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 66/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-14",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-67-2022",
+   "path": "local/vaslui/balteni/2022/67",
+   "short": "HCL Bălteni nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 67/2022 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37009",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-68-2022",
+   "path": "local/vaslui/balteni/2022/68",
+   "short": "HCL Bălteni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 68/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-69-2022",
+   "path": "local/vaslui/balteni/2022/69",
+   "short": "HCL Bălteni nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 69/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-7-2022",
+   "path": "local/vaslui/balteni/2022/7",
+   "short": "HCL Bălteni nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 7/2022 ADOPTARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23085",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-70-2022",
+   "path": "local/vaslui/balteni/2022/70",
+   "short": "HCL Bălteni nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 70/2022 APROBARE PROTOCOL PROIECT HUB DE SERVICII CU MMSS",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37013",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-71-2022",
+   "path": "local/vaslui/balteni/2022/71",
+   "short": "HCL Bălteni nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 71/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-72-2022",
+   "path": "local/vaslui/balteni/2022/72",
+   "short": "HCL Bălteni nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 72/2022 MODIFICARE REG TAXA DE SALUBRIZARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37016",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-73-2022",
+   "path": "local/vaslui/balteni/2022/73",
+   "short": "HCL Bălteni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 73/2022 STABILIRE COMBUSTIBIL LOGAN",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37020",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-74-2022",
+   "path": "local/vaslui/balteni/2022/74",
+   "short": "HCL Bălteni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 74/2022 APROBARE PROIECT. DEZV INFRASTRUCT .MEDICALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37021",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#37021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-75-2022",
+   "path": "local/vaslui/balteni/2022/75",
+   "short": "HCL Bălteni nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 75/2022 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38009",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-76-2022",
+   "path": "local/vaslui/balteni/2022/76",
+   "short": "HCL Bălteni nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 76/2022 APROBARE DOSARE DE INSOLVABILITATE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38011",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-77-2022",
+   "path": "local/vaslui/balteni/2022/77",
+   "short": "HCL Bălteni nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 77/2022 MODIFICAREA HCL 44/2022 MODERNIZARE STRAZI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38013",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-78-2022",
+   "path": "local/vaslui/balteni/2022/78",
+   "short": "HCL Bălteni nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 78/2022 MODIFICARE TAXA DE SALUBRIZARE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38015",
+   "versions": [
+    {
+     "from": "2022-12-31",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#38015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-9-2022",
+   "path": "local/vaslui/balteni/2022/9",
+   "short": "HCL Bălteni nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 9/2022 RECTIFICARE BUGET MARTIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23095",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#23095",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -249,6 +249,50 @@
 }
 },
 {
+"slug": "hcl-arges--rucar-14-2026",
+"path": "local/arges/rucar/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 14/2026 privind întocmirea unor acte adiționale la contractele nr. 9498/02.10.2024, respectiv 10476/28.10.2024 având ca obiect concesionarea unor imobile-teren în punctul punctul ”Valea Stăneicii”",
+"short": "HCL Rucăr nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-23",
+"latest": "2026-03-23",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/259149",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--rucar-15-2026",
+"path": "local/arges/rucar/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 15/2026 privind aprobarea dezmembrării unor imobile-teren situate în comuna Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-03",
+"latest": "2026-03-03",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/259150",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--rucar-16-2026",
 "path": "local/arges/rucar/2026/16",
 "kind": "local",
@@ -334,6 +378,28 @@
 "council_name": "Consiliul Local al Comunei Rucăr",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--rucar-20-2026",
+"path": "local/arges/rucar/2026/20",
+"kind": "local",
+"year": "2026",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 20/2026 privind nominalizarea unuor responsabili în calitate de tutore pentru persoanele cu handicap grav pentru care s-a instituit tutela specială și care se află internate sau au domiciliul pe raza comunei Rucăr, județul Argeș",
+"short": "HCL Rucăr nr. 20/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-07",
+"latest": "2026-04-07",
+"portal": "https://emol.ro/rucar-ag/registru-hcl/263808",
+"council": "arges/rucar",
+"council_name": "Consiliul Local al Comunei Rucăr",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

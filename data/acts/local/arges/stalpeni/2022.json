@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/stalpeni/2022",
+"acts": [
+{
+"slug": "hcl-arges--stalpeni-31-2022",
+"path": "local/arges/stalpeni/2022/31",
+"kind": "local",
+"year": "2022",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 31/2022",
+"short": "HCL Stâlpeni nr. 31/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-04-27",
+"latest": "2022-04-27",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

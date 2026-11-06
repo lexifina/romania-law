@@ -3,6 +3,51 @@
  "shard": "local/arad/ignesti/2024",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-77-2024",
+   "path": "local/arad/ignesti/2024/77",
+   "short": "HCL Ignești nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 77/2024 Privind aprobarea proceselor verbale încheiate în ședințele anterioare de lucru ale Consiliului Local Ignești din data de 25.10.2024 și 05.11.2024 Hotararea nr. 77",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-77.pdf",
+     "sha256": "e6a5b72c0a1383fed78766357f1d5a3b061ece50b65265616957f27859dd1882"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-78-2024",
+   "path": "local/arad/ignesti/2024/78",
+   "short": "HCL Ignești nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 78/2024 Privind rectificarea bugetului local pe anul 2024 Hotararea nr. 78",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-78.pdf",
+     "sha256": "5926e52570e08f9706bf2d2534aad3db4484aa102ba11ae2d8ebeaf8d4a95d5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-79-2024",
+   "path": "local/arad/ignesti/2024/79",
+   "short": "HCL Ignești nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 79/2024 Privind încheierea și semnarea Contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată și transportul separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat din județul Arad, ZONA 4, cu Asocierea DEMO RECYCLING SOLUTIONS S.R.L",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-79.pdf",
+     "sha256": "8ab6f5a37be4167627c6be2e3e27dde1254a5828b254d20fa9338ed864f62299"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-80-2024",
    "path": "local/arad/ignesti/2024/80",
    "short": "HCL Ignești nr. 80/2024",
@@ -14,6 +59,36 @@
      "units": 1,
      "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-80.pdf",
      "sha256": "b9392be7943ab0b02f1dbc335b4c29af63cf8e13d88324e226cfe577aad2d5e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-81-2024",
+   "path": "local/arad/ignesti/2024/81",
+   "short": "HCL Ignești nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 81/2024 Privind aprobarea rețelei școlare pentru anul 2025-2026 Hotararea nr. 81",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-81.pdf",
+     "sha256": "8fb84997be3c253b4ec0e6ea2a1d33701eb144c1253453121e1e0b5db546691a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-82-2024",
+   "path": "local/arad/ignesti/2024/82",
+   "short": "HCL Ignești nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 82/2024 Privind revocarea hotărârii Consiliului Local nr. 70/25.10.2024 privind aprobarea închirierii unui apartament din blocul de locuințe situat în loc. Ignești, nr. 5, comuna Ignești, jud",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2024-11-20",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2024/11/Hotararea-nr.-82.pdf",
+     "sha256": "84ceb4ea9ec5144f9d3ba0100a5d0d3d1fac3681fb8be4795598db68eadbb17f"
     }
    ]
   }

@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--stolnici-40-2026",
+   "path": "local/arges/stolnici/2026/40",
+   "short": "HCL Stolnici nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 40/2026 privind alegerea preşedintelui de şedinţă pentru şedinţele Consiliului local al comunei Stolnici care se vor organiza în lunile august, septembrie, octombrie 2026",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/287589",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/287589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-41-2026",
+   "path": "local/arges/stolnici/2026/41",
+   "short": "HCL Stolnici nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 41/2026 privind aprobarea documentatiei de atribuire privind închirierea ,, Lacului Cochinesti,,",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/287590",
+   "versions": [
+    {
+     "from": "2026-08-31",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/287590",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stolnici-42-2026",
    "path": "local/arges/stolnici/2026/42",
    "short": "HCL Stolnici nr. 42/2026",
@@ -63,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--stolnici-45-2026",
+   "path": "local/arges/stolnici/2026/45",
+   "short": "HCL Stolnici nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 45/2026",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/291039",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/291039",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stolnici-46-2026",
    "path": "local/arges/stolnici/2026/46",
    "short": "HCL Stolnici nr. 46/2026",
@@ -73,6 +118,21 @@
      "from": "2026-10-28",
      "units": 1,
      "source_url": "https://emol.ro/stolnici-ag/registru-hcl/291040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-47-2026",
+   "path": "local/arges/stolnici/2026/47",
+   "short": "HCL Stolnici nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 47/2026 privind desemnarea reprezentanților Consiliului Local Stolnici în comisia de evaluare a probei de interviu pentru ocuparea funcției de director din unitățile de învățământ preuniversitar de stat, sesiunea august - decembrie 2026",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/291041",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/291041",
      "sha256": null
     }
    ]
@@ -108,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--stolnici-50-2026",
+   "path": "local/arges/stolnici/2026/50",
+   "short": "HCL Stolnici nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 50/2026 privind alegerea pre;edintelui de ședință pentru lunile noiembrie, decembrie 2026 și ianuarie 2027",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/297308",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297308",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stolnici-51-2026",
    "path": "local/arges/stolnici/2026/51",
    "short": "HCL Stolnici nr. 51/2026",
@@ -118,6 +193,51 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-52-2026",
+   "path": "local/arges/stolnici/2026/52",
+   "short": "HCL Stolnici nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 52/2026 privind inițierea procedurilor de vânzare a imobilului teren curți- construcții în suprafață de 1790 mp aflat în domeniul privat al comunei Stolnici, județul Argeș",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/297310",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-53-2026",
+   "path": "local/arges/stolnici/2026/53",
+   "short": "HCL Stolnici nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 53/2026 privind inițierea procedurii de închiriere a imobilului ,,Școală Izbășești,, aflat în proprietatea publică a comunei Stolnici, județul Argeș",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/297311",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-54-2026",
+   "path": "local/arges/stolnici/2026/54",
+   "short": "HCL Stolnici nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 54/2026 privind inițierea procedurii de închiriere a imobilului ,,Școală Cochinești,, aflat în proprietatea publică a comunei Stolnici, județul Argeș",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/297312",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297312",
      "sha256": null
     }
    ]
@@ -148,6 +268,21 @@
      "from": "2026-10-29",
      "units": 1,
      "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stolnici-57-2026",
+   "path": "local/arges/stolnici/2026/57",
+   "short": "HCL Stolnici nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Stolnici nr. 57/2026 privind mandatarea ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ REGIONALĂ TRANSPORT LOCAL 2026,TR, AG, OT, în vederea atribuirii delegări gestiunii serviciului de transport public local de persoane, pe raza administrativ-teritorială a UAT, membre în, ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ REGIONALĂ TRANSPORT LOCAL 2026,TR, AG, OT",
+   "url": "https://emol.ro/stolnici-ag/registru-hcl/297315",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/stolnici-ag/registru-hcl/297315",
      "sha256": null
     }
    ]

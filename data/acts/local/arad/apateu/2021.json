@@ -246,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-arad--apateu-31-2021",
+"path": "local/arad/apateu/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 31/2021",
+"short": "HCL Apateu nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": null,
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--apateu-35-2021",
 "path": "local/arad/apateu/2021/35",
 "kind": "local",
@@ -771,6 +794,28 @@
 "council_name": "Consiliul Local al Comunei Apateu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--apateu-59-2021",
+"path": "local/arad/apateu/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 59/2021 modificarea HCL nr.52/2021 privind vanzarea imobilului înscris în C.F 306405",
+"short": "HCL Apateu nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-24",
+"latest": "2021-06-24",
+"portal": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8400",
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1542,6 +1587,28 @@
 "council_name": "Consiliul Local al Comunei Apateu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--apateu-95-2021",
+"path": "local/arad/apateu/2021/95",
+"kind": "local",
+"year": "2021",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 95/2021 desemnare reprezentantului CLA în comisia de evaluare a probei de interviu pentru ocuparea funcției de director din unitățile de invățământ preuniversitar de stat",
+"short": "HCL Apateu nr. 95/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8528",
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

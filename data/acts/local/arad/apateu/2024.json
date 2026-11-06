@@ -443,6 +443,28 @@
 }
 },
 {
+"slug": "hcl-arad--apateu-21-2024",
+"path": "local/arad/apateu/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 21/2024 Proiect de hotărâre privind închirierea pajiștilor comunei Apateu - localitățile Apateu, Berechiu și Moțiori",
+"short": "HCL Apateu nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#90510",
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--apateu-22-2024",
 "path": "local/arad/apateu/2024/22",
 "kind": "local",
@@ -752,6 +774,28 @@
 }
 },
 {
+"slug": "hcl-arad--apateu-36-2024",
+"path": "local/arad/apateu/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 36/2024 Privind numirea noului Consiliu de Administrație la Clubul sportiv de drept public ,,Recolta,, Apateu",
+"short": "HCL Apateu nr. 36/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#90522",
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--apateu-37-2024",
 "path": "local/arad/apateu/2024/37",
 "kind": "local",
@@ -815,6 +859,29 @@
 "council_name": "Consiliul Local al Comunei Apateu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--apateu-40-2024",
+"path": "local/arad/apateu/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Apateu nr. 40/2024",
+"short": "HCL Apateu nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-03",
+"latest": "2024-04-03",
+"portal": null,
+"council": "arad/apateu",
+"council_name": "Consiliul Local al Comunei Apateu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

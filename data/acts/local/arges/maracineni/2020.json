@@ -3,6 +3,116 @@
 "shard": "local/arges/maracineni/2020",
 "acts": [
 {
+"slug": "hcl-arges--maracineni-130-2020",
+"path": "local/arges/maracineni/2020/130",
+"kind": "local",
+"year": "2020",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 130/2020 privind imputernicirea Primarului sa reprezinte localitatea Maracineni in cadrul Adunarii Generale a Asociaţiei de Dezvoltare Intercomunitară Termoserv Arges si sa semneze actele aditionale la Actul Constitutiv si Statutul Asociatiei",
+"short": "HCL Mărăcineni nr. 130/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15932",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-131-2020",
+"path": "local/arges/maracineni/2020/131",
+"kind": "local",
+"year": "2020",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 131/2020 privind mandatarea primarului localitatii Mărăcineni de a vota retragerea Comunei Rucăr si primirea in Asociatie a comunei Mirosi in cadrul Adunării Generale a Asociatiei de dezvoltare intercomunitară Argeș",
+"short": "HCL Mărăcineni nr. 131/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15933",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-132-2020",
+"path": "local/arges/maracineni/2020/132",
+"kind": "local",
+"year": "2020",
+"number": "132",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 132/2020 privind desemnarea unor reprezentanti in Consiliul de Administratie al Liceului Tehnologic nr.1 Maracineni pentru anul scolar 2020-2021",
+"short": "HCL Mărăcineni nr. 132/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15934",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-133-2020",
+"path": "local/arges/maracineni/2020/133",
+"kind": "local",
+"year": "2020",
+"number": "133",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 133/2020 privind rectificarea Bugetului de venituri si cheltuieli Nr.12/2020",
+"short": "HCL Mărăcineni nr. 133/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15935",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-134-2020",
+"path": "local/arges/maracineni/2020/134",
+"kind": "local",
+"year": "2020",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 134/2020 privind rectificarea Bugetului de venituri si cheltuieli Nr.12/2020",
+"short": "HCL Mărăcineni nr. 134/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15936",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-135-2020",
 "path": "local/arges/maracineni/2020/135",
 "kind": "local",
@@ -179,6 +289,117 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-143-2020",
+"path": "local/arges/maracineni/2020/143",
+"kind": "local",
+"year": "2020",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 143/2020 privind finantarea cheltuielilor ocazionate de sarbatorirea ‘’Pomului de Craciun’’-2020",
+"short": "HCL Mărăcineni nr. 143/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15945",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-144-2020",
+"path": "local/arges/maracineni/2020/144",
+"kind": "local",
+"year": "2020",
+"number": "144",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 144/2020 privind rectificarea Bugetului de venituri si cheltuieli Nr.14/2020",
+"short": "HCL Mărăcineni nr. 144/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15946",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-145-2020",
+"path": "local/arges/maracineni/2020/145",
+"kind": "local",
+"year": "2020",
+"number": "145",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 145/2020",
+"short": "HCL Mărăcineni nr. 145/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15947",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--maracineni-146-2020",
+"path": "local/arges/maracineni/2020/146",
+"kind": "local",
+"year": "2020",
+"number": "146",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 146/2020 privind aprobarea completarii inventarului public al Comunei Maracineni prin introducerea bunului de natura domeniului public:Teren drum acces- Str. Prelungirea Câmpului,comuna Mărăcineni,judetul Argeș",
+"short": "HCL Mărăcineni nr. 146/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15950",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--maracineni-147-2020",
+"path": "local/arges/maracineni/2020/147",
+"kind": "local",
+"year": "2020",
+"number": "147",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 147/2020 privind aprobarea indicatorilor tehnico-economici la faza Proiect Tehnic, in vederea realizarii obiectivului de investitie: “Infiintare canalizare pluviala si menajera pe strazile Zorilor si Prelungirea Câmpului, sat Maracineni, comuna Maracineni, judetul Arges”,",
+"short": "HCL Mărăcineni nr. 147/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15951",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-148-2020",
 "path": "local/arges/maracineni/2020/148",
 "kind": "local",
@@ -198,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Mărăcineni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--maracineni-149-2020",
+"path": "local/arges/maracineni/2020/149",
+"kind": "local",
+"year": "2020",
+"number": "149",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 149/2020 privind rectificarea Bugetului de venituri si cheltuieli Nr.15/2020",
+"short": "HCL Mărăcineni nr. 149/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/15953",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

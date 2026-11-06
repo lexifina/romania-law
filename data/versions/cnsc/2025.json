@@ -3,6 +3,36 @@
  "shard": "cnsc/2025",
  "acts": [
   {
+   "slug": "cnsc-decizie-2025-1811",
+   "path": "cnsc/decizie/2025/1811",
+   "short": "Decizia CNSC nr. 1811/C4/678 din 04.06.2025",
+   "title": "Decizia CNSC nr. 1811/C4/678 din 04.06.2025: contestația DIMEX 2000 COMPANY SRL în contradictoriu cu JUDETUL BISTRITA-NASAUD",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjI1NmJiM2YtMTNlNy00OWQzLTg5ZmItZjQyNjEyZDE3M2Fi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODExLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZjI1NmJiM2YtMTNlNy00OWQzLTg5ZmItZjQyNjEyZDE3M2Fi&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xODExLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "b8b751346cb7d5727507aa362367b7ac8777fc36214067551c4597d6b5c0d3af"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2025-1904",
+   "path": "cnsc/decizie/2025/1904",
+   "short": "Decizia CNSC nr. 1904/C4/406 din 12.06.2025",
+   "title": "Decizia CNSC nr. 1904/C4/406 din 12.06.2025: contestația GB INDCO SRL în contradictoriu cu SPITALUL JUDETEAN TG-JIU JUDETUL GORJ",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDBiOGU4M2YtYmE5Ni00ODZjLTk3ODctZGNmYjAwZDI0Mjgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTA0LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDBiOGU4M2YtYmE5Ni00ODZjLTk3ODctZGNmYjAwZDI0Mjgz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTA0LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "525cf0f8d10070db7b169109a7c5f4bdbc755e13535ff34ebbc896c9688e82c7"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2025-3415",
    "path": "cnsc/decizie/2025/3415",
    "short": "Decizia CNSC nr. 3415/C6/4186 din 22.10.2025",

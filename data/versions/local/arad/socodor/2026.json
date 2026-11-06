@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-106-2026",
+   "path": "local/arad/socodor/2026/106",
+   "short": "HCL Socodor nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2026 privind desemnarea unui reprezentat din partea Consiliului Local Socodor în Consiliul de Administrație al Școlii Gimnaziale „Iustin Marșieu” Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/294509",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/294509",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-107-2026",
    "path": "local/arad/socodor/2026/107",
    "short": "HCL Socodor nr. 107/2026",
@@ -168,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-112-2026",
+   "path": "local/arad/socodor/2026/112",
+   "short": "HCL Socodor nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 112/2026 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/294515",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/294515",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-113-2026",
    "path": "local/arad/socodor/2026/113",
    "short": "HCL Socodor nr. 113/2026",
@@ -208,6 +238,21 @@
      "from": "2026-10-07",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/291845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-96-2026",
+   "path": "local/arad/socodor/2026/96",
+   "short": "HCL Socodor nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 96/2026 privind desemnarea din partea Consiliului Local Socodor a reprezentantului și a membrului supleant în comisia de evaluare a probei de interviu pentru concursul de ocupare a postului de director la Școala Gimnazială „Iustin Marșieu” Socodor, sesiunea august-decembrie 2026",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/291846",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/291846",
      "sha256": null
     }
    ]

@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/balteni/2021",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--balteni-14-2021",
+   "path": "local/vaslui/balteni/2021/14",
+   "short": "HCL Bălteni nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 14/2021 APROBAREA BUGETULUI PT.2021",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#1975",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#1975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-15-2021",
+   "path": "local/vaslui/balteni/2021/15",
+   "short": "HCL Bălteni nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 15/2021 PRIVIND APROBAREA CONTULUI DE EXECUTIE PE TRIM.I/2021",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2001",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-17-2021",
+   "path": "local/vaslui/balteni/2021/17",
+   "short": "HCL Bălteni nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 17/2021 PR.HOT.15 GOSPODARIREA LOCALITATILOR",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2011",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-18-2021",
+   "path": "local/vaslui/balteni/2021/18",
+   "short": "HCL Bălteni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 18/2021 PR.HOT.16 GHISEU.RO",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2016",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#2016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-19-2021",
+   "path": "local/vaslui/balteni/2021/19",
+   "short": "HCL Bălteni nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 19/2021 STABILIRE TRASEU IMBARCARE/DEBARCARE CALATORI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8239",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-20-2021",
+   "path": "local/vaslui/balteni/2021/20",
+   "short": "HCL Bălteni nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 20/2021 PR HOT. 18 APROBARE P A A R",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8240",
+   "versions": [
+    {
+     "from": "2021-04-07",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-25-2021",
+   "path": "local/vaslui/balteni/2021/25",
+   "short": "HCL Bălteni nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 25/2021 OPR HOT.23 APROB IMPOZITELOR SI TAXELOR LOCALE PT ANUL 2022",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8286",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-26-2021",
+   "path": "local/vaslui/balteni/2021/26",
+   "short": "HCL Bălteni nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 26/2021 PR HOT. 24 APROBAREA UNOR DOSARE DE INSOLVABILITATE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8289",
+   "versions": [
+    {
+     "from": "2021-05-11",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-27-2021",
+   "path": "local/vaslui/balteni/2021/27",
+   "short": "HCL Bălteni nr. 27/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 27/2021 PR HOT.25 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8291",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-28-2021",
+   "path": "local/vaslui/balteni/2021/28",
+   "short": "HCL Bălteni nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 28/2021 PR.HOT.26 COMPLETAREA COMISIEI JURIDICE SI DE DISCIPLINA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8295",
+   "versions": [
+    {
+     "from": "2021-05-28",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-29-2021",
+   "path": "local/vaslui/balteni/2021/29",
+   "short": "HCL Bălteni nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 29/2021 PR HOT.27 ACTUALIZAREA HCL 60/2018 INFIINTARE COMPART.ASIST.SOCIALA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8298",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8298",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-30-2021",
+   "path": "local/vaslui/balteni/2021/30",
+   "short": "HCL Bălteni nr. 30/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 30/2021 PR HOT.28 RECTIFICARE BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8300",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#8300",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-31-2021",
+   "path": "local/vaslui/balteni/2021/31",
+   "short": "HCL Bălteni nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 31/2021 PR HOT. APROBARE CONT EXECUTIE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11315",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-34-2021",
+   "path": "local/vaslui/balteni/2021/34",
+   "short": "HCL Bălteni nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 34/2021 PR HOT 33 TAXE SPECIALE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11338",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-37-2021",
+   "path": "local/vaslui/balteni/2021/37",
+   "short": "HCL Bălteni nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 37/2021 PR HOT 37 INFIINTARE DISTRIBUTIE GAZE",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11364",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-38-2021",
+   "path": "local/vaslui/balteni/2021/38",
+   "short": "HCL Bălteni nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 38/2021 PR HOT 38 INSCRIERE REGISTRU AGRICOL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11373",
+   "versions": [
+    {
+     "from": "2021-08-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-39-2021",
+   "path": "local/vaslui/balteni/2021/39",
+   "short": "HCL Bălteni nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 39/2021 PR HOT 39 RECTIFIC BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11397",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-40-2021",
+   "path": "local/vaslui/balteni/2021/40",
+   "short": "HCL Bălteni nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 40/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-41-2021",
+   "path": "local/vaslui/balteni/2021/41",
+   "short": "HCL Bălteni nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 41/2021 PR HOT.41 COFINANTARE EXTINDERE ALIM APA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11415",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-42-2021",
+   "path": "local/vaslui/balteni/2021/42",
+   "short": "HCL Bălteni nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 42/2021 PR HOT.42 INDICAT EXTINDERE ALIM APA",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11421",
+   "versions": [
+    {
+     "from": "2021-09-24",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-43-2021",
+   "path": "local/vaslui/balteni/2021/43",
+   "short": "HCL Bălteni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 43/2021 PR.HOT. 43 INDICATORI MODERNIZARE DRUMURI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11441",
+   "versions": [
+    {
+     "from": "2021-12-29",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-44-2021",
+   "path": "local/vaslui/balteni/2021/44",
+   "short": "HCL Bălteni nr. 44/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 44/2021 PR HOT.44 TRANSFER AUTOTURISM",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11446",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-45-2021",
+   "path": "local/vaslui/balteni/2021/45",
+   "short": "HCL Bălteni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 45/2021 PR HOT.44 TRANSFER AUTOTURISM",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11457",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-46-2021",
+   "path": "local/vaslui/balteni/2021/46",
+   "short": "HCL Bălteni nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 46/2021 PR HOT 46 REPREZ CONS DE ADMINISTR A SCOLII",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11464",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-47-2021",
+   "path": "local/vaslui/balteni/2021/47",
+   "short": "HCL Bălteni nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 47/2021 PR HOT 47 REPREZ COMISIA DE EVALUARE A SCOLII",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11467",
+   "versions": [
+    {
+     "from": "2021-10-13",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-48-2021",
+   "path": "local/vaslui/balteni/2021/48",
+   "short": "HCL Bălteni nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 48/2021 PR HOT.48 RECTIFIC BUGET",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11473",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-49-2021",
+   "path": "local/vaslui/balteni/2021/49",
+   "short": "HCL Bălteni nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 49/2021 PR HOT.49CONT EXEC",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11474",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-50-2021",
+   "path": "local/vaslui/balteni/2021/50",
+   "short": "HCL Bălteni nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 50/2021 PR HOT.50 REABILITARE GRAD",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11477",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-51-2021",
+   "path": "local/vaslui/balteni/2021/51",
+   "short": "HCL Bălteni nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 51/2021 PR HOT. 51 MODERNIZARE STRAZI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11481",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-52-2021",
+   "path": "local/vaslui/balteni/2021/52",
+   "short": "HCL Bălteni nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 52/2021 PR HOT.52 ASFALTARE STRAZI",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11484",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-53-2021",
+   "path": "local/vaslui/balteni/2021/53",
+   "short": "HCL Bălteni nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 53/2021 PR HOT 53 PRESED SED",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11495",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-54-2021",
+   "path": "local/vaslui/balteni/2021/54",
+   "short": "HCL Bălteni nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 54/2021 PR HOT.54 COMISIA PROBA INTERVIU",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11496",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-55-2021",
+   "path": "local/vaslui/balteni/2021/55",
+   "short": "HCL Bălteni nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 55/2021 utilizarii sumei de 204024,48 lei reprezentand excedentul anilor precedenti",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11591",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-56-2021",
+   "path": "local/vaslui/balteni/2021/56",
+   "short": "HCL Bălteni nr. 56/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 56/2021 RECTIFICAREA A-VI-A A BUGETULUI LOCAL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11594",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-57-2021",
+   "path": "local/vaslui/balteni/2021/57",
+   "short": "HCL Bălteni nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 57/2021 Regulamentului propriu privind măsurile metodologice organizatorice, termenele și circulația proiectelor de Hotărâri care se înaintează Consiliului Local Balteni",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11600",
+   "versions": [
+    {
+     "from": "2021-11-22",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-58-2021",
+   "path": "local/vaslui/balteni/2021/58",
+   "short": "HCL Bălteni nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 58/2021 Regulamentului de organizare si functionare a Bibliotecii comunale Balteni",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11604",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-59-2021",
+   "path": "local/vaslui/balteni/2021/59",
+   "short": "HCL Bălteni nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 59/2021 RECTIFICAREA A-VII-A A BUGETULUI LOCAL",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11610",
+   "versions": [
+    {
+     "from": "2021-12-13",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--balteni-61-2021",
+   "path": "local/vaslui/balteni/2021/61",
+   "short": "HCL Bălteni nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bălteni nr. 61/2021 RECTIF.VIII -a",
+   "url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11622",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://balteni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/8515#11622",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

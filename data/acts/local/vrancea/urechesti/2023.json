@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/urechesti/2023",
+"acts": [
+{
+"slug": "hcl-vrancea--urechesti-31-2023",
+"path": "local/vrancea/urechesti/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Urechești nr. 31/2023 modificarea Hotărârii Consiliului Local al comunei Urechesti nr. 1 din 03.01.2017 privind aprobarea acordului de parteneriat intre Unitatea Administrativ Teritoriala – Judetul Vrancea – lider de proiect si Unitatea Administrativ Teritoriala Comuna Dumbraveni, Unitatea Administrativ Teritoriala Comuna Gugesti, Unitatea Administrativ Teritoriala Comuna Urechesti, Unitatea Administrativ Teritoriala Comuna Urechesti, Unitatea Administrativ Teritoriala Comuna Cotesti, Unitatea Administrativ Teritoriala Comuna Carligele, Unitatea Administrativ Teritoriala Comuna Virtescoiu, Unitatea Administrativ Teritoriala Orasul Odobesti – parteneri, in vederea implementarii in comun a proiectului “Modernizarea infrastructurii rutiere de drum județean dintre localitățile: Dumbrăveni–Gugești–Popești–Urechești– Budești-Cotești-Blidari–Bonțești-Dălhăuți-Faraoanele-Râmniceanca– Beciu-Odobești, cu conectivitate directă la rețeaua TEN &n",
+"short": "HCL Urechești nr. 31/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://urechesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3394#52949",
+"council": "vrancea/urechesti",
+"council_name": "Consiliul Local al Comunei Urechești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

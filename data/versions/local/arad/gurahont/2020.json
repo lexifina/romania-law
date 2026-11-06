@@ -198,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-93-2020",
+   "path": "local/arad/gurahont/2020/93",
+   "short": "HCL Gurahonț nr. 93/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 93/2020",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/14841",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/14841",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-94-2020",
    "path": "local/arad/gurahont/2020/94",
    "short": "HCL Gurahonț nr. 94/2020",
@@ -223,6 +238,21 @@
      "from": "2020-11-27",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/14843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-96-2020",
+   "path": "local/arad/gurahont/2020/96",
+   "short": "HCL Gurahonț nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 96/2020 privind schimbarea reprezentantului Comunei Gurahonț în Adunarea generală a operatorului regional SC Compania de Apa Arad SA Arad și mandatarea acestuia de a vota anumite propuneri privind funcționarea societății puse în discuție la ședința din 18.12.2020",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/14844",
+   "versions": [
+    {
+     "from": "2020-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/14844",
      "sha256": null
     }
    ]

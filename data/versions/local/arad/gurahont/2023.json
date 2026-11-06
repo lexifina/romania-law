@@ -3,6 +3,21 @@
  "shard": "local/arad/gurahont/2023",
  "acts": [
   {
+   "slug": "hcl-arad--gurahont-100-2023",
+   "path": "local/arad/gurahont/2023/100",
+   "short": "HCL Gurahonț nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 100/2023 privind modificarea statului de funcţii şi a organigramei Primăriei comunei Gurahonţ şi a serviciilor publice subordonate Consiliului local",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137634",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137634",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-101-2023",
    "path": "local/arad/gurahont/2023/101",
    "short": "HCL Gurahonț nr. 101/2023",
@@ -13,6 +28,21 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-102-2023",
+   "path": "local/arad/gurahont/2023/102",
+   "short": "HCL Gurahonț nr. 102/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 102/2023 privind însușirea raportului de evaluare pentru închirieri spații sau terenuri proprietatea Comunei",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137636",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137636",
      "sha256": null
     }
    ]
@@ -33,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-104-2023",
+   "path": "local/arad/gurahont/2023/104",
+   "short": "HCL Gurahonț nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 104/2023 privind completarea Hotărârii Consiliului local al comunei Gurahonț nr.30/26.04.2023 privind aprobarea participarii Comunei Gurahonț, Județul Arad la Parteneriatul LEADER cu denumirea ASOCIAȚIA GRUPUL DE ACȚIUNE LOCALĂ ”DEPRESIUNEA SEBIȘ-GURAHONȚ-HĂLMAGIU”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137638",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-105-2023",
+   "path": "local/arad/gurahont/2023/105",
+   "short": "HCL Gurahonț nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 105/2023 privind modificarea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Gurahonţ şi a serviciilor publice fără personalitate juridică, aflate în subordinea Consiliului local al comunei Gurahonţ de la 1 ianuarie 2024",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137639",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-106-2023",
+   "path": "local/arad/gurahont/2023/106",
+   "short": "HCL Gurahonț nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 106/2023",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137640",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137640",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-107-2023",
    "path": "local/arad/gurahont/2023/107",
    "short": "HCL Gurahonț nr. 107/2023",
@@ -48,6 +123,156 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-88-2023",
+   "path": "local/arad/gurahont/2023/88",
+   "short": "HCL Gurahonț nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 88/2023 privind aprobarea și implementarea proiectului „Achiziție mini-excavator pentru creșterea calității vieții în Comuna Gurahonț, județul Arad”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/129321",
+   "versions": [
+    {
+     "from": "2023-11-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/129321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-89-2023",
+   "path": "local/arad/gurahont/2023/89",
+   "short": "HCL Gurahonț nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 89/2023 privind aprobarea Studiului de Fezabilitate, indicatorilor tehnico-economici ai proiectului si a devizului general pentru proiectul \"Înființarea unui sistem de producere a energiei electrice pentru autoconsum, in UAT Comuna Gurahonț Județul Arad \"",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131390",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-90-2023",
+   "path": "local/arad/gurahont/2023/90",
+   "short": "HCL Gurahonț nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 90/2023 privind aprobarea proiectului, asigurarea cofinanțării proiectului, asigurarea fluxului financiar pentru implementarea proiectului, asigurarea cheltuielilor neeligibile si asigurarea costurilor de întreținere, operare si mentenanță pentru proiectul \"Înființarea unui sistem de producere a energiei electrice pentru autoconsum, in UAT Comuna Gurahonț Județul Arad \"",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131391",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-91-2023",
+   "path": "local/arad/gurahont/2023/91",
+   "short": "HCL Gurahonț nr. 91/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 91/2023 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă şi de canalizare prin Actul Adiţional nr. 22",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131392",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-92-2023",
+   "path": "local/arad/gurahont/2023/92",
+   "short": "HCL Gurahonț nr. 92/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 92/2023 privind clasificarea unui drum de interes local ca stradă în localitatea Gurahonț",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131393",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-93-2023",
+   "path": "local/arad/gurahont/2023/93",
+   "short": "HCL Gurahonț nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 93/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Gurahonț judeţul Arad, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131394",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-94-2023",
+   "path": "local/arad/gurahont/2023/94",
+   "short": "HCL Gurahonț nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 94/2023 privind aprobarea documentaţiei tehnice și a devizului general pentru obiectivul „REPARAȚIE CAPITALĂ PUNTE DINTRE EXTRAVILANUL LOCALITĂȚILOR PESCARI ȘI BONȚEȘTI”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131395",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-95-2023",
+   "path": "local/arad/gurahont/2023/95",
+   "short": "HCL Gurahonț nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 95/2023",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/131396",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/131396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-96-2023",
+   "path": "local/arad/gurahont/2023/96",
+   "short": "HCL Gurahonț nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 96/2023 privind rectificarea din luna decembrie a bugetului local al comunei Gurahonţ pe anul 2023",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137630",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-97-2023",
+   "path": "local/arad/gurahont/2023/97",
+   "short": "HCL Gurahonț nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 97/2023 privind participarea la activitatea de decolmatare a albiei văii Musteștiului de pe teritoriul Comunei Gurahonț",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137631",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137631",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-98-2023",
    "path": "local/arad/gurahont/2023/98",
    "short": "HCL Gurahonț nr. 98/2023",
@@ -58,6 +283,21 @@
      "from": "2024-01-16",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-99-2023",
+   "path": "local/arad/gurahont/2023/99",
+   "short": "HCL Gurahonț nr. 99/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 99/2023 privind completarea Hotărârii Consiliului local al comunei Gurahonț nr.83/29.09.2023 privind solicitarea de trecere a Dispensarului medical CFR Gurahonț din domeniul public al Statului în domeniul public al Comunei Gurahonţ",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/137633",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/137633",
      "sha256": null
     }
    ]

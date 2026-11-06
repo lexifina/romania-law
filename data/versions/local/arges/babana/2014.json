@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/arges/babana/2014",
+ "acts": [
+  {
+   "slug": "hcl-arges--babana-25-2014",
+   "path": "local/arges/babana/2014/25",
+   "short": "HCL Băbana nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 25/2014",
+   "url": null,
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/M_images/hot.25.pdf",
+     "sha256": "0083fc634766ae6395539ae661bd624b6323bdb3cbc9ef402eeeb323b6c0ab33"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-26-2014",
+   "path": "local/arges/babana/2014/26",
+   "short": "HCL Băbana nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 26/2014 Privind aprobarea montarii unei camere de supraveghere in zona Durduiesti 8fi Comuna Babana",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2014-05-27",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/M_images/hot%2026.pdf",
+     "sha256": "a075c091df8780e0437b0ab492b17192e559490bb32a5cfc81363595e61ce212"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-60-2014",
+   "path": "local/arges/babana/2014/60",
+   "short": "HCL Băbana nr. 60/2014",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 60/2014 privind stabilirea programului de liniste in comuna Babana Avand iCnovnesdileiurlelonce-acrleeafselirtCaattoeumal nuarn.s6eig5i 0uB2raa/1briai8nu.1an2;u.i2p0r1o4g-rianmtocdmeitlindiestveicpeepnrtirmuacreutla,teGnhiieCorogmheunMeiarin Baban sancltniocnoanrfeoarmfaiptatetrleocr udpereinvceadlecarirleeaafi.,nZoprmcle,2lo2r,ddienLceJgnevaientur.i6relllgs9olcpiarilvai,nad orclinii si linistii publ;c mo",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2014-12-22",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2060%20liniste.pdf",
+     "sha256": "e8da898a9f74a8f9aa6702a13f143bfe2e4a186c2c04e9156e81bebd7b11c6d0"
+    }
+   ]
+  }
+ ]
+}

@@ -63,6 +63,51 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-104-2024",
+   "path": "local/arad/socodor/2024/104",
+   "short": "HCL Socodor nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 104/2024 privind desemnarea unui reprezentat din partea Consiliului Local Socodor în Consiliul de Administrație al Școlii Gimnaziale „Iustin Marșieu” Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/180627",
+   "versions": [
+    {
+     "from": "2024-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/180627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-105-2024",
+   "path": "local/arad/socodor/2024/105",
+   "short": "HCL Socodor nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 105/2024 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna octombrie anul 2024",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/180628",
+   "versions": [
+    {
+     "from": "2024-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/180628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-106-2024",
+   "path": "local/arad/socodor/2024/106",
+   "short": "HCL Socodor nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2024 privind aprobarea vânzării, prin licitaţie publică, a unei parcele de teren, proprietate privată a Comunei Socodor",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/180629",
+   "versions": [
+    {
+     "from": "2024-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/180629",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-107-2024",
    "path": "local/arad/socodor/2024/107",
    "short": "HCL Socodor nr. 107/2024",
@@ -163,6 +208,21 @@
      "from": "2024-10-18",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/173111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-94-2024",
+   "path": "local/arad/socodor/2024/94",
+   "short": "HCL Socodor nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 94/2024 privind actualizarea valorii eligibile a obiectivului de investiție ”Înființare parc fotovoltaic pentru autoconsum în Comuna Socodor, Județul Arad\"",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/173112",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/173112",
      "sha256": null
     }
    ]

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/zlatna/2022",
+ "acts": [
+  {
+   "slug": "hcl-alba--zlatna-1295-2022",
+   "path": "local/alba/zlatna/2022/1295",
+   "short": "HCL Zlatna nr. 1295/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Zlatna nr. 1295/2022",
+   "url": "https://primaria-zlatna.ro/primarie/interes-public-1/registrul-agricol/",
+   "versions": [
+    {
+     "from": "2022-08-23",
+     "units": 1,
+     "source_url": "https://primaria-zlatna.ro/wp-content/uploads/2022/08/OFEERTA-DE-VANZARE-NR.-1295-din-23.08.2022.pdf",
+     "sha256": "d7c80c094c24052ac8aae168260c5e5f5aa0147b877601acaebd34d0a937b49d"
+    }
+   ]
+  }
+ ]
+}

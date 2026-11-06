@@ -3,6 +3,36 @@
  "shard": "local/arad/lipova/2026",
  "acts": [
   {
+   "slug": "hcl-arad--lipova-101-2026",
+   "path": "local/arad/lipova/2026/101",
+   "short": "HCL Lipova nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 101/2026 privind rectificarea Bugetului General Consolidat de Venituri și Cheltuieli, pentru anul 2026, al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.101.pdf",
+     "sha256": "79aa6cc47a869653d6ecf4ef40f1ccb0887690806faab64f2d7f8f02ce1b88fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-106-2026",
+   "path": "local/arad/lipova/2026/106",
+   "short": "HCL Lipova nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 106/2026 privind aprobarea primei înscrieri în cartea funciară a lotului în suprafață de 186 mp situat în Orașul Lipova, localitatea Lipova, str. Mavrocordat, FN",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.106.pdf",
+     "sha256": "72d4ff73aa92d4433329bffe3277bacefade2df75ed28d357d60711d57b92184"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-107-2026",
    "path": "local/arad/lipova/2026/107",
    "short": "HCL Lipova nr. 107/2026",
@@ -213,6 +243,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--lipova-35-2026",
+   "path": "local/arad/lipova/2026/35",
+   "short": "HCL Lipova nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 35/2026 privind modificarea anexei nr.3 la Hotărârea nr.82/30.06.2021 privind aprobarea nomenclatorului stradal al Orașului Lipova , modificată și completată prin Hotărârea nr.144/27.10.2022 și Hotărârea nr.12/31.01.2023, adoptate de Consiliul Local al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.35.pdf",
+     "sha256": "a5af427c0ec05f35ead78876bed57b092c6be6fbf656d243972ece7b7e406140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-36-2026",
+   "path": "local/arad/lipova/2026/36",
+   "short": "HCL Lipova nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 36/2026 privind reorganizarea aparatului de specialitate al Primarului orașului Lipova, serviciilor publice de interes local și structurilor funcționale subordonate Consiliului Local al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/hcl%20nr.36.pdf",
+     "sha256": "49ba0f0cbcc60756a769ea1df9b3d5d0214c23f0c8e6ced55eeb6c9ae8f33b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-37-2026",
+   "path": "local/arad/lipova/2026/37",
+   "short": "HCL Lipova nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 37/2026 privind aprobarea calendarului evenimentelor cultural -sportive propuse pentru anul 2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.37.pdf",
+     "sha256": "203631ab5807843643f5d375a236257230325d10ec993e229fc33b666fc7a724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-39-2026",
+   "path": "local/arad/lipova/2026/39",
+   "short": "HCL Lipova nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 39/2026 privind încheierea Actului adițional nr.1 la Contractul de delegare prin concesiune a gestiunii (operare stație de compostare în Tunel Arad) unor activități componente ale serviciului de tratatre aerobă a biodeșeurilor colectate separat în instalații de compost",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.39.pdf",
+     "sha256": "ca83254951aede09279b35f860772d14b099bf8f13a5b10eb85ae8bd6213a102"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-40-2026",
    "path": "local/arad/lipova/2026/40",
    "short": "HCL Lipova nr. 40/2026",
@@ -224,6 +314,81 @@
      "units": 1,
      "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.40.pdf",
      "sha256": "674cafa395ae4b88899bc6b9711d7e63a81d4bc7f350502654bf5e209992191f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-42-2026",
+   "path": "local/arad/lipova/2026/42",
+   "short": "HCL Lipova nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 42/2026 privind aprobarea ,,Registrului local al spațiilor verzi existente în intravilanul orașului Lipova -actualizat\"",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.42.pdf",
+     "sha256": "a4b52e8682db247f68fccb66dd6ec320bc481d02633c0851bebad72b8766e13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-43-2026",
+   "path": "local/arad/lipova/2026/43",
+   "short": "HCL Lipova nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 43/2026 privind completarea listei de priorități în vederea repartizării de locuințe pentru tineri, destinate închirierii",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.43.pdf",
+     "sha256": "4e8fac91218b2dba577bbce74ae537b085c6fc2bdd5772192740ade170f7ad4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-45-2026",
+   "path": "local/arad/lipova/2026/45",
+   "short": "HCL Lipova nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 45/2026 privind aprobarea primei înregistrări în evidențele de cadastru și carte funciară a lotului în suprafață de 2.279 mp situat în Orașul Lipova, localitatea Radna, str.Economilor, nr.28",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.45.pdf",
+     "sha256": "dcd928a56d9361c707c57af5cf0f6b8e49b3ccba71e19d91b649ad61b6fcf571"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-46-2026",
+   "path": "local/arad/lipova/2026/46",
+   "short": "HCL Lipova nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 46/2026 privind aprobarea contului de execuție bugetară al Orașului Lipova pentru anul 2025",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.46.pdf",
+     "sha256": "4f2a144d9306e960cf4fb54fcfb107fc1027f92b53f6b2dd6a2b93acde7cd17a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-47-2026",
+   "path": "local/arad/lipova/2026/47",
+   "short": "HCL Lipova nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 47/2026 privind aprobarea contului de execuție bugetară al Orașului Lipova pentru trimestrul I al anului 2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.47.pdf",
+     "sha256": "9318fd09c8c240cc6be1ded220e221e1d5cafdaa0cd9fe5b69900d3847c9ffba"
     }
    ]
   },
@@ -243,6 +408,291 @@
    ]
   },
   {
+   "slug": "hcl-arad--lipova-49-2026",
+   "path": "local/arad/lipova/2026/49",
+   "short": "HCL Lipova nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 49/2026 pentru aprobarea unor măsuri vizând organizarea Clubului Sportiv \"Șoimii\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.49.pdf",
+     "sha256": "24275fb377796d904027a9959be1ee74e9c92999c5f6cbbbaee94b18bb55db9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-50-2026",
+   "path": "local/arad/lipova/2026/50",
+   "short": "HCL Lipova nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 50/2026 pentru aprobarea criteriilor de ocupare, procedura pentru selecția, numirea și eliberarea din funcția contractuală de conducere de Director al Clubului Sportiv Șoimii Lipova, instituție publică în subordinea Consiliului Local al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.50.pdf",
+     "sha256": "aa24c149f9dcf64dd751abad104b370da5b36ff844d851650e02166bf51e3c18"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-51-2026",
+   "path": "local/arad/lipova/2026/51",
+   "short": "HCL Lipova nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 51/2026 privind reactualizarea cuantumului chiriei pentru locuințele realizate prin Agenția Națională pentru Locuințe, situate în Orașul Lipova, str.Petru Maior, nr. 42-46, județul Arad",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.51.pdf",
+     "sha256": "d4efdabfd3b2bf4e91910e905042d8fbe28281fa75e1cf76379e53ac1b9cd3fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-52-2026",
+   "path": "local/arad/lipova/2026/52",
+   "short": "HCL Lipova nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 52/2026 privind înlocuirea unui reprezentant al Consiliului Local al Orașului Lipova în Consiliul de Administrație al Spitalului Orășenesc Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.52.pdf",
+     "sha256": "5853fd92fe0f9ca16100a1ec3db78c14c1dc7bd9521572972e2ad2452d80d22d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-53-2026",
+   "path": "local/arad/lipova/2026/53",
+   "short": "HCL Lipova nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 53/2026 privind stabilirea unor măsuri vizând amenajamentul pastoral al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.53.pdf",
+     "sha256": "b03a7bdbe05bf43fd89caee1da189379ebbc07c43b43ff64980d391d6b39f413"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-54-2026",
+   "path": "local/arad/lipova/2026/54",
+   "short": "HCL Lipova nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 54/2026 privind actualizarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiție \"EXTINDERE REȚEA DE APĂ ȘI CANAL MENAJER ÎN LOCALITĂȚILE LIPOVA ȘI ȘOIMOȘ, ORAȘUL LIPOVA, JUDEȚUL ARAD\"",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.54.pdf",
+     "sha256": "e3a716cebf72b8c68f88ba010c609cea598a90c344b8b733ee2f8c26df0380da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-55-2026",
+   "path": "local/arad/lipova/2026/55",
+   "short": "HCL Lipova nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 55/2026 privind modificarea Contractului de delegare a gestiunii serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.35",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.55.pdf",
+     "sha256": "b935d18954028ce6c2921a91f3a43cc2e1c80980e1ae319c3dd809adacd578ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-56-2026",
+   "path": "local/arad/lipova/2026/56",
+   "short": "HCL Lipova nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 56/2026 privind reglementarea situației juridice a unui bun imobil situat în extravilanul Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.56.pdf",
+     "sha256": "b74d5311837027feed118712b2f94f7ad4fac13eb51ed934372246eb9a5fb0cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-58-2026",
+   "path": "local/arad/lipova/2026/58",
+   "short": "HCL Lipova nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 58/2026 privind aprobarea Bugetului General de Venituri și Cheltuieli al Orașului Lipova pentru anul 2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.58.pdf",
+     "sha256": "0329cd2883c9c71f862509d7633bd05bdbd465809f3d1699b22e771a8c1ba3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-59-2026",
+   "path": "local/arad/lipova/2026/59",
+   "short": "HCL Lipova nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 59/2026 privind aprobarea Raportului privind rezultatele etichetării cheltuielilor bugetare, detaliat pe capitole și surse de finanțare, la nivelul bugetului local al orașului Lipova pe anul 2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.59.pdf",
+     "sha256": "2557e4df2a1f47dc523777c184673a373b0109c5330be611ddd96c88c3719cf3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-61-2026",
+   "path": "local/arad/lipova/2026/61",
+   "short": "HCL Lipova nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 61/2026 pentru completarea Hotărârii nr.127/ 26.10.2005 privind reglementarea accesului utilajelor și vehiculelor destinate transportului de mărfuri cu masa maximă autorizată mai mare de 3,5 tone în Orașul Lipova, adoptată de Consiliul Local al orașului Lipova, republi",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.61.pdf",
+     "sha256": "df1b40be2b43292b0103d7ee8d693682a721c91ca1a188107afcd697cdb78ccd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-62-2026",
+   "path": "local/arad/lipova/2026/62",
+   "short": "HCL Lipova nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 62/2026 pentru aprobarea unor măsuri vizând organizarea Clubului Sportiv \"ȘOIMII\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.62.pdf",
+     "sha256": "c78f060b678534756c6f64a6057e89dd69c492477932aac3b6de50874b14b03f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-65-2026",
+   "path": "local/arad/lipova/2026/65",
+   "short": "HCL Lipova nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 65/2026 privind aprobarea modificărilor tehnice intervenite prin dispozții de șantier, actualizarea indicatorilor tehnico- economici și a devizului general pentru obiectivul de investiție \"Lucrări de reabilitare în vederea creșterii eficienței energetice -Clădire admin",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.65.pdf",
+     "sha256": "1f978b8b4fce7db324244bea7e15f53d56724615e5e4b87512b1486646ea4d63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-66-2026",
+   "path": "local/arad/lipova/2026/66",
+   "short": "HCL Lipova nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 66/2026 privind aprobarea modificărilor tehnice intervenite prin ispoziții de șantier, actualizarea indicatorilor tehnico- economici și a devizului general pentru obiectivul de investiție ''Lucrări de reabilitare în vederea creșterii eficienței energetice -Spital Orășe",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.66.pdf",
+     "sha256": "db107cff52bbf8c564e064ef295bfe084841d300349bd88c100df477300f8b32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-70-2026",
+   "path": "local/arad/lipova/2026/70",
+   "short": "HCL Lipova nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 70/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.70.pdf",
+     "sha256": "68acac420bf01f46314ffeadf15cca3e8082ac4686cd531f73596ac85f3c20aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-71-2026",
+   "path": "local/arad/lipova/2026/71",
+   "short": "HCL Lipova nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 71/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.71.pdf",
+     "sha256": "aa26afc4ab9d232a0a8f41bedc1a9a368d162d47ded5aa47c12ef4e4c5067175"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-72-2026",
+   "path": "local/arad/lipova/2026/72",
+   "short": "HCL Lipova nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 72/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.72.pdf",
+     "sha256": "be868c88ace6fbe0143581758d1d4456d76cd2bf2afb2d3b0384baf2cef3c5a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-73-2026",
+   "path": "local/arad/lipova/2026/73",
+   "short": "HCL Lipova nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 73/2026 privind instituirea dreptului de administrare a Liceului Atanasie Marienescu Lipova asupra unui bun imobil",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.73.pdf",
+     "sha256": "c70a2b7ae1678b9964625a39d0b139a9a15efb9ff21fe738c0dfc226f75b3d6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-77-2026",
+   "path": "local/arad/lipova/2026/77",
+   "short": "HCL Lipova nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 77/2026 privind aprobarea statului de funcții și a organigramei Spitalului orășenesc Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.77.pdf",
+     "sha256": "ba93e5b82d5fd10ddaf33315f27752c1e53db7256c6ad9c76324b83b6d86c3a7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--lipova-78-2026",
    "path": "local/arad/lipova/2026/78",
    "short": "HCL Lipova nr. 78/2026",
@@ -254,6 +704,216 @@
      "units": 1,
      "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.78.pdf",
      "sha256": "3ebe0d40b90f9630f4a078f3a4c557ead8a616b9beac4df210b1bf36fb27cfb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-79-2026",
+   "path": "local/arad/lipova/2026/79",
+   "short": "HCL Lipova nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 79/2026 privind rectificarea bugetului general consolidat de venituri și cheltuieli, pentru anul 2026, al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.79.pdf",
+     "sha256": "dd8c17b63fb4df2a6f46d5ca94876c1a1170bcd8e1b7da312cc0ae5038d7d13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-80-2026",
+   "path": "local/arad/lipova/2026/80",
+   "short": "HCL Lipova nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 80/2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.80.pdf",
+     "sha256": "ceb488e0e29696f2a669619d188fe4029c411a626a78bbd4a81db1060a508ed3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-81-2026",
+   "path": "local/arad/lipova/2026/81",
+   "short": "HCL Lipova nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 81/2026 privind completarea listei de priorități în vederea repartizării de locuințe pentru tineri, destinate închirierii",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.81.pdf",
+     "sha256": "64102718137c9e46c9088ecd9a35b3c0baec05658af3a4fe51de9b8824091e7b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-83-2026",
+   "path": "local/arad/lipova/2026/83",
+   "short": "HCL Lipova nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 83/2026 privind reglementarea situației juridice a unor bunuri imobile situate în extravilanul Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.83.pdf",
+     "sha256": "588b21158a6e14f6a88163498b069fb86831114bdb4291da092b144f220bd2b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-84-2026",
+   "path": "local/arad/lipova/2026/84",
+   "short": "HCL Lipova nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 84/2026 privind îndreptarea erorii materiale din Hotărârea nr.45/28.05.2026 privind aprobarea primei înregistrări în evidențele de cadastru și carte funciară, a lotului în suprafață de 2.279 mp, situat în Orașul Lipova, localitatea Radna, str.Economilor, nr.28",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.84.pdf",
+     "sha256": "83b40bef5f301ca821a06cabc773c6fb8251bd6db8112fcb7b1148c825d546f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-85-2026",
+   "path": "local/arad/lipova/2026/85",
+   "short": "HCL Lipova nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 85/2026 pentru aprobarea unor măsuri vizând organizarea Clubului Sportiv \"ȘOIMII\" Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.85.pdf",
+     "sha256": "0aeafaeb35d07b2a74afcd6121ab6186f97e835ee73cb8a496fd7d04f1839b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-86-2026",
+   "path": "local/arad/lipova/2026/86",
+   "short": "HCL Lipova nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 86/2026 pentru alegerea președintelui de ședință",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.86.pdf",
+     "sha256": "ad1aca7d47cc9f40a38fffc03d5b974c232fcdb926456f29ae632ae412881624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-87-2026",
+   "path": "local/arad/lipova/2026/87",
+   "short": "HCL Lipova nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 87/2026 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.36",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.87.pdf",
+     "sha256": "8de9fb2cb725503f767f61252799899e9440a58ac0fbe925c43f515aef0b1268"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-88-2026",
+   "path": "local/arad/lipova/2026/88",
+   "short": "HCL Lipova nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 88/2026 privind aprobarea integrării în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, și mandatarea reprezentantului în Adunarea Generală a",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.88.pdf",
+     "sha256": "4ba395e673bfd5caed60f08f34240858a35cdb47f5be1e3778193fe9182517fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-89-2026",
+   "path": "local/arad/lipova/2026/89",
+   "short": "HCL Lipova nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 89/2026 privind aprobarea contului de execuție bugetară al Orașului Lipova pentru trimestrul II al anului 2026",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.89.pdf",
+     "sha256": "1cb195b794d2b82af4de486fb6f7773ec7ac51013f3be15884baeeeadc124903"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-91-2026",
+   "path": "local/arad/lipova/2026/91",
+   "short": "HCL Lipova nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 91/2026 privind organizarea unei comisii mixte pentru verificarea modului de administrare a blocurilor ANL din orașul Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.91.pdf",
+     "sha256": "1c56e7dfd8a92967ddd3449f15f414b6ff66e36f4ec81a7d86a1fec2d2043f0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-92-2026",
+   "path": "local/arad/lipova/2026/92",
+   "short": "HCL Lipova nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 92/2026 privind aprobarea participării Unității Administrativ -Teritoriale Orașul Lipova la constituirea Asociației ,, Organizația de Management al Destinației Județul Arad\"",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.92.pdf",
+     "sha256": "0442b44308f451b79fc2f5e86fd66b7e20a05e91e48f0cdf9aa92c7df91f2536"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-93-2026",
+   "path": "local/arad/lipova/2026/93",
+   "short": "HCL Lipova nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 93/2026 privind încheierea Actului adițional nr.2 la Contractul de delegare prin concesiune a gestiunii nr.5274 din 08.12.2025",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.93.pdf",
+     "sha256": "f63d254017a7b7d19303007fda5df5663cc65fca822798e89d482e18f49a772e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--lipova-96-2026",
+   "path": "local/arad/lipova/2026/96",
+   "short": "HCL Lipova nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 96/2026 privind declararea a unor bunuri ce deservesc rețeaua de apă canal a Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2026-08-12",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.96.pdf",
+     "sha256": "846efb5f6aa768144b84ea971bf098819dea7c836a2eea711641c838d859b391"
     }
    ]
   }

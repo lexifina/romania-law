@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-71-2025",
+"path": "local/arad/varfurile/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 71/2025 privind aprobarea procesului- verbal al ședinței ordinare a Consiliului Local Vârfurile din data de 11.11.2025",
+"short": "HCL Vârfurile nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/239963",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-72-2025",
+"path": "local/arad/varfurile/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 72/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 10.12.2025",
+"short": "HCL Vârfurile nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/239964",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-73-2025",
 "path": "local/arad/varfurile/2025/73",
 "kind": "local",
@@ -44,6 +88,29 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-74-2025",
+"path": "local/arad/varfurile/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 74/2025",
+"short": "HCL Vârfurile nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/239966",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -69,6 +136,72 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-76-2025",
+"path": "local/arad/varfurile/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 76/2025 privind aprobarea procesului verbal al sedinței ordinare a Consiliului Local Vârfurile din data de 10.12.2025",
+"short": "HCL Vârfurile nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245396",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-77-2025",
+"path": "local/arad/varfurile/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 77/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 30.12.2025",
+"short": "HCL Vârfurile nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245397",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-78-2025",
+"path": "local/arad/varfurile/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 78/2025 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2026",
+"short": "HCL Vârfurile nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245398",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--varfurile-79-2025",
 "path": "local/arad/varfurile/2025/79",
 "kind": "local",
@@ -91,6 +224,29 @@
 }
 },
 {
+"slug": "hcl-arad--varfurile-80-2025",
+"path": "local/arad/varfurile/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 80/2025",
+"short": "HCL Vârfurile nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245400",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--varfurile-81-2025",
 "path": "local/arad/varfurile/2025/81",
 "kind": "local",
@@ -110,6 +266,187 @@
 "council_name": "Consiliul Local al Comunei Vârfurile",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--varfurile-82-2025",
+"path": "local/arad/varfurile/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 82/2025",
+"short": "HCL Vârfurile nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245402",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varfurile-83-2025",
+"path": "local/arad/varfurile/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 83/2025",
+"short": "HCL Vârfurile nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245403",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varfurile-84-2025",
+"path": "local/arad/varfurile/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 84/2025",
+"short": "HCL Vârfurile nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245404",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varfurile-85-2025",
+"path": "local/arad/varfurile/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 85/2025 privind privind aprobarea prelungirii Contractului de închiriere încheiat între Consiliul Local Vârfurile și dl.Gazdovici Adalbert",
+"short": "HCL Vârfurile nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245405",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-86-2025",
+"path": "local/arad/varfurile/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 86/2025",
+"short": "HCL Vârfurile nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245406",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varfurile-87-2025",
+"path": "local/arad/varfurile/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 87/2025",
+"short": "HCL Vârfurile nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245407",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--varfurile-88-2025",
+"path": "local/arad/varfurile/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 88/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 33",
+"short": "HCL Vârfurile nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245408",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--varfurile-89-2025",
+"path": "local/arad/varfurile/2025/89",
+"kind": "local",
+"year": "2025",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 89/2025 privind aprobarea scutirii de 50 % de plata unor impozite şi taxe locale a Asociaţiei “Copii pentru Cristos”",
+"short": "HCL Vârfurile nr. 89/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/varfurile-ar/registru-hcl/245409",
+"council": "arad/varfurile",
+"council_name": "Consiliul Local al Comunei Vârfurile",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

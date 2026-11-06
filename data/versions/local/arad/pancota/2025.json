@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/pancota/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--pancota-125-2025",
+   "path": "local/arad/pancota/2025/125",
+   "short": "HCL Pâncota nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 125/2025",
+   "url": "https://primariapancota.ro/wp-content/uploads/2026/01/HOT.-NR.125-DIN-29.12.2025-1.pdf",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2026/01/HOT.-NR.125-DIN-29.12.2025-1.pdf",
+     "sha256": "fb6e825dfe7c04652a5672619c8eadcd7062fea235c5816cf5954c9f805fb7a3"
+    }
+   ]
+  }
+ ]
+}

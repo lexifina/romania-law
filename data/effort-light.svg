@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="563" viewBox="0 0 880 563" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="880" height="563" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="20" font-weight="600" fill="#1f2328">Romanian law as a git history</text>
-<text x="856" y="38" font-size="12" text-anchor="end" fill="#59636e">updated 2026-11-06 20:44 UTC</text>
+<text x="856" y="38" font-size="12" text-anchor="end" fill="#59636e">updated 2026-11-06 20:48 UTC</text>
 <rect x="24" y="58" width="134" height="64" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/>
 <text x="36" y="88" font-size="19" font-weight="600" fill="#1f2328">269,658</text>
 <text x="36" y="108" font-size="11.5" fill="#59636e">acts</text>
@@ -15,7 +15,7 @@
 <text x="462" y="88" font-size="19" font-weight="600" fill="#1f2328">25,848</text>
 <text x="462" y="108" font-size="11.5" fill="#59636e">court rulings</text>
 <rect x="592" y="58" width="134" height="64" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/>
-<text x="604" y="88" font-size="19" font-weight="600" fill="#1f2328">226,073</text>
+<text x="604" y="88" font-size="19" font-weight="600" fill="#1f2328">226,081</text>
 <text x="604" y="108" font-size="11.5" fill="#59636e">official texts read</text>
 <rect x="734" y="58" width="134" height="64" rx="8" fill="#f6f8fa" stroke="#d1d9e0"/>
 <text x="746" y="88" font-size="19" font-weight="600" fill="#1f2328">1863–2026</text>
@@ -88,7 +88,7 @@
 <text x="24" y="405" font-size="12" fill="#1f2328">Secondary legislation</text>
 <rect x="260" y="396" width="492" height="10" rx="5" fill="#f6f8fa"/>
 <rect x="260" y="396" width="376.6" height="10" rx="5" fill="#a8d5b5"/>
-<rect x="260" y="396" width="342.2" height="10" rx="5" fill="#2f7d4f"/>
+<rect x="260" y="396" width="342.7" height="10" rx="5" fill="#2f7d4f"/>
 <text x="762" y="405" font-size="12" font-weight="600" fill="#1f2328">70%</text>
 <text x="798" y="405" font-size="11" fill="#59636e">77% collected</text>
 <text x="24" y="426" font-size="12" fill="#1f2328">Local acts</text>
@@ -111,10 +111,10 @@
 <text x="762" y="489" font-size="12" font-weight="600" fill="#1f2328">66%</text>
 <text x="24" y="510" font-size="12" fill="#1f2328">Legislative history and publications</text>
 <rect x="260" y="501" width="492" height="10" rx="5" fill="#f6f8fa"/>
-<rect x="260" y="501" width="179.8" height="10" rx="5" fill="#a8d5b5"/>
-<rect x="260" y="501" width="168.6" height="10" rx="5" fill="#2f7d4f"/>
-<text x="762" y="510" font-size="12" font-weight="600" fill="#1f2328">34%</text>
-<text x="798" y="510" font-size="11" fill="#59636e">37% collected</text>
+<rect x="260" y="501" width="179.3" height="10" rx="5" fill="#a8d5b5"/>
+<rect x="260" y="501" width="174.4" height="10" rx="5" fill="#2f7d4f"/>
+<text x="762" y="510" font-size="12" font-weight="600" fill="#1f2328">35%</text>
+<text x="798" y="510" font-size="11" fill="#59636e">36% collected</text>
 <text x="24" y="531" font-size="12" fill="#1f2328">Historical law</text>
 <rect x="260" y="522" width="492" height="10" rx="5" fill="#f6f8fa"/>
 <rect x="260" y="522" width="451.5" height="10" rx="5" fill="#a8d5b5"/>

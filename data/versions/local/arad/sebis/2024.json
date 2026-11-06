@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sebis/2024",
+ "acts": [
+  {
+   "slug": "hcl-arad--sebis-2-2024",
+   "path": "local/arad/sebis/2024/2",
+   "short": "HCL Sebiș nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": null,
+     "sha256": "69f594de7b6a09f70bc0cc3a4d75e66ab57e699628b745c63d0a327bd8bb1ff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-3-2024",
+   "path": "local/arad/sebis/2024/3",
+   "short": "HCL Sebiș nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 3/2024",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.3-din-25-aprilie-2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Partidul-National-Liberal.pdf",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.3-din-25-aprilie-2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Partidul-National-Liberal.pdf",
+     "sha256": "cd019861efe032049e3ee1848f0dee6b8c1ce0cce122064e9c5b3687cf3d2b37"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-5-2024",
+   "path": "local/arad/sebis/2024/5",
+   "short": "HCL Sebiș nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 5/2024",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.5-din-26-aprilie-2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Partidul-Social-Democrat.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.5-din-26-aprilie-2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Partidul-Social-Democrat.pdf",
+     "sha256": "abd5ceb52ad6a5f33aa58bdcbf4306b761ffe3795d5448c12aecf91e8b5bbfee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--sebis-7-2024",
+   "path": "local/arad/sebis/2024/7",
+   "short": "HCL Sebiș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 7/2024",
+   "url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.7-din-30.04.2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Alianta-pentru-Unirea-Romanilor-2-2.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/Hotararea-nr.7-din-30.04.2024-privind-admiterea-Listei-de-candidati-pentru-Consiliul-Local-al-Orasului-Sebis-depusa-de-catre-Alianta-pentru-Unirea-Romanilor-2-2.pdf",
+     "sha256": "97c654b63036371565fef80d6faceb7f6318c172e3c5020f54d932d82fcbf881"
+    }
+   ]
+  }
+ ]
+}

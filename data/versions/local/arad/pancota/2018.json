@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/arad/pancota/2018",
+ "acts": [
+  {
+   "slug": "hcl-arad--pancota-1-2018",
+   "path": "local/arad/pancota/2018/1",
+   "short": "HCL Pâncota nr. 1/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 1/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-29-01-2018/",
+   "versions": [
+    {
+     "from": "2018-01-29",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-1-din-29.01.2018.pdf",
+     "sha256": "2c214c3fa23aee339ab276d0ceefb0e5aed511a810c336c1be015e34b72fd371"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-10-2018",
+   "path": "local/arad/pancota/2018/10",
+   "short": "HCL Pâncota nr. 10/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 10/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-10-din-19.02.2018.pdf",
+     "sha256": "1274a8b51879e7de22ee91c32b3084c3fabcb3fb9c9a930bed719d2d5e68b70d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-11-2018",
+   "path": "local/arad/pancota/2018/11",
+   "short": "HCL Pâncota nr. 11/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 11/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-11-din-19.02.2018.pdf",
+     "sha256": "95da6161e88b8519ed318f4d282088f782c8cf40ffcb7ca3440ddc72fdde15a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-12-2018",
+   "path": "local/arad/pancota/2018/12",
+   "short": "HCL Pâncota nr. 12/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 12/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-12-din-19.02.2018.pdf",
+     "sha256": "a35e098ce47437ccd004a9d1c67b8107ed24fc5aa9131b0fdf697bd130efa200"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-13-2018",
+   "path": "local/arad/pancota/2018/13",
+   "short": "HCL Pâncota nr. 13/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 13/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-13-din-19.02.2018.pdf",
+     "sha256": "db747e1d6b9b6865341346ecc3a715899f31e0e6cd787d924352d84556f1b71d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-14-2018",
+   "path": "local/arad/pancota/2018/14",
+   "short": "HCL Pâncota nr. 14/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 14/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-14-din-19.02.2018.pdf",
+     "sha256": "559a72c6505edcfdc003215c45b54118d5c433e5d1a57a5bc2dada347e1f2641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-15-2018",
+   "path": "local/arad/pancota/2018/15",
+   "short": "HCL Pâncota nr. 15/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 15/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-15-din-19.02.2018.pdf",
+     "sha256": "cf6d23897a6b28518fc7fd612f7cdd75428745b2e15a5bb524b70e77ca5b2dfb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-26-2018",
+   "path": "local/arad/pancota/2018/26",
+   "short": "HCL Pâncota nr. 26/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 26/2018",
+   "url": "https://primariapancota.ro/page/9/",
+   "versions": [
+    {
+     "from": "2018-04-13",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/hot-26-13.04.2018-.pdf",
+     "sha256": "1986cc055113a870331222ca4f255d37cf4ace85c1c51974ef9c3a537cfc201b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--pancota-9-2018",
+   "path": "local/arad/pancota/2018/9",
+   "short": "HCL Pâncota nr. 9/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 9/2018",
+   "url": "https://primariapancota.ro/hotarari-ale-c-l-pancota-adoptate-in-sedinta-din-19-02-2018/",
+   "versions": [
+    {
+     "from": "2018-02-19",
+     "units": 1,
+     "source_url": "https://primariapancota.ro/wp-content/uploads/2018/04/Hotar%C3%A2rea-nr-9-din-19.02.2018.pdf",
+     "sha256": "b70d7dd3f87eb15e2d39307c1b8e83221c2eb5b4058137ad080cbaf142e8843a"
+    }
+   ]
+  }
+ ]
+}

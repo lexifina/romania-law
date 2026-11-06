@@ -47,6 +47,50 @@
 }
 },
 {
+"slug": "hcl-arad--petris-104-2025",
+"path": "local/arad/petris/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 104/2025 privind delegarea prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zona 5, avizarea Strategiei de contractare, a Studiului de fundamentare/oportunitate și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+"short": "HCL Petriș nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://emol.ro/petris-ar/registru-hcl/235439",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-105-2025",
+"path": "local/arad/petris/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 105/2025 privind avizarea Strategiei de contractare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, Zona 5",
+"short": "HCL Petriș nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-25",
+"latest": "2025-11-25",
+"portal": "https://emol.ro/petris-ar/registru-hcl/235440",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--petris-106-2025",
 "path": "local/arad/petris/2025/106",
 "kind": "local",
@@ -220,6 +264,28 @@
 "council_name": "Consiliul Local al Comunei Petriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-114-2025",
+"path": "local/arad/petris/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 114/2025 pentru modificarea Hotărârii Consiliului Local Petriș nr. 39/14.04.2025 privind stabilirea impozitelor, taxelor locale și a taxelor speciale, începând cu 01 ianuarie 2026 la nivelul comunei Petriș, județ Arad",
+"short": "HCL Petriș nr. 114/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-17",
+"latest": "2025-12-17",
+"portal": "https://emol.ro/petris-ar/registru-hcl/239676",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/tomsani/2023",
+ "acts": [
+  {
+   "slug": "hcl-valcea--tomsani-100-2023",
+   "path": "local/valcea/tomsani/2023/100",
+   "short": "HCL Tomșani nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 100/2023 proiect HOTĂRÂRE Nr. 106 cu privire la aprobarea actualizarii tarifelor practicate pentru prestarea serviciului de salarizare de pe raza Comunei Tomșani",
+   "url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65454",
+   "versions": [
+    {
+     "from": "2023-12-06",
+     "units": 1,
+     "source_url": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#65454",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

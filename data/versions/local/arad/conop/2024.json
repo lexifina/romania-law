@@ -3,6 +3,21 @@
  "shard": "local/arad/conop/2024",
  "acts": [
   {
+   "slug": "hcl-arad--conop-100-2024",
+   "path": "local/arad/conop/2024/100",
+   "short": "HCL Conop nr. 100/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 100/2024",
+   "url": "https://emol.ro/conop-ar/registru-hcl/182593",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/182593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-101-2024",
    "path": "local/arad/conop/2024/101",
    "short": "HCL Conop nr. 101/2024",
@@ -13,6 +28,36 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/182594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-102-2024",
+   "path": "local/arad/conop/2024/102",
+   "short": "HCL Conop nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 102/2024 privind desemnarea reprezentantului comunei Conop în Consiliul de Administrație al RPL Ocolul Silvic Valea Mureșului R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/182595",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/182595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-103-2024",
+   "path": "local/arad/conop/2024/103",
+   "short": "HCL Conop nr. 103/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 103/2024 privind aprobarea documentatiei de atribuire, a caietului de sarcini și a contractului de închiriere, în vederea închirierii unui teren extravilan, proprietatea publică a comunei Conop, categoria de folosință pădure, în vederea înființării unui complex de vânătoare",
+   "url": "https://emol.ro/conop-ar/registru-hcl/182596",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/182596",
      "sha256": null
     }
    ]
@@ -48,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-86-2024",
+   "path": "local/arad/conop/2024/86",
+   "short": "HCL Conop nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 86/2024 privind constituirea comisiei in vederea desemnarii reprezentantului comunei Conop în Consiliul de Administrație al RPL Ocolul Silvic Valea Mureșului R.A",
+   "url": "https://emol.ro/conop-ar/registru-hcl/176646",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/176646",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-87-2024",
    "path": "local/arad/conop/2024/87",
    "short": "HCL Conop nr. 87/2024",
@@ -58,6 +118,21 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/176647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-88-2024",
+   "path": "local/arad/conop/2024/88",
+   "short": "HCL Conop nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 88/2024",
+   "url": "https://emol.ro/conop-ar/registru-hcl/176648",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/176648",
      "sha256": null
     }
    ]
@@ -88,6 +163,21 @@
      "from": "2024-11-26",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/176650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-91-2024",
+   "path": "local/arad/conop/2024/91",
+   "short": "HCL Conop nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 91/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/182584",
+   "versions": [
+    {
+     "from": "2025-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/182584",
      "sha256": null
     }
    ]

@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-104-2021",
+"path": "local/arges/maracineni/2021/104",
+"kind": "local",
+"year": "2021",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 104/2021",
+"short": "HCL Mărăcineni nr. 104/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-11",
+"latest": "2021-11-11",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/43449",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--maracineni-105-2021",
 "path": "local/arges/maracineni/2021/105",
 "kind": "local",

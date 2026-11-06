@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-arad--barzava-130-2025",
+"path": "local/arad/barzava/2025/130",
+"kind": "local",
+"year": "2025",
+"number": "130",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 130/2025 privind modificarea și completarea articolului1 din HCL nr.70 din 04.07.2025 privind acordare unui sprijin financiar pentru Parohia Ortodoxă Bârzava cu hramul ”ADORMIREA MAICII DOMNULUI”",
+"short": "HCL Bârzava nr. 130/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/barzava-ar/registru-hcl/240402",
+"council": "arad/barzava",
+"council_name": "Consiliul Local al Comunei Bârzava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--barzava-131-2025",
 "path": "local/arad/barzava/2025/131",
 "kind": "local",

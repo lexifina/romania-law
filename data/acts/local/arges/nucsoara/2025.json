@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-67-2025",
+"path": "local/arges/nucsoara/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 67/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-04",
+"latest": "2025-12-04",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/239052",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-68-2025",
 "path": "local/arges/nucsoara/2025/68",
 "kind": "local",
@@ -135,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-73-2025",
+"path": "local/arges/nucsoara/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 73/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-30",
+"latest": "2025-12-30",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/242429",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-74-2025",
 "path": "local/arges/nucsoara/2025/74",
 "kind": "local",
@@ -223,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-78-2025",
+"path": "local/arges/nucsoara/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 78/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-05",
+"latest": "2026-01-05",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/243317",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-79-2025",
 "path": "local/arges/nucsoara/2025/79",
 "kind": "local",
@@ -264,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Nucșoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-81-2025",
+"path": "local/arges/nucsoara/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 81/2025 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ",
+"short": "HCL Nucșoara nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-12",
+"latest": "2026-01-12",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/244314",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

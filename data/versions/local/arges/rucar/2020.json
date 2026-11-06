@@ -18,6 +18,66 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-46-2020",
+   "path": "local/arges/rucar/2020/46",
+   "short": "HCL Rucăr nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 46/2020 privind stabilirea unor salarii de bază din aparatul de specialitate al primarului comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/5009",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/5009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-47-2020",
+   "path": "local/arges/rucar/2020/47",
+   "short": "HCL Rucăr nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 47/2020 privind aprobarea organigramei Primăriei comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/5010",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/5010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-48-2020",
+   "path": "local/arges/rucar/2020/48",
+   "short": "HCL Rucăr nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 48/2020 privind aprobarea solicitării prlungirii până la data de 30.08.2021 a scrisorii de garanție de la FNGCIMM SA IFN nr. 19.09.2017",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/5011",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/5011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-49-2020",
+   "path": "local/arges/rucar/2020/49",
+   "short": "HCL Rucăr nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 49/2020 privind aprobarea încheierii exercițiului bugetar al anului 2019",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/5012",
+   "versions": [
+    {
+     "from": "2020-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/5012",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-50-2020",
    "path": "local/arges/rucar/2020/50",
    "short": "HCL Rucăr nr. 50/2020",
@@ -28,6 +88,96 @@
      "from": "2020-06-16",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/5013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-51-2020",
+   "path": "local/arges/rucar/2020/51",
+   "short": "HCL Rucăr nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 51/2020 privind aprobarea devizului general actualizat privind cheltuielile necesare realizării investiției ,, Rețea nouă de canalizare și stație de epurare, în comuna Rucăr,,",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/5058",
+   "versions": [
+    {
+     "from": "2020-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/5058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-52-2020",
+   "path": "local/arges/rucar/2020/52",
+   "short": "HCL Rucăr nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 52/2020 privind privind mandatarea primarului comunei Rucăr ca reprezentant al comunei Rucăr în Adunarea Generală a Asociației de Dezvoltare Intercomunitară Servsal Argeș să voteze pentru aprobarea Actului adițional nr.3 la Contractul de Concesiune nr.067/15.03.2012 pentru serviciile de colectare a deșeurilor municipale, transportul, operarea și întreținerea stației de transfer și a punctului verde de colectare din Județul Argeș – Faza I (Câmpulung-Rucăr)",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/6818",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/6818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-53-2020",
+   "path": "local/arges/rucar/2020/53",
+   "short": "HCL Rucăr nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 53/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Rucăr",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/6819",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/6819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-54-2020",
+   "path": "local/arges/rucar/2020/54",
+   "short": "HCL Rucăr nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 54/2020 privind participarea comunei Rucăr, județul Argeș la ”Programul privind sprijinirea eficienţei energetice şi a gestionării inteligente a energiei în infrastructura de iluminat public\"",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/6820",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/6820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-55-2020",
+   "path": "local/arges/rucar/2020/55",
+   "short": "HCL Rucăr nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 55/2020 privind formularea unei solicitări către Distrigaz Sud Rețele, pentru extinderea rețelei de distribuție în comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/6821",
+   "versions": [
+    {
+     "from": "2020-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/6821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-56-2020",
+   "path": "local/arges/rucar/2020/56",
+   "short": "HCL Rucăr nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 56/2020 privind pentru a se lua act de suspendarea târgului săptămânal de duminica, în zilele de 26.07.2020, 02.08.2020 și 09.08.2020",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/6822",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/6822",
      "sha256": null
     }
    ]
@@ -73,6 +223,21 @@
      "from": "2020-08-27",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/22647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-60-2020",
+   "path": "local/arges/rucar/2020/60",
+   "short": "HCL Rucăr nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 60/2020 privind acordarea titlului de Cetățean de Onoare familiilor care împlinesc 50 de ani de căsătorie",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/22648",
+   "versions": [
+    {
+     "from": "2020-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/22648",
      "sha256": null
     }
    ]

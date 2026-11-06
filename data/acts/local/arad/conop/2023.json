@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-95-2023",
+"path": "local/arad/conop/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 95/2023 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-21",
+"latest": "2023-12-21",
+"portal": "https://emol.ro/conop-ar/registru-hcl/131807",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-96-2023",
 "path": "local/arad/conop/2023/96",
 "kind": "local",
@@ -244,6 +266,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-105-2023",
+"path": "local/arad/conop/2023/105",
+"kind": "local",
+"year": "2023",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 105/2023 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 105/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-19",
+"latest": "2024-01-19",
+"portal": "https://emol.ro/conop-ar/registru-hcl/135841",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

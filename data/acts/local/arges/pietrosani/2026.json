@@ -69,6 +69,29 @@
 }
 },
 {
+"slug": "hcl-arges--pietrosani-4-2026",
+"path": "local/arges/pietrosani/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 4/2026",
+"short": "HCL Pietroșani nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266625",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arges--pietrosani-5-2026",
 "path": "local/arges/pietrosani/2026/5",
 "kind": "local",
@@ -113,6 +136,28 @@
 }
 },
 {
+"slug": "hcl-arges--pietrosani-7-2026",
+"path": "local/arges/pietrosani/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 7/2026 privind aprobarea executiei bugetare pentru anul 2025",
+"short": "HCL Pietroșani nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266649",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--pietrosani-8-2026",
 "path": "local/arges/pietrosani/2026/8",
 "kind": "local",
@@ -133,6 +178,116 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--pietrosani-9-2026",
+"path": "local/arges/pietrosani/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 9/2026 privind aprobarea Raportului de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Pietrosani , județul Argeș",
+"short": "HCL Pietroșani nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266651",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--pietrosani-10-2026",
+"path": "local/arges/pietrosani/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 10/2026 privind alegere presedinte de sedinta perioada aprilie -iunie 2026",
+"short": "HCL Pietroșani nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266652",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--pietrosani-11-2026",
+"path": "local/arges/pietrosani/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 11/2026 Privind stabilirea modului in care este suportat comisionul bancar in urma platii electronice in Sistemul National Electronic de Plata Onlie, cu cardul, a impozitelor si taxelor locale datorate bugetului local al Comunei Pietrosani",
+"short": "HCL Pietroșani nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266682",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--pietrosani-12-2026",
+"path": "local/arges/pietrosani/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 12/2026 Privind inregistrarea Comunei Pietrosani in Sistemul Electronic de Plata Online, a taxelor si impozitelor locale, utilizand cardul bancar ( SNEP ) si modul de suportare a comisionului bancar aferent tranzactiilor online",
+"short": "HCL Pietroșani nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266683",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--pietrosani-13-2026",
+"path": "local/arges/pietrosani/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pietroșani nr. 13/2026 privind reorganizarea structurii organizatorice a instituției, aprobarea modificării și actualizării organigramei și a statului de funcții de la nivelul aparatului de specialitate al primarului comunei Pietrosani, județul Arges, conform prevederilor OUG nr.7/2026",
+"short": "HCL Pietroșani nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-07",
+"latest": "2026-05-07",
+"portal": "https://emol.ro/pietrosani-ag/registru-hcl/266684",
+"council": "arges/pietrosani",
+"council_name": "Consiliul Local al Comunei Pietroșani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

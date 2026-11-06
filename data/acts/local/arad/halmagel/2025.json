@@ -47,6 +47,95 @@
 }
 },
 {
+"slug": "hcl-arad--halmagel-72-2025",
+"path": "local/arad/halmagel/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 72/2025 privind alegerea președintelui de ședință din data de 28.11.2025",
+"short": "HCL Hălmăgel nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262562",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-73-2025",
+"path": "local/arad/halmagel/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 73/2025 privind aprobarea ordinii de zi a ședinței Consiliului Local al comunei Hălmăgel din data de 28.11.2025",
+"short": "HCL Hălmăgel nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262563",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-74-2025",
+"path": "local/arad/halmagel/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 74/2025 privind aprobarea procesului-verbal al ședinței Consiliului Local al comunei Hălmăgel din data de 28.10.2025",
+"short": "HCL Hălmăgel nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262564",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-75-2025",
+"path": "local/arad/halmagel/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 75/2025",
+"short": "HCL Hălmăgel nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262565",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--halmagel-76-2025",
 "path": "local/arad/halmagel/2025/76",
 "kind": "local",
@@ -113,6 +202,50 @@
 }
 },
 {
+"slug": "hcl-arad--halmagel-79-2025",
+"path": "local/arad/halmagel/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 79/2025 privind alegerea președintelui de ședință din data de 09.12.2025",
+"short": "HCL Hălmăgel nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262585",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-80-2025",
+"path": "local/arad/halmagel/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 80/2025 privind aprobarea ordinii de zi a ședinței consiliului local al comunei Hălmăgel din data de 09.12.2025",
+"short": "HCL Hălmăgel nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262586",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagel-81-2025",
 "path": "local/arad/halmagel/2025/81",
 "kind": "local",
@@ -132,6 +265,50 @@
 "council_name": "Consiliul Local al Comunei Hălmăgel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagel-82-2025",
+"path": "local/arad/halmagel/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 82/2025 privind aprobarea ordinii de zi a ședinței Consiliului Local al comunei Hălmăgel din data de 29.12.2025",
+"short": "HCL Hălmăgel nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262588",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-83-2025",
+"path": "local/arad/halmagel/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 83/2025 privind aprobarea procesului-verbal al ședinței Consiliului Local al comunei Hălmăgel din data de 28.11.2025",
+"short": "HCL Hălmăgel nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262589",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +353,50 @@
 "council_name": "Consiliul Local al Comunei Hălmăgel",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagel-86-2025",
+"path": "local/arad/halmagel/2025/86",
+"kind": "local",
+"year": "2025",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 86/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 33",
+"short": "HCL Hălmăgel nr. 86/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262592",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagel-87-2025",
+"path": "local/arad/halmagel/2025/87",
+"kind": "local",
+"year": "2025",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmăgel nr. 87/2025 privind aprobarea Rețelei școlare a unităților de învățământ preuniversitar de pe raza teritorială a comunei Hălmăgel, care vor funcționa în anul școlar 2026-2027",
+"short": "HCL Hălmăgel nr. 87/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-09",
+"latest": "2026-04-09",
+"portal": "https://emol.ro/halmagel-ar/registru-hcl/262594",
+"council": "arad/halmagel",
+"council_name": "Consiliul Local al Comunei Hălmăgel",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

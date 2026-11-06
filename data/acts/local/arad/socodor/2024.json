@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-94-2024",
+"path": "local/arad/socodor/2024/94",
+"kind": "local",
+"year": "2024",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 94/2024 privind actualizarea valorii eligibile a obiectivului de investiție ”Înființare parc fotovoltaic pentru autoconsum în Comuna Socodor, Județul Arad\"",
+"short": "HCL Socodor nr. 94/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-18",
+"latest": "2024-10-18",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/173112",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-95-2024",
 "path": "local/arad/socodor/2024/95",
 "kind": "local",
@@ -220,6 +242,72 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-104-2024",
+"path": "local/arad/socodor/2024/104",
+"kind": "local",
+"year": "2024",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 104/2024 privind desemnarea unui reprezentat din partea Consiliului Local Socodor în Consiliul de Administrație al Școlii Gimnaziale „Iustin Marșieu” Socodor",
+"short": "HCL Socodor nr. 104/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-15",
+"latest": "2024-12-15",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/180627",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--socodor-105-2024",
+"path": "local/arad/socodor/2024/105",
+"kind": "local",
+"year": "2024",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 105/2024 privind aprobarea drepturilor bănești aferente personalului didactic care solicită decontarea cheltuielilor pentru deplasarea din localitatea de reședință la locul de muncă și de la locul de muncă în localitatea de reședință pentru luna octombrie anul 2024",
+"short": "HCL Socodor nr. 105/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-15",
+"latest": "2024-12-15",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/180628",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--socodor-106-2024",
+"path": "local/arad/socodor/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2024 privind aprobarea vânzării, prin licitaţie publică, a unei parcele de teren, proprietate privată a Comunei Socodor",
+"short": "HCL Socodor nr. 106/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-15",
+"latest": "2024-12-15",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/180629",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -180,6 +180,73 @@
 }
 },
 {
+"slug": "hcl-arad--conop-112-2025",
+"path": "local/arad/conop/2025/112",
+"kind": "local",
+"year": "2025",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 112/2025",
+"short": "HCL Conop nr. 112/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/conop-ar/registru-hcl/237363",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-113-2025",
+"path": "local/arad/conop/2025/113",
+"kind": "local",
+"year": "2025",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 113/2025 privind aprobarea participarii Comunei CONOP in cadrul Programului privind cresterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentatiei tehnico-economice si a indicatorilor tehnico-economici pentru proiectul „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL, ÎN COMUNA CONOP, JUDEȚUL ARAD”",
+"short": "HCL Conop nr. 113/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-05",
+"latest": "2025-12-05",
+"portal": "https://emol.ro/conop-ar/registru-hcl/237364",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-114-2025",
+"path": "local/arad/conop/2025/114",
+"kind": "local",
+"year": "2025",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 114/2025 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 114/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/conop-ar/registru-hcl/242987",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-115-2025",
 "path": "local/arad/conop/2025/115",
 "kind": "local",
@@ -266,6 +333,73 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-119-2025",
+"path": "local/arad/conop/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 119/2025",
+"short": "HCL Conop nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/conop-ar/registru-hcl/242992",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-120-2025",
+"path": "local/arad/conop/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 120/2025 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice radiate din Registrul Comertului si scoaterea societatilor comerciale radiate din evidenta fiscala",
+"short": "HCL Conop nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/conop-ar/registru-hcl/242993",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-121-2025",
+"path": "local/arad/conop/2025/121",
+"kind": "local",
+"year": "2025",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 121/2025 privind constituirea echipei mobile pentru intervenţia în regim de urgentă în cazurile de violenţă domestică identificate pe raza unităţii administrativ-teritoriale comuna Conop",
+"short": "HCL Conop nr. 121/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://emol.ro/conop-ar/registru-hcl/242994",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

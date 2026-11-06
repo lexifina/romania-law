@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-valcea--babeni-114-2026",
+"path": "local/valcea/babeni/2026/114",
+"kind": "local",
+"year": "2026",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Băbeni nr. 114/2026 rectificarea bugetului local al orașului Băbeni și a listei de investiții finanțate din aceasta pentru anul 2026, precum și pentru modificarea și completarea anexei nr.4 la Hotărârea Consiliului Local al orașului Băbeni nr.58/11 mai 2026",
+"short": "HCL Băbeni nr. 114/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://babeni.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4247#131018",
+"council": "valcea/babeni",
+"council_name": "Consiliul Local al Orașului Băbeni",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-valcea--babeni-123-2026",
 "path": "local/valcea/babeni/2026/123",
 "kind": "local",

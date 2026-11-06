@@ -1,0 +1,171 @@
+{
+ "country": "RO",
+ "shard": "local/arad/taut/2023",
+ "acts": [
+  {
+   "slug": "hcl-arad--taut-1-2023",
+   "path": "local/arad/taut/2023/1",
+   "short": "HCL Tauț nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 1/2023 privind aprobarea procesului verbal pentru sedinta ordinara din data de 20.12.2023",
+   "url": "https://primariataut.ro/documente/hotararea-nr-1-privind-aprobarea-procesului-verbal-pentru-sedinta-ordinara-din-data-de-20-12-2023/",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/02/Hotararea-NR.-1-privind-aprobarea-procesului-verbal-pentru-sedinta-ordinara-din-data-de-20.12.2023.pdf",
+     "sha256": "627e50a75acbf517f01c381fd15bec63bca53cb160bc37c84f4384f76bc3ac91"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-12-2023",
+   "path": "local/arad/taut/2023/12",
+   "short": "HCL Tauț nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 12/2023 Privind aprobarea Actului Aditional nr.2",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.12-din-31.01.2023-Privind-aprobarea-Actului-Aditional-nr.2.pdf",
+     "sha256": "adfebf0ef26fefd4dc749936691ca291d49e7db159daefa08b732cd7185bd234"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-15-2023",
+   "path": "local/arad/taut/2023/15",
+   "short": "HCL Tauț nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 15/2023 privind aprobarea situatiilor financiare la data 31.12.2023",
+   "url": "https://primariataut.ro/documente/hotararea-nr-15-privind-aprobarea-situatiilor-financiare-la-data-31-12-2023/",
+   "versions": [
+    {
+     "from": "2023-12-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/03/Hotararea-NR.-15-privind-aprobarea-situatiilor-financiare-la-data-31.12.2023.pdf",
+     "sha256": "48b9f2be3aa07af77d6c535f94205f3363d3a00ae066c0b7358eb4403e08589b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-16-2023",
+   "path": "local/arad/taut/2023/16",
+   "short": "HCL Tauț nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 16/2023 privind propunerea incadrarii sectorului de drum judetean",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.16-din-31.01.2023-privind-propunerea-incadrarii-sectorului-de-drum-judetean.pdf",
+     "sha256": "d039ec7c7ece1bc59eb06413da59692265893c3822c7e76aa1d6bfb9943d38c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-17-2023",
+   "path": "local/arad/taut/2023/17",
+   "short": "HCL Tauț nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 17/2023 privind aprobarea centralizatorului inventarul pentru anul 2023",
+   "url": "https://primariataut.ro/documente/hotararea-nr-17-privind-aprobarea-centralizatorului-inventarul-pentru-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/03/Hotararea-NR.-17-privind-aprobarea-centralizatorului-inventarul-pentru-anul-2023.pdf",
+     "sha256": "e8d3f676a96d918282295eaf82f522c82dd42aa6ed253321363e4029f7e4818e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-19-2023",
+   "path": "local/arad/taut/2023/19",
+   "short": "HCL Tauț nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 19/2023 privind incadrarea sectorului de drum judetean DJ708Dde la km 0 +000la km 2+192",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.19-din-03.03.2023-privind-incadrarea-sectorului-de-drum-judetean-DJ708Dde-la-km-0-000la-km-2192-.pdf",
+     "sha256": "400dda7b55abe997f4e5396e8eaf60fb8a07aa8f55326edaea5315ffa8c9741d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-3-2023",
+   "path": "local/arad/taut/2023/3",
+   "short": "HCL Tauț nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 3/2023 privind aprobarea excedentului bugetar rezultat la sfarsitul anului 2023",
+   "url": "https://primariataut.ro/documente/hotararea-nr-3-privind-aprobarea-excedentului-bugetar-rezultat-la-sfarsitul-anului-2023/",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/02/Hotararea-NR.-3-privind-aprobarea-excedentului-bugetar-rezultat-la-sfarsitul-anului-2023.pdf",
+     "sha256": "ead8e71ac684544159f9a212f874d62d68be4f03302b4f119e80af2240910584"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-36-2023",
+   "path": "local/arad/taut/2023/36",
+   "short": "HCL Tauț nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 36/2023 privind declararea de interes public local a bunurilor aferente sistemului de alimentare cu apa",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.36-din-28.04.2023-privind-declararea-de-interes-public-local-a-bunurilor-aferente-sistemului-de-alimentare-cu-apa.pdf",
+     "sha256": "81be52ec23b42579bf79a385d70e1ec2b22b6da968216a5597dd91236d20dcbb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-60-2023",
+   "path": "local/arad/taut/2023/60",
+   "short": "HCL Tauț nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 60/2023 privind aprobarea asigurarii transportului elevilor",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.60-din-31.08.2023-privind-aprobarea-asigurarii-transportului-elevilor.pdf",
+     "sha256": "1e9fb552a95c42119ac7455958a0fe12a22be1933ac0e8be65ec8d7b311f123e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-61-2023",
+   "path": "local/arad/taut/2023/61",
+   "short": "HCL Tauț nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 61/2023 privind aprobarea procesului verbal pt. sedinta ordinara din 31.08.2023",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.61-din-27.09.2023-privind-aprobarea-procesului-verbal-pt.-sedinta-ordinara-din-31.08.2023.pdf",
+     "sha256": "ed41f08961001d80c1ddd599f5257e03bbe0f9dca218433f7682e05ca1172d99"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--taut-63-2023",
+   "path": "local/arad/taut/2023/63",
+   "short": "HCL Tauț nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 63/2023 privind modificarea HCL nr.79:23.09.2023 pt.masa lemnoasa",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2024/01/Hotararea-nr.63-din-27.09.2023-privind-modificarea-HCL-nr.7923.09.2023-pt.masa-lemnoasa.pdf",
+     "sha256": "fe03b46cf90c53ba2c309cc5e7db05f268b3505b6f7aaec3bcc5a3d2efd4e468"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
 "shard": "local/bacau/brusturoasa/2020",
 "acts": [
 {
+"slug": "hcl-bacau--brusturoasa-64-2020",
+"path": "local/bacau/brusturoasa/2020/64",
+"kind": "local",
+"year": "2020",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 64/2020",
+"short": "HCL Brusturoasa nr. 64/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15415",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-65-2020",
+"path": "local/bacau/brusturoasa/2020/65",
+"kind": "local",
+"year": "2020",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 65/2020 privind desemnarea reprezentanțior Consiliului Local al comunei Brusturoasa in comisia de recepție a lucrarilor",
+"short": "HCL Brusturoasa nr. 65/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-30",
+"latest": "2020-10-30",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15416",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-66-2020",
 "path": "local/bacau/brusturoasa/2020/66",
 "kind": "local",
@@ -23,6 +68,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-67-2020",
+"path": "local/bacau/brusturoasa/2020/67",
+"kind": "local",
+"year": "2020",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 67/2020 privind rectificarea bugetului de venituri si cheltuieli și a listei de investiții pentru anul 2020",
+"short": "HCL Brusturoasa nr. 67/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15501",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -114,6 +181,28 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-72-2020",
+"path": "local/bacau/brusturoasa/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 72/2020 privind aprobarea anulării unor creanțe reprezentând, amenzi taxa de salubritate, în anul 2020",
+"short": "HCL Brusturoasa nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15506",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-73-2020",
 "path": "local/bacau/brusturoasa/2020/73",
 "kind": "local",
@@ -180,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-76-2020",
+"path": "local/bacau/brusturoasa/2020/76",
+"kind": "local",
+"year": "2020",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 76/2020 privind aprobarea solicitării Avizului conform pentru organizarea reţelei şcolare de învăţământ preuniversitar de stat de pe raza comunei Brusturoasa în anul şcolar 2021-2022",
+"short": "HCL Brusturoasa nr. 76/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-26",
+"latest": "2020-11-26",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15510",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-77-2020",
 "path": "local/bacau/brusturoasa/2020/77",
 "kind": "local",
@@ -224,6 +335,50 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-79-2020",
+"path": "local/bacau/brusturoasa/2020/79",
+"kind": "local",
+"year": "2020",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 79/2020 privind rectificarea bugetului de venituri si cheltuieli și a listei de investiții pentru anul 2020",
+"short": "HCL Brusturoasa nr. 79/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15537",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-80-2020",
+"path": "local/bacau/brusturoasa/2020/80",
+"kind": "local",
+"year": "2020",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 80/2020 privind aprobarea unui sprijin financiar de la bugetul local pentru parohiile care functionează în comuna Brusturoasa",
+"short": "HCL Brusturoasa nr. 80/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15538",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-81-2020",
 "path": "local/bacau/brusturoasa/2020/81",
 "kind": "local",
@@ -265,6 +420,28 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-83-2020",
+"path": "local/bacau/brusturoasa/2020/83",
+"kind": "local",
+"year": "2020",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 83/2020 privind alegerea preşedintelui de şedinţă",
+"short": "HCL Brusturoasa nr. 83/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-21",
+"latest": "2020-12-21",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/15541",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/arad/taut/2024",
+"acts": [
+{
+"slug": "hcl-arad--taut-3-2024",
+"path": "local/arad/taut/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 3/2024",
+"short": "HCL Tauț nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-23",
+"latest": "2024-04-23",
+"portal": "https://primariataut.ro/wp-content/uploads/2024/05/Hotararea-NR.-3-din-23.04.2024.pdf",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-4-2024",
+"path": "local/arad/taut/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 4/2024 privind aprobarea inregistrarii in inventarul domeniului public al Comunei Taut",
+"short": "HCL Tauț nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariataut.ro/documente/hotararea-nr-4-privind-aprobarea-inregistrarii-in-inventarul-domeniului-public-al-comunei-taut/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-5-2024",
+"path": "local/arad/taut/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 5/2024 privind aprobarea cotizatiei CL Taut pentru anul 2024",
+"short": "HCL Tauț nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariataut.ro/documente/hotararea-nr-5-privind-aprobarea-cotizatiei-cl-taut-pentru-anul-2024/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-6-2024",
+"path": "local/arad/taut/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 6/2024 privind aprobarea cotizatiei CL catre Asociatia Intercomunitara Sistem Integrat de Gestionare a Deseurilor",
+"short": "HCL Tauț nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariataut.ro/documente/hotararea-nr-6-privind-aprobarea-cotizatiei-cl-catre-asociatia-intercomunitara-sistem-integrat-de-gestionare-a-deseurilor/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-7-2024",
+"path": "local/arad/taut/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 7/2024 privind aprobarea retelei scolare pentru anul 2024-2025",
+"short": "HCL Tauț nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://primariataut.ro/documente/hotararea-nr-7-privind-aprobarea-retelei-scolare-pentru-anul-2024-2025/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

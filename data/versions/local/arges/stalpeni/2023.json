@@ -1,0 +1,141 @@
+{
+ "country": "RO",
+ "shard": "local/arges/stalpeni/2023",
+ "acts": [
+  {
+   "slug": "hcl-arges--stalpeni-19-2023",
+   "path": "local/arges/stalpeni/2023/19",
+   "short": "HCL Stâlpeni nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 19/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-19-din-23.02.2023-.pdf",
+     "sha256": "5a3ffb38c3ae071495ec1da1488da1b862468fe6caa1f0afad52ed9e3f3462c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-21-2023",
+   "path": "local/arges/stalpeni/2023/21",
+   "short": "HCL Stâlpeni nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 21/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-21-din-23.02.2023-.pdf",
+     "sha256": "b9207938b2060f6cbe7e892fa24789ce24d7be24ea8447bd825716e5b627188b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-35-2023",
+   "path": "local/arges/stalpeni/2023/35",
+   "short": "HCL Stâlpeni nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 35/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-35-din-30.03.2023.pdf",
+     "sha256": "17bbe4acf3965e6a3972ced22cd3c1c7c765de94b21647dda992d28db3c2547f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-47-2023",
+   "path": "local/arges/stalpeni/2023/47",
+   "short": "HCL Stâlpeni nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 47/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-47-din-25.05.2023.pdf",
+     "sha256": "f2b73440da0697a3de90a563d32f7acfabdab660ff9e3637235af2d510833f00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-48-2023",
+   "path": "local/arges/stalpeni/2023/48",
+   "short": "HCL Stâlpeni nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 48/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-48-din-25.05.2023.pdf",
+     "sha256": "40c3bd2060de71f92772f5061eec9da99a6c91d37e9aa7b09a18cb81058d03b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-49-2023",
+   "path": "local/arges/stalpeni/2023/49",
+   "short": "HCL Stâlpeni nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 49/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-49-din-25.05.2023.pdf",
+     "sha256": "00b910e4c7f424bd363fa1fa027350af76db6ecdff8da22a525b12b364fb37df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-58-2023",
+   "path": "local/arges/stalpeni/2023/58",
+   "short": "HCL Stâlpeni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 58/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-58-din-29.06.2023.pdf",
+     "sha256": "f8fb623d4796976457d6ae71abe920c5377999eb0e4f29cdf246d453399dc4f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-73-2023",
+   "path": "local/arges/stalpeni/2023/73",
+   "short": "HCL Stâlpeni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 73/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-07-27",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-73-din-27.07.2023.pdf",
+     "sha256": "6ed8b49e14770c6aa9f8be572bd0be8358e03ff9378eebb0cf3cf1b363010a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-80-2023",
+   "path": "local/arges/stalpeni/2023/80",
+   "short": "HCL Stâlpeni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 80/2023",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2023/hotararea-nr-80-din-05.09.2023.pdf",
+     "sha256": "3f9265788b345308b517a8907116fccda9a5d45097e01b2a0ba573247a90ecb1"
+    }
+   ]
+  }
+ ]
+}

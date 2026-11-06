@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/alba/bucerdea-granoasa/2021",
+ "acts": [
+  {
+   "slug": "hcl-alba--bucerdea-granoasa-8-2021",
+   "path": "local/alba/bucerdea-granoasa/2021/8",
+   "short": "HCL Bucerdea Grânoasă nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Bucerdea Grânoasă nr. 8/2021 privind aprobarea Bugetului Local si a Listei de Investitii a Comunei Bucerdea Grânoasă, județul Alba, pentru anul 2021",
+   "url": "https://www.bucerdea-granoasa.ro/informatii-publice/hotarari-c-l/",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://bucerdea-granoasa.ro/doc/2021/hcl/8.pdf",
+     "sha256": "ee5b54fda56915b844c34a98815464ea08c918829917c2a631c4b148f8c286d1"
+    }
+   ]
+  }
+ ]
+}

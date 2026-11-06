@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/tomsani/2022",
+"acts": [
+{
+"slug": "hcl-valcea--tomsani-66-2022",
+"path": "local/valcea/tomsani/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 66/2022 Privitor la : modificarea și completarea programului anual de achiziții publice al comunei Tomșani, pentru anul 2022",
+"short": "HCL Tomșani nr. 66/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-09-29",
+"latest": "2022-09-29",
+"portal": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#29821",
+"council": "valcea/tomsani",
+"council_name": "Consiliul Local al Comunei Tomșani",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--tomsani-89-2022",
+"path": "local/valcea/tomsani/2022/89",
+"kind": "local",
+"year": "2022",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tomșani nr. 89/2022 Cu privire la aprobarea cuantumului și numărului burselor școlare pentru elevii Școlii Gimnaziale Tomșani, județul Vâlcea, pentru anul școlar 2022-2023",
+"short": "HCL Tomșani nr. 89/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-27",
+"latest": "2022-12-27",
+"portal": "https://tomsanivl.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/28815#38905",
+"council": "valcea/tomsani",
+"council_name": "Consiliul Local al Comunei Tomșani",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

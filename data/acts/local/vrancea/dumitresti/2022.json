@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/vrancea/dumitresti/2022",
+"acts": [
+{
+"slug": "hcl-vrancea--dumitresti-15-2022",
+"path": "local/vrancea/dumitresti/2022/15",
+"kind": "local",
+"year": "2022",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 15/2022 privind aprobarea actualizării indicatorilor tehnico - economici și a devizului general actualizat pentru proiectul de investiții < REABILITARE ENERGETICĂ CLĂDIRE ADMINSITRATIVĂ, COMUNA DUMITRESTI, JUDEȚUL VRANCEA > în cadrul Programului Operaţional Regional (POR) 2014-2020, Apelul de proiecte POR/2020/3/3.1/B/2/NE,SE,SM, -Axa prioritară: 3 - Sprijinirea tranziției către o economie cu emisii scăzute de carbon , Prioritatea de investiții: 3.1 Operatiunea: B - Clădiri public",
+"short": "HCL Dumitrești nr. 15/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-03-30",
+"latest": "2022-03-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#24891",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-29-2022",
+"path": "local/vrancea/dumitresti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 29/2022 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2022",
+"short": "HCL Dumitrești nr. 29/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-29",
+"latest": "2022-07-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#30540",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-44-2022",
+"path": "local/vrancea/dumitresti/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 44/2022",
+"short": "HCL Dumitrești nr. 44/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-10-12",
+"latest": "2022-10-12",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-57-2022",
+"path": "local/vrancea/dumitresti/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 57/2022 privind validarea Dispoziției primarului nr.445 din 22.12.2022, cu privire la modificarea bugetului de venituri și cheltuieli al comunei Dumitresti judetul Vrancea pe trimestrul IV al anului 2022",
+"short": "HCL Dumitrești nr. 57/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#37941",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-58-2022",
+"path": "local/vrancea/dumitresti/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 58/2022 privind participarea la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public , aprobarea Devizului General și a indicatorilor tehnico - economici ai obiectivului de investiții „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI LA SISTEMUL DE ILUMINAT PUBLIC DIN COMUNA DUMITRESTI, JUDETUL VRANCEA",
+"short": "HCL Dumitrești nr. 58/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-28",
+"latest": "2022-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#37942",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

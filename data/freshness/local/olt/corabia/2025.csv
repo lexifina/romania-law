@@ -1,4 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-olt--corabia-12-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/194609
+hcl-olt--corabia-33-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/204535
+hcl-olt--corabia-58-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/223037
 hcl-olt--corabia-68-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/227483
 hcl-olt--corabia-87-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/237381
 hcl-olt--corabia-92-2025,current,2026-11-05,2026-12-05,register-read,,,,https://emol.ro/corabia-ot/registru-hcl/243909

@@ -3,6 +3,21 @@
  "shard": "local/arges/poiana-lacului/2026",
  "acts": [
   {
+   "slug": "hcl-arges--poiana-lacului-15-2026",
+   "path": "local/arges/poiana-lacului/2026/15",
+   "short": "HCL Poiana Lacului nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 15/2026",
+   "url": "https://poianalacului.ro/wp-content/uploads/2026/06/Bugetul-general-2026_aprobat-cnf.HCL-nr.15_14.05.2026-1.pdf",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/06/Bugetul-general-2026_aprobat-cnf.HCL-nr.15_14.05.2026-1.pdf",
+     "sha256": "841ea6a9650cd7a75c2eb1c0b0f3507c22de0395345db4fab46fed1bb6f86514"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--poiana-lacului-21-2026",
    "path": "local/arges/poiana-lacului/2026/21",
    "short": "HCL Poiana Lacului nr. 21/2026",
@@ -14,6 +29,21 @@
      "units": 1,
      "source_url": "https://poianalacului.ro/wp-content/uploads/2026/10/Buget-2026_rectificat-cnf-HCL-nr.21_18.06.2026.pdf",
      "sha256": "fdd2fc7c0602c2b2917df9f007259a18b974fcf84ad96089984a4fccdd0f49ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--poiana-lacului-4-2026",
+   "path": "local/arges/poiana-lacului/2026/4",
+   "short": "HCL Poiana Lacului nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 4/2026 privind alegerea președintelui de ședință al Consiliului Local Poiana Lacului pentru lunile februarie--aprilie 2026 Având în vedere temeiurile juridice, respectiv prevederile: a) art.15 alin. 2, art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 7 alin. (2) din Legea nr. 287/2009 privind Codul civil, republicat, cu modificările și completările ulter",
+   "url": "https://poianalacului.ro/hotarari-ale-consiliului-local-2026/",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://poianalacului.ro/wp-content/uploads/2026/04/HCL-nr.-4-din-27.02.2026-alegere-presedinte-de-sedinta-feb-apr-2026.pdf",
+     "sha256": "714e6e89e84d6649bab212f81359a58f83026aa564a13e8ae750c579e43cfc7e"
     }
    ]
   }

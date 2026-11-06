@@ -3,6 +3,171 @@
  "shard": "local/arad/ignesti/2026",
  "acts": [
   {
+   "slug": "hcl-arad--ignesti-1-2026",
+   "path": "local/arad/ignesti/2026/1",
+   "short": "HCL Ignești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 1/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 30.01.2026 HCL 1",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-1.pdf",
+     "sha256": "c52168d8407e298e1e31c0452e6d3fa7cd94afe08e3ca6c99cc101dd4854e135"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-11-2026",
+   "path": "local/arad/ignesti/2026/11",
+   "short": "HCL Ignești nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 11/2026 Privind înscrierea provizorie unor bunuri imobile, actualizarea de date a unor imobile aparținând domeniului public al comunei Ignești, județul Arad HCL 11",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-11.pdf",
+     "sha256": "376e1ad78febca8743c94b946d886725c460b825456e58d6d44aa6c8dc8f9314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-12-2026",
+   "path": "local/arad/ignesti/2026/12",
+   "short": "HCL Ignești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 12/2026 Privind alegerea preşedintelui de şedinţă HCL 12",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-12.pdf",
+     "sha256": "afb0a8c54ce6ae63d600c3b706cb1e8b310325005f8f124545a4d5379fe03469"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-13-2026",
+   "path": "local/arad/ignesti/2026/13",
+   "short": "HCL Ignești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 13/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 30.03.2026 HCL 13",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-13.pdf",
+     "sha256": "71f58d4b14dd1efebb46dc720f82a7975270f35360d34ccea8274ae88c0fb503"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-14-2026",
+   "path": "local/arad/ignesti/2026/14",
+   "short": "HCL Ignești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 14/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 13.02.2026 HCL 14",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-14.pdf",
+     "sha256": "53653ad2c2383bd9683466a6a178a83d1c0c766fa9dc82dcd1447d16d84b6754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-16-2026",
+   "path": "local/arad/ignesti/2026/16",
+   "short": "HCL Ignești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 16/2026 Privind aprobarea Planului de acțiune pe anul 2025 al serviciilor sociale administrate și finanțate din bugetul unității administrativ-teritorial comuna Ignești HCL 16",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-16.pdf",
+     "sha256": "8c0d0fcc73dead06244af8184e555940ab282ab60c33db4557fee85ce1bb353b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-17-2026",
+   "path": "local/arad/ignesti/2026/17",
+   "short": "HCL Ignești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 17/2026 Privind aprobarea atribuirii directe spre folosinta a pajiştilor comunale excedentarea anului 2025 în suprafaţă de 165,8 ha aparţinând comunei Ignești, județul Arad HCL 17",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-17.pdf",
+     "sha256": "8f4864576430c13cd7c04b5ac6dd46f4996d7e1a0933b367df04950d649dfe1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-18-2026",
+   "path": "local/arad/ignesti/2026/18",
+   "short": "HCL Ignești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 18/2026 Privind reorganizarea Serviciului Voluntar pentru Situații de Urgență din Comuna Ignești de tip V1 și aprobarea Regulamentului de organizare și funcționare al serviciului voluntar pentru situații de urgență al Comunei Ignești HCL 18",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-18.pdf",
+     "sha256": "07186dd37b37d7a810a7a8cda1497ba3713a4b2d047b4e3e372c3f7f71841a2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-19-2026",
+   "path": "local/arad/ignesti/2026/19",
+   "short": "HCL Ignești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 19/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 09.04.2026 HCL 19",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-19.pdf",
+     "sha256": "393a55ff9acac038aca00341b92ad71e86f5b3e19de006c36eb6ab3b6f54f1b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-2-2026",
+   "path": "local/arad/ignesti/2026/2",
+   "short": "HCL Ignești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 2/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 29.12.2025 HCL 2",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-2.pdf",
+     "sha256": "cd9ffeec9cb8902899b7114d407cac0e170d1b29a0cfd4e699d11f4611e23a0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-20-2026",
+   "path": "local/arad/ignesti/2026/20",
+   "short": "HCL Ignești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 20/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 30.03.2026 HCL 20",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-20.pdf",
+     "sha256": "02475e58da613bedbd76116fb7eeef16644c0ad6752c84dfabff32947a230979"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-22-2026",
    "path": "local/arad/ignesti/2026/22",
    "short": "HCL Ignești nr. 22/2026",
@@ -14,6 +179,81 @@
      "units": 1,
      "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-22.pdf",
      "sha256": "3c4f0223d2951213fe7582976418222eb90bfa124b61147b0679121e5a2c80fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-24-2026",
+   "path": "local/arad/ignesti/2026/24",
+   "short": "HCL Ignești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 24/2026 Privind aprobarea planului de achiziții publice directe pentru anul 2026 HCL 24 PROGRAM AL ACHIZIȚIILOR DIRECTE 2026",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/04/HCL-24.pdf",
+     "sha256": "a28a2a3a35f327ec6049ded4c246fb7ea4494ea14b6521618bb85650a84f7094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-25-2026",
+   "path": "local/arad/ignesti/2026/25",
+   "short": "HCL Ignești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 25/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 06.05.2026 HCL 25",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-25.pdf",
+     "sha256": "41f296deb9b156cdf4416bfe206560fdbf38b612904d6b796a057b77a1e397f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-26-2026",
+   "path": "local/arad/ignesti/2026/26",
+   "short": "HCL Ignești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 26/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 09.04.2026 HCL 26",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-26.pdf",
+     "sha256": "4298fa8bccbf0abfa9d522df8bd02bc402d982061cfdfe71b56eb61e0fe1c388"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-27-2026",
+   "path": "local/arad/ignesti/2026/27",
+   "short": "HCL Ignești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 27/2026 Privind aprobarea bugetului local pentru anul 2026 HCL 27",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-27.pdf",
+     "sha256": "a77919580bb76923877d88224cde4aff0d20009478f1655633e5d407d640488e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-28-2026",
+   "path": "local/arad/ignesti/2026/28",
+   "short": "HCL Ignești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 28/2026 Privind transferul de disponibilități între sursele de finanțare ale bugetului local HCL 28",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-28.pdf",
+     "sha256": "93d62410b46d65c9ce3ed1001b5e6d7f1185face6106976c2c69a95cdd79da68"
     }
    ]
   },
@@ -33,6 +273,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--ignesti-3-2026",
+   "path": "local/arad/ignesti/2026/3",
+   "short": "HCL Ignești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 3/2026 Privind aprobarea contului de execuție a bugetului local al comunei Ignești la data de 31.12.2025 HCL 3",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-3.pdf",
+     "sha256": "3b07e22d2ce11ee68f7fed623829bd06858912523c8f5e0642f78c10a615b7e9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--ignesti-30-2026",
    "path": "local/arad/ignesti/2026/30",
    "short": "HCL Ignești nr. 30/2026",
@@ -44,6 +299,411 @@
      "units": 1,
      "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-30.pdf",
      "sha256": "568afb60b8aa7bfc0d67ca5c8073c233b27992f657d41d55e46923316d04654c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-31-2026",
+   "path": "local/arad/ignesti/2026/31",
+   "short": "HCL Ignești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 31/2026",
+   "url": null,
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/05/HCL-31.pdf",
+     "sha256": "2fda939b169dc643954573cead77dc168f7ec5998acc5950d1cada28f5f79342"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-32-2026",
+   "path": "local/arad/ignesti/2026/32",
+   "short": "HCL Ignești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 32/2026 Privind alegerea preşedintelui de şedinţă HCL 32",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-32.pdf",
+     "sha256": "4041671a13a249b2ef5c8ad1603805bc154221a8ddd80f3e048dfcd103e1dbef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-33-2026",
+   "path": "local/arad/ignesti/2026/33",
+   "short": "HCL Ignești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 33/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 28.07.2026 HCL 33",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-33.pdf",
+     "sha256": "b38576f75980f3cdb79513f2a9700fc8c1597efa71b76bbf81c7fbde665d9b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-34-2026",
+   "path": "local/arad/ignesti/2026/34",
+   "short": "HCL Ignești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 34/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 06.05.2026 HCL 34",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-34.pdf",
+     "sha256": "e69eb9cbd497ea17dc7e9cd97d14615a1290ef46d0c09df97cf3ff9e88106313"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-35-2026",
+   "path": "local/arad/ignesti/2026/35",
+   "short": "HCL Ignești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 35/2026 Privind rectificarea bugetului local pe anul 2026 HCL 35",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-35.pdf",
+     "sha256": "9a689bf1d926566a6ed75f754a17c1391460ce508168921f3f9bca8a1cb4d8e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-36-2026",
+   "path": "local/arad/ignesti/2026/36",
+   "short": "HCL Ignești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 36/2026 Privind aprobarea contului de execuție a bugetului local al comunei Ignești la data de 30.06.2026. HCL 36",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-36.pdf",
+     "sha256": "9aec2f808e284a1d9feffbe40a8ede6e09fc30f4008fbe01575cea3b41e2e624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-37-2026",
+   "path": "local/arad/ignesti/2026/37",
+   "short": "HCL Ignești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 37/2026 Privind aprobarea cotizației comunei Ignești, județul Arad, aferenta Asociației Grupul de Acțiune Locală ,, Codru Moma” pe anul 2026 HCL 37",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-37.pdf",
+     "sha256": "c87168d57f02a215fea954f3129a792a34def73581a3c4f1eda83e5db1cd4478"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-38-2026",
+   "path": "local/arad/ignesti/2026/38",
+   "short": "HCL Ignești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 38/2026 Privind aderarea la Asociația de Dezvoltare Intercomunitară de Transport Public Arad HCL 38",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-38.pdf",
+     "sha256": "3caf1194fde483d551620ecc7d3e235025a5182ad6be94518302e783803874ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-39-2026",
+   "path": "local/arad/ignesti/2026/39",
+   "short": "HCL Ignești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 39/2026 Privind aprobarea integrării în Sistemul de Management Integrat al Deșeurilor Solide din Județul Arad a infrastructurii de colectare a deșeurilor (insule ecologice), proprietate publică a Municipiului Arad, și mandatarea reprezentantului în Adunarea Generală a ADISIGD HCL 39",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-39.pdf",
+     "sha256": "cda26ce1e513252cb8a3db3e499dc6d1639fe0054a30e79029d1a6a54408582a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-4-2026",
+   "path": "local/arad/ignesti/2026/4",
+   "short": "HCL Ignești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 4/2026 Privind aprobarea deficitului aferent secțiunii de dezvoltare a bugetului local pe anul 2025 cu suma de 620.852,91 lei, precum și aprobarea acoperirii golurilor de casă din excedentul bugetului local în sumă de 200.000 lei. HCL 4",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-4-1.pdf",
+     "sha256": "d9c449bf238cb7d4955d7d308aa3c63a0a08bee988f87d9ff2bd76a1315ddc5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-40-2026",
+   "path": "local/arad/ignesti/2026/40",
+   "short": "HCL Ignești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 40/2026 Privind aprobarea/avizarea documentelor necesare demarării procedurii de negociere fără publicarea unui anunț de participare pentru atribuirea contractului de delegare a gestiunii unor activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şiinstitu",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-07-28",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/07/HCL-40.pdf",
+     "sha256": "2ced00460e36c2a15dd9fa1884e59073d2649dc08930ed8ae1343a62f7041fb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-41-2026",
+   "path": "local/arad/ignesti/2026/41",
+   "short": "HCL Ignești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 41/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 29.09.2026 HCL 41",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-41.pdf",
+     "sha256": "e647db45a6c98ea8bd241ef7b0882791b309e506fee1d367991a5b1a03a6b528"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-42-2026",
+   "path": "local/arad/ignesti/2026/42",
+   "short": "HCL Ignești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 42/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 28.07.2026 HCL 42",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-42.pdf",
+     "sha256": "185d0efe22926cbf75e0f7299827fc105f14cffa4e76bcbade5e9938b29d808a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-43-2026",
+   "path": "local/arad/ignesti/2026/43",
+   "short": "HCL Ignești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 43/2026 Privind rectificarea bugetului local pe anul 2026 HCL 43",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-43.pdf",
+     "sha256": "fa2393e20b30cad20c9ec900d3de88b318c87ca782ba54d4141d48c15d59ec02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-44-2026",
+   "path": "local/arad/ignesti/2026/44",
+   "short": "HCL Ignești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 44/2026 Privind desemnarea reprezentantului Consiliului Local al comunei Ignești, județul Arad, în Consiliul de Administrație al Școlii primare Susani, în anul școlar 2026-2027 HCL 44",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-44.pdf",
+     "sha256": "8cc73c8b02784d02ce96772f549bfe68f342e772518b84549e7085bc5f4a12ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-45-2026",
+   "path": "local/arad/ignesti/2026/45",
+   "short": "HCL Ignești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 45/2026 Privind desemnarea reprezentantului Consiliului Local al comunei Ignești, județul Arad, pentru a face parte din comisia de evaluare a probei de interviu pentru Școala Primără Susani HCL 45",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-45.pdf",
+     "sha256": "6f18fea877501c79ca1edeb333ca7e8f60f98e61f7fee02d5d6d6e377d9eb314"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-46-2026",
+   "path": "local/arad/ignesti/2026/46",
+   "short": "HCL Ignești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 46/2026 Privind aprobarea încheierii și semnării Contractului de delegare prin concesiune a gestiunii activități componente ale serviciului de salubrizare, respectiv colectarea separată şi transportul separat al deşeurilor menajere şi al deşeurilor similare provenind din activităţi comerciale din industrie şi instituţii, inclusiv fracţii colectate separat din județul Arad, zonele 2, 3 și 4 ca urmare a pro",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-46.pdf",
+     "sha256": "b9c43dbb7d971b1ac860499e6d6dc26000f2ab7921a53a0845c847f2e2f83992"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-47-2026",
+   "path": "local/arad/ignesti/2026/47",
+   "short": "HCL Ignești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 47/2026 Privind aprobarea apartamentării imobilului situat în loc. Ignești, județul Arad, înscris în CF nr.300150-C1 Ignești HCL 47",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-47.pdf",
+     "sha256": "df5b4ea5e3712f939c6faa66706132febd3a76f8a6ef372cacd64ecccbcb710d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-48-2026",
+   "path": "local/arad/ignesti/2026/48",
+   "short": "HCL Ignești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 48/2026 Privind acordarea unui mandat special reprezentantului Comunei Ignești în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară de Transport Public Arad pentru aprobarea cotizației pe anul 2026 către Asociația de Dezvoltare Intercomunitară de Transport Public Arad HCL 48",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-48.pdf",
+     "sha256": "49737d4752ea569723a770373cb52e6a5984d2383eadacb3cd1f2c423df07094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-49-2026",
+   "path": "local/arad/ignesti/2026/49",
+   "short": "HCL Ignești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 49/2026 Privind mandatarea Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea atribuirii gestiunii serviciului de transport public local de persoane, pe raza administrativ-teritorială a Asociației de Dezvoltare Intercomunitară de Transport Public Arad HCL 49",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-49.pdf",
+     "sha256": "efaa05960ca072ffee0349cb0f8f37c8b7946ea47e76bf0cd1a35a09fa53c1b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-5-2026",
+   "path": "local/arad/ignesti/2026/5",
+   "short": "HCL Ignești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 5/2026 Privind aprobarea cotizației Consiliului local Ignești aferenta Asociației de Dezvoltare Intercomunitară Sistem integrat de Gestionare a Deșeurilor-jud. Arad, pe anul 2026 HCL 5",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-01-30",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-5.pdf",
+     "sha256": "f359ae8358b57114c578f7dc4e1ef1ca0f20dfba2a86587939f28f898b299114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-50-2026",
+   "path": "local/arad/ignesti/2026/50",
+   "short": "HCL Ignești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 50/2026 Privind avizarea Caietului de sarcini și Regulamentului serviciului public de transport persoane în cadrul Asociației de Dezvoltare Intercomunitară de Transport Public Arad, aprobării și modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 1990/31.12.2025 HCL 50",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/10/HCL-50.pdf",
+     "sha256": "081954d955d3c531dfded34e12c1ac6fe77b5791ef5fce766a22fe2be34d3b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-51-2026",
+   "path": "local/arad/ignesti/2026/51",
+   "short": "HCL Ignești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 51/2026 Privind alegerea preşedintelui de şedinţă HCL 51",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-51.pdf",
+     "sha256": "9e9df7deb3cccb323d3d1b87174a9fb7541474116500600ca256208ec4d2eafb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-52-2026",
+   "path": "local/arad/ignesti/2026/52",
+   "short": "HCL Ignești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 52/2026 Privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Ignești din data de 29.10.2026 HCL 52",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-52.pdf",
+     "sha256": "02c40f5bb091ca5df3987958e10fd02b2e58d95bc9d8465b28ad63cbd5d69c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-53-2026",
+   "path": "local/arad/ignesti/2026/53",
+   "short": "HCL Ignești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 53/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 29.09.2026 HCL 53",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-53.pdf",
+     "sha256": "0f865c3d835dfe6ca6281f5b4d60209b4820eea6202bdeda9b29b82fc61d47cc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-54-2026",
+   "path": "local/arad/ignesti/2026/54",
+   "short": "HCL Ignești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 54/2026 Privind rectificarea bugetului local pe anul 2026 HCL 54",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-54.pdf",
+     "sha256": "9a9ac80d2d9a282b6da96d203d030dc6ad0c95c69e3bcfdb87b8c54833c28e23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-55-2026",
+   "path": "local/arad/ignesti/2026/55",
+   "short": "HCL Ignești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 55/2026 Privind aprobarea contului de execuție a bugetului local al comunei Ignești la data de 30.09.2026 HCL 55",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-55.pdf",
+     "sha256": "d72c26e32f2fbc8e720208d079438055e3eefb6ad56b14738fb6ef67356e1899"
     }
    ]
   },
@@ -89,6 +749,21 @@
      "units": 1,
      "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/11/HCL-60.pdf",
      "sha256": "b7bd70f51ac63ee9530d4c4748fe02b4b0fc756ad74139d63622fe0ab02e9246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--ignesti-8-2026",
+   "path": "local/arad/ignesti/2026/8",
+   "short": "HCL Ignești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Ignești nr. 8/2026 Privind aprobarea procesului verbal încheiat în ședința anterioară de lucru ale Consiliului Local Ignești din data de 30.01.2026 HCL 8",
+   "url": "https://primariaignesti.ro/monitorul-oficial-local/hotarari-c-l/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 1,
+     "source_url": "https://primariaignesti.ro/wp-content/uploads/2026/02/HCL-8.pdf",
+     "sha256": "6ea7c3fccdf67771428f42c342abeec1c8ef1d432d7f41e4e2e98f01c87e3626"
     }
    ]
   }

@@ -268,6 +268,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-103-2025",
+"path": "local/arad/socodor/2025/103",
+"kind": "local",
+"year": "2025",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 103/2025 privind acordarea unor ajutoare de urgență",
+"short": "HCL Socodor nr. 103/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/245053",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-104-2025",
 "path": "local/arad/socodor/2025/104",
 "kind": "local",
@@ -375,6 +397,50 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-109-2025",
+"path": "local/arad/socodor/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 109/2025 privind aprobarea documentaţiei tehnico-economice faza PT a proiectului „Sistematizare și utilități pentru Construcția de locuințe pentru tineri, destinate închirierii, Județul Arad, Comuna Socodor, Localitatea Socodor, Nr.66, Bloc 1",
+"short": "HCL Socodor nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/245059",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--socodor-110-2025",
+"path": "local/arad/socodor/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 110/2025 privind repoziționarea și modificarea unor suprafețe de teren, amplasate în intravilanul și extravilanul comunei Socodor, județul Arad",
+"short": "HCL Socodor nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-01-08",
+"latest": "2026-01-08",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/245060",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

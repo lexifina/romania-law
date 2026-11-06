@@ -3,6 +3,28 @@
 "shard": "local/arad/socodor/2021",
 "acts": [
 {
+"slug": "hcl-arad--socodor-128-2021",
+"path": "local/arad/socodor/2021/128",
+"kind": "local",
+"year": "2021",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 128/2021 privind desemnarea reprezentantului Consiliului Local Socodor care va face parte din comisia de evaluare a probei de interviu, pentru concursul de ocupare a funcției de director, în cadrul Școlii Gimnaziale „Iustin Marșieu” Socodor",
+"short": "HCL Socodor nr. 128/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-28",
+"latest": "2021-10-28",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/39455",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-129-2021",
 "path": "local/arad/socodor/2021/129",
 "kind": "local",
@@ -309,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-143-2021",
+"path": "local/arad/socodor/2021/143",
+"kind": "local",
+"year": "2021",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 143/2021 privind aprobarea planului de lucrări și acțiuni de interes local efectuate de beneficiarii de ajutor social, pentru anul 2022",
+"short": "HCL Socodor nr. 143/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/45957",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

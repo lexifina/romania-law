@@ -267,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-arad--sistarovat-44-2026",
+"path": "local/arad/sistarovat/2026/44",
+"kind": "local",
+"year": "2026",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șiștarovăț nr. 44/2026 privind desemnarea a 2 persoane in comisia de concurs pentru ocuparea functiei de director la Scoala Primara Sever Bocu din Sistarovat",
+"short": "HCL Șiștarovăț nr. 44/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-16",
+"latest": "2026-10-16",
+"portal": "https://emol.ro/sistarovat-ar/registru-hcl/289879",
+"council": "arad/sistarovat",
+"council_name": "Consiliul Local al Comunei Șiștarovăț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--sistarovat-45-2026",
 "path": "local/arad/sistarovat/2026/45",
 "kind": "local",

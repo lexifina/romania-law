@@ -48,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-74-2026",
+   "path": "local/arad/conop/2026/74",
+   "short": "HCL Conop nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 74/2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/290293",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/290293",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-75-2026",
+   "path": "local/arad/conop/2026/75",
+   "short": "HCL Conop nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 75/2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/290294",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/290294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-76-2026",
+   "path": "local/arad/conop/2026/76",
+   "short": "HCL Conop nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 76/2026 privind desemnarea reprezentantului Consiliului Local și a unui membru supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director din unitățile de învățământ preuniversitar de stat de pe raza comunei Conop, sesiunea august-decembrie 2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/290295",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/290295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-77-2026",
+   "path": "local/arad/conop/2026/77",
+   "short": "HCL Conop nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 77/2026 privind aprobarea prelungirii contractelor de închiriere nr. CR 2.172 SA din 27.07.2000 și CR 2.192 din 09.08.2000 pentru spațiile situate în comuna Conop, sat Chelmac și Milova, utilizate pentru amplasarea stațiilor de telefonie mobilă",
+   "url": "https://emol.ro/conop-ar/registru-hcl/290296",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/290296",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-78-2026",
    "path": "local/arad/conop/2026/78",
    "short": "HCL Conop nr. 78/2026",
@@ -58,6 +118,21 @@
      "from": "2026-10-01",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/290297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-79-2026",
+   "path": "local/arad/conop/2026/79",
+   "short": "HCL Conop nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 79/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/conop-ar/registru-hcl/296868",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/296868",
      "sha256": null
     }
    ]
@@ -103,6 +178,21 @@
      "from": "2026-10-30",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/296871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-83-2026",
+   "path": "local/arad/conop/2026/83",
+   "short": "HCL Conop nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 83/2026",
+   "url": "https://emol.ro/conop-ar/registru-hcl/296872",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/296872",
      "sha256": null
     }
    ]

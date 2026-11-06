@@ -3,6 +3,50 @@
 "shard": "local/arges/poiana-lacului/2026",
 "acts": [
 {
+"slug": "hcl-arges--poiana-lacului-4-2026",
+"path": "local/arges/poiana-lacului/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 4/2026 privind alegerea președintelui de ședință al Consiliului Local Poiana Lacului pentru lunile februarie--aprilie 2026 Având în vedere temeiurile juridice, respectiv prevederile: a) art.15 alin. 2, art. 120 alin. (1), art. 121 alin. (1) și alin. (2), din Constituția României, republicată; b) art. 7 alin. (2) din Legea nr. 287/2009 privind Codul civil, republicat, cu modificările și completările ulter",
+"short": "HCL Poiana Lacului nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-27",
+"latest": "2026-02-27",
+"portal": "https://poianalacului.ro/hotarari-ale-consiliului-local-2026/",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--poiana-lacului-15-2026",
+"path": "local/arges/poiana-lacului/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Poiana Lacului nr. 15/2026",
+"short": "HCL Poiana Lacului nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-14",
+"latest": "2026-05-14",
+"portal": "https://poianalacului.ro/wp-content/uploads/2026/06/Bugetul-general-2026_aprobat-cnf.HCL-nr.15_14.05.2026-1.pdf",
+"council": "arges/poiana-lacului",
+"council_name": "Consiliul Local al Comunei Poiana Lacului",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--poiana-lacului-21-2026",
 "path": "local/arges/poiana-lacului/2026/21",
 "kind": "local",

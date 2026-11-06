@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/valcea/ghioroiu/2022",
+ "acts": [
+  {
+   "slug": "hcl-valcea--ghioroiu-1-2022",
+   "path": "local/valcea/ghioroiu/2022/1",
+   "short": "HCL Ghioroiu nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 1/2022 Acoperirea definitiva a deficitului sectiunii de dezvoltare",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#13459",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#13459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-27-2022",
+   "path": "local/valcea/ghioroiu/2022/27",
+   "short": "HCL Ghioroiu nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 27/2022 cooperarea Consiliului Local al comunei Ghioroiu în vederea implementarii proiectului „Festival Cultural Dealul Muierii”",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#26261",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#26261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-4-2022",
+   "path": "local/valcea/ghioroiu/2022/4",
+   "short": "HCL Ghioroiu nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 4/2022 Alegere presedinte de sedinta",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#14712",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#14712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-valcea--ghioroiu-48-2022",
+   "path": "local/valcea/ghioroiu/2022/48",
+   "short": "HCL Ghioroiu nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 48/2022 rectificarea bugetului local si modificarea listei de investitii pe aul 2022",
+   "url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#36451",
+   "versions": [
+    {
+     "from": "2022-11-28",
+     "units": 1,
+     "source_url": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#36451",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

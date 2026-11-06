@@ -3,6 +3,28 @@
 "shard": "local/vrancea/gologanu/2023",
 "acts": [
 {
+"slug": "hcl-vrancea--gologanu-65-2023",
+"path": "local/vrancea/gologanu/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gologanu nr. 65/2023 Rectificarea bugetului local al comunei",
+"short": "HCL Gologanu nr. 65/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-18",
+"latest": "2023-12-18",
+"portal": "https://gologanu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4977#64320",
+"council": "vrancea/gologanu",
+"council_name": "Consiliul Local al Comunei Gologanu",
+"flags": {
+"text_pending": "review"
+}
+},
+{
 "slug": "hcl-vrancea--gologanu-66-2023",
 "path": "local/vrancea/gologanu/2023/66",
 "kind": "local",

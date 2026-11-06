@@ -3,6 +3,126 @@
  "shard": "local/arad/halmagiu/2022",
  "acts": [
   {
+   "slug": "hcl-arad--halmagiu-74-2022",
+   "path": "local/arad/halmagiu/2022/74",
+   "short": "HCL Hălmagiu nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 74/2022 privind aprobarea execuției bugetare la finele trimestrului III al anului 2022, pe cele două secțiuni, de funcționare, respectiv de dezvoltare, sursele A și E, conform anexelor nr. 1-8, care fac parte integrantă din prezenta",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99850",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-75-2022",
+   "path": "local/arad/halmagiu/2022/75",
+   "short": "HCL Hălmagiu nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 75/2022 privind aprobarea rectificării bugetului local general centralizat de venituri și cheltuieli al Comunei Hălmagiu, sursa A pe anul 2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99851",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-76-2022",
+   "path": "local/arad/halmagiu/2022/76",
+   "short": "HCL Hălmagiu nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 76/2022 privind însușirea și aprobarea rapoartelor de evaluare având ca obiect „Evaluare în vederea includerii în patrimoniul domeniului public a terenului cu vegetație forestieră-pădure în suprafața de 345,30 ha situat pe raza UAT Vârfurile, jud.Arad „și ”Evaluare spații în clădiri administrative în vederea închirierii situate în localitățile Hălmagiu, Leasa și Poienari„",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99852",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-77-2022",
+   "path": "local/arad/halmagiu/2022/77",
+   "short": "HCL Hălmagiu nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 77/2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99853",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-78-2022",
+   "path": "local/arad/halmagiu/2022/78",
+   "short": "HCL Hălmagiu nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 78/2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99854",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-79-2022",
+   "path": "local/arad/halmagiu/2022/79",
+   "short": "HCL Hălmagiu nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 79/2022 privind modificarea Statutului Asociației de Dezvoltare Intercomunitară Apă Canalizare Județul Arad, la care comuna Hălmagiu este membru asociat",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99855",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-80-2022",
+   "path": "local/arad/halmagiu/2022/80",
+   "short": "HCL Hălmagiu nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 80/2022 privind aprobarea ordinei de zi a ședinței ordinare a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 16.12.2022, convocată prin dispoziția primarului nr. 195/09.12.2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99883",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99883",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-81-2022",
+   "path": "local/arad/halmagiu/2022/81",
+   "short": "HCL Hălmagiu nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 81/2022 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 24.11.2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99884",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99884",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-82-2022",
    "path": "local/arad/halmagiu/2022/82",
    "short": "HCL Hălmagiu nr. 82/2022",
@@ -63,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagiu-86-2022",
+   "path": "local/arad/halmagiu/2022/86",
+   "short": "HCL Hălmagiu nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 86/2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99889",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99889",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-87-2022",
    "path": "local/arad/halmagiu/2022/87",
    "short": "HCL Hălmagiu nr. 87/2022",
@@ -88,6 +223,81 @@
      "from": "2023-04-11",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-89-2022",
+   "path": "local/arad/halmagiu/2022/89",
+   "short": "HCL Hălmagiu nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 89/2022 privind aprobarea rectificării bugetului local general centralizat de venituri și cheltuieli al Comunei Hălmagiu, sursa A pe anul 2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99892",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-90-2022",
+   "path": "local/arad/halmagiu/2022/90",
+   "short": "HCL Hălmagiu nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 90/2022 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr.18",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99893",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-91-2022",
+   "path": "local/arad/halmagiu/2022/91",
+   "short": "HCL Hălmagiu nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 91/2022 privind aprobarea ordinei de zi a ședinței extraordinare-de îndată a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 22.12.2022, convocată prin dispoziția primarului nr. 201/20.12.2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99894",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-92-2022",
+   "path": "local/arad/halmagiu/2022/92",
+   "short": "HCL Hălmagiu nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 92/2022 privind aprobarea procesului-verbal al ședinței Consiliului local Hălmagiu din 16.12.2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99895",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-93-2022",
+   "path": "local/arad/halmagiu/2022/93",
+   "short": "HCL Hălmagiu nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 93/2022 privind aprobarea rectificării bugetului local general centralizat de venturi și cheltuieli al Comunei Hălmagiu, sursa A pe anul 2022",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/99896",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/99896",
      "sha256": null
     }
    ]

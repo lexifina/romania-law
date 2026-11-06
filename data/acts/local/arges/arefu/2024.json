@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/arges/arefu/2024",
+"acts": [
+{
+"slug": "hcl-arges--arefu-9-2024",
+"path": "local/arges/arefu/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arefu nr. 9/2024 Privind stabilirea locatiilor_opt",
+"short": "HCL Arefu nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://primaria-arefu.ro/wp-content/uploads/2025/10/HCL-nr.9-din-12.12.2024-Privind-stabilirea-locatiilor_opt.pdf",
+"council": "arges/arefu",
+"council_name": "Consiliul Local al Comunei Arefu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--arefu-10-2024",
+"path": "local/arges/arefu/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Arefu nr. 10/2024 PRIVIND APROBAREA MASURILOR NECESARE ABANDONARII",
+"short": "HCL Arefu nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-12",
+"latest": "2024-12-12",
+"portal": "https://primaria-arefu.ro/wp-content/uploads/2025/10/HCL-nr.10-din-12.12.2024-PRIVIND-APROBAREA-MASURILOR-NECESARE-ABANDONARII.pdf",
+"council": "arges/arefu",
+"council_name": "Consiliul Local al Comunei Arefu",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

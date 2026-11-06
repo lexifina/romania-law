@@ -3,6 +3,50 @@
 "shard": "local/arad/semlac/2025",
 "acts": [
 {
+"slug": "hcl-arad--semlac-1-2025",
+"path": "local/arad/semlac/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Semlac nr. 1/2025 cu privire la alegerea președintelui de ședință pentru ședința de îndată din data de 10.01.2025",
+"short": "HCL Semlac nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/semlac-ar/registru-hcl/193253",
+"council": "arad/semlac",
+"council_name": "Consiliul Local al Comunei Semlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--semlac-2-2025",
+"path": "local/arad/semlac/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Semlac nr. 2/2025 Privind aprobarea ordinii de zi a ședinței de îndată din data de 10.01.2025",
+"short": "HCL Semlac nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-10",
+"latest": "2025-01-10",
+"portal": "https://emol.ro/semlac-ar/registru-hcl/193254",
+"council": "arad/semlac",
+"council_name": "Consiliul Local al Comunei Semlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--semlac-3-2025",
 "path": "local/arad/semlac/2025/3",
 "kind": "local",
@@ -22,6 +66,72 @@
 "council_name": "Consiliul Local al Comunei Semlac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--semlac-14-2025",
+"path": "local/arad/semlac/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Semlac nr. 14/2025 privind alegerea președintelui de ședință pentru ședința ordinară din data de 28.02.2025",
+"short": "HCL Semlac nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/semlac-ar/registru-hcl/230431",
+"council": "arad/semlac",
+"council_name": "Consiliul Local al Comunei Semlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--semlac-15-2025",
+"path": "local/arad/semlac/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Semlac nr. 15/2025 privind aprobarea procesului – verbal al ședinței ordinare din data de 29.01.2025",
+"short": "HCL Semlac nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/semlac-ar/registru-hcl/230432",
+"council": "arad/semlac",
+"council_name": "Consiliul Local al Comunei Semlac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--semlac-16-2025",
+"path": "local/arad/semlac/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Semlac nr. 16/2025 privind aprobarea ordinii de zi pentru ședința ordinară din data de 28.02.2025",
+"short": "HCL Semlac nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/semlac-ar/registru-hcl/230433",
+"council": "arad/semlac",
+"council_name": "Consiliul Local al Comunei Semlac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

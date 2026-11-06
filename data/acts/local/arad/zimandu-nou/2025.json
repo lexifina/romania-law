@@ -3,6 +3,50 @@
 "shard": "local/arad/zimandu-nou/2025",
 "acts": [
 {
+"slug": "hcl-arad--zimandu-nou-104-2025",
+"path": "local/arad/zimandu-nou/2025/104",
+"kind": "local",
+"year": "2025",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 104/2025 privind retragerea dreptului de folosință atribuit prin Decizia Consiliului Local al Comunei Zimandu nr. 22 din 13 martie 1979",
+"short": "HCL Zimandu Nou nr. 104/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/248960",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--zimandu-nou-105-2025",
+"path": "local/arad/zimandu-nou/2025/105",
+"kind": "local",
+"year": "2025",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 105/2025 privind atribuirea în baza Legii nr.15/2003, privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală, în comuna Zimandu Nou",
+"short": "HCL Zimandu Nou nr. 105/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/248961",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--zimandu-nou-106-2025",
 "path": "local/arad/zimandu-nou/2025/106",
 "kind": "local",
@@ -22,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Zimandu Nou",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--zimandu-nou-107-2025",
+"path": "local/arad/zimandu-nou/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 107/2025 privind aprobarea nivelurilor impozitelor si taxelor locale pe anul 2026",
+"short": "HCL Zimandu Nou nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-20",
+"latest": "2025-11-20",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/248963",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +289,50 @@
 }
 },
 {
+"slug": "hcl-arad--zimandu-nou-117-2025",
+"path": "local/arad/zimandu-nou/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 117/2025 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou",
+"short": "HCL Zimandu Nou nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/252551",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--zimandu-nou-118-2025",
+"path": "local/arad/zimandu-nou/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 118/2025 privind aprobarea vânzării prin licitație publică unor terenuri intravilane din proprietatea privată a comunei Zimandu Nou situate în zona industrială",
+"short": "HCL Zimandu Nou nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/252552",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--zimandu-nou-119-2025",
 "path": "local/arad/zimandu-nou/2025/119",
 "kind": "local",
@@ -242,6 +352,28 @@
 "council_name": "Consiliul Local al Comunei Zimandu Nou",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--zimandu-nou-120-2025",
+"path": "local/arad/zimandu-nou/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Zimandu Nou nr. 120/2025 privind aprobarea vânzării prin licitație publică a unui teren intravilan din proprietatea privată a comunei Zimandu Nou",
+"short": "HCL Zimandu Nou nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-18",
+"latest": "2025-12-18",
+"portal": "https://emol.ro/zimandunou-ar/registru-hcl/252554",
+"council": "arad/zimandu-nou",
+"council_name": "Consiliul Local al Comunei Zimandu Nou",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -16,6 +16,81 @@
      "sha256": "dd756253a43d423852c4026dacb4963dacc7935545ba018387cad34e39c730cd"
     }
    ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-43-2021",
+   "path": "local/arges/stalpeni/2021/43",
+   "short": "HCL Stâlpeni nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 43/2021",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2021/Hotarari-nr-43-din-07.06-2021-Numire-societate-apa-SC-TOT-SERV-STALPENI-SRL.pdf",
+     "sha256": "6bc2d6482167d88099c6a9fe579341bc3c0e54d08db1f5191ae9d1e94b6c965c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-45-2021",
+   "path": "local/arges/stalpeni/2021/45",
+   "short": "HCL Stâlpeni nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 45/2021",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+     "sha256": "7dfa7cc89c1d0f95da06f6faa0310a160da3082e4cc3a9d6a88d1d686f75181f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-84-2021",
+   "path": "local/arges/stalpeni/2021/84",
+   "short": "HCL Stâlpeni nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 84/2021",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2021/HCL-84-din-2021.pdf",
+     "sha256": "b450b3339152bf398a4f3a88f1de07d01cf5b4d8a2ca86767c3546c82df03b50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-86-2021",
+   "path": "local/arges/stalpeni/2021/86",
+   "short": "HCL Stâlpeni nr. 86/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 86/2021",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2021/HCL-86-din-2021.pdf",
+     "sha256": "35d8cf98fa7c520db2785d35b5874108eac566ffaab295063bbf19595a8a19c7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-9-2021",
+   "path": "local/arges/stalpeni/2021/9",
+   "short": "HCL Stâlpeni nr. 9/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 9/2021",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2021/Hotararea-nr-9-din-28.01.2021.pdf",
+     "sha256": "339ac3dca3f4c812e9ba8a30d291ca53cf4309dcfc0a9c0820b4dcb282d9d9a5"
+    }
+   ]
   }
  ]
 }

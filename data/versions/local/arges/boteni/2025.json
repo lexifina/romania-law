@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arges/boteni/2025",
+ "acts": [
+  {
+   "slug": "hcl-arges--boteni-19-2025",
+   "path": "local/arges/boteni/2025/19",
+   "short": "HCL Boteni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 19/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-19-16.07.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-07-16",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-19-16.07.2025.pdf",
+     "sha256": "5622860a0b3c77f0484b262781e9a8d2c73c5b557e5a5f303a7b157f7d5bf0ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-23-2025",
+   "path": "local/arges/boteni/2025/23",
+   "short": "HCL Boteni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 23/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025 Consiliul local al comunei Boteni, județul Argeș; Având in vedere: - Legea nr. 9/2025 a bugetului de stat pe anul 2025; - Legea nr. 273/2006, legea finanțelor publice locale, cu modificările și completările ulterioare; - referatul de aprobare nr. 3269/04.09.2025 privind rectificarea bugetului de venituri și cheltuieli pe a",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-23-18.09.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-23-18.09.2025.pdf",
+     "sha256": "5771918f3a7e53acc0983a8e2c69361b0581e9d607f59b8ce8504cadcaa40668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-32-2025",
+   "path": "local/arges/boteni/2025/32",
+   "short": "HCL Boteni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 32/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025 Consiliul Local al comunei Boteni, județul Argeș; Având în vedere: - Legea nr. 9/2025 a bugetului de stat pe anul 2025; - OUG nr. 50/2025 cu privire la rectificarea bugetului de stat pe anul 2025; - Legea nr. 273/2006, privind finanțele publice locale cu modificările și completările ulterioare, - Decizia nr. 14/07.10.2025",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-32-30.10.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-32-30.10.2025.pdf",
+     "sha256": "771e49a592d15157e2139c7c1dbb116d47d595b0cc7a3db9ec056f3c18ea3830"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--boteni-33-2025",
+   "path": "local/arges/boteni/2025/33",
+   "short": "HCL Boteni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Boteni nr. 33/2025 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2025 Consiliul local al comunei Boteni, județul Argeș; Având in vedere: - Legea nr. 273/2006, privind finanțele publice locale cu modificările și completările ulterioare; - Contractul de finanțare nr. 244/GES/19.03.2024 privind obiectivul de investiții „Realizare piste pentru biciclete în comuna Boteni, județul Argeș”, - refera",
+   "url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-33-08.12.2025.pdf",
+   "versions": [
+    {
+     "from": "2025-12-08",
+     "units": 1,
+     "source_url": "https://comunaboteni.ro/wp-content/uploads/HCL-NR.-33-08.12.2025.pdf",
+     "sha256": "d183193170e91ebcc7351b9f0c0bc44fa492d3dbfc94e6cb80371d69b1e05a48"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "local/arad/conop/2022",
  "acts": [
   {
+   "slug": "hcl-arad--conop-73-2022",
+   "path": "local/arad/conop/2022/73",
+   "short": "HCL Conop nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 73/2022 privind alegerea presedintelui de sedintă",
+   "url": "https://emol.ro/conop-ar/registru-hcl/81819",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/81819",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-74-2022",
    "path": "local/arad/conop/2022/74",
    "short": "HCL Conop nr. 74/2022",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--conop-77-2022",
+   "path": "local/arad/conop/2022/77",
+   "short": "HCL Conop nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 77/2022 privind stabilirea preţului de vânzare la licitație și modalitatea de valorificare a materialului lemnos care se exploatează din pădurea proprietate publică şi privată a comunei Conop",
+   "url": "https://emol.ro/conop-ar/registru-hcl/81823",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/81823",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--conop-78-2022",
    "path": "local/arad/conop/2022/78",
    "short": "HCL Conop nr. 78/2022",
@@ -88,6 +118,21 @@
      "from": "2022-12-08",
      "units": 1,
      "source_url": "https://emol.ro/conop-ar/registru-hcl/81826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--conop-81-2022",
+   "path": "local/arad/conop/2022/81",
+   "short": "HCL Conop nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Conop nr. 81/2022 privind alegerea presedintelui de sedintă",
+   "url": "https://emol.ro/conop-ar/registru-hcl/85149",
+   "versions": [
+    {
+     "from": "2023-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/conop-ar/registru-hcl/85149",
      "sha256": null
     }
    ]

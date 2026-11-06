@@ -69,6 +69,96 @@
 }
 },
 {
+"slug": "hcl-arad--conop-74-2026",
+"path": "local/arad/conop/2026/74",
+"kind": "local",
+"year": "2026",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 74/2026",
+"short": "HCL Conop nr. 74/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-29",
+"latest": "2026-09-29",
+"portal": "https://emol.ro/conop-ar/registru-hcl/290293",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-75-2026",
+"path": "local/arad/conop/2026/75",
+"kind": "local",
+"year": "2026",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 75/2026",
+"short": "HCL Conop nr. 75/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/conop-ar/registru-hcl/290294",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--conop-76-2026",
+"path": "local/arad/conop/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 76/2026 privind desemnarea reprezentantului Consiliului Local și a unui membru supleant în comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcțiilor vacante de director din unitățile de învățământ preuniversitar de stat de pe raza comunei Conop, sesiunea august-decembrie 2026",
+"short": "HCL Conop nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/conop-ar/registru-hcl/290295",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--conop-77-2026",
+"path": "local/arad/conop/2026/77",
+"kind": "local",
+"year": "2026",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 77/2026 privind aprobarea prelungirii contractelor de închiriere nr. CR 2.172 SA din 27.07.2000 și CR 2.192 din 09.08.2000 pentru spațiile situate în comuna Conop, sat Chelmac și Milova, utilizate pentru amplasarea stațiilor de telefonie mobilă",
+"short": "HCL Conop nr. 77/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-08",
+"latest": "2026-10-08",
+"portal": "https://emol.ro/conop-ar/registru-hcl/290296",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-78-2026",
 "path": "local/arad/conop/2026/78",
 "kind": "local",
@@ -88,6 +178,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-79-2026",
+"path": "local/arad/conop/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 79/2026 privind alegerea președintelui de ședință",
+"short": "HCL Conop nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/conop-ar/registru-hcl/296868",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -155,6 +267,29 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-83-2026",
+"path": "local/arad/conop/2026/83",
+"kind": "local",
+"year": "2026",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 83/2026",
+"short": "HCL Conop nr. 83/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/conop-ar/registru-hcl/296872",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

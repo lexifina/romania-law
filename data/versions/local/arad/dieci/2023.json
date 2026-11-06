@@ -3,6 +3,66 @@
  "shard": "local/arad/dieci/2023",
  "acts": [
   {
+   "slug": "hcl-arad--dieci-104-2023",
+   "path": "local/arad/dieci/2023/104",
+   "short": "HCL Dieci nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 104/2023 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 22.11.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129674",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-105-2023",
+   "path": "local/arad/dieci/2023/105",
+   "short": "HCL Dieci nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 105/2023 privind aprobarea procesului verbal a sedintei Consiliului local din data de 31.10.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129675",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-106-2023",
+   "path": "local/arad/dieci/2023/106",
+   "short": "HCL Dieci nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 106/2023 privind stabilirea salariilor de bază pentru funcţiilor publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Dieci, judeţul Arad, începând cu 1 ianuarie 2024",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129676",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-107-2023",
+   "path": "local/arad/dieci/2023/107",
+   "short": "HCL Dieci nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 107/2023 privind aprobarea executiei bugetului local al comunei Dieci pe trimestrul III al anului 2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/129677",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/129677",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--dieci-108-2023",
    "path": "local/arad/dieci/2023/108",
    "short": "HCL Dieci nr. 108/2023",
@@ -28,6 +88,51 @@
      "from": "2023-11-29",
      "units": 1,
      "source_url": "https://emol.ro/dieci-ar/registru-hcl/129679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-110-2023",
+   "path": "local/arad/dieci/2023/110",
+   "short": "HCL Dieci nr. 110/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 110/2023 privind alegerea preşedintelui de şedinta",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132142",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-111-2023",
+   "path": "local/arad/dieci/2023/111",
+   "short": "HCL Dieci nr. 111/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 111/2023 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 06.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132143",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-112-2023",
+   "path": "local/arad/dieci/2023/112",
+   "short": "HCL Dieci nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 112/2023 privind aprobarea procesului verbal a sedintei Consiliului local din data de 22.11.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132144",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132144",
      "sha256": null
     }
    ]
@@ -63,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--dieci-115-2023",
+   "path": "local/arad/dieci/2023/115",
+   "short": "HCL Dieci nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 115/2023 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 12.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132993",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-116-2023",
+   "path": "local/arad/dieci/2023/116",
+   "short": "HCL Dieci nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 116/2023 privind aprobarea procesului verbal a sedintei Consiliului local din data de 06.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/132994",
+   "versions": [
+    {
+     "from": "2024-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/132994",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--dieci-117-2023",
    "path": "local/arad/dieci/2023/117",
    "short": "HCL Dieci nr. 117/2023",
@@ -73,6 +208,36 @@
      "from": "2024-09-23",
      "units": 1,
      "source_url": "https://emol.ro/dieci-ar/registru-hcl/132995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-118-2023",
+   "path": "local/arad/dieci/2023/118",
+   "short": "HCL Dieci nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 118/2023 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 27.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135392",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-119-2023",
+   "path": "local/arad/dieci/2023/119",
+   "short": "HCL Dieci nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 119/2023 privind aprobarea procesului verbal a sedintei Consiliului local din data de 12.12.2023",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135393",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135393",
      "sha256": null
     }
    ]
@@ -118,6 +283,21 @@
      "from": "2024-01-17",
      "units": 1,
      "source_url": "https://emol.ro/dieci-ar/registru-hcl/135396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--dieci-123-2023",
+   "path": "local/arad/dieci/2023/123",
+   "short": "HCL Dieci nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dieci nr. 123/2023 privind stabilirea prețului pe unitatea de suprafață pentru parcelele din păşunea comunală care vor fi scoase la închiriere în anul 2024",
+   "url": "https://emol.ro/dieci-ar/registru-hcl/135397",
+   "versions": [
+    {
+     "from": "2024-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/dieci-ar/registru-hcl/135397",
      "sha256": null
     }
    ]

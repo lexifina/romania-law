@@ -3,6 +3,28 @@
 "shard": "local/arad/dieci/2025",
 "acts": [
 {
+"slug": "hcl-arad--dieci-65-2025",
+"path": "local/arad/dieci/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 65/2025 privind aprobarea procesului verbal a sedintei Consiliului local din data de 30.09.2025",
+"short": "HCL Dieci nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/234034",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--dieci-66-2025",
 "path": "local/arad/dieci/2025/66",
 "kind": "local",
@@ -48,6 +70,50 @@
 }
 },
 {
+"slug": "hcl-arad--dieci-68-2025",
+"path": "local/arad/dieci/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 68/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 31",
+"short": "HCL Dieci nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/234037",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-69-2025",
+"path": "local/arad/dieci/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 69/2025 privind destinare masa lemnoasă şi stabilire preţ pentru valorificarea masei lemnoase din pădurea comunală",
+"short": "HCL Dieci nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/234038",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--dieci-70-2025",
 "path": "local/arad/dieci/2025/70",
 "kind": "local",
@@ -67,6 +133,94 @@
 "council_name": "Consiliul Local al Comunei Dieci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--dieci-71-2025",
+"path": "local/arad/dieci/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 71/2025 privind aprobarea constituirii dreptului de acces cu titlu gratuit în favoarea SC INES GROUP SRL asupra domeniului public al Comunei Dieci, din satul Roșia în vederea realizării unui proiect de interes pentru locuitorii comunităților respective prin crearea unei infrastructuri de broadband",
+"short": "HCL Dieci nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/234040",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-72-2025",
+"path": "local/arad/dieci/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 72/2025 privind aprobare PLAN DE ACȚIUNE privind gestionarea câinilor fără stăpân pe raza administrativ-teritorială a comunei Dieci",
+"short": "HCL Dieci nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-14",
+"latest": "2025-11-14",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/234041",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-73-2025",
+"path": "local/arad/dieci/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 73/2025 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 11.12.2025",
+"short": "HCL Dieci nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/240128",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-74-2025",
+"path": "local/arad/dieci/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 74/2025 privind solicitarea către Consiliul Județean Arad de trecere din domeniul public al județului Arad în domeniul public al comunei Dieci a unui bun mobil-microbuz electric pentru elevi",
+"short": "HCL Dieci nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/240129",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -92,6 +246,72 @@
 }
 },
 {
+"slug": "hcl-arad--dieci-76-2025",
+"path": "local/arad/dieci/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 76/2025 privind aprobarea ORDINII DE ZI a şedinţei Consiliului local din data de 30.12.2025",
+"short": "HCL Dieci nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245213",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-77-2025",
+"path": "local/arad/dieci/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 77/2025 privind aprobarea procesului verbal a sedintei Consiliului local din data de 31.10.2025",
+"short": "HCL Dieci nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245214",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--dieci-78-2025",
+"path": "local/arad/dieci/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 78/2025 privind aprobarea procesului verbal a sedintei Consiliului local din data de 11.12.2025",
+"short": "HCL Dieci nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245215",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--dieci-79-2025",
 "path": "local/arad/dieci/2025/79",
 "kind": "local",
@@ -111,6 +331,28 @@
 "council_name": "Consiliul Local al Comunei Dieci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--dieci-80-2025",
+"path": "local/arad/dieci/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 80/2025 privind aprobarea executiei bugetului local al comunei Dieci pe trimestrul III al anului 2025",
+"short": "HCL Dieci nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245217",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -136,6 +378,28 @@
 }
 },
 {
+"slug": "hcl-arad--dieci-82-2025",
+"path": "local/arad/dieci/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 82/2025 privind stabilirea prețului pe unitatea de suprafață pentru parcelele din păşunea comunală care vor fi scoase la închiriere în anul 2026",
+"short": "HCL Dieci nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245219",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--dieci-83-2025",
 "path": "local/arad/dieci/2025/83",
 "kind": "local",
@@ -155,6 +419,28 @@
 "council_name": "Consiliul Local al Comunei Dieci",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--dieci-84-2025",
+"path": "local/arad/dieci/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dieci nr. 84/2025 privind modificarea Contractului de Delegare a Gestiunii Serviciului de alimentare cu apă și de canalizare prin Actul Adițional nr. 33",
+"short": "HCL Dieci nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-22",
+"latest": "2026-07-22",
+"portal": "https://emol.ro/dieci-ar/registru-hcl/245221",
+"council": "arad/dieci",
+"council_name": "Consiliul Local al Comunei Dieci",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

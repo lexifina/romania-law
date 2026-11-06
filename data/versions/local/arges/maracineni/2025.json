@@ -3,6 +3,36 @@
  "shard": "local/arges/maracineni/2025",
  "acts": [
   {
+   "slug": "hcl-arges--maracineni-150-2025",
+   "path": "local/arges/maracineni/2025/150",
+   "short": "HCL Mărăcineni nr. 150/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 150/2025 privind acordarea ”Diplomei de fidelitate” și premierea a două cupluri din comuna Mărăcineni, județul Argeș, care aniversează 50 de ani de casatorie neintreruptă",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/244288",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/244288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-151-2025",
+   "path": "local/arges/maracineni/2025/151",
+   "short": "HCL Mărăcineni nr. 151/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 151/2025",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/244289",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/244289",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-152-2025",
    "path": "local/arges/maracineni/2025/152",
    "short": "HCL Mărăcineni nr. 152/2025",
@@ -28,6 +58,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/244291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-154-2025",
+   "path": "local/arges/maracineni/2025/154",
+   "short": "HCL Mărăcineni nr. 154/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 154/2025 Privind elaborarea și întocmirea Bugetului local rectificat nr.8, al comunei Mărăcineni pe anul 2025",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/244292",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/244292",
      "sha256": null
     }
    ]
@@ -168,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--maracineni-164-2025",
+   "path": "local/arges/maracineni/2025/164",
+   "short": "HCL Mărăcineni nr. 164/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 164/2025 Privind elaborarea și întocmirea Bugetului local rectificat nr.9, al comunei Mărăcineni pe anul 2025",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/244452",
+   "versions": [
+    {
+     "from": "2025-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/244452",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--maracineni-165-2025",
    "path": "local/arges/maracineni/2025/165",
    "short": "HCL Mărăcineni nr. 165/2025",
@@ -193,6 +253,21 @@
      "from": "2026-02-24",
      "units": 1,
      "source_url": "https://emol.ro/maracineni-ag/registru-hcl/246306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--maracineni-167-2025",
+   "path": "local/arges/maracineni/2025/167",
+   "short": "HCL Mărăcineni nr. 167/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 167/2025",
+   "url": "https://emol.ro/maracineni-ag/registru-hcl/246307",
+   "versions": [
+    {
+     "from": "2026-02-24",
+     "units": 1,
+     "source_url": "https://emol.ro/maracineni-ag/registru-hcl/246307",
      "sha256": null
     }
    ]

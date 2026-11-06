@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/arges/babana/2015",
+"acts": [
+{
+"slug": "hcl-arges--babana-7-2015",
+"path": "local/arges/babana/2015/7",
+"kind": "local",
+"year": "2015",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 7/2015 pentru infiintare si functionare ONG",
+"short": "HCL Băbana nr. 7/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-01-30",
+"latest": "2015-01-30",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-21-2015",
+"path": "local/arges/babana/2015/21",
+"kind": "local",
+"year": "2015",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 21/2015 Privind rezilierea contractului de delegare a gestiunii serviciului public de alimentare cu apa si de canalizare nr. 540/05.02.2009 /S7g/OS.OZ.2OO1 intre Comuna Babana prin Consiliul Local si S.C Apa Arges ( A.E.p.S.U.p) Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 25.03.201,5",
+"short": "HCL Băbana nr. 21/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-25",
+"latest": "2015-03-25",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-22-2015",
+"path": "local/arges/babana/2015/22",
+"kind": "local",
+"year": "2015",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 22/2015 privind scoaterea la licitatie c suprafetei de 70 mp din donreniul public apartinand consiliului Local Babana in vederea concesioanarii Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 25.03.2015",
+"short": "HCL Băbana nr. 22/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-03-25",
+"latest": "2015-03-25",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-63-2015",
+"path": "local/arges/babana/2015/63",
+"kind": "local",
+"year": "2015",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 63/2015 Privind microciparea cainilor cu stapan",
+"short": "HCL Băbana nr. 63/2015",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2015-10-29",
+"latest": "2015-10-29",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

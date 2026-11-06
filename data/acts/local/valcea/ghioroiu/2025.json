@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/ghioroiu/2025",
+"acts": [
+{
+"slug": "hcl-valcea--ghioroiu-19-2025",
+"path": "local/valcea/ghioroiu/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 19/2025 aprobarea contului de executie a bugetului local pe trimestrul I al anului 2025",
+"short": "HCL Ghioroiu nr. 19/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-30",
+"latest": "2025-04-30",
+"portal": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#98527",
+"council": "valcea/ghioroiu",
+"council_name": "Consiliul Local al Comunei Ghioroiu",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--ghioroiu-51-2025",
+"path": "local/valcea/ghioroiu/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ghioroiu nr. 51/2025 rectificarea bugetului local",
+"short": "HCL Ghioroiu nr. 51/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-11-28",
+"latest": "2025-11-28",
+"portal": "https://ghioroiu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6439#110456",
+"council": "valcea/ghioroiu",
+"council_name": "Consiliul Local al Comunei Ghioroiu",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

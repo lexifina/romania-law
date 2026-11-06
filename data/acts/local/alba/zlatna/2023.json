@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/zlatna/2023",
+"acts": [
+{
+"slug": "hcl-alba--zlatna-2379-2023",
+"path": "local/alba/zlatna/2023/2379",
+"kind": "local",
+"year": "2023",
+"number": "2379",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Zlatna nr. 2379/2023",
+"short": "HCL Zlatna nr. 2379/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-06",
+"latest": "2023-02-06",
+"portal": "https://primaria-zlatna.ro/primarie/interes-public-1/registrul-agricol/",
+"council": "alba/zlatna",
+"council_name": "Consiliul Local al Orașului Zlatna",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

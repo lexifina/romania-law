@@ -363,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--apateu-31-2021",
+   "path": "local/arad/apateu/2021/31",
+   "short": "HCL Apateu nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 31/2021",
+   "url": null,
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--apateu-35-2021",
    "path": "local/arad/apateu/2021/35",
    "short": "HCL Apateu nr. 35/2021",
@@ -718,6 +733,21 @@
      "from": "2021-06-24",
      "units": 1,
      "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-59-2021",
+   "path": "local/arad/apateu/2021/59",
+   "short": "HCL Apateu nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 59/2021 modificarea HCL nr.52/2021 privind vanzarea imobilului înscris în C.F 306405",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8400",
+   "versions": [
+    {
+     "from": "2021-06-24",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8400",
      "sha256": null
     }
    ]
@@ -1273,6 +1303,21 @@
      "from": "2021-10-29",
      "units": 1,
      "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-95-2021",
+   "path": "local/arad/apateu/2021/95",
+   "short": "HCL Apateu nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 95/2021 desemnare reprezentantului CLA în comisia de evaluare a probei de interviu pentru ocuparea funcției de director din unitățile de invățământ preuniversitar de stat",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8528",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#8528",
      "sha256": null
     }
    ]

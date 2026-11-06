@@ -1,0 +1,726 @@
+{
+ "country": "RO",
+ "shard": "local/arad/craiva/2019",
+ "acts": [
+  {
+   "slug": "hcl-arad--craiva-1-2019",
+   "path": "local/arad/craiva/2019/1",
+   "short": "HCL Craiva nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 1/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-1-din-31.01.2019.pdf",
+     "sha256": "a0b514b8796dff3812203c8ae42ab7d928e494e6584bbeb9c2f2e146e0f67cbe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-10-2019",
+   "path": "local/arad/craiva/2019/10",
+   "short": "HCL Craiva nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 10/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-10-din-12.02.2019.pdf",
+     "sha256": "bae33c218f7dc81acb74df56b4fdd7bb29471d2b50aedc87816e64dc40baa3be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-11-2019",
+   "path": "local/arad/craiva/2019/11",
+   "short": "HCL Craiva nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 11/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-11-din-12.02.2019.pdf",
+     "sha256": "ffd5e1893b77909b29771d4ddacdf5feafd1275303c239b1b9e3f130f49c4497"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-12-2019",
+   "path": "local/arad/craiva/2019/12",
+   "short": "HCL Craiva nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 12/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-12-din-21.02.2019.pdf",
+     "sha256": "dc194f371bfbf8611d691bac2b1f9eb33d4a341bcc16da72d10530ea6fc7b161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-13-2019",
+   "path": "local/arad/craiva/2019/13",
+   "short": "HCL Craiva nr. 13/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 13/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-13-din-21.02.2019.pdf",
+     "sha256": "6353e11b2876f49941d2ef3c4a9e6fe907b75449f2ac378b7195b0d196af7702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-14-2019",
+   "path": "local/arad/craiva/2019/14",
+   "short": "HCL Craiva nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 14/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-14-din-21.03.2019.pdf",
+     "sha256": "a3f506a02a119d29d6be840098c9e9982cba4e60f95fdf009ac664332baefad6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-15-2019",
+   "path": "local/arad/craiva/2019/15",
+   "short": "HCL Craiva nr. 15/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 15/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-15-din-21.03.2019.pdf",
+     "sha256": "575fdcf02431219da4ee2ca1bea5c81b1a7f49b491c93bf466ec9b558147c568"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-16-2019",
+   "path": "local/arad/craiva/2019/16",
+   "short": "HCL Craiva nr. 16/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 16/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-16-din-21.03.2019.pdf",
+     "sha256": "535aba5b1aa911c15d7dffaa4870510819d8d2885e0d5fabf72982190b97bb90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-17-2019",
+   "path": "local/arad/craiva/2019/17",
+   "short": "HCL Craiva nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 17/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-17-din-21.03.2019-2.pdf",
+     "sha256": "02ba1f6a1058faa0792f18aae2c437430d8340adea5a17aff0fe7b4278ebc49e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-18-2019",
+   "path": "local/arad/craiva/2019/18",
+   "short": "HCL Craiva nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 18/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-18-din-21.03.2019.pdf",
+     "sha256": "0508c45b331e27d7b0006fbbca69dc6b846dae92a471c50c79c4907d418d677d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-19-2019",
+   "path": "local/arad/craiva/2019/19",
+   "short": "HCL Craiva nr. 19/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 19/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-03-21",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-19-din-21.03.2019.pdf",
+     "sha256": "4b75cee2792a2d68bfdc6ca08c5a908571a86da5dc4cd86c885ec1a541100785"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-2-2019",
+   "path": "local/arad/craiva/2019/2",
+   "short": "HCL Craiva nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 2/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-2-din-31.01.2019.pdf",
+     "sha256": "268fd38e15e4a1874d6473674b013be32dc2d6ef6e5f8e420d82307790703ec7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-20-2019",
+   "path": "local/arad/craiva/2019/20",
+   "short": "HCL Craiva nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 20/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-20-din-05.04.2019.pdf",
+     "sha256": "3861ca3caf61e53a9fd2db1b1e209287d6489c68cec548caeae6f5de64bd89ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-21-2019",
+   "path": "local/arad/craiva/2019/21",
+   "short": "HCL Craiva nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 21/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-21-din-05.04.2019.pdf",
+     "sha256": "3a1620ddaf29ac205b52a5644155cd2ede6f97de21f2ad5a721dc122c47bec89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-22-2019",
+   "path": "local/arad/craiva/2019/22",
+   "short": "HCL Craiva nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 22/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-22-din-05.04.2019.pdf",
+     "sha256": "37c73d916792ea9850a3199d36f0facb683b96bd0fd8b9a9f6025f687e909598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-23-2019",
+   "path": "local/arad/craiva/2019/23",
+   "short": "HCL Craiva nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 23/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-05",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-23-din-05.04.2019.pdf",
+     "sha256": "5924f2d7fa2174700513b7768c085f7beb730b60057034c92d863a8783f68aae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-24-2019",
+   "path": "local/arad/craiva/2019/24",
+   "short": "HCL Craiva nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 24/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-24-din-25.04.2019.pdf",
+     "sha256": "eb1b065494d57b45237bd4993dbc8b1a35c629d20c087996b1a72fcc46f5d9ca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-25-2019",
+   "path": "local/arad/craiva/2019/25",
+   "short": "HCL Craiva nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 25/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-25-din-25.04.2019.pdf",
+     "sha256": "97e056b485fe7e3f480870783e945e241f44cc3a2d11f923efa35a37f3767183"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-26-2019",
+   "path": "local/arad/craiva/2019/26",
+   "short": "HCL Craiva nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 26/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-26-din-25.04.2019.pdf",
+     "sha256": "9e918f24a314c7d72b9164a5d1a344ed767ea88783c71c84f49833824f137624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-27-2019",
+   "path": "local/arad/craiva/2019/27",
+   "short": "HCL Craiva nr. 27/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 27/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-27-din-25.04.2019.pdf",
+     "sha256": "9fed7a97e798e3cb1a6466874b4f9fe1b22929bb0bbd52ca43f805294a7f1562"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-28-2019",
+   "path": "local/arad/craiva/2019/28",
+   "short": "HCL Craiva nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 28/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-04-25",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-28-din-25.04.2019.pdf",
+     "sha256": "1ec986e919c0eed2b89c148635f4609c1d69bc06ed7d4fae8ccf71953b44249c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-29-2019",
+   "path": "local/arad/craiva/2019/29",
+   "short": "HCL Craiva nr. 29/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 29/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-29-din-30.05.2019.pdf",
+     "sha256": "1f153a93aba094606fcd51d90f7017a19907bda1f26a12a6b170788614535df3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-3-2019",
+   "path": "local/arad/craiva/2019/3",
+   "short": "HCL Craiva nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 3/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-3-din-31.01.2019.pdf",
+     "sha256": "a2d58e03c2b6b83ee32a7fdb3c3f95a2d922b15184a8883e059f2605260d1862"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-30-2019",
+   "path": "local/arad/craiva/2019/30",
+   "short": "HCL Craiva nr. 30/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 30/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-30-din-30.05.2019.pdf",
+     "sha256": "d05b4e1754c1324e217584092ddd2ad2ee39116d46bc6fd9ca15b06f579fd32e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-31-2019",
+   "path": "local/arad/craiva/2019/31",
+   "short": "HCL Craiva nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 31/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-31-din-30.05.2019.pdf",
+     "sha256": "6b9dcc532dcd72adc99c362fe29b2755cb004798a49af6d3d5711050a1d95915"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-32-2019",
+   "path": "local/arad/craiva/2019/32",
+   "short": "HCL Craiva nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 32/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-32-din-30.05.2019.pdf",
+     "sha256": "e5b1c3af6b97ab43e32cb8dd9e2a0d4cbfe983161661f8765eccd4dc015b875d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-33-2019",
+   "path": "local/arad/craiva/2019/33",
+   "short": "HCL Craiva nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 33/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.33-din-9-iulie-201901082019.pdf",
+     "sha256": "1f02b0b5ebef9948b39f45f85960537bb883ecf44949a495684454b83459806c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-34-2019",
+   "path": "local/arad/craiva/2019/34",
+   "short": "HCL Craiva nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 34/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.34-din-9-iulie-201901082019.pdf",
+     "sha256": "37bc7a9916c5293af15fe3c533cc825e6128cef73865c0191ceb1afa18d3737a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-35-2019",
+   "path": "local/arad/craiva/2019/35",
+   "short": "HCL Craiva nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 35/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.35-din-9-iulie-201901082019.pdf",
+     "sha256": "68a8499cf09073ed5b5caa717529c835ed92eb8365e49699028c5a9ad42abae6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-36-2019",
+   "path": "local/arad/craiva/2019/36",
+   "short": "HCL Craiva nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 36/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.36-din-9-iulie-201901082019.pdf",
+     "sha256": "26acefb2eb6f11b75a3599cfe3ac7e600b4553a760c69d5159f7880a5408c5c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-37-2019",
+   "path": "local/arad/craiva/2019/37",
+   "short": "HCL Craiva nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 37/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-09",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.37-din-9-iulie-201901082019.pdf",
+     "sha256": "c3a1bbbc45f3929ae8f3cc9b500ec630aeaee239c7037f2fa7ff0ac3ebe7619d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-38-2019",
+   "path": "local/arad/craiva/2019/38",
+   "short": "HCL Craiva nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 38/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.38-din-23-iulie-201901082019.pdf",
+     "sha256": "3ac5143ef8775a4d5235874c9ca792674af11bc30c471ab2a92bef95b52a8a44"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-39-2019",
+   "path": "local/arad/craiva/2019/39",
+   "short": "HCL Craiva nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 39/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.39-din-23-iulie-201901082019.pdf",
+     "sha256": "e7f70f46c3aa98f0767386ccb11fe21fce9a6cad5d7e01f6d3ce6d3bea1dbfa2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-4-2019",
+   "path": "local/arad/craiva/2019/4",
+   "short": "HCL Craiva nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 4/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-4-din-31.01.2019.pdf",
+     "sha256": "067598b15ac8f619e74eb796cf3eaab38b1b5a539a50032f7c98a130f3321362"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-40-2019",
+   "path": "local/arad/craiva/2019/40",
+   "short": "HCL Craiva nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 40/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.40-din-23-iulie-201901082019.pdf",
+     "sha256": "2f5da38618b29b507019b44df4209747920ca7c880bccfc74bf8afa499e1c013"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-41-2019",
+   "path": "local/arad/craiva/2019/41",
+   "short": "HCL Craiva nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 41/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.41-din-23-iulie-201901082019.pdf",
+     "sha256": "6621a7a7189ae9f6b4a57fc27b3965d8555d151ffbef6fbe4c5651b092c99c80"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-42-2019",
+   "path": "local/arad/craiva/2019/42",
+   "short": "HCL Craiva nr. 42/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 42/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-07-23",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.nr_.42-din-23-iulie-201901082019.pdf",
+     "sha256": "6dee7742e5b8319357aec973d9993021bd2be92fc2a25ad0321301123278b0eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-43-2019",
+   "path": "local/arad/craiva/2019/43",
+   "short": "HCL Craiva nr. 43/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 43/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-43-din-22-august-201916102019.pdf",
+     "sha256": "12556f785fde75530207b341be9917590ede6dea503f034cc627ffdb7355099e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-44-2019",
+   "path": "local/arad/craiva/2019/44",
+   "short": "HCL Craiva nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 44/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-44-din-22-august-201916102019.pdf",
+     "sha256": "f93c7a924c812b3b40e0aebf60a355458f16cb2f010e72b0ad3dd2574041783f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-45-2019",
+   "path": "local/arad/craiva/2019/45",
+   "short": "HCL Craiva nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 45/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-45-din-22-august-201916102019.pdf",
+     "sha256": "6a61ea4bde978551d747096795588041ff45c182a361e6140896f66bbbc2d3e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-46-2019",
+   "path": "local/arad/craiva/2019/46",
+   "short": "HCL Craiva nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 46/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-46-din-22-august-201916102019.pdf",
+     "sha256": "996fde6f3719970a6e0fcf53f8d952f7486e4807e6677b70f0a7c80b4fe8e006"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-47-2019",
+   "path": "local/arad/craiva/2019/47",
+   "short": "HCL Craiva nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 47/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-47-din-22-august-201916102019.pdf",
+     "sha256": "3df6c316b51a49094581dab253829fe84cc62b1dad2acb9c1bd5fb20c7e22d77"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-48-2019",
+   "path": "local/arad/craiva/2019/48",
+   "short": "HCL Craiva nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 48/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-08-22",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-48-din-22-august-201916102019.pdf",
+     "sha256": "aee8ee541b5bdc5d5c576d070e67eac78c393b573edf74d9b938b0e5b5e7c257"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-5-2019",
+   "path": "local/arad/craiva/2019/5",
+   "short": "HCL Craiva nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 5/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-5-din-31.01.2019.pdf",
+     "sha256": "3b47cf7233a5d1cc04ca7f339ba29520c0d08cd46af7bf2cfe69eec83b355cd1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-6-2019",
+   "path": "local/arad/craiva/2019/6",
+   "short": "HCL Craiva nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 6/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-6-din-31.01.2019.pdf",
+     "sha256": "a56ca3e864b626e4d6458a1510eee65b6bdafff0539e4ada6d710d67f56adb93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-7-2019",
+   "path": "local/arad/craiva/2019/7",
+   "short": "HCL Craiva nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 7/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-7-din-31.01.2019.pdf",
+     "sha256": "337d85c6c60dc32909d5907586ac5f34e8afc9e7434146f96d06aec8134c90a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-8-2019",
+   "path": "local/arad/craiva/2019/8",
+   "short": "HCL Craiva nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 8/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-01-31",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-8-din-31.01.2019-2.pdf",
+     "sha256": "87fd4f1e310899824e565bcfc2694bbc03d0b19aaed8992a1d633674bd2080ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--craiva-9-2019",
+   "path": "local/arad/craiva/2019/9",
+   "short": "HCL Craiva nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Comunei Craiva nr. 9/2019",
+   "url": "https://primariacraiva.ro/hotararile-consiliului-local/",
+   "versions": [
+    {
+     "from": "2019-02-12",
+     "units": 1,
+     "source_url": "https://primariacraiva.ro/wp-content/uploads/2023/10/Hot.-C.L.-nr.-9-din-12.02.2019.pdf",
+     "sha256": "b2a78d57d71d1200abb1a46a31576ae848248fb971aed94b193becbe8085d73b"
+    }
+   ]
+  }
+ ]
+}

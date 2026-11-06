@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/barbatesti/2023",
+"acts": [
+{
+"slug": "hcl-valcea--barbatesti-51-2023",
+"path": "local/valcea/barbatesti/2023/51",
+"kind": "local",
+"year": "2023",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 51/2023 privitor la: alegerea preşedintelui de şedinţă;",
+"short": "HCL Bărbătești nr. 51/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-07-14",
+"latest": "2023-07-14",
+"portal": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#53210",
+"council": "valcea/barbatesti",
+"council_name": "Consiliul Local al Comunei Bărbătești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

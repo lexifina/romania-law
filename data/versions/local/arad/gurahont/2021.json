@@ -3,6 +3,21 @@
  "shard": "local/arad/gurahont/2021",
  "acts": [
   {
+   "slug": "hcl-arad--gurahont-76-2021",
+   "path": "local/arad/gurahont/2021/76",
+   "short": "HCL Gurahonț nr. 76/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 76/2021 privind aprobarea actualizării devizului și a indicatorilor tehnico-economici ai investiţiei „ASFALTARE STRAZI IN LOCALITATEA GURAHONT, JUDETUL ARAD”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/38895",
+   "versions": [
+    {
+     "from": "2021-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/38895",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-77-2021",
    "path": "local/arad/gurahont/2021/77",
    "short": "HCL Gurahonț nr. 77/2021",
@@ -33,6 +48,66 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-79-2021",
+   "path": "local/arad/gurahont/2021/79",
+   "short": "HCL Gurahonț nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 79/2021 privind desemnare reprezentant în comisia de concurs organizat pentru ocuparea funcţiilor de director şi director adjunct al Liceului „Ioan Buteanu” Gurahonţ",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/40496",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/40496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-80-2021",
+   "path": "local/arad/gurahont/2021/80",
+   "short": "HCL Gurahonț nr. 80/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 80/2021 privind mandatarea Asociației de Dezvoltare Intercomunitară de Transport Public Arad în vederea atribuirii gestiunii serviciului de transport public local de persoane, pe raza administrativ-teritorială a Asociației de Dezvoltare Intercomunitară de Transport Public Arad, avizarea Caietului de sarcini și Regulamentului serviciului public de transport persoane în cadrul Asociației de Dezvoltare Intercomunitară de Transport Public Arad și modificării Contractului de delegare a gestiunii Serviciului de transport public local nr. 704/02.12.2019",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/40497",
+   "versions": [
+    {
+     "from": "2021-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/40497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-81-2021",
+   "path": "local/arad/gurahont/2021/81",
+   "short": "HCL Gurahonț nr. 81/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 81/2021 privind delegarea prin concesiune a gestiunii activității de colectare separată și transportul separat al deşeurilor municipale, inclusiv fracţii colectate separat, fără a aduce atingere fluxului de deşeuri de echipamente electrice și electronice, baterii și acumulatori, din judeţul Arad, proiect gestionat de ADI-SIGD Arad — LOT 1 - ZONA 3; LOT 2- ZONA 4, avizarea Strategiei de contractare, a Studiului de fundamentare și a Documentației de atribuire pentru delegarea gestiunii unor activități componente ale serviciului de salubrizare în județul Arad, LOT 1 - ZONA 3; LOT 2- ZONA 4",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/42793",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/42793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-82-2021",
+   "path": "local/arad/gurahont/2021/82",
+   "short": "HCL Gurahonț nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 82/2021 privind acordarea unui mandat special reprezentantului Consiliului local al Comunei Gurahonț în Adunarea Generală a Asociaţilor Asociației de Dezvoltare Intercomunitară de Transport Public Arad privind modificarea Statutului Asociației de Dezvoltare Intercomunitară de Transport Public Arad",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/42794",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/42794",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-83-2021",
    "path": "local/arad/gurahont/2021/83",
    "short": "HCL Gurahonț nr. 83/2021",
@@ -43,6 +118,21 @@
      "from": "2021-11-30",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/42795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-84-2021",
+   "path": "local/arad/gurahont/2021/84",
+   "short": "HCL Gurahonț nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 84/2021 privind luarea unor măsuri pentru executarea unor lucrări de reparații la podețul de peste Valea Sighișoarei către Honțișor",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/42796",
+   "versions": [
+    {
+     "from": "2021-11-30",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/42796",
      "sha256": null
     }
    ]
@@ -138,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--gurahont-91-2021",
+   "path": "local/arad/gurahont/2021/91",
+   "short": "HCL Gurahonț nr. 91/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 91/2021 privind aprobarea principalelor caracteristici și indicatori tehnico-economici pentru investiția „Achiziție și montare camere video în comună”",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47603",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47603",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--gurahont-92-2021",
    "path": "local/arad/gurahont/2021/92",
    "short": "HCL Gurahonț nr. 92/2021",
@@ -148,6 +253,36 @@
      "from": "2021-12-28",
      "units": 1,
      "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-93-2021",
+   "path": "local/arad/gurahont/2021/93",
+   "short": "HCL Gurahonț nr. 93/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 93/2021",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47605",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47605",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--gurahont-94-2021",
+   "path": "local/arad/gurahont/2021/94",
+   "short": "HCL Gurahonț nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Gurahonț nr. 94/2021 privind modificarea anexei Hotărârii Consiliului local nr.110/30.12.2019 privind nomenclatorul funcțiilor salarizate în baza art.11 din Legea nr.153/2017",
+   "url": "https://emol.ro/gurahont-ar/registru-hcl/47606",
+   "versions": [
+    {
+     "from": "2021-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/gurahont-ar/registru-hcl/47606",
      "sha256": null
     }
    ]

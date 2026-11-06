@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sebis/2013",
+ "acts": [
+  {
+   "slug": "hcl-arad--sebis-20-2013",
+   "path": "local/arad/sebis/2013/20",
+   "short": "HCL Sebiș nr. 20/2013",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 20/2013",
+   "url": "https://primariasebis.ro/hotarari/hotarari-2013-consiliul-local/",
+   "versions": [
+    {
+     "from": "2013-03-29",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/hot-20-din-29.03.2013.pdf",
+     "sha256": "7f5940a4e2858e20623585ee325825bf4bb0630e395858976364ed20a2ca2356"
+    }
+   ]
+  }
+ ]
+}

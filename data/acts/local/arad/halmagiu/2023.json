@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-37-2023",
+"path": "local/arad/halmagiu/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 37/2023 privind alegerea președintelui de ședință",
+"short": "HCL Hălmagiu nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/117166",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-38-2023",
 "path": "local/arad/halmagiu/2023/38",
 "kind": "local",
@@ -132,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-39-2023",
+"path": "local/arad/halmagiu/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 39/2023 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 28.04.2023",
+"short": "HCL Hălmagiu nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/117168",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-50-2023",
+"path": "local/arad/halmagiu/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 50/2023 privind delegarea către Unitatea Administrativ Teritorială Județul Arad a depunerii aplicației de finanțare pentru proiectul \" Microbuze electrice pentru elevii din județul Arad \"",
+"short": "HCL Hălmagiu nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-25",
+"latest": "2023-08-25",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/117180",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

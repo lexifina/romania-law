@@ -3,6 +3,28 @@
 "shard": "local/arad/secusigiu/2025",
 "acts": [
 {
+"slug": "hcl-arad--secusigiu-94-2025",
+"path": "local/arad/secusigiu/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 94/2025 privind aprobarea actualizării raportului de evaluare al imobilului fond de stat din com. Secusigiu, sat. Sânpetru German, nr. 358",
+"short": "HCL Secusigiu nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/238784",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--secusigiu-95-2025",
 "path": "local/arad/secusigiu/2025/95",
 "kind": "local",
@@ -22,6 +44,50 @@
 "council_name": "Consiliul Local al Comunei Secusigiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-96-2025",
+"path": "local/arad/secusigiu/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 96/2025 privind numirea directorului și a membrilor consiliului de administrație al asociației „Clubul Sportiv Gloria Secusigiu”, instituţie publică aflată în subordinea Consiliului Local al comunei Secusigiu cu sediul în localitatea Secusigiu, nr. 790, comuna Secusigiu, județul Arad",
+"short": "HCL Secusigiu nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/238786",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-97-2025",
+"path": "local/arad/secusigiu/2025/97",
+"kind": "local",
+"year": "2025",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 97/2025 privind numirea directorului și a membrilor consiliului de administrație al asociației „Clubul Sportiv Foresta Oil Sânpetru German”, instituţie publică aflată în subordinea Consiliului Local al comunei Secusigiu cu sediul în localitatea Sânpetru German, comuna Secusigiu, județul Arad",
+"short": "HCL Secusigiu nr. 97/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/238787",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -88,6 +154,29 @@
 "council_name": "Consiliul Local al Comunei Secusigiu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arad--secusigiu-101-2025",
+"path": "local/arad/secusigiu/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Secusigiu nr. 101/2025",
+"short": "HCL Secusigiu nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-10",
+"latest": "2025-12-10",
+"portal": "https://emol.ro/secusigiu-ar/registru-hcl/238791",
+"council": "arad/secusigiu",
+"council_name": "Consiliul Local al Comunei Secusigiu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

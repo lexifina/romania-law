@@ -228,6 +228,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--varadia-de-mures-67-2026",
+   "path": "local/arad/varadia-de-mures/2026/67",
+   "short": "HCL Vărădia de Mureș nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 67/2026",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/297541",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/297541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varadia-de-mures-68-2026",
+   "path": "local/arad/varadia-de-mures/2026/68",
+   "short": "HCL Vărădia de Mureș nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Vărădia de Mureș nr. 68/2026",
+   "url": "https://emol.ro/varadiademures-ar/registru-hcl/297542",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/varadiademures-ar/registru-hcl/297542",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varadia-de-mures-69-2026",
    "path": "local/arad/varadia-de-mures/2026/69",
    "short": "HCL Vărădia de Mureș nr. 69/2026",

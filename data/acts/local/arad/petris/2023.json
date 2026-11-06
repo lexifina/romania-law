@@ -3,6 +3,94 @@
 "shard": "local/arad/petris/2023",
 "acts": [
 {
+"slug": "hcl-arad--petris-112-2023",
+"path": "local/arad/petris/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 112/2023 privind aprobarea modificării organigramei și a statului de funcții",
+"short": "HCL Petriș nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/petris-ar/registru-hcl/127896",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-113-2023",
+"path": "local/arad/petris/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 113/2023 privind alegerea președintelui de ședință",
+"short": "HCL Petriș nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130329",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-114-2023",
+"path": "local/arad/petris/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 114/2023 privind aprobarea procesului verbal de la ședința extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 31.10.2023",
+"short": "HCL Petriș nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130330",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-115-2023",
+"path": "local/arad/petris/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 115/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 23 noiembrie 2023",
+"short": "HCL Petriș nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130331",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--petris-116-2023",
 "path": "local/arad/petris/2023/116",
 "kind": "local",
@@ -25,6 +113,50 @@
 }
 },
 {
+"slug": "hcl-arad--petris-117-2023",
+"path": "local/arad/petris/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 117/2023 privind stabilirea prețului pentru vânzare masă lemnoasă fasonată la drum auto",
+"short": "HCL Petriș nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130333",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-118-2023",
+"path": "local/arad/petris/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 118/2023 privind aprobarea documentației de apartamentare a imobilului înscris în CF nr. 300849 - C1 -U1",
+"short": "HCL Petriș nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130334",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--petris-119-2023",
 "path": "local/arad/petris/2023/119",
 "kind": "local",
@@ -44,6 +176,116 @@
 "council_name": "Consiliul Local al Comunei Petriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-120-2023",
+"path": "local/arad/petris/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 120/2023 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Petriș, județ Arad",
+"short": "HCL Petriș nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130336",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-121-2023",
+"path": "local/arad/petris/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 121/2023 privind aprobarea studiului de oportunitate, a documentaţiei de atribuire, caietului de sarcini, a formularelor şi modelelor de documente pentru participarea la licitaţie şi a modelului de contract de concesiune, în vederea concesionării prin licitaţie publică a unor imobile aparţinând domeniului privat al comunei Petriș, județ Arad, în suprafaţă totală de 492.180 mp, situate în extravilanul comunei Petriș",
+"short": "HCL Petriș nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130337",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-122-2023",
+"path": "local/arad/petris/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 122/2023 privind stabilirea coeficienților de salarizare și stabilirea salariilor de bază pentru funcţiile publice şi contractuale din cadrul aparatului de specialitate al primarului comunei Petriș, care se aplică începând cu data de 1 ianuarie 2024",
+"short": "HCL Petriș nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-11",
+"latest": "2023-12-11",
+"portal": "https://emol.ro/petris-ar/registru-hcl/130338",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-123-2023",
+"path": "local/arad/petris/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 123/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 23.11.2023",
+"short": "HCL Petriș nr. 123/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/petris-ar/registru-hcl/133419",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-124-2023",
+"path": "local/arad/petris/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 124/2023 privind aprobarea ORDINII DE ZI de la Sedinţa ordinară a Consiliului Local al comunei Petriş din data de 14 decembrie 2023",
+"short": "HCL Petriș nr. 124/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/petris-ar/registru-hcl/133420",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -91,6 +333,72 @@
 }
 },
 {
+"slug": "hcl-arad--petris-127-2023",
+"path": "local/arad/petris/2023/127",
+"kind": "local",
+"year": "2023",
+"number": "127",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 127/2023 privind aprobarea vânzării prin licitație publică cu ofertă a imobilului înscris în CF 306148 Petriș, nr. Cadastral 306148, aflat în proprietatea privată a comunei Petriș",
+"short": "HCL Petriș nr. 127/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-19",
+"latest": "2023-12-19",
+"portal": "https://emol.ro/petris-ar/registru-hcl/133423",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-128-2023",
+"path": "local/arad/petris/2023/128",
+"kind": "local",
+"year": "2023",
+"number": "128",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 128/2023 privind aprobarea procesului verbal de la ședința ordinară a Consiliului Local al comunei Petriş din data de 14.12.2023",
+"short": "HCL Petriș nr. 128/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/petris-ar/registru-hcl/136047",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--petris-129-2023",
+"path": "local/arad/petris/2023/129",
+"kind": "local",
+"year": "2023",
+"number": "129",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 129/2023 privind aprobarea ORDINII DE ZI de la Sedinţa extraordinară, convocată de îndată, a Consiliului Local al comunei Petriş din data de 29 decembrie 2023",
+"short": "HCL Petriș nr. 129/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/petris-ar/registru-hcl/136048",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--petris-130-2023",
 "path": "local/arad/petris/2023/130",
 "kind": "local",
@@ -110,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Petriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--petris-131-2023",
+"path": "local/arad/petris/2023/131",
+"kind": "local",
+"year": "2023",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Petriș nr. 131/2023 privind aprobarea rețelei școlare pentru anul școlar 2024-2025",
+"short": "HCL Petriș nr. 131/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/petris-ar/registru-hcl/136050",
+"council": "arad/petris",
+"council_name": "Consiliul Local al Comunei Petriș",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Corbi nr. 40/2026 privind nominalizarea unui reprezentant al consiliului local și a unui supleant al acestuia, care să facă parte din comisia de evaluare a probei de interviu, pentru concursul organizat în vederea ocuparii funcției de Director al Scolii Gimnaziale Naum Ramniceanu Corbi
+
+HCL Corbi nr. 40/2026 · 1 versions, from 2026-10-23 (latest in force: 2026-10-23) · <https://emol.ro/corbi-ag/registru-hcl/290806>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-arges--corbi-40-2026` (tags `hcl-arges--corbi-40-2026/<day>`; `python tools/on.py <day> hcl-arges--corbi-40-2026`).
+
+## Decisions made by hand
+
+- HCL Corbi nr. 40/2026: listed from Consiliul Local al Comunei Corbi (emol.ro); an individual decision: metadata only.
+- HCL Corbi nr. 40/2026: dated from 23 October 2026, the day the council's register gives it as published (adopted 29 September 2026).
+- HCL Corbi nr. 40/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

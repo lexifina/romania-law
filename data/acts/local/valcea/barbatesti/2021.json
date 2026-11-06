@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/valcea/barbatesti/2021",
+"acts": [
+{
+"slug": "hcl-valcea--barbatesti-54-2021",
+"path": "local/valcea/barbatesti/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 54/2021 Nr. 41/2021-RECTIFICARE BUGET LOCAL",
+"short": "HCL Bărbătești nr. 54/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#4743",
+"council": "valcea/barbatesti",
+"council_name": "Consiliul Local al Comunei Bărbătești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-valcea--barbatesti-55-2021",
+"path": "local/valcea/barbatesti/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 55/2021 HCL nr. 42/2021, aprobare utilizare excedent bugetar",
+"short": "HCL Bărbătești nr. 55/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-23",
+"latest": "2021-10-23",
+"portal": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#6794",
+"council": "valcea/barbatesti",
+"council_name": "Consiliul Local al Comunei Bărbătești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

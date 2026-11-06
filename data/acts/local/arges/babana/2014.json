@@ -1,0 +1,73 @@
+{
+"country": "RO",
+"shard": "local/arges/babana/2014",
+"acts": [
+{
+"slug": "hcl-arges--babana-25-2014",
+"path": "local/arges/babana/2014/25",
+"kind": "local",
+"year": "2014",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 25/2014",
+"short": "HCL Băbana nr. 25/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-27",
+"latest": "2014-05-27",
+"portal": null,
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--babana-26-2014",
+"path": "local/arges/babana/2014/26",
+"kind": "local",
+"year": "2014",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 26/2014 Privind aprobarea montarii unei camere de supraveghere in zona Durduiesti 8fi Comuna Babana",
+"short": "HCL Băbana nr. 26/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-05-27",
+"latest": "2014-05-27",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--babana-60-2014",
+"path": "local/arges/babana/2014/60",
+"kind": "local",
+"year": "2014",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băbana nr. 60/2014 privind stabilirea programului de liniste in comuna Babana Avand iCnovnesdileiurlelonce-acrleeafselirtCaattoeumal nuarn.s6eig5i 0uB2raa/1briai8nu.1an2;u.i2p0r1o4g-rianmtocdmeitlindiestveicpeepnrtirmuacreutla,teGnhiieCorogmheunMeiarin Baban sancltniocnoanrfeoarmfaiptatetrleocr udpereinvceadlecarirleeaafi.,nZoprmcle,2lo2r,ddienLceJgnevaientur.i6relllgs9olcpiarilvai,nad orclinii si linistii publ;c mo",
+"short": "HCL Băbana nr. 60/2014",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2014-12-22",
+"latest": "2014-12-22",
+"portal": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+"council": "arges/babana",
+"council_name": "Consiliul Local al Comunei Băbana",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

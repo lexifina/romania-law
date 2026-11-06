@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-96-2026",
+"path": "local/arad/socodor/2026/96",
+"kind": "local",
+"year": "2026",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 96/2026 privind desemnarea din partea Consiliului Local Socodor a reprezentantului și a membrului supleant în comisia de evaluare a probei de interviu pentru concursul de ocupare a postului de director la Școala Gimnazială „Iustin Marșieu” Socodor, sesiunea august-decembrie 2026",
+"short": "HCL Socodor nr. 96/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-07",
+"latest": "2026-10-07",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/291846",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-97-2026",
 "path": "local/arad/socodor/2026/97",
 "kind": "local",
@@ -245,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-arad--socodor-106-2026",
+"path": "local/arad/socodor/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 106/2026 privind desemnarea unui reprezentat din partea Consiliului Local Socodor în Consiliul de Administrație al Școlii Gimnaziale „Iustin Marșieu” Socodor",
+"short": "HCL Socodor nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/294509",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--socodor-107-2026",
 "path": "local/arad/socodor/2026/107",
 "kind": "local",
@@ -352,6 +396,28 @@
 "council_name": "Consiliul Local al Comunei Socodor",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--socodor-112-2026",
+"path": "local/arad/socodor/2026/112",
+"kind": "local",
+"year": "2026",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Socodor nr. 112/2026 privind acordarea unor ajutoare de urgență",
+"short": "HCL Socodor nr. 112/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/socodor-ar/registru-hcl/294515",
+"council": "arad/socodor",
+"council_name": "Consiliul Local al Comunei Socodor",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

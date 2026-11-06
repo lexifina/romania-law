@@ -3,6 +3,36 @@
  "shard": "local/arad/petris/2026",
  "acts": [
   {
+   "slug": "hcl-arad--petris-78-2026",
+   "path": "local/arad/petris/2026/78",
+   "short": "HCL Petriș nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 78/2026 privind aprobarea proiectului de investiții și a documentației tehnice - Memoriu justificativ - pentru investiția ,,Reparații curente și dotare dispensar uman situat în localitatea Petriș, comuna Petriș, județul Arad”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/286436",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/286436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-79-2026",
+   "path": "local/arad/petris/2026/79",
+   "short": "HCL Petriș nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 79/2026 privind implementarea proiectului ,,Reparații curente și dotare dispensar uman situat în localitatea Petriș, comuna Petriș, județul Arad”",
+   "url": "https://emol.ro/petris-ar/registru-hcl/286437",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/286437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-80-2026",
    "path": "local/arad/petris/2026/80",
    "short": "HCL Petriș nr. 80/2026",
@@ -33,6 +63,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--petris-82-2026",
+   "path": "local/arad/petris/2026/82",
+   "short": "HCL Petriș nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 82/2026",
+   "url": "https://emol.ro/petris-ar/registru-hcl/287112",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/287112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-83-2026",
+   "path": "local/arad/petris/2026/83",
+   "short": "HCL Petriș nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 83/2026 privind darea în folosință gratuită, pe perioadă determinată de 10 (zece) ani, către Inspectoratul de Poliție Județean Arad, a unui spațiu situat în clădirea Primăriei comunei Petriș, județ Arad",
+   "url": "https://emol.ro/petris-ar/registru-hcl/287113",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/287113",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--petris-84-2026",
    "path": "local/arad/petris/2026/84",
    "short": "HCL Petriș nr. 84/2026",
@@ -58,6 +118,21 @@
      "from": "2026-09-28",
      "units": 1,
      "source_url": "https://emol.ro/petris-ar/registru-hcl/287115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--petris-86-2026",
+   "path": "local/arad/petris/2026/86",
+   "short": "HCL Petriș nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Petriș nr. 86/2026",
+   "url": "https://emol.ro/petris-ar/registru-hcl/287116",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/petris-ar/registru-hcl/287116",
      "sha256": null
     }
    ]

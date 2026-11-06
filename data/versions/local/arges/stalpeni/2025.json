@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-104-2025",
+   "path": "local/arges/stalpeni/2025/104",
+   "short": "HCL Stâlpeni nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 104/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 1,
+     "source_url": "http://stalpeni.ro/information/HCL/2025/hcl_nr_104_din_12.12.2025_sc_apa_serv.pdf",
+     "sha256": "5a02ae9993f1e1d000746e0bf060b6c1499b0f85af5b9dc1dd8084c40009977d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-11-2025",
    "path": "local/arges/stalpeni/2025/11",
    "short": "HCL Stâlpeni nr. 11/2025",
@@ -138,6 +153,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-18-2025",
+   "path": "local/arges/stalpeni/2025/18",
+   "short": "HCL Stâlpeni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 18/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.18-din-30.01.2025.pdf",
+     "sha256": "469272a99f4397a6c12e3009f612edab9cd4e4fb2deebc25642f5bf28a24f598"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-19-2025",
+   "path": "local/arges/stalpeni/2025/19",
+   "short": "HCL Stâlpeni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 19/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.19-din-30.01.2025.pdf",
+     "sha256": "7a5903417099e15d960656d0f867f11a91a7efa87a57310327dc7ded2eae381b"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-2-2025",
    "path": "local/arges/stalpeni/2025/2",
    "short": "HCL Stâlpeni nr. 2/2025",
@@ -149,6 +194,156 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.2-din-08.01.2025.pdf",
      "sha256": "b3ac98d1af272554fd61f3c3a843e378b3f217ff53156efe81d1bba2107ab318"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-20-2025",
+   "path": "local/arges/stalpeni/2025/20",
+   "short": "HCL Stâlpeni nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 20/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-01-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.20-din-30.01.2025.pdf",
+     "sha256": "f92e2750b26cedf3553e9b7d491a19772d180a6ed1a29b94bf67a122e193fe7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-21-2025",
+   "path": "local/arges/stalpeni/2025/21",
+   "short": "HCL Stâlpeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 21/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.21-din-05.02.2025-administrator-apa-serv-st%C3%A2lpeni.pdf",
+     "sha256": "c3e79b90db0fb98cc1dd177f8c2156de9f398f3527a0d0433efc0260a3bc8e9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-22-2025",
+   "path": "local/arges/stalpeni/2025/22",
+   "short": "HCL Stâlpeni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 22/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-02-17",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.22-din-17.02.2025-lista-provizorie-investitii.pdf",
+     "sha256": "2f6d79f6d92b0bb8bc2cccc91448694b6bd8a5b4e5c3fac8352e3dc81a156341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-23-2025",
+   "path": "local/arges/stalpeni/2025/23",
+   "short": "HCL Stâlpeni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 23/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.23-din-27.02.2025-2.pdf",
+     "sha256": "c174279f95f89c5d4da40e11db62cc442cd42224d1739c88cc5b6ef82d798f59"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-24-2025",
+   "path": "local/arges/stalpeni/2025/24",
+   "short": "HCL Stâlpeni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 24/2025 pentru aleșii locali Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.24-din-27.02.2025.pdf",
+     "sha256": "88934b54fe8c91205b9f9f0e6072c2ae33e94d6ccc32aae9c0a268b1e2657a48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-25-2025",
+   "path": "local/arges/stalpeni/2025/25",
+   "short": "HCL Stâlpeni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 25/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.25-din-06.03.2025.pdf",
+     "sha256": "6e6d58dee673366aefbce47eed6f174964a10db7c736cbd20860916693791760"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-26-2025",
+   "path": "local/arges/stalpeni/2025/26",
+   "short": "HCL Stâlpeni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 26/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.26-din-06.03.2025-apa-sev-stalpeni.pdf",
+     "sha256": "94ffd0d5300ced1efa1bbbe8a551eb37d3e3e61ea52ab376d3655b01a5749a3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-27-2025",
+   "path": "local/arges/stalpeni/2025/27",
+   "short": "HCL Stâlpeni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 27/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-03-14",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.27-din-14.03.2025.pdf",
+     "sha256": "faddadc6aa3ba449478a4ea0c7278ffc63629d10a851d5b02e4e85b4f338b87d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-28-2025",
+   "path": "local/arges/stalpeni/2025/28",
+   "short": "HCL Stâlpeni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 28/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.28-din-24.03.2025-buget-2025.pdf",
+     "sha256": "6cc32ea4b0599e70d6efb5f0ba148100812bfa404257176d0b242e6263e871be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-29-2025",
+   "path": "local/arges/stalpeni/2025/29",
+   "short": "HCL Stâlpeni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 29/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.29-din-24.03.2025-investi%C8%9Bii-2025.pdf",
+     "sha256": "bf0ccce81a018ebacd4abbca9fc8617698a13f339c4a1fb2966d78cb48b6d8e9"
     }
    ]
   },
@@ -168,6 +363,141 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-30-2025",
+   "path": "local/arges/stalpeni/2025/30",
+   "short": "HCL Stâlpeni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 30/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.30-din-24.03.2025-normative-carburan%C8%9Bi-2025.pdf",
+     "sha256": "7a5494bf6064d12d5971e21a652fcf0c9684b2c20d04eb452c76019642e437f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-31-2025",
+   "path": "local/arges/stalpeni/2025/31",
+   "short": "HCL Stâlpeni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 31/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.31-din-24.03.2025-stat-de-func%C8%9Bii-2025.pdf",
+     "sha256": "48b3bdff9464947953bfc3207131b0cfc04b4472d50d83efc5c97f792835d147"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-32-2025",
+   "path": "local/arges/stalpeni/2025/32",
+   "short": "HCL Stâlpeni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 32/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+     "sha256": "1e059e0880a1e6eb29d4deba98ebfc93b624075d92ace4a91e589133288f4b4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-33-2025",
+   "path": "local/arges/stalpeni/2025/33",
+   "short": "HCL Stâlpeni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 33/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.33-din-24.03.2025-comisie-evaluare-secretar-2025.pdf",
+     "sha256": "184f8ae981112fb9649f82cbb6d37c38610e4afc777cbf3b7e6d6063a1f5a871"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-34-2025",
+   "path": "local/arges/stalpeni/2025/34",
+   "short": "HCL Stâlpeni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 34/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.34-din-11.04.2025-alegere-pres-sedinta.pdf",
+     "sha256": "f79e67531d84d7f6068870ae96b2f7ca8eff067d16102757a8a508b8895fb32e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-35-2025",
+   "path": "local/arges/stalpeni/2025/35",
+   "short": "HCL Stâlpeni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 35/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.35-din-11.04.2025-rectif-buget-2025.pdf",
+     "sha256": "e727f7111ddb07e306b71501b4567021ce55df7ef052313db1c6cf68f0e5f142"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-37-2025",
+   "path": "local/arges/stalpeni/2025/37",
+   "short": "HCL Stâlpeni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 37/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+     "sha256": "edbceef10bf179949bbce241150494b3bb2a7d7fe751f23d228228c480696b39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-38-2025",
+   "path": "local/arges/stalpeni/2025/38",
+   "short": "HCL Stâlpeni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 38/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.38-din-11.04.2025-modificare-hcl-9-din-2025.pdf",
+     "sha256": "f44b96f995340b9ca519ca143165f68287b64092ef39dc38e24da47d6cd253ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-39-2025",
+   "path": "local/arges/stalpeni/2025/39",
+   "short": "HCL Stâlpeni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 39/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-04-16",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.39-din-16.04.2025.pdf",
+     "sha256": "7aac47022350dc3694c9cf7c937e16cd3b907ec45124566c91b0d0ddd7263547"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-4-2025",
    "path": "local/arges/stalpeni/2025/4",
    "short": "HCL Stâlpeni nr. 4/2025",
@@ -179,6 +509,126 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.4-din-10.01.2025.pdf",
      "sha256": "e52525ac2214f345f435faab240adf3d46b263f31543bf73a11dd4e82f39b927"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-40-2025",
+   "path": "local/arges/stalpeni/2025/40",
+   "short": "HCL Stâlpeni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 40/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.40-din-30.04.2025.pdf",
+     "sha256": "8418aabd26ec6d3ec3b065aeb41326c794410f951255bd62b49b5ba8c36cf21e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-41-2025",
+   "path": "local/arges/stalpeni/2025/41",
+   "short": "HCL Stâlpeni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 41/2025 privind reducerea emisiilor de gaze – Achiziționare autovehicul electric – programul Rabla 2025 – 2030 Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-20",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.41_din_20.05.2025.pdf",
+     "sha256": "6f909f1a06bfb6c0e13409a348b284aaf9b31ab59da9c45d456ed64fa49ba29d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-42-2025",
+   "path": "local/arges/stalpeni/2025/42",
+   "short": "HCL Stâlpeni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 42/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.42_din_29.05.2025.pdf",
+     "sha256": "ed4e58bdd7dd424a439fa7ed089e7ac3c8da202883c1092c6b8d13666c6f60bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-43-2025",
+   "path": "local/arges/stalpeni/2025/43",
+   "short": "HCL Stâlpeni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 43/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.43_din_29.05.2025.pdf",
+     "sha256": "2e640541224c7575b7e9c2d6c28a23ddff19567ac10449140aee6cc8f235361c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-44-2025",
+   "path": "local/arges/stalpeni/2025/44",
+   "short": "HCL Stâlpeni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 44/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.44_din_29.05.2025.pdf",
+     "sha256": "ab78371a1b388e1752b5a8962339799112215a6ead71b0aabd0a61a442152cb1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-45-2025",
+   "path": "local/arges/stalpeni/2025/45",
+   "short": "HCL Stâlpeni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 45/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.45_din_29.05.2025_organigrama.pdf",
+     "sha256": "d5712ff65c32e85e39cc94056061284dc1fda21f122ffbaddb03ecc4c9f30ba2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-46-2025",
+   "path": "local/arges/stalpeni/2025/46",
+   "short": "HCL Stâlpeni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 46/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.46_din_29.05.2025.pdf",
+     "sha256": "d3378a2ed286e46f624b66444c09c92c866dadc70a6f1f688a43748153fc914e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-47-2025",
+   "path": "local/arges/stalpeni/2025/47",
+   "short": "HCL Stâlpeni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 47/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.47_din_29.05.2025.pdf",
+     "sha256": "1b1f63290b3a987026ed598c85a7ae4e0940685ec144710ef7e676f29b968737"
     }
    ]
   },
@@ -198,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-49-2025",
+   "path": "local/arges/stalpeni/2025/49",
+   "short": "HCL Stâlpeni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 49/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.49_din_29.05.2025_rectificare_bugetara.pdf",
+     "sha256": "c32a544991cf89caccd5052408726b34c3f29f247605829ce8d4c234a058155e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-5-2025",
    "path": "local/arges/stalpeni/2025/5",
    "short": "HCL Stâlpeni nr. 5/2025",
@@ -209,6 +674,156 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.5-din-17.01.2025.pdf",
      "sha256": "7a166d804131c16b26e426b8fce7d20a6643d6dcd1b043524524d1b5e8eca6b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-50-2025",
+   "path": "local/arges/stalpeni/2025/50",
+   "short": "HCL Stâlpeni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 50/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.50-din-12.06.2025.pdf",
+     "sha256": "e9b9ca4cd93701967047729e019e3903979da3a93bb9ae2fa3aa899069ae100e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-51-2025",
+   "path": "local/arges/stalpeni/2025/51",
+   "short": "HCL Stâlpeni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 51/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.51-din-26.06.2025.pdf",
+     "sha256": "740bb7627f380c1aa294c995e057a310eac8c692d837ce176d26bfbcade866c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-52-2025",
+   "path": "local/arges/stalpeni/2025/52",
+   "short": "HCL Stâlpeni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 52/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.52-din-26.06.2025.pdf",
+     "sha256": "43c69505613953db5ea4ab908e16f687736e33371ccdac35999f0f601726e04c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-53-2025",
+   "path": "local/arges/stalpeni/2025/53",
+   "short": "HCL Stâlpeni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 53/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.53-din-26.06.2025.pdf",
+     "sha256": "2252af159c95bcdfeac003ff334ff098fe9565443cf3a0b8812aae41eb9b0418"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-54-2025",
+   "path": "local/arges/stalpeni/2025/54",
+   "short": "HCL Stâlpeni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 54/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.54-din-26.06.2025.pdf",
+     "sha256": "4747ae0121e4209747edb7ea927819a52e533e02e5a8e09c31286630c06c85c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-55-2025",
+   "path": "local/arges/stalpeni/2025/55",
+   "short": "HCL Stâlpeni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 55/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.55-din-26.06.2025.pdf",
+     "sha256": "03d471b8293ebebf2e3e89f44347548174b3f9a9e7dadce243b1d6233280fa09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-56-2025",
+   "path": "local/arges/stalpeni/2025/56",
+   "short": "HCL Stâlpeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 56/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.56-din-26.06.2025.pdf",
+     "sha256": "6b6e216c9844e3ea72444ab377a306cda84ac1aa589c10f1730573f11c84026c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-57-2025",
+   "path": "local/arges/stalpeni/2025/57",
+   "short": "HCL Stâlpeni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 57/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.57-din-26.06.2025.pdf",
+     "sha256": "16ace21625d3b1e59171e5c90c09cefcb9fc51b38be165f840ab6d1f9978094c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-58-2025",
+   "path": "local/arges/stalpeni/2025/58",
+   "short": "HCL Stâlpeni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 58/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.58-din-26.06.2025.pdf",
+     "sha256": "2649778cb4987dfcbf7dbfec33f38bbef4d53cce7fa1fed605af89edeada2577"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-59-2025",
+   "path": "local/arges/stalpeni/2025/59",
+   "short": "HCL Stâlpeni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 59/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.59-din-26.06.2025.pdf",
+     "sha256": "5bc2214517f9a38d1b8e9447be39e8e220f79d312da0e59b2ad4accaa4dbf670"
     }
    ]
   },
@@ -228,6 +843,156 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-60-2025",
+   "path": "local/arges/stalpeni/2025/60",
+   "short": "HCL Stâlpeni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 60/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.60-din-26.06.2025.pdf",
+     "sha256": "555fd8807130909124ec86aa233dae19a8e9940052bffab60e2f7fe6c08d41ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-61-2025",
+   "path": "local/arges/stalpeni/2025/61",
+   "short": "HCL Stâlpeni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 61/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.61-din-09.07.2025.pdf",
+     "sha256": "9f1866a315cb96a235d4c28bedde2a4df082b14218fa771db29ebf4a3c91f94d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-62-2025",
+   "path": "local/arges/stalpeni/2025/62",
+   "short": "HCL Stâlpeni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 62/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-07-09",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.62-din-09.07.2025.pdf",
+     "sha256": "634af560ee3454839fcc4f42214ce5d3ee7130a8ba365ce77df44b84f2da2168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-63-2025",
+   "path": "local/arges/stalpeni/2025/63",
+   "short": "HCL Stâlpeni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 63/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.63-din-18.07.2025.pdf",
+     "sha256": "ba25315eace961ccb2b97d3efa28182d6b0c2e80ef0a5a8dc0c98e84e69bf6d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-64-2025",
+   "path": "local/arges/stalpeni/2025/64",
+   "short": "HCL Stâlpeni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 64/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-64-din-31.07.2025.pdf",
+     "sha256": "b263a8616e5938043ae62aa8c7cbeabb5e77a096b26da0caa2ca33af63d0c951"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-65-2025",
+   "path": "local/arges/stalpeni/2025/65",
+   "short": "HCL Stâlpeni nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 65/2025 pentru redresarea activității SC APA SERV TOP STÂLPENI SRL Descarcă",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-65-din-31.07.2025-sc-apa-serv.pdf",
+     "sha256": "05632eef1a5644fe2eaaa29534aad2ce35b5b99951fc07366b421f43c6a7524f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-66-2025",
+   "path": "local/arges/stalpeni/2025/66",
+   "short": "HCL Stâlpeni nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 66/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-66-din-31.07.2025-sc-apa-serv.pdf",
+     "sha256": "3bbeef5d7a86ba1c5bb65d425f4da138cb43385819ed9b8d7157c2315cb8ebdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-67-2025",
+   "path": "local/arges/stalpeni/2025/67",
+   "short": "HCL Stâlpeni nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 67/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-67-din-31.07.2025.pdf",
+     "sha256": "90cbb79c53d67ab83b3aeffceee34a3e1dd1ab716378d7d9af36cb3479a6e6f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-68-2025",
+   "path": "local/arges/stalpeni/2025/68",
+   "short": "HCL Stâlpeni nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 68/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-68-din-31.07.2025.pdf",
+     "sha256": "b0e5bdf858e218b4af82e3343b7b19200bafda319855b91f71dc4671b7958709"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-69-2025",
+   "path": "local/arges/stalpeni/2025/69",
+   "short": "HCL Stâlpeni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 69/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-69-din-28.08.2025-puz.pdf",
+     "sha256": "4253c81c02845aab75d08d78718d9e7761124b1c721c2aa03f4a1902a1132156"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-7-2025",
    "path": "local/arges/stalpeni/2025/7",
    "short": "HCL Stâlpeni nr. 7/2025",
@@ -239,6 +1004,21 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.7-din-30.01.2025.pdf",
      "sha256": "e0fd71fb0b0a63d14277e88d32ec269affbad351b39ffc1abd6958ce03bf7f61"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-70-2025",
+   "path": "local/arges/stalpeni/2025/70",
+   "short": "HCL Stâlpeni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 70/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-70-din-28.08.2025.pdf",
+     "sha256": "cc71bd9af4d791ae82c90abada9b10a9716f67f066a3514f7c5f2a325f0a5610"
     }
    ]
   },
@@ -258,6 +1038,36 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-72-2025",
+   "path": "local/arges/stalpeni/2025/72",
+   "short": "HCL Stâlpeni nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 72/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-72-din-28.08.2025.pdf",
+     "sha256": "1ffff00688413b50b1846580beda2b81e6a0acf6ef0172051187baf2cc6aa950"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-73-2025",
+   "path": "local/arges/stalpeni/2025/73",
+   "short": "HCL Stâlpeni nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 73/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-73-din-28.08.2025.pdf",
+     "sha256": "01843cb60a4f94f0348eccd21d4c4cddbfd8bb422f56d13f1b5d7d65dce96487"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-732-2025",
    "path": "local/arges/stalpeni/2025/732",
    "short": "HCL Stâlpeni nr. 732/2025",
@@ -269,6 +1079,96 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2026/hotararea_nr_54_din_24.09.2026.pdf",
      "sha256": "6915dca12463a477459346d24aa053430d424e62c4846c48798a654298d69e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-74-2025",
+   "path": "local/arges/stalpeni/2025/74",
+   "short": "HCL Stâlpeni nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 74/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-74-din-09.09.2025-buget-2025.pdf",
+     "sha256": "d13bda2c75dafe379c9a3bdb1a84c9a49783fd4ffb9345897d3bfdcad95d7553"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-75-2025",
+   "path": "local/arges/stalpeni/2025/75",
+   "short": "HCL Stâlpeni nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 75/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-75-din-09.09.2025.pdf",
+     "sha256": "3042462b20b22fb390106ad305e293ddf22df49c46ac8156420eabd68b3d559b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-76-2025",
+   "path": "local/arges/stalpeni/2025/76",
+   "short": "HCL Stâlpeni nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 76/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-76-din-25.09.2025.pdf",
+     "sha256": "d021c0d9ab6b024a6db7152ee3a208f4bade54dc7a784b24406d68cedb5c14d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-77-2025",
+   "path": "local/arges/stalpeni/2025/77",
+   "short": "HCL Stâlpeni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 77/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-77-din-25.09.2025.pdf",
+     "sha256": "528b0436add1f22601def9dd0d4bb873877dc7eec8cb2e5f9b2056104dde2a2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-78-2025",
+   "path": "local/arges/stalpeni/2025/78",
+   "short": "HCL Stâlpeni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 78/2025 pentru elevii din învățământul preuniversitar în anul 2025 – 2026 Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hotararea-nr-78-din-25.09.2025.pdf",
+     "sha256": "398e41065fe414fd9839919963d683eaf0d7e02720dee4d24ab54f0cdb5ea742"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-79-2025",
+   "path": "local/arges/stalpeni/2025/79",
+   "short": "HCL Stâlpeni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 79/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-09-25",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.79_din_25.09.2025.pdf",
+     "sha256": "c597b9ee94e830aaf7c2e073cead87f78d11b85cc12e6c50f9ac515d0d59d596"
     }
    ]
   },
@@ -288,6 +1188,111 @@
    ]
   },
   {
+   "slug": "hcl-arges--stalpeni-80-2025",
+   "path": "local/arges/stalpeni/2025/80",
+   "short": "HCL Stâlpeni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 80/2025 pentru anul 2025 Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.80_din_10.10.2025_rectificare_bugetara.pdf",
+     "sha256": "00ee517e61d6639aff3dd2d2da046254cc6ec9abef58c4bbe31b6df1f578bb0f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-81-2025",
+   "path": "local/arges/stalpeni/2025/81",
+   "short": "HCL Stâlpeni nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 81/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.81_din_10.10.2025.pdf",
+     "sha256": "e5d49e0025a2688f8cf86dce4812b6fc6b1a0d8b96ec2f50cbf87989c65614f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-82-2025",
+   "path": "local/arges/stalpeni/2025/82",
+   "short": "HCL Stâlpeni nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 82/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.82_din_20.10.2025.pdf",
+     "sha256": "9a275640ced58fcc3dce3974d5daf4bb7ccd70c834e3a52059563380346af572"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-83-2025",
+   "path": "local/arges/stalpeni/2025/83",
+   "short": "HCL Stâlpeni nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 83/2025 pentru anul 2025 Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.83_din_20.10.2025_rectificare_bugetara.pdf",
+     "sha256": "7ba4eb80db8590f11220f8ed25a81d084ac05b53a2af9843b60c7136dc5e4fcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-84-2025",
+   "path": "local/arges/stalpeni/2025/84",
+   "short": "HCL Stâlpeni nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 84/2025 pentru anul 2025 Descarcă HCL",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.84_din_20.10.2025_rectificare_bugetara.pdf",
+     "sha256": "259363809b5ad8b6342163806c00cc6959d5552aba42b91cf9e5307d3c813bb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-85-2025",
+   "path": "local/arges/stalpeni/2025/85",
+   "short": "HCL Stâlpeni nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 85/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.85_din_30.10.2025_apa_serv_top.pdf",
+     "sha256": "b4d099dad313577673f83a5f682c56a5f1572d2c112c306d9b7f4e9aa6e388f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-86-2025",
+   "path": "local/arges/stalpeni/2025/86",
+   "short": "HCL Stâlpeni nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 86/2025",
+   "url": "https://stalpeni.ro/hotarari-ale-consiliului-local-stalpeni-in-mandatul-2024-2028/",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://stalpeni.ro/information/HCL/2025/hcl_nr.86_din_30.10.2025.pdf",
+     "sha256": "dc8b88cd38355e46f96834da0f25326c30a035322ee9b6b57b54b1215fd3b8a9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--stalpeni-9-2025",
    "path": "local/arges/stalpeni/2025/9",
    "short": "HCL Stâlpeni nr. 9/2025",
@@ -299,6 +1304,21 @@
      "units": 1,
      "source_url": "https://stalpeni.ro/information/HCL/2025/hcl-nr.9-din-30.01.2025.pdf",
      "sha256": "117e7d9d543575758d7928d8beadd305fac497b6d8b140cbe117a86a0bff1d24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--stalpeni-98-2025",
+   "path": "local/arges/stalpeni/2025/98",
+   "short": "HCL Stâlpeni nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 98/2025",
+   "url": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "http://stalpeni.ro/information/HCL/2025/hcl_nr_98_din_27.11.2025_sc_apa_serv_topoloveni.pdf",
+     "sha256": "8d4985455b19f1cb1a064a652a792877d0f75aac23b04aef0f1cc9a167bfe6d3"
     }
    ]
   }

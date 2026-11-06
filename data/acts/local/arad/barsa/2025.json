@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/barsa/2025",
+"acts": [
+{
+"slug": "hcl-arad--barsa-515-2025",
+"path": "local/arad/barsa/2025/515",
+"kind": "local",
+"year": "2025",
+"number": "515",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsa nr. 515/2025",
+"short": "HCL Bârsa nr. 515/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-09",
+"latest": "2025-01-09",
+"portal": "https://www.comunabirsa.ro/wp-content/uploads/2025/06/Hotararea-AGA-nr.-515-din-09.01.2025.pdf",
+"council": "arad/barsa",
+"council_name": "Consiliul Local al Comunei Bârsa",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

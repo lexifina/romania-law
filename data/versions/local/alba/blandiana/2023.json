@@ -3,6 +3,66 @@
  "shard": "local/alba/blandiana/2023",
  "acts": [
   {
+   "slug": "hcl-alba--blandiana-59-2023",
+   "path": "local/alba/blandiana/2023/59",
+   "short": "HCL Blandiana nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 59/2023 privind rectificarea bugetului local pe 2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/59.pdf",
+     "sha256": "617b5be7b9c1dc2d40504a000722f03721069cdbbf9eca21f4bd02a0ff8e744a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-60-2023",
+   "path": "local/alba/blandiana/2023/60",
+   "short": "HCL Blandiana nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 60/2023 privind aprobarea ordinii de zi a ședinței din data de 26.10.2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/60.pdf",
+     "sha256": "9976d710ebb50ff912c7b0b20de97050f6106030c1f536f853af79a793d46fee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-61-2023",
+   "path": "local/alba/blandiana/2023/61",
+   "short": "HCL Blandiana nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 61/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, indicatorilor tehnico- economici actualizați și devizului general actualizat pentru obiectivul de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA BLANDIANA, JUDEȚUL ALBA”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/61.pdf",
+     "sha256": "e58bc6929fdb5b1b7892a768ef582d3c69002fd82c3d7a983441a2db49afbc94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-62-2023",
+   "path": "local/alba/blandiana/2023/62",
+   "short": "HCL Blandiana nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 62/2023 privind aprobarea ordinii de zi a ședinței din data de 31.10.2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/62.pdf",
+     "sha256": "3256c61dff77bdaf99b7333c4024f1d99fda2da1d1c70bbbb944eb3111975a9f"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--blandiana-63-2023",
    "path": "local/alba/blandiana/2023/63",
    "short": "HCL Blandiana nr. 63/2023",
@@ -33,6 +93,81 @@
    ]
   },
   {
+   "slug": "hcl-alba--blandiana-65-2023",
+   "path": "local/alba/blandiana/2023/65",
+   "short": "HCL Blandiana nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 65/2023 privind anulare obligații fiscale",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/65.pdf",
+     "sha256": "bfa8192fb739f9e02c69e009ba9656b99b5a0aac53d6f0cc6a63e15e4c592e0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-66-2023",
+   "path": "local/alba/blandiana/2023/66",
+   "short": "HCL Blandiana nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 66/2023 privind numire reprezentant în CA Școala",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/66.pdf",
+     "sha256": "fd9064c66f9cbd2efb759e9569e85e66b31cbc7c9c80f4167893c11feba9b54e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-67-2023",
+   "path": "local/alba/blandiana/2023/67",
+   "short": "HCL Blandiana nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 67/2023 privind analiza stadiului de înscriere a datelor în registrul agricol și stabilirea măsurilor pentru eficientizarea acestei activități la nivelul UAT Blandiana pe trimestrul III al anului 2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/67.pdf",
+     "sha256": "e38115c1b5cc319cfe251c0153f71c5c29a98df66f783673d08e06d1e904e0df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-68-2023",
+   "path": "local/alba/blandiana/2023/68",
+   "short": "HCL Blandiana nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 68/2023 privind indreptarea unei erori materiale",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/68.pdf",
+     "sha256": "ec1ed58fb34d45da4cf037d706a2653fd95b87e7362c4f7cf460cafd6b19713c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-69-2023",
+   "path": "local/alba/blandiana/2023/69",
+   "short": "HCL Blandiana nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 69/2023 pentru perioada noiembrie – ianuarie",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/69.pdf",
+     "sha256": "ae9d9a0b0b498cb2830b755216598862e05c41424fa44cdb53ba5c721d80ca93"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--blandiana-70-2023",
    "path": "local/alba/blandiana/2023/70",
    "short": "HCL Blandiana nr. 70/2023",
@@ -44,6 +179,96 @@
      "units": 1,
      "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/70.pdf",
      "sha256": "f6a5e33edd5cc8a64966308fc33d5a391bb9bbc0220852c5f87693b6f6797526"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-71-2023",
+   "path": "local/alba/blandiana/2023/71",
+   "short": "HCL Blandiana nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 71/2023 privind aprobarea ordinii de zi a ședinței din data de 14.11.2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-11-14",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/71.pdf",
+     "sha256": "2cf66eedb6d982fccd8396020ae26e0da1751eb7925cbd6bca31ed98f5c64bd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-73-2023",
+   "path": "local/alba/blandiana/2023/73",
+   "short": "HCL Blandiana nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 73/2023 privind aprobarea ordinii de zi a ședinței din data de 29.11.2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/73.pdf",
+     "sha256": "a345202c69c89e8e3097fdf79510409fb54eb4bd2b10e9de9ae0b88c38652a47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-74-2023",
+   "path": "local/alba/blandiana/2023/74",
+   "short": "HCL Blandiana nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 74/2023 privind acordarea unui mandat special pentru includerea tuturor indicatorilor de performanță aferenți activităților prestate de operatorul economic delegat pe fluxul deșeurilor municipale, inclusiv pentru includerea penalităților suportate de către operator în caz de neîndeplinire a acestora vederea includerii tuturor indicatorilor de performanță aferenți activităților prestate de operator pe flux",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/74.pdf",
+     "sha256": "0b18ba2d978525578ebfc4e90397ffe964e2accce26bc83ed6b99ef67258366d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-75-2023",
+   "path": "local/alba/blandiana/2023/75",
+   "short": "HCL Blandiana nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 75/2023 pentru anul 2024",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/75.pdf",
+     "sha256": "fc7163f353dcc587514642f553df7fa4edc5087a18359bd5c6a8c24589c3e73f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-76-2023",
+   "path": "local/alba/blandiana/2023/76",
+   "short": "HCL Blandiana nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 76/2023 privind rectificarea bugetului local pe 2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/76.pdf",
+     "sha256": "f96afb97274fede74b2ed890e350dc2ccbce97197d569c6dd64be7a653ed3f7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-77-2023",
+   "path": "local/alba/blandiana/2023/77",
+   "short": "HCL Blandiana nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 77/2023 privind aprobarea ordinii de zi a ședinței din data de 21.12.2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/77.pdf",
+     "sha256": "489a309928e531517adc2317b93c9336b0ef45ba27a15ad201c223a75264099a"
     }
    ]
   },
@@ -74,6 +299,36 @@
      "units": 1,
      "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/79.pdf",
      "sha256": "aadbb9f937a394c100dfbb18d1fe9bfc1be08e77919db37aaf230b303603c094"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-80-2023",
+   "path": "local/alba/blandiana/2023/80",
+   "short": "HCL Blandiana nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 80/2023 privind stabilirea măsurilor necesare a fi luate în vederea organizării activităților legate de sărbătorile de iarnă și Serbării Pomului de Crăciun 2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/80.pdf",
+     "sha256": "d1d849eb90155ba4c81a6ab08e9a094138465959f881498e45e2a17fc7f5c2e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--blandiana-81-2023",
+   "path": "local/alba/blandiana/2023/81",
+   "short": "HCL Blandiana nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Blandiana nr. 81/2023 privind rectificarea bugetului local pe 2023",
+   "url": "https://comuna-blandiana.ro/primaria/hotarari-cl/",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 1,
+     "source_url": "http://comuna-blandiana.ro/doc/2023/hcl/81.pdf",
+     "sha256": "a65a56b6b784dd361a7fdd89e1c2a2f3b227fa534b72dba26f3da48576bed0ca"
     }
    ]
   }

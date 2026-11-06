@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/lipova/2020",
+ "acts": [
+  {
+   "slug": "hcl-arad--lipova-97-2020",
+   "path": "local/arad/lipova/2020/97",
+   "short": "HCL Lipova nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Lipova nr. 97/2020 privind rectificarea bugetului consolidat de venituri și cheltuieli, pentru anul 2026, al Orașului Lipova",
+   "url": "https://www.primarialipova.ro/monitorul-oficial/hcl/",
+   "versions": [
+    {
+     "from": "2020-08-12",
+     "units": 1,
+     "source_url": "https://www.primarialipova.ro/uploads/files/2026/mof/hotarari/hcl%20nr.97.pdf",
+     "sha256": "6a58e86db356099ac25d47aee307c7094db15683d87af65676e8a073de476656"
+    }
+   ]
+  }
+ ]
+}

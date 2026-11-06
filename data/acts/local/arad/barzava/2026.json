@@ -180,6 +180,72 @@
 }
 },
 {
+"slug": "hcl-arad--barzava-104-2026",
+"path": "local/arad/barzava/2026/104",
+"kind": "local",
+"year": "2026",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 104/2026 privind desemnare reprezentantilor în comisia de concurs organizat pentru ocuparea funcţiiei de director al Scoli Gimnaziale Bârzava",
+"short": "HCL Bârzava nr. 104/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/barzava-ar/registru-hcl/288540",
+"council": "arad/barzava",
+"council_name": "Consiliul Local al Comunei Bârzava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--barzava-105-2026",
+"path": "local/arad/barzava/2026/105",
+"kind": "local",
+"year": "2026",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 105/2026 privind desemnarea reprezentantului Consiliului local Bârzava în Consiliul de Administraţie al Şcolii Gimnaziale din Bârzava pe perioada anului scolar 2026-2027",
+"short": "HCL Bârzava nr. 105/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/barzava-ar/registru-hcl/288541",
+"council": "arad/barzava",
+"council_name": "Consiliul Local al Comunei Bârzava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--barzava-106-2026",
+"path": "local/arad/barzava/2026/106",
+"kind": "local",
+"year": "2026",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 106/2026 privind reprezentantului Consiliului local Bârzava în Comisia pentru prevenirea și combaterea violenței, a faptelor de corupție și discriminării în mediul școlar și promovarea interculturalității",
+"short": "HCL Bârzava nr. 106/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/barzava-ar/registru-hcl/288542",
+"council": "arad/barzava",
+"council_name": "Consiliul Local al Comunei Bârzava",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--barzava-107-2026",
 "path": "local/arad/barzava/2026/107",
 "kind": "local",
@@ -243,6 +309,28 @@
 "council_name": "Consiliul Local al Comunei Bârzava",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--barzava-110-2026",
+"path": "local/arad/barzava/2026/110",
+"kind": "local",
+"year": "2026",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârzava nr. 110/2026 privind acordarea unui ajutor de urgență de la bugetul local în vederea refacerii locuinței distruse în totalitate în urma incendiului",
+"short": "HCL Bârzava nr. 110/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://emol.ro/barzava-ar/registru-hcl/288546",
+"council": "arad/barzava",
+"council_name": "Consiliul Local al Comunei Bârzava",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arad/pancota/2022",
+"acts": [
+{
+"slug": "hcl-arad--pancota-51-2022",
+"path": "local/arad/pancota/2022/51",
+"kind": "local",
+"year": "2022",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pâncota nr. 51/2022",
+"short": "HCL Pâncota nr. 51/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-28",
+"latest": "2022-07-28",
+"portal": "https://primariapancota.ro/hcl-51-28-07-2022-privind-stabilirea-salariilor-de-baza-pentru-functionarii-publici-si-personalul-contractual-din-aparatul-de-specialitate-al-primarului-orasului-pancota/",
+"council": "arad/pancota",
+"council_name": "Consiliul Local al Orașului Pâncota",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

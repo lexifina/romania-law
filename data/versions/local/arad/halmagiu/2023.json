@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--halmagiu-37-2023",
+   "path": "local/arad/halmagiu/2023/37",
+   "short": "HCL Hălmagiu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 37/2023 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/117166",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/117166",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--halmagiu-38-2023",
    "path": "local/arad/halmagiu/2023/38",
    "short": "HCL Hălmagiu nr. 38/2023",
@@ -88,6 +103,21 @@
      "from": "2023-08-25",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/117167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-39-2023",
+   "path": "local/arad/halmagiu/2023/39",
+   "short": "HCL Hălmagiu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 39/2023 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 28.04.2023",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/117168",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/117168",
      "sha256": null
     }
    ]
@@ -238,6 +268,21 @@
      "from": "2023-08-25",
      "units": 1,
      "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/117179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--halmagiu-50-2023",
+   "path": "local/arad/halmagiu/2023/50",
+   "short": "HCL Hălmagiu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 50/2023 privind delegarea către Unitatea Administrativ Teritorială Județul Arad a depunerii aplicației de finanțare pentru proiectul \" Microbuze electrice pentru elevii din județul Arad \"",
+   "url": "https://emol.ro/halmagiu-ar/registru-hcl/117180",
+   "versions": [
+    {
+     "from": "2023-08-25",
+     "units": 1,
+     "source_url": "https://emol.ro/halmagiu-ar/registru-hcl/117180",
      "sha256": null
     }
    ]

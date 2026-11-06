@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/alba/bucerdea-granoasa/2019",
+"acts": [
+{
+"slug": "hcl-alba--bucerdea-granoasa-18-2019",
+"path": "local/alba/bucerdea-granoasa/2019/18",
+"kind": "local",
+"year": "2019",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bucerdea Grânoasă nr. 18/2019 privind aprobarea Bugetului Local si a Listei de Investitii a Comunei Bucerdea Grânoasă, județul Alba, pentru anul 2019",
+"short": "HCL Bucerdea Grânoasă nr. 18/2019",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2019-04-19",
+"latest": "2019-04-19",
+"portal": "https://www.bucerdea-granoasa.ro/informatii-publice/hotarari-c-l/",
+"council": "alba/bucerdea-granoasa",
+"council_name": "Consiliul Local al Comunei Bucerdea Grânoasă",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

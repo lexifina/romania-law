@@ -16,6 +16,21 @@
      "sha256": "604711c687ab7498b6a736d5c68550c594d51ba49cb297c58a63ed769beb1f9d"
     }
    ]
+  },
+  {
+   "slug": "hcl-alba--bucerdea-granoasa-6-2018",
+   "path": "local/alba/bucerdea-granoasa/2018/6",
+   "short": "HCL Bucerdea Grânoasă nr. 6/2018",
+   "title": "Hotărârea Consiliului Local al Comunei Bucerdea Grânoasă nr. 6/2018 privind aprobarea Bugetului Local si a Listei de Investitii a Comunei Bucerdea Grânoasă, județul Alba, pentru anul 2018",
+   "url": "https://www.bucerdea-granoasa.ro/informatii-publice/hotarari-c-l/",
+   "versions": [
+    {
+     "from": "2018-02-15",
+     "units": 1,
+     "source_url": "https://bucerdea-granoasa.ro/documente/2018/hcl6.pdf",
+     "sha256": "46f4a015eb47649ece04b5334b45e4a94a9a356d9c40a5a832965fc24c6e2fbb"
+    }
+   ]
   }
  ]
 }

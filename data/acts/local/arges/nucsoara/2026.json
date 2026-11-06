@@ -25,6 +25,73 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-59-2026",
+"path": "local/arges/nucsoara/2026/59",
+"kind": "local",
+"year": "2026",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 59/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 59/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/282182",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-60-2026",
+"path": "local/arges/nucsoara/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 60/2026",
+"short": "HCL Nucșoara nr. 60/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-05",
+"latest": "2026-08-05",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/282183",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-61-2026",
+"path": "local/arges/nucsoara/2026/61",
+"kind": "local",
+"year": "2026",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 61/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 61/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/284833",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-62-2026",
 "path": "local/arges/nucsoara/2026/62",
 "kind": "local",
@@ -91,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-arges--nucsoara-65-2026",
+"path": "local/arges/nucsoara/2026/65",
+"kind": "local",
+"year": "2026",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 65/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 65/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-14",
+"latest": "2026-09-14",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/287559",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--nucsoara-66-2026",
 "path": "local/arges/nucsoara/2026/66",
 "kind": "local",
@@ -154,6 +243,72 @@
 "council_name": "Consiliul Local al Comunei Nucșoara",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-69-2026",
+"path": "local/arges/nucsoara/2026/69",
+"kind": "local",
+"year": "2026",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 69/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 69/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/291852",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-70-2026",
+"path": "local/arges/nucsoara/2026/70",
+"kind": "local",
+"year": "2026",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 70/2026 privind desemnarea reprezentanților Consiliului Local Nucșoara în comisia de evaluare a probei de interviu, pentru concursul de ocupare a funcției de Director la Școala Gimnazială ,,Toma Arnăuțoiu” Nucșoara",
+"short": "HCL Nucșoara nr. 70/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-05",
+"latest": "2026-10-05",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/291853",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-71-2026",
+"path": "local/arges/nucsoara/2026/71",
+"kind": "local",
+"year": "2026",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 71/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 71/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-10-23",
+"latest": "2026-10-23",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/293544",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +398,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-arges--nucsoara-76-2026",
+"path": "local/arges/nucsoara/2026/76",
+"kind": "local",
+"year": "2026",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Nucșoara nr. 76/2026 privind alegerea Președintelui de ședință",
+"short": "HCL Nucșoara nr. 76/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-11-04",
+"latest": "2026-11-04",
+"portal": "https://emol.ro/nucsoara-ag/registru-hcl/297343",
+"council": "arges/nucsoara",
+"council_name": "Consiliul Local al Comunei Nucșoara",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

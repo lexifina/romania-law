@@ -108,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-arges--rucar-57-2025",
+   "path": "local/arges/rucar/2025/57",
+   "short": "HCL Rucăr nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 57/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230839",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230839",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arges--rucar-58-2025",
    "path": "local/arges/rucar/2025/58",
    "short": "HCL Rucăr nr. 58/2025",
@@ -118,6 +133,21 @@
      "from": "2025-10-22",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/230841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-59-2025",
+   "path": "local/arges/rucar/2025/59",
+   "short": "HCL Rucăr nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 59/2025 privind aprobarea dezmembrării unor imobile-teren situate în comuna Rucăr, județul Argeș",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/230842",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/230842",
      "sha256": null
     }
    ]
@@ -178,6 +208,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/rucar-ag/registru-hcl/234289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--rucar-64-2025",
+   "path": "local/arges/rucar/2025/64",
+   "short": "HCL Rucăr nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rucăr nr. 64/2025",
+   "url": "https://emol.ro/rucar-ag/registru-hcl/234314",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/rucar-ag/registru-hcl/234314",
      "sha256": null
     }
    ]

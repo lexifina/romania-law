@@ -23,6 +23,116 @@
 "flags": {
 "metadata_only": "individual"
 }
+},
+{
+"slug": "hcl-arges--stalpeni-9-2021",
+"path": "local/arges/stalpeni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 9/2021",
+"short": "HCL Stâlpeni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--stalpeni-43-2021",
+"path": "local/arges/stalpeni/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 43/2021",
+"short": "HCL Stâlpeni nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-07",
+"latest": "2021-06-07",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--stalpeni-45-2021",
+"path": "local/arges/stalpeni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 45/2021",
+"short": "HCL Stâlpeni nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-07",
+"latest": "2021-06-07",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--stalpeni-84-2021",
+"path": "local/arges/stalpeni/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 84/2021",
+"short": "HCL Stâlpeni nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--stalpeni-86-2021",
+"path": "local/arges/stalpeni/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stâlpeni nr. 86/2021",
+"short": "HCL Stâlpeni nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://stalpeni.ro/institutii-subordonate-consiliului-local-stalpeni/",
+"council": "arges/stalpeni",
+"council_name": "Consiliul Local al Comunei Stâlpeni",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

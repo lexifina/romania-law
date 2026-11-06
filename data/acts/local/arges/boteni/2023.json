@@ -23,6 +23,72 @@
 "flags": {
 "text_pending": "review"
 }
+},
+{
+"slug": "hcl-arges--boteni-8-2023",
+"path": "local/arges/boteni/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 8/2023 privind modificarea organigramei și a statului de funcții al aparatului de specialitate al primarului Comunei Boteni jud",
+"short": "HCL Boteni nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-06",
+"latest": "2023-03-06",
+"portal": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--boteni-16-2023",
+"path": "local/arges/boteni/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 16/2023",
+"short": "HCL Boteni nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-18",
+"latest": "2023-05-18",
+"portal": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arges--boteni-18-2023",
+"path": "local/arges/boteni/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Boteni nr. 18/2023",
+"short": "HCL Boteni nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-24",
+"latest": "2023-07-24",
+"portal": "https://comunaboteni.ro/monitorul-oficial-local/hotararile-consiliului-local/",
+"council": "arges/boteni",
+"council_name": "Consiliul Local al Comunei Boteni",
+"flags": {
+"metadata_only": "individual"
+}
 }
 ]
 }

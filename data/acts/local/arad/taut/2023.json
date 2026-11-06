@@ -1,0 +1,248 @@
+{
+"country": "RO",
+"shard": "local/arad/taut/2023",
+"acts": [
+{
+"slug": "hcl-arad--taut-1-2023",
+"path": "local/arad/taut/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 1/2023 privind aprobarea procesului verbal pentru sedinta ordinara din data de 20.12.2023",
+"short": "HCL Tauț nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-20",
+"latest": "2023-12-20",
+"portal": "https://primariataut.ro/documente/hotararea-nr-1-privind-aprobarea-procesului-verbal-pentru-sedinta-ordinara-din-data-de-20-12-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-3-2023",
+"path": "local/arad/taut/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 3/2023 privind aprobarea excedentului bugetar rezultat la sfarsitul anului 2023",
+"short": "HCL Tauț nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariataut.ro/documente/hotararea-nr-3-privind-aprobarea-excedentului-bugetar-rezultat-la-sfarsitul-anului-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-12-2023",
+"path": "local/arad/taut/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 12/2023 Privind aprobarea Actului Aditional nr.2",
+"short": "HCL Tauț nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-15-2023",
+"path": "local/arad/taut/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 15/2023 privind aprobarea situatiilor financiare la data 31.12.2023",
+"short": "HCL Tauț nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-31",
+"latest": "2023-12-31",
+"portal": "https://primariataut.ro/documente/hotararea-nr-15-privind-aprobarea-situatiilor-financiare-la-data-31-12-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-16-2023",
+"path": "local/arad/taut/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 16/2023 privind propunerea incadrarii sectorului de drum judetean",
+"short": "HCL Tauț nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-17-2023",
+"path": "local/arad/taut/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 17/2023 privind aprobarea centralizatorului inventarul pentru anul 2023",
+"short": "HCL Tauț nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-31",
+"latest": "2023-01-31",
+"portal": "https://primariataut.ro/documente/hotararea-nr-17-privind-aprobarea-centralizatorului-inventarul-pentru-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-19-2023",
+"path": "local/arad/taut/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 19/2023 privind incadrarea sectorului de drum judetean DJ708Dde la km 0 +000la km 2+192",
+"short": "HCL Tauț nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-36-2023",
+"path": "local/arad/taut/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 36/2023 privind declararea de interes public local a bunurilor aferente sistemului de alimentare cu apa",
+"short": "HCL Tauț nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-28",
+"latest": "2023-04-28",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-60-2023",
+"path": "local/arad/taut/2023/60",
+"kind": "local",
+"year": "2023",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 60/2023 privind aprobarea asigurarii transportului elevilor",
+"short": "HCL Tauț nr. 60/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-61-2023",
+"path": "local/arad/taut/2023/61",
+"kind": "local",
+"year": "2023",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 61/2023 privind aprobarea procesului verbal pt. sedinta ordinara din 31.08.2023",
+"short": "HCL Tauț nr. 61/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--taut-63-2023",
+"path": "local/arad/taut/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tauț nr. 63/2023 privind modificarea HCL nr.79:23.09.2023 pt.masa lemnoasa",
+"short": "HCL Tauț nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-pe-anul-2023/",
+"council": "arad/taut",
+"council_name": "Consiliul Local al Comunei Tauț",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

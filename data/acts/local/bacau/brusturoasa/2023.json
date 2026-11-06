@@ -3,6 +3,28 @@
 "shard": "local/bacau/brusturoasa/2023",
 "acts": [
 {
+"slug": "hcl-bacau--brusturoasa-101-2023",
+"path": "local/bacau/brusturoasa/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 101/2023 privind aprobarea reorganizarii aparatului de specialitate al primarului comunei Brusturoasa incepand cu 01 noiembrie 2023, in conformitate cu Legea nr. 296/2023 privind unele masuri fiscal-bugetare pentru asigurarea sustenabilitații financiare a Romaniei pe termen lung",
+"short": "HCL Brusturoasa nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/132163",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-102-2023",
 "path": "local/bacau/brusturoasa/2023/102",
 "kind": "local",
@@ -22,6 +44,51 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-103-2023",
+"path": "local/bacau/brusturoasa/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 103/2023 privind alocarea unor sume de bani in vederea organizarii activitaților specifice sarbatorilor de iarna",
+"short": "HCL Brusturoasa nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/132165",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-104-2023",
+"path": "local/bacau/brusturoasa/2023/104",
+"kind": "local",
+"year": "2023",
+"number": "104",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 104/2023",
+"short": "HCL Brusturoasa nr. 104/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/132166",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -91,6 +158,51 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-108-2023",
+"path": "local/bacau/brusturoasa/2023/108",
+"kind": "local",
+"year": "2023",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 108/2023 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitatile de invațamant din comuna Brusturoasa, pentru perioada septembrie - octombrie 2023",
+"short": "HCL Brusturoasa nr. 108/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/132170",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-109-2023",
+"path": "local/bacau/brusturoasa/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 109/2023",
+"short": "HCL Brusturoasa nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/133045",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-110-2023",
 "path": "local/bacau/brusturoasa/2023/110",
 "kind": "local",
@@ -110,6 +222,51 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-111-2023",
+"path": "local/bacau/brusturoasa/2023/111",
+"kind": "local",
+"year": "2023",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 111/2023",
+"short": "HCL Brusturoasa nr. 111/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135382",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-112-2023",
+"path": "local/bacau/brusturoasa/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 112/2023 Privind rectificarea bugetului local al comunei Brusturoasa pentru anul 2023 și modificarea listei de investiții",
+"short": "HCL Brusturoasa nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135383",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +292,50 @@
 }
 },
 {
+"slug": "hcl-bacau--brusturoasa-114-2023",
+"path": "local/bacau/brusturoasa/2023/114",
+"kind": "local",
+"year": "2023",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 114/2023 pentru aprobarea decontarii cheltuielilor de transport pentru cadrele didactice si/sau a personalului didactic auxiliar care isi desfasoara activitatea la unitațile de invațamant din comuna Brusturoasa, pentru luna noiembrie 2023",
+"short": "HCL Brusturoasa nr. 114/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135385",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-115-2023",
+"path": "local/bacau/brusturoasa/2023/115",
+"kind": "local",
+"year": "2023",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 115/2023 privind aprobarea unui sprijin financiar de la bugetul local pentru parohia ortodoxa ” Nașterea Maicii Domnului” Brusturoasa și Parohia ortodoxa „ Sfantul Ilie ” Camenca",
+"short": "HCL Brusturoasa nr. 115/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135386",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-bacau--brusturoasa-116-2023",
 "path": "local/bacau/brusturoasa/2023/116",
 "kind": "local",
@@ -154,6 +355,94 @@
 "council_name": "Consiliul Local al Comunei Brusturoasa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-117-2023",
+"path": "local/bacau/brusturoasa/2023/117",
+"kind": "local",
+"year": "2023",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 117/2023 privind aprobarea achitarii in avans catre Ministerul Fondurilor Europene, a creantelor aferente platilor efectuate din fonduri comunitare și fonduri de cofinantare aferente acestora, stabilite prin Procesul-verbal de constatare a neregulilor si de stabilire a creantelor bugetare nr. 11087 din 11.11.2019",
+"short": "HCL Brusturoasa nr. 117/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135388",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-118-2023",
+"path": "local/bacau/brusturoasa/2023/118",
+"kind": "local",
+"year": "2023",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 118/2023 privind aprobarea efectuarii concediului de odihna neefectuat in anul 2023, de catre primarul și viceprimarul comunei Brusturoasa, in cursul anului 2024",
+"short": "HCL Brusturoasa nr. 118/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135389",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-119-2023",
+"path": "local/bacau/brusturoasa/2023/119",
+"kind": "local",
+"year": "2023",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 119/2023 privind aprobarea solicitarii Avizului conform pentru organizarea rețelei școlare de învațamant preuniversitar de stat de pe raza comunei Brusturoasa in anul școlar 2024-2025",
+"short": "HCL Brusturoasa nr. 119/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135390",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-bacau--brusturoasa-120-2023",
+"path": "local/bacau/brusturoasa/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Brusturoasa nr. 120/2023 privind aprobarea decontarii cheltuielilor cu naveta și a Regulamentului pentru decontarea cheltuielilor cu naveta, pentru salariații din cadrul aparatului de specialitate a primarului comunei Brusturoasa, judetul Bacau",
+"short": "HCL Brusturoasa nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-03",
+"latest": "2024-01-03",
+"portal": "https://emol.ro/brusturoasa-bc/registru-hcl/135391",
+"council": "bacau/brusturoasa",
+"council_name": "Consiliul Local al Comunei Brusturoasa",
+"flags": {
+"metadata_only": "individual"
 }
 }
 ]

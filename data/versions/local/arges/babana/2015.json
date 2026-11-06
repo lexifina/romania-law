@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/arges/babana/2015",
+ "acts": [
+  {
+   "slug": "hcl-arges--babana-21-2015",
+   "path": "local/arges/babana/2015/21",
+   "short": "HCL Băbana nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 21/2015 Privind rezilierea contractului de delegare a gestiunii serviciului public de alimentare cu apa si de canalizare nr. 540/05.02.2009 /S7g/OS.OZ.2OO1 intre Comuna Babana prin Consiliul Local si S.C Apa Arges ( A.E.p.S.U.p) Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 25.03.201,5",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2015-03-25",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2021.pdf",
+     "sha256": "f7eddd1877eede875a6fe50889c577b556f174abbe15c4bc33e23a5a1a9892ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-22-2015",
+   "path": "local/arges/babana/2015/22",
+   "short": "HCL Băbana nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 22/2015 privind scoaterea la licitatie c suprafetei de 70 mp din donreniul public apartinand consiliului Local Babana in vederea concesioanarii Consiliul Local al Comunei Babana, judetul Arges, intrunit in sedinta ordinara din data de 25.03.2015",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2015-03-25",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hot%2022.pdf",
+     "sha256": "5a58f06e1619b09d0bae8b29c4f51334878ff1931308d501221d4ab8c740e6aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-63-2015",
+   "path": "local/arges/babana/2015/63",
+   "short": "HCL Băbana nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 63/2015 Privind microciparea cainilor cu stapan",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2015-10-29",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/pdf/hotararea%2063%202015.pdf",
+     "sha256": "9be3ca043bcb7b080444374d82f9d5e6445909ceeea4035dd931b26d59c5bb51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arges--babana-7-2015",
+   "path": "local/arges/babana/2015/7",
+   "short": "HCL Băbana nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Comunei Băbana nr. 7/2015 pentru infiintare si functionare ONG",
+   "url": "https://www.primariababana.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative-hcl/806-hotarari-ale-consiliu-local",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariababana.ro/images/hotarari/hot%207%20dealurile%20cotmenei.pdf",
+     "sha256": "20e277be06bb43d5c057c3bca733946541612010482ef98ea45c79cd355d323d"
+    }
+   ]
+  }
+ ]
+}

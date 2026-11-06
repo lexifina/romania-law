@@ -93,6 +93,50 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-82-2024",
+"path": "local/arad/halmagiu/2024/82",
+"kind": "local",
+"year": "2024",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 82/2024 privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 19.11.2024, convocată prin Dispoziția primarului nr. 218 din 14.11.2024",
+"short": "HCL Hălmagiu nr. 82/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201882",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-83-2024",
+"path": "local/arad/halmagiu/2024/83",
+"kind": "local",
+"year": "2024",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 83/2024 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 01.11.2024",
+"short": "HCL Hălmagiu nr. 83/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201883",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-84-2024",
 "path": "local/arad/halmagiu/2024/84",
 "kind": "local",
@@ -134,6 +178,50 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-86-2024",
+"path": "local/arad/halmagiu/2024/86",
+"kind": "local",
+"year": "2024",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 86/2024 privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 11.12.2024, convocată prin Dispoziția primarului nr. 232 din 06.12.2024",
+"short": "HCL Hălmagiu nr. 86/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201888",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-87-2024",
+"path": "local/arad/halmagiu/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 87/2024 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 19.11.2024",
+"short": "HCL Hălmagiu nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201889",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -247,6 +335,29 @@
 }
 },
 {
+"slug": "hcl-arad--halmagiu-93-2024",
+"path": "local/arad/halmagiu/2024/93",
+"kind": "local",
+"year": "2024",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 93/2024",
+"short": "HCL Hălmagiu nr. 93/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201906",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--halmagiu-94-2024",
 "path": "local/arad/halmagiu/2024/94",
 "kind": "local",
@@ -266,6 +377,50 @@
 "council_name": "Consiliul Local al Comunei Hălmagiu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-95-2024",
+"path": "local/arad/halmagiu/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 95/2024 privind aprobarea ordinii de zi a ședinței ordinare publice a Consiliului Local Hălmagiu, județul Arad, întrunit în data de 17.12.2024, convocată prin Dispoziția primarului nr. 235 din 17.12.2024",
+"short": "HCL Hălmagiu nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201909",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--halmagiu-96-2024",
+"path": "local/arad/halmagiu/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Hălmagiu nr. 96/2024 privind aprobarea procesului verbal al ședinței Consiliului local Hălmagiu din 11.12.2024",
+"short": "HCL Hălmagiu nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/halmagiu-ar/registru-hcl/201910",
+"council": "arad/halmagiu",
+"council_name": "Consiliul Local al Comunei Hălmagiu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

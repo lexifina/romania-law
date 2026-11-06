@@ -203,6 +203,28 @@
 }
 },
 {
+"slug": "hcl-arges--maracineni-113-2022",
+"path": "local/arges/maracineni/2022/113",
+"kind": "local",
+"year": "2022",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Mărăcineni nr. 113/2022 Privind mandatarea primarului localitatii Mărăcineni de a vota retragerea Comunei Albeștii de Muscel,comunei Cuca,Comunei Cotmeana si excluderea comunelor Izvoru și Recea din Asociatia de Dezvoltare Intercomunitară Argeș",
+"short": "HCL Mărăcineni nr. 113/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-06",
+"latest": "2023-10-06",
+"portal": "https://emol.ro/maracineni-ag/registru-hcl/85641",
+"council": "arges/maracineni",
+"council_name": "Consiliul Local al Comunei Mărăcineni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arges--maracineni-114-2022",
 "path": "local/arges/maracineni/2022/114",
 "kind": "local",

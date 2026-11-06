@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/sebis/2019",
+ "acts": [
+  {
+   "slug": "hcl-arad--sebis-82-2019",
+   "path": "local/arad/sebis/2019/82",
+   "short": "HCL Sebiș nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Sebiș nr. 82/2019",
+   "url": "https://primariasebis.ro/hotarari/hotarari-2019/",
+   "versions": [
+    {
+     "from": "2019-10-14",
+     "units": 1,
+     "source_url": "https://primariasebis.ro/wp-content/uploads/2026/09/hotarare-vice.pdf",
+     "sha256": "6462769bb6b58e28de93bec765668b595561041488a7e1c9c81df2114c8a964d"
+    }
+   ]
+  }
+ ]
+}

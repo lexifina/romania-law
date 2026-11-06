@@ -3,6 +3,36 @@
  "shard": "local/alba/arieseni/2025",
  "acts": [
   {
+   "slug": "hcl-alba--arieseni-48-2025",
+   "path": "local/alba/arieseni/2025/48",
+   "short": "HCL Arieșeni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 48/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/10/HCL-48.pdf",
+     "sha256": "4b14cdceaf10295fdeb7915fb987e6cf792ec4f55e5097018bd3bf9725b9b36f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-alba--arieseni-55-2025",
+   "path": "local/alba/arieseni/2025/55",
+   "short": "HCL Arieșeni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Arieșeni nr. 55/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 1,
+     "source_url": "https://comuna-arieseni.ro/wp-content/uploads/2025/11/HCL-55.pdf",
+     "sha256": "7c0dc9df23624c9fc443eb8566658031b57d834fb9b64ac1cb04bdab58362931"
+    }
+   ]
+  },
+  {
    "slug": "hcl-alba--arieseni-59-2025",
    "path": "local/alba/arieseni/2025/59",
    "short": "HCL Arieșeni nr. 59/2025",

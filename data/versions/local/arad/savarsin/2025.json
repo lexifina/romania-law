@@ -3,6 +3,21 @@
  "shard": "local/arad/savarsin/2025",
  "acts": [
   {
+   "slug": "hcl-arad--savarsin-89-2025",
+   "path": "local/arad/savarsin/2025/89",
+   "short": "HCL Săvârșin nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Săvârșin nr. 89/2025",
+   "url": "https://primariasavarsin.ro/categorie-documente/consiliul-local/",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://primariasavarsin.ro/wp-content/uploads/2026/01/HCL-NR-89-DIN-28.11.2025.pdf",
+     "sha256": "8aab70465edbe67d630128fbd8a185044a15f5c27400d4621e207699a5f026c9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--savarsin-93-2025",
    "path": "local/arad/savarsin/2025/93",
    "short": "HCL Săvârșin nr. 93/2025",

@@ -179,6 +179,73 @@
 }
 },
 {
+"slug": "hcl-arad--carand-31-2026",
+"path": "local/arad/carand/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 31/2026 privind aprobarea procesului verbal anterior, încheiat cu ocazia ședinţei extraordinare a Consiliului Local Cărand din data de 30.04.2026",
+"short": "HCL Cărand nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276609",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--carand-32-2026",
+"path": "local/arad/carand/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 32/2026 privind aprobarea ordinei de zi a ședinței extraordinară pentru data de 11 mai 2026",
+"short": "HCL Cărand nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276610",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--carand-33-2026",
+"path": "local/arad/carand/2026/33",
+"kind": "local",
+"year": "2026",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 33/2026",
+"short": "HCL Cărand nr. 33/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276611",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-arad--carand-34-2026",
 "path": "local/arad/carand/2026/34",
 "kind": "local",
@@ -264,6 +331,72 @@
 "council_name": "Consiliul Local al Comunei Cărand",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--carand-38-2026",
+"path": "local/arad/carand/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 38/2026 privind aprobarea procesului verbal anterior, încheiat cu ocazia ședinţei extraordinare a Consiliului Local Cărand din data de 11.06.2026",
+"short": "HCL Cărand nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276616",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--carand-39-2026",
+"path": "local/arad/carand/2026/39",
+"kind": "local",
+"year": "2026",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 39/2026 privind aprobarea ordinei de zi a ședinței ordinară pentru data de 26 iunie 2026",
+"short": "HCL Cărand nr. 39/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276617",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-arad--carand-40-2026",
+"path": "local/arad/carand/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărand nr. 40/2026 privind aprobarea închirierii prin licitatie publica a proprietății imobiliare SAD și 4 apartamente identificată în CF 303242 Cărand, situată în Loc. Cărand, Nr. 70B, jud. Arad, proprietatea privată a Comunei Cărand",
+"short": "HCL Cărand nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-03",
+"latest": "2026-07-03",
+"portal": "https://emol.ro/carand-ar/registru-hcl/276618",
+"council": "arad/carand",
+"council_name": "Consiliul Local al Comunei Cărand",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

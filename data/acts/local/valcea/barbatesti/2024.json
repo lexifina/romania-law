@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/valcea/barbatesti/2024",
+"acts": [
+{
+"slug": "hcl-valcea--barbatesti-31-2024",
+"path": "local/valcea/barbatesti/2024/31",
+"kind": "local",
+"year": "2024",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bărbătești nr. 31/2024 HCL 31 Privitor la schimbul unor terenuri",
+"short": "HCL Bărbătești nr. 31/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-29",
+"latest": "2024-03-29",
+"portal": "https://barbatesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/21676#92333",
+"council": "valcea/barbatesti",
+"council_name": "Consiliul Local al Comunei Bărbătești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

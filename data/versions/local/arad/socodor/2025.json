@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-arad--socodor-103-2025",
+   "path": "local/arad/socodor/2025/103",
+   "short": "HCL Socodor nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 103/2025 privind acordarea unor ajutoare de urgență",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245053",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--socodor-104-2025",
    "path": "local/arad/socodor/2025/104",
    "short": "HCL Socodor nr. 104/2025",
@@ -118,6 +133,36 @@
      "from": "2026-01-08",
      "units": 1,
      "source_url": "https://emol.ro/socodor-ar/registru-hcl/245058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-109-2025",
+   "path": "local/arad/socodor/2025/109",
+   "short": "HCL Socodor nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 109/2025 privind aprobarea documentaţiei tehnico-economice faza PT a proiectului „Sistematizare și utilități pentru Construcția de locuințe pentru tineri, destinate închirierii, Județul Arad, Comuna Socodor, Localitatea Socodor, Nr.66, Bloc 1",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245059",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--socodor-110-2025",
+   "path": "local/arad/socodor/2025/110",
+   "short": "HCL Socodor nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Socodor nr. 110/2025 privind repoziționarea și modificarea unor suprafețe de teren, amplasate în intravilanul și extravilanul comunei Socodor, județul Arad",
+   "url": "https://emol.ro/socodor-ar/registru-hcl/245060",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/socodor-ar/registru-hcl/245060",
      "sha256": null
     }
    ]

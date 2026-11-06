@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/arad/taut/2025",
+ "acts": [
+  {
+   "slug": "hcl-arad--taut-72-2025",
+   "path": "local/arad/taut/2025/72",
+   "short": "HCL Tauț nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Tauț nr. 72/2025 privind aprobarea procesului verbal pentru sedinta ordinara din data de 27.11.2025",
+   "url": "https://primariataut.ro/documente/hotarari-ale-consiliului-local-nr-72-79-din-2025/",
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "units": 1,
+     "source_url": "https://primariataut.ro/wp-content/uploads/2026/01/Hotararea-NR.-72-privind-aprobarea-procesului-verbal-pentru-sedinta-ordinara-din-data-de-27.11.2025.pdf",
+     "sha256": "e930a6339f01a451ea8f1dbc1c6b2895d1fa8cde22d2e30a82dfdb177017f200"
+    }
+   ]
+  }
+ ]
+}

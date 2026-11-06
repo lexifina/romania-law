@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-82-2024",
+   "path": "local/arad/varfurile/2024/82",
+   "short": "HCL Vârfurile nr. 82/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 82/2024 privind aprobarea procesului verbal al ședinței extraordinare a Consiliului Local Vârfurile din data de 13.12.2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184104",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184104",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-83-2024",
+   "path": "local/arad/varfurile/2024/83",
+   "short": "HCL Vârfurile nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 83/2024 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului Local Vârfurile din data de 20.12.2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184105",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184105",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-84-2024",
    "path": "local/arad/varfurile/2024/84",
    "short": "HCL Vârfurile nr. 84/2024",
@@ -138,6 +168,111 @@
    ]
   },
   {
+   "slug": "hcl-arad--varfurile-90-2024",
+   "path": "local/arad/varfurile/2024/90",
+   "short": "HCL Vârfurile nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 90/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184112",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-91-2024",
+   "path": "local/arad/varfurile/2024/91",
+   "short": "HCL Vârfurile nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 91/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184113",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-92-2024",
+   "path": "local/arad/varfurile/2024/92",
+   "short": "HCL Vârfurile nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 92/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184114",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-93-2024",
+   "path": "local/arad/varfurile/2024/93",
+   "short": "HCL Vârfurile nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 93/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184115",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-94-2024",
+   "path": "local/arad/varfurile/2024/94",
+   "short": "HCL Vârfurile nr. 94/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 94/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184116",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-95-2024",
+   "path": "local/arad/varfurile/2024/95",
+   "short": "HCL Vârfurile nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 95/2024 privind aprobarea prelungirii Contractului de închiriere încheiat între Consiliul Local Vârfurile și dl.Gazdovici Adalbert",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184117",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184117",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-96-2024",
+   "path": "local/arad/varfurile/2024/96",
+   "short": "HCL Vârfurile nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 96/2024",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184118",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184118",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--varfurile-97-2024",
    "path": "local/arad/varfurile/2024/97",
    "short": "HCL Vârfurile nr. 97/2024",
@@ -148,6 +283,21 @@
      "from": "2025-01-16",
      "units": 1,
      "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--varfurile-98-2024",
+   "path": "local/arad/varfurile/2024/98",
+   "short": "HCL Vârfurile nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Vârfurile nr. 98/2024 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2025",
+   "url": "https://emol.ro/varfurile-ar/registru-hcl/184120",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/varfurile-ar/registru-hcl/184120",
      "sha256": null
     }
    ]

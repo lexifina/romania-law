@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/arges/stoenesti/2025",
+"acts": [
+{
+"slug": "hcl-arges--stoenesti-55-2025",
+"path": "local/arges/stoenesti/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Stoenești nr. 55/2025",
+"short": "HCL Stoenești nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-29",
+"latest": "2025-12-29",
+"portal": "https://primariastoenestiag.ro/wp-content/uploads/2025/12/hcl-nr-55-29-.12.2025_0001.pdf",
+"council": "arges/stoenesti",
+"council_name": "Consiliul Local al Comunei Stoenești",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

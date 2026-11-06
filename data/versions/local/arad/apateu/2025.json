@@ -183,6 +183,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--apateu-20-2025",
+   "path": "local/arad/apateu/2025/20",
+   "short": "HCL Apateu nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 20/2025 privind aprobarea închirieri pajistilor comunale în suprafață de 1 430,60 ha aparținând domeniului privat al Comunei Apateu",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113642",
+   "versions": [
+    {
+     "from": "2025-04-07",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-21-2025",
+   "path": "local/arad/apateu/2025/21",
+   "short": "HCL Apateu nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 21/2025 privind aprobarea închirieri pajistilor comunale în suprafață de 1 430,60 ha aparținând domeniului privat al Comunei Apateu",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113644",
+   "versions": [
+    {
+     "from": "2025-04-17",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113644",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--apateu-22-2025",
    "path": "local/arad/apateu/2025/22",
    "short": "HCL Apateu nr. 22/2025",
@@ -363,6 +393,36 @@
    ]
   },
   {
+   "slug": "hcl-arad--apateu-33-2025",
+   "path": "local/arad/apateu/2025/33",
+   "short": "HCL Apateu nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 33/2025 privind închirierea terenului intravila înscris în CF nr.308109 Apateu,proprietatea privată a comunei Apateu,județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113661",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-34-2025",
+   "path": "local/arad/apateu/2025/34",
+   "short": "HCL Apateu nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 34/2025 Privind concesionarea terenului intravilan înscris în CF nr.308109 Apateu,proprietatea privată a Comunei Apateu,județul Arad",
+   "url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113663",
+   "versions": [
+    {
+     "from": "2025-07-30",
+     "units": 1,
+     "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113663",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-arad--apateu-35-2025",
    "path": "local/arad/apateu/2025/35",
    "short": "HCL Apateu nr. 35/2025",
@@ -373,6 +433,21 @@
      "from": "2025-08-29",
      "units": 1,
      "source_url": "https://apateu.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/6176#113666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-arad--apateu-36-2025",
+   "path": "local/arad/apateu/2025/36",
+   "short": "HCL Apateu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Apateu nr. 36/2025",
+   "url": null,
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

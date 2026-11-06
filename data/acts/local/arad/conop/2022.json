@@ -3,6 +3,28 @@
 "shard": "local/arad/conop/2022",
 "acts": [
 {
+"slug": "hcl-arad--conop-73-2022",
+"path": "local/arad/conop/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 73/2022 privind alegerea presedintelui de sedintă",
+"short": "HCL Conop nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/conop-ar/registru-hcl/81819",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-74-2022",
 "path": "local/arad/conop/2022/74",
 "kind": "local",
@@ -70,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-arad--conop-77-2022",
+"path": "local/arad/conop/2022/77",
+"kind": "local",
+"year": "2022",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 77/2022 privind stabilirea preţului de vânzare la licitație și modalitatea de valorificare a materialului lemnos care se exploatează din pădurea proprietate publică şi privată a comunei Conop",
+"short": "HCL Conop nr. 77/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-07",
+"latest": "2022-12-07",
+"portal": "https://emol.ro/conop-ar/registru-hcl/81823",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-arad--conop-78-2022",
 "path": "local/arad/conop/2022/78",
 "kind": "local",
@@ -133,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Conop",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-arad--conop-81-2022",
+"path": "local/arad/conop/2022/81",
+"kind": "local",
+"year": "2022",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Conop nr. 81/2022 privind alegerea presedintelui de sedintă",
+"short": "HCL Conop nr. 81/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-09",
+"latest": "2023-01-09",
+"portal": "https://emol.ro/conop-ar/registru-hcl/85149",
+"council": "arad/conop",
+"council_name": "Consiliul Local al Comunei Conop",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
