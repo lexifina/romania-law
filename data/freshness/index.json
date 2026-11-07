@@ -7443,10 +7443,10 @@
    "file": "data/freshness/local/alba/abrud/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -7456,10 +7456,10 @@
    "file": "data/freshness/local/alba/abrud/2025.csv",
    "count": 13,
    "by_status": {
-    "current": 13,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 13,
     "source-unavailable": 0
    }
   },
@@ -7469,10 +7469,10 @@
    "file": "data/freshness/local/alba/abrud/2026.csv",
    "count": 100,
    "by_status": {
-    "current": 100,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 98,
     "source-unavailable": 0
    }
   },
@@ -10979,10 +10979,10 @@
    "file": "data/freshness/local/bacau/comanesti/2016.csv",
    "count": 2,
    "by_status": {
-    "current": 2,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -10992,10 +10992,10 @@
    "file": "data/freshness/local/bacau/comanesti/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -11005,10 +11005,10 @@
    "file": "data/freshness/local/bacau/comanesti/2026.csv",
    "count": 66,
    "by_status": {
-    "current": 66,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 66,
     "source-unavailable": 0
    }
   },
@@ -17583,10 +17583,10 @@
    "file": "data/freshness/local/brasov/harseni/2013.csv",
    "count": 4,
    "by_status": {
-    "current": 4,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },
@@ -27476,10 +27476,10 @@
    "file": "data/freshness/local/constanta/navodari/2021.csv",
    "count": 4,
    "by_status": {
-    "current": 4,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },
@@ -28620,10 +28620,10 @@
    "file": "data/freshness/local/covasna/covasna/2025.csv",
    "count": 9,
    "by_status": {
-    "current": 9,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 9,
     "source-unavailable": 0
    }
   },
@@ -28633,10 +28633,10 @@
    "file": "data/freshness/local/covasna/covasna/2026.csv",
    "count": 34,
    "by_status": {
-    "current": 33,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 34,
     "source-unavailable": 0
    }
   },
@@ -33027,10 +33027,10 @@
    "file": "data/freshness/local/galati/movileni/2020.csv",
    "count": 4,
    "by_status": {
-    "current": 4,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 4,
     "source-unavailable": 0
    }
   },
@@ -33040,10 +33040,10 @@
    "file": "data/freshness/local/galati/movileni/2026.csv",
    "count": 13,
    "by_status": {
-    "current": 13,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 13,
     "source-unavailable": 0
    }
   },
@@ -34665,10 +34665,10 @@
    "file": "data/freshness/local/gorj/rovinari/2021.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -34678,10 +34678,10 @@
    "file": "data/freshness/local/gorj/rovinari/2025.csv",
    "count": 89,
    "by_status": {
-    "current": 89,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 89,
     "source-unavailable": 0
    }
   },
@@ -34691,10 +34691,10 @@
    "file": "data/freshness/local/gorj/rovinari/2026.csv",
    "count": 51,
    "by_status": {
-    "current": 51,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 51,
     "source-unavailable": 0
    }
   },
@@ -34847,10 +34847,10 @@
    "file": "data/freshness/local/gorj/ticleni/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -34860,10 +34860,10 @@
    "file": "data/freshness/local/gorj/ticleni/2025.csv",
    "count": 64,
    "by_status": {
-    "current": 64,
+    "current": 4,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 60,
     "source-unavailable": 0
    }
   },
@@ -34873,10 +34873,10 @@
    "file": "data/freshness/local/gorj/ticleni/2026.csv",
    "count": 37,
    "by_status": {
-    "current": 37,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 36,
     "source-unavailable": 0
    }
   },
@@ -36524,10 +36524,10 @@
    "file": "data/freshness/local/hunedoara/simeria/2016.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -36537,10 +36537,10 @@
    "file": "data/freshness/local/hunedoara/simeria/2019.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -36550,10 +36550,10 @@
    "file": "data/freshness/local/hunedoara/simeria/2022.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -36563,10 +36563,10 @@
    "file": "data/freshness/local/hunedoara/simeria/2023.csv",
    "count": 2,
    "by_status": {
-    "current": 2,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -36576,10 +36576,10 @@
    "file": "data/freshness/local/hunedoara/simeria/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -37044,10 +37044,10 @@
    "file": "data/freshness/local/ialomita/cazanesti/2004.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -37057,10 +37057,10 @@
    "file": "data/freshness/local/ialomita/cazanesti/2021.csv",
    "count": 16,
    "by_status": {
-    "current": 16,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 16,
     "source-unavailable": 0
    }
   },
@@ -40151,10 +40151,10 @@
    "file": "data/freshness/local/iasi/mogosesti-siret/2025.csv",
    "count": 26,
    "by_status": {
-    "current": 26,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 26,
     "source-unavailable": 0
    }
   },
@@ -42985,10 +42985,10 @@
    "file": "data/freshness/local/ilfov/popesti-leordeni/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -42998,10 +42998,10 @@
    "file": "data/freshness/local/ilfov/popesti-leordeni/2022.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -43011,10 +43011,10 @@
    "file": "data/freshness/local/ilfov/popesti-leordeni/2023.csv",
    "count": 13,
    "by_status": {
-    "current": 13,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 13,
     "source-unavailable": 0
    }
   },
@@ -51227,10 +51227,10 @@
    "file": "data/freshness/local/mures/rastolita/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -53164,10 +53164,10 @@
    "file": "data/freshness/local/olt/bals/2021.csv",
    "count": 17,
    "by_status": {
-    "current": 17,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 17,
     "source-unavailable": 0
    }
   },
@@ -53177,10 +53177,10 @@
    "file": "data/freshness/local/olt/bals/2022.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -53190,10 +53190,10 @@
    "file": "data/freshness/local/olt/bals/2023.csv",
    "count": 24,
    "by_status": {
-    "current": 24,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 24,
     "source-unavailable": 0
    }
   },
@@ -53203,10 +53203,10 @@
    "file": "data/freshness/local/olt/bals/2024.csv",
    "count": 61,
    "by_status": {
-    "current": 61,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 61,
     "source-unavailable": 0
    }
   },
@@ -53216,10 +53216,10 @@
    "file": "data/freshness/local/olt/bals/2025.csv",
    "count": 49,
    "by_status": {
-    "current": 49,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 49,
     "source-unavailable": 0
    }
   },
@@ -53229,10 +53229,10 @@
    "file": "data/freshness/local/olt/bals/2026.csv",
    "count": 2,
    "by_status": {
-    "current": 2,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 2,
     "source-unavailable": 0
    }
   },
@@ -53814,10 +53814,10 @@
    "file": "data/freshness/local/olt/piatra-olt/2026.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -54594,10 +54594,10 @@
    "file": "data/freshness/local/prahova/breaza/2016.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -54607,10 +54607,10 @@
    "file": "data/freshness/local/prahova/breaza/2019.csv",
    "count": 1,
    "by_status": {
-    "current": 1,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -54620,10 +54620,10 @@
    "file": "data/freshness/local/prahova/breaza/2020.csv",
    "count": 6,
    "by_status": {
-    "current": 6,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 6,
     "source-unavailable": 0
    }
   },
@@ -54633,10 +54633,10 @@
    "file": "data/freshness/local/prahova/breaza/2021.csv",
    "count": 9,
    "by_status": {
-    "current": 9,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 9,
     "source-unavailable": 0
    }
   },
@@ -66255,10 +66255,10 @@
    "file": "data/freshness/local/vrancea/marasesti/2018.csv",
    "count": 23,
    "by_status": {
-    "current": 23,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 23,
     "source-unavailable": 0
    }
   },
@@ -66268,10 +66268,10 @@
    "file": "data/freshness/local/vrancea/marasesti/2019.csv",
    "count": 58,
    "by_status": {
-    "current": 58,
+    "current": 0,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 0,
+    "unverified": 58,
     "source-unavailable": 0
    }
   },

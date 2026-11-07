@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hg-1-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-712-2003,2003-06-26,no,https://legislatie.just.ro/Public/DetaliiDocument/33205
-hg-10-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33906
+hg-10-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33906
 hg-100-2002,current,2026-11-03,,edition-index,hg-210-2007,2007-03-19,yes,https://legislatie.just.ro/Public/DetaliiDocument/96319
 hg-1000-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/38532
 hg-1001-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/38441
@@ -207,7 +207,7 @@ hg-1194-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislati
 hg-1195-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/39916
 hg-1196-2002,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/39809
 hg-1199-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/39624
-hg-12-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33922
+hg-12-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33922
 hg-120-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34089
 hg-1201-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/39674
 hg-1202-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/39724
@@ -308,7 +308,7 @@ hg-1296-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislati
 hg-1297-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40234
 hg-1298-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40210
 hg-1299-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40242
-hg-13-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33923
+hg-13-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33923
 hg-130-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34180
 hg-1300-2002,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1159-2007,2007-10-17,no,https://legislatie.just.ro/Public/DetaliiDocument/40481
 hg-1302-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40265
@@ -411,7 +411,7 @@ hg-1396-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislati
 hg-1397-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40682
 hg-1398-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40585
 hg-1399-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40586
-hg-14-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33375
+hg-14-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33375
 hg-140-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34230
 hg-1400-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40777
 hg-1401-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/40778
@@ -640,7 +640,7 @@ hg-176-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-177-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1306-2002,2002-12-05,no,https://legislatie.just.ro/Public/DetaliiDocument/34378
 hg-178-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34370
 hg-179-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34396
-hg-18-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33435
+hg-18-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33435
 hg-180-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1594-2002,2003-01-28,no,https://legislatie.just.ro/Public/DetaliiDocument/34350
 hg-181-2002,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/34357
 hg-182-2002,stale,2025-12-15,2025-12-22,consolidated-form,hg-612-2005,2005-07-06,yes,https://legislatie.just.ro/Public/DetaliiDocument/34376
@@ -671,7 +671,7 @@ hg-206-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-207-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34529
 hg-208-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34478
 hg-209-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34758
-hg-21-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33409
+hg-21-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33409
 hg-210-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-683-2002,2002-07-10,no,https://legislatie.just.ro/Public/DetaliiDocument/34431
 hg-211-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34491
 hg-212-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/34567
@@ -818,7 +818,7 @@ hg-346-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-347-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35484
 hg-348-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35252
 hg-349-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/35509
-hg-35-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33711
+hg-35-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33711
 hg-350-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1246-2002,2002-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/35422
 hg-351-2002,pending-change,2026-11-04,2026-11-11,amendment-search,hg-1506-2002,2002-12-28,no,https://legislatie.just.ro/Public/DetaliiDocument/35596
 hg-352-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-537-2015,2015-07-13,no,https://legislatie.just.ro/Public/DetaliiDocument/35961
@@ -871,7 +871,7 @@ hg-397-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-398-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35910
 hg-399-2002,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/35713
 hg-4-2002,pending-change,2026-11-04,2026-11-11,amendment-search,hg-889-2002,2002-08-23,no,https://legislatie.just.ro/Public/DetaliiDocument/33368
-hg-40-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33635
+hg-40-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33635
 hg-400-2002,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/35714
 hg-401-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35597
 hg-402-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/35598
@@ -936,7 +936,7 @@ hg-456-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie
 hg-457-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36123
 hg-458-2002,current,2026-11-03,2026-11-10,edition-index,,,,https://legislatie.just.ro/Public/DetaliiDocument/36177
 hg-459-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/36217
-hg-46-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33717
+hg-46-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33717
 hg-460-2002,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/36111
 hg-461-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36391
 hg-462-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36479
@@ -947,7 +947,7 @@ hg-466-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-467-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36423
 hg-468-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36276
 hg-469-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1216-2002,2002-11-19,no,https://legislatie.just.ro/Public/DetaliiDocument/36203
-hg-47-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33719
+hg-47-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33719
 hg-470-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36204
 hg-471-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-636-2002,2002-06-20,no,https://legislatie.just.ro/Public/DetaliiDocument/36154
 hg-472-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36255
@@ -979,7 +979,7 @@ hg-497-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-498-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36220
 hg-499-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36241
 hg-5-2002,pending-change,2026-11-06,2026-11-13,amendment-search,Rectificarea nr. 5/2002,2002-01-10,no,https://legislatie.just.ro/Public/DetaliiDocument/33431
-hg-50-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33639
+hg-50-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33639
 hg-501-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36244
 hg-502-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36243
 hg-503-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36246
@@ -999,7 +999,7 @@ hg-515-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-516-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36400
 hg-517-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36370
 hg-519-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36371
-hg-52-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33733
+hg-52-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33733
 hg-520-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36372
 hg-521-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-1348-2004,2004-09-02,no,https://legislatie.just.ro/Public/DetaliiDocument/36373
 hg-522-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36374
@@ -1010,7 +1010,7 @@ hg-526-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-527-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36394
 hg-528-2002,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/36390
 hg-529-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36446
-hg-53-2002,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33734
+hg-53-2002,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33734
 hg-530-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36341
 hg-531-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/36340
 hg-532-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-219-2013,2013-05-09,no,https://legislatie.just.ro/Public/DetaliiDocument/37566
@@ -1382,7 +1382,7 @@ hg-896-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie
 hg-897-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/38262
 hg-898-2002,unverified,,,,,,,https://legislatie.just.ro/Public/DetaliiDocument/230736
 hg-899-2002,stale,2025-09-15,2025-09-22,consolidated-form,og-12-2008,2008-02-04,yes,https://legislatie.just.ro/Public/DetaliiDocument/131521
-hg-9-2002,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/33374
+hg-9-2002,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/33374
 hg-90-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/33957
 hg-900-2002,pending-change,2026-11-06,2026-11-13,amendment-search,hg-616-2005,2005-07-06,no,https://legislatie.just.ro/Public/DetaliiDocument/38291
 hg-901-2002,current,2026-11-04,2026-11-11,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/38292

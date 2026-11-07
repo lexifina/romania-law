@@ -1,5 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hcl-galati--movileni-1-2020,current,2026-11-07,2026-12-07,register-read,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
-hcl-galati--movileni-13-2020,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-galati--movileni-18-2020,current,2026-11-07,2026-12-07,register-read,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
-hcl-galati--movileni-6-2020,current,2026-11-07,2026-12-07,register-read,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
+hcl-galati--movileni-1-2020,unverified,,,,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
+hcl-galati--movileni-13-2020,unverified,,,,,,,
+hcl-galati--movileni-18-2020,unverified,,,,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
+hcl-galati--movileni-6-2020,unverified,,,,,,,https://primaria-movileni.ro/hotatari-ale-consiliului-local/
