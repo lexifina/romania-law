@@ -24,3 +24,11 @@ Act id: `ordin-dezvoltare-1203-2022` (tags `ordin-dezvoltare-1203-2022/<day>`; `
 - Ordin dezvoltare nr. 1203/2022: Anexa nr. 1 (REGLEMENTARE TEHNICĂ din 16 iunie 2022 "Normativ privind proiectarea, realizarea și exploatarea construcțiilor pentru școli și licee, indicativ NP 010-2022") is part of the order and is published in its folder, anexa-1/ (paragraphs), from document 256668 of the official web service.
 - Ordin dezvoltare nr. 1203/2022: the publisher's note "*) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 604 bis, care se poate achiziționa de la Biroul pentru relații cu publicul din Str. Parcului nr. 65, intrarea A, sectorul 1, Bucureș" says a part of it is published in a "bis" issue of the Monitorul Oficial; the official web service holds that issue's text as a document of its own, published here as Anexa nr. 1. The note itself is not text.
 - Ordin dezvoltare nr. 1203/2022: re-dated by a correction: in force from 21 July 2022 (first published dated 21 June 2022).
+
+## Court decisions on this act
+
+Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
+
+- **Sentința Curții de Apel Constanța nr. 161/2023**, Monitorul Oficial nr. 945 din 13 octombrie 2025 · annulled in part
+
+  > Anulează în parte Ordinul nr. 1.203/2022 pentru aprobarea Regulamentului privind criteriile minime de pregătire , perfecționare și brevetare a piloților maritimi, alții decât piloții de mare largă, emis de Ministerul Transporturilor și Infrastructurii, respectiv în ceea ce privește art. 2 și art. 3 ale punctului B din anexa nr. 1 la regulamentul aprobat prin Ordinul nr. 1.203/2022 .
