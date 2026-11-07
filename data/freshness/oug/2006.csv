@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 oug-1-2006,current,2026-11-03,2026-11-10,edition-index,oug-35-2009,2009-04-14,yes,https://legislatie.just.ro/Public/DetaliiDocument/104844
-oug-10-2006,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/69416
+oug-10-2006,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/69416
 oug-100-2006,current,2026-11-03,2026-11-10,edition-index,legea-121-2007,2007-05-13,yes,https://legislatie.just.ro/Public/DetaliiDocument/205693
 oug-101-2006,pending-change,2026-11-04,2026-11-11,amendment-search,hg-334-2017,2017-05-19,no,https://legislatie.just.ro/Public/DetaliiDocument/77891
 oug-102-2006,pending-change,2026-11-06,2026-11-13,amendment-search,legea-240-2007,2007-07-28,no,https://legislatie.just.ro/Public/DetaliiDocument/77807
@@ -38,7 +38,7 @@ oug-134-2006,pending-change,2026-11-06,2026-11-13,amendment-search,oug-106-2008,
 oug-135-2006,pending-change,2026-11-06,2026-11-13,amendment-search,legea-153-2007,2007-06-06,no,https://legislatie.just.ro/Public/DetaliiDocument/78025
 oug-136-2006,pending-change,2026-11-04,2026-11-11,amendment-search,,2018-12-18,no,https://legislatie.just.ro/Public/DetaliiDocument/78026
 oug-16-2006,pending-change,2026-11-04,2026-11-11,amendment-search,,2010-06-21,no,https://legislatie.just.ro/Public/DetaliiDocument/69312
-oug-17-2006,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/69388
+oug-17-2006,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/69388
 oug-18-2006,pending-change,2026-11-04,2026-11-11,amendment-search,,2017-12-08,no,https://legislatie.just.ro/Public/DetaliiDocument/69389
 oug-19-2006,stale,2026-06-15,2026-06-22,consolidated-form,legea-56-2022,2022-03-21,yes,https://legislatie.just.ro/Public/DetaliiDocument/69729
 oug-2-2006,pending-change,2026-11-06,2026-11-13,amendment-search,legea-271-2006,2006-06-29,no,https://legislatie.just.ro/Public/DetaliiDocument/68875
