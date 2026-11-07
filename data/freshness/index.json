@@ -8808,10 +8808,10 @@
    "file": "data/freshness/local/arad/ineu/2026.csv",
    "count": 54,
    "by_status": {
-    "current": 0,
+    "current": 54,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 54,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -14125,10 +14125,10 @@
    "file": "data/freshness/local/bihor/valea-lui-mihai/2026.csv",
    "count": 97,
    "by_status": {
-    "current": 11,
+    "current": 97,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 86,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -16062,10 +16062,10 @@
    "file": "data/freshness/local/botosani/saveni/2026.csv",
    "count": 2,
    "by_status": {
-    "current": 1,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17505,10 +17505,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2020.csv",
    "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17518,10 +17518,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2022.csv",
    "count": 2,
    "by_status": {
-    "current": 0,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17531,10 +17531,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2023.csv",
    "count": 6,
    "by_status": {
-    "current": 1,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17544,10 +17544,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2024.csv",
    "count": 6,
    "by_status": {
-    "current": 0,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 6,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17557,10 +17557,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2025.csv",
    "count": 14,
    "by_status": {
-    "current": 0,
+    "current": 14,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 14,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17570,10 +17570,10 @@
    "file": "data/freshness/local/brasov/ghimbav/2026.csv",
    "count": 16,
    "by_status": {
-    "current": 0,
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 16,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17700,10 +17700,10 @@
    "file": "data/freshness/local/brasov/rupea/2022.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -17713,10 +17713,10 @@
    "file": "data/freshness/local/brasov/rupea/2024.csv",
    "count": 5,
    "by_status": {
-    "current": 0,
+    "current": 4,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -17726,10 +17726,10 @@
    "file": "data/freshness/local/brasov/rupea/2025.csv",
    "count": 23,
    "by_status": {
-    "current": 0,
+    "current": 20,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 23,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -17739,10 +17739,10 @@
    "file": "data/freshness/local/brasov/rupea/2026.csv",
    "count": 58,
    "by_status": {
-    "current": 0,
+    "current": 55,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 58,
+    "unverified": 3,
     "source-unavailable": 0
    }
   },
@@ -22640,10 +22640,10 @@
    "file": "data/freshness/local/caras-severin/anina/2026.csv",
    "count": 121,
    "by_status": {
-    "current": 0,
+    "current": 121,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 121,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24759,10 +24759,10 @@
    "file": "data/freshness/local/cluj/huedin/2025.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -24772,10 +24772,10 @@
    "file": "data/freshness/local/cluj/huedin/2026.csv",
    "count": 24,
    "by_status": {
-    "current": 0,
+    "current": 24,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 24,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -32052,10 +32052,10 @@
    "file": "data/freshness/local/dolj/segarcea/2020.csv",
    "count": 2,
    "by_status": {
-    "current": 0,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 2,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -32065,10 +32065,10 @@
    "file": "data/freshness/local/dolj/segarcea/2021.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -41464,10 +41464,10 @@
    "file": "data/freshness/local/iasi/targu-frumos/2021.csv",
    "count": 5,
    "by_status": {
-    "current": 0,
+    "current": 5,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 5,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -41477,10 +41477,10 @@
    "file": "data/freshness/local/iasi/targu-frumos/2022.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -42309,10 +42309,10 @@
    "file": "data/freshness/local/ilfov/buftea/2024.csv",
    "count": 101,
    "by_status": {
-    "current": 0,
+    "current": 101,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 101,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -42322,10 +42322,10 @@
    "file": "data/freshness/local/ilfov/buftea/2025.csv",
    "count": 105,
    "by_status": {
-    "current": 0,
+    "current": 105,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 105,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -42335,10 +42335,10 @@
    "file": "data/freshness/local/ilfov/buftea/2026.csv",
    "count": 112,
    "by_status": {
-    "current": 0,
+    "current": 112,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 112,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51136,10 +51136,10 @@
    "file": "data/freshness/local/mures/iernut/2020.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51149,10 +51149,10 @@
    "file": "data/freshness/local/mures/iernut/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51162,10 +51162,10 @@
    "file": "data/freshness/local/mures/iernut/2025.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51175,10 +51175,10 @@
    "file": "data/freshness/local/mures/iernut/2026.csv",
    "count": 30,
    "by_status": {
-    "current": 0,
+    "current": 30,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 30,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51253,10 +51253,10 @@
    "file": "data/freshness/local/mures/sangeorgiu-de-padure/2019.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51266,10 +51266,10 @@
    "file": "data/freshness/local/mures/sangeorgiu-de-padure/2024.csv",
    "count": 9,
    "by_status": {
-    "current": 0,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51279,10 +51279,10 @@
    "file": "data/freshness/local/mures/sangeorgiu-de-padure/2025.csv",
    "count": 73,
    "by_status": {
-    "current": 0,
+    "current": 73,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 73,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51292,10 +51292,10 @@
    "file": "data/freshness/local/mures/sangeorgiu-de-padure/2026.csv",
    "count": 26,
    "by_status": {
-    "current": 0,
+    "current": 25,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 26,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -56453,10 +56453,10 @@
    "file": "data/freshness/local/prahova/sangeru/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -59924,10 +59924,10 @@
    "file": "data/freshness/local/suceava/frasin/2021.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -59937,10 +59937,10 @@
    "file": "data/freshness/local/suceava/frasin/2023.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -59950,10 +59950,10 @@
    "file": "data/freshness/local/suceava/frasin/2024.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -59963,10 +59963,10 @@
    "file": "data/freshness/local/suceava/frasin/2025.csv",
    "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -59976,10 +59976,10 @@
    "file": "data/freshness/local/suceava/frasin/2026.csv",
    "count": 32,
    "by_status": {
-    "current": 0,
+    "current": 31,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 32,
+    "unverified": 1,
     "source-unavailable": 0
    }
   },
@@ -59989,10 +59989,10 @@
    "file": "data/freshness/local/suceava/fratautii-noi/2026.csv",
    "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -61094,10 +61094,10 @@
    "file": "data/freshness/local/suceava/slatina/2026.csv",
    "count": 1,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66281,10 +66281,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2021.csv",
    "count": 50,
    "by_status": {
-    "current": 0,
+    "current": 50,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 50,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66294,10 +66294,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2022.csv",
    "count": 45,
    "by_status": {
-    "current": 0,
+    "current": 45,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 45,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66307,10 +66307,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2023.csv",
    "count": 53,
    "by_status": {
-    "current": 0,
+    "current": 53,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 53,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66320,10 +66320,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2024.csv",
    "count": 59,
    "by_status": {
-    "current": 0,
+    "current": 59,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 59,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66333,10 +66333,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2025.csv",
    "count": 11,
    "by_status": {
-    "current": 0,
+    "current": 11,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 11,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -66346,10 +66346,10 @@
    "file": "data/freshness/local/vrancea/poiana-cristei/2026.csv",
    "count": 9,
    "by_status": {
-    "current": 0,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
