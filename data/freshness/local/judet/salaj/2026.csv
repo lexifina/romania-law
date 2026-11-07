@@ -1,15 +1,15 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcj-salaj-1-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-10-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-10-2026,unverified,,,,,,,
 hcj-salaj-101-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-102-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-103-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-104-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-105-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-107-2026,current,2026-11-07,2026-12-07,register-read,,,,
-hcj-salaj-108-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-107-2026,unverified,,,,,,,
+hcj-salaj-108-2026,unverified,,,,,,,
 hcj-salaj-109-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-11-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-11-2026,unverified,,,,,,,
 hcj-salaj-110-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-111-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-112-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
@@ -39,7 +39,7 @@ hcj-salaj-136-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.r
 hcj-salaj-137-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-138-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-14-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-140-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-140-2026,unverified,,,,,,,
 hcj-salaj-141-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-142-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-143-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
@@ -62,7 +62,7 @@ hcj-salaj-27-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro
 hcj-salaj-28-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-29-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-30-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-31-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-31-2026,unverified,,,,,,,
 hcj-salaj-36-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-37-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-38-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
@@ -71,9 +71,9 @@ hcj-salaj-4-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/
 hcj-salaj-40-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-41-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-42-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-43-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-43-2026,unverified,,,,,,,
 hcj-salaj-44-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-45-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-45-2026,unverified,,,,,,,
 hcj-salaj-46-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-47-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-48-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
@@ -89,7 +89,7 @@ hcj-salaj-59-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro
 hcj-salaj-6-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-60-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-61-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-62-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-62-2026,unverified,,,,,,,
 hcj-salaj-63-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-64-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-65-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
@@ -104,7 +104,7 @@ hcj-salaj-72-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro
 hcj-salaj-74-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-75-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-77-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
-hcj-salaj-78-2026,current,2026-11-07,2026-12-07,register-read,,,,
+hcj-salaj-78-2026,unverified,,,,,,,
 hcj-salaj-79-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-8-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean
 hcj-salaj-80-2026,current,2026-11-04,2026-12-04,register-read,,,,https://cjsj.ro/index.php/consiliul-judetean/hotarari-ale-consiliului-judetean

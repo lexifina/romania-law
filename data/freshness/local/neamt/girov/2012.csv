@@ -1,7 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hcl-neamt--girov-12-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
-hcl-neamt--girov-3-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
-hcl-neamt--girov-4-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
-hcl-neamt--girov-5-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
-hcl-neamt--girov-6-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
-hcl-neamt--girov-9-2012,current,2026-11-07,2026-12-07,register-read,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-12-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-3-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-4-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-5-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-6-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
+hcl-neamt--girov-9-2012,unverified,,,,,,,https://www.girov.ro/monitor-local/arhiva-hcl-girov-2012.html
