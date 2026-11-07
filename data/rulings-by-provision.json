@@ -9583,12 +9583,12 @@
 "slug": "decret-lege-10-1990",
 "path": "decret-lege/1990/10",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 10/1990",
 "act": [],
 "articles": {
 "16": {
-"file": null,
+"file": "art-016.md",
 "decisions": [
 "dcc-71-1996",
 "dcc-75-1996",
@@ -9706,14 +9706,14 @@
 "slug": "decret-lege-126-1990",
 "path": "decret-lege/1990/126",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 126/1990",
 "act": [
 "dcc-49-1995"
 ],
 "articles": {
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "dcc-23-1993",
 "dcc-1201-2008",
@@ -9748,7 +9748,7 @@
 "slug": "decret-lege-24-1990",
 "path": "decret-lege/1990/24",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului-lege nr. 24/1990",
 "act": [
 "dcc-100-1995",
@@ -9756,7 +9756,7 @@
 ],
 "articles": {
 "1": {
-"file": null,
+"file": "art-001.md",
 "decisions": [
 "dcc-347-2003"
 ]
@@ -9767,12 +9767,12 @@
 "slug": "decret-lege-41-1990",
 "path": "decret-lege/1990/41",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 41/1990",
 "act": [],
 "articles": {
 "1": {
-"file": null,
+"file": "art-001.md",
 "decisions": [
 "dcc-10-1996"
 ]
@@ -9783,12 +9783,12 @@
 "slug": "decret-lege-42-1990",
 "path": "decret-lege/1990/42",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 42/1990",
 "act": [],
 "articles": {
 "8": {
-"file": null,
+"file": "art-008.md",
 "decisions": [
 "dcc-5-1993",
 "dcc-24-1993",
@@ -9850,7 +9850,7 @@
 "slug": "decret-lege-66-1990",
 "path": "decret-lege/1990/66",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 66/1990",
 "act": [],
 "articles": {
@@ -9889,18 +9889,18 @@
 "slug": "decret-lege-90-1990",
 "path": "decret-lege/1990/90",
 "kind": "decret-lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul-lege nr. 90/1990",
 "act": [],
 "articles": {
 "4": {
-"file": null,
+"file": "art-004.md",
 "decisions": [
 "dcc-32-1994"
 ]
 },
 "5": {
-"file": null,
+"file": "art-005.md",
 "decisions": [
 "dcc-32-1994"
 ]
@@ -9924,12 +9924,12 @@
 "slug": "decret-130-1949",
 "path": "decret/1949/130",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 130/1949",
 "act": [],
 "articles": {
 "12": {
-"file": null,
+"file": "art-012.md",
 "decisions": [
 "dcc-522-2023"
 ]
@@ -9985,7 +9985,7 @@
 "slug": "decret-111-1951",
 "path": "decret/1951/111",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 111/1951",
 "act": [
 "dcc-12-1995"
@@ -9996,7 +9996,7 @@
 "slug": "decret-224-1951",
 "path": "decret/1951/224",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 224/1951",
 "act": [
 "dcc-46-1993",
@@ -10009,7 +10009,7 @@
 "slug": "decret-203-1953",
 "path": "decret/1953/203",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 203/1953",
 "act": [
 "dcc-44-1999"
@@ -10079,7 +10079,7 @@
 "slug": "decret-311-1954",
 "path": "decret/1954/311",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 311/1954",
 "act": [
 "dcc-55-1998"
@@ -10178,7 +10178,7 @@
 "slug": "decret-244-1955",
 "path": "decret/1955/244",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 244/1955",
 "act": [
 "dcc-94-1995"
@@ -10311,7 +10311,7 @@
 "slug": "decret-334-1958",
 "path": "decret/1958/334",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 334/1958",
 "act": [
 "iccj-hp-67-2023"
@@ -10322,18 +10322,18 @@
 "slug": "decret-210-1960",
 "path": "decret/1960/210",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 210/1960",
 "act": [],
 "articles": {
 "39": {
-"file": null,
+"file": "art-039.md",
 "decisions": [
 "dcc-66-1998"
 ]
 },
 "41": {
-"file": null,
+"file": "art-041.md",
 "decisions": [
 "dcc-66-1998"
 ]
@@ -10344,7 +10344,7 @@
 "slug": "decret-218-1960",
 "path": "decret/1960/218",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 218/1960",
 "act": [
 "dcc-5-1995",
@@ -10363,7 +10363,7 @@
 "slug": "decret-219-1960",
 "path": "decret/1960/219",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 219/1960",
 "act": [],
 "articles": {
@@ -10387,7 +10387,7 @@
 "slug": "decret-221-1960",
 "path": "decret/1960/221",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 221/1960",
 "act": [
 "dcc-128-1995",
@@ -10396,13 +10396,13 @@
 ],
 "articles": {
 "31": {
-"file": null,
+"file": "art-031.md",
 "decisions": [
 "dcc-132-1994"
 ]
 },
 "32": {
-"file": null,
+"file": "art-032.md",
 "decisions": [
 "dcc-132-1994"
 ]
@@ -10499,7 +10499,7 @@
 "slug": "decret-712-1966",
 "path": "decret/1966/712",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 712/1966",
 "act": [
 "dcc-5-1995",
@@ -10511,7 +10511,7 @@
 "slug": "decret-976-1968",
 "path": "decret/1968/976",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 976/1968",
 "act": [
 "dcc-99-1996",
@@ -10622,24 +10622,24 @@
 "slug": "decret-389-1972",
 "path": "decret/1972/389",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 389/1972",
 "act": [],
 "articles": {
 "1": {
-"file": null,
+"file": "art-001.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "2": {
-"file": null,
+"file": "art-002.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
@@ -10650,7 +10650,7 @@
 "slug": "decret-523-1973",
 "path": "decret/1973/523",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 523/1973",
 "act": [
 "dcc-108-1996",
@@ -10662,7 +10662,7 @@
 "slug": "decret-223-1974",
 "path": "decret/1974/223",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 223/1974",
 "act": [
 "dcc-14-1993",
@@ -10733,24 +10733,24 @@
 "slug": "decret-244-1978",
 "path": "decret/1978/244",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 244/1978",
 "act": [],
 "articles": {
 "17": {
-"file": null,
+"file": "art-017.md",
 "decisions": [
 "dcc-3-1997"
 ]
 },
 "30": {
-"file": null,
+"file": "art-030.md",
 "decisions": [
 "dcc-3-1997"
 ]
 },
 "50": {
-"file": null,
+"file": "art-050.md",
 "decisions": [
 "dcc-19-1993",
 "dcc-36-1993",
@@ -10763,7 +10763,7 @@
 ]
 },
 "59": {
-"file": null,
+"file": "art-059.md",
 "decisions": [
 "dcc-3-1997"
 ]
@@ -10780,26 +10780,26 @@
 "slug": "decret-251-1978",
 "path": "decret/1978/251",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 251/1978",
 "act": [
 "dcc-233-2000"
 ],
 "articles": {
 "5": {
-"file": null,
+"file": "art-005.md",
 "decisions": [
 "dcc-32-1994"
 ]
 },
 "49": {
-"file": null,
+"file": "art-049.md",
 "decisions": [
 "dcc-32-1994"
 ]
 },
 "61": {
-"file": null,
+"file": "art-061.md",
 "decisions": [
 "dcc-189-2001"
 ]
@@ -10843,12 +10843,12 @@
 "slug": "decret-467-1979",
 "path": "decret/1979/467",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretul nr. 467/1979",
 "act": [],
 "articles": {
 "4": {
-"file": null,
+"file": "art-004.md",
 "decisions": [
 "dcc-45-1993",
 "dcc-75-1995"
@@ -10892,7 +10892,7 @@
 "slug": "decret-94-1983",
 "path": "decret/1983/94",
 "kind": "decret",
-"in_repo": false,
+"in_repo": true,
 "label": "Decretului nr. 94/1983",
 "act": [
 "dcc-65-1993"
@@ -16761,7 +16761,7 @@
 "slug": "legea-18-1968",
 "path": "lege/1968/18",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 18/1968",
 "act": [
 "dcc-53-1995"
@@ -21419,12 +21419,12 @@
 "slug": "legea-31-1968",
 "path": "lege/1968/31",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 31/1968",
 "act": [],
 "articles": {
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "dcc-1085-2008"
 ]
@@ -21435,30 +21435,30 @@
 "slug": "legea-32-1968",
 "path": "lege/1968/32",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 32/1968",
 "act": [],
 "articles": {
 "1": {
-"file": null,
+"file": "art-001.md",
 "decisions": [
 "dcc-150-2001"
 ]
 },
 "2": {
-"file": null,
+"file": "art-002.md",
 "decisions": [
 "dcc-236-1999"
 ]
 },
 "5": {
-"file": null,
+"file": "art-005.md",
 "decisions": [
 "dcc-105-1995"
 ]
 },
 "12": {
-"file": null,
+"file": "art-012.md",
 "decisions": [
 "dcc-90-1999",
 "dcc-157-1999",
@@ -21466,26 +21466,26 @@
 ]
 },
 "15": {
-"file": null,
+"file": "art-015.md",
 "decisions": [
 "dcc-267-1997",
 "dcc-482-1997"
 ]
 },
 "19": {
-"file": null,
+"file": "art-019.md",
 "decisions": [
 "dcc-5-2002"
 ]
 },
 "35": {
-"file": null,
+"file": "art-035.md",
 "decisions": [
 "dcc-35-1993"
 ]
 },
 "37": {
-"file": null,
+"file": "art-037.md",
 "decisions": [
 "dcc-8-1994",
 "dcc-42-1994"
@@ -21592,43 +21592,43 @@
 "slug": "legea-25-1969",
 "path": "lege/1969/25",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 25/1969",
 "act": [],
 "articles": {
 "2": {
-"file": null,
+"file": "art-002.md",
 "decisions": [
 "dcc-106-2001"
 ]
 },
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "dcc-106-2001"
 ]
 },
 "20": {
-"file": null,
+"file": "art-020.md",
 "decisions": [
 "dcc-225-2000"
 ]
 },
 "27": {
-"file": null,
+"file": "art-027.md",
 "decisions": [
 "dcc-105-2001",
 "dcc-106-2001"
 ]
 },
 "28": {
-"file": null,
+"file": "art-028.md",
 "decisions": [
 "dcc-106-2001"
 ]
 },
 "31": {
-"file": null,
+"file": "art-031.md",
 "decisions": [
 "dcc-105-2001"
 ]
@@ -21685,7 +21685,7 @@
 "slug": "legea-8-1971",
 "path": "lege/1971/8",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 8/1971",
 "act": [
 "dcc-61-1995"
@@ -21696,149 +21696,149 @@
 "slug": "legea-10-1972",
 "path": "lege/1972/10",
 "kind": "cod",
-"in_repo": false,
+"in_repo": true,
 "label": "Codul muncii",
 "act": [
 "dcc-40-2001"
 ],
 "articles": {
 "19": {
-"file": null,
+"file": "art-019.md",
 "decisions": [
 "dcc-86-1996",
 "dcc-153-1999"
 ]
 },
 "29": {
-"file": null,
+"file": "art-029.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "40": {
-"file": null,
+"file": "art-040.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "52": {
-"file": null,
+"file": "art-052.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "53": {
-"file": null,
+"file": "art-053.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "67": {
-"file": null,
+"file": "art-067.md",
 "decisions": [
 "dcc-248-2000"
 ]
 },
 "69": {
-"file": null,
+"file": "art-069.md",
 "decisions": [
 "dcc-253-2001",
 "dcc-24-2003"
 ]
 },
 "70": {
-"file": null,
+"file": "art-070.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "71": {
-"file": null,
+"file": "art-071.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "72": {
-"file": null,
+"file": "art-072.md",
 "decisions": [
 "iccj-hp-55-2026"
 ]
 },
 "76": {
-"file": null,
+"file": "art-076.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "77": {
-"file": null,
+"file": "art-077.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "78": {
-"file": null,
+"file": "art-078.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "79": {
-"file": null,
+"file": "art-079.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "80": {
-"file": null,
+"file": "art-080.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "81": {
-"file": null,
+"file": "art-081.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "82": {
-"file": null,
+"file": "art-082.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "83": {
-"file": null,
+"file": "art-083.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "84": {
-"file": null,
+"file": "art-084.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "90": {
-"file": null,
+"file": "art-090.md",
 "decisions": [
 "iccj-hp-57-2018"
 ]
 },
 "107": {
-"file": null,
+"file": "art-107.md",
 "decisions": [
 "dcc-107-1997",
 "dcc-662-1997"
 ]
 },
 "129": {
-"file": null,
+"file": "art-129.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "130": {
-"file": null,
+"file": "art-130.md",
 "decisions": [
 "dcc-63-1996",
 "dcc-300-2001",
@@ -21848,20 +21848,20 @@
 ]
 },
 "131": {
-"file": null,
+"file": "art-131.md",
 "decisions": [
 "dcc-7-1999",
 "dcc-76-2001"
 ]
 },
 "132": {
-"file": null,
+"file": "art-132.md",
 "decisions": [
 "dcc-174-2000"
 ]
 },
 "133": {
-"file": null,
+"file": "art-133.md",
 "decisions": [
 "dcc-252-2001",
 "dcc-376-2003",
@@ -21869,7 +21869,7 @@
 ]
 },
 "134": {
-"file": null,
+"file": "art-134.md",
 "decisions": [
 "dcc-96-2001",
 "dcc-205-2001",
@@ -21877,7 +21877,7 @@
 ]
 },
 "136": {
-"file": null,
+"file": "art-136.md",
 "decisions": [
 "dcc-160-1999",
 "dcc-193-2001",
@@ -21885,19 +21885,19 @@
 ]
 },
 "146": {
-"file": null,
+"file": "art-146.md",
 "decisions": [
 "dcc-26-2002"
 ]
 },
 "164": {
-"file": null,
+"file": "art-164.md",
 "decisions": [
 "dcc-24-2003"
 ]
 },
 "175": {
-"file": null,
+"file": "art-175.md",
 "decisions": [
 "dcc-59-1994",
 "dcc-66-1995",
@@ -21907,7 +21907,7 @@
 ]
 },
 "184": {
-"file": null,
+"file": "art-184.md",
 "decisions": [
 "dcc-72-2001"
 ]
@@ -21924,18 +21924,18 @@
 "slug": "legea-14-1972",
 "path": "lege/1972/14",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 14/1972",
 "act": [],
 "articles": {
 "28": {
-"file": null,
+"file": "art-028.md",
 "decisions": [
 "iccj-hp-55-2026"
 ]
 },
 "81": {
-"file": null,
+"file": "art-081.md",
 "decisions": [
 "iccj-hp-55-2026"
 ]
@@ -21962,7 +21962,7 @@
 "slug": "legea-5-1973",
 "path": "lege/1973/5",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 5/1973",
 "act": [
 "dcc-104-1996",
@@ -21970,31 +21970,31 @@
 ],
 "articles": {
 "3": {
-"file": null,
+"file": "art-003.md",
 "decisions": [
 "dcc-4-1995"
 ]
 },
 "6": {
-"file": null,
+"file": "art-006.md",
 "decisions": [
 "dcc-4-1995"
 ]
 },
 "7": {
-"file": null,
+"file": "art-007.md",
 "decisions": [
 "dcc-40-1993"
 ]
 },
 "19": {
-"file": null,
+"file": "art-019.md",
 "decisions": [
 "dcc-31-1996"
 ]
 },
 "22": {
-"file": null,
+"file": "art-022.md",
 "decisions": [
 "dcc-69-1993",
 "dcc-68-1994",
@@ -22002,13 +22002,13 @@
 ]
 },
 "43": {
-"file": null,
+"file": "art-043.md",
 "decisions": [
 "dcc-10-1995"
 ]
 },
 "51": {
-"file": null,
+"file": "art-051.md",
 "decisions": [
 "dcc-68-1994"
 ]
@@ -22019,18 +22019,18 @@
 "slug": "legea-12-1974",
 "path": "lege/1974/12",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 12/1974",
 "act": [],
 "articles": {
 "16": {
-"file": null,
+"file": "art-016.md",
 "decisions": [
 "dcc-4-1993"
 ]
 },
 "28": {
-"file": null,
+"file": "art-028.md",
 "decisions": [
 "dcc-51-1998",
 "dcc-38-1999"
@@ -22127,7 +22127,7 @@
 "slug": "legea-59-1974",
 "path": "lege/1974/59",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legii nr. 59/1974",
 "act": [
 "iccj-su-4-2006"
@@ -22138,18 +22138,18 @@
 "slug": "legea-26-1976",
 "path": "lege/1976/26",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea nr. 26/1976",
 "act": [],
 "articles": {
 "10": {
-"file": null,
+"file": "art-010.md",
 "decisions": [
 "dcc-2-1993"
 ]
 },
 "32": {
-"file": null,
+"file": "art-032.md",
 "decisions": [
 "dcc-76-1994"
 ]
@@ -22286,12 +22286,12 @@
 "slug": "legea-4-1981",
 "path": "lege/1981/4",
 "kind": "lege",
-"in_repo": false,
+"in_repo": true,
 "label": "Legea gospodăriei comunale nr. 4/1981",
 "act": [],
 "articles": {
 "67": {
-"file": null,
+"file": "art-067.md",
 "decisions": [
 "dcc-32-2001",
 "dcc-221-2001",
