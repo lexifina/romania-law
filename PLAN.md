@@ -2,13 +2,13 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 01:22 UTC.
+**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 01:44 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.4% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 57,406 of 55,923 acts · 98.9% | automatic: the official text as published plus every consolidated form | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 57,407 of 55,923 acts · 98.9% | automatic: the official text as published plus every consolidated form | collecting |
 | Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 13,607 of 8,321 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 3,822 of 5,166 acts · 74.0% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
