@@ -92,17 +92,17 @@
  "totals": {
   "acts": 322750,
   "by_status": {
-   "current": 252391,
+   "current": 253665,
    "pending-change": 28289,
    "stale": 4468,
-   "unverified": 37602,
+   "unverified": 36328,
    "source-unavailable": 0
   },
-  "verified_7d": 265806,
-  "verified_30d": 265846,
-  "pct_verified_7d": 82.4,
-  "pct_verified_30d": 82.4,
-  "pct_current": 78.2,
+  "verified_7d": 267080,
+  "verified_30d": 267120,
+  "pct_verified_7d": 82.8,
+  "pct_verified_30d": 82.8,
+  "pct_current": 78.6,
   "newest_verified": "2026-11-07",
   "oldest_verified": "2018-07-23"
  },
@@ -144,17 +144,17 @@
   "local": {
    "acts": 174340,
    "by_status": {
-    "current": 167873,
+    "current": 169147,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 4038,
+    "unverified": 2764,
     "source-unavailable": 0
    },
-   "verified_7d": 167834,
-   "verified_30d": 167873,
-   "pct_verified_7d": 96.3,
-   "pct_verified_30d": 96.3,
-   "pct_current": 96.3,
+   "verified_7d": 169108,
+   "verified_30d": 169147,
+   "pct_verified_7d": 97.0,
+   "pct_verified_30d": 97.0,
+   "pct_current": 97.0,
    "newest_verified": "2026-11-07",
    "oldest_verified": "2023-03-20"
   },
@@ -571,17 +571,17 @@
   "local": {
    "acts": 174340,
    "by_status": {
-    "current": 167873,
+    "current": 169147,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 4038,
+    "unverified": 2764,
     "source-unavailable": 0
    },
-   "verified_7d": 167834,
-   "verified_30d": 167873,
-   "pct_verified_7d": 96.3,
-   "pct_verified_30d": 96.3,
-   "pct_current": 96.3,
+   "verified_7d": 169108,
+   "verified_30d": 169147,
+   "pct_verified_7d": 97.0,
+   "pct_verified_30d": 97.0,
+   "pct_current": 97.0,
    "newest_verified": "2026-11-07",
    "oldest_verified": "2023-03-20"
   },
@@ -908,9 +908,9 @@
    "last_successful_check": "2026-11-07",
    "unavailable_since": null,
    "sites": 602,
-   "sites_unavailable": 8,
-   "pct_verified_7d": 97.0,
-   "pct_verified_30d": 97.0
+   "sites_unavailable": 10,
+   "pct_verified_7d": 97.7,
+   "pct_verified_30d": 97.8
   },
   {
    "source": "Court decisions (Portalul legislativ)",

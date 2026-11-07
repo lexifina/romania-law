@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 09:03 UTC.
+**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 09:22 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -15,7 +15,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | CCR decisions | jurisprudenta/ccr/ | 9.5% | 26,774 of 25,199 decisions; 603 of 1,035 rulings handled (103 applied; 500 noted) · 91.7% | official texts as published; unconstitutionality rulings dated on the articles they suspend | collecting |
 | ICCJ RIL and HP | jurisprudenta/iccj/ | 4.7% | 2,219 of 2,119 decisions · 100.0% | official texts as published, linked to the articles they interpret | done |
 | ICCJ other judgments (links) | data/iccj-links.csv | 0.9% | target unknown | links and metadata only | no publication channel found yet |
-| Lower courts (MO decisions, ROLII archive; annulments) | instante/<court>/; data/court-annulments.csv | 1.4% | 529 of 26,000,000 judgments; 88 of 229 annulments · 12.8% | texts where no private person is named, else metadata and a link; annulments noted on the acts | collecting |
+| Lower courts (MO decisions, ROLII archive; annulments) | instante/<court>/; data/court-annulments.csv | 1.4% | 529 of 26,000,000 judgments; 89 of 229 annulments · 13.0% | texts where no private person is named, else metadata and a link; annulments noted on the acts | collecting |
 | ECHR judgments against Romania | jurisprudenta/cedo/ | 1.4% | 1,652 of 1,942 judgments · 85.1% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
 | CJEU references | jurisprudenta/cjue/ | 0.5% | 568 of 574 cases · 99.0% | the operative part and metadata of each decision concerning Romania; full texts linked | collecting |
 | CNSC and other bodies | cnsc/decizie/ (links for the rest) | 0.6% | 2,717 of 32,482 decisions · 4.2% | decisions as issued and as reasoned, identifiers removed; other bodies as metadata where they name private persons | collecting |
