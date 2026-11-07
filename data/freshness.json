@@ -1,8 +1,8 @@
 {
  "note": "Freshness of every act in this repository: when it was last checked against its official source, how, and whether a known change is missing. One row per act in data/freshness/<shard>.csv (listed in data/freshness/index.json); `python tools/freshness.py <act id or folder>` reads them. A status is as of `as_of`; an act verified longer ago than its threshold has since become stale.",
  "schema": "ro-freshness/1",
- "as_of": "2026-11-06",
- "checked_against_official_source": "2026-11-06",
+ "as_of": "2026-11-07",
+ "checked_against_official_source": "2026-11-07",
  "statuses": {
   "current": "checked against the official source within its threshold, and no known change is missing",
   "pending-change": "the official source reports a change (amendment, repeal, end of validity) this repository does not have yet",
@@ -90,20 +90,20 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 322705,
+  "acts": 322749,
   "by_status": {
-   "current": 253622,
+   "current": 253666,
    "pending-change": 28288,
    "stale": 4468,
    "unverified": 36327,
    "source-unavailable": 0
   },
-  "verified_7d": 267036,
-  "verified_30d": 267076,
-  "pct_verified_7d": 82.7,
+  "verified_7d": 267080,
+  "verified_30d": 267120,
+  "pct_verified_7d": 82.8,
   "pct_verified_30d": 82.8,
   "pct_current": 78.6,
-  "newest_verified": "2026-11-06",
+  "newest_verified": "2026-11-07",
   "oldest_verified": "2018-07-23"
  },
  "by_group": {
@@ -142,16 +142,16 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 174296,
+   "acts": 174340,
    "by_status": {
-    "current": 169103,
+    "current": 169147,
     "pending-change": 0,
     "stale": 2429,
     "unverified": 2764,
     "source-unavailable": 0
    },
-   "verified_7d": 169064,
-   "verified_30d": 169103,
+   "verified_7d": 169108,
+   "verified_30d": 169147,
    "pct_verified_7d": 97.0,
    "pct_verified_30d": 97.0,
    "pct_current": 97.0,
@@ -172,7 +172,7 @@
    "pct_verified_7d": 85.9,
    "pct_verified_30d": 85.9,
    "pct_current": 65.3,
-   "newest_verified": "2026-11-06",
+   "newest_verified": "2026-11-07",
    "oldest_verified": "2018-07-23"
   },
   "orders": {
@@ -463,7 +463,7 @@
    "pct_verified_7d": 97.5,
    "pct_verified_30d": 97.5,
    "pct_current": 83.9,
-   "newest_verified": "2026-11-06",
+   "newest_verified": "2026-11-07",
    "oldest_verified": "2018-07-23"
   },
   "hotarare": {
@@ -565,20 +565,20 @@
    "pct_verified_7d": 89.3,
    "pct_verified_30d": 89.3,
    "pct_current": 44.9,
-   "newest_verified": "2026-11-06",
+   "newest_verified": "2026-11-07",
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 174296,
+   "acts": 174340,
    "by_status": {
-    "current": 169103,
+    "current": 169147,
     "pending-change": 0,
     "stale": 2429,
     "unverified": 2764,
     "source-unavailable": 0
    },
-   "verified_7d": 169064,
-   "verified_30d": 169103,
+   "verified_7d": 169108,
+   "verified_30d": 169147,
    "pct_verified_7d": 97.0,
    "pct_verified_30d": 97.0,
    "pct_current": 97.0,
@@ -701,7 +701,7 @@
    "pct_verified_7d": 70.6,
    "pct_verified_30d": 70.6,
    "pct_current": 25.7,
-   "newest_verified": "2026-11-06",
+   "newest_verified": "2026-11-07",
    "oldest_verified": "2018-10-22"
   },
   "precizari": {
@@ -863,8 +863,8 @@
     "tratat"
    ],
    "acts": 123857,
-   "last_successful_check": "2026-11-06",
-   "unavailable_since": "2026-11-06",
+   "last_successful_check": "2026-11-07",
+   "unavailable_since": "2026-11-07",
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 66.1,
@@ -892,7 +892,7 @@
     "profesii"
    ],
    "acts": 2254,
-   "last_successful_check": "2026-11-06",
+   "last_successful_check": "2026-11-07",
    "unavailable_since": null,
    "sites": 10,
    "sites_unavailable": 0,
@@ -904,7 +904,7 @@
    "kinds": [
     "local"
    ],
-   "acts": 172968,
+   "acts": 173012,
    "last_successful_check": "2026-11-06",
    "unavailable_since": null,
    "sites": 602,
@@ -927,5 +927,5 @@
   }
  ],
  "index": "data/freshness/index.json",
- "shards": 5584
+ "shards": 5586
 }

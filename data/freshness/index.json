@@ -1,7 +1,7 @@
 {
  "note": "Every freshness shard: one CSV per kind and year (local acts: per council and year), columns act, status, last_verified, check_due, method, newest_change, newest_change_date, change_in_repo, official_url. data/freshness.json explains the statuses, methods and thresholds.",
  "schema": "ro-freshness/1",
- "as_of": "2026-11-06",
+ "as_of": "2026-11-07",
  "columns": [
   "act",
   "status",
@@ -66409,9 +66409,9 @@
    "shard": "local/vrancea/urechesti/2021",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2021.csv",
-   "count": 16,
+   "count": 22,
    "by_status": {
-    "current": 16,
+    "current": 22,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66422,9 +66422,9 @@
    "shard": "local/vrancea/urechesti/2022",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2022.csv",
-   "count": 5,
+   "count": 14,
    "by_status": {
-    "current": 5,
+    "current": 14,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66435,9 +66435,9 @@
    "shard": "local/vrancea/urechesti/2023",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2023.csv",
-   "count": 1,
+   "count": 6,
    "by_status": {
-    "current": 1,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66448,9 +66448,9 @@
    "shard": "local/vrancea/urechesti/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2024.csv",
-   "count": 6,
+   "count": 17,
    "by_status": {
-    "current": 6,
+    "current": 17,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66461,9 +66461,9 @@
    "shard": "local/vrancea/urechesti/2025",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2025.csv",
-   "count": 6,
+   "count": 7,
    "by_status": {
-    "current": 6,
+    "current": 7,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66510,12 +66510,38 @@
    }
   },
   {
+   "shard": "local/vrancea/vintileasca/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/vintileasca/2023.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/vintileasca/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/vintileasca/2024.csv",
-   "count": 5,
+   "count": 6,
    "by_status": {
-    "current": 5,
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/vintileasca/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/vintileasca/2025.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66539,9 +66565,9 @@
    "shard": "local/vrancea/vizantea-livezi/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/vizantea-livezi/2024.csv",
-   "count": 25,
+   "count": 27,
    "by_status": {
-    "current": 25,
+    "current": 27,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -66552,9 +66578,9 @@
    "shard": "local/vrancea/vizantea-livezi/2025",
    "kind": "local",
    "file": "data/freshness/local/vrancea/vizantea-livezi/2025.csv",
-   "count": 61,
+   "count": 67,
    "by_status": {
-    "current": 61,
+    "current": 67,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
