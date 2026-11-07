@@ -37,6 +37,10 @@ Act id: `hg-1214-2009` (tags `hg-1214-2009/<day>`; `python tools/on.py <day> hg-
 
 Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
 
+- **[Sentința Curții de Apel Cluj nr. 59/2022](../../../instante/ca-cluj/sentinta/2022/59/)**, Monitorul Oficial nr. 1151 din 20 decembrie 2023 · annulled in part
+
+  > Anulează în parte Hotărârea Guvernului nr. 1.214/2009 în ceea ce privește dispozițiile art. 8 lit. f) din acest act administrativ normativ.
+
 - **[Sentința Curții de Apel Brașov nr. 148/2024](../../../instante/ca-brasov/sentinta/2024/148/)**, Monitorul Oficial nr. 859 din 18 septembrie 2025 · annulled in part · art. 8 lit. b)
 
   > Dispune anularea art. 8 lit. b) din Hotărârea Guvernului nr. 1.214/2009 privind metodologia pentru stabilirea și plata despăgubirilor ce se cuvin proprietarilor de animale tăiate, ucise sau altfel afectate în vederea lichidării rapide a focarelor de boli transmisibile ale animalelor.
