@@ -64043,9 +64043,9 @@
    "shard": "local/timis/deta/2020",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2020.csv",
-   "count": 61,
+   "count": 141,
    "by_status": {
-    "current": 61,
+    "current": 141,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64056,9 +64056,9 @@
    "shard": "local/timis/deta/2021",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2021.csv",
-   "count": 82,
+   "count": 169,
    "by_status": {
-    "current": 82,
+    "current": 169,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64069,9 +64069,9 @@
    "shard": "local/timis/deta/2022",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2022.csv",
-   "count": 138,
+   "count": 217,
    "by_status": {
-    "current": 138,
+    "current": 217,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64082,9 +64082,9 @@
    "shard": "local/timis/deta/2023",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2023.csv",
-   "count": 150,
+   "count": 228,
    "by_status": {
-    "current": 150,
+    "current": 228,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64095,9 +64095,9 @@
    "shard": "local/timis/deta/2024",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2024.csv",
-   "count": 83,
+   "count": 185,
    "by_status": {
-    "current": 83,
+    "current": 185,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64108,9 +64108,9 @@
    "shard": "local/timis/deta/2025",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2025.csv",
-   "count": 85,
+   "count": 169,
    "by_status": {
-    "current": 85,
+    "current": 169,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64121,9 +64121,9 @@
    "shard": "local/timis/deta/2026",
    "kind": "local",
    "file": "data/freshness/local/timis/deta/2026.csv",
-   "count": 68,
+   "count": 142,
    "by_status": {
-    "current": 68,
+    "current": 142,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64134,9 +64134,9 @@
    "shard": "local/timis/gavojdia/2026",
    "kind": "local",
    "file": "data/freshness/local/timis/gavojdia/2026.csv",
-   "count": 1,
+   "count": 3,
    "by_status": {
-    "current": 1,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64157,15 +64157,28 @@
    }
   },
   {
+   "shard": "local/timis/nitchidorf/2024",
+   "kind": "local",
+   "file": "data/freshness/local/timis/nitchidorf/2024.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/timis/ortisoara/2025",
    "kind": "local",
    "file": "data/freshness/local/timis/ortisoara/2025.csv",
-   "count": 1,
+   "count": 6,
    "by_status": {
-    "current": 0,
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -64173,12 +64186,12 @@
    "shard": "local/timis/ortisoara/2026",
    "kind": "local",
    "file": "data/freshness/local/timis/ortisoara/2026.csv",
-   "count": 1,
+   "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -64186,9 +64199,48 @@
    "shard": "local/timis/parta/2025",
    "kind": "local",
    "file": "data/freshness/local/timis/parta/2025.csv",
+   "count": 18,
+   "by_status": {
+    "current": 18,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/parta/2026",
+   "kind": "local",
+   "file": "data/freshness/local/timis/parta/2026.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/peciu-nou/2004",
+   "kind": "local",
+   "file": "data/freshness/local/timis/peciu-nou/2004.csv",
    "count": 1,
    "by_status": {
     "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/peciu-nou/2008",
+   "kind": "local",
+   "file": "data/freshness/local/timis/peciu-nou/2008.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64199,9 +64251,35 @@
    "shard": "local/timis/saravale/2022",
    "kind": "local",
    "file": "data/freshness/local/timis/saravale/2022.csv",
-   "count": 1,
+   "count": 11,
    "by_status": {
-    "current": 1,
+    "current": 11,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/saravale/2023",
+   "kind": "local",
+   "file": "data/freshness/local/timis/saravale/2023.csv",
+   "count": 15,
+   "by_status": {
+    "current": 15,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/saravale/2024",
+   "kind": "local",
+   "file": "data/freshness/local/timis/saravale/2024.csv",
+   "count": 12,
+   "by_status": {
+    "current": 12,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64212,9 +64290,22 @@
    "shard": "local/timis/saravale/2025",
    "kind": "local",
    "file": "data/freshness/local/timis/saravale/2025.csv",
-   "count": 1,
+   "count": 14,
    "by_status": {
-    "current": 1,
+    "current": 14,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/timis/saravale/2026",
+   "kind": "local",
+   "file": "data/freshness/local/timis/saravale/2026.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64264,9 +64355,9 @@
    "shard": "local/tulcea/i-c-bratianu/2026",
    "kind": "local",
    "file": "data/freshness/local/tulcea/i-c-bratianu/2026.csv",
-   "count": 1,
+   "count": 16,
    "by_status": {
-    "current": 1,
+    "current": 16,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64277,9 +64368,9 @@
    "shard": "local/tulcea/isaccea/2023",
    "kind": "local",
    "file": "data/freshness/local/tulcea/isaccea/2023.csv",
-   "count": 1,
+   "count": 31,
    "by_status": {
-    "current": 0,
+    "current": 30,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -64290,9 +64381,9 @@
    "shard": "local/tulcea/isaccea/2024",
    "kind": "local",
    "file": "data/freshness/local/tulcea/isaccea/2024.csv",
-   "count": 1,
+   "count": 4,
    "by_status": {
-    "current": 1,
+    "current": 4,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64303,6 +64394,19 @@
    "shard": "local/tulcea/isaccea/2025",
    "kind": "local",
    "file": "data/freshness/local/tulcea/isaccea/2025.csv",
+   "count": 3,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/tulcea/isaccea/2026",
+   "kind": "local",
+   "file": "data/freshness/local/tulcea/isaccea/2026.csv",
    "count": 1,
    "by_status": {
     "current": 1,
@@ -64316,9 +64420,9 @@
    "shard": "local/tulcea/macin/2024",
    "kind": "local",
    "file": "data/freshness/local/tulcea/macin/2024.csv",
-   "count": 56,
+   "count": 91,
    "by_status": {
-    "current": 56,
+    "current": 91,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64329,9 +64433,9 @@
    "shard": "local/tulcea/macin/2025",
    "kind": "local",
    "file": "data/freshness/local/tulcea/macin/2025.csv",
-   "count": 72,
+   "count": 99,
    "by_status": {
-    "current": 72,
+    "current": 99,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64342,9 +64446,9 @@
    "shard": "local/tulcea/macin/2026",
    "kind": "local",
    "file": "data/freshness/local/tulcea/macin/2026.csv",
-   "count": 64,
+   "count": 125,
    "by_status": {
-    "current": 64,
+    "current": 125,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64352,12 +64456,25 @@
    }
   },
   {
+   "shard": "local/tulcea/mihai-bravu/2024",
+   "kind": "local",
+   "file": "data/freshness/local/tulcea/mihai-bravu/2024.csv",
+   "count": 1,
+   "by_status": {
+    "current": 0,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 1,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/tulcea/sulina/2025",
    "kind": "local",
    "file": "data/freshness/local/tulcea/sulina/2025.csv",
-   "count": 10,
+   "count": 93,
    "by_status": {
-    "current": 7,
+    "current": 90,
     "pending-change": 0,
     "stale": 0,
     "unverified": 3,
@@ -64599,12 +64716,25 @@
    }
   },
   {
+   "shard": "local/valcea/babeni/2021",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/babeni/2021.csv",
+   "count": 39,
+   "by_status": {
+    "current": 39,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/valcea/babeni/2022",
    "kind": "local",
    "file": "data/freshness/local/valcea/babeni/2022.csv",
-   "count": 2,
+   "count": 110,
    "by_status": {
-    "current": 2,
+    "current": 110,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64615,9 +64745,9 @@
    "shard": "local/valcea/babeni/2023",
    "kind": "local",
    "file": "data/freshness/local/valcea/babeni/2023.csv",
-   "count": 3,
+   "count": 97,
    "by_status": {
-    "current": 3,
+    "current": 97,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64628,9 +64758,9 @@
    "shard": "local/valcea/babeni/2024",
    "kind": "local",
    "file": "data/freshness/local/valcea/babeni/2024.csv",
-   "count": 5,
+   "count": 77,
    "by_status": {
-    "current": 5,
+    "current": 77,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64641,9 +64771,9 @@
    "shard": "local/valcea/babeni/2025",
    "kind": "local",
    "file": "data/freshness/local/valcea/babeni/2025.csv",
-   "count": 7,
+   "count": 101,
    "by_status": {
-    "current": 7,
+    "current": 101,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64654,9 +64784,9 @@
    "shard": "local/valcea/babeni/2026",
    "kind": "local",
    "file": "data/freshness/local/valcea/babeni/2026.csv",
-   "count": 4,
+   "count": 101,
    "by_status": {
-    "current": 4,
+    "current": 101,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64667,9 +64797,9 @@
    "shard": "local/valcea/barbatesti/2021",
    "kind": "local",
    "file": "data/freshness/local/valcea/barbatesti/2021.csv",
-   "count": 2,
+   "count": 3,
    "by_status": {
-    "current": 2,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64680,9 +64810,9 @@
    "shard": "local/valcea/barbatesti/2022",
    "kind": "local",
    "file": "data/freshness/local/valcea/barbatesti/2022.csv",
-   "count": 10,
+   "count": 12,
    "by_status": {
-    "current": 10,
+    "current": 12,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64729,74 +64859,9 @@
    }
   },
   {
-   "shard": "local/valcea/ghioroiu/2021",
+   "shard": "local/valcea/berbesti/2018",
    "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2021.csv",
-   "count": 3,
-   "by_status": {
-    "current": 3,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/valcea/ghioroiu/2022",
-   "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2022.csv",
-   "count": 4,
-   "by_status": {
-    "current": 4,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/valcea/ghioroiu/2023",
-   "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2023.csv",
-   "count": 14,
-   "by_status": {
-    "current": 14,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/valcea/ghioroiu/2024",
-   "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2024.csv",
-   "count": 16,
-   "by_status": {
-    "current": 16,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/valcea/ghioroiu/2025",
-   "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2025.csv",
-   "count": 2,
-   "by_status": {
-    "current": 2,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/valcea/ghioroiu/2026",
-   "kind": "local",
-   "file": "data/freshness/local/valcea/ghioroiu/2026.csv",
+   "file": "data/freshness/local/valcea/berbesti/2018.csv",
    "count": 1,
    "by_status": {
     "current": 1,
@@ -64807,15 +64872,145 @@
    }
   },
   {
+   "shard": "local/valcea/francesti/2016",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/francesti/2016.csv",
+   "count": 6,
+   "by_status": {
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2021",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2021.csv",
+   "count": 5,
+   "by_status": {
+    "current": 5,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2022",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2022.csv",
+   "count": 20,
+   "by_status": {
+    "current": 20,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2023",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2023.csv",
+   "count": 44,
+   "by_status": {
+    "current": 44,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2024",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2024.csv",
+   "count": 39,
+   "by_status": {
+    "current": 39,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2025",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2025.csv",
+   "count": 27,
+   "by_status": {
+    "current": 27,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/ghioroiu/2026",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/ghioroiu/2026.csv",
+   "count": 20,
+   "by_status": {
+    "current": 20,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/valcea/malaia/2025",
    "kind": "local",
    "file": "data/freshness/local/valcea/malaia/2025.csv",
-   "count": 1,
+   "count": 2,
    "by_status": {
-    "current": 0,
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/pausesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/pausesti/2026.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/pietrari/2021",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/pietrari/2021.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/valcea/pietrari/2023",
+   "kind": "local",
+   "file": "data/freshness/local/valcea/pietrari/2023.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -64849,9 +65044,9 @@
    "shard": "local/valcea/pietrari/2026",
    "kind": "local",
    "file": "data/freshness/local/valcea/pietrari/2026.csv",
-   "count": 1,
+   "count": 2,
    "by_status": {
-    "current": 1,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64888,9 +65083,9 @@
    "shard": "local/valcea/tomsani/2024",
    "kind": "local",
    "file": "data/freshness/local/valcea/tomsani/2024.csv",
-   "count": 14,
+   "count": 17,
    "by_status": {
-    "current": 14,
+    "current": 17,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64901,9 +65096,9 @@
    "shard": "local/vaslui/balteni/2021",
    "kind": "local",
    "file": "data/freshness/local/vaslui/balteni/2021.csv",
-   "count": 38,
+   "count": 48,
    "by_status": {
-    "current": 38,
+    "current": 48,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64914,9 +65109,9 @@
    "shard": "local/vaslui/balteni/2022",
    "kind": "local",
    "file": "data/freshness/local/vaslui/balteni/2022.csv",
-   "count": 73,
+   "count": 78,
    "by_status": {
-    "current": 73,
+    "current": 78,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64927,32 +65122,6 @@
    "shard": "local/vaslui/balteni/2023",
    "kind": "local",
    "file": "data/freshness/local/vaslui/balteni/2023.csv",
-   "count": 68,
-   "by_status": {
-    "current": 68,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vaslui/balteni/2024",
-   "kind": "local",
-   "file": "data/freshness/local/vaslui/balteni/2024.csv",
-   "count": 69,
-   "by_status": {
-    "current": 69,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vaslui/balteni/2025",
-   "kind": "local",
-   "file": "data/freshness/local/vaslui/balteni/2025.csv",
    "count": 77,
    "by_status": {
     "current": 77,
@@ -64963,12 +65132,38 @@
    }
   },
   {
+   "shard": "local/vaslui/balteni/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/balteni/2024.csv",
+   "count": 76,
+   "by_status": {
+    "current": 76,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/balteni/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/balteni/2025.csv",
+   "count": 83,
+   "by_status": {
+    "current": 83,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vaslui/balteni/2026",
    "kind": "local",
    "file": "data/freshness/local/vaslui/balteni/2026.csv",
-   "count": 50,
+   "count": 55,
    "by_status": {
-    "current": 50,
+    "current": 55,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64979,9 +65174,22 @@
    "shard": "local/vaslui/costesti/2026",
    "kind": "local",
    "file": "data/freshness/local/vaslui/costesti/2026.csv",
-   "count": 3,
+   "count": 31,
    "by_status": {
-    "current": 3,
+    "current": 31,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/deleni/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/deleni/2026.csv",
+   "count": 9,
+   "by_status": {
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -64992,9 +65200,9 @@
    "shard": "local/vaslui/dodesti/2023",
    "kind": "local",
    "file": "data/freshness/local/vaslui/dodesti/2023.csv",
-   "count": 2,
+   "count": 3,
    "by_status": {
-    "current": 1,
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -65002,12 +65210,51 @@
    }
   },
   {
+   "shard": "local/vaslui/dodesti/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/dodesti/2024.csv",
+   "count": 10,
+   "by_status": {
+    "current": 10,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/dodesti/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/dodesti/2025.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vaslui/dodesti/2026",
    "kind": "local",
    "file": "data/freshness/local/vaslui/dodesti/2026.csv",
-   "count": 32,
+   "count": 39,
    "by_status": {
-    "current": 32,
+    "current": 39,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/grivita/2022",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/grivita/2022.csv",
+   "count": 3,
+   "by_status": {
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65018,9 +65265,61 @@
    "shard": "local/vaslui/grivita/2023",
    "kind": "local",
    "file": "data/freshness/local/vaslui/grivita/2023.csv",
-   "count": 2,
+   "count": 79,
    "by_status": {
-    "current": 2,
+    "current": 79,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/grivita/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/grivita/2024.csv",
+   "count": 53,
+   "by_status": {
+    "current": 53,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/grivita/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/grivita/2025.csv",
+   "count": 50,
+   "by_status": {
+    "current": 50,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/grivita/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/grivita/2026.csv",
+   "count": 42,
+   "by_status": {
+    "current": 42,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/husi/2003",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/husi/2003.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65031,9 +65330,9 @@
    "shard": "local/vaslui/husi/2008",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2008.csv",
-   "count": 12,
+   "count": 137,
    "by_status": {
-    "current": 1,
+    "current": 126,
     "pending-change": 0,
     "stale": 0,
     "unverified": 11,
@@ -65044,9 +65343,9 @@
    "shard": "local/vaslui/husi/2009",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2009.csv",
-   "count": 17,
+   "count": 275,
    "by_status": {
-    "current": 1,
+    "current": 259,
     "pending-change": 0,
     "stale": 0,
     "unverified": 16,
@@ -65057,9 +65356,9 @@
    "shard": "local/vaslui/husi/2010",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2010.csv",
-   "count": 16,
+   "count": 317,
    "by_status": {
-    "current": 1,
+    "current": 302,
     "pending-change": 0,
     "stale": 0,
     "unverified": 15,
@@ -65070,9 +65369,9 @@
    "shard": "local/vaslui/husi/2011",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2011.csv",
-   "count": 13,
+   "count": 234,
    "by_status": {
-    "current": 1,
+    "current": 222,
     "pending-change": 0,
     "stale": 0,
     "unverified": 12,
@@ -65083,9 +65382,9 @@
    "shard": "local/vaslui/husi/2012",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2012.csv",
-   "count": 4,
+   "count": 101,
    "by_status": {
-    "current": 1,
+    "current": 98,
     "pending-change": 0,
     "stale": 0,
     "unverified": 3,
@@ -65096,9 +65395,9 @@
    "shard": "local/vaslui/husi/2013",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2013.csv",
-   "count": 17,
+   "count": 210,
    "by_status": {
-    "current": 0,
+    "current": 193,
     "pending-change": 0,
     "stale": 0,
     "unverified": 17,
@@ -65109,9 +65408,9 @@
    "shard": "local/vaslui/husi/2014",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2014.csv",
-   "count": 15,
+   "count": 227,
    "by_status": {
-    "current": 1,
+    "current": 213,
     "pending-change": 0,
     "stale": 0,
     "unverified": 14,
@@ -65122,9 +65421,9 @@
    "shard": "local/vaslui/husi/2015",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2015.csv",
-   "count": 15,
+   "count": 239,
    "by_status": {
-    "current": 3,
+    "current": 227,
     "pending-change": 0,
     "stale": 0,
     "unverified": 12,
@@ -65135,9 +65434,9 @@
    "shard": "local/vaslui/husi/2016",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2016.csv",
-   "count": 2,
+   "count": 128,
    "by_status": {
-    "current": 0,
+    "current": 126,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -65148,9 +65447,9 @@
    "shard": "local/vaslui/husi/2017",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2017.csv",
-   "count": 3,
+   "count": 114,
    "by_status": {
-    "current": 1,
+    "current": 112,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -65161,9 +65460,9 @@
    "shard": "local/vaslui/husi/2018",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2018.csv",
-   "count": 17,
+   "count": 315,
    "by_status": {
-    "current": 2,
+    "current": 300,
     "pending-change": 0,
     "stale": 0,
     "unverified": 15,
@@ -65174,9 +65473,9 @@
    "shard": "local/vaslui/husi/2019",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2019.csv",
-   "count": 26,
+   "count": 351,
    "by_status": {
-    "current": 3,
+    "current": 328,
     "pending-change": 0,
     "stale": 0,
     "unverified": 23,
@@ -65187,9 +65486,9 @@
    "shard": "local/vaslui/husi/2020",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2020.csv",
-   "count": 22,
+   "count": 477,
    "by_status": {
-    "current": 7,
+    "current": 462,
     "pending-change": 0,
     "stale": 0,
     "unverified": 15,
@@ -65200,9 +65499,9 @@
    "shard": "local/vaslui/husi/2021",
    "kind": "local",
    "file": "data/freshness/local/vaslui/husi/2021.csv",
-   "count": 269,
+   "count": 388,
    "by_status": {
-    "current": 253,
+    "current": 372,
     "pending-change": 0,
     "stale": 0,
     "unverified": 16,
@@ -65275,12 +65574,90 @@
    }
   },
   {
+   "shard": "local/vaslui/ivanesti/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/ivanesti/2025.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/ivanesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/ivanesti/2026.csv",
+   "count": 11,
+   "by_status": {
+    "current": 11,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/malusteni/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/malusteni/2026.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/murgeni/2018",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/murgeni/2018.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/murgeni/2019",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/murgeni/2019.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vaslui/murgeni/2025",
    "kind": "local",
    "file": "data/freshness/local/vaslui/murgeni/2025.csv",
-   "count": 3,
+   "count": 7,
    "by_status": {
-    "current": 3,
+    "current": 7,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/murgeni/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/murgeni/2026.csv",
+   "count": 6,
+   "by_status": {
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65304,9 +65681,9 @@
    "shard": "local/vaslui/pogana/2021",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2021.csv",
-   "count": 38,
+   "count": 41,
    "by_status": {
-    "current": 38,
+    "current": 41,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65317,9 +65694,9 @@
    "shard": "local/vaslui/pogana/2022",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2022.csv",
-   "count": 49,
+   "count": 50,
    "by_status": {
-    "current": 49,
+    "current": 50,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65330,9 +65707,9 @@
    "shard": "local/vaslui/pogana/2023",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2023.csv",
-   "count": 63,
+   "count": 70,
    "by_status": {
-    "current": 63,
+    "current": 70,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65343,9 +65720,9 @@
    "shard": "local/vaslui/pogana/2024",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2024.csv",
-   "count": 65,
+   "count": 70,
    "by_status": {
-    "current": 65,
+    "current": 70,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65356,9 +65733,9 @@
    "shard": "local/vaslui/pogana/2025",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2025.csv",
-   "count": 63,
+   "count": 72,
    "by_status": {
-    "current": 63,
+    "current": 72,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65369,9 +65746,61 @@
    "shard": "local/vaslui/pogana/2026",
    "kind": "local",
    "file": "data/freshness/local/vaslui/pogana/2026.csv",
-   "count": 67,
+   "count": 76,
    "by_status": {
-    "current": 67,
+    "current": 76,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/rafaila/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/rafaila/2023.csv",
+   "count": 3,
+   "by_status": {
+    "current": 3,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/rafaila/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/rafaila/2024.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/rafaila/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/rafaila/2025.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/stanilesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/stanilesti/2026.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65382,12 +65811,12 @@
    "shard": "local/vaslui/tatarani/2023",
    "kind": "local",
    "file": "data/freshness/local/vaslui/tatarani/2023.csv",
-   "count": 1,
+   "count": 9,
    "by_status": {
-    "current": 0,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 1,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -65395,9 +65824,35 @@
    "shard": "local/vaslui/vaslui/2020",
    "kind": "local",
    "file": "data/freshness/local/vaslui/vaslui/2020.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/vaslui/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/vaslui/2026.csv",
    "count": 1,
    "by_status": {
     "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vaslui/zapodeni/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vaslui/zapodeni/2026.csv",
+   "count": 6,
+   "by_status": {
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65418,12 +65873,25 @@
    }
   },
   {
+   "shard": "local/vrancea/adjud/2007",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/adjud/2007.csv",
+   "count": 4,
+   "by_status": {
+    "current": 4,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/adjud/2008",
    "kind": "local",
    "file": "data/freshness/local/vrancea/adjud/2008.csv",
-   "count": 4,
+   "count": 74,
    "by_status": {
-    "current": 3,
+    "current": 73,
     "pending-change": 0,
     "stale": 0,
     "unverified": 1,
@@ -65431,12 +65899,25 @@
    }
   },
   {
+   "shard": "local/vrancea/adjud/2009",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/adjud/2009.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/adjud/2011",
    "kind": "local",
    "file": "data/freshness/local/vrancea/adjud/2011.csv",
-   "count": 3,
+   "count": 21,
    "by_status": {
-    "current": 1,
+    "current": 19,
     "pending-change": 0,
     "stale": 0,
     "unverified": 2,
@@ -65444,9 +65925,48 @@
    }
   },
   {
+   "shard": "local/vrancea/adjud/2012",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/adjud/2012.csv",
+   "count": 7,
+   "by_status": {
+    "current": 7,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/adjud/2020",
    "kind": "local",
    "file": "data/freshness/local/vrancea/adjud/2020.csv",
+   "count": 15,
+   "by_status": {
+    "current": 15,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/adjud/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/adjud/2024.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/adjud/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/adjud/2025.csv",
    "count": 1,
    "by_status": {
     "current": 1,
@@ -65457,12 +65977,168 @@
    }
   },
   {
+   "shard": "local/vrancea/balesti/2022",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/balesti/2022.csv",
+   "count": 29,
+   "by_status": {
+    "current": 29,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/balesti/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/balesti/2023.csv",
+   "count": 48,
+   "by_status": {
+    "current": 48,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/balesti/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/balesti/2024.csv",
+   "count": 74,
+   "by_status": {
+    "current": 74,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/balesti/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/balesti/2025.csv",
+   "count": 89,
+   "by_status": {
+    "current": 89,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/balesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/balesti/2026.csv",
+   "count": 73,
+   "by_status": {
+    "current": 73,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/biliesti/2022",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/biliesti/2022.csv",
+   "count": 29,
+   "by_status": {
+    "current": 29,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/biliesti/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/biliesti/2023.csv",
+   "count": 48,
+   "by_status": {
+    "current": 48,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/biliesti/2024",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/biliesti/2024.csv",
+   "count": 74,
+   "by_status": {
+    "current": 74,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/biliesti/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/biliesti/2025.csv",
+   "count": 89,
+   "by_status": {
+    "current": 89,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/biliesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/biliesti/2026.csv",
+   "count": 73,
+   "by_status": {
+    "current": 73,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/ciorasti/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/ciorasti/2025.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/ciorasti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/ciorasti/2026.csv",
+   "count": 6,
+   "by_status": {
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/corbita/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/corbita/2024.csv",
-   "count": 15,
+   "count": 17,
    "by_status": {
-    "current": 15,
+    "current": 17,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65486,45 +66162,6 @@
    "shard": "local/vrancea/corbita/2026",
    "kind": "local",
    "file": "data/freshness/local/vrancea/corbita/2026.csv",
-   "count": 6,
-   "by_status": {
-    "current": 6,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vrancea/dumitresti/2021",
-   "kind": "local",
-   "file": "data/freshness/local/vrancea/dumitresti/2021.csv",
-   "count": 3,
-   "by_status": {
-    "current": 3,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vrancea/dumitresti/2022",
-   "kind": "local",
-   "file": "data/freshness/local/vrancea/dumitresti/2022.csv",
-   "count": 5,
-   "by_status": {
-    "current": 5,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vrancea/dumitresti/2023",
-   "kind": "local",
-   "file": "data/freshness/local/vrancea/dumitresti/2023.csv",
    "count": 7,
    "by_status": {
     "current": 7,
@@ -65535,12 +66172,64 @@
    }
   },
   {
+   "shard": "local/vrancea/dumitresti/2021",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/dumitresti/2021.csv",
+   "count": 9,
+   "by_status": {
+    "current": 9,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/dumitresti/2022",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/dumitresti/2022.csv",
+   "count": 12,
+   "by_status": {
+    "current": 12,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/dumitresti/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/dumitresti/2023.csv",
+   "count": 16,
+   "by_status": {
+    "current": 16,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/dumitresti/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/dumitresti/2024.csv",
-   "count": 2,
+   "count": 5,
    "by_status": {
-    "current": 2,
+    "current": 5,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/dumitresti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/dumitresti/2026.csv",
+   "count": 6,
+   "by_status": {
+    "current": 6,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65561,12 +66250,38 @@
    }
   },
   {
+   "shard": "local/vrancea/marasesti/2018",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/marasesti/2018.csv",
+   "count": 23,
+   "by_status": {
+    "current": 23,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/marasesti/2019",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/marasesti/2019.csv",
+   "count": 58,
+   "by_status": {
+    "current": 58,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/poiana-cristei/2021",
    "kind": "local",
    "file": "data/freshness/local/vrancea/poiana-cristei/2021.csv",
-   "count": 41,
+   "count": 50,
    "by_status": {
-    "current": 41,
+    "current": 50,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65577,19 +66292,6 @@
    "shard": "local/vrancea/poiana-cristei/2022",
    "kind": "local",
    "file": "data/freshness/local/vrancea/poiana-cristei/2022.csv",
-   "count": 32,
-   "by_status": {
-    "current": 32,
-    "pending-change": 0,
-    "stale": 0,
-    "unverified": 0,
-    "source-unavailable": 0
-   }
-  },
-  {
-   "shard": "local/vrancea/poiana-cristei/2023",
-   "kind": "local",
-   "file": "data/freshness/local/vrancea/poiana-cristei/2023.csv",
    "count": 45,
    "by_status": {
     "current": 45,
@@ -65600,12 +66302,25 @@
    }
   },
   {
+   "shard": "local/vrancea/poiana-cristei/2023",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/poiana-cristei/2023.csv",
+   "count": 53,
+   "by_status": {
+    "current": 53,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
    "shard": "local/vrancea/poiana-cristei/2024",
    "kind": "local",
    "file": "data/freshness/local/vrancea/poiana-cristei/2024.csv",
-   "count": 46,
+   "count": 59,
    "by_status": {
-    "current": 46,
+    "current": 59,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65616,9 +66331,9 @@
    "shard": "local/vrancea/poiana-cristei/2025",
    "kind": "local",
    "file": "data/freshness/local/vrancea/poiana-cristei/2025.csv",
-   "count": 1,
+   "count": 11,
    "by_status": {
-    "current": 1,
+    "current": 11,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65629,9 +66344,9 @@
    "shard": "local/vrancea/poiana-cristei/2026",
    "kind": "local",
    "file": "data/freshness/local/vrancea/poiana-cristei/2026.csv",
-   "count": 4,
+   "count": 9,
    "by_status": {
-    "current": 4,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -65642,6 +66357,45 @@
    "shard": "local/vrancea/popesti/2016",
    "kind": "local",
    "file": "data/freshness/local/vrancea/popesti/2016.csv",
+   "count": 2,
+   "by_status": {
+    "current": 2,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/popesti/2018",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/popesti/2018.csv",
+   "count": 13,
+   "by_status": {
+    "current": 13,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/spulber/2025",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/spulber/2025.csv",
+   "count": 1,
+   "by_status": {
+    "current": 1,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/spulber/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/spulber/2026.csv",
    "count": 1,
    "by_status": {
     "current": 1,
@@ -65707,9 +66461,22 @@
    "shard": "local/vrancea/urechesti/2025",
    "kind": "local",
    "file": "data/freshness/local/vrancea/urechesti/2025.csv",
-   "count": 1,
+   "count": 6,
    "by_status": {
-    "current": 1,
+    "current": 6,
+    "pending-change": 0,
+    "stale": 0,
+    "unverified": 0,
+    "source-unavailable": 0
+   }
+  },
+  {
+   "shard": "local/vrancea/urechesti/2026",
+   "kind": "local",
+   "file": "data/freshness/local/vrancea/urechesti/2026.csv",
+   "count": 8,
+   "by_status": {
+    "current": 8,
     "pending-change": 0,
     "stale": 0,
     "unverified": 0,
@@ -67904,12 +68671,12 @@
    "shard": "ordin/2025",
    "kind": "ordin",
    "file": "data/freshness/ordin/2025.csv",
-   "count": 1703,
+   "count": 1704,
    "by_status": {
     "current": 964,
     "pending-change": 152,
     "stale": 0,
-    "unverified": 587,
+    "unverified": 588,
     "source-unavailable": 0
    }
   },

@@ -66,7 +66,7 @@ Read dates with the tools, not `git rev-list --before`: they pick each version b
 Every version names the official page it was read from, so every act can be checked against its source.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-06; 82% of acts verified in the last 7 days, 82% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-06; 83% of acts verified in the last 7 days, 83% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
 `python tools/freshness.py <act>` gives an act's status, its last check and the official link. The pipeline is monitored around the clock, and [data/status.json](data/status.json) (hourly) says whether updates are running and which official sources are answering. Statuses and fields: [DATA.md](DATA.md#freshness).
