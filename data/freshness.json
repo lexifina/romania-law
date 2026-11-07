@@ -667,7 +667,7 @@
    "pct_verified_7d": 78.4,
    "pct_verified_30d": 78.4,
    "pct_current": 28.5,
-   "newest_verified": "2026-11-06",
+   "newest_verified": "2026-11-07",
    "oldest_verified": "2022-05-23"
   },
   "ordin": {
@@ -864,7 +864,7 @@
    ],
    "acts": 123857,
    "last_successful_check": "2026-11-07",
-   "unavailable_since": "2026-11-07",
+   "unavailable_since": null,
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 66.1,
