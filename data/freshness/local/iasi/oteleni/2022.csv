@@ -1,9 +1,9 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
-hcl-iasi--oteleni-17-2022,current,2026-11-07,2026-12-07,register-read,,,,http://primariaoteleni.ro/hotararile-autoritatii-deliberative/
-hcl-iasi--oteleni-19-2022,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-iasi--oteleni-20-2022,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-iasi--oteleni-38-2022,current,2026-11-07,2026-12-07,register-read,,,,http://primariaoteleni.ro/hotararile-autoritatii-deliberative/
-hcl-iasi--oteleni-40-2022,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-iasi--oteleni-42-2022,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-iasi--oteleni-43-2022,current,2026-11-07,2026-12-07,register-read,,,,
-hcl-iasi--oteleni-44-2022,current,2026-11-07,2026-12-07,register-read,,,,
+hcl-iasi--oteleni-17-2022,unverified,,,,,,,http://primariaoteleni.ro/hotararile-autoritatii-deliberative/
+hcl-iasi--oteleni-19-2022,unverified,,,,,,,
+hcl-iasi--oteleni-20-2022,unverified,,,,,,,
+hcl-iasi--oteleni-38-2022,unverified,,,,,,,http://primariaoteleni.ro/hotararile-autoritatii-deliberative/
+hcl-iasi--oteleni-40-2022,unverified,,,,,,,
+hcl-iasi--oteleni-42-2022,unverified,,,,,,,
+hcl-iasi--oteleni-43-2022,unverified,,,,,,,
+hcl-iasi--oteleni-44-2022,unverified,,,,,,,
