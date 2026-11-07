@@ -1,6 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 legea-1-2000,stale,2026-06-15,2026-06-22,consolidated-form,legea-137-2022,2022-05-19,yes,https://legislatie.just.ro/Public/DetaliiDocument/20557
-legea-10-2000,current,2026-11-06,2026-11-13,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/21284
+legea-10-2000,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/21284
 legea-100-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-06-17,no,https://legislatie.just.ro/Public/DetaliiDocument/23096
 legea-101-2000,pending-change,2026-11-06,2026-11-13,amendment-search,,2004-07-22,no,https://legislatie.just.ro/Public/DetaliiDocument/22978
 legea-102-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-10-04,no,https://legislatie.just.ro/Public/DetaliiDocument/22983
@@ -163,7 +163,7 @@ legea-36-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2003-12-24,
 legea-37-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-06-10,no,https://legislatie.just.ro/Public/DetaliiDocument/21838
 legea-38-2000,current,2026-11-07,2026-11-14,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/22511
 legea-39-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-04-10,no,https://legislatie.just.ro/Public/DetaliiDocument/22110
-legea-4-2000,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/21141
+legea-4-2000,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/21141
 legea-40-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-07-29,no,https://legislatie.just.ro/Public/DetaliiDocument/22112
 legea-41-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2002-01-24,no,https://legislatie.just.ro/Public/DetaliiDocument/22114
 legea-42-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-03-22,no,https://legislatie.just.ro/Public/DetaliiDocument/22631
@@ -195,7 +195,7 @@ legea-66-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2006-07-26,
 legea-67-2000,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/22039
 legea-68-2000,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/22177
 legea-69-2000,stale,2026-02-16,2026-02-23,consolidated-form,legea-227-2025,2026-01-15,yes,https://legislatie.just.ro/Public/DetaliiDocument/22262
-legea-7-2000,pending-change,2026-11-06,2026-11-13,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/21272
+legea-7-2000,pending-change,2026-11-07,2026-11-14,amendment-search,amending acts named in the act's README.md,,no,https://legislatie.just.ro/Public/DetaliiDocument/21272
 legea-70-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-11-09,no,https://legislatie.just.ro/Public/DetaliiDocument/22196
 legea-71-2000,current,2026-11-05,2026-11-12,amendment-search,,,,https://legislatie.just.ro/Public/DetaliiDocument/22199
 legea-72-2000,pending-change,2026-11-04,2026-11-11,amendment-search,,2001-10-04,no,https://legislatie.just.ro/Public/DetaliiDocument/22265
