@@ -864,7 +864,7 @@
    ],
    "acts": 123858,
    "last_successful_check": "2026-11-07",
-   "unavailable_since": "2026-11-07",
+   "unavailable_since": null,
    "sites": null,
    "sites_unavailable": null,
    "pct_verified_7d": 66.1,
