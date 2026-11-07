@@ -20404,10 +20404,10 @@
    "file": "data/freshness/local/buzau/podgoria/2024.csv",
    "count": 9,
    "by_status": {
-    "current": 0,
+    "current": 9,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 9,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -20417,10 +20417,10 @@
    "file": "data/freshness/local/buzau/podgoria/2025.csv",
    "count": 8,
    "by_status": {
-    "current": 0,
+    "current": 8,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 8,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -20430,10 +20430,10 @@
    "file": "data/freshness/local/buzau/podgoria/2026.csv",
    "count": 3,
    "by_status": {
-    "current": 0,
+    "current": 3,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 3,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -48237,10 +48237,10 @@
    "file": "data/freshness/local/maramures/cicarlau/2026.csv",
    "count": 32,
    "by_status": {
-    "current": 0,
+    "current": 32,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 32,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
@@ -51214,10 +51214,10 @@
    "file": "data/freshness/local/mures/petelea/2016.csv",
    "count": 12,
    "by_status": {
-    "current": 0,
+    "current": 12,
     "pending-change": 0,
     "stale": 0,
-    "unverified": 12,
+    "unverified": 0,
     "source-unavailable": 0
    }
   },
