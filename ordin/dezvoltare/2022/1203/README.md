@@ -29,6 +29,6 @@ Act id: `ordin-dezvoltare-1203-2022` (tags `ordin-dezvoltare-1203-2022/<day>`; `
 
 Courts annulled, suspended or found unlawful the provisions below by decisions published in the Monitorul Oficial. A final decision annulling a normative administrative act is generally binding and has effect only for the future (Legea nr. 554/2004 art. 23). The text here is unchanged; read the decision. `data/court-annulments.csv` lists every such decision.
 
-- **Sentința Curții de Apel Constanța nr. 161/2023**, Monitorul Oficial nr. 945 din 13 octombrie 2025 · annulled in part
+- **[Sentința Curții de Apel Constanța nr. 161/2023](../../../../instante/ca-constanta/sentinta/2023/161/)**, Monitorul Oficial nr. 945 din 13 octombrie 2025 · annulled in part
 
   > Anulează în parte Ordinul nr. 1.203/2022 pentru aprobarea Regulamentului privind criteriile minime de pregătire , perfecționare și brevetare a piloților maritimi, alții decât piloții de mare largă, emis de Ministerul Transporturilor și Infrastructurii, respectiv în ceea ce privește art. 2 și art. 3 ale punctului B din anexa nr. 1 la regulamentul aprobat prin Ordinul nr. 1.203/2022 .

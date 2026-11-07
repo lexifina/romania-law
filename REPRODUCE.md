@@ -23458,21 +23458,21 @@ Every word of law in this repository comes from these sources and, for the acts 
 
 | Act | Title | Versions | Span |
 | --- | --- | ---: | --- |
-| 322713 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 336635 | |
+| 322714 acts | every act, with its kind, number, status and span, is listed in [ACTS.md](ACTS.md) and the lists it links | 336636 | |
 
-The build made 343154 commits:
+The build made 343155 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 322788 | first version of an act |
+| 322789 | first version of an act |
 | 13964 | one law on its in-force day |
 | 3682 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `viitor`: laws not yet in force on 2026-11-06.
 - 827 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 323833 laws in the record.
-- 688152 tags.
+- 323834 laws in the record.
+- 688154 tags.
 
 ## Dates
 
@@ -23484,7 +23484,7 @@ When a law gives no date of its own, the default rule applies: Constituția Rom�
 
 `tools/build/build.py` (and, for later publishes, `tools/build/append.py`) turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/build/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/build/SCHEMA.md`.
 
-- Corpus: sha256 `30315a398c589aec79225d713530d7b51ac075f877245dc060f185f7b27f8e6f` (4167201992 bytes).
+- Corpus: sha256 `c7f998dc56606c15e3da75e21895c7b8e81fe8edcd6142d4ce4edc7dbffb776b` (4167271336 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `f32298ed33e314d922f2bc4fa295f9b68ff643d6`, `check.py` `34526b6ce31ecf076b78e7067a22aec49194ac74`, `on.py` `267f054872f375839ad33c914e6c0d5faf27656b`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
@@ -23496,7 +23496,7 @@ No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
-- Every act's decisions made by hand (1147230 in all) are listed in that act's own README.md, under "Decisions made by hand".
+- Every act's decisions made by hand (1147232 in all) are listed in that act's own README.md, under "Decisions made by hand".
 
 ## What AI did and did not do
 
@@ -311556,6 +311556,7 @@ Model use at data-build time:
 - Sentința Curții de Apel Constanța nr. 225/2022: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Sentința Curții de Apel Constanța nr. 24/2022: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Sentința Curții de Apel Constanța nr. 153/2023: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
+- Sentința Curții de Apel Constanța nr. 161/2023: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Sentința Curții de Apel Constanța nr. 295/2023: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Sentința Curții de Apel Constanța nr. 33/2023: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.
 - Decizia Curții de Apel Craiova nr. 1381/2015: built by Lexifina's courts source lane and Lexifina's code from the held document; no model output is used as legal text; 0 model calls.

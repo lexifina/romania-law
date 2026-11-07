@@ -3642,12 +3642,12 @@
   {
    "shard": "instante/2023",
    "kind": "instante",
-   "count": 24,
+   "count": 25,
    "acts": "data/acts/instante/2023.json",
    "list": "data/acts/instante/2023.md",
    "versions": "data/versions/instante/2023.json",
    "laws": "data/laws/instante/2023.csv",
-   "laws_count": 24,
+   "laws_count": 25,
    "sources": "data/sources/instante/2023.csv"
   },
   {
