@@ -2,13 +2,13 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.5%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 00:43 UTC.
+**80.4%** of the plan is published, weighted by how binding each source is and how often it is used. **82.6%** counting sources already collected but not yet published. 1.1% of the weight is in parts that need the publisher's permission first. Updated 2026-11-07 01:02 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
 | **Primary legislation** | | | | | |
 | Constitution and codes | constitutie/1991/; the codes in lege/ and oug/ (Codul civil is lege/2009/287/) | 11.4% | 19 of 20 acts · 95.0% | built by hand with every version, checked against the text as published | collecting |
-| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 57,401 of 55,923 acts · 98.9% | automatic: the official text as published plus every consolidated form | collecting |
+| Laws, OUG, OG and HG (consolidated) | lege/, oug/, og/, hg/ | 24.6% | 57,403 of 55,923 acts · 98.9% | automatic: the official text as published plus every consolidated form | collecting |
 | Amended, not consolidated | lege/, oug/, og/, hg/ with status "amended, not consolidated" | in the laws bin | 13,607 of 8,321 acts · 100.0% | the official text as published, labelled, with the amending acts named | done |
 | Third-party-only acts | lege/, oug/, og/, hg/ once found in the official service | 1.9% | 3,822 of 5,166 acts · 74.0% | searched for one by one in the official service; only its text is used | collecting |
 | **Case law** | | | | | |
@@ -16,7 +16,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | ICCJ RIL and HP | jurisprudenta/iccj/ | 4.7% | 2,219 of 2,119 decisions · 100.0% | official texts as published, linked to the articles they interpret | done |
 | ICCJ other judgments (links) | data/iccj-links.csv | 0.9% | target unknown | links and metadata only | no publication channel found yet |
 | Lower courts (MO decisions, ROLII archive; annulments) | instante/<court>/; data/court-annulments.csv | 1.4% | 528 of 26,000,000 judgments; 87 of 229 annulments · 12.7% | texts where no private person is named, else metadata and a link; annulments noted on the acts | collecting |
-| ECHR judgments against Romania | jurisprudenta/cedo/ | 1.4% | 1,611 of 1,942 judgments · 83.0% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
+| ECHR judgments against Romania | jurisprudenta/cedo/ | 1.4% | 1,652 of 1,942 judgments · 85.1% | Romanian translations published in the Monitorul Oficial; HUDOC links for the rest | collecting |
 | CJEU references | jurisprudenta/cjue/ | 0.5% | 568 of 574 cases · 99.0% | the operative part and metadata of each decision concerning Romania; full texts linked | collecting |
 | CNSC and other bodies | cnsc/decizie/ (links for the rest) | 0.6% | 2,717 of 32,482 decisions · 4.2% | decisions as issued and as reasoned, identifiers removed; other bodies as metadata where they name private persons | collecting |
 | **Secondary legislation** | | | | | |
