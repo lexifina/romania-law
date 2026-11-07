@@ -92,17 +92,17 @@
  "totals": {
   "acts": 322750,
   "by_status": {
-   "current": 252185,
+   "current": 252842,
    "pending-change": 28288,
    "stale": 4468,
-   "unverified": 37809,
+   "unverified": 37152,
    "source-unavailable": 0
   },
-  "verified_7d": 265599,
-  "verified_30d": 265639,
-  "pct_verified_7d": 82.3,
-  "pct_verified_30d": 82.3,
-  "pct_current": 78.1,
+  "verified_7d": 266256,
+  "verified_30d": 266296,
+  "pct_verified_7d": 82.5,
+  "pct_verified_30d": 82.5,
+  "pct_current": 78.3,
   "newest_verified": "2026-11-07",
   "oldest_verified": "2018-07-23"
  },
@@ -144,17 +144,17 @@
   "local": {
    "acts": 174340,
    "by_status": {
-    "current": 167666,
+    "current": 168323,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 4245,
+    "unverified": 3588,
     "source-unavailable": 0
    },
-   "verified_7d": 167627,
-   "verified_30d": 167666,
-   "pct_verified_7d": 96.1,
-   "pct_verified_30d": 96.2,
-   "pct_current": 96.2,
+   "verified_7d": 168284,
+   "verified_30d": 168323,
+   "pct_verified_7d": 96.5,
+   "pct_verified_30d": 96.5,
+   "pct_current": 96.5,
    "newest_verified": "2026-11-07",
    "oldest_verified": "2023-03-20"
   },
@@ -571,17 +571,17 @@
   "local": {
    "acts": 174340,
    "by_status": {
-    "current": 167666,
+    "current": 168323,
     "pending-change": 0,
     "stale": 2429,
-    "unverified": 4245,
+    "unverified": 3588,
     "source-unavailable": 0
    },
-   "verified_7d": 167627,
-   "verified_30d": 167666,
-   "pct_verified_7d": 96.1,
-   "pct_verified_30d": 96.2,
-   "pct_current": 96.2,
+   "verified_7d": 168284,
+   "verified_30d": 168323,
+   "pct_verified_7d": 96.5,
+   "pct_verified_30d": 96.5,
+   "pct_current": 96.5,
    "newest_verified": "2026-11-07",
    "oldest_verified": "2023-03-20"
   },
@@ -909,8 +909,8 @@
    "unavailable_since": null,
    "sites": 602,
    "sites_unavailable": 8,
-   "pct_verified_7d": 96.9,
-   "pct_verified_30d": 96.9
+   "pct_verified_7d": 97.3,
+   "pct_verified_30d": 97.3
   },
   {
    "source": "Court decisions (Portalul legislativ)",
