@@ -3,6 +3,96 @@
  "shard": "local/caras-severin/berzovia/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzovia-1-2022",
+   "path": "local/caras-severin/berzovia/2022/1",
+   "short": "HCL Berzovia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 1/2022 privind validarea Dispoziției Primarului nr. 1/04.01.2022,privind acoperirea definitivă a deficitului bugetar pe anul 2021, a secțiunii de dezvoltare, în sumă de 2.284390,99 lei din excedentul anilor precedenți",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94949",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-10-2022",
+   "path": "local/caras-severin/berzovia/2022/10",
+   "short": "HCL Berzovia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 10/2022 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local Berzovia, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94972",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-11-2022",
+   "path": "local/caras-severin/berzovia/2022/11",
+   "short": "HCL Berzovia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 11/2022 privind aprobarea sumei de 40.000 lei alocate din Bugetul local al comunei Berzovia în anul 2022, Muzeului Județean de Etnografie și al Regimului de Graniță Caransebeș, pentru cercetare arheologică preventivă, la obiectivul de investiție ''Construire sală de educație fizică școlară, sat Berzovia, comuna Berzovia, județul Caraș-Severin''",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94973",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-12-2022",
+   "path": "local/caras-severin/berzovia/2022/12",
+   "short": "HCL Berzovia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 12/2022 privind rectificarea Bugetului de venituri și cheltuieli al comunei Berzovia, pe luna martie 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95000",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-13-2022",
+   "path": "local/caras-severin/berzovia/2022/13",
+   "short": "HCL Berzovia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 13/2022 privind modificarea și completarea HCL Berzovia 39/2020 privind organizarea comisiilor de specialitate ale Consiliului Local Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95001",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-14-2022",
+   "path": "local/caras-severin/berzovia/2022/14",
+   "short": "HCL Berzovia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 14/2022 privind aprobarea indicatorilor tehnico-economici pentru realizarea obiectivului de investiție ''Modernizare străzi în localitatea Berzovia, județul Caraș-Severin'' în anul 2022, în valoare de 353,00 mii lei",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95002",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzovia-15-2022",
    "path": "local/caras-severin/berzovia/2022/15",
    "short": "HCL Berzovia nr. 15/2022",
@@ -18,6 +108,201 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzovia-16-2022",
+   "path": "local/caras-severin/berzovia/2022/16",
+   "short": "HCL Berzovia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 16/2022 privind alocarea de la Bugetul local al comunei Berzovia a sumei de 12 mii lei pentru Parohia Romano Catolică din Berzovia, în anul 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95004",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-17-2022",
+   "path": "local/caras-severin/berzovia/2022/17",
+   "short": "HCL Berzovia nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 17/2022 privind modificarea și completarea HCL Berzovia nr. 81/2021 privind desemnarea reprezentantului Consiliului Local Berzovia, în Comisia de evaluare a probei de interviu, pentru concursul de director și director adjunct al Școlii Profesionale Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95005",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-18-2022",
+   "path": "local/caras-severin/berzovia/2022/18",
+   "short": "HCL Berzovia nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 18/2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95006",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-19-2022",
+   "path": "local/caras-severin/berzovia/2022/19",
+   "short": "HCL Berzovia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 19/2022 privind aprobarea, achiziționarea și montarea sistemelor de supraveghere video în unitățile de învățământ preuniveristar de pe raza UAT Berzovia, în sumă de 10 mii lei, din Bugetul local al anului 2022, pentru creșterea gradului de siguranță al elevilor",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95007",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-2-2022",
+   "path": "local/caras-severin/berzovia/2022/2",
+   "short": "HCL Berzovia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 2/2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94950",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-20-2022",
+   "path": "local/caras-severin/berzovia/2022/20",
+   "short": "HCL Berzovia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 20/2022 privind aprobarea sumei de 20,00 mii lei, din Bugetul local al anului 2022 pentru achiziționarea unui număr de 100 europubele, cu capacitatea de încărcare de 120 l",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95008",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-21-2022",
+   "path": "local/caras-severin/berzovia/2022/21",
+   "short": "HCL Berzovia nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 21/2022 privind aprobarea sumei de 70,00 mii lei alocate din Bugetul local al comunei Berzovia în anul 2022, pentru întocmirea documentației în vederea lucrărilor de intervenție (D.A.L.I.) pentru obiectivul ''Reabilitare și Modernizare Primăria Berzovia'', din comuna Berzovia, județul Caraș-Severin, în vederea obținerii certificatului de urbanism",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95009",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-22-2022",
+   "path": "local/caras-severin/berzovia/2022/22",
+   "short": "HCL Berzovia nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 22/2022 privind aprobarea de la Bugetul local al comunei Berzovia, pe anul 2022 a sumei de 20,00 mii lei, pentru asigurarea asistenței tehnice de specialitate, în cadrul investiției ''Construire grup sanitar la Școala Profesională Berzovia'', din comuna Berzovia, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95010",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-23-2022",
+   "path": "local/caras-severin/berzovia/2022/23",
+   "short": "HCL Berzovia nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 23/2022 privind aprobarea contului de încheiere a exercițiului bugetar al Comunei Berzovia pe anul 2021",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95062",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-24-2022",
+   "path": "local/caras-severin/berzovia/2022/24",
+   "short": "HCL Berzovia nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 24/2022 privind modificarea și completarea Statului de funcții al Comunei Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95063",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-25-2022",
+   "path": "local/caras-severin/berzovia/2022/25",
+   "short": "HCL Berzovia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 25/2022 privind aprobarea modificării și completării HCL Berzovia nr. 42/2021, privind suma de la Bugetul local pentru plata instructorilor de la ”Ansamblul folcloric Berzovia” al comunei Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95065",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-26-2022",
+   "path": "local/caras-severin/berzovia/2022/26",
+   "short": "HCL Berzovia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 26/2022 privind aprobarea sumei de 30,00 mii lei pentru fiecare localitate a comunei Berzovia, alocată din Bugetul local al Comunei Berzovia în vederea organizării Rugilor satelor comunei Berzovia (Hramul Bisericilor Ortodoxe)",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95067",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-27-2022",
+   "path": "local/caras-severin/berzovia/2022/27",
+   "short": "HCL Berzovia nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 27/2022 privind aprobarea încheierii unui contract de achiziție publică: Capturarea/preluarea câinilor fără stăpân din comuna Berzovia” prin procedura achiziție directă valoarea fiind de 610 lei/câine plus cheltuielile de transport",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95068",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95068",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzovia-28-2022",
    "path": "local/caras-severin/berzovia/2022/28",
    "short": "HCL Berzovia nr. 28/2022",
@@ -28,6 +313,621 @@
      "from": "2023-03-15",
      "units": 1,
      "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-29-2022",
+   "path": "local/caras-severin/berzovia/2022/29",
+   "short": "HCL Berzovia nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 29/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95070",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-3-2022",
+   "path": "local/caras-severin/berzovia/2022/3",
+   "short": "HCL Berzovia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 3/2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94951",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-30-2022",
+   "path": "local/caras-severin/berzovia/2022/30",
+   "short": "HCL Berzovia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 30/2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95071",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-31-2022",
+   "path": "local/caras-severin/berzovia/2022/31",
+   "short": "HCL Berzovia nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 31/2022 privind aprobarea Proiectului educațional ”O ZI ÎN LUMEA COPIILOR”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95072",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-32-2022",
+   "path": "local/caras-severin/berzovia/2022/32",
+   "short": "HCL Berzovia nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 32/2022 privind anularea obligațiilor fiscale datorate de debitori, persoane juridice, radiați din Registrul Comerțului și scăderea societăților radiate din evidența fiscală, dacă pentru plata acestora nu s-a atras răspunderea altor persoane, potrivit legii",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95073",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-33-2022",
+   "path": "local/caras-severin/berzovia/2022/33",
+   "short": "HCL Berzovia nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 33/2022 privind aprobarea sumei de 25.347 lei alocate din Bugetul local al Comunei Berzovia în anul 2022, pentru întocmirea documentației în vederea demarării documentației de lucrări de intervenție (D.A.L.I) pentru obiectivul ”Reabilitare și Modernizare Camin Cultural Ghertenis”, din comuna Berzovia, sat Ghertenis, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95074",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-34-2022",
+   "path": "local/caras-severin/berzovia/2022/34",
+   "short": "HCL Berzovia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 34/2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95075",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-35-2022",
+   "path": "local/caras-severin/berzovia/2022/35",
+   "short": "HCL Berzovia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 35/2022 privind atestarea apartenenței la domeniul privat al Comunei Berzovia, a imobilelor teren și construcții înscrise în CF-urile cu nr. 50528 Berzovia și 50529 Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95076",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-36-2022",
+   "path": "local/caras-severin/berzovia/2022/36",
+   "short": "HCL Berzovia nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 36/2022 privind aprobarea de la bugetul local al comunei Berzovia al anului 2022 a sumei de 35,00 mii lei, pentru premiile elevilor din învățământul preuniversitar, din cadrul Școlii Profesionale Berzovia, cu rezultate deosebite la învățătură, olimpiade și concursuri județene și naționale",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95078",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-37-2022",
+   "path": "local/caras-severin/berzovia/2022/37",
+   "short": "HCL Berzovia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 37/2022 privind aprobarea sumei de 16.273 lei alocate din Bugetul local al Comunei Berzovia anul 2022, Muzeului Județean de Etnografie și al Regimului de Granita Caransebeș, pentru cercetare arheologică preventivă, la obiectivul de investiție: ”Construire sala de educație fizică școlară, sat Berzovia, comuna Berzovia, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95079",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-38-2022",
+   "path": "local/caras-severin/berzovia/2022/38",
+   "short": "HCL Berzovia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 38/2022 privind modificarea și completarea Statului de funcțoo al Comunei Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95080",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-39-2022",
+   "path": "local/caras-severin/berzovia/2022/39",
+   "short": "HCL Berzovia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 39/2022 privind aprobarea Planului de apărare împotriva inundațiilor, fenomenelor hidrometeorologice periculoase având ca efect producerea de inundații și seceta hidrologică, incidente/accidente la construcții hidrotehnice, poluări accidentale pe cursurile de apa la Comitetul Local pentru Situații de Urgență Berzovia, pe perioada 2022-2025",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95081",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-4-2022",
+   "path": "local/caras-severin/berzovia/2022/4",
+   "short": "HCL Berzovia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 4/2022 privind reorganizarea rețelei școlare a unității de învățământ școlar de pe raza UAT Berzovia, pentru anul 2022-2023",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94952",
+   "versions": [
+    {
+     "from": "2022-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-40-2022",
+   "path": "local/caras-severin/berzovia/2022/40",
+   "short": "HCL Berzovia nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 40/2022 privind modificarea și completarea HCL nr. 77/2021 privind aprobarea Regulamentului de instruire și administrare a taxei speciale de salubrizare la nivelul UAT Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95082",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-41-2022",
+   "path": "local/caras-severin/berzovia/2022/41",
+   "short": "HCL Berzovia nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 41/2022 privind depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul „Reabilitare și Modernizare Camin Cultural Ghertenis, Comuna Berzovia, Județul Caraș-Severin”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95083",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-42-2022",
+   "path": "local/caras-severin/berzovia/2022/42",
+   "short": "HCL Berzovia nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 42/2022 privind depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul „Modernizare și dotare dispensar uman, Comuna Berzovia, Județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95084",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-43-2022",
+   "path": "local/caras-severin/berzovia/2022/43",
+   "short": "HCL Berzovia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 43/2022 privind dezmembarea imobilului înscris în Cartea funciară nr. 41373 Berzovia situat în extravilanul localității Berzovia în două loturi: Lot 1 în suprafață de 60061 mp și Lot 2 în suprafața de 100000 mp",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95085",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-44-2022",
+   "path": "local/caras-severin/berzovia/2022/44",
+   "short": "HCL Berzovia nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 44/2022 privind dezmembrarea imobilului înscris în Cartea funciară nr. 44108 Berzovia situat în extravilanul localității Berzovia în două loturi: Lot 1 în suprafață de 13000 mp și Lot 2 în suprafață de 10000 mp",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95086",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-45-2022",
+   "path": "local/caras-severin/berzovia/2022/45",
+   "short": "HCL Berzovia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 45/2022 privind aprobarea sumei de 6780 lei alocata din Bugetul local al Comunei Berzovia în anul 2022, Muzeului Județean de Etnografie și al Regimului de Granita Caransebes, pentru supraveghere arheologică, la obiectivul de investiție: „Modernizare străzi în localitatea Berzovia, comuna Berzovia, județul Caraș-Severin (capeti străzi)",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95087",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-46-2022",
+   "path": "local/caras-severin/berzovia/2022/46",
+   "short": "HCL Berzovia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 46/2022 privind aprobarea noului DEVIZ GENERAL al obiectivului de investiții ”Realizare sistem de canalizare menajeră în localitatea Ghertenis, Comuna Berzovia, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95108",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-47-2022",
+   "path": "local/caras-severin/berzovia/2022/47",
+   "short": "HCL Berzovia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 47/2022 privind aprobarea sumei de 13000 lei alocata din Bugetul local al Comunei Berzovia în anul 2022, Muzeului Județean de Etnografie și al Regimului de Granita Caransebes, pentru cercetare arheologică preventivă, la obiectivul de investiție: ”Modernizare cămin cultural Berzovia, comuna Berzovia, județul Caraș-Severin”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95109",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-48-2022",
+   "path": "local/caras-severin/berzovia/2022/48",
+   "short": "HCL Berzovia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 48/2022 privind aprobarea de la Bugetul local al Comunei Berzovia al anului 2022, a sumei de 42.000 lei pentru reparație stația de apa Fizes, comuna Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95110",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-49-2022",
+   "path": "local/caras-severin/berzovia/2022/49",
+   "short": "HCL Berzovia nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 49/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95124",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-5-2022",
+   "path": "local/caras-severin/berzovia/2022/5",
+   "short": "HCL Berzovia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 5/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94967",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-50-2022",
+   "path": "local/caras-severin/berzovia/2022/50",
+   "short": "HCL Berzovia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 50/2022 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 661/04.10.2017 de la FNGCIMM SA IFN în valoare de 1.815.000,00 lei în vederea garantării obligațiilor de plata a avansului de 1.815.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat - „Modernizare străzi în comuna Berzovia, județul Caraș-Severin”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95125",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-51-2022",
+   "path": "local/caras-severin/berzovia/2022/51",
+   "short": "HCL Berzovia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 51/2022 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 654/03.10.2017 de la FNGCIMM SA IFN în valoare de 1.815.000,00 lei în vederea garantării obligațiilor de plata a avansului de 1.815.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat - „Extindere canalizare menajeră în comuna Berzovia”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95126",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-52-2022",
+   "path": "local/caras-severin/berzovia/2022/52",
+   "short": "HCL Berzovia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 52/2022 privind dezafilirea Comunei Berzovia, de la Societatea Națională de Cruce Roșie din România Filiala Județului Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95127",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-53-2022",
+   "path": "local/caras-severin/berzovia/2022/53",
+   "short": "HCL Berzovia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 53/2022 privind modificarea și completarea HCL Berzovia nr. 16/24.03.2021 aprobarea înființării Serviciului public de Gospodărire comunală Berzovia , județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95128",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-54-2022",
+   "path": "local/caras-severin/berzovia/2022/54",
+   "short": "HCL Berzovia nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 54/2022 privind rectificarea Bugetului de venituri și cheltuieli al Comunei Berzovia al anului 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95129",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-55-2022",
+   "path": "local/caras-severin/berzovia/2022/55",
+   "short": "HCL Berzovia nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 55/2022 privind utilizarea excedentului Bugetului local al Comunei Berzovia din anii precedenți",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95130",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-56-2022",
+   "path": "local/caras-severin/berzovia/2022/56",
+   "short": "HCL Berzovia nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 56/2022 privind aprobarea de la Bugetul local al Comunei Berzovia al anului 2022, a sumei de 25000 lei pentru achiziționare și montare centrala termică la sediul Primăriei Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95131",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-57-2022",
+   "path": "local/caras-severin/berzovia/2022/57",
+   "short": "HCL Berzovia nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 57/2022 privind aprobarea sumei de 26000 lei de la Bugetul local al Comunei Berzovia, pentru închirierea a două containere modulare în vederea continuării activității Grădiniței cu program normal din FIZES",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95132",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-58-2022",
+   "path": "local/caras-severin/berzovia/2022/58",
+   "short": "HCL Berzovia nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 58/2022 privind rectificarea Bugetului de venituri și cheltuieli al Comunei Berzovia al anului 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95143",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-59-2022",
+   "path": "local/caras-severin/berzovia/2022/59",
+   "short": "HCL Berzovia nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 59/2022 privind aprobarea sumei DE 9821,57 lei alocată din Bugetul local al Comunei Berzovia în anul 2022, Companiei Naționale de Administrare a Infrastructurii Rutiere, pentru invetiția ”REABILITARE SISTEM DE CANALIZARE ÎN LOC. GHERTENIS, COMUNA BERZOVIA, JUD. CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95144",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-6-2022",
+   "path": "local/caras-severin/berzovia/2022/6",
+   "short": "HCL Berzovia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 6/2022 privind aprobarea Bugetului de venituri și cheltuieli al comunei Berzovia, pe anul 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94968",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94968",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-60-2022",
+   "path": "local/caras-severin/berzovia/2022/60",
+   "short": "HCL Berzovia nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 60/2022 privind validarea Dispoziției Primarului Nr. 93/27.09.2022, privind rectificarea bugetului local al Comunei Berzovia pe anul 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95145",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-61-2022",
+   "path": "local/caras-severin/berzovia/2022/61",
+   "short": "HCL Berzovia nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 61/2022 privind rectificarea Bugetului de venituri și cheltuieli al Comunei Berzovia al anului 2022",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95146",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-62-2022",
+   "path": "local/caras-severin/berzovia/2022/62",
+   "short": "HCL Berzovia nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 62/2022 privind aprobarea implementării proiectului CONSTRUIRE 3 CAPELE MORTUARE ÎN LOCALITĂȚILE, BERZOVIA, FIZES, GHERTENIS, COMUNA BERZOVIA JUDEȚUL CARAȘ-SEVERIN”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95147",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-63-2022",
+   "path": "local/caras-severin/berzovia/2022/63",
+   "short": "HCL Berzovia nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 63/2022 privind aprobarea DEVIZULUI GENERAL-REST EXECUTAT la proiectul-CONSTRUIRE GRUP SANITAR ȘCOALA PROFESIONALĂ BERZOVIA”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95148",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-64-2022",
+   "path": "local/caras-severin/berzovia/2022/64",
+   "short": "HCL Berzovia nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 64/2022 privind completarea HCL Berzovia nr. 41/25 iunie 2022, depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul ”Reabilitare și Modernizare Cămin Cultural Ghertenis, Comuna Berzovia, județul Caraș-Severin”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95162",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-65-2022",
+   "path": "local/caras-severin/berzovia/2022/65",
+   "short": "HCL Berzovia nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 65/2022 privind completarea HCL Berzovia nr. 42/25 iunie 2022, depunerea la Ministerul Dezvolării, Lucrărilor Publice și Administrației a proiectului privind obiectivul ”Modernizare și dotare dispensar uman, Comuna Berzovia, județul Caraș-Severin”",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/95163",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95163",
      "sha256": null
     }
    ]
@@ -88,6 +988,21 @@
      "from": "2023-03-15",
      "units": 1,
      "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-7-2022",
+   "path": "local/caras-severin/berzovia/2022/7",
+   "short": "HCL Berzovia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 7/2022 privind aprobarea utilizării excedentului Bugetului local al anilor precedenți al comunei Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94969",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94969",
      "sha256": null
     }
    ]
@@ -243,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzovia-8-2022",
+   "path": "local/caras-severin/berzovia/2022/8",
+   "short": "HCL Berzovia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 8/2022 privind aprobarea sumei de 48.000 lei alocate din Bugetul local al comunei Berzovia în anul 2022, cu privire la realizarea reproiectării și asistența tehnică (act adițional la contractul de servicii nr. 485/02.02.2018) aferent lucrărilor suplimentare aprobate pentru investiția ''Realizare sistem de canalizare menajeră localitatea Ghertenis, comuna Berzovia, județul Caraș-Severin",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94970",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94970",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzovia-80-2022",
    "path": "local/caras-severin/berzovia/2022/80",
    "short": "HCL Berzovia nr. 80/2022",
@@ -328,6 +1258,21 @@
      "from": "2023-03-15",
      "units": 1,
      "source_url": "https://emol.ro/berzovia-cs/registru-hcl/95208",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzovia-9-2022",
+   "path": "local/caras-severin/berzovia/2022/9",
+   "short": "HCL Berzovia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 9/2022 privind înființarea Serviciului de iluminat public, comuna Berzovia",
+   "url": "https://emol.ro/berzovia-cs/registru-hcl/94971",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzovia-cs/registru-hcl/94971",
      "sha256": null
     }
    ]

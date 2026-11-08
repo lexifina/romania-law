@@ -3,6 +3,116 @@
 "shard": "local/caras-severin/rusca-montana/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--rusca-montana-76-2025",
+"path": "local/caras-severin/rusca-montana/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 76/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240807",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-77-2025",
+"path": "local/caras-severin/rusca-montana/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 77/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240808",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-78-2025",
+"path": "local/caras-severin/rusca-montana/2025/78",
+"kind": "local",
+"year": "2025",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 78/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 20 iunie 2025",
+"short": "HCL Rusca Montană nr. 78/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240809",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-79-2025",
+"path": "local/caras-severin/rusca-montana/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 79/2025 privind aprobarea procesului-verbal al ședinței extraordinare de îndată a Consiliului local al comunei Rusca Montană din data de 27 iunie 2025",
+"short": "HCL Rusca Montană nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240812",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-80-2025",
+"path": "local/caras-severin/rusca-montana/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 80/2025 privind validarea Dispoziției primarului comunei Rusca Montană nr. 115/04.07.2025 privind rectificarea bugetului local al comunei Rusca Montană, pentru anul fiscal 2025",
+"short": "HCL Rusca Montană nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240816",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--rusca-montana-81-2025",
 "path": "local/caras-severin/rusca-montana/2025/81",
 "kind": "local",
@@ -44,6 +154,72 @@
 "council_name": "Consiliul Local al Comunei Rusca Montană",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-83-2025",
+"path": "local/caras-severin/rusca-montana/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 83/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240826",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-84-2025",
+"path": "local/caras-severin/rusca-montana/2025/84",
+"kind": "local",
+"year": "2025",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 84/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 84/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240827",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-85-2025",
+"path": "local/caras-severin/rusca-montana/2025/85",
+"kind": "local",
+"year": "2025",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 85/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 18.07.2025",
+"short": "HCL Rusca Montană nr. 85/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-15",
+"latest": "2025-12-15",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/240828",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -158,6 +334,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--rusca-montana-91-2025",
+"path": "local/caras-severin/rusca-montana/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 91/2025 privind aprobarea documentației tehnico-economice faza - Proiect Tehnic de Execuție (PTE) și a indicatorilor tehnico-economici privind obiectivul de investiții ”Modernizare DJ 684 - Legătură cu Județul Hunedoara la DJ 687 D”",
+"short": "HCL Rusca Montană nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/241121",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-92-2025",
+"path": "local/caras-severin/rusca-montana/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 92/2025 privind desemnarea reprezentantului Consiliului local al comunei Rusca Montană în cadrul Consiliului de Administrație al Școlii Gimnaziale Rusca Montană",
+"short": "HCL Rusca Montană nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/241168",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--rusca-montana-93-2025",
 "path": "local/caras-severin/rusca-montana/2025/93",
 "kind": "local",
@@ -177,6 +397,72 @@
 "council_name": "Consiliul Local al Comunei Rusca Montană",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-94-2025",
+"path": "local/caras-severin/rusca-montana/2025/94",
+"kind": "local",
+"year": "2025",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 94/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 94/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/241123",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-95-2025",
+"path": "local/caras-severin/rusca-montana/2025/95",
+"kind": "local",
+"year": "2025",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 95/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 95/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/241127",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-96-2025",
+"path": "local/caras-severin/rusca-montana/2025/96",
+"kind": "local",
+"year": "2025",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 96/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 29 august 2025",
+"short": "HCL Rusca Montană nr. 96/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-16",
+"latest": "2025-12-16",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/241170",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -243,6 +529,72 @@
 "council_name": "Consiliul Local al Comunei Rusca Montană",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-100-2025",
+"path": "local/caras-severin/rusca-montana/2025/100",
+"kind": "local",
+"year": "2025",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 100/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 100/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/271994",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-101-2025",
+"path": "local/caras-severin/rusca-montana/2025/101",
+"kind": "local",
+"year": "2025",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 101/2025 privind aprobarea ordinii de zi a ședinței extraordinare de îndtă a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 101/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/271995",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-102-2025",
+"path": "local/caras-severin/rusca-montana/2025/102",
+"kind": "local",
+"year": "2025",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 102/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 12 Septembrie 2025",
+"short": "HCL Rusca Montană nr. 102/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/271996",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +686,116 @@
 }
 },
 {
+"slug": "hcl-caras-severin--rusca-montana-107-2025",
+"path": "local/caras-severin/rusca-montana/2025/107",
+"kind": "local",
+"year": "2025",
+"number": "107",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 107/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 107/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272055",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-108-2025",
+"path": "local/caras-severin/rusca-montana/2025/108",
+"kind": "local",
+"year": "2025",
+"number": "108",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 108/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 108/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272056",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-109-2025",
+"path": "local/caras-severin/rusca-montana/2025/109",
+"kind": "local",
+"year": "2025",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 109/2025 privind aprobarea procesului-verbal al ședinței extraordinare de îndată a Consiliului local al comunei Rusca Montană din data de 29 septembrie 2025",
+"short": "HCL Rusca Montană nr. 109/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272057",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-110-2025",
+"path": "local/caras-severin/rusca-montana/2025/110",
+"kind": "local",
+"year": "2025",
+"number": "110",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 110/2025 privind aprobarea procesului-verbal al ședinței extraordinare de îndată a Consiliului local al comunei Rusca Montană din data de 15 Octombrie 2025",
+"short": "HCL Rusca Montană nr. 110/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272058",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-111-2025",
+"path": "local/caras-severin/rusca-montana/2025/111",
+"kind": "local",
+"year": "2025",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 111/2025 privind validarea Dispoziției primarului comunei Rusca Montană nr. 166/01.10.2025 privind rectificarea bugetului local al comunei Rusca Montană, pentru anul fiscal 2025",
+"short": "HCL Rusca Montană nr. 111/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272059",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--rusca-montana-112-2025",
 "path": "local/caras-severin/rusca-montana/2025/112",
 "kind": "local",
@@ -398,6 +860,138 @@
 "council_name": "Consiliul Local al Comunei Rusca Montană",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-115-2025",
+"path": "local/caras-severin/rusca-montana/2025/115",
+"kind": "local",
+"year": "2025",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 115/2025 privind aprobarea vânzării la licitație a unei cantități de masă lemnoasă pe picior din fondul forestier al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 115/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272063",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-116-2025",
+"path": "local/caras-severin/rusca-montana/2025/116",
+"kind": "local",
+"year": "2025",
+"number": "116",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 116/2025 privind aprobarea vânzării la licitație a unei cantități de masă lemnoasă pe picior din fondul forestier al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 116/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272064",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-117-2025",
+"path": "local/caras-severin/rusca-montana/2025/117",
+"kind": "local",
+"year": "2025",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 117/2025 privind aprobarea procesului-verbal al ședinței extraordinare de îndată a Consiliului local al comunei Rusca Montană din data de 23 Octombrie 2025",
+"short": "HCL Rusca Montană nr. 117/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272065",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-118-2025",
+"path": "local/caras-severin/rusca-montana/2025/118",
+"kind": "local",
+"year": "2025",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 118/2025 privind alegerea președintelui de ședință a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 118/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272099",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-119-2025",
+"path": "local/caras-severin/rusca-montana/2025/119",
+"kind": "local",
+"year": "2025",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 119/2025 privind aprobarea ordinii de zi a ședinței ordinare a Consiliului local al comunei Rusca Montană",
+"short": "HCL Rusca Montană nr. 119/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272100",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--rusca-montana-120-2025",
+"path": "local/caras-severin/rusca-montana/2025/120",
+"kind": "local",
+"year": "2025",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rusca Montană nr. 120/2025 privind aprobarea procesului-verbal al ședinței ordinare a Consiliului local al comunei Rusca Montană din data de 24 Octombrie 2025",
+"short": "HCL Rusca Montană nr. 120/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-03",
+"latest": "2026-06-03",
+"portal": "https://emol.ro/ruscamontana-cs/registru-hcl/272101",
+"council": "caras-severin/rusca-montana",
+"council_name": "Consiliul Local al Comunei Rusca Montană",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/vermes/2024",
 "acts": [
 {
+"slug": "hcl-caras-severin--vermes-1-2024",
+"path": "local/caras-severin/vermes/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 1/2024 privind aprobarea organizării reţelei şcolare a unităţilor de învăţământ preuniversitar de pe raza comunei Vermeş, începând cu anul școlar 2024-2025",
+"short": "HCL Vermeș nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168474",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--vermes-2-2024",
 "path": "local/caras-severin/vermes/2024/2",
 "kind": "local",
@@ -47,6 +69,249 @@
 }
 },
 {
+"slug": "hcl-caras-severin--vermes-4-2024",
+"path": "local/caras-severin/vermes/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 4/2024 privind aprobarea Programului activităților culturale și educative pe anul 2024, organizate la nivelul comunei Vermeș",
+"short": "HCL Vermeș nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168479",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-5-2024",
+"path": "local/caras-severin/vermes/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 5/2024 privind alegerea președintelui de ședință pe lunile martie, aprilie și mai 2024",
+"short": "HCL Vermeș nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168480",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-6-2024",
+"path": "local/caras-severin/vermes/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 6/2024 privind aprobarea numărului de asistenţi personali pentru persoanele cu handicap grav, precum şi a persoanelor cu indemnizaţiei de însoțitor pentru anul 2024, la nivelul comunei Vermeş, judeţul Caraş-Severin",
+"short": "HCL Vermeș nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168481",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-7-2024",
+"path": "local/caras-severin/vermes/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 7/2024 privind rectificarea bugetului comunei Vermeş pe anul 2024",
+"short": "HCL Vermeș nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168482",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-8-2024",
+"path": "local/caras-severin/vermes/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 8/2024 privind aprobarea tipului de suport alimentar acordat preșcolarilor și elevilor Școlii Gimnaziale Vermeș, comuna Vermeș, județul Caraș-Severin în cadrul Programului național ,,Masa sanatoasa”",
+"short": "HCL Vermeș nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168483",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-9-2024",
+"path": "local/caras-severin/vermes/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 9/2024",
+"short": "HCL Vermeș nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168484",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-10-2024",
+"path": "local/caras-severin/vermes/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 10/2024 privind stabilirea disponibilului de pajişti aflate în proprietatea privată a comunei Vermeş, judeţul Caraş-Severin, în vederea atribuirii crescătorilor de animale",
+"short": "HCL Vermeș nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168485",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-11-2024",
+"path": "local/caras-severin/vermes/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 11/2024 privind aprobarea Regulamentului privind inchirierea pajistilor aflate în proprietatea privata a comunei Vermeş in anul 2024",
+"short": "HCL Vermeș nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168486",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-12-2024",
+"path": "local/caras-severin/vermes/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 12/2024 privind alegerea preşedintelui de şedinţă pentru data de 28 martie 2024",
+"short": "HCL Vermeș nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168487",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-13-2024",
+"path": "local/caras-severin/vermes/2024/13",
+"kind": "local",
+"year": "2024",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 13/2024 privind alegerea președintelui de ședință pe lunile iulie, august și septembrie 2024",
+"short": "HCL Vermeș nr. 13/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168488",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-14-2024",
+"path": "local/caras-severin/vermes/2024/14",
+"kind": "local",
+"year": "2024",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 14/2024 privind modificarea şi completarea Hotărârii Consiliului Local nr. 2/2024 - privind aprobarea utilizării excedentului bugetar pe anul 2023",
+"short": "HCL Vermeș nr. 14/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168489",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--vermes-15-2024",
 "path": "local/caras-severin/vermes/2024/15",
 "kind": "local",
@@ -88,6 +353,50 @@
 "council_name": "Consiliul Local al Comunei Vermeș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-17-2024",
+"path": "local/caras-severin/vermes/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 17/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Construire poduri rutiere pe raza comunei Vermeș, județul Caraș-Severin”, aprobat pentru finantare prin Programul national de investitii ,,Anghel Saligny\", precum și a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Vermeș nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168492",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-18-2024",
+"path": "local/caras-severin/vermes/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 18/2024 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Alimentare cu apa, canalizare menajeră şi staţie de epurare localitatea Izgar, comuna Vermeş, judeţul Caraş-Severin”, aprobat pentru finantare prin Programul national de investitii ,,Anghel Saligny\", precum și a sumei reprezentand categoriile de cheltuieli finantate de la bugetul local pentru realizarea obiectivului",
+"short": "HCL Vermeș nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/168493",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

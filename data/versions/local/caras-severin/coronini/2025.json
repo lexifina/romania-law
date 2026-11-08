@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/coronini/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--coronini-1-2025",
+   "path": "local/caras-severin/coronini/2025/1",
+   "short": "HCL Coronini nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 1/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205895",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205895",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-10-2025",
    "path": "local/caras-severin/coronini/2025/10",
    "short": "HCL Coronini nr. 10/2025",
@@ -33,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-12-2025",
+   "path": "local/caras-severin/coronini/2025/12",
+   "short": "HCL Coronini nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 12/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205923",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205923",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-13-2025",
    "path": "local/caras-severin/coronini/2025/13",
    "short": "HCL Coronini nr. 13/2025",
@@ -48,6 +78,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-14-2025",
+   "path": "local/caras-severin/coronini/2025/14",
+   "short": "HCL Coronini nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215304",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-15-2025",
+   "path": "local/caras-severin/coronini/2025/15",
+   "short": "HCL Coronini nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 15/2025 privind rectificarea Bugetului Consiliului Local pe anul 2025",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215305",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215305",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-16-2025",
    "path": "local/caras-severin/coronini/2025/16",
    "short": "HCL Coronini nr. 16/2025",
@@ -58,6 +118,21 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/215306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-17-2025",
+   "path": "local/caras-severin/coronini/2025/17",
+   "short": "HCL Coronini nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 17/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215320",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215320",
      "sha256": null
     }
    ]
@@ -123,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-21-2025",
+   "path": "local/caras-severin/coronini/2025/21",
+   "short": "HCL Coronini nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 21/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215326",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-22-2025",
    "path": "local/caras-severin/coronini/2025/22",
    "short": "HCL Coronini nr. 22/2025",
@@ -133,6 +223,21 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/215328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-23-2025",
+   "path": "local/caras-severin/coronini/2025/23",
+   "short": "HCL Coronini nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 23/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/215664",
+   "versions": [
+    {
+     "from": "2025-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/215664",
      "sha256": null
     }
    ]
@@ -178,6 +283,21 @@
      "from": "2025-07-02",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/215332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-27-2025",
+   "path": "local/caras-severin/coronini/2025/27",
+   "short": "HCL Coronini nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 27/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240324",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240324",
      "sha256": null
     }
    ]
@@ -243,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-31-2025",
+   "path": "local/caras-severin/coronini/2025/31",
+   "short": "HCL Coronini nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 31/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240328",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240328",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-32-2025",
    "path": "local/caras-severin/coronini/2025/32",
    "short": "HCL Coronini nr. 32/2025",
@@ -258,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-33-2025",
+   "path": "local/caras-severin/coronini/2025/33",
+   "short": "HCL Coronini nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 33/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240330",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-34-2025",
    "path": "local/caras-severin/coronini/2025/34",
    "short": "HCL Coronini nr. 34/2025",
@@ -268,6 +418,21 @@
      "from": "2025-12-11",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/240331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-35-2025",
+   "path": "local/caras-severin/coronini/2025/35",
+   "short": "HCL Coronini nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 35/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/240332",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/240332",
      "sha256": null
     }
    ]
@@ -498,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-5-2025",
+   "path": "local/caras-severin/coronini/2025/5",
+   "short": "HCL Coronini nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 5/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205899",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-50-2025",
    "path": "local/caras-severin/coronini/2025/50",
    "short": "HCL Coronini nr. 50/2025",
@@ -613,6 +793,36 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/205905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-7-2025",
+   "path": "local/caras-severin/coronini/2025/7",
+   "short": "HCL Coronini nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 7/2025 privind Aprobarea încheierii Actului Adițional nr. 2 la contractul de închiriere din 01.07.2005 încheiat între Comuna Coronini şi Vodafone România S.A",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205906",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-8-2025",
+   "path": "local/caras-severin/coronini/2025/8",
+   "short": "HCL Coronini nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 8/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/205907",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/205907",
      "sha256": null
     }
    ]

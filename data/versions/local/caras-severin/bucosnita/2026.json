@@ -3,6 +3,36 @@
  "shard": "local/caras-severin/bucosnita/2026",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bucosnita-1-2026",
+   "path": "local/caras-severin/bucosnita/2026/1",
+   "short": "HCL Bucoșnița nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 1/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248161",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-10-2026",
+   "path": "local/caras-severin/bucosnita/2026/10",
+   "short": "HCL Bucoșnița nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 10/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255363",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255363",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-100-2026",
    "path": "local/caras-severin/bucosnita/2026/100",
    "short": "HCL Bucoșnița nr. 100/2026",
@@ -138,6 +168,546 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bucosnita-11-2026",
+   "path": "local/caras-severin/bucosnita/2026/11",
+   "short": "HCL Bucoșnița nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 11/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255364",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-12-2026",
+   "path": "local/caras-severin/bucosnita/2026/12",
+   "short": "HCL Bucoșnița nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 12/2026 privind aprobarea Planului de Acțiuni și Lucrări de interes local pe anul 2026 ce se vor efectua de către beneficiarii Legii nr.196/2016 privind venitul minim de incluziune la nivelul comunei Bucoșnița , județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255365",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-13-2026",
+   "path": "local/caras-severin/bucosnita/2026/13",
+   "short": "HCL Bucoșnița nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 13/2026 Aprobarea Raportului privind activitatea asistenților personali desfășurată în semestrul II- 2025, înaintat de către Compartimentul de Asistență Socială din aparatul de specialitate al primarului comunei Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255366",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-14-2026",
+   "path": "local/caras-severin/bucosnita/2026/14",
+   "short": "HCL Bucoșnița nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 14/2026 privind aprobarea Programului de acțiune comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255367",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-15-2026",
+   "path": "local/caras-severin/bucosnita/2026/15",
+   "short": "HCL Bucoșnița nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 15/2026 privind încheierea unui act aditonal la contractul de închiriere nr.826/1/01.08.2004 încheiat cu Magazinul -Mixt Valișoara SRL",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255368",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-16-2026",
+   "path": "local/caras-severin/bucosnita/2026/16",
+   "short": "HCL Bucoșnița nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 16/2026 privind aprobarea tipului de suport alimentar destinat unităților de învățământ din Comuna Bucoșnița cuprinse în Programul național ”Masă sănătoasă” pentru anul școlar 2026 - 2027 și demararea procedurii de achiziție publică de servicii de furnizare a produselor alimentare în regim catering",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255369",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-17-2026",
+   "path": "local/caras-severin/bucosnita/2026/17",
+   "short": "HCL Bucoșnița nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 17/2026 Privind aprobarea documentației cadastrale de dezmembrare a imobilului teren intravilan situat în satul Bucoșnița, având categoria de folosință ”arabil”, în suprafață de 1.664 mp, înscris în C.F: nr.30978 Bucoșnița în domeniul privat al comunei, în 2 loturi: Lot 1-de 600 mp și Lot 2-1.064 mp",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255370",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-18-2026",
+   "path": "local/caras-severin/bucosnita/2026/18",
+   "short": "HCL Bucoșnița nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 18/2026 privind aprobarea închirierii directe a spațiului cu destinație de cabinet medical veterinar situat în incinta Clădirii proprietate publică a comunei Bucoșnița de la nr.154, str. Principală, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255371",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-19-2026",
+   "path": "local/caras-severin/bucosnita/2026/19",
+   "short": "HCL Bucoșnița nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 19/2026 privind aprobarea contractării unui împrumut în valoare de 415.800 lei, în conformitate cu prevederile art. XXXI din Ordonanța de Urgență a Guvernului nr.89/2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255372",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255372",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-2-2026",
+   "path": "local/caras-severin/bucosnita/2026/2",
+   "short": "HCL Bucoșnița nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 2/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248162",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-20-2026",
+   "path": "local/caras-severin/bucosnita/2026/20",
+   "short": "HCL Bucoșnița nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 20/2026 Privind folosirea din excedentul bugetului local al comunei, pentru proiectul ”Înființare Centrul Comunitar Integrat din Bucoșnița, județul Caraș-Severin” și proiectul ”Dotarea cu Mobilier, materiale didactice și echipamente digitale a unității de învățământ preuniversitar din comuna Bucoșnița – Școala Gimnazială Petroșnița”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255373",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255373",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-21-2026",
+   "path": "local/caras-severin/bucosnita/2026/21",
+   "short": "HCL Bucoșnița nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 21/2026 privind aprobarea Proiectului Tehnic în faza de proiectare DALI la obiectivul de investiții ”Renovare Energetică Moderată la Școala Primară Goleț”. Aprobarea Devizului General și indicatorilor tehnici-economici, aprobare măsuri necesare implementării lui",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255374",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255374",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-22-2026",
+   "path": "local/caras-severin/bucosnita/2026/22",
+   "short": "HCL Bucoșnița nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 22/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/258658",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/258658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-23-2026",
+   "path": "local/caras-severin/bucosnita/2026/23",
+   "short": "HCL Bucoșnița nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 23/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/258659",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/258659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-24-2026",
+   "path": "local/caras-severin/bucosnita/2026/24",
+   "short": "HCL Bucoșnița nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 24/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/258660",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/258660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-25-2026",
+   "path": "local/caras-severin/bucosnita/2026/25",
+   "short": "HCL Bucoșnița nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 25/2026 privind modificarea hotărârii nr.21 din 26.02.2026 privind aprobarea Proiectului Tehnic în faza de proiectare DALI la obiectivul de investiții ”Renovare Energetică Moderată la Școala Primară Goleț”. Aprobarea Devizului General și indicatorilor tehnici-economici, aprobare măsuri necesare implementării lui",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/258661",
+   "versions": [
+    {
+     "from": "2026-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/258661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-26-2026",
+   "path": "local/caras-severin/bucosnita/2026/26",
+   "short": "HCL Bucoșnița nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 26/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259986",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-27-2026",
+   "path": "local/caras-severin/bucosnita/2026/27",
+   "short": "HCL Bucoșnița nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 27/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259987",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-28-2026",
+   "path": "local/caras-severin/bucosnita/2026/28",
+   "short": "HCL Bucoșnița nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 28/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259988",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-29-2026",
+   "path": "local/caras-severin/bucosnita/2026/29",
+   "short": "HCL Bucoșnița nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 29/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259989",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-3-2026",
+   "path": "local/caras-severin/bucosnita/2026/3",
+   "short": "HCL Bucoșnița nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 3/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248163",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-30-2026",
+   "path": "local/caras-severin/bucosnita/2026/30",
+   "short": "HCL Bucoșnița nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 30/2026 privind aprobarea devizului general pentru lucrările de realizare a instalației de încălzire și a trotuarului perimetral la Centrul Comunitar Integrat din Comuna Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259990",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-31-2026",
+   "path": "local/caras-severin/bucosnita/2026/31",
+   "short": "HCL Bucoșnița nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 31/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259991",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259991",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-32-2026",
+   "path": "local/caras-severin/bucosnita/2026/32",
+   "short": "HCL Bucoșnița nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 32/2026 privind modificarea Hotărârii nr.19/26.02.2026 privind aprobarea contractării unui împrumut în valoare de 415.800 lei, în conformitate cu prevederile art. XXXI din Ordonanța de urgență a Guvernului nr. 89/2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259992",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-33-2026",
+   "path": "local/caras-severin/bucosnita/2026/33",
+   "short": "HCL Bucoșnița nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 33/2026 privind aprobarea închirierii prin licitație publică, a terenului intravilan cu categorie de folosință arabil, în suprafață de 600 mp, din satul Bucoșnița, înscris în CF 33770 Bucoșnița, ce aparține domeniului privat al Comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/259993",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/259993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-34-2026",
+   "path": "local/caras-severin/bucosnita/2026/34",
+   "short": "HCL Bucoșnița nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 34/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262504",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-35-2026",
+   "path": "local/caras-severin/bucosnita/2026/35",
+   "short": "HCL Bucoșnița nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 35/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262505",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-36-2026",
+   "path": "local/caras-severin/bucosnita/2026/36",
+   "short": "HCL Bucoșnița nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 36/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262506",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-37-2026",
+   "path": "local/caras-severin/bucosnita/2026/37",
+   "short": "HCL Bucoșnița nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 37/2026 privind aplicarea numărului maxim de posturi stabilit pentru Unitatea Administrativ-Teritorială Comuna Bucoșnița, pentru anul 2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262507",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-38-2026",
+   "path": "local/caras-severin/bucosnita/2026/38",
+   "short": "HCL Bucoșnița nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 38/2026 privind aprobarea dării în folosință gratuită, prin contract de comodat, a unui spațiu situat în Comuna Bucoșnița, nr. 154, în favoarea „Asociației de Dezvoltare Intercomunitară BANAT 4 – GAZE NATURALE”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262508",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-39-2026",
+   "path": "local/caras-severin/bucosnita/2026/39",
+   "short": "HCL Bucoșnița nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 39/2026 privind abrogarea Hotărârilor Consiliului Local nr. 19/26.02.2026 și nr. 32/26.03.2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262510",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-4-2026",
+   "path": "local/caras-severin/bucosnita/2026/4",
+   "short": "HCL Bucoșnița nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 4/2026 privind aprobarea Proiectului Tehnic în faza de proiectare DALI la obiectivul de investiții ”Renovare Energetică Moderată la Școala Primară Goleț”. Aprobarea Devizului General și indicatorilor tehnic-economici, aprobare măsuri necesare implementării lui",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248164",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-40-2026",
+   "path": "local/caras-severin/bucosnita/2026/40",
+   "short": "HCL Bucoșnița nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 40/2026 privind aprobarea contractării unui împrumut în valoare de 299.886 lei, în conformitate cu prevederile art. XXXI din Ordonanța de Urgență a Guvernului nr.89/2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/262509",
+   "versions": [
+    {
+     "from": "2026-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/262509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-41-2026",
+   "path": "local/caras-severin/bucosnita/2026/41",
+   "short": "HCL Bucoșnița nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 41/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267847",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-42-2026",
+   "path": "local/caras-severin/bucosnita/2026/42",
+   "short": "HCL Bucoșnița nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 42/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267848",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-43-2026",
+   "path": "local/caras-severin/bucosnita/2026/43",
+   "short": "HCL Bucoșnița nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 43/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267849",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267849",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-44-2026",
    "path": "local/caras-severin/bucosnita/2026/44",
    "short": "HCL Bucoșnița nr. 44/2026",
@@ -148,6 +718,651 @@
      "from": "2026-05-25",
      "units": 1,
      "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-45-2026",
+   "path": "local/caras-severin/bucosnita/2026/45",
+   "short": "HCL Bucoșnița nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 45/2026 privind aprobarea organizării sărbătorii tradiționale ”MĂTCĂLĂU” după obicei local al satului Petroșnița, din comuna Bucoșnița,, jud.Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267851",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-46-2026",
+   "path": "local/caras-severin/bucosnita/2026/46",
+   "short": "HCL Bucoșnița nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 46/2026 privind aprobarea documentatiei tehnico-economice – faza Proiect Tehnic si a devizului general pentru proiectul „MODERNIZAREA SISTEMULUI DE ILUMINAT PUBLIC STRADAL IN COMUNA BUCOSNITA, JUDEȚUL CARAS-SEVERIN”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267852",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-47-2026",
+   "path": "local/caras-severin/bucosnita/2026/47",
+   "short": "HCL Bucoșnița nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 47/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267853",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-48-2026",
+   "path": "local/caras-severin/bucosnita/2026/48",
+   "short": "HCL Bucoșnița nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 48/2026 privind aprobarea efectuării unor lucrări la Magazinul Mixt Vălișoara de către chiriaș la spațiul închiriat,cu obligația prezentării documentelor justificative în vederea aprobării ulterioare a compensării;",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267854",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-49-2026",
+   "path": "local/caras-severin/bucosnita/2026/49",
+   "short": "HCL Bucoșnița nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 49/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267855",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-5-2026",
+   "path": "local/caras-severin/bucosnita/2026/5",
+   "short": "HCL Bucoșnița nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 5/2026 Privind stabilirea consumului de carburanți pentru autovehiculele și utilajele din parcul auto al Primăriei comunei Bucoșnița, pentru anul 2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248165",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-50-2026",
+   "path": "local/caras-severin/bucosnita/2026/50",
+   "short": "HCL Bucoșnița nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 50/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267856",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-51-2026",
+   "path": "local/caras-severin/bucosnita/2026/51",
+   "short": "HCL Bucoșnița nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 51/2026 privind mandatarea primarului comunei Bucoșnița pentru depunerea cererii de finanțare prin Planul Strategic PAC 2023–2027 (PNS), intervenția DR-07 „Silvo-mediu și climă”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267857",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-52-2026",
+   "path": "local/caras-severin/bucosnita/2026/52",
+   "short": "HCL Bucoșnița nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 52/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267858",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-53-2026",
+   "path": "local/caras-severin/bucosnita/2026/53",
+   "short": "HCL Bucoșnița nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 53/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/267859",
+   "versions": [
+    {
+     "from": "2026-05-25",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/267859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-54-2026",
+   "path": "local/caras-severin/bucosnita/2026/54",
+   "short": "HCL Bucoșnița nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 54/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270764",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-55-2026",
+   "path": "local/caras-severin/bucosnita/2026/55",
+   "short": "HCL Bucoșnița nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 55/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270765",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-56-2026",
+   "path": "local/caras-severin/bucosnita/2026/56",
+   "short": "HCL Bucoșnița nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 56/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270766",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-57-2026",
+   "path": "local/caras-severin/bucosnita/2026/57",
+   "short": "HCL Bucoșnița nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 57/2026 privind denunțarea contractului de pășunat nr.56/03.05.2017, cu învoiala părților, încheiat cu Banu Marinela-Norica , din satul Vălișoara, nr.89, comuna Bucoșnița, jud.Caraș-Severin;",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270767",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-58-2026",
+   "path": "local/caras-severin/bucosnita/2026/58",
+   "short": "HCL Bucoșnița nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 58/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270768",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-59-2026",
+   "path": "local/caras-severin/bucosnita/2026/59",
+   "short": "HCL Bucoșnița nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 59/2026 privind încheierea unui act adițional la contractul de închiriere pășune nr.62/03.05.2026 încheiat între crescătorul de animale SPUNEI Daniel-Novac și Comuna Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270769",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-6-2026",
+   "path": "local/caras-severin/bucosnita/2026/6",
+   "short": "HCL Bucoșnița nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 6/2026 Privind stabilirea prețurilor de referință al masei lemnoase pe picior, pentru anul de producție 2025, ce va fi recoltată din fondul forestier- încadrat în domeniul public al comunei și din afara fondului forestier al comunei, în vederea reorganizării vânzării prin licitație publică/negociere",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248166",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-60-2026",
+   "path": "local/caras-severin/bucosnita/2026/60",
+   "short": "HCL Bucoșnița nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 60/2026 privind aprobarea rectificării bugetului local de venituri si cheltuieli al Comunei Bucoșnița pe anul 2026 urmare a prevederilor H.G nr.382/08.05.2026 privind repartizarea pe unitați/subdiviziuni administrativ-teritoriale si pe unități de invățământ a sumei prevăzute in Legea bugetului de stat pe anul 2026 nr.43/2026 pentru finanțarea Programului național „Masa sănătoasă”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270770",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-61-2026",
+   "path": "local/caras-severin/bucosnita/2026/61",
+   "short": "HCL Bucoșnița nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 61/2026 privind aprobarea demarării procedurii de achiziție publică, pentru servicii de media publicitate, în vederea asigurării comunicării în timp real a informărilor, anunțurilor de interes public, dispozițiilor, convocărilor, comunicatelor de presă, ce prezintă interes pentru comuna Bucoșnița, jud. Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270771",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-62-2026",
+   "path": "local/caras-severin/bucosnita/2026/62",
+   "short": "HCL Bucoșnița nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 62/2026 privind aprobarea demarării procedurii de achiziție publică, pentru delegarea directă a gestiunii serviciului de iluminat public - activitatea de întreţinere si mentenanță a rețelei de iluminat public, stradal, pietonal, arhitectural, festiv de sărbători din comuna Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270772",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-63-2026",
+   "path": "local/caras-severin/bucosnita/2026/63",
+   "short": "HCL Bucoșnița nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 63/2026 Privind rectificarea bugetului local pe anul 2026,TRIM.II, al comunei Bucoșnița, jud.Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270773",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-64-2026",
+   "path": "local/caras-severin/bucosnita/2026/64",
+   "short": "HCL Bucoșnița nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 64/2026 privind aprobarea actualizării indicatorilor tehnico-economici ai proiectului „Înființare Centru Comunitar Integrat în Comuna Bucoșnița, județul Caraș-Severin”, precum și a devizului general actualizat",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/270774",
+   "versions": [
+    {
+     "from": "2026-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/270774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-65-2026",
+   "path": "local/caras-severin/bucosnita/2026/65",
+   "short": "HCL Bucoșnița nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 65/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/273288",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/273288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-66-2026",
+   "path": "local/caras-severin/bucosnita/2026/66",
+   "short": "HCL Bucoșnița nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 66/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/273289",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/273289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-67-2026",
+   "path": "local/caras-severin/bucosnita/2026/67",
+   "short": "HCL Bucoșnița nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 67/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/273290",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/273290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-68-2026",
+   "path": "local/caras-severin/bucosnita/2026/68",
+   "short": "HCL Bucoșnița nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 68/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Bucoșnița, precum si aprobarea statului de funcții și a organigramei, ca urmare a măsurilor dispuse de Ordonanța de urgență a Guvernului nr. 7/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/273291",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/273291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-69-2026",
+   "path": "local/caras-severin/bucosnita/2026/69",
+   "short": "HCL Bucoșnița nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 69/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277890",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-7-2026",
+   "path": "local/caras-severin/bucosnita/2026/7",
+   "short": "HCL Bucoșnița nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 7/2026 Privind schimbarea titularului contractului de închiriere suprafețe de pajiști din domeniul public al comunei Bucoșnița nr.36/03.05.2017. Aprobarea încheierii actului adițional nr.2 la contractul nr.36/03.05.2017",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248167",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-70-2026",
+   "path": "local/caras-severin/bucosnita/2026/70",
+   "short": "HCL Bucoșnița nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 70/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277891",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-71-2026",
+   "path": "local/caras-severin/bucosnita/2026/71",
+   "short": "HCL Bucoșnița nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 71/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277892",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-72-2026",
+   "path": "local/caras-severin/bucosnita/2026/72",
+   "short": "HCL Bucoșnița nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 72/2026 privind aprobarea finanțării organizării evenimentelor culturale „Ruga satului Bucoșnița”, „Ruga satului Petroșnița”, „Ruga satului Vălișoara” și „Ruga satului Goleț”, organizate în anul 2026, în comuna Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277893",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277893",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-73-2026",
+   "path": "local/caras-severin/bucosnita/2026/73",
+   "short": "HCL Bucoșnița nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 73/2026 Privind demararea procedurii de achiziție publică, de servicii, pentru exploatarea și transportul lemnului de foc, necesar încălzirii instituțiilor publice de pe raza comunei Bucoșnița, respectiv clădirile primăriei, pentru perioada rece 2026-2027",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277894",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-74-2026",
+   "path": "local/caras-severin/bucosnita/2026/74",
+   "short": "HCL Bucoșnița nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 74/2026 Privind alocarea de la bugetul local, a sumelor necesare pentru acordarea ajutoarelor financiare destinate acoperirii cheltuielilor de înmormântare, în cazul decesului persoanelor beneficiare de venit minim de incluziune în baza Legii nr.196/2016 cât și a persoanelor care provin din familii nevoiașe, sau fără familie, de pe raza U.A.T Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277895",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-75-2026",
+   "path": "local/caras-severin/bucosnita/2026/75",
+   "short": "HCL Bucoșnița nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 75/2026 Privind alocarea de la bugetul local, a sumelor necesare pentru acordarea unor diplome aniversare și ajutor financiar, pentru fiecare cuplu din comuna Bucoșnița, care sărbătorește împlinirea a 50 de ani de căsătorie, în anul 2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277896",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-76-2026",
+   "path": "local/caras-severin/bucosnita/2026/76",
+   "short": "HCL Bucoșnița nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 76/2026 privind aprobarea demarării procedurii de achiziție publică pentru achiziționarea serviciilor de asistență privind întocmirea documentațiilor în vederea derulării procedurii de atribuire a contractului având ca obiect „Reabilitare, extindere, modernizare și dotare Cămin Cultural Bucoșnița”",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/277897",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/277897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-77-2026",
+   "path": "local/caras-severin/bucosnita/2026/77",
+   "short": "HCL Bucoșnița nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 77/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284747",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-78-2026",
+   "path": "local/caras-severin/bucosnita/2026/78",
+   "short": "HCL Bucoșnița nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 78/2026 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284748",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-79-2026",
+   "path": "local/caras-severin/bucosnita/2026/79",
+   "short": "HCL Bucoșnița nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 79/2026 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284749",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-8-2026",
+   "path": "local/caras-severin/bucosnita/2026/8",
+   "short": "HCL Bucoșnița nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 8/2026 Privind aprobarea Dispoziției primarului nr.2/08.01.2026 privind aprobarea acoperirii definitive a deficitului Secțiunii de Dezvoltare-Sursa A, a bugetului local, din excedentul anilor precedenți",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/248168",
+   "versions": [
+    {
+     "from": "2026-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/248168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-80-2026",
+   "path": "local/caras-severin/bucosnita/2026/80",
+   "short": "HCL Bucoșnița nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 80/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284750",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-81-2026",
+   "path": "local/caras-severin/bucosnita/2026/81",
+   "short": "HCL Bucoșnița nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 81/2026 Privind aprobarea demarării procedurii de achiziție publică de servicii pentru digitalizarea și automatizarea proceselor administrative, precum și pentru gestionarea Registraturii Generale a Comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284751",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-82-2026",
+   "path": "local/caras-severin/bucosnita/2026/82",
+   "short": "HCL Bucoșnița nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 82/2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284752",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-83-2026",
+   "path": "local/caras-severin/bucosnita/2026/83",
+   "short": "HCL Bucoșnița nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 83/2026 privind aprobarea acordării unui sprijin financiar în sumă de 12.000 lei din bugetul local al Comunei Bucoșnița ,Parohiei Ortodoxe „Nașterea Maicii Domnului” Goleț, pentru achiziționarea de mobilier bisericesc necesar dotării lăcașului de cult",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284753",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284753",
      "sha256": null
     }
    ]
@@ -168,6 +1383,66 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bucosnita-85-2026",
+   "path": "local/caras-severin/bucosnita/2026/85",
+   "short": "HCL Bucoșnița nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 85/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Bucoșnița nr. 94 din 02.07.2016 privind înființarea Serviciului de Apă și Canalizare în cadrul aparatului de specialitate al Primarului comunei Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284755",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-86-2026",
+   "path": "local/caras-severin/bucosnita/2026/86",
+   "short": "HCL Bucoșnița nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 86/2026 privind aprobarea Raportului privind activitatea asistenților personali desfășurată în semestrul I- 2026, înaintat de către Compartimentul de Asistență Socială din aparatul de specialitate al primarului comunei Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284756",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-87-2026",
+   "path": "local/caras-severin/bucosnita/2026/87",
+   "short": "HCL Bucoșnița nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 87/2026 privind Privind analiza înscrierii datelor în Registrului Agricol, al comunei Bucoșnița, jud.Caraș-Severin, la finele semestrului I-2026",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/284757",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/284757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-88-2026",
+   "path": "local/caras-severin/bucosnita/2026/88",
+   "short": "HCL Bucoșnița nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 88/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/289826",
+   "versions": [
+    {
+     "from": "2026-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/289826",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-89-2026",
    "path": "local/caras-severin/bucosnita/2026/89",
    "short": "HCL Bucoșnița nr. 89/2026",
@@ -178,6 +1453,21 @@
      "from": "2026-10-20",
      "units": 1,
      "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/289827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-9-2026",
+   "path": "local/caras-severin/bucosnita/2026/9",
+   "short": "HCL Bucoșnița nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 9/2026 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/255362",
+   "versions": [
+    {
+     "from": "2026-03-20",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/255362",
      "sha256": null
     }
    ]

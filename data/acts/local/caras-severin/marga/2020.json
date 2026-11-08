@@ -3,6 +3,271 @@
 "shard": "local/caras-severin/marga/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--marga-1-2020",
+"path": "local/caras-severin/marga/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 1/2020 privind aprobarea Contractului de comodat încheiat între comuna Marga și asociația Comunelor din România, Filiala Caraș-Severin",
+"short": "HCL Marga nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-10",
+"latest": "2020-02-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7779",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-2-2020",
+"path": "local/caras-severin/marga/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 2/2020 privind aprobarea Bugetului local de Venituri și Cheltuieli al comunei Marga, pe anul 2020",
+"short": "HCL Marga nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7780",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-3-2020",
+"path": "local/caras-severin/marga/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 3/2020 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2020-2021",
+"short": "HCL Marga nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7781",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-4-2020",
+"path": "local/caras-severin/marga/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 4/2020 privind aprobarea studiului de oportunitate și a Caietului de sarcini pentru organizarea licitației în vederea concesionării unor terenuri destinate construirii unor case de vacanță",
+"short": "HCL Marga nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7782",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-5-2020",
+"path": "local/caras-severin/marga/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 5/2020 privind aprobarea sumei de 1500 lei pentru achiziționarea Registrelor agricole și centralizatoarelor 2020-2024",
+"short": "HCL Marga nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7788",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-6-2020",
+"path": "local/caras-severin/marga/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 6/2020 privind aprobarea sumei de 5000 lei pentru confecționarea panoului luminos ''Grădinița cu Program Normal Marga'' și achiziționarea unor agende personalizate",
+"short": "HCL Marga nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7789",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-7-2020",
+"path": "local/caras-severin/marga/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 7/2020 privind aprobarea achiziției ''Implementarea Sistemului de Control Intern Managerial, comuna Marga, județul Caraș-Severin''",
+"short": "HCL Marga nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7783",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-8-2020",
+"path": "local/caras-severin/marga/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 8/2020 privind aprobarea achiziției ''Contract de prestări servicii publice de salubrizare a comunei Marga, județul Caraș-Severin''",
+"short": "HCL Marga nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7790",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-9-2020",
+"path": "local/caras-severin/marga/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 9/2020 privind acceptarea ofertei de donație a cantității de 21,64 mc lemn de foc de la Direcția Silvică a județului Caraș-severin, prin Ocolul Silvic Rusca Montană și stabilirea criteriilor de repartizare a lemnului de foc către cetățenii cu probleme sociale din comuna Marga",
+"short": "HCL Marga nr. 9/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7784",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-10-2020",
+"path": "local/caras-severin/marga/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 10/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor de furnizare a produselor aferente Programului pentru școli, pentru elevi și preșcolari",
+"short": "HCL Marga nr. 10/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7785",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-11-2020",
+"path": "local/caras-severin/marga/2020/11",
+"kind": "local",
+"year": "2020",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 11/2020 privind aprobarea strategiei anuale de achiziții publice și a Planului de achiziții pentru anul 2020",
+"short": "HCL Marga nr. 11/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7786",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-12-2020",
+"path": "local/caras-severin/marga/2020/12",
+"kind": "local",
+"year": "2020",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 12/2020",
+"short": "HCL Marga nr. 12/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7791",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-13-2020",
 "path": "local/caras-severin/marga/2020/13",
 "kind": "local",
@@ -47,6 +312,117 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-15-2020",
+"path": "local/caras-severin/marga/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 15/2020 privind mandatarea primarului comunei Marga pentru depunere cerere de finanțare nerambursabilă prin PNDR sub-măsura 15.1 ''Plăți pentru angajamente de silvo-mediu''",
+"short": "HCL Marga nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-13",
+"latest": "2020-02-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7793",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-16-2020",
+"path": "local/caras-severin/marga/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 16/2020",
+"short": "HCL Marga nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7797",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-17-2020",
+"path": "local/caras-severin/marga/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 17/2020 privind revocarea HCL 69/03.12.2019, anularea accesoriilor în cazul obligațiilor bugetare restante la data de 31.12.2019 datorate Bugetului Local al comunei Marga",
+"short": "HCL Marga nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7798",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-18-2020",
+"path": "local/caras-severin/marga/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 18/2020 privind aprobarea achiziției de ''Aplicare a Monitorului Oficial Local în format electronic al comunei Marga''",
+"short": "HCL Marga nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7795",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-19-2020",
+"path": "local/caras-severin/marga/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 19/2020 privind aprobarea achiziției proiectului ''Amenajamentul fondului forestier proprietate publică aparținând comunei Marga, județul Caras-severin''",
+"short": "HCL Marga nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7799",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-20-2020",
 "path": "local/caras-severin/marga/2020/20",
 "kind": "local",
@@ -66,6 +442,249 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-21-2020",
+"path": "local/caras-severin/marga/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 21/2020 privind aprobarea achiziției lucrării ''Înlocuit becuri, lămpi economice și reparații la rețeaua iluminatului public în comuna Marga''",
+"short": "HCL Marga nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7794",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-22-2020",
+"path": "local/caras-severin/marga/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 22/2020 privind rectificarea bugetului local al comunei Marga pe trimestrul I 2020",
+"short": "HCL Marga nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-19",
+"latest": "2020-03-19",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7796",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-23-2020",
+"path": "local/caras-severin/marga/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 23/2020 privind rectificarea bugetului local al comunei Marga pe trim. I 2020",
+"short": "HCL Marga nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7801",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-24-2020",
+"path": "local/caras-severin/marga/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 24/2020 privind aprobarea achiziției lucrării ''Dezinsecția și dezinfecția domeniului public din intravilan și a instituțiilor din proprietatea comunei Marga''",
+"short": "HCL Marga nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7802",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-25-2020",
+"path": "local/caras-severin/marga/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 25/2020 privind rectificarea bugetului local al comunei Marga pe trim. II 2020",
+"short": "HCL Marga nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7804",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-26-2020",
+"path": "local/caras-severin/marga/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 26/2020 privind aprobarea sumei de 2500 lei/lună din Bugetul local pentru plata acțiunilor de salubrizare a instituțiilor publice din comuna Marga",
+"short": "HCL Marga nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7805",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-27-2020",
+"path": "local/caras-severin/marga/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 27/2020 privind modificarea și completarea HCL nr. 1/2020 referitoare la aprobarea Contractului de comodat între comuna Marga și Asociația Comunelor din România",
+"short": "HCL Marga nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7806",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-28-2020",
+"path": "local/caras-severin/marga/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 28/2020 privind revocarea HCL 4/13.02.2020, aprobarea Studiului de oportunitate și caietul de sarcini pentru organizarea licitației în vederea concesionării unor terenuri destinate construirii unor case de vacanțe",
+"short": "HCL Marga nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7807",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-29-2020",
+"path": "local/caras-severin/marga/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 29/2020 privind revocarea HCL 7/13.02.2020, aprobarea achiziției ''Implementarea sistemului de control intern managerial în comuna Marga, județul Caraș-Severin''",
+"short": "HCL Marga nr. 29/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7808",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-30-2020",
+"path": "local/caras-severin/marga/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 30/2020 privind revocarea HCL 8/13.02.2020, aprobarea achiziției ''Contract de prestări de servicii publice de salubrizare a comunei Marga, județul Caraș-Severin''",
+"short": "HCL Marga nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7809",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-31-2020",
+"path": "local/caras-severin/marga/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 31/2020",
+"short": "HCL Marga nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-22",
+"latest": "2020-04-22",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7803",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -113,6 +732,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-34-2020",
+"path": "local/caras-severin/marga/2020/34",
+"kind": "local",
+"year": "2020",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 34/2020 privind aprobarea dezmembrării unui teren cu suprafața de 100 mp în vederea scoaterii la licitație pentru concesionarea acestuia",
+"short": "HCL Marga nr. 34/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7812",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-35-2020",
+"path": "local/caras-severin/marga/2020/35",
+"kind": "local",
+"year": "2020",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 35/2020 privind aprobarea dezlipirii unui lot de teren cu suprafața de 1000 mp în vederea scoaterii la licitație pentru concesionarea acestuia",
+"short": "HCL Marga nr. 35/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-28",
+"latest": "2020-05-28",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7813",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-36-2020",
 "path": "local/caras-severin/marga/2020/36",
 "kind": "local",
@@ -157,6 +820,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-38-2020",
+"path": "local/caras-severin/marga/2020/38",
+"kind": "local",
+"year": "2020",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 38/2020",
+"short": "HCL Marga nr. 38/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7816",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-39-2020",
 "path": "local/caras-severin/marga/2020/39",
 "kind": "local",
@@ -176,6 +862,29 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-40-2020",
+"path": "local/caras-severin/marga/2020/40",
+"kind": "local",
+"year": "2020",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 40/2020",
+"short": "HCL Marga nr. 40/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7818",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -201,6 +910,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-42-2020",
+"path": "local/caras-severin/marga/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 42/2020",
+"short": "HCL Marga nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-03",
+"latest": "2020-07-03",
+"portal": "https://emol.ro/marga-cs/registru-hcl/7820",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-43-2020",
 "path": "local/caras-severin/marga/2020/43",
 "kind": "local",
@@ -220,6 +952,163 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-44-2020",
+"path": "local/caras-severin/marga/2020/44",
+"kind": "local",
+"year": "2020",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 44/2020",
+"short": "HCL Marga nr. 44/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14078",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-45-2020",
+"path": "local/caras-severin/marga/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 45/2020",
+"short": "HCL Marga nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14079",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-46-2020",
+"path": "local/caras-severin/marga/2020/46",
+"kind": "local",
+"year": "2020",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 46/2020 privind aprobarea valorii de investiție a proiectului intitulat ”Construire teren de sport în comuna Marga, jduețul Caraș-Severin”",
+"short": "HCL Marga nr. 46/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14080",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-47-2020",
+"path": "local/caras-severin/marga/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 47/2020 privind rectificarea bugetului local al comunei Marga pe trim. III 20",
+"short": "HCL Marga nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14081",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-48-2020",
+"path": "local/caras-severin/marga/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 48/2020 privind aprobarea sumei de 5719,296 lei pentru reparațiile curente efectuate la iluminatul public din comună",
+"short": "HCL Marga nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14082",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-49-2020",
+"path": "local/caras-severin/marga/2020/49",
+"kind": "local",
+"year": "2020",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 49/2020",
+"short": "HCL Marga nr. 49/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-27",
+"latest": "2020-07-27",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14083",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-50-2020",
+"path": "local/caras-severin/marga/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 50/2020 privind rectificarea bugetului local al comunei Marga pe trim. III 2020",
+"short": "HCL Marga nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-08-26",
+"latest": "2020-08-26",
+"portal": "https://emol.ro/marga-cs/registru-hcl/14084",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

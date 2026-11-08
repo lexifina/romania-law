@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--paltinis-13-2024",
+   "path": "local/caras-severin/paltinis/2024/13",
+   "short": "HCL Păltiniș nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 13/2024 privind revocarea HCL nr.6/12.02.2024, de aprobare vânzării prin atribuire directă ( fără licitație) a imobilului înscris în CF nr.32447 Păltiniș, în suprafață totală de 782 mp, proprietatea privată a UAT Păltiniș, județul Caraș-Severin",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153347",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--paltinis-14-2024",
    "path": "local/caras-severin/paltinis/2024/14",
    "short": "HCL Păltiniș nr. 14/2024",
@@ -108,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--paltinis-26-2024",
+   "path": "local/caras-severin/paltinis/2024/26",
+   "short": "HCL Păltiniș nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 26/2024 privind rectificarea bugetului local de venituri și cheltuieli și a listei de investiții, al comunei Păltiniș, pentru trimestrul IV anul 2024",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/181295",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--paltinis-27-2024",
    "path": "local/caras-severin/paltinis/2024/27",
    "short": "HCL Păltiniș nr. 27/2024",
@@ -118,6 +148,36 @@
      "from": "2024-12-10",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-28-2024",
+   "path": "local/caras-severin/paltinis/2024/28",
+   "short": "HCL Păltiniș nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 28/2024 privind aprobarea întocmirii Planului Urbanistic Zonal - PUZ Zonă mixtă, pentru imobilele înscrise în CF nr. 32474, CF nr. 32485, CF nr. 32369 și CF nr. 32368 Păltiniș",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/181302",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-29-2024",
+   "path": "local/caras-severin/paltinis/2024/29",
+   "short": "HCL Păltiniș nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 29/2024 privind aprobarea dezmembrării imobilului cu nr. cadastral 31533, Teren neîmprejmuit, situat în intravilanul Loc. Cornuțel, nr. 224, jud. Caraș-Severin, în suprafață totală de 2000 mp, înscris în CF nr. 31533 - Păltiniș, potrivit Planului de Amplasament și Delimitare a Imobilului",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/181305",
+   "versions": [
+    {
+     "from": "2024-12-10",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/181305",
      "sha256": null
     }
    ]
@@ -478,6 +538,36 @@
      "from": "2025-05-05",
      "units": 1,
      "source_url": "https://emol.ro/paltinis-cs/registru-hcl/205956",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-6-2024",
+   "path": "local/caras-severin/paltinis/2024/6",
+   "short": "HCL Păltiniș nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 6/2024 privind aprobarea vânzării prin atribuire directă ( fără licitație) a imobilului înscris în CF nr.32447 Păltiniș, în suprafașă totală de 782 mp, proprietate privată a UAT Pătiniș, județul Caraș-Severin",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153094",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--paltinis-7-2024",
+   "path": "local/caras-severin/paltinis/2024/7",
+   "short": "HCL Păltiniș nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Păltiniș nr. 7/2024 privind decontarea contravalorii de deplasare pentru transportul între localitatea unde funcționarii publici și personalul contractual din cadrul Primariei Comunei Păltiniș au domiciliul în localitatea unde se află locul de muncă al acestora, respectiv Comuna Păltiniș, județul Caraș-Severin",
+   "url": "https://emol.ro/paltinis-cs/registru-hcl/153095",
+   "versions": [
+    {
+     "from": "2024-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/paltinis-cs/registru-hcl/153095",
      "sha256": null
     }
    ]

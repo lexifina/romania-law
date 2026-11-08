@@ -3,6 +3,156 @@
  "shard": "local/caras-severin/coronini/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--coronini-1-2024",
+   "path": "local/caras-severin/coronini/2024/1",
+   "short": "HCL Coronini nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 1/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145309",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-10-2024",
+   "path": "local/caras-severin/coronini/2024/10",
+   "short": "HCL Coronini nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 10/2024 privind darea în folosință gratuită, pe perioadă nedeterminată, către Inspectoratul de Poliție Județean Caraș-Severin, a unui spațiu situat în imobilul Grădiniței din Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/149706",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/149706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-11-2024",
+   "path": "local/caras-severin/coronini/2024/11",
+   "short": "HCL Coronini nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 11/2024 privind Rectificarea Bugetului Consiliului Local pe anul 2024”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/149707",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/149707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-12-2024",
+   "path": "local/caras-severin/coronini/2024/12",
+   "short": "HCL Coronini nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 12/2024 privind Rectificarea Bugetului de credite interne pe anul 2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/149708",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/149708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-13-2024",
+   "path": "local/caras-severin/coronini/2024/13",
+   "short": "HCL Coronini nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 13/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/156079",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/156079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-14-2024",
+   "path": "local/caras-severin/coronini/2024/14",
+   "short": "HCL Coronini nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/156088",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/156088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-15-2024",
+   "path": "local/caras-severin/coronini/2024/15",
+   "short": "HCL Coronini nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 15/2024 privind rectificarea bugetului Consiliului Local pe anul 2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/156089",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/156089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-16-2024",
+   "path": "local/caras-severin/coronini/2024/16",
+   "short": "HCL Coronini nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 16/2024 privind aprobarea Regulamentului pentru acordarea de premii/recompense financiare/materiale elevilor care au obținut rezultate deosebite - premiul I, II, III la faza județeană, națională a olimpiadelor școlare/concursurilor/competițiilor sportive",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/156090",
+   "versions": [
+    {
+     "from": "2024-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/156090",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-17-2024",
+   "path": "local/caras-severin/coronini/2024/17",
+   "short": "HCL Coronini nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 17/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/156091",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/156091",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-18-2024",
+   "path": "local/caras-severin/coronini/2024/18",
+   "short": "HCL Coronini nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164619",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164619",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-19-2024",
    "path": "local/caras-severin/coronini/2024/19",
    "short": "HCL Coronini nr. 19/2024",
@@ -13,6 +163,66 @@
      "from": "2024-08-01",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/164620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-2-2024",
+   "path": "local/caras-severin/coronini/2024/2",
+   "short": "HCL Coronini nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 2/2024 privind aprobarea Prelungirii valabilității Planului Urbanistic General al Comunei Coronini şi al Regulamentului Local de Urbanism aferent acestuia",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145310",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-20-2024",
+   "path": "local/caras-severin/coronini/2024/20",
+   "short": "HCL Coronini nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 20/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164621",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-21-2024",
+   "path": "local/caras-severin/coronini/2024/21",
+   "short": "HCL Coronini nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 21/2024 privind rectificarea Bugetului Consiliului Local pe anul 2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164622",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-22-2024",
+   "path": "local/caras-severin/coronini/2024/22",
+   "short": "HCL Coronini nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 22/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164623",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164623",
      "sha256": null
     }
    ]
@@ -43,6 +253,96 @@
      "from": "2024-08-01",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/164625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-25-2024",
+   "path": "local/caras-severin/coronini/2024/25",
+   "short": "HCL Coronini nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 25/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164626",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-26-2024",
+   "path": "local/caras-severin/coronini/2024/26",
+   "short": "HCL Coronini nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 26/2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164627",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-27-2024",
+   "path": "local/caras-severin/coronini/2024/27",
+   "short": "HCL Coronini nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 27/2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164628",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164628",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-28-2024",
+   "path": "local/caras-severin/coronini/2024/28",
+   "short": "HCL Coronini nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 28/2024 privind aprobarea Organigramei si Statului de functii ale Societății GOSPODĂRIA COMUNALĂ CORONINI S.R.L",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/164629",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/164629",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-29-2024",
+   "path": "local/caras-severin/coronini/2024/29",
+   "short": "HCL Coronini nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 29/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/165483",
+   "versions": [
+    {
+     "from": "2024-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/165483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-3-2024",
+   "path": "local/caras-severin/coronini/2024/3",
+   "short": "HCL Coronini nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 3/2024 privind ,,Aprobarea Planului de actiuni si lucrari de interes local pentru persoanele apte de munca din familiile beneficiare de Ajutor Social conform Legii 416/2001 privind venitul minim garantat pentru anul 2024”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145311",
+   "versions": [
+    {
+     "from": "2024-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145311",
      "sha256": null
     }
    ]
@@ -198,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-4-2024",
+   "path": "local/caras-severin/coronini/2024/4",
+   "short": "HCL Coronini nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 4/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145312",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-40-2024",
    "path": "local/caras-severin/coronini/2024/40",
    "short": "HCL Coronini nr. 40/2024",
@@ -348,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--coronini-5-2024",
+   "path": "local/caras-severin/coronini/2024/5",
+   "short": "HCL Coronini nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 5/2024 privind ,,Aprobarea Bugetului Consiliului Local al comunei Coronini pe capitole si subcapitole pe anul 2024”",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145313",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145313",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--coronini-50-2024",
    "path": "local/caras-severin/coronini/2024/50",
    "short": "HCL Coronini nr. 50/2024",
@@ -358,6 +688,66 @@
      "from": "2025-02-06",
      "units": 1,
      "source_url": "https://emol.ro/coronini-cs/registru-hcl/191283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-6-2024",
+   "path": "local/caras-severin/coronini/2024/6",
+   "short": "HCL Coronini nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2024 privind aprobarea încheierii Acordului de asociere între Federaţia Caritas a Diecezei Timişoara și Consiliul Local al comunei Coronini pentru finanțarea din bugetul local a contravalorii unui salar pentru o infirmieră, pentru anul 2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145314",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-7-2024",
+   "path": "local/caras-severin/coronini/2024/7",
+   "short": "HCL Coronini nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 7/2024 privind aprobarea Bugetului de credite interne pe anul 2024",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145315",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-8-2024",
+   "path": "local/caras-severin/coronini/2024/8",
+   "short": "HCL Coronini nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 8/2024 privind înființarea Serviciului pentru gestionarea câinilor fără stăpân Coronini",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/145316",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/145316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--coronini-9-2024",
+   "path": "local/caras-severin/coronini/2024/9",
+   "short": "HCL Coronini nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Coronini nr. 9/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/coronini-cs/registru-hcl/149705",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/coronini-cs/registru-hcl/149705",
      "sha256": null
     }
    ]

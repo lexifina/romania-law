@@ -3,6 +3,51 @@
  "shard": "local/caras-severin/carbunari/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-1-2022",
+   "path": "local/caras-severin/carbunari/2022/1",
+   "short": "HCL Cărbunari nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 1/2022 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/51655",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-10-2022",
+   "path": "local/caras-severin/carbunari/2022/10",
+   "short": "HCL Cărbunari nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 10/2022 privind vanzare prin licitatie publica a terenului intravilan CF 30485 Carbunari,Cad/Top :30485; S= 500 mp -Lotul I",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/53566",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/53566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-11-2022",
+   "path": "local/caras-severin/carbunari/2022/11",
+   "short": "HCL Cărbunari nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 11/2022 privind vanzarea prin licitatie publica a terenului intravilan CF 30484 Carbunari,Cad/Top :30484,S=500 mp -Lotul II",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/53567",
+   "versions": [
+    {
+     "from": "2022-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/53567",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-12-2022",
    "path": "local/caras-severin/carbunari/2022/12",
    "short": "HCL Cărbunari nr. 12/2022",
@@ -13,6 +58,21 @@
      "from": "2022-03-03",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/53568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-13-2022",
+   "path": "local/caras-severin/carbunari/2022/13",
+   "short": "HCL Cărbunari nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 13/2022 privind aprobarea inchirierii prin atribuire directa a pajistilor disponibile din domeniul privat al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/59190",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/59190",
      "sha256": null
     }
    ]
@@ -118,6 +178,21 @@
      "from": "2022-02-11",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/51649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-20-2022",
+   "path": "local/caras-severin/carbunari/2022/20",
+   "short": "HCL Cărbunari nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 20/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/63850",
+   "versions": [
+    {
+     "from": "2022-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/63850",
      "sha256": null
     }
    ]
@@ -238,6 +313,21 @@
      "from": "2022-10-03",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/67329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-29-2022",
+   "path": "local/caras-severin/carbunari/2022/29",
+   "short": "HCL Cărbunari nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 29/2022 privind ALEGERE PRESEDINTE DE SEDINTA",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/73542",
+   "versions": [
+    {
+     "from": "2022-10-05",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/73542",
      "sha256": null
     }
    ]

@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-5-2022",
+"path": "local/caras-severin/berzasca/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 5/2022",
+"short": "HCL Berzasca nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/62588",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-6-2022",
 "path": "local/caras-severin/berzasca/2022/6",
 "kind": "local",
@@ -510,6 +533,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-25-2022",
+"path": "local/caras-severin/berzasca/2022/25",
+"kind": "local",
+"year": "2022",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 25/2022",
+"short": "HCL Berzasca nr. 25/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/62619",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-26-2022",
 "path": "local/caras-severin/berzasca/2022/26",
 "kind": "local",
@@ -595,6 +641,28 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-30-2022",
+"path": "local/caras-severin/berzasca/2022/30",
+"kind": "local",
+"year": "2022",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 30/2022 privind alegerea președintelui de sedință al Consiliului Local al comunei Berzasca, pentru ședința de consiliu ordinară, convocată în data de 29.04.2022, ora 14:30",
+"short": "HCL Berzasca nr. 30/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-07",
+"latest": "2022-06-07",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/62655",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -771,6 +839,51 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-39-2022",
+"path": "local/caras-severin/berzasca/2022/39",
+"kind": "local",
+"year": "2022",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 39/2022 privind aprobarea trecerii din domeniul public în domeniul privat al comunei Berzasca a unor imobile – terenuri, situate în intravilanul comunei Berzasca, județul Caraș-Severin, în vederea vânzării prin licitație publică",
+"short": "HCL Berzasca nr. 39/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/73717",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-40-2022",
+"path": "local/caras-severin/berzasca/2022/40",
+"kind": "local",
+"year": "2022",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 40/2022",
+"short": "HCL Berzasca nr. 40/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/73718",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1017,6 +1130,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-52-2022",
+"path": "local/caras-severin/berzasca/2022/52",
+"kind": "local",
+"year": "2022",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 52/2022",
+"short": "HCL Berzasca nr. 52/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/74003",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-53-2022",
 "path": "local/caras-severin/berzasca/2022/53",
 "kind": "local",
@@ -1127,6 +1263,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzasca-58-2022",
+"path": "local/caras-severin/berzasca/2022/58",
+"kind": "local",
+"year": "2022",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 58/2022 privind desemnarea a doi consilieri locali din cadrul Consiliului Local al comunei Berzasca, pentru a face parte în cadrul Comisiei de verificare a respectării măsurilor pentru folosirea pajiștilor aflate în proprietatea publică sau privată a comunei Berzasca, județul Caraș-Severin, de către crescători de animale",
+"short": "HCL Berzasca nr. 58/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/74011",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--berzasca-59-2022",
 "path": "local/caras-severin/berzasca/2022/59",
 "kind": "local",
@@ -1146,6 +1304,28 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-60-2022",
+"path": "local/caras-severin/berzasca/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 60/2022 privind desemnarea unui reprezentant al Consiliului Local al comunei Berzasca și un membru supleant, în vederea constituirii comisiei de evaluare a probei de interviu din cadrul concursului pentru ocuparea funcției de director vacantă din unitatea de învățământ preuniversitar de stat, de pe raza unității administrativ-teritoriale a comunei Berzasca, județul Caraș-Severin",
+"short": "HCL Berzasca nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/74013",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1212,6 +1392,28 @@
 "council_name": "Consiliul Local al Comunei Berzasca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzasca-64-2022",
+"path": "local/caras-severin/berzasca/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 64/2022 privind desemnarea unui consilier local din cadrul Consiliului Local al comunei Berzasca, pentru a face parte în Consiliul de Administrație al Școlii Gimnaziale Berzasca, pentru anul școlar 2022 – 2023",
+"short": "HCL Berzasca nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-03",
+"latest": "2023-03-03",
+"portal": "https://emol.ro/berzasca-cs/registru-hcl/93226",
+"council": "caras-severin/berzasca",
+"council_name": "Consiliul Local al Comunei Berzasca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

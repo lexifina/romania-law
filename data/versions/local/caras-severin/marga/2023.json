@@ -3,6 +3,606 @@
  "shard": "local/caras-severin/marga/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--marga-1-2023",
+   "path": "local/caras-severin/marga/2023/1",
+   "short": "HCL Marga nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 1/2023 privind reorganizarea rețelei școlare a unităților de învățământ preuniversitar de stat acreditate pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99210",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-10-2023",
+   "path": "local/caras-severin/marga/2023/10",
+   "short": "HCL Marga nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 10/2023 privind aprobarea documentației cadastrale de primă înscriere în sistemul integrat de Cadastru și Cartea funciară - domeniul public, UAT MARGA",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99253",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-11-2023",
+   "path": "local/caras-severin/marga/2023/11",
+   "short": "HCL Marga nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 11/2023 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: ”Modernizare drum de interes local în Comuna Marga, jud. CS”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99254",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-12-2023",
+   "path": "local/caras-severin/marga/2023/12",
+   "short": "HCL Marga nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 12/2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99255",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-13-2023",
+   "path": "local/caras-severin/marga/2023/13",
+   "short": "HCL Marga nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 13/2023 privind aprobarea rectificării Bugetului local de Venituri și Cheltuieli al comunei Marga, pe trim. I 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99256",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-14-2023",
+   "path": "local/caras-severin/marga/2023/14",
+   "short": "HCL Marga nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 14/2023 privind aprobarea implementării investiției ”Dotarea cu echipamente digitale, mobilier și materiale didactice a unităților de învățământ din comuna Marga”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99257",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-15-2023",
+   "path": "local/caras-severin/marga/2023/15",
+   "short": "HCL Marga nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 15/2023 privind aprobarea sumei de 30.000 lei fără TVA = consultanță proiect",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99258",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-16-2023",
+   "path": "local/caras-severin/marga/2023/16",
+   "short": "HCL Marga nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 16/2023 privind aprobarea concesionării unor terenuri prin licitație publică, în vederea construirii de locuințe",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99259",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-17-2023",
+   "path": "local/caras-severin/marga/2023/17",
+   "short": "HCL Marga nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 17/2023 privind aprobarea proiectului ”Digitalizare",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99260",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-18-2023",
+   "path": "local/caras-severin/marga/2023/18",
+   "short": "HCL Marga nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 18/2023 privind aprobarea sumei de 5000 lei pentru organizarea sărbătorilor pascale 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99261",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-19-2023",
+   "path": "local/caras-severin/marga/2023/19",
+   "short": "HCL Marga nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 19/2023 privind aprobarea studiului de fezabilitate pentru ”REABILITARE STRADA IN COM. MARGAM JUD. CS”, precum și a sumei",
+   "url": "https://emol.ro/marga-cs/registru-hcl/105454",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/105454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-2-2023",
+   "path": "local/caras-severin/marga/2023/2",
+   "short": "HCL Marga nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 2/2023 privind aprobarea menținerii comunei Marga, județul CAraș-Severin la parteneriatul Asociația GAL Tara Gugulanilor”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99211",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99211",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-20-2023",
+   "path": "local/caras-severin/marga/2023/20",
+   "short": "HCL Marga nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 20/2023 privind aprobarea studiului pentru obiectiv ”MODERNIZARE INFRASTRUCTURA RUTIERA DE INTERES LOCAL ÎN COM. MARGA, JUD. CS” precum și a sumei",
+   "url": "https://emol.ro/marga-cs/registru-hcl/105455",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/105455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-21-2023",
+   "path": "local/caras-severin/marga/2023/21",
+   "short": "HCL Marga nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 21/2023 privind aprobarea studiului pentru obiectivul ”REABILITARE ȘI MODERNIZARE UNITATE DE INV. PREȘCOLAR ÎN COM. MARGA, JUD. CS” precum și a sumei",
+   "url": "https://emol.ro/marga-cs/registru-hcl/105456",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/105456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-22-2023",
+   "path": "local/caras-severin/marga/2023/22",
+   "short": "HCL Marga nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 22/2023 privind participarea UAT la Programul casarea vehiculelor uzate",
+   "url": "https://emol.ro/marga-cs/registru-hcl/105457",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/105457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-23-2023",
+   "path": "local/caras-severin/marga/2023/23",
+   "short": "HCL Marga nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 23/2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110449",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-24-2023",
+   "path": "local/caras-severin/marga/2023/24",
+   "short": "HCL Marga nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 24/2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110450",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-25-2023",
+   "path": "local/caras-severin/marga/2023/25",
+   "short": "HCL Marga nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 25/2023 privind aprobarea branșamentelor electrice și a instalațiilor de utilizare pentru imobilele din Colonia A.C.H",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110451",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-26-2023",
+   "path": "local/caras-severin/marga/2023/26",
+   "short": "HCL Marga nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 26/2023 privind aprobarea concesionării unui teren în suprafață de 600 m.p. în vederea construirii unei hale industriale",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110452",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-27-2023",
+   "path": "local/caras-severin/marga/2023/27",
+   "short": "HCL Marga nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 27/2023 privind aprobarea sumei de 20000 lei pentru organizarea Programului educațional ”Împreună pentru copiii noștri - Tabăra din inima satului”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110453",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-28-2023",
+   "path": "local/caras-severin/marga/2023/28",
+   "short": "HCL Marga nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 28/2023 privind aprobara rectificării Bugetului local de Venituri și Cheltuieli și Cheltuieli al comunei Marga, pe trim. II 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110454",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-29-2023",
+   "path": "local/caras-severin/marga/2023/29",
+   "short": "HCL Marga nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 29/2023 privind aprobarea sumei de 19040 lei pentru lucrarea ”Reamplasare conductă de gaze naturale și refacere racord Marga 217” (fosta Primărie)",
+   "url": "https://emol.ro/marga-cs/registru-hcl/110455",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/110455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-3-2023",
+   "path": "local/caras-severin/marga/2023/3",
+   "short": "HCL Marga nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 3/2023 privind aprobarea Strategiei anuale de achiziții publice și a Planului de achiziții pentru anul 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99212",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99212",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-30-2023",
+   "path": "local/caras-severin/marga/2023/30",
+   "short": "HCL Marga nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 30/2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/112899",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/112899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-31-2023",
+   "path": "local/caras-severin/marga/2023/31",
+   "short": "HCL Marga nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 31/2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/112900",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/112900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-32-2023",
+   "path": "local/caras-severin/marga/2023/32",
+   "short": "HCL Marga nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 32/2023 privind aderarea Comunei Marga la compartimentul de audit public intern din cadrul Filialei Județene Caraș-Severin a Asociației Comunelor din România",
+   "url": "https://emol.ro/marga-cs/registru-hcl/112901",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/112901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-33-2023",
+   "path": "local/caras-severin/marga/2023/33",
+   "short": "HCL Marga nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 33/2023 privind aprobarea rectificării Bugetului local de Venituri și Cheltuieli al comunei Marga, pe trim. II 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/112902",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/112902",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-34-2023",
+   "path": "local/caras-severin/marga/2023/34",
+   "short": "HCL Marga nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 34/2023 privind aprobarea achiziționării unor materiale electrice și execuția unor lucrări la iluminatul public în comuna Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/112903",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/112903",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-35-2023",
+   "path": "local/caras-severin/marga/2023/35",
+   "short": "HCL Marga nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 35/2023 privind corectarea de la nr. 34 la nr. 35",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118630",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-36-2023",
+   "path": "local/caras-severin/marga/2023/36",
+   "short": "HCL Marga nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 36/2023 privind însușirea Acordului de cooperare privind organizarea și exercitarea activitații de activității de audit intern",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118631",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-37-2023",
+   "path": "local/caras-severin/marga/2023/37",
+   "short": "HCL Marga nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 37/2023 privind aprobarea exploatării și vânzării cantității de 112,86 mc lemn",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118632",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-38-2023",
+   "path": "local/caras-severin/marga/2023/38",
+   "short": "HCL Marga nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 38/2023 privind neasumarea responsabilitații organizarii contractului pentru achiziția produselor: lapte și corn",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118633",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-39-2023",
+   "path": "local/caras-severin/marga/2023/39",
+   "short": "HCL Marga nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 39/2023 privind aprobarea rectificării Bugetului local, pe trim. III 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118634",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-4-2023",
+   "path": "local/caras-severin/marga/2023/4",
+   "short": "HCL Marga nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 4/2023 privind aprobarea lucrării Exintedere conductă gaze naturale presiune redusă în comuna Marga",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99213",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-40-2023",
+   "path": "local/caras-severin/marga/2023/40",
+   "short": "HCL Marga nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 40/2023 privind aprobarea dezmembrării a două loturi din islaz CF 31230",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118635",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-41-2023",
+   "path": "local/caras-severin/marga/2023/41",
+   "short": "HCL Marga nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 41/2023 privind implementarea proiectului ”Achiziție utilaj ISU”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/118636",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/118636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-42-2023",
+   "path": "local/caras-severin/marga/2023/42",
+   "short": "HCL Marga nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 42/2023 privind aprobarea lucrarilor de ”Eficientizare și reabilitare curtea școlii”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/137360",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/137360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-43-2023",
+   "path": "local/caras-severin/marga/2023/43",
+   "short": "HCL Marga nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 43/2023 privind aprobarea devizului general estimativ pentru obiectivul de investiții ”Modernizare infrastructură rutieră...”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/137361",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/137361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-44-2023",
+   "path": "local/caras-severin/marga/2023/44",
+   "short": "HCL Marga nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 44/2023 privind aprobarea devizilui general estimativ pentru obiectivul de investiții ”Reabilitare stradă în comuna Marga”",
+   "url": "https://emol.ro/marga-cs/registru-hcl/137362",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/137362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-45-2023",
+   "path": "local/caras-severin/marga/2023/45",
+   "short": "HCL Marga nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 45/2023 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/marga-cs/registru-hcl/137363",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/137363",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--marga-46-2023",
    "path": "local/caras-severin/marga/2023/46",
    "short": "HCL Marga nr. 46/2023",
@@ -58,6 +658,21 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/marga-cs/registru-hcl/137367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-5-2023",
+   "path": "local/caras-severin/marga/2023/5",
+   "short": "HCL Marga nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 5/2023 privind aprobarea Bugetului local de Venituri și cheltuieli al comunei Marga, pe anul 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99214",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99214",
      "sha256": null
     }
    ]
@@ -213,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--marga-6-2023",
+   "path": "local/caras-severin/marga/2023/6",
+   "short": "HCL Marga nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 6/2023 privind aprobarea sumei de 40 mii lei pentru organizarea zilelor comunei Marga 2023",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99215",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99215",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--marga-60-2023",
    "path": "local/caras-severin/marga/2023/60",
    "short": "HCL Marga nr. 60/2023",
@@ -298,6 +928,51 @@
      "from": "2024-01-12",
      "units": 1,
      "source_url": "https://emol.ro/marga-cs/registru-hcl/137416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-7-2023",
+   "path": "local/caras-severin/marga/2023/7",
+   "short": "HCL Marga nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 7/2023 privind aprobarea sumei de 22 mii lei pentru Avize topografice Reabilitare stradă și infrastructură rutieră (investiții Anghel Saligny)",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99216",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99216",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-8-2023",
+   "path": "local/caras-severin/marga/2023/8",
+   "short": "HCL Marga nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 8/2023 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2023, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99251",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--marga-9-2023",
+   "path": "local/caras-severin/marga/2023/9",
+   "short": "HCL Marga nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Marga nr. 9/2023 privind aprobarea Protocolului de colaborare între Ministerului Muncii și Solidarității Sociale și comuna Marga în cadrul proiectului ”HUB de servicii MMSS-SIIMMSS”, Cod Mysmis 130963",
+   "url": "https://emol.ro/marga-cs/registru-hcl/99252",
+   "versions": [
+    {
+     "from": "2023-09-05",
+     "units": 1,
+     "source_url": "https://emol.ro/marga-cs/registru-hcl/99252",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/ciudanovita/2022",
  "acts": [
   {
+   "slug": "hcl-caras-severin--ciudanovita-1-2022",
+   "path": "local/caras-severin/ciudanovita/2022/1",
+   "short": "HCL Ciudanovița nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 1/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/62558",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62558",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-10-2022",
    "path": "local/caras-severin/ciudanovita/2022/10",
    "short": "HCL Ciudanovița nr. 10/2022",
@@ -28,6 +43,21 @@
      "from": "2022-02-11",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-12-2022",
+   "path": "local/caras-severin/ciudanovita/2022/12",
+   "short": "HCL Ciudanovița nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 12/2022 privind aprobarea trecerii din domeniul privat in domeniul public al comunei Ciudanovita a suprafetei de teren situat in comuna Ciudanovita judetul Caras Severin in suprafata de 2404 mp identificat cadastral cu numarul 30413 si inscris in CF numarul 30413",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/62570",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62570",
      "sha256": null
     }
    ]
@@ -108,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-18-2022",
+   "path": "local/caras-severin/ciudanovita/2022/18",
+   "short": "HCL Ciudanovița nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 18/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/62581",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62581",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-19-2022",
    "path": "local/caras-severin/ciudanovita/2022/19",
    "short": "HCL Ciudanovița nr. 19/2022",
@@ -178,6 +223,21 @@
      "from": "2022-02-28",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-23-2022",
+   "path": "local/caras-severin/ciudanovita/2022/23",
+   "short": "HCL Ciudanovița nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 23/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/62586",
+   "versions": [
+    {
+     "from": "2022-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62586",
      "sha256": null
     }
    ]
@@ -303,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-31-2022",
+   "path": "local/caras-severin/ciudanovita/2022/31",
+   "short": "HCL Ciudanovița nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 31/2022",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/63017",
+   "versions": [
+    {
+     "from": "2022-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/63017",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-32-2022",
    "path": "local/caras-severin/ciudanovita/2022/32",
    "short": "HCL Ciudanovița nr. 32/2022",
@@ -378,6 +453,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-37-2022",
+   "path": "local/caras-severin/ciudanovita/2022/37",
+   "short": "HCL Ciudanovița nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 37/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/72060",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72060",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-38-2022",
    "path": "local/caras-severin/ciudanovita/2022/38",
    "short": "HCL Ciudanovița nr. 38/2022",
@@ -433,6 +523,21 @@
      "from": "2022-04-28",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-41-2022",
+   "path": "local/caras-severin/ciudanovita/2022/41",
+   "short": "HCL Ciudanovița nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 41/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/72064",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72064",
      "sha256": null
     }
    ]
@@ -603,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-52-2022",
+   "path": "local/caras-severin/ciudanovita/2022/52",
+   "short": "HCL Ciudanovița nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 52/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/72132",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72132",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-53-2022",
    "path": "local/caras-severin/ciudanovita/2022/53",
    "short": "HCL Ciudanovița nr. 53/2022",
@@ -663,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--ciudanovita-57-2022",
+   "path": "local/caras-severin/ciudanovita/2022/57",
+   "short": "HCL Ciudanovița nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 57/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/72301",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72301",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--ciudanovita-58-2022",
    "path": "local/caras-severin/ciudanovita/2022/58",
    "short": "HCL Ciudanovița nr. 58/2022",
@@ -703,6 +838,21 @@
      "from": "2022-01-31",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-60-2022",
+   "path": "local/caras-severin/ciudanovita/2022/60",
+   "short": "HCL Ciudanovița nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 60/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/72309",
+   "versions": [
+    {
+     "from": "2022-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72309",
      "sha256": null
     }
    ]
@@ -763,6 +913,21 @@
      "from": "2022-08-05",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/72319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-65-2022",
+   "path": "local/caras-severin/ciudanovita/2022/65",
+   "short": "HCL Ciudanovița nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 65/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/85480",
+   "versions": [
+    {
+     "from": "2022-09-12",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85480",
      "sha256": null
     }
    ]
@@ -988,6 +1153,21 @@
      "from": "2022-11-28",
      "units": 1,
      "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/85511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciudanovita-8-2022",
+   "path": "local/caras-severin/ciudanovita/2022/8",
+   "short": "HCL Ciudanovița nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 8/2022 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/ciudanovita-cs/registru-hcl/62566",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/ciudanovita-cs/registru-hcl/62566",
      "sha256": null
     }
    ]

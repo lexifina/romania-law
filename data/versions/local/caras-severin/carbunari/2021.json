@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/carbunari/2021",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-1-2021",
+   "path": "local/caras-severin/carbunari/2021/1",
+   "short": "HCL Cărbunari nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 1/2021 privind alegere președinte de ședință",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20987",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20987",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-10-2021",
    "path": "local/caras-severin/carbunari/2021/10",
    "short": "HCL Cărbunari nr. 10/2021",
@@ -13,6 +28,36 @@
      "from": "2021-04-20",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/22866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-11-2021",
+   "path": "local/caras-severin/carbunari/2021/11",
+   "short": "HCL Cărbunari nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 11/2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/25474",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/25474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-12-2021",
+   "path": "local/caras-severin/carbunari/2021/12",
+   "short": "HCL Cărbunari nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 12/2021",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/25475",
+   "versions": [
+    {
+     "from": "2021-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/25475",
      "sha256": null
     }
    ]
@@ -73,6 +118,21 @@
      "from": "2021-06-18",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/27552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-17-2021",
+   "path": "local/caras-severin/carbunari/2021/17",
+   "short": "HCL Cărbunari nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 17/2021 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/29988",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/29988",
      "sha256": null
     }
    ]
@@ -268,6 +328,21 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/41162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-3-2021",
+   "path": "local/caras-severin/carbunari/2021/3",
+   "short": "HCL Cărbunari nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 3/2021 privind desemnare reprezentant al Consiliului Local în Consiliul de Administrație al Școlii Gimnaziale Cărbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20989",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20989",
      "sha256": null
     }
    ]
@@ -498,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-5-2021",
+   "path": "local/caras-severin/carbunari/2021/5",
+   "short": "HCL Cărbunari nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2021 privind desemnarea a doi consilieri locali care vor avea calitatea de evaluatori in cadrul comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al comunei",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20991",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20991",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-6-2021",
    "path": "local/caras-severin/carbunari/2021/6",
    "short": "HCL Cărbunari nr. 6/2021",
@@ -508,6 +598,36 @@
      "from": "2021-03-23",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-7-2021",
+   "path": "local/caras-severin/carbunari/2021/7",
+   "short": "HCL Cărbunari nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 7/2021 privind vânzarea prin licitație publică a imobilului înscris în CF 30100 -teren și clădire proprietate privată a comunei Cărbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20993",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-8-2021",
+   "path": "local/caras-severin/carbunari/2021/8",
+   "short": "HCL Cărbunari nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 8/2021 privind concesionarea suprafeței de 39 ha teren cu destinație agricolă-pășune din domeniul public liberă de contract,pentru încheierea de contracte de concesiune ,prin atribuire directă ,cu crescătorii de animale prevăzuți la alin.1 art.16 din Lg.32/2019 a zootehniei,cu modificările și completările ulterioare",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/20994",
+   "versions": [
+    {
+     "from": "2021-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/20994",
      "sha256": null
     }
    ]

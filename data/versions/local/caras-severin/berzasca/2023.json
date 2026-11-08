@@ -138,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-18-2023",
+   "path": "local/caras-severin/berzasca/2023/18",
+   "short": "HCL Berzasca nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 18/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna februarie, anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/102992",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/102992",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-19-2023",
    "path": "local/caras-severin/berzasca/2023/19",
    "short": "HCL Berzasca nr. 19/2023",
@@ -243,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-25-2023",
+   "path": "local/caras-severin/berzasca/2023/25",
+   "short": "HCL Berzasca nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 25/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, pentru ședința de consiliu extraordinară, convocată de îndată, în data de 23.03.2023, ora 08:00",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/103084",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/103084",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-26-2023",
    "path": "local/caras-severin/berzasca/2023/26",
    "short": "HCL Berzasca nr. 26/2023",
@@ -253,6 +283,21 @@
      "from": "2023-05-03",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/103085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-27-2023",
+   "path": "local/caras-severin/berzasca/2023/27",
+   "short": "HCL Berzasca nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 27/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, pentru ședința de consiliu ordinară, convocată în data de 30.03.2023, ora 15:00",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/103092",
+   "versions": [
+    {
+     "from": "2023-05-03",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/103092",
      "sha256": null
     }
    ]
@@ -363,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-34-2023",
+   "path": "local/caras-severin/berzasca/2023/34",
+   "short": "HCL Berzasca nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 34/2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120524",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120524",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-35-2023",
    "path": "local/caras-severin/berzasca/2023/35",
    "short": "HCL Berzasca nr. 35/2023",
@@ -378,6 +438,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-36-2023",
+   "path": "local/caras-severin/berzasca/2023/36",
+   "short": "HCL Berzasca nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 36/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Berzasca Nr. 42 din 31.05.2022 privind aprobarea Documentației de atribuire alcătuită din: caiet de sarcini, fișa de date a procedruii, contractul-cadrul de vânzare-cumpărare conținând clauze contractuale obligatorii, formulare și modele de documente, de înscriere pentru participarea la licitația publică de vânzare a unor imobile - terenuri, care vor fi proprietate privată a comunei Berzasca, situate în intravilanul localității Berzascam județul Caraș-Severin, pentru desfășurarea unor activități economice în domeniul turismului și agrementului",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120526",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120526",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-37-2023",
    "path": "local/caras-severin/berzasca/2023/37",
    "short": "HCL Berzasca nr. 37/2023",
@@ -388,6 +463,21 @@
      "from": "2023-04-27",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-38-2023",
+   "path": "local/caras-severin/berzasca/2023/38",
+   "short": "HCL Berzasca nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 38/2023 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzaca, începând cu luna mai, anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120528",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120528",
      "sha256": null
     }
    ]
@@ -418,6 +508,21 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/102927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-40-2023",
+   "path": "local/caras-severin/berzasca/2023/40",
+   "short": "HCL Berzasca nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 40/2023 privind acordarea unui ajutor financiar d-lui Roth Alois, domicilat în comuna Berzasca, sat Berzasca, județul Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120540",
+   "versions": [
+    {
+     "from": "2023-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120540",
      "sha256": null
     }
    ]
@@ -543,6 +648,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-49-2023",
+   "path": "local/caras-severin/berzasca/2023/49",
+   "short": "HCL Berzasca nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 49/2023 privind dezlipirea unui imobil-teren, situat în intravilanul comunei Berzasca, sat Berzasca, județul Caraș-Severin, în suprafață de 74598 m.p., categoria de folosință pășune, nr. cad. 30797, înscris în Cartea Funciară Nr. 30797 a comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120570",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120570",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-5-2023",
    "path": "local/caras-severin/berzasca/2023/5",
    "short": "HCL Berzasca nr. 5/2023",
@@ -553,6 +673,21 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/102928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-50-2023",
+   "path": "local/caras-severin/berzasca/2023/50",
+   "short": "HCL Berzasca nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 50/2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120571",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120571",
      "sha256": null
     }
    ]
@@ -598,6 +733,21 @@
      "from": "2023-09-20",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-54-2023",
+   "path": "local/caras-severin/berzasca/2023/54",
+   "short": "HCL Berzasca nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 54/2023 privind alegerea președintelui de ședință al Consililui Local al comunei Berzasca, începând cu luna august, anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/120582",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/120582",
      "sha256": null
     }
    ]
@@ -738,6 +888,111 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-63-2023",
+   "path": "local/caras-severin/berzasca/2023/63",
+   "short": "HCL Berzasca nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 63/2023 privind desemnarea unui consilier local din cadrul Consiliului Local al comunei Berzasca, pentru a face parte în Consiliul de Administrație al Școlii Gimnaziale Berzasca pentru nul școlar 2023-2024",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/155753",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/155753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-64-2023",
+   "path": "local/caras-severin/berzasca/2023/64",
+   "short": "HCL Berzasca nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 64/2023 privind rectificarea de buget pe trimestrul III și IV anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/155754",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/155754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-65-2023",
+   "path": "local/caras-severin/berzasca/2023/65",
+   "short": "HCL Berzasca nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 65/2023 privind modificarea și completarea Hotărârii Consiliului Local al comunei Berzasca Nr. 4 din 06.01.2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/155755",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/155755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-66-2023",
+   "path": "local/caras-severin/berzasca/2023/66",
+   "short": "HCL Berzasca nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 66/2023 privind aprobarea montării a unui număr de 6 camere de supraveghere, în valoare totală de 21.600 lei, fără TVA, care vor fi amplasate în zona sediului primăriei comunei Berzasca în vederea supravegherii acesteia",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/155756",
+   "versions": [
+    {
+     "from": "2023-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/155756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-67-2023",
+   "path": "local/caras-severin/berzasca/2023/67",
+   "short": "HCL Berzasca nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 67/2023 privind rectificarea de buget local pe trimestrul IV, anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/156271",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/156271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-68-2023",
+   "path": "local/caras-severin/berzasca/2023/68",
+   "short": "HCL Berzasca nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 68/2023 privind aprobarea transferului sumei de 472.000 lei din Convenția de împrumut nr. 378759 din 15.06.2023 în conformitate cu prevederile OUG nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului, de la Proiectul „Reabilitare, modernizare și dotare a căminelor culturale din localitatea Berzasca, Bigăr și Liubcova, comuna Berzasca, județul Caraș-Severin” pentru proiectul „Modernizare sală de sport și parcare în localitatea Berzasca”",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/156272",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/156272",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-69-2023",
+   "path": "local/caras-severin/berzasca/2023/69",
+   "short": "HCL Berzasca nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 69/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziționarea produselor: lapte și corn, în cadrul Programului pentru școli al României și al contractelor/acordurilor-cadru de prestări a serviciilor pentru derularea măsurilor educative, la nivelul Unității Administrativ-Teritoriale a comunei Berzasca, județul Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/156273",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/156273",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-7-2023",
    "path": "local/caras-severin/berzasca/2023/7",
    "short": "HCL Berzasca nr. 7/2023",
@@ -748,6 +1003,21 @@
      "from": "2023-05-02",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/102958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-70-2023",
+   "path": "local/caras-severin/berzasca/2023/70",
+   "short": "HCL Berzasca nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 70/2023 privind rectificarea bugetului creditelor interne pe trimestrul IV, anul 2023",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/156274",
+   "versions": [
+    {
+     "from": "2023-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/156274",
      "sha256": null
     }
    ]

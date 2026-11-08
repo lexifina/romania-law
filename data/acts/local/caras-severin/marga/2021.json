@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-5-2021",
+"path": "local/caras-severin/marga/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 5/2021 privind aprobarea concesionării unor parcele de teren cuprinse în ANEXA NR. 1 care face parte integrantă din prezenta hotărâre și identifică toate aceste parcele",
+"short": "HCL Marga nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34587",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-6-2021",
 "path": "local/caras-severin/marga/2021/6",
 "kind": "local",
@@ -111,6 +133,28 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-7-2021",
+"path": "local/caras-severin/marga/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 7/2021 privind aprobarea cumpărării terenului destinat Stației de pompare a apelor uzate din Vama Marga din cadrul proiectului ”Racorduri și extindere canalizare menajeră în comuna Marga, județul Caraș-Severin”",
+"short": "HCL Marga nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34589",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -560,6 +604,52 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-28-2021",
+"path": "local/caras-severin/marga/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 28/2021",
+"short": "HCL Marga nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34610",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-29-2021",
+"path": "local/caras-severin/marga/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 29/2021",
+"short": "HCL Marga nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-21",
+"latest": "2021-04-21",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34611",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-30-2021",
 "path": "local/caras-severin/marga/2021/30",
 "kind": "local",
@@ -806,6 +896,51 @@
 }
 },
 {
+"slug": "hcl-caras-severin--marga-41-2021",
+"path": "local/caras-severin/marga/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 41/2021",
+"short": "HCL Marga nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34626",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-42-2021",
+"path": "local/caras-severin/marga/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 42/2021 privind acordarea unui ajutor financiar de la bugetul local pentru realizarea lucrărilor de racordare a Bisericii Ortodoxe din satul Vama Marga la sistemul de distribuție a gazelor naturale",
+"short": "HCL Marga nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34627",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--marga-43-2021",
 "path": "local/caras-severin/marga/2021/43",
 "kind": "local",
@@ -847,6 +982,51 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-45-2021",
+"path": "local/caras-severin/marga/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 45/2021 privind aprobarea exploatării și vânzării cantității de 212,2 m.c. material lemnos din pășunea împădurită a comunei Marga",
+"short": "HCL Marga nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34630",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-46-2021",
+"path": "local/caras-severin/marga/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 46/2021",
+"short": "HCL Marga nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-10",
+"latest": "2021-06-10",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34631",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1003,6 +1183,28 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-54-2021",
+"path": "local/caras-severin/marga/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 54/2021 privind aprobarea vânzării unui teren în suprafață de 362 m.p",
+"short": "HCL Marga nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-13",
+"latest": "2021-08-13",
+"portal": "https://emol.ro/marga-cs/registru-hcl/34763",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1291,6 +1493,29 @@
 "council_name": "Consiliul Local al Comunei Marga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--marga-68-2021",
+"path": "local/caras-severin/marga/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Marga nr. 68/2021",
+"short": "HCL Marga nr. 68/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/marga-cs/registru-hcl/36233",
+"council": "caras-severin/marga",
+"council_name": "Consiliul Local al Comunei Marga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

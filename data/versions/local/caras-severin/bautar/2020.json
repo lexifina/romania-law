@@ -573,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--bautar-5-2020",
+   "path": "local/caras-severin/bautar/2020/5",
+   "short": "HCL Băuțar nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 5/2020 privind aprobarea prelungirii contractului de concesionare nr. 174 din 18.02.2005",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/9197",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/9197",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bautar-6-2020",
    "path": "local/caras-severin/bautar/2020/6",
    "short": "HCL Băuțar nr. 6/2020",
@@ -598,6 +613,36 @@
      "from": "2020-02-17",
      "units": 1,
      "source_url": "https://emol.ro/bautar-cs/registru-hcl/11778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-8-2020",
+   "path": "local/caras-severin/bautar/2020/8",
+   "short": "HCL Băuțar nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 8/2020 privind aprobarea indicatorilor economici actualizați pentru investiția ”Canalizare și stație de epurare în satele Băuțar, Bucova și Cornișoru, comuna Băuțar, județul Caraș-Severin”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/11779",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/11779",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bautar-9-2020",
+   "path": "local/caras-severin/bautar/2020/9",
+   "short": "HCL Băuțar nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Băuțar nr. 9/2020 privind aprobarea măsurilor de protecție compensatorii dispuse și proiectate, respectiv dotarea clădirii cu un sistem de detecție și alarmare cu acoperire totală, realizat în conformitate cu normativul P 118/3 din 2015 pentru obiectivul ”Reabilitare și modernizare Școala gimnazială V-VIII, localitatea Băuțar, comuna Băuțar, județul Caraș-Severin”",
+   "url": "https://emol.ro/bautar-cs/registru-hcl/11780",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bautar-cs/registru-hcl/11780",
      "sha256": null
     }
    ]

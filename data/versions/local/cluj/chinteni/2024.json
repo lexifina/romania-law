@@ -3,6 +3,21 @@
  "shard": "local/cluj/chinteni/2024",
  "acts": [
   {
+   "slug": "hcl-cluj--chinteni-1-2024",
+   "path": "local/cluj/chinteni/2024/1",
+   "short": "HCL Chinteni nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 1/2024 privind stabilireaq numărului maxim de candidaţi pentru funcţia de consilier local",
+   "url": "https://www.primariachinteni.ro/wp-content/uploads/2024/04/Hotararea-nr.1-din-20.04.2024-privind-stabilireaq-numarului-maxim-de-candidati-pentru-functia-de-consilier-local.pdf",
+   "versions": [
+    {
+     "from": "2024-04-20",
+     "units": 1,
+     "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2024/04/Hotararea-nr.1-din-20.04.2024-privind-stabilireaq-numarului-maxim-de-candidati-pentru-functia-de-consilier-local.pdf",
+     "sha256": "58eab7c44a27023d5cf9e911839e2baaa483f9cb30b1f5c859b34119dc5efd46"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--chinteni-10-2024",
    "path": "local/cluj/chinteni/2024/10",
    "short": "HCL Chinteni nr. 10/2024",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-cluj--chinteni-2-2024",
+   "path": "local/cluj/chinteni/2024/2",
+   "short": "HCL Chinteni nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 2/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "ed929ceb70797cb3976def8cb11b666d7dd40873abd13dfc12f47dcdbe333909"
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--chinteni-3-2024",
    "path": "local/cluj/chinteni/2024/3",
    "short": "HCL Chinteni nr. 3/2024",
@@ -134,6 +164,21 @@
      "units": 1,
      "source_url": "https://www.primariachinteni.ro/wp-content/uploads/2024/04/Hotararea-nr.-3-din-24.04.2024-privind-admiterea-listei-de-candidati-pentru-Cosiliul-Local-propusa-de-PSD.pdf",
      "sha256": "c475a72c1ee23d70e229e71180c6b9d57efb178d152d5fa31a65d63069968dd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--chinteni-4-2024",
+   "path": "local/cluj/chinteni/2024/4",
+   "short": "HCL Chinteni nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 4/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": null,
+     "sha256": "9d85651b9111b03e5f6dcc880169ae7e4e127a72edab601edc3cbdb40777b563"
     }
    ]
   },

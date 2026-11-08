@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-2-2023",
+"path": "local/caras-severin/ezeris/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 2/2023 privind aprobarea încheierii unui contract de comodat între Comuna EZERIȘ și ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DISTRIBUȚIE GAZ EZERIȘ-FÂRLIUG -ZORLENȚU MARE având ca obiect darea în folosință cu titlu gratuit a imobilului nr 5, situat in Comuna Ezeriș, localitatea Soceni județul Caraș-Severin ,înscris în CF nr. 30053 Ezeriș , nr. cad 30053-C1 în suprafață construită de 236 mp",
+"short": "HCL Ezeriș nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/90279",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-3-2023",
 "path": "local/caras-severin/ezeris/2023/3",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-7-2023",
+"path": "local/caras-severin/ezeris/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 7/2023 privind aprobarea dezlipirii din CF 1762 Ezeriș nr. top.226/3/5/a/1/b/a/3/a/1/b/2/1, a suprafeței de 233 m.p. teren situat in intravilanul localitatii Soceni comuna Ezeris și trecerea acestuia din domeniul public în domeniul privat al Comunei Ezeriș",
+"short": "HCL Ezeriș nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-15",
+"latest": "2023-02-15",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/90284",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-8-2023",
 "path": "local/caras-severin/ezeris/2023/8",
 "kind": "local",
@@ -154,6 +198,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-10-2023",
+"path": "local/caras-severin/ezeris/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 10/2023 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap si a al numărului de indemnizaţii lunare pentru anul 2023",
+"short": "HCL Ezeriș nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-14",
+"latest": "2023-03-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/94768",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -708,6 +774,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-36-2023",
+"path": "local/caras-severin/ezeris/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 36/2023 privind aprobarea închirierii prin licitaţie publică a pajiştilor disponibile din proprietatea publică a comunei Ezeriș",
+"short": "HCL Ezeriș nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109886",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-37-2023",
+"path": "local/caras-severin/ezeris/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 37/2023 privind aprobarea raportului de evaluare și vânzarea terenului intravilan în suprafață de 34.998 mp , CF 32896 , Nr. Cad 32896, domeniu privat situat in extravilanul Comunei Ezeriș județul Caraș-Severin",
+"short": "HCL Ezeriș nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109887",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-38-2023",
 "path": "local/caras-severin/ezeris/2023/38",
 "kind": "local",
@@ -771,6 +881,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-41-2023",
+"path": "local/caras-severin/ezeris/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 41/2023 privind aprobarea raportului de evaluare pentru terenuri extravilane în suprafata de 130,62 ha situate pe raza localității Soceni, com. Ezeris jud. Caras-Severin, domeniu public cu destinația concesionării în vederea construirii unui parc fotovoltaic",
+"short": "HCL Ezeriș nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109927",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -885,6 +1017,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-47-2023",
+"path": "local/caras-severin/ezeris/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 47/2023 privind aprobarea coeficienții care stau la baza determinării salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei EZERIȘ începând cu 01.04.2023",
+"short": "HCL Ezeriș nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109933",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-48-2023",
+"path": "local/caras-severin/ezeris/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 48/2023 privind aprobarea preţului de vanzare masa lemnoasă către persoane juridice cu destinaţia lemn de foc și lemn lucru conform APV",
+"short": "HCL Ezeriș nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109939",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-49-2023",
 "path": "local/caras-severin/ezeris/2023/49",
 "kind": "local",
@@ -973,6 +1149,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-53-2023",
+"path": "local/caras-severin/ezeris/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 53/2023 privind aprobarea participarii Comunei Ezeriș Județul Caraș-Severin la Parteneriatul LEADER cu denumirea ”Asociatia Grupul de Actiune Locala Caras-Timis",
+"short": "HCL Ezeriș nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109949",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-54-2023",
+"path": "local/caras-severin/ezeris/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 54/2023 privind contractului de comodat nr. 705/16.05.2022, încheiat între Comuna Ezeriș și Farmacia Naviss SRL",
+"short": "HCL Ezeriș nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109950",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-55-2023",
 "path": "local/caras-severin/ezeris/2023/55",
 "kind": "local",
@@ -995,6 +1215,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-56-2023",
+"path": "local/caras-severin/ezeris/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 56/2023 privind aprobarea dezlipirii din CF 2 Ezeriș nr. top.3/a/2/a/1/a/1/b/2/1…/1/1/2/1/1 a suprafeței de 250 m.p. teren situat in intravilanul localitatii Ezeriș comuna Ezeris și trecerea acestuia din domeniul public în domeniul privat al Comunei Ezeriș",
+"short": "HCL Ezeriș nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109952",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-57-2023",
 "path": "local/caras-severin/ezeris/2023/57",
 "kind": "local",
@@ -1014,6 +1256,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-58-2023",
+"path": "local/caras-severin/ezeris/2023/58",
+"kind": "local",
+"year": "2023",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 58/2023 privind aprobarea dezlipirii din CF 2 Ezeriș nr. top.3/a/2/a/1/a/1/b/2/1…/1/1/2/1/1 a suprafeței de 50 m.p. teren situat in intravilanul localitatii Ezeriș comuna Ezeris , domeniu public",
+"short": "HCL Ezeriș nr. 58/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/109954",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -105,6 +105,11 @@ All dates are ISO `YYYY-MM-DD`. All text is UTF-8 with `\n` line endings. Keys a
 - Never guess a credit. If two laws are credited to one unit on the same day, the unit goes in the later law's commit and both are named in its message.
 - The first version is credited to `first_law` if it is the act as enacted. Otherwise (`first_law: null`) it is credited to the publisher as "oldest version available", naming `earlier_laws`.
 
+**Drafts (not law, 2026-11-08)**
+- An act with a `draft` block (`{"initiator": "<the ministry, the Government, or the members of Parliament as a body>", "became": "<act key>", "became_label": "...", "facts": [[label, value], ...]}`) is a draft act or bill, not law. It has no `first_law`, `earlier_laws` or `credits`, and no law entry.
+- Each version is one published stage: `from` is the day the stage was published and `stage` names it. The builder writes one commit per stage with `Kind: draft`, `Stage:`, `Stage-day:` and `Initiator:` trailers and **no `In-force:` trailer**, authored by the initiator, never "as enacted". A draft commit carrying `In-force` is refused.
+- Readers of the law in force (`tools/on.py`) read only `In-force:` and skip `Kind: draft`; only the builder's read-back (append.py, check.py) reads `Stage-day:`. The draft's README opens with the notice that it is not law and links the act it became.
+
 **Laws**
 - `kind` is one of `law`, `decree`, `court`, `referendum`, `publisher` or `treaty`.
 - A court ruling that strikes or conditions text is `kind: "court"`, for example Colombia C-xxx/yy (inexequible) and Brazil STF ADI. It is credited like a law, with the decision date as `enacted` and the date it took effect on the text as the version `from`.

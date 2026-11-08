@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/ciudanovita/2021",
 "acts": [
 {
+"slug": "hcl-caras-severin--ciudanovita-1-2021",
+"path": "local/caras-severin/ciudanovita/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 1/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/18463",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-2-2021",
 "path": "local/caras-severin/ciudanovita/2021/2",
 "kind": "local",
@@ -113,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-7-2021",
+"path": "local/caras-severin/ciudanovita/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 7/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/19636",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-8-2021",
 "path": "local/caras-severin/ciudanovita/2021/8",
 "kind": "local",
@@ -132,6 +176,50 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-9-2021",
+"path": "local/caras-severin/ciudanovita/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 9/2021 privind vanzarea prin licitatie publica deschisa cu strigare a utilajului tractor DT1100 si a unei remorci proprietatea comunei Ciudanovita",
+"short": "HCL Ciudanovița nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/19638",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-10-2021",
+"path": "local/caras-severin/ciudanovita/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 10/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/19662",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +311,51 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-15-2021",
+"path": "local/caras-severin/ciudanovita/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 15/2021 privind aprobarea concesionarii prin licitatie publica a pajistilor permanente ramase disponibile pe raza comunei Ciudanovita Judetul Caras Severin",
+"short": "HCL Ciudanovița nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/19667",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-16-2021",
+"path": "local/caras-severin/ciudanovita/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 16/2021",
+"short": "HCL Ciudanovița nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-19",
+"latest": "2021-02-19",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/19668",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-17-2021",
 "path": "local/caras-severin/ciudanovita/2021/17",
 "kind": "local",
@@ -289,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-20-2021",
+"path": "local/caras-severin/ciudanovita/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 20/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/24420",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-21-2021",
 "path": "local/caras-severin/ciudanovita/2021/21",
 "kind": "local",
@@ -308,6 +463,29 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-22-2021",
+"path": "local/caras-severin/ciudanovita/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 22/2021",
+"short": "HCL Ciudanovița nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/24422",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -374,6 +552,51 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-26-2021",
+"path": "local/caras-severin/ciudanovita/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 26/2021",
+"short": "HCL Ciudanovița nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/24446",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-27-2021",
+"path": "local/caras-severin/ciudanovita/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 27/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/24528",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -487,6 +710,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-33-2021",
+"path": "local/caras-severin/ciudanovita/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 33/2021",
+"short": "HCL Ciudanovița nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/24535",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-34-2021",
 "path": "local/caras-severin/ciudanovita/2021/34",
 "kind": "local",
@@ -528,6 +774,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-36-2021",
+"path": "local/caras-severin/ciudanovita/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 36/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-31",
+"latest": "2021-05-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/32668",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -641,6 +909,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-42-2021",
+"path": "local/caras-severin/ciudanovita/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 42/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-29",
+"latest": "2021-06-29",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/32674",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-43-2021",
 "path": "local/caras-severin/ciudanovita/2021/43",
 "kind": "local",
@@ -726,6 +1016,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-47-2021",
+"path": "local/caras-severin/ciudanovita/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 47/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-13",
+"latest": "2021-07-13",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/32679",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -861,6 +1173,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-54-2021",
+"path": "local/caras-severin/ciudanovita/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 54/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51711",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-55-2021",
 "path": "local/caras-severin/ciudanovita/2021/55",
 "kind": "local",
@@ -991,6 +1325,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-61-2021",
+"path": "local/caras-severin/ciudanovita/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 61/2021 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-30",
+"latest": "2021-09-30",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/51724",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

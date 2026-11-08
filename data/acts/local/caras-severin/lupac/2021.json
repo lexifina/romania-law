@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/lupac/2021",
 "acts": [
 {
+"slug": "hcl-caras-severin--lupac-1-2021",
+"path": "local/caras-severin/lupac/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 1/2021 privind alegerea președintelui de ședință pentru lunile ianuarie-martie 2021",
+"short": "HCL Lupac nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/17713",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-2-2021",
 "path": "local/caras-severin/lupac/2021/2",
 "kind": "local",
@@ -66,6 +88,51 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-5-2021",
+"path": "local/caras-severin/lupac/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 5/2021 privind aprobare componenţei comisiei de evaluare a ofertelor pentru concesiunea sau închirierea prin licitaţie publică/fără licitaţie publică a imobilelor proprietate a comunei Lupac, precum şi a regulamentului de funcţionare",
+"short": "HCL Lupac nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/17717",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-6-2021",
+"path": "local/caras-severin/lupac/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 6/2021",
+"short": "HCL Lupac nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-27",
+"latest": "2021-01-27",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/17718",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -154,6 +221,98 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-11-2021",
+"path": "local/caras-severin/lupac/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 11/2021",
+"short": "HCL Lupac nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/19641",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-12-2021",
+"path": "local/caras-severin/lupac/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 12/2021",
+"short": "HCL Lupac nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/19642",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-13-2021",
+"path": "local/caras-severin/lupac/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 13/2021",
+"short": "HCL Lupac nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/19643",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-14-2021",
+"path": "local/caras-severin/lupac/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 14/2021",
+"short": "HCL Lupac nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-24",
+"latest": "2021-02-24",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/19644",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -267,6 +426,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--lupac-20-2021",
+"path": "local/caras-severin/lupac/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 20/2021 privind alegerea preşedintelui de şedinţă pentru lunile aprilie-iunie 2021",
+"short": "HCL Lupac nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/24984",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-21-2021",
 "path": "local/caras-severin/lupac/2021/21",
 "kind": "local",
@@ -286,6 +467,52 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-22-2021",
+"path": "local/caras-severin/lupac/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 22/2021",
+"short": "HCL Lupac nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/24986",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-23-2021",
+"path": "local/caras-severin/lupac/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 23/2021",
+"short": "HCL Lupac nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/24987",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -465,6 +692,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--lupac-32-2021",
+"path": "local/caras-severin/lupac/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 32/2021",
+"short": "HCL Lupac nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/28816",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-33-2021",
 "path": "local/caras-severin/lupac/2021/33",
 "kind": "local",
@@ -554,6 +804,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--lupac-37-2021",
+"path": "local/caras-severin/lupac/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 37/2021 privind alegerea preşedintelui de şedinţă pentru lunile iulie-septembrie 2021",
+"short": "HCL Lupac nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/35341",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-38-2021",
+"path": "local/caras-severin/lupac/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 38/2021 privind aprobarea dezlipirii din izlaz înscris în CF nr. 208 Lupac nr. top 684/a/1/1/a/2/a/1/1c/b/1/b, nr.cad. 200, a terenului în suprafaţă de 377 mp în vederea concesionării prin licitaţie pentru edificarea unor anexe gospodărești (garaj)",
+"short": "HCL Lupac nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/35342",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-39-2021",
 "path": "local/caras-severin/lupac/2021/39",
 "kind": "local",
@@ -573,6 +867,50 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-40-2021",
+"path": "local/caras-severin/lupac/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 40/2021 privind aprobarea efectuării unui schimb imobiliar de terenuri în vederea amenajării unui teren de sport în localitatea Lupac",
+"short": "HCL Lupac nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/35344",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-41-2021",
+"path": "local/caras-severin/lupac/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 41/2021 privind aprobarea dezlipirii din izlaz înscris în CF nr. 208 Lupac nr. top 684/a/1/1/a/2/a/1/1c/b/1/b, nr.cad. 200, a terenului în suprafaţă de 235 mp în vederea concesionării prin licitaţie pentru edificarea unor anexe gospodărești (garaj)",
+"short": "HCL Lupac nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-29",
+"latest": "2021-07-29",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/35345",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -617,6 +955,29 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-44-2021",
+"path": "local/caras-severin/lupac/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 44/2021",
+"short": "HCL Lupac nr. 44/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-31",
+"latest": "2021-08-31",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/35485",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -752,6 +1113,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--lupac-51-2021",
+"path": "local/caras-severin/lupac/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 51/2021 privind aprobare dezlipirii din izlaz înscris în CF nr. 267 Clocotici nr. top 299/5/2/b/2/d/2/2/2/7/2/15/4/5/2/2/b/2/1/3/b/c/1/1/a/1/1/b/2/b/b/4/b/2, a terenului în suprafaţă de 760 mp, în vederea vânzării către d-nul Oțil Marian-Zlatco și soția Oțil Maria-Daniela, teren aferent casei cu nr.36, proprietatea d-nului Oțil Marian-Zlatco și soției",
+"short": "HCL Lupac nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-28",
+"latest": "2021-09-28",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/38669",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--lupac-52-2021",
 "path": "local/caras-severin/lupac/2021/52",
 "kind": "local",
@@ -815,6 +1198,28 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-55-2021",
+"path": "local/caras-severin/lupac/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 55/2021 privind alegerea preşedintelui de şedinţă pentru perioada octombrie-decembrie 2021",
+"short": "HCL Lupac nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-18",
+"latest": "2021-10-18",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/43669",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -947,6 +1352,29 @@
 "council_name": "Consiliul Local al Comunei Lupac",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--lupac-62-2021",
+"path": "local/caras-severin/lupac/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Lupac nr. 62/2021",
+"short": "HCL Lupac nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-01",
+"latest": "2021-11-01",
+"portal": "https://emol.ro/lupac-cs/registru-hcl/46276",
+"council": "caras-severin/lupac",
+"council_name": "Consiliul Local al Comunei Lupac",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

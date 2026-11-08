@@ -63,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-13-2024",
+   "path": "local/caras-severin/carbunari/2024/13",
+   "short": "HCL Cărbunari nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 13/2024 privind alegere președinte de ședință",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/159130",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/159130",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-14-2024",
    "path": "local/caras-severin/carbunari/2024/14",
    "short": "HCL Cărbunari nr. 14/2024",
@@ -148,6 +163,36 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/164503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-2-2024",
+   "path": "local/caras-severin/carbunari/2024/2",
+   "short": "HCL Cărbunari nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2024 privind aprobarea documentatiei de atribuire privind licitatia publica de delegare prin concesionare a serviciului public de colectare si transport a deseurilor municipale precum si acordarea mandatului special ADI ,,INTERCOM DESEURI ;;Caras-Severin de a organiza licitatia si de a aproba contractele aferente",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/137093",
+   "versions": [
+    {
+     "from": "2024-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/137093",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-20-2024",
+   "path": "local/caras-severin/carbunari/2024/20",
+   "short": "HCL Cărbunari nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 20/2024 privind aprobarea documentatiei de atribuire privind licitatia publica de delegare prin concesionare a serviciului public de colectare si transport a deseurilor municipale zona 4 Oravita precum si acordarea mandatului special Asociatiei de Dezvoltare Intercomunitara ,,INTERCOM DESEURI,, CARAS SEVERIN de a organiza licitatia si de a aproba contractele aferente",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/164504",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/164504",
      "sha256": null
     }
    ]
@@ -493,6 +538,21 @@
      "from": "2024-12-20",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/184238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-5-2024",
+   "path": "local/caras-severin/carbunari/2024/5",
+   "short": "HCL Cărbunari nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 5/2024 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/147681",
+   "versions": [
+    {
+     "from": "2024-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/147681",
      "sha256": null
     }
    ]

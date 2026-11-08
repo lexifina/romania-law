@@ -3,6 +3,50 @@
 "shard": "local/caras-severin/carbunari/2025",
 "acts": [
 {
+"slug": "hcl-caras-severin--carbunari-1-2025",
+"path": "local/caras-severin/carbunari/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 1/2025 privind alegere președinte de sedință",
+"short": "HCL Cărbunari nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/200445",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--carbunari-2-2025",
+"path": "local/caras-severin/carbunari/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2025 privind alegere presedinte de sedinta",
+"short": "HCL Cărbunari nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-01",
+"latest": "2025-04-01",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/200862",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-3-2025",
 "path": "local/caras-severin/carbunari/2025/3",
 "kind": "local",

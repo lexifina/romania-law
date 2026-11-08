@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--glimboca-10-2025",
+   "path": "local/caras-severin/glimboca/2025/10",
+   "short": "HCL Glimboca nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 10/2025 privind ... aprobarea alocarii sumei de 30,00 mii lei pt organizarea Rugii de Sfanta Marie",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228937",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-11-2025",
+   "path": "local/caras-severin/glimboca/2025/11",
+   "short": "HCL Glimboca nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 11/2025 privind incetarea contractelor deconcesiune cu nr. 1012/2024 si 1013/2024",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228939",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228939",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--glimboca-12-2025",
    "path": "local/caras-severin/glimboca/2025/12",
    "short": "HCL Glimboca nr. 12/2025",
@@ -28,6 +58,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-13-2025",
+   "path": "local/caras-severin/glimboca/2025/13",
+   "short": "HCL Glimboca nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 13/2025 privind ...alegerea presedintelui desedinta",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228960",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228960",
      "sha256": null
     }
    ]
@@ -118,6 +163,21 @@
      "from": "2025-10-08",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/229050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-2-2025",
+   "path": "local/caras-severin/glimboca/2025/2",
+   "short": "HCL Glimboca nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 2/2025",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206778",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206778",
      "sha256": null
     }
    ]
@@ -363,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--glimboca-4-2025",
+   "path": "local/caras-severin/glimboca/2025/4",
+   "short": "HCL Glimboca nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 4/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/206780",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/206780",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--glimboca-5-2025",
    "path": "local/caras-severin/glimboca/2025/5",
    "short": "HCL Glimboca nr. 5/2025",
@@ -418,6 +493,21 @@
      "from": "2025-10-07",
      "units": 1,
      "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--glimboca-9-2025",
+   "path": "local/caras-severin/glimboca/2025/9",
+   "short": "HCL Glimboca nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 9/2025 privind . incetarea contractului de concesiune nr. 939/2017si prelungit prin actul aditional nr. 1 din 30.04.2004",
+   "url": "https://emol.ro/glimboca-cs/registru-hcl/228918",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/glimboca-cs/registru-hcl/228918",
      "sha256": null
     }
    ]

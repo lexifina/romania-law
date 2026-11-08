@@ -3,6 +3,36 @@
  "shard": "local/caras-severin/maureni/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--maureni-1-2025",
+   "path": "local/caras-severin/maureni/2025/1",
+   "short": "HCL Măureni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 1/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188931",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-10-2025",
+   "path": "local/caras-severin/maureni/2025/10",
+   "short": "HCL Măureni nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 10/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188940",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188940",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--maureni-100-2025",
    "path": "local/caras-severin/maureni/2025/100",
    "short": "HCL Măureni nr. 100/2025",
@@ -153,6 +183,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--maureni-11-2025",
+   "path": "local/caras-severin/maureni/2025/11",
+   "short": "HCL Măureni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 11/2025 privind atribuirea în folosinţă gratuită a unei suprafeţe de teren conform Legii nr. 15 / 2003",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188941",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188941",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--maureni-110-2025",
    "path": "local/caras-severin/maureni/2025/110",
    "short": "HCL Măureni nr. 110/2025",
@@ -288,6 +333,141 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--maureni-12-2025",
+   "path": "local/caras-severin/maureni/2025/12",
+   "short": "HCL Măureni nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 12/2025 privind aprobarea execuţiei bugetului local al comunei Măureni pe trimestrul IV 2024",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188942",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-13-2025",
+   "path": "local/caras-severin/maureni/2025/13",
+   "short": "HCL Măureni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 13/2025 privind aprobarea Regulamentului de organizare şi funcţionare a spaţiilor de joacă și a parcurilor de distracții situate pe domeniul public și privat al Comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194340",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-14-2025",
+   "path": "local/caras-severin/maureni/2025/14",
+   "short": "HCL Măureni nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 14/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194341",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-15-2025",
+   "path": "local/caras-severin/maureni/2025/15",
+   "short": "HCL Măureni nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 15/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194342",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-16-2025",
+   "path": "local/caras-severin/maureni/2025/16",
+   "short": "HCL Măureni nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 16/2025 privind aprobarea întocmirii documentaţiilor tehnice, economice și administrative în vederea vânzării prin licitație publică a unor terenuri intravilane",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194343",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-17-2025",
+   "path": "local/caras-severin/maureni/2025/17",
+   "short": "HCL Măureni nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 17/2025 pentru aprobarea Regulamentului privind stabilirea domeniilor serviciilor publice şi a locurilor în care persoanele fizice vor presta activităţi în folosul comunităţii",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194344",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-18-2025",
+   "path": "local/caras-severin/maureni/2025/18",
+   "short": "HCL Măureni nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 18/2025 privind stabilirea unor normative proprii de cheltuieli pentru Primăria comunei Măureni și pentru serviciile publice cu sau fără personalitate juridica în perioada 01.03.2025 – 28.02.2026",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194345",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-19-2025",
+   "path": "local/caras-severin/maureni/2025/19",
+   "short": "HCL Măureni nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 19/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/194346",
+   "versions": [
+    {
+     "from": "2025-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/194346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-2-2025",
+   "path": "local/caras-severin/maureni/2025/2",
+   "short": "HCL Măureni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 2/2025 pentru însușirea Dispoziției Primarului comunei Măureni nr. 2/09.01.2025 privind acoperirea definitivă a deficitului secţiunii de dezvoltare în sumă de 639.402,15 lei din excedentul bugetului anilor precedenți",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188932",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188932",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--maureni-20-2025",
    "path": "local/caras-severin/maureni/2025/20",
    "short": "HCL Măureni nr. 20/2025",
@@ -298,6 +478,1281 @@
      "from": "2025-04-29",
      "units": 1,
      "source_url": "https://emol.ro/maureni-cs/registru-hcl/200928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-21-2025",
+   "path": "local/caras-severin/maureni/2025/21",
+   "short": "HCL Măureni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 21/2025 privind aprobarea rapoartelor de evaluare, a prețului minim de pornire, a documentației aferente și aprobarea vânzarii prin licitație publică a unor imobile teren intravilan",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200929",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-22-2025",
+   "path": "local/caras-severin/maureni/2025/22",
+   "short": "HCL Măureni nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 22/2025 privind aprobarea bugetului de venituri şi cheltuieli al Serviciului Public de Gospodarie Comunală Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200930",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-23-2025",
+   "path": "local/caras-severin/maureni/2025/23",
+   "short": "HCL Măureni nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 23/2025 pentru modificarea Hotărârii Consiliului Local al comunei Măureni nr. 4 din 28.01.2025 privind aprobarea efectuării unor plăţi din suma preluată în bugetul anului 2025 din excedentul bugetului local la 31.12.2024",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200931",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-24-2025",
+   "path": "local/caras-severin/maureni/2025/24",
+   "short": "HCL Măureni nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 24/2025 privind aprobarea prelungirii unor contracte de închiriere",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200932",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-25-2025",
+   "path": "local/caras-severin/maureni/2025/25",
+   "short": "HCL Măureni nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 25/2025 privind anularea obligaţiilor fiscale datorate de debitori, persoane juridice, radiaţi din Registrul Comerţului şi scăderea societăţilor comerciale radiate din evidenţa fiscală",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200933",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-26-2025",
+   "path": "local/caras-severin/maureni/2025/26",
+   "short": "HCL Măureni nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 26/2025 privind aprobarea investiției „ Dezvoltarea Comunei Maureni prin dotarea SVSU cu o autospecială pentru stins incendii ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/200934",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/200934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-27-2025",
+   "path": "local/caras-severin/maureni/2025/27",
+   "short": "HCL Măureni nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 27/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/201717",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/201717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-28-2025",
+   "path": "local/caras-severin/maureni/2025/28",
+   "short": "HCL Măureni nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 28/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/201718",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/201718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-29-2025",
+   "path": "local/caras-severin/maureni/2025/29",
+   "short": "HCL Măureni nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 29/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/201719",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/201719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-3-2025",
+   "path": "local/caras-severin/maureni/2025/3",
+   "short": "HCL Măureni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 3/2025 privind acordarea scutirii de la plata majorărilor de întârziere aferente obligațiilor bugetare, constând în impozite și taxe locale datorate bugetului local de către persoanele fizice ce au calitatea de contribuabili la bugetul local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188933",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-30-2025",
+   "path": "local/caras-severin/maureni/2025/30",
+   "short": "HCL Măureni nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 30/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204675",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-31-2025",
+   "path": "local/caras-severin/maureni/2025/31",
+   "short": "HCL Măureni nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 31/2025 privind aprobarea calendarului manifestărilor cultural-artistice ce se vor desfășura în anul 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204676",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-32-2025",
+   "path": "local/caras-severin/maureni/2025/32",
+   "short": "HCL Măureni nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 32/2025 privind scoaterea din funcțiune și casarea unor mijloace fixe și obiecte de inventar din proprietatea privată a comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204677",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-33-2025",
+   "path": "local/caras-severin/maureni/2025/33",
+   "short": "HCL Măureni nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 33/2025 privind aprobarea alocării sumei de 72.200,70 lei din bugetul local Bisericii Ortodoxe Române din Șoșdea",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204678",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-34-2025",
+   "path": "local/caras-severin/maureni/2025/34",
+   "short": "HCL Măureni nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 34/2025 privind aprobarea susţinerii financiare a Clubului Sportiv Comunal VOINȚA ȘOȘDEA pentru anul 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204679",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-35-2025",
+   "path": "local/caras-severin/maureni/2025/35",
+   "short": "HCL Măureni nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 35/2025 privind aprobarea execuţiei bugetului local al comunei Măureni pe trimestrul I 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204680",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-36-2025",
+   "path": "local/caras-severin/maureni/2025/36",
+   "short": "HCL Măureni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 36/2025 privind aprobarea alocării sumei de 18.450,00 lei din bugetul local Asociației Tinerilor Ortodocși „ Sf. Ierarh Nicolae” din Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204681",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-37-2025",
+   "path": "local/caras-severin/maureni/2025/37",
+   "short": "HCL Măureni nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 37/2025 privind aprobarea alocării sumei de 35.000 lei din bugetul local Bisericii Penticostale din Șoșdea",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204682",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-38-2025",
+   "path": "local/caras-severin/maureni/2025/38",
+   "short": "HCL Măureni nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 38/2025 privind aprobarea alocării sumei de 126.500 lei din bugetul local Bisericii Ortodoxe Române din Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204683",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-39-2025",
+   "path": "local/caras-severin/maureni/2025/39",
+   "short": "HCL Măureni nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 39/2025 privind scutirea de la plata impozitelor și taxelor locale a SC FERME D AGRO SRL",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204684",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-4-2025",
+   "path": "local/caras-severin/maureni/2025/4",
+   "short": "HCL Măureni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 4/2025 privind aprobarea efectuării unor plăţi din suma preluată în bugetul anului 2025 din excedentul bugetului local la 31.12.2024",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188934",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-40-2025",
+   "path": "local/caras-severin/maureni/2025/40",
+   "short": "HCL Măureni nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 40/2025 privind ocuparea temporară a locurilor publice neamenajate aparținând domeniului public sau privat al comunei Măureni și modalitatea de încasare a taxelor aferente",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204685",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-41-2025",
+   "path": "local/caras-severin/maureni/2025/41",
+   "short": "HCL Măureni nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 41/2025 privind aprobarea înființării unui post de asistent medical comunitar",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204686",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-42-2025",
+   "path": "local/caras-severin/maureni/2025/42",
+   "short": "HCL Măureni nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 42/2025 privind modificarea numărului de asistenţi personali ai persoanelor cu handicap grav salarizaţi în anul 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204687",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-43-2025",
+   "path": "local/caras-severin/maureni/2025/43",
+   "short": "HCL Măureni nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 43/2025 pentru însușirea și aprobarea prețului provizoriu pentru furnizarea apei potabile și pentru utilizarea rețelei de canalizare menajeră pentru anul 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/204688",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/204688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-44-2025",
+   "path": "local/caras-severin/maureni/2025/44",
+   "short": "HCL Măureni nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 44/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „ Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208858",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-45-2025",
+   "path": "local/caras-severin/maureni/2025/45",
+   "short": "HCL Măureni nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 45/2025 privind aprobarea modului de întocmire a Registrului Agricol pentru perioada 2025-2029 și stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208859",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208859",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-46-2025",
+   "path": "local/caras-severin/maureni/2025/46",
+   "short": "HCL Măureni nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 46/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208860",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208860",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-47-2025",
+   "path": "local/caras-severin/maureni/2025/47",
+   "short": "HCL Măureni nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 47/2025 pentru revocarea HCL nr. 41/28.04.2025 privind aprobarea înființării unui post de asistent medical comunitar",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208861",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-48-2025",
+   "path": "local/caras-severin/maureni/2025/48",
+   "short": "HCL Măureni nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 48/2025 privind aprobarea cotei pierderilor în sistemul de captare, tratare și distribuție a apei potabile și a cotei de apă uzată preluată în sistemul de canalizare",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208862",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-49-2025",
+   "path": "local/caras-severin/maureni/2025/49",
+   "short": "HCL Măureni nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 49/2025 privind aprobarea execuţiei bugetului de venituri şi cheltuieli al Serviciului Public de Gospodarie Comunală Măureni pe anul 2024",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208863",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-5-2025",
+   "path": "local/caras-severin/maureni/2025/5",
+   "short": "HCL Măureni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 5/2025 privind aprobarea închirierii prin licitație publică a unui spațiu comercial",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188935",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-50-2025",
+   "path": "local/caras-severin/maureni/2025/50",
+   "short": "HCL Măureni nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 50/2025 privind aprobarea investiției, a devizului general inițial și a indicatorilor tehnico-economici ai investiţiei de ” REABLITARE DRUM COMUNAL DC83A MĂURENI-ȘOȘDEA, JUD. CARAȘ-SEVERIN ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208864",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-51-2025",
+   "path": "local/caras-severin/maureni/2025/51",
+   "short": "HCL Măureni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 51/2025 privind aprobarea înființării unui post de asistent medical comunitar",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208865",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-52-2025",
+   "path": "local/caras-severin/maureni/2025/52",
+   "short": "HCL Măureni nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 52/2025 privind aprobarea contractării unei finanțări interne/externe în valoare de 8.165.461,33 lei, prin credit bancar, pentru realizarea obiectivelor de investiții de interes public local",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208866",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-53-2025",
+   "path": "local/caras-severin/maureni/2025/53",
+   "short": "HCL Măureni nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 53/2025 privind rectificarea bugetului local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208867",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-54-2025",
+   "path": "local/caras-severin/maureni/2025/54",
+   "short": "HCL Măureni nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 54/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208868",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-55-2025",
+   "path": "local/caras-severin/maureni/2025/55",
+   "short": "HCL Măureni nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 55/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/208869",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/208869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-56-2025",
+   "path": "local/caras-severin/maureni/2025/56",
+   "short": "HCL Măureni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 56/2025 privind aprobarea alipirii terenurilor intravilane înscrise în CF nr. 37841 și CF nr. 37839 Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/214863",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/214863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-57-2025",
+   "path": "local/caras-severin/maureni/2025/57",
+   "short": "HCL Măureni nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 57/2025 privind aprobarea rapoartelor de evaluare, a prețului minim de pornire și a documentației aferente și aprobarea vânzarii prin licitație publică a unor terenuri intravilane",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/214864",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/214864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-58-2025",
+   "path": "local/caras-severin/maureni/2025/58",
+   "short": "HCL Măureni nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 58/2025 privind aprobarea Regulamentului de premiere al elevilor din învăţământul preuniversitar care au obţinut rezultate deosebite – premiul I, II sau III la faza județeană, națională sau internațională a olimpiadelor școlare / concursurilor / competițiilor sportive",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/214865",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/214865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-59-2025",
+   "path": "local/caras-severin/maureni/2025/59",
+   "short": "HCL Măureni nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 59/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/214866",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/214866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-6-2025",
+   "path": "local/caras-severin/maureni/2025/6",
+   "short": "HCL Măureni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 6/2025 privind aprobarea prelungirii sau modificării unor contracte de închiriere",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188936",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-60-2025",
+   "path": "local/caras-severin/maureni/2025/60",
+   "short": "HCL Măureni nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 60/2025 privind declararea încetarii interesului public local și aprobarea trecerii unui imobil din domeniul public în domeniul privat al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/214867",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/214867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-61-2025",
+   "path": "local/caras-severin/maureni/2025/61",
+   "short": "HCL Măureni nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 61/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218302",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-62-2025",
+   "path": "local/caras-severin/maureni/2025/62",
+   "short": "HCL Măureni nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 62/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218303",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-63-2025",
+   "path": "local/caras-severin/maureni/2025/63",
+   "short": "HCL Măureni nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 63/2025 privind rectificarea bugetului local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218304",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-64-2025",
+   "path": "local/caras-severin/maureni/2025/64",
+   "short": "HCL Măureni nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 64/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218305",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-65-2025",
+   "path": "local/caras-severin/maureni/2025/65",
+   "short": "HCL Măureni nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 65/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218306",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-66-2025",
+   "path": "local/caras-severin/maureni/2025/66",
+   "short": "HCL Măureni nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 66/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218307",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-67-2025",
+   "path": "local/caras-severin/maureni/2025/67",
+   "short": "HCL Măureni nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 67/2025 privind aprobarea execuţiei bugetului local al comunei Măureni pe trimestrul II 2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218308",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-68-2025",
+   "path": "local/caras-severin/maureni/2025/68",
+   "short": "HCL Măureni nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 68/2025 privind aprobarea tarifelor distincte pentru activitățile de salubrizare - zona 1 Reșița la nivelul tarifelor stabilite prin actului adițional nr. 1 la Contractul de delegare prin concesiune a gestiunii activității de colectare și transport al deșeurilor municipale în Zona 1 Reșița județul Caras – Severin nr. 539/03.11.2023 precum și a Hotărârii nr. 1 din 17.01.2024 a Asociației de Dezvoltare Intercomunitară ” INTERCOM DEȘEURI ” Caraș – Severin",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218309",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-69-2025",
+   "path": "local/caras-severin/maureni/2025/69",
+   "short": "HCL Măureni nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 69/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218310",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-7-2025",
+   "path": "local/caras-severin/maureni/2025/7",
+   "short": "HCL Măureni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 7/2025 privind aprobarea întocmirii documentațiilor tehnico-economice în vederea realizării Registrului local al spațiilor verzi",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188937",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-70-2025",
+   "path": "local/caras-severin/maureni/2025/70",
+   "short": "HCL Măureni nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 70/2025 privind acordarea mandatului special Asociației de Dezvoltare Intercomunitară INTERCOM DEŞEURI CARAŞ-SEVERIN, pentru atribuirea contractelor de delegare a gestiunii activității/activităților de sortare, tratare și/sau depozitare, prin eliminare, a deșeurilor municipale rezultate din activitățile de salubrizare de pe raza comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218311",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-71-2025",
+   "path": "local/caras-severin/maureni/2025/71",
+   "short": "HCL Măureni nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 71/2025 privind aprobarea actului adițional nr. 2 la contractul de concesiune nr. 539/03.11.2023, acordarea mandatului special Asociației de Dezvoltare Intercomunitară ”INTERCOM DEȘEURI” Caraș-Severin pentru încheierea actului adițional nr. 2 la contractul de concesiune nr. 539/03.11.2024, acordarea mandatului special reprezentantului unității administrativ teritoriale de a vota în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ”INTERCOM DEȘEURI” Caraș-Severin, Zona 1 Reșița",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218312",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-72-2025",
+   "path": "local/caras-severin/maureni/2025/72",
+   "short": "HCL Măureni nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 72/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218313",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-73-2025",
+   "path": "local/caras-severin/maureni/2025/73",
+   "short": "HCL Măureni nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 73/2025 privind aprobarea trecerii din domeniul privat în domeniul public al comunei Măureni a terenului înscris în CF 39932 Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/218314",
+   "versions": [
+    {
+     "from": "2025-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/218314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-74-2025",
+   "path": "local/caras-severin/maureni/2025/74",
+   "short": "HCL Măureni nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 74/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/223184",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/223184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-75-2025",
+   "path": "local/caras-severin/maureni/2025/75",
+   "short": "HCL Măureni nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 75/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/223185",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/223185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-76-2025",
+   "path": "local/caras-severin/maureni/2025/76",
+   "short": "HCL Măureni nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 76/2025 privind aprobarea închirierii prin licitație publică a unor cabinete medicale",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/223186",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/223186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-77-2025",
+   "path": "local/caras-severin/maureni/2025/77",
+   "short": "HCL Măureni nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 77/2025 privind rectificarea bugetului local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/223187",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/223187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-78-2025",
+   "path": "local/caras-severin/maureni/2025/78",
+   "short": "HCL Măureni nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 78/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/228025",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/228025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-79-2025",
+   "path": "local/caras-severin/maureni/2025/79",
+   "short": "HCL Măureni nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 79/2025 privind aprobarea contractării unui împrumut în valoare de 410.452 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/228026",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/228026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-8-2025",
+   "path": "local/caras-severin/maureni/2025/8",
+   "short": "HCL Măureni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 8/2025 privind aprobarea devizului general și a indicatorilor tehnico-economici finali pentru obiectivul de investiţie ” MODERNIZAREA INFRASTRUCTURII RUTIERE ÎN COMUNA MĂURENI, JUD. CARAȘ-SEVERIN ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188938",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-80-2025",
+   "path": "local/caras-severin/maureni/2025/80",
+   "short": "HCL Măureni nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 80/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/228027",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/228027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-81-2025",
+   "path": "local/caras-severin/maureni/2025/81",
+   "short": "HCL Măureni nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 81/2025 privind aprobarea nivelului redevenței datorate de Serviciu Public de Gospodărie comunala Măureni pentru folosința sistemului de alimentare cu apă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/228028",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/228028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-82-2025",
+   "path": "local/caras-severin/maureni/2025/82",
+   "short": "HCL Măureni nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 82/2025 privind aprobarea contractării unui împrumut în valoare de 410.452 lei, în conformitate cu prevederile art. 1 din Ordonanţa de urgenţă a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/229861",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/229861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-83-2025",
+   "path": "local/caras-severin/maureni/2025/83",
+   "short": "HCL Măureni nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 83/2025 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231060",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-84-2025",
+   "path": "local/caras-severin/maureni/2025/84",
+   "short": "HCL Măureni nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 84/2025 privind aprobarea Regulamentului de ordine publică şi gospodărire al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231061",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-85-2025",
+   "path": "local/caras-severin/maureni/2025/85",
+   "short": "HCL Măureni nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 85/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231062",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-86-2025",
+   "path": "local/caras-severin/maureni/2025/86",
+   "short": "HCL Măureni nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 86/2025 pentru modificarea și completarea Hotărârii Consiliului Local al Comunei Măureni nr. 76 din 31.08.2022 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Măureni, județul Caraș - Severin",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231063",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-87-2025",
+   "path": "local/caras-severin/maureni/2025/87",
+   "short": "HCL Măureni nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 87/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231064",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-88-2025",
+   "path": "local/caras-severin/maureni/2025/88",
+   "short": "HCL Măureni nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 88/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231065",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-89-2025",
+   "path": "local/caras-severin/maureni/2025/89",
+   "short": "HCL Măureni nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 89/2025 privind rectificarea bugetului local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231066",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-9-2025",
+   "path": "local/caras-severin/maureni/2025/9",
+   "short": "HCL Măureni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 9/2025 privind aprobarea întocmirii documentaţiilor tehnice, economice și administrative în vederea vânzării prin licitație publică a unor terenuri intravilane",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/188939",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/188939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-90-2025",
+   "path": "local/caras-severin/maureni/2025/90",
+   "short": "HCL Măureni nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 90/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231067",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-91-2025",
+   "path": "local/caras-severin/maureni/2025/91",
+   "short": "HCL Măureni nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 91/2025 privind acordarea unui ajutoar de urgentă pentru refacerea locuinței care a fost distrusă în incendiul din 11.10.2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231068",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-92-2025",
+   "path": "local/caras-severin/maureni/2025/92",
+   "short": "HCL Măureni nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 92/2025",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231069",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-93-2025",
+   "path": "local/caras-severin/maureni/2025/93",
+   "short": "HCL Măureni nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 93/2025 privind aprobarea investiţiei, a proiectului tehnic, a devizului general și a indicatorilor tehnico-economici ai investiţiei de ” REABILITARE DRUM COMUNAL DC83A MĂURENI-ȘOȘDEA, JUD. CARAȘ-SEVERIN ”",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/231070",
+   "versions": [
+    {
+     "from": "2025-10-30",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/231070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-94-2025",
+   "path": "local/caras-severin/maureni/2025/94",
+   "short": "HCL Măureni nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 94/2025 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor singure care se află în situații de necesitate cauzate de calamități naturale, incendii, accidente precum și pentru alte situații deosebite",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/236750",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/236750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-95-2025",
+   "path": "local/caras-severin/maureni/2025/95",
+   "short": "HCL Măureni nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 95/2025 privind aprobarea accesului / utilizării unui teren pentru branșarea stației de telecomunicații edificată pe teren la rețeaua de energie electrică",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/236751",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/236751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-96-2025",
+   "path": "local/caras-severin/maureni/2025/96",
+   "short": "HCL Măureni nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 96/2025 privind aprobarea proiectului tehnic, al fișei de calcul și a sumei necesare realizării branșamentelor la utilitățile publice ( energie electrică și canalizare) a creșei din localitatea Măureni în cadrul investiției finanțate prin C.N.I - „ Proiect tip - Construire creșă medie, sat Măureni, comuna Măureni, jud. Caraș-Severin ”, precum și aprobarea achiziției a două pompe pentru rețeaua publică de canalizare pentru SP 1 și SP 6",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/236752",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/236752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-97-2025",
+   "path": "local/caras-severin/maureni/2025/97",
+   "short": "HCL Măureni nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 97/2025 privind rectificarea bugetului local al comunei Măureni",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/236753",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/236753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--maureni-98-2025",
+   "path": "local/caras-severin/maureni/2025/98",
+   "short": "HCL Măureni nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Măureni nr. 98/2025 privind aprobarea tarifului pentru ora de manoperă directă ce va fi utilizat de Serviciul Public de Gospodarie Locală Măureni pentru lucrările prestate către Comuna Măureni şi către terţi",
+   "url": "https://emol.ro/maureni-cs/registru-hcl/236754",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/maureni-cs/registru-hcl/236754",
      "sha256": null
     }
    ]

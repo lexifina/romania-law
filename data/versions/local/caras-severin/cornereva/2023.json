@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/cornereva/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--cornereva-1-2023",
+   "path": "local/caras-severin/cornereva/2023/1",
+   "short": "HCL Cornereva nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 1/2023 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/109838",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/109838",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-10-2023",
    "path": "local/caras-severin/cornereva/2023/10",
    "short": "HCL Cornereva nr. 10/2023",
@@ -93,6 +108,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--cornereva-16-2023",
+   "path": "local/caras-severin/cornereva/2023/16",
+   "short": "HCL Cornereva nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 16/2023 privind alegere președinte de ședință",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/111121",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/111121",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-17-2023",
    "path": "local/caras-severin/cornereva/2023/17",
    "short": "HCL Cornereva nr. 17/2023",
@@ -118,6 +148,21 @@
      "from": "2023-06-29",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/111123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-19-2023",
+   "path": "local/caras-severin/cornereva/2023/19",
+   "short": "HCL Cornereva nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 19/2023 privind prezentarea Raportului anual al Primarului pe anul 2022",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/111124",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/111124",
      "sha256": null
     }
    ]
@@ -273,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--cornereva-29-2023",
+   "path": "local/caras-severin/cornereva/2023/29",
+   "short": "HCL Cornereva nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 29/2023 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/113552",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/113552",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-3-2023",
    "path": "local/caras-severin/cornereva/2023/3",
    "short": "HCL Cornereva nr. 3/2023",
@@ -283,6 +343,36 @@
      "from": "2023-06-21",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/109840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-30-2023",
+   "path": "local/caras-severin/cornereva/2023/30",
+   "short": "HCL Cornereva nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 30/2023 privind prelungire scrisoare de garantie nr. 301/28.06.2018",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/113553",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/113553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-31-2023",
+   "path": "local/caras-severin/cornereva/2023/31",
+   "short": "HCL Cornereva nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 31/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/113554",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/113554",
      "sha256": null
     }
    ]
@@ -373,6 +463,36 @@
      "from": "2023-09-13",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/118789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-38-2023",
+   "path": "local/caras-severin/cornereva/2023/38",
+   "short": "HCL Cornereva nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 38/2023 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 716/10.10.2017 de la FNGCIMM SA IFN in valoare de 484.000,00 lei in vederea garantării obligațiilor de plata a avansului de 484.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Reabilitarea, modernizarea, extinderea și dotarea Școlii profesionale agricole din localitatea Bogâltin, Comuna Cornereva, județul Caraș - Severin .”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/123563",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/123563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-39-2023",
+   "path": "local/caras-severin/cornereva/2023/39",
+   "short": "HCL Cornereva nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 39/2023 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/127145",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/127145",
      "sha256": null
     }
    ]
@@ -703,6 +823,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/136268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-6-2023",
+   "path": "local/caras-severin/cornereva/2023/6",
+   "short": "HCL Cornereva nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 6/2023 privind aprobarea documentației de atribuire privind delegarea prin concesionare a serviciului public ADI",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/109870",
+   "versions": [
+    {
+     "from": "2023-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/109870",
      "sha256": null
     }
    ]

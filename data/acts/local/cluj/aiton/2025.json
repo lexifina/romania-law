@@ -3,6 +3,50 @@
 "shard": "local/cluj/aiton/2025",
 "acts": [
 {
+"slug": "hcl-cluj--aiton-1-2025",
+"path": "local/cluj/aiton/2025/1",
+"kind": "local",
+"year": "2025",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 1/2025 privind acoperirea definitivă din excedentul bugetului local 2024 a deficitului bugetului secţiunii de dezvoltare",
+"short": "HCL Aiton nr. 1/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214229",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-2-2025",
+"path": "local/cluj/aiton/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 2/2025 privind aprobarea utilizării sumei de 400.000 lei din excedentul anului 2024 pentru acoperire gol de casa 2025 pentru sectiunea de functionare",
+"short": "HCL Aiton nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214230",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-3-2025",
 "path": "local/cluj/aiton/2025/3",
 "kind": "local",
@@ -22,6 +66,73 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-4-2025",
+"path": "local/cluj/aiton/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 4/2025",
+"short": "HCL Aiton nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214232",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-5-2025",
+"path": "local/cluj/aiton/2025/5",
+"kind": "local",
+"year": "2025",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 5/2025 privind aprobarea Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2024, angajați ai Primăriei Comunei Aiton, judeţul Cluj",
+"short": "HCL Aiton nr. 5/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214233",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-6-2025",
+"path": "local/cluj/aiton/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 6/2025 privind aprobarea planului de actiuni comunitare",
+"short": "HCL Aiton nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214235",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-8-2025",
+"path": "local/cluj/aiton/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 8/2025 privind procedura de licitatie publica in vederea inchirierii pajistilor in suprafata de 78,79 ha, respectiv: 55 Ha in locul numit “ADIGOJ” si 23,79 Ha in locul numit “Dealul Viilor”",
+"short": "HCL Aiton nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214238",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-9-2025",
 "path": "local/cluj/aiton/2025/9",
 "kind": "local",
@@ -66,6 +199,302 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-10-2025",
+"path": "local/cluj/aiton/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 10/2025",
+"short": "HCL Aiton nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214241",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-11-2025",
+"path": "local/cluj/aiton/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 11/2025",
+"short": "HCL Aiton nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214243",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-12-2025",
+"path": "local/cluj/aiton/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 12/2025",
+"short": "HCL Aiton nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214244",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-13-2025",
+"path": "local/cluj/aiton/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 13/2025",
+"short": "HCL Aiton nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214247",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-14-2025",
+"path": "local/cluj/aiton/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 14/2025",
+"short": "HCL Aiton nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214248",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-15-2025",
+"path": "local/cluj/aiton/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 15/2025",
+"short": "HCL Aiton nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214249",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-16-2025",
+"path": "local/cluj/aiton/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 16/2025",
+"short": "HCL Aiton nr. 16/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214250",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-17-2025",
+"path": "local/cluj/aiton/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 17/2025",
+"short": "HCL Aiton nr. 17/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214259",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-18-2025",
+"path": "local/cluj/aiton/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 18/2025",
+"short": "HCL Aiton nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214260",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-19-2025",
+"path": "local/cluj/aiton/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 19/2025",
+"short": "HCL Aiton nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-28",
+"latest": "2025-02-28",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214261",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-20-2025",
+"path": "local/cluj/aiton/2025/20",
+"kind": "local",
+"year": "2025",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 20/2025 privind organizarea manifestării dedicate zilei de 8 Martie 2025 “ ZIUA FEMEII ”",
+"short": "HCL Aiton nr. 20/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214262",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-21-2025",
+"path": "local/cluj/aiton/2025/21",
+"kind": "local",
+"year": "2025",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 21/2025 privind aprobarea Bugetului de Venituri şi Cheltuieli al Comunei Aiton și Programul de Investiții pentru anul 2025",
+"short": "HCL Aiton nr. 21/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214263",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-22-2025",
+"path": "local/cluj/aiton/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 22/2025 privind acordarea sumei de 300 lei / 50 de ani de căsătorie",
+"short": "HCL Aiton nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214264",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -110,6 +539,72 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-25-2025",
+"path": "local/cluj/aiton/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 25/2025 privind alocarea de fonduri pentru deplasări externe în anul 2025",
+"short": "HCL Aiton nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214267",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-26-2025",
+"path": "local/cluj/aiton/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 26/2025 privind acordarea de sprijin de la bugetul local al comunei Aiton, pentru unităţile de cult de pe raza comunei Aiton",
+"short": "HCL Aiton nr. 26/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214268",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-27-2025",
+"path": "local/cluj/aiton/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 27/2025 privind procedura de atribuire directǎ în vederea închirierii unei pajişti în suprafațǎ de 50 ha, în locul numit „FUNDUL OBÂRSIEI” CF 50070 Rediu",
+"short": "HCL Aiton nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214269",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +674,28 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-31-2025",
+"path": "local/cluj/aiton/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 31/2025 privind modificarea organigramei şi a statului de funcții ale aparatului de specialitate al primarului comunei Aiton",
+"short": "HCL Aiton nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214273",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-32-2025",
 "path": "local/cluj/aiton/2025/32",
 "kind": "local",
@@ -198,6 +715,51 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-33-2025",
+"path": "local/cluj/aiton/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 33/2025",
+"short": "HCL Aiton nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214275",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-34-2025",
+"path": "local/cluj/aiton/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 34/2025 privind acordarea unui mandat special, reprezentantului UAT Aiton in adunarea generala a membrilor Asociatiei Metropolitane de Transport Public Cluj, (A.M.T.P.C.) spre a aproba modificarea contractului de delegare a gestiunii serviciului de transport public local nr. 42/29.12.2018",
+"short": "HCL Aiton nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214276",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +785,28 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-36-2025",
+"path": "local/cluj/aiton/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 36/2025 privind alegerea președintelui de ședință pentru lunile aprilie, mai, iunie 2025",
+"short": "HCL Aiton nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214278",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-37-2025",
 "path": "local/cluj/aiton/2025/37",
 "kind": "local",
@@ -242,6 +826,28 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-38-2025",
+"path": "local/cluj/aiton/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 38/2025 privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Aiton, pe anul 2025",
+"short": "HCL Aiton nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214286",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +873,51 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-40-2025",
+"path": "local/cluj/aiton/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 40/2025 privind revocarea Hotărârii Consiliului Local Aiton cu nr. 9 din 28.02.2025 privind concesionarea terenului de 37.848 mp pentru parcul tematic pentru copii, „Orǎşelul copiilor Mini City”",
+"short": "HCL Aiton nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-27",
+"latest": "2025-06-27",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214293",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-41-2025",
+"path": "local/cluj/aiton/2025/41",
+"kind": "local",
+"year": "2025",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 41/2025",
+"short": "HCL Aiton nr. 41/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210035",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--aiton-42-2025",
 "path": "local/cluj/aiton/2025/42",
 "kind": "local",
@@ -289,6 +940,72 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-43-2025",
+"path": "local/cluj/aiton/2025/43",
+"kind": "local",
+"year": "2025",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 43/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul II 2025",
+"short": "HCL Aiton nr. 43/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210037",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-44-2025",
+"path": "local/cluj/aiton/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 44/2025 privind modificarea contractului de delegare a gestiunii nr. 42/29.12.2018, dintre Asociația Metropolitanǎ de Transport Public Cluj, (AMTPC) şi Compania de Transport Public Cluj-Napoca SA, potrivit HCL Floresti nr. 43/25.04.2025",
+"short": "HCL Aiton nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210038",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-45-2025",
+"path": "local/cluj/aiton/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 45/2025 privind modificarea organigramei şi a statului de funcții ale aparatului de specialitate al primarului comunei Aiton",
+"short": "HCL Aiton nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210039",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-46-2025",
 "path": "local/cluj/aiton/2025/46",
 "kind": "local",
@@ -308,6 +1025,51 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-47-2025",
+"path": "local/cluj/aiton/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 47/2025 privind aprobarea concesionǎrii prin licitație publicǎ a unei parcele de teren, proprietate privatǎ a comunei Aiton, în suprafaţă de 32.500 mp, amplasată în intravilanul localitǎții Aiton, având nr. cadastral 55001, înscrisă în cartea funciară nr. 55001 Aiton pentru realizarea proiectului “ Parc tematic pentru copii- Orǎşelul copiilor Mini City”",
+"short": "HCL Aiton nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210041",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-48-2025",
+"path": "local/cluj/aiton/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 48/2025",
+"short": "HCL Aiton nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210042",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -355,6 +1117,603 @@
 }
 },
 {
+"slug": "hcl-cluj--aiton-51-2025",
+"path": "local/cluj/aiton/2025/51",
+"kind": "local",
+"year": "2025",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 51/2025 privind amenajare drum acces în cartier Rediu, com. Aiton, jud. Cluj, înființat conform legii 15/2003",
+"short": "HCL Aiton nr. 51/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-29",
+"latest": "2025-08-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/210045",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-52-2025",
+"path": "local/cluj/aiton/2025/52",
+"kind": "local",
+"year": "2025",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 52/2025",
+"short": "HCL Aiton nr. 52/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214046",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-53-2025",
+"path": "local/cluj/aiton/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 53/2025 privind aprobarea documentaţiei pentru obiectivul ”ELABORARE PLAN URBANISTIC DE DETALIU ȘI DOCUMENTAȚIE PENTRU AUTORIZAREA EXECUTĂRII LUCRĂRILOR DE CONSTRUIRE A OBIECTIVULUI LOCUINȚĂ D+P+M ȘI ANEXĂ GOSPODĂREASCĂ ÎN SISTEM PROVIZORIU”, CF 53306, în satul Rediu, str. Campului, nr.140A., com. Aiton, jud. Cluj",
+"short": "HCL Aiton nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-10",
+"latest": "2025-07-10",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/214047",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-54-2025",
+"path": "local/cluj/aiton/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 54/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul III 2025",
+"short": "HCL Aiton nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-14",
+"latest": "2025-08-14",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/219436",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-55-2025",
+"path": "local/cluj/aiton/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 55/2025 privind alegerea președintelui de ședință pentru lunile august, septembrie și octombrie 2025",
+"short": "HCL Aiton nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222858",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-56-2025",
+"path": "local/cluj/aiton/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 56/2025 privind aprobarea raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2025, angajați ai Primăriei Comunei Aiton, judeţul Cluj",
+"short": "HCL Aiton nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222859",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-57-2025",
+"path": "local/cluj/aiton/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 57/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul III 2025",
+"short": "HCL Aiton nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222860",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-58-2025",
+"path": "local/cluj/aiton/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 58/2025",
+"short": "HCL Aiton nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222861",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-59-2025",
+"path": "local/cluj/aiton/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 59/2025 privind însușirea Acordului de cooperare privind organizarea şi funcționarea compartimentului dezvoltare rurală",
+"short": "HCL Aiton nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222862",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-60-2025",
+"path": "local/cluj/aiton/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 60/2025 privind îndreptarea erorilor de tehnoredactare strecurate în textul Hotărârii nr. 25 din 27.03.2025 - Proiect de hotărâre privind alocarea de fonduri pentru deplasări externe în anul 2025",
+"short": "HCL Aiton nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222863",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-61-2025",
+"path": "local/cluj/aiton/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 61/2025 privind îndreptarea erorilor strecurate în textul Hotărârii nr. 38 din 17.04.2025 - privind aprobarea Planului de perfecționare profesională a funcționarilor publici din aparatul de specialitate al primarului comunei Aiton, pe anul 2025",
+"short": "HCL Aiton nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222864",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-62-2025",
+"path": "local/cluj/aiton/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 62/2025 privind modificarea organigramei şi a statului de funcții ale aparatului de specialitate al primarului comunei Aiton",
+"short": "HCL Aiton nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-16",
+"latest": "2025-09-16",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/222865",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-63-2025",
+"path": "local/cluj/aiton/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 63/2025 privind rectificarea bugetului local al Comunei Aiton, Judetul Cluj pentru trimestrul III 2025",
+"short": "HCL Aiton nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226708",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-64-2025",
+"path": "local/cluj/aiton/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 64/2025 privind aprobarea modificării și completării Statutului Asociației de Dezvoltare Intercomunitară \"Apa Văii Ariesului”",
+"short": "HCL Aiton nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226709",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-65-2025",
+"path": "local/cluj/aiton/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 65/2025 privind aprobarea documentatiei cadastrale de dezmembrare în doua loturi a imobilului cu nr. cad. 53970, inscris in CF. Nr. 53970 Aiton",
+"short": "HCL Aiton nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226710",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-66-2025",
+"path": "local/cluj/aiton/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 66/2025 privind aprobarea documentatiei cadastrale de dezmembrare în doua loturi a imobilului cu nr. cad. 53706, inscris in CF. Nr. 53706 Aiton",
+"short": "HCL Aiton nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226711",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-67-2025",
+"path": "local/cluj/aiton/2025/67",
+"kind": "local",
+"year": "2025",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 67/2025",
+"short": "HCL Aiton nr. 67/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226712",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-68-2025",
+"path": "local/cluj/aiton/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 68/2025 privind rezilierea contractului de concesiune nr. 35/29.07.2021 prin nerespectarea obligațiilor asumate din contract",
+"short": "HCL Aiton nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226713",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-69-2025",
+"path": "local/cluj/aiton/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 69/2025 privind rezilierea contractului de concesiune nr.20/19.05.2021 prin nerespectarea obligațiilor asumate din contract",
+"short": "HCL Aiton nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226714",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-70-2025",
+"path": "local/cluj/aiton/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 70/2025 privind aprobarea documentaţiei pentru obiectivul ”ELABORARE PLAN URBANISTIC DE DETALIU ȘI DOCUMENTAȚIE PENTRU AUTORIZAREA EXECUTĂRII LUCRĂRILOR DE CONSTRUIRE CASĂ LOCUINȚĂ UNIFAMILIALĂ,REALIZARE ÎMPREJMUIRE, BAZIN ETANȘ VIDANJABIL, AMENAJARE INCINTĂ ȘI REALIZARE RACORDURI ȘI BRANȘAMENTE UTILITĂȚI”, CF 54882, în satul Rediu, com. Aiton, jud. Cluj",
+"short": "HCL Aiton nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226715",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-71-2025",
+"path": "local/cluj/aiton/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 71/2025 privind aprobarea documentaţiei pentru obiectivul ”ELABORARE PLAN URBANISTIC DE DETALIU ȘI DOCUMENTAȚIE PENTRU AUTORIZAREA EXECUTĂRII LUCRĂRILOR DE CONSTRUIRE LOCUINȚĂ UNIFAMILIALĂ CU REGIM DE ÎNĂLȚIME P , CĂSUȚĂ DE GRĂDINĂ, ACCES, ÎMREJMUIRE TEREN, RACORDURI, BRANȘAMENTE”, CF 54887, în satul Rediu, com. Aiton, jud. Cluj",
+"short": "HCL Aiton nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226716",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-72-2025",
+"path": "local/cluj/aiton/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 72/2025 privind aprobarea documentatiei cadastrale de dezmembrare în șase loturi a imobilului cu nr. cad. 54908, inscris in CF. Nr. 54908 Aiton",
+"short": "HCL Aiton nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226717",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-73-2025",
+"path": "local/cluj/aiton/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 73/2025 privind modificarea limitelor de proprietate și repoziționarea între CF nr. 54890 și CF nr. 54891 teren proprietate privată a comunei Aiton,situat în intravilanul localității Rediu, comuna Aiton, județul Cluj",
+"short": "HCL Aiton nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226718",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-74-2025",
+"path": "local/cluj/aiton/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 74/2025 privind aprobarea documentatiei cadastrale de dezmembrare în doua loturi a imobilului cu nr. cad. 53936, inscris in CF. Nr. 53936 Aiton",
+"short": "HCL Aiton nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226719",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-75-2025",
+"path": "local/cluj/aiton/2025/75",
+"kind": "local",
+"year": "2025",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 75/2025 privind aprobarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Rețea de canalizare și racorduri de canalizare în localitățile Rediu și Aiton, comuna Aiton, județul Cluj”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului de investiții",
+"short": "HCL Aiton nr. 75/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/226720",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-76-2025",
+"path": "local/cluj/aiton/2025/76",
+"kind": "local",
+"year": "2025",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 76/2025 privind aprobarea documentatiei tehnico-economice, faza Studiu de fezabilitate, pentru investiția „ÎNFIINȚARE SPAȚII DE JOACĂ ÎN COMUNA AITON, JUDEȚUL CLUJ”",
+"short": "HCL Aiton nr. 76/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233118",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-77-2025",
+"path": "local/cluj/aiton/2025/77",
+"kind": "local",
+"year": "2025",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 77/2025 privind implementarea proiectului “ÎNFIINȚARE SPAȚII DE JOACĂ ÎN COMUNA AITON, JUDEȚUL CLUJ”",
+"short": "HCL Aiton nr. 77/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233119",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-cluj--aiton-78-2025",
 "path": "local/cluj/aiton/2025/78",
 "kind": "local",
@@ -374,6 +1733,119 @@
 "council_name": "Consiliul Local al Comunei Aiton",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-cluj--aiton-79-2025",
+"path": "local/cluj/aiton/2025/79",
+"kind": "local",
+"year": "2025",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 79/2025",
+"short": "HCL Aiton nr. 79/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233121",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-80-2025",
+"path": "local/cluj/aiton/2025/80",
+"kind": "local",
+"year": "2025",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 80/2025",
+"short": "HCL Aiton nr. 80/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233122",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-81-2025",
+"path": "local/cluj/aiton/2025/81",
+"kind": "local",
+"year": "2025",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 81/2025",
+"short": "HCL Aiton nr. 81/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233123",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-cluj--aiton-82-2025",
+"path": "local/cluj/aiton/2025/82",
+"kind": "local",
+"year": "2025",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 82/2025 privind revocarea Hotărârii Consiliului Local Aiton cu nr. 62/29.08.2025 privind modificarea organigramei si a statului de funcții ale aparatului de specialitate al primarului comunei Aiton",
+"short": "HCL Aiton nr. 82/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233124",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--aiton-83-2025",
+"path": "local/cluj/aiton/2025/83",
+"kind": "local",
+"year": "2025",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Aiton nr. 83/2025 privind modificarea art. 1 alin. (2) din Hotărârea Consiliului Local al Comunei Aiton nr. 59 din 29.08.2025",
+"short": "HCL Aiton nr. 83/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-12",
+"latest": "2025-11-12",
+"portal": "https://emol.ro/aiton-cj/registru-hcl/233125",
+"council": "cluj/aiton",
+"council_name": "Consiliul Local al Comunei Aiton",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

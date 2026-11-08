@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/carbunari/2023",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-1-2023",
+   "path": "local/caras-severin/carbunari/2023/1",
+   "short": "HCL Cărbunari nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 1/2023 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88580",
+   "versions": [
+    {
+     "from": "2023-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88580",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-10-2023",
    "path": "local/caras-severin/carbunari/2023/10",
    "short": "HCL Cărbunari nr. 10/2023",
@@ -48,6 +63,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-13-2023",
+   "path": "local/caras-severin/carbunari/2023/13",
+   "short": "HCL Cărbunari nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 13/2023 privind aprobarea inchirierii prin atribuire directa a pajistilor disponibile din domeniul privat al comunei Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/102181",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/102181",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-14-2023",
    "path": "local/caras-severin/carbunari/2023/14",
    "short": "HCL Cărbunari nr. 14/2023",
@@ -58,6 +88,51 @@
      "from": "2023-04-28",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/102182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-15-2023",
+   "path": "local/caras-severin/carbunari/2023/15",
+   "short": "HCL Cărbunari nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 15/2023 privind ALEGERE PRESEDINTE DE SEDINTA",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104424",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-16-2023",
+   "path": "local/caras-severin/carbunari/2023/16",
+   "short": "HCL Cărbunari nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 16/2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104425",
+   "versions": [
+    {
+     "from": "2023-05-19",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-17-2023",
+   "path": "local/caras-severin/carbunari/2023/17",
+   "short": "HCL Cărbunari nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 17/2023 privind -APROBAREA CONTULUI ANUAL DE EXECUTIE AL BUGETULUI LOCAL PE ANUL 2022",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/104426",
+   "versions": [
+    {
+     "from": "2023-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104426",
      "sha256": null
     }
    ]
@@ -133,6 +208,21 @@
      "from": "2023-05-12",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/104430",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-22-2023",
+   "path": "local/caras-severin/carbunari/2023/22",
+   "short": "HCL Cărbunari nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 22/2023 privind modificarea componenței nominale a Comisiei de Specialitate Nr.3",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/107706",
+   "versions": [
+    {
+     "from": "2023-06-06",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/107706",
      "sha256": null
     }
    ]
@@ -228,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--carbunari-29-2023",
+   "path": "local/caras-severin/carbunari/2023/29",
+   "short": "HCL Cărbunari nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 29/2023 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/119838",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/119838",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-3-2023",
    "path": "local/caras-severin/carbunari/2023/3",
    "short": "HCL Cărbunari nr. 3/2023",
@@ -253,6 +358,21 @@
      "from": "2023-09-11",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/119839",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-31-2023",
+   "path": "local/caras-severin/carbunari/2023/31",
+   "short": "HCL Cărbunari nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 31/2023 privind desemnarea reprezentantului in Consiliul de Administratie al Scolii Gimnaziale Carbunari",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/119840",
+   "versions": [
+    {
+     "from": "2023-09-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/119840",
      "sha256": null
     }
    ]
@@ -598,6 +718,21 @@
      "from": "2023-02-02",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-7-2023",
+   "path": "local/caras-severin/carbunari/2023/7",
+   "short": "HCL Cărbunari nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 7/2023",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/88586",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/88586",
      "sha256": null
     }
    ]

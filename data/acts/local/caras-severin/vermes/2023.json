@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--vermes-2-2023",
+"path": "local/caras-severin/vermes/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 2/2023 privind aprobarea bugetului comunei Vermeş pe anul 2023",
+"short": "HCL Vermeș nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/106148",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--vermes-3-2023",
 "path": "local/caras-severin/vermes/2023/3",
 "kind": "local",
@@ -44,6 +66,28 @@
 "council_name": "Consiliul Local al Comunei Vermeș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-4-2023",
+"path": "local/caras-severin/vermes/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 4/2023 privind alegerea preşedintelui de şedinţă pe lunile martie, aprilie și mai 2023",
+"short": "HCL Vermeș nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-09",
+"latest": "2023-03-09",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/106150",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -399,6 +443,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--vermes-21-2023",
+"path": "local/caras-severin/vermes/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 21/2023 privind alegerea preşedintelui de şedinţă pe lunile iunie, iulie și august 2023",
+"short": "HCL Vermeș nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-12",
+"latest": "2023-05-12",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/111228",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--vermes-22-2023",
 "path": "local/caras-severin/vermes/2023/22",
 "kind": "local",
@@ -484,6 +550,50 @@
 "council_name": "Consiliul Local al Comunei Vermeș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-26-2023",
+"path": "local/caras-severin/vermes/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 26/2023 privind alegerea preşedintelui de şedinţă petru data de 26 iunie 2023",
+"short": "HCL Vermeș nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/125409",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-27-2023",
+"path": "local/caras-severin/vermes/2023/27",
+"kind": "local",
+"year": "2023",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 27/2023 privind aprobarea unei sume din bugetul comunei Vermeş, pentru organizarea tradiţionalei sărbători a localităţii „Ruga de la Izgar”, respectiv „Ruga de la Ersig” în perioada 15 - 16 august 2023",
+"short": "HCL Vermeș nr. 27/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/125410",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -616,6 +726,72 @@
 "council_name": "Consiliul Local al Comunei Vermeș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-34-2023",
+"path": "local/caras-severin/vermes/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 34/2023 privind alegerea preşedintelui de şedinţă pentru data de 24 august 2023",
+"short": "HCL Vermeș nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/167639",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-35-2023",
+"path": "local/caras-severin/vermes/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 35/2023 privind aderarea Comunei Vermeș la compartimentul de audit public intern din cadrul Filialei Județene Caraș-Severin a Asociației Comunelor din România",
+"short": "HCL Vermeș nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/167640",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--vermes-36-2023",
+"path": "local/caras-severin/vermes/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 36/2023 privind însușirea acordului de cooperare privind organizarea şi exercitarea activităţii de audit intern",
+"short": "HCL Vermeș nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/vermes-cs/registru-hcl/167641",
+"council": "caras-severin/vermes",
+"council_name": "Consiliul Local al Comunei Vermeș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

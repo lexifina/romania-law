@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/lupac/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--lupac-1-2025",
+   "path": "local/caras-severin/lupac/2025/1",
+   "short": "HCL Lupac nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 1/2025 privind alegerea preşedintelui de şedinţă pentru perioada ianuarie-martie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/193464",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/193464",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-10-2025",
    "path": "local/caras-severin/lupac/2025/10",
    "short": "HCL Lupac nr. 10/2025",
@@ -453,6 +468,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-20-2025",
+   "path": "local/caras-severin/lupac/2025/20",
+   "short": "HCL Lupac nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 20/2025 privind alegerea preşedintelui de şedinţă pentru perioada aprilie-iunie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/207154",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/207154",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-21-2025",
+   "path": "local/caras-severin/lupac/2025/21",
+   "short": "HCL Lupac nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 21/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/207155",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/207155",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-22-2025",
    "path": "local/caras-severin/lupac/2025/22",
    "short": "HCL Lupac nr. 22/2025",
@@ -493,6 +538,21 @@
      "from": "2025-05-13",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/207158",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-25-2025",
+   "path": "local/caras-severin/lupac/2025/25",
+   "short": "HCL Lupac nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 25/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/207159",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/207159",
      "sha256": null
     }
    ]
@@ -783,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-43-2025",
+   "path": "local/caras-severin/lupac/2025/43",
+   "short": "HCL Lupac nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 43/2025 privind alegerea preşedintelui de şedinţă pentru perioada iulie-septembrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230276",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230276",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-44-2025",
    "path": "local/caras-severin/lupac/2025/44",
    "short": "HCL Lupac nr. 44/2025",
@@ -873,6 +948,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-5-2025",
+   "path": "local/caras-severin/lupac/2025/5",
+   "short": "HCL Lupac nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 5/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/193468",
+   "versions": [
+    {
+     "from": "2025-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/193468",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-50-2025",
    "path": "local/caras-severin/lupac/2025/50",
    "short": "HCL Lupac nr. 50/2025",
@@ -918,6 +1008,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-53-2025",
+   "path": "local/caras-severin/lupac/2025/53",
+   "short": "HCL Lupac nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 53/2025 privind rezilierea contractului de închiriere nr. 1198/21.05.2024 încheiat între comuna Lupac şi Boieriu Nichita-Vasile",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230286",
+   "versions": [
+    {
+     "from": "2025-10-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-54-2025",
+   "path": "local/caras-severin/lupac/2025/54",
+   "short": "HCL Lupac nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 54/2025 privind alegerea preşedintelui de şedinţă pentru ședința ordinară din data de 07 august 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230528",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230528",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-55-2025",
    "path": "local/caras-severin/lupac/2025/55",
    "short": "HCL Lupac nr. 55/2025",
@@ -958,6 +1078,36 @@
      "from": "2025-10-21",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/230531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-58-2025",
+   "path": "local/caras-severin/lupac/2025/58",
+   "short": "HCL Lupac nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 58/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230532",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-59-2025",
+   "path": "local/caras-severin/lupac/2025/59",
+   "short": "HCL Lupac nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 59/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230533",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230533",
      "sha256": null
     }
    ]
@@ -1083,6 +1233,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-67-2025",
+   "path": "local/caras-severin/lupac/2025/67",
+   "short": "HCL Lupac nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 67/2025 privind aprobarea încheierii unui acord de parteneriat între Unitatea Administrativ Teritorială Comuna LUPAC și Asociația Sportivă Viitorul 2025 Lupac și Asociația Sportivă Viitorul Rafnic prin Consiliul Local Lupac pentru realizarea în comun a proiectelor si sprijinirea activității sportive la nivelul comunei Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230795",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-68-2025",
+   "path": "local/caras-severin/lupac/2025/68",
+   "short": "HCL Lupac nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 68/2025 privindalocarea sumei de 20.000 lei în vederea susţinerii din bugetul local pe parcursul anului 2025 a echipelor de fotbal Viitorul 2025 Lupac și Viitorul Rafnic",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230796",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-69-2025",
+   "path": "local/caras-severin/lupac/2025/69",
+   "short": "HCL Lupac nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 69/2025 privind alegerea preşedintelui de şedinţă pentru ședința de îndată din data de 09 septembrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/230806",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/230806",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-7-2025",
    "path": "local/caras-severin/lupac/2025/7",
    "short": "HCL Lupac nr. 7/2025",
@@ -1123,6 +1318,36 @@
      "from": "2025-10-24",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/231308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-72-2025",
+   "path": "local/caras-severin/lupac/2025/72",
+   "short": "HCL Lupac nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 72/2025 privind darea în administrare a imobilului înscris în CF 30635 Lupac, nr. cad. 30635 (Centrul de Informare Turistică) aflat în domeniul public al comunei Lupac către Școala Gimnazială Lupac",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/231309",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/231309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-73-2025",
+   "path": "local/caras-severin/lupac/2025/73",
+   "short": "HCL Lupac nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 73/2025 privind aprobarea încheierii unui acord de parteneriat între Unitatea Administrativ Teritorială Comuna Lupac și Uniunea Democrată a Croaților din România, pentru realizarea în comun a proiectelor din domeniile cultură, sport, administrație, educație și învățământ formal, nonformal și informal",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/231310",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/231310",
      "sha256": null
     }
    ]
@@ -1233,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-80-2025",
+   "path": "local/caras-severin/lupac/2025/80",
+   "short": "HCL Lupac nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 80/2025 privind aprobarea documentației de concesionare prin licitație a terenului proprietate privată a comunei Lupac înscris în CF nr. 33665 Lupac, nr. cad.33665 , în suprafață de 860 mp, în vederea edificării unei case familiale",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/231317",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/231317",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-81-2025",
    "path": "local/caras-severin/lupac/2025/81",
    "short": "HCL Lupac nr. 81/2025",
@@ -1278,6 +1518,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--lupac-84-2025",
+   "path": "local/caras-severin/lupac/2025/84",
+   "short": "HCL Lupac nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 84/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/231321",
+   "versions": [
+    {
+     "from": "2025-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/231321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-85-2025",
+   "path": "local/caras-severin/lupac/2025/85",
+   "short": "HCL Lupac nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 85/2025 privind alegerea preşedintelui de şedinţă pentru ședința de îndată din data de 08 octombrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/231489",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/231489",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--lupac-86-2025",
    "path": "local/caras-severin/lupac/2025/86",
    "short": "HCL Lupac nr. 86/2025",
@@ -1288,6 +1558,51 @@
      "from": "2025-10-27",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/231490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-87-2025",
+   "path": "local/caras-severin/lupac/2025/87",
+   "short": "HCL Lupac nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 87/2025 privind alegerea preşedintelui de şedinţă pentru perioada octombrie-decembrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238045",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-88-2025",
+   "path": "local/caras-severin/lupac/2025/88",
+   "short": "HCL Lupac nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 88/2025 privind aprobarea procesului-verbal din data de 18 septembrie 2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238046",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-89-2025",
+   "path": "local/caras-severin/lupac/2025/89",
+   "short": "HCL Lupac nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 89/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238047",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238047",
      "sha256": null
     }
    ]
@@ -1348,6 +1663,21 @@
      "from": "2025-11-28",
      "units": 1,
      "source_url": "https://emol.ro/lupac-cs/registru-hcl/238050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--lupac-93-2025",
+   "path": "local/caras-severin/lupac/2025/93",
+   "short": "HCL Lupac nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Lupac nr. 93/2025",
+   "url": "https://emol.ro/lupac-cs/registru-hcl/238051",
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "units": 1,
+     "source_url": "https://emol.ro/lupac-cs/registru-hcl/238051",
      "sha256": null
     }
    ]

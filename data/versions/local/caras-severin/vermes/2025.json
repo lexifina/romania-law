@@ -3,6 +3,51 @@
  "shard": "local/caras-severin/vermes/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--vermes-1-2025",
+   "path": "local/caras-severin/vermes/2025/1",
+   "short": "HCL Vermeș nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 1/2025 privind aprobarea utilizării excedentului bugetar pe anul 2024",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207199",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207199",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-10-2025",
+   "path": "local/caras-severin/vermes/2025/10",
+   "short": "HCL Vermeș nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 10/2025 privind rectificarea bugetului comunei Vermeş pe anul 2025",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207243",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-11-2025",
+   "path": "local/caras-severin/vermes/2025/11",
+   "short": "HCL Vermeș nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 11/2025 privind aprobarea contului de încheiere a exerciţiului bugetar al comunei Vermeş, pe anul 2024",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207244",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207244",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--vermes-12-2025",
    "path": "local/caras-severin/vermes/2025/12",
    "short": "HCL Vermeș nr. 12/2025",
@@ -118,6 +163,21 @@
      "from": "2026-04-29",
      "units": 1,
      "source_url": "https://emol.ro/vermes-cs/registru-hcl/265135",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-2-2025",
+   "path": "local/caras-severin/vermes/2025/2",
+   "short": "HCL Vermeș nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 2/2025",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207218",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207218",
      "sha256": null
     }
    ]
@@ -273,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--vermes-3-2025",
+   "path": "local/caras-severin/vermes/2025/3",
+   "short": "HCL Vermeș nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 3/2025 privind dizolvarea, lichidarea și radierea „Societății Comerciale Spații Verzi Vermeș, Caraș-Severin S.R.L.”",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207219",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207219",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--vermes-30-2025",
    "path": "local/caras-severin/vermes/2025/30",
    "short": "HCL Vermeș nr. 30/2025",
@@ -303,6 +378,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--vermes-4-2025",
+   "path": "local/caras-severin/vermes/2025/4",
+   "short": "HCL Vermeș nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 4/2025 privind modificarea şi completarea Hotărârii Consiliului Local. nr. 1/2025 - privind aprobarea utilizării excedentului bugetar pe anul 2024",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207220",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-5-2025",
+   "path": "local/caras-severin/vermes/2025/5",
+   "short": "HCL Vermeș nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 5/2025 privind aprobarea bugetului comunei Vermeș pe anul 2025",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207221",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207221",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--vermes-6-2025",
    "path": "local/caras-severin/vermes/2025/6",
    "short": "HCL Vermeș nr. 6/2025",
@@ -313,6 +418,51 @@
      "from": "2025-05-13",
      "units": 1,
      "source_url": "https://emol.ro/vermes-cs/registru-hcl/207222",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-7-2025",
+   "path": "local/caras-severin/vermes/2025/7",
+   "short": "HCL Vermeș nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 7/2025 privind aprobarea numărului de asistenţi personali pentru persoanele cu handicap grav, precum şi a persoanelor cu indemnizaţiei de însoțitor pentru anul 2025, la nivelul comunei Vermeş, judeţul Caraş-Severin",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207224",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207224",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-8-2025",
+   "path": "local/caras-severin/vermes/2025/8",
+   "short": "HCL Vermeș nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 8/2025 privind actualizarea prețului chiriei pajistilor aflate în proprietatea privata a comunei Vermeş, închiriate in anul 2023",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207226",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207226",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--vermes-9-2025",
+   "path": "local/caras-severin/vermes/2025/9",
+   "short": "HCL Vermeș nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Vermeș nr. 9/2025 privind alegerea președintelui de ședință pe lunile aprilie, mai și iunie 2025",
+   "url": "https://emol.ro/vermes-cs/registru-hcl/207242",
+   "versions": [
+    {
+     "from": "2025-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/vermes-cs/registru-hcl/207242",
      "sha256": null
     }
    ]

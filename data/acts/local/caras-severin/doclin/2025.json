@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-2-2025",
+"path": "local/caras-severin/doclin/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 2/2025 privind constituirea Comisiilor de specialitate ale Consiliului local al comunei Doclin",
+"short": "HCL Doclin nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/188029",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-3-2025",
 "path": "local/caras-severin/doclin/2025/3",
 "kind": "local",
@@ -44,6 +66,29 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-4-2025",
+"path": "local/caras-severin/doclin/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 4/2025",
+"short": "HCL Doclin nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/188031",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -67,6 +112,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-6-2025",
+"path": "local/caras-severin/doclin/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 6/2025 privind aprobarea numarului de salariati asistenti personali ai persoanelor cu handicap si indemnizatii pentru persoanele cu handicap pentru anul 2025",
+"short": "HCL Doclin nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-03",
+"latest": "2025-02-03",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/188033",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +269,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-13-2025",
+"path": "local/caras-severin/doclin/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 13/2025 privind aprobarea inchirierii prin licitatie publică a pajiștilor rămase neatribuite si disponibile in urma rezilierii unor contracte",
+"short": "HCL Doclin nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-03-10",
+"latest": "2025-03-10",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/194483",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-14-2025",
 "path": "local/caras-severin/doclin/2025/14",
 "kind": "local",
@@ -313,6 +402,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-19-2025",
+"path": "local/caras-severin/doclin/2025/19",
+"kind": "local",
+"year": "2025",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 19/2025",
+"short": "HCL Doclin nr. 19/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-23",
+"latest": "2025-04-23",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/202846",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-20-2025",
 "path": "local/caras-severin/doclin/2025/20",
 "kind": "local",
@@ -354,6 +466,28 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-22-2025",
+"path": "local/caras-severin/doclin/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 22/2025 privind constituirea Comisiilor de specialitate ale Consiliului local al comunei Doclin",
+"short": "HCL Doclin nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-15",
+"latest": "2025-05-15",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/206163",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -445,6 +579,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-27-2025",
+"path": "local/caras-severin/doclin/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 27/2025 privind aprobarea Regulamentului privind acordarea voucherelor de vacanță personalului din cadrul aparatului de specialitate al primarului comunei Doclin, pentru anul 2025",
+"short": "HCL Doclin nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-24",
+"latest": "2025-06-24",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/211497",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-28-2025",
 "path": "local/caras-severin/doclin/2025/28",
 "kind": "local",
@@ -512,6 +668,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-31-2025",
+"path": "local/caras-severin/doclin/2025/31",
+"kind": "local",
+"year": "2025",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 31/2025 privind aprobarea modificarii organigramei și a statului de funcții pentru aparatul de specialitate al primarului comunei Doclin, Judeţul Caraş Severin",
+"short": "HCL Doclin nr. 31/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/217682",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-32-2025",
+"path": "local/caras-severin/doclin/2025/32",
+"kind": "local",
+"year": "2025",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 32/2025 privind constituirea Asociaţiei de Dezvoltare Intercomunitară GAZ FOROTIC-DOCLIN, judeţul Caraş-Severin",
+"short": "HCL Doclin nr. 32/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/217683",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-33-2025",
 "path": "local/caras-severin/doclin/2025/33",
 "kind": "local",
@@ -531,6 +731,28 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-34-2025",
+"path": "local/caras-severin/doclin/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 34/2025 Privind încetarea contractului de închiriere nr.1738/2024 si diminuarea unei suprafete de paşune din contractul de inchirire nr. 7/2022",
+"short": "HCL Doclin nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-06",
+"latest": "2025-08-06",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/217685",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

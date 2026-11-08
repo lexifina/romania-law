@@ -157,6 +157,116 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-8-2023",
+"path": "local/caras-severin/doclin/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 8/2023 privind stabilirea unor măsuri fiscale",
+"short": "HCL Doclin nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/98594",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-9-2023",
+"path": "local/caras-severin/doclin/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 9/2023 privind aprobarea participării Comunei Doclin, Judeţul Caraş – Severin la Parteneriatul LEADER cu denumirea ”Pareneriat Public-Privat al (G.A.L.) Asociaţiei Timiş Torontal Bârzava”",
+"short": "HCL Doclin nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/98595",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-10-2023",
+"path": "local/caras-severin/doclin/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 10/2023 privind implementarea proiectului \"Achiziţie utilaj, sat Doclin, comuna Doclin, judeţ Caraş - Severin\"",
+"short": "HCL Doclin nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/98596",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-11-2023",
+"path": "local/caras-severin/doclin/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 11/2023 privind organizarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat şi particular, pe raza comunei Doclin, pentru anul şcolar 2023 – 2024",
+"short": "HCL Doclin nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/99999",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-12-2023",
+"path": "local/caras-severin/doclin/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 12/2023 privind implementarea proiectului \"Achiziţie utilaj, sat Doclin, comuna Doclin, judeţ Caraş - Severin\"",
+"short": "HCL Doclin nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-26",
+"latest": "2023-04-26",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/100000",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-13-2023",
 "path": "local/caras-severin/doclin/2023/13",
 "kind": "local",
@@ -201,6 +311,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--doclin-15-2023",
+"path": "local/caras-severin/doclin/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 15/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+"short": "HCL Doclin nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/105114",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--doclin-16-2023",
 "path": "local/caras-severin/doclin/2023/16",
 "kind": "local",
@@ -220,6 +352,116 @@
 "council_name": "Consiliul Local al Comunei Doclin",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-17-2023",
+"path": "local/caras-severin/doclin/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 17/2023 privind rectificarea bugetului de venituri şi cheltuieli al Comunei Doclin pe anul 2023",
+"short": "HCL Doclin nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/110442",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-18-2023",
+"path": "local/caras-severin/doclin/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 18/2023 privind privind aprobarea Nomenclatorului stradal al Comunei Doclin, județul Caraș - Severin",
+"short": "HCL Doclin nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/110443",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-19-2023",
+"path": "local/caras-severin/doclin/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 19/2023 privind aprobarea delegarii dreptului de depunere a aplicației de finanțare către U.A.T.Județul Caras-Severin si a Acordului de Parteneriat pentru proiectul „MICROBUZE ELECTRICE PENTRU ELEVII JUDEȚULUI CARAS-SEVERIN”, în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență – Componenta C15: Educație",
+"short": "HCL Doclin nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/110444",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-20-2023",
+"path": "local/caras-severin/doclin/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 20/2023 privind aprobarea unei sume din bugetul comunei Doclin, pentru organizarea tradiţionalei sărbători a localităţii „Ruga de la Biniş” în data de 29.06. 2023",
+"short": "HCL Doclin nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-04",
+"latest": "2023-07-04",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/110445",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--doclin-21-2023",
+"path": "local/caras-severin/doclin/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Doclin nr. 21/2023 privind implementarea proiectului \"Achiziţie utilaj, sat Doclin, comuna Doclin, judeţ Caraş - Severin\"",
+"short": "HCL Doclin nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-03",
+"latest": "2023-08-03",
+"portal": "https://emol.ro/doclin-cs/registru-hcl/113117",
+"council": "caras-severin/doclin",
+"council_name": "Consiliul Local al Comunei Doclin",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

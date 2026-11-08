@@ -48,6 +48,36 @@
    ]
   },
   {
+   "slug": "hcl-cluj--calarasi-12-2024",
+   "path": "local/cluj/calarasi/2024/12",
+   "short": "HCL Călărași nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 12/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/149742",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/149742",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-13-2024",
+   "path": "local/cluj/calarasi/2024/13",
+   "short": "HCL Călărași nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 13/2024 privind aprobarea planului anual de pregătire profesională a aparatului de specialitate al primarului comunei Călărași",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/149743",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/149743",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--calarasi-14-2024",
    "path": "local/cluj/calarasi/2024/14",
    "short": "HCL Călărași nr. 14/2024",
@@ -58,6 +88,21 @@
      "from": "2024-03-29",
      "units": 1,
      "source_url": "https://emol.ro/calarasi-cj/registru-hcl/149744",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-15-2024",
+   "path": "local/cluj/calarasi/2024/15",
+   "short": "HCL Călărași nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 15/2024 privind aprobarea participării UAT CĂLĂRAȘI la inființarea ASOCIAȚIEI PENTRU PROMOVAREA GASTRONOMIEI, CULTURII ȘI TRADIȚIILOR TRANSILVANE",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/149745",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/149745",
      "sha256": null
     }
    ]
@@ -93,6 +138,66 @@
    ]
   },
   {
+   "slug": "hcl-cluj--calarasi-18-2024",
+   "path": "local/cluj/calarasi/2024/18",
+   "short": "HCL Călărași nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 18/2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/153007",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/153007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-19-2024",
+   "path": "local/cluj/calarasi/2024/19",
+   "short": "HCL Călărași nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 19/2024 privind rectificarea bugetului local de venituri și cheltuieli, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/153008",
+   "versions": [
+    {
+     "from": "2024-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/153008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-2-2024",
+   "path": "local/cluj/calarasi/2024/2",
+   "short": "HCL Călărași nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 2/2024 privind aprobarea raportului privind activitatea desfașurată de catre asistenții personali din Primăria Comunei Călăraşi, in semestrul II al anului 2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/138726",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/138726",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-20-2024",
+   "path": "local/cluj/calarasi/2024/20",
+   "short": "HCL Călărași nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 20/2024 privind aprobarea execuției de venituri și cheltuieli la trim.I, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/154836",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/154836",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-cluj--calarasi-21-2024",
    "path": "local/cluj/calarasi/2024/21",
    "short": "HCL Călărași nr. 21/2024",
@@ -103,6 +208,186 @@
      "from": "2024-05-30",
      "units": 1,
      "source_url": "https://emol.ro/calarasi-cj/registru-hcl/156940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-22-2024",
+   "path": "local/cluj/calarasi/2024/22",
+   "short": "HCL Călărași nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 22/2024 privind acordul Consiliului Local Călărași, județul Cluj, in calitate de administrator al domeniului public și privat al comunei Călărași, pentru deschidere acces la strada localității, amplasare racorduri și branșamente noi pentru casă unifamilială situată in Călărași-Gară, FN, comuna Călărași, județul Cluj",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/156941",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/156941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-23-2024",
+   "path": "local/cluj/calarasi/2024/23",
+   "short": "HCL Călărași nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 23/2024 privind acordul Consiliului Local Călărași, județul Cluj, in calitate de administrator al domeniului public și privat al comunei Călărași, pentru modernizare drumuri de interes local strada Căminului, Primăverii și Tineretului parțial din satul Bogata, comuna Călărași, județul Cluj",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/156942",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/156942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-24-2024",
+   "path": "local/cluj/calarasi/2024/24",
+   "short": "HCL Călărași nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 24/2024 privind însușirea Acordului de cooperare privind organizarea şi funcționarea serviciului audit public intern",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/156943",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/156943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-25-2024",
+   "path": "local/cluj/calarasi/2024/25",
+   "short": "HCL Călărași nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 25/2024 privind aprobarea program anual de finanțare din bugetul local pentru culte religioase și asociații, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/156944",
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/156944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-26-2024",
+   "path": "local/cluj/calarasi/2024/26",
+   "short": "HCL Călărași nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 26/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/159643",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/159643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-27-2024",
+   "path": "local/cluj/calarasi/2024/27",
+   "short": "HCL Călărași nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 27/2024 privind rectificarea bugetului local de venituri și cheltuieli, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/159644",
+   "versions": [
+    {
+     "from": "2024-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/159644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-28-2024",
+   "path": "local/cluj/calarasi/2024/28",
+   "short": "HCL Călărași nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 28/2024 privind rectificarea bugetului local de venituri și cheltuieli, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/162683",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/162683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-29-2024",
+   "path": "local/cluj/calarasi/2024/29",
+   "short": "HCL Călărași nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 29/2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/162684",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/162684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-3-2024",
+   "path": "local/cluj/calarasi/2024/3",
+   "short": "HCL Călărași nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 3/2024 privind aprobarea utilizării excedentului rezultat din exercițiul financiar din anii anteriori pentru acoperirea deficitului secțiunii de dezvoltare, pentru acoperirea temporară a golurilor de casă, respectiv pentru finanțarea cheltuielilor secțiunii de dezvoltare",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/138727",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/138727",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-30-2024",
+   "path": "local/cluj/calarasi/2024/30",
+   "short": "HCL Călărași nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 30/2024 privind aprobarea raportului privind activitatea desfașurată de catre asistenții personali din Primăria Comunei Călăraşi, in semestrul I al anului 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/163244",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/163244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-31-2024",
+   "path": "local/cluj/calarasi/2024/31",
+   "short": "HCL Călărași nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 31/2024 privind aprobarea execuției de venituri și cheltuieli la trim.II, an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/163245",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/163245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-32-2024",
+   "path": "local/cluj/calarasi/2024/32",
+   "short": "HCL Călărași nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 32/2024 privind acordul Consiliului Local Călărași, județul Cluj, in calitate de administrator al domeniului public și privat al comunei Călărași, pentru construire locuință unifamilială, anexa gospodărească, amenajări exterioare, imprejmuire, racorduri și branșamente situată in localitatea Călărași-Gară, FN, comuna Călărași, județul Cluj",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/163246",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/163246",
      "sha256": null
     }
    ]
@@ -208,6 +493,21 @@
      "from": "2024-10-10",
      "units": 1,
      "source_url": "https://emol.ro/calarasi-cj/registru-hcl/172389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-4-2024",
+   "path": "local/cluj/calarasi/2024/4",
+   "short": "HCL Călărași nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 4/2024 privind aprobarea planului de achiziții publice an 2024",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/138728",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/138728",
      "sha256": null
     }
    ]
@@ -418,6 +718,66 @@
      "from": "2024-12-30",
      "units": 1,
      "source_url": "https://emol.ro/calarasi-cj/registru-hcl/182976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-6-2024",
+   "path": "local/cluj/calarasi/2024/6",
+   "short": "HCL Călărași nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 6/2024 privind aprobarea exercițiului financiar la 31.12.2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/142105",
+   "versions": [
+    {
+     "from": "2024-02-09",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/142105",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-7-2024",
+   "path": "local/cluj/calarasi/2024/7",
+   "short": "HCL Călărași nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 7/2024 privind aprobarea inventarului domeniului public și privat la 31.12.2023",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/145529",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/145529",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-8-2024",
+   "path": "local/cluj/calarasi/2024/8",
+   "short": "HCL Călărași nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 8/2024 privind aprobarea incheierii unui acord de parteneriat intre comuna Călărași și asociatia “EcoAssist” București având ca obiect impădurire teren in comuna Călărași-acțiune ce face parte din inițiativa națională de impădurire pe baza de voluntariat “Plantăm fapte bune in România”",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/145530",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/145530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-cluj--calarasi-9-2024",
+   "path": "local/cluj/calarasi/2024/9",
+   "short": "HCL Călărași nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Călărași nr. 9/2024 privind constituirea Structurii Comunitare Consultative a comunei Călărași, judeţul Cluj",
+   "url": "https://emol.ro/calarasi-cj/registru-hcl/145531",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/calarasi-cj/registru-hcl/145531",
      "sha256": null
     }
    ]

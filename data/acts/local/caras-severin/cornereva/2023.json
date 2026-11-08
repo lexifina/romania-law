@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/cornereva/2023",
 "acts": [
 {
+"slug": "hcl-caras-severin--cornereva-1-2023",
+"path": "local/caras-severin/cornereva/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 1/2023 privind alegerea președintelui de ședință pe o perioadă de 3 luni",
+"short": "HCL Cornereva nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/109838",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--cornereva-2-2023",
 "path": "local/caras-severin/cornereva/2023/2",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Cornereva",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-6-2023",
+"path": "local/caras-severin/cornereva/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 6/2023 privind aprobarea documentației de atribuire privind delegarea prin concesionare a serviciului public ADI",
+"short": "HCL Cornereva nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-21",
+"latest": "2023-06-21",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/109870",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--cornereva-16-2023",
+"path": "local/caras-severin/cornereva/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 16/2023 privind alegere președinte de ședință",
+"short": "HCL Cornereva nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/111121",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--cornereva-17-2023",
 "path": "local/caras-severin/cornereva/2023/17",
 "kind": "local",
@@ -331,6 +397,28 @@
 "council_name": "Consiliul Local al Comunei Cornereva",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-19-2023",
+"path": "local/caras-severin/cornereva/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 19/2023 privind prezentarea Raportului anual al Primarului pe anul 2022",
+"short": "HCL Cornereva nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-29",
+"latest": "2023-06-29",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/111124",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -533,6 +621,72 @@
 }
 },
 {
+"slug": "hcl-caras-severin--cornereva-29-2023",
+"path": "local/caras-severin/cornereva/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 29/2023 privind alegere presedinte de sedinta",
+"short": "HCL Cornereva nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/113552",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-30-2023",
+"path": "local/caras-severin/cornereva/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 30/2023 privind prelungire scrisoare de garantie nr. 301/28.06.2018",
+"short": "HCL Cornereva nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/113553",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-31-2023",
+"path": "local/caras-severin/cornereva/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 31/2023 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2023",
+"short": "HCL Cornereva nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/113554",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--cornereva-32-2023",
 "path": "local/caras-severin/cornereva/2023/32",
 "kind": "local",
@@ -662,6 +816,50 @@
 "council_name": "Consiliul Local al Comunei Cornereva",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-38-2023",
+"path": "local/caras-severin/cornereva/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 38/2023 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 716/10.10.2017 de la FNGCIMM SA IFN in valoare de 484.000,00 lei in vederea garantării obligațiilor de plata a avansului de 484.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Reabilitarea, modernizarea, extinderea și dotarea Școlii profesionale agricole din localitatea Bogâltin, Comuna Cornereva, județul Caraș - Severin .”",
+"short": "HCL Cornereva nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/123563",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--cornereva-39-2023",
+"path": "local/caras-severin/cornereva/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 39/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Cornereva nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/cornereva-cs/registru-hcl/127145",
+"council": "caras-severin/cornereva",
+"council_name": "Consiliul Local al Comunei Cornereva",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

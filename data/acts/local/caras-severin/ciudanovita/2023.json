@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/ciudanovita/2023",
 "acts": [
 {
+"slug": "hcl-caras-severin--ciudanovita-1-2023",
+"path": "local/caras-severin/ciudanovita/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 1/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-30",
+"latest": "2023-01-30",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/97716",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-2-2023",
 "path": "local/caras-severin/ciudanovita/2023/2",
 "kind": "local",
@@ -136,6 +158,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-8-2023",
+"path": "local/caras-severin/ciudanovita/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 8/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/97756",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-9-2023",
 "path": "local/caras-severin/ciudanovita/2023/9",
 "kind": "local",
@@ -180,6 +224,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-11-2023",
+"path": "local/caras-severin/ciudanovita/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 11/2023 privind aprobarea documentatiei de atribuire privind licitatia publica de delegare prin concesionare a serviciului public de colectare si transport a deseurilor municipale precum si acordarea mandatului special Asociatiei de Dezvoltare Intercomunitara,,INTERCOM DESEURI,,Caras Severin de a organiza licitatia privind atribuirea serviciului de colectare si transport zona 4 Oravita",
+"short": "HCL Ciudanovița nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-27",
+"latest": "2023-02-27",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/97761",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-12-2023",
 "path": "local/caras-severin/ciudanovita/2023/12",
 "kind": "local",
@@ -199,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-13-2023",
+"path": "local/caras-severin/ciudanovita/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 13/2023 privind alegerea presedintelui de sedinta",
+"short": "HCL Ciudanovița nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-29",
+"latest": "2023-03-29",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/98863",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -400,6 +488,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-31-2023",
+"path": "local/caras-severin/ciudanovita/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 31/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-31",
+"latest": "2023-05-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187400",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-32-2023",
 "path": "local/caras-severin/ciudanovita/2023/32",
 "kind": "local",
@@ -422,6 +532,402 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-33-2023",
+"path": "local/caras-severin/ciudanovita/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 33/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187489",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-34-2023",
+"path": "local/caras-severin/ciudanovita/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 34/2023 privind achiziționarea unei drujbe și a unei motocoase pentru Școala Gimnazială Ciudanovița, comuna Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187490",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-35-2023",
+"path": "local/caras-severin/ciudanovita/2023/35",
+"kind": "local",
+"year": "2023",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 35/2023 privind achiziționarea serviciilor de întocmire nomenclatură stradală RENNS",
+"short": "HCL Ciudanovița nr. 35/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187491",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-36-2023",
+"path": "local/caras-severin/ciudanovita/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 36/2023 privind aderarea UAT Comuna Ciudanovița la compartimentul de audit public intern din cadrul Filialei Județene Caraș-Severin a Asociației Comunelor din România",
+"short": "HCL Ciudanovița nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187492",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-37-2023",
+"path": "local/caras-severin/ciudanovita/2023/37",
+"kind": "local",
+"year": "2023",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 37/2023 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de audit intern",
+"short": "HCL Ciudanovița nr. 37/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-22",
+"latest": "2023-06-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187493",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-38-2023",
+"path": "local/caras-severin/ciudanovita/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 38/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187503",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-39-2023",
+"path": "local/caras-severin/ciudanovita/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 39/2023 privind rectificarea bugetului",
+"short": "HCL Ciudanovița nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187504",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-40-2023",
+"path": "local/caras-severin/ciudanovita/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 40/2023 privind amenajare stație parcare vehicule electrice Ciudanovița, comuna Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187505",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-41-2023",
+"path": "local/caras-severin/ciudanovita/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 41/2023 privind alocarea sumei de 15.000 lei inclusiv tva pentru organizarea de activități culturale prilejuite de nedeile comunei Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187506",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-42-2023",
+"path": "local/caras-severin/ciudanovita/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 42/2023 privind aprobarea majorării sprijinului financiar acordat de către UAT Comuna Ciudanovița în calitate de membru cotizant al Societății Naționale de Cruce Roșie din România Filiala județului Caraș-Severin",
+"short": "HCL Ciudanovița nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187507",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-43-2023",
+"path": "local/caras-severin/ciudanovita/2023/43",
+"kind": "local",
+"year": "2023",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 43/2023 privind alocarea sumei de 25.000 lei inclusiv tva în vederea efectuării lucrărilor de betonare trotuar din centrul satului Ciudanovița, comuna Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 43/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-20",
+"latest": "2023-07-20",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187508",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-44-2023",
+"path": "local/caras-severin/ciudanovita/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 44/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187525",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-45-2023",
+"path": "local/caras-severin/ciudanovita/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 45/2023 privind aprobarea contului de executie al exercitiului bugetar la 30 iunie 2023",
+"short": "HCL Ciudanovița nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187526",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-46-2023",
+"path": "local/caras-severin/ciudanovita/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 46/2023 privind rectificarea bugetului local al Comunei Ciudanovița pe anul 2023",
+"short": "HCL Ciudanovița nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187527",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-47-2023",
+"path": "local/caras-severin/ciudanovita/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 47/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru aferente Programului pentru școli al României în perioada 2023-2029",
+"short": "HCL Ciudanovița nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187528",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-48-2023",
+"path": "local/caras-severin/ciudanovita/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 48/2023 privind aprobare sumă execuție lucrări de vopsitorie a gardului de imprejmuire a terenului de sport situat în localitatea Jitin, comuna Ciudanovița, județul Caraș-Severin",
+"short": "HCL Ciudanovița nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187529",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-49-2023",
+"path": "local/caras-severin/ciudanovita/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 49/2023 privind aprobarea sumelor pentru reparații ale blocurilor 2, A, B, C, D, E, 12, 15, 20, 21 în urma pagubelor produse de fenomenele hidrometeorologice periculoase pe raza UAT Comuna Ciudanovița în perioada 13-14.07.2023",
+"short": "HCL Ciudanovița nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187530",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-50-2023",
+"path": "local/caras-severin/ciudanovita/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 50/2023 privind aprobarea și însușirea raportului de evaluare privind estimarea veniturilor obținute din masa verde și a cheltuielilor privind implementare Amenajament Pastoral",
+"short": "HCL Ciudanovița nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187531",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-51-2023",
 "path": "local/caras-severin/ciudanovita/2023/51",
 "kind": "local",
@@ -441,6 +947,94 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-52-2023",
+"path": "local/caras-severin/ciudanovita/2023/52",
+"kind": "local",
+"year": "2023",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 52/2023 privind aprobarea documentației cadastrale de alipire și aprobare a efectuării operațiunilor notariale de alipire a două imobile aparținând domeniului public al comunei Ciudanovița, situate în localitatea Ciudanovița, comuna Ciudanovița, judetul Caraș-Severin, cu actualizarea datelor de carte funciara",
+"short": "HCL Ciudanovița nr. 52/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187533",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-53-2023",
+"path": "local/caras-severin/ciudanovita/2023/53",
+"kind": "local",
+"year": "2023",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 53/2023 privind stabilirea zonelor de depozitare temporară pentru deșeurile inerte provenite din activitatea de construcții, deșeuri voluminoase, deșeuri de echipamente electrice și electronice (DEEE-uri), deșeuri baterii și acumulatori, textile, lemn, deșeuri biodegradabile",
+"short": "HCL Ciudanovița nr. 53/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187534",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-54-2023",
+"path": "local/caras-severin/ciudanovita/2023/54",
+"kind": "local",
+"year": "2023",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 54/2023 privind aprobarea și însușirea de către Consiliul Local Ciudanovița a prevederilor OUG 92/2021 modificată și completată art. 17, art. 30, art. 33, art.49, art. 60 și a planului de măsuri de gospodărire a deșeurilor pe raza comunei Ciudanovița",
+"short": "HCL Ciudanovița nr. 54/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-31",
+"latest": "2023-08-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187535",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-55-2023",
+"path": "local/caras-severin/ciudanovita/2023/55",
+"kind": "local",
+"year": "2023",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 55/2023 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 55/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-19",
+"latest": "2023-09-19",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/187558",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

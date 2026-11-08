@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/carbunari/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--carbunari-1-2025",
+   "path": "local/caras-severin/carbunari/2025/1",
+   "short": "HCL Cărbunari nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 1/2025 privind alegere președinte de sedință",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/200445",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/200445",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--carbunari-10-2025",
    "path": "local/caras-severin/carbunari/2025/10",
    "short": "HCL Cărbunari nr. 10/2025",
@@ -148,6 +163,21 @@
      "from": "2025-10-30",
      "units": 1,
      "source_url": "https://emol.ro/carbunari-cs/registru-hcl/232396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--carbunari-2-2025",
+   "path": "local/caras-severin/carbunari/2025/2",
+   "short": "HCL Cărbunari nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 2/2025 privind alegere presedinte de sedinta",
+   "url": "https://emol.ro/carbunari-cs/registru-hcl/200862",
+   "versions": [
+    {
+     "from": "2025-04-01",
+     "units": 1,
+     "source_url": "https://emol.ro/carbunari-cs/registru-hcl/200862",
      "sha256": null
     }
    ]

@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/pojejena/2020",
  "acts": [
   {
+   "slug": "hcl-caras-severin--pojejena-1-2020",
+   "path": "local/caras-severin/pojejena/2020/1",
+   "short": "HCL Pojejena nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 1/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/3096",
+   "versions": [
+    {
+     "from": "2020-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/3096",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-10-2020",
    "path": "local/caras-severin/pojejena/2020/10",
    "short": "HCL Pojejena nr. 10/2020",
@@ -43,6 +58,21 @@
      "from": "2020-03-25",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/7631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-13-2020",
+   "path": "local/caras-severin/pojejena/2020/13",
+   "short": "HCL Pojejena nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 13/2020 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/7632",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/7632",
      "sha256": null
     }
    ]
@@ -148,6 +178,21 @@
      "from": "2020-01-28",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/3092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-20-2020",
+   "path": "local/caras-severin/pojejena/2020/20",
+   "short": "HCL Pojejena nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 20/2020 privind aprobarea recoltarii,unui volum maxim admis de 976 m.c care se va exploata din padurea Comunei Pojejena,a modului de valorificare si a metodologiei de calcul a preturilor de vanzare pentru masa lemnoasa pe picior",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/7639",
+   "versions": [
+    {
+     "from": "2020-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/7639",
      "sha256": null
     }
    ]
@@ -303,6 +348,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--pojejena-30-2020",
+   "path": "local/caras-severin/pojejena/2020/30",
+   "short": "HCL Pojejena nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 30/2020 privind aprobarea acordarii unui sprijin financiar Bisericii Ortodoxe Susca",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/15847",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-31-2020",
+   "path": "local/caras-severin/pojejena/2020/31",
+   "short": "HCL Pojejena nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 31/2020 privind aprobarea acordarii unui sprijin financiar Bisericii Cultului Crestin Baptiste Susca",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/15848",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15848",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-32-2020",
    "path": "local/caras-severin/pojejena/2020/32",
    "short": "HCL Pojejena nr. 32/2020",
@@ -408,6 +483,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--pojejena-39-2020",
+   "path": "local/caras-severin/pojejena/2020/39",
+   "short": "HCL Pojejena nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 39/2020 privind alegerea președintelui de sedință",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/15859",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15859",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-4-2020",
    "path": "local/caras-severin/pojejena/2020/4",
    "short": "HCL Pojejena nr. 4/2020",
@@ -468,6 +558,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--pojejena-43-2020",
+   "path": "local/caras-severin/pojejena/2020/43",
+   "short": "HCL Pojejena nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 43/2020 privind aprobarea procedurii de acordare a unor înlesniri la plată, constând în scutiri de majorări de întârziere aferente obligațiilor fiscale principale datorate bugetului local de către persoanele fizice care au calitatea de contribuabili la bugetul local al Comunei Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/15863",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15863",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--pojejena-44-2020",
    "path": "local/caras-severin/pojejena/2020/44",
    "short": "HCL Pojejena nr. 44/2020",
@@ -478,6 +583,21 @@
      "from": "2020-07-31",
      "units": 1,
      "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--pojejena-45-2020",
+   "path": "local/caras-severin/pojejena/2020/45",
+   "short": "HCL Pojejena nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 45/2020 privind aprobarea acordarii unui sprijin financiar Bisericii Ortodoxe Sarbe Pojejena",
+   "url": "https://emol.ro/pojejena-cs/registru-hcl/15857",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pojejena-cs/registru-hcl/15857",
      "sha256": null
     }
    ]

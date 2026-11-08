@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/doclin/2024",
  "acts": [
   {
+   "slug": "hcl-caras-severin--doclin-1-2024",
+   "path": "local/caras-severin/doclin/2024/1",
+   "short": "HCL Doclin nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 1/2024 privind aprobarea indicatorilor tehnico-economici, pentru realizarea obiectivului de investiții „Modernizare străzi pe raza comunei Doclin, jud. Caraș-Severin”",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/136591",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/136591",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-10-2024",
    "path": "local/caras-severin/doclin/2024/10",
    "short": "HCL Doclin nr. 10/2024",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-18-2024",
+   "path": "local/caras-severin/doclin/2024/18",
+   "short": "HCL Doclin nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 18/2024 privind declararea unor terenuri ca vatră de stupină permanentă și atribuirea acestora cu titlu gratuit",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/157210",
+   "versions": [
+    {
+     "from": "2024-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/157210",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-19-2024",
    "path": "local/caras-severin/doclin/2024/19",
    "short": "HCL Doclin nr. 19/2024",
@@ -138,6 +168,36 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-2-2024",
+   "path": "local/caras-severin/doclin/2024/2",
+   "short": "HCL Doclin nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 2/2024 privind implementarea proiectului „Modernizare străzi pe raza comunei Doclin, jud. Caraș-Severin”",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/136592",
+   "versions": [
+    {
+     "from": "2024-01-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/136592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-20-2024",
+   "path": "local/caras-severin/doclin/2024/20",
+   "short": "HCL Doclin nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 20/2024 privind gestionarea consumului de apă din sistemul public al comunei Doclin pentru fermieri",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/158436",
+   "versions": [
+    {
+     "from": "2024-06-14",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/158436",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-21-2024",
    "path": "local/caras-severin/doclin/2024/21",
    "short": "HCL Doclin nr. 21/2024",
@@ -148,6 +208,81 @@
      "from": "2024-08-05",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/161817",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-22-2024",
+   "path": "local/caras-severin/doclin/2024/22",
+   "short": "HCL Doclin nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 22/2024 privind stabilirea autovehiculelor de acces cu masă maximă totală autorizată admisă de până la 12 tone, pentru utilizarea drumurilor comunale şi a altor categorii de drumuri aflate în proprietatea comunei Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/161818",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/161818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-23-2024",
+   "path": "local/caras-severin/doclin/2024/23",
+   "short": "HCL Doclin nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 23/2024 privind aprobarea activităţii Serviciului public de alimentare cu apă şi canalizare al comunei Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/161819",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/161819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-24-2024",
+   "path": "local/caras-severin/doclin/2024/24",
+   "short": "HCL Doclin nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 24/2024 privind acordarea unor diplome şi a unor premii financiare în valoare netă de 1000 lei persoanelor care au împlinit venerabilă vârstă de 100 de ani de viaţă şi a familiilor care aniversează 50 de ani de căsătorie, celor care împlinesc vârsta de 18 ani şi elevilor premianţi",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/161820",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/161820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-25-2024",
+   "path": "local/caras-severin/doclin/2024/25",
+   "short": "HCL Doclin nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 25/2024 privind aprobarea modificării structurii organizatorice și a statutului de funcții al aparatului de specialitate al Primarului Comunei Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/161821",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/161821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-26-2024",
+   "path": "local/caras-severin/doclin/2024/26",
+   "short": "HCL Doclin nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 26/2024 privind declararea unor terenuri ca vatră de stupină permanentă şi atribuirea acestora cu titlu gratuit",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/161822",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/161822",
      "sha256": null
     }
    ]
@@ -183,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-29-2024",
+   "path": "local/caras-severin/doclin/2024/29",
+   "short": "HCL Doclin nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 29/2024 privind aprobarea studiului de fezabilitate privind investiţia „Sistem de colectare şi tratare ape menajere, localitatea TIROL, comuna Doclin, judeţul Caraş-Severin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/168295",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/168295",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-3-2024",
    "path": "local/caras-severin/doclin/2024/3",
    "short": "HCL Doclin nr. 3/2024",
@@ -193,6 +343,36 @@
      "from": "2024-01-18",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/137015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-30-2024",
+   "path": "local/caras-severin/doclin/2024/30",
+   "short": "HCL Doclin nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 30/2024 privind aprobarea unei sume din bugetul comunei Doclin, pentru organizarea tradiționalei sărbători a localității ,,Ruga de la Tirol” în data de 8 septembrie 2024",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/168296",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/168296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-31-2024",
+   "path": "local/caras-severin/doclin/2024/31",
+   "short": "HCL Doclin nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 31/2024 revocarea hotărârii privind stabilirea autovehiculelor de acces cu masă maximă totală autorizată admisă de până la 12 tone, pentru utilizarea drumurilor comunale şi a altor categorii de drumuri aflate în proprietatea comunei Doclin",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/168297",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/168297",
      "sha256": null
     }
    ]
@@ -313,6 +493,21 @@
      "from": "2024-10-30",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/173410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-4-2024",
+   "path": "local/caras-severin/doclin/2024/4",
+   "short": "HCL Doclin nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 4/2024 privind decontarea cheltuielilor de transport",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/140248",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/140248",
      "sha256": null
     }
    ]
@@ -538,6 +733,21 @@
      "from": "2024-02-21",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/142379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-7-2024",
+   "path": "local/caras-severin/doclin/2024/7",
+   "short": "HCL Doclin nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 7/2024 privind aprobarea contractării unui credit de investiții de la CEC Bank SA Sucursala Reșița, în valoare de 3.095.395 lei, pentru o perioadă de 144 luni, pentru proiectul de investiții: ”Construire și dotare Cămin Cultural și împrejmuire teren în localitatea Biniș, comuna Doclin, județul Caraș-Severin”",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/145995",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/145995",
      "sha256": null
     }
    ]

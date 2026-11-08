@@ -3,6 +3,486 @@
  "shard": "local/caras-severin/cornereva/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--cornereva-1-2025",
+   "path": "local/caras-severin/cornereva/2025/1",
+   "short": "HCL Cornereva nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 1/2025 privind aprobarea acoperirii definitive a deficitului Secțiunii de Funcționare, din excedentul bugetului local al comunei Cornereva, pe anul 2024",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/187245",
+   "versions": [
+    {
+     "from": "2025-02-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/187245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-10-2025",
+   "path": "local/caras-severin/cornereva/2025/10",
+   "short": "HCL Cornereva nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 10/2025 privind aprobarea acordului de participare a comunei Cornereva in cadrul „Programului privind acordarea de sprijin in vederea achiziționării de aparate pentru incălzirea locuințelor,pentru localitățile din zona montană”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/199161",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/199161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-11-2025",
+   "path": "local/caras-severin/cornereva/2025/11",
+   "short": "HCL Cornereva nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 11/2025 privind aprobarea valorificarii a 568,11 mc,masa lemnoasa,proprietatea comunei Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/199162",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/199162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-12-2025",
+   "path": "local/caras-severin/cornereva/2025/12",
+   "short": "HCL Cornereva nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 12/2025 privind aprobarea bugetului local de venituri și cheltuieli la nivelul comunei Cornereva pe anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/199163",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/199163",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-13-2025",
+   "path": "local/caras-severin/cornereva/2025/13",
+   "short": "HCL Cornereva nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 13/2025 privind aprobarea solicitării prelungirii Scrisorii de garantie nr. 301/ 28.06.2018 de la FNGCIMM SA IFN in valoare de 756.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 756.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – “ Reabilitare, modernizare și dotare cămin cultural din localitatea Cornereva, comuna Cornereva, judeţul Caraş-Severin”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/199164",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/199164",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-14-2025",
+   "path": "local/caras-severin/cornereva/2025/14",
+   "short": "HCL Cornereva nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 14/2025 privind aprobarea solicitãrii prelungirii Scrisorii de garantie nr. 716/10.10.2017 de la FNGCIMM SA IFN in valoare de 484.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 484.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „Reabilitarea, modernizarea, extinderea și dotarea Școlii profesionale agricole din localitatea Bogâltin, Comuna Cornereva, județul Caraș - Severin”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/199165",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/199165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-15-2025",
+   "path": "local/caras-severin/cornereva/2025/15",
+   "short": "HCL Cornereva nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 15/2025 privind aprobarea participării Comunei Cornereva la realizarea proiectului Via Transilvanica (Calea Transilvaniei)",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/202376",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/202376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-16-2025",
+   "path": "local/caras-severin/cornereva/2025/16",
+   "short": "HCL Cornereva nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 16/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Cornereva, pentru trimestrul I al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/202377",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/202377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-17-2025",
+   "path": "local/caras-severin/cornereva/2025/17",
+   "short": "HCL Cornereva nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 17/2025 privind rectificarea bugetului local de venituri și cheltuieli la nivelul comunei Cornereva pe anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/202378",
+   "versions": [
+    {
+     "from": "2025-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/202378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-18-2025",
+   "path": "local/caras-severin/cornereva/2025/18",
+   "short": "HCL Cornereva nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 18/2025 privind prezentarea Raportului anual al Primarului privind starea economică, socială și de mediu a comunei Cornereva, județul Caraș Severin",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/204499",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/204499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-19-2025",
+   "path": "local/caras-severin/cornereva/2025/19",
+   "short": "HCL Cornereva nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 19/2025 privind aprobarea Regulamentului privind inchirierea pajistilor aflate în proprietatea privata a comunei Cornereva in anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/204500",
+   "versions": [
+    {
+     "from": "2025-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/204500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-2-2025",
+   "path": "local/caras-severin/cornereva/2025/2",
+   "short": "HCL Cornereva nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 2/2025 privind stabilirea unei suprafețe de teren în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Cornereva, județul Caraș – Severin",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/188760",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/188760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-22-2025",
+   "path": "local/caras-severin/cornereva/2025/22",
+   "short": "HCL Cornereva nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 22/2025 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/210739",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/210739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-23-2025",
+   "path": "local/caras-severin/cornereva/2025/23",
+   "short": "HCL Cornereva nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 23/2025 privind rectificarea bugetului local de venituri si cheltuieli pe anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/210738",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/210738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-24-2025",
+   "path": "local/caras-severin/cornereva/2025/24",
+   "short": "HCL Cornereva nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 24/2025 privind rectificarea bugetului local de venituri și cheltuieli al comunei Cornereva pe anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/211438",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/211438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-25-2025",
+   "path": "local/caras-severin/cornereva/2025/25",
+   "short": "HCL Cornereva nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 25/2025 privind aprobarea Actului adițional nr.1 la Acordul de parteneriat nr.36571/09.12.2022 pentru realizarea proiectului ”Cu bicicleta prin vest-traseu cicloturistic” din Investiția I.4 ”Implementarea a 3.000 km de trasee cicloturistice la nivel național” finanțat din PNRR, Componenta 11 – Turism și cultură",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/214689",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/214689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-26-2025",
+   "path": "local/caras-severin/cornereva/2025/26",
+   "short": "HCL Cornereva nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 26/2025 privind aprobarea realizării unor amenajări exterioare la Căminul cultural Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/214690",
+   "versions": [
+    {
+     "from": "2025-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/214690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-27-2025",
+   "path": "local/caras-severin/cornereva/2025/27",
+   "short": "HCL Cornereva nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 27/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Cornereva, pentru trimestrul II al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/220460",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/220460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-28-2025",
+   "path": "local/caras-severin/cornereva/2025/28",
+   "short": "HCL Cornereva nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 28/2025 privind aprobarea contractării unui împrumut în valoare de 2.524.012 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/220461",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/220461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-29-2025",
+   "path": "local/caras-severin/cornereva/2025/29",
+   "short": "HCL Cornereva nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 29/2025 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 301/ 28.06.2018 de la FNGCIMM SA IFN in valoare de 756.000,00 lei, in vederea garantarii obligatiilor de plata a avansului de 756.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: “ Reabilitare, modernizare și dotare cămin cultural din localitatea Cornereva, comuna Cornereva, judeţul Caraş-Severin”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/220462",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/220462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-3-2025",
+   "path": "local/caras-severin/cornereva/2025/3",
+   "short": "HCL Cornereva nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 3/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Cornereva, pentru trimestrul IV al anului 2024 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/188761",
+   "versions": [
+    {
+     "from": "2025-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/188761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-30-2025",
+   "path": "local/caras-severin/cornereva/2025/30",
+   "short": "HCL Cornereva nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 30/2025 privind modificarea art.2,alin.1) din HCL Cornereva nr.11 din 24.03.2025 referitor la aprobarea valorificarii a 568,11 mc,masa lemnoasa,proprietatea comunei Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/220463",
+   "versions": [
+    {
+     "from": "2025-08-18",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/220463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-31-2025",
+   "path": "local/caras-severin/cornereva/2025/31",
+   "short": "HCL Cornereva nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 31/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/221461",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/221461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-32-2025",
+   "path": "local/caras-severin/cornereva/2025/32",
+   "short": "HCL Cornereva nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 32/2025 privind rectificarea bugetului local de venituri și cheltuieli la nivelul comunei Cornereva pe anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/221462",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/221462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-33-2025",
+   "path": "local/caras-severin/cornereva/2025/33",
+   "short": "HCL Cornereva nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 33/2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/221463",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/221463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-34-2025",
+   "path": "local/caras-severin/cornereva/2025/34",
+   "short": "HCL Cornereva nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 34/2025 privind acordarea mandatului special Asociației de Dezvoltare Intercomunitară INTERCOM DEŞEURI CARAŞ-SEVERIN, pentru atribuirea contractelor de delegare a gestiunii activității/activităților de sortare, tratare și/sau depozitare, prin eliminare, a deșeurilor municipale rezultate din activitățile de salubrizare de pe raza comunei Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/223242",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/223242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-35-2025",
+   "path": "local/caras-severin/cornereva/2025/35",
+   "short": "HCL Cornereva nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 35/2025 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. . 301/ 28.06.2018 de la FNGCIMM SA IFN in valoare de 756.000,00 lei, in vederea garantarii obligatiilor de plata a avansului de 756.000,00 lei din fondurile nerambursabile pentru implementarea proiectului intitulat: “ Reabilitare, modernizare și dotare cămin cultural din localitatea Cornereva, comuna Cornereva, judeţul Caraş-Severin””,",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/223243",
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/223243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-36-2025",
+   "path": "local/caras-severin/cornereva/2025/36",
+   "short": "HCL Cornereva nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 36/2025 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 716/10.10.2017 de la FNGCIMM SA IFN in valoare de 484.000,00 lei in vederea garantării obligațiilor de plata a avansului de 484.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Reabilitarea, modernizarea, extinderea și dotarea Școlii profesionale agricole din localitatea Bogâltin, Comuna Cornereva, județul Caraș - Severin .”",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/228969",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/228969",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-37-2025",
+   "path": "local/caras-severin/cornereva/2025/37",
+   "short": "HCL Cornereva nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 37/2025 privind aprobarea solicitării prelungirii Scrisorii de garanție nr.193/ 22.06.2017 de la FNGCIMM SA IFN in valoare de 1.590.000,00 lei, in vederea garantarii obligatiilor de plata a avansului de 1.590.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – “ Modernizare drumuri comunale în comuna Cornereva, judeţul Caraş-Severin”,",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/228970",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/228970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-38-2025",
+   "path": "local/caras-severin/cornereva/2025/38",
+   "short": "HCL Cornereva nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 38/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol al comunei Cornereva, pentru trimestrul III al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/228971",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/228971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-39-2025",
+   "path": "local/caras-severin/cornereva/2025/39",
+   "short": "HCL Cornereva nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 39/2025 privind desemnarea unui reprezentanț al Consiliului Local Cornereva ca membru în Consiliul de Administrație al Școlii Profesionale Agricole Cornereva și desemnarea unui reprezentant din cadrul Cosiliului Local Cornereva ca membru în Comisia pentru evaluarea și asigurarea calitătii din Școala Profesională Agricolă Cornereva pentru anul scolar 2025-2026;",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/228972",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/228972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-4-2025",
+   "path": "local/caras-severin/cornereva/2025/4",
+   "short": "HCL Cornereva nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 4/2025 privind alegerea Președintelui de ședință",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195125",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195125",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--cornereva-40-2025",
    "path": "local/caras-severin/cornereva/2025/40",
    "short": "HCL Cornereva nr. 40/2025",
@@ -313,6 +793,66 @@
      "from": "2026-01-12",
      "units": 1,
      "source_url": "https://emol.ro/cornereva-cs/registru-hcl/244884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-6-2025",
+   "path": "local/caras-severin/cornereva/2025/6",
+   "short": "HCL Cornereva nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 6/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025, ce vor fi executate de către persoanele beneficiare de ajutorul social în baza prevederile Legii nr.196/2016 privind venitul minim de incluziune la nivelul comunei Cornereva, jud. Caraș-Severin",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195127",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-7-2025",
+   "path": "local/caras-severin/cornereva/2025/7",
+   "short": "HCL Cornereva nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 7/2025 privind aprobarea Programului de Acțiune Comunitară destinat prevenirii și combaterii riscului de sărăcie și excluziune socială pentru anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195128",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-8-2025",
+   "path": "local/caras-severin/cornereva/2025/8",
+   "short": "HCL Cornereva nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 8/2025 privind aprobarea Calendarului evenimentelor culturale organizate de către Comuna Cornereva pentru anul 2025",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195129",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--cornereva-9-2025",
+   "path": "local/caras-severin/cornereva/2025/9",
+   "short": "HCL Cornereva nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cornereva nr. 9/2025 privind aprobarea Organigramei și a Statului de funcții al aparatului de specialitate al Primarului comunei Cornereva",
+   "url": "https://emol.ro/cornereva-cs/registru-hcl/195130",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/cornereva-cs/registru-hcl/195130",
      "sha256": null
     }
    ]

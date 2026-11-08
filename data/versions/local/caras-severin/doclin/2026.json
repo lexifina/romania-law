@@ -18,6 +18,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-10-2026",
+   "path": "local/caras-severin/doclin/2026/10",
+   "short": "HCL Doclin nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 10/2026 privind emiterea acordului pentru includerea în Programul național de investiții \"Școli sigure și sănătoase\" a obiectivului de investiții \"REABILITARE INTEGRATA A SCOLII DIN COMUNA DOCLIN, JUDETUL CARAS-SEVERIN\" inclus în lista obiectivelor de investiții aprobată prin Ordinul ministrului dezvoltării, lucrărilor publice și administrației nr. 427/08.04.2026 privind aprobarea listei obiectivelor de investiții propuse spre finanțare prin Programul național de investiţii „Școli sigure și sănătoase”",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/263494",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/263494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-11-2026",
+   "path": "local/caras-severin/doclin/2026/11",
+   "short": "HCL Doclin nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 11/2026 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții \"REABILITARE INTEGRATA A SCOLII DIN COMUNA DOCLIN, JUDETUL CARAS-SEVERIN\", inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/263495",
+   "versions": [
+    {
+     "from": "2026-05-05",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/263495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-12-2026",
+   "path": "local/caras-severin/doclin/2026/12",
+   "short": "HCL Doclin nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 12/2026 privind reorganizarea aparatului de specialitate al primarului, aprobarea Organigramei și a Statului de funcții conform OUG nr. 7/2026",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/264500",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/264500",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-13-2026",
    "path": "local/caras-severin/doclin/2026/13",
    "short": "HCL Doclin nr. 13/2026",
@@ -378,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--doclin-5-2026",
+   "path": "local/caras-severin/doclin/2026/5",
+   "short": "HCL Doclin nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 5/2026 pentru neasumarea responsabilitatii organizarii si derularii procedurilor de atribuire a contractelor/acordurilor-cadru pentru achizitia produselor aferente programului si a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea masurilor educative, aferente programului pentru școli în perioada 2026 - 2029",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/260390",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/260390",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--doclin-6-2026",
    "path": "local/caras-severin/doclin/2026/6",
    "short": "HCL Doclin nr. 6/2026",
@@ -388,6 +448,36 @@
      "from": "2026-04-07",
      "units": 1,
      "source_url": "https://emol.ro/doclin-cs/registru-hcl/260391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-7-2026",
+   "path": "local/caras-severin/doclin/2026/7",
+   "short": "HCL Doclin nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 7/2026 privind aprobarea inchirierii prin licitatie publică a pajiștilor rămase neatribuite si disponibile in urma rezilierii unor contracte",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/260392",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/260392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--doclin-8-2026",
+   "path": "local/caras-severin/doclin/2026/8",
+   "short": "HCL Doclin nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Doclin nr. 8/2026 privind aprobarea nivelului pierderilor de apă din rețea la data de 31 decembrie 2025,având la baza balanța apei",
+   "url": "https://emol.ro/doclin-cs/registru-hcl/260393",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/doclin-cs/registru-hcl/260393",
      "sha256": null
     }
    ]

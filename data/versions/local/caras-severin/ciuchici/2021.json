@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/caras-severin/ciuchici/2021",
+ "acts": [
+  {
+   "slug": "hcl-caras-severin--ciuchici-1-2021",
+   "path": "local/caras-severin/ciuchici/2021/1",
+   "short": "HCL Ciuchici nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 1/2021",
+   "url": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-02-20",
+     "units": 1,
+     "source_url": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/02/Hotararea-nr.1-din-20.02.2021-privind-aprobarea-raportului-anual-elaborat-de-primarul-comunei-Ciuchici.pdf",
+     "sha256": "5b3061a69279de4669d03a18b268ca3c733f3fbda79b1a9a39671cea29f0298f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciuchici-141-2021",
+   "path": "local/caras-severin/ciuchici/2021/141",
+   "short": "HCL Ciuchici nr. 141/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 141/2021",
+   "url": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/10/HCJSU-nr.-141-din-24.10.2021-fara-semnaturi.pdf",
+   "versions": [
+    {
+     "from": "2021-10-24",
+     "units": 1,
+     "source_url": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/10/HCJSU-nr.-141-din-24.10.2021-fara-semnaturi.pdf",
+     "sha256": "7663897234317854bf3fa877c6118d11f3a66333f60c4dda0f4de84ad27966c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciuchici-2-2021",
+   "path": "local/caras-severin/ciuchici/2021/2",
+   "short": "HCL Ciuchici nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 2/2021",
+   "url": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/02/Hotararea-nr.2-din-20.01.2021-privind-aprobarea-modificarii-Organigramei-si-Statului-de-functii-a-Aparatului-de-specialitate-al-Primarului-comunei-Ciuchici.pdf",
+     "sha256": "c4ca9f8e64a18e9331b3bf26dc3a26f77bd2d3c51f9c1fc7c4af3ec23c729c35"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--ciuchici-4-2021",
+   "path": "local/caras-severin/ciuchici/2021/4",
+   "short": "HCL Ciuchici nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 4/2021",
+   "url": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 1,
+     "source_url": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/02/Hotararea-nr.4-din-20.1.2021-privind-aprobarea-prelungirii-pe-o-perioada-de-2-ani-a-Strategiei-de-dezvoltare-locala-a-comunei-Ciuchici.pdf",
+     "sha256": "c857f6a72ceec4eed0cc29c0b490f66df2ec589622f83aab3cf5842c1991b1c7"
+    }
+   ]
+  }
+ ]
+}

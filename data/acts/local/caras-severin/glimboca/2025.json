@@ -26,6 +26,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--glimboca-2-2025",
+"path": "local/caras-severin/glimboca/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 2/2025",
+"short": "HCL Glimboca nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-09",
+"latest": "2025-05-09",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/206778",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--glimboca-3-2025",
 "path": "local/caras-severin/glimboca/2025/3",
 "kind": "local",
@@ -45,6 +68,28 @@
 "council_name": "Consiliul Local al Comunei Glimboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-4-2025",
+"path": "local/caras-severin/glimboca/2025/4",
+"kind": "local",
+"year": "2025",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 4/2025 privind alegerea președintelui de ședință",
+"short": "HCL Glimboca nr. 4/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-05-09",
+"latest": "2025-05-09",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/206780",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -136,6 +181,72 @@
 }
 },
 {
+"slug": "hcl-caras-severin--glimboca-9-2025",
+"path": "local/caras-severin/glimboca/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 9/2025 privind . incetarea contractului de concesiune nr. 939/2017si prelungit prin actul aditional nr. 1 din 30.04.2004",
+"short": "HCL Glimboca nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/228918",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-10-2025",
+"path": "local/caras-severin/glimboca/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 10/2025 privind ... aprobarea alocarii sumei de 30,00 mii lei pt organizarea Rugii de Sfanta Marie",
+"short": "HCL Glimboca nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/228937",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-11-2025",
+"path": "local/caras-severin/glimboca/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 11/2025 privind incetarea contractelor deconcesiune cu nr. 1012/2024 si 1013/2024",
+"short": "HCL Glimboca nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-07",
+"latest": "2025-10-07",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/228939",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--glimboca-12-2025",
 "path": "local/caras-severin/glimboca/2025/12",
 "kind": "local",
@@ -155,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Glimboca",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--glimboca-13-2025",
+"path": "local/caras-severin/glimboca/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Glimboca nr. 13/2025 privind ...alegerea presedintelui desedinta",
+"short": "HCL Glimboca nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-10-08",
+"latest": "2025-10-08",
+"portal": "https://emol.ro/glimboca-cs/registru-hcl/228960",
+"council": "caras-severin/glimboca",
+"council_name": "Consiliul Local al Comunei Glimboca",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

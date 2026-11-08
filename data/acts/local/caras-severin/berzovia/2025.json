@@ -179,6 +179,51 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-9-2025",
+"path": "local/caras-severin/berzovia/2025/9",
+"kind": "local",
+"year": "2025",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 9/2025 privind alegerea președintelui de ședință",
+"short": "HCL Berzovia nr. 9/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/204973",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-10-2025",
+"path": "local/caras-severin/berzovia/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 10/2025",
+"short": "HCL Berzovia nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/204974",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-11-2025",
 "path": "local/caras-severin/berzovia/2025/11",
 "kind": "local",
@@ -201,6 +246,29 @@
 }
 },
 {
+"slug": "hcl-caras-severin--berzovia-12-2025",
+"path": "local/caras-severin/berzovia/2025/12",
+"kind": "local",
+"year": "2025",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 12/2025",
+"short": "HCL Berzovia nr. 12/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/204976",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--berzovia-13-2025",
 "path": "local/caras-severin/berzovia/2025/13",
 "kind": "local",
@@ -220,6 +288,29 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-14-2025",
+"path": "local/caras-severin/berzovia/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 14/2025",
+"short": "HCL Berzovia nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/204993",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -286,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-18-2025",
+"path": "local/caras-severin/berzovia/2025/18",
+"kind": "local",
+"year": "2025",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 18/2025 privind aprobarea Contractului de asociere dintre Comuna Berzovia și Asociația Clubul Sportiv ȘOIMII GHERTTENIȘ și acordării unui sprijin financiar",
+"short": "HCL Berzovia nr. 18/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-29",
+"latest": "2025-04-29",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/204997",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -418,6 +531,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-25-2025",
+"path": "local/caras-severin/berzovia/2025/25",
+"kind": "local",
+"year": "2025",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 25/2025 privind alegerea președintelui de sedință",
+"short": "HCL Berzovia nr. 25/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/249988",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -925,6 +1060,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-49-2025",
+"path": "local/caras-severin/berzovia/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 49/2025 privind încetarea contractului de închiriere a unei suprafețe de pășune, nr. 1048/07.03.2017",
+"short": "HCL Berzovia nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/250103",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1453,6 +1610,28 @@
 "council_name": "Consiliul Local al Comunei Berzovia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--berzovia-74-2025",
+"path": "local/caras-severin/berzovia/2025/74",
+"kind": "local",
+"year": "2025",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Berzovia nr. 74/2025 privind desemnarea reprezentanților Consiliului Local Berzovia, în Consiliul de Administrație al Școlii Profesionale Berzovia, pentru anul școlar 2025-2026",
+"short": "HCL Berzovia nr. 74/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-02",
+"latest": "2026-02-02",
+"portal": "https://emol.ro/berzovia-cs/registru-hcl/250128",
+"council": "caras-severin/berzovia",
+"council_name": "Consiliul Local al Comunei Berzovia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

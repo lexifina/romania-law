@@ -3,6 +3,51 @@
 "shard": "local/cluj/chinteni/2024",
 "acts": [
 {
+"slug": "hcl-cluj--chinteni-1-2024",
+"path": "local/cluj/chinteni/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 1/2024 privind stabilireaq numărului maxim de candidaţi pentru funcţia de consilier local",
+"short": "HCL Chinteni nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-20",
+"latest": "2024-04-20",
+"portal": "https://www.primariachinteni.ro/wp-content/uploads/2024/04/Hotararea-nr.1-din-20.04.2024-privind-stabilireaq-numarului-maxim-de-candidati-pentru-functia-de-consilier-local.pdf",
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-2-2024",
+"path": "local/cluj/chinteni/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 2/2024",
+"short": "HCL Chinteni nr. 2/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-24",
+"latest": "2024-04-24",
+"portal": null,
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-cluj--chinteni-3-2024",
 "path": "local/cluj/chinteni/2024/3",
 "kind": "local",
@@ -22,6 +67,29 @@
 "council_name": "Consiliul Local al Comunei Chinteni",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-cluj--chinteni-4-2024",
+"path": "local/cluj/chinteni/2024/4",
+"kind": "local",
+"year": "2024",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Chinteni nr. 4/2024",
+"short": "HCL Chinteni nr. 4/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": null,
+"council": "cluj/chinteni",
+"council_name": "Consiliul Local al Comunei Chinteni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

@@ -3,6 +3,21 @@
  "shard": "local/caras-severin/berzasca/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--berzasca-1-2025",
+   "path": "local/caras-severin/berzasca/2025/1",
+   "short": "HCL Berzasca nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 1/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna ianuarie, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229959",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229959",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-10-2025",
    "path": "local/caras-severin/berzasca/2025/10",
    "short": "HCL Berzasca nr. 10/2025",
@@ -13,6 +28,21 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-11-2025",
+   "path": "local/caras-severin/berzasca/2025/11",
+   "short": "HCL Berzasca nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 11/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229977",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229977",
      "sha256": null
     }
    ]
@@ -78,6 +108,51 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-16-2025",
+   "path": "local/caras-severin/berzasca/2025/16",
+   "short": "HCL Berzasca nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 16/2025 privind aprobarea înființării Societății Comerciale DRAGOSLAVCA PRODUCT SRL, având asociat unic Comuna Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229982",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-17-2025",
+   "path": "local/caras-severin/berzasca/2025/17",
+   "short": "HCL Berzasca nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 17/2025 privind dezmembrarea unui imobil - teren, situat în intravilanul comunei Berzasca, sat Berzasca, în suprafață de 1.575 mp, nr. cad. 32872, înscris in CF 32872 a comunei Berzasca, situat în Comuna Berzasca, județul Caraș-Severin",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229983",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-18-2025",
+   "path": "local/caras-severin/berzasca/2025/18",
+   "short": "HCL Berzasca nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 18/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna aprilie, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229984",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229984",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-19-2025",
    "path": "local/caras-severin/berzasca/2025/19",
    "short": "HCL Berzasca nr. 19/2025",
@@ -103,6 +178,51 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-20-2025",
+   "path": "local/caras-severin/berzasca/2025/20",
+   "short": "HCL Berzasca nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 20/2025 privind modificarea și completarea Hotărârii Consiliului Local al comunei Berzasca, Nr. 10 din 31.01.2023 privind aprobarea Strategiei de Dezvoltare Socio-Economică a comunei Berzasca în perioada de programare 2021-2027",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229993",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-21-2025",
+   "path": "local/caras-severin/berzasca/2025/21",
+   "short": "HCL Berzasca nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 21/2025 privind dezmembrarea unui imobil-teren, situat în intravilanul comunei Berzasca, sat Liubcova, județul Caraș-Severin, în suprafață de 1.439 m.p. nr. cad. 32431, înscris în CF nr. 32431 a comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230004",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-22-2025",
+   "path": "local/caras-severin/berzasca/2025/22",
+   "short": "HCL Berzasca nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 22/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230007",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230007",
      "sha256": null
     }
    ]
@@ -243,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-31-2025",
+   "path": "local/caras-severin/berzasca/2025/31",
+   "short": "HCL Berzasca nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 31/2025 privind aprobarea Actului Adițional nr. 1 la Acordul de parteneriat nr. 36571/09.12.2022 pentru realizarea Proiectului ''Cu biciceta prin vest - traseu cicloturistic'', din Investiția I.4 - ''Implementarea a 3000 km de trasee cicloturistice la nivel național'' finanțat prin PNRR, Componenta C11 - Turism și Cultură",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230036",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230036",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-32-2025",
    "path": "local/caras-severin/berzasca/2025/32",
    "short": "HCL Berzasca nr. 32/2025",
@@ -253,6 +388,21 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-33-2025",
+   "path": "local/caras-severin/berzasca/2025/33",
+   "short": "HCL Berzasca nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 33/2025 privind alegerea președintelui de ședință al Consiliului Local al comunei Berzasca, începând cu luna iulie, anul 2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230038",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230038",
      "sha256": null
     }
    ]
@@ -283,6 +433,51 @@
      "from": "2025-10-15",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-36-2025",
+   "path": "local/caras-severin/berzasca/2025/36",
+   "short": "HCL Berzasca nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 36/2025 privind valorificarea prin vânzare a unor bunuri scoase din funcțiune aparținând patrimoniului privat al comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230044",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-37-2025",
+   "path": "local/caras-severin/berzasca/2025/37",
+   "short": "HCL Berzasca nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 37/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230046",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-38-2025",
+   "path": "local/caras-severin/berzasca/2025/38",
+   "short": "HCL Berzasca nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 38/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/230047",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/230047",
      "sha256": null
     }
    ]
@@ -468,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-caras-severin--berzasca-5-2025",
+   "path": "local/caras-severin/berzasca/2025/5",
+   "short": "HCL Berzasca nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 5/2025 privind aprobarea încetării unor contracte de concesiune și radierea din cartea funciară a dreptului de concesiune a unor persoane juridice, asupra unor terenuri propreitate publică a comunei Berzasca",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229963",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229963",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--berzasca-50-2025",
    "path": "local/caras-severin/berzasca/2025/50",
    "short": "HCL Berzasca nr. 50/2025",
@@ -643,6 +853,21 @@
      "from": "2026-01-20",
      "units": 1,
      "source_url": "https://emol.ro/berzasca-cs/registru-hcl/247520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--berzasca-7-2025",
+   "path": "local/caras-severin/berzasca/2025/7",
+   "short": "HCL Berzasca nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Berzasca nr. 7/2025",
+   "url": "https://emol.ro/berzasca-cs/registru-hcl/229965",
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/berzasca-cs/registru-hcl/229965",
      "sha256": null
     }
    ]

@@ -3,6 +3,141 @@
  "shard": "local/caras-severin/bucosnita/2025",
  "acts": [
   {
+   "slug": "hcl-caras-severin--bucosnita-104-2025",
+   "path": "local/caras-severin/bucosnita/2025/104",
+   "short": "HCL Bucoșnița nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 104/2025 Privind rectificare buget local Trim.III -an fiscal 2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/226062",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/226062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-105-2025",
+   "path": "local/caras-severin/bucosnita/2025/105",
+   "short": "HCL Bucoșnița nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 105/2025 Privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227970",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227970",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-106-2025",
+   "path": "local/caras-severin/bucosnita/2025/106",
+   "short": "HCL Bucoșnița nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 106/2025 privind aprobarea procesului-verbal de la ședința anterioară din 05.09.2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227971",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-107-2025",
+   "path": "local/caras-severin/bucosnita/2025/107",
+   "short": "HCL Bucoșnița nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 107/2025 Privind aprobarea ordinii de zi",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227972",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-108-2025",
+   "path": "local/caras-severin/bucosnita/2025/108",
+   "short": "HCL Bucoșnița nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 108/2025 privind Privind analiza înscrierii datelor în Registrului Agricol, al comunei Bucoșnița, jud.Caraș-Severin, la finele semestrului I-2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227973",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-109-2025",
+   "path": "local/caras-severin/bucosnita/2025/109",
+   "short": "HCL Bucoșnița nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 109/2025 Privind demararea procedurii de achiziție publică, de servicii pentru întocmirea raportului de evaluare la terenului intravilan, în suprafață de 600 mp înscris în CF 33770 Bucoșnița, în vederea închirierii",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227974",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-110-2025",
+   "path": "local/caras-severin/bucosnita/2025/110",
+   "short": "HCL Bucoșnița nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 110/2025 Privind alocarea sumei de 15.000 lei, din buget local pentru organizarea evenimentelor culturale ”Ruga satului Goleț” organizat în anul 2025, în Comuna Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227975",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-111-2025",
+   "path": "local/caras-severin/bucosnita/2025/111",
+   "short": "HCL Bucoșnița nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 111/2025 Privind demararea procedurii de achiziție publică, pentru achiziționarea Registrelor Agricole și imprimatelor necesare pentru perioada 2025-2029",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227976",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-112-2025",
+   "path": "local/caras-severin/bucosnita/2025/112",
+   "short": "HCL Bucoșnița nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 112/2025 Privind demararea procedurii de achiziție publică, de servicii pentru reproiectarea paginii web a Comunei Bucoșnița",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227977",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227977",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-caras-severin--bucosnita-113-2025",
    "path": "local/caras-severin/bucosnita/2025/113",
    "short": "HCL Bucoșnița nr. 113/2025",
@@ -13,6 +148,321 @@
      "from": "2025-10-13",
      "units": 1,
      "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-114-2025",
+   "path": "local/caras-severin/bucosnita/2025/114",
+   "short": "HCL Bucoșnița nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 114/2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227979",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-115-2025",
+   "path": "local/caras-severin/bucosnita/2025/115",
+   "short": "HCL Bucoșnița nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 115/2025 Privind aplicarea recomandărilor lăsate de Curtea de Conturi a României -Camera de Conturi Caraș-Severin, în auditul financiar din anul 2025, efectuat la Comuna Bucoșnița, din județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227980",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227980",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-116-2025",
+   "path": "local/caras-severin/bucosnita/2025/116",
+   "short": "HCL Bucoșnița nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 116/2025 Privind rectificarea de buget local pe Trimestrul III al anului fiscal 2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227981",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-117-2025",
+   "path": "local/caras-severin/bucosnita/2025/117",
+   "short": "HCL Bucoșnița nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 117/2025 privind alocarea sumei de 20.000 lei din bugetul local al comunei Bucoșnița, către bugetul Școlii Gimnaziale Petroșnița pentru reparații curente",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227982",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227982",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-118-2025",
+   "path": "local/caras-severin/bucosnita/2025/118",
+   "short": "HCL Bucoșnița nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 118/2025 Privind organizarea evenimentului cultural-tradițional „Sărbătoarea Sâmedru” în Comuna Bucoșnița, care va include o expoziție de animale și produse agro-alimentare, ale micilor producători din comuna Bucoșnița și din județul Caraș-Severin, în data de 26 octombrie 2025, în localitatea Vălișoara",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227983",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-119-2025",
+   "path": "local/caras-severin/bucosnita/2025/119",
+   "short": "HCL Bucoșnița nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 119/2025 Privind aprobarea utilizării excedentului pentru goluri de casă în anul 2025",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/227984",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/227984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-120-2025",
+   "path": "local/caras-severin/bucosnita/2025/120",
+   "short": "HCL Bucoșnița nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 120/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231125",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-121-2025",
+   "path": "local/caras-severin/bucosnita/2025/121",
+   "short": "HCL Bucoșnița nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 121/2025 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231126",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-122-2025",
+   "path": "local/caras-severin/bucosnita/2025/122",
+   "short": "HCL Bucoșnița nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 122/2025 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231127",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-123-2025",
+   "path": "local/caras-severin/bucosnita/2025/123",
+   "short": "HCL Bucoșnița nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 123/2025 privind aprobarea participării Comunei Bucoșnița la realizarea proiectului ”VIA TRANSILVĂNICA” și exprimarea acordului pentru atestarea traseului pedestru de interes național de 1.600 km realizat de Asociația Tășuleasa Social",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231128",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231128",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-124-2025",
+   "path": "local/caras-severin/bucosnita/2025/124",
+   "short": "HCL Bucoșnița nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 124/2025 privind completarea stocului cu materiale antiderapante și carburanți, pentru sezonul rece 2025-2026, în vederea deszăpezirii drumurilor și străzilor din comuna Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231129",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-125-2025",
+   "path": "local/caras-severin/bucosnita/2025/125",
+   "short": "HCL Bucoșnița nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 125/2025 Privind stabilirea prețurilor de referință al masei lemnoase pe picior, pentru anul de producție 2025, ce va fi recoltată din fondul forestier- încadrat în domeniul public al comunei și din afara fondului forestier al comunei, în vederea vânzării prin licitație publică/negociere",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231130",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-126-2025",
+   "path": "local/caras-severin/bucosnita/2025/126",
+   "short": "HCL Bucoșnița nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 126/2025 privind alocarea din bugetul local a sumelor necesare pentru dotarea cu copertină și platformă betonată, a Centrului de zi din Petroșnița, al comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231131",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-127-2025",
+   "path": "local/caras-severin/bucosnita/2025/127",
+   "short": "HCL Bucoșnița nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 127/2025 privind alocarea unei sume din bugetul local pentru amenajarea izvorului de apă din localitatea Vălișoara, care deservește cetățenii comunei Bucoșnița, din județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231132",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-128-2025",
+   "path": "local/caras-severin/bucosnita/2025/128",
+   "short": "HCL Bucoșnița nr. 128/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 128/2025 privind rectificarea bugetului local pe Trimestrul IV al anului fiscal 2025, la nivelul Comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231133",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-129-2025",
+   "path": "local/caras-severin/bucosnita/2025/129",
+   "short": "HCL Bucoșnița nr. 129/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 129/2025 privind alocarea unei sume din bugetul local, pentru întocmirea Amenajamentului Pastoral aferent perioadei 2026-2036, la nivelul comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/231134",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/231134",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-130-2025",
+   "path": "local/caras-severin/bucosnita/2025/130",
+   "short": "HCL Bucoșnița nr. 130/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 130/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/237281",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/237281",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-131-2025",
+   "path": "local/caras-severin/bucosnita/2025/131",
+   "short": "HCL Bucoșnița nr. 131/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 131/2025 privind aprobarea procesului verbal de la ședința anterioară",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/237282",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/237282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-132-2025",
+   "path": "local/caras-severin/bucosnita/2025/132",
+   "short": "HCL Bucoșnița nr. 132/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 132/2025 privind aprobarea ordinii de zi a ședinței",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/237283",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/237283",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-133-2025",
+   "path": "local/caras-severin/bucosnita/2025/133",
+   "short": "HCL Bucoșnița nr. 133/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 133/2025 privind Privind acordul de schimbare a categoriei de folosință, de la destinația agricolă la destinația Forestieră și includerea în fondul forestier național (FFN) a suprafeței de 544,7 ha de pășune împădurită din domeniul public al comunei Bucoșnița, județul Caraș-Severin",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/237284",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/237284",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-caras-severin--bucosnita-134-2025",
+   "path": "local/caras-severin/bucosnita/2025/134",
+   "short": "HCL Bucoșnița nr. 134/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Bucoșnița nr. 134/2025 Proiect de hotărâre privind demararea procedurii de achiziție publică de lucrări la obiectivul de investiții pentru ”Reabilitarea, extinderea, modernizare și dotare Cămin Cultural comuna Bucoșnița, jud. Caraș-Severin” și aprobarea Devizului General;",
+   "url": "https://emol.ro/bucosnita-cs/registru-hcl/237285",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/bucosnita-cs/registru-hcl/237285",
      "sha256": null
     }
    ]

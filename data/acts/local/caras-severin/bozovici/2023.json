@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bozovici-4-2023",
+"path": "local/caras-severin/bozovici/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 4/2023 privind acordarea mandatului special de respingere a tarifelor pentru activitățile de salubrizare zona 2 Bozovici, și acordarea mandatului special reprezentantului unității administrativ teritoriale de a vota în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ” INTERCOM DEȘEURI ” Caraș – Severin",
+"short": "HCL Bozovici nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109058",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bozovici-5-2023",
 "path": "local/caras-severin/bozovici/2023/5",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Comunei Bozovici",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-6-2023",
+"path": "local/caras-severin/bozovici/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 6/2023 privind aprobarea programului de activitate și a lucrărilor ce se vor efectua în decursul anului 2023, cu persoanele încadrate la Legea Nr.416/2001",
+"short": "HCL Bozovici nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109060",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -136,6 +180,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bozovici-9-2023",
+"path": "local/caras-severin/bozovici/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 9/2023 privind aprobarea organigramei si a statului de functii pe anul 2023 la SC Nera Gosp Bozovici SRL, societate a Consiliului Local Bozovici",
+"short": "HCL Bozovici nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109063",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bozovici-10-2023",
 "path": "local/caras-severin/bozovici/2023/10",
 "kind": "local",
@@ -155,6 +221,72 @@
 "council_name": "Consiliul Local al Comunei Bozovici",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-11-2023",
+"path": "local/caras-severin/bozovici/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 11/2023 privind aprobarea contractului de prestari servicii pentru anul 2023 cu SC Nera Gosp Bozovici SRL, societate a Consiliului Local Bozovici",
+"short": "HCL Bozovici nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109065",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-12-2023",
+"path": "local/caras-severin/bozovici/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 12/2023 privind prelungirea mandatului de administrator la SC NERA GOSP BOZOVICI SRL a d-lui Velcotă Silviu-Adrian pe o perioadă de 2 luni",
+"short": "HCL Bozovici nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109066",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-13-2023",
+"path": "local/caras-severin/bozovici/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 13/2023 privind susţinerea financiară a Asociaţiei Clubul Sportiv Nera Bozovici, pentru activitatăţile sportive desfăşurate de către secţia de fotbal si sectia de arte martiale, în perioada 01 ianuarie 2023 - 31 decembrie 2023",
+"short": "HCL Bozovici nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109067",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -180,6 +312,271 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bozovici-15-2023",
+"path": "local/caras-severin/bozovici/2023/15",
+"kind": "local",
+"year": "2023",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 15/2023 privind aprobarea sumei de 20 mii lei fără TVA pentru consultanță în cadrul proiectului cu titlul ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ din Comuna Bozovici\" în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență, Pilonul VI. Politici pentru noua generație Componenta C15: Educație, prin liniile de finanțare aferente investițiilor I9, I11, I13 și I14, în cadrul apelului de proiecte cu titlul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”",
+"short": "HCL Bozovici nr. 15/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109076",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-16-2023",
+"path": "local/caras-severin/bozovici/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 16/2023 privind alocarea sumei de 55 mii lei (fără TVA), pentru întocmire studiu fezabilitate necesar pentruonstruirea unui parc fotovoltaic cu putere de 400 kW, finanțat prin programul : Surse regenerabile de energie electrică și stocarea energiei Fondul pentru modernizarea României",
+"short": "HCL Bozovici nr. 16/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109077",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-17-2023",
+"path": "local/caras-severin/bozovici/2023/17",
+"kind": "local",
+"year": "2023",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 17/2023 privind alocarea sumei de 8000,00 lei ( fără TVA), pentru întocmirea studiu topografic necesar proiectului: EXTINDERE SURSĂ DE APĂ, TRATARE ȘI ÎNMAGAZINARE ȘI RACORDĂRI, COMUNA BOZOVICI, JUDEȚUL CARAȘ SEVERIN",
+"short": "HCL Bozovici nr. 17/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109078",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-18-2023",
+"path": "local/caras-severin/bozovici/2023/18",
+"kind": "local",
+"year": "2023",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 18/2023 privind aprobarea scoaterii la vânzarea a 246,43 mc masă lemnoasă din partizile constituite pentru culoar LEA 400kv Porțile de Fier- Anina -Reșița",
+"short": "HCL Bozovici nr. 18/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109079",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-19-2023",
+"path": "local/caras-severin/bozovici/2023/19",
+"kind": "local",
+"year": "2023",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 19/2023 privind modificarea HCL nr. 88/16.11.2022 privind aprobarea depunerii şi implementării proiectului pentru investiția: „Înființarea unui centru de colectare prin aport voluntar în Comuna Bozovici, județul Caraș-Severin’’ din cadrul Planului Național de Redresare și Reziliență, PNRR/2022/C3/S/I.1.A",
+"short": "HCL Bozovici nr. 19/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109122",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-20-2023",
+"path": "local/caras-severin/bozovici/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 20/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Bozovici, pentru perioada martie 2023 - mai 2023",
+"short": "HCL Bozovici nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109126",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-21-2023",
+"path": "local/caras-severin/bozovici/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 21/2023 privind aprobarea rectificării bugetului comunei Bozovici pe anul 2023",
+"short": "HCL Bozovici nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109127",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-22-2023",
+"path": "local/caras-severin/bozovici/2023/22",
+"kind": "local",
+"year": "2023",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 22/2023 privind constituirea Comitetului de Nominalizare și Remunerare de pe lângă Consiliul Local Bozovici-Asociat Unic la societatea SC Nera Gosp Bozovici SRL",
+"short": "HCL Bozovici nr. 22/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109128",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-23-2023",
+"path": "local/caras-severin/bozovici/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 23/2023 privind întocmirea de către Comitetul de Nominalizare și Remunerare, în conformitate cu sistemul de guvernanță corporativă, a Raportului de Oportunitate privind selecția și întocmirea listei scurte de până la cinci candidați pentru postul de administrator și realizarea procedurilor privind numirea finală a unui administrator cu mandat de patru ani la SC Nera Gosp Bozovici SRL",
+"short": "HCL Bozovici nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109129",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-24-2023",
+"path": "local/caras-severin/bozovici/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 24/2023 privind aprobarea bugetului de venituri și cheltuieli al societății SC Nera Gosp Bozovici SRL pe anul 2023",
+"short": "HCL Bozovici nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109130",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-25-2023",
+"path": "local/caras-severin/bozovici/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 25/2023 privind aprobarea Raportului de activitate pe anul 2023 al SC Nera Gosp Bozovici SRL, societate a Consiliului Local Bozovici",
+"short": "HCL Bozovici nr. 25/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109131",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-26-2023",
+"path": "local/caras-severin/bozovici/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 26/2023",
+"short": "HCL Bozovici nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109132",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-caras-severin--bozovici-27-2023",
 "path": "local/caras-severin/bozovici/2023/27",
 "kind": "local",
@@ -199,6 +596,161 @@
 "council_name": "Consiliul Local al Comunei Bozovici",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-28-2023",
+"path": "local/caras-severin/bozovici/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 28/2023 privind hotărârii consiliului local nr. 18 din data de 03.02.2023 privind aprobarea scoaterii la vânzarea a 246,43 mc masă lemnoasă din partizile constituite pentru culoarul LEA 400kv Porțile de Fier- Anina -Reșița",
+"short": "HCL Bozovici nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109134",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-29-2023",
+"path": "local/caras-severin/bozovici/2023/29",
+"kind": "local",
+"year": "2023",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 29/2023 privind predarea către SC E-Distribuție Banat, a 4 stâlpi aflați pe domeniul public al comunei Bozovici, pentru realizarea unui racord aerian la stația de epurare în cadrul proiectului: Canalizare menajeră și stație de epurare în comuna Bozovici, județul Caraș Severin",
+"short": "HCL Bozovici nr. 29/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109158",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-30-2023",
+"path": "local/caras-severin/bozovici/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 30/2023",
+"short": "HCL Bozovici nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109159",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-31-2023",
+"path": "local/caras-severin/bozovici/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 31/2023 privind aprobarea rectificării bugetului comunei Bozovici pe trim I anul 2023",
+"short": "HCL Bozovici nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109160",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-32-2023",
+"path": "local/caras-severin/bozovici/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 32/2023 privind modificarea anexei 1 la hotărârea consiliului local nr. 101 din 22.12.2022, IMPOZITE ŞI TAXE LOCALE, cuprinzând cotele, valorile impozabile, nivelurile impozitelor si taxelor locale, taxele speciale si amenzile care se stabilesc, se actualizează sau se ajustează, după caz, de către Consiliul Local al Comunei Bozovici în limitele si în conditiile titlului IX din Legea nr. 227/2015 privind Codul fiscal începând cu anul fiscal 2023",
+"short": "HCL Bozovici nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109161",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-33-2023",
+"path": "local/caras-severin/bozovici/2023/33",
+"kind": "local",
+"year": "2023",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 33/2023 privind aprobarea încheierea unui contract de delegare de gestiune Serviciului de gestionare a câinilor fără stăpân al comunei Bozovici, județul Caraș-Severin cu SC Nera Gosp SRL Bozovici",
+"short": "HCL Bozovici nr. 33/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109162",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-34-2023",
+"path": "local/caras-severin/bozovici/2023/34",
+"kind": "local",
+"year": "2023",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 34/2023 privind acordarea mandatului special de aprobare a tarifelor pentru activitățile de salubrizare zona 2 Bozovici, aprobarea tarifelor de salubrizare la nivelul tarifelor solicitate de operator conform documentației anexate, încheierea actului adițional la contractul de concesiune nr. 252/29.06.2018 care să reflecte noile tarife și acordarea mandatului special reprezentantului unității administrativ teritoriale de a vota în Adunarea Generală a Asociaților Asociației de Dezvoltare Intercomunitară ” INTERCOM DEȘEURI ” Caraș – Severin",
+"short": "HCL Bozovici nr. 34/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109163",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -224,6 +776,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bozovici-36-2023",
+"path": "local/caras-severin/bozovici/2023/36",
+"kind": "local",
+"year": "2023",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 36/2023 privind aprobarea cererii având ca obiect transmiterea din domeniul public al Statului Român şi administrarea Tribunalului Caraş-Severin, în domeniul public al Comunei Bozovici, Judeţul Caraş-Severin, a imobilului situat în Comuna Bozovici, nr. 247/B, judeţul Caraş-Severin, înscris în CF nr. 31876, în care a funcţionat Judecătoria Bozovici, precum şi a imobilului situat în Comuna Bozovici, nr. 263, Bl. IF 2, Et. II, Ap. 10, Judeţul Caraş-Severin, înscris în CF nr. 30146-C1-U3",
+"short": "HCL Bozovici nr. 36/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109165",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bozovici-37-2023",
 "path": "local/caras-severin/bozovici/2023/37",
 "kind": "local",
@@ -246,6 +820,116 @@
 }
 },
 {
+"slug": "hcl-caras-severin--bozovici-38-2023",
+"path": "local/caras-severin/bozovici/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 38/2023 privind prelungirea mandatului de administrator la SC NERA GOSP BOZOVICI SRL a d-lui Velcotă Silviu-Adrian pe o perioadă de 2 luni",
+"short": "HCL Bozovici nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109167",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-39-2023",
+"path": "local/caras-severin/bozovici/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 39/2023 privind aderarea comunei Bozovici la Societatea Natională de Cruce Rosie din România Filiala Judetului Caras-Severin",
+"short": "HCL Bozovici nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109168",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-40-2023",
+"path": "local/caras-severin/bozovici/2023/40",
+"kind": "local",
+"year": "2023",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 40/2023 privind stabilirea nivelului maxim al tarifelor pentru prestările de servicii de exploatări forestiere, în scopul exploatării masei lemnoase în regie proprie de către Regia Publică Locală- Ocolul Silvic Bănia, cu operatori economici atestaţi",
+"short": "HCL Bozovici nr. 40/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109169",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-41-2023",
+"path": "local/caras-severin/bozovici/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 41/2023 privind prelungirea pana la data de 31.12.2023 a Scrisorii de garantie de la FNGCIMM SA IFN nr. 234/27.06.2017 in suma de 1.809.000,00 lei in vederea garantarii in procent de 100% a obligatiilor de plata a avansului de 1.809.000,00 lei din fondurile nerambursabile pentru implementarea proiectului “CANALIZARE MENAJERA SI STATIE DE EPUARE IN COMUNA BOZOVICI, JUDETUL CARAS SEVERIN” in com. Bozovici, jud. Caras-Severin, in baza contractului de finantare nerambursabila nr. C0720AM00021651100436 din 13.06.2017,cu modificarile si completarile ulterioare, in favoarea Agentiei pentru Finantarea Investitiilor Rurale",
+"short": "HCL Bozovici nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109170",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-42-2023",
+"path": "local/caras-severin/bozovici/2023/42",
+"kind": "local",
+"year": "2023",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 42/2023 privind aprobarea Serviciilor de consultanță pentru Elaborare documentație pentru a obține atestare ca stațiune turistică de interes local",
+"short": "HCL Bozovici nr. 42/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109171",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--bozovici-43-2023",
 "path": "local/caras-severin/bozovici/2023/43",
 "kind": "local",
@@ -265,6 +949,160 @@
 "council_name": "Consiliul Local al Comunei Bozovici",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-44-2023",
+"path": "local/caras-severin/bozovici/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 44/2023 privind aprobarea rectificării bugetului comunei Bozovici pe trim II anul 2023",
+"short": "HCL Bozovici nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109173",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-45-2023",
+"path": "local/caras-severin/bozovici/2023/45",
+"kind": "local",
+"year": "2023",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 45/2023 privind aprobarea Regulamentului pentru eliberarea cardului - legitimație de parcare gratuită pentru persoanele cu handicap",
+"short": "HCL Bozovici nr. 45/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/109174",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-46-2023",
+"path": "local/caras-severin/bozovici/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 46/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Bozovici, pentru perioada iunie 2023 - august 2023",
+"short": "HCL Bozovici nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/117635",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-47-2023",
+"path": "local/caras-severin/bozovici/2023/47",
+"kind": "local",
+"year": "2023",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 47/2023 privind aprobarea rectificării bugetului comunei Bozovici pe trim II anul 2023",
+"short": "HCL Bozovici nr. 47/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/117636",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-48-2023",
+"path": "local/caras-severin/bozovici/2023/48",
+"kind": "local",
+"year": "2023",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 48/2023 privind aprobarea unor măsuri pentru organizarea acțiunii culturale„ Fiii satului” în zilele de 25-26 mai 2023 în localitatea Bozovici și în zilele 15-16 august 2023 în localitatea Prilipeț",
+"short": "HCL Bozovici nr. 48/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/117637",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-49-2023",
+"path": "local/caras-severin/bozovici/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 49/2023 privind alocarea sumei de 96,00 mii lei de la cap 67.02.50-Alte servicii in domeniile culturii, recreeri si religiei, titlul 20, pentru organizarea de evenimente culturale în Comuna Bozovici, județul Caras-Severin",
+"short": "HCL Bozovici nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/117638",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--bozovici-50-2023",
+"path": "local/caras-severin/bozovici/2023/50",
+"kind": "local",
+"year": "2023",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bozovici nr. 50/2023 privind prelungirea mandatului de administrator la SC NERA GOSP BOZOVICI SRL a d-lui Velcotă Silviu-Adrian pe o perioadă de 2 luni",
+"short": "HCL Bozovici nr. 50/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-08",
+"latest": "2023-11-08",
+"portal": "https://emol.ro/bozovici-cs/registru-hcl/117639",
+"council": "caras-severin/bozovici",
+"council_name": "Consiliul Local al Comunei Bozovici",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

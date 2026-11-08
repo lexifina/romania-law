@@ -47,6 +47,72 @@
 }
 },
 {
+"slug": "hcl-caras-severin--pojejena-3-2026",
+"path": "local/caras-severin/pojejena/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 3/2026 privind alegerea preşedintelui de şedinţă al Consiliului Local Pojejena pe perioada de 3 luni ( FEB. 2026 – APR. 2026)",
+"short": "HCL Pojejena nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/257282",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-4-2026",
+"path": "local/caras-severin/pojejena/2026/4",
+"kind": "local",
+"year": "2026",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 4/2026 privind validarea Dispozitiei nr.211/31.12.2025 privind rectificarea bugetului local pe trimestrul IV anul 2025",
+"short": "HCL Pojejena nr. 4/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/257283",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--pojejena-5-2026",
+"path": "local/caras-severin/pojejena/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pojejena nr. 5/2026 privind validarea Dispozitiei nr.2/09.01.2026 privind acoperirea deficitului sectiunii de dezvoltare a bugetului local din anul 2025 cu excedentul anului 2024 in suma de 322.181,61 lei",
+"short": "HCL Pojejena nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-05",
+"latest": "2026-03-05",
+"portal": "https://emol.ro/pojejena-cs/registru-hcl/257285",
+"council": "caras-severin/pojejena",
+"council_name": "Consiliul Local al Comunei Pojejena",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--pojejena-6-2026",
 "path": "local/caras-severin/pojejena/2026/6",
 "kind": "local",

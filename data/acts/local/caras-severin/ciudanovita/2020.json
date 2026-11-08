@@ -3,6 +3,50 @@
 "shard": "local/caras-severin/ciudanovita/2020",
 "acts": [
 {
+"slug": "hcl-caras-severin--ciudanovita-1-2020",
+"path": "local/caras-severin/ciudanovita/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 1/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 31.01.2020",
+"short": "HCL Ciudanovița nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9039",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-2-2020",
+"path": "local/caras-severin/ciudanovita/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 2/2020 privind achiziționarea serviciilor juridice de consultanță de asistență și de reprezentare, pentru apărarea intereselor comunei Ciudanovița și ale autorității publice locale din comuna Ciudanovița",
+"short": "HCL Ciudanovița nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9040",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-3-2020",
 "path": "local/caras-severin/ciudanovita/2020/3",
 "kind": "local",
@@ -22,6 +66,94 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-4-2020",
+"path": "local/caras-severin/ciudanovita/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 4/2020 privind stabilirea taxei de salubritate la nivelul comunei Ciudanovița pentru anul 2020 și modul de plată către furnizorul de servicii",
+"short": "HCL Ciudanovița nr. 4/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9042",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-5-2020",
+"path": "local/caras-severin/ciudanovita/2020/5",
+"kind": "local",
+"year": "2020",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 5/2020 privind aprobarea însușirii raportului privind achizițiile publice realizate în 2019",
+"short": "HCL Ciudanovița nr. 5/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9043",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-6-2020",
+"path": "local/caras-severin/ciudanovita/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 6/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 26.02.2020",
+"short": "HCL Ciudanovița nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-26",
+"latest": "2020-02-26",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9054",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-7-2020",
+"path": "local/caras-severin/ciudanovita/2020/7",
+"kind": "local",
+"year": "2020",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 7/2020 privind aprobarea concesionării prin licitație publică a pajiștilor permanente disponibile pe raza comunei Ciudanovița, județul Caraș Severin",
+"short": "HCL Ciudanovița nr. 7/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-26",
+"latest": "2020-02-26",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9055",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -135,6 +267,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-13-2020",
+"path": "local/caras-severin/ciudanovita/2020/13",
+"kind": "local",
+"year": "2020",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 13/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 30.04.2020",
+"short": "HCL Ciudanovița nr. 13/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9061",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-14-2020",
 "path": "local/caras-severin/ciudanovita/2020/14",
 "kind": "local",
@@ -201,6 +355,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-17-2020",
+"path": "local/caras-severin/ciudanovita/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 17/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 06.05.2020",
+"short": "HCL Ciudanovița nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-06",
+"latest": "2020-05-06",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9066",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-18-2020",
 "path": "local/caras-severin/ciudanovita/2020/18",
 "kind": "local",
@@ -242,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-20-2020",
+"path": "local/caras-severin/ciudanovita/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 20/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 26.06.2020",
+"short": "HCL Ciudanovița nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-26",
+"latest": "2020-06-26",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9069",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -311,6 +509,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-24-2020",
+"path": "local/caras-severin/ciudanovita/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 24/2020 privind alegerea președintelui de ședință pentru ședința ordinară din data de 08.07.2020",
+"short": "HCL Ciudanovița nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-08",
+"latest": "2020-07-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9073",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-25-2020",
 "path": "local/caras-severin/ciudanovita/2020/25",
 "kind": "local",
@@ -333,6 +553,72 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ciudanovita-26-2020",
+"path": "local/caras-severin/ciudanovita/2020/26",
+"kind": "local",
+"year": "2020",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 26/2020 privind modificarea HCL nr. 19 DIN 14.03.2013 privind concesionarea prin licitatie publică a unor suprafețe de pășune",
+"short": "HCL Ciudanovița nr. 26/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-08",
+"latest": "2020-07-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9075",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-27-2020",
+"path": "local/caras-severin/ciudanovita/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 27/2020 privind modificarea HCL nr. 8 DIN 16.03.2018 privind concesionarea prin licitație publică a unor suprafețe de pășune",
+"short": "HCL Ciudanovița nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-08",
+"latest": "2020-07-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9076",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-28-2020",
+"path": "local/caras-severin/ciudanovita/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 28/2020 privind aprobarea raportului privind activitatea asistenților personali desfășurată în semestrul I al anului 2020",
+"short": "HCL Ciudanovița nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-08",
+"latest": "2020-07-08",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9077",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ciudanovita-29-2020",
 "path": "local/caras-severin/ciudanovita/2020/29",
 "kind": "local",
@@ -352,6 +638,28 @@
 "council_name": "Consiliul Local al Comunei Ciudanovița",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ciudanovita-30-2020",
+"path": "local/caras-severin/ciudanovita/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciudanovița nr. 30/2020 privind alegerea președintelui de ședință",
+"short": "HCL Ciudanovița nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-07-22",
+"latest": "2020-07-22",
+"portal": "https://emol.ro/ciudanovita-cs/registru-hcl/9079",
+"council": "caras-severin/ciudanovita",
+"council_name": "Consiliul Local al Comunei Ciudanovița",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

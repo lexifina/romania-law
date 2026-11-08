@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--carbunari-6-2020",
+"path": "local/caras-severin/carbunari/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cărbunari nr. 6/2020 privind alegerea presedintelui de sedinta",
+"short": "HCL Cărbunari nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-06",
+"latest": "2020-05-06",
+"portal": "https://emol.ro/carbunari-cs/registru-hcl/7999",
+"council": "caras-severin/carbunari",
+"council_name": "Consiliul Local al Comunei Cărbunari",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--carbunari-7-2020",
 "path": "local/caras-severin/carbunari/2020/7",
 "kind": "local",

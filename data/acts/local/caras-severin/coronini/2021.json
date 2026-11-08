@@ -3,6 +3,28 @@
 "shard": "local/caras-severin/coronini/2021",
 "acts": [
 {
+"slug": "hcl-caras-severin--coronini-1-2021",
+"path": "local/caras-severin/coronini/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 1/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/18157",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-2-2021",
 "path": "local/caras-severin/coronini/2021/2",
 "kind": "local",
@@ -22,6 +44,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-3-2021",
+"path": "local/caras-severin/coronini/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 3/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/18166",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -47,6 +91,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-5-2021",
+"path": "local/caras-severin/coronini/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 5/2021 privind modificarea și completarea Actului Constitutiv al Societății Gospodăria Comunală Coronini SRL al cărei unic acționar este comuna Coronini prin Consiliul Local Coronini",
+"short": "HCL Coronini nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/18168",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-6-2021",
+"path": "local/caras-severin/coronini/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 6/2021 privind aprobarea Devizului general actualizat aferent obiectivului de investiții ''Reabilitarea, modernizarea, dotarea și extinderea sediului primăriei din comuna Coronini, județul Caraș-Severin",
+"short": "HCL Coronini nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-08",
+"latest": "2021-02-08",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/18169",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-7-2021",
 "path": "local/caras-severin/coronini/2021/7",
 "kind": "local",
@@ -66,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-8-2021",
+"path": "local/caras-severin/coronini/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 8/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/25674",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -179,6 +289,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-14-2021",
+"path": "local/caras-severin/coronini/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 14/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/25680",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-15-2021",
 "path": "local/caras-severin/coronini/2021/15",
 "kind": "local",
@@ -198,6 +330,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-16-2021",
+"path": "local/caras-severin/coronini/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 16/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/25682",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +377,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-18-2021",
+"path": "local/caras-severin/coronini/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 18/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/25692",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-19-2021",
 "path": "local/caras-severin/coronini/2021/19",
 "kind": "local",
@@ -242,6 +418,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-20-2021",
+"path": "local/caras-severin/coronini/2021/20",
+"kind": "local",
+"year": "2021",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 20/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 20/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37912",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -289,6 +487,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-23-2021",
+"path": "local/caras-severin/coronini/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 23/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37919",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-24-2021",
 "path": "local/caras-severin/coronini/2021/24",
 "kind": "local",
@@ -308,6 +528,50 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-25-2021",
+"path": "local/caras-severin/coronini/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 25/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 25/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-30",
+"latest": "2021-06-30",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37921",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-26-2021",
+"path": "local/caras-severin/coronini/2021/26",
+"kind": "local",
+"year": "2021",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 26/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 26/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37922",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -355,6 +619,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-29-2021",
+"path": "local/caras-severin/coronini/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 29/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-30",
+"latest": "2021-08-30",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37925",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-30-2021",
 "path": "local/caras-severin/coronini/2021/30",
 "kind": "local",
@@ -399,6 +685,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-32-2021",
+"path": "local/caras-severin/coronini/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 32/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-22",
+"latest": "2021-09-22",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37957",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-33-2021",
 "path": "local/caras-severin/coronini/2021/33",
 "kind": "local",
@@ -418,6 +726,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-34-2021",
+"path": "local/caras-severin/coronini/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 34/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37959",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -443,6 +773,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--coronini-36-2021",
+"path": "local/caras-severin/coronini/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 36/2021 privind aprobarea acordării unui spijin financiar Bisericii ortodoxe din Coronini - Parohia Ortodoxă Coronini",
+"short": "HCL Coronini nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/37961",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--coronini-37-2021",
 "path": "local/caras-severin/coronini/2021/37",
 "kind": "local",
@@ -462,6 +814,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-38-2021",
+"path": "local/caras-severin/coronini/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 38/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-29",
+"latest": "2022-03-29",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/55112",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -550,6 +924,28 @@
 "council_name": "Consiliul Local al Comunei Coronini",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--coronini-43-2021",
+"path": "local/caras-severin/coronini/2021/43",
+"kind": "local",
+"year": "2021",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Coronini nr. 43/2021 privind alegerea președintelui de ședință",
+"short": "HCL Coronini nr. 43/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-03-29",
+"latest": "2022-03-29",
+"portal": "https://emol.ro/coronini-cs/registru-hcl/55129",
+"council": "caras-severin/coronini",
+"council_name": "Consiliul Local al Comunei Coronini",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

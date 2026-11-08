@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/caras-severin/ciuchici/2021",
+"acts": [
+{
+"slug": "hcl-caras-severin--ciuchici-1-2021",
+"path": "local/caras-severin/ciuchici/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 1/2021",
+"short": "HCL Ciuchici nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-20",
+"latest": "2021-02-20",
+"portal": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+"council": "caras-severin/ciuchici",
+"council_name": "Consiliul Local al Comunei Ciuchici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciuchici-2-2021",
+"path": "local/caras-severin/ciuchici/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 2/2021",
+"short": "HCL Ciuchici nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-20",
+"latest": "2021-01-20",
+"portal": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+"council": "caras-severin/ciuchici",
+"council_name": "Consiliul Local al Comunei Ciuchici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciuchici-4-2021",
+"path": "local/caras-severin/ciuchici/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 4/2021",
+"short": "HCL Ciuchici nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-20",
+"latest": "2021-01-20",
+"portal": "https://www.uat-ciuchici.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/hotarari-ale-consiliului-local/",
+"council": "caras-severin/ciuchici",
+"council_name": "Consiliul Local al Comunei Ciuchici",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ciuchici-141-2021",
+"path": "local/caras-severin/ciuchici/2021/141",
+"kind": "local",
+"year": "2021",
+"number": "141",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ciuchici nr. 141/2021",
+"short": "HCL Ciuchici nr. 141/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-24",
+"latest": "2021-10-24",
+"portal": "https://www.uat-ciuchici.ro/wp-content/uploads/2021/10/HCJSU-nr.-141-din-24.10.2021-fara-semnaturi.pdf",
+"council": "caras-severin/ciuchici",
+"council_name": "Consiliul Local al Comunei Ciuchici",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

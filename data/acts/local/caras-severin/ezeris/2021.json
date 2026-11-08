@@ -69,6 +69,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-4-2021",
+"path": "local/caras-severin/ezeris/2021/4",
+"kind": "local",
+"year": "2021",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 4/2021 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații lunare pentru anul 2021",
+"short": "HCL Ezeriș nr. 4/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30561",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-5-2021",
 "path": "local/caras-severin/ezeris/2021/5",
 "kind": "local",
@@ -88,6 +110,94 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-6-2021",
+"path": "local/caras-severin/ezeris/2021/6",
+"kind": "local",
+"year": "2021",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 6/2021 privind aprobare coeficienți care stau la baza determinării salariilor de bază pentru funcționarii publici și personalul contractual din aparatul de specialitate al primarului comunei Ezeriș și asistenții personali pentru anul 2021",
+"short": "HCL Ezeriș nr. 6/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30563",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-7-2021",
+"path": "local/caras-severin/ezeris/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 7/2021 privind aprobarea Organigramei, a Statului de Funcții și stabilirea coeficienților care stau la baza determinării salariilor pentru personalul contractual al Serviciului Public de Gospodărie Comunală al comunei Ezeriș, pentru anul 2021",
+"short": "HCL Ezeriș nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30564",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-8-2021",
+"path": "local/caras-severin/ezeris/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 8/2021 privind aprobarea planului de lucrări și servicii pentru Serviciul Public de Gospodărie Comunală al comunei Ezeriș pentru perioada 2020-2024",
+"short": "HCL Ezeriș nr. 8/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30565",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-9-2021",
+"path": "local/caras-severin/ezeris/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 9/2021 privind aprobarea încheierii de contracte (anul 2021, multianuale 2021-2024) pentru servicii",
+"short": "HCL Ezeriș nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30566",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -113,6 +223,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-11-2021",
+"path": "local/caras-severin/ezeris/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 11/2021 privind aprobarea încheierii unui contract privind întocmirea Strategiei de Dezvoltare a comunei Ezeriș pe perioada 2021-2027",
+"short": "HCL Ezeriș nr. 11/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30568",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-12-2021",
+"path": "local/caras-severin/ezeris/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 12/2021 privind aprobarea modificării HCL Ezeriș nr. 3/12.01.2021",
+"short": "HCL Ezeriș nr. 12/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30680",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-13-2021",
 "path": "local/caras-severin/ezeris/2021/13",
 "kind": "local",
@@ -132,6 +286,72 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-14-2021",
+"path": "local/caras-severin/ezeris/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 14/2021 privind aprobarea marcării de masă lemnoasă din pădurea comunală a comunei Ezeriș cu destinație lemn de foc în vederea vânzării către populație și consumul necesar încălzirii imobilelor aflate în administrarea comunei Ezeriș pentru sezonul rece 2021-2022",
+"short": "HCL Ezeriș nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30682",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-15-2021",
+"path": "local/caras-severin/ezeris/2021/15",
+"kind": "local",
+"year": "2021",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 15/2021 privind aprobarea dezlipirii din CF 1 Soceni, nr. Top 237/a, a unei suprafețe de teren de 6700 m.p., teren situat în intravilanul localității Soceni, comuna Ezeriș, cu categoria de folosință curți construcții și aprobarea trecerii suprafeței de teren intravilan dezlipit din domeniul public în domeniul privat al comunei Ezeriș",
+"short": "HCL Ezeriș nr. 15/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30683",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-16-2021",
+"path": "local/caras-severin/ezeris/2021/16",
+"kind": "local",
+"year": "2021",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 16/2021 privind aprobarea dezlipirii, din CF 1 Soceni, nr. Top 237/a, a unei suprafete de teren de 2483 m.p., teren situat în intravilanul localității Soceni, comuna Ezeriș, domeniul public, cu categoria de folosință străzi",
+"short": "HCL Ezeriș nr. 16/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30684",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -245,6 +465,72 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-22-2021",
+"path": "local/caras-severin/ezeris/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 22/2021 privind aprobarea raportului de activitate a primarului comunei Ezeriș pe anul 2020 și a raportului cu privire la situația gestionării patrimoniului din domeniul public și privat al comunei ezeriș pentru anul 2020",
+"short": "HCL Ezeriș nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30695",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-23-2021",
+"path": "local/caras-severin/ezeris/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 23/2021 privind aprobarea documentației de atribuire referitoare la desfășurarea licitației publice și componenței comisiei de licitație, în vederea închirierii suprafețelor de pajiști aflate în domeniul public al comunei Ezeriș pentru anul 2021",
+"short": "HCL Ezeriș nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30696",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-24-2021",
+"path": "local/caras-severin/ezeris/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 24/2021 privind aprobarea unor măsuri referitoare la modalitatea de sancționare pentru titularii contractelor de închiriere a pajiștilor la nivelul comunei Ezeriș care nu respectă angajamentele asumate prin contractul de închiriere și Amenajamentul Pastoral al comunei ezeriș",
+"short": "HCL Ezeriș nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-25",
+"latest": "2021-03-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/30697",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-25-2021",
 "path": "local/caras-severin/ezeris/2021/25",
 "kind": "local",
@@ -333,6 +619,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-29-2021",
+"path": "local/caras-severin/ezeris/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 29/2021 privind aprobarea actului adițional la contractul nr. 2894/21.03.2017 încheiat între OS Valea Bistrei și comuna Ezeriș",
+"short": "HCL Ezeriș nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49695",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-30-2021",
+"path": "local/caras-severin/ezeris/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 30/2021 privind darea în folosință gratuită a utilajelor (tractor U650) aflat în patrimoniul comunei Ezeriș Serviciul Voluntar Situații Urgență către Serviciul Public de Gospodărire Comunală al comunei Ezeriș",
+"short": "HCL Ezeriș nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49696",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-31-2021",
 "path": "local/caras-severin/ezeris/2021/31",
 "kind": "local",
@@ -352,6 +682,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-32-2021",
+"path": "local/caras-severin/ezeris/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 32/2021 privind revocare HCL Ezeriș nr. 19/25.02.2021",
+"short": "HCL Ezeriș nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-14",
+"latest": "2021-04-14",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49698",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -377,6 +729,50 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-34-2021",
+"path": "local/caras-severin/ezeris/2021/34",
+"kind": "local",
+"year": "2021",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 34/2021 privind aprobarea încheierii de contracte pentru servicii și lucrări multianuale 2021-2022",
+"short": "HCL Ezeriș nr. 34/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49710",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-35-2021",
+"path": "local/caras-severin/ezeris/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 35/2021 privind aprobarea dezlipirii din CF 1762 Soceni, Cad 288nr Top 226/5/.../2//2/1, a unor suprafețe teren de 30 mp (trei loturi), situate în intravilanul localității Soceni, comuna Ezeriș, și aprobarea trecerii suprafețelor de teren intravilan dezlipite din domeniul public în domeniul privat al comunei Ezeriș",
+"short": "HCL Ezeriș nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-10",
+"latest": "2021-05-10",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49711",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-36-2021",
 "path": "local/caras-severin/ezeris/2021/36",
 "kind": "local",
@@ -396,6 +792,74 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-37-2021",
+"path": "local/caras-severin/ezeris/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 37/2021 privind aprobarea întocmirii documentației tehnico-economice privind alimentarea cu energie electrică a zonei Valea Urviz (zona km 8) cu destinația parc industrial/zonă turistică",
+"short": "HCL Ezeriș nr. 37/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49737",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-38-2021",
+"path": "local/caras-severin/ezeris/2021/38",
+"kind": "local",
+"year": "2021",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 38/2021",
+"short": "HCL Ezeriș nr. 38/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49738",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-39-2021",
+"path": "local/caras-severin/ezeris/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 39/2021",
+"short": "HCL Ezeriș nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49739",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -419,6 +883,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-41-2021",
+"path": "local/caras-severin/ezeris/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 41/2021 privind stabilirea unei locații (teren) pentru depozitarea materialelor de construcții rezultate în urma demolărilor de clădiri de pe raza UAT Ezeriș",
+"short": "HCL Ezeriș nr. 41/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-28",
+"latest": "2021-05-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49741",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +974,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-45-2021",
+"path": "local/caras-severin/ezeris/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 45/2021 privind aprobarea statutului comunei Ezeriș",
+"short": "HCL Ezeriș nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49969",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-46-2021",
 "path": "local/caras-severin/ezeris/2021/46",
 "kind": "local",
@@ -507,6 +1015,50 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-47-2021",
+"path": "local/caras-severin/ezeris/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 47/2021 privind aprobarea procesului verbal de selecție a proiectelor sportive nr. 799/14.06.2021",
+"short": "HCL Ezeriș nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-17",
+"latest": "2021-06-17",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49971",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-48-2021",
+"path": "local/caras-severin/ezeris/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 48/2021 privind aprobarea încheierii unui contarct multianual - servicii de consultanță adminsitrativă pentru Serviciul Public de Gospodărie Comunală al comunei Ezeriș privind activitățile din cadrul Serviciului de salubrizare și a Serviciului de iluminat public",
+"short": "HCL Ezeriș nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49972",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -599,6 +1151,97 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-53-2021",
+"path": "local/caras-severin/ezeris/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 53/2021",
+"short": "HCL Ezeriș nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49977",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-54-2021",
+"path": "local/caras-severin/ezeris/2021/54",
+"kind": "local",
+"year": "2021",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 54/2021",
+"short": "HCL Ezeriș nr. 54/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49979",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-55-2021",
+"path": "local/caras-severin/ezeris/2021/55",
+"kind": "local",
+"year": "2021",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 55/2021",
+"short": "HCL Ezeriș nr. 55/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49978",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-56-2021",
+"path": "local/caras-severin/ezeris/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 56/2021 privind aprobarea actelor de punere în valoare a masei lemnoase pentru asigurarea consumului necesar încălzirii pe timpul sezonului rece 2021-2022 a clădirilor publice aflate în administrarea Comunei ezeriș, respectiv pentru vânzarea masei lemnoase către populație cu destinația lemn de foc",
+"short": "HCL Ezeriș nr. 56/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49981",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-57-2021",
 "path": "local/caras-severin/ezeris/2021/57",
 "kind": "local",
@@ -618,6 +1261,74 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-58-2021",
+"path": "local/caras-severin/ezeris/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 58/2021",
+"short": "HCL Ezeriș nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49982",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-59-2021",
+"path": "local/caras-severin/ezeris/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 59/2021 privind aprobarea contractului de prestări servicii cadastrale nr. 765/02.06.2021",
+"short": "HCL Ezeriș nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49983",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-62-2021",
+"path": "local/caras-severin/ezeris/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 62/2021",
+"short": "HCL Ezeriș nr. 62/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-25",
+"latest": "2021-08-25",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49984",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -687,6 +1398,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-66-2021",
+"path": "local/caras-severin/ezeris/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 66/2021 privind aprobarea dezlipirii din CF 2 Ezeriș, nr Top 3/a/2/a/1/a/1/b/2/1b/1/1/2/1/a/1/2/2/1/1/2/1/1, asuprafeței de 3000 m.p. teren situat în intravilanul localității Ezeriș comuna Ezeriș și trecerea acestuia din domeniul public în domeniul privat al comunei Ezeriș",
+"short": "HCL Ezeriș nr. 66/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49988",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-67-2021",
 "path": "local/caras-severin/ezeris/2021/67",
 "kind": "local",
@@ -728,6 +1461,73 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-69-2021",
+"path": "local/caras-severin/ezeris/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 69/2021",
+"short": "HCL Ezeriș nr. 69/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49991",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-70-2021",
+"path": "local/caras-severin/ezeris/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 70/2021 privind aprobarea contractelor prestări servicii exploatare masă lemnoasă",
+"short": "HCL Ezeriș nr. 70/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49992",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-71-2021",
+"path": "local/caras-severin/ezeris/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 71/2021 privind aprobarea dezlipirii din CF 1 Soceni, nr Top 237/a, a suprafeței de 6700 m.p. teren situat în intravilanul localitîții Soceni comuna Ezeriș și trecerea acestuia din domeniul public în domeniul privat al comunei ezeriș",
+"short": "HCL Ezeriș nr. 71/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-24",
+"latest": "2021-09-24",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49993",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -841,6 +1641,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-79-2021",
+"path": "local/caras-severin/ezeris/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 79/2021 privind aprobarea unui contract de servicii de prelucrare arhivistică și legătorie manuală în conformitate cu legislația în vigoare",
+"short": "HCL Ezeriș nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/49999",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-81-2021",
 "path": "local/caras-severin/ezeris/2021/81",
 "kind": "local",
@@ -864,6 +1686,28 @@
 }
 },
 {
+"slug": "hcl-caras-severin--ezeris-82-2021",
+"path": "local/caras-severin/ezeris/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 82/2021 privind aprobarea încheierii unui contract multianual servicii de consultanță pentru proiectul „Reabilitare străzi în comuna Ezeriș, județul Caraș-Severin” investiție finanțată prin Pragramul Național de Investiții ”Anghel Saligny”",
+"short": "HCL Ezeriș nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-20",
+"latest": "2021-10-20",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/50001",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-caras-severin--ezeris-83-2021",
 "path": "local/caras-severin/ezeris/2021/83",
 "kind": "local",
@@ -883,6 +1727,28 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-84-2021",
+"path": "local/caras-severin/ezeris/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 84/2021 privind concesionarea prin licitație a terenului proprietate privată a comunei Ezeriș, în suprafață de 3000 mp, situat în intravilanul localității Ezeriș, având nr. cadastral 32922, înscris în cartea funciară nr. 32922 UAT ezeriș",
+"short": "HCL Ezeriș nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/50006",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -927,6 +1793,51 @@
 "council_name": "Consiliul Local al Comunei Ezeriș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-87-2021",
+"path": "local/caras-severin/ezeris/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 87/2021 privind aprobarea încheierii unui contract servicii de dirigenție șantier pentru „Lucrări suplimentare la Căminele Culturale Ezeriș și Soceni, altele față de cele contractate anterior prin măsura 7.6, comuna Ezeriș, județul Caraș-Severin”",
+"short": "HCL Ezeriș nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/50009",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-caras-severin--ezeris-88-2021",
+"path": "local/caras-severin/ezeris/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Ezeriș nr. 88/2021",
+"short": "HCL Ezeriș nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-05",
+"latest": "2021-11-05",
+"portal": "https://emol.ro/ezeris-cs/registru-hcl/50010",
+"council": "caras-severin/ezeris",
+"council_name": "Consiliul Local al Comunei Ezeriș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
