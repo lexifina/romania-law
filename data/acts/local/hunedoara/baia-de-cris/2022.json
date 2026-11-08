@@ -48,6 +48,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--baia-de-cris-55-2022",
+"path": "local/hunedoara/baia-de-cris/2022/55",
+"kind": "local",
+"year": "2022",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 55/2022",
+"short": "HCL Baia de Criș nr. 55/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-30",
+"latest": "2022-08-30",
+"portal": null,
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--baia-de-cris-56-2022",
 "path": "local/hunedoara/baia-de-cris/2022/56",
 "kind": "local",
@@ -221,6 +244,29 @@
 "council_name": "Consiliul Local al Comunei Baia de Criș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--baia-de-cris-64-2022",
+"path": "local/hunedoara/baia-de-cris/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Baia de Criș nr. 64/2022",
+"short": "HCL Baia de Criș nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-31",
+"latest": "2022-10-31",
+"portal": null,
+"council": "hunedoara/baia-de-cris",
+"council_name": "Consiliul Local al Comunei Baia de Criș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

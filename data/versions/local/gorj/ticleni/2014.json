@@ -3,6 +3,21 @@
  "shard": "local/gorj/ticleni/2014",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-153-2014",
+   "path": "local/gorj/ticleni/2014/153",
+   "short": "HCL Țicleni nr. 153/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 153/2014",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2014",
+   "versions": [
+    {
+     "from": "2014-07-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2015/02/hcl-46474849505152anexa-nr.153-din-31.07.2014.pdf",
+     "sha256": "deb2ed835ad4027aec9d9cdad21106637bda33d5c9b8f494976d70362e11cdaa"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-35-2014",
    "path": "local/gorj/ticleni/2014/35",
    "short": "HCL Țicleni nr. 35/2014",

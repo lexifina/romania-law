@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/baita/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--baita-1-2024",
+   "path": "local/hunedoara/baita/2024/1",
+   "short": "HCL Băița nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 1/2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/142589",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/142589",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-10-2024",
    "path": "local/hunedoara/baita/2024/10",
    "short": "HCL Băița nr. 10/2024",
@@ -73,6 +88,21 @@
      "from": "2024-01-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/142602",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-15-2024",
+   "path": "local/hunedoara/baita/2024/15",
+   "short": "HCL Băița nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 15/2024 privind îndreptarea erorii materiale strecurată în HCL nr.103/2023",
+   "url": "https://emol.ro/baita-hd/registru-hcl/142603",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/142603",
      "sha256": null
     }
    ]
@@ -303,6 +333,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-3-2024",
+   "path": "local/hunedoara/baita/2024/3",
+   "short": "HCL Băița nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 3/2024 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale a Secretarului general al comunei Băița pentru activitatea desfășurată în anul 2023",
+   "url": "https://emol.ro/baita-hd/registru-hcl/142591",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/142591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-30-2024",
+   "path": "local/hunedoara/baita/2024/30",
+   "short": "HCL Băița nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 30/2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/151088",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/151088",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-31-2024",
    "path": "local/hunedoara/baita/2024/31",
    "short": "HCL Băița nr. 31/2024",
@@ -358,6 +418,21 @@
      "from": "2024-04-26",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/154161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-35-2024",
+   "path": "local/hunedoara/baita/2024/35",
+   "short": "HCL Băița nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 35/2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/154162",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/154162",
      "sha256": null
     }
    ]
@@ -423,6 +498,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-4-2024",
+   "path": "local/hunedoara/baita/2024/4",
+   "short": "HCL Băița nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 4/2024 privind scoaterea din funcțiune și casarea unor obiecte de inventar,proprietate privată a comunei Băița în urma inventarierii anuale la 31.12.2023",
+   "url": "https://emol.ro/baita-hd/registru-hcl/142592",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/142592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-40-2024",
+   "path": "local/hunedoara/baita/2024/40",
+   "short": "HCL Băița nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 40/2024 privind aprobarea majorării salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/158146",
+   "versions": [
+    {
+     "from": "2024-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/158146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-41-2024",
+   "path": "local/hunedoara/baita/2024/41",
+   "short": "HCL Băița nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 41/2024 privind revocarea HCL nr.39/2024 privind aprobarea planului anual de lucrări de interes local ce se va executa de persoanele apte de muncă ,beneficiare de venit minim de incluziune în anul 2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/160977",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/160977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-42-2024",
+   "path": "local/hunedoara/baita/2024/42",
+   "short": "HCL Băița nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 42/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/160978",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/160978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-43-2024",
    "path": "local/hunedoara/baita/2024/43",
    "short": "HCL Băița nr. 43/2024",
@@ -453,6 +588,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-45-2024",
+   "path": "local/hunedoara/baita/2024/45",
+   "short": "HCL Băița nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 45/2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/160981",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/160981",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-46-2024",
    "path": "local/hunedoara/baita/2024/46",
    "short": "HCL Băița nr. 46/2024",
@@ -463,6 +613,66 @@
      "from": "2024-07-19",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/163012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-47-2024",
+   "path": "local/hunedoara/baita/2024/47",
+   "short": "HCL Băița nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 47/2024 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al Primarului comunei Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/163013",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/163013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-48-2024",
+   "path": "local/hunedoara/baita/2024/48",
+   "short": "HCL Băița nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 48/2024 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/164764",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/164764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-49-2024",
+   "path": "local/hunedoara/baita/2024/49",
+   "short": "HCL Băița nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 49/2024 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/164765",
+   "versions": [
+    {
+     "from": "2024-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/164765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-5-2024",
+   "path": "local/hunedoara/baita/2024/5",
+   "short": "HCL Băița nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 5/2024 privind aprobarea calendarului principalelor evenimente care vor fi organizate direct de către Primăria și Consiliul Local al comunei Băița în anul 2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/142593",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/142593",
      "sha256": null
     }
    ]
@@ -493,6 +703,21 @@
      "from": "2024-07-31",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/164767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-52-2024",
+   "path": "local/hunedoara/baita/2024/52",
+   "short": "HCL Băița nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 52/2024 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/168607",
+   "versions": [
+    {
+     "from": "2024-08-29",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/168607",
      "sha256": null
     }
    ]
@@ -538,6 +763,51 @@
      "from": "2024-08-29",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/168610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-56-2024",
+   "path": "local/hunedoara/baita/2024/56",
+   "short": "HCL Băița nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 56/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/172370",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/172370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-57-2024",
+   "path": "local/hunedoara/baita/2024/57",
+   "short": "HCL Băița nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 57/2024 privind anularea accesoriilor aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local al Comunei Băița, județul Hunedoara",
+   "url": "https://emol.ro/baita-hd/registru-hcl/172371",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/172371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-58-2024",
+   "path": "local/hunedoara/baita/2024/58",
+   "short": "HCL Băița nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 58/2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/172372",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/172372",
      "sha256": null
     }
    ]

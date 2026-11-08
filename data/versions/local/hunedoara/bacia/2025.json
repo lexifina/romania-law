@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-12-2025",
+   "path": "local/hunedoara/bacia/2025/12",
+   "short": "HCL Băcia nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 12/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/198947",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/198947",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-13-2025",
    "path": "local/hunedoara/bacia/2025/13",
    "short": "HCL Băcia nr. 13/2025",
@@ -648,6 +663,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-35-2025",
+   "path": "local/hunedoara/bacia/2025/35",
+   "short": "HCL Băcia nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 35/2025",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/206329",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/206329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-36-2025",
+   "path": "local/hunedoara/bacia/2025/36",
+   "short": "HCL Băcia nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 36/2025 cu privire la modificarea art. 8 (5) al Contractului de închiriere nr. 24/31 03 2022 încheiat cu SC Clasor Agrement SRL,",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/206330",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/206330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-37-2025",
    "path": "local/hunedoara/bacia/2025/37",
    "short": "HCL Băcia nr. 37/2025",
@@ -688,6 +733,21 @@
      "from": "2025-06-19",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/206333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-4-2025",
+   "path": "local/hunedoara/bacia/2025/4",
+   "short": "HCL Băcia nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 4/2025",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/193942",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/193942",
      "sha256": null
     }
    ]
@@ -793,6 +853,21 @@
      "from": "2025-06-19",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/206432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-47-2025",
+   "path": "local/hunedoara/bacia/2025/47",
+   "short": "HCL Băcia nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 47/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/212823",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/212823",
      "sha256": null
     }
    ]
@@ -1008,6 +1083,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-60-2025",
+   "path": "local/hunedoara/bacia/2025/60",
+   "short": "HCL Băcia nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 60/2025 privind constituirea echipei mobile pentru intervenția de urgență în cazurile de violență domestică în comuna Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/218402",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/218402",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-61-2025",
    "path": "local/hunedoara/bacia/2025/61",
    "short": "HCL Băcia nr. 61/2025",
@@ -1078,6 +1168,21 @@
      "from": "2025-08-01",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/218407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-66-2025",
+   "path": "local/hunedoara/bacia/2025/66",
+   "short": "HCL Băcia nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 66/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/229580",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/229580",
      "sha256": null
     }
    ]
@@ -1293,6 +1398,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-8-2025",
+   "path": "local/hunedoara/bacia/2025/8",
+   "short": "HCL Băcia nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 8/2025 privind constatarea alegerii delegatului sătesc pentru satul Totia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/193946",
+   "versions": [
+    {
+     "from": "2025-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/193946",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-80-2025",
    "path": "local/hunedoara/bacia/2025/80",
    "short": "HCL Băcia nr. 80/2025",
@@ -1303,6 +1423,21 @@
      "from": "2025-10-23",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/231015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-81-2025",
+   "path": "local/hunedoara/bacia/2025/81",
+   "short": "HCL Băcia nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 81/2025 cu privire la nominalizarea reprezentantului Consiliului local al comunei Băcia în Consiliul de Administraţie al Şcolii Gimnaziale Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/231016",
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/231016",
      "sha256": null
     }
    ]
@@ -1333,6 +1468,21 @@
      "from": "2025-10-23",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/231018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-84-2025",
+   "path": "local/hunedoara/bacia/2025/84",
+   "short": "HCL Băcia nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 84/2025 privind aprobarea închirierii prin licitaţie publică a unui teren, situat în Comuna Băcia, sat Băcia, (zona Stație de autobuz Băcia), județul Hunedoara aparţinând domeniului public al Comunei Băcia, JUDEȚUL HUNEDOARA, înscris în CF nr.62987- Băcia, nr. cad./topo 662987, valoare totală de inventar de 139.218,00 lei, în suprafaţă totală de 1705 mp, aparţinând domeniului public al Comunei Băcia, respectiv teren in vederea amenajării unei platforme betonate acoperite, pentru repararea și parcarea utilajelor agricole",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/236840",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/236840",
      "sha256": null
     }
    ]
@@ -1398,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-89-2025",
+   "path": "local/hunedoara/bacia/2025/89",
+   "short": "HCL Băcia nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 89/2025",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/236845",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/236845",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-9-2025",
    "path": "local/hunedoara/bacia/2025/9",
    "short": "HCL Băcia nr. 9/2025",
@@ -1423,6 +1588,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/236846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-91-2025",
+   "path": "local/hunedoara/bacia/2025/91",
+   "short": "HCL Băcia nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 91/2025",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/236847",
+   "versions": [
+    {
+     "from": "2025-12-02",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/236847",
      "sha256": null
     }
    ]
@@ -1468,6 +1648,21 @@
      "from": "2025-12-02",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/237338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-95-2025",
+   "path": "local/hunedoara/bacia/2025/95",
+   "short": "HCL Băcia nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 95/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/247690",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/247690",
      "sha256": null
     }
    ]

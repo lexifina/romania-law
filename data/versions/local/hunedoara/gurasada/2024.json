@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--gurasada-19-2024",
+   "path": "local/hunedoara/gurasada/2024/19",
+   "short": "HCL Gurasada nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 19/2024 privind aprobarea raportului informării şi consultării publicului şi a Planului Urbanistic de Detaliu pentru “CONSTRUIRE ȘI DOTARE RESTAURANT CU REGIM DE ÎNĂLȚIME PARTER”",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/161584",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/161584",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--gurasada-2-2024",
    "path": "local/hunedoara/gurasada/2024/2",
    "short": "HCL Gurasada nr. 2/2024",
@@ -163,6 +178,21 @@
      "from": "2024-03-06",
      "units": 1,
      "source_url": "https://emol.ro/gurasada-hd/registru-hcl/139200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-20-2024",
+   "path": "local/hunedoara/gurasada/2024/20",
+   "short": "HCL Gurasada nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 20/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/161585",
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/161585",
      "sha256": null
     }
    ]
@@ -538,6 +568,21 @@
      "from": "2024-12-17",
      "units": 1,
      "source_url": "https://emol.ro/gurasada-hd/registru-hcl/183050",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--gurasada-5-2024",
+   "path": "local/hunedoara/gurasada/2024/5",
+   "short": "HCL Gurasada nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 5/2024 privind aprobarea decontării cheltuielilor de transport între localitatea de domiciliu și localitatea locului de muncă pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Gurasada",
+   "url": "https://emol.ro/gurasada-hd/registru-hcl/143044",
+   "versions": [
+    {
+     "from": "2024-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/gurasada-hd/registru-hcl/143044",
      "sha256": null
     }
    ]

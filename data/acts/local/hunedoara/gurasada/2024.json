@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--gurasada-5-2024",
+"path": "local/hunedoara/gurasada/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 5/2024 privind aprobarea decontării cheltuielilor de transport între localitatea de domiciliu și localitatea locului de muncă pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Gurasada",
+"short": "HCL Gurasada nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-06",
+"latest": "2024-03-06",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/143044",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--gurasada-6-2024",
 "path": "local/hunedoara/gurasada/2024/6",
 "kind": "local",
@@ -376,6 +398,50 @@
 "council_name": "Consiliul Local al Comunei Gurasada",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--gurasada-19-2024",
+"path": "local/hunedoara/gurasada/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 19/2024 privind aprobarea raportului informării şi consultării publicului şi a Planului Urbanistic de Detaliu pentru “CONSTRUIRE ȘI DOTARE RESTAURANT CU REGIM DE ÎNĂLȚIME PARTER”",
+"short": "HCL Gurasada nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/161584",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--gurasada-20-2024",
+"path": "local/hunedoara/gurasada/2024/20",
+"kind": "local",
+"year": "2024",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 20/2024 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Gurasada",
+"short": "HCL Gurasada nr. 20/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-11",
+"latest": "2024-07-11",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/161585",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

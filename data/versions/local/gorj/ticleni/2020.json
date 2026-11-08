@@ -3,6 +3,126 @@
  "shard": "local/gorj/ticleni/2020",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-1-2020",
+   "path": "local/gorj/ticleni/2020/1",
+   "short": "HCL Țicleni nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 1/2020 privind utilizarea excedentului bugetar al bugetului local din anul 2019, pentru acoperirea temporară a golurilor de casă",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-1-DIN-8-IAN-2020-privind-utilizarea-excedentului-bugeta-al-bugetului-local-din-anul-2019-pentru-acoperirea-temporara-a-goluilor-de-casa.pdf",
+     "sha256": "ca3a9dcf1ceb7b8d70610a21abc1d1e6efecb40b43371331b043ee668ee2e323"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-10-2020",
+   "path": "local/gorj/ticleni/2020/10",
+   "short": "HCL Țicleni nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 10/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "4407e9427f5eb492bd833bb7975ad34f637c0425e8066fd544019425e0c0f17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-11-2020",
+   "path": "local/gorj/ticleni/2020/11",
+   "short": "HCL Țicleni nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 11/2020 privind alegerea președintelui de sedință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-11-DIN-30-IAN-2020-privind-alegerea-presedintelui-de-sedinta-pt-perioada-feb-aprilie-2020.pdf",
+     "sha256": "7a8bfe50fb78e7e1cbf550a1dea3da63550b046ac3d66d5c5a1e35e43484731d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-12-2020",
+   "path": "local/gorj/ticleni/2020/12",
+   "short": "HCL Țicleni nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 12/2020 privind completarea HCL numărul 3 din data de 08.01.2020 privind actualizarea coeficienților pentru stabilirea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-12-DIN-30-IAN-2020-privind-completare-HCL-3-DIN-8-IAN-2020.pdf",
+     "sha256": "151a6be4980002ddfbaaeb93495650f4699eda1fef03785c124a810404ed367f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-13-2020",
+   "path": "local/gorj/ticleni/2020/13",
+   "short": "HCL Țicleni nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 13/2020 privind acceptarea ofertei de sponsorizare a OMV PETROM SA cu imobilul Cantină Țicleni S+P+2",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-13-DIN-30-IAN-2020-privind-acceptarea-ofertei-de-sponsorizare-a-OMV-PETROM-SA-cu-imobilul-Cantina-Ticleni-SP2.pdf",
+     "sha256": "60e584765d5d003dbd05aa70a31f9b28f0c731c2d1233f256959527e947a0cdb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-14-2020",
+   "path": "local/gorj/ticleni/2020/14",
+   "short": "HCL Țicleni nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 14/2020 privind completarea HCL 46 din 26 august 2019 privind darea în administrarea și exploatarea SC APAREGIO GORJ a unor obiective de investiții aferente sistemului public de alimentare cu apă și canalizare al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-14-DIN-30-IAN-2020-privind-completare-hcl-46-din-26-august-2019.pdf",
+     "sha256": "55d039d1f0ce3db1504e8dd6b6e59d0d48960a6a14225d747e08032675d4564c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-15-2020",
+   "path": "local/gorj/ticleni/2020/15",
+   "short": "HCL Țicleni nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 15/2020 privind aprobarea organizării evenimentului ,,8 Martie - Ziua Internaţională a Femeii,, şi a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+   "versions": [
+    {
+     "from": "2020-02-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/06/HCL-nr.-15-din-23.02.203-privind-aprob-organiarii-evenimentului-8-Martie-Ziua-Internationala-a-Femeii-si-a-manifestarilor-dedicate-acestui-eveniment.pdf",
+     "sha256": "e1b1c53aa027f6efbb5a74c42954e896dd40efc3f0636dc9ae8cb081fc32fe9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-16-2020",
+   "path": "local/gorj/ticleni/2020/16",
+   "short": "HCL Țicleni nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 16/2020 privind aprobarea modalității de gestiune a serviciului de salubrizare pentru activitatea de curățare și transportul zăpezii de pe căile publice și menținerea în funcțiune a acestora pe timp de îngheț sau polei, în orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-16-din-04.02.2020-.pdf",
+     "sha256": "31403f56afba9ff72c753792d762d332b67b410069431a0b433d580b8618e285"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-17-2020",
    "path": "local/gorj/ticleni/2020/17",
    "short": "HCL Țicleni nr. 17/2020",
@@ -14,6 +134,156 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-17-DIN-04.02.2020-pentru-modificarea-HCL62-din-29.08.2014-.pdf",
      "sha256": "76bbcedc0fe3baaf8e8ab9798cb3c0131a1835b088e974743ebcf8bf17a2d754"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-18-2020",
+   "path": "local/gorj/ticleni/2020/18",
+   "short": "HCL Țicleni nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 18/2020 pentru modificarea și completarea HCL numărul 64 din 29.08.2014 privind stabilirea procedurii de delegare a gestiunii Serviciului de Iluminat Public al căilor de circulație în Orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-04",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-18-din-04.02.2020.pdf",
+     "sha256": "a606556527bf5900d46b506ce11f85b9d8acd24fa0c3f5f58850ec18e76d5078"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-19-2020",
+   "path": "local/gorj/ticleni/2020/19",
+   "short": "HCL Țicleni nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 19/2020 privind aprobarea bugetului local de venituri și cheltuieli al orașului Țicleni și bugetul instituțiilor finanțate integral din venituri proprii pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-nr-19-Buget-2020.pdf",
+     "sha256": "332bb23412ef080d5ce205a29767263a57693eae7d35c3b2026bc1b33a919098"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-2-2020",
+   "path": "local/gorj/ticleni/2020/2",
+   "short": "HCL Țicleni nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 2/2020 privind modificarea, stat de funcții și personal pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-2-DIN-8-IAN-2020-privind-modificarea-stat-de-functii-si-personal-pt-functionarii-publici-si-personalul-contractual-din-cadrul-aparatului-de-specialitate-al-Primarului-orasului-%C8%9Aicleni.pdf",
+     "sha256": "6a83bcb45691ca07ade2295bd3de7c5f6cbbc19533aceb327a985f5833208d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-20-2020",
+   "path": "local/gorj/ticleni/2020/20",
+   "short": "HCL Țicleni nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 20/2020 privind aprobarea organizării evenimentului ,, Ziua Internațională a Femeii și a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-20-din-27.02.2020-privind-aprobarea-organizarii-evenimentului-Ziua-Internationala-a-Femeii-si-a-manifestarilor-dedicate-acestui-eveniment.pdf",
+     "sha256": "b868e9a6408e5b98241b02aeaf9e17cb5ab0f3a9b0c7bc53a42999c3b0ad0772"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-21-2020",
+   "path": "local/gorj/ticleni/2020/21",
+   "short": "HCL Țicleni nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 21/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "634c1bafbac51eaebb669a35acd711961c239c10af5791941bdb5f368e5e800b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-22-2020",
+   "path": "local/gorj/ticleni/2020/22",
+   "short": "HCL Țicleni nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 22/2020 privind aprobarea Planului anual de acțiune al serviciilor sociale anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-22-din-27.02.2020-privind-aprobarea-Planului-anual-de-actiune-al-serviciilor-sociale.pdf",
+     "sha256": "15a584fa49177deada07c8ff0b0471aa3a20c811aa7d4325b4c6b1cf5f13c245"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-23-2020",
+   "path": "local/gorj/ticleni/2020/23",
+   "short": "HCL Țicleni nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 23/2020 privind Planul de ordine și siguranță publică al Poliției Locale Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCl-23-din-27.02.2020-privind-Planul-de-ordine-si-siguranta-publica-al-Politiei-Locale-Ticleni.pdf",
+     "sha256": "6a00b762ac8295372bc7d9f8c9668d58c8986434235f3200d27c7d1e2d47a24b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-24-2020",
+   "path": "local/gorj/ticleni/2020/24",
+   "short": "HCL Țicleni nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 24/2020 privind aprobarea contractului de sponsorizare a OMV Petrom cu imobilul Cantina Țicleni S+P+2",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-02-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-24-din-02.03.2020-privind-aprobarea-contractului-de-sponsorizare-a-OMV-Petrom-cu-imobilul-Cantina-Ticleni-SP2.pdf",
+     "sha256": "4360bc03d07d726a4a4e0518bba15263cce68776bba1a4c118bf5f9dc247e0b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-29-2020",
+   "path": "local/gorj/ticleni/2020/29",
+   "short": "HCL Țicleni nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 29/2020 privind alegerea președintelui de ședință pentru mai-iulie 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-29-DIN-30.04.2020-PRIVIND-ALEGEREA-PRESEDINTELUI-DE-SEDINTA-PE-PERIOADA-MAI-IULIE-2020.pdf",
+     "sha256": "a9e64ad98532cd3f4afbfe60c4c35193f37521fa5854be1d641f81b305b470af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-3-2020",
+   "path": "local/gorj/ticleni/2020/3",
+   "short": "HCL Țicleni nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 3/2020 privind modificarea, stat de funcții și personal pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-3-DIN-8-IAN-2020-privind-modificarea-stat-de-functii-si-personal-pt-functionarii-publici-si-personalul-contractual-din-cadrul-aparatului-de-specialitate-al-Primarului-orasului-%C8%9Aicleni.pdf",
+     "sha256": "1a6d213995730bdafed27d013ce055e90d136fa5d2074fbc09336c61cb8e2615"
     }
    ]
   },
@@ -33,6 +303,81 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-31-2020",
+   "path": "local/gorj/ticleni/2020/31",
+   "short": "HCL Țicleni nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 31/2020 privind aprobarea Programului de masuri pentru gospodărirea și înfrumusețarea Orașului Țicleni în anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-31-DIN-30.04.2020-PRIVIND-APROBARE-PROGRAM-DE-MASURI-PT-GOSPODARIREA-SI-INFRUMUSETAREA-OR.-TICLENI.pdf",
+     "sha256": "9d9e7b91f53a3e26aea1abc8782085b09d9d74c4eec3193d3ec911998d990fbd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-32-2020",
+   "path": "local/gorj/ticleni/2020/32",
+   "short": "HCL Țicleni nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 32/2020 privind rectificarea bugetului local al orașului pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-05-06",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-32-DIN-06.05.2020-PRIVIND-RECTIFICARE-BUGET-LOCAL.pdf",
+     "sha256": "1d6e3d712876e6477afc2854d7f917d121127ef10087051e88b80504cd3d7c49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-39-2020",
+   "path": "local/gorj/ticleni/2020/39",
+   "short": "HCL Țicleni nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 39/2020 privind împuternicirea reprezentantului Orașului Țicleni în Adunarea Generală a Asociației de Dezvoltare Întercomunitară ADIA Gorj, de a vota favorabil acceptarea de noi membrii",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-39-DIN-25.06.2020-PRIVIND-IMPUTERNICIREA-REPR-OR.TICLENI-IN-AGA-A-ADIA-GORJ-DE-A-VOTA-FAVORABIL-ACCEPTAREA-DE-NOI-MEMBRII.pdf",
+     "sha256": "1f65e21fe90a50e097675a2d17a6d5d51e0dff0cf18920f8448bc71be437705e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-4-2020",
+   "path": "local/gorj/ticleni/2020/4",
+   "short": "HCL Țicleni nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 4/2020 privind aprobarea închirierii unui imobil (cabinet medical) aparținând domeniului public al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-4-DIN-8-IAN-2020-privind-aprobarea-inchirierii-unui-imobil-cabinet-medical-apartinand-domeniului-public-al-orasului-%C8%9Aicleni.pdf",
+     "sha256": "3953d27d3f22a03925af0206080eb72a734b7dde64b1f5a1c1d3d9a39a8490c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-40-2020",
+   "path": "local/gorj/ticleni/2020/40",
+   "short": "HCL Țicleni nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 40/2020 privind acordarea unui ajutor de urgență suplimentar numitei Giurea Iulica pentru efectuarea de investigații medicale/intervenții chirurgicale/procurarea de medicamente/efectuarea unui tratament medical de specialitate",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-40-DIN-25.06.020-ACORDAREA-AJUTOR-DE-URGENTA-SUPLIMENTAR-GIURA-IULICA.pdf",
+     "sha256": "6762c165829847e30039032417a0dcae29c6ada1e10884609c58d4ae4bc59e92"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-41-2020",
    "path": "local/gorj/ticleni/2020/41",
    "short": "HCL Țicleni nr. 41/2020",
@@ -48,6 +393,111 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-42-2020",
+   "path": "local/gorj/ticleni/2020/42",
+   "short": "HCL Țicleni nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 42/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "4c19843d90986d898704e19fe4dfa8e1dd636a135cc785c7da8b883018dee6f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-43-2020",
+   "path": "local/gorj/ticleni/2020/43",
+   "short": "HCL Țicleni nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 43/2020 privind utilizarea excedentului din venituri proprii al anului 2019",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-06-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-43-DIN-25.06.2020-PRIVIND-UTILIZAREA-EXCEDENTULUI.pdf",
+     "sha256": "0f620b8844bc1f6b42d71fb25e31a493b2e8736c928a7fac0d178c2dfb1561d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-44-2020",
+   "path": "local/gorj/ticleni/2020/44",
+   "short": "HCL Țicleni nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 44/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-07-22",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "6aa526ecba279f38e773e7be292c315a387f52e0b56469392bc3f32d5e8a000a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-45-2020",
+   "path": "local/gorj/ticleni/2020/45",
+   "short": "HCL Țicleni nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 45/2020 privind rectificarea bugetului local al orașului și bugetul instituțiilor publice finanțate din venituri proprii pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-45-DIN-30.07.2020-PRIVIND-RECTIFICAREA-BUGETULUI-LOCAL.pdf",
+     "sha256": "411e9b0a3d79cb48fe9279c9a5cf44ca4821744245245e13259465773fb31a8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-46-2020",
+   "path": "local/gorj/ticleni/2020/46",
+   "short": "HCL Țicleni nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 46/2020 privind alegerea președintelui de ședință pentru perioada august-septembrie 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-46-DIN-30.07.2020-PRIVIND-ALEGEREA-PRESEDINTELUI-DE-SEDINTA-PT-PERIOADA-AUGUST-SEPT-2020.pdf",
+     "sha256": "37bbf20416255f69d609ea26a1e7c43f87a50dbbec4ea059d3f50f52b1ef62f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-48-2020",
+   "path": "local/gorj/ticleni/2020/48",
+   "short": "HCL Țicleni nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 48/2020 privind aprobarea materialelor din cuprinsul Anuarului Orașului Țicleni ,,Glasul Cetății,, ediția 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-48-PRIVIND-APROBAREA-MATERIALELOR-DIN-CUPRINSUL-ANUARULUI-OR.-TICLENI-EDITIA-2020.pdf",
+     "sha256": "d849adbe090a0f597318bed8956631ce0d82f788ccfc15da87f525816c42848e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-49-2020",
+   "path": "local/gorj/ticleni/2020/49",
+   "short": "HCL Țicleni nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 49/2020 privind împuternicirea reprezentantului Orașului Țicleni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ADIA Gorj, de a vota favorabil acceptarea de noi membrii",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-49-DIN-27.08.2020-PRIVIND-IMPUTERNICIREA-REPREZ-OR.TICLENI-IN-AGA-IN-ADIA-GORJ.pdf",
+     "sha256": "37dd653c6a9686f5ba719ca1e1dd80256f7b0fe6d8aeba350b765ae453635af9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-5-2020",
    "path": "local/gorj/ticleni/2020/5",
    "short": "HCL Țicleni nr. 5/2020",
@@ -59,6 +509,441 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-5-DIN-13-IAN-2020-privind-aprobare-tarifului-practicat-de-SC-SALUBRIS-GILORT-SRL.pdf",
      "sha256": "5c47c9dc981a0ea7271eb1849bb7ded0c4de6a2a3370a7533121b6eddbe904fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-50-2020",
+   "path": "local/gorj/ticleni/2020/50",
+   "short": "HCL Țicleni nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 50/2020 privind încheierea unui Protocol între Primăria Orașului Țicleni și Școala Populară de Artă pentru instruirea și promovarea grupului instrumental ,,Voinicelul,, și Ansamblul de dans ,,Petrolul",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-50-DIN-27.08.2020-PRIVIND-INCHEIEREA-UNUI-PROTOCOL-INTRE-PRIMARIA-OR.TICLENI-SI-SC-POPULARA-DE-ARTA.pdf",
+     "sha256": "d7beafea4a4c33310144272db5e7afaf049d7387ff48cde45f1892c74ae345a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-51-2020",
+   "path": "local/gorj/ticleni/2020/51",
+   "short": "HCL Țicleni nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 51/2020 privind aprobarea participării la procedura de licitație a serviciului de salubrizare de pe raza orașului Țicleni, județul Gorj organizată în cadrul Asociației de Dezvoltare Intercomunitară în Domeniul Serviciilor Publice de Salubrizare Gorj – ADIS Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-51-DIN-27.08.2020-PRIVIND-PARTICIPARII-LA-PROCEDURA-DE-LICITATIE-A-SERV-DE-SALUBRIZARE.pdf",
+     "sha256": "d3137d9c3bc73b57b028f28b7390c02d15c483b3df974011ea36c226aa7add2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-52-2020",
+   "path": "local/gorj/ticleni/2020/52",
+   "short": "HCL Țicleni nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 52/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "58a0d12d5a206e0f27b3d34b3402f92d79a63e64bbd001f7e2cdc49c78f34e1f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-53-2020",
+   "path": "local/gorj/ticleni/2020/53",
+   "short": "HCL Țicleni nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 53/2020 privind rectificarea bugetului local al orașului pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-53-DIN-08.09.2020-PRIVIND-RECTIFICAREA-BUGETULUI-LOCAL.pdf",
+     "sha256": "27c3015ff55d90c9a15deaebadc679e2b5539faf2eb12266c3032c0c27dd788a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-54-2020",
+   "path": "local/gorj/ticleni/2020/54",
+   "short": "HCL Țicleni nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 54/2020 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Țicleni a investiției ,, Eficientizare iluminat public,, în vederea scoaterii din funcțiune a respectivei investiții și inventarierea bunurilor rezultate",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-54-DIN-08.09.2020-PRIVIND-APROBAREA-TRECERII-DIN-DOMENIULUI-PUBLIC-IN-DOMENIUL-PRIVAT-AL-ORASULUI-TICLENI-EFICENTIEZAREA-ILUMINAT-PUBLIC.pdf",
+     "sha256": "585776ab0d9303764aec2ab1c4ed955562f5eaa3050d5683160bdfc8c29767fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-55-2020",
+   "path": "local/gorj/ticleni/2020/55",
+   "short": "HCL Țicleni nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 55/2020 privind rectificarea bugetului local al orașului Țicleni pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-55-DIN-24.09.2020-PRIVIND-RECTIFICAREA-BUGETULUI.pdf",
+     "sha256": "307a6e1926095ba330982794f2e17c502ee12d219175bba49ee1bc22420adc6c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-56-2020",
+   "path": "local/gorj/ticleni/2020/56",
+   "short": "HCL Țicleni nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 56/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "cf330a14376ee66a86789761216a85874a6873bff3deccf1c301d520200831fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-57-2020",
+   "path": "local/gorj/ticleni/2020/57",
+   "short": "HCL Țicleni nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 57/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-57-DIN-24.09.2020-PRIVIND-PRELUNGIRE-A-CONTRACTULUI-DE-CONCESIUNE-NR.8631-DIN-21.11.2005.pdf",
+     "sha256": "fd3140667ff79ca9118c1fc44467b47bac7e70a5e9efeea230cdff80314d73ad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-58-2020",
+   "path": "local/gorj/ticleni/2020/58",
+   "short": "HCL Țicleni nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 58/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "f9aa91bebedf43d1ccfda79c5592f8d4afe42cb936915d961119e621d2fff5a8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-59-2020",
+   "path": "local/gorj/ticleni/2020/59",
+   "short": "HCL Țicleni nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 59/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "6a8bfb4feb72402b5a608597f5df9b18d38a0c3b0453adf98649822cb98ed0ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-6-2020",
+   "path": "local/gorj/ticleni/2020/6",
+   "short": "HCL Țicleni nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 6/2020 privind inventarierea materiei impozabile pentru anul fiscal 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-6-DIN-30-IAN-2020-PRIVIND-INVENTARIEREA-MATERIEI-IMPOZABLE-PT-ANUL-FISCAL-2020.pdf",
+     "sha256": "8534f8648725024f3f62c2d86f84dc9c25c5f4e58f1e21720a85698796d9bc4d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-60-2020",
+   "path": "local/gorj/ticleni/2020/60",
+   "short": "HCL Țicleni nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 60/2020 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-60-DIN-19.11.2020-PRIVIND-ALEGEREA-PRESEDINTELUI-DE-SEDINTA.pdf",
+     "sha256": "06be7be437fa268becab687ba04ac8bc27c8a551816d117fe776044e7bf308d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-61-2020",
+   "path": "local/gorj/ticleni/2020/61",
+   "short": "HCL Țicleni nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 61/2020 privind rectificarea bugetului local al orașului Țicleni pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-61-DIN-19.11.2020-DIN-RECTIFICAREA-BUGETULUI-LOCAL.pdf",
+     "sha256": "20d1724c75ff5ee0350b33107ea9f294bf358d56ab520e52aabcd7128b7f749c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-62-2020",
+   "path": "local/gorj/ticleni/2020/62",
+   "short": "HCL Țicleni nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 62/2020 privind aprobarea Regulamentului de Organizare și Funcționare al Consiliului Local al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-62-DIN-19.11.2020-PRIVIND-APROBARE-ROF-AL-CL-TICLENI.pdf",
+     "sha256": "612245abaaa2e2efdc8ab7fc2fe2b0b180f309c5c90903d676e7e78e40e09cf8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-63-2020",
+   "path": "local/gorj/ticleni/2020/63",
+   "short": "HCL Țicleni nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 63/2020 privind alegerea viceprimarului orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-63-DIN-19.11.2020-PRIVIND-ALEGEREA-VICEPRIMARULUI-OR.TICLENI.pdf",
+     "sha256": "53a249d8807b3d69615bde3c3cee33e873d007a5a85173f9bf41c1886ba8a9af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-64-2020",
+   "path": "local/gorj/ticleni/2020/64",
+   "short": "HCL Țicleni nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 64/2020 privind aprobarea ,,Agendei Culturale a Orașului Țicleni,, – pe anul 2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-64-DIN-19.11.2020-PRIVIND-APROBAREA-AGENDEI-CULTURALE-A-OR.TICLENI-PT-ANUL-2021.pdf",
+     "sha256": "e130e7181fdc9caab579f2c669669bc8ce6234f401f19fcb99366a0798d90608"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-65-2020",
+   "path": "local/gorj/ticleni/2020/65",
+   "short": "HCL Țicleni nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 65/2020 privind desemnarea unui reprezentant al Consiliului Local Țicleni ca membru în Comisia pentru evaluarea și asigurarea calității în Școala Gimnazială nr. 1 Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-65-DIN-26.11.2020-PRIVIND-DESEMNAREA-UNUI-REPREZ.AL-CL-TICLENI-CA-MEMBRU-IN-COMISIA-PT-EVALUAREA-SI-ASIG-CALITATII-IN-SC.GIM_.NR1_.pdf",
+     "sha256": "160d1e2dac409e8ba04244b7cb9c3e691fd964e3fc20e5ec59ff077b607f0698"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-66-2020",
+   "path": "local/gorj/ticleni/2020/66",
+   "short": "HCL Țicleni nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 66/2020 privind desemnarea reprezentanților Consiliului Local Țicleni ca membrii în Consiliul de Administrație al Școlii Gimnaziale nr. 1 Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-66-DIN-26.11.2020-PRIVIND-DESEMNARE-REPREZENTANTI-CL-IN-CA-SC.GIMNAZIALA-NR.1.pdf",
+     "sha256": "837f8dbd81d789de15bc1ddf347c6d5913be819e07e8ea43cf9c21b480efdd31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-67-2020",
+   "path": "local/gorj/ticleni/2020/67",
+   "short": "HCL Țicleni nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 67/2020 privind aprobarea Raportului de Evaluare a patrimoniului public și privat al Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-67-DIN-26.11.2020-PRIVIND-APROBARE-RAPORT-DE-EVALUARE-A-PATRIMONIULUI-PUBLIC-SI-PRIVAT-AL-OR.TICLENI.pdf",
+     "sha256": "1309b625976180e173ac270a57e46a78541870dc60ffc87311f13cc20c44dd4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-68-2020",
+   "path": "local/gorj/ticleni/2020/68",
+   "short": "HCL Țicleni nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 68/2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+     "sha256": "cf14170c06e4ec9ff656f30bebf860db98510d7cab98a5a73496f8f5c5b37341"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-7-2020",
+   "path": "local/gorj/ticleni/2020/7",
+   "short": "HCL Țicleni nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 7/2020 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-7-DIN-30-IAN-2020-privind-aprobarea-numarului-de-asistenti-personali-ai-persoanelor-cu-handicap-grav.pdf",
+     "sha256": "94d4781f3252068c6c8d5af6aea82d9a3b8123852eb9af425204feb9f17a960f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-75-2020",
+   "path": "local/gorj/ticleni/2020/75",
+   "short": "HCL Țicleni nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 75/2020 privind rectificarea bugetului local al Orașului Țicleni pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-15",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-75-DIN-15.12.2020-PRIVIND-RECTIFICAREA-BUGETULUI.pdf",
+     "sha256": "50c038666ac50c0b7e3eb4aabc79475526919b88c806de699cecc927ad9e2143"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-76-2020",
+   "path": "local/gorj/ticleni/2020/76",
+   "short": "HCL Țicleni nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 76/2020 privind rectificarea bugetului local al Orașului Țicleni pe anul 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-76-DIN-21.12.2020-PRIVIND-RECTIFICAREA-BUGETULUI.pdf",
+     "sha256": "6b6ea22ded6c35f75cdb83031f60c7207729cb2a7306ca2ee8435e30576ca06b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-77-2020",
+   "path": "local/gorj/ticleni/2020/77",
+   "short": "HCL Țicleni nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 77/2020 privind inventarierea materiei impozabile pe anul fiscal 2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-77-DIN-23.12.2020-PRIVIND-INVENTARIEREA-MATERIEI-IMPOZABILE-PT-ANUL-FISCAL-2021.pdf",
+     "sha256": "781c8de3229627c124360e3ca04a4a9afccd72a8ef5ede0b0c04a9f096b4beae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-78-2020",
+   "path": "local/gorj/ticleni/2020/78",
+   "short": "HCL Țicleni nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 78/2020 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-78-DIN-23.12.2020-PRIVIND-ALEGEREA-PRESEDINTELUI-DE-SEDINTA.pdf",
+     "sha256": "e95fe82fe095e0b66c190442af76605c7f131d244013bfd61b0bee5a424ff9cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-79-2020",
+   "path": "local/gorj/ticleni/2020/79",
+   "short": "HCL Țicleni nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 79/2020 pentru modificarea și completarea HCL nr. 16/04.02.2020 privind aprobarea modalității de gestiune a serviciului de salubrizare pentru activitatea de curațarea și transportul zapezii de pe căile publice și menținerea în funcțiune a acestora pe timp de îngheț sau",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-79-DIN-23.12.2020-PRIVIND-MODIFICAREA-SI-COMPLETAREA-HCL-NR.16-DIN-04.02.2020.pdf",
+     "sha256": "9231f91bff3bfc77c19d930be2780d58c253449f629b431a1da96fba4a60106d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-80-2020",
+   "path": "local/gorj/ticleni/2020/80",
+   "short": "HCL Țicleni nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 80/2020 privind aprobarea STRATEGIEI de dezvoltare a serviciilor sociale acordate la nivelul orașului Țicleni, județul Gorj, pentru perioada 2021-2025 și a Planului de acțiune pentru implementarea strategiei",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-80-DIN-23.12.2020-PRIVIND-APROBAREA-STRATEGIEI-DE-DEZV-A-SERVICIILOR-SOCIALE-ACORDATE-LA-NIVELUL-OR.TICLENI.pdf",
+     "sha256": "9d1007cfbbe5d9c9857fac5c561e8f830647e4de45c8ce2400a0079f9d27e0da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-81-2020",
+   "path": "local/gorj/ticleni/2020/81",
+   "short": "HCL Țicleni nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 81/2020 privind numirea reprezentantului orașului Țicleni în Adunarea Generala a Acționarilor la SC APAREGIO GORJ SA",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2021/02/HCL-81-DIN-23.12.2020-PRIVIND-NUMIREA-REPREZENTANTULUI-OR.TICLENI-IN-AGA-APAREGIO.pdf",
+     "sha256": "22666257974d39607e9d01fa803c9c9d892478e52d0e041a9e0e78bc2378fba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-9-2020",
+   "path": "local/gorj/ticleni/2020/9",
+   "short": "HCL Țicleni nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 9/2020 privind aprobarea colectivului de redacție al Anuarului orașului Țicleni ,,Glasul Cetății,, ediția 2020",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2020",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2020/03/HCL-9-DIN-30-IAN-2020-privind-aprobarea-colectivului-de-redactie-al-Anuarului-orasului-%C8%9Aicleni-Glasul-cet%C4%83%C8%9Bii-editia-2020.pdf",
+     "sha256": "a99c939dd70772fba3120f49e141c363a3de37de2d3a7093fd792babfaae009c"
     }
    ]
   }

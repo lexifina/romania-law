@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--branisca-2-2021",
+   "path": "local/hunedoara/branisca/2021/2",
+   "short": "HCL Brănișca nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 2/2021 privind alegerea presedintelui de sedinta",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/24634",
+   "versions": [
+    {
+     "from": "2021-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/24634",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-20-2021",
    "path": "local/hunedoara/branisca/2021/20",
    "short": "HCL Brănișca nr. 20/2021",

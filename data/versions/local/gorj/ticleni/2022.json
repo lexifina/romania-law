@@ -3,6 +3,111 @@
  "shard": "local/gorj/ticleni/2022",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-10-2022",
+   "path": "local/gorj/ticleni/2022/10",
+   "short": "HCL Țicleni nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 10/2022 privind aprobarea Planului anual de acțiune al serviciilor sociale administrate și finanțate din bugetul Consiliului Local al orașului Țicleni, județul Gorj, pentru anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-10-din-24.02.2022-privind-aprobare-Plan-de-actiune-al-serviciilor-sociale.pdf",
+     "sha256": "ccf0104591d5be6d1ec949522ca8d59f6dc238528957da598fbeb496ad8b92c1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-100-2022",
+   "path": "local/gorj/ticleni/2022/100",
+   "short": "HCL Țicleni nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 100/2022 privind rectificarea bugetului local de venituri și cheltuieli al orasului Țicleni pe anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-100-DIN-13.12.2022-PRIVIND-RECTIFICAREA-BUGETULUI-LOCAL-DE-VENITURI-SI-CHELTUIELI-AL-OR.TICLENI.pdf",
+     "sha256": "25c00ec2abe77bb353837b401bbc1b1e23b0a634d9016543674b7bd9411f72b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-101-2022",
+   "path": "local/gorj/ticleni/2022/101",
+   "short": "HCL Țicleni nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 101/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii ,,Realizare podețe, dalări șanțuri și ziduri de sprijin, etapa TV”, aprobat pentru finanțare prin Programul național de investiții ,,Anghel Saligny”, precum și a sumei reprezentând categoriil",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-101-DIN-13.12.2022-PRIVIND-APROBAREA-INDICATORILOR-TEH.EC_.-PT-OBIECTIVUL-DE-INVESTITII-REALIZARE-PODETEDALARI-SANTURI-SI-ZIDURI-DE-SPRIJIN-ETAPA-IV.pdf",
+     "sha256": "0453ddc8006d529e444f0251c21fb22adebaa70da52dbd789f23357fa27d4a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-102-2022",
+   "path": "local/gorj/ticleni/2022/102",
+   "short": "HCL Țicleni nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 102/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "3ea6e58c559867d6b2ea51b9a6e0f53c31fcaaa53fecbc2cd9b86025a4715f88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-103-2022",
+   "path": "local/gorj/ticleni/2022/103",
+   "short": "HCL Țicleni nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 103/2022 privind aprobarea predării către Ministerul Dezvoltarii, Lucrarilor Publice și Administratiei prin Compania Naționala de lnvestiții ,,CNI”-SA pe baza de protocol a amplasamentului, clădire și teren aferent, situate în",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-13",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-103-DIN-13.12.2022-PRIVIND-MODIFICAREA-SI-COMPLETARE-HCL-NR.8-DIN-18.02.2022.pdf",
+     "sha256": "3494ee560bae434474fe666e982ec49d3cd73e6705e23bdd154f294894bad96e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-104-2022",
+   "path": "local/gorj/ticleni/2022/104",
+   "short": "HCL Țicleni nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 104/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-104-DIN-22.12.2022-PRIVIND-APROBAREA-RETELEI-UNITATILOR-DE-INVATAMANT-PREUNIVERSITAR-DE-STAT-CE-URMEAZA-A-FUNCTIONA-IN-ANUL-SCOLAR-2023-2024-PE-RAZA-OR.TICLENI.pdf",
+     "sha256": "773456be7d303d51f79cf0ea295cae53588da52d2fc1060fc378039ee3cb76b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-105-2022",
+   "path": "local/gorj/ticleni/2022/105",
+   "short": "HCL Țicleni nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 105/2022 privind inventarierea materiei impozabile pentru anul fiscal 2023",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-NR.-105-DIN-22.12.2022-privind-inventarierea-materiei-impozabile-pentru-anul-fiscal-2023.pdf",
+     "sha256": "527bfedf981db4163ccb29849cd299352798e15c29abf6ed0f78c8a1e00c4964"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-106-2022",
    "path": "local/gorj/ticleni/2022/106",
    "short": "HCL Țicleni nr. 106/2022",
@@ -18,6 +123,291 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-11-2022",
+   "path": "local/gorj/ticleni/2022/11",
+   "short": "HCL Țicleni nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 11/2022 pentru modificarea Anexei nr. 2 la HCL nr. 89/19.11.2021 privind înființarea Serviciului Public Comunitar Local de Evidența a Persoanelor al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-11-din-24.02.2022-priv-modif-anexa-nr.2-la-HCL-nr.89-din-19.11.2021.pdf",
+     "sha256": "e0c28a4ad5dfb7764775b20d7aba91e738697792475440f07760393ba9f283b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-12-2022",
+   "path": "local/gorj/ticleni/2022/12",
+   "short": "HCL Țicleni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 12/2022 privind aprobarea numărului burselor școlare, respectiv burselor de ajutor social, burselor de studiu, burselor de merit și burselor de performanță, pentru elevii din învățământul preuniversitar de stat, cu frecvență, din orașul Țicleni, care se acordă pentru semestrul II",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-12-din-24.02.2022-privind-aprobarea-nr-burselor-scolare.pdf",
+     "sha256": "415335fc02affcdbe215e977d5ee66b602d5240e4046f42cb6abf3921f3e57bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-13-2022",
+   "path": "local/gorj/ticleni/2022/13",
+   "short": "HCL Țicleni nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 13/2022 pentru modificarea HCL nr. 58/03.09.2021 privind propunerea de schimbare a destinației imobilului ,,cantina liceu,, , situat în orașul Țicleni, str. Petroliștilor, nr. 710, jud. Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-13-din-15.03.2022-privind-modificare-Hcl-nr.58-din-03.09.2021.pdf",
+     "sha256": "51dd04b91a785b410346ca0af4b014e5557753d38f2ca418a171f992e1e27f1b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-14-2022",
+   "path": "local/gorj/ticleni/2022/14",
+   "short": "HCL Țicleni nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 14/2022 privind rectificarea bugetului local de venituri și cheltuieli al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-15",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-14-din-15.03.2022-privind-rectificarea-bugetului-local.pdf",
+     "sha256": "86534686d6c6f7b262909a42177cc6dd5c3ccac423d0e474d603ea2d47e34be6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-15-2022",
+   "path": "local/gorj/ticleni/2022/15",
+   "short": "HCL Țicleni nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 15/2022 privind modificare organigramă, ștatul de funcții și personal al aparatului de specialitate al primarului Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-15-din-24.03.2022-priv-modificare-organigrama-stat-de-functii-si-personal.pdf",
+     "sha256": "7e95224ff075cdb5c01cad0adb30a6db7125f176e9a71e03b10d5852c7fd824f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-16-2022",
+   "path": "local/gorj/ticleni/2022/16",
+   "short": "HCL Țicleni nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 16/2022 privind atribuirea denumirii ,,Clădire publică SPCLEP Țicleni,, ,, Clădirii fost sediu Petroservice,, și trecere din domeniu privat al UAT Țicleni în domeniu public al UAT Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-16-din-24.03.2022-privind-atribuirea-denumirii-Cladire-publica-SPCLEP-Ticleni.pdf",
+     "sha256": "f6aa1a9cb326babdd407adacd84bb490c96ddece358a056d82b6507f4780cd14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-17-2022",
+   "path": "local/gorj/ticleni/2022/17",
+   "short": "HCL Țicleni nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 17/2022 privind atribuirii denumirii ,, Clădire publică birouri Primăria Țicleni,, ,,Cladirii Cantină Țicleni S+P+2,, și trecerea din domeniu privat al UAT Oraș Țicleni în domeniul public al UAT Oraș Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-17-din-24.03.2022-privind-atrib-denumirii-Cladire-publica-birouri-Primaria-Ticleni.pdf",
+     "sha256": "53bbd2257c971a052dd4ea367f7dabc26f581c75d03232cf9e3ccdb78b581e50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-18-2022",
+   "path": "local/gorj/ticleni/2022/18",
+   "short": "HCL Țicleni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 18/2022 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-18-din-31.03.2022-privind-alegerea-presedintelui-de-sedinta.pdf",
+     "sha256": "e551b543ee231cf80b9169dd4aeeef6eb3c391608d7c48a335ade12e07192e94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-20-2022",
+   "path": "local/gorj/ticleni/2022/20",
+   "short": "HCL Țicleni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 20/2022 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul localității Țicleni pentru anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-20-PRIVIND-APROBAREA-PLANULUI-DE-ANALIZA-SI-ACOPERIRE-A-RISCURILOR-LA-NIVELUL-LOCALITATII-TICLENI-PT-ANUL-2022.pdf",
+     "sha256": "b5deb9e621b228545127eb0c8483ca142129452c521c4aa010c53052ee02e40b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-21-2022",
+   "path": "local/gorj/ticleni/2022/21",
+   "short": "HCL Țicleni nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 21/2022 privind darea în administrare a unor bunuri mobile și imobile, proprietate publică și privată a orașului Țicleni către Liceul Tehnologic Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-21-PRIVIND-DAREA-IN-ADMINISTRARE-A-UNOR-BUNURI-MOBILE-SI-IMOBILE-CATRE-LTT-TICLENI.pdf",
+     "sha256": "42c39ea82c0bd5035f0c4dc8d92054e047ed5d53c2a2536d2aa2c419ce4dfe4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-22-2022",
+   "path": "local/gorj/ticleni/2022/22",
+   "short": "HCL Țicleni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 22/2022 privind darea în administrare a unor bunuri mobile și imobile, cât și a unor obiecte de inventar proprietate publică și privată a orașului Țicleni către Școala Gimnazială nr. 1 Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-22-DIN-31.03.2022-PRIV-DAREA-IN-ADMINISTRARE-A-UNUOR-BUNURI-MOBILE-SI-IMOBILE-CAT-SI-A-UNOR-OBIECTE-DE-INVENTAR-CATRE-SC.GIM_.NR_.1.pdf",
+     "sha256": "9cd1a3feab758c37857985a31f354cebb23324420bada614d95c710b64c0ffd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-23-2022",
+   "path": "local/gorj/ticleni/2022/23",
+   "short": "HCL Țicleni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 23/2022 privind aprobarea contului de execuție al Bugetului Local, Bugetului instituțiilor publice finanțate din venituri proprii, situațiile financiare și anexele, încheiate la data de 31.12.2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-23-din-31.03.2022-privind-aprobare-cont-executie.pdf",
+     "sha256": "635737254bbea7e687a61f35273457608083410e2435a1988088ad3436eaf397"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-24-2022",
+   "path": "local/gorj/ticleni/2022/24",
+   "short": "HCL Țicleni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 24/2022 privind trecerea imobilelor gospodărie anexă (cod inventar 1170, valoare inventar 1345,64lei) spălătorie liceu (cod inventar 1189, valoare inventar 11672,62 lei) din domeniul public în domeniul privat al orașului Țicleni și scoaterea din funcțiune, casarea și dezmembrarea i",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-24-din-31.03.2022-privind-trecerea-imobilelor-gospodarie-anexa-gospodarie-anexa-cod.pdf",
+     "sha256": "cf8a60fcbc301541663999b62bc00f2003fde4589d25389b2dcbadb3998e5883"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-25-2022",
+   "path": "local/gorj/ticleni/2022/25",
+   "short": "HCL Țicleni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 25/2022 privind Programului de măsuri pentru gospodărirea și înfrumusețarea Orașului Țicleni în anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-25-din-31.03.2022-priv-aprob-Program-de-masuri-pt-gosp-si-infrumusetarea-Orasului-Ticleni-in-anul-2022.pdf",
+     "sha256": "71854b98b11424999cb5ae753adb8f664638f0376924349f99a577d88abbdecf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-26-2022",
+   "path": "local/gorj/ticleni/2022/26",
+   "short": "HCL Țicleni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 26/2022 privind revocarea HCL nr. 95 din 25.11.2021",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-26-din-31.03.2022-privind-revocarea-HCL-95-din-25.11.2021.pdf",
+     "sha256": "0b58b44441a59b93d1c665c662dd56a8a1f75ec36d7603a8d743f8539342bb30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-27-2022",
+   "path": "local/gorj/ticleni/2022/27",
+   "short": "HCL Țicleni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 27/2022 privind aprobarea orarului de funcționare al unor unități de alimentație publică în orașul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-27-din-31.03.2022-privind-orarului-de-functionare-al-unor-unitati-de-alim.-publica-in-or.-Ticleni.pdf",
+     "sha256": "a6e59b02eac2f590d77743ff0d6102300a31f1b3749e0358ec5325852ba08556"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-28-2022",
+   "path": "local/gorj/ticleni/2022/28",
+   "short": "HCL Țicleni nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 28/2022 privind aprobarea organizarii și desfășurării Zilelor Orașului Țicleni în perioada 12-13 iunie 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-28-privind-aprobarea-organizarii-si-desfasurarii-Zilelor-or.-Ticleni.pdf",
+     "sha256": "98e86f4857bd02479f791857bd5d21ea9f7c9a2b828305773079af9fa84f999e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-29-2022",
+   "path": "local/gorj/ticleni/2022/29",
+   "short": "HCL Țicleni nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 29/2022 privind aprobarea organizării unor manifestări dedicate evenimentului ,, 1 Iunie-Ziua Internațională a Copilului,,",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-29-DIN-18.04.2022-PRIVIND-APROBAREA-ORGANIZARII-UNOR-MANIFESTARI-DEDICATE-EVENIMENTULUI-1-IUNIE-ZIUA-INTERNATIONALA-A-COPILULUI.pdf",
+     "sha256": "051132f1a32d24fe813a7b737962316b4e687f48ec5d567574cfa326225809bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-3-2022",
+   "path": "local/gorj/ticleni/2022/3",
+   "short": "HCL Țicleni nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 3/2022 privind aprobarea Planului de acțiuni și lucrări de interes local ce se vor executa în anul 2022 de către persoanele apte de muncă, conform Legii nr. 416/2001 – Legea venitului minim garantat, cu modificările și completările ulterioare",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-3-din-31.01.2022-priv-aprobate-Plan-actiuni-silucrari-conf-legii-416-din-2001.pdf",
+     "sha256": "c7ac8bd03116c45ff01a3eb839861922de834fa03e553606c82b3fd9c86a074c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-30-2022",
    "path": "local/gorj/ticleni/2022/30",
    "short": "HCL Țicleni nr. 30/2022",
@@ -29,6 +419,906 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-30-DIN-18.04.2022-PRIVIND-APROBAREA-COMERCIALIZARI-DE-PRODUSE-SI-DE-SERVICII-PRECUM-SI-A-TAXEI-PENTRU-OCUPAREA-TEMPORARA-.pdf",
      "sha256": "6e90ae93ee62d8615deb58029a71b90e7acde60c35950a1429e8d78a9d5b7da2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-31-2022",
+   "path": "local/gorj/ticleni/2022/31",
+   "short": "HCL Țicleni nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 31/2022 privind rectificarea bugetului local de venituri și cheltuieli al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-31-din-18.04.2022-privind-rectificarea-bugetului-local.pdf",
+     "sha256": "65df2033a16417bad293d04b9be0ada4c47c4d490349fe391799216b1d30da04"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-32-2022",
+   "path": "local/gorj/ticleni/2022/32",
+   "short": "HCL Țicleni nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 32/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "3f5b1e44fadf3fe4dc9c53ca73d180507608a4b484ecf34d2691b095beed6665"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-33-2022",
+   "path": "local/gorj/ticleni/2022/33",
+   "short": "HCL Țicleni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 33/2022 privind aprobarea colectivului de redacție al Anuarului Orașului Țicleni ,,Glasul Cetății,, ediția 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-33-DIN-28.04.2022-PRIVIND-APROBAREA-COLECTIVULUI-DE-REDACTIE-AL-ANUARULUI-OR-TICLENI-GLASUL-CETATII-EDITIA-2022.pdf",
+     "sha256": "91542ca642c63a7c902e9c46743338d77835c8b25490af9f2ba27b921e1c0ca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-34-2022",
+   "path": "local/gorj/ticleni/2022/34",
+   "short": "HCL Țicleni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 34/2022 privind împuternicirea reprezentantului Orașului Țicleni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ADIA Gorj, de a vota favorabil acceptarea de noi membrii – UAT comuna Câlnic",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-34.pdf",
+     "sha256": "b9c65d77c917e2c622686cf3ff80ce7d1f5092c040959d06e1cf5e8faccfb67a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-36-2022",
+   "path": "local/gorj/ticleni/2022/36",
+   "short": "HCL Țicleni nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 36/2022 privind aprobarea contului de execuție al Bugetului Local, Bugetului instituțiilor publice finanțate din venituri proprii, încheiate la date 31.03.2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-36-DIN-28.04.2022-PRIVIND-APROBAREA-CONTULUI-DE-EXECUTIE.pdf",
+     "sha256": "60873c396b5f71c8716be01531b0a388f1861050599107983ec7abf130a2b6cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-37-2022",
+   "path": "local/gorj/ticleni/2022/37",
+   "short": "HCL Țicleni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 37/2022 privind însușirea raportului de evaluare a terenului intravilan curții construcții în suprafață de 5219 mp aferent Bazei de tractoare Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-37-DIN-28.04.2022-PRIVIND-INSUSIREA-RAPORTULUI-DE-EVALUARE-A-TERENULUI-INTRAVILAN-CURTII-CONSTRUCTII-IN-SUPRAFATA-DE-5219-AFERENT-BAZEI-DE-TRACTOARE-TICLENI.pdf",
+     "sha256": "b5f8978114ce3c663dfc5eccfac5a3744bd7805d8e9df2165fc9dd64fc9ed0ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-38-2022",
+   "path": "local/gorj/ticleni/2022/38",
+   "short": "HCL Țicleni nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 38/2022 privind aprobarea scoaterii la licitație, în vederea concesionarii terenului imobilului teren și clădiri ,,Bază de tractoare Țicleni,, nr. cadastral 38040",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/Hcl-nr.-38-din-28.04.2022-privind-aprobarea-scoaterii-la-licitatie-in-vederea-concesionarii-imobilului-teren-si-cladiri-Baza-de-tractoare.pdf",
+     "sha256": "2bfb629fe051807c7a720184d5cb58fc531fe11e1f43b16ff68575c699cac1ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-39-2022",
+   "path": "local/gorj/ticleni/2022/39",
+   "short": "HCL Țicleni nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 39/2022 privind aprobarea organigramei, a ștatului de funcții și a ștatului de personal ale aparatului de specialitate ale primarului Orașului Țicleni și a structurilor organizatorice din subordinea Consiliului Local, respectiv Direcția de Asistență Socială și SPCLEP Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2022/05/HCL-NR.-39-DIN-28.04.2022-PRIVIND-APROBARE-ORGANIGRAMA-STAT-DE-FUNCTII.pdf",
+     "sha256": "da46da50008ff56a3bf2c30f38ff60a1e08e1b6ae2e6713c61c557d151549c71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-41-2022",
+   "path": "local/gorj/ticleni/2022/41",
+   "short": "HCL Țicleni nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 41/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "e00ffbbf62b483f6c59599374509d39c809bd48652b78428b143d8b94bf4cf67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-42-2022",
+   "path": "local/gorj/ticleni/2022/42",
+   "short": "HCL Țicleni nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 42/2022 privind acordarea unui ajutor de urgenta minorei Stăncioiu-Ungureanu Aida pentru efectuarea de investigații medicale/intervenții chirurgicale/procurarea de medicamente/efectuarea unui tratament medical de specialitate",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-42-din-26.05.2022-privind-acordarea-unui-ajutor-minorei-Stancioi-Ungureanu-Aida-Copy.pdf",
+     "sha256": "8db86270e11344f75125b91e9a7a81e9c59341676ac355721c17640e42587c86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-43-2022",
+   "path": "local/gorj/ticleni/2022/43",
+   "short": "HCL Țicleni nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 43/2022 privind aprobarea materialelor din cuprinsul Anuarului Orașului Țicleni ,,Glasul Cetății,, ediția 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-43-din-26.05.2022-privind-aprobarea-materialului-din-cuprinsul-Anuarului-Orasului-Ticleni-Glasul-Cetatii-editia-2022-Copy.pdf",
+     "sha256": "cd2949be47a87851f1bd5689dddf1af1c780d82c11b72045caa2d50ffba9e846"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-44-2022",
+   "path": "local/gorj/ticleni/2022/44",
+   "short": "HCL Țicleni nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 44/2022 privind desemnarea șefului Serviciului Voluntar pentru Situații de urgentă al localitatii Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-44-din-26.05.2022-privind-desemnarea-sefului-Serviciului-Voluntar-pt-Situatii-de-urgenta-al-localitatii-Ticleni-Copy.pdf",
+     "sha256": "f19370a89bdb18788e04b4fbd0105742908125fdaac8aebc919722ba76b30624"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-45-2022",
+   "path": "local/gorj/ticleni/2022/45",
+   "short": "HCL Țicleni nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 45/2022 privind modificarea HCL nr. 28 din 18.04.2022 privind aprobarea organizării și desfășurării ,,Zilelor Orașului Țicleni,, în perioada 12-13 iunie 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-45-din-26.05.2022-privind-modificarea-HCL-nr.2-din-18.04.2022-Copy.pdf",
+     "sha256": "8b3c511b17eb9e8fdcb48c5784102e3d1a980fda3d8947cd7d013cb8db177e1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-47-2022",
+   "path": "local/gorj/ticleni/2022/47",
+   "short": "HCL Țicleni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 47/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "f956f8ef7bccad901af4c8425b74d7fb63ba8b42e5c1cc83c890b87e9b08d47d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-48-2022",
+   "path": "local/gorj/ticleni/2022/48",
+   "short": "HCL Țicleni nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 48/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "b325fa200e817322182a8e3cb850aa9e7379649646030c1993e49a1c1a0e1519"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-49-2022",
+   "path": "local/gorj/ticleni/2022/49",
+   "short": "HCL Țicleni nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 49/2022 pentru modificarea anexei nr. 2 din HCL nr. 68 din 31.10.2019 privind înfiintarea Serviciului Voluntar pentru Situații de Urgenta la nivelul localitatii ȚICLENI",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-49-din-30.06.2022-privind-modificarea-anexei-nr.2-din-HCL-nr.68-din-31.10.2019-privind-infiintarea-Serviciului-Voluntar-pt-Situatii-de-Urgenta-la-nivelul-localitatii-Ticleni-Copy.pdf",
+     "sha256": "be9973d1adc952910482bef05fc62a2ffcd5e2ef39a3c9efd5c459e42819cb8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-50-2022",
+   "path": "local/gorj/ticleni/2022/50",
+   "short": "HCL Țicleni nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 50/2022 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCl-nr.-50-din-30.06.2022-privind-alegerea-presedintelui-de-sedinta-Copy.pdf",
+     "sha256": "bb0738a7bd43bafa512f79b5eec091ca9a89074ab05bdafa195f7dc411599c0c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-51-2022",
+   "path": "local/gorj/ticleni/2022/51",
+   "short": "HCL Țicleni nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 51/2022 privind încheierea unui Protocol între Primăria Orașului Țicleni și Politia Orașului Țicleni în vederea folosirii sălii de sport a Liceului Tehnologic Țicleni și a stadionului din localitate, pentru desfășurarea activitătilor de educație fizică și sport, de către lucrătorii",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-51-din-30.06.2022-privind-incheierea-unui-Protocol-intre-Primaria-Or.Ticleni-si-Politia-or.Ticleni-in-vederea-folosirii-salii-de-sport-a-LTT-Ticleni-si-a-stadionului-din-localitate-Copy.pdf",
+     "sha256": "c97fc35b56e04167fb2fb0901a8cdeeac67fdd36fea3c1ed7abc213162ba86fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-52-2022",
+   "path": "local/gorj/ticleni/2022/52",
+   "short": "HCL Țicleni nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 52/2022 privind aprobarea desfășurarii Taberei de creație artistică cu tema arte vizuale, iconografie, împletituri rachită și olarit – GORJFEST COPII – ediția a II-a",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-52-din-30.06.2022-privind-aprobarea-desfasurarii-Taberei-de-creatie-artistica-cu-tema-arte-vizualeicnografieimpletituri-rachita-si-olarit-GORJFEST-copii-editia-a-II-a-Copy.pdf",
+     "sha256": "d22cdf1c7d577f92f50dde755c172690d205ef32bc3d8489d0bcc9e81779629a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-53-2022",
+   "path": "local/gorj/ticleni/2022/53",
+   "short": "HCL Țicleni nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 53/2022 pentru modificarea și completarea HCL nr.38 din 28.04.2022 privind aprobarea scoaterii la licitatie, în vederea concesionarii imobilului teren și cladiri ,,Baza de tractoare, nr.cadastral 38048",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-53-din-30.06.2022-pt-modif-si-comp-HCL-nr.38-din-28.04.2022-Copy.pdf",
+     "sha256": "10614fc32d2606627133d0a0cd6781495f7b2a7fe97ed36418f90b078f2a135b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-54-2022",
+   "path": "local/gorj/ticleni/2022/54",
+   "short": "HCL Țicleni nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 54/2022 privind aprobarea orarului de funcționare al unor unități de alimentație publică în orasul Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCl-nr.-54-din-30.06.2022-privind-aprobarea-orarului-de-functionare-al-unor-unitati-de-alimentatie-publica-in-orasul-Ticleni-Copy.pdf",
+     "sha256": "77b81d9fd97d783b64ea6b9120683b952bf4b21ed9347afec43b7846fd61210d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-55-2022",
+   "path": "local/gorj/ticleni/2022/55",
+   "short": "HCL Țicleni nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 55/2022 privind trecerea imobilului teren intravilan categoria de folosinta curti-constructii , în suprafață de 1.407 mp, situat în localitatea Țicleni, judetul Gorj, str. Stadionului, nr.ca. 41956, din domeniul privat , în domeniul public al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL55D1.pdf",
+     "sha256": "100d4f21d626a1ecf0eb38045ff3aeb9f3d028d779e84cdb61e13dd527c36d9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-56-2022",
+   "path": "local/gorj/ticleni/2022/56",
+   "short": "HCL Țicleni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 56/2022 privind rectificarea bugetului local de venituri și cheltuieli al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-56-din-28.07.2022-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-orasului-Ticleni-Copy.pdf",
+     "sha256": "8ec3bf28bd11a427c49d22c380b9ea209af67f2eaaee4e57f182e11aeb9d113c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-57-2022",
+   "path": "local/gorj/ticleni/2022/57",
+   "short": "HCL Țicleni nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 57/2022 privind aprobarea contului de execuție al Bugetului local, Bugetului instituțiilor publice finanțate din venituri proprii, încheiate la data de 30.06.2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-57-din-28.07.2022-privind-aprobarea-contului-de-executie-Copy.pdf",
+     "sha256": "a1978295cc216e5be684d00b251e2e5af733d58147672262d9b029398d7126b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-59-2022",
+   "path": "local/gorj/ticleni/2022/59",
+   "short": "HCL Țicleni nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 59/2022 privind rectificarea bugetului local de venituri și cheltuieli al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.59-din-25.08.2022-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-orasului-Ticleni-pe-anul-2022-Copy.pdf",
+     "sha256": "2bd493e098a9ab0e11d6e063fbda5ec25985d8ce2ba0166525a7c1109436d03e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-60-2022",
+   "path": "local/gorj/ticleni/2022/60",
+   "short": "HCL Țicleni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 60/2022 privind încheierea unui protocol între primaria Orasului Țicleni și Școala Populara de Artă pentru instruirea și promovarea grupului instrumental ,,Voinicelul,, și Ansamblul de dans ,,Petrolul,,",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-60-din-25.08.2022.pdf",
+     "sha256": "6ce82aad5123ea00a40904b1434b739228b2f276615e44ddb0f90ef9f93a07a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-61-2022",
+   "path": "local/gorj/ticleni/2022/61",
+   "short": "HCL Țicleni nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 61/2022 privind organizarea și desfășurarea evenimentului ,,1 Octombrie Ziua Internaționala a Persoanelor Vârstnice",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCl-nr.61-din-25.08.2022-privind-organizarea-si-desfasurarea-evenimentului-1-Octombrie-Ziua-Internationala-a-Persoanelor-Varstnice-Copy.pdf",
+     "sha256": "623049271fa21e4ba0f02beebe3010b4f2f1c2b409e052ff69d10eca0d3824e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-62-2022",
+   "path": "local/gorj/ticleni/2022/62",
+   "short": "HCL Țicleni nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 62/2022 pentru completarea HCL nr. 55 din 28.07.2022 privind trecerea imobilului teren intravilan categoria de folosință curți-construcții în suprafață de 1407 mp. , situat în localitatea Țicleni, județul Gorj, str. Stadionului, nr. ca.41956 din domeniul privat în domeniul public a",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-62-din-25.08.2022-pt-completarea-HCL-nr.55-din-28.07.2022-Copy.pdf",
+     "sha256": "65af1fcef8979cbac1f33b00a82a24c4980ef12fdfe97e2d77f325cda6974073"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-63-2022",
+   "path": "local/gorj/ticleni/2022/63",
+   "short": "HCL Țicleni nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 63/2022 pentru completarea HCL nr.61 din 25.08.2022 privind organizarea și desfășurarea evenimentului 1 Octombrie ,,Ziua Internațională a Persoanelor Vârstnice,,",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.63-din-07.09.2022-pentru-completarea-hotarii-nr.61-din-25.08.2022-privind-organizarea-si-desfasurarea-evenimentului-1Oct-Ziua-Internationala-a-Persoanelor-Varstnice-Copy.pdf",
+     "sha256": "d7425d969ed50b3740c276663202e0e335bd51c37b9b5c6f8d6a0cb2792415da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-64-2022",
+   "path": "local/gorj/ticleni/2022/64",
+   "short": "HCL Țicleni nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 64/2022 privind modificarea listei de inventar a bunurilor ce aparțin domeniului public al orașului Țicleni și care sunt date în administrarea și exploatarea SC APAREGIO GORJ SA",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-07",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.64-din-19.09.2022-privind-modificarea-listei-de-inventar-a-bunurilor-ce-apartin-domeniului-public-al-or.Ticleni-si-care-sunt-date-in-administrarea-si-exploatarea-SC-APAREGIO-GORJ-SA-Copy.pdf",
+     "sha256": "a54092d2065f72fe6f387fd10afa1da29d9f81108f4e391e4883ec1251f18be8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-65-2022",
+   "path": "local/gorj/ticleni/2022/65",
+   "short": "HCL Țicleni nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 65/2022 privind revocarea Hotărârilor Consiliului Local Țicleni nr.55/28.07.2022 privind trecerea imobilului teren intravilan categoria de folosintă curți-construcții în suprafață de 1.407 mp, situat în localitatea Țicleni, județul Gorj, str. Stadionului, nr.cad 41956, din domeniul",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-65-din-19.09.2022-privind-revocarea-HCL-nr.55-din-28.07.2022-si-nr.62-din-25.08.2022.pdf",
+     "sha256": "c42a5fefc1d57fdc978e7fb530beb40ebb964a0c9f292595d43eaf7a0f2edac0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-66-2022",
+   "path": "local/gorj/ticleni/2022/66",
+   "short": "HCL Țicleni nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 66/2022 privind completarea și actualizarea inventarului bunurilor care alcătuiesc domeniul privat al orașului Țicleni, jud.Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-66-din-19.09.2022-privind-completarea-si-actualizarea-inventarului-bunurilor-care-alcatuiesc-domeniul-privat-al-or.Ticlenijud.Gorj_.pdf",
+     "sha256": "34bbfda6809924811d05ce9e6564f7064cb5b82604d60a44db3f1241492e9602"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-68-2022",
+   "path": "local/gorj/ticleni/2022/68",
+   "short": "HCL Țicleni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 68/2022 privind rectificarea bugetului local de venituri și cheltuieli al orasului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-68-din-29.09.2022-privind-rectificarea-bugetului-local-al-orasului-pe-anul-2022.pdf",
+     "sha256": "780e54cb24fdfec447678eccb9f0ac673a23eda25320cba1492109d8e15b231b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-69-2022",
+   "path": "local/gorj/ticleni/2022/69",
+   "short": "HCL Țicleni nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 69/2022 privind acordarea unui ajutor de urgenta numitei Ciucur Ilona pentru efectuarea de investigații medicale/intervenții chirurgicale/procurarea de medicamente/efectuarea unui tratament medical de specialitate",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-69-din-29.09.2022-privind-acordarea-unui-ajutor-de-urgenta-numitei-Ciucur-Ilona.pdf",
+     "sha256": "3444e0becc47a3dbdfdff1ff38a27b06c6cdf78ec901d4c1e5564fe6b1848fab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-70-2022",
+   "path": "local/gorj/ticleni/2022/70",
+   "short": "HCL Țicleni nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 70/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "f34a6aacde5b421973da30f855c6c167228b9ba53fee604d420ebedaeeb68d8e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-71-2022",
+   "path": "local/gorj/ticleni/2022/71",
+   "short": "HCL Țicleni nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 71/2022 privind modificarea art.24 alin.4 din HCL nr.62 din 19.12.2020 privind aprobarea ROF al CL al orașului Ticleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "1ab9f4b869407997be254ab034411befcb422972d6196befaac016e9553beaef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-72-2022",
+   "path": "local/gorj/ticleni/2022/72",
+   "short": "HCL Țicleni nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 72/2022 privind trecerea imobilului intravilan categoria de folosinta curti-constructii în suprafață de 1.407 mp, situat în localitatea Țicleni, str",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-72-din-29.09.2022-privind-trecerea-imobilului-intravilan-categoria-de-folosinta-curti-constructii-din-domeniul-privat-in-domeniul-public-al-orasului-Ticleni.pdf",
+     "sha256": "3bc75db1d702db1e04e28263fbf5812f7d2994f1e027a52a760a627ba8b1a2ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-73-2022",
+   "path": "local/gorj/ticleni/2022/73",
+   "short": "HCL Țicleni nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 73/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "939f03bae77756b2f3cea5f287911b0472a49df554c34d8b5b49cf28cc684e24"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-74-2022",
+   "path": "local/gorj/ticleni/2022/74",
+   "short": "HCL Țicleni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 74/2022 privind însușirea contractului de comodat pentru realizarea unei lucrări de interes public general – Podețe, dalări șanțuri și ziduri de sprijin oraș Țicleni, etapa IV",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-74-din-03.10.2022-privind-insusirea-contratului-de-comodat-pentru-realizarea-unei-lucrari-de-interes-public-general-Podete-dalari-santuri-si-ziduri-de-sprijin-or.Ticleni-etapa-IV.pdf",
+     "sha256": "5eb5d83c812fdc44a9f0f65a5d4b0dd2a3344e976e92a7c2d674f9b54c658cd3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-77-2022",
+   "path": "local/gorj/ticleni/2022/77",
+   "short": "HCL Țicleni nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 77/2022 privind aprobarea ,,Agendei Culturale a orașului Țicleni,, – pentru anul 2023",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-77-din-27.10.2022-privind-aprobarea-Agendei-Culturale-a-or.Ticleni-pentru-anul-2023.pdf",
+     "sha256": "802015799c61630dea775d8b3aff54ef65b508c5611bc40ff0a30d0cc178e2a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-78-2022",
+   "path": "local/gorj/ticleni/2022/78",
+   "short": "HCL Țicleni nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 78/2022 privind aprobarea organizarii evenimentului 1 Decembrie -Ziua Naționala a României și a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-78-din-27.10.2022-privind-aprobarea-organizarii-evenimentului-1-Decembrie-Ziua-Nationala-a-Romaniei-si-a-manifestarilor-dedicate-acestui-eveniment.pdf",
+     "sha256": "7f22137db0f921673f690b375e0022b4d518ddf5e2e07d7829add4f31b857591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-79-2022",
+   "path": "local/gorj/ticleni/2022/79",
+   "short": "HCL Țicleni nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 79/2022 privind aprobarea organizarii și desfăsurării evenimentului ,,Spectacol de colinde și achiziție cadouri pentru colindători cu ocazia sărbatorilor de iarna,, 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-79-din-27.10.2022-privind-aprobarea-organizarii-si-desfasurarii-evenimentului-Spectacol-de-colinde-si-achizitie-cadouri-pt-colindaori-cu-ocazia-sarbatorilor-de-iarna-2022.pdf",
+     "sha256": "c7e00769628ad462d3b774cfafd9cf02dd7ee380746b2e56e7bad34f9231438d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-8-2022",
+   "path": "local/gorj/ticleni/2022/8",
+   "short": "HCL Țicleni nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 8/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "edebb5c4376b224cee4f20475fbe50e48c26ff1fbda667bf832ce7b68faec068"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-80-2022",
+   "path": "local/gorj/ticleni/2022/80",
+   "short": "HCL Țicleni nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 80/2022 privind aprobarea organizarii evenimentului trecerea în noul an 2023 și a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-80-din-27.10.2022-privind-aprobarea-organizarii-evenimentului-trecerea-in-noul-an-2023-si-a-manifestarilor-dedicate-acestui-eveniment.pdf",
+     "sha256": "bd2901c4c715746b5527b431df7a032f527143bb660428a305f58cd4627e1a3c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-81-2022",
+   "path": "local/gorj/ticleni/2022/81",
+   "short": "HCL Țicleni nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 81/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "aef2be79e17ac8545701b6a65971acf95337c07c85c4e4f2bcfc6398b9ae609f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-82-2022",
+   "path": "local/gorj/ticleni/2022/82",
+   "short": "HCL Țicleni nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 82/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "50f04adf2ae7c27f9f7575d124cdac3004ff75bffb0f2f6abeb879b3f7e300b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-83-2022",
+   "path": "local/gorj/ticleni/2022/83",
+   "short": "HCL Țicleni nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 83/2022 privind alegerea unui președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-83-din-27.10.2022-privind-alegerea-unui-presdintelui-de-sedinta.pdf",
+     "sha256": "735a278adbfb441e37ba0fa48f27460bd205360433886b3e1797b8540ad815d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-84-2022",
+   "path": "local/gorj/ticleni/2022/84",
+   "short": "HCL Țicleni nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 84/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "7523e4c0919612963e0cd5bd3b90dee5826ccd9a8101c598c3c59a709d3e0611"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-85-2022",
+   "path": "local/gorj/ticleni/2022/85",
+   "short": "HCL Țicleni nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 85/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "9580df9233377f18fe9e5afa1f08f24561da26f50002f12c4cfd5d339158835b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-86-2022",
+   "path": "local/gorj/ticleni/2022/86",
+   "short": "HCL Țicleni nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 86/2022 pentru completarea Hotărârii nr. 79/27 .10.2022 privind aprobarea organizarii și desfășurării evenimentului “Spectacol de colinde și achiziție cadouri pentru colindători cu ocazia sărbătorilor de iarna “2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-86-din-11.11.2022-pt-completarea-HCL-nr.79-din-27.10.2022.pdf",
+     "sha256": "8ed1acd20fa8eb2f221a811a522d2b45b6ae8e6db791b5bfc58dd7e30128162c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-87-2022",
+   "path": "local/gorj/ticleni/2022/87",
+   "short": "HCL Țicleni nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 87/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "0e24df836d32743fe3d1c4d7b522a48200434d81d6b3ea587dba9b73da4a8758"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-88-2022",
+   "path": "local/gorj/ticleni/2022/88",
+   "short": "HCL Țicleni nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 88/2022 privind rectificarea bugetului local de venituri și cheltuieli al orasului Țicleni pe anul 2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-88-din-11.11.2022-privind-rectificarea-bugetului-local-de-venituri-si-cheltuieli-al-orasului-Ticleni-pe-anul-2022.pdf",
+     "sha256": "a7ce1d6a6a76ce3e6a42c4ed793f09f8e32a8d03de5ca104f33edd0fab8b37b6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-89-2022",
+   "path": "local/gorj/ticleni/2022/89",
+   "short": "HCL Țicleni nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 89/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "3ca7a7b3f1505e3cf437d389e90807c476e2923369ec045dab59e4a623df830f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-93-2022",
+   "path": "local/gorj/ticleni/2022/93",
+   "short": "HCL Țicleni nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 93/2022 privind acordarea unui ajutor de urgenta numitului Filipescu Romulus pentru efectuarea de investigații medicale/intervenții chirurgicale/procurarea de medicamente/efectuarea unui tratament medical de specialitate",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-93-din-11.11.2022-privind-aprobarea-unui-ajutor-de-urgenta-numitului-Filipescu-Romulus.pdf",
+     "sha256": "ead68f3f99861718298d92ee4db6c3e3b19e854b1ea9ae8aeca7107e7222a3eb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-94-2022",
+   "path": "local/gorj/ticleni/2022/94",
+   "short": "HCL Țicleni nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 94/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "fb686ce0a7682b4831cc1c32281486eb0ae549e979acfe34cf3da93033bad502"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-95-2022",
+   "path": "local/gorj/ticleni/2022/95",
+   "short": "HCL Țicleni nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 95/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "159d823c390a867fd9aa93093c3f2f35bebc71125d1bde158c0103a80fccab8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-96-2022",
+   "path": "local/gorj/ticleni/2022/96",
+   "short": "HCL Țicleni nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 96/2022",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+     "sha256": "bfb1d1f3e71756da4a18f7096ba558f71652e3a8125a75fc4af3c8713f7a997e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-97-2022",
+   "path": "local/gorj/ticleni/2022/97",
+   "short": "HCL Țicleni nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 97/2022 privind aprobarea numarului și cuantumului minim al burselor lunare școlare, respectiv de performanță, de merit, de studiu și de ajutor social pentru elevii din învățământul preuniversitar cu frecvență , din orașul Țicleni, care se acordă în anul școlar 2022-2023",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-97-din-24.11.2022-privind-aprobarea-numarului-si-cuantumului-minim-al-burselor-lunare-scolare.pdf",
+     "sha256": "a96490b9423936c831a2860a85ff85e23eb80cfe65ea743ed397598757590fa0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-98-2022",
+   "path": "local/gorj/ticleni/2022/98",
+   "short": "HCL Țicleni nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 98/2022 privind desemnarea unor reprezentanți ai CL Țicleni ca membrii în CA al Liceului Tehnologic Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-98-din-24.11.2022-privind-desemnarea-unur-reprezentanti-ai-CL-Ticleni-ca-membrii-in-CA-al-Liceului-Tehnologic-Ticleni.pdf",
+     "sha256": "3e8670fb632a65942343c0cca8439b031d20815675dde71ae11d13971fbeb4df"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-99-2022",
+   "path": "local/gorj/ticleni/2022/99",
+   "short": "HCL Țicleni nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 99/2022 privind stabilirea chiriei ,, Centrului de festivitati",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2022/",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/01/HCL-nr.-99-din-24.11.2022-privind-stabilirea-chiriei-Centrului-de-festivitati.pdf",
+     "sha256": "6f7304de062a26c6dd4d4c2adf59439bfe8e38e7a923cd5c66266c2f1b8bc499"
     }
    ]
   }

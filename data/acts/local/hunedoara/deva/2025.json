@@ -4331,6 +4331,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-386-2025",
+"path": "local/hunedoara/deva/2025/386",
+"kind": "local",
+"year": "2025",
+"number": "386",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 386/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.251/2024 privind aprobarea Devizului general și a indicatorilor tehnico-economici, actualizați la faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 77",
+"short": "HCL Deva nr. 386/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-09-29",
+"latest": "2025-09-29",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P160",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-388-2025",
 "path": "local/hunedoara/deva/2025/388",
 "kind": "local",
@@ -5144,6 +5166,28 @@
 "versions": 1,
 "from": "2025-11-14",
 "latest": "2025-11-14",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P100",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-450-2025",
+"path": "local/hunedoara/deva/2025/450",
+"kind": "local",
+"year": "2025",
+"number": "450",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 450/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.7/2025 privind aprobarea Devizului general și a indicatorilor tehnico-economici, faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 40 FRE - Str. Georg",
+"short": "HCL Deva nr. 450/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-21",
+"latest": "2025-11-21",
 "portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P100",
 "council": "hunedoara/deva",
 "council_name": "Consiliul Local al Municipiului Deva",
@@ -6565,6 +6609,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-538-2025",
+"path": "local/hunedoara/deva/2025/538",
+"kind": "local",
+"year": "2025",
+"number": "538",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 538/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.7/2025 privind aprobarea Devizului general și a indicatorilor tehnico-economici, faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 40 FRE - Str. Georg",
+"short": "HCL Deva nr. 538/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-12-22",
+"latest": "2025-12-22",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-542-2025",
 "path": "local/hunedoara/deva/2025/542",
 "kind": "local",
@@ -6780,6 +6846,28 @@
 "from": "2025-12-29",
 "latest": "2025-12-29",
 "portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-840-2025",
+"path": "local/hunedoara/deva/2025/840",
+"kind": "local",
+"year": "2025",
+"number": "840",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 840/2025 nr.840 din 28.08.2025. privind aprobarea cererilor de atribuire a terenurilor în folosință gratuită tinerilor pentru construirea unei locuințe proprietate personală în baza Legii nr. 15/2003, republicată",
+"short": "HCL Deva nr. 840/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-08-28",
+"latest": "2025-08-28",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P200",
 "council": "hunedoara/deva",
 "council_name": "Consiliul Local al Municipiului Deva",
 "flags": {

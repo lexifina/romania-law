@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/hunedoara/deva/2020",
+"acts": [
+{
+"slug": "hcl-hunedoara--deva-41-2020",
+"path": "local/hunedoara/deva/2020/41",
+"kind": "local",
+"year": "2020",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 41/2020 pentru aprobarea suportării de la bugetul local a unor cotizații pentru anul 2023",
+"short": "HCL Deva nr. 41/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C80/P540",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--deva-559-2020",
+"path": "local/hunedoara/deva/2020/559",
+"kind": "local",
+"year": "2020",
+"number": "559",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 559/2020 privind Încetarea contractului de concesiune nr.884a/2000 încheiat cu societate comercială Elcomtur SRL",
+"short": "HCL Deva nr. 559/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-12-22",
+"latest": "2020-12-22",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P20",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

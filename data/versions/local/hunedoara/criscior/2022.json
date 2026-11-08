@@ -3,6 +3,36 @@
  "shard": "local/hunedoara/criscior/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--criscior-1-2022",
+   "path": "local/hunedoara/criscior/2022/1",
+   "short": "HCL Crișcior nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 1/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/68998",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/68998",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-10-2022",
+   "path": "local/hunedoara/criscior/2022/10",
+   "short": "HCL Crișcior nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 10/2022 privind acoperirea deficitului bugetar pe anul 2021 a secțiunii de dezvoltare din excedentul anului 2020",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69058",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69058",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-11-2022",
    "path": "local/hunedoara/criscior/2022/11",
    "short": "HCL Crișcior nr. 11/2022",
@@ -13,6 +43,66 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/69059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-12-2022",
+   "path": "local/hunedoara/criscior/2022/12",
+   "short": "HCL Crișcior nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 12/2022 privind clasificarea ca parcare de interes local a unei parcări neclasificate, în categoria funcțională de parcari, în cadrul UAT-Comuna Criscior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69060",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-13-2022",
+   "path": "local/hunedoara/criscior/2022/13",
+   "short": "HCL Crișcior nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 13/2022 privind aprobarea vânzării unui apartament din fondul locativ de stat către actualul chiriași",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69072",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-14-2022",
+   "path": "local/hunedoara/criscior/2022/14",
+   "short": "HCL Crișcior nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 14/2022 privind aprobarea bugetului de venituri și cheltuieli pe anul 2022 pentru fondul forestier proprietatea Comunei Criscior administrat în baza contractului de administrare nr. 1231/31.01.2020",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69073",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-15-2022",
+   "path": "local/hunedoara/criscior/2022/15",
+   "short": "HCL Crișcior nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 15/2022 privind instituirea taxei speciale de salubrizare pentru utilizatorii casnici și non-casnici beneficiari ai serviciului de salubrizare care nu au încheiat contract de salubrizare și aprobarea regulamentului de instituire, stabilire, aplicare, încasare și administrare a taxei speciale de salubrizare în comuna Crișcior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69074",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69074",
      "sha256": null
     }
    ]
@@ -33,6 +123,96 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--criscior-17-2022",
+   "path": "local/hunedoara/criscior/2022/17",
+   "short": "HCL Crișcior nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 17/2022 privind aprobarea numărului de burse și a cuantumului acestora, pentru elevii din învățământul preuniversitar de stat din comuna Crișcior, aferente semestrului al II-lea al anului școlar 2021-2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70454",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-18-2022",
+   "path": "local/hunedoara/criscior/2022/18",
+   "short": "HCL Crișcior nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 18/2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70455",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-19-2022",
+   "path": "local/hunedoara/criscior/2022/19",
+   "short": "HCL Crișcior nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 19/2022 privind aprobarea Listei sesiunii de selecție din anul 2022, sesiunea I a, a proiectelor/programelor care vor primi finanțări nerambursabile de la bugetul local al comunei Criscior pentru activități nonprofit de interes local în baza Legii nr. 350/2005",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70456",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-2-2022",
+   "path": "local/hunedoara/criscior/2022/2",
+   "short": "HCL Crișcior nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 2/2022 privind aprobarea Raportului asupra activității desfășurate de asistenții personali ai persoanelor cu handicap grav, pe semestrul II al anului 2021",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/68999",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/68999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-20-2022",
+   "path": "local/hunedoara/criscior/2022/20",
+   "short": "HCL Crișcior nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 20/2022 privind stabiliea salariilor de bază pentru fucționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului comunei Criscior, a instituțiilor și serviciilor publice aflate în subordinea Consiliului Local Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70457",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-21-2022",
+   "path": "local/hunedoara/criscior/2022/21",
+   "short": "HCL Crișcior nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 21/2022 privind situația conturilor de execuție pe trimestrul IV anul 2021 al comunei Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70458",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-22-2022",
    "path": "local/hunedoara/criscior/2022/22",
    "short": "HCL Crișcior nr. 22/2022",
@@ -43,6 +223,81 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/70459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-23-2022",
+   "path": "local/hunedoara/criscior/2022/23",
+   "short": "HCL Crișcior nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 23/2022 privind aprobarea prețurilor de referință și a modului de valorificare a masei lemnoase din pădurea proprietate a comunei Criscior, județul Hunedoara pentru anul 2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70460",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-24-2022",
+   "path": "local/hunedoara/criscior/2022/24",
+   "short": "HCL Crișcior nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 24/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70461",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-25-2022",
+   "path": "local/hunedoara/criscior/2022/25",
+   "short": "HCL Crișcior nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 25/2022 privind indexarea impozitelor și taxelor locale cu rata inflației în comuna Crișcior județul Hunedoara pentru anul fiscal 2023",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70462",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-26-2022",
+   "path": "local/hunedoara/criscior/2022/26",
+   "short": "HCL Crișcior nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 26/2022 privind aprobarea rezilierii Contractului de delegare a gestiunii serviciului de salubrizare în zona de colectare 1 Brad constând în colectarea separată și transportul separat al deșeurilor municipale și al deșeurilor similare, aperarea și administrarea stației de transfer Brad, operarea și administrarea stației de sortare Brad, transportul de distanță al deșeurilor la facilitățile de tratare/depozitare având nr. 394/720/25.04.2018",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70463",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-27-2022",
+   "path": "local/hunedoara/criscior/2022/27",
+   "short": "HCL Crișcior nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 27/2022 privind indreptarea erorii materiale privind numerotarea hotărârii nr. 12/2022 privind aprobarea acordării de finanțare nerambursabilă de la bugetul local al comunei Crișcior, asociațiilor sportive, culturale și sociale, cultelor religioase recunoscute cu personalitate juridică, fără scop patrimonial, care își desfășoară activitatea pe teritoriul comunei Crișcior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70464",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70464",
      "sha256": null
     }
    ]
@@ -63,6 +318,81 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--criscior-29-2022",
+   "path": "local/hunedoara/criscior/2022/29",
+   "short": "HCL Crișcior nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 29/2022 privind îndreptarea erorii materiale privind numerotarea hotărârii nr.12/2022 privind aprobarea bugetului și a indicatorilor tehnico economici pentru proiectul ”Dotarea Liceului Tehnologic ”Crisan” Crișcior cu materiale sanitare” în vederea depunerii proiectului pentru finanțare în cadrul Programului Operațional Infrastructura Mare (POIM) 2014-2020, Axa Prioritară 9 ”Protejarea sănătății populației în contextual pandemiei cauzate de COVID-19”, Obiectivul Specific 9.1 ”Creșterea capacității de gestionare a crizei sanitare COVID-19”",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70466",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-3-2022",
+   "path": "local/hunedoara/criscior/2022/3",
+   "short": "HCL Crișcior nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 3/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2022, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69000",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-30-2022",
+   "path": "local/hunedoara/criscior/2022/30",
+   "short": "HCL Crișcior nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 30/2022 privind aprobarea depunerii proiectului „Renovarea energetică 4 blocuri rezidențiale multifamiliale din comuna Crișcior” și a cheltuielilorlegate de acesta",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70467",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70467",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-31-2022",
+   "path": "local/hunedoara/criscior/2022/31",
+   "short": "HCL Crișcior nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 31/2022 privind însușirea Documentației tehnice pentru înscrierea imobilului-teren situat în comuna Crișcior, sat Barza în sistemul integrat de cadastru și carte funciară în proprietatea comunei Crișcior-domeniul Public",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70468",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70468",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-32-2022",
+   "path": "local/hunedoara/criscior/2022/32",
+   "short": "HCL Crișcior nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 32/2022 privind înscrierea imobilului-teren situat în comuna Crișcior, Calea Zarandului, FN în evidențele de publicitate imobiliară, în proprietatea comunei Crișcior-domeniul public",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70469",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70469",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-33-2022",
    "path": "local/hunedoara/criscior/2022/33",
    "short": "HCL Crișcior nr. 33/2022",
@@ -73,6 +403,21 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/70470",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-34-2022",
+   "path": "local/hunedoara/criscior/2022/34",
+   "short": "HCL Crișcior nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 34/2022 privind rectificarea bugetului local al Comunei Crișcior pe anul 2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/70471",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/70471",
      "sha256": null
     }
    ]
@@ -148,6 +493,21 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/70476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-4-2022",
+   "path": "local/hunedoara/criscior/2022/4",
+   "short": "HCL Crișcior nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 4/2022 privind înființarea Serviciului de iluminat public al comunei Crișcior, aprobarea Regulamentului de organizare și funcționare și a Caietului de sarcini al Serviciului de iluminat public, stabilirea formei de gestiune, a Studiului de oportunitate și a Contractului cadru de delegare a gestiunii pentru activitățile de întreținere și reparații a sistemului de iluminat public comuna Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69001",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69001",
      "sha256": null
     }
    ]
@@ -303,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--criscior-5-2022",
+   "path": "local/hunedoara/criscior/2022/5",
+   "short": "HCL Crișcior nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 5/2022 privind fundamentarea cifrei de școlarizare pentru organizarea rețelei de învățământ preuniversitar pentru anul 2022-2023",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69002",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69002",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--criscior-50-2022",
    "path": "local/hunedoara/criscior/2022/50",
    "short": "HCL Crișcior nr. 50/2022",
@@ -373,6 +748,66 @@
      "from": "2022-09-02",
      "units": 1,
      "source_url": "https://emol.ro/criscior-hd/registru-hcl/70503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-6-2022",
+   "path": "local/hunedoara/criscior/2022/6",
+   "short": "HCL Crișcior nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 6/2022 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Criscior, județul Hunedoara",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69003",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-7-2022",
+   "path": "local/hunedoara/criscior/2022/7",
+   "short": "HCL Crișcior nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 7/2022 privind aprobarea regulamentului privind modul de utilizare a microbuzelor școlare aflat în patrimoniul comunei Criscior",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69004",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69004",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-8-2022",
+   "path": "local/hunedoara/criscior/2022/8",
+   "short": "HCL Crișcior nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 8/2022 privind aprobarea bugetului local al comunei Crișcior pe anul 2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69056",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--criscior-9-2022",
+   "path": "local/hunedoara/criscior/2022/9",
+   "short": "HCL Crișcior nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Crișcior nr. 9/2022 privind aprobarea bugetului de venituri proprii al comunei Criscior pe anul 2022",
+   "url": "https://emol.ro/criscior-hd/registru-hcl/69057",
+   "versions": [
+    {
+     "from": "2022-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/criscior-hd/registru-hcl/69057",
      "sha256": null
     }
    ]

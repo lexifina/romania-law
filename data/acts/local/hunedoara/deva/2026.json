@@ -3444,6 +3444,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--deva-209-2026",
+"path": "local/hunedoara/deva/2026/209",
+"kind": "local",
+"year": "2026",
+"number": "209",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Municipiului Deva nr. 209/2026 nr.209 din 28.05.2026 pentru modificarea și completarea Hotărârii Consiliului local nr.188/2025, privind aprobarea documentației tehnico- economice pentru obiectivul de investiții „Extindere rețea alimentare cu apă și canalizare pe strada Aurel Vlaicu și strada Nucet în municipiul Deva“ - faza PT,",
+"short": "HCL Deva nr. 209/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-28",
+"latest": "2026-05-28",
+"portal": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C91/P200",
+"council": "hunedoara/deva",
+"council_name": "Consiliul Local al Municipiului Deva",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--deva-210-2026",
 "path": "local/hunedoara/deva/2026/210",
 "kind": "local",

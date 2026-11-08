@@ -1,4 +1,5 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
+hcl-galati--certesti-1-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256746
 hcl-galati--certesti-10-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256767
 hcl-galati--certesti-11-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/263972
 hcl-galati--certesti-12-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/263973
@@ -17,7 +18,11 @@ hcl-galati--certesti-23-2026,current,2026-11-08,2026-12-08,register-read,,,,http
 hcl-galati--certesti-24-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272596
 hcl-galati--certesti-25-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272597
 hcl-galati--certesti-26-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272598
+hcl-galati--certesti-27-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272599
+hcl-galati--certesti-28-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272600
+hcl-galati--certesti-29-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272601
 hcl-galati--certesti-3-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256748
+hcl-galati--certesti-30-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272602
 hcl-galati--certesti-31-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272603
 hcl-galati--certesti-32-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272604
 hcl-galati--certesti-33-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/272605
@@ -45,3 +50,4 @@ hcl-galati--certesti-52-2026,current,2026-11-08,2026-12-08,register-read,,,,http
 hcl-galati--certesti-6-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256751
 hcl-galati--certesti-7-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256752
 hcl-galati--certesti-8-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256765
+hcl-galati--certesti-9-2026,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/certesti-gl/registru-hcl/256766

@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-3-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 3/2026 privind validarea listei cuprinzând persoanele care urmează să beneficieze de facilitățile prevăzute de Ordonanța Guvernului nr. 27/1996 rebublicată, cu privire la aplicarea tarifelor reduse cu 50% la energie electrică",
+"short": "HCL Certeju de Sus nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/253390",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-4-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/4",
 "kind": "local",
@@ -69,6 +91,52 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-5-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 5/2026",
+"short": "HCL Certeju de Sus nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/253392",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-6-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 6/2026",
+"short": "HCL Certeju de Sus nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-17",
+"latest": "2026-02-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/253393",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-7-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/7",
 "kind": "local",
@@ -88,6 +156,116 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-8-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/8",
+"kind": "local",
+"year": "2026",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 8/2026 privind alegerea președintelui de ședință al consiliului local al comunei Certeju de Sus, pentru o perioadă de trei luni",
+"short": "HCL Certeju de Sus nr. 8/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/263698",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-9-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 9/2026 privind modificarea și completarea Hotărârii Consiliului Local nr. 79/2025",
+"short": "HCL Certeju de Sus nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/263699",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-10-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/10",
+"kind": "local",
+"year": "2026",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 10/2026 privind însușirea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav în anul 2025 sem II, angajați ai Primăriei comunei Certeju de Sus, județul Hunedoara",
+"short": "HCL Certeju de Sus nr. 10/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/263756",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-11-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 11/2026 privind desemnarea a doi consilieri locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Certeju de Sus",
+"short": "HCL Certeju de Sus nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/263757",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-12-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/12",
+"kind": "local",
+"year": "2026",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 12/2026 privind validarea listei cuprinzând persoanele care urmează să beneficieze de facilitățile prevăzute de Ordonanța Guvernului nr. 27/1996 republicată, cu privire la aplicarea tarifelor reduse cu 50% la energie electrică",
+"short": "HCL Certeju de Sus nr. 12/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/263758",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +380,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-18-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/18",
+"kind": "local",
+"year": "2026",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 18/2026 privind aprobarea reorganizării aparatului de specialitate a primarului, comunei Certeju de Sus, județul Hunedoara",
+"short": "HCL Certeju de Sus nr. 18/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-08",
+"latest": "2026-05-08",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/266896",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-19-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/19",
 "kind": "local",
@@ -268,6 +468,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-22-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 22/2026 privind validarea listei cuprinzând persoanele care urmează să beneficieze de facilitățile prevăzute de Ordonanța Guvernului nr. 27/1996 republicată, cu privire la aplicarea tarifelor reduse cu 50% la energie electrică",
+"short": "HCL Certeju de Sus nr. 22/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/269043",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-23-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/23",
 "kind": "local",
@@ -287,6 +509,28 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-24-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 24/2026 privind alegerea președintelui de ședință al consiliului local al comunei Certeju de Sus, pentru o perioadă de trei luni",
+"short": "HCL Certeju de Sus nr. 24/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/269045",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -334,6 +578,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--certeju-de-sus-27-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 27/2026 privind aprobarea îndreptării erorii materiale din anexa nr.1 la HCL nr.18/2026 privind aprobarea reorganizării aparatului de specialitate a primarului, comunei Certeju de Sus, județul Hunedoara",
+"short": "HCL Certeju de Sus nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-19",
+"latest": "2026-05-19",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/269048",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--certeju-de-sus-28-2026",
 "path": "local/hunedoara/certeju-de-sus/2026/28",
 "kind": "local",
@@ -353,6 +619,94 @@
 "council_name": "Consiliul Local al Comunei Certeju de Sus",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-29-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/29",
+"kind": "local",
+"year": "2026",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 29/2026 privind aprobarea Studiului de oportunitate, Caietului de sarcini, Fișei de date a producerii și a Contractului-cadru de închiriere, model orientativ, elaborate în vederea închirierii unei suprafețe din Anexa Cămănului Cultural Certeju de Sus cu sediul în localitatea Certeju de Sus, nr. 173, comuna Certeju de Sus, județul Hunedoara, pentru desfășurarea unor activități de depozit și birou",
+"short": "HCL Certeju de Sus nr. 29/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/275675",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-30-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 30/2026 privind aprobarea actualizării Programului anual al achizițiilor publice pentru anul 2026, urmare a aprobării bugetului local al comunei Certeju de Sus pentru anul 2026",
+"short": "HCL Certeju de Sus nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/275676",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-31-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 31/2026 privind validarea listei cuprinzând persoanele care urmează să beneficieze de facilitățile prevăzute de Ordonanța guvernului nr. 27/1996 republicată, cu privire la aplicarea tarifelor reduse de 50% la energie electrică",
+"short": "HCL Certeju de Sus nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-25",
+"latest": "2026-06-25",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/275677",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--certeju-de-sus-32-2026",
+"path": "local/hunedoara/certeju-de-sus/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 32/2026 privind modificarea și completarea HCL nr. 29/2026 privind aprobarea studiului de oportunitate, caietului de sarcini, fișei de date a procedurii și a contractului-cadru de închiriere, model orientativ, elaborate în vederea închirierii unei suprafețe din Anexa Căminului Cultural Certeju de Sus cu sediul în localitatea Certeju de Sus, nr. 173, comuna Certeju de Sus, județul Hunedoara, pentru desfășurarea unor activități de depozit și birou",
+"short": "HCL Certeju de Sus nr. 32/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-14",
+"latest": "2026-08-14",
+"portal": "https://emol.ro/certejudesus-hd/registru-hcl/283224",
+"council": "hunedoara/certeju-de-sus",
+"council_name": "Consiliul Local al Comunei Certeju de Sus",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

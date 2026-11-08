@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-3-2026",
+"path": "local/hunedoara/bacia/2026/3",
+"kind": "local",
+"year": "2026",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 3/2026 privind initierea procedurii de închiriere a pajiştilor aflate în proprietatea privată a comunei Băcia , judeţul Hunedoara,",
+"short": "HCL Băcia nr. 3/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/258848",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-4-2026",
 "path": "local/hunedoara/bacia/2026/4",
 "kind": "local",
@@ -157,6 +179,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-9-2026",
+"path": "local/hunedoara/bacia/2026/9",
+"kind": "local",
+"year": "2026",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 9/2026",
+"short": "HCL Băcia nr. 9/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/258854",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-10-2026",
 "path": "local/hunedoara/bacia/2026/10",
 "kind": "local",
@@ -179,6 +224,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-11-2026",
+"path": "local/hunedoara/bacia/2026/11",
+"kind": "local",
+"year": "2026",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 11/2026",
+"short": "HCL Băcia nr. 11/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/258856",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-12-2026",
 "path": "local/hunedoara/bacia/2026/12",
 "kind": "local",
@@ -198,6 +266,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-13-2026",
+"path": "local/hunedoara/bacia/2026/13",
+"kind": "local",
+"year": "2026",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 13/2026 privind alegerea președintelui de ședință",
+"short": "HCL Băcia nr. 13/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/259729",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -309,6 +399,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-19-2026",
+"path": "local/hunedoara/bacia/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 19/2026 privind aprobarea Actului adițional nr. 1 la Contractul de Concesiune nr. 15/ 31 03 2021 privind aprobarea concesionării prin negociere directă a spaţiului în care funcţionează cabinetul medical Băcia",
+"short": "HCL Băcia nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-01",
+"latest": "2026-04-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/259735",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -465,6 +577,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-27-2026",
+"path": "local/hunedoara/bacia/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 27/2026 privind aprobarea unui schimb de imobil-teren, între Comuna Băcia şi Kaluza Iolanda-Paraschiva și Kaluza Francisc",
+"short": "HCL Băcia nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-01",
+"latest": "2026-07-01",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/274764",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -907,6 +1041,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-48-2026",
+"path": "local/hunedoara/bacia/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 48/2026 privind alegerea președintelui de ședință",
+"short": "HCL Băcia nr. 48/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-02",
+"latest": "2026-07-02",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/276368",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1567,6 +1723,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-79-2026",
+"path": "local/hunedoara/bacia/2026/79",
+"kind": "local",
+"year": "2026",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 79/2026 privind rectificarea bugetului local al comunei Băcia, pe anul 2026, trimestrul III",
+"short": "HCL Băcia nr. 79/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-27",
+"latest": "2026-08-27",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/284014",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

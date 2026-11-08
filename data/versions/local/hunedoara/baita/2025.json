@@ -3,6 +3,81 @@
  "shard": "local/hunedoara/baita/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--baita-1-2025",
+   "path": "local/hunedoara/baita/2025/1",
+   "short": "HCL Băița nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 1/2025 privind desemnarea reprezentantului consiliului local care să facă parte din Consiliul de Administratie al Școlii Gimnaziale Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/191402",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/191402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-10-2025",
+   "path": "local/hunedoara/baita/2025/10",
+   "short": "HCL Băița nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 10/2025 privind desemnarea consilierilor locali în comisia de evaluare a performanțelor profesionale individuale a Secretarului general al comunei Băița pentru activitatea desfășurată în anul 2024",
+   "url": "https://emol.ro/baita-hd/registru-hcl/195663",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/195663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-11-2025",
+   "path": "local/hunedoara/baita/2025/11",
+   "short": "HCL Băița nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 11/2025 privind modificarea Hotărârii Consiliului Local al comunei Băița nr. 54 din 27.06.2023 privind aprobarea proiectului „Transport verde - Microbuze electrice pentru elevi în județul Hunedoara”, în vederea depunerii acestuia în cadrul Apelului de proiecte „Microbuze electrice pentru elevi”, ce va fi finanțat prin Planul Național de Redresare și Reziliență – Componenta C15: Educație",
+   "url": "https://emol.ro/baita-hd/registru-hcl/195664",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/195664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-12-2025",
+   "path": "local/hunedoara/baita/2025/12",
+   "short": "HCL Băița nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 12/2025 privind aprobarea documentației tehnico-economice, faza proiect tehnic, a detaliilor de execuție și a devizului general actualizat pentru obiectivul de investiții „STATII DE REINCARCARE PENTRU VEHICULE ELECTRICE IN COMUNA BĂIȚA , JUDETUL HUNEDOARA”, aprobat pentru finanțare prin AFM",
+   "url": "https://emol.ro/baita-hd/registru-hcl/195665",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/195665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-13-2025",
+   "path": "local/hunedoara/baita/2025/13",
+   "short": "HCL Băița nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 13/2025 privind modificarea și completarea HCL Nr. 26/23.05.2022 având ca scop aprobarea proiectului„Dotarea și punerea în funcțiune a centrului de monitorizare în timp real a situației din Comuna Băița și a sistemului de supraveghere a domeniului public cu funcții avansate și achiziționarea de mobilier urban inteligent\" cu includerea in proiect a achizitionării și amplasării pe domeniu/public al comunei, a 2 doua statii de reîncărcare (4 puncte de reîncărcare) pentru vehicule electrice și participarea la Programul Național de Redresare și Reziliență, cu modificarile si completarile ulterioare apelul de proiecte PNRR/2022/C10, componenta 10 - Fondul local",
+   "url": "https://emol.ro/baita-hd/registru-hcl/195666",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/195666",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-14-2025",
    "path": "local/hunedoara/baita/2025/14",
    "short": "HCL Băița nr. 14/2025",
@@ -28,6 +103,21 @@
      "from": "2025-03-24",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/198362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-16-2025",
+   "path": "local/hunedoara/baita/2025/16",
+   "short": "HCL Băița nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 16/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/198363",
+   "versions": [
+    {
+     "from": "2025-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/198363",
      "sha256": null
     }
    ]
@@ -73,6 +163,21 @@
      "from": "2025-03-24",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/198366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-2-2025",
+   "path": "local/hunedoara/baita/2025/2",
+   "short": "HCL Băița nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 2/2025 privind aprobarea calendarului principalelor evenimente care vor fi organizate direct de către Primăria și Consiliul Local al comunei Băița în anul 2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/191403",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/191403",
      "sha256": null
     }
    ]
@@ -138,6 +243,36 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-24-2025",
+   "path": "local/hunedoara/baita/2025/24",
+   "short": "HCL Băița nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 24/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/206635",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/206635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-25-2025",
+   "path": "local/hunedoara/baita/2025/25",
+   "short": "HCL Băița nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 25/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/206636",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/206636",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-26-2025",
    "path": "local/hunedoara/baita/2025/26",
    "short": "HCL Băița nr. 26/2025",
@@ -148,6 +283,21 @@
      "from": "2025-05-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/210287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-27-2025",
+   "path": "local/hunedoara/baita/2025/27",
+   "short": "HCL Băița nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 27/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/210288",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/210288",
      "sha256": null
     }
    ]
@@ -183,6 +333,96 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-3-2025",
+   "path": "local/hunedoara/baita/2025/3",
+   "short": "HCL Băița nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 3/2025 privind revocarea HCL nr.61/2024 privind aprobarea concesionării prin licitație publică a unui teren intravilan aparținând domeniului privat al comunei Băița, în suprafață de 64 mp, categoria de folosință curți-construcții, situat în satul Băița comuna Băița, județul Hunedoara",
+   "url": "https://emol.ro/baita-hd/registru-hcl/191404",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/191404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-30-2025",
+   "path": "local/hunedoara/baita/2025/30",
+   "short": "HCL Băița nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 30/2025 privind aprobarea concesionării prin licitație publică a unui teren intravilan aparținând domeniului privat al comunei Băița, în suprafață de 64 mp, categoria de folosință curți-construcții, situat în satul Băița comuna Băița, județul Hunedoara",
+   "url": "https://emol.ro/baita-hd/registru-hcl/214315",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/214315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-31-2025",
+   "path": "local/hunedoara/baita/2025/31",
+   "short": "HCL Băița nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 31/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/214316",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/214316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-32-2025",
+   "path": "local/hunedoara/baita/2025/32",
+   "short": "HCL Băița nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 32/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/214317",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/214317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-33-2025",
+   "path": "local/hunedoara/baita/2025/33",
+   "short": "HCL Băița nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 33/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/214318",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/214318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-34-2025",
+   "path": "local/hunedoara/baita/2025/34",
+   "short": "HCL Băița nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 34/2025 privind aprobarea modificării organigramei și a statului de funcții a aparatului de specialitate al Primarului comunei Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/214319",
+   "versions": [
+    {
+     "from": "2025-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/214319",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-35-2025",
    "path": "local/hunedoara/baita/2025/35",
    "short": "HCL Băița nr. 35/2025",
@@ -198,6 +438,66 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--baita-36-2025",
+   "path": "local/hunedoara/baita/2025/36",
+   "short": "HCL Băița nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 36/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/219876",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/219876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-37-2025",
+   "path": "local/hunedoara/baita/2025/37",
+   "short": "HCL Băița nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 37/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/219877",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/219877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-38-2025",
+   "path": "local/hunedoara/baita/2025/38",
+   "short": "HCL Băița nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 38/2025",
+   "url": "https://emol.ro/baita-hd/registru-hcl/219878",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/219878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-39-2025",
+   "path": "local/hunedoara/baita/2025/39",
+   "short": "HCL Băița nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 39/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/219879",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/219879",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--baita-4-2025",
    "path": "local/hunedoara/baita/2025/4",
    "short": "HCL Băița nr. 4/2025",
@@ -208,6 +508,21 @@
      "from": "2025-01-31",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/191405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-40-2025",
+   "path": "local/hunedoara/baita/2025/40",
+   "short": "HCL Băița nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 40/2025 privind aprobarea cumpărării unui imobil teren şi construcții înscris în CF nr.60950 Băița, nr. cadastrale:60950, 60950-C1 situat în localitatea Trestia Comuna Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/219880",
+   "versions": [
+    {
+     "from": "2025-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/219880",
      "sha256": null
     }
    ]
@@ -238,6 +553,36 @@
      "from": "2025-07-31",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/219882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-43-2025",
+   "path": "local/hunedoara/baita/2025/43",
+   "short": "HCL Băița nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 43/2025 privind acordarea diplomei de fidelitate și a recompensei bănești familiilor care au împlinit 50 de ani de căsnicie neîntreruptă",
+   "url": "https://emol.ro/baita-hd/registru-hcl/221503",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/221503",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-44-2025",
+   "path": "local/hunedoara/baita/2025/44",
+   "short": "HCL Băița nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 44/2025 privind aprobarea cumpărării unui imobil - teren extravilan înscris în CF nr.60463 Băița, nr. cadastral:60463, situat în localitatea Băița, Comuna Băița",
+   "url": "https://emol.ro/baita-hd/registru-hcl/221504",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/221504",
      "sha256": null
     }
    ]
@@ -313,6 +658,21 @@
      "from": "2025-09-29",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/227302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-5-2025",
+   "path": "local/hunedoara/baita/2025/5",
+   "short": "HCL Băița nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 5/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/baita-hd/registru-hcl/191406",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/191406",
      "sha256": null
     }
    ]
@@ -598,6 +958,21 @@
      "from": "2025-12-30",
      "units": 1,
      "source_url": "https://emol.ro/baita-hd/registru-hcl/245146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--baita-7-2025",
+   "path": "local/hunedoara/baita/2025/7",
+   "short": "HCL Băița nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Băița nr. 7/2025 privind modificarea și completarea HCL nr.21 din 29.02.2024 privind aprobarea documentației tehnico-economice, a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Construire pod în sat Lunca și Construire pod în sat Hărțăgani, comuna Băița, județul Hunedoara”, aprobat pentru finanțare prin Programul Național de Investiții „Anghel Saligny\", precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/baita-hd/registru-hcl/191408",
+   "versions": [
+    {
+     "from": "2025-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/baita-hd/registru-hcl/191408",
      "sha256": null
     }
    ]

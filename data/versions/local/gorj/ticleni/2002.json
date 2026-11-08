@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/gorj/ticleni/2002",
+ "acts": [
+  {
+   "slug": "hcl-gorj--ticleni-20-2002",
+   "path": "local/gorj/ticleni/2002/20",
+   "short": "HCL Țicleni nr. 20/2002",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 20/2002 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2023/",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2023/06/HCL-nr.-20-din-23-.02.023-privind-aprobarea-nr-de-asistenti-personali-ai-persoanelor-cu-handicap-grav.pdf",
+     "sha256": "08e4204e55b0f8b02aceb9bed03b5b34a35549b1906eac53064756ad20063f0d"
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/harghita/sansimion/2021",
  "acts": [
   {
+   "slug": "hcl-harghita--sansimion-1-2021",
+   "path": "local/harghita/sansimion/2021/1",
+   "short": "HCL Sânsimion nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 1/2021 privind aprobarea utilizării excedentului anului precedent 2019, pentru acoperirea definitivă a deficitului secțiunii de dezvoltare al bugetului local din sursa A",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30262",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-10-2021",
+   "path": "local/harghita/sansimion/2021/10",
+   "short": "HCL Sânsimion nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 10/2021 privind aprobarea închirierii unui teren extravilan din patrimonial public al comunei Sânsimion înscris în CF 51106",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30271",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-11-2021",
+   "path": "local/harghita/sansimion/2021/11",
+   "short": "HCL Sânsimion nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 11/2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30272",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30272",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-12-2021",
    "path": "local/harghita/sansimion/2021/12",
    "short": "HCL Sânsimion nr. 12/2021",
@@ -13,6 +58,21 @@
      "from": "2021-01-21",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-13-2021",
+   "path": "local/harghita/sansimion/2021/13",
+   "short": "HCL Sânsimion nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 13/2021 privind alegerea președintelui pentru ședințele Consiliului local al comunei Sânsimion pentru lunile februarie –aprilie 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30274",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30274",
      "sha256": null
     }
    ]
@@ -33,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sansimion-15-2021",
+   "path": "local/harghita/sansimion/2021/15",
+   "short": "HCL Sânsimion nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 15/2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30287",
+   "versions": [
+    {
+     "from": "2021-02-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-16-2021",
+   "path": "local/harghita/sansimion/2021/16",
+   "short": "HCL Sânsimion nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 16/2021 privind aprobarea numărului asistenților personali și încheierea contractelor individuale de muncă ale acestora în anul 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30435",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-17-2021",
+   "path": "local/harghita/sansimion/2021/17",
+   "short": "HCL Sânsimion nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 17/2021 privind revocare Hotărârii Consiliului local nr.81/2020 privind aprobarea Planului de ocupare a funcțiilor publice pe anul 2021 din cadrul aparatului de specialitate al primarului comunei Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30436",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30436",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-18-2021",
    "path": "local/harghita/sansimion/2021/18",
    "short": "HCL Sânsimion nr. 18/2021",
@@ -43,6 +148,51 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-19-2021",
+   "path": "local/harghita/sansimion/2021/19",
+   "short": "HCL Sânsimion nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 19/2021 privind aprobarea scoaterii din funcțiune prin casare și valorificare ca fier vechi prin REMAT, Harghita SA, a două bucăți autogunoieră MARCA IVECO, dată în administrarea SC ECOCSIK SRL, și aflate în domeniul privat al comunei Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30438",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-2-2021",
+   "path": "local/harghita/sansimion/2021/2",
+   "short": "HCL Sânsimion nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 2/2021 privind desemnarea membrilor Consiliului Local în Adunarea Generală a Acționarilor la S.C.GOSPODĂRIA COMUNALĂ SRL SÂNSIMION",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30263",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-20-2021",
+   "path": "local/harghita/sansimion/2021/20",
+   "short": "HCL Sânsimion nr. 20/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 20/2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30439",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30439",
      "sha256": null
     }
    ]
@@ -178,6 +328,21 @@
      "from": "2021-04-22",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-3-2021",
+   "path": "local/harghita/sansimion/2021/3",
+   "short": "HCL Sânsimion nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 3/2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30264",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30264",
      "sha256": null
     }
    ]
@@ -333,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sansimion-4-2021",
+   "path": "local/harghita/sansimion/2021/4",
+   "short": "HCL Sânsimion nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 4/2021 privind aprobarea Planului de acțiuni sau lucrări de interes local. pe anul 2021,pentru repartizarea orelor de muncă prestate lunar de către persoanele apte majore apte de muncă din familiile beneficiare de ajutor social in conformitate cu prevederile Legii nr.276/2010 pentru modificarea si completarea legii nr.416/2001 privind venitul minim garantat",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30265",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30265",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sansimion-40-2021",
    "path": "local/harghita/sansimion/2021/40",
    "short": "HCL Sânsimion nr. 40/2021",
@@ -463,6 +643,66 @@
      "from": "2021-06-10",
      "units": 1,
      "source_url": "https://emol.ro/sansimion-hr/registru-hcl/32974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-5-2021",
+   "path": "local/harghita/sansimion/2021/5",
+   "short": "HCL Sânsimion nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 5/2021 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav pentru semestrul II al anului 2020",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30266",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-6-2021",
+   "path": "local/harghita/sansimion/2021/6",
+   "short": "HCL Sânsimion nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 6/2021 privind revocare Hotărârii Consiliului local nr.50/2020 privind preluarea în administrarea Consiliului Local Sânsimion a terenului împrejmuit având suprafața de 3352 mp înscris în CF Nr. 50680 proprietatea Parohia Romano Catolică Sânsimion",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30267",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-7-2021",
+   "path": "local/harghita/sansimion/2021/7",
+   "short": "HCL Sânsimion nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 7/2021 privind organizarea rețelei școlare a unităților de învățământ din comuna Sânsimion, în anul școlar 2021-2022",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30268",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sansimion-8-2021",
+   "path": "local/harghita/sansimion/2021/8",
+   "short": "HCL Sânsimion nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Sânsimion nr. 8/2021 privind stabilirea normativelor proprii de cheltuieli pentru UAT comunei Sânsimion, pe anul 2021",
+   "url": "https://emol.ro/sansimion-hr/registru-hcl/30269",
+   "versions": [
+    {
+     "from": "2021-01-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sansimion-hr/registru-hcl/30269",
      "sha256": null
     }
    ]

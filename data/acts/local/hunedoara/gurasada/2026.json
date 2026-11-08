@@ -113,6 +113,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--gurasada-6-2026",
+"path": "local/hunedoara/gurasada/2026/6",
+"kind": "local",
+"year": "2026",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 6/2026",
+"short": "HCL Gurasada nr. 6/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-03-13",
+"latest": "2026-03-13",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/256659",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--gurasada-7-2026",
 "path": "local/hunedoara/gurasada/2026/7",
 "kind": "local",

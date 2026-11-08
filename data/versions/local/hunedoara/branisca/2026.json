@@ -3,6 +3,366 @@
  "shard": "local/hunedoara/branisca/2026",
  "acts": [
   {
+   "slug": "hcl-hunedoara--branisca-1-2026",
+   "path": "local/hunedoara/branisca/2026/1",
+   "short": "HCL Brănișca nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 1/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/247000",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/247000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-10-2026",
+   "path": "local/hunedoara/branisca/2026/10",
+   "short": "HCL Brănișca nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 10/2026 privind aprobarea Proiectului Tehnic , a indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții: ” drulat prin Planul Național de Redresare și Reziliență (PNRR), Componenta C10: Fondul Local -I.1.2. Asigurarea infrastructurii pentru transportul verde-ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local) Contract de finanțare nr. 307/03.01.2023",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/258845",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/258845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-11-2026",
+   "path": "local/hunedoara/branisca/2026/11",
+   "short": "HCL Brănișca nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 11/2026 privind aprobarea Regulamentului privind închirierea pășunilor aflate în proprietatea privată a Comunei Brănișca, prin atribuire directă",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/261861",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/261861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-12-2026",
+   "path": "local/hunedoara/branisca/2026/12",
+   "short": "HCL Brănișca nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 12/2026 Privind aprobare modificarii Organigramei si a Statului de functii a aparatului de specialitate al Primarului comunei Branisca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/261862",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/261862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-13-2026",
+   "path": "local/hunedoara/branisca/2026/13",
+   "short": "HCL Brănișca nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 13/2026 privind alegerea președintelui de ședință pentru lunile aprilie 2026 – iunie 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/261863",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/261863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-14-2026",
+   "path": "local/hunedoara/branisca/2026/14",
+   "short": "HCL Brănișca nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 14/2026 privind alegerea președintelui de ședință pentru data de 31 martie 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/261864",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/261864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-15-2026",
+   "path": "local/hunedoara/branisca/2026/15",
+   "short": "HCL Brănișca nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 15/2026 privind reorganizarea aparatului de specialitate al Primarului comunei Brănișca, județul Hunedoara,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/262538",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/262538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-16-2026",
+   "path": "local/hunedoara/branisca/2026/16",
+   "short": "HCL Brănișca nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 16/2026 privind indexarea impozitelor și taxelor locale care constau într- o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, respectiv reactualizarea amenzilor prevăzute la art. 493 alin. (3) și (4) din Legea nr. 227/2015 privind Codul fiscal, cu rata inflației de 7,3%, începând cu anul 2027",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/265795",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/265795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-17-2026",
+   "path": "local/hunedoara/branisca/2026/17",
+   "short": "HCL Brănișca nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 17/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul I al anului 2026 şi a stabilirii măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/265796",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/265796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-18-2026",
+   "path": "local/hunedoara/branisca/2026/18",
+   "short": "HCL Brănișca nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 18/2026 Privind aprobarea categoriilor de cheltuieli finantate de la bugetul local aferente obiectivului de investiții “ Infiintare canalizare menajera si statie de epurare pentru satele Branisca, Rovina, Boz, si Tarnavita, comuna Branisca, judetul Hunedoara.”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/265797",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/265797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-19-2026",
+   "path": "local/hunedoara/branisca/2026/19",
+   "short": "HCL Brănișca nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 19/2026 privind aprobarea bugetului local al comunei Branisca pe anul 2026 şi estimările pe anii 2027-2029",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/266987",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/266987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-2-2026",
+   "path": "local/hunedoara/branisca/2026/2",
+   "short": "HCL Brănișca nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 2/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2025 şi a stabilirii măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/249747",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/249747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-20-2026",
+   "path": "local/hunedoara/branisca/2026/20",
+   "short": "HCL Brănișca nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 20/2026 privind aprobarea contului de incheiere a exercitiului bugetar pe anul 2025",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/271250",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/271250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-21-2026",
+   "path": "local/hunedoara/branisca/2026/21",
+   "short": "HCL Brănișca nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 21/2026 privind aprobarea Programului anual al achiziţiilor publice a comunei Brănișca pentru anul 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/271251",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/271251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-22-2026",
+   "path": "local/hunedoara/branisca/2026/22",
+   "short": "HCL Brănișca nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 22/2026 privind aprobarea rectificarii bugetului local al Comunei Branisca pe anul 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/273496",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/273496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-23-2026",
+   "path": "local/hunedoara/branisca/2026/23",
+   "short": "HCL Brănișca nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 23/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/273497",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/273497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-24-2026",
+   "path": "local/hunedoara/branisca/2026/24",
+   "short": "HCL Brănișca nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 24/2026 la proiectul de hotărâre nr.24/2026 privind revocarea Hotărârii Consiliului Local nr. 16 din 30.04.2026 privind indexarea impozitelor și taxelor locale începând cu anul 2027",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/273498",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/273498",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-25-2026",
+   "path": "local/hunedoara/branisca/2026/25",
+   "short": "HCL Brănișca nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 25/2026 privind aprobarea trecerii unor suprafețe de teren din rezerva Comisiei Locale Brănișca pentru stabilirea dreptului de proprietate privată asupra terenurilor, în domeniul privat al comunei Brănișca, județul Hunedoara",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/274712",
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/274712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-26-2026",
+   "path": "local/hunedoara/branisca/2026/26",
+   "short": "HCL Brănișca nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 26/2026 de aprobare a actualizării Anexei nr. 2 la Hotărârea Consiliului local nr. 13/2024 privind aprobarea nomenclatorului stradal al Comunei Brănișca",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/277037",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/277037",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-27-2026",
+   "path": "local/hunedoara/branisca/2026/27",
+   "short": "HCL Brănișca nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 27/2026 2026 privind aprobarea Studiului de Fezabilitate revizuit pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2021-2027 precum și acordarea unui mandat special reprezentantului Comunei Branisca în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Aqua Prest Hunedoara”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/277038",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/277038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-28-2026",
+   "path": "local/hunedoara/branisca/2026/28",
+   "short": "HCL Brănișca nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 28/2026 privind acordarea unui mandat special reprezentantului comunei Brănișca a în Adunarea Generală a Asociației de Dezvoltare Intercomunitară ,,Aqua Prest Hunedoara” pentru a aproba Actul adițional nr.15/2026 la Contractul de Delegare a Gestiunii Serviciilor Publice de Alimentare cu apă și de canalizare",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/277039",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/277039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-29-2026",
+   "path": "local/hunedoara/branisca/2026/29",
+   "short": "HCL Brănișca nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 29/2026 privind alegerea președintelui de ședință pentru lunile iulie 2026 – septembrie 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/277040",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/277040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-3-2026",
+   "path": "local/hunedoara/branisca/2026/3",
+   "short": "HCL Brănișca nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 3/2026 privind aprobarea Programului anual al achiziţiilor publice a comunei Brănișca pentru anul 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/249748",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/249748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-30-2026",
+   "path": "local/hunedoara/branisca/2026/30",
+   "short": "HCL Brănișca nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 30/2026 privind aprobarea Planului de Analiză și Acoperire a Riscurilor (PAAR) al Comunei Brănișca pentru anul 2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/277041",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/277041",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-31-2026",
    "path": "local/hunedoara/branisca/2026/31",
    "short": "HCL Brănișca nr. 31/2026",
@@ -133,6 +493,21 @@
      "from": "2026-08-27",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/285179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-4-2026",
+   "path": "local/hunedoara/branisca/2026/4",
+   "short": "HCL Brănișca nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 4/2026 privind aprobarea organizarii si desfașurării evenimentului cultural intitulat ,, FEMEIA, ETERNA POVESTE,,",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/253806",
+   "versions": [
+    {
+     "from": "2026-02-18",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/253806",
      "sha256": null
     }
    ]
@@ -288,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--branisca-5-2026",
+   "path": "local/hunedoara/branisca/2026/5",
+   "short": "HCL Brănișca nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 5/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/256506",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/256506",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--branisca-50-2026",
    "path": "local/hunedoara/branisca/2026/50",
    "short": "HCL Brănișca nr. 50/2026",
@@ -298,6 +688,66 @@
      "from": "2026-11-04",
      "units": 1,
      "source_url": "https://emol.ro/branisca-hd/registru-hcl/297624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-6-2026",
+   "path": "local/hunedoara/branisca/2026/6",
+   "short": "HCL Brănișca nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 6/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/256507",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/256507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-7-2026",
+   "path": "local/hunedoara/branisca/2026/7",
+   "short": "HCL Brănișca nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 7/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/256508",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/256508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-8-2026",
+   "path": "local/hunedoara/branisca/2026/8",
+   "short": "HCL Brănișca nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 8/2026",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/256509",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/256509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--branisca-9-2026",
+   "path": "local/hunedoara/branisca/2026/9",
+   "short": "HCL Brănișca nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Brănișca nr. 9/2026 privind punerea la dispoziția UAT Ilia , cu titlu gratuit, a terenurilor apartinand domeniului public si domeniului privat al UAT Comuna Brănișca necesare realizării investiției ,, Dezvoltare de rețele inteligente de distribuție a gazelor naturale pentru autoritătile publice locale: Crișcior, Ilia si Dobra -UAT Ilia , județul Hunedoara”",
+   "url": "https://emol.ro/branisca-hd/registru-hcl/258844",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/branisca-hd/registru-hcl/258844",
      "sha256": null
     }
    ]

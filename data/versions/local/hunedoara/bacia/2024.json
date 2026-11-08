@@ -1068,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-7-2024",
+   "path": "local/hunedoara/bacia/2024/7",
+   "short": "HCL Băcia nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 7/2024 privind aprobarea modalităţii de decontare a cheltuielilor de transport pentru funcţionarii publici şi personalul contractual din cadrul familiei ocupaţionale \"Administraţie\" din aparatul de specialitate al primarului comunei Băcia şi al instituţiilor şi serviciilor publice de interes local, înfiinţate în subordinea, coordonarea sau sub autoritatea consiliului local al comunei Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/147753",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/147753",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-70-2024",
    "path": "local/hunedoara/bacia/2024/70",
    "short": "HCL Băcia nr. 70/2024",
@@ -1123,6 +1138,21 @@
      "from": "2024-10-16",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/172761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-74-2024",
+   "path": "local/hunedoara/bacia/2024/74",
+   "short": "HCL Băcia nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 74/2024 Privind aprobarea delimitării şi dezlipirii imobilului situat în intravilanul comunei Băcia, satul Băcia, judeţul Hunedoara, aflat în domeniul public al comunei Băcia, înscris în cf. nr. 60914 UAT comuna Băcia, sub A.1, cu nr. cadastral Nr. top. 60914, constând din teren intravilan în suprafaţă de 6.500 mp – șasemiicincisute-mp, având categoria de folosinţă curți construcții",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/172762",
+   "versions": [
+    {
+     "from": "2024-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/172762",
      "sha256": null
     }
    ]
@@ -1188,6 +1218,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-79-2024",
+   "path": "local/hunedoara/bacia/2024/79",
+   "short": "HCL Băcia nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 79/2024 privind organizarea comisiilor de specialitate",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/178960",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/178960",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-8-2024",
    "path": "local/hunedoara/bacia/2024/8",
    "short": "HCL Băcia nr. 8/2024",
@@ -1198,6 +1243,36 @@
      "from": "2024-03-15",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/147754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-80-2024",
+   "path": "local/hunedoara/bacia/2024/80",
+   "short": "HCL Băcia nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 80/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/178961",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/178961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-81-2024",
+   "path": "local/hunedoara/bacia/2024/81",
+   "short": "HCL Băcia nr. 81/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 81/2024 privind alegerea viceprimarului",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/178962",
+   "versions": [
+    {
+     "from": "2025-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/178962",
      "sha256": null
     }
    ]

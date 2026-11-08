@@ -3,6 +3,111 @@
  "shard": "local/gorj/ticleni/2018",
  "acts": [
   {
+   "slug": "hcl-gorj--ticleni-33-2018",
+   "path": "local/gorj/ticleni/2018/33",
+   "short": "HCL Țicleni nr. 33/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 33/2018 privind virarea unor sume încasate din anii anteriori la alte venituri ale Bugetului local",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-33-privind-virarea-unor-sume-de-bani-incasate-din-anii-anteriori-la-alte-venituri-ale-bugetului-local.pdf",
+     "sha256": "a2ebcd6c87138dea83f2e7243327fe6de202f356315a7c9d70625a4a425d3f15"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-34-2018",
+   "path": "local/gorj/ticleni/2018/34",
+   "short": "HCL Țicleni nr. 34/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 34/2018 privind privind împuternicirea reprezentantului Orașului Țicleni în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Serviciul de Alimentare cu Apă și Canalizare ADIA Gorj, pentru a vota favorabil acceptarea a unor noi membri",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-34-privind-imputernicirea-reprezentantului-oras-%C8%9Aicleni-in-ADIA.pdf",
+     "sha256": "cd873b7c06734448ad3f577ca008cbfee61e2b24e0c3478f40f33484b3d3d11a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-35-2018",
+   "path": "local/gorj/ticleni/2018/35",
+   "short": "HCL Țicleni nr. 35/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 35/2018 privind rectificarea Bugetului local al orașului și bugetul instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-35-privind-rectificre-bugetara.pdf",
+     "sha256": "7ce0d90db73ab27234b81248ac0f87701e72aad90cd4c74d65677e546be630e2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-36-2018",
+   "path": "local/gorj/ticleni/2018/36",
+   "short": "HCL Țicleni nr. 36/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 36/2018 privind aprobarea concesionării prin licitație publică a imobilului ,,Ștrand Oras Țicleni,, aparținând domeniului privat al Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-36-privind-aprobarea-concesionarii-prin-licitatie-publica-a-imobilului-Strand-Oras-%C8%9Aicleni.pdf",
+     "sha256": "613e5064c4268ea760f9c10b37c84347e1d87c902e25058a26cd2938b1612b47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-37-2018",
+   "path": "local/gorj/ticleni/2018/37",
+   "short": "HCL Țicleni nr. 37/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 37/2018 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-37-privind-alegerea-presedinte-de-sedinta-mai-iunie-2018.pdf",
+     "sha256": "1a0ab0d6b62cdfa36601f9d6790afe4a51215f6423e8f5d13e3309a275b1a799"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-38-2018",
+   "path": "local/gorj/ticleni/2018/38",
+   "short": "HCL Țicleni nr. 38/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 38/2018 privind aprobarea colectivului de redacție al Anuarului Orașului Țicleni ,,Glasul Cetății,, , ediția 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-38-privind-aprobarea-colectivului-de-redactie-al-Anuarului-Orasului-Ticleni-Glasul-Cetatii-editia-2018.pdf",
+     "sha256": "26b6c495f7ff372202e5da79c4ad7ff9de9527fa15eeb57749b3ffdbfdcf989a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-39-2018",
+   "path": "local/gorj/ticleni/2018/39",
+   "short": "HCL Țicleni nr. 39/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 39/2018 privind aprobarea materialelor din cuprinsul Anuarului Orașului Țicleni ,,Glasul Cetății,, , ediția 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-04-26",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-39-privind-aprobarea-materialelor-din-cuprinsul-Anuarului-Orasului-%C8%9Aicleni-Glasul-Cetatii-editia-2018.pdf",
+     "sha256": "7c33659e3d10435076ae186152181ba836a93ef57adb98e05ea433c18cb1cd69"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-40-2018",
    "path": "local/gorj/ticleni/2018/40",
    "short": "HCL Țicleni nr. 40/2018",
@@ -14,6 +119,81 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/01/hcl-40-privind-indexarea-val.impozabile-impozite-si-taxe-pe-anul-2019.pdf",
      "sha256": "039cd45545a05b965189c3aef7ad9f17992909ba8aba774ccfa2168951baa238"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-41-2018",
+   "path": "local/gorj/ticleni/2018/41",
+   "short": "HCL Țicleni nr. 41/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 41/2018 privind rectificarea Bugetului local al orașului pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-41-privind-rectificare-buhet-local.pdf",
+     "sha256": "be88f619415313d21130e44fd4ec3dc3766047deed5d3225a5dde3d6f2e590c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-42-2018",
+   "path": "local/gorj/ticleni/2018/42",
+   "short": "HCL Țicleni nr. 42/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 42/2018 privind aprobarea Planului de ocupare a funcțiilor publice pentru anul 2019, din cadrul aparatului de specialitate al primarului",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-42-privin-aprobarea-Planului-de-ocupare-a-functiilor-publice-pentru-anul-2019.pdf",
+     "sha256": "100e31c1bdcf397ea39bdd496e1e7e349deaa8359ac58c76022d9b114b15d3a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-43-2018",
+   "path": "local/gorj/ticleni/2018/43",
+   "short": "HCL Țicleni nr. 43/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 43/2018 privind stabilirea calității de reprezentant pentru orașul Țicleni în Adunarea Generală a Asociației de Dezvolatere Intercomunitară în domeniul Serviciilor de Salubrizare ,,ADIS,, Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-43-privind-stabilirea-calitatii-de-reprezentant-pentru-oarsul-%C8%9Aicleni-%C3%AEn-AGA-ADIS.pdf",
+     "sha256": "7145f4b117db0fe4049aab6aac5420cefb4863d354cc411936b0db750ff728fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-44-2018",
+   "path": "local/gorj/ticleni/2018/44",
+   "short": "HCL Țicleni nr. 44/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 44/2018 privind analiza stadiului de înscriere a datelor în Registru Agricol pentru semestrul I al anului 2018 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-06-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-44-privind-analiza-stadiului-de-inscriere-a-datelor-in-Registru-Agricol.pdf",
+     "sha256": "a045876e2dc95789c4f279711ee9954dfda9b0d090235b55973a1bd24af5dbd2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-46-2018",
+   "path": "local/gorj/ticleni/2018/46",
+   "short": "HCL Țicleni nr. 46/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 46/2018 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-46-privind-presedinte-sedinta-aug-oct-2018.pdf",
+     "sha256": "45cd4579dbab7fe9a246792b8424c33995298f02dae0bdc0a9d12aa23c08ffcb"
     }
    ]
   },
@@ -33,6 +213,411 @@
    ]
   },
   {
+   "slug": "hcl-gorj--ticleni-48-2018",
+   "path": "local/gorj/ticleni/2018/48",
+   "short": "HCL Țicleni nr. 48/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 48/2018 privind aprobarea Semicentenarului 50 DE ANI DE LA INFIINȚAREA ORAȘULUI ȚICLENI 1968-2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-48-aprobare-Semicentenar-50-de-ani-de-la-infiintare-oras-%C8%9Aicleni.pdf",
+     "sha256": "e12dc69d87e842784876bf76590d3754b0920133e52b04800cab6e4aea6dcd1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-49-2018",
+   "path": "local/gorj/ticleni/2018/49",
+   "short": "HCL Țicleni nr. 49/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 49/2018 privind includerea unui teren in domeniul privat al Orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-07-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-49-privind-includerea-unui-teren-in-domeniul-privat-al-orasului-%C8%9Aicleni.pdf",
+     "sha256": "fa4b4d9e43e2b6fed7591edc34b26b8f18cd60807cae7c5fc8871cd33e175a67"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-51-2018",
+   "path": "local/gorj/ticleni/2018/51",
+   "short": "HCL Țicleni nr. 51/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 51/2018 privind organizarea și deșfășurarea evenimentului ,,Ziua Vârstnicilor,,",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-51-privind-organiarea-evenimentului-Ziua-Varstnicilor.pdf",
+     "sha256": "3b86067a9a8a8e8748d136cf4a01ab29519411441b1929de49eda28da93ca906"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-52-2018",
+   "path": "local/gorj/ticleni/2018/52",
+   "short": "HCL Țicleni nr. 52/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 52/2018 privind aprobarea Planului anual de acțiune al serviciilor sociale anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-52-privind-aprobarea-Planului-anual-de-actiune-al-serviciilor-sociale-pe-anul-2018.pdf",
+     "sha256": "ab10f9d3dc525f5b9b441dc2adad802e4c1d4944ab1177661e8bbdeb87beceeb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-53-2018",
+   "path": "local/gorj/ticleni/2018/53",
+   "short": "HCL Țicleni nr. 53/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 53/2018 privind modificarea ștatului de funcții pentru aparatul de specialitate al Primarului orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-53-privind-modificarea-statului-de-functii-pentru-aparatul-de-specialitate-al-Primarului-orasului-%C8%9Aicleni.pdf",
+     "sha256": "2fd61a297babd1840a3837e11ff92a45dc74cfe4d051bf5a66fc09e69cb607b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-54-2018",
+   "path": "local/gorj/ticleni/2018/54",
+   "short": "HCL Țicleni nr. 54/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 54/2018 privind acordarea normei de hrană personalului din cadrul Serviciului Poliția Locală a orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-08-30",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-54-privind-acordare-de-hrana-personalului-din-cadrul-Serviciului-Politia-Locala-a-orasului-%C8%9Aicleni.pdf",
+     "sha256": "e4db46e2f11cd2f30bac1f629fb2709161309a085b82e4e7bc42dde198a5c9ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-55-2018",
+   "path": "local/gorj/ticleni/2018/55",
+   "short": "HCL Țicleni nr. 55/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 55/2018 privind rectificarea bugetului local al orașului și bugetul instituțiilor publice finanțate din venituri proprii și subvenții pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-55-rectificare-buget.pdf",
+     "sha256": "c03514f5dede1953a075ae94c4a5462aefe384612d1fcc9ead6bc3c2aff37ac4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-56-2018",
+   "path": "local/gorj/ticleni/2018/56",
+   "short": "HCL Țicleni nr. 56/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 56/2018 privind reanalizarea aprobării Bugetului local pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-20",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-56-privind-realizarea-aprobarii-Bugetului-local-pe-anul-2018.pdf",
+     "sha256": "39d8a83c493ef95ae5d48ada6e2707020fc229773e65bd1ff1dc265f3b91f83a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-58-2018",
+   "path": "local/gorj/ticleni/2018/58",
+   "short": "HCL Țicleni nr. 58/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 58/2018 privind încheierea unui Protocol între Centrul Cultural Țicleni și Școala Populară de Artă pentru instruirea și promovarea grupului instrumental ,,Voinicelul,, și Ansamblul ,,Petrolul,,",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-58-privind-incheierea-unui-Protocol-%C3%AEntreCentrul-Cultural-%C8%9Aicleni-si-Scoala-Populara-de-Arta.pdf",
+     "sha256": "a67e86621b6a656efc570013fda076d9a9b4e5e15abdf02af09b662ee5ecd41f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-59-2018",
+   "path": "local/gorj/ticleni/2018/59",
+   "short": "HCL Țicleni nr. 59/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 59/2018 privind desemnarea reprezentanților Consiliului Local ca membri în Consiliul de Administrație al Școlii Gimnaziale nr. 1, Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-59-privind-desemnarea-reprezentantilor-CL-ca-membri-in-CLA-al-Scolii-Gimnaziale-%C8%9Aicleni.pdf",
+     "sha256": "3c96f7d4c6d4e02a6fafcc36bccc88c0e78f07fa93fccdf61a0fb2549f4cfb46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-60-2018",
+   "path": "local/gorj/ticleni/2018/60",
+   "short": "HCL Țicleni nr. 60/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 60/2018 privind desemnarea unui reprezentant al Consiliului Local Țicleni ca membru în Comisia pentru evaluarea și asigurarea calitatii în Școala Gimnazială nr. 1 Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-60-privind-desemnarea-unui-reprezentant-al-CLT-ca-membru-in-comisia-evaluare-si-asigurare-calitatii-%C3%AEn-Scoala-Gimnaziala.pdf",
+     "sha256": "ec2e8f456d5f856944b9779f6b1b2521c9a081843d299389f666c1719b37e356"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-61-2018",
+   "path": "local/gorj/ticleni/2018/61",
+   "short": "HCL Țicleni nr. 61/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 61/2018 pentru modificarea HCL93/02.11.2017 privind schimbarea destinației unei cladiri",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-09-27",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-61-privind-modificare-hcl-93-din-2017.pdf",
+     "sha256": "e878cebab7df993d3effd6bf97d0fa8efabdf43277ba0fe8d6b160011378fc0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-62-2018",
+   "path": "local/gorj/ticleni/2018/62",
+   "short": "HCL Țicleni nr. 62/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 62/2018 privind aprobarea organizării evenimentului ,,1 Decembrie-Ziua Națională a României,, și a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-62-privind-aprobarea-organizarii-evenimentului-1-Decembrie.pdf",
+     "sha256": "4d2bc8894b3f470efd2ede5bedfbf352bcab3fd75eb3c1f5076595dd38346fbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-63-2018",
+   "path": "local/gorj/ticleni/2018/63",
+   "short": "HCL Țicleni nr. 63/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 63/2018 privind aprobarea organizării evenimentului ,,Spectacol de Colinde,, 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-63-privind-aprobarea-organizarii-evenimentului-Spectacol-de-Colinde-2018.pdf",
+     "sha256": "a140f97c0f8b85a41dfb7a44738499b4ee95169e03443d4ef988cd3cbac15b0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-64-2018",
+   "path": "local/gorj/ticleni/2018/64",
+   "short": "HCL Țicleni nr. 64/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 64/2018 privind aprobarea organizării evenimentului ,,Trecerea în noul an 2019,, și a manifestărilor dedicate acestui eveniment",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-64-privind-aprobarea-organizarii-evenimentului-Trecerea-%C3%AEn-noul-an-2019.pdf",
+     "sha256": "88bb7b9a3668cc50b6c3ef64ff7ed5f87a4c1d2df1f3a10217650de2412ad148"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-65-2018",
+   "path": "local/gorj/ticleni/2018/65",
+   "short": "HCL Țicleni nr. 65/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 65/2018 privind aprobarea ,,Agendei culturale a orașului Țicleni,, pentru anul 2019",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-65-privind-aprobrea-Agendei-culturale-a-orasului-%C8%9Aicleni-pentru-anul-2019.pdf",
+     "sha256": "8db739ec5d102f53c65e19736ae104ca993e56a680af43a46e817a7d050f4227"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-66-2018",
+   "path": "local/gorj/ticleni/2018/66",
+   "short": "HCL Țicleni nr. 66/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 66/2018 privind alegerea președintelui de ședință",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-66-privind-alegere-presedinte-de-sedinta.pdf",
+     "sha256": "54e5ef83fcbf56b864dfaa8a02dc0d86596c6e7a0f8c235a994c2b2d00886ba3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-67-2018",
+   "path": "local/gorj/ticleni/2018/67",
+   "short": "HCL Țicleni nr. 67/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 67/2018 privind aprobarea trecerii unui bun imobil ,,Hidrosfera metalică,, din domeniul public al orașului Țicleni în domeniul privat al orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-10-19",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-67-privind-aprobarea-trecerii-unui-bun-imobil-Hidrosfera-metalica-%C3%AEn-domeniul-public-al-orasului-%C8%9Aicleni.pdf",
+     "sha256": "956a60a2ee3bc638ddcf3928c2330dce040c83fc5d2ae29653aadbbf23172669"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-68-2018",
+   "path": "local/gorj/ticleni/2018/68",
+   "short": "HCL Țicleni nr. 68/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 68/2018 privind rectificarea Bugetului local al orașului pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-68-privind-rectificare-buget-local.pdf",
+     "sha256": "fa02988d376ed0a32dff285afb8c118ba79db5d31b7132818293918e6f3d539c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-69-2018",
+   "path": "local/gorj/ticleni/2018/69",
+   "short": "HCL Țicleni nr. 69/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 69/2018 privind revocarea unor hotărâri ale Consiliului Local Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-05",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-69-privind-revocarea-unor-hot%C4%83r%C3%A2ri-ale-CLT.pdf",
+     "sha256": "e152a1d073ed3def0148f7a2bf4a6875ff3467b3ea5969a036acf5e57f9a0c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-70-2018",
+   "path": "local/gorj/ticleni/2018/70",
+   "short": "HCL Țicleni nr. 70/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 70/2018 privind rectificarea Bugetului local al orașului pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-70-privind-rectificare-buget-local.pdf",
+     "sha256": "c263f828b7184fdc0fc6faed1cc6120707c2fe5923c6f661b6550f20211d00fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-71-2018",
+   "path": "local/gorj/ticleni/2018/71",
+   "short": "HCL Țicleni nr. 71/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 71/2018 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Țicleni al unor obiecte de inventar/mijloace fixe",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-71-privind-aprobarea-trecerii-din-domeniul-public-%C3%AEn-domeniul-privat-al-unor-obiecte-de-inventar.pdf",
+     "sha256": "4b962cb06f8a75df9c26be70b46cc949401ab1006766589b5234f7e70c83c3db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-72-2018",
+   "path": "local/gorj/ticleni/2018/72",
+   "short": "HCL Țicleni nr. 72/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 72/2018 privind rețeaua școlară a unităților de învățământ preuniversitar de stat, ce urmează a funcționa în anul școlar 2019-2020, pe raza orașului Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-72-privind-reteaua-scolara-a-unitatilor-de-invatamant-preuniversitar-de-stat.pdf",
+     "sha256": "7041abfa7e9e9fc625554a0a92b68909384a0b0883f8986bad29f2df27bdd9e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-73-2018",
+   "path": "local/gorj/ticleni/2018/73",
+   "short": "HCL Țicleni nr. 73/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 73/2018 privind desemnarea unor reprezentanți ai Consiliului Local Țicleni ca membrii în Consiliul de Administrație al Liceului Tehnologic Țicleni",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-73-privind-desemnarea-unor-reprezentanti-ai-CLT-ca-membrii-in-CA-al-LTT.pdf",
+     "sha256": "47c49dbd8d40bd36ebcc8dc39918b662eb66504fb698c8b2bfbeaf36dd4a1669"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-74-2018",
+   "path": "local/gorj/ticleni/2018/74",
+   "short": "HCL Țicleni nr. 74/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 74/2018 privind modificarea și completarea ,,Inventarul bunurilor care aparțin domeniului public,, al orașului Țicleni, jud. Gorj",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-74-privind-modificarea-si-completarea-Inventarul-bunurilor-care-apartin-domeniului-public.pdf",
+     "sha256": "20ab7f40116b4910c96d537f770abda4537d6aa09286b84bf5a3fe7514da03d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-75-2018",
+   "path": "local/gorj/ticleni/2018/75",
+   "short": "HCL Țicleni nr. 75/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 75/2018 privind rectificarea Bugetului local al orașului pe anul 2018",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-11-28",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-75-privind-rectificare-buget-local.pdf",
+     "sha256": "ede8b658317b3acd8bc4b779dc35c2571ae6e7ba6ae7d4a3ee27ca7e368ffa3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-77-2018",
+   "path": "local/gorj/ticleni/2018/77",
+   "short": "HCL Țicleni nr. 77/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 77/2018 privind suplimentarea cotei de motorina pentru luna decembrie 2018 pentru buldoexcavator și tractor",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-77-privind-suplimetare-cota-de-motorina-pentru-luna-decembrie-2018-pentru-buldoexcavator-si-tractor.pdf",
+     "sha256": "1f51fc6283e94d03832442aafd77b4031cc9a4c4f1de8a0713560e943f250923"
+    }
+   ]
+  },
+  {
    "slug": "hcl-gorj--ticleni-78-2018",
    "path": "local/gorj/ticleni/2018/78",
    "short": "HCL Țicleni nr. 78/2018",
@@ -44,6 +629,21 @@
      "units": 1,
      "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-78-privind-prelungire-PUZ-al-Orasului-%C8%9Aicleni.pdf",
      "sha256": "e3fe1e915cac34e9b110dc4f97ac2c4d6c8786f43b5e044483f38325cc26acc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-gorj--ticleni-79-2018",
+   "path": "local/gorj/ticleni/2018/79",
+   "short": "HCL Țicleni nr. 79/2018",
+   "title": "Hotărârea Consiliului Local al Orașului Țicleni nr. 79/2018 privind completarea HCL Țicleni nr. 40/31.05.2018 pentru mijloacele de transport hibride pentru anul fiscal 2019",
+   "url": "https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2018/",
+   "versions": [
+    {
+     "from": "2018-12-20",
+     "units": 1,
+     "source_url": "https://www.primarieticleni.ro/wp-content/uploads/2019/02/hcl-79-privind-modificare-si-completare-hcl-40.pdf",
+     "sha256": "5b5caf454ae64f51f404da2b0e29c0d5297c63eddb911f252bd7997eafbf7b89"
     }
    ]
   }

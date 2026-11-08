@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Țicleni nr. 46/2019 privind darea în administrarea și exploatarea APAREGIO Gorj a unor obiective de investiții aferente sistemului public de alimentare cu apă și canalizare al orașului Țicleni
+
+HCL Țicleni nr. 46/2019 · 1 versions, from 2019-08-26 (latest in force: 2019-08-26) · <https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2019>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-gorj--ticleni-46-2019` (tags `hcl-gorj--ticleni-46-2019/<day>`; `python tools/on.py <day> hcl-gorj--ticleni-46-2019`).
+
+## Decisions made by hand
+
+- HCL Țicleni nr. 46/2019: listed from Consiliul Local al Orașului Țicleni (www.primarieticleni.ro); an individual decision: metadata only.
+- HCL Țicleni nr. 46/2019: dated from 26 August 2019, the day it was adopted (the register gives no later day of publication).
+- HCL Țicleni nr. 46/2019: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

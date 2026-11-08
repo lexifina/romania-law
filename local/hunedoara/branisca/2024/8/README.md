@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Brănișca nr. 8/2024 Proiect de hotarare nr. 8/2024 privind aprobarea inceperii investitiei , achizitionarea de servicii de proiectare si TEMA DE PROIECTARE aferente obiectivului de investitii ,,Modernizarea si eficientizarea sistemului de iluminat public în Comuna Branisca, Județul Hunedoara ”
+
+HCL Brănișca nr. 8/2024 · 1 versions, from 2024-02-28 (latest in force: 2024-02-28) · <https://emol.ro/branisca-hd/registru-hcl/146365>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-hunedoara--branisca-8-2024` (tags `hcl-hunedoara--branisca-8-2024/<day>`; `python tools/on.py <day> hcl-hunedoara--branisca-8-2024`).
+
+## Decisions made by hand
+
+- HCL Brănișca nr. 8/2024: listed from Consiliul Local al Comunei Brănișca (emol.ro); an individual decision: metadata only.
+- HCL Brănișca nr. 8/2024: dated from 28 February 2024, the day it was adopted (the register gives no later day of publication).
+- HCL Brănișca nr. 8/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

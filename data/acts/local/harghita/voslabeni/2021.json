@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-5-2021",
+"path": "local/harghita/voslabeni/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 5/2021",
+"short": "HCL Voșlăbeni nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-08",
+"latest": "2021-01-08",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/22109",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-6-2021",
 "path": "local/harghita/voslabeni/2021/6",
 "kind": "local",
@@ -154,6 +177,28 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-9-2021",
+"path": "local/harghita/voslabeni/2021/9",
+"kind": "local",
+"year": "2021",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 9/2021 privind aprobarea vânzării masei lemnoase pe picior prin licitație publica cu strigare și a prețului de pornire la licitație pentru partizile constituite in fondul forestier proprietate publica a comunei Voșlăbeni, aflat in administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Borsec",
+"short": "HCL Voșlăbeni nr. 9/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-02",
+"latest": "2021-02-02",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/22132",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -356,6 +401,28 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-19-2021",
+"path": "local/harghita/voslabeni/2021/19",
+"kind": "local",
+"year": "2021",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 19/2021 privind aprobarea vânzării imobilelor (clădiri) aparținând domeniului privat al comunei Voșlăbeni, județul Harghita, situat în localitatea Voșlăbeni nr. 387(343), identificat prin CF 52048 sub nr. Cadastral 52048",
+"short": "HCL Voșlăbeni nr. 19/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-23",
+"latest": "2021-03-23",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/22143",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-20-2021",
 "path": "local/harghita/voslabeni/2021/20",
 "kind": "local",
@@ -510,6 +577,94 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-27-2021",
+"path": "local/harghita/voslabeni/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 27/2021 privind aprobarea bugetului general de venituri și cheltuieli întocmit de SC CLV PADINA SRL pe anul 2021",
+"short": "HCL Voșlăbeni nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40457",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-28-2021",
+"path": "local/harghita/voslabeni/2021/28",
+"kind": "local",
+"year": "2021",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 28/2021 privind aprobarea bugetului general de venitui și cheltuieli întocmit de SC COCOȘELUL CLV SRL pe anul 2021",
+"short": "HCL Voșlăbeni nr. 28/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40458",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-29-2021",
+"path": "local/harghita/voslabeni/2021/29",
+"kind": "local",
+"year": "2021",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 29/2021 privind dizolvarea și lichidarea SC. CLV PADINA SRL",
+"short": "HCL Voșlăbeni nr. 29/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40459",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-30-2021",
+"path": "local/harghita/voslabeni/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 30/2021 privind aprobarea initierii procedurilor pentru infintarea unei societati comerciale cu raspundere limitata de drept privat si interes local cu asociat unic comuna Voslabeni",
+"short": "HCL Voșlăbeni nr. 30/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40460",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-31-2021",
 "path": "local/harghita/voslabeni/2021/31",
 "kind": "local",
@@ -532,6 +687,50 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-32-2021",
+"path": "local/harghita/voslabeni/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 32/2021 privind aprobarea ”Ghidul solicitantului” și modelul ”Contractului de finanțare nerambursabilă” privind finanţarea activităţilor comunitare desfășurate de asociații, fundații și ONG locale”, pe anul 2021, al Consiliului Local Voșlăbeni",
+"short": "HCL Voșlăbeni nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-22",
+"latest": "2021-04-22",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40462",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-33-2021",
+"path": "local/harghita/voslabeni/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 33/2021 privind aprobarea pretului de vanzare a masei lemnoase pe picior din partida nr. 01635/EO constituita din defrisarea unor drumuri de tractor necesar pentru exploatarea masei lemnoase din partizile 01595, 01594 si 01596 in fondul forestier proprietate publica a comunei Voslabeni, aflat in administrarea Directiei Silvice Harghita pe raza Ocolului Silvic Borsec",
+"short": "HCL Voșlăbeni nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40463",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-34-2021",
 "path": "local/harghita/voslabeni/2021/34",
 "kind": "local",
@@ -551,6 +750,50 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-35-2021",
+"path": "local/harghita/voslabeni/2021/35",
+"kind": "local",
+"year": "2021",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 35/2021 privind stabilirea contribuţiei persoanelor vârstnice, beneficiare de servicii de îngrijire la domiciliu",
+"short": "HCL Voșlăbeni nr. 35/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40465",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-36-2021",
+"path": "local/harghita/voslabeni/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 36/2021 privind modificarea şi completarea Actului Constitutiv al SC COCOSELUL CLV S.R.L",
+"short": "HCL Voșlăbeni nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-20",
+"latest": "2021-05-20",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40466",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -598,6 +841,51 @@
 }
 },
 {
+"slug": "hcl-harghita--voslabeni-39-2021",
+"path": "local/harghita/voslabeni/2021/39",
+"kind": "local",
+"year": "2021",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 39/2021 privind modificare a HCL nr. 62/2020 privind organizarea comisiilor pe domenii de specialitate ale Consiliului Local Voșlăbeni, judetul Harghita",
+"short": "HCL Voșlăbeni nr. 39/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40469",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-40-2021",
+"path": "local/harghita/voslabeni/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 40/2021",
+"short": "HCL Voșlăbeni nr. 40/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-28",
+"latest": "2021-06-28",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40470",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-harghita--voslabeni-41-2021",
 "path": "local/harghita/voslabeni/2021/41",
 "kind": "local",
@@ -617,6 +905,28 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-42-2021",
+"path": "local/harghita/voslabeni/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 42/2021 privind acordul pentru instituirea dreptului de uz , servitute si acces cu titlu gratuit pe proprietatea public a comunei Voslabeni, pentru realizarea proiectului ,,CONSTRUIRE RETEA FIXA DE TELECOMUNICATII FITH ORANGE”",
+"short": "HCL Voșlăbeni nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-21",
+"latest": "2021-07-21",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/40472",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -661,6 +971,204 @@
 "council_name": "Consiliul Local al Comunei Voșlăbeni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-45-2021",
+"path": "local/harghita/voslabeni/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 45/2021 privind modificarea Hotărârii nr.1/2021 cu privire la utilizarea excedentului bugetului local și activităților finanțate integral sau parțial din venituri proprii al anului 2020",
+"short": "HCL Voșlăbeni nr. 45/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65350",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-46-2021",
+"path": "local/harghita/voslabeni/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 46/2021 privind aprobarea raportului de evaluare a imobilului teren intravilan situat în comuna Voșlăbeni",
+"short": "HCL Voșlăbeni nr. 46/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65351",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-47-2021",
+"path": "local/harghita/voslabeni/2021/47",
+"kind": "local",
+"year": "2021",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 47/2021 privind acordarea unui sprijin financiar pentru Parohia Ortodoxă Voșlăbeni",
+"short": "HCL Voșlăbeni nr. 47/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65352",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-48-2021",
+"path": "local/harghita/voslabeni/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 48/2021 privind acordarea unui sprijin financiar pentru Parohia Romano- Catolica sat. Izvoru Muresului comuna Voslabeni",
+"short": "HCL Voșlăbeni nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65353",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-49-2021",
+"path": "local/harghita/voslabeni/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 49/2021 privind rectificarea bugetului general al comunei Voșlăbeni și a Listei de investiții pe trimestrul III anul 2021",
+"short": "HCL Voșlăbeni nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65358",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-50-2021",
+"path": "local/harghita/voslabeni/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 50/2021 privind aprobarea destinației și a prețului de pornire la licitație a masei lemnoase pusă în valoare de pășunile comunei Voșlăbeni, aflate în administrarea Direcției Silvice Harghita pe raza Ocolului Silvic Miercurea Ciuc",
+"short": "HCL Voșlăbeni nr. 50/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65359",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-51-2021",
+"path": "local/harghita/voslabeni/2021/51",
+"kind": "local",
+"year": "2021",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 51/2021 privind modificarea HCL nr. 70/17.10.2017 privind aprobarea studiului de fezabilitate pentru proiectul ''Înființarea sistemului de alimentare cu apă în localitățile Voșlăbeni și Izvoru Mureșului, județul Harghita''",
+"short": "HCL Voșlăbeni nr. 51/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65360",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-52-2021",
+"path": "local/harghita/voslabeni/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 52/2021 privind aprobarea solicitariiprelungirii scrisorii de garanţie de laFNGCIMM. SA pentru realizarea investitiei \"Dotarea Caminului Cultural Voslabeni jud. Harghita”",
+"short": "HCL Voșlăbeni nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65361",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-harghita--voslabeni-53-2021",
+"path": "local/harghita/voslabeni/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Voșlăbeni nr. 53/2021 privind demararea procedurilor necesare dezmembrării în vederea dării în administrare a unei suprafețe de 168 mp teren aflat în domeniul privat al Comunei Voșlăbeni, județul Harghita",
+"short": "HCL Voșlăbeni nr. 53/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-07-06",
+"latest": "2022-07-06",
+"portal": "https://emol.ro/voslabeni-hr/registru-hcl/65362",
+"council": "harghita/voslabeni",
+"council_name": "Consiliul Local al Comunei Voșlăbeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

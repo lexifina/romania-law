@@ -318,6 +318,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--certeju-de-sus-29-2022",
+   "path": "local/hunedoara/certeju-de-sus/2022/29",
+   "short": "HCL Certeju de Sus nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 29/2022 privind aprobarea vânzării prin licitație publică a masei lemnoase din afara fondului forestier proprietate publică a comunei Certeju de Sus",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96094",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96094",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--certeju-de-sus-3-2022",
    "path": "local/hunedoara/certeju-de-sus/2022/3",
    "short": "HCL Certeju de Sus nr. 3/2022",
@@ -1018,6 +1033,21 @@
      "from": "2023-03-23",
      "units": 1,
      "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96297",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--certeju-de-sus-8-2022",
+   "path": "local/hunedoara/certeju-de-sus/2022/8",
+   "short": "HCL Certeju de Sus nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Certeju de Sus nr. 8/2022 privind desemnarea a doi consilieri locali în comisia de evaluare a performanțelor profesionale individuale ale Secretarului General al comunei Cetreju de Sus",
+   "url": "https://emol.ro/certejudesus-hd/registru-hcl/96066",
+   "versions": [
+    {
+     "from": "2023-03-23",
+     "units": 1,
+     "source_url": "https://emol.ro/certejudesus-hd/registru-hcl/96066",
      "sha256": null
     }
    ]

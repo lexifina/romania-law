@@ -3,6 +3,21 @@
  "shard": "local/hunedoara/blajeni/2025",
  "acts": [
   {
+   "slug": "hcl-hunedoara--blajeni-1-2025",
+   "path": "local/hunedoara/blajeni/2025/1",
+   "short": "HCL Blăjeni nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 1/2025 privind aprobarea raportului de activitate a asistenților personali ai persoanelor cu handicap grav pentru perioada iulie 2024-decembrie 2024",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/191864",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/191864",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-10-2025",
    "path": "local/hunedoara/blajeni/2025/10",
    "short": "HCL Blăjeni nr. 10/2025",
@@ -18,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-11-2025",
+   "path": "local/hunedoara/blajeni/2025/11",
+   "short": "HCL Blăjeni nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 11/2025 privind rectificarea bugetului local al comunei Blăjeni, județul Hunedoara, pentru anul 2025",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/202431",
+   "versions": [
+    {
+     "from": "2025-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/202431",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-12-2025",
    "path": "local/hunedoara/blajeni/2025/12",
    "short": "HCL Blăjeni nr. 12/2025",
@@ -28,6 +58,21 @@
      "from": "2025-06-23",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/213146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-13-2025",
+   "path": "local/hunedoara/blajeni/2025/13",
+   "short": "HCL Blăjeni nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 13/2025 privind aprobarea contului de închidere a exercițiului bugetar pe anul 2024",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/213147",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/213147",
      "sha256": null
     }
    ]
@@ -363,6 +408,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--blajeni-4-2025",
+   "path": "local/hunedoara/blajeni/2025/4",
+   "short": "HCL Blăjeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 4/2025 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/196024",
+   "versions": [
+    {
+     "from": "2025-03-11",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/196024",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--blajeni-5-2025",
    "path": "local/hunedoara/blajeni/2025/5",
    "short": "HCL Blăjeni nr. 5/2025",
@@ -373,6 +433,66 @@
      "from": "2025-03-11",
      "units": 1,
      "source_url": "https://emol.ro/blajeni-hd/registru-hcl/196025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-6-2025",
+   "path": "local/hunedoara/blajeni/2025/6",
+   "short": "HCL Blăjeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 6/2025 privind aprobarea bugetului local al comunei Blăjeni pe anul 2025 și estimări pe anii 2026-2028",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/201079",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/201079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-7-2025",
+   "path": "local/hunedoara/blajeni/2025/7",
+   "short": "HCL Blăjeni nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 7/2025 privind actualizarea Programului anual al achizițiilor publice al comunei Blăjeni, pentru anul 2025, în urma aprobării bugetului local",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/201080",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/201080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-8-2025",
+   "path": "local/hunedoara/blajeni/2025/8",
+   "short": "HCL Blăjeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 8/2025 privind aprobarea unui contract de asistență juridică în vederea înregistrării unei acțiuni în contencios administrativ având ca obiect inexistența dreptului de creanță al BRAI-CATA-SRL ce face obiectul Dosarului Execuțional 328/2023 a Judecătoriei Brad",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/201081",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/201081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--blajeni-9-2025",
+   "path": "local/hunedoara/blajeni/2025/9",
+   "short": "HCL Blăjeni nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Blăjeni nr. 9/2025 privind alocarea unor sume de bani din bugetul local pentru sărbătorirea unor locuitori ai comunei Blăjeni care au împlinit 50 de ani de căsătorie",
+   "url": "https://emol.ro/blajeni-hd/registru-hcl/201082",
+   "versions": [
+    {
+     "from": "2025-04-08",
+     "units": 1,
+     "source_url": "https://emol.ro/blajeni-hd/registru-hcl/201082",
      "sha256": null
     }
    ]

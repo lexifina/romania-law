@@ -3,6 +3,66 @@
  "shard": "local/hunedoara/hateg/2024",
  "acts": [
   {
+   "slug": "hcl-hunedoara--hateg-1-2024",
+   "path": "local/hunedoara/hateg/2024/1",
+   "short": "HCL Hațeg nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 1/2024 privind aprobarea acoperirii definitive a deficitului secțiunii de dezvoltare a bugetului local al Orașului Hațeg, pe anul 2023, din excedentul anului 2022, în sumă de 1.994.898,85 lei Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 08 ianuarie 2024; Examinând proiectul de hotărâre nr. 1/2024 inițiat de primarul orașului Hațeg și ref",
+   "url": "https://primariehateg.ro/hotararea-nr-1-2024-privind-aprobarea-acoperirii-definitive-a-deficitului-sectiunii-de-dezvoltare-a-bugetului-local-al-orasului-hateg-pe-anul-2023-din-excedentul-anului-2022-in-suma-de-1-994-8988/",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr1-din-2024.pdf",
+     "sha256": "4e9d914f843ae4750272c9103c5773948b4f3d06839157c61a64a9dff718eaa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-10-2024",
+   "path": "local/hunedoara/hateg/2024/10",
+   "short": "HCL Hațeg nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 10/2024 privind aprobarea rectificării înscrierii eronate din cartea funciară și totodată radierea dreptului de proprietate al orașului Hațeg, asupra unor tronsoane din DJ 687 A și DJ 687 C, situate în intravilanul unității administrativ-teritoriale Hațeg, ca urmare a dublei înregistrări a acestora, atât în inventarul bunurilor care aparțin domeniului public al orașului Hațeg cât și in inventarul bunurilo",
+   "url": "https://primariehateg.ro/hotararea-nr-10-2024-privind-aprobarea-rectificarii-inscrierii-eronate-din-cartea-funciara-si-totodata-radierea-dreptului-de-proprietate-al-orasului-hateg-asupra-unor-tronsoane-din-dj-687-a-si-dj-68/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-10-din-2024.pdf",
+     "sha256": "8533b9f09459c9cbc89f76564188a587266706c51b8cfcbd90acaa2a49832653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-101-2024",
+   "path": "local/hunedoara/hateg/2024/101",
+   "short": "HCL Hațeg nr. 101/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 101/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-101-din-2024.pdf",
+     "sha256": "89f74519f0b62bb8bb64b3c1e10a9c948e55fed21ba9a98388d68084eaa3f2d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-102-2024",
+   "path": "local/hunedoara/hateg/2024/102",
+   "short": "HCL Hațeg nr. 102/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 102/2024 privind aprobarea reorganizării activității aparatului de specialitate al primarului Orașului Hațeg, a instituțiilor publice locale și a serviciilor publice, fără personalitate juridică, subordonate Consiliului local al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 101/2024 inițiat de primaru",
+   "url": "https://primariehateg.ro/hotararea-nr-102-2024-privind-aprobarea-reorganizarii-activitatii-aparatului-de-specialitate-al-primarului-orasului-hateg-a-institutiilor-publice-locale-si-a-serviciilor-publice-fara-personalitat/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-102-din-2024.pdf",
+     "sha256": "086b25f2f4151f9b5b4e819340b5ac4498486fb6755386db86788dcac7f572f3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-103-2024",
    "path": "local/hunedoara/hateg/2024/103",
    "short": "HCL Hațeg nr. 103/2024",
@@ -14,6 +74,636 @@
      "units": 8,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-103-din-2024.pdf",
      "sha256": "a19c0398541fcdb954baa1650ba6ed894f3be27884194d1227dfc8d3f9a06581"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-104-2024",
+   "path": "local/hunedoara/hateg/2024/104",
+   "short": "HCL Hațeg nr. 104/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 104/2024 privind aprobarea execuției bugetare a bugetului local, a bugetului creditelor interne și a bugetului de venituri și cheltuieli pentru activitățile finanțate integral sau parțial din venituri proprii, ale orașului Hațeg, pentru trimestrul al II-lea al anului 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr",
+   "url": "https://primariehateg.ro/hotararea-nr-104-2024-privind-aprobarea-executiei-bugetare-a-bugetului-local-a-bugetului-creditelor-interne-si-a-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-integral-sau-parti/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-104-din-2024.pdf",
+     "sha256": "142efb682ae593b2fb7918f5898704d68dd737c8894504bb4d8c1aab5d8644bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-105-2024",
+   "path": "local/hunedoara/hateg/2024/105",
+   "short": "HCL Hațeg nr. 105/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 105/2024 privind aprobarea prelungirii, cu 1 an, a duratei contractului de împrumut de folosință nr.7030/2012 , încheiat între Consiliul local al orașului Hațeg și Unitatea Militară 01420 Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 104/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acest",
+   "url": "https://primariehateg.ro/hotararea-nr-105-2024-privind-aprobarea-prelungirii-cu-1-an-a-duratei-contractului-de-imprumut-de-folosinta-nr-7030-2012-incheiat-intre-consiliul-local-al-orasului-hateg-si-unitatea-milita/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-105-din-2024.pdf",
+     "sha256": "f473778b2b6943dce4eb5b2efa173e79a765f67163abf201ece91069f183a9c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-106-2024",
+   "path": "local/hunedoara/hateg/2024/106",
+   "short": "HCL Hațeg nr. 106/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 106/2024 privind aprobarea cesionării contractului de concesiune nr. 41 din 26.10.1992, prelungit prin act adițional, cesionat, având ca obiect preluarea în concesiune a terenului înscris în CF nr 61545 Hațeg, nr. cadastral 61545, în suprafață totală de 19 m², ca urmare a vânzării construcției edificată pe teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie",
+   "url": "https://primariehateg.ro/hotararea-nr-106-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-41-din-26-10-1992-prelungit-prin-act-aditional-cesionat-avand-ca-obiect-preluarea-in-concesiune-a-terenului-in/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-106-din-2024.pdf",
+     "sha256": "9361adb059de1163921b23da2cf47c52dedf4899a93847afeab1d34eb792787c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-107-2024",
+   "path": "local/hunedoara/hateg/2024/107",
+   "short": "HCL Hațeg nr. 107/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 107/2024 privind aprobarea cesionării contractului de închiriere nr. 2/3611/2009, având ca obiect preluarea în chirie a terenului, în suprafață de 15 m², situat pe str",
+   "url": "https://primariehateg.ro/hotararea-nr-107-2024-privind-aprobarea-cesionarii-contractului-de-inchiriere-nr-2-3611-2009-avand-ca-obiect-preluarea-in-chirie-a-terenului-in-suprafata-de-15-m%C2%B2-situat-pe-str-aurel-vl/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-107-din-2024.pdf",
+     "sha256": "11c677dd03eeaf4e4d446daacb4e8885e0231eb2eb74300525254b7d1a0539e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-108-2024",
+   "path": "local/hunedoara/hateg/2024/108",
+   "short": "HCL Hațeg nr. 108/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 108/2024 privind aprobarea dezlipirii terenului extravilan, înscris în CF nr. 69517 Hațeg, nr. cadastral 69517, în suprafață tabulară de 3291 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 107/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17426/107 din 09.07.2024 prin care se pro",
+   "url": "https://primariehateg.ro/hotararea-nr-108-2024-privind-aprobarea-dezlipirii-terenului-extravilan-inscris-in-cf-nr-69517-hateg-nr-cadastral-69517-in-suprafata-tabulara-de-3291-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-108-din-2024.pdf",
+     "sha256": "4868378c0f92f72aa0fada5528a2a5d3accab05e6024d48f22ebf2d86ff5e795"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-109-2024",
+   "path": "local/hunedoara/hateg/2024/109",
+   "short": "HCL Hațeg nr. 109/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 109/2024 privind aprobarea dezlipirii terenului extravilan, înscris în CF nr. 69520 Hațeg, nr. cadastral 69520, în suprafață tabulară de 67800 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 108/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17429/108 din 09.07.2024 prin care se pr",
+   "url": "https://primariehateg.ro/hotararea-nr-109-2024-privind-aprobarea-dezlipirii-terenului-extravilan-inscris-in-cf-nr-69520-hateg-nr-cadastral-69520-in-suprafata-tabulara-de-67800-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-109-din-2024.pdf",
+     "sha256": "5f792c8ecef191e7dbba2b7ab6ec9f6633beb93282d3d1c3d834e8d7e39ee01b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-11-2024",
+   "path": "local/hunedoara/hateg/2024/11",
+   "short": "HCL Hațeg nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 11/2024 privind propunerea/nominalizarea consilierilor locali, care să facă parte din comisia pentru evaluarea activității secretarului general al unității administrativ-teritoriale Orașul Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 ianuarie 2024; Examinând proiectul de hotărâre nr. 12/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al a",
+   "url": "https://primariehateg.ro/hotararea-nr-11-2024-privind-propunerea-nominalizarea-consilierilor-locali-care-sa-faca-parte-din-comisia-pentru-evaluarea-activitatii-secretarului-general-al-unitatii-administrativ-teritoriale-oras/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-11-din-2024.pdf",
+     "sha256": "03122a0c7d9bb8cf06fb75d9c0297a47113bef9d2f22d31d524b58752e8794e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-110-2024",
+   "path": "local/hunedoara/hateg/2024/110",
+   "short": "HCL Hațeg nr. 110/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 110/2024 privind aprobarea dezlipirii terenului extravilan, înscris în CF nr. 69521 Hațeg, nr. cadastral 69521, în suprafață tabulară de 7758 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 109/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17431/109 din 09.07.2024 prin care se pro",
+   "url": "https://primariehateg.ro/hotararea-nr-110-2024-privind-aprobarea-dezlipirii-terenului-extravilan-inscris-in-cf-nr-69521-hateg-nr-cadastral-69521-in-suprafata-tabulara-de-7758-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-110-din-2024.pdf",
+     "sha256": "00a2fac3a9e83c44dae332a3207556b265a0263236718d0ccfa3f1339728ae63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-111-2024",
+   "path": "local/hunedoara/hateg/2024/111",
+   "short": "HCL Hațeg nr. 111/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 111/2024 privind aprobarea dezlipirii terenului extravilan, înscris în CF nr. 69546 Hațeg, nr. cadastral 69546, în suprafață tabulară de 3900 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 110/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17433/110 din 09.07.2024 prin care se pro",
+   "url": "https://primariehateg.ro/hotararea-nr-111-2024-privind-aprobarea-dezlipirii-terenului-extravilan-inscris-in-cf-nr-69546-hateg-nr-cadastral-69546-in-suprafata-tabulara-de-3900-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-111-din-2024.pdf",
+     "sha256": "5f191999c971701d49f94d7f169c3167c007d7daa4bead2d0803d9c894af6e31"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-112-2024",
+   "path": "local/hunedoara/hateg/2024/112",
+   "short": "HCL Hațeg nr. 112/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 112/2024 privind aprobarea trecerii unor terenuri extravilane din domeniul public al Orașului Hațeg în domeniul public al Județului Hunedoara Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 111/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17439/111 din 09.07.2024, prin care se propu",
+   "url": "https://primariehateg.ro/hotararea-nr-112-2024-privind-aprobarea-trecerii-unor-terenuri-extravilane-din-domeniul-public-al-orasului-hateg-in-domeniul-public-al-judetului-hunedoara/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-112-din-2024.pdf",
+     "sha256": "c740dcaf4a4734fd0499ea66e8f66193fe42adfc0295d99669af195b044c6eb8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-113-2024",
+   "path": "local/hunedoara/hateg/2024/113",
+   "short": "HCL Hațeg nr. 113/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 113/2024 privind alegerea președintelui de ședintă al Consiliului local al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 112/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 17441/112 din 09.07.2024, prin care se propune alegerea președintelui de ședintă al Consiliului",
+   "url": "https://primariehateg.ro/hotararea-nr-113-2024-privind-alegerea-presedintelui-de-sedinta-al-consiliului-local-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-113-din-2024.pdf",
+     "sha256": "011e3ab2c1396aa48a375f5592df2a6e8c705426b079826d33a6ee4fbe80b81b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-115-2024",
+   "path": "local/hunedoara/hateg/2024/115",
+   "short": "HCL Hațeg nr. 115/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 115/2024 privind aprobarea organizării și desfașurării festivalului cultural-artistic ,, Hațegana ”, ediția a XXIV-a și a ,,Zilelor Orașului Hațeg”, în perioada 30 august-1 septembrie 2024 și aprobarea încheierii unui contract de parteneriat între Orașul Hațeg și Asociația Culturală ,,Pordampi”, în vederea organizării în comun a evenimentului Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit î",
+   "url": "https://primariehateg.ro/hotararea-nr-115-2024-privind-aprobarea-organizarii-si-desfasurarii-festivalului-cultural-artistic-hategana-editia-a-xxiv-a-si-a-zilelor-orasului-hateg-in-perioada-30-augu/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-115-din-2024.pdf",
+     "sha256": "452ead9bff27f616277f8a2df5f9905c5b6e3f40bd38e1b67aa1214dc8c7e2c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-116-2024",
+   "path": "local/hunedoara/hateg/2024/116",
+   "short": "HCL Hațeg nr. 116/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 116/2024 privind aprobarea radierii din cartea funciară a dreptului de administrare al Consiliului local al Orașului Hațeg, asupra unor imobile, situate în Hațeg, str. Progresului, nr. 1, județul Hunedoara, aflate în proprietatea Statului român Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 18 iulie 2024; Examinând proiectul de hotărâre nr. 115/2024 inițiat de primar",
+   "url": "https://primariehateg.ro/hotararea-nr-116-2024-privind-aprobarea-radierii-din-cartea-funciara-a-dreptului-de-administrare-al-consiliului-local-al-orasului-hateg-asupra-unor-imobile-situate-in-hateg-str-progresului-nr-1/",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-116-din-2024.pdf",
+     "sha256": "e22aff61df4b2bf31a4cc8f215124e2a8824b1b274152f672769a479fb13fbad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-117-2024",
+   "path": "local/hunedoara/hateg/2024/117",
+   "short": "HCL Hațeg nr. 117/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 117/2024 privind aprobarea constituirii structurii comunitare consultative și a regulamentului de organizare si funcționare a Structurii comunitare consultative privind activitatea de prevenire a separării copilului de familie, de la nivelul orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 116/2024 iniț",
+   "url": "https://primariehateg.ro/hotararea-nr-117-2024-privind-aprobarea-constituirii-structurii-comunitare-consultative-si-a-regulamentului-de-organizare-si-functionare-a-structurii-comunitare-consultative-privind-activitatea-de-pr/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-117-din-2024.pdf",
+     "sha256": "9c4f18300dab01cfa4bcbf549da4a25d0f884b1618ebe60507bd822023c32c45"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-118-2024",
+   "path": "local/hunedoara/hateg/2024/118",
+   "short": "HCL Hațeg nr. 118/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 118/2024 privind aprobarea rectificării bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 117/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 20877/117 din 21.08.2024, prin care se propune aprobarea rectificării bugetului local al orașului Hațeg pe anul 2",
+   "url": "https://primariehateg.ro/hotararea-nr-118-2024-privind-aprobarea-rectificarii-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-118-din-2024.pdf",
+     "sha256": "e7f71486916adf7cef680341af8b75c9ada1b0e372f56f97d0fd316248d96280"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-119-2024",
+   "path": "local/hunedoara/hateg/2024/119",
+   "short": "HCL Hațeg nr. 119/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 119/2024 privind aprobarea virării de credite bugetare de la un capitol la alt capitol al clasificației bugetare Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 119/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 20881/119 din 21.08.2024, prin care se propune aprobarea virării de credite bugetare de",
+   "url": "https://primariehateg.ro/hotararea-nr-119-2024-privind-aprobarea-virarii-de-credite-bugetare-de-la-un-capitol-la-alt-capitol-al-clasificatiei-bugetare/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-119-din-2024.pdf",
+     "sha256": "aa26826c0359550a52c64b439cc251b08fd8e4a8e4f94816296a567f715d0501"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-12-2024",
+   "path": "local/hunedoara/hateg/2024/12",
+   "short": "HCL Hațeg nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 12/2024 privind aprobarea cesionării contractului de concesiune nr. 28/1992, cesionat, având ca obiect preluarea în concesiune a terenului intravilan înscris în CF nr. 60409 Hațeg, provenit din CF vechi 2434/G/19, nr. topografic 261/2/b/20/19, în suprafață de 20 m², situat în orașul Hațeg, str",
+   "url": "https://primariehateg.ro/hotararea-nr-12-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-28-1992-cesionat-avand-ca-obiect-preluarea-in-concesiune-a-terenului-intravilan-inscris-in-cf-nr-60409-hateg-pr/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-12-din-2024.pdf",
+     "sha256": "e5fc7c38fde81cfc32701770628bf92349dee4b46dd3e0c578786e7c59353936"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-120-2024",
+   "path": "local/hunedoara/hateg/2024/120",
+   "short": "HCL Hațeg nr. 120/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 120/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru activitățile finanțate parțial sau integral din venituri proprii, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 118/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 20879/118 din 21.08.2024, prin care se",
+   "url": "https://primariehateg.ro/hotararea-nr-119-2024-privind-aprobarea-virarii-de-credite-bugetare-de-la-un-capitol-la-alt-capitol-al-clasificatiei-bugetare-2/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-120-din-2024.pdf",
+     "sha256": "2007da41de7fac4d6caeb9049b7a11c5bf73db73144cc89ba3037cef2e0073af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-122-2024",
+   "path": "local/hunedoara/hateg/2024/122",
+   "short": "HCL Hațeg nr. 122/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 122/2024 privind aprobarea prelungirii cu un an duratei contractului de închiriere nr.19591 din 04.10.2017, încheiat între Orașul Hațeg și I.I",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-122-din-2024.pdf",
+     "sha256": "549f69f6a51e04849e7401d12c64b25e348fa9624e077ae64e42f59f0ecf8221"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-123-2024",
+   "path": "local/hunedoara/hateg/2024/123",
+   "short": "HCL Hațeg nr. 123/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 123/2024 privind aprobarea cesionării contractului de concesiune nr. 21/130/3427 din 31.07.2006, având ca obiect preluarea în concesiune a terenului înscris în CF nr 60715 Hațeg, nr. cadastral 60715, în suprafață totală de 23 m², ca urmare a vânzării construcției edificată pe teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de",
+   "url": "https://primariehateg.ro/hotararea-nr-123-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-21-130-3427-din-31-07-2006-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-60715-hateg-nr/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-123-din-2024.pdf",
+     "sha256": "af83412c27b92b9b3aa164a14428e990e3f52af21763dbf19ad5eba57b3bfb5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-124-2024",
+   "path": "local/hunedoara/hateg/2024/124",
+   "short": "HCL Hațeg nr. 124/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 124/2024 privind aprobarea modificării normativului de personal, statului de funcții și oragnigramei Spitalului orășenesc Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 124/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 20959/124 din 22.08.2024 prin care se propune aprobarea m",
+   "url": "https://primariehateg.ro/hotararea-nr-124-2024-privind-aprobarea-modificarii-normativului-de-personal-statului-de-functii-si-oragnigramei-spitalului-orasenesc-hateg/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-124-din-2024.pdf",
+     "sha256": "a43237f69b8edbe228fbb653331cb297d0aa755985d57882da22da2e99d18477"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-126-2024",
+   "path": "local/hunedoara/hateg/2024/126",
+   "short": "HCL Hațeg nr. 126/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 126/2024 privind aprobarea dezlipirii terenului intravilan, înscris în CF nr. 71034 Hațeg, nr. cadastral 71034, în suprafață tabulară de 24.071 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 august 2024; Examinând proiectul de hotărâre nr. 126/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 21196/126 din 27.08.2024 prin care se",
+   "url": "https://primariehateg.ro/hotararea-nr-126-2024-privind-aprobarea-dezlipirii-terenului-intravilan-inscris-in-cf-nr-71034-hateg-nr-cadastral-71034-in-suprafata-tabulara-de-24-071-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/08/Hotararea-nr-126-din-2024.pdf",
+     "sha256": "3997652d46bbe9eeebdf3e53e2102188fc4ae3252f15aad15823f983716f2476"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-127-2024",
+   "path": "local/hunedoara/hateg/2024/127",
+   "short": "HCL Hațeg nr. 127/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 127/2024 privind aprobarea Strategiei Integrate de Dezvoltare Urbană a Orașului Hațeg, județul Hunedoara Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâre nr. 123/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 20922/123 din 22.08.2024, prin care se propune aprobarea Strategiei Integrat",
+   "url": "https://primariehateg.ro/hotararea-nr-127-2024-privind-aprobarea-strategiei-integrate-de-dezvoltare-urbana-a-orasului-hateg-judetul-hunedoara/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-127-din-2024.pdf",
+     "sha256": "63950b01e1de35c047d0cdda384a46b2e7d33d254215acbd1a3df7c841e27bbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-128-2024",
+   "path": "local/hunedoara/hateg/2024/128",
+   "short": "HCL Hațeg nr. 128/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 128/2024 privind aprobarea încheierii unui act adițional la contractul de concesiune nr. 9/3770 din 10.05.2006, încheiat între Orașul Hațeg și Balea Marinela Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâre nr. 127/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 23077/127 din 18.09.202",
+   "url": "https://primariehateg.ro/hotararea-nr-128-2024-privind-aprobarea-incheierii-unui-act-aditional-la-contractul-de-concesiune-nr-9-3770-din-10-05-2006-incheiat-intre-orasul-hateg-si-balea-marinela/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-128-din-2024.pdf",
+     "sha256": "7c97de1641cf25192119b12fc4c09b24ee1ce3ea46e46a2d44a4649af02f1b3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-130-2024",
+   "path": "local/hunedoara/hateg/2024/130",
+   "short": "HCL Hațeg nr. 130/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 130/2024 privind aprobarea desemnării reprezentanților Consiliului local în consiliile de administrație ale unităților de învățământ preuniversitar, pentru anul școlar 2024-2025 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâre nr. 129/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 230",
+   "url": "https://primariehateg.ro/hotararea-nr-130-2024-privind-aprobarea-desemnarii-reprezentantilor-consiliului-local-in-consiliile-de-administratie-ale-unitatilor-de-invatamant-preuniversitar-pentru-anul-scolar-2024-2025/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-130-din-2024.pdf",
+     "sha256": "6d4d8815f15e1965c960cd92c733a34a6ece5b7219d6329c2f12d732a8a8b86f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-133-2024",
+   "path": "local/hunedoara/hateg/2024/133",
+   "short": "HCL Hațeg nr. 133/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 133/2024 privind aprobarea Studiului urbanistic pentru delimitarea zonelor de regenerare urbană în Orașul Hațeg, județul Hunedoara Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâre nr. 132/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 23573/132 din 24.09.2024, prin care se propune apr",
+   "url": "https://primariehateg.ro/hotararea-nr-133-2024-privind-aprobarea-studiului-urbanistic-pentru-delimitarea-zonelor-de-regenerare-urbana-in-orasul-hateg-judetul-hunedoara/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-133-din-2024.pdf",
+     "sha256": "a08d3652fdadd9c15fba7f1eca6bfef765dd8eac9bb668206ab8bbad883f16d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-135-2024",
+   "path": "local/hunedoara/hateg/2024/135",
+   "short": "HCL Hațeg nr. 135/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 135/2024 privind aprobarea devizului general, actualizat, a devizelor, actualizate, pe cele două componente alinmentare cu apă și apă uzată, pentru obiectivul de investiții „Extindere rețele de apă și apă uzată în orașul Hațeg, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâre nr. 134/2024 inițiat de",
+   "url": "https://primariehateg.ro/hotararea-nr-135-2024-privind-aprobarea-devizului-general-actualizat-a-devizelor-actualizate-pe-cele-doua-componente-alinmentare-cu-apa-si-apa-uzata-pentru-obiectivul-de-investitii-ex/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-135-din-2024.pdf",
+     "sha256": "f4f09f73c0522898d4264ab13430016fde5500fc7aab2ed19dfbf94eb7305aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-136-2024",
+   "path": "local/hunedoara/hateg/2024/136",
+   "short": "HCL Hațeg nr. 136/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 136/2024 privind aprobarea Studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții inititulat „ Extindere rețea electrică de interes public zona Parc Castel, str. DC 83 - 12 locuri de consum, localitatea Nălațvad, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 30 septembrie 2024; Examinând proiectul de hotărâr",
+   "url": "https://primariehateg.ro/hotararea-nr-136-2024-privind-aprobarea-studiului-de-fezabilitate-si-a-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-inititulat-extindere-retea-electrica-de-interes-publi/",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-136-din-2024.pdf",
+     "sha256": "85738743239acf931f37891b8577c4a42cfecb1b51403b05f20a751e38064ca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-138-2024",
+   "path": "local/hunedoara/hateg/2024/138",
+   "short": "HCL Hațeg nr. 138/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 138/2024 pentru modificarea art. 1 din hotărârea nr. 17/2024 privind aprobarea utilizării excedentului anual al bugetului local al orașului Hațeg, rezultat la încheierea exercițiului bugetar al anului 2023 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 17 octombrie 2024; Examinând proiectul de hotărâre nr. 137/2024 inițiat de primarul orașul",
+   "url": "https://primariehateg.ro/hotararea-nr-138-2024-pentru-modificarea-art-1-din-hotararea-nr-17-2024-privind-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-al-orasului-hateg-rezultat-la-incheierea-exercitiului-bug/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-138-din-2024.pdf",
+     "sha256": "aade9c08d9b3056a7554cf0113bc19c89122b9387e9cbb7aceebed5b0473c130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-139-2024",
+   "path": "local/hunedoara/hateg/2024/139",
+   "short": "HCL Hațeg nr. 139/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 139/2024 privind aprobarea execuției bugetare a bugetului local, a bugetului creditelor interne și a bugetului de venituri și cheltuieli pentru activitățile finanțate integral sau parțial din venituri proprii, ale orașului Hațeg, pentru trimestrul al III-lea al anului 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 17 octombrie 2024; Exa",
+   "url": "https://primariehateg.ro/hotararea-nr-139-2024-privind-aprobarea-executiei-bugetare-a-bugetului-local-a-bugetului-creditelor-interne-si-a-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-integral-sau-parti/",
+   "versions": [
+    {
+     "from": "2024-10-17",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-139-din-2024.pdf",
+     "sha256": "676347aa64b0e050191499c1030d3543fa05746c5c15007eb58d29dd4f919a73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-141-2024",
+   "path": "local/hunedoara/hateg/2024/141",
+   "short": "HCL Hațeg nr. 141/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 141/2024 privind alegerea președintelui de ședintă al Consiliului local al orașului Hațeg, pentru o perioadă de cel mult trei luni Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 29 octombrie 2024; Examinând proiectul de hotărâre al primarului orașului Hațeg nr. 140/2024 și referatul de aprobare al acestuia nr. 26720/140 din 25.10.2024, prin care se propune alege",
+   "url": "https://primariehateg.ro/hotararea-nr-141-2024-privind-alegerea-presedintelui-de-sedinta-al-consiliului-local-al-orasului-hateg-pentru-o-perioada-de-cel-mult-trei-luni/",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-141-din-2024.pdf",
+     "sha256": "e101af10dc040461abdf52ef9cce422c2867e75006ec0c6ee8d6d534fbfe0a2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-143-2024",
+   "path": "local/hunedoara/hateg/2024/143",
+   "short": "HCL Hațeg nr. 143/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 143/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/10/Hotararea-nr-143-din-2024-1.pdf",
+     "sha256": "af02c5309d120bebb9c805e48d384c2d02db7777c935c787f6ce1e1106793622"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-146-2024",
+   "path": "local/hunedoara/hateg/2024/146",
+   "short": "HCL Hațeg nr. 146/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 146/2024 privind aprobarea prelungirii cu 5 ani a duratei unor contracte de închiriere, ce au ca obiect închirierea unor locuințe construite prin Agenția Națională de Locuințe în Orașul Hațeg, str",
+   "url": "https://primariehateg.ro/hotararea-nr-146-2024-privind-aprobarea-prelungirii-cu-5-ani-a-duratei-unor-contracte-de-inchiriere-ce-au-ca-obiect-inchirierea-unor-locuinte-construite-prin-agentia-nationala-de-locuinte-in-orasul/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-146-din-2024.pdf",
+     "sha256": "9b26a57faf56454d05b8f9d434af5c9b239f97f956f16b7362a6907fca1b5411"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-148-2024",
+   "path": "local/hunedoara/hateg/2024/148",
+   "short": "HCL Hațeg nr. 148/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 148/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-148-din-2024.pdf",
+     "sha256": "1d478c50ea310614f6dd7439272d256b2b117e0e4a0449a78fb45d45315fdc1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-149-2024",
+   "path": "local/hunedoara/hateg/2024/149",
+   "short": "HCL Hațeg nr. 149/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 149/2024 privind aprobarea documentației de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici pentru investiția „Eficientizare energetică blocuri de locuințe:bl.13 str",
+   "url": "https://primariehateg.ro/hotararea-nr-149-2024-privind-aprobarea-documentatiei-de-avizare-a-lucrarilor-de-interventie-si-a-indicatorilor-tehnico-economici-pentru-investitia-eficientizare-energetica-blocuri-de-locuin/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-149-din-2024.pdf",
+     "sha256": "287b36cb89f8c652222fc911d5b4211f34f443ce7c1512e9cdefc21ff8ba0837"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-15-2024",
+   "path": "local/hunedoara/hateg/2024/15",
+   "short": "HCL Hațeg nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 15/2024 privind aprobarea aprobarea acordării unui mandat special reprezentantului Orașului Hațeg în Adunarea Generala a Asociatiei de Dezvoltare Intercomunitara \"Aqua Prest Hunedoara\" Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 ianuarie 2024; Examinând proiectul de hotărâre nr. 16/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr",
+   "url": "https://primariehateg.ro/hotararea-nr-15-2024-privind-aprobarea-aprobarea-acordarii-unui-mandat-special-reprezentantului-orasului-hateg-in-adunarea-generala-a-asociatiei-de-dezvoltare-intercomunitara-aqua-prest-hunedoara/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-15-din-2024.pdf",
+     "sha256": "c0cee28479ef4e7dbb3ff0b577ed43d493cea2e18a4092674f86795385be6ee9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-150-2024",
+   "path": "local/hunedoara/hateg/2024/150",
+   "short": "HCL Hațeg nr. 150/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 150/2024 privind aprobarea devizului general, actualizat, al obiectivului de investiții “Stații de reîncărcare pentru vehicule electrice în Orașul Hațeg“ Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 14 noiembrie 2024; Examinând proiectul de hotărâre nr. 156/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 28",
+   "url": "https://primariehateg.ro/hotararea-nr-150-2024-privind-aprobarea-devizului-general-actualizat-al-obiectivului-de-investitii-statii-de-reincarcare-pentru-vehicule-electrice-in-orasul-hateg/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-150-din-2024.pdf",
+     "sha256": "ac6bd3ecce2ce2d2ad42a0fcf264ea385306e3e44dba4d6c43a23b46c7bb4e32"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-152-2024",
+   "path": "local/hunedoara/hateg/2024/152",
+   "short": "HCL Hațeg nr. 152/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 152/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru activitățile finanțate parțial sau integral din venituri proprii, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 14 noiembrie 2024; Examinând proiectul de hotărâre nr. 159/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 28464/159",
+   "url": "https://primariehateg.ro/hotararea-nr-152-2024-privind-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-partial-sau-integral-din-venituri-proprii-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-152-din-2024.pdf",
+     "sha256": "fb0b4ec5a5ddedf266fe3697fffeeaf7658664f64eecb2b34c573f3dde151343"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-153-2024",
+   "path": "local/hunedoara/hateg/2024/153",
+   "short": "HCL Hațeg nr. 153/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 153/2024 privind aprobarea alocării din bugetul local a sumei 100.000 lei, pentru acțiunile organizate cu ocazia sărbătorilor de iarnă Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 14 noiembrie 2024; Examinând proiectul de hotărâre nr. 160/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 28475/160 din 13.11.2",
+   "url": "https://primariehateg.ro/hotararea-nr-153-2024-privind-aprobarea-alocarii-din-bugetul-local-a-sumei-100-000-lei-pentru-actiunile-organizate-cu-ocazia-sarbatorilor-de-iarna/",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-153-din-2024.pdf",
+     "sha256": "9c85fa5e4066e773dcc77e6dce4c0d442721c831dc87be026df66dc2429ad822"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-154-2024",
+   "path": "local/hunedoara/hateg/2024/154",
+   "short": "HCL Hațeg nr. 154/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 154/2024 privind aprobarea Regulamentului de organizare și funcționare al consiliului local al orașului Hațeg, județul Hunedoara Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 142/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 26788/142 din 28.10.2024 prin care se propune aprobar",
+   "url": "https://primariehateg.ro/regulament-de-organizare-si-functionare-al-consiliului-local-al-irasului-hateg-jud-hunedoara/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2025/07/Hotararea-nr.-154-din-2024.pdf",
+     "sha256": "316e6f25596afcb5e593d83f934a01b7a59fbd9c2236f08563b8416b9b5beed4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-155-2024",
+   "path": "local/hunedoara/hateg/2024/155",
+   "short": "HCL Hațeg nr. 155/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 155/2024 privind aprobarea Regulamentului de organizare și funcționare al Cantinei de Asistență Socială Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 143/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 26813/143 din 28.10.2024, prin care se propune aprobarea Regulamentului",
+   "url": "https://primariehateg.ro/hotararea-nr-155-2024-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-cantinei-de-asistenta-sociala-hateg/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-155-din-2024.pdf",
+     "sha256": "4ea260c6e18fb357e06906e801395041775e89c7b7bc7e38f76960c76d0344a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-156-2024",
+   "path": "local/hunedoara/hateg/2024/156",
+   "short": "HCL Hațeg nr. 156/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 156/2024 privind atribuirea în regim de închiriere a spațiului în suprafață de 101 m², din cladirea, situata în orașul Hațeg, str.Progresului, nr.1, ap. nr. 5, inscris in CF nr. 1080 Hateg, nr. topografic 787/5, în favoarea Partidului Mișcarea Populară, pentru stabilirea sediului formațiunii politice Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; E",
+   "url": "https://primariehateg.ro/hotararea-nr-156-2024-privind-atribuirea-in-regim-de-inchiriere-a-spatiului-in-suprafata-de-101-m%C2%B2-din-cladirea-situata-in-orasul-hateg-str-progresului-nr-1-ap-nr-5-inscris-in-cf-nr-10/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-156-din-2024.pdf",
+     "sha256": "3d5523588b31316566225e6da5946f1415259c239648b86312509525956d9ab7"
     }
    ]
   },
@@ -33,6 +723,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-158-2024",
+   "path": "local/hunedoara/hateg/2024/158",
+   "short": "HCL Hațeg nr. 158/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 158/2024 privind aprobarea reorganizării comisiei de avizare a cererilor de organizare a adunărilor publice Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 151/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 27969/151 din 07.11.2024, prin care se propune aprobarea reorganizării com",
+   "url": "https://primariehateg.ro/hotararea-nr-158-2024-privind-aprobarea-reorganizarii-comisiei-de-avizare-a-cererilor-de-organizare-a-adunarilor-publice/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-158-din-2024.pdf",
+     "sha256": "80a7fe87748a60c30e0f29263f29f0308274fd401343ffb1cbb8a04b6aa2493c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-159-2024",
+   "path": "local/hunedoara/hateg/2024/159",
+   "short": "HCL Hațeg nr. 159/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 159/2024 privind desemnarea consilierilor locali care să facă parte din comisia locală de ordine publică Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 152/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 27976/152 din 07.11.2024, prin care se propune desemnarea consilierilor local",
+   "url": "https://primariehateg.ro/hotararea-nr-159-2024-privind-desemnarea-consilierilor-locali-care-sa-faca-parte-din-comisia-locala-de-ordine-publica/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-159-din-2024.pdf",
+     "sha256": "0b0cc19b26605c36c1f0ab27254a3c895d8848bc4b580f93881204e05664b6c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-16-2024",
+   "path": "local/hunedoara/hateg/2024/16",
+   "short": "HCL Hațeg nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 16/2024 privind aprobarea bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 06 februarie 2024; Examinând proiectul de hotărâre nr. 3/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 300/3 din 08.01.2024, prin care se propune aprobarea bugetului local al orașului Hațeg, pe anul 2024, în",
+   "url": "https://primariehateg.ro/hotararea-nr-16-2024-privind-aprobarea-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-16-din-2024.pdf",
+     "sha256": "11cb5dd9d153e459b375f18b132f48b5228f44c4d0460592cdb3ff0187cc66c6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-160-2024",
    "path": "local/hunedoara/hateg/2024/160",
    "short": "HCL Hațeg nr. 160/2024",
@@ -44,6 +779,141 @@
      "units": 1,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-160-din-2024.pdf",
      "sha256": "fc34a2fd64167815011af7dd667d87e6d9df5eb89a85fe2fa7aba1769599ea68"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-161-2024",
+   "path": "local/hunedoara/hateg/2024/161",
+   "short": "HCL Hațeg nr. 161/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 161/2024 privind aprobarea prelungirii prin act adițional a contractului de comodat nr. 7178/2019, încheiat între Orașul Hațeg și Asociația sportivă Club ,,Cristal-Hațeg” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 162/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 29222/162 d",
+   "url": "https://primariehateg.ro/hotararea-nr-161-2024-privind-aprobarea-prelungirii-prin-act-aditional-a-contractului-de-comodat-nr-7178-2019-incheiat-intre-orasul-hateg-si-asociatia-sportiva-club-cristal-hateg/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-161-din-2024.pdf",
+     "sha256": "c6920fa86cdda848518a3a88d2ea5e14fd2e587f2c665252a3b50ba0491ba554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-162-2024",
+   "path": "local/hunedoara/hateg/2024/162",
+   "short": "HCL Hațeg nr. 162/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 162/2024 privind aprobarea încheierii unui contract de comodat între Orașul Hațeg și Agenția Națională a Zonei Montane Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 163/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 29224/163 din 19.11.2024, prin care se propune aprobarea închei",
+   "url": "https://primariehateg.ro/hotararea-nr-162-2024-privind-aprobarea-incheierii-unui-contract-de-comodat-intre-orasul-hateg-si-agentia-nationala-a-zonei-montane/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-162-din-2024.pdf",
+     "sha256": "fb7a2950e6e30e6861c6173d1c118f0b9751c0f4de3004a4246b3e82dfcefab9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-166-2024",
+   "path": "local/hunedoara/hateg/2024/166",
+   "short": "HCL Hațeg nr. 166/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 166/2024 privind aprobarea trecerii din proprietatea statului în proprietatea privată a unității administrativ-teritoriale orașul Hațeg, a terenului intravilan, în suprafață de 20 m², înscris în CF nr. 65474 Hațeg, nr. cadastral/topografic CAD 1244 top:239/a/1/3/3/2 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr",
+   "url": "https://primariehateg.ro/hotararea-nr-166-2024-privind-aprobarea-trecerii-din-proprietatea-statului-in-proprietatea-privata-a-unitatii-administrativ-teritoriale-orasul-hateg-a-terenului-intravilan-in-suprafata-de-20-m/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-166-din-2024.pdf",
+     "sha256": "433d37dfac4f4e088c082c28df35a344a0ae7c0d3e5e2454ec47675f88350cd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-168-2024",
+   "path": "local/hunedoara/hateg/2024/168",
+   "short": "HCL Hațeg nr. 168/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 168/2024 privind aprobarea atribuirii, în folosință gratuită, la cerere, a unor suprafețe de teren, din terenurile aflate în domeniul privat al unității administrativ-teritoriale Orașul Hațeg, către tineri, pentru construirea de locuințe proprietate personală Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 169/202",
+   "url": "https://primariehateg.ro/hotararea-nr-168-2024-privind-aprobarea-atribuirii-in-folosinta-gratuita-la-cerere-a-unor-suprafete-de-teren-din-terenurile-aflate-in-domeniul-privat-al-unitatii-administrativ-teritoriale-orasul/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-168-din-2024.pdf",
+     "sha256": "53b9b3a7cd081555c7aac1a44a4e36b4675b4627715343be2fd7dc6962623a87"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-169-2024",
+   "path": "local/hunedoara/hateg/2024/169",
+   "short": "HCL Hațeg nr. 169/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 169/2024 privind aprobarea documentației tehnico-economice - studiul de fezabilitate, actualizat, și a indicatorilor tehnico-economici, pentru obiectivul de investiții “Înființare rețea destribuție gaze naturale în satele aparținătoare orașului Hațeg-Silvașu de Jos și Silvașu de Sus“ Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectu",
+   "url": "https://primariehateg.ro/hotararea-nr-169-2024-privind-aprobarea-documentatiei-tehnico-economice-studiul-de-fezabilitate-actualizat-si-a-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-infiinta/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-169-din-2024.pdf",
+     "sha256": "4c7de10f8c3af270963a906a46abf177f8097861acf908acfe6b698e34379ef4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-17-2024",
+   "path": "local/hunedoara/hateg/2024/17",
+   "short": "HCL Hațeg nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 17/2024 privind aprobarea utilizării excedentului anual al bugetului local al orașului Hațeg, rezultat la încheierea exercițiului bugetar al anului 2023 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 06 februarie 2024; Examinând proiectul de hotărâre nr. 18/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 2827/18 din 31.01.2024 prin care se prop",
+   "url": "https://primariehateg.ro/hotararea-nr-17-2024-privind-aprobarea-utilizarii-excedentului-anual-al-bugetului-local-al-orasului-hateg-rezultat-la-incheierea-exercitiului-bugetar-al-anului-2023/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-17-din-2024.pdf",
+     "sha256": "9f08a2acc91ae764141b72da26dc78f5b70d66b56c09063d23b920f8435f7932"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-171-2024",
+   "path": "local/hunedoara/hateg/2024/171",
+   "short": "HCL Hațeg nr. 171/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 171/2024 privind aprobarea rectificării bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 26 noiembrie 2024; Examinând proiectul de hotărâre nr. 172/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 29390/172 din 20.11.2024, prin care se propune aprobarea rectificării bugetului local al orașului Hațeg pe anu",
+   "url": "https://primariehateg.ro/hotararea-nr-171-2024-privind-aprobarea-rectificarii-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-11-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/11/Hotararea-nr-171-din-2024.pdf",
+     "sha256": "167ee521959cb6826239fc58d89a53dc7f8d050ebdf6b387602878a5b5c7da83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-173-2024",
+   "path": "local/hunedoara/hateg/2024/173",
+   "short": "HCL Hațeg nr. 173/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 173/2024 privind aprobarea actualizării componenței comisiei de specialitate a Consiliului local pentru activități economico-financiare, ca urmare a validării mandatului unui supleant Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 176/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr",
+   "url": "https://primariehateg.ro/hotararea-nr-173-2024-privind-aprobarea-actualizarii-componentei-comisiei-de-specialitate-a-consiliului-local-pentru-activitati-economico-financiare-ca-urmare-a-validarii-mandatului-unui-supleant/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-173-din-2024.pdf",
+     "sha256": "6711791e5d8b5934654035df4cd0cabf11f2287154c60e82d433ba45fd4bee98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-174-2024",
+   "path": "local/hunedoara/hateg/2024/174",
+   "short": "HCL Hațeg nr. 174/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 174/2024 privind aprobarea rețelei școlare a învațământului preuniversitar de stat, particular și confesional în orașul Hațeg, pentru anul școlar 2025-2026 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 148/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 27073/148 din 30.10.2024",
+   "url": "https://primariehateg.ro/hotararea-nr-174-2024-privind-aprobarea-retelei-scolare-a-invatamantului-preuniversitar-de-stat-particular-si-confesional-in-orasul-hateg-pentru-anul-scolar-2025-2026/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-174-din-2024.pdf",
+     "sha256": "69059a4fcd2033d10aa8c4ff61bfd715144232ad8d25cd8aa80ee90b3675ed07"
     }
    ]
   },
@@ -63,6 +933,426 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-179-2024",
+   "path": "local/hunedoara/hateg/2024/179",
+   "short": "HCL Hațeg nr. 179/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 179/2024 privind aprobarea cantității de lemn care va fi exploatată din pădurea proprietate publică a orașului Hațeg și stabilirea modului de valorificare Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 179/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 31483/179 din 11.12.2024, p",
+   "url": "https://primariehateg.ro/hotararea-nr-179-2024-privind-aprobarea-cantitatii-de-lemn-care-va-fi-exploatata-din-padurea-proprietate-publica-a-orasului-hateg-si-stabilirea-modului-de-valorificare/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-179-din-2024.pdf",
+     "sha256": "41d31d6554c10ca5f56343ff8411ce69be02f4ab028300e6c9ee73133b3edda5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-18-2024",
+   "path": "local/hunedoara/hateg/2024/18",
+   "short": "HCL Hațeg nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 18/2024 privind aprobarea bugetului împrumuturilor interne al Orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 06 februarie 2024; Examinând proiectul de hotărâre nr. 19/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 2829/19 din 31.01.2024, prin care se propune aprobarea bugetului împrumuturilor interne al Orașului Ha",
+   "url": "https://primariehateg.ro/hotararea-nr-18-2024-privind-aprobarea-bugetului-imprumuturilor-interne-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-18-din-2024.pdf",
+     "sha256": "10923b30e643c2657c08436f1922e13e3a4190ae949cfb0889a65c067af0824d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-180-2024",
+   "path": "local/hunedoara/hateg/2024/180",
+   "short": "HCL Hațeg nr. 180/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 180/2024 privind aprobarea prelungirii prin act adițional a contractului de comodat nr. 78/03.01.2024, încheiat între Orașul Hațeg și Asociația ,,Cetatea” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 180/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 31500/180 din 11.12.2024 pr",
+   "url": "https://primariehateg.ro/hotararea-nr-180-2024-privind-aprobarea-prelungirii-prin-act-aditional-a-contractului-de-comodat-nr-78-03-01-2024-incheiat-intre-orasul-hateg-si-asociatia-cetatea/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-180-din-2024.pdf",
+     "sha256": "fd41b9c084806874b848df2b6a3437bb6d166bb8ca07766187b36bdc4b7ffa9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-181-2024",
+   "path": "local/hunedoara/hateg/2024/181",
+   "short": "HCL Hațeg nr. 181/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 181/2024 privind aprobarea prelungirii prin act adițional a contractului de comodat nr. 204/05.01.2024, încheiat între Orașul Hațeg și Asociația ,,Impact H” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 181/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 31505/181 din 11.12.2024",
+   "url": "https://primariehateg.ro/hotararea-nr-181-2024-privind-aprobarea-prelungirii-prin-act-aditional-a-contractului-de-comodat-nr-204-05-01-2024-incheiat-intre-orasul-hateg-si-asociatia-impact-h/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-181-din-2024.pdf",
+     "sha256": "5cc81ebeb3f0aea17dbc58c072c0ecc920a3d75fda188c3078e12f2536198ab4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-182-2024",
+   "path": "local/hunedoara/hateg/2024/182",
+   "short": "HCL Hațeg nr. 182/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 182/2024 privind aprobarea cesionării contractului de concesiune nr. 9/3770 din 10.05.2006, având ca obiect preluarea în concesiune a terenului înscris în CF nr 60714 Hațeg, nr. cadastral 60714, în suprafață totală de 23 m², ca urmare a vânzării construcției edificată pe teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de ho",
+   "url": "https://primariehateg.ro/hotararea-nr-182-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-9-3770-din-10-05-2006-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-60714-hateg-nr-cadas/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-182-din-2024.pdf",
+     "sha256": "69d19711434811f7fec8df99a13f4b2a78bf148a01d58f6f3ef5b930884a939c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-184-2024",
+   "path": "local/hunedoara/hateg/2024/184",
+   "short": "HCL Hațeg nr. 184/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 184/2024 privind aprobarea prelungirii cu 1 an a duratei contractelor, ce au ca obiect închirierea locuințelor de serviciu construite prin Agenția Națională de Locuințe în Orașul Hațeg, str. Dr",
+   "url": "https://primariehateg.ro/hotararea-nr-184-2024-privind-aprobarea-prelungirii-cu-1-an-a-duratei-contractelor-ce-au-ca-obiect-inchirierea-locuintelor-de-serviciu-construite-prin-agentia-nationala-de-locuinte-in-orasul-hateg/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-184-din-2024.pdf",
+     "sha256": "692abdfee870e83452fe6af14924537f0d2761c442842c16346a3d1c05c2eca4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-186-2024",
+   "path": "local/hunedoara/hateg/2024/186",
+   "short": "HCL Hațeg nr. 186/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 186/2024 privind aprobarea rectificării bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 186/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 31552/186 din 12.12.2024, prin care se propune aprobarea rectificării bugetului local al orașului Hațeg pe anu",
+   "url": "https://primariehateg.ro/hotararea-nr-186-2024-privind-aprobarea-rectificarii-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-186-din-2024.pdf",
+     "sha256": "843ed3b037edd7adb06742ac95bdf6985ad34c303922606a1c5a7336bae536c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-187-2024",
+   "path": "local/hunedoara/hateg/2024/187",
+   "short": "HCL Hațeg nr. 187/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 187/2024 privind alegerea președintelui de ședintă al Consiliului local al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 19 decembrie 2024; Examinând proiectul de hotărâre nr. 187/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 31785/187 din 16.12.2024, prin care se propune alegerea președintelui de ședintă al Consiliului local al ora",
+   "url": "https://primariehateg.ro/hotararea-nr-187-2024-privind-alegerea-presedintelui-de-sedinta-al-consiliului-local-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/12/Hotararea-nr-187-din-2024.pdf",
+     "sha256": "8eea30b00e2c401aa5f8d916ea6a8e85a12d2ce3013c81ced196425e23374641"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-19-2024",
+   "path": "local/hunedoara/hateg/2024/19",
+   "short": "HCL Hațeg nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 19/2024 privind aprobarea bugetului de venituri și cheltuieli pentru activitățile finanțate integral sau parțial din venituri proprii, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 06 februarie 2024; Examinând proiectul de hotărâre nr. 20/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 2831/20 din 31.01.2024, prin care se propune",
+   "url": "https://primariehateg.ro/hotararea-nr-19-2024-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-integral-sau-partial-din-venituri-proprii-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-19-din-2024.pdf",
+     "sha256": "d588f8c378d7c0cdbd6c837081ae1aee236a84f49806f93829a8147d723401b3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-2-2024",
+   "path": "local/hunedoara/hateg/2024/2",
+   "short": "HCL Hațeg nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 2/2024 privind aprobarea execuției bugetare a bugetului local, a bugetului creditelor interne și a bugetului de venituri și cheltuieli pentru activitățile finanțate integral sau parțial din venituri proprii, ale orașului Hațeg, pentru trimestrul al IV – lea al anului 2023 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 08 ianuarie 2024; Exa",
+   "url": "https://primariehateg.ro/hotararea-nr-2-2024-privind-aprobarea-executiei-bugetare-a-bugetului-local-a-bugetului-creditelor-interne-si-a-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-integral-sau-partial/",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr.-2-din-2024.pdf",
+     "sha256": "1b5ab5447617da184dba744e32fd388c5fb0c62f968f6c0fc2ffc75da051b3f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-21-2024",
+   "path": "local/hunedoara/hateg/2024/21",
+   "short": "HCL Hațeg nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 21/2024 privind aprobarea acordării normei de hrană, în bani, respectiv alocație valorică zilnică, ce reprezintă valoarea financiară a acesteia, în conformitate cu legislația în vigoare, personalului Poliției Locale Hațeg, în anul 2024, pentru o perioadă de maxim un an calendaristic, în limitele prevăzute cu această destinație în bugetul local aprobat, în condițiile legii Consiliul local al orașului Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-21-2024-privind-aprobarea-acordarii-normei-de-hrana-in-bani-respectiv-alocatie-valorica-zilnica-ce-reprezinta-valoarea-financiara-a-acesteia-in-conformitate-cu-legislatia-in-vigoare/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-21-din-2024.pdf",
+     "sha256": "2c20447662437ab672837c2ddd0ca2eec8e02d6683de2b08654967cf27d9fd6a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-22-2024",
+   "path": "local/hunedoara/hateg/2024/22",
+   "short": "HCL Hațeg nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 22/2024 privind aprobarea Planului, actualizat, de analiză și acoperire a riscurilor, al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, la 06 februarie 2024; Examinând proiectul de hotărâre nr. 17/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 2340/17/2024, prin care se propune aprobarea planului, actualizat, de ana",
+   "url": "https://primariehateg.ro/hotararea-nr-22-2024-privind-aprobarea-planului-actualizat-de-analiza-si-acoperire-a-riscurilor-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-22-din-2024.pdf",
+     "sha256": "ad2a5a143c7f83ff65d9a18b4356286a04e49e7b6d6e5cea0c17df3f358394af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-23-2024",
+   "path": "local/hunedoara/hateg/2024/23",
+   "short": "HCL Hațeg nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 23/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-06",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/02/Hotararea-nr-23-din-2024.pdf",
+     "sha256": "ee241b4b9838bedf7197688849ecb1602006a8337995875aa26256b17727597a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-24-2024",
+   "path": "local/hunedoara/hateg/2024/24",
+   "short": "HCL Hațeg nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 24/2024 privind aprobarea prelungirii cu 2 ani și 6 luni a duratei contractelor de concesiune a unor bunuri proprietate publică, încheiate între Orașul Hațeg și titularii acestora, prevăzuți în lista anexă Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 23/2024 inițiat de primarul orașului Hațeg și referatul de a",
+   "url": "https://primariehateg.ro/hotararea-nr-24-2024-privind-aprobarea-prelungirii-cu-2-ani-si-6-luni-a-duratei-contractelor-de-concesiune-a-unor-bunuri-proprietate-publica-incheiate-intre-orasul-hateg-si-titularii-acestora/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-24-din-2024.pdf",
+     "sha256": "68e4b057e911d563878dd5ea88548d6530a962b67ff9db93321478d30e316319"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-25-2024",
+   "path": "local/hunedoara/hateg/2024/25",
+   "short": "HCL Hațeg nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 25/2024 privind aprobarea actualizării cuantumului chiriei pentru locuințele pentru tineri destinate închirierii, construite de Agenția Națională de Locuințe în Orașul Hațeg, aflate în administrarea Consiliului local Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 24/2024 inițiat de primarul orașului Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-25-2024-privind-aprobarea-actualizarii-cuantumului-chiriei-pentru-locuintele-pentru-tineri-destinate-inchirierii-construite-de-agentia-nationala-de-locuinte-in-orasul-hateg-aflate-in-a/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-25-din-2024.pdf",
+     "sha256": "827a483b468959ceb4500e1b31eb05a189ea86cf68411da5243eec3c51a59401"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-26-2024",
+   "path": "local/hunedoara/hateg/2024/26",
+   "short": "HCL Hațeg nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 26/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-26-din-2024.pdf",
+     "sha256": "0a7771fb0028af27f9cff5b1ba70ec1caa981800dc14d6ae4246bfde12d90f02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-27-2024",
+   "path": "local/hunedoara/hateg/2024/27",
+   "short": "HCL Hațeg nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 27/2024 privind aprobarea trecerii din domeniul privat în domeniul public al orașului Hațeg, a imobilului situat în Hațeg, str. I.L.Caragiale, nr. 16A, ap. 2, înscris în CF nr. 68498 Hațeg, nr. cadastral 68498, compus din teren în suprafață de 65 m² și construcții compuse din două camere cu destinația de locuință și un grup sanitar, în scopul aprobării utilizării sale ca locuință socială, în condițiile le",
+   "url": "https://primariehateg.ro/hotararea-nr-27-2024-privind-aprobarea-trecerii-din-domeniul-privat-in-domeniul-public-al-orasului-hateg-a-imobilului-situat-in-hateg-str-i-l-caragiale-nr-16a-ap-2-inscris-in-cf-nr-68498-hat/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-27-din-2024.pdf",
+     "sha256": "c0a3fc3f4b297a85c464c7cc1627ee079367a60058a8deb91442e3c7688fc861"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-28-2024",
+   "path": "local/hunedoara/hateg/2024/28",
+   "short": "HCL Hațeg nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 28/2024 privind aprobarea planului unitar de acțiune pentru combaterea vectorilor în orașul Hațeg, în anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 27/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 4202/27 din 15.02.2024 prin care se propune aprobarea planului unitar",
+   "url": "https://primariehateg.ro/hotararea-nr-28-2024-privind-aprobarea-planului-unitar-de-actiune-pentru-combaterea-vectorilor-in-orasul-hateg-in-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-28-din-2024.pdf",
+     "sha256": "a02241515d4c29dc12e1a4e3068bfb86af1187bb74419bda0a3dc2328e2436e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-29-2024",
+   "path": "local/hunedoara/hateg/2024/29",
+   "short": "HCL Hațeg nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 29/2024 pentru modificarea hotărârii nr. 35/2023 privind aprobarea regulamentului de organizare și funcționare al Asociației de Dezvoltare Intercomunitară ,,Serviciul județean pentru ocrotirea animalelor fără stăpân”, a caietului de sarcini, a cuantumului cotizației Orașului Hațeg și a tarifului de capturare practicat de asociație Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință o",
+   "url": "https://primariehateg.ro/hotararea-nr-29-2024-pentru-modificarea-hotararii-nr-35-2023-privind-aprobarea-regulamentului-de-organizare-si-functionare-al-asociatiei-de-dezvoltare-intercomunitara-serviciul-judetean-pentru-ocr/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-29-din-2024.pdf",
+     "sha256": "274582f4216904243f2f3b72f0b2266aff821a6527e01c97f63e8ef11d868dc7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-3-2024",
+   "path": "local/hunedoara/hateg/2024/3",
+   "short": "HCL Hațeg nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 3/2024 privind aprobarea rețelei școlare a învațământului preuniversitar de stat, particular și confesional în orașul Hațeg, pentru anul școlar 2024-2025 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 08 ianuarie 2024; Examinând proiectul de hotărâre nr. 241/2023 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 3",
+   "url": "https://primariehateg.ro/hotararea-nr-3-2024-privind-aprobarea-retelei-scolare-a-invatamantului-preuniversitar-de-stat-particular-si-confesional-in-orasul-hateg-pentru-anul-scolar-2024-2025/",
+   "versions": [
+    {
+     "from": "2024-01-08",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr.-3-din-2024.pdf",
+     "sha256": "b7c354722d3190e70161598a15df30c07347eb73fc30181386a4b6b7350a5b5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-30-2024",
+   "path": "local/hunedoara/hateg/2024/30",
+   "short": "HCL Hațeg nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 30/2024 privind aprobarea rectificării înscrierii eronate din cartea funciară și totodată radierea dreptului de proprietate al orașului Hațeg, asupra unor tronsoane din DJ 687 A și DJ 687 K, situate în intravilanul unității administrativ-teritoriale Hațeg, ca urmare a dublei înregistrări a acestora, atât în inventarul bunurilor care aparțin domeniului public al orașului Hațeg cât și in inventarul bunurilo",
+   "url": "https://primariehateg.ro/hotararea-nr-30-2024-privind-aprobarea-rectificarii-inscrierii-eronate-din-cartea-funciara-si-totodata-radierea-dreptului-de-proprietate-al-orasului-hateg-asupra-unor-tronsoane-din-dj-687-a-si-dj-68/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-30-din-2024.pdf",
+     "sha256": "b3993eaa0e8d770ed89fb042142f91e8fcdefb878794c74072e602fbbcceb93a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-31-2024",
+   "path": "local/hunedoara/hateg/2024/31",
+   "short": "HCL Hațeg nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 31/2024 privind aprobarea alipirii unor terenuri intravilane, aflate în domeniul privat al Orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 30/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 4263/30 din 15.02.2024 prin care se propune aprobarea alipirii unor terenuri",
+   "url": "https://primariehateg.ro/hotararea-nr-31-2024-privind-aprobarea-alipirii-unor-terenuri-intravilane-aflate-in-domeniul-privat-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-31-din-2024.pdf",
+     "sha256": "9c8c508f817bcd6fe05db702ad6537dcdace9758a0f975c5e6783a144497048b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-32-2024",
+   "path": "local/hunedoara/hateg/2024/32",
+   "short": "HCL Hațeg nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 32/2024 privind modificarea regulamentului de organizare și funcționare a Clubului Sportiv Orășenesc ”Retezatul Hațeg”, aprobat prin Hotarărea Consiliului locala nr. 60/2021, în sensul aprobării activării secțiilor de tenis de masă și șah ale clubului Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 31/2024 iniția",
+   "url": "https://primariehateg.ro/hotararea-nr-32-2024-privind-modificarea-regulamentului-de-organizare-si-functionare-a-clubului-sportiv-orasenesc-retezatul-hateg-aprobat-prin-hotararea-consiliului-locala-nr-60/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-32-din-2024.pdf",
+     "sha256": "b6144dfcb530ac9396816435cc0f9accf6f435e3b0a921c924e144993b4a4d5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-33-2024",
+   "path": "local/hunedoara/hateg/2024/33",
+   "short": "HCL Hațeg nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 33/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-33-din-2024.pdf",
+     "sha256": "ce600cfd3d9f7b260cc3b62ebfa7adbe8b66d51f3476c2005020b7b976082e5a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-34-2024",
+   "path": "local/hunedoara/hateg/2024/34",
+   "short": "HCL Hațeg nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 34/2024 privind analiza modului în care sunt îndeplinite sarcinile ce revin autorităților administrației publice locale pe linia pregătirii economiei și teritoriului pentru apărare și stabilirea măsurilor ce se impun Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 33/2024 inițiat de primarul orașului Hațeg și ref",
+   "url": "https://primariehateg.ro/hotararea-nr-34-2024-privind-analiza-modului-in-care-sunt-indeplinite-sarcinile-ce-revin-autoritatilor-administratiei-publice-locale-pe-linia-pregatirii-economiei-si-teritoriului-pentru-aparare-si-st/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-34-din-2024.pdf",
+     "sha256": "e4d54edb07545a568713c1f038c5bcf7fffbf282ffbbc1c4d7fadca95dfb6a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-36-2024",
+   "path": "local/hunedoara/hateg/2024/36",
+   "short": "HCL Hațeg nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 36/2024 pentru modificarea anexei la hotărârea nr. 208/2023 privind participarea Orașului Hațeg la “Programul-cheie 1: Surse regenerabile de energie și stocarea energiei din Fondul pentru modernizare – Sprijinirea investitiilor in noi capacități de producere a energiei electrice produsa din surse regenerabile pentru autoconsum pentru entități publice”, implementarea proiectului și aprobarea cheltuielilor",
+   "url": "https://primariehateg.ro/hotararea-nr-36-2024-pentru-modificarea-anexei-la-hotararea-nr-208-2023-privind-participarea-orasului-hateg-la-programul-cheie-1-surse-regenerabile-de-energie-si-stocarea-energiei-din-fon/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-36-din-2024.pdf",
+     "sha256": "00425d78a28f9129343e65e6ce7c13591f845eed7df8354abb1823187c0367d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-37-2024",
+   "path": "local/hunedoara/hateg/2024/37",
+   "short": "HCL Hațeg nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 37/2024 privind aprobarea modificării normativului de personal, statului de funcții și oragnigramei Spitalului orășenesc Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 36/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 4857/36 din 22.02.2024 prin care se propune aprobarea m",
+   "url": "https://primariehateg.ro/hotararea-nr-37-2024-privind-aprobarea-modificarii-normativului-de-personal-statului-de-functii-si-oragnigramei-spitalului-orasenesc-hateg/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-37-din-2024.pdf",
+     "sha256": "26194e791cb0e008b1fb1c2d186b116f90b11960f2dfaf99c07305c0f1dba4c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-39-2024",
+   "path": "local/hunedoara/hateg/2024/39",
+   "short": "HCL Hațeg nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 39/2024 privind aprobarea încheierii unui act adițional la contractul de concesiune nr. 16/4409/2006, încheiat între Consiliul local al orașului Hațeg și SC Alax SRL Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 38/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 4920/38 din 22.0",
+   "url": "https://primariehateg.ro/hotararea-nr-39-2024-privind-aprobarea-incheierii-unui-act-aditional-la-contractul-de-concesiune-nr-16-4409-2006-incheiat-intre-consiliul-local-al-orasului-hateg-si-sc-alax-srl/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-39-din-2024.pdf",
+     "sha256": "9940981ace9dc614a5473fa41d7f3389d85eab91b622ff2472899c3f3d9f1610"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-4-2024",
    "path": "local/hunedoara/hateg/2024/4",
    "short": "HCL Hațeg nr. 4/2024",
@@ -74,6 +1364,306 @@
      "units": 8,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-4-din-2024.pdf",
      "sha256": "a6da6b0ddba4c9abe9a739037f6028c6a3df2a3784f8ff45d639e0fc4f4007be"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-40-2024",
+   "path": "local/hunedoara/hateg/2024/40",
+   "short": "HCL Hațeg nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 40/2024 privind aprobarea programului anual al Orașului Hațeg de finanțare nerambursabilă în condițiile Legii nr. 350/2005 privind regimul finanțărilor nerambursabile din fonduri publice alocate pentru activități nonprofit de interes general, pentru anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 februarie 2024; Examinând proiectul de hotărâre nr. 39/202",
+   "url": "https://primariehateg.ro/hotararea-nr-40-2024-privind-aprobarea-programului-anual-al-orasului-hateg-de-finantare-nerambursabila-in-conditiile-legii-nr-350-2005-privind-regimul-finantarilor-nerambursabile-din-fonduri-publice/",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr.-40-din-2024.pdf",
+     "sha256": "3bf195a49a98e9d81efb280213f41f48debb30fed3bc7747bd2e8b47f4db6e00"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-41-2024",
+   "path": "local/hunedoara/hateg/2024/41",
+   "short": "HCL Hațeg nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 41/2024 privind stabilirea pachetului alimentar, ca tip de suport alimentar, în cadrul Programului Național ”Masă Sănătoasă”, adresat preșcolarilor și elevilor din cadrul Liceului Teoretic ,,I.C.Brătianu” Hațeg, prezenți la activitățile didactice, pe perioada cursurilor, în anul 2024, precum și modalitatea de distribuire a acestuia la nivelul unităților de învățământ din unitatea administrativ-teritorială",
+   "url": "https://primariehateg.ro/hotararea-nr-41-2024-privind-stabilirea-pachetului-alimentar-ca-tip-de-suport-alimentar-in-cadrul-programului-national-masa-sanatoasa-adresat-prescolarilor-si-elevilor-din-cadrul/",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-41-din-2024.pdf",
+     "sha256": "e20eef42e06444b0eee1475a5aa3c28c01dfa961be831eaa33572d3b14297ee3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-42-2024",
+   "path": "local/hunedoara/hateg/2024/42",
+   "short": "HCL Hațeg nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 42/2024 privind aprobarea rectificării bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 13 martie 2024; Examinând proiectul de hotărâre nr. 43/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 6546/43 din 12.03.20234 prin care se propune aprobarea rectificării bugetului local al o",
+   "url": "https://primariehateg.ro/hotararea-nr-42-2024-privind-aprobarea-rectificarii-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-42-din-2024.pdf",
+     "sha256": "62c59b059acc133577be3b0461813a3e13d66cd99f96658e3c1426ac5bcd10f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-43-2024",
+   "path": "local/hunedoara/hateg/2024/43",
+   "short": "HCL Hațeg nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 43/2024 privind aprobarea virării de credite bugetare în cadrul aceluiași capitol al clasificației bugetare, precum și a modificării listei de investiții aferentă bugetului local al Orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință extraordinară, convocată de îndată, la 13 martie 2024; Examinând proiectul de hotărâre nr. 47/2024 inițiat de primarul orașului Hațeg și",
+   "url": "https://primariehateg.ro/hotararea-nr-43-2024-privind-aprobarea-virarii-de-credite-bugetare-in-cadrul-aceluiasi-capitol-al-clasificatiei-bugetare-precum-si-a-modificarii-listei-de-investitii-aferenta-bugetului-local-al-oras/",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-43-din-2024.pdf",
+     "sha256": "dfb60acd0dc3e4b1d5fdbbad51ca89c020ce76dd34dde41ab35a34296e5193a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-45-2024",
+   "path": "local/hunedoara/hateg/2024/45",
+   "short": "HCL Hațeg nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 45/2024 privind aprobarea bugetului de venituri si cheltuieli al S.C",
+   "url": "https://primariehateg.ro/hotararea-nr-45-2024-privind-aprobarea-bugetului-de-venituri-si-cheltuieli-al-s-c-bucura-prest-srl-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-45-din-2024.pdf",
+     "sha256": "76da05842cea575790f3a51149f5f0f7e9d9248b4bfd5673e81e9a7ecdeeaa09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-46-2024",
+   "path": "local/hunedoara/hateg/2024/46",
+   "short": "HCL Hațeg nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 46/2024 privind aprobarea cesionării contractului de închiriere nr. 2/3613/2009, având ca obiect preluarea în chirie a terenului, în suprafață de 15 m², situat pe str",
+   "url": "https://primariehateg.ro/hotararea-nr-46-2024-privind-aprobarea-cesionarii-contractului-de-inchiriere-nr-2-3613-2009-avand-ca-obiect-preluarea-in-chirie-a-terenului-in-suprafata-de-15-m%C2%B2-situat-pe-str-aurel-vla/",
+   "versions": [
+    {
+     "from": "2024-03-13",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/03/Hotararea-nr-46-din-2024.pdf",
+     "sha256": "60d8bea9aac4215a401354f7883153418cc5f261d9584f06cc7493b8b11ca451"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-47-2024",
+   "path": "local/hunedoara/hateg/2024/47",
+   "short": "HCL Hațeg nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 47/2024 privind aprobarea situațiilor deosebite, altele decât situațiile de necesitate cauzate de calamități naturale, incendii, accidente, epidemii, epizootii, determinate de starea de sănătate ori alte cauze care pot conduce la apariția sau sporirea riscului de excluziune socială, pentru care se pot acorda ajutoare de urgență precum și ajutoare comunitare, în bani și/sau în natură, persoanelor singure ș",
+   "url": "https://primariehateg.ro/hotararea-nr-47-2024-privind-aprobarea-situatiilor-deosebite-altele-decat-situatiile-de-necesitate-cauzate-de-calamitati-naturale-incendii-accidente-epidemii-epizootii-determinate-de-starea-de/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-47-din-2024.pdf",
+     "sha256": "793099e53856c00736c8bb02271548e322dd9b0a77d7e8b1acd9448499c4b13c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-48-2024",
+   "path": "local/hunedoara/hateg/2024/48",
+   "short": "HCL Hațeg nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 48/2024 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare al Deșeurilor” pentru a întocmi/aproba/implementa, în condițiile legii, strategia de contractare și documentația de atribuire pentru organizarea procedurii de negociere fără publicare prealabilă a aunui anunț de participare, pentru atribuirea contractului de achiziție de servicii având",
+   "url": "https://primariehateg.ro/hotararea-nr-48-2024-privind-acordarea-unui-mandat-special-asociatiei-de-dezvoltare-intercomunitara-sistemul-integrat-de-gestionare-al-deseurilor-pentru-a-intocmi-aproba-implementa-in-con/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-48-din-2024.pdf",
+     "sha256": "6d6a947bca3709dfde685ac2afd45f186bebc3f0b5cefefc5479a839307137a4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-49-2024",
+   "path": "local/hunedoara/hateg/2024/49",
+   "short": "HCL Hațeg nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 49/2024 privind exprimarea acordului unității administrativ-teritoriale Orașul Hațeg, prin Consiliul local, pentru aderarea Comunei Bătrâna la Asociația de dezvoltare Intercomunitară ,,Aqua Prest Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 49/2024 inițiat de primarul orașului Hațeg și referatul de apr",
+   "url": "https://primariehateg.ro/hotararea-nr-49-2024-privind-exprimarea-acordului-unitatii-administrativ-teritoriale-orasul-hateg-prin-consiliul-local-pentru-aderarea-comunei-batrana-la-asociatia-de-dezvoltare-intercomunitara-a/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-49-din-2024.pdf",
+     "sha256": "bf0593cc9226d89bf24c68d7a0661152f9b648ad7c67f9ca31556de2ea0a9547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-5-2024",
+   "path": "local/hunedoara/hateg/2024/5",
+   "short": "HCL Hațeg nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 5/2024 privind aprobarea scutirii, în anul 2024, a Asociației Evanghelistice și de Caritate “ Isus Speranța României ”, cu sediul în Timișoara, str",
+   "url": "https://primariehateg.ro/hotararea-nr-5-2024-privind-aprobarea-scutirii-in-anul-2024-a-asociatiei-evanghelistice-si-de-caritate-isus-speranta-romaniei-cu-sediul-in-timisoara-str-capitan-dan-nr-23/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-5-din-2024.pdf",
+     "sha256": "a312509dda31dc7678932bf708023dcd2c4b8b97d3538e73e775a8eb74ddfa2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-50-2024",
+   "path": "local/hunedoara/hateg/2024/50",
+   "short": "HCL Hațeg nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 50/2024 privind aprobarea prelungirii cu 1 an a contractului de închiriere nr. 6685 din 29.03.2021, încheiat între Orașul Hațeg și Partidul Pro România Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 50/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 7407/50 din 19.03.2024, prin care",
+   "url": "https://primariehateg.ro/hotararea-nr-50-2024-privind-aprobarea-prelungirii-cu-1-an-a-contractului-de-inchiriere-nr-6685-din-29-03-2021-incheiat-intre-orasul-hateg-si-partidul-pro-romania/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-50-din-2024.pdf",
+     "sha256": "ef96b2e291b5b237daf84e59990def335d2fb48937734cba862daffc01a753a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-51-2024",
+   "path": "local/hunedoara/hateg/2024/51",
+   "short": "HCL Hațeg nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 51/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-51-din-2024.pdf",
+     "sha256": "12bd6e860576e3b66302bbc22a5f21005ec435c03c276fe6762f106da733c082"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-52-2024",
+   "path": "local/hunedoara/hateg/2024/52",
+   "short": "HCL Hațeg nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 52/2024 privind aprobarea prelungirii cu 2 ani a duratei contractelor de închiriere, pentru terenurile pe care s-au construit garaje provizorii, cu structură metalică, fără fundație din beton, situate pe strada Aurel Vlaicu Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 52/2024 inițiat de primarul orașului Hațeg și",
+   "url": "https://primariehateg.ro/hotararea-nr-52-2024-privind-aprobarea-prelungirii-cu-2-ani-a-duratei-contractelor-de-inchiriere-pentru-terenurile-pe-care-s-au-construit-garaje-provizorii-cu-structura-metalica-fara-fundatie-di/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-52-din-2024.pdf",
+     "sha256": "0cb5868442d4c9114d3b9f4b6e68d282a71d6aad5bc8ccec2d7d96178c0ce495"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-53-2024",
+   "path": "local/hunedoara/hateg/2024/53",
+   "short": "HCL Hațeg nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 53/2024 privind aprobarea fondului de locuințe sociale de la nivelul unității adminitriv-teritoriale, actualizat, rezultat din reabilitarea unor construcții existente Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 53/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 7413/53 din 19.03",
+   "url": "https://primariehateg.ro/hotararea-nr-53-2024-privind-aprobarea-fondului-de-locuinte-sociale-de-la-nivelul-unitatii-adminitriv-teritoriale-actualizat-rezultat-din-reabilitarea-unor-constructii-existente/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-53-din-2024.pdf",
+     "sha256": "ecd24dee32967b3a572cd8409ca6c5c842758e59c35ff02ea26c634bd1a15171"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-54-2024",
+   "path": "local/hunedoara/hateg/2024/54",
+   "short": "HCL Hațeg nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 54/2024 privind aprobarea dezlipirii terenului intravilan, înscris în CF nr. 72090 Hațeg, nr. cadastral 72090, în suprafață tabulară de 7860 m² Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 54/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 7415/54 din 19.03.2024 prin care se propu",
+   "url": "https://primariehateg.ro/hotararea-nr-54-2024-privind-aprobarea-dezlipirii-terenului-intravilan-inscris-in-cf-nr-72090-hateg-nr-cadastral-72090-in-suprafata-tabulara-de-7860-m%C2%B2/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-54-din-2024.pdf",
+     "sha256": "a958ba3970a4904cb26e3214c34be4650357ed5dd78e7fc5fc5ed7478d228727"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-55-2024",
+   "path": "local/hunedoara/hateg/2024/55",
+   "short": "HCL Hațeg nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 55/2024 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Hațeg a imobilului compus din birou, cu nr. cadastral 1206 – C1, în suprafață desfășurată de 18,79 m² și teren intravilan aferent, în suprafață de 28 m², înscrise în CF nr. 62397 Hațeg, nr. cadastral/topo 1206 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând",
+   "url": "https://primariehateg.ro/hotararea-nr-55-2024-privind-aprobarea-trecerii-din-domeniul-public-in-domeniul-privat-al-orasului-hateg-a-imobilului-compus-din-birou-cu-nr-cadastral-1206-c1-in-suprafata-desfasurata-de/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-55-din-2024.pdf",
+     "sha256": "d5adc488b44185a1bb47ac351c75d46401991e92ae1372bedb5825c35f506bdd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-56-2024",
+   "path": "local/hunedoara/hateg/2024/56",
+   "short": "HCL Hațeg nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 56/2024 privind alegerea președintelui de ședintă al Consiliului local al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 56/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 7427/56 din 20.03.2024, prin care se propune alegerea președintelui de ședintă al Consiliului lo",
+   "url": "https://primariehateg.ro/hotararea-nr-56-2024-privind-alegerea-presedintelui-de-sedinta-al-consiliului-local-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-56-din-2024.pdf",
+     "sha256": "b7bee90b5703084f04c3a0b38d99f30ab91611c80cb6dbb4b54a5db4b6084c12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-57-2024",
+   "path": "local/hunedoara/hateg/2024/57",
+   "short": "HCL Hațeg nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 57/2024 pentru completarea și modificarea hotărârii nr. 140/2022 privind aprobarea documentației de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici pentru investiția „Modernizare drumuri în zona centrală a orașului Hațeg, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 57/",
+   "url": "https://primariehateg.ro/hotararea-nr-57-2024-pentru-completarea-si-modificarea-hotararii-nr-140-2022-privind-aprobarea-documentatiei-de-avizare-a-lucrarilor-de-interventie-si-a-indicatorilor-tehnico-economici-pentru-invest/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-57-din-2024.pdf",
+     "sha256": "5094e087313a9970468ed8c676b72be689b571d341d52a54f2ef19db9e99d426"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-58-2024",
+   "path": "local/hunedoara/hateg/2024/58",
+   "short": "HCL Hațeg nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 58/2024 privind aprobarea cesionării contractului de concesiune nr. 7794 din 15.04.2019, cesionat, având ca obiect preluarea în concesiune a terenului înscris în CF nr 61946 Hațeg și CF nr 61947 Hațeg, nr. cadastrale 61946 și 61947, în suprafață totală de 690 m², ca urmare a vânzării construcției edificată pe teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 m",
+   "url": "https://primariehateg.ro/hotararea-nr-58-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-7794-din-15-04-2019-cesionat-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-61946-hateg-si/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-58-din-2024.pdf",
+     "sha256": "7465569083327f30b9d6f94d01a0199ac714e2e7de60f3ba89e53b9768788b8c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-59-2024",
+   "path": "local/hunedoara/hateg/2024/59",
+   "short": "HCL Hațeg nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 59/2024 privind aprobarea schimbului locuinței de serviciu identificată ca ap. 14 din scara A a blocului construit prin Agenția Națională de Locuințe, în Hațeg, str. Dr",
+   "url": "https://primariehateg.ro/hotararea-nr-59-2024-privind-aprobarea-schimbului-locuintei-de-serviciu-identificata-ca-ap-14-din-scara-a-a-blocului-construit-prin-agentia-nationala-de-locuinte-in-hateg-str-dr-victor-babes-nr/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-59-din-2024.pdf",
+     "sha256": "150641b4418bc59a0405395ec20de024d1cdb4d0b7c307e715f53d92c7e18c1e"
     }
    ]
   },
@@ -93,6 +1683,51 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-60-2024",
+   "path": "local/hunedoara/hateg/2024/60",
+   "short": "HCL Hațeg nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 60/2024 privind aprobarea volumului de masă lemnoasă care urmează a se recolta, în anul 2024, din fondul forestier proprietate publică/privată a Orașului Hațeg și a modalității de valorificare a acesteia Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 60/2024 inițiat de primarul orașului Hațeg și referatul de aproba",
+   "url": "https://primariehateg.ro/hotararea-nr-60-2024-privind-aprobarea-volumului-de-masa-lemnoasa-care-urmeaza-a-se-recolta-in-anul-2024-din-fondul-forestier-proprietate-publica-privata-a-orasului-hateg-si-a-modalitatii-de-valori/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-60-din-2024.pdf",
+     "sha256": "0f9ca48a2694cd1624144c0bf836007436c6bf14245acc1503d31ddca9ba9499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-61-2024",
+   "path": "local/hunedoara/hateg/2024/61",
+   "short": "HCL Hațeg nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 61/2024 privind aprobarea devizului general, a caracteristicilor principale și a indicatorilor tehnico- economici, actualizați, pentru obiectivul de investiții „Modernizare străzi în orașul Hațeg, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 martie 2024; Examinând proiectul de hotărâre nr. 61/2024 inițiat de primarul orașului Hațeg și referat",
+   "url": "https://primariehateg.ro/hotararea-nr-61-2024-privind-aprobarea-devizului-general-a-caracteristicilor-principale-si-a-indicatorilor-tehnico-economici-actualizati-pentru-obiectivul-de-investitii-modernizare-strazi/",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-61-din-2024.pdf",
+     "sha256": "350692ce88c271318bffd1b695b6b3a2dfec8171d9c0905b53a683a86f0be939"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-63-2024",
+   "path": "local/hunedoara/hateg/2024/63",
+   "short": "HCL Hațeg nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 63/2024 privind aprobarea programului de acțiune comunitară ce va fi realizat în anul 2024, la nivelul Direcției de asistență socială Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 48/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 7278/48 din 19.03.2024 prin care se propune",
+   "url": "https://primariehateg.ro/hotararea-nr-63-2024-privind-aprobarea-programului-de-actiune-comunitara-ce-va-fi-realizat-in-anul-2024-la-nivelul-directiei-de-asistenta-sociala-hateg/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-63-din-2024.pdf",
+     "sha256": "9e5e1aaeb7690b66018a9db6dd1f17d634bc0d766744de930b2c923114ec3456"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-64-2024",
    "path": "local/hunedoara/hateg/2024/64",
    "short": "HCL Hațeg nr. 64/2024",
@@ -108,6 +1743,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--hateg-65-2024",
+   "path": "local/hunedoara/hateg/2024/65",
+   "short": "HCL Hațeg nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 65/2024 privind aprobarea planului anual de actiune privind serviciile sociale specifice Direcției de asistență socială, aflată în subordinea Consiliului Local al orașului Hațeg, administrate și finanțate din bugetul local, pentru anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 64/2024 inițiat de primarul",
+   "url": "https://primariehateg.ro/hotararea-nr-65-2024-privind-aprobarea-planului-anual-de-actiune-privind-serviciile-sociale-specifice-directiei-de-asistenta-sociala-aflata-in-subordinea-consiliului-local-al-orasului-hateg-adminis/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-65-din-2024.pdf",
+     "sha256": "75d534ad1df3b6c6a8f6cceeebf7af61e373ad7a41737ddb3807081a67ea57ee"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--hateg-66-2024",
    "path": "local/hunedoara/hateg/2024/66",
    "short": "HCL Hațeg nr. 66/2024",
@@ -119,6 +1769,471 @@
      "units": 8,
      "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-66-din-2024.pdf",
      "sha256": "ab3124a64c1348d68a0ff47e940eef06fbc29023783a01818b42f264e09b9b7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-67-2024",
+   "path": "local/hunedoara/hateg/2024/67",
+   "short": "HCL Hațeg nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 67/2024 privind aprobarea completării inventarului bunurilor care alcătuiesc domeniul privat al Orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 66/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 9909/66 din 10.04.2024, prin care propune aprobarea completării inventaru",
+   "url": "https://primariehateg.ro/hotararea-nr-67-2024-privind-aprobarea-completarii-inventarului-bunurilor-care-alcatuiesc-domeniul-privat-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-67-din-2024.pdf",
+     "sha256": "fa51d9dc68122ad23eb8b0035d54a73dbb86e7a8858182ef55a69fb3d0c58509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-68-2024",
+   "path": "local/hunedoara/hateg/2024/68",
+   "short": "HCL Hațeg nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 68/2024 privind aprobarea cesionării contractului de concesiune nr. 2653/94/1993, având ca obiect preluarea în concesiune a terenului înscris în CF nr. 61341 Hațeg, nr. topografic/cadastral 61341, în suprafață de 20 m², ca urmare a vânzării constructiei garaj edificată pe acest teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul",
+   "url": "https://primariehateg.ro/hotararea-nr-68-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-2653-94-1993-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-61341-hateg-nr-topografic-cadast/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-68-din-2024.pdf",
+     "sha256": "7201149f8a3226a90aaf87c72d4b1c030f385626e657d9f8ba1d0ad786dc40b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-69-2024",
+   "path": "local/hunedoara/hateg/2024/69",
+   "short": "HCL Hațeg nr. 69/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 69/2024 privind aprobarea cesionării contractului de concesiune nr. 83/2711/15.07.1993, având ca obiect preluarea în concesiune a terenului înscris în CF nr. 71117 Hațeg, nr. cadastral/topografic 71117, în suprafață de 20 m², ca urmare a vânzării constructiei garaj edificată pe acest teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând pro",
+   "url": "https://primariehateg.ro/hotararea-nr-69-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-83-2711-15-07-1993-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-71117-hateg-nr-cadastral-t/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-69-din-2024.pdf",
+     "sha256": "4e914c8fa6f1494bd9f45373e1bcd9ec473ceaab12bc1b5da10e68113c872d39"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-7-2024",
+   "path": "local/hunedoara/hateg/2024/7",
+   "short": "HCL Hațeg nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 7/2024 privind aprobarea prelungirii cu 1 an a contractelor de închiriere, ce au ca obiect spații destinate sediilor partidelor politice, situate în orașul Hațeg, str",
+   "url": "https://primariehateg.ro/hotararea-nr-7-2024-privind-aprobarea-prelungirii-cu-1-an-a-contractelor-de-inchiriere-ce-au-ca-obiect-spatii-destinate-sediilor-partidelor-politice-situate-in-orasul-hateg-str-mihai-viteazu-nr/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-7-din-2024.pdf",
+     "sha256": "436e9d495433a16f2f66678a7775fec781a090f3f61967cc954621c1e82b044c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-70-2024",
+   "path": "local/hunedoara/hateg/2024/70",
+   "short": "HCL Hațeg nr. 70/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 70/2024 privind aprobarea cesionării contractului de concesiune nr. 47/2544/1993, având ca obiect preluarea în concesiune a terenului înscris în CF nr. 70944 Hațeg, nr. topografic/cadastral 70944, în suprafață de 20 m², ca urmare a vânzării constructiei garaj edificată pe acest teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul",
+   "url": "https://primariehateg.ro/hotararea-nr-70-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-47-2544-1993-avand-ca-obiect-preluarea-in-concesiune-a-terenului-inscris-in-cf-nr-70944-hateg-nr-topografic-cadast/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-70-din-2024.pdf",
+     "sha256": "85b2fd9c36b239ed6879f84f49bca1aaffd28762bfc41d7ad7dbe7411a6c9df0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-71-2024",
+   "path": "local/hunedoara/hateg/2024/71",
+   "short": "HCL Hațeg nr. 71/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 71/2024 privind aprobarea inițierii procedurii de închiriere a disponibilului de pajiști, aflate in domeniul privat al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 70/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 10344/70 din 15.04.2024, prin care se propune apro",
+   "url": "https://primariehateg.ro/hotararea-nr-71-2024-privind-aprobarea-initierii-procedurii-de-inchiriere-a-disponibilului-de-pajisti-aflate-in-domeniul-privat-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-71-din-2024.pdf",
+     "sha256": "317658574b44611e4773b0df44494110e87e09f2dacd1cab043d7547757388de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-72-2024",
+   "path": "local/hunedoara/hateg/2024/72",
+   "short": "HCL Hațeg nr. 72/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 72/2024 privind aprobarea alipirii unor terenuri intravilane, aflate în domeniul privat al Orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 71/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 10346/71 din 15.04.2024 prin care se propune aprobarea alipirii unor terenuri",
+   "url": "https://primariehateg.ro/hotararea-nr-72-2024-privind-aprobarea-alipirii-unor-terenuri-intravilane-aflate-in-domeniul-privat-al-orasului-hateg/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-72-din-2024.pdf",
+     "sha256": "3609bc15c1fea3c33829e227207866c187a5200c7b4d25705a39e1ad32339e74"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-73-2024",
+   "path": "local/hunedoara/hateg/2024/73",
+   "short": "HCL Hațeg nr. 73/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 73/2024 privind aprobarea execuției bugetare a bugetului local, a bugetului creditelor interne și a bugetului de venituri și cheltuieli pentru activitățile finanțate integral sau parțial din venituri proprii, ale orașului Hațeg, pentru trimestrul I al anului 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 72/2",
+   "url": "https://primariehateg.ro/hotararea-nr-73-2024-privind-aprobarea-executiei-bugetare-a-bugetului-local-a-bugetului-creditelor-interne-si-a-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-integral-sau-partial/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-73-din-2024.pdf",
+     "sha256": "1f6603b0b664a905f68742d22a59467e4af6eea8446a37fd105b5d50420936cb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-74-2024",
+   "path": "local/hunedoara/hateg/2024/74",
+   "short": "HCL Hațeg nr. 74/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 74/2024 privind aprobarea rectificării bugetului local al orașului Hațeg, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 73/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 10722/73 din 18.04.20234 prin care se propune aprobarea rectificării bugetului local al orașului Hațeg pe anul 20",
+   "url": "https://primariehateg.ro/hotararea-nr-74-2024-privind-aprobarea-rectificarii-bugetului-local-al-orasului-hateg-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-74-din-2024.pdf",
+     "sha256": "960e3a2abf9baa40ee8e76a6bc8c08c03dea8ca99d2015254362a56e74ca534a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-75-2024",
+   "path": "local/hunedoara/hateg/2024/75",
+   "short": "HCL Hațeg nr. 75/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 75/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-75-din-2024.pdf",
+     "sha256": "111d5bde6bded51ee28b73263b90a84644e757860a2fe5e91e73792599ae9f30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-76-2024",
+   "path": "local/hunedoara/hateg/2024/76",
+   "short": "HCL Hațeg nr. 76/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 76/2024 privind validarea inventarului terenurilor disponibile pentru punerea în aplicare a Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală, republicată, cu modificările ulterioare, aflate în domeniul privat al orașului Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiect",
+   "url": "https://primariehateg.ro/hotararea-nr-76-2024-privind-validarea-inventarului-terenurilor-disponibile-pentru-punerea-in-aplicare-a-legii-nr-15-2003-privind-sprijinul-acordat-tinerilor-pentru-construirea-unei-locuinte-proprie/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-76-din-2024.pdf",
+     "sha256": "03e21e7a4cc68d9738011b88577dce3dfd6549c166145555a74a5d6ceae11b7f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-77-2024",
+   "path": "local/hunedoara/hateg/2024/77",
+   "short": "HCL Hațeg nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 77/2024 privind aprobarea cesionării contractului de concesiune nr. 2690/68 din 14.07.1993, cesionat, având ca obiect preluarea în concesiune a terenului intravilan înscris în CF nr. 62353 Hațeg, nr. cadastral 62353, în suprafață de 20 m², ca urmare a vânzării construcției garaj edificată pe acest teren Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024",
+   "url": "https://primariehateg.ro/hotararea-nr-77-2024-privind-aprobarea-cesionarii-contractului-de-concesiune-nr-2690-68-din-14-07-1993-cesionat-avand-ca-obiect-preluarea-in-concesiune-a-terenului-intravilan-inscris-in-cf-nr-623/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-77-din-2024.pdf",
+     "sha256": "5a9f58d7136207acf18d7d77fc0a52bcaad790b827d40ca11df2f22a1adc963c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-78-2024",
+   "path": "local/hunedoara/hateg/2024/78",
+   "short": "HCL Hațeg nr. 78/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 78/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-78-din-2024.pdf",
+     "sha256": "fc8ef1e2d9f89e52868ba309e7392242634aae34e495c435df134a74c5385655"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-79-2024",
+   "path": "local/hunedoara/hateg/2024/79",
+   "short": "HCL Hațeg nr. 79/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 79/2024 privind aprobarea dării în folosință gratuită către Asociația ”Club Sportiv ZMBR” Hațeg, pe o perioadă de 1 an, a unui spațiu în suprafață de 98 m², aflat în Hațeg, str",
+   "url": "https://primariehateg.ro/hotararea-nr-79-2024-privind-aprobarea-darii-in-folosinta-gratuita-catre-asociatia-club-sportiv-zmbr-hateg-pe-o-perioada-de-1-an-a-unui-spatiu-in-suprafata-de-98-m%C2%B2-aflat-in/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-79-din-2024.pdf",
+     "sha256": "e8d3b3f5b9e2cd76ac7fd3f5bec94f3cdf4317916fded3a37017254b4ab6d6bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-8-2024",
+   "path": "local/hunedoara/hateg/2024/8",
+   "short": "HCL Hațeg nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 8/2024 privind aprobarea prelungirii cu 5 ani a duratei contractelor, ce au ca obiect închirierea locuințelor construite prin Agenția Națională de Locuințe în Orașul Hațeg, str",
+   "url": "https://primariehateg.ro/hotararea-nr-8-2024-privind-aprobarea-prelungirii-cu-5-ani-a-duratei-contractelor-ce-au-ca-obiect-inchirierea-locuintelor-construite-prin-agentia-nationala-de-locuinte-in-orasul-hateg-str-aleea-co/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr-8-din-2024.pdf",
+     "sha256": "7cccaba0e59c3a6c46668617aa0ac2648801882c69c87278c07c39073e9d2b12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-80-2024",
+   "path": "local/hunedoara/hateg/2024/80",
+   "short": "HCL Hațeg nr. 80/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 80/2024 privind aprobarea modificării normativului de personal, statului de funcții și oragnigramei Spitalului orășenesc Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 79/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 10843/79 din 18.04.2024 prin care se propune aprobarea mo",
+   "url": "https://primariehateg.ro/hotararea-nr-80-2024-privind-aprobarea-modificarii-normativului-de-personal-statului-de-functii-si-oragnigramei-spitalului-orasenesc-hateg/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-80-din-2024.pdf",
+     "sha256": "19a1f21b0aec1a7b63635782b84905038d0986c68d3b5fc54787e2cc0133c274"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-84-2024",
+   "path": "local/hunedoara/hateg/2024/84",
+   "short": "HCL Hațeg nr. 84/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 84/2024 privind aprobarea schimbului locuinței de serviciu identificată ca ap. 13 din scara A a blocului construit prin Agenția Națională de Locuințe, în Hațeg, str. Dr",
+   "url": "https://primariehateg.ro/hotararea-nr-84-2024-privind-aprobarea-schimbului-locuintei-de-serviciu-identificata-ca-ap-13-din-scara-a-a-blocului-construit-prin-agentia-nationala-de-locuinte-in-hateg-str-dr-victor-babes-nr/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-84-din-2024-1.pdf",
+     "sha256": "c9051fa71a932cf15e7ad49ece11310b3085c9947e17ca6749b798a739aef3bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-85-2024",
+   "path": "local/hunedoara/hateg/2024/85",
+   "short": "HCL Hațeg nr. 85/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 85/2024 privind atestarea apartenenței la domeniul public al Orașului Hațeg a unor imobile- drumuri Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 84/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 11177/84 din 23.04.2024, prin care se atestă apartenența la domeniul public al Orașu",
+   "url": "https://primariehateg.ro/hotararea-nr-85-2024-privind-atestarea-apartenentei-la-domeniul-public-al-orasului-hateg-a-unor-imobile-drumuri/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-85-din-2024.pdf",
+     "sha256": "6e874afc625f219813e3c1b162bb389fb5c8d8cc794ec4ac71ea094eed2b60db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-86-2024",
+   "path": "local/hunedoara/hateg/2024/86",
+   "short": "HCL Hațeg nr. 86/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 86/2024 privind atestarea apartenenței la domeniul privat al Orașului Hațeg a unor imobile Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 25 aprilie 2024; Examinând proiectul de hotărâre nr. 85/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 11179/85 din 23.04.2024, prin care se atestă apartenența la domeniul privat al Orașului Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-86-2024-privind-atestarea-apartenentei-la-domeniul-privat-al-orasului-hateg-a-unor-imobile/",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/04/Hotararea-nr-86-din-2024.pdf",
+     "sha256": "d44bdf0e334971e9a725d17eeea81ed2e7dc2401ab9fd21eafab2d17bf92ae9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-88-2024",
+   "path": "local/hunedoara/hateg/2024/88",
+   "short": "HCL Hațeg nr. 88/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 88/2024 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară ,,Sistemul Integrat de Gestionare al Deșeurilor” pentru a întocmi/aproba/implementa, în condițiile legii, documentele suport și documentația de atribuire a contractului de achiziție publică având ca obiect ,,Delegarea gestiunii serviciului de salubrizare în zona de colectare 1 Brad + 2 Hațeg + 3 Centru, Județul Hunedoar",
+   "url": "https://primariehateg.ro/hotararea-nr-88-2024-privind-acordarea-unui-mandat-special-asociatiei-de-dezvoltare-intercomunitara-sistemul-integrat-de-gestionare-al-deseurilor-pentru-a-intocmi-aproba-implementa-in-con/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-88-din-2024.pdf",
+     "sha256": "4d551ad5ce898679faedfe58f10592d60f2304a8a42db72b97f25c856b67e21c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-89-2024",
+   "path": "local/hunedoara/hateg/2024/89",
+   "short": "HCL Hațeg nr. 89/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 89/2024 privind aprobarea studiului de fezabilitate și a indicatorilor tehnico-economici pentru obiectivul de investiții intitulat “Modernizare drum de interes local Izvoarele – Silvașu de Sus – tronsonul 2 “ UAT Orașul Hațeg, județul Hunedoara Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 27 mai 2024; Examinând proiectul de hotărâre nr. 88/2024 inițiat de primarul",
+   "url": "https://primariehateg.ro/hotararea-nr-89-2024-privind-aprobarea-studiului-de-fezabilitate-si-a-indicatorilor-tehnico-economici-pentru-obiectivul-de-investitii-intitulat-modernizare-drum-de-interes-local-izvoarele/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-89-din-2024.pdf",
+     "sha256": "df06a5fd08404155f4cbc1486f13b735d86b6d10f750c196672501d93aceea9c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-9-2024",
+   "path": "local/hunedoara/hateg/2024/9",
+   "short": "HCL Hațeg nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 9/2024 privind aprobarea trecerii din domeniul public în domeniul privat al orașului Hațeg a terenului extravilan în suprafață de 1.881 m², înscris în CF nr. 72000 Hațeg, nr. cadastral 72000 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 29 ianuarie 2024; Examinând proiectul de hotărâre nr. 10/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al aces",
+   "url": "https://primariehateg.ro/hotararea-nr-9-2024-privind-aprobarea-trecerii-din-domeniul-public-in-domeniul-privat-al-orasului-hateg-a-terenului-extravilan-in-suprafata-de-1-881-m%C2%B2-inscris-in-cf-nr-72000-hateg-nr-cadast/",
+   "versions": [
+    {
+     "from": "2024-01-29",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/01/Hotararea-nr9-din-2024.pdf",
+     "sha256": "357d1a7958879f711f568cc371e4ba36c1a997c1d094ba05992bf1511a8994f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-90-2024",
+   "path": "local/hunedoara/hateg/2024/90",
+   "short": "HCL Hațeg nr. 90/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 90/2024 privind aprobarea încheierii unui act adițional la contractul de concesiune nr. 21/130/3427 din 31.07.2006, încheiat între Orașul Hațeg și Hofnăr Marius-Cezar Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 27 mai 2024; Examinând proiectul de hotărâre nr. 89/2024 inițiat de primarul orașului Hațeg și referatul de aprobare al acestuia nr. 13012/89 din 17.05.20",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-90-din-2024.pdf",
+     "sha256": "850a103d44c5ef62e93e1aaadb63aa5905e7eb546ec756a3caf69172f08a2e0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-91-2024",
+   "path": "local/hunedoara/hateg/2024/91",
+   "short": "HCL Hațeg nr. 91/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 91/2024",
+   "url": null,
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-91-din-2024.pdf",
+     "sha256": "805a676a8b126e3b17a31681520432a9d6e2701e9082d3e5910ad6e1fd1093e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-92-2024",
+   "path": "local/hunedoara/hateg/2024/92",
+   "short": "HCL Hațeg nr. 92/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 92/2024 privind aprobarea situațiilor financiar-contabile ale S.C",
+   "url": "https://primariehateg.ro/hotararea-nr-92-2024-privind-aprobarea-situatiilor-financiar-contabile-ale-s-c-bucura-prest-srl-hateg-la-data-de-31-12-2023/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-92-din-2024.pdf",
+     "sha256": "32eb51bf9bcf8ac8259b609efaed95fb21dc60907ac53261ecbffd8d31d55d16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-93-2024",
+   "path": "local/hunedoara/hateg/2024/93",
+   "short": "HCL Hațeg nr. 93/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 93/2024 privind aprobarea devizului general, actualizat, a devizelor, actualizate, precum și a caracteristicilor principale și a indicatorilor tehnico-economici, actualizați, pe cele două componente alinmentare cu apă și apă uzată, pentru obiectivul de investiții „Extindere rețele de apă și apă uzată în orașul Hațeg, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședi",
+   "url": "https://primariehateg.ro/hotararea-nr-93-2024-privind-aprobarea-devizului-general-actualizat-a-devizelor-actualizate-precum-si-a-caracteristicilor-principale-si-a-indicatorilor-tehnico-economici-actualizati-pe-cele-dou/",
+   "versions": [
+    {
+     "from": "2024-05-27",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/05/Hotararea-nr-93-din-2024.pdf",
+     "sha256": "e65a1b29e891bfff3a197a41a2287ae77e1532631fc89a184b677849de993e1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-95-2024",
+   "path": "local/hunedoara/hateg/2024/95",
+   "short": "HCL Hațeg nr. 95/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 95/2024 privind aprobarea rectificării bugetului de venituri și cheltuieli pentru activitățile finanțate parțial sau integral din venituri proprii, pe anul 2024 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, în 26 iunie 2024; Examinând proiectul de hotărâre nr. 98/2024 inițiat de primarul orașului Hațeg și raportul acestuia nr. 16027/98 din 26.06.2024, prin care se pro",
+   "url": "https://primariehateg.ro/hotararea-nr-95-2024-privind-aprobarea-rectificarii-bugetului-de-venituri-si-cheltuieli-pentru-activitatile-finantate-partial-sau-integral-din-venituri-proprii-pe-anul-2024/",
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/06/Hotararea-nr-95-din-2024.pdf",
+     "sha256": "d961a3b6a38dcacbf06f72474e717859999b33826686f29468a023575f90e025"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-96-2024",
+   "path": "local/hunedoara/hateg/2024/96",
+   "short": "HCL Hațeg nr. 96/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 96/2024 privind aprobarea contului anual de execuție și a situațiilor financiare ale Orașului Hațeg la data de 31.12.2023 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 iunie 2024; Examinând proiectul de hotărâre nr. 93/2024 inițiat de primarul orașului Hațeg, prin care se propune aprobarea contului anual de execuție și a situațiilor financiare ale orașului Hațeg",
+   "url": "https://primariehateg.ro/hotararea-nr-96-2024-privind-aprobarea-contului-anual-de-executie-si-a-situatiilor-financiare-ale-orasului-hateg-la-data-de-31-12-2023/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-96-din-2024.pdf",
+     "sha256": "396805720e53fa212637ca1f094615676c1fc7e2274237cb0ed65ef27d37d310"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-97-2024",
+   "path": "local/hunedoara/hateg/2024/97",
+   "short": "HCL Hațeg nr. 97/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 97/2024 privind aprobarea majorării salariilor de bază pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al primarului orașului Hațeg, a instituțiilor și serviciilor publice, fără personalitate juridică, aflate în subordinea Consiliului local Hațeg Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 iunie 2024; Examinând proie",
+   "url": "https://primariehateg.ro/hotararea-nr-97-2024-privind-aprobarea-majorarii-salariilor-de-baza-pentru-functionarii-publici-si-personalul-contractual-din-cadrul-aparatului-de-specialitate-al-primarului-orasului-hateg-a-insti/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-97-din-2024.pdf",
+     "sha256": "d1ff2c0cd3cd9263790bd04eb5113211297877fd9695434225be1c9d983e1291"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-98-2024",
+   "path": "local/hunedoara/hateg/2024/98",
+   "short": "HCL Hațeg nr. 98/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 98/2024 privind aprobarea modificării normativului de personal, a statului de funcții și oragnigramei Spitalului orășenesc Hațeg, ca urmare a reorganizării unității sanitare, în condițiile Legii nr. 296/2023 Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 iunie 2024; Examinând proiectul de hotărâre nr.95/2024 prin care se propune aprobarea modificarii normativului",
+   "url": "https://primariehateg.ro/hotararea-nr-98-2024-privind-aprobarea-modificarii-normativului-de-personal-a-statului-de-functii-si-oragnigramei-spitalului-orasenesc-hateg-ca-urmare-a-reorganizarii-unitatii-sanitare-in-condit/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-98-din-2024.pdf",
+     "sha256": "e58d350de8102ad398a77225aec9df8d4a27fab189b2574bd946c55fd4f04796"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--hateg-99-2024",
+   "path": "local/hunedoara/hateg/2024/99",
+   "short": "HCL Hațeg nr. 99/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Hațeg nr. 99/2024 pentru completarea hotărârii nr. 140/2022 privind aprobarea documentației de avizare a lucrărilor de intervenție și a indicatorilor tehnico-economici pentru investiția „Modernizare drumuri în zona centrală a orașului Hațeg, județul Hunedoara” Consiliul local al orașului Hațeg, judetul Hunedoara, întrunit în ședință ordinară, la 28 iunie 2024; Examinând proiectul de hotărâre nr.96/2024, prin care s",
+   "url": "https://primariehateg.ro/hotararea-nr-99-2024-pentru-completarea-hotararii-nr-140-2022-privind-aprobarea-documentatiei-de-avizare-a-lucrarilor-de-interventie-si-a-indicatorilor-tehnico-economici-pentru-investitia/",
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "units": 1,
+     "source_url": "https://primariehateg.ro/wp-content/uploads/2024/07/Hotararea-nr-99-din-2024.pdf",
+     "sha256": "099b69ff0f35bff7a7c8aee10ae2f441cc78aa1c6c306b4d6fa3cd1a3aca50c7"
     }
    ]
   }

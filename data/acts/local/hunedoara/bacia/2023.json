@@ -3,6 +3,293 @@
 "shard": "local/hunedoara/bacia/2023",
 "acts": [
 {
+"slug": "hcl-hunedoara--bacia-1-2023",
+"path": "local/hunedoara/bacia/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 1/2023 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secţiunii de dezvoltare al comunei Băcia pe anul 2022",
+"short": "HCL Băcia nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90722",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-2-2023",
+"path": "local/hunedoara/bacia/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 2/2023 privind aprobarea principalelor manifestări cultural-artistice, sportive, sociale şi educative care se desfăşoară în Comuna Băcia în anul 2023",
+"short": "HCL Băcia nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90723",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-3-2023",
+"path": "local/hunedoara/bacia/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 3/2023 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV-lea al anului 2022",
+"short": "HCL Băcia nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90724",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-4-2023",
+"path": "local/hunedoara/bacia/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 4/2023 privind aprobarea bugetului local al comunei Băcia pe anul 2023 și estimări pe anii 2024 – 2026",
+"short": "HCL Băcia nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90748",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-5-2023",
+"path": "local/hunedoara/bacia/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 5/2023 privind aprobarea bugetului de venituri și cheltuieli al SC ZONE VERZI SRL, pe anul 2023 precum și tarifele și manopera de prestări servicii care au stat la fundamentarea bugetului pe anul 2023",
+"short": "HCL Băcia nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90749",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-6-2023",
+"path": "local/hunedoara/bacia/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 6/2023 privind actualizarea programului anual al achizitiilor publice a comunei Băcia, pentru anul 2023",
+"short": "HCL Băcia nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90750",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-7-2023",
+"path": "local/hunedoara/bacia/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 7/2023 privind aprobarea Programului anual propriu pentru finanţarea nerambursabilă din bugetul local al Comunei Băcia a propunerilor de proiecte ale unităţilor de cult aparţinând cultelor religioase recunoscute din România, pentru anul 2023",
+"short": "HCL Băcia nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90751",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-8-2023",
+"path": "local/hunedoara/bacia/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 8/2023 privind stabilirea salariilor de bază pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Băcia, pentru anul 2023",
+"short": "HCL Băcia nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90752",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-9-2023",
+"path": "local/hunedoara/bacia/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 9/2023 privind actualizarea Planului de analiză şi acoperire a riscurilor la nivelul Comunei Băcia, județul Hunedoara pentru anul 2023",
+"short": "HCL Băcia nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90753",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-10-2023",
+"path": "local/hunedoara/bacia/2023/10",
+"kind": "local",
+"year": "2023",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 10/2023 privind aprobarea menținerii a rețelei școlare, pentru anul școlar 2023/2024, pe raza, Comunei Băcia",
+"short": "HCL Băcia nr. 10/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90754",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-11-2023",
+"path": "local/hunedoara/bacia/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 11/2023 privind aprobarea actualizării datelor tehnice şi diminuarea suprafeţei de teren de la 10.005 mp la 8.570 mp înscris în CF nr. 61641, cu nr. cad. 108, nr top 564/2, aflat în domeniul public al comunei Băcia, jududețul Hunedoara",
+"short": "HCL Băcia nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90755",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-12-2023",
+"path": "local/hunedoara/bacia/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 12/2023",
+"short": "HCL Băcia nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90756",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-13-2023",
+"path": "local/hunedoara/bacia/2023/13",
+"kind": "local",
+"year": "2023",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 13/2023 privind aprobarea Regulamantului de organizare și funcționare a ADI ,, Serviciul județean pentru ocrotirea animalelor fără stăpân”, Caietului de sarcini al ADI ,, Serviciul județean pentru ocrotirea animalelor fără stăpân”, cotizației anuale și tarifelor serviciilor oferite UAT-urilor membre ADI,, Serviciul județean pentru ocrotirea animalelor fără stăpân”",
+"short": "HCL Băcia nr. 13/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/90757",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-14-2023",
 "path": "local/hunedoara/bacia/2023/14",
 "kind": "local",
@@ -135,6 +422,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-20-2023",
+"path": "local/hunedoara/bacia/2023/20",
+"kind": "local",
+"year": "2023",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 20/2023 Privind aprobarea delimitării şi dezlipirii unor suprafeţe de teren situate în comuna Băcia, sat Tâmpa, nr. 60 L, judeţul Hunedoara, aflate în domeniul public al comunei Băcia",
+"short": "HCL Băcia nr. 20/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/101767",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-21-2023",
 "path": "local/hunedoara/bacia/2023/21",
 "kind": "local",
@@ -198,6 +507,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-24-2023",
+"path": "local/hunedoara/bacia/2023/24",
+"kind": "local",
+"year": "2023",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 24/2023 privind aprobarea încheierii unui act adiţional la Contractul de prestare a serviciului de salubrizare în zona de colectare 3 Centru - Hunedoara nr. 44/167 din 10.10.2022",
+"short": "HCL Băcia nr. 24/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/104947",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -267,6 +598,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-28-2023",
+"path": "local/hunedoara/bacia/2023/28",
+"kind": "local",
+"year": "2023",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 28/2023",
+"short": "HCL Băcia nr. 28/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/104951",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-29-2023",
 "path": "local/hunedoara/bacia/2023/29",
 "kind": "local",
@@ -309,6 +663,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-31-2023",
+"path": "local/hunedoara/bacia/2023/31",
+"kind": "local",
+"year": "2023",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 31/2023 cu privire la modificarea art. 8 (1) al Contractului de închiriere nr. 24/31 03 2022 încheiat cu SC Clasor Agrement SRL,",
+"short": "HCL Băcia nr. 31/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-13",
+"latest": "2023-10-13",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/104954",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1064,6 +1440,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-66-2023",
+"path": "local/hunedoara/bacia/2023/66",
+"kind": "local",
+"year": "2023",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 66/2023",
+"short": "HCL Băcia nr. 66/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/114838",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-67-2023",
 "path": "local/hunedoara/bacia/2023/67",
 "kind": "local",
@@ -1219,6 +1618,29 @@
 }
 },
 {
+"slug": "hcl-hunedoara--bacia-74-2023",
+"path": "local/hunedoara/bacia/2023/74",
+"kind": "local",
+"year": "2023",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 74/2023",
+"short": "HCL Băcia nr. 74/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-17",
+"latest": "2023-10-17",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/120926",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-hunedoara--bacia-75-2023",
 "path": "local/hunedoara/bacia/2023/75",
 "kind": "local",
@@ -1238,6 +1660,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-76-2023",
+"path": "local/hunedoara/bacia/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 76/2023 cu privire la nominalizarea reprezentantului Consiliului local al comunei Băcia în Consiliul de Administraţie al Şcolii Gimnaziale Băcia",
+"short": "HCL Băcia nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/125179",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1305,6 +1749,52 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-80-2023",
+"path": "local/hunedoara/bacia/2023/80",
+"kind": "local",
+"year": "2023",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 80/2023",
+"short": "HCL Băcia nr. 80/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/125183",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-81-2023",
+"path": "local/hunedoara/bacia/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 81/2023",
+"short": "HCL Băcia nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-18",
+"latest": "2023-10-18",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/125184",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1437,6 +1927,28 @@
 "council_name": "Consiliul Local al Comunei Băcia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-hunedoara--bacia-88-2023",
+"path": "local/hunedoara/bacia/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Băcia nr. 88/2023 cu privire la aprobarea execuţiei bugetului local al comunei Băcia, pe cele două secţiuni, atât la partea de venituri cât şi la partea de cheltuieli pentru trim III anul 2023",
+"short": "HCL Băcia nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-11-20",
+"latest": "2023-11-20",
+"portal": "https://emol.ro/bacia-hd/registru-hcl/129365",
+"council": "hunedoara/bacia",
+"council_name": "Consiliul Local al Comunei Băcia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

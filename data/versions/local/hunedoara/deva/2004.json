@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/hunedoara/deva/2004",
+ "acts": [
+  {
+   "slug": "hcl-hunedoara--deva-159-2004",
+   "path": "local/hunedoara/deva/2004/159",
+   "short": "HCL Deva nr. 159/2004",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 159/2004 privind aprobarea Documentației tehnico-economică pentru „Lucrări de reparații şi întrețineri străzi, alei, trotuare, parcări şi drumuri aparținătoare municipiului Deva”, pentru o perioadă de 4 ani",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C76/P420",
+   "versions": [
+    {
+     "from": "2004-04-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/159.pdf",
+     "sha256": "96e78450f5f7770057b817491bbf8469fa7c42efbc6ebc22306f22f73fc294a1"
+    }
+   ]
+  }
+ ]
+}

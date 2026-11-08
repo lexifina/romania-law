@@ -336,6 +336,28 @@
 }
 },
 {
+"slug": "hcl-hunedoara--gurasada-16-2022",
+"path": "local/hunedoara/gurasada/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Gurasada nr. 16/2022 privind aprobarea raportului informării şi consultării publicului şi a Planului Urbanistic de Detaliu pentru “Construire HALĂ METALICĂ - STAȚIE ITP",
+"short": "HCL Gurasada nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-10-03",
+"latest": "2022-10-03",
+"portal": "https://emol.ro/gurasada-hd/registru-hcl/58193",
+"council": "hunedoara/gurasada",
+"council_name": "Consiliul Local al Comunei Gurasada",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-hunedoara--gurasada-17-2022",
 "path": "local/hunedoara/gurasada/2022/17",
 "kind": "local",

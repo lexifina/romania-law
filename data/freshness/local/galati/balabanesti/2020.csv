@@ -1,5 +1,6 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-galati--balabanesti-1-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4105
+hcl-galati--balabanesti-10-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4114
 hcl-galati--balabanesti-100-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18707
 hcl-galati--balabanesti-101-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18708
 hcl-galati--balabanesti-102-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18709
@@ -22,6 +23,7 @@ hcl-galati--balabanesti-25-2020,current,2026-11-08,2026-12-08,register-read,,,,h
 hcl-galati--balabanesti-26-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4130
 hcl-galati--balabanesti-27-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4131
 hcl-galati--balabanesti-28-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4132
+hcl-galati--balabanesti-29-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4133
 hcl-galati--balabanesti-3-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4107
 hcl-galati--balabanesti-30-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4134
 hcl-galati--balabanesti-31-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10027
@@ -30,6 +32,7 @@ hcl-galati--balabanesti-33-2020,current,2026-11-08,2026-12-08,register-read,,,,h
 hcl-galati--balabanesti-34-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10030
 hcl-galati--balabanesti-35-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10031
 hcl-galati--balabanesti-36-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10032
+hcl-galati--balabanesti-37-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10033
 hcl-galati--balabanesti-38-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10034
 hcl-galati--balabanesti-39-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10035
 hcl-galati--balabanesti-4-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4108
@@ -38,6 +41,7 @@ hcl-galati--balabanesti-41-2020,current,2026-11-08,2026-12-08,register-read,,,,h
 hcl-galati--balabanesti-42-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10038
 hcl-galati--balabanesti-43-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10039
 hcl-galati--balabanesti-44-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10040
+hcl-galati--balabanesti-45-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10041
 hcl-galati--balabanesti-46-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10042
 hcl-galati--balabanesti-47-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10043
 hcl-galati--balabanesti-48-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10044
@@ -70,10 +74,12 @@ hcl-galati--balabanesti-71-2020,current,2026-11-08,2026-12-08,register-read,,,,h
 hcl-galati--balabanesti-72-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10075
 hcl-galati--balabanesti-73-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10076
 hcl-galati--balabanesti-74-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/10077
+hcl-galati--balabanesti-75-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18619
 hcl-galati--balabanesti-76-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18620
 hcl-galati--balabanesti-77-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18621
 hcl-galati--balabanesti-78-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18677
 hcl-galati--balabanesti-79-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18678
+hcl-galati--balabanesti-8-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/4112
 hcl-galati--balabanesti-80-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18679
 hcl-galati--balabanesti-81-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18680
 hcl-galati--balabanesti-82-2020,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/balabanesti-gl/registru-hcl/18681

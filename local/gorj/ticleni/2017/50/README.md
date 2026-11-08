@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Orașului Țicleni nr. 50/2017 Privind aprobarea documentației tehnico – economice a investiției ,,Rețea alimentare cu apă și canalizare grup sanitar persoane cu dizabilități
+
+HCL Țicleni nr. 50/2017 · 1 versions, from 2017-05-25 (latest in force: 2017-05-25) · <https://www.primarieticleni.ro/acasa/consiliul-local/procese-verbale-de-sedinta-si-hotarari-adoptate/hcl-2017>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-gorj--ticleni-50-2017` (tags `hcl-gorj--ticleni-50-2017/<day>`; `python tools/on.py <day> hcl-gorj--ticleni-50-2017`).
+
+## Decisions made by hand
+
+- HCL Țicleni nr. 50/2017: listed from Consiliul Local al Orașului Țicleni (www.primarieticleni.ro); an individual decision: metadata only.
+- HCL Țicleni nr. 50/2017: dated from 25 May 2017, the day it was adopted (the register gives no later day of publication).
+- HCL Țicleni nr. 50/2017: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

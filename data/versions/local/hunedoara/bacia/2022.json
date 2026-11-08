@@ -3,6 +3,786 @@
  "shard": "local/hunedoara/bacia/2022",
  "acts": [
   {
+   "slug": "hcl-hunedoara--bacia-1-2022",
+   "path": "local/hunedoara/bacia/2022/1",
+   "short": "HCL Băcia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 1/2022 privind aprobarea acoperirii definitive din excedentul bugetului local a deficitului secţiunii de dezvoltare al comunei Băcia pe anul 2021",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74874",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-10-2022",
+   "path": "local/hunedoara/bacia/2022/10",
+   "short": "HCL Băcia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 10/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74935",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-11-2022",
+   "path": "local/hunedoara/bacia/2022/11",
+   "short": "HCL Băcia nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 11/2022 privind privire la aprobarea bugetului local al comunei Băcia pe anul 2022 și estimări pe anii 2023–2025",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74936",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-12-2022",
+   "path": "local/hunedoara/bacia/2022/12",
+   "short": "HCL Băcia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 12/2022 privind aprobarea bugetului de venituri și cheltuieli al SC ZONE VERZI SRL, pe anul 2022 precum și tarifele și manopera de prestări servicii care au stat la fundamentarea bugetului pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74937",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-13-2022",
+   "path": "local/hunedoara/bacia/2022/13",
+   "short": "HCL Băcia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 13/2022 privind actualizarea programului anual al achizitiilor publice a comunei Băcia, pentru anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74938",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-14-2022",
+   "path": "local/hunedoara/bacia/2022/14",
+   "short": "HCL Băcia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 14/2022 privind privire la aprobarea Programului anual propriu pentru finanţarea nerambursabilă din bugetul local al Comunei Băcia a propunerilor de proiecte ale unităţilor de cult aparţinând cultelor religioase recunoscute din România, pentru anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74939",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-15-2022",
+   "path": "local/hunedoara/bacia/2022/15",
+   "short": "HCL Băcia nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 15/2022 privind numirea persoanei care va ţine Registrul datoriei publice locale şi Registrul de evidenţă a garanţiilor locale",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74940",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-16-2022",
+   "path": "local/hunedoara/bacia/2022/16",
+   "short": "HCL Băcia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 16/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74941",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-17-2022",
+   "path": "local/hunedoara/bacia/2022/17",
+   "short": "HCL Băcia nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 17/2022 privind modificarea si completarea HCL nr. 3/ 2022, privind aprobarea concesionării – prin licitaţie publică a imobilului compus din urmatoarele: teren în suprafață de 96.864 m.p înscris în C.F nr. 61798; teren în suprafață de 203.000 m.p înscris în C.F nr. 61799 ; teren în suprafață de 80.400 m.p înscris în C.F nr. 61804 ; teren în suprafață de 132.741 m.p înscris în C.F nr. 61818 ; teren în suprafață de 120.600 m.p înscris în C.F nr. 61819, situate în extravilanul comunei BACIA, SAT Băcia, aparținând domeniului privat al Comunei BACIA, în scopul edificării și operării unui parc fotovoltaic",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74942",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-18-2022",
+   "path": "local/hunedoara/bacia/2022/18",
+   "short": "HCL Băcia nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 18/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74943",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-19-2022",
+   "path": "local/hunedoara/bacia/2022/19",
+   "short": "HCL Băcia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 19/2022 privind aprobarea indicatorilor tehnico economici la finalizarea obiectivului de investiţii „Amenajare târg în satul Băcia, comuna Băcia, județul Hunedoara”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74950",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-2-2022",
+   "path": "local/hunedoara/bacia/2022/2",
+   "short": "HCL Băcia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 2/2022 privind indreptare eroare materiala prevăzuta in Hotărârea nr. 110/2021 privind aprobarea închirierii prin licitaţie publică, a imobilului teren neproductiv, în suprafaţă de 23.328 mp, identificat în CF. nr. 62258, tarla 79, parcela 408, situat în extravilanul satului Totia, jud. Hunedoara",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74873",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-20-2022",
+   "path": "local/hunedoara/bacia/2022/20",
+   "short": "HCL Băcia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 20/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74951",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74951",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-21-2022",
+   "path": "local/hunedoara/bacia/2022/21",
+   "short": "HCL Băcia nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 21/2022 privind aprobarea actualizării indicatorilor proiectului „Dotarea unitatilor de invatamant din Comuna Bacia cu dispozitive si echipamente de protectie necesare prevenirii raspandirii infectiei cu virusul SARS CoV-2”, în cadrul Programului Operațional Infrastructură Mare (POIM) 2014-2020, Axa Prioritară 9 Protejarea sănătății populației în contextul pandemiei cauzate de COVID-19, Obiectivul Specific 9.1 Creșterea capacității de gestionare a crizei sanitare COVID-19",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74954",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-22-2022",
+   "path": "local/hunedoara/bacia/2022/22",
+   "short": "HCL Băcia nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 22/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75008",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-23-2022",
+   "path": "local/hunedoara/bacia/2022/23",
+   "short": "HCL Băcia nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 23/2022 privind aprobarea Planului anual de acţiune privind serviciile sociale administrate și finanțate din bugetul Consiliului Local al comunei Băcia pentru anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75009",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-24-2022",
+   "path": "local/hunedoara/bacia/2022/24",
+   "short": "HCL Băcia nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 24/2022 privind aprobarea contului de încheiere a exerciţiului bugetar pe anul 2021",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75010",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-25-2022",
+   "path": "local/hunedoara/bacia/2022/25",
+   "short": "HCL Băcia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 25/2022 privind aprobarea bilanțului contabil precum și contul de profit și pierderi pe anul 2021 al SC Zone Verzi SRL Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75011",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-26-2022",
+   "path": "local/hunedoara/bacia/2022/26",
+   "short": "HCL Băcia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 26/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75012",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-27-2022",
+   "path": "local/hunedoara/bacia/2022/27",
+   "short": "HCL Băcia nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 27/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75013",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-28-2022",
+   "path": "local/hunedoara/bacia/2022/28",
+   "short": "HCL Băcia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 28/2022 privind aprobarea numărului de burse acordate elevilor din clasele de învăţământ primar sau gimnazial din unităţile şcolare de pe raza comunei Băcia, precum şi cuantumul acestora aferente semestrului II al anului şcolar 2021/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75014",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-29-2022",
+   "path": "local/hunedoara/bacia/2022/29",
+   "short": "HCL Băcia nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 29/2022 privind prelungirea valabilității scrisorii de garanție de la FNGCIMM SA IFN în vederea garantării obligațiilor de plată a avansului din fonduri nerambursabile pentru implementarea Proiectului privind: “Extindere canalizare menajeră şi retehnologizare staţie de epurare în comuna Băcia, judeţul Hunedoara”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75015",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-3-2022",
+   "path": "local/hunedoara/bacia/2022/3",
+   "short": "HCL Băcia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 3/2022 privind aprobarea concesionării – prin licitaţie publică a imobilului compus din urmatoarele: teren în suprafață de 96.864 m.p înscris în C.F nr. 61798; teren în suprafață de 203.000 m.p înscris în C.F nr. 61799 ; teren în suprafață de 80.400 m.p înscris în C.F nr. 61804 ; teren în suprafață de 132.741 m.p înscris în C.F nr. 61818; teren în suprafață de 120.600 m.p înscris în C.F nr. 61819, situate în extravilanul comunei BACIA, SAT Băcia, aparținând domeniului privat al Comunei BACIA, în scopul edificării și operării unui parc fotovoltaic",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74880",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-30-2022",
+   "path": "local/hunedoara/bacia/2022/30",
+   "short": "HCL Băcia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 30/2022 privind participarea Comunei Băcia la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete (și alte vehicule electrice ușoare) la nivel local/metropolitan”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete în Comuna Băcia, județul Hunedoara“",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75016",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75016",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-31-2022",
+   "path": "local/hunedoara/bacia/2022/31",
+   "short": "HCL Băcia nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 31/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75021",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-32-2022",
+   "path": "local/hunedoara/bacia/2022/32",
+   "short": "HCL Băcia nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 32/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75087",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-33-2022",
+   "path": "local/hunedoara/bacia/2022/33",
+   "short": "HCL Băcia nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 33/2022 privind indexarea impozitelor şi taxelor locale pentru anul fiscal 2023",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75088",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-34-2022",
+   "path": "local/hunedoara/bacia/2022/34",
+   "short": "HCL Băcia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 34/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75089",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-35-2022",
+   "path": "local/hunedoara/bacia/2022/35",
+   "short": "HCL Băcia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 35/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75395",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-36-2022",
+   "path": "local/hunedoara/bacia/2022/36",
+   "short": "HCL Băcia nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 36/2022 privind participarea Comunei Băcia la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Asigurarea infrastructurii pentru transportul verde – piste pentru biciclete (și alte vehicule electrice ușoare) la nivel local/metropolitan”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Dezvoltarea infrastructurii de transport verde – Piste pentru biciclete în Comuna Băcia, județul Hunedoara“",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75396",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-37-2022",
+   "path": "local/hunedoara/bacia/2022/37",
+   "short": "HCL Băcia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 37/2022 privind participarea Comunei Băcia la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local – Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de proiectul cu titlul “Digitalizarea Comunei Băcia, județul Hunedoara, prin dezvoltarea infrastructurii TIC“",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75397",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-38-2022",
+   "path": "local/hunedoara/bacia/2022/38",
+   "short": "HCL Băcia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 38/2022 privind participarea Comunei Băcia la “Programul Național de Redresare și Reziliență, Componenta C10 - Fondul local - Elaborarea/actualizarea în format GIS a documentelor de amenajare a teritoriului și de planificare urbană”, aprobarea notei de fundamentare a investiției și aprobarea cheltuielilor legate de -proiectul cu titlul “ELABORAREA ÎN FORMAT DIGITAL A DOCUMENTAȚIEI DE AMENAJARE A TERITORIULUI - PLAN URBANISTIC GENERAL ÎN COMUNA BĂCIA, JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75398",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-39-2022",
+   "path": "local/hunedoara/bacia/2022/39",
+   "short": "HCL Băcia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 39/2022 privind instituirea taxei speciale de salubrizare pentru persoanele fizice şi juridice fără contracte de prestări servicii de salubrizare şi aprobarea Regulamentului pentru constatarea, urmărirea, încasarea, executarea silită şi utilizarea sumelor încasate",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75451",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-4-2022",
+   "path": "local/hunedoara/bacia/2022/4",
+   "short": "HCL Băcia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 4/2022 privind aprobarea principalelor manifestări cultural-artistice, sportive, sociale şi educative care se desfăşoară în Comuna Băcia în anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74881",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-40-2022",
+   "path": "local/hunedoara/bacia/2022/40",
+   "short": "HCL Băcia nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 40/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75452",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-41-2022",
+   "path": "local/hunedoara/bacia/2022/41",
+   "short": "HCL Băcia nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 41/2022 privind aprobarea Regulamentului pentru acordarea titlului de ,,Cetățean de onoare al Comunei Băcia”, precum și pentru acordarea unor diplome și premii",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75453",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-42-2022",
+   "path": "local/hunedoara/bacia/2022/42",
+   "short": "HCL Băcia nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 42/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75454",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-43-2022",
+   "path": "local/hunedoara/bacia/2022/43",
+   "short": "HCL Băcia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 43/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75455",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-44-2022",
+   "path": "local/hunedoara/bacia/2022/44",
+   "short": "HCL Băcia nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 44/2022 privind aprobarea finanţării unor cheltuieli aferente organizării şi desfăşurării în comuna Băcia în data de 18-19.06.2022 a Zilelor comunei Băcia-Nedeea tradițională Băciana",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75456",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-45-2022",
+   "path": "local/hunedoara/bacia/2022/45",
+   "short": "HCL Băcia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 45/2022 privind aprobarea Documentației de atribuire a contractelor de achiziție de servicii având ca obiect: Lot 1 - „Prestarea serviciului de salubrizare în zona de colectare 1 Brad” Lot 2 - „Prestarea serviciului de salubrizare în zona de colectare 2 Hațeg” Lot 3 - „Prestarea serviciului de salubrizare în zona de colectare 3 Centru”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75457",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-46-2022",
+   "path": "local/hunedoara/bacia/2022/46",
+   "short": "HCL Băcia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 46/2022 privind aprobarea modificării statului de funcţii a aparatului de specialitate al primarului comunei Băcia, a Instituţiilor publice Biblioteca şi Cămin Cultural aflate în subordinea Consiliului Local, prin transformarea unui post",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75459",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-47-2022",
+   "path": "local/hunedoara/bacia/2022/47",
+   "short": "HCL Băcia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 47/2022 privind aprobarea studiului de fezabilitate pentru ”Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din judetul Hunedoara, în perioada 2014 - 2020”, a indicatorilor tehnico-economici ai proiectului, precum și a Planului anual de evolutie a tarifelor conform rezultatelor Analizei Cost-Beneficiu a proiectului",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75460",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-48-2022",
+   "path": "local/hunedoara/bacia/2022/48",
+   "short": "HCL Băcia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 48/2022 privind aprobarea cofinanţării Proiectului \"Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Hunedoara, în perioada 2014-2020\"",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75461",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-49-2022",
+   "path": "local/hunedoara/bacia/2022/49",
+   "short": "HCL Băcia nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 49/2022 privind punerea la dispozitia Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Hunedoara, în perioada 2014-2020 a terenului pentru constructia noilor investitii aferente acestuia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75462",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-5-2022",
+   "path": "local/hunedoara/bacia/2022/5",
+   "short": "HCL Băcia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 5/2022 privind aprobarea menținerii a rețelei școlare, pentru anul școlar 2022-2023, a Comunei Băcia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74882",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74882",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-50-2022",
+   "path": "local/hunedoara/bacia/2022/50",
+   "short": "HCL Băcia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 50/2022 privind aprobarea proiectului şi a cheltuielilor aferente proiectului „Achiziţionare de vehicule nepoluante - microbuze electrice\", pentru obţinerea finanţării prin Planul Naţional de Redresare şi Rezilienţă - apelurile de proiecte cu titlul PNRR'2022/C10, Componenta CIO - Fondul local, Investiţia LI Mobilitate urbană durabilă, sub-investiţia 1.1.1 - înnoirea parcului de vehicule destinate transportului public - achiziţia de vehicule nepoluante, în parteneriat cu Municipiul Deva, Comuna Băcia, Comuna Hărău, Comuna Certeju de Sus, Comuna Şoimuş, Comuna Pestişu Mic, Comuna Cârjiţi şi Comuna Cerbăl",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75463",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-51-2022",
+   "path": "local/hunedoara/bacia/2022/51",
+   "short": "HCL Băcia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 51/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75464",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-52-2022",
+   "path": "local/hunedoara/bacia/2022/52",
+   "short": "HCL Băcia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 52/2022 privind aprobarea schimbării destinaţiei imobilului înscris în Cartea Funciară nr. 62051, din imobil cu destinaţia de Școală Generală Petreni, în imobil cu destinaţie de OBIECTIV DE INTERES PUBLIC, pe perioadă nedeterminată, în vederea reabilitării acestuia",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75480",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-53-2022",
+   "path": "local/hunedoara/bacia/2022/53",
+   "short": "HCL Băcia nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 53/2022 privind rectificarea bugetului local al comunei Băcia, pe anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75481",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-54-2022",
+   "path": "local/hunedoara/bacia/2022/54",
+   "short": "HCL Băcia nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 54/2022 privind aprobarea execuţiei bugetului local al comunei Băcia, pe cele două secţiuni, atât la partea de venituri cât şi la partea de cheltuieli pentru trim II anul 2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75482",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-55-2022",
+   "path": "local/hunedoara/bacia/2022/55",
+   "short": "HCL Băcia nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 55/2022 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul II anul 2022 şi a stabilirii măsurilor pentru eficientizarea acestei activităţi,inclusiv pentru soluţionarea situaţiilor particulare identificate la nivelul localităţii pe linia completării registrului agricol şi care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75483",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-56-2022",
+   "path": "local/hunedoara/bacia/2022/56",
+   "short": "HCL Băcia nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 56/2022",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/75488",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/75488",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-57-2022",
    "path": "local/hunedoara/bacia/2022/57",
    "short": "HCL Băcia nr. 57/2022",
@@ -43,6 +823,21 @@
      "from": "2022-10-14",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/75528",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-6-2022",
+   "path": "local/hunedoara/bacia/2022/6",
+   "short": "HCL Băcia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 6/2022 privind aprobarea analizei stadiului de înscriere a datelor în registrul agricol pentru trimestrul al IV-lea al anului 2021 şi a stabilirii măsurilor pentru eficientizarea acestei activităţi,inclusiv pentru soluţionarea situaţiilor particulare identificate la nivelul localităţii pe linia completării registrului agricol şi care nu sunt reglementate prin norme",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74883",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74883",
      "sha256": null
     }
    ]
@@ -198,6 +993,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--bacia-7-2022",
+   "path": "local/hunedoara/bacia/2022/7",
+   "short": "HCL Băcia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 7/2022 privind initierea procedurii de închiriere a pajiştilor aflate în proprietatea privată a comunei Băcia, judeţul Hunedoara",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74884",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74884",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--bacia-70-2022",
    "path": "local/hunedoara/bacia/2022/70",
    "short": "HCL Băcia nr. 70/2022",
@@ -298,6 +1108,36 @@
      "from": "2022-10-14",
      "units": 1,
      "source_url": "https://emol.ro/bacia-hd/registru-hcl/75650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-8-2022",
+   "path": "local/hunedoara/bacia/2022/8",
+   "short": "HCL Băcia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 8/2022 privind aprobarea proiectului de investiții și a documentației tehnice - Memoriu justificativ - pentru investiția „MODERNIZAREA ȘI EXTINDEREA SISTEMULUI DE MONITORIZARE VIDEO DE PE RAZA COMUNEI BĂCIA - JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74885",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--bacia-9-2022",
+   "path": "local/hunedoara/bacia/2022/9",
+   "short": "HCL Băcia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Băcia nr. 9/2022 privind implementarea proiectului „MODERNIZAREA ȘI EXTINDEREA SISTEMULUI DE MONITORIZARE VIDEO DE PE RAZA COMUNEI BĂCIA - JUDEȚUL HUNEDOARA”",
+   "url": "https://emol.ro/bacia-hd/registru-hcl/74886",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 1,
+     "source_url": "https://emol.ro/bacia-hd/registru-hcl/74886",
      "sha256": null
     }
    ]

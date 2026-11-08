@@ -303,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-17-2026",
+   "path": "local/harghita/sarmas/2026/17",
+   "short": "HCL Sărmaș nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 17/2026 privind alegerea preşedintelui de şedinţă pentru perioada februarie-aprilie 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287003",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287003",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-18-2026",
+   "path": "local/harghita/sarmas/2026/18",
+   "short": "HCL Sărmaș nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 18/2026 privind aprobarea modului de valorificare și a prețului de vânzare apv nr. 6774 precum şi stabilirea preţului de negociere apv nr. 3773 suprapusă peste partida 3712, masă lemnoasă provenită din fondul forestier, proprietatea publică a comunei Sărmaș, UP I Sărmaș valabile pentru Ocolul Silvic Broșteni",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287004",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287004",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-19-2026",
    "path": "local/harghita/sarmas/2026/19",
    "short": "HCL Sărmaș nr. 19/2026",
@@ -328,6 +358,21 @@
      "from": "2026-02-25",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/254570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-20-2026",
+   "path": "local/harghita/sarmas/2026/20",
+   "short": "HCL Sărmaș nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 20/2026 privind modificarea structurii aparatului de specialitate al primarului comunei Sărmaș, județul Harghita și a serviciilor subordonate, prin transformarea unor funcții publice vacante",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287018",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287018",
      "sha256": null
     }
    ]
@@ -378,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-24-2026",
+   "path": "local/harghita/sarmas/2026/24",
+   "short": "HCL Sărmaș nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 24/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287022",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287022",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-25-2026",
    "path": "local/harghita/sarmas/2026/25",
    "short": "HCL Sărmaș nr. 25/2026",
@@ -403,6 +463,81 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-27-2026",
+   "path": "local/harghita/sarmas/2026/27",
+   "short": "HCL Sărmaș nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 27/2026 privind stabilirea disponibilului de pajiști de la nivelul comunei Sărmaș ce pot face obiectul închirierii în anul 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287072",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-28-2026",
+   "path": "local/harghita/sarmas/2026/28",
+   "short": "HCL Sărmaș nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 28/2026 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști disponibile proprietatea privată a comunei Sărmaș județul Harghita",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287073",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-29-2026",
+   "path": "local/harghita/sarmas/2026/29",
+   "short": "HCL Sărmaș nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 29/2026 privind îndreptarea erorii materiale strecurate în cuprinsul Art 1 al Hotărârii Consiliului Local nr 3/2026 privind modificarea structurii aparatului de specialitate al primarului comunei Sărmaș, județul Harghita și a serviciilor subordonate, prin transformarea unor funcții publice vacante",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287074",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-3-2026",
+   "path": "local/harghita/sarmas/2026/3",
+   "short": "HCL Sărmaș nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 3/2026 privind modificarea structurii aparatului de specialitate al primarului comunei Sărmaș, județul Harghita și a serviciilor subordonate, prin transformarea unor funcții publice vacante",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/254571",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/254571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-30-2026",
+   "path": "local/harghita/sarmas/2026/30",
+   "short": "HCL Sărmaș nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 30/2026 privind aprobarea închirierii prin licitație publică a unui teren în suprafaţă de 500 mp aflat în domeniu privat al comunei Sărmaş, înscris în CF 54540",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287102",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287102",
      "sha256": null
     }
    ]
@@ -483,6 +618,186 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-36-2026",
+   "path": "local/harghita/sarmas/2026/36",
+   "short": "HCL Sărmaș nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 36/2026 privind modificarea contractului de închiriere nr. 14/2016 încheiat între Comuna Sărmaș și II COŞARCĂ FLORIN-NICOLAE având ca obiect închirierea pajiști aflate în domeniul privat al comunei Sărmaș",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287658",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-37-2026",
+   "path": "local/harghita/sarmas/2026/37",
+   "short": "HCL Sărmaș nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 37/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287659",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-38-2026",
+   "path": "local/harghita/sarmas/2026/38",
+   "short": "HCL Sărmaș nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 38/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287660",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-39-2026",
+   "path": "local/harghita/sarmas/2026/39",
+   "short": "HCL Sărmaș nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 39/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287661",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-4-2026",
+   "path": "local/harghita/sarmas/2026/4",
+   "short": "HCL Sărmaș nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 4/2026 privind aprobarea modului de valorificare și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea publică a comunei Sărmaș, apv nr. 02048 Pr-Co, apv nr. 02049 Pr-Co, apv nr. 02053 Pr-Co şi apv nr. 02041 SR UP 1 Sărmaș, valabile pentru Ocolul Silvic Borsec",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/254572",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/254572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-40-2026",
+   "path": "local/harghita/sarmas/2026/40",
+   "short": "HCL Sărmaș nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 40/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287662",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-41-2026",
+   "path": "local/harghita/sarmas/2026/41",
+   "short": "HCL Sărmaș nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 41/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287663",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-42-2026",
+   "path": "local/harghita/sarmas/2026/42",
+   "short": "HCL Sărmaș nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 42/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287664",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-43-2026",
+   "path": "local/harghita/sarmas/2026/43",
+   "short": "HCL Sărmaș nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 43/2026 privind aprobarea Regulamentului privind procedura de acordare a serviciilor de îngrijire la domiciliu pentru persoanele vârstnice din comuna Sărmaş",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287665",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-44-2026",
+   "path": "local/harghita/sarmas/2026/44",
+   "short": "HCL Sărmaș nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 44/2026 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap grav și a numărului de indemnizații lunare pentru persoanele cu handicap grav la nivelul comunei Sărmaș pentru anul 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287666",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-45-2026",
+   "path": "local/harghita/sarmas/2026/45",
+   "short": "HCL Sărmaș nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 45/2026 privind reorganizarea aparatului de specialitate al primarului comunei Sărmaș, județul Harghita, precum și aprobarea organigramei și a statului de funcții rezultat în urma aplicării noului număr maxim de posturi stabilit potrivit prevederilor OUG nr. 7/2026 pentru modificarea şi completarea unor acte normative, precum şi pentru adoptarea unor măsuri pentru creşterea capacităţii financiare a unităţilor administrativ-teritoriale",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287667",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-46-2026",
+   "path": "local/harghita/sarmas/2026/46",
+   "short": "HCL Sărmaș nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 46/2026 privind aprobarea volumului, destinației și a modului de valorificare a masei lemnoase fond forestier proprietatea publică a comunei Sărmaș precum și a prețului de vânzare către populație a lemnului de foc destinat încălzirii locuinței și pentru lemn rotund și de construcții rezultat din apv 2506 UP1 Sărmaș aplicabil Ocolului Silvic Toplița",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287668",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287668",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-47-2026",
    "path": "local/harghita/sarmas/2026/47",
    "short": "HCL Sărmaș nr. 47/2026",
@@ -493,6 +808,51 @@
      "from": "2026-09-17",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-48-2026",
+   "path": "local/harghita/sarmas/2026/48",
+   "short": "HCL Sărmaș nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 48/2026 privind actualizarea disponibilului de pajiști de la nivelul comunei Sărmaș în vederea închirierii acestora în anul 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287708",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-49-2026",
+   "path": "local/harghita/sarmas/2026/49",
+   "short": "HCL Sărmaș nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 49/2026 privind modificarea şi completarea Hotărârii Consiliului Local nr. 28/2026 privind aprobarea închirierii prin atribuire directă a suprafețelor de pajiști disponibile proprietatea privată a comunei Sărmaș județul Harghita",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287709",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-5-2026",
+   "path": "local/harghita/sarmas/2026/5",
+   "short": "HCL Sărmaș nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 5/2026 privind aprobarea modului de valorificare și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea publică a comunei Sărmaș, apv nr. 2574 UP 1 Sărmaș, valabil pentru Ocolul Silvic Topliţa",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/254573",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/254573",
      "sha256": null
     }
    ]
@@ -543,6 +903,51 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-53-2026",
+   "path": "local/harghita/sarmas/2026/53",
+   "short": "HCL Sărmaș nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 53/2026 privind aprobarea încheierii contractului pentru acordarea de servicii sociale de îngrijire la domiciliu între Comuna Sărmaș, județul Harghita și Asociația Caritas Alba Iulia-Asistență Medicală și Socială",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287713",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-54-2026",
+   "path": "local/harghita/sarmas/2026/54",
+   "short": "HCL Sărmaș nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 54/2026 privind alegerea preşedintelui de şedinţă pentru perioada mai-iulie 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287714",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-55-2026",
+   "path": "local/harghita/sarmas/2026/55",
+   "short": "HCL Sărmaș nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 55/2026 privind aprobarea modului de valorificare și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea publică a comunei Sărmaș, apv nr. 02080/ Pr Co Argestru, apv nr. 02084/ Ac 1/Tinoave şi apv nr 02085/SR Huruba UP 1 Sărmaș, valabil pentru Ocolul Silvic Borsec",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/287715",
+   "versions": [
+    {
+     "from": "2026-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/287715",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-56-2026",
    "path": "local/harghita/sarmas/2026/56",
    "short": "HCL Sărmaș nr. 56/2026",
@@ -558,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-57-2026",
+   "path": "local/harghita/sarmas/2026/57",
+   "short": "HCL Sărmaș nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 57/2026 privind aprobarea bugetului local al comunei Sărmaș, județul Harghita pe anul 2026 și estimări pe anii 2027-2029",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292822",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292822",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-58-2026",
    "path": "local/harghita/sarmas/2026/58",
    "short": "HCL Sărmaș nr. 58/2026",
@@ -568,6 +988,36 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-59-2026",
+   "path": "local/harghita/sarmas/2026/59",
+   "short": "HCL Sărmaș nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 59/2026 privind actualizarea bugetului ca urmare a modificării cotei TVA de la 19% la 21% pentru proiectul ”Digitalizarea UAT Sărmaș prin ADR Centru” cod SMIS 336617 depus în vederea finanțării acestuia în cadrul Programului ”Regiunea Centru”, Prioritatea 2-O regiunea Digitală, Acțiunea 2.1 Comunități digitale pentru o regiune inteligentă, obiectiv specific 1.2 Valorificarea avantajelor digitalizării, în beneficiul cetățenilor, al companiilor, al organizațiilor de cercetare și al autorităților publice",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292829",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-6-2026",
+   "path": "local/harghita/sarmas/2026/6",
+   "short": "HCL Sărmaș nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 6/2026 privind aprobarea modului de valorificare și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea privată a comunei Sărmaș, apv nr. 25636 SR, apv nr. 2564 SR, apv nr. 2578 Pr-Co şi 2584 Pr-Co UP 8 Sărmaș, valabil pentru Ocolul Silvic Topliţa",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/254574",
+   "versions": [
+    {
+     "from": "2026-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/254574",
      "sha256": null
     }
    ]
@@ -603,6 +1053,36 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-62-2026",
+   "path": "local/harghita/sarmas/2026/62",
+   "short": "HCL Sărmaș nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 62/2026 privind aprobarea destinației, a modului de valorificare precum și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea publică a comunei Sărmaș, apv nr. 02055 UP 1 Sărmaș, valabil pentru Ocolul Silvic Borsec",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292841",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-63-2026",
+   "path": "local/harghita/sarmas/2026/63",
+   "short": "HCL Sărmaș nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 63/2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292896",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292896",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-64-2026",
    "path": "local/harghita/sarmas/2026/64",
    "short": "HCL Sărmaș nr. 64/2026",
@@ -618,6 +1098,36 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-65-2026",
+   "path": "local/harghita/sarmas/2026/65",
+   "short": "HCL Sărmaș nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 65/2026 privind prelungirea termenului de închiriere a suprafeţei de 150 mp de teren situat în extravilanul comunei Sărmaş, judeţul Harghita, locul numit ,,Teasc,, către ORANGE ROMANIA SA",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292898",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-66-2026",
+   "path": "local/harghita/sarmas/2026/66",
+   "short": "HCL Sărmaș nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 66/2026 privind prelungirea termenului de închiriere a spațiului situat în comuna Sărmaș, sat Sărmaș, nr. 623G județul Harghita către Compania Națională Poșta Română SA",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292899",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292899",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-67-2026",
    "path": "local/harghita/sarmas/2026/67",
    "short": "HCL Sărmaș nr. 67/2026",
@@ -628,6 +1138,36 @@
      "from": "2026-10-13",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-68-2026",
+   "path": "local/harghita/sarmas/2026/68",
+   "short": "HCL Sărmaș nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 68/2026 privind modificarea structurii aparatului de specialitate al primarului comunei Sărmaș, județul Harghita și a serviciilor subordonate",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292901",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-69-2026",
+   "path": "local/harghita/sarmas/2026/69",
+   "short": "HCL Sărmaș nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 69/2026 privind modificarea Numărului de personal al Serviciului Voluntar pentru Situații de Urgență Sărmaș",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292902",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292902",
      "sha256": null
     }
    ]
@@ -663,6 +1203,141 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-71-2026",
+   "path": "local/harghita/sarmas/2026/71",
+   "short": "HCL Sărmaș nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 71/2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al Bibliotecii comunale Sărmaş şi a Căminului Cultural Sărmaş",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292904",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292904",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-72-2026",
+   "path": "local/harghita/sarmas/2026/72",
+   "short": "HCL Sărmaș nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 72/2026 privind aprobarea Regulamentului de Organizare şi Funcţionare al Sălii multifuncţionale de sport din comuna Sărmaş, a orarului de funcţionare precum şi a tarifelor de închiriere a sălii",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292905",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292905",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-73-2026",
+   "path": "local/harghita/sarmas/2026/73",
+   "short": "HCL Sărmaș nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 73/2026 privind modificarea şi completarea Regulamentului de Organizare și Funcționare al aparatului de specialitate al primarului comunei Sărmaș, județul Harghita ca urmare a reorganizării activităţii instituţiei",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292906",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-74-2026",
+   "path": "local/harghita/sarmas/2026/74",
+   "short": "HCL Sărmaș nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 74/2026 privind modificarea şi completarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al comunei Sărmaș, pentru unitățile de cult aparținând cultelor religioase recunoscute din România",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292907",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-75-2026",
+   "path": "local/harghita/sarmas/2026/75",
+   "short": "HCL Sărmaș nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 75/2026 privind aprobarea listelor care cuprind documente de interes public şi categoriile de documente produse şi/sau gestionate de Primăria comunei Sărmaş, judeţul Harghita, conform Legii nr. 544/2001 privind liberul acces la informaţiile de interes public",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292908",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-76-2026",
+   "path": "local/harghita/sarmas/2026/76",
+   "short": "HCL Sărmaș nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 76/2026 privind înfiinţarea, organizarea şi funcţionarea Consiliului Consultativ pentru Probleme de Tineret la nivelul comunei Sărmaș",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292909",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-77-2026",
+   "path": "local/harghita/sarmas/2026/77",
+   "short": "HCL Sărmaș nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 77/2026 privind numirea Comisiei de evaluare a cererilor de finanțare nerambursabilă depuse de unitățile de cult recunoscute din România în cadrul programului anual de finanțare nerambursabilă derulat de unitatea administrativ teritorială comuna Sărmaș în anul 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292910",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-78-2026",
+   "path": "local/harghita/sarmas/2026/78",
+   "short": "HCL Sărmaș nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 78/2026 privind actualizarea componenței echipei mobile care va acţiona la intervențiile de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292911",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292911",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-79-2026",
+   "path": "local/harghita/sarmas/2026/79",
+   "short": "HCL Sărmaș nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 79/2026 privind actualizarea componenţei Consiliului Comunitar Consultativ la nivelul comunei Sărmaș",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292912",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292912",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-8-2026",
    "path": "local/harghita/sarmas/2026/8",
    "short": "HCL Sărmaș nr. 8/2026",
@@ -678,6 +1353,156 @@
    ]
   },
   {
+   "slug": "hcl-harghita--sarmas-80-2026",
+   "path": "local/harghita/sarmas/2026/80",
+   "short": "HCL Sărmaș nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 80/2026 privind modificarea şi completarea Hotărârii Consiliului Local nr. 80/2020 privind aprobarea Regulamentului privind implementarea și eliberarea Cardurilor-legitimație pentru locurile gratuite de parcare persoanelor cu handicap",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292913",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-81-2026",
+   "path": "local/harghita/sarmas/2026/81",
+   "short": "HCL Sărmaș nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 81/2026 privind aprobarea Raportului de gestiune cuprinzând rezultatul financiar pe anul 2025 întocmit de administratorul fondului forestier Ocolul Silvic Broşteni",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292914",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-82-2026",
+   "path": "local/harghita/sarmas/2026/82",
+   "short": "HCL Sărmaș nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 82/2026 privind aprobarea Raportului de gestiune cuprinzând rezultatul financiar pe anul 2025 întocmit de administratorul fondului forestier Ocolul Silvic Topliţa UP 1",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292915",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-83-2026",
+   "path": "local/harghita/sarmas/2026/83",
+   "short": "HCL Sărmaș nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 83/2026 privind aprobarea Raportului de gestiune cuprinzând rezultatul financiar pe anul 2025 întocmit de administratorul fondului forestier Ocolul Silvic Topliţa UP 8",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292916",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292916",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-84-2026",
+   "path": "local/harghita/sarmas/2026/84",
+   "short": "HCL Sărmaș nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 84/2026 privind aprobarea Raportului de gestiune cuprinzând rezultatul financiar pe anul 2025 întocmit de administratorul fondului forestier Ocolul Silvic Borsec",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292917",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-85-2026",
+   "path": "local/harghita/sarmas/2026/85",
+   "short": "HCL Sărmaș nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 85/2026 privind aprobarea Raportului de gestiune cuprinzând rezultatul financiar pe anul 2025 întocmit de administratorul fondului forestier Ocolul Silvic Tulgheş",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292918",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-86-2026",
+   "path": "local/harghita/sarmas/2026/86",
+   "short": "HCL Sărmaș nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 86/2026 privind rectificarea bugetului local pe anul 2026 și estimări pe anii 2027-2029",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292946",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-87-2026",
+   "path": "local/harghita/sarmas/2026/87",
+   "short": "HCL Sărmaș nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 87/2026 privind aprobarea implementării proiectului „Dezvoltarea patrimoniului cultural local prin dotarea cu echipamente de sonorizare, mobilier, corturi şi costume populare”, finanţat prin FEADR, Intervenția L808 – „Dezvoltarea patrimoniului local”",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292949",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-88-2026",
+   "path": "local/harghita/sarmas/2026/88",
+   "short": "HCL Sărmaș nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 88/2026 privind rectificarea bugetului local al comunei Sărmaș pe anul 2026 și estimări pe anii 2027 – 2029",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292950",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292950",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-89-2026",
+   "path": "local/harghita/sarmas/2026/89",
+   "short": "HCL Sărmaș nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 89/2026 privind aprobarea execuției bugetare pe secțiunea de funcționare și secțiunea de dezvoltare ale bugetului local al comunei Sărmaș pe trimestrul II 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292951",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292951",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-harghita--sarmas-9-2026",
    "path": "local/harghita/sarmas/2026/9",
    "short": "HCL Sărmaș nr. 9/2026",
@@ -688,6 +1513,36 @@
      "from": "2026-09-11",
      "units": 1,
      "source_url": "https://emol.ro/sarmas-hr/registru-hcl/286995",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-90-2026",
+   "path": "local/harghita/sarmas/2026/90",
+   "short": "HCL Sărmaș nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 90/2026 privind alegerea preşedintelui de şedinţă pentru perioada august-octombrie 2026",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292952",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-harghita--sarmas-91-2026",
+   "path": "local/harghita/sarmas/2026/91",
+   "short": "HCL Sărmaș nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Sărmaș nr. 91/2026 privind aprobarea modului de valorificare și a prețului de vânzare a masei lemnoase provenite din fondul forestier, proprietatea privată a comunei Sărmaș, apv nr. 2591 şi apv nr. 2593 UP 8 Sărmaș, valabil pentru Ocolul Silvic Topliţa",
+   "url": "https://emol.ro/sarmas-hr/registru-hcl/292953",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sarmas-hr/registru-hcl/292953",
      "sha256": null
     }
    ]

@@ -2103,6 +2103,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-386-2025",
+   "path": "local/hunedoara/deva/2025/386",
+   "short": "HCL Deva nr. 386/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 386/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.251/2024 privind aprobarea Devizului general și a indicatorilor tehnico-economici, actualizați la faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 77",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P160",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/MergedPDF_2_1.pdf",
+     "sha256": "7dc0e80322c4b81fa8defdcb703920861f6cefd8e300e140be3efe7ccf7761da"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-388-2025",
    "path": "local/hunedoara/deva/2025/388",
    "short": "HCL Deva nr. 388/2025",
@@ -2759,6 +2774,21 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/45_site.pdf",
      "sha256": "06167d2a83bf48defd1f179015d7c4d1c72e478246efe654c5e59f9a8573177c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-450-2025",
+   "path": "local/hunedoara/deva/2025/450",
+   "short": "HCL Deva nr. 450/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 450/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.7/2025 privind aprobarea Devizului general și a indicatorilor tehnico-economici, faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 40 FRE - Str. Georg",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P100",
+   "versions": [
+    {
+     "from": "2025-11-21",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/MergedPDF_17.pdf",
+     "sha256": "7afdf6fb42a662342a8d0898d6144d1f07b42ea025572ad3bef1f85ce09fce92"
     }
    ]
   },
@@ -3843,6 +3873,21 @@
    ]
   },
   {
+   "slug": "hcl-hunedoara--deva-538-2025",
+   "path": "local/hunedoara/deva/2025/538",
+   "short": "HCL Deva nr. 538/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 538/2025 pentru modificarea Hotărârii Consiliului local al municipiului Deva nr.7/2025 privind aprobarea Devizului general și a indicatorilor tehnico-economici, faza PT pentru obiectivul de investiții „Creșterea eficienței energetice a blocului de locuințe 40 FRE - Str. Georg",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/MergedPDF_19.pdf",
+     "sha256": "3b4848c99d7659ec0e9f00fd9f532994a599a80741685d66fdae4cb6b3c11cb8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-hunedoara--deva-54-2025",
    "path": "local/hunedoara/deva/2025/54",
    "short": "HCL Deva nr. 54/2025",
@@ -4439,6 +4484,21 @@
      "units": 1,
      "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/84_2.pdf",
      "sha256": "9a18226645fd5335df768b99e90d52e9f61c729f358b6849dc04e1f45d79240f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-hunedoara--deva-840-2025",
+   "path": "local/hunedoara/deva/2025/840",
+   "short": "HCL Deva nr. 840/2025",
+   "title": "Hotărârea Consiliului Local al Municipiului Deva nr. 840/2025 nr.840 din 28.08.2025. privind aprobarea cererilor de atribuire a terenurilor în folosință gratuită tinerilor pentru construirea unei locuințe proprietate personală în baza Legii nr. 15/2003, republicată",
+   "url": "https://www.primariadeva.ro/index.php/consiliul_local/hotarari_detaliu/C87/P200",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 1,
+     "source_url": "https://www.primariadeva.ro/images/uploads/hotarari/340_3.pdf",
+     "sha256": "dae0364bbba16ec0f4a9f297a6de827dfce2822713f63cdbfcce584995916129"
     }
    ]
   },
