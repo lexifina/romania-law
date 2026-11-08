@@ -3,6 +3,94 @@
 "shard": "local/vrancea/dumitresti/2021",
 "acts": [
 {
+"slug": "hcl-vrancea--dumitresti-30-2021",
+"path": "local/vrancea/dumitresti/2021/30",
+"kind": "local",
+"year": "2021",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 30/2021 Privind aprobarea Documentației de avizare pentru lucrări de intervenție - DALI și a principalilor indicatori tehnico-economici pentru obiectivul de investiții \"Modernizare drumuri de interes local, Comuna Dumitrești, Județul Vrancea\"",
+"short": "HCL Dumitrești nr. 30/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#65",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-31-2021",
+"path": "local/vrancea/dumitresti/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 31/2021 Privind aprobarea modalității de plată a serviciilor de salubrizare către operatorul cărui îi va fi delegat serviciul de colectare și transport a deșeurilor efectuat pe raza administrativ-teritorială a Comunei Dumitrești, Județul Vrancea",
+"short": "HCL Dumitrești nr. 31/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-32-2021",
+"path": "local/vrancea/dumitresti/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 32/2021 Privind alegerea președintelui de ședință a Consiliului Local Dumitrești, Județul Vrancea, pe o perioadă de 3 luni",
+"short": "HCL Dumitrești nr. 32/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-06-23",
+"latest": "2021-06-23",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#69",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-37-2021",
+"path": "local/vrancea/dumitresti/2021/37",
+"kind": "local",
+"year": "2021",
+"number": "37",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 37/2021 Privind acceptarea ofertei de donație a terenului în suprafață de 1076 mp situat în satul Găloiești, Comuna Dumitrești, Județul Vrancea",
+"short": "HCL Dumitrești nr. 37/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-02",
+"latest": "2021-07-02",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#101",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-38-2021",
 "path": "local/vrancea/dumitresti/2021/38",
 "kind": "local",
@@ -47,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-40-2021",
+"path": "local/vrancea/dumitresti/2021/40",
+"kind": "local",
+"year": "2021",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 40/2021 Privind aprobarea execuției bugetului local de venituri si cheltuieli și a bugetului activităților autofinanțate pe trimestrul II al anului 2021",
+"short": "HCL Dumitrești nr. 40/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45091",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-41-2021",
+"path": "local/vrancea/dumitresti/2021/41",
+"kind": "local",
+"year": "2021",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 41/2021 privind solicitarea transmiterii cu caracter temporar a sectorului de drum județean DJ 204 P de la Km 27 +250 la Km 34 + 245 , situat pe teritoriul intravilan /extravilan al comunei Dumitresti, satele , Dumitrești, Blidari, Poienița și Lăstuni împreună cu terenul aferent al acestuia , drum proprietate publică a județului Vrancea , din administrarea Consiliului Județean Vrancea , în administrarea Consiliului Local al comunei Dumitrești",
+"short": "HCL Dumitrești nr. 41/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45092",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-42-2021",
 "path": "local/vrancea/dumitresti/2021/42",
 "kind": "local",
@@ -62,6 +194,72 @@
 "from": "2021-08-20",
 "latest": "2021-08-20",
 "portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45093",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-44-2021",
+"path": "local/vrancea/dumitresti/2021/44",
+"kind": "local",
+"year": "2021",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 44/2021 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2021",
+"short": "HCL Dumitrești nr. 44/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-20",
+"latest": "2021-08-20",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45095",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-45-2021",
+"path": "local/vrancea/dumitresti/2021/45",
+"kind": "local",
+"year": "2021",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 45/2021 privind modificarea anexei nr.1 a Hotărârii Consiliului Local nr. 34/2021 privind aprobarea indicatorilor tehnico - economici și a documentației faza proiect tehnic de execuție, aferentă obiectivului de investiții „ CONSTRUIRE PIAȚĂ AGROALIMENTARĂ Ds+P,COMUNA DUMITREȘTI, JUDEȚUL VRANCEA„",
+"short": "HCL Dumitrești nr. 45/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-08-20",
+"latest": "2021-08-20",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45096",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-46-2021",
+"path": "local/vrancea/dumitresti/2021/46",
+"kind": "local",
+"year": "2021",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 46/2021 privind atestarea completării inventarului bunurilor care alcătuiesc domeniul public al comunei Dumitrești, județul Vrancea",
+"short": "HCL Dumitrești nr. 46/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45097",
 "council": "vrancea/dumitresti",
 "council_name": "Consiliul Local al Comunei Dumitrești",
 "flags": {
@@ -92,6 +290,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-48-2021",
+"path": "local/vrancea/dumitresti/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 48/2021 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2021",
+"short": "HCL Dumitrești nr. 48/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45099",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-49-2021",
 "path": "local/vrancea/dumitresti/2021/49",
 "kind": "local",
@@ -114,6 +334,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-50-2021",
+"path": "local/vrancea/dumitresti/2021/50",
+"kind": "local",
+"year": "2021",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 50/2021 Privind: modificarea și completarea Anexei 1 – Contractul de Asociere și Anexei 3- Statutul Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată’’ la Hotărârea Consiliului Local al Comunei Dumitrești nr.43/2008 privind asocierea comunei Dumitrești, cu județul Vrancea și unitățile administrativ – teritoriale din județul Vrancea în vederea constituirii Asociației de Dezvoltare Intercomunitară ,,Vrancea Curată’’ pentru dezvoltarea sistemului de management integrat al deșeurilor și extinderea infrastructurii în județul Vrancea",
+"short": "HCL Dumitrești nr. 50/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45101",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-51-2021",
 "path": "local/vrancea/dumitresti/2021/51",
 "kind": "local",
@@ -133,6 +375,50 @@
 "council_name": "Consiliul Local al Comunei Dumitrești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-52-2021",
+"path": "local/vrancea/dumitresti/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 52/2021 privind aprobarea ajustării prețului Contractului de lucrări nr. Nr.6402 din 23.07.2021, aferent obiectivul de investiții ''AMENAJĂRI TROTUARE ȘI CĂI DE ACCES RUTIERE, REABILITARE ȘI MODERNIZARE SISTEME DE COLECTARE ȘI DIRIJARE A APELOR PLUVIALE (PODEȚURI , ȘANTURI PEREATE)''",
+"short": "HCL Dumitrești nr. 52/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-12",
+"latest": "2021-10-12",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45103",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-53-2021",
+"path": "local/vrancea/dumitresti/2021/53",
+"kind": "local",
+"year": "2021",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 53/2021 Privind: actualizarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Dumitresti, judeţul Vrancea",
+"short": "HCL Dumitrești nr. 53/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45104",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -159,6 +445,360 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-56-2021",
+"path": "local/vrancea/dumitresti/2021/56",
+"kind": "local",
+"year": "2021",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 56/2021 privind aprobarea notei conceptualeşi a temei de proiectare pentru obiectivul de investiţii„MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA„ ETAPA I",
+"short": "HCL Dumitrești nr. 56/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45107",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-57-2021",
+"path": "local/vrancea/dumitresti/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 57/2021 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITREȘTI, JUDEȚUL VRANCEA - ETAPA II",
+"short": "HCL Dumitrești nr. 57/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45108",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-58-2021",
+"path": "local/vrancea/dumitresti/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 58/2021 Privind aprobarea execuției bugetului local de venituri si cheltuieli și a bugetului activităților autofinanțate pe trimestrul III al anului 2021",
+"short": "HCL Dumitrești nr. 58/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45109",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-59-2021",
+"path": "local/vrancea/dumitresti/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 59/2021 privind trecerea din domeniul privat în domeniul public al comunei Dumitrești a imobilului - teren situat în extravilanul satului Găloiesti, comuna Dumitrești, înscris în CF nr. 50133",
+"short": "HCL Dumitrești nr. 59/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45110",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-60-2021",
+"path": "local/vrancea/dumitresti/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 60/2021 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2021",
+"short": "HCL Dumitrești nr. 60/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45111",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-61-2021",
+"path": "local/vrancea/dumitresti/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 61/2021 privind transformarea funcţiei publice vacante de referent, clasa III, grad profesional superior, din cadrul compartimentului asistență socială, în funcția publică de inspector, clasa I, grad profesional debutant, în cadrul aceluiași compartiment, din cadrul aparatului de specialitate al primarului comunei Dumitrești, județul Vrancea",
+"short": "HCL Dumitrești nr. 61/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45112",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-62-2021",
+"path": "local/vrancea/dumitresti/2021/62",
+"kind": "local",
+"year": "2021",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 62/2021 privind aprobarea: cererii de finanţare şi a devizului general estimativ aferent obiectivului de investiţii „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA - ETAPA I„",
+"short": "HCL Dumitrești nr. 62/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45113",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-63-2021",
+"path": "local/vrancea/dumitresti/2021/63",
+"kind": "local",
+"year": "2021",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 63/2021 privind aprobarea: cererii de finanţare şi a devizului general estimativ aferent obiectivului de investiţii „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA - ETAPA II„",
+"short": "HCL Dumitrești nr. 63/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45114",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-64-2021",
+"path": "local/vrancea/dumitresti/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 64/2021 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii „AMENAJARE TEREN DE SPORT„",
+"short": "HCL Dumitrești nr. 64/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45115",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-65-2021",
+"path": "local/vrancea/dumitresti/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 65/2021 privind revocarea Hotărârii Consiliului Local Nr.46/2021 privind atestarea completării inventarului bunurilor care alcătuiesc domeniul public al comunei Dumitrești, județul Vrancea",
+"short": "HCL Dumitrești nr. 65/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45116",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-66-2021",
+"path": "local/vrancea/dumitresti/2021/66",
+"kind": "local",
+"year": "2021",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 66/2021 privind transformarea funcţiei publice vacante de inspector Clasa I ,grad profesional debutant , din cadrul compartimentului impozite și taxe, în funcția publică de referent, clasa III, grad profesional superior, în cadrul aceluiași compartiment, din cadrul aparatului de specialitate al primarului comunei Dumitrești, județul Vrancea",
+"short": "HCL Dumitrești nr. 66/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45118",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-67-2021",
+"path": "local/vrancea/dumitresti/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 67/2021 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Dumitrești, județul Vrancea",
+"short": "HCL Dumitrești nr. 67/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45119",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-68-2021",
+"path": "local/vrancea/dumitresti/2021/68",
+"kind": "local",
+"year": "2021",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 68/2021",
+"short": "HCL Dumitrești nr. 68/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-69-2021",
+"path": "local/vrancea/dumitresti/2021/69",
+"kind": "local",
+"year": "2021",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 69/2021 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2021",
+"short": "HCL Dumitrești nr. 69/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-26",
+"latest": "2021-11-26",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45121",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-70-2021",
+"path": "local/vrancea/dumitresti/2021/70",
+"kind": "local",
+"year": "2021",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 70/2021 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii „Construire radier pentru amplasare bazin de stocat apă pentru culturi agricole, în sat Găloiești, comuna Dumitrești, județul Vrancea „",
+"short": "HCL Dumitrești nr. 70/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45122",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-71-2021",
+"path": "local/vrancea/dumitresti/2021/71",
+"kind": "local",
+"year": "2021",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 71/2021",
+"short": "HCL Dumitrești nr. 71/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-07",
+"latest": "2021-12-07",
+"portal": null,
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-72-2021",
 "path": "local/vrancea/dumitresti/2021/72",
 "kind": "local",
@@ -181,6 +821,72 @@
 }
 },
 {
+"slug": "hcl-vrancea--dumitresti-73-2021",
+"path": "local/vrancea/dumitresti/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 73/2021 privind validarea Dispoziției primarului nr.280 din 10.12.2021, cu privire la modificarea bugetului local al comunei Dumitrești în anul 2021",
+"short": "HCL Dumitrești nr. 73/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45125",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-74-2021",
+"path": "local/vrancea/dumitresti/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 74/2021 Privind stabilirea nivelurilor valorilor impozabile, impozitelor, taxelor locale,alte taxe asimilate acestora, precum și amenzile aplicabile pentru anul fiscal 2022",
+"short": "HCL Dumitrești nr. 74/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45126",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-75-2021",
+"path": "local/vrancea/dumitresti/2021/75",
+"kind": "local",
+"year": "2021",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 75/2021 privind stabilirea situațiilor deosebite și a metodologiei de acordare a unor ajutoare de urgenţă în anul 2022",
+"short": "HCL Dumitrești nr. 75/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45127",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--dumitresti-76-2021",
 "path": "local/vrancea/dumitresti/2021/76",
 "kind": "local",
@@ -200,6 +906,50 @@
 "council_name": "Consiliul Local al Comunei Dumitrești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-77-2021",
+"path": "local/vrancea/dumitresti/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 77/2021 privind rectificarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2021",
+"short": "HCL Dumitrești nr. 77/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45129",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--dumitresti-78-2021",
+"path": "local/vrancea/dumitresti/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 78/2021 Privind aprobarea rețelei școlare a unităţilor de învăţământ de stat preuniversitar din Unitatea Administrativ Teritorială Dumitrești, judetul Vrancea, pentru anul şcolar 2022-2023",
+"short": "HCL Dumitrești nr. 78/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-28",
+"latest": "2021-12-28",
+"portal": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#45130",
+"council": "vrancea/dumitresti",
+"council_name": "Consiliul Local al Comunei Dumitrești",
+"flags": {
+"text_pending": "source"
 }
 }
 ]

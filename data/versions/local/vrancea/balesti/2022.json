@@ -3,6 +3,36 @@
  "shard": "local/vrancea/balesti/2022",
  "acts": [
   {
+   "slug": "hcl-vrancea--balesti-1-2022",
+   "path": "local/vrancea/balesti/2022/1",
+   "short": "HCL Bălești nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 1/2022 privind utlizarea excedentului contului de executie al anului 2021 in anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#13993",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#13993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-10-2022",
+   "path": "local/vrancea/balesti/2022/10",
+   "short": "HCL Bălești nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 10/2022 privind aprobarea Regulamentului de organizare şi desfăşurare a activităţii de publicitate, reclamă şi afişaj în Municipiul Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14012",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14012",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-100-2022",
    "path": "local/vrancea/balesti/2022/100",
    "short": "HCL Bălești nr. 100/2022",
@@ -63,6 +93,51 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-104-2022",
+   "path": "local/vrancea/balesti/2022/104",
+   "short": "HCL Bălești nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 104/2022 privind rectificarea bugetului local al UAT Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34392",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-105-2022",
+   "path": "local/vrancea/balesti/2022/105",
+   "short": "HCL Bălești nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 105/2022 pentru modificarea HCL nr. 103/10.04.2018 privind aprobarea proiectului si a cheltuielilor legate de PROIECT: ,, Îmbunătățirea mobilității urbane și reducerea emisiilor de CO2 în municipiul Băileşti ”, judetul Dolj, Axa prioritară 3 : Sprijinirea tranziției către o economie cu emisii scăzute de carbon, Prioritatea de investitii 4e: Promovarea unor strategii cu emisii scăzute de dioxid de carbon pentru toate tipurile de teritorii, în special pentru zonele urbane, inclusiv promovarea mobilității urbane multimodale durabile și a măsurilor de adaptare relevante pentru atenuare, Obiectivul specific 3.2. : Reducerea emisiilor de carbon în zonele urbane bazată pe planurile de mobilitate urbană durabilă, Apel de proiecte cu numărul POR/2017/3/3.2/1/7 REGIUNI, POR/2017/3/3.2/1/BI și POR/2017/3/3.2/1/ITI",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34393",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-106-2022",
+   "path": "local/vrancea/balesti/2022/106",
+   "short": "HCL Bălești nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 106/2022 privind organizarea evenimentului ,,Târgul de Craciun 2022 ‘’ in municipiul Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34396",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34396",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-107-2022",
    "path": "local/vrancea/balesti/2022/107",
    "short": "HCL Bălești nr. 107/2022",
@@ -108,6 +183,51 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-110-2022",
+   "path": "local/vrancea/balesti/2022/110",
+   "short": "HCL Bălești nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 110/2022 privind rectificarea bugetului local al UAT Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37256",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-111-2022",
+   "path": "local/vrancea/balesti/2022/111",
+   "short": "HCL Bălești nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 111/2022 privind aprobarea executiei bugetului local - trimestrul IV, executia bugetara a contului de venituri proprii si subventii si a indicatorilor economico-financiari trimestrul IV al anului 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37259",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-112-2022",
+   "path": "local/vrancea/balesti/2022/112",
+   "short": "HCL Bălești nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 112/2022 pentru aprobarea procedurii privind reglementarea acordarii esalonarilor la plata a impozitelor, taxelor si a altor obligatii datorate bugetului local al Municipiului Bailesti de catre persoanele fizice si juridice precum si amanarea la plata a unui procent de 50% din majorarile de intarziere aferente obligatiilor fiscale esalonate la plata in vederea anularii",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37262",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37262",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-113-2022",
    "path": "local/vrancea/balesti/2022/113",
    "short": "HCL Bălești nr. 113/2022",
@@ -118,6 +238,21 @@
      "from": "2022-12-12",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-114-2022",
+   "path": "local/vrancea/balesti/2022/114",
+   "short": "HCL Bălești nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 114/2022 privind stabilirea situaţiilor de necesitate, precum și a situațiilor deosebite, în care se află familiile sau persoanele care locuiesc pe raza municipiului Bailesti, care justifică acordarea ajutoarelor de urgenţă, procedura și condițiile de acordare a acestora, în conformitate cu Legea nr. 416/2001 privind venitul minim garantat, cu modificările şi completările ulterioare",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37269",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#37269",
      "sha256": null
     }
    ]
@@ -198,6 +333,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-12-2022",
+   "path": "local/vrancea/balesti/2022/12",
+   "short": "HCL Bălești nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 12/2022 privind darea în administrare temporară a serviciului de operare a instalațiilor de gestionare a deșeurilor municipale realizate în cadrul Proiectului ”Sistem de Management Integrat al Deșeurilor în Județul Dolj”",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14014",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14014",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-120-2022",
    "path": "local/vrancea/balesti/2022/120",
    "short": "HCL Bălești nr. 120/2022",
@@ -238,6 +388,531 @@
      "from": "2022-12-28",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-123-2022",
+   "path": "local/vrancea/balesti/2022/123",
+   "short": "HCL Bălești nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 123/2022 privind privind rectificarea bugetului local al UAT Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39173",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-124-2022",
+   "path": "local/vrancea/balesti/2022/124",
+   "short": "HCL Bălești nr. 124/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 124/2022 privind aprobarea taxelor si impozitelor locale pentru anul 2023",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39176",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-125-2022",
+   "path": "local/vrancea/balesti/2022/125",
+   "short": "HCL Bălești nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 125/2022 privind aprobarea procedurii de acordare a înlesnirilor la plată, constând în scutirea de majorări de întârziere aferente obligaţiilor fiscale principale cuvenite bugetului local de către persoanele fizice care au calitatea de contribuabili ai bugetului local al Municipiului Baileşti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39179",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-126-2022",
+   "path": "local/vrancea/balesti/2022/126",
+   "short": "HCL Bălești nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 126/2022 Proiectul de hotarare privind aprobarea incheierii unui Act Aditional la Contractul nr. 7959/01.04.2022 privind delegarea gestiunii serviciului public de transport persoane in aria teritoriala de competenta a Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39182",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-127-2022",
+   "path": "local/vrancea/balesti/2022/127",
+   "short": "HCL Bălești nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 127/2022 privind modificarea Anexei la HCL nr. 152/29.11.2019 pentru contractarea unei finantari rambursabile interne – linie de finantare in valoare de pana la 9.000.000 lei, in vederea asigurarii cofinantarii si prefinantarii proiectelor de interes local finantate din fonduri nerambursabile de la Uniunea Europeana",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39186",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-128-2022",
+   "path": "local/vrancea/balesti/2022/128",
+   "short": "HCL Bălești nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 128/2022 privind aprobarea Documentației de Avizare a Lucrărilor de Investiții (DALI) și a indicatorilor tehnico -economici pentru obiectivul de investiții\"Modernizarea și extinderea sistemului de iluminat public în Municipiul Băilești, județul Dolj\"și a acordului privind asigurarea și susținerea contribuției financiare aferente cheltuielilor neeligibile necesare implementării proiectului și care nu sunt finanțate de AFM",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39188",
+   "versions": [
+    {
+     "from": "2022-12-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#39188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-14-2022",
+   "path": "local/vrancea/balesti/2022/14",
+   "short": "HCL Bălești nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 14/2022 privind aprobarea bugetului consolidat de venituri si cheltuieli al municipiului Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25296",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25296",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-17-2022",
+   "path": "local/vrancea/balesti/2022/17",
+   "short": "HCL Bălești nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 17/2022 privind Revocarea HCL nr. 102/12.08.2021 prin care se ia act de completarea domeniului public si privat al municipiului Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25307",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-18-2022",
+   "path": "local/vrancea/balesti/2022/18",
+   "short": "HCL Bălești nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 18/2022 privind aprobarea programului principalelor manifestări cultural-artistice si al activitatilor cu caracter permanent pentru anul 2022 la Casa de Cultura ,,Amza Pellea’’ Bailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25313",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25313",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-24-2022",
+   "path": "local/vrancea/balesti/2022/24",
+   "short": "HCL Bălești nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 24/2022 privind aprobarea Municipiului Bailesti la Grupul de Actiune Locala(GAL),,Calafat’’ ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25348",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-25-2022",
+   "path": "local/vrancea/balesti/2022/25",
+   "short": "HCL Bălești nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 25/2022 privind aprobarea modificarea statului de functii al Spitalului Municipal,, Prof.Dr.Irinel Popescu’’ Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25349",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-26-2022",
+   "path": "local/vrancea/balesti/2022/26",
+   "short": "HCL Bălești nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 26/2022 privind aprobarea proiectul tehnic pentru obiectivul de investitii \"Modernizarea si reabilitarea infrastructurii rutiere utilizate prioritar pentru transportul public de persoane urban -15,2 km-, Municipiul Bailesti, jud. Dolj\"",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25353",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25353",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-27-2022",
+   "path": "local/vrancea/balesti/2022/27",
+   "short": "HCL Bălești nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 27/2022 privind aprobarea proiectul tehnic pentru obiectivul de investitii \"Modernizarea si dezvoltarea infrastructurii pietonale in Mnicipiul Bailesti , judetul Dolj -pe o suprafata de 58.500 mp;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25359",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25359",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-28-2022",
+   "path": "local/vrancea/balesti/2022/28",
+   "short": "HCL Bălești nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 28/2022 privind aprobarea indicatorilor tehnico-economici si a proiectului tehnic aferenti proiectului \"Cresterea eficientei energetice in cadrul Spitalului Municipal \"Prof. Dr. Irinel Popescu din Municipiul Bailesti, jud. Dolj\"",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25360",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25360",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-29-2022",
+   "path": "local/vrancea/balesti/2022/29",
+   "short": "HCL Bălești nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 29/2022 privind aprobarea valorii totale a proiectului si contributia proprie din bugetul local pentru implementarea proiectului ,Cresterea eficientei energetice in cadrul Spitalului Municipal Prof. Dr. Irinel Popescu din Municipiul Bailesti, jud. Dolj",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25361",
+   "versions": [
+    {
+     "from": "2022-02-24",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-3-2022",
+   "path": "local/vrancea/balesti/2022/3",
+   "short": "HCL Bălești nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 3/2022 privind aprobarea retelei scolare la nivelul Municipiului Bailesti pentru anul scolar 2022-2023",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14002",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-30-2022",
+   "path": "local/vrancea/balesti/2022/30",
+   "short": "HCL Bălești nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 30/2022 privind mdificarea HCL nr. 4/2019. Aprobarea proiectului si a cheltuielilor legate de PROIECT: ,, Îmbunătățirea mobilității urbane și reducerea emisiilor de CO2 în municipiul Băileşti ”, judetul Dolj, Axa prioritară 3 : Sprijinirea tranziției către o economie cu emisii scăzute de carbon, Prioritatea de investitii 4e: Promovarea unor strategii cu emisii scăzute de dioxid de carbon pentru toate tipurile de teritorii, în special pentru zonele urbane, inclusiv promovarea mobilității urbane multimodale durabile și a măsurilor de adaptare relevante pentru atenuare, Obiectivul specific 3.2. : Reducerea emisiilor de carbon în zonele urbane bazată pe planurile de mobilitate urbană durabilă, Apel de proiecte cu numărul POR/2017/3/3.2/1/7 REGIUNI, POR/2017/3/3.2/1/BI și POR/2017/3/3.2/1/ITI",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25364",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-31-2022",
+   "path": "local/vrancea/balesti/2022/31",
+   "short": "HCL Bălești nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 31/2022 privind aprobarea procedurii de acordare a inlesnirilor la plata, constand in scutirea de majorari de intarziere aferente obligatiilor fiscale principale cuvenite bugetului local, de catre persoanele fizice care au calitatea de contribuabili ai bugetului local al Municipiului Bailesti incepand cu data de 01.04.2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25376",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-32-2022",
+   "path": "local/vrancea/balesti/2022/32",
+   "short": "HCL Bălești nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 32/2022 privind aprobarea Regulamentului pentru stabilirea unor forme de sprijin financiar de la bugetul local al municipiului Bailesti, pentru unitatile de cult incepand cu anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25377",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-33-2022",
+   "path": "local/vrancea/balesti/2022/33",
+   "short": "HCL Bălești nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 33/2022 privind aprobarea bugetului de venituri si cheltuieli pe anul 2022, la SC PAZA CLB SRL Bailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25378",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-34-2022",
+   "path": "local/vrancea/balesti/2022/34",
+   "short": "HCL Bălești nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 34/2022 privind aprobarea statului de functii si a organigramei la SC PAZA CLB SRLBailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25379",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-36-2022",
+   "path": "local/vrancea/balesti/2022/36",
+   "short": "HCL Bălești nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 36/2022 privind aprobarea statului de functii si a organigramei la Casa de Cultura ,,Amza Pellea’’ Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25398",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-37-2022",
+   "path": "local/vrancea/balesti/2022/37",
+   "short": "HCL Bălești nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 37/2022 privind aprobarea bugetului de venituri si cheltuieli pe anul 2022 la SC Transport Public Urban Bailesti SRL;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25399",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-38-2022",
+   "path": "local/vrancea/balesti/2022/38",
+   "short": "HCL Bălești nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 38/2022 privind modificarea Anexei nr. 1 la HCL nr. 142/25.11.2021 pentru completarea Registrului local al spatiilor verzi din Municipiul Bailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25402",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-39-2022",
+   "path": "local/vrancea/balesti/2022/39",
+   "short": "HCL Bălești nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 39/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru preluarea in cadrul Programului National de Investitii . ,,Anghel Saligny” a investitiei ,,Înfiinţare reţea de distribuţie a gazelor naturale în Municipiul Băileşti‘’",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25403",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-40-2022",
+   "path": "local/vrancea/balesti/2022/40",
+   "short": "HCL Bălești nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 40/2022 privind repartizarea profitului realizat pe anul 2021 la SC PAZA CLB SRL",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25406",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-41-2022",
+   "path": "local/vrancea/balesti/2022/41",
+   "short": "HCL Bălești nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 41/2022 prin care se aproba organizarea concursului pentru ocuparea unui post de biolog la Spitalul Municipal ”Prof .Dr.Irinel Popescu” Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25410",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-42-2022",
+   "path": "local/vrancea/balesti/2022/42",
+   "short": "HCL Bălești nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 42/2022 privind completarea Hotararii de Consiliu Local nr.222/2017 privind infiintarea Serviciului Public de Salubrizare si Spatii Verzi din municipiul Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25414",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-43-2022",
+   "path": "local/vrancea/balesti/2022/43",
+   "short": "HCL Bălești nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 43/2022 privind modificarea statului de functii si organigrama la Politia Locala a Municipiului Bailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25417",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-45-2022",
+   "path": "local/vrancea/balesti/2022/45",
+   "short": "HCL Bălești nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 45/2022 privind executia bugetului local pentru anul 2021;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25421",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-46-2022",
+   "path": "local/vrancea/balesti/2022/46",
+   "short": "HCL Bălești nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 46/2022 privind executia bugetului local pentru trimestrul I al anului 2022 si indicatorii economico- financiari pe trimestrul I al anului 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25422",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#25422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-49-2022",
+   "path": "local/vrancea/balesti/2022/49",
+   "short": "HCL Bălești nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 49/2022 privind atribuirea și încheierea contractului”Delegarea prin concesionare a operării instalațiilor de gestionare a deșeurilor municipale realizate în cadrul proiectului Sistem de Management Integrat al Deșeurilor în Județul Dolj” și aprobarea tarifelor aferente",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27751",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-5-2022",
+   "path": "local/vrancea/balesti/2022/5",
+   "short": "HCL Bălești nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 5/2022 privind aprobarea regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri supuse dezbaterii şi aprobării Consiliului local al Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14006",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-50-2022",
+   "path": "local/vrancea/balesti/2022/50",
+   "short": "HCL Bălești nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 50/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-51-2022",
+   "path": "local/vrancea/balesti/2022/51",
+   "short": "HCL Bălești nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 51/2022 privind aprobarea ,,Procedurii privind raspunderea contraventionala a utilizatorilor serviciului de alimentare cu apa si de canalizare’’",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27754",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27754",
      "sha256": null
     }
    ]
@@ -288,6 +963,51 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-55-2022",
+   "path": "local/vrancea/balesti/2022/55",
+   "short": "HCL Bălești nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 55/2022 privind aprobarea tarifelor pentru lucrari si servicii funerare si a tarifelor pentru concesionare si intretinere locuri de veci ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27755",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-56-2022",
+   "path": "local/vrancea/balesti/2022/56",
+   "short": "HCL Bălești nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 56/2022 privind rectificarea bugetului de venituri si cheltuieli al UAT Bailesti pe anul 2022;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27760",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-57-2022",
+   "path": "local/vrancea/balesti/2022/57",
+   "short": "HCL Bălești nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 57/2022 privind aprobarea organigramei si a statului de functii la Spitalul Municipal ,,Prof. Dr. Irinel Popescu’’ Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27761",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27761",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-58-2022",
    "path": "local/vrancea/balesti/2022/58",
    "short": "HCL Bălești nr. 58/2022",
@@ -318,6 +1038,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-6-2022",
+   "path": "local/vrancea/balesti/2022/6",
+   "short": "HCL Bălești nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 6/2022 privind aprobarea Regulamentului de organizare si functionare al Consiliului Local al Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14007",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14007",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-61-2022",
    "path": "local/vrancea/balesti/2022/61",
    "short": "HCL Bălești nr. 61/2022",
@@ -328,6 +1063,111 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-62-2022",
+   "path": "local/vrancea/balesti/2022/62",
+   "short": "HCL Bălești nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 62/2022 privind revocare HCL nr. 79/31.05.2021",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27773",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27773",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-63-2022",
+   "path": "local/vrancea/balesti/2022/63",
+   "short": "HCL Bălești nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 63/2022 privind aprobarea tarifelor la Serviciul Public Salubrizare si Spatii verzi",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27774",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-64-2022",
+   "path": "local/vrancea/balesti/2022/64",
+   "short": "HCL Bălești nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 64/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-65-2022",
+   "path": "local/vrancea/balesti/2022/65",
+   "short": "HCL Bălești nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 65/2022 /11.07.2022 pentru modificarea HCL nr. 17/10.02.2022 privind stabilirea componentei comisiilor de specialitate ale Consiliului Local al Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27778",
+   "versions": [
+    {
+     "from": "2022-07-13",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-66-2022",
+   "path": "local/vrancea/balesti/2022/66",
+   "short": "HCL Bălești nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 66/2022 privind rectificarea bugetului local al UAT Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27784",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-67-2022",
+   "path": "local/vrancea/balesti/2022/67",
+   "short": "HCL Bălești nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 67/2022 privind mandatarea reprezentantului consiliului local in AGA la Compania de Apa Oltenia",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27786",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-68-2022",
+   "path": "local/vrancea/balesti/2022/68",
+   "short": "HCL Bălești nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 68/2022 privind aprobarea tarifului pentru lucrarile efectuate de barca cositoare",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27792",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27792",
      "sha256": null
     }
    ]
@@ -348,6 +1188,126 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-70-2022",
+   "path": "local/vrancea/balesti/2022/70",
+   "short": "HCL Bălești nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 70/2022 privind aprobarea executiei bugetului local al municipiului Bailesti si a indicatorilor economico- financiari trimestrul II al anului – 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27798",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-71-2022",
+   "path": "local/vrancea/balesti/2022/71",
+   "short": "HCL Bălești nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 71/2022 privind aprobarea raportului asupra activitatii desfasurate de asistentii personali ai persoanelor cu handicap grav pe semestrul I al anului 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27799",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27799",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-72-2022",
+   "path": "local/vrancea/balesti/2022/72",
+   "short": "HCL Bălești nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 72/2022 privind completarea HCL nr. 59/30.06.2022 privind aprobarea organigramei si statului de functii la Spitalul Municipal “Prof.Dr.Irinel Popescu” Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27800",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-73-2022",
+   "path": "local/vrancea/balesti/2022/73",
+   "short": "HCL Bălești nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 73/2022 pentru modificarea Anexei HCL nr. 20/24.02.2022 privind aprobarea programului principalelor manifestări cultural-artistice si al activitatilor cu caracter permanent pentru anul 2022 la Casa de Cultura ,,Amza Pellea’’ Bailesti ;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27801",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-74-2022",
+   "path": "local/vrancea/balesti/2022/74",
+   "short": "HCL Bălești nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 74/2022 privind aprobarea participării Municipiului Băilești la ”Programul privind creșterea eficienței energetice a infrastructurii de iluminat public”pentru investiția \"Modernizarea și extinderea sistemului de iluminat public în Municipiul Băilești, județul Dolj\"și a devizului general aferent obiectivului de investiții",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27802",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-75-2022",
+   "path": "local/vrancea/balesti/2022/75",
+   "short": "HCL Bălești nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 75/2022 privind aprobarea acordarii pachetului de rechizite scolare elevilor inscrisi in clasele pregatitoare la unitatile de invatamant de pe raza Municipiului Bailesti in anul scolar 2022-2023",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27803",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#27803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-77-2022",
+   "path": "local/vrancea/balesti/2022/77",
+   "short": "HCL Bălești nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 77/2022 privind organizarea evenimentului ,,Zilele Municipiului Bailesti Sarbatoarea Zaibarului si Prazului’’",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#29650",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#29650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-78-2022",
+   "path": "local/vrancea/balesti/2022/78",
+   "short": "HCL Bălești nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 78/2022 privind aprobarea sumelor pentru membrii delegatiei straine care participa la evenimentele ,,Zilelor Municipiului Băilești, Sărbătoarea Zaibărului și Prazului",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#29651",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#29651",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-79-2022",
    "path": "local/vrancea/balesti/2022/79",
    "short": "HCL Bălești nr. 79/2022",
@@ -358,6 +1318,36 @@
      "from": "2022-09-01",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-8-2022",
+   "path": "local/vrancea/balesti/2022/8",
+   "short": "HCL Bălești nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 8/2022 prin care se ia act de incheierea Contractului de Comodat intre Clubul Sportiv Municipal Progresul Bailesti si Inspectoratul pentru Situatii de Urgenta ,,Oltenia al Judetului Dolj;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14009",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#14009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-80-2022",
+   "path": "local/vrancea/balesti/2022/80",
+   "short": "HCL Bălești nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 80/2022 privind rectificarea bugetului de venituri si cheltuieli al UAT Bailesti pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30672",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30672",
      "sha256": null
     }
    ]
@@ -393,6 +1383,186 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--balesti-83-2022",
+   "path": "local/vrancea/balesti/2022/83",
+   "short": "HCL Bălești nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 83/2022 privind aprobarea Regulamentului pentru repartizarea si inchirierea locuintelor din fondul locativ apartinand Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30677",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-84-2022",
+   "path": "local/vrancea/balesti/2022/84",
+   "short": "HCL Bălești nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 84/2022 privind aprobarea cuantumului burselor scolare, acordate elevilor din învățământul preuniversitar de stat din municipiul Bailesti, in anul școlar 2022-2023",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30678",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-85-2022",
+   "path": "local/vrancea/balesti/2022/85",
+   "short": "HCL Bălești nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 85/2022 privind actualizarea Regulamentului de Organizare si Functionare a SPCLEP Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30679",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-86-2022",
+   "path": "local/vrancea/balesti/2022/86",
+   "short": "HCL Bălești nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 86/2022 privind imputernicirea viceprimarului cu atributii de primar al municipiului Bailesti sa semneze acordul privind scoaterea temporara din circuitul agricol a unor terenuri",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30680",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-87-2022",
+   "path": "local/vrancea/balesti/2022/87",
+   "short": "HCL Bălești nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 87/2022 pentru completarea si modificarea HCL nr. 80/01.09.2022, privind aprobarea sumelor pentru membrii delegatiei straine care participa la evenimentele privind ,,Zilele Municipiului Băilești , Sărbătoarea Zaibărului și Prazului",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30682",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-89-2022",
+   "path": "local/vrancea/balesti/2022/89",
+   "short": "HCL Bălești nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 89/2022 privind privind mandatarea Asociatiei de Dezvoltare Intercomunitara ECO DOLJ sa elaboreze si sa aprobe Strategia de dezvoltare și funcționare pe termen mediu și lung a serviciului de salubrizare în județul Dolj",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30684",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-90-2022",
+   "path": "local/vrancea/balesti/2022/90",
+   "short": "HCL Bălești nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 90/2022 privind implementarea proiectului ,, ,,Infiintarea unui Centru de colectare prin aport voluntar in UAT Bailesti’’ ce va deservi comunitati cu pana la 50.000 locuitori",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30686",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-91-2022",
+   "path": "local/vrancea/balesti/2022/91",
+   "short": "HCL Bălești nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 91/2022 privind atribuirea in folosinta gratuita a terenului apartinand domeniului public al UAT Bailesti in suprafata de 5457 mp catre Asociatia de Dezvoltare Intercomunitara de Gestionare a Deseurilor ECODOLJ in vederea realizarii obiectivului de investitii « Infiintare centru de colectare a deseurilor prin aport voluntar in UAT Bailesti« , obiectiv finantat in cadrul Planului National de Redresare si Rezilienta, Componenta 3-Managementul deseurilor, Investitia I1A, Dezvoltarea, Modernizarea si Completarea Sistemelor de Management Integrat al Deseurilor municipale la nivel de judet sau la nivel de orase/comune",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30687",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#30687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-92-2022",
+   "path": "local/vrancea/balesti/2022/92",
+   "short": "HCL Bălești nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 92/2022 privind rectificarea bugetului local pe anul 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#33662",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#33662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-93-2022",
+   "path": "local/vrancea/balesti/2022/93",
+   "short": "HCL Bălești nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 93/2022 privind aprobarea executiei bugetului local – trimestrul III, executia bugetara a contului de venituri propriisi subventii si a indicatorilor economico- financiari trimestrul III al anului 2022",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34233",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34233",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-94-2022",
+   "path": "local/vrancea/balesti/2022/94",
+   "short": "HCL Bălești nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 94/2022 privind aprobarea organigramei si a statului de functii ale aparatului de specialitate al Primarului Municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34236",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-95-2022",
+   "path": "local/vrancea/balesti/2022/95",
+   "short": "HCL Bălești nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 95/2022 privind alegerea presedintelui de sedinţă pentru urmatoarele 3 luni: noiembrie 2022-ianuarie 2023",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34237",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34237",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--balesti-96-2022",
    "path": "local/vrancea/balesti/2022/96",
    "short": "HCL Bălești nr. 96/2022",
@@ -403,6 +1573,21 @@
      "from": "2022-10-27",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--balesti-97-2022",
+   "path": "local/vrancea/balesti/2022/97",
+   "short": "HCL Bălești nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Bălești nr. 97/2022 privind aprobarea acordarii normei de hrana politistilor locali din cadrul Politiei Locale a municipiului Bailesti",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34241",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#34241",
      "sha256": null
     }
    ]

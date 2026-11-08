@@ -1,0 +1,576 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/carligele/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--carligele-1-2026",
+   "path": "local/vrancea/carligele/2026/1",
+   "short": "HCL Cârligele nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 1/2026 privind acoperirea definitivă a deficitului Secțiunii de Dezvoltare și a deficitului Secțiunii de Funcționare la sfârșitul exercițiului bugetar 2025",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274076",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-15-2026",
+   "path": "local/vrancea/carligele/2026/15",
+   "short": "HCL Cârligele nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 15/2026 privind aprobarea devizului general, a principalilor indicatori tehnico-economici şi a documentației tehnice pentru obiectivul de investiţii ,, Racord canalizare blocuri zona ANL, comuna Cârligele, județul Vrancea”",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274097",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-17-2026",
+   "path": "local/vrancea/carligele/2026/17",
+   "short": "HCL Cârligele nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 17/2026 privind modificarea și completarea Hotărârii Consiliului Local Cârligele nr. 26/ 18.04. 2022 privind însușirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului cu număr cadastral 54745 , situat în intravilanul localității Cârligele, sat Dălhăuți, județul Vrancea, , aparținând domeniului privat al comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274099",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-18-2026",
+   "path": "local/vrancea/carligele/2026/18",
+   "short": "HCL Cârligele nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 18/2026 privind modificarea si completarea Contractului de Asociere - la Hotărârea CONSILIULUI LOCAL CÂRLIGELE nr. 20/ 29.08.2008 privind asocierea UAT COMUNA CÂRLIGELE, JUDEȚUL VRANCEA cu unitatile administrativ — teritoriale din județ in vederea constituirii Asociației de Dezvoltare Intercomunitară „Vrancea Curata” pentru dezvoltarea sistemului de management integrat al deseurilor si extinderea infrastructurii in judetul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274100",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-2-2026",
+   "path": "local/vrancea/carligele/2026/2",
+   "short": "HCL Cârligele nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 2/2026 privind aprobarea contului de execuţie al bugetului de venituri şi cheltuieli al comunei Cîrligele pe anul 2025",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274079",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-26-2026",
+   "path": "local/vrancea/carligele/2026/26",
+   "short": "HCL Cârligele nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 26/2026 privind modificarea și completarea Hotărârii Consiliului Local Cârligele nr. 76/ 29 Decembrie 2025 privind aprobarea cotelor și nivelurilor impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274109",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-3-2026",
+   "path": "local/vrancea/carligele/2026/3",
+   "short": "HCL Cârligele nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 3/2026 privind utilizarea excedentului bugetar înregistrat la 31 Decembrie 2025, ca sursă de finanțare a cheltuielilor Secțiunii de Dezvoltare în anul 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274080",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-31-2026",
+   "path": "local/vrancea/carligele/2026/31",
+   "short": "HCL Cârligele nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 31/2026 privind însușirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului cu număr cadastral 55000 , situat în intravilanul localității Cârligele, județul Vrancea, Tarla 25, parcela 1240, aparținând domeniului public al comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274114",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274114",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-32-2026",
+   "path": "local/vrancea/carligele/2026/32",
+   "short": "HCL Cârligele nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 32/2026 privind însușirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului cu număr cadastral 55283 , situat în intravilanul localității Cârligele, județul Vrancea, Tarla 25, parcela 1214, aparținând domeniului public al comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274115",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-35-2026",
+   "path": "local/vrancea/carligele/2026/35",
+   "short": "HCL Cârligele nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 35/2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274118",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274118",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-36-2026",
+   "path": "local/vrancea/carligele/2026/36",
+   "short": "HCL Cârligele nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 36/2026 privind includerea în domeniului public al Comunei Cârligele a unui bun imobil – teren intravilan Cârligele sat Cârligele, în vederea întabulării/înscrierii cu caracter definitiv a dreptului de proprietate în evidenţele de cadastru şi carte funciară",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274119",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274119",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-37-2026",
+   "path": "local/vrancea/carligele/2026/37",
+   "short": "HCL Cârligele nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 37/2026 privind aprobarea contului de executie al bugetului local al comunei Cârligele pe Trimestrul I, anul 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274120",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-38-2026",
+   "path": "local/vrancea/carligele/2026/38",
+   "short": "HCL Cârligele nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 38/2026 privind aprobarea bugetului local de venituri si cheltuieli al comunei Cârligele, judetul Vrancea, pentru anul 2026 si privind aprobarea listei de investitii care se vor implementa in cursul anului 2026 la nivelul comunei Cârligele, pe surse de finantare",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274121",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-39-2026",
+   "path": "local/vrancea/carligele/2026/39",
+   "short": "HCL Cârligele nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 39/2026 privind aprobarea trecerii din domeniul privat ȋn domeniul public al comunei Cârligele, a unui imobil-teren",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274122",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-4-2026",
+   "path": "local/vrancea/carligele/2026/4",
+   "short": "HCL Cârligele nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 4/2026 privind însușirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului cu număr cadastral 55192 , situat în intravilanul localității Cârligele, județul Vrancea, Tarla 0, Parcela 247, aparținând domeniului public al comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274081",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274081",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-40-2026",
+   "path": "local/vrancea/carligele/2026/40",
+   "short": "HCL Cârligele nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 40/2026 privind aprobarea Programului si a sumelor necesare organizarii si desfasurarii Zilei Eroilor si Zilei Comunei Cirligele, editia 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274123",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-41-2026",
+   "path": "local/vrancea/carligele/2026/41",
+   "short": "HCL Cârligele nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 41/2026 privind mandatarea Asociației de Dezvoltare Intercomunitară pentru serviciul de salubrizare a localităților Focșani și Golești județul Vrancea să atribuie contractul de delegare a serviciului public de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274124",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-42-2026",
+   "path": "local/vrancea/carligele/2026/42",
+   "short": "HCL Cârligele nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 42/2026 privind implementarea proiectului „SISTEMATIZARE CENTRU CIVIC CÂRLIGELE PRIN REALIZARE PARC 1 ȘI PARC 2 ÎN COMUNA CÂRLIGELE, JUDEȚUL VRANCEA”",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274129",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-43-2026",
+   "path": "local/vrancea/carligele/2026/43",
+   "short": "HCL Cârligele nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 43/2026 privind implementarea proiectului „ MAI APROAPE DE COMUNITATI PRIN SERVICII MOBILE INTEGRATE “ Unități medicale mobile (Cardiologie și Screening) cu sistem de telemedicină integrat, pentru populația vulnerabilă din Teritoriul GAL Tinutul Viei si Vinului Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274130",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274130",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-51-2026",
+   "path": "local/vrancea/carligele/2026/51",
+   "short": "HCL Cârligele nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 51/2026 privind avizarea documentației de atribuire aferente delegării gestiunii serviciului public de gestionare a câinilor fără stăpân de pe raza unităților administrativ-teritoriale membre ale Asociației de Dezvoltare Intercomunitară pentru Serviciul de Salubrizare a Localităților Focșani și Golești, aprobarea tarifelor și acordarea unui mandat special Primarului comunei Cârligele pentru votarea acestora în Adunarea Generală a Asociației",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/278549",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/278549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-52-2026",
+   "path": "local/vrancea/carligele/2026/52",
+   "short": "HCL Cârligele nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 52/2026 privind validarea modificărilor făcute bugetului local pe anul in curs prin Dispoziția Primarului nr. 77/09.06.2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/278550",
+   "versions": [
+    {
+     "from": "2026-07-14",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/278550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-55-2026",
+   "path": "local/vrancea/carligele/2026/55",
+   "short": "HCL Cârligele nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 55/2026 privind aprobarea consumului mediu de carburanți și a normativelor proprii de consum pentru mijloacele de transport, utilajele și echipamentele aflate în administrarea Comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/283241",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/283241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-56-2026",
+   "path": "local/vrancea/carligele/2026/56",
+   "short": "HCL Cârligele nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 56/2026 privind interzicerea organizării și exploatării activităților de jocuri de noroc pe raza comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/283242",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/283242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-58-2026",
+   "path": "local/vrancea/carligele/2026/58",
+   "short": "HCL Cârligele nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 58/2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/283244",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/283244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-59-2026",
+   "path": "local/vrancea/carligele/2026/59",
+   "short": "HCL Cârligele nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 59/2026 privind actualizarea Planului de Analiză și Acoperire a Riscurilor (PAAR) al comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/283245",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/283245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-6-2026",
+   "path": "local/vrancea/carligele/2026/6",
+   "short": "HCL Cârligele nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 6/2026 privind aprobarea documentației de atribuire și demararea procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comunele Cotești, Cârligele și Slobozia Ciorăști",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274083",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-60-2026",
+   "path": "local/vrancea/carligele/2026/60",
+   "short": "HCL Cârligele nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 60/2026 privind aprobarea execuției bugetului local al comunei Cârligele pe trimestrul II al anului 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/283246",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/283246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-62-2026",
+   "path": "local/vrancea/carligele/2026/62",
+   "short": "HCL Cârligele nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 62/2026 privind aprobarea Regulamentului de funcționare și exploatare a stațiilor de reîncărcare a vehiculelor electrice și hybrid plug-in comuna Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/286194",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/286194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-63-2026",
+   "path": "local/vrancea/carligele/2026/63",
+   "short": "HCL Cârligele nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 63/2026 privind validarea modificărilor făcute bugetului local pe anul in curs prin Dispoziția Primarului nr. 134 din data de 19 August 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/286195",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/286195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-68-2026",
+   "path": "local/vrancea/carligele/2026/68",
+   "short": "HCL Cârligele nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 68/2026 privind modificarea și completarea Hotărârii Consiliului Local al comunei Cârligele nr. 26/26.03.2026 privind modificarea și completarea Hotărârii Consiliului Local Cârligele nr. 76/29.12.2025 privind aprobarea cotelor și nivelurilor impozitelor și taxelor locale pentru anul fiscal 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/286200",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/286200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-69-2026",
+   "path": "local/vrancea/carligele/2026/69",
+   "short": "HCL Cârligele nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 69/2026 privind acordarea unui mandat special Primarului Comunei Cârligele, în calitate de reprezentant al Comunei Cârligele în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Serviciul de Salubrizare a Localităților Focșani și Golești, în vederea aprobării modificării Contractului de delegare a gestiunii Serviciului de gestionare a câinilor fără stăpân nr. 4903/19.06.2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/286201",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/286201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-70-2026",
+   "path": "local/vrancea/carligele/2026/70",
+   "short": "HCL Cârligele nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 70/2026 privind aderarea Unității Administrativ-Teritoriale Comuna Cârligele la Organizația de Management al Destinației „VIN ÎN VRANCEA”",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/286202",
+   "versions": [
+    {
+     "from": "2026-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/286202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-73-2026",
+   "path": "local/vrancea/carligele/2026/73",
+   "short": "HCL Cârligele nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 73/2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/288092",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/288092",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-75-2026",
+   "path": "local/vrancea/carligele/2026/75",
+   "short": "HCL Cârligele nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 75/2026 privind aprobarea virărilor de credite bugetare în cadrul bugetului local al comunei Cârligele pe anul 2026 și modificarea corespunzătoare a Listei de investiții pe anul 2026",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/288094",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/288094",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-76-2026",
+   "path": "local/vrancea/carligele/2026/76",
+   "short": "HCL Cârligele nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 76/2026 privind aprobarea Regulamentului privind procedura de înregistrare, evidență și radiere a vehiculelor care nu se supun înmatriculării, pentru care există obligativitatea înregistrării și radierii, de pe raza teritorială a comunei Cârligele, județul Vrancea",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/288095",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/288095",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-77-2026",
+   "path": "local/vrancea/carligele/2026/77",
+   "short": "HCL Cârligele nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 77/2026 privind avizarea documentației de atribuire pentru delegarea gestiunii serviciului de iluminat public și acordarea unui mandat special reprezentantului Comunei Cârligele în Adunarea Generală a Asociației de Dezvoltare Intercomunitară pentru Serviciul de Salubrizare a Localităților Focșani și Golești",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/288096",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/288096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-78-2026",
+   "path": "local/vrancea/carligele/2026/78",
+   "short": "HCL Cârligele nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 78/2026 privind aprobarea proiectului, a documentației tehnico-economice – faza Studiu de Fezabilitate și a indicatorilor tehnico-economici aferenți obiectivului de investiții „Capacități de producere energie din surse regenerabile de energie, pentru consum propriu în Comuna Cârligele, județul Vrancea”",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/288097",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/288097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--carligele-8-2026",
+   "path": "local/vrancea/carligele/2026/8",
+   "short": "HCL Cârligele nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 8/2026 privind includerea in domeniul privat al comunei Cirligele , judetul Vrancea a unei suprafețe de teren identificată în plus față de suprafețele incluse in actele de proprietate",
+   "url": "https://emol.ro/carligele-vn/registru-hcl/274085",
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carligele-vn/registru-hcl/274085",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

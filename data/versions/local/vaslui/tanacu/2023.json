@@ -1,0 +1,816 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/tanacu/2023",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--tanacu-14-2023",
+   "path": "local/vaslui/tanacu/2023/14",
+   "short": "HCL Tanacu nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 14/2023 privind însușirea măsurilor dispuse prin Decizia Camerei de Conturi",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93791",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-17-2023",
+   "path": "local/vaslui/tanacu/2023/17",
+   "short": "HCL Tanacu nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 17/2023 privind aprobarea Protocolului de colaborare referitor la colaborarea instituțională",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93794",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-18-2023",
+   "path": "local/vaslui/tanacu/2023/18",
+   "short": "HCL Tanacu nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 18/2023 privind aprobarea înfiinţării Serviciului de gestionare a câinilor fară stăpân al comunei Tanacu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/99012",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/99012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-19-2023",
+   "path": "local/vaslui/tanacu/2023/19",
+   "short": "HCL Tanacu nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 19/2023 privind modificarea consumului mediu lunar de carburanți pentru autovehiculele și utilajele din dotarea Primăriei comunei Tanacu, județul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/99013",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/99013",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-2-2023",
+   "path": "local/vaslui/tanacu/2023/2",
+   "short": "HCL Tanacu nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 2/2023 privind analiza stadiului de înscriere a datelor la registrul agricol la 31.12.2022 și stabilirea unor măsuri pentru eficientizarea acestei activității",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93695",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-20-2023",
+   "path": "local/vaslui/tanacu/2023/20",
+   "short": "HCL Tanacu nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 20/2023 privind actualizarea cuantumului compensaţiilor în bani pentru timpul efectiv de lucru prestat la intervenţiile şi activităţile prevăzute în programul Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tanacu,jud.Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/99014",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/99014",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-22-2023",
+   "path": "local/vaslui/tanacu/2023/22",
+   "short": "HCL Tanacu nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 22/2023 privind aprobarea participării UAT-Comuna Tanacu la Programul privind casarea autovehiculelor uzate \"Rabla local\", derulat in cofinantare cu Administratia Fondului pentru Mediu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/102959",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/102959",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-23-2023",
+   "path": "local/vaslui/tanacu/2023/23",
+   "short": "HCL Tanacu nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 23/2023 privind aprobarea contului de execuție al exercițiului bugetar la sfârșitul trimestrului I al anului 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/102960",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/102960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-24-2023",
+   "path": "local/vaslui/tanacu/2023/24",
+   "short": "HCL Tanacu nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 24/2023 privind analiza stadiului de înscriere a datelor la registrul agricol la 31.03.2023 și stabilirea unor măsuri pentru eficientizarea acestei activității",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/102961",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/102961",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-25-2023",
+   "path": "local/vaslui/tanacu/2023/25",
+   "short": "HCL Tanacu nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 25/2023 privind alegerea președintelui de ședință al Consiliului Local al Comunei Tanacu pentru perioada mai-iulie 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/102962",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/102962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-28-2023",
+   "path": "local/vaslui/tanacu/2023/28",
+   "short": "HCL Tanacu nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 28/2023 privind rectificarea bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105532",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-29-2023",
+   "path": "local/vaslui/tanacu/2023/29",
+   "short": "HCL Tanacu nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 29/2023 privind aprobarea proiectarii si executiei lucrarilor pentru obiectivul „Teren multifuncțional cu gazon sintetic in incinta Scoalii Gimnaziale nr. 1,in comuna Tanacu, judetul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105533",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-3-2023",
+   "path": "local/vaslui/tanacu/2023/3",
+   "short": "HCL Tanacu nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 3/2023 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi executate de către beneficiarii de ajutor social în anul 2023, conform Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93696",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-30-2023",
+   "path": "local/vaslui/tanacu/2023/30",
+   "short": "HCL Tanacu nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 30/2023 privind acordarea unei facilități personalului angajat în cadru aparatului de specialitate a primarului comunei Tanacu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105534",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-31-2023",
+   "path": "local/vaslui/tanacu/2023/31",
+   "short": "HCL Tanacu nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 31/2023 privind aprobarea studiului de fezabilitate, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE PRIN ASFALTARE STRĂZI PRINCIPALE ȘI SECUNDARE, COMUNA TANACU, JUDEȚUL VASLUI” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105535",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-33-2023",
+   "path": "local/vaslui/tanacu/2023/33",
+   "short": "HCL Tanacu nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 33/2023 privind susținerea parteneriatului LEADER MOVILA LUI BURCEL VASLUI NORD",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105537",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-34-2023",
+   "path": "local/vaslui/tanacu/2023/34",
+   "short": "HCL Tanacu nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 34/2023 privind trecerea din categoria de folosință a drumului comunal DC27B și revenirea la categoria de folosință drum sătesc, sub denumirea de strada nr. 7 prevăzută în inventarul bunurilor care aparțin domeniului public al comunei Tanacu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105538",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-35-2023",
+   "path": "local/vaslui/tanacu/2023/35",
+   "short": "HCL Tanacu nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 35/2023 privind acceptarea donației pentru utilitate publica a terenului în suprafata de 720 mp, Tarlaua 71, parcela 1371/190/1,nr. cdr. 71756 , punctul,,Poala Șesului”,terenul fânețe , situat în extravilanul localitatii Tanacu, comuna Tanacu, judetul Vaslui din partea donatarului Stancu Gică",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/105539",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/105539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-36-2023",
+   "path": "local/vaslui/tanacu/2023/36",
+   "short": "HCL Tanacu nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 36/2023 privind rectificarea a II-a a bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/108186",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/108186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-37-2023",
+   "path": "local/vaslui/tanacu/2023/37",
+   "short": "HCL Tanacu nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 37/2023 privind aprobarea NOTEI CONCEPTUALE ȘI A TEMEI DE PROIECTARE, în vederea elaborării documentației tehnico - economice faza: studiu de fezabilitate pentru Proiectul nr. C10-I.1.2-1155, intitulat: ”Implementarea unui sistem de supraveghere video stradală în Comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/109960",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/109960",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-38-2023",
+   "path": "local/vaslui/tanacu/2023/38",
+   "short": "HCL Tanacu nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 38/2023 privind aprobarea contului de execuție al exercițiului bugetar si situatiile financiare la sfârșitul trimestrului II al anului 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/114753",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/114753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-39-2023",
+   "path": "local/vaslui/tanacu/2023/39",
+   "short": "HCL Tanacu nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 39/2023 privind revocarea Hotărârii Consiliului Local nr. 30 din 23.05.2023 cu privire la acordarea unei facilități personalului angajatat în cadru aparatului de specialitate a primarului comunei Tanacu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/114754",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/114754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-40-2023",
+   "path": "local/vaslui/tanacu/2023/40",
+   "short": "HCL Tanacu nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 40/2023 privind alegerea președintelui de ședință al Consiliului Local al Comunei Tanacu pentru perioada AUGUST- OCTOMBRIE 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/114755",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/114755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-44-2023",
+   "path": "local/vaslui/tanacu/2023/44",
+   "short": "HCL Tanacu nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 44/2023 privind neasumarea responsabilităţii organizării și derulării procedurilor de atribuire a contractelor/acordurilor –cadru pentru achiziţia produselor și a contractelor/acordurilor –cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru şcoli al României în perioada 2023-2029 pentru unitățile de învățământ din Comuna Tanacu pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/117387",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/117387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-45-2023",
+   "path": "local/vaslui/tanacu/2023/45",
+   "short": "HCL Tanacu nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 45/2023 privind privind aprobarea Strategiei de dezvoltare a serviciilor sociale pentru perioada 2023-2024, a Planului Local de acţiune în domeniul serviciilor sociale, a Planului Anual de Acțiune privind serviciile sociale administrate și finanțate din bugetul consiliului local al comunei Tanacu pentru anul 2023-2024,precum și Procedura de identificare a situaţiilor de risc de separare a copiilor de părinţi şi a monitorizării situației familiilor cu copii în situație de risc și a copiilor separați de părinți la nivelul Comunei Tanacu",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/117388",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/117388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-46-2023",
+   "path": "local/vaslui/tanacu/2023/46",
+   "short": "HCL Tanacu nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 46/2023 privind aprobarea de principiu a dezmembrării unui imobil - teren aflat în domeniul public al Comunei Tanacu, în eventualitatea aprobării proiectului: ”Construirea unei platforme comunale de colectare și valorificare a gunoiului de grajd și platforme satelit în comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/117389",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/117389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-47-2023",
+   "path": "local/vaslui/tanacu/2023/47",
+   "short": "HCL Tanacu nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 47/2023 privind rectificarea a IV-a a bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/121868",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/121868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-48-2023",
+   "path": "local/vaslui/tanacu/2023/48",
+   "short": "HCL Tanacu nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 48/2023 privind aprobarea prelungirii scrisorii de garanție bancara nr. 545/04.09.2018 pentru restituirea avansului aferent proiectului: MODERNIZAREA ȘI DOTAREA CĂMINULUI CULTURAL DIN SAT TANACU, COMUNA TANACU, JUDEȚUL VASLUI” contractat in cadrul PNDR 2014 – 2020",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/121869",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/121869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-49-2023",
+   "path": "local/vaslui/tanacu/2023/49",
+   "short": "HCL Tanacu nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 49/2023 privind analiza stadiului de înscriere a datelor la registrul agricol la 31.08.2023 și stabilirea unor măsuri pentru eficientizarea acestei activității",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/121870",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/121870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-50-2023",
+   "path": "local/vaslui/tanacu/2023/50",
+   "short": "HCL Tanacu nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 50/2023 privind modificarea consumului mediu lunar de carburanți pentru autovehiculele și utilajele din dotarea Primăriei comunei Tanacu, județul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/121871",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/121871",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-51-2023",
+   "path": "local/vaslui/tanacu/2023/51",
+   "short": "HCL Tanacu nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 51/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127262",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-52-2023",
+   "path": "local/vaslui/tanacu/2023/52",
+   "short": "HCL Tanacu nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 52/2023 privind aprobarea contului de execuție al exercițiului bugetar si situatiile financiare la sfârșitul trimestrului III al anului 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127263",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-53-2023",
+   "path": "local/vaslui/tanacu/2023/53",
+   "short": "HCL Tanacu nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 53/2023 privind actualizarea cuantumului compensaţiilor în bani pentru timpul efectiv de lucru prestat la intervenţiile şi activităţile prevăzute în programul Serviciului Voluntar pentru Situaţii de Urgenţă al comunei Tanacu,jud.Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127264",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-54-2023",
+   "path": "local/vaslui/tanacu/2023/54",
+   "short": "HCL Tanacu nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 54/2023 privind alocarea unor sume din bugetul local în vederea achiziționării de cadouri pentru preșcolarii și elevii din Școala Gimnazială nr. 1 Tanacu cu ocazia zilei de 1 Decembrie „Ziua Romaniei” si a Sărbătorilor de Iarnă 2023 -2024 precum si lucrari de montare - demontare ornamente luminoase stradale in comuna Tanacu cu ocazia Sărbătorilor de Iarnă 2023 -2024",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127265",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-55-2023",
+   "path": "local/vaslui/tanacu/2023/55",
+   "short": "HCL Tanacu nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 55/2023 privind aprobarea scoaterii din functiune în vederea valorificarii sau, dupa caz casării unor obiecte de inventar si mijloace fixe aflate in patrimoniul comunei Tanacu, judetul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127266",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127266",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-56-2023",
+   "path": "local/vaslui/tanacu/2023/56",
+   "short": "HCL Tanacu nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 56/2023 privind aprobarea Programului de măsuri de deszăpezire și combatere a poleiului pe drumurile din administrarea comunei în perioada de iarnă 15 noiembrie 2023 – 15 martie 2024",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127267",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-57-2023",
+   "path": "local/vaslui/tanacu/2023/57",
+   "short": "HCL Tanacu nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 57/2023 privind aprobarea documentației tehnico-economice faza: Studiu de fezabilitate, a devizului general și a indicatorilor tehnico-economici actualizați pentru implementarea Proiectului nr. C10-I1.2-1155, intitulat: ”Implementarea unui sistem de supraveghere video stradală în Comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127268",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127268",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-58-2023",
+   "path": "local/vaslui/tanacu/2023/58",
+   "short": "HCL Tanacu nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 58/2023 privind declararea unui imobil ca bun ce aparține domeniului public de interes local al comunei Tanacu, județul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127269",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-59-2023",
+   "path": "local/vaslui/tanacu/2023/59",
+   "short": "HCL Tanacu nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 59/2023 privind alegerea președintelui de ședință al Consiliului Local al Comunei Tanacu pentru perioada NOIEMBRIE 2023 ,DECEMBRIE 2023,IANUARIE 2024",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/127270",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/127270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-6-2023",
+   "path": "local/vaslui/tanacu/2023/6",
+   "short": "HCL Tanacu nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 6/2023 privind aprobarea inventarierii masei impozabile pentru anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93699",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-60-2023",
+   "path": "local/vaslui/tanacu/2023/60",
+   "short": "HCL Tanacu nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 60/2023 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Tanacu, județul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/131671",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/131671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-61-2023",
+   "path": "local/vaslui/tanacu/2023/61",
+   "short": "HCL Tanacu nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 61/2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/131672",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/131672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-62-2023",
+   "path": "local/vaslui/tanacu/2023/62",
+   "short": "HCL Tanacu nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 62/2023 privind acordarea unui mandat special reprezentantului UAT Tanacu în Adunarea Generală a Asociației pentru Dezvoltare Intercomunitară de Utilități Publice pentru Serviciul de Alimentare cu Apă și de Canalizare din Municipiile Vaslui, Bârlad , Huși și Orașul Negrești - județul Vaslui ( APC VASLUI)",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/131673",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/131673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-63-2023",
+   "path": "local/vaslui/tanacu/2023/63",
+   "short": "HCL Tanacu nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 63/2023 privind acordarea unui mandat special reprezentantului legal al UAT Tanacu, membru al Asociației pentru Dezvoltare Intercomunitara a județului Vaslui, pentru exprimarea votului în AGA ADIV",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/131674",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/131674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-64-2023",
+   "path": "local/vaslui/tanacu/2023/64",
+   "short": "HCL Tanacu nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 64/2023 privind aprobarea Planului de acțiuni și lucrări de interes local ce vor fi executate de către beneficiarii de ajutor social în anul 2024, conform Legii nr. 416/2001 privind venitul minin garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134121",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-65-2023",
+   "path": "local/vaslui/tanacu/2023/65",
+   "short": "HCL Tanacu nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 65/2023 privind rectificarea a VII-a a bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134122",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-67-2023",
+   "path": "local/vaslui/tanacu/2023/67",
+   "short": "HCL Tanacu nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 67/2023 privind aprobarea indicatorilor tehnico – economici, actualizați, pentru obiectivul de investiții: ”Modernizarea și dotarea căminului cultural din sat Tanacu, comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134124",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-68-2023",
+   "path": "local/vaslui/tanacu/2023/68",
+   "short": "HCL Tanacu nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 68/2023 privind aprobarea organigramei și a statului de funcții ale aparatului de specialitate al primarului comunei Tanacu, județul Vaslui",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134125",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-69-2023",
+   "path": "local/vaslui/tanacu/2023/69",
+   "short": "HCL Tanacu nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 69/2023 privind aprobarea suplimentării cu suma de 83.601,09 lei fără TVA, a contractului de execuție lucrări nr. 3964 din 08.05.2023, pentru obiectivul de investiții: ”Modernizarea și dotarea căminului cultural din sat Tanacu, comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134126",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-7-2023",
+   "path": "local/vaslui/tanacu/2023/7",
+   "short": "HCL Tanacu nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 7/2023 privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/93700",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/93700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-70-2023",
+   "path": "local/vaslui/tanacu/2023/70",
+   "short": "HCL Tanacu nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 70/2023 privind rectificarea a VIII-a a bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134758",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-71-2023",
+   "path": "local/vaslui/tanacu/2023/71",
+   "short": "HCL Tanacu nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 71/2023 privind aprobarea suplimentării cu suma de 107.998,03 lei fără TVA, a contractului de execuție lucrări nr. 5363 din 03.07.2023, pentru obiectivul de investiții: ”Modernizare, reabilitare și dotare școala gimnazială nr. 1, sat Tanacu, comuna Tanacu, județul Vaslui”",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134759",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-72-2023",
+   "path": "local/vaslui/tanacu/2023/72",
+   "short": "HCL Tanacu nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 72/2023 privind aprobarea proiectului de rețea școlară ce va funcționa în comuna Tanacu, județul Vaslui în anul școlar 2024-2025",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/134760",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/134760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tanacu-73-2023",
+   "path": "local/vaslui/tanacu/2023/73",
+   "short": "HCL Tanacu nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Tanacu nr. 73/2023 privind rectificarea a IX-a a bugetului local al Comunei Tanacu pe anul 2023",
+   "url": "https://emol.ro/tanacu-vs/registru-hcl/136828",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tanacu-vs/registru-hcl/136828",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

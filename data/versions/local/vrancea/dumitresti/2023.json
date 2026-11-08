@@ -3,6 +3,21 @@
  "shard": "local/vrancea/dumitresti/2023",
  "acts": [
   {
+   "slug": "hcl-vrancea--dumitresti-1-2023",
+   "path": "local/vrancea/dumitresti/2023/1",
+   "short": "HCL Dumitrești nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 1/2023 privind aprobarea bugetului local de venituri și cheltuieli al comunei Dumitrești, judeţul Vrancea, pentru anul 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#38996",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#38996",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-10-2023",
    "path": "local/vrancea/dumitresti/2023/10",
    "short": "HCL Dumitrești nr. 10/2023",
@@ -13,6 +28,81 @@
      "from": "2023-03-31",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#46140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-11-2023",
+   "path": "local/vrancea/dumitresti/2023/11",
+   "short": "HCL Dumitrești nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 11/2023 privind modificarea anexei nr.1 si anexei nr.2 la HCL nr 43 /2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA„ ETAPA II aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#46878",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#46878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-12-2023",
+   "path": "local/vrancea/dumitresti/2023/12",
+   "short": "HCL Dumitrești nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 12/2023 privind: aprobarea Protocolului de colaborare dintre UAT Comuna Dumitrești, prin Consiliul Local al comunei Dumitrești,, şi Ministerul Muncii și Solidarității Sociale, în vederea derulării proiectului „ HUB de Servicii MMSS – SII MMSS” Cod MySmis 130963",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#46879",
+   "versions": [
+    {
+     "from": "2023-04-12",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#46879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-13-2023",
+   "path": "local/vrancea/dumitresti/2023/13",
+   "short": "HCL Dumitrești nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 13/2023 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44793",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-14-2023",
+   "path": "local/vrancea/dumitresti/2023/14",
+   "short": "HCL Dumitrești nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 14/2023 Privind aprobarea execuției bugetului local al comunei Dumitrești, pe trimestrul I al anului 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48477",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48477",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-15-2023",
+   "path": "local/vrancea/dumitresti/2023/15",
+   "short": "HCL Dumitrești nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 15/2023 privind aprobarea Planului anual de acțiune privind serviciile sociale administrate și finanțate din bugetul Consiliului local Dumitrești pe anul 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48479",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48479",
      "sha256": null
     }
    ]
@@ -33,6 +123,111 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-17-2023",
+   "path": "local/vrancea/dumitresti/2023/17",
+   "short": "HCL Dumitrești nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 17/2023 privind modificarea anexei la HCL nr. 30/31.07.2017 pentru aprobarea salariilor de bază pentru funcționarii publici si personalul contractual din aparatul de specialitate al primarului comunei Dumitrești, jud. Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48482",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-18-2023",
+   "path": "local/vrancea/dumitresti/2023/18",
+   "short": "HCL Dumitrești nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 18/2023 Privind: aprobarea solicitării de transmitere a imobilului teren \" Bază de producție Dumitrești \" identificat în Tarla 25, Parcela 835, din domeniul public al judeţului Vrancea , în domeniul public al comunei Dumitrești",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48483",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-19-2023",
+   "path": "local/vrancea/dumitresti/2023/19",
+   "short": "HCL Dumitrești nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 19/2023 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii ,,Modernizare statii de epurare în sat Dumitresti , extindere rețea canalizare in satele Blidari si Bicestii de Jos , modernizare gospodarie de apa în satele Galoiesti si Blidari ,comuna Dumitresti ,judetul Vrancea’’",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48485",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-2-2023",
+   "path": "local/vrancea/dumitresti/2023/2",
+   "short": "HCL Dumitrești nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 2/2023 privind aprobarea planului de acţiuni şi lucrări de interes local pe anul 2023 pentru persoanele apte de muncă din familile beneficiare de venit minim garantat, conform Legii nr.416/2001",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#41793",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#41793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-20-2023",
+   "path": "local/vrancea/dumitresti/2023/20",
+   "short": "HCL Dumitrești nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 20/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-21-2023",
+   "path": "local/vrancea/dumitresti/2023/21",
+   "short": "HCL Dumitrești nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 21/2023 privind aprobarea: cererii de finanţare şi a devizului general estimativ aferent obiectivului de investiţii ,,Modernizare statii de epurare în sat Dumitresti , extindere rețea canalizare in satele Blidari si Bicestii de Jos , modernizare gospodarie de apa în satele Galoiesti si Blidari ,comuna Dumitresti ,judetul Vrancea’’",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48488",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#48488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-22-2023",
+   "path": "local/vrancea/dumitresti/2023/22",
+   "short": "HCL Dumitrești nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 22/2023 Privind : înfiinţarea şi delegarea gestiunii prin concesiune a Serviciului pentru gestionarea câinilor fără stăpân din Comuna Dumitrești, judeţul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49555",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49555",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-23-2023",
    "path": "local/vrancea/dumitresti/2023/23",
    "short": "HCL Dumitrești nr. 23/2023",
@@ -43,6 +238,81 @@
      "from": "2023-05-30",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-24-2023",
+   "path": "local/vrancea/dumitresti/2023/24",
+   "short": "HCL Dumitrești nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 24/2023 actualizarea Planului de Analiză și Acoperire a Riscurilor la nivelul comunei Dumitresti, judeţul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49557",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-25-2023",
+   "path": "local/vrancea/dumitresti/2023/25",
+   "short": "HCL Dumitrești nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 25/2023 privind aprobarea contului anual de execuţie a bugetului local de venituri și cheltuieli al Comunei Dumitrești, județul Vrancea, pe anul 2022",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49558",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#49558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-26-2023",
+   "path": "local/vrancea/dumitresti/2023/26",
+   "short": "HCL Dumitrești nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 26/2023 privind rectificarea bugetului local de venituri și cheltuieli si modificarea listei de investiții pe anul 2023, al comunei Dumitrești, judeţul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#50800",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#50800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-27-2023",
+   "path": "local/vrancea/dumitresti/2023/27",
+   "short": "HCL Dumitrești nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 27/2023 privind: aprobarea participării UAT Comuna Dumitrești la implementarea proiectului ’’Verde la educație - microbuze electrice pentru elevi’’",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#50801",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#50801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-28-2023",
+   "path": "local/vrancea/dumitresti/2023/28",
+   "short": "HCL Dumitrești nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 28/2023 privind: actualizarea Regulamentului privind eliberarea cardului – legitimaţie de parcare gratuită pentru persoanele cu handicap",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53605",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53605",
      "sha256": null
     }
    ]
@@ -78,6 +348,291 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-31-2023",
+   "path": "local/vrancea/dumitresti/2023/31",
+   "short": "HCL Dumitrești nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 31/2023 privind transformarea unui post ca urmare a susținerii examenului de promovare în grad profesional imediat superior celui deținut de către funcționarul public si modificarea statului de funcții al aparatului de specialitate al primarului comunei Dumitrești, Județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53609",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-32-2023",
+   "path": "local/vrancea/dumitresti/2023/32",
+   "short": "HCL Dumitrești nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 32/2023 privind aprobarea contractării unui împrumut în valoare de 1.140.830 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53610",
+   "versions": [
+    {
+     "from": "2023-06-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-33-2023",
+   "path": "local/vrancea/dumitresti/2023/33",
+   "short": "HCL Dumitrești nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 33/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023, al comunei Dumitrești, judeţul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53611",
+   "versions": [
+    {
+     "from": "2023-07-03",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#53611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-34-2023",
+   "path": "local/vrancea/dumitresti/2023/34",
+   "short": "HCL Dumitrești nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 34/2023 privind încetarea contractului de concesiune nr. 4456 din10.09.2004, încheiat între Consiliul Local Dumitrești și Dr. Jipianu Fănica, medic specialist MF la ''Cabinetului Medical Dr. Jipianu Fănica SRL'',",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54606",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-35-2023",
+   "path": "local/vrancea/dumitresti/2023/35",
+   "short": "HCL Dumitrești nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 35/2023 privind aprobarea execuției bugetului local al comunei Dumitrești, pe trimestrul II al anului 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54608",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-36-2023",
+   "path": "local/vrancea/dumitresti/2023/36",
+   "short": "HCL Dumitrești nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 36/2023 Privind modificarea anexei nr. 1 si 2 la HCL nr. 21 /2023, privind aprobarea cererii de finanţare şi a devizului general estimativ aferent obiectivului de investiţii ,,Modernizare statii de epurare în sat Dumitresti , extindere rețea canalizare in satele Blidari si Bicestii de Jos , modernizare gospodarie de apa în satele Galoiesti si Blidari ,comuna Dumitresti ,judetul Vrancea’’",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54609",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-37-2023",
+   "path": "local/vrancea/dumitresti/2023/37",
+   "short": "HCL Dumitrești nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 37/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54610",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54610",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-38-2023",
+   "path": "local/vrancea/dumitresti/2023/38",
+   "short": "HCL Dumitrești nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 38/2023 privind aprobarea Bugetului de credite interne al comunei Dumitrești, județul Vrancea, pe anul 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54611",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54611",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-39-2023",
+   "path": "local/vrancea/dumitresti/2023/39",
+   "short": "HCL Dumitrești nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 39/2023 privind declararea de utilitate publică de interes local a obiectivului de investiție ''Execuție foraje de explorare/exploatare în vederea asigurarii necesarului de apă pentru animale si culturi agricole în satele Poienița și Găloiești",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54612",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-4-2023",
+   "path": "local/vrancea/dumitresti/2023/4",
+   "short": "HCL Dumitrești nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 4/2023 privind: modificarea si completarea Statutului si Actului Constitutiv ale Asociației de Dezvoltare Intercomunitară „VRANCEAQUA\"",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#41798",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#41798",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-40-2023",
+   "path": "local/vrancea/dumitresti/2023/40",
+   "short": "HCL Dumitrești nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 40/2023 privind modificarea anexei nr.2 la Hotărârea Consiliului Local nr.17 /2023 privind aprobarea depunerii cererii de finanțare și a cheltuielilor legate de proiect pentru obiectivul de investiție ,,Digitalizarea serviciilor comunei DUMITREȘTI” în cadrul finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte Pilonul IV – Coeziune economică, socială și teritorială -Componenta C10 – Fondul local",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55878",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-41-2023",
+   "path": "local/vrancea/dumitresti/2023/41",
+   "short": "HCL Dumitrești nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 41/2023 privind modificarea organigramei şi statului de funcţii al aparatului de specialitate al primarului comunei Dumitrești, judeţul Vrancea si a serviciilor publice din subordinea consiliului local al comunei Dumitrești, județul Vrancea, în anul 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55879",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55879",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-42-2023",
+   "path": "local/vrancea/dumitresti/2023/42",
+   "short": "HCL Dumitrești nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 42/2023 privind actualizarea indicatorilor tehnico-economici și a devizului general după finalizarea procedurilor de achizitie publică pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA„ ETAPA II, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55880",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#55880",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-43-2023",
+   "path": "local/vrancea/dumitresti/2023/43",
+   "short": "HCL Dumitrești nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 43/2023 privind actualizarea indicatorilor tehnico-economici și a devizului general după finalizarea procedurilor de achizitie publică pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL, COMUNA DUMITRESTI, JUDETUL VRANCEA„ ETAPA I, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56387",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-44-2023",
+   "path": "local/vrancea/dumitresti/2023/44",
+   "short": "HCL Dumitrești nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 44/2023 privind neasumarea responsabilităţii organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziţia produselor și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative prevăzute de “Programul pentru școli al României” la nivelul comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56801",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-45-2023",
+   "path": "local/vrancea/dumitresti/2023/45",
+   "short": "HCL Dumitrești nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 45/2023 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii ''Execuție foraje de explorare/exploatare în vederea asigurarii necesarului de apă pentru animale si culturi agricole în satele Poienita și Găloiesti",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56802",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#56802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-46-2023",
+   "path": "local/vrancea/dumitresti/2023/46",
+   "short": "HCL Dumitrești nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 46/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-47-2023",
+   "path": "local/vrancea/dumitresti/2023/47",
+   "short": "HCL Dumitrești nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 47/2023 privind aprobarea notei conceptuale şi a temei de proiectare pentru obiectivul de investiţii ,,Reabilitare ulițe sătești în satele Găloiești si Dumitreștii de Sus, Comuna Dumitrești ,județul Vrancea”",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#57670",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#57670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-48-2023",
+   "path": "local/vrancea/dumitresti/2023/48",
+   "short": "HCL Dumitrești nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 48/2023 privind reorganizarea aparatului de specialitate al primarului comunei Dumitrești, județul Vrancea și aprobarea organigramei și a statului de funcţii pentru aparatul de specialitate al primarului și pentru serviciile publice din subordinea consiliului local",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#57671",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#57671",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-49-2023",
    "path": "local/vrancea/dumitresti/2023/49",
    "short": "HCL Dumitrești nr. 49/2023",
@@ -88,6 +643,21 @@
      "from": "2023-09-01",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#57672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-5-2023",
+   "path": "local/vrancea/dumitresti/2023/5",
+   "short": "HCL Dumitrești nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 5/2023 privind aprobarea proiectului ,,Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe, Comuna Dumitrești, Judetul Vrancea'', a cheltuielilor legate de proiect si depunerea acestuia in cadrul apelului de proiecte din Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C15 – Educație, Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44797",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44797",
      "sha256": null
     }
    ]
@@ -153,6 +723,36 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-54-2023",
+   "path": "local/vrancea/dumitresti/2023/54",
+   "short": "HCL Dumitrești nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 54/2023 privind aprobarea Documentației de avizare pentru lucrări de intervenție - DALI si a principalilor indicatori tehnico -economici pentru obiectivul de investiţii ,,Reabilitare ulițe sătești în satele Găloiești si Dumitreștii de Sus, Comuna Dumitrești, județul Vrancea”",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#58291",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#58291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-55-2023",
+   "path": "local/vrancea/dumitresti/2023/55",
+   "short": "HCL Dumitrești nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 55/2023 privind atestarea inventarului bunurilor care alcătuiesc domeniul public al comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54607",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#54607",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-56-2023",
    "path": "local/vrancea/dumitresti/2023/56",
    "short": "HCL Dumitrești nr. 56/2023",
@@ -183,6 +783,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-58-2023",
+   "path": "local/vrancea/dumitresti/2023/58",
+   "short": "HCL Dumitrești nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 58/2023 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2023, al comunei Dumitrești, judeţul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#61572",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#61572",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-59-2023",
    "path": "local/vrancea/dumitresti/2023/59",
    "short": "HCL Dumitrești nr. 59/2023",
@@ -193,6 +808,21 @@
      "from": "2023-12-15",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-6-2023",
+   "path": "local/vrancea/dumitresti/2023/6",
+   "short": "HCL Dumitrești nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 6/2023 privind rectificarea bugetului local de venituri și cheltuieli si modificarea listei de investiții pe anul 2023, al comunei Dumitrești, judeţul Vrancea,",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44798",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44798",
      "sha256": null
     }
    ]
@@ -228,6 +858,51 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--dumitresti-62-2023",
+   "path": "local/vrancea/dumitresti/2023/62",
+   "short": "HCL Dumitrești nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 62/2023 Privind stabilirea nivelurilor valorilor impozabile, impozitelor, taxelor locale,alte taxe asimilate acestora , precum și amenzile aplicabile pentru anul fiscal 2024",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66650",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-63-2023",
+   "path": "local/vrancea/dumitresti/2023/63",
+   "short": "HCL Dumitrești nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 63/2023 privind aprobarea Regulamentului privind organizarea şi desfăşurarea activităţilor comerciale pe teritoriul comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66651",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-64-2023",
+   "path": "local/vrancea/dumitresti/2023/64",
+   "short": "HCL Dumitrești nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 64/2023 privind aprobarea prelungirii termenului de valabilitate a documentaţiei de urbanism „Plan Urbanistic General al Comunei Dumitrești cu regulamentul local de urbanism aferent'', până la intrarea în vigoare a noului Plan Urbanistic General, dar nu mai târziu de data 31.12.2026",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66659",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--dumitresti-65-2023",
    "path": "local/vrancea/dumitresti/2023/65",
    "short": "HCL Dumitrești nr. 65/2023",
@@ -238,6 +913,81 @@
      "from": "2023-12-28",
      "units": 1,
      "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-66-2023",
+   "path": "local/vrancea/dumitresti/2023/66",
+   "short": "HCL Dumitrești nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 66/2023 Privind aprobarea rețelei școlare a unităţilor de învăţământ de stat preuniversitar din Unitatea Administrativ Teritorială Dumitrești, judetul Vrancea, pentru anul şcolar 2024-2025",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66664",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-67-2023",
+   "path": "local/vrancea/dumitresti/2023/67",
+   "short": "HCL Dumitrești nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 67/2023 privind validarea Dispoziției primarului nr.472 din 21.12.2023, cu privire la modificarea bugetului de venituri și cheltuieli al comunei Dumitresti judetul Vrancea pe trimestrul IV al anului 2023",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66665",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#66665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-7-2023",
+   "path": "local/vrancea/dumitresti/2023/7",
+   "short": "HCL Dumitrești nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 7/2023 privind modificarea statului de funcţii al aparatului de specialitate al primarului comunei Dumitrești, judeţul Vrancea si a serviciilor publice din subordinea consiliului local al comunei Dumitrești, județul Vrancea",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44795",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-8-2023",
+   "path": "local/vrancea/dumitresti/2023/8",
+   "short": "HCL Dumitrești nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 8/2023 Privind participarea Comunei Dumitresti, județul Vrancea la constituirea parteneriatului privind elaborarea, depunerea spre selecție și implementarea Strategiei de Dezvoltare Locală (SDL) 2023 – 2027 a Grupului de Acțiune Locală Valea Ramnicului, finanțată prin Planul National Strategic 2023-2027",
+   "url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44796",
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": "https://dumitresti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/5576#44796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--dumitresti-9-2023",
+   "path": "local/vrancea/dumitresti/2023/9",
+   "short": "HCL Dumitrești nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Dumitrești nr. 9/2023",
+   "url": null,
+   "versions": [
+    {
+     "from": "2023-03-31",
+     "units": 1,
+     "source_url": null,
      "sha256": null
     }
    ]

@@ -1,0 +1,183 @@
+{
+"country": "RO",
+"shard": "local/vrancea/bolotesti/2022",
+"acts": [
+{
+"slug": "hcl-vrancea--bolotesti-9-2022",
+"path": "local/vrancea/bolotesti/2022/9",
+"kind": "local",
+"year": "2022",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 9/2022",
+"short": "HCL Bolotești nr. 9/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63144",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-10-2022",
+"path": "local/vrancea/bolotesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 10/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii ,,Amenajare loc de joacă în satul Găgeşti, comuna Boloteşti, judeţul Vrancea “",
+"short": "HCL Bolotești nr. 10/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63145",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-11-2022",
+"path": "local/vrancea/bolotesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 11/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investitii ,,Modernizarea unor drumuri de interes local la nivelul comunei Boloteşti, judeţul Vrancea “",
+"short": "HCL Bolotești nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63146",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-13-2022",
+"path": "local/vrancea/bolotesti/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 13/2022 privind modificarea şi completarea HCL nr. 66 / 2021 privind aprobarea indicatorilor tehnico econimici pentru obiectivul de investitii ,,Modernizare infrastructură rutieră în comuna Boloteşti, judeţul Vrancea ” finanţat in cadrul Programului National de Investiţii Anghel Saligny",
+"short": "HCL Bolotești nr. 13/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63148",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-14-2022",
+"path": "local/vrancea/bolotesti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 14/2022 privind aprobarea actualizării indicatorilor tehnico-economici pentru obiectivul de investitii ,,Reparaţii clădire administrativă şi împrejmuire teren din satul Boloteşti, comuna Boloteşti , judeţul Vrancea “",
+"short": "HCL Bolotești nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63201",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-26-2022",
+"path": "local/vrancea/bolotesti/2022/26",
+"kind": "local",
+"year": "2022",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 26/2022 privind aprobarea Acordului de parteneriat încheiat între comunele Bolotești, Jariștea și Vidra aferent proiectului ,,Înființare rețea inteligentă de distribuție a gazelor naturale în comunele Bolotești, Jariștea și Vidra județul Vrancea”",
+"short": "HCL Bolotești nr. 26/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63228",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-32-2022",
+"path": "local/vrancea/bolotesti/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 32/2022 privind aprobarea organizării acţiunilor de dezinfecţie, dezinsecţie şi deratizare în comuna Bolotesti, judeţul Vrancea, în anul 2022",
+"short": "HCL Bolotești nr. 32/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63244",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--bolotesti-34-2022",
+"path": "local/vrancea/bolotesti/2022/34",
+"kind": "local",
+"year": "2022",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 34/2022 privind declararea de interes local şi includerea în domeniul public al comunei Boloteşti, judeţul Vrancea, a unui foraj executat în baza autorizaţiei de construire nr.12/2021 , pentru suplimentarea surselor de apă potabilă ale comunei",
+"short": "HCL Bolotești nr. 34/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-06-14",
+"latest": "2022-06-14",
+"portal": "https://emol.ro/bolotesti-vn/registru-hcl/63246",
+"council": "vrancea/bolotesti",
+"council_name": "Consiliul Local al Comunei Bolotești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

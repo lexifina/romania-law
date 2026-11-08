@@ -3,6 +3,50 @@
 "shard": "local/vrancea/corbita/2024",
 "acts": [
 {
+"slug": "hcl-vrancea--corbita-1-2024",
+"path": "local/vrancea/corbita/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbița nr. 1/2024 PHCLacoperire deficit bugetar an 2023",
+"short": "HCL Corbița nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#71062",
+"council": "vrancea/corbita",
+"council_name": "Consiliul Local al Comunei Corbița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--corbita-2-2024",
+"path": "local/vrancea/corbita/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Corbița nr. 2/2024 HCL privind: modificarea organigramei, al statului de funcții li al numărului de personal pentru aparatul de specialitate al primarului comunei Corbița, județul Vrancea",
+"short": "HCL Corbița nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://corbita.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/20091#102151",
+"council": "vrancea/corbita",
+"council_name": "Consiliul Local al Comunei Corbița",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--corbita-24-2024",
 "path": "local/vrancea/corbita/2024/24",
 "kind": "local",

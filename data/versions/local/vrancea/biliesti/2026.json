@@ -3,6 +3,21 @@
  "shard": "local/vrancea/biliesti/2026",
  "acts": [
   {
+   "slug": "hcl-vrancea--biliesti-1-2026",
+   "path": "local/vrancea/biliesti/2026/1",
+   "short": "HCL Biliești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 1/2026 privind utilizarea excedentului contului de executie al bugetului local al Municipiului Bailesti si al bugetului finantat din venituri proprii al anului 2026 in anul 2026",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#121193",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#121193",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--biliesti-100-2026",
    "path": "local/vrancea/biliesti/2026/100",
    "short": "HCL Biliești nr. 100/2026",
@@ -13,6 +28,21 @@
      "from": "2026-06-25",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-101-2026",
+   "path": "local/vrancea/biliesti/2026/101",
+   "short": "HCL Biliești nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 101/2026 privind rectificarea bugetului local pe anul 2026",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125857",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125857",
      "sha256": null
     }
    ]
@@ -133,6 +163,21 @@
      "from": "2026-07-23",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#129663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-110-2026",
+   "path": "local/vrancea/biliesti/2026/110",
+   "short": "HCL Biliești nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 110/2026 privind rectificarea bugetului local pe anul 2026;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130311",
+   "versions": [
+    {
+     "from": "2026-07-23",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130311",
      "sha256": null
     }
    ]
@@ -283,6 +328,21 @@
      "from": "2026-07-30",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-121-2026",
+   "path": "local/vrancea/biliesti/2026/121",
+   "short": "HCL Biliești nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 121/2026 privind completarea HCL nr. 129/27.11.2025 pentru aprobarea depunerii Proiectului ,, Cresterea eficientei energetice si masuri pentru utilizarea unor resurse regenerabile de energie la Ambulatoriul Integrat al Spitalului Municipal “Prof.Dr.Irinel Popescu” Bailesti “",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130767",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#130767",
      "sha256": null
     }
    ]
@@ -648,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--biliesti-63-2026",
+   "path": "local/vrancea/biliesti/2026/63",
+   "short": "HCL Biliești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 63/2026 privind aprobarea Regulamentului pentru inchirierea fara organizarea de licitatie publica a unor bunuri apartinand domeniului public al Municipiului Bailesti;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#123345",
+   "versions": [
+    {
+     "from": "2026-04-30",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#123345",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--biliesti-64-2026",
    "path": "local/vrancea/biliesti/2026/64",
    "short": "HCL Biliești nr. 64/2026",
@@ -693,6 +768,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--biliesti-67-2026",
+   "path": "local/vrancea/biliesti/2026/67",
+   "short": "HCL Biliești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 67/2026 privind aprobarea bugetului consolidat de venituri si cheltuieli al municipiului Bailesti pe anul 2026;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124031",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124031",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--biliesti-68-2026",
    "path": "local/vrancea/biliesti/2026/68",
    "short": "HCL Biliești nr. 68/2026",
@@ -703,6 +793,51 @@
      "from": "2026-05-11",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124032",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-69-2026",
+   "path": "local/vrancea/biliesti/2026/69",
+   "short": "HCL Biliești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 69/2026 privind aprobarea bugetului consolidat de venituri si cheltuieli al municipiului Bailesti pe anul 2026;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124034",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-70-2026",
+   "path": "local/vrancea/biliesti/2026/70",
+   "short": "HCL Biliești nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 70/2026 privind aprobarea rectificarii bugetului local al Municipiului Bailesti pe anul 2026;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124264",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-71-2026",
+   "path": "local/vrancea/biliesti/2026/71",
+   "short": "HCL Biliești nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 71/2026 privind aprobarea revocarii Hotararii Consiliului Local nr. 37/2026 privind actualizarea Inventarului bunurilor care alcatuiesc domeniul privat al Municipiului Bailesti, atestat prin HCL nr.40/27.03.2025;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124265",
+   "versions": [
+    {
+     "from": "2026-05-22",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#124265",
      "sha256": null
     }
    ]
@@ -933,6 +1068,21 @@
    ]
   },
   {
+   "slug": "hcl-vrancea--biliesti-87-2026",
+   "path": "local/vrancea/biliesti/2026/87",
+   "short": "HCL Biliești nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 87/2026 privind actualizarea Inventarului bunurilor care alcatuiesc domeniul privat al Municipiului Bailesti, atestat prin HCL nr.40/27.03.2025",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125417",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125417",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-vrancea--biliesti-88-2026",
    "path": "local/vrancea/biliesti/2026/88",
    "short": "HCL Biliești nr. 88/2026",
@@ -973,6 +1123,21 @@
      "from": "2026-06-05",
      "units": 1,
      "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--biliesti-91-2026",
+   "path": "local/vrancea/biliesti/2026/91",
+   "short": "HCL Biliești nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Biliești nr. 91/2026 /05.06.2026 privind aprobarea rectificarii bugetului local al Municipiului Bailesti pe anul 2026;",
+   "url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125546",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#125546",
      "sha256": null
     }
    ]

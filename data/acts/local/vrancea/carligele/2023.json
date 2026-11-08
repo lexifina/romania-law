@@ -1,0 +1,28 @@
+{
+"country": "RO",
+"shard": "local/vrancea/carligele/2023",
+"acts": [
+{
+"slug": "hcl-vrancea--carligele-2-2023",
+"path": "local/vrancea/carligele/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cârligele nr. 2/2023 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiţii ,,Construire locuințe sociale în comuna Cârligele, județul Vrancea” în cadrul Programului privind construcția de locuințe sociale derulat conform Legii locuinței nr. 114/1996",
+"short": "HCL Cârligele nr. 2/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-08-28",
+"latest": "2023-08-28",
+"portal": "https://emol.ro/carligele-vn/registru-hcl/109962",
+"council": "vrancea/carligele",
+"council_name": "Consiliul Local al Comunei Cârligele",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

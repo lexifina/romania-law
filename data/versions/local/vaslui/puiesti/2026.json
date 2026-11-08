@@ -1,0 +1,861 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/puiesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--puiesti-1-2026",
+   "path": "local/vaslui/puiesti/2026/1",
+   "short": "HCL Puiești nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 1/2026 Privind aprobarea planului de actiuni sau lucrari de interes local pentru anul 2026 pentru beneficiarii Legii 196/2016, privind venitul minim de incluziune cu modificarile si completarile ulterioare si pentru persoanele sanctionate sa presteze munca in folosul comunitatii",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251478",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-10-2026",
+   "path": "local/vaslui/puiesti/2026/10",
+   "short": "HCL Puiești nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 10/2026 privind analiza contului de execuție al bugetului local si a bugetului instituțiilor publice si activităților finanțate integral sau parțial din venituri proprii la trim IV-2025",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251487",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-12-2026",
+   "path": "local/vaslui/puiesti/2026/12",
+   "short": "HCL Puiești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 12/2026 privind aprobarea elaborării proiectului CONSTRUIRE CENTRU SOCIAL DE TIP RESPIRO, PENTRU PERSOANE CU DIZABILITĂȚI ÎN COMUNA PUIEȘTI, JUDEȚUL VASLUI ȘI SERVICII SOCIALE RELEVANTE PENTRU REGIUNE, cod SMIS 349161 și a parteneriatului cu Comuna Gherghești, județul Vaslui, pentru implementarea acestuia",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/252364",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/252364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-13-2026",
+   "path": "local/vaslui/puiesti/2026/13",
+   "short": "HCL Puiești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 13/2026 privind aprobarea modificarii organigramei UAT Puiesti",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/252365",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/252365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-15-2026",
+   "path": "local/vaslui/puiesti/2026/15",
+   "short": "HCL Puiești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 15/2026 privind aprobarea Devizului General actualizat pentru obiectivul de investiții \"Renovare integrata (consolidare seismica si renovare energetica moderata) a Scolii cu clasele V-VIII din Comuna Puiesti, judetul Vaslui\"",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/253649",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/253649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-16-2026",
+   "path": "local/vaslui/puiesti/2026/16",
+   "short": "HCL Puiești nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 16/2026 privind acordul UAT comuna Puiesti in vederea scoaterii din circuitul agricol a suprafatei de 3800 mp la obiectivul de investiție INFIINTARE REȚEA DE CANALIZARE ÎN SATELE LĂLEȘTI, CĂLIMĂNEȘTI, CRISTEȘTI, CETĂȚUIA, ROTARI, COMUNA PUIEȘTI, JUDEȚUL VASLUI finantat prin „Programului National de Investiții “Anghel Saligny”;",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/253650",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/253650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-17-2026",
+   "path": "local/vaslui/puiesti/2026/17",
+   "short": "HCL Puiești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 17/2026 privind acordul UAT comuna Puiesti in vederea scoaterii din circuitul agricol a suprafatei de 3450 mp la obiectivul de investiție „ÎNFIINȚARE REȚEA DE ALIMENTARE CU APĂ ÎN SATELE LALESTI, CALIMĂNESTI, CRISTESTI, CETATUIA SI ROTARI, COMUNA PUIEȘTI, JUDEȚUL VASLUI”, finantat prin „Programului National de Investiții “Anghel Saligny”;",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/253651",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/253651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-18-2026",
+   "path": "local/vaslui/puiesti/2026/18",
+   "short": "HCL Puiești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 18/2026 privind acordul UAT comuna Puiesti in vederea scoaterii din circuitul agricol a suprafatei de 3070 mp pentru obiectivul de investiție „ÎNFIINTARE REȚEA DE ALIMENTARE CU APA IN SATELE : RUSI, GALTESTI - IEZER, COMUNA PUIEȘTI, JUDEȚUL VASLUI, finantat prin „Programului National de Investiții “Anghel Saligny”;",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/253652",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/253652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-19-2026",
+   "path": "local/vaslui/puiesti/2026/19",
+   "short": "HCL Puiești nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 19/2026 privind atestarea apartenentei la domeniul privat al comunei Puiești a unei suprafete de teren",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/261260",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/261260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-2-2026",
+   "path": "local/vaslui/puiesti/2026/2",
+   "short": "HCL Puiești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 2/2026 privind aprobarea rezultatelor inventarierii bunurilor ce fac parte din patrimoniul public si privat al comunei Puiești pe anul 2025",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251479",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251479",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-20-2026",
+   "path": "local/vaslui/puiesti/2026/20",
+   "short": "HCL Puiești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 20/2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/263322",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/263322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-21-2026",
+   "path": "local/vaslui/puiesti/2026/21",
+   "short": "HCL Puiești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 21/2026 pentru reorganizarea aparatului de specialitate al primarului comunei Puiesti, aprobarea organigramei și a statului de funcții, potrivit prevederilor Ordonanţei de urgenţă a Guvernului nr. 7/2026 pentru modificarea şi completarea unor acte normative, precum şi pentru adoptarea unor măsuri pentru creşterea capacităţii financiare a unităţilor administrativ-teritoriale",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/263323",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/263323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-22-2026",
+   "path": "local/vaslui/puiesti/2026/22",
+   "short": "HCL Puiești nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 22/2026 privind aprobarea implementării proiectului de investiții și a cheltuielilor aferente pentru obiectivul „DEZVOLTAREA INFRASTRUCTURII LOCALE A COMUNEI PUIEȘTI, JUDEȚUL VASLUI, PRIN ACHIZIȚIONAREA UNUI UTILAJ - BULDOEXCAVATOR”",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/264031",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/264031",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-24-2026",
+   "path": "local/vaslui/puiesti/2026/24",
+   "short": "HCL Puiești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 24/2026 privind aprobarea bugetului local de venituri si cheltuieli pe anul 2026 și estimări pe anii 2027 - 2029 al comunei Puiești și Bugetul instituțiilor publice și activităților finanțate integral sau parțial din venituri proprii pe anul 2026 și estimări 2027 - 2029",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/266393",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/266393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-25-2026",
+   "path": "local/vaslui/puiesti/2026/25",
+   "short": "HCL Puiești nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 25/2026 privind actualizarea indicatorilor economici pentru obiectivul de investiții „ÎNFIINȚARE ȘI DOTARE CENTRU MEDICO-SOCIAL ÎN COMUNA PUIEȘTI, JUDEȚUL VASLUI” finanțat prin Programul Național de Dezvoltare Locală – Subprogramul Modernizarea satului Românesc, Domeniul realizare/extindere/reabilitare/modernizare/dotare a unităților sanitare, inclusiv a spațiilor afectate desfășurării activității unor cabinete medicale/dispensare medicale din mediul rural și centre de permanență",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/266394",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/266394",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-26-2026",
+   "path": "local/vaslui/puiesti/2026/26",
+   "short": "HCL Puiești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 26/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „RENOVARE INTEGRATA (CONSOLIDARE SEISMICA SI RENOVARE ENERGETICA MODERATA) A SCOLII CU CLASELE V-VIII DIN COMUNA PUIESTI, JUDETUL VASLUI” finanțat prin Planului Național de Redresare și Reziliență – Componenta C5 – Valul Renovării, Axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiunea B.1: Renovarea integrată (consolidare seismică și renovare energetică moderată) a clădirilor publice",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/266395",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/266395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-3-2026",
+   "path": "local/vaslui/puiesti/2026/3",
+   "short": "HCL Puiești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 3/2026 privind aprobarea rezultatelor inventarierii bunurilor ce fac parte din patrimoniul Serviciului de Gospdoarire comunală Puiești pe anul 2025",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251480",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-30-2026",
+   "path": "local/vaslui/puiesti/2026/30",
+   "short": "HCL Puiești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 30/2026 privind aprobarea dezmembrării unor terenuri aparţinând domeniului public/privat al comunei PUIESTI, judeţul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/266399",
+   "versions": [
+    {
+     "from": "2026-05-06",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/266399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-31-2026",
+   "path": "local/vaslui/puiesti/2026/31",
+   "short": "HCL Puiești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 31/2026 privind aprobarea contractării unui împrumut în valoare de 8.931.000 lei, în conformitate cu prevederile art. XXXI din Ordonanța de urgență a Guvernului nr. 89/2025",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/272364",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/272364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-32-2026",
+   "path": "local/vaslui/puiesti/2026/32",
+   "short": "HCL Puiești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 32/2026 privind aprobarea achizitionarii serviciilor juridice de consultantä, de asistentä si de reprezentare, pentru apararea intereselor comunei Puiești si ale autoritatii publice locale din comuna Puiești printr-un cabinet de avocatura - in dosarul 6761/324/2024",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/273999",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/273999",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-33-2026",
+   "path": "local/vaslui/puiesti/2026/33",
+   "short": "HCL Puiești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 33/2026 privind atribuirea in folosinta gratuita a terenului in suprafață de 1327 mp-CF 90073, situat in satul Lalesti, comuna din proprietatea privată a comunei Puiești in folosinta Parohiei Lălesti, comuna Puiesti",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/274000",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/274000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-34-2026",
+   "path": "local/vaslui/puiesti/2026/34",
+   "short": "HCL Puiești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 34/2026 privind aprobarea dezmembrării unui teren aparţinând domeniului privat al comunei PUIESTI, judeţul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/274001",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/274001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-35-2026",
+   "path": "local/vaslui/puiesti/2026/35",
+   "short": "HCL Puiești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 35/2026 privind completarea programului anual al achiziţiilor publice pe anul 2026, la nivelul autorităţii contractante UAT Puiesti, actualizat, în funcţie de fondurile aprobate, în condiţiile legii, referitoare la evidenţa achiziţiilor directe de produse, servicii şi lucrări",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/274002",
+   "versions": [
+    {
+     "from": "2026-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/274002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-37-2026",
+   "path": "local/vaslui/puiesti/2026/37",
+   "short": "HCL Puiești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 37/2026 privind aprobarea acordării cu titlul gratuit a dreptului de folosinţă asupra unui lot de teren pentru construirea de locuinţa proprietate personală pentru tineri, în condiţiile Legii nr. 15/2003",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276650",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276650",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-38-2026",
+   "path": "local/vaslui/puiesti/2026/38",
+   "short": "HCL Puiești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 38/2026 privind actualizarea indicatorilor economici pentru obiectivul de investiții „ÎNFIINȚARE ȘI DOTARE CENTRU MEDICO-SOCIAL ÎN COMUNA PUIEȘTI, JUDEȚUL VASLUI” finanțat prin Programul Național de Dezvoltare Locală – Subprogramul Modernizarea satului Românesc, Domeniul realizare/extindere/reabilitare/modernizare/dotare a unităților sanitare, inclusiv a spațiilor afectate desfășurării activității unor cabinete medicale/dispensare medicale din mediul rural și centre de permanență",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276651",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-39-2026",
+   "path": "local/vaslui/puiesti/2026/39",
+   "short": "HCL Puiești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 39/2026 privind utilizarea excedentului bugetului local al comunei Puiești din anii precedenti, pentru anul 2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276652",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-4-2026",
+   "path": "local/vaslui/puiesti/2026/4",
+   "short": "HCL Puiești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 4/2026 privind aprobarea inventarierii la nivelul Unităţii Administrativ Teritoriale Puiesti a materiei impozabile pentru anul fiscal 2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251481",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-40-2026",
+   "path": "local/vaslui/puiesti/2026/40",
+   "short": "HCL Puiești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 40/2026 privind rectificarea bugetului local pe anul 2026 si aprobarea Bugetului Creditelor Interne pentru anul 2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276653",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-41-2026",
+   "path": "local/vaslui/puiesti/2026/41",
+   "short": "HCL Puiești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 41/2026 privind completarea programului anual al achiziţiilor publice pe anul 2026, la nivelul autorităţii contractante UAT Puiesti, actualizat, în funcţie de fondurile aprobate, în condiţiile legii, referitoare la evidenţa achiziţiilor directe de produse, servicii şi lucrări",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276654",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-42-2026",
+   "path": "local/vaslui/puiesti/2026/42",
+   "short": "HCL Puiești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 42/2026 privind alocarea unei sume din bugetul local pentru finanțarea transportului, cazării și mesei elevilor cu merite deosebite din unitățile de învățământ de pe raza comunei Puiești, județul Vaslui, precum și a persoanelor însoțitoare, pe litoralul românesc, în vara anului 2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/276655",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/276655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-43-2026",
+   "path": "local/vaslui/puiesti/2026/43",
+   "short": "HCL Puiești nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 43/2026 privind atualizarea datelor din Hotararea Consiliului local Puiești nr. 6/ 31-01-2024 pentru imobilele ce se regăsesc in CF 78334, aflate în administrarea Agenției Naționale de Inbunatatiri funciare în domeniul privat al UAT Puiești, Județul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/281924",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/281924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-44-2026",
+   "path": "local/vaslui/puiesti/2026/44",
+   "short": "HCL Puiești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 44/2026 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „RENOVARE INTEGRATA (CONSOLIDARE SEISMICA SI RENOVARE ENERGETICA MODERATA) A SPITALULUI PUIESTI, DIN COMUNA PUIESTI, JUDETUL VASLUI” finanțat prin Planului Național de Redresare și Reziliență – Componenta C5 – Valul Renovării, Axa 2 — Schema de granturi pentru eficiență energetică și reziliență în clădiri publice, operațiunea B.1: Renovarea integrată (consolidare seismică și renovare energetică moderată) a clădirilor publice",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/281925",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/281925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-45-2026",
+   "path": "local/vaslui/puiesti/2026/45",
+   "short": "HCL Puiești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 45/2026 la proiectul de hotărâre privind stabilirea taxei speciale pentru eliberarea plăcuțelor de înregistrare a mijloacelor de transport",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/281926",
+   "versions": [
+    {
+     "from": "2026-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/281926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-47-2026",
+   "path": "local/vaslui/puiesti/2026/47",
+   "short": "HCL Puiești nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 47/2026 privind validarea modificarilor aduse bugetului local al comunei Puiesti, judetul Vaslui prin Dispozitiile Primarului comunei Puiești nr. 242 din 04.08-2026 si 259/20.08.2020 privind rectificarea bugetului local al comunei Puiești, județul Vaslui la data de 3-08-2026 si 20-08-2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/286863",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/286863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-48-2026",
+   "path": "local/vaslui/puiesti/2026/48",
+   "short": "HCL Puiești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 48/2026 privind aprobarea contului de execuție al bugetului local si a bugetului instituțiilor publice si activităților finanțate integral sau parțial din venituri proprii la trim I si II-2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/286864",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/286864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-49-2026",
+   "path": "local/vaslui/puiesti/2026/49",
+   "short": "HCL Puiești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 49/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizatpentru obiectivul de investiții„ÎNFIINȚARE REȚEA DE ALIMENTARE CU APĂ ÎN SATELE RUȘI, GĂLȚEȘTI ȘI IEZER, COMUNA PUIEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului, ca urmare a contractului de lucrari",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/286865",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/286865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-5-2026",
+   "path": "local/vaslui/puiesti/2026/5",
+   "short": "HCL Puiești nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 5/2026 privind analiza stadiului de inscriere a datelor in Registrul agricol pentru semestrul 2 al anului 2025 si stabilirea masurilor pentru eficientizarea acestei activitati",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251482",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-50-2026",
+   "path": "local/vaslui/puiesti/2026/50",
+   "short": "HCL Puiești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 50/2026 privind aprobarea devizelor general pentru proiectul ”Construire sisteme de alimentare si distributie gaze naturale in comune Perieni, comuna Pogana, comuna Iana si comuna Puiești, judetul Vaslui\" comun si al UAT Puiești",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/286866",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/286866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-51-2026",
+   "path": "local/vaslui/puiesti/2026/51",
+   "short": "HCL Puiești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 51/2026 privind privind alocarea sumei de 30.000 lei pentru organizarea zilei comunei data de 20 sep.2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/286867",
+   "versions": [
+    {
+     "from": "2026-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/286867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-52-2026",
+   "path": "local/vaslui/puiesti/2026/52",
+   "short": "HCL Puiești nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 52/2026 privind actualizarea indicatorilor economici pentru obiectivul de investiții „ÎNFIINȚARE ȘI DOTARE CENTRU MEDICO-SOCIAL ÎN COMUNA PUIEȘTI, JUDEȚUL VASLUI” finanțat prin Programul Național de Dezvoltare Locală – Subprogramul Modernizarea satului Românesc, Domeniul realizare/extindere/reabilitare/modernizare/dotare a unităților sanitare, inclusiv a spațiilor afectate desfășurării activității unor cabinete medicale/dispensare medicale din mediul rural și centre de permanență",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291294",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-53-2026",
+   "path": "local/vaslui/puiesti/2026/53",
+   "short": "HCL Puiești nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 53/2026 privind aprobarea proiectului „ÎNFIINȚARE PARC FOTOVOLTAIC PENTRU PRODUCEREA ENERGIEI ELECTRICE DIN SURSE REGENERABILE CU SISTEME DE STOCARE A ENERGIEI ELECTRICE ÎN COMUNA PUIEȘTI, JUDEȚUL VASLUI” și a indicatorilor tehnico-economici",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291295",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291295",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-54-2026",
+   "path": "local/vaslui/puiesti/2026/54",
+   "short": "HCL Puiești nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 54/2026 privind validarea modificarilor aduse BUGETULUI LOCAL PE ANUL 2026, la serviciul de Gospodarire comuna Puiești prin decizia nr.5/ 23-09-2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291396",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-55-2026",
+   "path": "local/vaslui/puiesti/2026/55",
+   "short": "HCL Puiești nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 55/2026 privind actualizarea devizului general ca urmare a atribuirii contractului de executie la obiectivul ” Refacere Drum comunal DC 96 Localitătile Cristesti-Lălesti, comuna Puiești, Judetul Vaslui, L 2700 m”",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291397",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-56-2026",
+   "path": "local/vaslui/puiesti/2026/56",
+   "short": "HCL Puiești nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 56/2026 privind actualizarea Regulamentelor și a Caietelor de sarcini pentru Serviciul de alimentare cu apă și canalizare și Serviciul de gospodărire comunală în comuna Puiești, județul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291398",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-57-2026",
+   "path": "local/vaslui/puiesti/2026/57",
+   "short": "HCL Puiești nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 57/2026 privind aprobarea procentului pierderilor de apă în rețeaua publică de distribuție administrată de Serviciul de Gospodărire Comunală Puiești",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291399",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-58-2026",
+   "path": "local/vaslui/puiesti/2026/58",
+   "short": "HCL Puiești nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 58/2026 privind stabilirea redevenței pentru bunurile predate Serviciului de Gospodărire Comunală Puiești",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291400",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-6-2026",
+   "path": "local/vaslui/puiesti/2026/6",
+   "short": "HCL Puiești nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 6/2026 privind transfeul fără plată a microbuzului scolar Ford VS 01-PCP, din proprietatea privata a U.A.T.- comuna Puiesti către Liceul Tehnologic Puiești, judetul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251483",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-61-2026",
+   "path": "local/vaslui/puiesti/2026/61",
+   "short": "HCL Puiești nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 61/2026 privind aprobarea graficului de circulație al microbuzelor școlare destinat transportului elevilor din cadrul Liceului Tehnologic Puiești din comuna Puiești, județul Vaslui in anul scolar 2026-2027",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/291403",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/291403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-63-2026",
+   "path": "local/vaslui/puiesti/2026/63",
+   "short": "HCL Puiești nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 63/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „CONSTRUIRE SISTEME DE ALIMENTARE SI DISTRIBUTIE GAZE NATURALE IN COMUNA PERIENI, COMUNA IANA, COMUNA POGANA SI COMUNA PUIESTI, JUDETUL VASLUI” - pentru Comuna Puiești, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297460",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-64-2026",
+   "path": "local/vaslui/puiesti/2026/64",
+   "short": "HCL Puiești nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 64/2026 privind aprobarea devizului general actualizat la terminarea lucrărilor pentru obiectivul de investiții \"Renovare integrata (consolidare seismica si renovare energetica moderata) a Scolii cu clasele V-VIII din Comuna Puiesti, judetulVaslui\"",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297461",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297461",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-65-2026",
+   "path": "local/vaslui/puiesti/2026/65",
+   "short": "HCL Puiești nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 65/2026 privind aprobarea devizului general actualizat la terminarea lucrărilor pentru obiectivul de investiții \"Renovare integrate (consolidareseismicasirenovareenergeticamoderata) a Spitalului Puiesti , din comunaPuiesti , judetul Vaslui\"",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297462",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-66-2026",
+   "path": "local/vaslui/puiesti/2026/66",
+   "short": "HCL Puiești nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 66/2026 privind aprobarea contului de execuție al bugetului local si a bugetului instituțiilor publice si activităților finanțate integral sau parțial din venituri proprii la trim III-2026",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297463",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-67-2026",
+   "path": "local/vaslui/puiesti/2026/67",
+   "short": "HCL Puiești nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 67/2026 privind aprobarea Regulamentului, a Contractului-cadru și a tarifelor pentru închirierea spațiilor din incinta Căminului Cultural din comuna Puiești, județul Vaslui",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297464",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-69-2026",
+   "path": "local/vaslui/puiesti/2026/69",
+   "short": "HCL Puiești nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 69/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat ca urmare a atribuirii contractului de executie pentru obiectivul de investiții„ÎNFIINȚARE REȚEA DE CANALIZARE ÎN SATELE LĂLEȘTI, CĂLIMĂNEȘTI, CRISTEȘTI, CETĂȚUIA, ROTARI, COMUNA PUIEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/297466",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/297466",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-7-2026",
+   "path": "local/vaslui/puiesti/2026/7",
+   "short": "HCL Puiești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 7/2026 privind aprobarea Regulamentului de organizare şi funcţionare a Pietii Puiesti",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251484",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-8-2026",
+   "path": "local/vaslui/puiesti/2026/8",
+   "short": "HCL Puiești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 8/2026 Privind aprobarea Raportului privind activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav , pe semestrul II al anului 2025",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251485",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--puiesti-9-2026",
+   "path": "local/vaslui/puiesti/2026/9",
+   "short": "HCL Puiești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Puiești nr. 9/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „ÎNFIINȚARE REȚEA DE CANALIZARE ÎN SATELE LĂLEȘTI, CĂLIMĂNEȘTI, CRISTEȘTI, CETĂȚUIA, ROTARI, COMUNA PUIEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny” precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/puiesti-vs/registru-hcl/251486",
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/puiesti-vs/registru-hcl/251486",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

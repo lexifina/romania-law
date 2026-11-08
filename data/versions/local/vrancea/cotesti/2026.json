@@ -1,0 +1,606 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/cotesti/2026",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--cotesti-12-2026",
+   "path": "local/vrancea/cotesti/2026/12",
+   "short": "HCL Cotești nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 12/2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274308",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274308",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-13-2026",
+   "path": "local/vrancea/cotesti/2026/13",
+   "short": "HCL Cotești nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 13/2026 privind actualizarea planului de analiză și acoperirea a riscurilor (PAAR) la nivelul UAT",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274309",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274309",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-14-2026",
+   "path": "local/vrancea/cotesti/2026/14",
+   "short": "HCL Cotești nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 14/2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274317",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-15-2026",
+   "path": "local/vrancea/cotesti/2026/15",
+   "short": "HCL Cotești nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 15/2026 privind aprobarea Acordului de Parteneriat dintre UAT COMUNA COTEȘTI și O.M.D “Vin în Vrancea” în vederea depunerii și implementării proiectului „Cotești – Brand local de destinație pentru vinurile reprezentative ale Vrancei”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274318",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-17-2026",
+   "path": "local/vrancea/cotesti/2026/17",
+   "short": "HCL Cotești nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 17/2026 privind aprobarea dezmembrării în trei loturi a unei suprafețe de teren domeniului public al comunei Cotești",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274322",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-18-2026",
+   "path": "local/vrancea/cotesti/2026/18",
+   "short": "HCL Cotești nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 18/2026 privind aprobarea aderării UAT comuna Tănăsoaia la asociația de dezvoltare intercomunitară „VRANCEAQUA”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274323",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-2-2026",
+   "path": "local/vrancea/cotesti/2026/2",
+   "short": "HCL Cotești nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 2/2026 privind analizarea si aprobarea execuţiei bugetului local al comunei Cotesti si al activităţilor finanţate din venituri proprii pentru trimestrul IV, anul 2025",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274219",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-20-2026",
+   "path": "local/vrancea/cotesti/2026/20",
+   "short": "HCL Cotești nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 20/2026 privind analizarea și aprobarea execuției bugetului local al comunei Cotești și al activităților finanțate din venituri proprii pentru trimestrul I, anul 2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274354",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274354",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-21-2026",
+   "path": "local/vrancea/cotesti/2026/21",
+   "short": "HCL Cotești nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 21/2026 privind declararea de uz și interes public local a unui imobil în vederea atestării apartenenței acestuia la inventarul bunurilor aflate în domeniul public al comunei Cotești, județul Vrancea",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274355",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-23-2026",
+   "path": "local/vrancea/cotesti/2026/23",
+   "short": "HCL Cotești nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 23/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Asigurarea infrastructurii pentru transportul verde -infrastructură TIC în comuna Cotești, județul Vrancea”-mobilier rural smart”, la faza SF",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274357",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274357",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-24-2026",
+   "path": "local/vrancea/cotesti/2026/24",
+   "short": "HCL Cotești nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 24/2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274358",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274358",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-26-2026",
+   "path": "local/vrancea/cotesti/2026/26",
+   "short": "HCL Cotești nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 26/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat după achiziții, pentru obiectivul de investiții „ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE – INFRASTRUCTURĂ TIC IN COMUNA COTEŞTI, JUDEȚUL VRANCEA”, aprobat pentru finanțare prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274363",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274363",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-27-2026",
+   "path": "local/vrancea/cotesti/2026/27",
+   "short": "HCL Cotești nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 27/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat la finalizarea proiectului, pentru obiectivul de investiții ,,LUCRARI DE CRESTERE A EFICIENTEI ENERGETICE A CĂMINULUI CULTURAL AL COMUNEI COTEŞTI, JUDEȚUL VRANCEA”, aprobat pentru finanțare prin Planul Național de Redresare și Reziliență (PNRR), COMPONENTA C10 – Fondul Local",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274364",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-28-2026",
+   "path": "local/vrancea/cotesti/2026/28",
+   "short": "HCL Cotești nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 28/2026 privind exprimarea acordului de principiu pentru participarea Comunei Cotești la inițiativa Investiții Teritoriale Integrate (ITI) Buzău-Vrancea și susținerea constituirii Asociației de Dezvoltare Intercomunitară (ADI) dedicate",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274365",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-29-2026",
+   "path": "local/vrancea/cotesti/2026/29",
+   "short": "HCL Cotești nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 29/2026 privind implementarea proiectului „Utilaj multifuncțional pentru intervenții de urgență și gospodărire comunală – Tractor rutier dotat cu echipamente specifice”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274397",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-3-2026",
+   "path": "local/vrancea/cotesti/2026/3",
+   "short": "HCL Cotești nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 3/2026 privind aprobarea contului anual de execuție a bugetului local al comunei Costești pentru anul 2025",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274220",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-30-2026",
+   "path": "local/vrancea/cotesti/2026/30",
+   "short": "HCL Cotești nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 30/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Racordare la retea parc fotovoltaic in comuna Cotesti, judetul Vrancea“",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274398",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-31-2026",
+   "path": "local/vrancea/cotesti/2026/31",
+   "short": "HCL Cotești nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 31/2026 privind aprobarea Notelor de Renunțare și a Notelor de Comandă Suplimentară pentru realizarea obiectivul de investiții “Modernizare infrastructură rutieră in comuna Cotesti, județul Vrancea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274399",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-32-2026",
+   "path": "local/vrancea/cotesti/2026/32",
+   "short": "HCL Cotești nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 32/2026 privind aprobarea indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții “Modernizare infrastructură rutieră in comuna Cotesti, județul Vrancea”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274400",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-33-2026",
+   "path": "local/vrancea/cotesti/2026/33",
+   "short": "HCL Cotești nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 33/2026 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 4.000.000 lei",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274401",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-34-2026",
+   "path": "local/vrancea/cotesti/2026/34",
+   "short": "HCL Cotești nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 34/2026 privind aprobarea implementării proiectului “Înființare bazin de alimentare cu apă cu stație de clorinare și o conductă de alimentare cu apă a satului Budești, comuna Cotești”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274402",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-35-2026",
+   "path": "local/vrancea/cotesti/2026/35",
+   "short": "HCL Cotești nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 35/2026 privind aprobarea implementării proiectului “Teren de sport, sat Cotesti, comuna Cotesti, judetul Vrancea”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274403",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-36-2026",
+   "path": "local/vrancea/cotesti/2026/36",
+   "short": "HCL Cotești nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 36/2026 privind aprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții: \"asigurarea infrastructurii pentru transportul verde – infrastructura tic in comuna Cotești, județul Vrancea” MOBILIER RURAL SMART, LA FAZA PT",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274404",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-37-2026",
+   "path": "local/vrancea/cotesti/2026/37",
+   "short": "HCL Cotești nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 37/2026 privind modificarea și completarea Hotărârii Consiliului local al Comunei Cotești nr. 50/08.07.2019 privind aprobarea aderării UAT comuna Cotești prin Consiliul Local al comunei Cotești, județul Vrancea, la Asociația de Dezvoltare Intercomunitară pentru serviciul de salubrizare al localităților Focșani și Golești, județul Vrancea, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274405",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-38-2026",
+   "path": "local/vrancea/cotesti/2026/38",
+   "short": "HCL Cotești nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 38/2026 privind mandatarea Asociației de Dezvoltare Intercomunitară pentru serviciul de salubrizare a localităților Focșani și Golești județul Vrancea să atribuie contractul de delegare a serviciului public de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274406",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-39-2026",
+   "path": "local/vrancea/cotesti/2026/39",
+   "short": "HCL Cotești nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 39/2026 privind trecerea din domeniul public al comunei Cotești în domeniul privat al comunei Cotești a imobilului constructie C1- Gradiniță(P+1E) din sat Cotești, str. Dreptății, nr. 6, comuna Cotești, județul Vrancea, inscris in CF cu nr. 53773, în vederea casării și demolării, în scopul construirii unei clădiri noi cu destinația de grădiniță",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274407",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-4-2026",
+   "path": "local/vrancea/cotesti/2026/4",
+   "short": "HCL Cotești nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 4/2026 privind acoperirea definitivă a deficitului de casă înregistrat în bugetul local al comunei Cotești pentru anul 2025, din excedentul anului 2024",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274221",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274221",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-40-2026",
+   "path": "local/vrancea/cotesti/2026/40",
+   "short": "HCL Cotești nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 40/2026 privind aprobarea bugetului local al comunei Cotești pe anul 2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274408",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-41-2026",
+   "path": "local/vrancea/cotesti/2026/41",
+   "short": "HCL Cotești nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 41/2026 privind alocarea unei sume de bani din bugetul local al UAT Comuna Cotești, pentru ajutorarea comunei Soveja, județul Vrancea, care se află în situație de extremă dificultate",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274409",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-42-2026",
+   "path": "local/vrancea/cotesti/2026/42",
+   "short": "HCL Cotești nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 42/2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274410",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-44-2026",
+   "path": "local/vrancea/cotesti/2026/44",
+   "short": "HCL Cotești nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 44/2026 privind aprobarea documentației tehnico-economice (faza PT), a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Construire grădiniță cu program normal comuna Cotești, județul Vrancea”, inclus la finanțare în Programul național de investiții \"Școli sigure și sănătoase\"",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274413",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-45-2026",
+   "path": "local/vrancea/cotesti/2026/45",
+   "short": "HCL Cotești nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 45/2026 privind implementarea proiectului „ MAI APROAPE DE COMUNITATI PRIN SERVICII MOBILE INTEGRATE “ Unități medicale mobile (Cardiologie și Screening) cu sistem de telemedicină integrat, pentru populația vulnerabilă din Teritoriul GAL Tinutul Viei si Vinului Vrancea",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274414",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-46-2026",
+   "path": "local/vrancea/cotesti/2026/46",
+   "short": "HCL Cotești nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 46/2026 privind aprobarea alocarii unei sume din bugetul local al comunei Cotesti pe anul 2026, pentru acordarea unor excursii copiilor care urmeaza cursurile preșcolare și școlare in cadrul unitaților de invatamant de pe raza UAT comuna Cotești",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274419",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-48-2026",
+   "path": "local/vrancea/cotesti/2026/48",
+   "short": "HCL Cotești nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 48/2026 privind modificarea Hotărârii Consiliului Local al comunei Cotești nr. 33 din 23.04.2026 privind aprobarea contractării unei/unor finanțări rambursabile interne în valoare de până la 4.000.000 lei",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274446",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-49-2026",
+   "path": "local/vrancea/cotesti/2026/49",
+   "short": "HCL Cotești nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 49/2026 privind stabilirea unei suprafețe de teren in vederea depozitării temporare a deșeurilor și amenajarea unui punct de colectare separată, temporară a deșeurilor, pe raza comunei Coteşti, judetul Vrancea",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/282623",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/282623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-50-2026",
+   "path": "local/vrancea/cotesti/2026/50",
+   "short": "HCL Cotești nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 50/2026 privind aprobarea Proiectului tehnic, a indicatorilor tehnico-economici și a devizului general actualizat la faza PT pentru obiectivul de investiții ⹂Parc fotovoltaic în comuna Cotești, județul Vrancea”",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/282624",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/282624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-51-2026",
+   "path": "local/vrancea/cotesti/2026/51",
+   "short": "HCL Cotești nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 51/2026 privind aprobarea rectificarii bugetului local al comunei Coteşti, județul Vrancea",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/282625",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/282625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-7-2026",
+   "path": "local/vrancea/cotesti/2026/7",
+   "short": "HCL Cotești nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 7/2026 privind aprobarea documentației de atribuire și demararea procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale în comunele Cotești, Cârligele și Slobozia Ciorăști",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274252",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-8-2026",
+   "path": "local/vrancea/cotesti/2026/8",
+   "short": "HCL Cotești nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 8/2026 privind reaprobarea indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „Construire sediu primărie D+P+1E+M, sat Cotești, comuna Cotești, județul Vrancea”, la faza S.F",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274253",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vrancea--cotesti-9-2026",
+   "path": "local/vrancea/cotesti/2026/9",
+   "short": "HCL Cotești nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Cotești nr. 9/2026 privind aprobarea programului de acțiuni comunitare pentru anul 2026",
+   "url": "https://emol.ro/cotesti-vn/registru-hcl/274297",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cotesti-vn/registru-hcl/274297",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/vrancea/bolotesti/2024",
+ "acts": [
+  {
+   "slug": "hcl-vrancea--bolotesti-9-2024",
+   "path": "local/vrancea/bolotesti/2024/9",
+   "short": "HCL Bolotești nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Bolotești nr. 9/2024 privind aprobarea Regulamentului de decontare a cheltuielilor cu naveta pentru salariații din cadrul aparatului de specialitate al primarului comunei Boloteşti , judeţul Vrancea și aprobarea cheltuielilor în acest sens",
+   "url": "https://emol.ro/bolotesti-vn/registru-hcl/141683",
+   "versions": [
+    {
+     "from": "2024-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/bolotesti-vn/registru-hcl/141683",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

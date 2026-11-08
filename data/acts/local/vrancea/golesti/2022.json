@@ -1,0 +1,116 @@
+{
+"country": "RO",
+"shard": "local/vrancea/golesti/2022",
+"acts": [
+{
+"slug": "hcl-vrancea--golesti-2-2022",
+"path": "local/vrancea/golesti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golești nr. 2/2022 privind aprobarea reorganizării reţelei şcolare a unităţilor de învăţământ preuniversitar de la nivelul comunei Goleşti, judeţul Vrancea pentru anul şcolar 2022-2023",
+"short": "HCL Golești nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-01-27",
+"latest": "2022-01-27",
+"portal": "https://emol.ro/golesti-vn/registru-hcl/48447",
+"council": "vrancea/golesti",
+"council_name": "Consiliul Local al Comunei Golești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--golesti-10-2022",
+"path": "local/vrancea/golesti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golești nr. 10/2022 privind aprobarea achiziţionării unei autoutilitare , pentru deservirea Primăriei comunei Golești, județul Vrancea",
+"short": "HCL Golești nr. 10/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/golesti-vn/registru-hcl/50834",
+"council": "vrancea/golesti",
+"council_name": "Consiliul Local al Comunei Golești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--golesti-11-2022",
+"path": "local/vrancea/golesti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golești nr. 11/2022 privind aprobarea indicatorilor tehnico-economici ai investiției „Sistem de evacuare a apelor pluviale pe strada Căprioarei, comuna Golești, județul Vrancea”",
+"short": "HCL Golești nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/golesti-vn/registru-hcl/50835",
+"council": "vrancea/golesti",
+"council_name": "Consiliul Local al Comunei Golești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--golesti-16-2022",
+"path": "local/vrancea/golesti/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golești nr. 16/2022 privind modificarea indicatorilor tehnico-economici ai investiției „Construire bloc de locuințe sociale P+1E+M ,centrală termică și împrejmuire ,în comuna Golești, județul Vrancea”",
+"short": "HCL Golești nr. 16/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/golesti-vn/registru-hcl/50840",
+"council": "vrancea/golesti",
+"council_name": "Consiliul Local al Comunei Golești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--golesti-18-2022",
+"path": "local/vrancea/golesti/2022/18",
+"kind": "local",
+"year": "2022",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Golești nr. 18/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiție „Balastare drum de exploatare (str.Salcâmului) comuna Golești, județul Vrancea”",
+"short": "HCL Golești nr. 18/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-02-11",
+"latest": "2022-02-11",
+"portal": "https://emol.ro/golesti-vn/registru-hcl/50842",
+"council": "vrancea/golesti",
+"council_name": "Consiliul Local al Comunei Golești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

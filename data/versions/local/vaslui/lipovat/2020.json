@@ -1,0 +1,876 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/lipovat/2020",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--lipovat-1-2020",
+   "path": "local/vaslui/lipovat/2020/1",
+   "short": "HCL Lipovăț nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 1/2020 cu privire la aprobarea taxei speciale de salubrizare pentru anul 2020 la nivelul uat comuna Lipovat, judetul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4061",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-10-2020",
+   "path": "local/vaslui/lipovat/2020/10",
+   "short": "HCL Lipovăț nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 10/2020 cu privire la utilizarea excedentului bugetului local anului 2019 in anul 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4070",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-11-2020",
+   "path": "local/vaslui/lipovat/2020/11",
+   "short": "HCL Lipovăț nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 11/2020 cu privire la aprobarea bugetului consiliului local Lipovăț pe anul 2020 și estimări pe anii 2021, 2022, 2023",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4071",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-13-2020",
+   "path": "local/vaslui/lipovat/2020/13",
+   "short": "HCL Lipovăț nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 13/2020 cu privire la aprobarea planului annual de acțiune privind serviciile sociale administrate si finanțate din bugetul comunei Lipovăț pe anul 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4073",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-14-2020",
+   "path": "local/vaslui/lipovat/2020/14",
+   "short": "HCL Lipovăț nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 14/2020 cu privire la modificarea inventarului bunurilor care apartin domeniului public al comunei Lipovăț, județul Vaslui, atestat prin hg 1361/2001- anexa a nr 43",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4074",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-15-2020",
+   "path": "local/vaslui/lipovat/2020/15",
+   "short": "HCL Lipovăț nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 15/2020 privind completarea anexei 1 la hcl nr.23/23.04.2019 cu privire la stabilirea impozitelor si taxelor, precum si a taxelor speciale, pentru anul 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4075",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-16-2020",
+   "path": "local/vaslui/lipovat/2020/16",
+   "short": "HCL Lipovăț nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 16/2020 cu privire la aprobarea valorii proiectului și solicitarea unei scrisori de garanție în vederea acordării avansului pentru DOTAREA SERVICIULUI DE GOSPODĂRIRE COMUNAL, COMUNA LIPOVĂȚ, JUDEȚUL VASLUI, finanțat în cadru PNDR - măsura 19.2",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4076",
+   "versions": [
+    {
+     "from": "2020-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-17-2020",
+   "path": "local/vaslui/lipovat/2020/17",
+   "short": "HCL Lipovăț nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 17/2020 cu privire la rectificarea I a bugetului consiliului local Lipovăț, etapa aprilie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4085",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-18-2020",
+   "path": "local/vaslui/lipovat/2020/18",
+   "short": "HCL Lipovăț nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 18/2020 cu privire la aprobarea contului de execuție an 2019 a bugetului consiliului local Lipovăț",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4086",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-19-2020",
+   "path": "local/vaslui/lipovat/2020/19",
+   "short": "HCL Lipovăț nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 19/2020 cu privire la stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2021",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4087",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-2-2020",
+   "path": "local/vaslui/lipovat/2020/2",
+   "short": "HCL Lipovăț nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 2/2020 proiect de hotărâre privind aprobarea regulamentului de instituire si administrare a taxei speciale de salubrizare SIMDS la nivelul uat comuna Lipovat",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4062",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-20-2020",
+   "path": "local/vaslui/lipovat/2020/20",
+   "short": "HCL Lipovăț nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 20/2020 cu privire la modificarea statului de funcții și organigramei aparatului de specialitate a primăriei Lipovăț, județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4088",
+   "versions": [
+    {
+     "from": "2020-04-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-23-2020",
+   "path": "local/vaslui/lipovat/2020/23",
+   "short": "HCL Lipovăț nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 23/2020 cu privire la execuția bugetului local la finele trimestrului I anul 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4099",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4099",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-24-2020",
+   "path": "local/vaslui/lipovat/2020/24",
+   "short": "HCL Lipovăț nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 24/2020 cu privire la rectificarea a II a a bugetului consiliului local Lipovăț, etapa mai 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4100",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4100",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-25-2020",
+   "path": "local/vaslui/lipovat/2020/25",
+   "short": "HCL Lipovăț nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 25/2020 cu privire la modificarea hcl nr.14/ 17.03.2020 privind modificarea inventarului bunurilor care aparțin domeniului public al comunei Lipovăț, județul Vaslui atestat prin HG nr. 1361/2001 – anexa nr. 43",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4101",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4101",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-26-2020",
+   "path": "local/vaslui/lipovat/2020/26",
+   "short": "HCL Lipovăț nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 26/2020 cu privire la necesitatea și oportunitatea proiectului ”Modernizarea infrastructurii rutiere în sat Chițoc, comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4102",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4102",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-27-2020",
+   "path": "local/vaslui/lipovat/2020/27",
+   "short": "HCL Lipovăț nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 27/2020 cu privire la aprobarea implementarea proiectului ”Dezvoltarea sistemului de asistență socială și combaterea sărăciei și a excluziunii sociale ”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4103",
+   "versions": [
+    {
+     "from": "2020-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4103",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-29-2020",
+   "path": "local/vaslui/lipovat/2020/29",
+   "short": "HCL Lipovăț nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 29/2020 privind rectificarea a III- a a bugetului Consiliul local Lipovăţ, etapa iunie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4975",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-3-2020",
+   "path": "local/vaslui/lipovat/2020/3",
+   "short": "HCL Lipovăț nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 3/2020 cu privire la aprobarea organizarii rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Lipovăț, județul Vaslui, pentru anul școlar 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4063",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-30-2020",
+   "path": "local/vaslui/lipovat/2020/30",
+   "short": "HCL Lipovăț nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 30/2020 privind înființarea sistemului de distribuție a gazelor naturale în satele Corbu și Chițoc, comuna Lipovăț ,județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4976",
+   "versions": [
+    {
+     "from": "2020-06-19",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-31-2020",
+   "path": "local/vaslui/lipovat/2020/31",
+   "short": "HCL Lipovăț nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 31/2020 privind rectificarea a IV- a a bugetului Consiliul local Lipovăţ, etapa iulie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6148",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-32-2020",
+   "path": "local/vaslui/lipovat/2020/32",
+   "short": "HCL Lipovăț nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 32/2020 privind implementarea proiectului „Modernizarea și eficientizarea sistemului de iluminat public în comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6149",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6149",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-33-2020",
+   "path": "local/vaslui/lipovat/2020/33",
+   "short": "HCL Lipovăț nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 33/2020 privind actualizarea indicatorilor tehnico-economici a obiectivului de investitii ”Extindere conducte de distribuție gaze naturale în localitatea Lipovăț , comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6150",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-34-2020",
+   "path": "local/vaslui/lipovat/2020/34",
+   "short": "HCL Lipovăț nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 34/2020 privind aprobarea numărului și a cuantumului burselor școlare aferente anului școlar 2019-2020 pentru elevii din învățământul preuniuniversitar de stat , la nivelui UAT comuna Lipovăț",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6151",
+   "versions": [
+    {
+     "from": "2020-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-35-2020",
+   "path": "local/vaslui/lipovat/2020/35",
+   "short": "HCL Lipovăț nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 35/2020 privind actualizarea indicatorilor tehnico – economici a obiectivului de investiții „MODERNIZARE STRĂZI SAT LIPOVĂȚ , COMUNA LIPOVĂȚ, JUDEȚUL VASLUI”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6977",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-36-2020",
+   "path": "local/vaslui/lipovat/2020/36",
+   "short": "HCL Lipovăț nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 36/2020 privind aprobarea execuției bugetului local la finele trim. II 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6978",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-37-2020",
+   "path": "local/vaslui/lipovat/2020/37",
+   "short": "HCL Lipovăț nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 37/2020 privind rectificarea a V- a a bugetului Consiliul local Lipovăţ, etapa iulie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/6979",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/6979",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-38-2020",
+   "path": "local/vaslui/lipovat/2020/38",
+   "short": "HCL Lipovăț nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 38/2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/8172",
+   "versions": [
+    {
+     "from": "2020-08-13",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/8172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-4-2020",
+   "path": "local/vaslui/lipovat/2020/4",
+   "short": "HCL Lipovăț nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 4/2020 privind aprobarea „Planului de actiuni și de lucrări de interes local pe anul 2020 pentru repartizarea orelor de muncă beneficiarilor de ajutor social, acordat în baza legii 416/2001 si de catre parintii apti de munca obligați la întreținerea copilului în condițiile stabilite de Codul Civil”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4064",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-40-2020",
+   "path": "local/vaslui/lipovat/2020/40",
+   "short": "HCL Lipovăț nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 40/2020 privind rectificarea a VI- a a bugetului Consiliul local Lipovăţ, etapa septembrie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/9189",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/9189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-41-2020",
+   "path": "local/vaslui/lipovat/2020/41",
+   "short": "HCL Lipovăț nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 41/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/10678",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/10678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-42-2020",
+   "path": "local/vaslui/lipovat/2020/42",
+   "short": "HCL Lipovăț nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 42/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „Achiziție de echipamente de protecție medicală și dezinfectanți în comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/10679",
+   "versions": [
+    {
+     "from": "2020-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/10679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-43-2020",
+   "path": "local/vaslui/lipovat/2020/43",
+   "short": "HCL Lipovăț nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 43/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/10680",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/10680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-44-2020",
+   "path": "local/vaslui/lipovat/2020/44",
+   "short": "HCL Lipovăț nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 44/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „Dotarea unităților de învățământ din comuna Lipovăț, județul Vaslui cu echipamente specifice pentru gestionarea crizei sanitare cauzate de SARS-Cov-2”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/10681",
+   "versions": [
+    {
+     "from": "2020-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/10681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-45-2020",
+   "path": "local/vaslui/lipovat/2020/45",
+   "short": "HCL Lipovăț nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 45/2020 privind alegerea preşedintelui de şedinţă",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13120",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-47-2020",
+   "path": "local/vaslui/lipovat/2020/47",
+   "short": "HCL Lipovăț nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 47/2020 privind alegerea unor consilieri locali in comisiile de specialitate ale Consiliului local Lipovăț",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13122",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-48-2020",
+   "path": "local/vaslui/lipovat/2020/48",
+   "short": "HCL Lipovăț nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 48/2020 pentru aprobarea Regulamentului de organizare şi funcţionare a Consiliului local Lipovăț",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13123",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-49-2020",
+   "path": "local/vaslui/lipovat/2020/49",
+   "short": "HCL Lipovăț nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 49/2020 privind aprobarea indicatorilor tehnico-economici și demararea procedurilor de includere în buget a cheltuielilor aferente proiectului „Achiziție de tablete școlare și alte echipamente necesare desfășurării activității didactice on-line în comuna Lipovăț, județul Vaslui”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13124",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-5-2020",
+   "path": "local/vaslui/lipovat/2020/5",
+   "short": "HCL Lipovăț nr. 5/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 5/2020 privind aprobarea actualizării Planului de analiză și acoperire a riscurilor în domeniul situatiilor de urgență al comunei Lipovăț jutețul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4065",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-50-2020",
+   "path": "local/vaslui/lipovat/2020/50",
+   "short": "HCL Lipovăț nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 50/2020 privind rectificarea a VII- a a bugetului Consiliul local Lipovăţ, etapa noiembrie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13125",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-51-2020",
+   "path": "local/vaslui/lipovat/2020/51",
+   "short": "HCL Lipovăț nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 51/2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13126",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-52-2020",
+   "path": "local/vaslui/lipovat/2020/52",
+   "short": "HCL Lipovăț nr. 52/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 52/2020 privind constituirea Comandamentului comunal de iarnă și aprobarea „Programului de deszăpezire şi combaterea poleiului pe drumurile comunale şi străzile comunei în perioada de iarnă 15.noiembrie.2020 – 15.martie.2021”",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13127",
+   "versions": [
+    {
+     "from": "2020-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13127",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-53-2020",
+   "path": "local/vaslui/lipovat/2020/53",
+   "short": "HCL Lipovăț nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 53/2020 privind declararea ca fiind de interes public local a unui bun imobil",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13177",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-54-2020",
+   "path": "local/vaslui/lipovat/2020/54",
+   "short": "HCL Lipovăț nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 54/2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13178",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13178",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-55-2020",
+   "path": "local/vaslui/lipovat/2020/55",
+   "short": "HCL Lipovăț nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 55/2020 privind schimbarea sediului Dispensarului Uman sat Chițoc , comuna Lipovăț, județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13179",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-57-2020",
+   "path": "local/vaslui/lipovat/2020/57",
+   "short": "HCL Lipovăț nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 57/2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13185",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-58-2020",
+   "path": "local/vaslui/lipovat/2020/58",
+   "short": "HCL Lipovăț nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 58/2020 privind alegerea viceprimarului comunei Lipovăț, judeţul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13186",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-59-2020",
+   "path": "local/vaslui/lipovat/2020/59",
+   "short": "HCL Lipovăț nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 59/2020 privind la rectificarea a VIII- a a bugetului Consiliul local Lipovăţ, etapa decembrie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13187",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-6-2020",
+   "path": "local/vaslui/lipovat/2020/6",
+   "short": "HCL Lipovăț nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 6/2020 privind aprobarea modului de întocmire și ținerea la zi a registrului agricol al comunei Lipovăț, județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4066",
+   "versions": [
+    {
+     "from": "2020-01-17",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-60-2020",
+   "path": "local/vaslui/lipovat/2020/60",
+   "short": "HCL Lipovăț nr. 60/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 60/2020 privind aprobarea execuției bugetului local la finele trim. III 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13188",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-62-2020",
+   "path": "local/vaslui/lipovat/2020/62",
+   "short": "HCL Lipovăț nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 62/2020 privind modificarea organigramei si statului de functii aparatului de specialitate al al primarului comunei Lipovăț judetul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13190",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-63-2020",
+   "path": "local/vaslui/lipovat/2020/63",
+   "short": "HCL Lipovăț nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 63/2020 privind însușirea stemei comunei Lipovăț, județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13191",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-64-2020",
+   "path": "local/vaslui/lipovat/2020/64",
+   "short": "HCL Lipovăț nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 64/2020 privind constituirea comisiei de evaluare a performanțelor profesionale individuale ale secretarului general al UAT Comuna Lipovăț",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/13192",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/13192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-65-2020",
+   "path": "local/vaslui/lipovat/2020/65",
+   "short": "HCL Lipovăț nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 65/2020 punerea la dispoziţia Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014 – 2020 a terenului pentru construcţia /extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/15078",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/15078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-66-2020",
+   "path": "local/vaslui/lipovat/2020/66",
+   "short": "HCL Lipovăț nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 66/2020 privind rectificarea a IX- a a bugetului Consiliul local Lipovăţ, etapa decembrie 2020",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/15079",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/15079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-67-2020",
+   "path": "local/vaslui/lipovat/2020/67",
+   "short": "HCL Lipovăț nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 67/2020 privind aprobarea organizării rețelei școlare a unităților de învățământ preuniversitar de stat din comuna Lipovăț, județul Vaslui, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/15080",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/15080",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-7-2020",
+   "path": "local/vaslui/lipovat/2020/7",
+   "short": "HCL Lipovăț nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 7/2020 privind modificarea regulamentului de intruire si administrare a taxei speciale SIMDS la nivelul uat comuna Lipovăț, județul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4067",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--lipovat-8-2020",
+   "path": "local/vaslui/lipovat/2020/8",
+   "short": "HCL Lipovăț nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Lipovăț nr. 8/2020 privind modificarea hcl nr. 1/ 17.ianuarie 2020, privind aprobarea taxei speciale de salubrizare pentru anul 2020 la nivelul uat comuna Lipovat, judetul Vaslui",
+   "url": "https://emol.ro/lipovat-vs/registru-hcl/4068",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/lipovat-vs/registru-hcl/4068",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,21 @@
  "shard": "cnsc/2023",
  "acts": [
   {
+   "slug": "cnsc-decizie-2023-1260",
+   "path": "cnsc/decizie/2023/1260",
+   "short": "Decizia CNSC nr. 1260/C4/1093 din 10.05.2023",
+   "title": "Decizia CNSC nr. 1260/C4/1093 din 10.05.2023: contestația SC ALA EXPERT CONSTRUCT SRL, SC RAAM ELENI CONSTRUCT SRL în contradictoriu cu U.M. 02031 BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTE5NWQxOGMtYmU5YS00NmU3LWIyNDYtNDQzYzFlZjM5M2M5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjYwLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NTE5NWQxOGMtYmU5YS00NmU3LWIyNDYtNDQzYzFlZjM5M2M5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xMjYwLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "a4db0833347d8aea2057ac3078e07cf2a3e2157f82a5da3ea6d4be99765b8bb2"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2023-1299",
    "path": "cnsc/decizie/2023/1299",
    "short": "Decizia CNSC nr. 1299/C11/1553 din 15.05.2023",
@@ -179,6 +194,51 @@
      "units": 3,
      "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=NjJiMjBkOGUtOThjZi00N2Q2LTlmMzAtNGM1ZWNmZDUwNmI0&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yNDU4LnBkZg==&action=YXR0YWNobWVudA==",
      "sha256": "ac0a94ec41af9633525640ce646d6aa60f672159e9d7747415059007149300ed"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-874",
+   "path": "cnsc/decizie/2023/874",
+   "short": "Decizia CNSC nr. 874/C7/722 din 05.04.2023",
+   "title": "Decizia CNSC nr. 874/C7/722 din 05.04.2023: contestația INTEGRA GUARD SRL în contradictoriu cu REGIA AUTONOMA JUDETEANA DE DRUMURI SI PODURI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjJlMjI0OTUtYWI4MC00MzVkLWJhMzEtNDMzNWRkNzc3NTE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NzQucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-04-05",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MjJlMjI0OTUtYWI4MC00MzVkLWJhMzEtNDMzNWRkNzc3NTE5&pdfa1=ZmFsc2U=&filename=RGVjaXppZV84NzQucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "8308bfe2b337269722048f8c817d48888bbaab358c70e6a9fdb8c32507030404"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-908",
+   "path": "cnsc/decizie/2023/908",
+   "short": "Decizia CNSC nr. 908/C5/608 din 09.04.2023",
+   "title": "Decizia CNSC nr. 908/C5/608 din 09.04.2023: contestația ARDELEAN COMPANY NORD VEST SRL, TOMI ALEX SRL în contradictoriu cu COMUNA VALEA VINULUI JUDETUL SATU MARE",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDE4YmI0ZjctOTVlZC00YTAyLTg2NWItNjM1MTQ4MzJmMjNh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDgucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-04-09",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=ZDE4YmI0ZjctOTVlZC00YTAyLTg2NWItNjM1MTQ4MzJmMjNh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85MDgucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "95636b3378b7d7a720a9bf7484103b48b5eedb28a8067cd2e032ef0ff8ccbe0c"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-983",
+   "path": "cnsc/decizie/2023/983",
+   "short": "Decizia CNSC nr. 983/C1/407 din 17.04.2023",
+   "title": "Decizia CNSC nr. 983/C1/407 din 17.04.2023: contestația TEAM FORCE SECURITY SRL în contradictoriu cu SPITALUL CLINIC DE URGENTA SF. PANTELIMON",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmMyZDc1YmEtOGM3YS00YmFhLWFkZDgtMDY5MjQ1YmI5Yjhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85ODMucGRm&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YmMyZDc1YmEtOGM3YS00YmFhLWFkZDgtMDY5MjQ1YmI5Yjhh&pdfa1=ZmFsc2U=&filename=RGVjaXppZV85ODMucGRm&action=YXR0YWNobWVudA==",
+     "sha256": "2ce0b8c496ab3ce377c9cc28180e39ae0064a5c0c1cdc80cdd7130b5c0c51df2"
     }
    ]
   }

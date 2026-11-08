@@ -3,6 +3,226 @@
 "shard": "local/vrancea/balesti/2024",
 "acts": [
 {
+"slug": "hcl-vrancea--balesti-1-2024",
+"path": "local/vrancea/balesti/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 1/2024 privind utilizarea excedentului contului de executie al bugetului local si al bugetului finantat din venituri proprii al anului 2023 in anul 2024",
+"short": "HCL Bălești nr. 1/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#75516",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-2-2024",
+"path": "local/vrancea/balesti/2024/2",
+"kind": "local",
+"year": "2024",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 2/2024 privind aprobarea retelei scolare la nivelul Municipiului Bailesti pentru anul scolar 2024-2025",
+"short": "HCL Bălești nr. 2/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-05",
+"latest": "2024-01-05",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#75521",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-3-2024",
+"path": "local/vrancea/balesti/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 3/2024 privind completarea HCL nr. 1/05.01.2024",
+"short": "HCL Bălești nr. 3/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-09",
+"latest": "2024-01-09",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#75541",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-5-2024",
+"path": "local/vrancea/balesti/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 5/2024 privind aprobarea Studiului de Oportunitate/Fundamentare privind delegarea gestiunii activității de tratare mecanobiologică a deșeurilor reziduale din județul Dolj în instalațiile de tratare mecanobiologice sau, după caz, în instalațiile integrate de tratare, inclusiv transportul deșeurilor stabilizate biologic și al deșeurilor reziduale care nu mai pot fi valorificate la depozitele de deșeuri și al deșeurilor reziduale valorificabile energetic la instalațiile de valorificare energetică",
+"short": "HCL Bălești nr. 5/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#75643",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-6-2024",
+"path": "local/vrancea/balesti/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 6/2024 pentru aprobarea Regulamentului privind aprobarea condițiilor în care se realizează accesul furnizorilor de rețele de comunicații electronice pe proprietatea publică (sau privată) a Municipiului Bailesti, în vederea construirii, instalării, întreținerii, înlocuirii sau mutării rețelelor de comunicații electronice sau a elementelor de infrastructură fizică necesare susținerii acestora",
+"short": "HCL Bălești nr. 6/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-01-25",
+"latest": "2024-01-25",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#75644",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-17-2024",
+"path": "local/vrancea/balesti/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 17/2024 privind aprobarea bugetului consolidat de venituri si cheltuieli al municipiului Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 17/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#77081",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-19-2024",
+"path": "local/vrancea/balesti/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 19/2024 privind modificarea HCL nr. 1/2024 privind utilizarea excedentului contului de executie al bugetului local si al bugetului finantat din venituri proprii al anului 2023 in anul 2024",
+"short": "HCL Bălești nr. 19/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-02-29",
+"latest": "2024-02-29",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#77085",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-36-2024",
+"path": "local/vrancea/balesti/2024/36",
+"kind": "local",
+"year": "2024",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 36/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 36/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-03-18",
+"latest": "2024-03-18",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#78079",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-48-2024",
+"path": "local/vrancea/balesti/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 48/2024 privind alegerea presedintelui de sedinta pentru sedinta ordinara din data de 25.04.2024",
+"short": "HCL Bălești nr. 48/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#79891",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-49-2024",
+"path": "local/vrancea/balesti/2024/49",
+"kind": "local",
+"year": "2024",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 49/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 49/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-25",
+"latest": "2024-04-25",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#79892",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-52-2024",
 "path": "local/vrancea/balesti/2024/52",
 "kind": "local",
@@ -267,6 +487,116 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-64-2024",
+"path": "local/vrancea/balesti/2024/64",
+"kind": "local",
+"year": "2024",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 64/2024 privind aprobarea taxelor si impozitelor locale pentru anul 2025",
+"short": "HCL Bălești nr. 64/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82098",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-65-2024",
+"path": "local/vrancea/balesti/2024/65",
+"kind": "local",
+"year": "2024",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 65/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 65/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82100",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-66-2024",
+"path": "local/vrancea/balesti/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 66/2024 privind aprobarea executiei bugetului local, bugetului finantat din venituri proprii si al creditelor interne pentru trimestrul al IV –lea anul 2023",
+"short": "HCL Bălești nr. 66/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82101",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-67-2024",
+"path": "local/vrancea/balesti/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 67/2024 privind premierea elevilor olimpici si a profesorilor indrumatori din municipiul Bailesti in anul scolar 2023-2024",
+"short": "HCL Bălești nr. 67/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82102",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-68-2024",
+"path": "local/vrancea/balesti/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 68/2024 prin care se avizeaza solicitarea Spitalului Municipal ,,Prof. Dr. Irinel Popescu’’ Bailesti de organizare a concursului pentru ocuparea functiilor de medic sef de sectie medicina interna, medic sef sectie chirurgie, medic sef sectie obstretica-ginecologie, medic sef sectie pediatrie, medic sef sectie laborator analize medicale, medic sef compartiment primiri urgente;",
+"short": "HCL Bălești nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-30",
+"latest": "2024-05-30",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82103",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-69-2024",
 "path": "local/vrancea/balesti/2024/69",
 "kind": "local",
@@ -399,6 +729,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-75-2024",
+"path": "local/vrancea/balesti/2024/75",
+"kind": "local",
+"year": "2024",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 75/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 75/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-17",
+"latest": "2024-06-17",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#82589",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-76-2024",
 "path": "local/vrancea/balesti/2024/76",
 "kind": "local",
@@ -509,6 +861,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-81-2024",
+"path": "local/vrancea/balesti/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 81/2024 privind completarea Hotararii Consiliului Local nr 75/17.06.2024 pentru rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 81/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-19",
+"latest": "2024-06-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#84319",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-82-2024",
 "path": "local/vrancea/balesti/2024/82",
 "kind": "local",
@@ -572,6 +946,28 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-85-2024",
+"path": "local/vrancea/balesti/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 85/2024 privind aprobarea reorganizarii si aprobarea organigramei si a statului de functii ale aparatului de specialitate al Primarului municipiului Bailesti",
+"short": "HCL Bălești nr. 85/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-06-27",
+"latest": "2024-06-27",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#84323",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -907,6 +1303,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-101-2024",
+"path": "local/vrancea/balesti/2024/101",
+"kind": "local",
+"year": "2024",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 101/2024 privind aprobarea executiei bugetului local, al bugetului finantat din venituri proprii si subventii, al creditelor interne si a indicatorilor economico- financiari pentru trimestrul II al anului 2024;",
+"short": "HCL Bălești nr. 101/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#84680",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-102-2024",
 "path": "local/vrancea/balesti/2024/102",
 "kind": "local",
@@ -992,6 +1410,28 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-106-2024",
+"path": "local/vrancea/balesti/2024/106",
+"kind": "local",
+"year": "2024",
+"number": "106",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 106/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 106/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-08-29",
+"latest": "2024-08-29",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#84815",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1106,6 +1546,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-112-2024",
+"path": "local/vrancea/balesti/2024/112",
+"kind": "local",
+"year": "2024",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 112/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 112/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-26",
+"latest": "2024-09-26",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#86874",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-113-2024",
 "path": "local/vrancea/balesti/2024/113",
 "kind": "local",
@@ -1126,6 +1588,50 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-114-2024",
+"path": "local/vrancea/balesti/2024/114",
+"kind": "local",
+"year": "2024",
+"number": "114",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 114/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 114/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-04",
+"latest": "2024-10-04",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#86880",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-115-2024",
+"path": "local/vrancea/balesti/2024/115",
+"kind": "local",
+"year": "2024",
+"number": "115",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 115/2024 privind completarea Hotararii Consiliului Local nr. 13/31.01.2019 privind insusirea variantei finale a proiectului de stema a municipiului Bailesti, judetul Dolj",
+"short": "HCL Bălești nr. 115/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-10-22",
+"latest": "2024-10-22",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#86881",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1170,6 +1676,51 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-118-2024",
+"path": "local/vrancea/balesti/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 118/2024",
+"short": "HCL Bălești nr. 118/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": null,
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-119-2024",
+"path": "local/vrancea/balesti/2024/119",
+"kind": "local",
+"year": "2024",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 119/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 119/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#91997",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1258,6 +1809,28 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-124-2024",
+"path": "local/vrancea/balesti/2024/124",
+"kind": "local",
+"year": "2024",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 124/2024 privind aprobarea executiei bugetului local, al bugetului finantat din venituri proprii si subventii, al creditelor interne la trimestrul III al anului 2024 si a indicatorilor economico- financiari trimestrul III al anului 2024;",
+"short": "HCL Bălești nr. 124/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#92013",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1394,6 +1967,28 @@
 }
 },
 {
+"slug": "hcl-vrancea--balesti-131-2024",
+"path": "local/vrancea/balesti/2024/131",
+"kind": "local",
+"year": "2024",
+"number": "131",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 131/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024;",
+"short": "HCL Bălești nr. 131/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#92851",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
 "slug": "hcl-vrancea--balesti-132-2024",
 "path": "local/vrancea/balesti/2024/132",
 "kind": "local",
@@ -1435,6 +2030,28 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-134-2024",
+"path": "local/vrancea/balesti/2024/134",
+"kind": "local",
+"year": "2024",
+"number": "134",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 134/2024 privind stabilirea impozitului pe anul 2025, pe mijloace de transport de marfa cu masa totala autorizata egala sau mai mare de 12 tone, prevazute la art. 470 alin.(5) si alin.(6) din Legea nr. 227/2015 privind Codul Fiscal, indexate conform prevederilor art.491 alin.(1 1 ) Cod Fiscal;",
+"short": "HCL Bălești nr. 134/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#92855",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {
@@ -1612,6 +2229,28 @@
 "council_name": "Consiliul Local al Comunei Bălești",
 "flags": {
 "metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-vrancea--balesti-143-2024",
+"path": "local/vrancea/balesti/2024/143",
+"kind": "local",
+"year": "2024",
+"number": "143",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bălești nr. 143/2024 privind rectificarea bugetului local al UAT Bailesti pe anul 2024",
+"short": "HCL Bălești nr. 143/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-12-19",
+"latest": "2024-12-19",
+"portal": "https://bailesti.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/3467#93501",
+"council": "vrancea/balesti",
+"council_name": "Consiliul Local al Comunei Bălești",
+"flags": {
+"text_pending": "source"
 }
 },
 {

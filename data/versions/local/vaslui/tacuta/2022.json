@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/tacuta/2022",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--tacuta-1-2022",
+   "path": "local/vaslui/tacuta/2022/1",
+   "short": "HCL Tăcuta nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 1/2022 privind aprobarea reţelei şcolare a unităţilor de învăţământ preuniversitar de stat de pe raza comunei Tăcuta, judeţul Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49185",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-10-2022",
+   "path": "local/vaslui/tacuta/2022/10",
+   "short": "HCL Tăcuta nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 10/2022 privind implementarea proiectului \"Realizare stații de încărcare pentru vehicule electrice în comuna Tăcuta, județul Vaslui\"",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/50921",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/50921",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-12-2022",
+   "path": "local/vaslui/tacuta/2022/12",
+   "short": "HCL Tăcuta nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 12/2022 privind aprobarea achiziționării unui soft InfoPay — servicii de plată electronică a impozitelor și taxelor locale",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55508",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-13-2022",
+   "path": "local/vaslui/tacuta/2022/13",
+   "short": "HCL Tăcuta nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 13/2022 privind acordarea mandatului special reprezentantului asociatului in vederea exprimarii votului in Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din Municipiile Vaslui, Barlad , Husi si Orasul Negresti - judetul Vaslui ( APC VASLUI)",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55509",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-14-2022",
+   "path": "local/vaslui/tacuta/2022/14",
+   "short": "HCL Tăcuta nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 14/2022 privind acordarea unui mandat special reprezentantului UAT in Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din Municipiile Vaslui, Barlad , Husi si Orasul Negresti - judetul Vaslui ( APC VASLUI)",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55510",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-15-2022",
+   "path": "local/vaslui/tacuta/2022/15",
+   "short": "HCL Tăcuta nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 15/2022 privind aprobarea Regulamentului privind stabilirea unor forme de sprijin financiar de la bugetul local al Comunei Tăcuta pentru unităţile de cult aparţinând cultelor religioase recunoscute conform legii",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55511",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-16-2022",
+   "path": "local/vaslui/tacuta/2022/16",
+   "short": "HCL Tăcuta nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 16/2022 privind aprobarea Regulamentului privind finanțarea nerambursabilă de la bugetul local al Comunei Tăcuta a proiectelor structurilor sportive",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55512",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55512",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-17-2022",
+   "path": "local/vaslui/tacuta/2022/17",
+   "short": "HCL Tăcuta nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 17/2022 privind aprobarea actualizare plan cadastral- Carte funciară 70039 din comuna Tăcuta, judetul Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55513",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-18-2022",
+   "path": "local/vaslui/tacuta/2022/18",
+   "short": "HCL Tăcuta nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 18/2022 privind aprobarea acordului de parteneriat în vederea realizării în comuna a proiectului de investiție „Înființare rețea de distribuție gaze naturale în comunele Ciortești, Dobrovăț, Scânteia din județul Iași și comunele Codăești și Tăcuta din județul Vaslui”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/55514",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/55514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-19-2022",
+   "path": "local/vaslui/tacuta/2022/19",
+   "short": "HCL Tăcuta nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 19/2022 privind aprobarea cererii de finantare si a devizului general estimativ pentru obiectivul de investie ”Înființare rețea de distributie gaze naturale în comunele Ciortești, Dobrovăț, Scânteia din judetul Iași și comunele Codăești si Tăcuta din județul Vaslui” în vederea includerii la finantare prin Programul Național de Investiții „ANGHEL SALIGNY”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/56446",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/56446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-2-2022",
+   "path": "local/vaslui/tacuta/2022/2",
+   "short": "HCL Tăcuta nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 2/2022 privind Planului anual de acțiune privind serviciile sociale pentru anul 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49186",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-20-2022",
+   "path": "local/vaslui/tacuta/2022/20",
+   "short": "HCL Tăcuta nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 20/2022 privind declararea unui imobil ca bun ce aparține domeniului public de interes local al comunei Tăcuta, județul Vaslui- teren intravilan în suprafața de 387 mp",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/56447",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/56447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-21-2022",
+   "path": "local/vaslui/tacuta/2022/21",
+   "short": "HCL Tăcuta nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 21/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/61639",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/61639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-22-2022",
+   "path": "local/vaslui/tacuta/2022/22",
+   "short": "HCL Tăcuta nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 22/2022 privind aprobarea execuţiei bugetului local şi a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe trimestrul I 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/61640",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/61640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-23-2022",
+   "path": "local/vaslui/tacuta/2022/23",
+   "short": "HCL Tăcuta nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 23/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa I 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/61641",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/61641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-24-2022",
+   "path": "local/vaslui/tacuta/2022/24",
+   "short": "HCL Tăcuta nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 24/2022 privind constituirea Asociaţiei de Dezvoltare Intercomunitara ”PARTENERI ÎN INVESTIȚII”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/61642",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/61642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-25-2022",
+   "path": "local/vaslui/tacuta/2022/25",
+   "short": "HCL Tăcuta nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 25/2022 privind aprobarea depunerii proiectului: „Realizare sistem de supraveghere video in comuna Tacuta, județul Vaslui”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/61643",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/61643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-26-2022",
+   "path": "local/vaslui/tacuta/2022/26",
+   "short": "HCL Tăcuta nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 26/2022 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiții Pietruire drum comunal DC 6A(Protopopești-Sofieni) în comuna Tăcuta, jud. Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/65160",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/65160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-27-2022",
+   "path": "local/vaslui/tacuta/2022/27",
+   "short": "HCL Tăcuta nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 27/2022 privind aprobarea demararii procedurii de concesiune serviciului de utilitate publica de distributie a gazelor naturale in comuna Tăcuta, judetul Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/65161",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/65161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-29-2022",
+   "path": "local/vaslui/tacuta/2022/29",
+   "short": "HCL Tăcuta nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 29/2022 privind aprobarea execuţiei bugetului local şi a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe trimestrul II 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/66111",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/66111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-3-2022",
+   "path": "local/vaslui/tacuta/2022/3",
+   "short": "HCL Tăcuta nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 3/2022 privind aprobarea planului de acţiuni şi lucrări în folosul comunităţii întocmit potrivit Legii 416/2001 privind venitul minim garantat pe anul 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49187",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-30-2022",
+   "path": "local/vaslui/tacuta/2022/30",
+   "short": "HCL Tăcuta nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 30/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa a II a- 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/66112",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/66112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-32-2022",
+   "path": "local/vaslui/tacuta/2022/32",
+   "short": "HCL Tăcuta nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 32/2022 privind acordarea unui mandat special reprezentantului UAT in Adunarea Generala a Asociatiei pentru Dezvoltare Intercomunitara de Utilitati Publice pentru Serviciul de Alimentare cu Apa si de Canalizare din Municipiile Vaslui, Barlad , Husi si Orasul Negresti - judetul Vaslui ( APC VASLUI)",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/70187",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/70187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-34-2022",
+   "path": "local/vaslui/tacuta/2022/34",
+   "short": "HCL Tăcuta nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 34/2022 privind aprobarea STUDIULUI DE FEZABILITATE pentru „Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014-2020”, a indicatorilor tehnico-economici ai proiectului si a părții cotei de co-finanțare a cheltuielilor eligibile ale proiectului",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/70189",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/70189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-35-2022",
+   "path": "local/vaslui/tacuta/2022/35",
+   "short": "HCL Tăcuta nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 35/2022 privind aprobarea initierii procedurii de concesionare a serviciului de utilitate publica de distributie a gazelor naturale, in comuna Tacuta, judetul Vaslui si imputernicirea cfr. art. 1 alin. 4 din Anexa la HG nr. 209/2019 a ASOCIATIEI DE DEZVOLTARE INTERCOMUNITARA „PARTENERI IN INVESTITII” sa faca toate demersurile necesare in vederea concesionarii serviciului de utilitate publica de distributie a gazelor naturale",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/70190",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/70190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-37-2022",
+   "path": "local/vaslui/tacuta/2022/37",
+   "short": "HCL Tăcuta nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 37/2022 privind punerea la dispozitia AQUAVAS SA a terenurilor de pe domeniul public al UAT Tacuta pentru “Proiectul regional de dezvoltare a infrastructurii de apă și apă uzată din județul Vaslui, în perioada 2014-2020”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/71992",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/71992",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-38-2022",
+   "path": "local/vaslui/tacuta/2022/38",
+   "short": "HCL Tăcuta nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 38/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa a III a- 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/71993",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/71993",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-39-2022",
+   "path": "local/vaslui/tacuta/2022/39",
+   "short": "HCL Tăcuta nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 39/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa a IV a- 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/73565",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/73565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-4-2022",
+   "path": "local/vaslui/tacuta/2022/4",
+   "short": "HCL Tăcuta nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 4/2022 privind aprobarea execuţiei bugetului local şi a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe trimestrul IV 2021",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49188",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-40-2022",
+   "path": "local/vaslui/tacuta/2022/40",
+   "short": "HCL Tăcuta nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 40/2022 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții „ ASFALTARE DRUMURI DE INTERES LOCAL IN COMUNA TACUTA, JUDETUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/73566",
+   "versions": [
+    {
+     "from": "2022-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/73566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-41-2022",
+   "path": "local/vaslui/tacuta/2022/41",
+   "short": "HCL Tăcuta nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 41/2022 privind aprobarea Programului de pregătire, deszăpezire și combatere a poleiului pe drumurile comunale în iarna 2022-2023",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/77048",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/77048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-42-2022",
+   "path": "local/vaslui/tacuta/2022/42",
+   "short": "HCL Tăcuta nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 42/2022 privind aprobarea execuţiei bugetului local şi a bugetului instituţiilor publice şi activităţilor finanţate integral sau parţial din venituri proprii pe trimestrul III 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/77049",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/77049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-44-2022",
+   "path": "local/vaslui/tacuta/2022/44",
+   "short": "HCL Tăcuta nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 44/2022 privind darea în folosință gratuită către Școala Gimnazială „Sf. Andrei” Tăcuta, pe termen de 10 ani, a 3 grupuri sanitare tip container cu bazin vidanjabil",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/77051",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/77051",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-45-2022",
+   "path": "local/vaslui/tacuta/2022/45",
+   "short": "HCL Tăcuta nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 45/2022 privind aprobarea regulamentului privind măsurile metodologice, organizatorice, termenele şi circulația proiectelor de hotărâri ale Consiliului local Tăcuta",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/77052",
+   "versions": [
+    {
+     "from": "2022-11-03",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/77052",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-48-2022",
+   "path": "local/vaslui/tacuta/2022/48",
+   "short": "HCL Tăcuta nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 48/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa a V a- 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79636",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79636",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-49-2022",
+   "path": "local/vaslui/tacuta/2022/49",
+   "short": "HCL Tăcuta nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 49/2022 privind aprobarea ,,Nomenclatorului stradal al Comunei Tăcuta, Judetul Vaslui”",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79637",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79637",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-5-2022",
+   "path": "local/vaslui/tacuta/2022/5",
+   "short": "HCL Tăcuta nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 5/2022 privind instituirea taxei pentru utilizarea infrastructurii publice locale de drumuri de către echipamente și utilaje destinate obținerii de venituri",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49189",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-50-2022",
+   "path": "local/vaslui/tacuta/2022/50",
+   "short": "HCL Tăcuta nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 50/2022 privind aprobarea cuantumului și a numărului de burse care se acordă elevilor din învățământul preuniversitar din comuna Tăcuta pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79638",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79638",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-51-2022",
+   "path": "local/vaslui/tacuta/2022/51",
+   "short": "HCL Tăcuta nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 51/2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79639",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-52-2022",
+   "path": "local/vaslui/tacuta/2022/52",
+   "short": "HCL Tăcuta nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 52/2022 privind aprobarea modificării și completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 1727/2010 încheiat între ADI-APC Vaslui și operatorul regional AQUAVAS SA, prin Actul adițional nr. 13",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79640",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-53-2022",
+   "path": "local/vaslui/tacuta/2022/53",
+   "short": "HCL Tăcuta nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 53/2022 privind aprobarea Protocolului de colaborare cu Ministerul Muncii și Solidarității Sociale în cadrul proiectului ,,HUB de Servicii MMSS – SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/79641",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/79641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-54-2022",
+   "path": "local/vaslui/tacuta/2022/54",
+   "short": "HCL Tăcuta nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 54/2022 privind modificarea HCL nr. 8/2012 privind stabilirea criteriilor de acordare a ajutoarelor de urgență în baza Legii nr. 416/2001 privind venitul minim garantat, cu modificările și completările ulterioare",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/82925",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/82925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-55-2022",
+   "path": "local/vaslui/tacuta/2022/55",
+   "short": "HCL Tăcuta nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 55/2022 privind aprobarea taxelor și impozitelor locale, precum și a taxelor speciale pe anul 2023",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/82926",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/82926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-56-2022",
+   "path": "local/vaslui/tacuta/2022/56",
+   "short": "HCL Tăcuta nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 56/2022 privind aprobarea rectificării bugetului local al comunei Tăcuta, județul Vaslui- etapa a VI a- 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/82927",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/82927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-57-2022",
+   "path": "local/vaslui/tacuta/2022/57",
+   "short": "HCL Tăcuta nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 57/2022 privind aprobarea Regulamentului și a taxei de închiriere a utilajelor aflate în dotarea comunei Tăcuta, județul Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/82928",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/82928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-58-2022",
+   "path": "local/vaslui/tacuta/2022/58",
+   "short": "HCL Tăcuta nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 58/2022 privind inventarierea masei impozabile pentru anul 2023",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/82929",
+   "versions": [
+    {
+     "from": "2023-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/82929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-6-2022",
+   "path": "local/vaslui/tacuta/2022/6",
+   "short": "HCL Tăcuta nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 6/2022 privind aprobarea numărului maxim de asistenți personali ai persoanelor cu handicap grav pentru anul 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49190",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-7-2022",
+   "path": "local/vaslui/tacuta/2022/7",
+   "short": "HCL Tăcuta nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 7/2022 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49191",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-8-2022",
+   "path": "local/vaslui/tacuta/2022/8",
+   "short": "HCL Tăcuta nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 8/2022 privind aprobarea cuantumului taxei speciale de salubrizare pentru anul 2022 în Comuna Tăcuta ,județul Vaslui",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/49192",
+   "versions": [
+    {
+     "from": "2022-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/49192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--tacuta-9-2022",
+   "path": "local/vaslui/tacuta/2022/9",
+   "short": "HCL Tăcuta nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Tăcuta nr. 9/2022 privind aprobarea bugetului local al comunei Tăcuta pentru anul 2022",
+   "url": "https://emol.ro/tacuta-vs/registru-hcl/50920",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tacuta-vs/registru-hcl/50920",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

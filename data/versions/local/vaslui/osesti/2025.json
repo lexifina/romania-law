@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "local/vaslui/osesti/2025",
+ "acts": [
+  {
+   "slug": "hcl-vaslui--osesti-1-2025",
+   "path": "local/vaslui/osesti/2025/1",
+   "short": "HCL Oșești nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 1/2025 privind aprobarea completării Registrului Agricol pentru perioada 2020 –2024",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/191986",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/191986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-11-2025",
+   "path": "local/vaslui/osesti/2025/11",
+   "short": "HCL Oșești nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 11/2025 privind aprobarea bugetului local pentru anul 2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/203304",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/203304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-12-2025",
+   "path": "local/vaslui/osesti/2025/12",
+   "short": "HCL Oșești nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 12/2025 privind transformarea postului vacant aferent fucnției publice de inspector, clasa I, grad profesional superior în inspector, clasa I, grad profesional debutant în cadrul compartimentulului,, Agricol și Urbanism,,",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/203305",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/203305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-14-2025",
+   "path": "local/vaslui/osesti/2025/14",
+   "short": "HCL Oșești nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 14/2025 privind aprobarea contului de executie bugetara pentru trimestrul - I- din anul 2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/207578",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/207578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-15-2025",
+   "path": "local/vaslui/osesti/2025/15",
+   "short": "HCL Oșești nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 15/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/207579",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/207579",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-16-2025",
+   "path": "local/vaslui/osesti/2025/16",
+   "short": "HCL Oșești nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 16/2025 privind aprobarea programului de acțiune comunitară ce va fi realizat în anul 2025 la nivelul Comunei Osesti",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/207580",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/207580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-17-2025",
+   "path": "local/vaslui/osesti/2025/17",
+   "short": "HCL Oșești nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 17/2025 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activităţi. privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/212191",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/212191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-18-2025",
+   "path": "local/vaslui/osesti/2025/18",
+   "short": "HCL Oșești nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 18/2025 privind îndreptarea erorii materiale înscrisă în Hotărârea Consiliului local al comunei Oșești nr.40 din 27.11.2017",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/212192",
+   "versions": [
+    {
+     "from": "2025-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/212192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-2-2025",
+   "path": "local/vaslui/osesti/2025/2",
+   "short": "HCL Oșești nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 2/2025 privind revizuire zonării fiscale a teritoriului comunei Oșești, jud.Vaslui, pentru stabilirea impozitelor și taxelor locale",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/191987",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/191987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-20-2025",
+   "path": "local/vaslui/osesti/2025/20",
+   "short": "HCL Oșești nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 20/2025 privind rectificarea a -I a a bugetului local",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/214361",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/214361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-21-2025",
+   "path": "local/vaslui/osesti/2025/21",
+   "short": "HCL Oșești nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 21/2025 privind aprobarea REGULAMENTULUI – CADRU de organizare şi funcționare al SERVICIULUI PUBLIC DE ASISTENȚĂ SOCIALĂ, serviciu fără personalitate juridica, organizat in subordinea Consiliului Local Osesti, județul Vaslui",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/219409",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/219409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-22-2025",
+   "path": "local/vaslui/osesti/2025/22",
+   "short": "HCL Oșești nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 22/2025 privind aprobarea contului de executie bugetara pentru trimestrul - II- din anul 2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/219410",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/219410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-23-2025",
+   "path": "local/vaslui/osesti/2025/23",
+   "short": "HCL Oșești nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 23/2025 privind transformarea postului vacant aferent fucnției publice de consilier, grad profesional asistent în consilie achiziții public, grad profesional debutant, din cadrul compartimentulului ,, Achiziții publice,,;",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/225672",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/225672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-25-2025",
+   "path": "local/vaslui/osesti/2025/25",
+   "short": "HCL Oșești nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 25/2025 privindînsuşirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului situat în extravilanul loc. Oșești, având numărul cadastral ………",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/228776",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/228776",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-26-2025",
+   "path": "local/vaslui/osesti/2025/26",
+   "short": "HCL Oșești nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 26/2025 privind înființarea Serviciului Public de Asistenta Sociala ca si Compartimentului de asistență socială din cadrul aparatului de specialitate al Primarului Comunei Osesti și aprobarea Regulamentului de Organizare și Funcționare al SPAS-Compartimentului de asistență socială al Comunei Osesti",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/228777",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/228777",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-28-2025",
+   "path": "local/vaslui/osesti/2025/28",
+   "short": "HCL Oșești nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 28/2025 privind rectificarea a-II-a a bugetului local pe anul 2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/233055",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/233055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-29-2025",
+   "path": "local/vaslui/osesti/2025/29",
+   "short": "HCL Oșești nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 29/2025 privind aprobarea contului de executie bugetara pentru trimestrul - III- din anul 2024",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/233056",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/233056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-30-2025",
+   "path": "local/vaslui/osesti/2025/30",
+   "short": "HCL Oșești nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 30/2025 privindaprobarea programului de deszăpezire și combatere a poleiului pe drumurile comunale in perioada de iarna 01-11-2025 -31-03-2026",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/233057",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/233057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-32-2025",
+   "path": "local/vaslui/osesti/2025/32",
+   "short": "HCL Oșești nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 32/2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/233059",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/233059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-33-2025",
+   "path": "local/vaslui/osesti/2025/33",
+   "short": "HCL Oșești nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 33/2025 privind rectificarea a -III- a a bugetului local",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/239693",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/239693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-34-2025",
+   "path": "local/vaslui/osesti/2025/34",
+   "short": "HCL Oșești nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 34/2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/239694",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/239694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-36-2025",
+   "path": "local/vaslui/osesti/2025/36",
+   "short": "HCL Oșești nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 36/2025 privind însuşirea și aprobarea documentaţiei cadastrale de dezmembrare a imobilului situat în extravilanul loc. Oșești, având numărul cadastral 71061",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/245413",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/245413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-37-2025",
+   "path": "local/vaslui/osesti/2025/37",
+   "short": "HCL Oșești nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 37/2025 privind aprobarea mentinerii rețelei școlare de pe raza comunei Oșești pentru anul școlar 2026 – 2027",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/245414",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/245414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-38-2025",
+   "path": "local/vaslui/osesti/2025/38",
+   "short": "HCL Oșești nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 38/2025",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/245415",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/245415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-39-2025",
+   "path": "local/vaslui/osesti/2025/39",
+   "short": "HCL Oșești nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 39/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, aplicabile ȋn anul fiscal 2026",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/245416",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/245416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-4-2025",
+   "path": "local/vaslui/osesti/2025/4",
+   "short": "HCL Oșești nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 4/2025 privind analiza stadiului de înscriere a datelor în registrul agricol şi stabilirea măsurilor pentru eficientizarea acestei activităţi",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/191989",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/191989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-5-2025",
+   "path": "local/vaslui/osesti/2025/5",
+   "short": "HCL Oșești nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 5/2025 privind aprobarea contului de executie bugetara pentru trimestrul al- IV- lea din anul 2024",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/191990",
+   "versions": [
+    {
+     "from": "2025-02-13",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/191990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-7-2025",
+   "path": "local/vaslui/osesti/2025/7",
+   "short": "HCL Oșești nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 7/2025 privind utilizarea excedentului bugetului local al UATC OȘEȘTI, înregistrat la 31 decembrie 2024",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/197351",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/197351",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-8-2025",
+   "path": "local/vaslui/osesti/2025/8",
+   "short": "HCL Oșești nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 8/2025 privind aprobarea actualizarii indicatorilor tehnico-economici și a devizului general conform OUG nr. 47/2022 pentru obiectivul de investiții „MODERNIZARE DRUMURI DE INTERES LOCAL ÎN SAT BUDA, COMUNA OȘEȘTI, JUDEȚUL VASLUI”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/197352",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/197352",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-vaslui--osesti-9-2025",
+   "path": "local/vaslui/osesti/2025/9",
+   "short": "HCL Oșești nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Oșești nr. 9/2025 privind îndreptarea erorii materiale înscrisă în Hotărârea Consiliului local al comunei Oșești nr.85/23.11.2017",
+   "url": "https://emol.ro/osesti-vs/registru-hcl/197353",
+   "versions": [
+    {
+     "from": "2025-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/osesti-vs/registru-hcl/197353",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

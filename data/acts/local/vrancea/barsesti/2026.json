@@ -1,0 +1,50 @@
+{
+"country": "RO",
+"shard": "local/vrancea/barsesti/2026",
+"acts": [
+{
+"slug": "hcl-vrancea--barsesti-49-2026",
+"path": "local/vrancea/barsesti/2026/49",
+"kind": "local",
+"year": "2026",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsești nr. 49/2026 privind aprobarea modificării bugetului local (venituri și cheltuieli) al comunei Bârsești, judetul Vrancea, precum și a Listei de investiții pentru anul 2026",
+"short": "HCL Bârsești nr. 49/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-13",
+"latest": "2026-10-13",
+"portal": "https://emol.ro/barsesti-vn/registru-hcl/290634",
+"council": "vrancea/barsesti",
+"council_name": "Consiliul Local al Comunei Bârsești",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-vrancea--barsesti-60-2026",
+"path": "local/vrancea/barsesti/2026/60",
+"kind": "local",
+"year": "2026",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Bârsești nr. 60/2026 privind aprobarea modificării bugetului local (venituri și cheltuieli) al comunei Bârsești, judetul Vrancea pentru anul 2026",
+"short": "HCL Bârsești nr. 60/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-11-06",
+"latest": "2026-11-06",
+"portal": "https://emol.ro/barsesti-vn/registru-hcl/294931",
+"council": "vrancea/barsesti",
+"council_name": "Consiliul Local al Comunei Bârsești",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}
