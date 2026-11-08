@@ -288,6 +288,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--cornetu-26-2020",
+   "path": "local/ilfov/cornetu/2020/26",
+   "short": "HCL Cornetu nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 26/2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/24436",
+   "versions": [
+    {
+     "from": "2020-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/24436",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--cornetu-27-2020",
    "path": "local/ilfov/cornetu/2020/27",
    "short": "HCL Cornetu nr. 27/2020",
@@ -508,6 +523,21 @@
      "from": "2020-01-31",
      "units": 1,
      "source_url": "https://emol.ro/cornetu-if/registru-hcl/24403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-40-2020",
+   "path": "local/ilfov/cornetu/2020/40",
+   "short": "HCL Cornetu nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 40/2020 privind încheierea unui act adițional la contractul de concesionare a serviciului public de salubrizare a comunei Cornetu aprobat prin HCL al comunei Cornetu nr.10/25.02.2008",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/24461",
+   "versions": [
+    {
+     "from": "2020-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/24461",
      "sha256": null
     }
    ]
@@ -973,6 +1003,21 @@
      "from": "2020-09-01",
      "units": 1,
      "source_url": "https://emol.ro/cornetu-if/registru-hcl/27548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--cornetu-7-2020",
+   "path": "local/ilfov/cornetu/2020/7",
+   "short": "HCL Cornetu nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 7/2020 privind indexarea tarifelor de inchirirere pentru spatiile cu alta destinație decât aceea de locuință și a terenurilor aferente, pentru anul 2020",
+   "url": "https://emol.ro/cornetu-if/registru-hcl/24406",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cornetu-if/registru-hcl/24406",
      "sha256": null
     }
    ]

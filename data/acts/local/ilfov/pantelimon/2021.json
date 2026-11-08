@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/ilfov/pantelimon/2021",
+"acts": [
+{
+"slug": "hcl-ilfov--pantelimon-27-2021",
+"path": "local/ilfov/pantelimon/2021/27",
+"kind": "local",
+"year": "2021",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 27/2021",
+"short": "HCL Pantelimon nr. 27/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-09",
+"latest": "2021-02-09",
+"portal": null,
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--pantelimon-32-2021",
+"path": "local/ilfov/pantelimon/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 32/2021",
+"short": "HCL Pantelimon nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-CNSU-nr.-32-din-27.05.2021.pdf",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

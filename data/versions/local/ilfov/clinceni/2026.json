@@ -78,6 +78,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-14-2026",
+   "path": "local/ilfov/clinceni/2026/14",
+   "short": "HCL Clinceni nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 14/2026 privind aprobarea acordarii unui sprijin financiar Parohiei CĂLȚUNA din comuna Clinceni, județul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/262380",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/262380",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-15-2026",
    "path": "local/ilfov/clinceni/2026/15",
    "short": "HCL Clinceni nr. 15/2026",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-21-2026",
+   "path": "local/ilfov/clinceni/2026/21",
+   "short": "HCL Clinceni nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 21/2026 privind acordarea unui ajutor financiar persoanelor cu handicap grav , pentru plata impozitului aferent locuinţei de domiciliu datorat bugetului local al Comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/262387",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/262387",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-22-2026",
    "path": "local/ilfov/clinceni/2026/22",
    "short": "HCL Clinceni nr. 22/2026",
@@ -223,6 +253,21 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/264253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-25-2026",
+   "path": "local/ilfov/clinceni/2026/25",
+   "short": "HCL Clinceni nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 25/2026 privind împuternicirea Administratorului Public pentru semnarea unui contract de vânzare-cumpărare",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/264254",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/264254",
      "sha256": null
     }
    ]
@@ -313,6 +358,36 @@
      "from": "2026-06-23",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/271966",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-31-2026",
+   "path": "local/ilfov/clinceni/2026/31",
+   "short": "HCL Clinceni nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 31/2026 privind aprobarea vânzării, prin licitatie publica, a terenului arabil - intravilan in suprafata de 324 mp, situat in comuna Clinceni, judetul Ilfov, tarla 6, Parcela 24, NC 65772, apartinand domeniului privat al Comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/271967",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/271967",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-32-2026",
+   "path": "local/ilfov/clinceni/2026/32",
+   "short": "HCL Clinceni nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 32/2026 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de 568 mp, NC 65781, situate in comuna Clinceni, judetul Ilfov,Tarla 21, Parcela 2082, apartinand domeniului privat al Comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/271968",
+   "versions": [
+    {
+     "from": "2026-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/271968",
      "sha256": null
     }
    ]
@@ -508,6 +583,21 @@
      "from": "2026-07-31",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/276646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-45-2026",
+   "path": "local/ilfov/clinceni/2026/45",
+   "short": "HCL Clinceni nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 45/2026 privind aprobarea acordarii unui sprijin financiar Parohiei CLINCENI din comuna Clinceni, județul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/276647",
+   "versions": [
+    {
+     "from": "2026-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/276647",
      "sha256": null
     }
    ]
@@ -723,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-59-2026",
+   "path": "local/ilfov/clinceni/2026/59",
+   "short": "HCL Clinceni nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 59/2026 privind aprobarea acordarii unui sprijin financiar Parohiei CĂLȚUNA din comuna Clinceni,județul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/286459",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/286459",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-6-2026",
    "path": "local/ilfov/clinceni/2026/6",
    "short": "HCL Clinceni nr. 6/2026",
@@ -783,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-63-2026",
+   "path": "local/ilfov/clinceni/2026/63",
+   "short": "HCL Clinceni nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 63/2026",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/287510",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/287510",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-64-2026",
    "path": "local/ilfov/clinceni/2026/64",
    "short": "HCL Clinceni nr. 64/2026",
@@ -793,6 +913,36 @@
      "from": "2026-09-24",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/287876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-65-2026",
+   "path": "local/ilfov/clinceni/2026/65",
+   "short": "HCL Clinceni nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 65/2026 privind aprobarea studiului de fezabilitate, a bugetului, a indicatorilor tehnico-economici asociați proiectului şi numirea responsabilului de proiect ,,Sisteme de stocare pentru CEF autoconsum”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/289197",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/289197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-66-2026",
+   "path": "local/ilfov/clinceni/2026/66",
+   "short": "HCL Clinceni nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 66/2026 privind aprobarea studiului de fezabilitate, a bugetului, a indicatorilor tehnico-economici asociați proiectului şi numirea responsabilului de proiect „CEF autoconsum cu sistem de stocare”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/289198",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/289198",
      "sha256": null
     }
    ]

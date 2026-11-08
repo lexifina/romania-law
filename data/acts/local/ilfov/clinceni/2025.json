@@ -157,6 +157,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-8-2025",
+"path": "local/ilfov/clinceni/2025/8",
+"kind": "local",
+"year": "2025",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 8/2025 privind aprobarea vânzării, prin licitatie publica, a terenului arabil- intravilan, in suprafata de 1629 mp situat in T9/1 P40 NC nr.64660, proprietatea privata a comunei Clinceni, judetul Ifov",
+"short": "HCL Clinceni nr. 8/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/190311",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-9-2025",
 "path": "local/ilfov/clinceni/2025/9",
 "kind": "local",
@@ -286,6 +308,29 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-15-2025",
+"path": "local/ilfov/clinceni/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 15/2025",
+"short": "HCL Clinceni nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/195770",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -468,6 +513,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-24-2025",
+"path": "local/ilfov/clinceni/2025/24",
+"kind": "local",
+"year": "2025",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 24/2025 privind aprobarea acordarii unui sprijin financiar Parohiei CLINCENI din comuna Clinceni, județul Ilfov",
+"short": "HCL Clinceni nr. 24/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/205085",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-25-2025",
 "path": "local/ilfov/clinceni/2025/25",
 "kind": "local",
@@ -531,6 +598,29 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-28-2025",
+"path": "local/ilfov/clinceni/2025/28",
+"kind": "local",
+"year": "2025",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 28/2025",
+"short": "HCL Clinceni nr. 28/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-24",
+"latest": "2025-07-24",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/210033",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -619,6 +709,50 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-33-2025",
+"path": "local/ilfov/clinceni/2025/33",
+"kind": "local",
+"year": "2025",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 33/2025 privind aprobarea concesionării unui imobil teren in suprafata de 780 mp situat in comuna Clinceni, judetul Ilfov, Tarla 32 Parcela 184/1/2, nr. Cadastral 757/1, ce apartine domeniului privat al Comunei Clinceni",
+"short": "HCL Clinceni nr. 33/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/210102",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-34-2025",
+"path": "local/ilfov/clinceni/2025/34",
+"kind": "local",
+"year": "2025",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 34/2025 privind aprobarea acordarii unui sprijin financiar Parohiei CĂLȚUNA din comuna Clinceni,județul Ilfov",
+"short": "HCL Clinceni nr. 34/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/210103",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1018,6 +1152,28 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-53-2025",
+"path": "local/ilfov/clinceni/2025/53",
+"kind": "local",
+"year": "2025",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 53/2025 privind desemnarea reprezentantilor Consiliului local Clinceni in Consiliul de Administratie al Liceului sportiv Helmuth Duckadam Clinceni, pentru anul scolar 2025-2026",
+"short": "HCL Clinceni nr. 53/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-23",
+"latest": "2026-06-23",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/222365",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

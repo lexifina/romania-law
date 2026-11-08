@@ -3,6 +3,771 @@
  "shard": "local/ilfov/popesti-leordeni/2023",
  "acts": [
   {
+   "slug": "hcl-ilfov--popesti-leordeni-100-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/100",
+   "short": "HCL Popești-Leordeni nr. 100/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 100/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/100",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_100.pdf",
+     "sha256": "a0ca32128ad9fbd03d5fb9537b8375248d744bc19ecbffc66b4d22cb1e8b864c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-101-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/101",
+   "short": "HCL Popești-Leordeni nr. 101/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 101/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/101",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_101.pdf",
+     "sha256": "bdf3ce9f6e253a8de43325b237b417c712bb54a30570e32c21090fec246ea7ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-103-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/103",
+   "short": "HCL Popești-Leordeni nr. 103/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 103/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/103",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_103v2.pdf",
+     "sha256": "366490a1e5312f721ec732d9cfbe809041c92b25745d7c849174a3b4cf5ef9a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-104-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/104",
+   "short": "HCL Popești-Leordeni nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 104/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/104",
+   "versions": [
+    {
+     "from": "2023-08-24",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_104.pdf",
+     "sha256": "ff4ec5705283300befb6761ad8a8dc461f9b646ad634519730a2e0801c116746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-105-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/105",
+   "short": "HCL Popești-Leordeni nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 105/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/105",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_105.pdf",
+     "sha256": "b080ce14dd404b51505176905098a55ef4ea7cb2d7877444d6ab112a61d1f3f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-106-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/106",
+   "short": "HCL Popești-Leordeni nr. 106/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 106/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/106",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_106.pdf",
+     "sha256": "fb2b57e5958a861289758384957357ecdefec0cdf61e29414a0542f6857d3ba6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-107-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/107",
+   "short": "HCL Popești-Leordeni nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 107/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/107",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_107.pdf",
+     "sha256": "39a0425f1a57c70fef5eb32ad238ccb6297bfedfa42c3a80bdb7219e4ea9252a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-108-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/108",
+   "short": "HCL Popești-Leordeni nr. 108/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 108/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/108",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_108.pdf",
+     "sha256": "f8f18eb4c407b4daf201cba9ecab88c8da186e5c6e01fde16abc663b42c3822f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-112-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/112",
+   "short": "HCL Popești-Leordeni nr. 112/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 112/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/112",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_112.pdf",
+     "sha256": "743786120fd05ac145473f89f7ed4452d20b77740ec49f69a0a9a1cdac31befb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-113-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/113",
+   "short": "HCL Popești-Leordeni nr. 113/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 113/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/113",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_113.pdf",
+     "sha256": "5a20d7fd3c8c054973341e37e0bbe5bc6c0e31e61f581bf0c30f32598726209b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-114-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/114",
+   "short": "HCL Popești-Leordeni nr. 114/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 114/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/114",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_114.pdf",
+     "sha256": "74c5fa5691814bf96b005ea803fc12ec8a6b5d2eceb7df17e89a40dbca61142c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-115-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/115",
+   "short": "HCL Popești-Leordeni nr. 115/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 115/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/115",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_115.pdf",
+     "sha256": "df4984ed6dcd3107960aff1525337905916ee84066b4b8ba9304c06a23e034f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-116-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/116",
+   "short": "HCL Popești-Leordeni nr. 116/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 116/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/116",
+   "versions": [
+    {
+     "from": "2023-09-21",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_116.pdf",
+     "sha256": "9d25b1c30208eade7426d46dad71102b13daa0ffbdf86c3f39b96fe97e15f50a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-117-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/117",
+   "short": "HCL Popești-Leordeni nr. 117/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 117/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/117",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_117.pdf",
+     "sha256": "174db46f9008548d6e365c77934572eba60b0b83afffb9ca635f232bd0ef0c8b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-118-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/118",
+   "short": "HCL Popești-Leordeni nr. 118/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 118/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/118",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_118.pdf",
+     "sha256": "3afb9b484c24d6b026ee4a23ae2cb8a36a22be6ffca4a2754564a2e71b27e7d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-119-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/119",
+   "short": "HCL Popești-Leordeni nr. 119/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 119/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/119",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_119.pdf",
+     "sha256": "21f647a00cf2c906eba7a41883d6df748a65959b59f035c5fc71eceffed812cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-120-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/120",
+   "short": "HCL Popești-Leordeni nr. 120/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 120/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/120",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_120.pdf",
+     "sha256": "e472fbce69aa5b5b9f740c8ab6c9bfdcaaa360f29386f3bdcd72d09ae438998d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-121-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/121",
+   "short": "HCL Popești-Leordeni nr. 121/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 121/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/121",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_121.pdf",
+     "sha256": "7dad804b6d30a1631b18d98ea406c541c3145f1f3adb9d7d7768a60c94b6902f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-122-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/122",
+   "short": "HCL Popești-Leordeni nr. 122/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 122/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/122",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_122.pdf",
+     "sha256": "4fbaacf53347d1ef0d4e63d7b1c57ea7485f8b0219806eeb7895909b40616a34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-123-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/123",
+   "short": "HCL Popești-Leordeni nr. 123/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 123/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/123",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_123.pdf",
+     "sha256": "15fcfc5c31b4345a8aabfe7f0a5f2819a9933d8013403c255ec84b932dd7fa73"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-124-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/124",
+   "short": "HCL Popești-Leordeni nr. 124/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 124/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/124",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_124.pdf",
+     "sha256": "a6099a1e70a94638ca3304f450bb345ec7e64c1b83fca60c67d29e4cbf3483af"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-125-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/125",
+   "short": "HCL Popești-Leordeni nr. 125/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 125/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/125",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_125.pdf",
+     "sha256": "9ee81d304cb64e8a78f474cf789bb7cf0515c352bef9690ac37ec62466790f92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-126-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/126",
+   "short": "HCL Popești-Leordeni nr. 126/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 126/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/126",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_126.pdf",
+     "sha256": "a9210ceb87dfeb47df4dca5a2faa775051bed2ea1d2d4b32c671f56e22cbcc0b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-127-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/127",
+   "short": "HCL Popești-Leordeni nr. 127/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 127/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/127",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_127.pdf",
+     "sha256": "de0728c89224f8520a97450a01338395c6d33c848541a6f1e0a349000b261628"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-128-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/128",
+   "short": "HCL Popești-Leordeni nr. 128/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 128/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/128",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_128.pdf",
+     "sha256": "8e0c4feeca27c306b791f938afca2163980cbaad0c1927839bc1720efbac606c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-129-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/129",
+   "short": "HCL Popești-Leordeni nr. 129/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 129/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/129",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_129.pdf",
+     "sha256": "91631b4c526ac8ca0f20350e5bd1d4c5d38af8b6b7495a53997a882c82972506"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-130-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/130",
+   "short": "HCL Popești-Leordeni nr. 130/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 130/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/130",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_130.pdf",
+     "sha256": "dbdd4cc090bc7ed9bdb59a88073404bdfc72c5f6650dd71380a971d7a1d7cf86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-131-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/131",
+   "short": "HCL Popești-Leordeni nr. 131/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 131/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/131",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_131.pdf",
+     "sha256": "40710d9262ab9c65dc06e383b30f545e14858cbeb0f3b3da0c23860362d01a36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-132-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/132",
+   "short": "HCL Popești-Leordeni nr. 132/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 132/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/132",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_132.pdf",
+     "sha256": "6602f9bb0368a0c626c9c5f2c17fa5cde05daa8b54f56446f4d4a02a861bd364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-133-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/133",
+   "short": "HCL Popești-Leordeni nr. 133/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 133/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/133",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_133.pdf",
+     "sha256": "efa44b45c72bd03f12bf6675ae47dd9641235fc180b19425264bf3ae336fd895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-134-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/134",
+   "short": "HCL Popești-Leordeni nr. 134/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 134/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/134",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_134.pdf",
+     "sha256": "9582daf1636a8dfcccff4d1b4847a1973d54548210371e995fbcbce37cb85c2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-135-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/135",
+   "short": "HCL Popești-Leordeni nr. 135/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 135/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/135",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_135.pdf",
+     "sha256": "f6f5733ea8b4043e4290d589ac700691c07a1d975f0fa10e6b69a7587067b591"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-136-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/136",
+   "short": "HCL Popești-Leordeni nr. 136/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 136/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/136",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_136.pdf",
+     "sha256": "be8880a390c7ed07c57c1cccbafc4fe803df06c13f0778a6016f853f01d79f89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-137-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/137",
+   "short": "HCL Popești-Leordeni nr. 137/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 137/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/137",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_137.pdf",
+     "sha256": "4940461417959e15dd9c1485b9fa87ef029909bc2b8923b24fe32956defca337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-138-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/138",
+   "short": "HCL Popești-Leordeni nr. 138/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 138/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/138",
+   "versions": [
+    {
+     "from": "2023-09-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_138.pdf",
+     "sha256": "11628279dda757c875de8839ce3d01d9b4b4c8a0bcc60883176feaa65ad00724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-139-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/139",
+   "short": "HCL Popești-Leordeni nr. 139/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 139/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/139",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_139.pdf",
+     "sha256": "f7388efa1c58840feab00d9c196ff1f146b7d269e177e915938f555a49d9c26a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-140-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/140",
+   "short": "HCL Popești-Leordeni nr. 140/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 140/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/140",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_140.pdf",
+     "sha256": "eeb450e0716738e830982fd1e2de042fef76f007cca6e724d67e85d885f544e8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-141-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/141",
+   "short": "HCL Popești-Leordeni nr. 141/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 141/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/141",
+   "versions": [
+    {
+     "from": "2023-10-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_141.pdf",
+     "sha256": "fe0d3d6c4d01a864e2d5396502fcedb355cbf0220d029a34cb2a68e4d0ddeb2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-142-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/142",
+   "short": "HCL Popești-Leordeni nr. 142/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 142/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/142",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_142.pdf",
+     "sha256": "dca795eb0d7da9bafbcc2c1d55dba0c00cd39d67da2d746d2cd14cabb06fbd8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-143-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/143",
+   "short": "HCL Popești-Leordeni nr. 143/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 143/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/143",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_143.pdf",
+     "sha256": "84b971148abddd13d06a44bf6df708e1380852ebf75d2bf5a40f1463130123d6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-144-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/144",
+   "short": "HCL Popești-Leordeni nr. 144/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 144/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/144",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_144.pdf",
+     "sha256": "27523026312c07ddc381fea86eb6803a438bb402f89278166c13d8892a79eed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-145-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/145",
+   "short": "HCL Popești-Leordeni nr. 145/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 145/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/145",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_145.pdf",
+     "sha256": "5ddab92abdd2760efae3414ef324a83c03da982f3e94d14d224de1d81f569381"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-146-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/146",
+   "short": "HCL Popești-Leordeni nr. 146/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 146/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/146",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_146.pdf",
+     "sha256": "2a2d0bf0486ea58af3f7c9150081412bb5f7267ddeec2294b2c96e2e828af922"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-147-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/147",
+   "short": "HCL Popești-Leordeni nr. 147/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 147/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/147",
+   "versions": [
+    {
+     "from": "2023-11-08",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_147.pdf",
+     "sha256": "6ccbb4d9dee40b8abd94cdd322a450dfd5393d1a25e58dedc102923ba9528273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-148-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/148",
+   "short": "HCL Popești-Leordeni nr. 148/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 148/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/148",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_148.pdf",
+     "sha256": "920cd4314fdb7dc780ecdd69f857605e42db928d3130bf448fafa5a53975a60e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-149-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/149",
+   "short": "HCL Popești-Leordeni nr. 149/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 149/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/149",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_149.pdf",
+     "sha256": "5b650c0d944da128b088e1499c4fe8afbf6054a76b969ebf005562c14240ffd9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-150-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/150",
+   "short": "HCL Popești-Leordeni nr. 150/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 150/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/150",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_150.pdf",
+     "sha256": "e19bbf4bf7a55d770ccfeba9642946a8d9b1d5936f5a767b155d7c178080adcf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-151-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/151",
+   "short": "HCL Popești-Leordeni nr. 151/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 151/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/151",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_151.pdf",
+     "sha256": "c5da3d5c4487c5bce468d0a21c15289154fb8e1d6eba7a84e1a9557896babf9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-152-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/152",
+   "short": "HCL Popești-Leordeni nr. 152/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 152/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/152",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_152.pdf",
+     "sha256": "73937988f93e4539c3990d7b223f82b073cd9530d87aedd9cfbfced3ad6925db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-153-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/153",
+   "short": "HCL Popești-Leordeni nr. 153/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 153/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/153",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_153.pdf",
+     "sha256": "6568e7ef1d225bdaeb7d76decc23b7a62a29d386dd904fbffe4ff9f3e853bd43"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-156-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/156",
+   "short": "HCL Popești-Leordeni nr. 156/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 156/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/156",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_156.pdf",
+     "sha256": "75ed57808d7fc4f872a8fad53fa340dfe30fa1f23b70a8b2be575dff5cbcaded"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--popesti-leordeni-157-2023",
    "path": "local/ilfov/popesti-leordeni/2023/157",
    "short": "HCL Popești-Leordeni nr. 157/2023",
@@ -194,6 +959,606 @@
      "units": 1,
      "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_171.pdf",
      "sha256": "56cf535c6c6716f3ebec0575503ce167fd99dea605e7d1fe8d895c34501dd88e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-52-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/52",
+   "short": "HCL Popești-Leordeni nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 52/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/052",
+   "versions": [
+    {
+     "from": "2023-03-27",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_052.pdf",
+     "sha256": "c5daf09d5403a24d0211c6682746c82eed2d02426637f79fd0486f444f2dea5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-53-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/53",
+   "short": "HCL Popești-Leordeni nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 53/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/053",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_053.pdf",
+     "sha256": "443c9d89cfa883ac89977b2f5da0374e8dd173e37bfe8528411ec1e586b779b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-56-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/56",
+   "short": "HCL Popești-Leordeni nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 56/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/056",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_056.pdf",
+     "sha256": "618bbb065429ed3abd9cd1b4de3f0a1d5d4b621999a17c85f6328dcc72b17c1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-57-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/57",
+   "short": "HCL Popești-Leordeni nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 57/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/057",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_057.pdf",
+     "sha256": "b31f8d961861050733927a13c3574f1f01bf36e1eed9202856a3e74e0a3e494a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-58-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/58",
+   "short": "HCL Popești-Leordeni nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 58/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/058",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_058.pdf",
+     "sha256": "f9746af1eb04ce6dcef6eb38dddda5fb414f7f74dc390b07c808689943963b84"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-59-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/59",
+   "short": "HCL Popești-Leordeni nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 59/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/059",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_059.pdf",
+     "sha256": "d567dd9810cf5adf6ecb5836228607da389db2512bd23130e2ea66a2a9cfba89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-60-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/60",
+   "short": "HCL Popești-Leordeni nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 60/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/060",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_060.pdf",
+     "sha256": "c677f061385b3bc5022c5cf86befc8f64c278060a8711a1b468fc91e83ab7697"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-61-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/61",
+   "short": "HCL Popești-Leordeni nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 61/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/061",
+   "versions": [
+    {
+     "from": "2023-04-19",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_061.pdf",
+     "sha256": "db7c903f10fd687614231f69f9e938825f704776d6a73229992601ec1e802128"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-62-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/62",
+   "short": "HCL Popești-Leordeni nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 62/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/062",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_062.pdf",
+     "sha256": "b172f1cee3bbb77ad5c27f1da1d274a9dccab4effbf8703c156a1219475f01f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-63-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/63",
+   "short": "HCL Popești-Leordeni nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 63/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/063",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_063.pdf",
+     "sha256": "5ef0e71530f29f77ed7e8d262d20e5f1014c83b8e80f3e83ab2da8306715380d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-64-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/64",
+   "short": "HCL Popești-Leordeni nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 64/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/064",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_064.pdf",
+     "sha256": "ba00b36a3619d5ae81715f10d5d6ac85c1621abfe77e6569ed024e69dbe1008b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-65-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/65",
+   "short": "HCL Popești-Leordeni nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 65/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/065",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_065.pdf",
+     "sha256": "d41cf58e13870994b573c977e5ba7543d18e898730db4bf7c0b161c58e6c73ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-66-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/66",
+   "short": "HCL Popești-Leordeni nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 66/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/066",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_066.pdf",
+     "sha256": "0e07a4ce176f38cdbced5f321aedfd555f4bcf31951857493bbed551fd38fc8f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-67-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/67",
+   "short": "HCL Popești-Leordeni nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 67/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/067",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_067v4.pdf",
+     "sha256": "2f0903bb0ece17b18bc566c091fbd5465142c711c922e43e87e3038370bc037e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-69-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/69",
+   "short": "HCL Popești-Leordeni nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 69/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/069",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_069.pdf",
+     "sha256": "402eacd364f9a083a1cae4062679017b893ef88778efdb1822667260fd950b88"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-70-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/70",
+   "short": "HCL Popești-Leordeni nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 70/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/070",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_070.pdf",
+     "sha256": "605cf65234940f0ab5b2a8b0608e0a08070e4aafa7d1e85029d0e277ed7141c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-71-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/71",
+   "short": "HCL Popești-Leordeni nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 71/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/071",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_071.pdf",
+     "sha256": "3f42aed3822b24dfeac4b47096d103cc6ba2874d17b15a0b3fed3da064b71427"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-73-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/73",
+   "short": "HCL Popești-Leordeni nr. 73/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 73/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/073",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_073v2.pdf",
+     "sha256": "12c035a27ed71239b9f802a981e734bc7d024d80196f27e3fb65c8f1abc24c76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-74-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/74",
+   "short": "HCL Popești-Leordeni nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 74/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/074",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_074.pdf",
+     "sha256": "98e404967c05457ed15569d54c41ca952f1c3b3164648adca52c98b0ee917abf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-75-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/75",
+   "short": "HCL Popești-Leordeni nr. 75/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 75/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/075",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_075v2.pdf",
+     "sha256": "8582e4b935e014fe50bf07b73ebdfec53f95a5eb3ab77c4c448a50d2f805040d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-76-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/76",
+   "short": "HCL Popești-Leordeni nr. 76/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 76/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/076",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_076.pdf",
+     "sha256": "754c886a0f9404a3dde2ad3bf8bb20f8a981ee63d8e53aea0276d79b980522b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-77-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/77",
+   "short": "HCL Popești-Leordeni nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 77/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/077",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_077.pdf",
+     "sha256": "1dc83ffaa6d1e1d9435882226666f0d25cecc93ebd5d5bcf379f07830f6d8923"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-78-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/78",
+   "short": "HCL Popești-Leordeni nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 78/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/078",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_078.pdf",
+     "sha256": "48ea92ee7a08b88373412c31696c8d76474d9d204e7171396259349173addcd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-79-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/79",
+   "short": "HCL Popești-Leordeni nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 79/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/079",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_079.pdf",
+     "sha256": "7c3cafc90b1c6e44198f5318e96a7a2d5c0858ffd828a108de4ad72f829f2223"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-80-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/80",
+   "short": "HCL Popești-Leordeni nr. 80/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 80/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/080",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_080.pdf",
+     "sha256": "3923039e40b19500b62c7af86dda3838079fb5ab2a2d1160e1618f12c9d95ad8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-81-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/81",
+   "short": "HCL Popești-Leordeni nr. 81/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 81/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/081",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_081.pdf",
+     "sha256": "574cc841269e3dbc36c24e5b59de85557c5ba357005ffeb2157c154710d05045"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-82-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/82",
+   "short": "HCL Popești-Leordeni nr. 82/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 82/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/082",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_082.pdf",
+     "sha256": "9d14e239cb81da9da1e8946ad0789af3d93c7fb26e444e795a717bdf158d7ada"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-83-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/83",
+   "short": "HCL Popești-Leordeni nr. 83/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 83/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/083",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_083.pdf",
+     "sha256": "07cd588b6ae0719b95ce432109118bdd85313c87a8b606cdd1d79fde828c594e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-84-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/84",
+   "short": "HCL Popești-Leordeni nr. 84/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 84/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/084",
+   "versions": [
+    {
+     "from": "2023-06-15",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_084.pdf",
+     "sha256": "e67ca153b2c7cc8cdafb266df102f8c52c94225a2592eb92dc9d5d653e40b847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-86-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/86",
+   "short": "HCL Popești-Leordeni nr. 86/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 86/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/086",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_086.pdf",
+     "sha256": "ae1df35184043153a3fd718739fcab0cd7d59ec53927a7256a4225c703e648d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-87-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/87",
+   "short": "HCL Popești-Leordeni nr. 87/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 87/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/087",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_087.pdf",
+     "sha256": "113e998ee6e956ab6e490755cd2d77c29da23cc778cebd5189c9f0f1ac952109"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-88-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/88",
+   "short": "HCL Popești-Leordeni nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 88/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/088",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_088.pdf",
+     "sha256": "b091261b3e8f6c74122bf541851e3184b616e6d31ce738cea0434988d6674daa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-89-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/89",
+   "short": "HCL Popești-Leordeni nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 89/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/089",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_089.pdf",
+     "sha256": "910f73129d007934ba99be1450f1372f4ff8cf1b425db3e4d67d26e95f091b02"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-90-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/90",
+   "short": "HCL Popești-Leordeni nr. 90/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 90/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/090",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_090.pdf",
+     "sha256": "462a17322861f2d9fe58d69683451f0fb63b89f4c439fae9b21889a4c0dff36a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-93-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/93",
+   "short": "HCL Popești-Leordeni nr. 93/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 93/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/093",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_093.pdf",
+     "sha256": "14edb5f08a2e16dbe1332344d654ff7a99fb5f58355fe55e4c9528d3c7ab3e4f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-94-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/94",
+   "short": "HCL Popești-Leordeni nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 94/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/094",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_094.pdf",
+     "sha256": "c1fa85f9ffe7be4e24753a06299db8e2d8e8991e872717b879547c4063699e9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-95-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/95",
+   "short": "HCL Popești-Leordeni nr. 95/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 95/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/095",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_095.pdf",
+     "sha256": "55e57fbc06bd012c26ddaa093bc7712637fa7376d65ab680f7cc1c0d575dabac"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-96-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/96",
+   "short": "HCL Popești-Leordeni nr. 96/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 96/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/096",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_096.pdf",
+     "sha256": "cd2d49036f5f28252d7e42a26ea0ef673f144451db1b87ebe82bc529c25c28e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-97-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/97",
+   "short": "HCL Popești-Leordeni nr. 97/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 97/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/097",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_097.pdf",
+     "sha256": "ee45e91051d00650c06f7ca4bbc932940552c07e1d0da4358da972ac39b8a4f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--popesti-leordeni-98-2023",
+   "path": "local/ilfov/popesti-leordeni/2023/98",
+   "short": "HCL Popești-Leordeni nr. 98/2023",
+   "title": "Hotărârea Consiliului Local al Orașului Popești-Leordeni nr. 98/2023",
+   "url": "https://primăria-popești-leordeni.ro/consiliul-local/hotararile-consiliului-local/2023/098",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://primăria-popești-leordeni.ro/files/consiliul-local/hotararile-consiliului/2023/2023--hcl_098.pdf",
+     "sha256": "2dc8914f2ec5c12022cabfbe974a59970ca2add2bb0a4977c3d57f021b4b7624"
     }
    ]
   }

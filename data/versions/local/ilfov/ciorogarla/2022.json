@@ -48,6 +48,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-12-2022",
+   "path": "local/ilfov/ciorogarla/2022/12",
+   "short": "HCL Ciorogârla nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 12/2022 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/58053",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/58053",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-13-2022",
    "path": "local/ilfov/ciorogarla/2022/13",
    "short": "HCL Ciorogârla nr. 13/2022",
@@ -213,6 +228,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-23-2022",
+   "path": "local/ilfov/ciorogarla/2022/23",
+   "short": "HCL Ciorogârla nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 23/2022 privind acordarea unui mandat special Asociaţiei de Dezvoltare Intercomunitară pentru Gestionarea Integrantă a Deşeurilor Ilfov (A.D.I.G.I.D.I.)",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/62244",
+   "versions": [
+    {
+     "from": "2022-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/62244",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-24-2022",
    "path": "local/ilfov/ciorogarla/2022/24",
    "short": "HCL Ciorogârla nr. 24/2022",
@@ -313,6 +343,36 @@
      "from": "2022-01-25",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-30-2022",
+   "path": "local/ilfov/ciorogarla/2022/30",
+   "short": "HCL Ciorogârla nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 30/2022",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/68000",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/68000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-31-2022",
+   "path": "local/ilfov/ciorogarla/2022/31",
+   "short": "HCL Ciorogârla nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 31/2022 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/69312",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/69312",
      "sha256": null
     }
    ]

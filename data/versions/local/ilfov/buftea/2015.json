@@ -3,6 +3,201 @@
  "shard": "local/ilfov/buftea/2015",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-1-2015",
+   "path": "local/ilfov/buftea/2015/1",
+   "short": "HCL Buftea nr. 1/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 1/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-12",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/1.pdf",
+     "sha256": "95fe83c5e39eb134e87521073c9a45ce79fc4c1e3513806027dacae243daea5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-100-2015",
+   "path": "local/ilfov/buftea/2015/100",
+   "short": "HCL Buftea nr. 100/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 100/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/100.pdf",
+     "sha256": "22078297ceab91c8153a6c416b2825638d33cfe7a9452a0423333c586f3f436c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-101-2015",
+   "path": "local/ilfov/buftea/2015/101",
+   "short": "HCL Buftea nr. 101/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 101/2015 privind modificarea componenţei unor comisii de specialitate ale Consiliului local al oraşului Buftea, stabilite prin Hotărârea Consiliului Local nr.71/28.06.2013",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/101.pdf",
+     "sha256": "2d981097d9f9af0dacae9c2e8ad2468d9836f2c6952087925e13a0e59df06516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-102-2015",
+   "path": "local/ilfov/buftea/2015/102",
+   "short": "HCL Buftea nr. 102/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 102/2015 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 şi Grădinita “Căsuta Copilăriei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/102.pdf",
+     "sha256": "d6963af53587e6544d9109626ee448a03828f0962c5313356a9c61b5f54793dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-103-2015",
+   "path": "local/ilfov/buftea/2015/103",
+   "short": "HCL Buftea nr. 103/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 103/2015 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea pe Trimestrul 11 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/103.pdf",
+     "sha256": "8b891ea62d99620ee5614ec597af27c5453e42cf739f83e2ac3dbe3a31a336a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-105-2015",
+   "path": "local/ilfov/buftea/2015/105",
+   "short": "HCL Buftea nr. 105/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 105/2015 privind aprobarea dezmembrării imobilului teren proprietatea oraşului Buftea, nr. cadastral 50420, înscris în Cartea Funciară a oraşului Buftea nr. 50420",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/105.pdf",
+     "sha256": "3d55a155d03d818e12f9a3df90797ca4d61aa0f7155fee738d6673e0ad1021f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-106-2015",
+   "path": "local/ilfov/buftea/2015/106",
+   "short": "HCL Buftea nr. 106/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 106/2015 privind aprobarea alipirii unor suprafete de teren situate în oraşul Buftea, Ştirbei Vodă, nr. 53 A, judetul Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/106.pdf",
+     "sha256": "a6dddcefe6c399f59d3428998a0c65a3c320cae9624d5219439c2e7ee69e19f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-107-2015",
+   "path": "local/ilfov/buftea/2015/107",
+   "short": "HCL Buftea nr. 107/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 107/2015 privind situatiile financiare anuale ale S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/107.pdf",
+     "sha256": "5b159d7f146c2aee052e737023c6da157589cd65064786168b13b2df2a68eeb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-108-2015",
+   "path": "local/ilfov/buftea/2015/108",
+   "short": "HCL Buftea nr. 108/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 108/2015 pentru modificarea Anexei la Hotărârea Consiliului local nr. 98/31.08.2015, privind desemnarea reprezentantilor Consiliului Local al oraşului Buftea în Consiliul de Administratie şi în Comisia pentru evaluarea şi asigurarea calitătii în educatie, în cadrul un",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/108.pdf",
+     "sha256": "b80683e6af889a3f1d2c1601d484f7a2109d63281c673534121e28d647d30002"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-109-2015",
+   "path": "local/ilfov/buftea/2015/109",
+   "short": "HCL Buftea nr. 109/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 109/2015 privind constatarea încetării contractului de concesiune nr. 101/20.02.2003",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/109.pdf",
+     "sha256": "7453e9653633acfe9f2958f500a800030a70315707baa91c82a73c43f872fb2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-11-2015",
+   "path": "local/ilfov/buftea/2015/11",
+   "short": "HCL Buftea nr. 11/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 11/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/11.pdf",
+     "sha256": "c42e8bcd3061644d8fe77b85ba1ba58bf5d359b6a19431b9cd81a4d5dc031a50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-111-2015",
+   "path": "local/ilfov/buftea/2015/111",
+   "short": "HCL Buftea nr. 111/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 111/2015 privind aprobarea documentatiei tehnico – economice “Studiu de fezabilitate – Extindere retele electrice de interes public Cartier pentru tineri “",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/111.pdf",
+     "sha256": "26c9790aca047f73750ac813efc1dbad7f970c0b3b38839468da53f55f95722f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-112-2015",
+   "path": "local/ilfov/buftea/2015/112",
+   "short": "HCL Buftea nr. 112/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 112/2015 privind modificarea Hotărârii Consiliului local nr. 101/31.10.2014 pentru asigurarea transportului elevilor care frecventează cursurile la Şcoala Gimnazială nr.1 Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/112.pdf",
+     "sha256": "c004efd3f6c359dd4a4d34ad5fbd77343480664af6662796303c168ef9015671"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-113-2015",
    "path": "local/ilfov/buftea/2015/113",
    "short": "HCL Buftea nr. 113/2015",
@@ -18,6 +213,126 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-114-2015",
+   "path": "local/ilfov/buftea/2015/114",
+   "short": "HCL Buftea nr. 114/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 114/2015 privind achizitionarea serviciilor de consultanţă, asistenţă şi reprezentare juridică a Unităţii Administrativ Teritoriale Buftea, în dosarele aflate pe rolul instantelor de judecată, în contradictoriu cu Administratia Naţională “Apele Române” Administratia b",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/114.pdf",
+     "sha256": "b7680868fbd2e07add0d3ac6e785712770f21f713a6018f7ce407edff3a2569e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-115-2015",
+   "path": "local/ilfov/buftea/2015/115",
+   "short": "HCL Buftea nr. 115/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 115/2015 privind aprobarea dezmembrării imobilului teren situat în oraşul Buftea, strada Studioului, nr.3, cu nr. cadastral 56130",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/115.pdf",
+     "sha256": "20947742f5c14d325d6e4939bc6a604deee33381c8bc29ce7ef38d351a6bcb7d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-116-2015",
+   "path": "local/ilfov/buftea/2015/116",
+   "short": "HCL Buftea nr. 116/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 116/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/116.pdf",
+     "sha256": "92213b30f09f7a1306e619d560870ef1c518215c162d098c40a136b44352b696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-117-2015",
+   "path": "local/ilfov/buftea/2015/117",
+   "short": "HCL Buftea nr. 117/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 117/2015 privind revocarea art.1 alin. (1) din Hotărârea Consiliului Local nr. 89 din 29.09.2014, privind completarea inventarului bunurilor care aparţin domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/117.pdf",
+     "sha256": "f7722efb724148e4a27b306c564d979b735a8013427d4d597aa8d2176a76c9ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-118-2015",
+   "path": "local/ilfov/buftea/2015/118",
+   "short": "HCL Buftea nr. 118/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 118/2015 privind darea în folosinţă gratuită către Tribunalul Ilfov, a unui spatiu situat în imobilul “Casa de Cultură”, din Piata Mihai Eminescu, oraşul Buftea, judetul Ilfov, în vederea depozitării arhivei Tribunalului Ilfov şi a Judecătoriei Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/118.pdf",
+     "sha256": "8db7bf628979a6ae0d68cc8e86d1052070f35a4cb341c4f5398555f9e8024807"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-119-2015",
+   "path": "local/ilfov/buftea/2015/119",
+   "short": "HCL Buftea nr. 119/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 119/2015 privind alegerea preşedintelui pentru sedinta Consiliului local",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/119.pdf",
+     "sha256": "52e9e7932873e2bb51ca261b9e5879006c2f17a5a14c20bd643170147a63d0b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-120-2015",
+   "path": "local/ilfov/buftea/2015/120",
+   "short": "HCL Buftea nr. 120/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 120/2015 privind aprobarea Planului de ocuparea functiilor publice pentru anul 2016, pentru aparatul de specialitate al Primarului oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/120.pdf",
+     "sha256": "b5c81329fb3cd3f27c2bd191d4b8876ce0355680d590c2560fca906db535c4b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-121-2015",
+   "path": "local/ilfov/buftea/2015/121",
+   "short": "HCL Buftea nr. 121/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 121/2015 privind aprobarea Planului de ocupare a funcţiilor publice pentru Direcţia Asistenţă Socială Buftea aflată în subordinea Consiliului local Buftea, pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/121.pdf",
+     "sha256": "b713480349ec214b182e573a507d3023be171099c9ad0536584c9f86948f1da3"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-122-2015",
    "path": "local/ilfov/buftea/2015/122",
    "short": "HCL Buftea nr. 122/2015",
@@ -29,6 +344,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/122.pdf",
      "sha256": "767a7f6b76d77840bad3e56a9aa79c628d955210c5556457d3ba7d866630947a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-123-2015",
+   "path": "local/ilfov/buftea/2015/123",
+   "short": "HCL Buftea nr. 123/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 123/2015 privind aprobarea “Programului de măsuri şi acţiuni pentru prevenirea şi combaterea înzăpezirii şi poleiului pe drumurile din Oraşul Buftea ” pentru sezonul rece 2015-2016",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/123.pdf",
+     "sha256": "d1fc7760e39cd5fe2656213b629d48753b78d018c17ea70e7796c2a96cc4cc34"
     }
    ]
   },
@@ -63,6 +393,111 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-126-2015",
+   "path": "local/ilfov/buftea/2015/126",
+   "short": "HCL Buftea nr. 126/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 126/2015 privind aprobarea unui schimb de locuinte destinate închirierii",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/126.pdf",
+     "sha256": "1c453abbb63df24d7d3a2dc9e61a1b266bf5710e1804a7000bc8ea514e8b5151"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-127-2015",
+   "path": "local/ilfov/buftea/2015/127",
+   "short": "HCL Buftea nr. 127/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 127/2015 pentru suplimentarea spatiului atribuit in folosinţă gratuită Ministerului Public – Parchetul de pe lângă Tribunalul Ilfov prin Hotărârea Consiliului local nr. 156/20.12.2013, modificată prin Hotărârea Consiliului local nr. 6/30.01.2015, situat in Buftea, stra",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/127.pdf",
+     "sha256": "686759efe2c64bafaadffc48596b7f354f23b6f08aaf3e94113222bfc57529da"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-128-2015",
+   "path": "local/ilfov/buftea/2015/128",
+   "short": "HCL Buftea nr. 128/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 128/2015 privind revocarea Hotărârilor Consiliului Local al oraşului Buftea nr. 75120.08.2010 şi nr. 82131.10.2011",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/128.pdf",
+     "sha256": "c90afcbd0a33d25689920b5bde19be3512e39a5153cf1115a72754f9c3704732"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-129-2015",
+   "path": "local/ilfov/buftea/2015/129",
+   "short": "HCL Buftea nr. 129/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 129/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/129.pdf",
+     "sha256": "d9a9794df47400daf9fc00df68ad339669ba408767ba671682d9a26571d089bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-13-2015",
+   "path": "local/ilfov/buftea/2015/13",
+   "short": "HCL Buftea nr. 13/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 13/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/13.pdf",
+     "sha256": "9df1e1d87c1a3b2a1b9eafecccd8bda1c7c1916fedab440d65074a50913d027f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-130-2015",
+   "path": "local/ilfov/buftea/2015/130",
+   "short": "HCL Buftea nr. 130/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 130/2015 privind aprobarea contului de executie al bugetului general al oraşului Buftea, pe Trimestrul III 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/130.pdf",
+     "sha256": "25b7ce59394125b5f14968a47b83488fb5b4010e8106b6c0109bccf4a5ba1266"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-131-2015",
+   "path": "local/ilfov/buftea/2015/131",
+   "short": "HCL Buftea nr. 131/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 131/2015 privind rectificarea bugetului general al oraşului Buftea în anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/131.pdf",
+     "sha256": "cf7f23019a2f0cc3d1d30dcc5305d41b79d3a170ad85f286a7f2d1cdb4216588"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-132-2015",
    "path": "local/ilfov/buftea/2015/132",
    "short": "HCL Buftea nr. 132/2015",
@@ -74,6 +509,351 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/132.pdf",
      "sha256": "5228e2d659a128fa5ead6548a873b43178d9f0ebfe335f2a69d2a2146eb245e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-133-2015",
+   "path": "local/ilfov/buftea/2015/133",
+   "short": "HCL Buftea nr. 133/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 133/2015 privind asigurarea transportului elevilor care frecventează cursurile la Şcoala Gimnazială nr. 1 Buftea şi la structurile arondate acesteia, cu microbuzul şcolar",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/133.pdf",
+     "sha256": "18fa64001cab40c8cbd6bd8cc35356a49a5a09429ea38c5eb4c2d69461a59b78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-134-2015",
+   "path": "local/ilfov/buftea/2015/134",
+   "short": "HCL Buftea nr. 134/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 134/2015 privind aprobarea achiziţionării de către Primăria Oraşului Buftea a serviciilor de consultanţă juridică pentru modificarea obiectivelor de investiţii publice de interes local cofinanţate prin contractul de credit nr. 65/06.01.2014 şi susţinerea cererii de aut",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-10-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/134.pdf",
+     "sha256": "f87ebe11af312414924f4aca7bb65e9ff380617fa7ca6c38b1b9bea11c6a0637"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-135-2015",
+   "path": "local/ilfov/buftea/2015/135",
+   "short": "HCL Buftea nr. 135/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 135/2015 privind alegerea preşedintelui de şedintă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/135.pdf",
+     "sha256": "b2ae611195c2ea99a7e335e45e4e1c7d0258e128b67c60c21af3dd19c0db035b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-138-2015",
+   "path": "local/ilfov/buftea/2015/138",
+   "short": "HCL Buftea nr. 138/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 138/2015 pentru revocarea Hotărârii Consiliului local Buftea nr. 85/31.07.2015 privind acordarea din bugetul local al oraşului Buftea, a alocatiei zilnice de hrană şi a sumelor anuale necesare pentru acordarea drepturilor la îmbrăcăminte, încălţăminte, materiale igieni",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/138.pdf",
+     "sha256": "840f922ff3d853a88476106df871e0dfca33aea0abf16f48eed7785f724fdf4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-139-2015",
+   "path": "local/ilfov/buftea/2015/139",
+   "short": "HCL Buftea nr. 139/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 139/2015 privind stabilirea sediului Politiei locale a oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/139.pdf",
+     "sha256": "e1608dcadf6ca64cfb87d637be195f7e6f7da3a93234be8ef77e1704abc545e5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-14-2015",
+   "path": "local/ilfov/buftea/2015/14",
+   "short": "HCL Buftea nr. 14/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 14/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/14.pdf",
+     "sha256": "78d88bdb78740fe2f771b18fbc6fbbe8e91e85c426a949480aa4629fec92d4dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-140-2015",
+   "path": "local/ilfov/buftea/2015/140",
+   "short": "HCL Buftea nr. 140/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 140/2015 privind aprobarea asocierii între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/140.pdf",
+     "sha256": "dd0cbebe6d78f6bfc18bfe6fe8655fe1043c7b522168ef6af6efb82dcbeca652"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-141-2015",
+   "path": "local/ilfov/buftea/2015/141",
+   "short": "HCL Buftea nr. 141/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 141/2015 pentru modificarea H.C.L",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/141.pdf",
+     "sha256": "158e1dce498813b119160cb6e49aeb86fe56a4606219b418cd8cbef1bedd999d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-142-2015",
+   "path": "local/ilfov/buftea/2015/142",
+   "short": "HCL Buftea nr. 142/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 142/2015 pentru aprobarea modificării contractului de credit nr. 65/06.01.2014 încheiat cu Banca Comercială Română S.A",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/142.pdf",
+     "sha256": "e83867045c1d2a7cf454d21b301d6861e50b8e018195df7c118b1af813d91692"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-143-2015",
+   "path": "local/ilfov/buftea/2015/143",
+   "short": "HCL Buftea nr. 143/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 143/2015 privind aprobarea Programului de activităţi cultural – educative şi artistice pentru anul 2016 al Centrului Cultural Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/143.pdf",
+     "sha256": "c7c9914d795f5ea21502fa0bb33016f3e707351296036bf92752e651d9258b82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-144-2015",
+   "path": "local/ilfov/buftea/2015/144",
+   "short": "HCL Buftea nr. 144/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 144/2015 privind darea în folosinţă gratuită către Asociatia “Hercules” a unui imobil teren în suprafaţă de 1384 mp, situat în oraşul Buftea, strada Agricultori, cu nr. cadastral 57147",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/144.pdf",
+     "sha256": "7212e7273f61bf0fe166abaa9e0b4e6b42f41d0fa0227f168d9b24120f3764d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-145-2015",
+   "path": "local/ilfov/buftea/2015/145",
+   "short": "HCL Buftea nr. 145/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 145/2015 privind aprobarea rectificării bugetului general al oraşului Buftea în anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/145.pdf",
+     "sha256": "2ef9dcf1542881114fd997e892d31c687685aadd9631d509abc795eceafc2331"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-146-2015",
+   "path": "local/ilfov/buftea/2015/146",
+   "short": "HCL Buftea nr. 146/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 146/2015 privind organizarea serbării “Pomul de Crăciun- 2015”, de către Centrul Cultural Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/146.pdf",
+     "sha256": "d74cd709921a5fbd0750d09bd9681fb1f51a2dd8c96614a36bf53e9774f87723"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-147-2015",
+   "path": "local/ilfov/buftea/2015/147",
+   "short": "HCL Buftea nr. 147/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 147/2015 privind completarea inventarului bunurilor care apartin domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/147.pdf",
+     "sha256": "500254cdf9d8f8ea13d6a0ece861026c3f5b548ff3c349385ff905a46932a6f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-148-2015",
+   "path": "local/ilfov/buftea/2015/148",
+   "short": "HCL Buftea nr. 148/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 148/2015 privind transmiterea în administrarea Ministerului Public – Parchetul de pe lângă Tribunalul Ilfov, a unui imobil teren în suprafaţă de 1869 mp situat în oraşul Buftea, Ştirbei Vodă, nr. 53 A, Judetul Ilfov, în vederea construirii sediului Parchetului de pe lân",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/148.pdf",
+     "sha256": "d626f215820e37e20e72f9ec98a7c4a13b2db9b834e010b2c8ad8d41ac2c5dd5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-149-2015",
+   "path": "local/ilfov/buftea/2015/149",
+   "short": "HCL Buftea nr. 149/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 149/2015 privind transmiterea în administrarea Ministerului Public – Parchetul de pe lângă Tribunalul Ilfov, a unui imobil teren în suprafata de 956 mp situat în oraşul Buftea, Ştirbei Vodă, nr. 53 A, Judeţul Ilfov, în vederea realizării unui spaţiu pentru parcarea auto",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-11-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/149.pdf",
+     "sha256": "9a2392d9a726dd6e5526395205d90da30cefb981a6044d5da2c161dd216d89f4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-15-2015",
+   "path": "local/ilfov/buftea/2015/15",
+   "short": "HCL Buftea nr. 15/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 15/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/15.pdf",
+     "sha256": "3f4c779cdc79ec7e12227dcda129ced0d2ce460814ed5066f0e8ae5b4f313052"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-154-2015",
+   "path": "local/ilfov/buftea/2015/154",
+   "short": "HCL Buftea nr. 154/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 154/2015 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice şi/sau a personalului didactic auxiliar care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1, Grădiniţa “Căsuţa Copilăriei” şi Liceul Tehnologic “Barbu A. Ştirbei”, din oraşul",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/154.pdf",
+     "sha256": "ad1c1582b998af5cfd84b4b9a07cb243c9448d600eed59bbde103e7a04121298"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-155-2015",
+   "path": "local/ilfov/buftea/2015/155",
+   "short": "HCL Buftea nr. 155/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 155/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/155.pdf",
+     "sha256": "c5607b33c802203ced111d69bcf1bc2ecbd168070e8406ab474a24e9a53e6bc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-156-2015",
+   "path": "local/ilfov/buftea/2015/156",
+   "short": "HCL Buftea nr. 156/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 156/2015 privind prelungirea duratei unor contracte de închiriere pentru imobilele cu destinaţia de locuinţe şi pentru imobilele cu altă destinaţie decât cea de locuinţă, care aparţin domeniului public /privat al oraşului Buftea în anul 2016",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/156.pdf",
+     "sha256": "040f42ff5cc8803aca95ac61a39f3fb49d2a36ed38ffb86d37ed45fb14fa10a3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-157-2015",
+   "path": "local/ilfov/buftea/2015/157",
+   "short": "HCL Buftea nr. 157/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 157/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/157.pdf",
+     "sha256": "7f347382c7447431d68ff3a774240275161e2d1f10d215cd4b4162b1da5a1273"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-158-2015",
+   "path": "local/ilfov/buftea/2015/158",
+   "short": "HCL Buftea nr. 158/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 158/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/158.pdf",
+     "sha256": "7e0baae02e50e6339345d0ad4fdf9273a8590aec5ced172008c6ea5ffcf33cc8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-159-2015",
+   "path": "local/ilfov/buftea/2015/159",
+   "short": "HCL Buftea nr. 159/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 159/2015 privind modificarea şi completarea organigramei, a statului de funcţii şi a numărului de personal ce aparţin Direcţiei Asistenţă Socială – instituţie în subordinea Consiliului Local Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/159.pdf",
+     "sha256": "1c3c14a9e8508ad2aad1597a123263e579be5bf762b6452d9f4ff2cdfff909af"
     }
    ]
   },
@@ -123,6 +903,66 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-162-2015",
+   "path": "local/ilfov/buftea/2015/162",
+   "short": "HCL Buftea nr. 162/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 162/2015 privind rectificarea bugetului general al oraşului Buftea al Oraşului Buftea pe anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/162.pdf",
+     "sha256": "c092f858320f0f9afd0dcd6fa4a612b0e5b6b3df3abd86f1e155d96898089f5c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-163-2015",
+   "path": "local/ilfov/buftea/2015/163",
+   "short": "HCL Buftea nr. 163/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 163/2015 privind aprobarea Strategiei de dezvoltare a oraşului Buftea pentru perioada 2014 – 2020",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/163.pdf",
+     "sha256": "f9f4c46ee34edb0b08b864d08cf2487ec2c9532c4ccb801508fcde3ae432688c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-164-2015",
+   "path": "local/ilfov/buftea/2015/164",
+   "short": "HCL Buftea nr. 164/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 164/2015 privind rectificarea bugetului de venituri şi cheltuieli pe anul 2015 al S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/164.pdf",
+     "sha256": "b55d1089122f34fdc5ab91677dccb845009636cdd3353ede8d8a84cadf834d63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-17-2015",
+   "path": "local/ilfov/buftea/2015/17",
+   "short": "HCL Buftea nr. 17/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 17/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/17.pdf",
+     "sha256": "aabb6a1937a445ae692ec0718f06cf6a46935175c8da9ea490e94e2b77b9596e"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-18-2015",
    "path": "local/ilfov/buftea/2015/18",
    "short": "HCL Buftea nr. 18/2015",
@@ -134,6 +974,126 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/18.pdf",
      "sha256": "f6404f9857729a95dbba945110085d314a86505b14c3eb18b8c8bc3ec6e385e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-19-2015",
+   "path": "local/ilfov/buftea/2015/19",
+   "short": "HCL Buftea nr. 19/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 19/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/19.pdf",
+     "sha256": "4f4ad3f52cafc1bd63db44a15f58dd29452a77d10b3613a8e5092051160ec945"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-20-2015",
+   "path": "local/ilfov/buftea/2015/20",
+   "short": "HCL Buftea nr. 20/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 20/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/20.pdf",
+     "sha256": "b6a777b5979b27b52e4c88121cff26c1a286c191abdf9c642420c4f7cfa541b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-21-2015",
+   "path": "local/ilfov/buftea/2015/21",
+   "short": "HCL Buftea nr. 21/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 21/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/21.pdf",
+     "sha256": "9f6c12d9c29935c3218f82e963ed93311208f92cad8f92e182ef2acc4e6ecd0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-22-2015",
+   "path": "local/ilfov/buftea/2015/22",
+   "short": "HCL Buftea nr. 22/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 22/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/22.pdf",
+     "sha256": "b93bd0c34479279a8e73aff02e9c796ebf4541ef578b279b8fa8603fe3ecb937"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-23-2015",
+   "path": "local/ilfov/buftea/2015/23",
+   "short": "HCL Buftea nr. 23/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 23/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/23.pdf",
+     "sha256": "572dcd73e20b6ee02b864d68e9951096e48de61ee0c4c1f352a2e1581141ec1a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-24-2015",
+   "path": "local/ilfov/buftea/2015/24",
+   "short": "HCL Buftea nr. 24/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 24/2015 privind achiziţionarea serviciilor de consultanţă, asistenţă şi reprezentare juridică a Unităţii Administrativ Teritoriale Buftea, în dosarul aflat pe rolul instanţelor de judecată în contradictoriu cu S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/24.pdf",
+     "sha256": "06d3e460ddcb03fec8cadf723b043003b776e0352e48169e31c814baa9a5c659"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-25-2015",
+   "path": "local/ilfov/buftea/2015/25",
+   "short": "HCL Buftea nr. 25/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 25/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/25.pdf",
+     "sha256": "1f7648afbe9fb7d9d4a6aa079f5c97005ac2a65618b7beadfd11b58dadc29e3b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-26-2015",
+   "path": "local/ilfov/buftea/2015/26",
+   "short": "HCL Buftea nr. 26/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 26/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/26.pdf",
+     "sha256": "6bc050a28a05bc717f3b933316c9d1bcdc49bd88c63c694e5eb49c57695a17b5"
     }
    ]
   },
@@ -153,6 +1113,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-28-2015",
+   "path": "local/ilfov/buftea/2015/28",
+   "short": "HCL Buftea nr. 28/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 28/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-02-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/28.pdf",
+     "sha256": "aab0b93b0a88a23599329c7cb693d3028fa1c28a072ca8597e535de2fe1a786e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-29-2015",
+   "path": "local/ilfov/buftea/2015/29",
+   "short": "HCL Buftea nr. 29/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 29/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/29.pdf",
+     "sha256": "b1bdcbf9151d5f01d38bff1599a113611679d7aeabf78f55f06f378c36a55835"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-3-2015",
    "path": "local/ilfov/buftea/2015/3",
    "short": "HCL Buftea nr. 3/2015",
@@ -164,6 +1154,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/3.pdf",
      "sha256": "9f412a119a84fa098446423a7d4314a72fadf0e4e20767588494fd9833ea6f65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-30-2015",
+   "path": "local/ilfov/buftea/2015/30",
+   "short": "HCL Buftea nr. 30/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 30/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/30.pdf",
+     "sha256": "17f2598e67db381eb48f9d7df60a9fdd08b4907d2ede0a38a3be91148f426686"
     }
    ]
   },
@@ -183,6 +1188,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-32-2015",
+   "path": "local/ilfov/buftea/2015/32",
+   "short": "HCL Buftea nr. 32/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 32/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/32.pdf",
+     "sha256": "f8bc95b7dea28b5c18a9a5075c0510dffcab03d37f2cbb9786bd71111fca8596"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-33-2015",
+   "path": "local/ilfov/buftea/2015/33",
+   "short": "HCL Buftea nr. 33/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 33/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/33.pdf",
+     "sha256": "29e3b5afc24cbb1a95cebf5ddb971ee56585ce3701ad6ef6f3c2484a9f921ff6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-34-2015",
    "path": "local/ilfov/buftea/2015/34",
    "short": "HCL Buftea nr. 34/2015",
@@ -198,6 +1233,216 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-35-2015",
+   "path": "local/ilfov/buftea/2015/35",
+   "short": "HCL Buftea nr. 35/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 35/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/35_1.pdf",
+     "sha256": "4df1f92bcc01d2bfae32fbdc9f78968f6041670f0b7570f0a6ee2a69754fc0de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-36-2015",
+   "path": "local/ilfov/buftea/2015/36",
+   "short": "HCL Buftea nr. 36/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 36/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/36.pdf",
+     "sha256": "8a5dc6e28cc32afe6e76d31a509754d96ace9a261c81a6d0bf6041f702edb93f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-38-2015",
+   "path": "local/ilfov/buftea/2015/38",
+   "short": "HCL Buftea nr. 38/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 38/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-03-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/38.pdf",
+     "sha256": "2dd7189c3f4ecc68662417cd1813654995fac9c4ed49fe8fb644769bc03250e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-4-2015",
+   "path": "local/ilfov/buftea/2015/4",
+   "short": "HCL Buftea nr. 4/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 4/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/4.pdf",
+     "sha256": "6525710cb3002c64638db28e2adc857919f30f29ddec49120cea43a429d4ba5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-43-2015",
+   "path": "local/ilfov/buftea/2015/43",
+   "short": "HCL Buftea nr. 43/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 43/2015 privind aprobarea contribuţiei oraşului Buftea pentru executarea obiectivului de investiţii “Extindere reţea gaze strada Fulger” şi încheierea contractului de cofinantare",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/43.pdf",
+     "sha256": "70ff8b36eee7d8939537c616ac110d860c88876d1241d130c3e67ba71702dc3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-44-2015",
+   "path": "local/ilfov/buftea/2015/44",
+   "short": "HCL Buftea nr. 44/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 44/2015 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice şi/sau a personalului didactic auxiliar care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1, Grădiniţa “Căsuţa Copilăriei” şi Şcoala Gimnazială nr. 2, din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/44.pdf",
+     "sha256": "b9da86f3921bfa5f86717d28fdc3bdf048cc15f9746b67204ca3f389600e3b49"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-46-2015",
+   "path": "local/ilfov/buftea/2015/46",
+   "short": "HCL Buftea nr. 46/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 46/2015 privind încheierea unui parteneriat între Consiliul Local al oraşului Buftea, Şcoala Gimnazială nr.1 Buftea şi Centrul Şcolar pentru Educaţie lncluzivă Periş",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/46.pdf",
+     "sha256": "70111c4033894b9763c2f8e35e20e5781678f92e398bdee920b306d76b4c47d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-47-2015",
+   "path": "local/ilfov/buftea/2015/47",
+   "short": "HCL Buftea nr. 47/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 47/2015 privind acordarea normei de hrană personalului din cadrul Poliţiei Locale Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/47.pdf",
+     "sha256": "d627d3d9982f76a42a9ca8e4e6fb5ecd5b3aac9d45841ba7ddc02aff4cdcd0ff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-48-2015",
+   "path": "local/ilfov/buftea/2015/48",
+   "short": "HCL Buftea nr. 48/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 48/2015 privind darea în folosinţă gratuită Asociaţiei “Şansa Ta”, a spaţiului în suprafaţă de 12 mp., situat în imobilul din Bulevardul Mihai Eminescu, nr. 32, oraş Buftea, judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/48.pdf",
+     "sha256": "fcee09cb13be01d6df6428a700fb25ea61c776b46c123775f3be914dfc93cacc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-49-2015",
+   "path": "local/ilfov/buftea/2015/49",
+   "short": "HCL Buftea nr. 49/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 49/2015 privind aprobarea încheierii contractului între Oraşul Buftea prin Direcţia Asistenţă Socială, D.G.A.S.P.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/49.pdf",
+     "sha256": "0ec72b283bfea7e766727397d0d7a26a1cb452913aa6b3d81021519782412409"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-5-2015",
+   "path": "local/ilfov/buftea/2015/5",
+   "short": "HCL Buftea nr. 5/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 5/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/5.pdf",
+     "sha256": "e2639458ed37d6c111f91a2f02ae0946a3f35e614032c5fccab42b68b9e20b2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-50-2015",
+   "path": "local/ilfov/buftea/2015/50",
+   "short": "HCL Buftea nr. 50/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 50/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/50.pdf",
+     "sha256": "260ec44bc516549d644152b4866e6cfd72f82a90c6bd435a8a528afb8abd55de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-51-2015",
+   "path": "local/ilfov/buftea/2015/51",
+   "short": "HCL Buftea nr. 51/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 51/2015 privind aprobarea rezultatului final al evaluării anuale a managementului Centrului Cultural Buftea, instituţie publică în subordinea Consiliului local Buftea, pentru anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/51.pdf",
+     "sha256": "a8857a830d67d16aaad858a57cdc088b15a37412da4a8bdfff889599ddb28c4a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-52-2015",
+   "path": "local/ilfov/buftea/2015/52",
+   "short": "HCL Buftea nr. 52/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 52/2015 privind aprobarea modificării organigramei, a statului de funcţii, şi a numărului de personal ce aparţin aparatului de specialitate al Primarului oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/52.pdf",
+     "sha256": "ff9afe36bcfa81d42da497c830af35dede3f58052cf80e2785aabceb141b1133"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-53-2015",
    "path": "local/ilfov/buftea/2015/53",
    "short": "HCL Buftea nr. 53/2015",
@@ -209,6 +1454,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/53.pdf",
      "sha256": "755f576e166fade028344d8728f2be9bc37ac7555688f826cf8862da23a25f2a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-54-2015",
+   "path": "local/ilfov/buftea/2015/54",
+   "short": "HCL Buftea nr. 54/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 54/2015 pentru aprobarea listei anuale privind ordinea de prioritate în soluţionarea cererilor de locuinţe pentru tineri, destinate închirierii, realizate în cadrul programelor Agenţiei Naţionale pentru Locuinţe, în oraşul Buftea, pentru anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/54.pdf",
+     "sha256": "f5a887889f6e4893032d039e64c32d12e4c66de3c1613221fdd0edc981e0684f"
     }
    ]
   },
@@ -258,6 +1518,126 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-58-2015",
+   "path": "local/ilfov/buftea/2015/58",
+   "short": "HCL Buftea nr. 58/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 58/2015 privind alocarea unor sume de bani din bugetul local pe anul 2015, pentru unităţile de cult din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/58.pdf",
+     "sha256": "1bd4f7f28c4cbd43aa2dbc1460061878723b9867ca0780711b517b3ab1d8b724"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-59-2015",
+   "path": "local/ilfov/buftea/2015/59",
+   "short": "HCL Buftea nr. 59/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 59/2015 privind alegerea preşedintelui de şedinţă pentru perioada iunie – iulie – august 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/59.pdf",
+     "sha256": "0fc1a7ec89444a394a2c390b554ff52adb96f53f537248c4931411c0ecaeb7f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-6-2015",
+   "path": "local/ilfov/buftea/2015/6",
+   "short": "HCL Buftea nr. 6/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 6/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/6.pdf",
+     "sha256": "5df094bceb7580ca05bdc1ccdb7c70b2105a72b829a4f8902c18d97be39caf01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-60-2015",
+   "path": "local/ilfov/buftea/2015/60",
+   "short": "HCL Buftea nr. 60/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 60/2015 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice şi/sau a personalului didactic auxiliar care îşi desfăşoară activitatea la Liceul “Barbu A. Ştirbei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/60.pdf",
+     "sha256": "d19e1e21d3c9226ded6fe129d4d7adc70343d91a063ae4a36eb286327f8e5ecc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-61-2015",
+   "path": "local/ilfov/buftea/2015/61",
+   "short": "HCL Buftea nr. 61/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 61/2015 privind aprobarea asocierii Oraşului Buftea – Consiliul Local Buftea cu Judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/61.pdf",
+     "sha256": "b3a8678969c29e378691367bc0f6158dea4a7cea9001cc19ed7a418680ecd1c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-62-2015",
+   "path": "local/ilfov/buftea/2015/62",
+   "short": "HCL Buftea nr. 62/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 62/2015 privind aprobarea contului anual de execuţie al bugetului general al oraşului Buftea, pe anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/62.pdf",
+     "sha256": "8780ad466f04e0d3a98227f71d8c1cccfb02145927740c8ef542f9a3bcb9e95c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-63-2015",
+   "path": "local/ilfov/buftea/2015/63",
+   "short": "HCL Buftea nr. 63/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 63/2015 privind aprobarea bugetului de venituri şi cheltuieli al S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/63.pdf",
+     "sha256": "b536b4f2de54f03926c6e45ee9a60a28e73f9570347b0ee45637234ec73fedae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-64-2015",
+   "path": "local/ilfov/buftea/2015/64",
+   "short": "HCL Buftea nr. 64/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 64/2015 pentru aprobarea listei definitive privind ordinea de prioritate în soluţionarea cererilor de locuinţe pentru tineri, destinate închirierii, realizate în cadrul programului Agenţiei Naţionale pentru Locuinţe, din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-05-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/64.pdf",
+     "sha256": "d4a25a6c20db636e6e99bb9bff2d197e4597afcd6f3fbe4b0ae2f364c952aa73"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-65-2015",
    "path": "local/ilfov/buftea/2015/65",
    "short": "HCL Buftea nr. 65/2015",
@@ -269,6 +1649,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/65.pdf",
      "sha256": "cfc74678dd0346450a9b0e3aea6e0607bc9841e32fcc49172f72ab865495ae36"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-66-2015",
+   "path": "local/ilfov/buftea/2015/66",
+   "short": "HCL Buftea nr. 66/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 66/2015 privind aprobarea prelungirii contractului de transport public nr. 8699/3269 /C/ 02.07.2013, încheiat între Regia Autonoma de Transport Bucureşti şi oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/66.pdf",
+     "sha256": "ec1f3055705cb13395ab1a36a6874c087139dff9852b8129a9590061eb5c257b"
     }
    ]
   },
@@ -288,6 +1683,81 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-68-2015",
+   "path": "local/ilfov/buftea/2015/68",
+   "short": "HCL Buftea nr. 68/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 68/2015 privind aprobarea contului de executie al bugetului general al oraşului Buftea pe Trimestrul 12015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/68.pdf",
+     "sha256": "e0079323bdbc4d89f94b7afecc61b2ee7caadb111214de04fcd22170dbc9bd82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-69-2015",
+   "path": "local/ilfov/buftea/2015/69",
+   "short": "HCL Buftea nr. 69/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 69/2015 privind aprobarea participării consilierilor locali ai oraşului Buftea la cursuri de pregătire, formare şi perfecţionare profesională organizate de către instituţii specializate",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/69.pdf",
+     "sha256": "042905551cb8b16f2186fee8777b9ae42662118fe347affe419500169f0f0560"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-7-2015",
+   "path": "local/ilfov/buftea/2015/7",
+   "short": "HCL Buftea nr. 7/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 7/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/7.pdf",
+     "sha256": "0ea46c115636f58f062d7f773fdcc4db0f887633e6a413989adcdceb23717677"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-71-2015",
+   "path": "local/ilfov/buftea/2015/71",
+   "short": "HCL Buftea nr. 71/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 71/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/71.pdf",
+     "sha256": "f1d7a050482412c7153bf40718e451601829175b69c4cc5785a88249dee1acbf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-73-2015",
+   "path": "local/ilfov/buftea/2015/73",
+   "short": "HCL Buftea nr. 73/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 73/2015 privind actualizarea componenţei Grupului de lucru local pentru incluziunea cetăţenilor români aparţinând minorităţii rome, la nivelul oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/73.pdf",
+     "sha256": "1cc2ddb0777b026fdefc50cb5f0053ed7513b8ca8697e3cd4bcda5f1f0b703fc"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-74-2015",
    "path": "local/ilfov/buftea/2015/74",
    "short": "HCL Buftea nr. 74/2015",
@@ -303,6 +1773,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-75-2015",
+   "path": "local/ilfov/buftea/2015/75",
+   "short": "HCL Buftea nr. 75/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 75/2015 privind aprobarea situatilor financiare anuale ale S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/75.pdf",
+     "sha256": "673d350b2218c6faab04136287af0fc6d1b99135f65175e0c3dbdd2aa998dab1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-76-2015",
+   "path": "local/ilfov/buftea/2015/76",
+   "short": "HCL Buftea nr. 76/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 76/2015 pentru modificarea Hotărârii Consiliului local Buftea nr. 17130.01.2015 privind aprobarea Regulamentului de organizare şi funcţionare a Sălii de sport din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-06-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/76.pdf",
+     "sha256": "26559bd69e3c2f47b794886722b07a77963b40536f14294d9e8b5b5ca26560b2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-77-2015",
    "path": "local/ilfov/buftea/2015/77",
    "short": "HCL Buftea nr. 77/2015",
@@ -314,6 +1814,261 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2015/77.pdf",
      "sha256": "d3a6ee7d776cee842c4bcfe1dce8b0f782bfd9879bf79a2cc3b902c1c7dab020"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-8-2015",
+   "path": "local/ilfov/buftea/2015/8",
+   "short": "HCL Buftea nr. 8/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 8/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/8.pdf",
+     "sha256": "08250af08424dadc3403ef85387559224052b72b6a7193d77df27df93384b791"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-82-2015",
+   "path": "local/ilfov/buftea/2015/82",
+   "short": "HCL Buftea nr. 82/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 82/2015 privind aprobarea rectificării bugetului general al oraşului Buftea în anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/82.pdf",
+     "sha256": "1178b875609aed98550126de1c49f7cd7ce6ab32e25f692c5459ca53cab56229"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-83-2015",
+   "path": "local/ilfov/buftea/2015/83",
+   "short": "HCL Buftea nr. 83/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 83/2015 privind trecerea din domeniul public în domeniul privat al oraşului Buftea a construcţiei Anexa C3 în suprafaţă de 105, 54 mp, care face parte din imobilul situat în oraşul Buftea, Strada Independenţei, nr. 52, nr. cadastral 361 O, în vederea desfiintării acesteia",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/83.pdf",
+     "sha256": "999f89b8bd0c0c6ace797bdcd9478b5e5b043313b55c7f1a769ef238b1317c81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-84-2015",
+   "path": "local/ilfov/buftea/2015/84",
+   "short": "HCL Buftea nr. 84/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 84/2015 privind aprobarea modificării Hotărârii Consiliului local Buftea nr. 90/04.09.2012 şi încheierea actului aditional nr. 3 la contractul de asociere nr.159 /2012",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/84.pdf",
+     "sha256": "0f450e1cdb949eb21aba6129fd16219ad1379463f0cbee4602ee7ee6d1a90e98"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-85-2015",
+   "path": "local/ilfov/buftea/2015/85",
+   "short": "HCL Buftea nr. 85/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 85/2015 privind acordarea din bugetul local al oraşului Buftea, a alocaţiei zilnice de hrană şi a sumelor anuale necesare pentru acordarea drepturilor la îmbrăcăminte, încălţăminte, materiale igienico – sanitare, rechizite/ manuale, jucării, transport, materiale cultural – pistol gheorghe",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-07-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/85.pdf",
+     "sha256": "19a0adbaac886e5c2f01fada1c5de7a4475dead6c183356b67cfec3f59db07f7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-86-2015",
+   "path": "local/ilfov/buftea/2015/86",
+   "short": "HCL Buftea nr. 86/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 86/2015 privind alegerea preşedintelui de şedinţă pentru perioada septembrie – octombrie – noiembrie 2015 pistol gheorghe",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/86.pdf",
+     "sha256": "abebba65d1df43845ca5f1ca14498b15309df783e82e885cdb8fac6faa5f2567"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-87-2015",
+   "path": "local/ilfov/buftea/2015/87",
+   "short": "HCL Buftea nr. 87/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 87/2015 privind acceptarea propunerii de cofinanţare şi realizarea obiectivului de investiţii “Extindere reţea electrică de interes public în zona Cartier pentru tineri localitatea Buftea, judeţ Ilfov”",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/87.pdf",
+     "sha256": "3aafde95009fc42ba260e2da32a1f0df3f9516fe159d27686d636cacaae06449"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-9-2015",
+   "path": "local/ilfov/buftea/2015/9",
+   "short": "HCL Buftea nr. 9/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 9/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-01-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/9.pdf",
+     "sha256": "cc65c266fede1ccd1dbb370deab47928e504936ec992fe29108c38e446641048"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-91-2015",
+   "path": "local/ilfov/buftea/2015/91",
+   "short": "HCL Buftea nr. 91/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 91/2015 privind aprobarea încheierii actului adiţional la contractul de concesiune nr.155/22.12.201 O, încheiat între Consiliul local al oraşului Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/91.pdf",
+     "sha256": "d4bf8929e936712908cb862b074e693ae32dc8b596f252c2e5da6419f39bddd0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-92-2015",
+   "path": "local/ilfov/buftea/2015/92",
+   "short": "HCL Buftea nr. 92/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 92/2015 privind rectificarea bugetului general al oraşului Buftea în anul 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/92.pdf",
+     "sha256": "26dc853ccc7ca906278457870834ce75f2e14c29803d5bbf77c1c1ef27ed1509"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-93-2015",
+   "path": "local/ilfov/buftea/2015/93",
+   "short": "HCL Buftea nr. 93/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 93/2015 privind completarea inventarului bunurilor care aparţin domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/93.pdf",
+     "sha256": "6896b0a61a4935a226122f487ceabac1cfc3b56942f02defb6750f45ed500d1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-94-2015",
+   "path": "local/ilfov/buftea/2015/94",
+   "short": "HCL Buftea nr. 94/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 94/2015 privind aprobarea Protocolului de colaborare între oraşul Buftea şi Agenţia Digitală a României în vederea înregistrării oraşului în PCUe (Punctul de Contact Unic Electronic)",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/94.pdf",
+     "sha256": "d68ea60c9dfe889ad079bef988e06236090bf3d188cb347b1e55d49e700fb106"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-95-2015",
+   "path": "local/ilfov/buftea/2015/95",
+   "short": "HCL Buftea nr. 95/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 95/2015 privind aprobarea Planului de acţiune privind incluziunea cetăţenilor români de etnie romă din oraşul Buftea, pentru perioada 2015 – 2020",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/95.pdf",
+     "sha256": "66b8122885de1e3c4254ae2d3b63b0c5d178febfafa39534ce6de3346a46e9b7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-96-2015",
+   "path": "local/ilfov/buftea/2015/96",
+   "short": "HCL Buftea nr. 96/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 96/2015 privind modificarea Regulamentului pentru stabilirea metodologiei de soluţionare a cererilor şi repartizare a terenurilor atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/96.pdf",
+     "sha256": "516d9cda8b2ef7efb088863786d86e04464f484ecdfae5f5598c663ab30cc197"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-97-2015",
+   "path": "local/ilfov/buftea/2015/97",
+   "short": "HCL Buftea nr. 97/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 97/2015 privind condiţiile de refacere a domeniului public/privat al oraşului Buftea, modernizat/reabilitat, aflat în perioada de garanţie",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/97.pdf",
+     "sha256": "1a6e1bcd8e12da0d8ae68f2f783cfad2acd9743119b3464da466569d582f7554"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-98-2015",
+   "path": "local/ilfov/buftea/2015/98",
+   "short": "HCL Buftea nr. 98/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 98/2015 privind desemnarea reprezentanţilor Consiliului Local al oraşului Buftea în Consiliul de Administraţie şi în Comisia pentru evaluarea şi asigurarea calităţii în educaţie, în cadrul unităţilor de învăţământ preuniversitar de stat şi particular din oraşul Buftea, pe",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-08-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/98.pdf",
+     "sha256": "1d34360f243d2d48c309b48906f9d0a04c2e0645f81866736f950d2c6281c623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-99-2015",
+   "path": "local/ilfov/buftea/2015/99",
+   "short": "HCL Buftea nr. 99/2015",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 99/2015",
+   "url": "https://www.primariabuftea.ro/hcl-2015/",
+   "versions": [
+    {
+     "from": "2015-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2015/99.pdf",
+     "sha256": "6b44a053b0b47f1c6af24bae2b601f0aa593f29ad7fab19ef4079d138e19be7d"
     }
    ]
   }

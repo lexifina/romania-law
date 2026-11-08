@@ -1,0 +1,426 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/pantelimon/2024",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--pantelimon-1-2024",
+   "path": "local/ilfov/pantelimon/2024/1",
+   "short": "HCL Pantelimon nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 1/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.1-din-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.1-din-26.04.2024.pdf",
+     "sha256": "e0d4c08021fa9804f1d58ddf94c41e96192a66c8244483805e656518df937781"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-10-2024",
+   "path": "local/ilfov/pantelimon/2024/10",
+   "short": "HCL Pantelimon nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 10/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-10-BEC-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-10-BEC-din-30.04.2024.pdf",
+     "sha256": "5d744b26af47939b779aac6da1e71097597ba9c4b48de4327290db37de16fdc2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-11-2024",
+   "path": "local/ilfov/pantelimon/2024/11",
+   "short": "HCL Pantelimon nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 11/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-11-BEC-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-11-BEC-din-30.04.2024.pdf",
+     "sha256": "0838c5df6d30641d9bf7102c3966c234feea59516209342d5c569fc1bc4feb2f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-12-2024",
+   "path": "local/ilfov/pantelimon/2024/12",
+   "short": "HCL Pantelimon nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 12/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-12-BEC-din-10.09.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-12-BEC-din-10.09.2024.pdf",
+     "sha256": "dd9dc8774779c9c99cefb37a393ffe0f1564ada57a94e6af91a5034ab8f932a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-13-2024",
+   "path": "local/ilfov/pantelimon/2024/13",
+   "short": "HCL Pantelimon nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 13/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-13-BEC-din-17.05.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-05-17",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-13-BEC-din-17.05.2024.pdf",
+     "sha256": "f6ca8ed394f3ccb00e78835a469668330f5377324017e1c5ed7d73147faea9fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-14-2024",
+   "path": "local/ilfov/pantelimon/2024/14",
+   "short": "HCL Pantelimon nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 14/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-14-din-21.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.71-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-14-din-21.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.71-Pantelimon.pdf",
+     "sha256": "c3986a770fdc5f1202a0c756c0464d7026ef0d16e82399189caae80bab1cd6ab"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-15-2024",
+   "path": "local/ilfov/pantelimon/2024/15",
+   "short": "HCL Pantelimon nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 15/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-15-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.15-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-15-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.15-Pantelimon.pdf",
+     "sha256": "1a760a1e1c439c9fea8fc363aaab450a0c8dea8e9808ed456d14999a54618dad"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-16-2024",
+   "path": "local/ilfov/pantelimon/2024/16",
+   "short": "HCL Pantelimon nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 16/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-16-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.77-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-16-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.77-Pantelimon.pdf",
+     "sha256": "00d493887e1ca46176663c515950c7c2df34d38e1a2499ca998a581f08ea283a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-17-2024",
+   "path": "local/ilfov/pantelimon/2024/17",
+   "short": "HCL Pantelimon nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 17/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-17-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.78-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-17-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.78-Pantelimon.pdf",
+     "sha256": "9e23e4914e43c934215d011af7fefaa718742633a3f0cc7e5df78c80a4851ad4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-18-2024",
+   "path": "local/ilfov/pantelimon/2024/18",
+   "short": "HCL Pantelimon nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 18/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-18-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.63-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-18-din-21.05.2024-inlocuire-loctiitor-presedinte-Sectia-de-votare-nr.63-Pantelimon.pdf",
+     "sha256": "9ea1aeb62896a01c57820ed70579eecdb36711fe5441db4358b35b55061f0f23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-19-2024",
+   "path": "local/ilfov/pantelimon/2024/19",
+   "short": "HCL Pantelimon nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 19/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-19-din-22.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.63-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-19-din-22.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.63-Pantelimon.pdf",
+     "sha256": "9007473e475ba4899c1697a9cc63e8fb7a15ba1d9981ae2a2a1e9281df2cbd0a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-2-2024",
+   "path": "local/ilfov/pantelimon/2024/2",
+   "short": "HCL Pantelimon nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 2/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.2-din-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.2-din-26.04.2024.pdf",
+     "sha256": "8d621db73c6835fea585d2edfdc8f4ff7f199587b60a1f86ae1425d7463cfb93"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-20-2024",
+   "path": "local/ilfov/pantelimon/2024/20",
+   "short": "HCL Pantelimon nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 20/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-20-din-22.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.71-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.-20-din-22.05.2024-inlocuire-presedinte-Sectia-de-votare-nr.71-Pantelimon.pdf",
+     "sha256": "288f3537c3332c7bbdd1cbd01c61581f7480e8cea0fd234c95b863f6669aa58c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-21-2024",
+   "path": "local/ilfov/pantelimon/2024/21",
+   "short": "HCL Pantelimon nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 21/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.21-din-22.05.2024-inlocuire-loctiitor-Sectia-de-votare-nr.-77-Pantelimon.pdf",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-B.E.C.L.-nr.21-din-22.05.2024-inlocuire-loctiitor-Sectia-de-votare-nr.-77-Pantelimon.pdf",
+     "sha256": "c777374c452d3c54c4317ae0a44e7099b88445ea947ccd126732f6657910e895"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-24-2024",
+   "path": "local/ilfov/pantelimon/2024/24",
+   "short": "HCL Pantelimon nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 24/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC.-nr.-24-din-06.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC.-nr.-24-din-06.06.2024.pdf",
+     "sha256": "4ac9ec7b0a18d948a964122761f30a98a4737e302c838aaeb14bc6d5a77d8595"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-25-2024",
+   "path": "local/ilfov/pantelimon/2024/25",
+   "short": "HCL Pantelimon nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 25/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-25-din-06.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-25-din-06.06.2024.pdf",
+     "sha256": "a79f9ccd62065b10a65968dd626dc6b29c820e5200defc1bd8051a0928354d6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-26-2024",
+   "path": "local/ilfov/pantelimon/2024/26",
+   "short": "HCL Pantelimon nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 26/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-26-din-06.06.20242.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-26-din-06.06.20242.pdf",
+     "sha256": "3f9b296670f1dc41becdc29875ca8ea4e840eabe04fcb35a73581ec0fe93077f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-27-2024",
+   "path": "local/ilfov/pantelimon/2024/27",
+   "short": "HCL Pantelimon nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 27/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-27-din-06.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-27-din-06.06.2024.pdf",
+     "sha256": "5d599954cfcd26638b364c7ed4e26b00f7c665737f3a7904c8afd80a1da381ec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-28-2024",
+   "path": "local/ilfov/pantelimon/2024/28",
+   "short": "HCL Pantelimon nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 28/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-28-din-06.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-28-din-06.06.2024.pdf",
+     "sha256": "26b0ea50e64e14915b6f4769ca7b82ce62afb3ce5a1a3cefd7f233ebda1505f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-29-2024",
+   "path": "local/ilfov/pantelimon/2024/29",
+   "short": "HCL Pantelimon nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 29/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-29-din-06.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.-29-din-06.06.2024.pdf",
+     "sha256": "7a1712e616c5f81d47eab2533dfa3e3083bd9bdf092912c758352cdf1e8bd5ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-3-2024",
+   "path": "local/ilfov/pantelimon/2024/3",
+   "short": "HCL Pantelimon nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 3/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.3-din-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.3-din-26.04.2024.pdf",
+     "sha256": "4aad79db30939ec4c944400e9a5f8d82f595367f01da3256c664d17b79ff5746"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-30-2024",
+   "path": "local/ilfov/pantelimon/2024/30",
+   "short": "HCL Pantelimon nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 30/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-30-din-08.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-30-din-08.06.2024.pdf",
+     "sha256": "9d1b295b2e8077c29d368a4889f072c94102b1551d072de00fc5c67a1dc2356a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-31-2024",
+   "path": "local/ilfov/pantelimon/2024/31",
+   "short": "HCL Pantelimon nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 31/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-31-din-08.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-31-din-08.06.2024.pdf",
+     "sha256": "98d479c48e11ad63f0566dfe4827aca121089d5fa879cccc07568fc1757cddbc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-32-2024",
+   "path": "local/ilfov/pantelimon/2024/32",
+   "short": "HCL Pantelimon nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 32/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-32-din-08.06.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-BEC-nr.-32-din-08.06.2024.pdf",
+     "sha256": "1a03ed0886f57b63c58d440bed8de510b2c48892cc0c6ac2aaaac499f2cb3b8a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-4-2024",
+   "path": "local/ilfov/pantelimon/2024/4",
+   "short": "HCL Pantelimon nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 4/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.4-din-26.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-BEC-nr.4-din-26.04.2024.pdf",
+     "sha256": "536c018cad0ea64e02b1cc1f2da2545ed034f22bd54cd8fc8879f77caacbcf25"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-7-2024",
+   "path": "local/ilfov/pantelimon/2024/7",
+   "short": "HCL Pantelimon nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 7/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-nr.-7-BEC-din-30.04.2024-1.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotarare-nr.-7-BEC-din-30.04.2024-1.pdf",
+     "sha256": "317f48658f18ce7375299a2d6dd984a7804f38ebe20e9227357a87f0647338e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-8-2024",
+   "path": "local/ilfov/pantelimon/2024/8",
+   "short": "HCL Pantelimon nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 8/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-8-BEC-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-8-BEC-din-30.04.2024.pdf",
+     "sha256": "d3aafbf23dbf0df3dbb392892a63f8109f8b5004c82c5a5ebe6c28630b4bb0d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-9-2024",
+   "path": "local/ilfov/pantelimon/2024/9",
+   "short": "HCL Pantelimon nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 9/2024",
+   "url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-9-BEC-din-30.04.2024.pdf",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/Hotararea-nr.-9-BEC-din-30.04.2024.pdf",
+     "sha256": "c8cd01853a02bff64f166e0e33ab7643da50085f5f59617e25f3b865b1f0e4a9"
+    }
+   ]
+  }
+ ]
+}

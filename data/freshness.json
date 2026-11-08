@@ -90,19 +90,19 @@
   "official_url": "the act's page at its official source, to check by hand"
  },
  "totals": {
-  "acts": 505787,
+  "acts": 508787,
   "by_status": {
-   "current": 434563,
+   "current": 437563,
    "pending-change": 29438,
    "stale": 4595,
    "unverified": 37191,
    "source-unavailable": 0
   },
-  "verified_7d": 447975,
-  "verified_30d": 448018,
+  "verified_7d": 450975,
+  "verified_30d": 451018,
   "pct_verified_7d": 88.6,
   "pct_verified_30d": 88.6,
-  "pct_current": 85.9,
+  "pct_current": 86.0,
   "newest_verified": "2026-11-08",
   "oldest_verified": "2018-07-23"
  },
@@ -142,19 +142,19 @@
    "oldest_verified": "2026-11-05"
   },
   "local": {
-   "acts": 348166,
+   "acts": 351166,
    "by_status": {
-    "current": 342073,
+    "current": 345073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 342031,
-   "verified_30d": 342073,
-   "pct_verified_7d": 98.2,
-   "pct_verified_30d": 98.2,
-   "pct_current": 98.2,
+   "verified_7d": 345031,
+   "verified_30d": 345073,
+   "pct_verified_7d": 98.3,
+   "pct_verified_30d": 98.3,
+   "pct_current": 98.3,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -569,19 +569,19 @@
    "oldest_verified": "2021-12-06"
   },
   "local": {
-   "acts": 348166,
+   "acts": 351166,
    "by_status": {
-    "current": 342073,
+    "current": 345073,
     "pending-change": 0,
     "stale": 2556,
     "unverified": 3537,
     "source-unavailable": 0
    },
-   "verified_7d": 342031,
-   "verified_30d": 342073,
-   "pct_verified_7d": 98.2,
-   "pct_verified_30d": 98.2,
-   "pct_current": 98.2,
+   "verified_7d": 345031,
+   "verified_30d": 345073,
+   "pct_verified_7d": 98.3,
+   "pct_verified_30d": 98.3,
+   "pct_current": 98.3,
    "newest_verified": "2026-11-08",
    "oldest_verified": "2023-03-20"
   },
@@ -904,7 +904,7 @@
    "kinds": [
     "local"
    ],
-   "acts": 346190,
+   "acts": 349190,
    "last_successful_check": "2026-11-08",
    "unavailable_since": null,
    "sites": 685,

@@ -153,6 +153,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-19-2024",
+   "path": "local/ilfov/clinceni/2024/19",
+   "short": "HCL Clinceni nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 19/2024 privind aprobarea acordării unui sprijin financiar Parohiei CĂLȚUNA din comuna Clinceni, județul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/145857",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/145857",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-2-2024",
    "path": "local/ilfov/clinceni/2024/2",
    "short": "HCL Clinceni nr. 2/2024",
@@ -178,6 +193,21 @@
      "from": "2024-02-29",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/145858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-21-2024",
+   "path": "local/ilfov/clinceni/2024/21",
+   "short": "HCL Clinceni nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 21/2024 privind aprobarea Planului urbanistic de detaliu Comuna Clinceni, județul Ilfov, Tarla 5/1, parcela 15/1/44,15/1/45, nr. Cad 59484",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/145859",
+   "versions": [
+    {
+     "from": "2024-02-29",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/145859",
      "sha256": null
     }
    ]
@@ -283,6 +313,21 @@
      "from": "2024-10-04",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/149809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-29-2024",
+   "path": "local/ilfov/clinceni/2024/29",
+   "short": "HCL Clinceni nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 29/2024 privind darea în folosință gratuită către parohia Slobozia, a unui teren situat in comuna Clinceni, județul Ilfov, Tarla 13 parcela1254",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/149810",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/149810",
      "sha256": null
     }
    ]
@@ -843,6 +888,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-63-2024",
+   "path": "local/ilfov/clinceni/2024/63",
+   "short": "HCL Clinceni nr. 63/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 63/2024 privind aprobarea Planului urbanistic de detaliu Comuna Clinceni, judetul Ilfov, strada Drumul Mare -T 9/2, P 40/2/72,40/2/73 nr. Cad 59831",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/167681",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/167681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-64-2024",
+   "path": "local/ilfov/clinceni/2024/64",
+   "short": "HCL Clinceni nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 64/2024 privind aprobarea concesionării unui imobil teren Pd in suprafața de 2500 mp situat in comuna Clinceni, județul Ilfov, Tarla 56 Parcela 249/6, nr. Cadastral 63967, ce aparține domeniului privat al Comunei Clinceni Consiliul local al comunei Clinceni, având în vedere",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/167682",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/167682",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-65-2024",
    "path": "local/ilfov/clinceni/2024/65",
    "short": "HCL Clinceni nr. 65/2024",
@@ -888,6 +963,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-68-2024",
+   "path": "local/ilfov/clinceni/2024/68",
+   "short": "HCL Clinceni nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 68/2024 privind desemnarea reprezentantilor Consiliului local Clinceni in Consiliul de Administratie al Liceului sportiv Helmuth Duckadam Clinceni, pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/171717",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/171717",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-69-2024",
    "path": "local/ilfov/clinceni/2024/69",
    "short": "HCL Clinceni nr. 69/2024",
@@ -898,6 +988,21 @@
      "from": "2024-12-04",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/171718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-7-2024",
+   "path": "local/ilfov/clinceni/2024/7",
+   "short": "HCL Clinceni nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 7/2024 privind aprobarea Planului urbanistic de detaliu Comuna Clinceni, judetul Ilfov, Tarla 3, parcela 8/13, nr. Cad 60473",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/140404",
+   "versions": [
+    {
+     "from": "2024-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/140404",
      "sha256": null
     }
    ]

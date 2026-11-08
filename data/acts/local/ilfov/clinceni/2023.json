@@ -952,6 +952,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-44-2023",
+"path": "local/ilfov/clinceni/2023/44",
+"kind": "local",
+"year": "2023",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 44/2023 privind Transferul dreptului de proprietate a imobilelor aflate în proprietatea publică şi în administrarea UAT Clinceni, ca urmare a aprobării coridorului de expropriere al lucrării de utilitate publică de interes național ’’Lărgire la 4 benzi a Centurii Rutiere a Municipiului București Sud între A2 km 23+600 şi Al km 55+520 şi Amenajare punct de întoarcere în soluție giratorie pe CB în zona autostrăzii Al” - LOT 2 - Lărgire la 4 benzi a Centurii Rutiere a Municipiului București Sud între km 54+700 si DN 5 km 40+000”",
+"short": "HCL Clinceni nr. 44/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/107412",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-45-2023",
 "path": "local/ilfov/clinceni/2023/45",
 "kind": "local",
@@ -1038,6 +1060,29 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-49-2023",
+"path": "local/ilfov/clinceni/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 49/2023",
+"short": "HCL Clinceni nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-30",
+"latest": "2023-06-30",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/107417",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1594,6 +1639,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-75-2023",
+"path": "local/ilfov/clinceni/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 75/2023 privind desemnarea reprezentantilor Consiliului local Clinceni in Consiliul de Administratie al Liceului sportiv Helmuth Duckadam Clinceni, pentru anul scolar 2023-2024",
+"short": "HCL Clinceni nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-12-14",
+"latest": "2023-12-14",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/122974",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-76-2023",
 "path": "local/ilfov/clinceni/2023/76",
 "kind": "local",
@@ -1725,6 +1792,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-82-2023",
+"path": "local/ilfov/clinceni/2023/82",
+"kind": "local",
+"year": "2023",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 82/2023 privind aprobarea concesionării unui imobil construcție în suprafață de 26 mp, situat în comuna Clinceni, județul Ilfov, strada Principală, nr. 107 A - refugiu călători, aflat în domeniul public al comunei Clinceni",
+"short": "HCL Clinceni nr. 82/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-31",
+"latest": "2023-10-31",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/127714",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

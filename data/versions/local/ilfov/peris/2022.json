@@ -498,6 +498,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-4-2022",
+   "path": "local/ilfov/peris/2022/4",
+   "short": "HCL Periș nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 4/2022",
+   "url": "https://emol.ro/peris-if/registru-hcl/48876",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/48876",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-40-2022",
    "path": "local/ilfov/peris/2022/40",
    "short": "HCL Periș nr. 40/2022",
@@ -628,6 +643,21 @@
      "from": "2022-05-26",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/67659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-49-2022",
+   "path": "local/ilfov/peris/2022/49",
+   "short": "HCL Periș nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 49/2022 Privind modificarea anexei la HCL 6/2022,la auto IF-67-PER, prin majorarea cotei de combustibil",
+   "url": "https://emol.ro/peris-if/registru-hcl/67660",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/67660",
      "sha256": null
     }
    ]
@@ -913,6 +943,21 @@
      "from": "2022-08-24",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/69499",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-67-2022",
+   "path": "local/ilfov/peris/2022/67",
+   "short": "HCL Periș nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 67/2022 privind concesionarea prin licitație publică, în condițiile legii, a terenului situat în intravilan, aparținând domeniului public al comunei Peris, judeţul Ilfov, cu nr.cadastral 59784, având suprafața măsurată de 643 mp",
+   "url": "https://emol.ro/peris-if/registru-hcl/69500",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/69500",
      "sha256": null
     }
    ]

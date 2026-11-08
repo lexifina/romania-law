@@ -3,6 +3,261 @@
  "shard": "local/ilfov/chiajna/2024",
  "acts": [
   {
+   "slug": "hcl-ilfov--chiajna-1-2024",
+   "path": "local/ilfov/chiajna/2024/1",
+   "short": "HCL Chiajna nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 1/2024 privind aprobarea Reţelei şcolare a unităților de învățământ preuniversitar de stat și particular de pe raza comunei Chiajna pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138319",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-10-2024",
+   "path": "local/ilfov/chiajna/2024/10",
+   "short": "HCL Chiajna nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 10/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/143218",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/143218",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-11-2024",
+   "path": "local/ilfov/chiajna/2024/11",
+   "short": "HCL Chiajna nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 11/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/143219",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/143219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-12-2024",
+   "path": "local/ilfov/chiajna/2024/12",
+   "short": "HCL Chiajna nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 12/2024 privind aprobarea modificării criteriilor nr.1-3 din anexa nr.1 și a criteriului nr.1 din anexa nr.2 la[\\n] HCL nr.72/29.11.2022, începând cu data de 01.03.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/143220",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/143220",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-13-2024",
+   "path": "local/ilfov/chiajna/2024/13",
+   "short": "HCL Chiajna nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 13/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/146096",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/146096",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-14-2024",
+   "path": "local/ilfov/chiajna/2024/14",
+   "short": "HCL Chiajna nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 14/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/146097",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/146097",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-15-2024",
+   "path": "local/ilfov/chiajna/2024/15",
+   "short": "HCL Chiajna nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 15/2024 privind aprobarea încheierii unui contract de comodat între Comuna Chiajna și [\\n]VEOLIA ROMÂNIA SOLUȚII INTEGRATE S.A",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/146098",
+   "versions": [
+    {
+     "from": "2024-03-14",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/146098",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-16-2024",
+   "path": "local/ilfov/chiajna/2024/16",
+   "short": "HCL Chiajna nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 16/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/149183",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/149183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-17-2024",
+   "path": "local/ilfov/chiajna/2024/17",
+   "short": "HCL Chiajna nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 17/2024 pentru completarea și modificarea Anexei nr. 1 la HCL Chiajna nr. 85/29.11.2023 privind completarea și modificarea Anexei nr.1 la HCL Chiajna nr. 48/07.07.2023 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 25.000.000 lei",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/149184",
+   "versions": [
+    {
+     "from": "2024-04-09",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/149184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-18-2024",
+   "path": "local/ilfov/chiajna/2024/18",
+   "short": "HCL Chiajna nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 18/2024 privind aprobarea încheierii contului de execuție al bugetului local al comunei Chiajna la data 31.03.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/154813",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/154813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-19-2024",
+   "path": "local/ilfov/chiajna/2024/19",
+   "short": "HCL Chiajna nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 19/2024 privind majorarea tarifelor pentru operațiunile și activitățile de salubrizare a comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/154814",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/154814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-2-2024",
+   "path": "local/ilfov/chiajna/2024/2",
+   "short": "HCL Chiajna nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 2/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138320",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-20-2024",
+   "path": "local/ilfov/chiajna/2024/20",
+   "short": "HCL Chiajna nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 20/2024 privind acordarea gratuității la transportul public de persoane cu mijloace de transport în comun de suprafață efectuat în regiunea București - Ilfov, în procent de 100% din valoarea unui abonament metropolitan, pentru unele categorii de persoane cu domiciliul stabil în comuna Chiajna, precum și pentru aprobarea Procedurii privind eliberarea abonamentelor metropolitane pentru transportul public de persoane cu mijloace de transport în comun de suprafață efectuat în Regiunea București Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/154815",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/154815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-21-2024",
+   "path": "local/ilfov/chiajna/2024/21",
+   "short": "HCL Chiajna nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 21/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157665",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157665",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-22-2024",
+   "path": "local/ilfov/chiajna/2024/22",
+   "short": "HCL Chiajna nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 22/2024 privind completarea și modificarea Hotărârii Consiliului Local al Comunei Chiajna nr. 20 din 30.04.2024 privind acordarea gratuității la transportul public de persoane cu mijloace de transport în comun de suprafață efectuat în regiunea București - Ilfov, în procent de 100% din valoarea unui abonament metropolitan, pentru unele categorii de persoane cu domiciliul stabil în comuna Chiajna, precum și pentru aprobarea Procedurii privind eliberarea abonamentelor metropolitane pentru transportul public de persoane cu mijloace de transport în comun de suprafață efectuat în Regiunea București Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157666",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-23-2024",
+   "path": "local/ilfov/chiajna/2024/23",
+   "short": "HCL Chiajna nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 23/2024 privind încheierea unui protocol de cooperare între Județul Ilfov – Consiliul Județean, Inspectoratul Scolar Județean Ilfov si Comuna Chiajna pentru implementarea proiectului pilot „Șanse egale la educație” în anul școlar 2024-2025",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157667",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-24-2024",
+   "path": "local/ilfov/chiajna/2024/24",
+   "short": "HCL Chiajna nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 24/2024 privind aprobarea achiziționării de către Primăria comunei Chiajna a serviciilor de consultanță juridică pentru contractarea unui credit în limita gradului de îndatorare",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157668",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157668",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-25-2024",
    "path": "local/ilfov/chiajna/2024/25",
    "short": "HCL Chiajna nr. 25/2024",
@@ -33,6 +288,591 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--chiajna-27-2024",
+   "path": "local/ilfov/chiajna/2024/27",
+   "short": "HCL Chiajna nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 27/2024 privind retragerea dreptului de folosință gratuită a unor terenuri atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157671",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-28-2024",
+   "path": "local/ilfov/chiajna/2024/28",
+   "short": "HCL Chiajna nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 28/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157672",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157672",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-29-2024",
+   "path": "local/ilfov/chiajna/2024/29",
+   "short": "HCL Chiajna nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 29/2024 privind includerea parțială în perimetrul de concesiune conform contractului de delegare a gestiunii serviciului public de alimentare cu apă și canalizare nr. 7020/1 din 02.08.2012, [\\n]a obiectivelor \"Proiectare și Execuție Apă Potabilă Faza I\" și [\\n]\"Extindere Rețea Apă Potabilă Faza II\", conform anexelor atașate",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157673",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157673",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-3-2024",
+   "path": "local/ilfov/chiajna/2024/3",
+   "short": "HCL Chiajna nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 3/2024 privind utilizarea excedentului cumulat al anului 2023 în exercițiul financiar al Comunei Chiajna [\\n]pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138321",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-30-2024",
+   "path": "local/ilfov/chiajna/2024/30",
+   "short": "HCL Chiajna nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 30/2024 privind acceptarea donației terenului în suprafață de 628 mp. situat în intravilanul comunei Chiajna, sat Dudu, jud. Ilfov, înscris în Cartea Funciară nr. 59849 a localității Chiajna și a cotei părți de 15,79% din terenul în suprafață totală de 1581 mp, identificat cadastral cu nr. 1742/3, intabulat în Cartea Funciara nr. 5072 a localității Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/157674",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/157674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-31-2024",
+   "path": "local/ilfov/chiajna/2024/31",
+   "short": "HCL Chiajna nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 31/2024 privind aprobarea proiectului „Grădinița Alexandru Odobescu” și a cheltuielilor legate de proiect, precum și a indicatorilor tehnico-economici",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/159565",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/159565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-32-2024",
+   "path": "local/ilfov/chiajna/2024/32",
+   "short": "HCL Chiajna nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 32/2024 privind punerea la dispoziție a terenului aferent Proiectului „Grădinița Alexandru Odobescu”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/159566",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/159566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-33-2024",
+   "path": "local/ilfov/chiajna/2024/33",
+   "short": "HCL Chiajna nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 33/2024 privind încheierea unui protocol de cooperare între Județul Ilfov – Consiliul Județean, Comuna Chiajna din județul Ilfov și Fundația Părinți Salvatori pentru implementarea proiectului pilot „Ilfov, pentru inima ta”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/160894",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/160894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-34-2024",
+   "path": "local/ilfov/chiajna/2024/34",
+   "short": "HCL Chiajna nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 34/2024 privind încheierea unui protocol de cooperare între Județul Ilfov – Consiliul Județean, Comuna Chiajna din județul Ilfov și Colegiul Medicilor Stomatologi pentru implementarea proiectului pentru interes public „Ilfov, zâmbește”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/160895",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/160895",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-35-2024",
+   "path": "local/ilfov/chiajna/2024/35",
+   "short": "HCL Chiajna nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 35/2024 privind modificarea Anexei nr. 1 la HCL Chiajna nr. 48/07.07.2023, cu toate modificările și completările ulterioare, privind actualizarea listei obiectivelor de investiții ce pot fi finanțate din împrumuturi rambursabile",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/160896",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/160896",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-36-2024",
+   "path": "local/ilfov/chiajna/2024/36",
+   "short": "HCL Chiajna nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 36/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/160897",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/160897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-37-2024",
+   "path": "local/ilfov/chiajna/2024/37",
+   "short": "HCL Chiajna nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 37/2024 pentru aprobarea modificării organigramei și a statului de funcții aferente aparatului de specialitate al Primarului și ale serviciilor publice din subordinea Consiliului Local Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/160898",
+   "versions": [
+    {
+     "from": "2024-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/160898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-38-2024",
+   "path": "local/ilfov/chiajna/2024/38",
+   "short": "HCL Chiajna nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 38/2024 privind adoptarea actului adițional nr. 1/ 02.07.2024 la protocolul de colaborare dintre Comuna Chiajna și Militari Shopping Centre SRL din 06.12.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/161419",
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/161419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-39-2024",
+   "path": "local/ilfov/chiajna/2024/39",
+   "short": "HCL Chiajna nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 39/2024 privind aprobarea încheierii contului de execuție al bugetului local al comunei Chiajna la data 30.06.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/164582",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/164582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-4-2024",
+   "path": "local/ilfov/chiajna/2024/4",
+   "short": "HCL Chiajna nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 4/2024 privind aprobarea încheierii protocolului de cooperare în vederea realizării proiectului de interes județean „Ilfov fără țânțari”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138322",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-40-2024",
+   "path": "local/ilfov/chiajna/2024/40",
+   "short": "HCL Chiajna nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 40/2024 privind trecerea în proprietate privată a Comunei Chiajna a terenului în suprafață de 303mp., situat în str. Bisericii, nr. 3, sat Dudu, comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/164583",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/164583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-41-2024",
+   "path": "local/ilfov/chiajna/2024/41",
+   "short": "HCL Chiajna nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 41/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/164584",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/164584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-42-2024",
+   "path": "local/ilfov/chiajna/2024/42",
+   "short": "HCL Chiajna nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 42/2024 privind acceptarea donației terenului în suprafață de 210 mp. identificat cu nr. cadastral 76869 și 24 mp. identificat cu nr. cadastral 76870, situat în intravilanul comunei Chiajna, sat Chiajna, tarlaua 2, parcela 21, Jud. Ilfov, având categorie folosință \"drum\" conform extrasului de Carte Funciară nr. 70107",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/164585",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/164585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-43-2024",
+   "path": "local/ilfov/chiajna/2024/43",
+   "short": "HCL Chiajna nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 43/2024 privind studiul de oportunitate și aprobarea raportului de evaluare pentru imobilul teren proprietate privată a comunei Chiajna, situat în tarlaua 76A, parcela IA, în suprafață de 156 mp. având nr. cadastral 61963, înscris în Cartea Funciară nr. 61963 UAT Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/164586",
+   "versions": [
+    {
+     "from": "2024-08-12",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/164586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-44-2024",
+   "path": "local/ilfov/chiajna/2024/44",
+   "short": "HCL Chiajna nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 44/2024 privind acceptarea donației terenului în suprafață de 18 mp identificat cu nr. cadastral 76923, situat în intravilanul comunei Chiajna, sat Chiajna, tarlaua 2, parcela 21, Jud. Ilfov, având categorie folosință \"drum\"",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168054",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-45-2024",
+   "path": "local/ilfov/chiajna/2024/45",
+   "short": "HCL Chiajna nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 45/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168055",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-46-2024",
+   "path": "local/ilfov/chiajna/2024/46",
+   "short": "HCL Chiajna nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 46/2024 privind darea în folosință gratuită Parohiei „Sfântu Gheorghe” Dudu, a imobilului în suprafață de 303 mp, situat în Str. Bisericii, nr. 3, sat Dudu, comuna Chiajna, județul Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168056",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-47-2024",
+   "path": "local/ilfov/chiajna/2024/47",
+   "short": "HCL Chiajna nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 47/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168057",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-48-2024",
+   "path": "local/ilfov/chiajna/2024/48",
+   "short": "HCL Chiajna nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 48/2024 privind aprobarea actualizării indicatorilor tehnico- economici și a Devizului General pentru realizarea obiectivului de investiții „MODERNIZARE INFRASTRUCTURĂ RUTIERĂ PENTRU MOBILITATE URBANĂ ÎN COMUNA CHIAJNA”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168058",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-49-2024",
+   "path": "local/ilfov/chiajna/2024/49",
+   "short": "HCL Chiajna nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 49/2024 privind aprobarea indicatorilor tehnico-economici și a Devizului general pentru obiectivul de investiții de interes local „PARCARE CU PIATRĂ CUBICĂ ÎN ZONA STRADA SPERANȚEI ȘI PARCARE CU PIATRĂ CUBICĂ ÎN ZONA STRADA REZERVELOR”, Comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168059",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-5-2024",
+   "path": "local/ilfov/chiajna/2024/5",
+   "short": "HCL Chiajna nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 5/2024 pentru aprobarea încheierii contului de execuție al bugetului local al comunei Chiajna la data de 31.12.2023",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138323",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-50-2024",
+   "path": "local/ilfov/chiajna/2024/50",
+   "short": "HCL Chiajna nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 50/2024 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 32.211.126,86 lei",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168060",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-51-2024",
+   "path": "local/ilfov/chiajna/2024/51",
+   "short": "HCL Chiajna nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 51/2024 privind aprobarea contractării și garantării unei finanțări rambursabile interne în valoare de 25.000.000 lei",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168061",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-52-2024",
+   "path": "local/ilfov/chiajna/2024/52",
+   "short": "HCL Chiajna nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 52/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/168062",
+   "versions": [
+    {
+     "from": "2024-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/168062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-53-2024",
+   "path": "local/ilfov/chiajna/2024/53",
+   "short": "HCL Chiajna nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 53/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171120",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171120",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-54-2024",
+   "path": "local/ilfov/chiajna/2024/54",
+   "short": "HCL Chiajna nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 54/2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171121",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171121",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-55-2024",
+   "path": "local/ilfov/chiajna/2024/55",
+   "short": "HCL Chiajna nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 55/2024 privind aprobarea încheierii unui act aditional la contractul de comodat nr. 35938/06.09.2022 dintre Comuna Chiajna și SC VEOLIA ROMÂNIA SOLUȚII INTEGRATE S.A",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171122",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-56-2024",
+   "path": "local/ilfov/chiajna/2024/56",
+   "short": "HCL Chiajna nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 56/2024 privind aprobarea încheierii protocolului de cooperare între Județul Ilfov – Consiliul Județean, Direcția Generală de Asistență Socială și Protecția Copilului Ilfov și Comuna Chiajna din județul Ilfov în vederea realizării proiectului de interes public „Butonul care poate salva vieți''",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171123",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-57-2024",
+   "path": "local/ilfov/chiajna/2024/57",
+   "short": "HCL Chiajna nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 57/2024 privind aprobarea atribuirii dreptului de folosință gratuită a unor loturi de teren pentru construirea de locuință proprietate personală pentru tineri, în condițiile Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171124",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-58-2024",
+   "path": "local/ilfov/chiajna/2024/58",
+   "short": "HCL Chiajna nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 58/2024 privind aprobarea raportului de evaluare pentru unele imobile proprietate privată a comunei Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171125",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-59-2024",
+   "path": "local/ilfov/chiajna/2024/59",
+   "short": "HCL Chiajna nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 59/2024 privind semnarea protocolului de colaborare pentru inițierea, coordonarea din punct de vedere tehnic, finanțarea și realizarea procesului de achiziție a serviciilor aferente Planului Urbanistic Zonal: Regenerarea la nivel metropolitan a coridorului râului Dâmbovița - Plan Dâmbovița 2050 de către Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/171126",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/171126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-6-2024",
+   "path": "local/ilfov/chiajna/2024/6",
+   "short": "HCL Chiajna nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 6/2024 privind aprobarea bugetului comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138324",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-60-2024",
+   "path": "local/ilfov/chiajna/2024/60",
+   "short": "HCL Chiajna nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 60/2024 pentru aprobarea rectificării bugetului local al comunei Chiajna pe anul 2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/173173",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/173173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-61-2024",
+   "path": "local/ilfov/chiajna/2024/61",
+   "short": "HCL Chiajna nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 61/2024 privind aprobarea încheierii contului de execuție al bugetului local al comunei Chiajna la data 30.09.2024",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/173174",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/173174",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-62-2024",
    "path": "local/ilfov/chiajna/2024/62",
    "short": "HCL Chiajna nr. 62/2024",
@@ -58,6 +898,81 @@
      "from": "2024-12-13",
      "units": 1,
      "source_url": "https://emol.ro/chiajna-if/registru-hcl/173176",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-64-2024",
+   "path": "local/ilfov/chiajna/2024/64",
+   "short": "HCL Chiajna nr. 64/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 64/2024 privind anularea denumirii străzii Fermei care a fost atribuită drumului de exploatare De 19/1, în vederea repoziționării cadastrale a imobilelor situate în tarlaua 19, parcela 7, sat Dudu, comuna Chiajna",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/173177",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/173177",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-65-2024",
+   "path": "local/ilfov/chiajna/2024/65",
+   "short": "HCL Chiajna nr. 65/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 65/2024 privind organizarea comisiilor de specialitate ale Consiliului local al comunei Chiajna, Județul Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/180615",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/180615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-66-2024",
+   "path": "local/ilfov/chiajna/2024/66",
+   "short": "HCL Chiajna nr. 66/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 66/2024 privind alegerea viceprimarului comunei Chiajna, județul Ilfov",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/180616",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/180616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-67-2024",
+   "path": "local/ilfov/chiajna/2024/67",
+   "short": "HCL Chiajna nr. 67/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 67/2024 privind alegerea președintelui de ședință",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/180617",
+   "versions": [
+    {
+     "from": "2024-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/180617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-68-2024",
+   "path": "local/ilfov/chiajna/2024/68",
+   "short": "HCL Chiajna nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 68/2024 privind aprobarea actualizării indicatorilor tehnico - economici și a Devizului General - faza PT pentru cheltuielile de capital necesare realizării obiectivului de investiții „Extindere Școala Alexandru Odobescu din comuna Chiajna cu un corp cu destinație GRĂDINIȚĂ P+1E, Comuna Chiajna, județul Ilfov”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/181943",
+   "versions": [
+    {
+     "from": "2024-12-30",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/181943",
      "sha256": null
     }
    ]
@@ -243,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--chiajna-8-2024",
+   "path": "local/ilfov/chiajna/2024/8",
+   "short": "HCL Chiajna nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 8/2024 privind includerea parțială în perimetrul de concesiune conform contractului de delegare a gestiunii serviciului public de alimentare cu apă și canalizare nr. 7020/1 din 02.08.2012, [\\n]a obiectivelor \"Proiectare și Execuție Apă Potabilă Faza I\" și [\\n]\"Extindere Rețea Apă Potabilă Faza II\", conform anexelor atașate",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/138326",
+   "versions": [
+    {
+     "from": "2024-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/138326",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--chiajna-80-2024",
    "path": "local/ilfov/chiajna/2024/80",
    "short": "HCL Chiajna nr. 80/2024",
@@ -373,6 +1303,21 @@
      "from": "2025-01-21",
      "units": 1,
      "source_url": "https://emol.ro/chiajna-if/registru-hcl/184505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--chiajna-9-2024",
+   "path": "local/ilfov/chiajna/2024/9",
+   "short": "HCL Chiajna nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Chiajna nr. 9/2024 privind aprobarea Studiului de Fezabilitate/Devizului General pentru obiectivul de investiții de interes local „Extindere Școală Alexandru Odobescu din comuna Chiajna cu un corp cu destinație grădiniță P+1”",
+   "url": "https://emol.ro/chiajna-if/registru-hcl/143217",
+   "versions": [
+    {
+     "from": "2024-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/chiajna-if/registru-hcl/143217",
      "sha256": null
     }
    ]

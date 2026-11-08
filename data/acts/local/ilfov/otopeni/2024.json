@@ -69,6 +69,116 @@
 }
 },
 {
+"slug": "hcl-ilfov--otopeni-6-2024",
+"path": "local/ilfov/otopeni/2024/6",
+"kind": "local",
+"year": "2024",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 6/2024 privind aprobarea încheierii unor acte adiționale la „Protocolul de cooperare între Județul Ilfov",
+"short": "HCL Otopeni nr. 6/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-7-2024",
+"path": "local/ilfov/otopeni/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 7/2024 privind modificarea modelului Protocolului de finanțare aprobat prin Hotărârea Consiliului Local al Orașului Otopeni nr. 5 din 01.02.2023 privind aprobarea acordării de sprijin financiar de la bugetul local al orașului Otopeni pentru Parohia Otopenii de Jos din orașul Otopen HCL nr. 7 din 31.01.2024.pdf",
+"short": "HCL Otopeni nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-8-2024",
+"path": "local/ilfov/otopeni/2024/8",
+"kind": "local",
+"year": "2024",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 8/2024 privind organizarea rețelei școlare a unităților de învățământ preuniversitar de stat și privat din orașul Otopeni, pentru anul școlar 2024-2025 HCL nr. 8 din 31.01.2024.pdf",
+"short": "HCL Otopeni nr. 8/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-9-2024",
+"path": "local/ilfov/otopeni/2024/9",
+"kind": "local",
+"year": "2024",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 9/2024 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în consiliile de administrație ale unităților de învățământ preuniversitar particular Școala primară „Alexander” și Grădinița de Poveste, din orașul Otopeni, județul Ilfov, precum și pentru completarea HCL nr. 9 din 31.01.2024.pdf",
+"short": "HCL Otopeni nr. 9/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-10-2024",
+"path": "local/ilfov/otopeni/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 10/2024 privind desemnarea reprezentanților Consiliului Local al Orașului Otopeni în comisiile pentru evaluarea și asigurarea calității ale unităților de învățământ preuniversitar particular Școala primară „Alexander” și Grădinița de Poveste, din orașul Otopeni, județul Ilfov, prec HCL nr. 10 din 31.01.2024.pdf",
+"short": "HCL Otopeni nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-01-31",
+"latest": "2024-01-31",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--otopeni-11-2024",
 "path": "local/ilfov/otopeni/2024/11",
 "kind": "local",
@@ -89,6 +199,28 @@
 "flags": {
 "metadata_only": "individual",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--otopeni-12-2024",
+"path": "local/ilfov/otopeni/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Otopeni nr. 12/2024 privind aprobarea utilizării excedentului anual al bugetului local al orașului Otopeni înregistrat la 31.12.2023 HCL12.pdf",
+"short": "HCL Otopeni nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-12",
+"latest": "2024-02-12",
+"portal": "https://www.otopeniro.ro/pagina/hotararile-consiliului-local-46",
+"council": "ilfov/otopeni",
+"council_name": "Consiliul Local al Orașului Otopeni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

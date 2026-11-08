@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Chiajna nr. 59/2024 privind semnarea protocolului de colaborare pentru inițierea, coordonarea din punct de vedere tehnic, finanțarea și realizarea procesului de achiziție a serviciilor aferente Planului Urbanistic Zonal: Regenerarea la nivel metropolitan a coridorului râului Dâmbovița - Plan Dâmbovița 2050 de către Ministerul Dezvoltării, Lucrărilor Publice și Administrației
+
+HCL Chiajna nr. 59/2024 · 1 versions, from 2024-10-10 (latest in force: 2024-10-10) · <https://emol.ro/chiajna-if/registru-hcl/171126>
+
+**Status:** Metadata only: an individual decision (it concerns particular persons, properties or bodies, not rules for everyone), so its text is not published here.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-ilfov--chiajna-59-2024` (tags `hcl-ilfov--chiajna-59-2024/<day>`; `python tools/on.py <day> hcl-ilfov--chiajna-59-2024`).
+
+## Decisions made by hand
+
+- HCL Chiajna nr. 59/2024: listed from Consiliul Local al Comunei Chiajna (emol.ro); an individual decision: metadata only.
+- HCL Chiajna nr. 59/2024: dated from 10 October 2024, the day the council's register gives it as published (adopted 26 September 2024).
+- HCL Chiajna nr. 59/2024: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

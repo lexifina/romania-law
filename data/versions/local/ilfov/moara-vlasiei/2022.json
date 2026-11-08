@@ -393,6 +393,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--moara-vlasiei-8-2022",
+   "path": "local/ilfov/moara-vlasiei/2022/8",
+   "short": "HCL Moara Vlăsiei nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 8/2022 privind alegerea președintelui de sedința al Consiliului Local al comunei Moara Vlăsiei pentru o perioadă de trei luni (februarie — aprilie 2022)",
+   "url": "https://emol.ro/moaravlasiei-if/registru-hcl/63057",
+   "versions": [
+    {
+     "from": "2022-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/moaravlasiei-if/registru-hcl/63057",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--moara-vlasiei-9-2022",
    "path": "local/ilfov/moara-vlasiei/2022/9",
    "short": "HCL Moara Vlăsiei nr. 9/2022",

@@ -3,6 +3,141 @@
  "shard": "local/ilfov/buftea/2014",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-113-2014",
+   "path": "local/ilfov/buftea/2014/113",
+   "short": "HCL Buftea nr. 113/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 113/2014 privind modificarea şi completarea Hotărârii Consiliului local Buftea nr.118/19.11.2012, privind înfiinţarea unui “Centru rezidenţial pentru tinerii din centre de plasament şi cantină socială în Oraşul Buftea, Judeţul Ilfov”",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/113.pdf",
+     "sha256": "208b370f3c0190a3bbec82590c0cca9b9966a2ff4fcea1f6c1920782c2659136"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-114-2014",
+   "path": "local/ilfov/buftea/2014/114",
+   "short": "HCL Buftea nr. 114/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 114/2014 privind aprobarea rectificării bugetului general al Oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/114.pdf",
+     "sha256": "91e4556a5ed130914a5a9d1918fd56ffd5bcd1dbfc89763a8324da41d1b99653"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-115-2014",
+   "path": "local/ilfov/buftea/2014/115",
+   "short": "HCL Buftea nr. 115/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 115/2014 privind alocarea sumei de 67.000 lei din bugetul local pe anul 2014, pentru organizarea serbării “Pomul de Crăciun”",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-16",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/115.pdf",
+     "sha256": "db316a55acdb78d69df0649755731aff6e3c3ddd8dafe9d9552fd0b82df93248"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-116-2014",
+   "path": "local/ilfov/buftea/2014/116",
+   "short": "HCL Buftea nr. 116/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 116/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/116.pdf",
+     "sha256": "4710535758aede918bdfd32e905acb3bbd4c39581fdb9a534de855860319c56a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-118-2014",
+   "path": "local/ilfov/buftea/2014/118",
+   "short": "HCL Buftea nr. 118/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 118/2014 privind aprobarea prelungirii unor contracte de închiriere",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/118.pdf",
+     "sha256": "41dd6ea79d327ccb35a7ff5caaf1d7fcb1e1ebdead902500a289de1f1d201525"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-119-2014",
+   "path": "local/ilfov/buftea/2014/119",
+   "short": "HCL Buftea nr. 119/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 119/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/119.pdf",
+     "sha256": "055ec2f04634da23508a122b9a76cfe98bfaf49294d812fd1a18fac97d058604"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-120-2014",
+   "path": "local/ilfov/buftea/2014/120",
+   "short": "HCL Buftea nr. 120/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 120/2014 privind împuternicirea unui reprezentant al oraşului Buftea pentru a dispune de contul deschis la BCR pentru Contractul de credit – linie de finanţare nr. 65/06.01.2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/120.pdf",
+     "sha256": "86120b9252138c61350005b43dd6c89cd35ad461aa576b167be07a94996638f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-121-2014",
+   "path": "local/ilfov/buftea/2014/121",
+   "short": "HCL Buftea nr. 121/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 121/2014 privind aprobarea parteneriatului între Consiliul local al oraşului Buftea prin Direcţia Asistenţă Socială, D.G.A.S.P.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/121.pdf",
+     "sha256": "087200ddbaf00842aaac6973e84336874399268120efb8cb7786b2a6a1a0d671"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-122-2014",
+   "path": "local/ilfov/buftea/2014/122",
+   "short": "HCL Buftea nr. 122/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 122/2014 privind rectificarea bugetului general al Oraşului Buftea, pe anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/122.pdf",
+     "sha256": "a8680d692eaef3bc2a0ab66bd6735b604310f37f4c01b9e1d32b5e1cbad43f2c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-123-2014",
    "path": "local/ilfov/buftea/2014/123",
    "short": "HCL Buftea nr. 123/2014",
@@ -18,6 +153,501 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-124-2014",
+   "path": "local/ilfov/buftea/2014/124",
+   "short": "HCL Buftea nr. 124/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 124/2014 privind situaţiile financiare anuale ale 5.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/124.pdf",
+     "sha256": "1a4140338e2d2b47bfb2dfa745d7f57a6b1778c3ad6f2d939a54d234401e12bd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-125-2014",
+   "path": "local/ilfov/buftea/2014/125",
+   "short": "HCL Buftea nr. 125/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 125/2014 privind constatarea încetării contractului de concesiune nr. 247/27.07.2001",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/125.pdf",
+     "sha256": "6a5b17e5a7abf51cf0c675c080016a319af45590916da995c34d77ceb8e95668"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-126-2014",
+   "path": "local/ilfov/buftea/2014/126",
+   "short": "HCL Buftea nr. 126/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 126/2014 privind constatarea încetării contractului de concesiune nr. 243/31.07.2003",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/126.pdf",
+     "sha256": "61bdaaa30aa94b0fc1cc1aadb737ca76d3080eaffec19d613320e1e68402d6d3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-127-2014",
+   "path": "local/ilfov/buftea/2014/127",
+   "short": "HCL Buftea nr. 127/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 127/2014 privind constituirea comisiei în vederea verificării /identificării bunurilor aferente sistemului public de alimentare cu apă şi canalizare concesionate/predate către S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/127.pdf",
+     "sha256": "cf4bdde2e3ac9d32cfb5f10d7af39a0ce239f1e937102cbeb1e9a881d33a4504"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-13-2014",
+   "path": "local/ilfov/buftea/2014/13",
+   "short": "HCL Buftea nr. 13/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 13/2014 privind alegerea preşedintelui de şedinţă pe o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/13.pdf",
+     "sha256": "8144dc1d75fa2eaedab4d06aea65f9e39579239dbf2c9b832df30fea2ca6799d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-14-2014",
+   "path": "local/ilfov/buftea/2014/14",
+   "short": "HCL Buftea nr. 14/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 14/2014 privind aprobarea contului anual de execuţie al bugetului general al oraşului Buftea, pe anul 2013",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/14.pdf",
+     "sha256": "2c736d55ed91f27fe0d31653fe52fd8a253007c3ef996d115793629326dbd204"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-15-2014",
+   "path": "local/ilfov/buftea/2014/15",
+   "short": "HCL Buftea nr. 15/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 15/2014 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav din oraşul Buftea, pentru semestrul li al anului 2013",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/15.pdf",
+     "sha256": "a5d578da7b50fc1f3e7b1bf60d809aa07a6ff0be6491f13c2172ccc2950d293d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-16-2014",
+   "path": "local/ilfov/buftea/2014/16",
+   "short": "HCL Buftea nr. 16/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 16/2014 privind aprobarea Raportului privind serviciile şi activităţile de asistenţă medicală comunitară derulate in oraşul Buftea pe semestrul II al anului 2013",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/16.pdf",
+     "sha256": "a60e51013008dd1aa639a16b407b59876fc43c26d16f0dac5cc4d39c3230de48"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-17-2014",
+   "path": "local/ilfov/buftea/2014/17",
+   "short": "HCL Buftea nr. 17/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 17/2014 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică În faţa instanţelor de judecată a Unităţii Administrativ Teritoriale Oraşul Buftea În vederea recuperării unui prejudiciu",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/17.pdf",
+     "sha256": "e8a79d07bac6e605676c91e83874849e629e50b267f96a2a818b3e48c6e298a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-18-2014",
+   "path": "local/ilfov/buftea/2014/18",
+   "short": "HCL Buftea nr. 18/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 18/2014 privind aprobarea achiziţionării serviciilor de consultanţă, asistenţă şi reprezentare juridică a S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/18.pdf",
+     "sha256": "8ccde839024bb82b2db8f4c10d67d01d105148b66c7baa9375b99508af483262"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-22-2014",
+   "path": "local/ilfov/buftea/2014/22",
+   "short": "HCL Buftea nr. 22/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 22/2014 privind aprobarea documentaţiei tehnico – economice “Amenajare incintă Casa de Cultura Veche “, Oraşul Buftea, Judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/22.pdf",
+     "sha256": "dbba69b368b58723abddcb697bc2b2faa69b596d6f25cf142ae71fdc2f08d0d0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-23-2014",
+   "path": "local/ilfov/buftea/2014/23",
+   "short": "HCL Buftea nr. 23/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 23/2014 privind aprobarea bugetului general al Oraşului Buftea, pe anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/23.pdf",
+     "sha256": "f67a75b12c417ca2bb0285da75eb06282b650545fb2b34f08ea5bac81df5c8a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-25-2014",
+   "path": "local/ilfov/buftea/2014/25",
+   "short": "HCL Buftea nr. 25/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 25/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/25.pdf",
+     "sha256": "2baee265c520bb86c81aaca534ce1367e77aff360b7ba06d3f324b53a0a3d375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-26-2014",
+   "path": "local/ilfov/buftea/2014/26",
+   "short": "HCL Buftea nr. 26/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 26/2014 privind aprobarea prelungirii duratei Protocolului de Colaborare între Consiliul local al oraşului Buftea şi Baroul Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-02-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/26.pdf",
+     "sha256": "0e48fe3e9f11aefff0bc93d305b6b1c2aa941ae6636299bbebb2ddc3e7c34ad0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-27-2014",
+   "path": "local/ilfov/buftea/2014/27",
+   "short": "HCL Buftea nr. 27/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 27/2014 privind darea în folosinţă gratuită Asociaţiei “Şansa Ta”, a spaţiului în suprafaţă de 14 mp., situat în imobilul din Bulevardul Mihai Eminescu, nr. 32, oraş Buftea, judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/27.pdf",
+     "sha256": "703349a94575d01d5101919789fc1927661eafe2ff559e206ac59f1ccb863f9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-28-2014",
+   "path": "local/ilfov/buftea/2014/28",
+   "short": "HCL Buftea nr. 28/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 28/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/28.pdf",
+     "sha256": "462e12da229d9703cb02eb3188717f244b9ea0c38aba953c15b765d9272163f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-29-2014",
+   "path": "local/ilfov/buftea/2014/29",
+   "short": "HCL Buftea nr. 29/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 29/2014 privind aprobarea reţelei şcolare a unităţilor de învăţământ de stat preuniversitar din oraşul Buftea, Judeţ Ilfov, pentru anul şcolar 2014- 2015",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/29.pdf",
+     "sha256": "8149803ecb5c39db31ea3a7356924333a416e11258fb61d81819b63ae9de0b9b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-30-2014",
+   "path": "local/ilfov/buftea/2014/30",
+   "short": "HCL Buftea nr. 30/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 30/2014 privind aprobarea cuantumului şi a numărului de burse acordate elevilor din invăţământul preuniversitar de stat din oraşul Buftea, pentru anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/30.pdf",
+     "sha256": "91c894c54b1e489796e673847b4394bc2e0feae2ea530419d38e75379c8eea95"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-34-2014",
+   "path": "local/ilfov/buftea/2014/34",
+   "short": "HCL Buftea nr. 34/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 34/2014 privind aprobarea aderării unităţilor administrativ – teritoriale Puchenii Mari, Gorgota şi Tinosu din Judeţul Prahova, la Asociaţia de Dezvoltare lntercomunitară “Apă – Canal” Constanţa",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/34.pdf",
+     "sha256": "c265ece7bc90412c8f2e9af1b03fa5fb532af91c8d6d2ea3e88573151f12918b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-35-2014",
+   "path": "local/ilfov/buftea/2014/35",
+   "short": "HCL Buftea nr. 35/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 35/2014 privind modificarea contribuţiei oraşului Buftea pentru lucrările de investiţii “Reabilitarea şi extinderea reţelelor de alimentare cu apă şi canalizare din Oraşul Buftea” şi “Reabilitarea şi extinderea surselor de captare şi tratare a apei potabile din Oraşul Buf",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/35.pdf",
+     "sha256": "c6a22ff7131cde365de97a642ffc5da0956032fd4ef14472975bf85ebd044671"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-36-2014",
+   "path": "local/ilfov/buftea/2014/36",
+   "short": "HCL Buftea nr. 36/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 36/2014 privind completarea inventarului bunurilor care alcătuiesc domeniul privat al oraşului Buftea, aprobat prin Hotărârea Consiliului Local Buftea nr. 27/2008",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/36.pdf",
+     "sha256": "14265d3b59ed5836e45ca296f4f5fb8a9691bfe26042695d9de19781444f9755"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-37-2014",
+   "path": "local/ilfov/buftea/2014/37",
+   "short": "HCL Buftea nr. 37/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 37/2014 privind alocarea unei sume de bani din bugetul local, pentru unităţile de cult Parohia Bucoveni, Parohia Sf.Cuv",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/37.pdf",
+     "sha256": "5725c9e5b9247fd2d662733ace6bca6f42b3ea4fafba2e015941771f6497d690"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-38-2014",
+   "path": "local/ilfov/buftea/2014/38",
+   "short": "HCL Buftea nr. 38/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 38/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/38.pdf",
+     "sha256": "6260761141272703cfb8b5dc9a5998189134783273c6194153826cbd7dc47d92"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-39-2014",
+   "path": "local/ilfov/buftea/2014/39",
+   "short": "HCL Buftea nr. 39/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 39/2014 privind modificarea duratei contractului de comodat nr. 60/29.11.2013, încheiat între Şcoala Gimnazială nr.1 Buftea şi Consiliul local al oraşului Buftea, în scopul desfăşurării programului “Şcoala după şcoală “",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/39.pdf",
+     "sha256": "50f8d42bd9442eabf5d913617b0299bd27ac8d1c606f053113d4affc519a103c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-40-2014",
+   "path": "local/ilfov/buftea/2014/40",
+   "short": "HCL Buftea nr. 40/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 40/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/40.pdf",
+     "sha256": "fc35cd479bc9aa028d7d06002348c92ccb631d64a1eac212fa79216b8e137feb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-41-2014",
+   "path": "local/ilfov/buftea/2014/41",
+   "short": "HCL Buftea nr. 41/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 41/2014 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2014 al S.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/41.pdf",
+     "sha256": "7f07ac866876b127c53716e0b1e254ccc83945d6d5c33732909877e806f960b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-42-2014",
+   "path": "local/ilfov/buftea/2014/42",
+   "short": "HCL Buftea nr. 42/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 42/2014 privind aprobarea documentaţiei, a indicatorilor tehnico -economici şi a cheltuielilor",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-15",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/42.pdf",
+     "sha256": "6ab76ca953b55abd1d6991d2f3ed3273e42f1e6e154ef4ddc0aff9ff71125fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-43-2014",
+   "path": "local/ilfov/buftea/2014/43",
+   "short": "HCL Buftea nr. 43/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 43/2014 privind darea În folosinţă gratuită Serviciului de Ambulanţă Bucureşti – Ilfov, microstaţia Buftea, a unui spaţiu situat În imobilul din şos. Bucureşti -Târgovişte, nr. 296, Oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/43.pdf",
+     "sha256": "559c58db240b44fd1ada4e7c74975418e9fd93b5564f88d23de13459aeb4d47f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-44-2014",
+   "path": "local/ilfov/buftea/2014/44",
+   "short": "HCL Buftea nr. 44/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 44/2014 privind darea în folosinţă gratuită Spitalului de Obstetrică Ginecologie din Buftea, a unui spaţiu situat în Şos. Bucureşti- Târgovişte, nr. 296, Oraşul Buftea, judeţul Ilfov, în vederea amenajării arhivei",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/44.pdf",
+     "sha256": "98ca15cb86c1fa2826767032def2f8e0c5f2fbe9ade822cb168b69240e1b1b9a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-45-2014",
+   "path": "local/ilfov/buftea/2014/45",
+   "short": "HCL Buftea nr. 45/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 45/2014 privind aprobarea încheierii contractului între Consiliul local al oraşului Buftea, D.G.A.S.P.C",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/45.pdf",
+     "sha256": "cc7938b8371315b389720f0900a71eadeece39f843fb2189a517ce8476c14425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-46-2014",
+   "path": "local/ilfov/buftea/2014/46",
+   "short": "HCL Buftea nr. 46/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 46/2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/46.pdf",
+     "sha256": "a88af6beb39aebc198378f8032b68c6e09f406fdc31bc37b59689ee11f4e708e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-47-2014",
+   "path": "local/ilfov/buftea/2014/47",
+   "short": "HCL Buftea nr. 47/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 47/2014 privind rectificarea utilizării excedentului bugetului local al oraşului Buftea in anul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-04-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/47.pdf",
+     "sha256": "4fc9ef68efb48dc66836eb0fa95406c7c2b9126f4f3d78f5fc9196744c4f1678"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-49-2014",
+   "path": "local/ilfov/buftea/2014/49",
+   "short": "HCL Buftea nr. 49/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 49/2014 privind alegerea preşedintelui de şedinţă",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/49.pdf",
+     "sha256": "f8c9e4e0587c868ee35e2dbe474dda4ad81956afdfa29a4bf93910d5646b245c"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-50-2014",
    "path": "local/ilfov/buftea/2014/50",
    "short": "HCL Buftea nr. 50/2014",
@@ -29,6 +659,96 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2014/50.pdf",
      "sha256": "68de27ac60456a4dd52e673f7528e46f63041c78c065408c887986a0f5d3b682"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-51-2014",
+   "path": "local/ilfov/buftea/2014/51",
+   "short": "HCL Buftea nr. 51/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 51/2014 privind preluarea în administrarea Consiliului local al oraşului Buftea a imobilului teren în suprafaţă de 827 mp, aflat în domeniul public al Judeţului Ilfov, situat în Str. Studioului, nr. 5, oraş Buftea, Judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/51.pdf",
+     "sha256": "958143f86ba505e006924156ca9630154f0d6b3f37d3834b8fd383c2f48955a0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-52-2014",
+   "path": "local/ilfov/buftea/2014/52",
+   "short": "HCL Buftea nr. 52/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 52/2014 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea pe Trimestrul 2014",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/52.pdf",
+     "sha256": "09850cb23740a5340558311826de84f8d0c2f178d1af2dc586630c7c2f6c7e3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-53-2014",
+   "path": "local/ilfov/buftea/2014/53",
+   "short": "HCL Buftea nr. 53/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 53/2014 privind aprobarea vânzării prin licitaţie publică a terenului in suprafaţă de 36 mp, aparţinând domeniului privat al oraşului Buftea, situat in Buftea, Str. Ştirbei Vodă, Nr. 20 A, judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/53.pdf",
+     "sha256": "c9e58691f71295dc3ac29ef6d2ecc748f13b7a69b5efe692e5b8586603381455"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-54-2014",
+   "path": "local/ilfov/buftea/2014/54",
+   "short": "HCL Buftea nr. 54/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 54/2014 privind aprobarea achiziţionării unui imobil teren in suprafaţă de 7720 mp, situat in Buftea, judeţ Ilfov, pentru amenajarea unui cimitir",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/54.pdf",
+     "sha256": "72e6b8e83bbf4c0b1f85a1ac11c3f3f68dd99e45c9a72177f11396a09834e61c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-55-2014",
+   "path": "local/ilfov/buftea/2014/55",
+   "short": "HCL Buftea nr. 55/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 55/2014 privind modificarea Statutului Asociatti ei de Dezvoltare lntercomunitară de utilitatti publice pentru serviciul de salubrizare “ECOSAL ILFOV",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-06-11",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/55.pdf",
+     "sha256": "91d4391a0be4e45485cef0d2e9e35f53358ce0b4535a434a10b14c9a30fb9429"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-56-2014",
+   "path": "local/ilfov/buftea/2014/56",
+   "short": "HCL Buftea nr. 56/2014",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 56/2014 privind aprobarea prelungirii contractului de transport public nr. 8699/ 3269 /C/ 02.07.2013, încheiat între Regia Autonomă de Transport Bucureşti şi oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hcl-2014/",
+   "versions": [
+    {
+     "from": "2014-06-25",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2014/56.pdf",
+     "sha256": "7a7cc5c1bea5809d0239561b9d43ddd0866a75eb6fee33709937ab6880642ad0"
     }
    ]
   }

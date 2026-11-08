@@ -168,6 +168,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-2-2021",
+   "path": "local/ilfov/ciorogarla/2021/2",
+   "short": "HCL Ciorogârla nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 2/2021 privind alegerea preşedintelui de şedinţă pe o perioada de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33480",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33480",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-20-2021",
    "path": "local/ilfov/ciorogarla/2021/20",
    "short": "HCL Ciorogârla nr. 20/2021",
@@ -363,6 +378,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--ciorogarla-32-2021",
+   "path": "local/ilfov/ciorogarla/2021/32",
+   "short": "HCL Ciorogârla nr. 32/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 32/2021 privind alegerea preşedintelui de şedinţă pe o perioadă de cel mult 3 luni",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/49713",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--ciorogarla-33-2021",
    "path": "local/ilfov/ciorogarla/2021/33",
    "short": "HCL Ciorogârla nr. 33/2021",
@@ -463,6 +493,21 @@
      "from": "2021-10-21",
      "units": 1,
      "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/49720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--ciorogarla-4-2021",
+   "path": "local/ilfov/ciorogarla/2021/4",
+   "short": "HCL Ciorogârla nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Ciorogârla nr. 4/2021",
+   "url": "https://emol.ro/ciorogarla-if/registru-hcl/33483",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/ciorogarla-if/registru-hcl/33483",
      "sha256": null
     }
    ]

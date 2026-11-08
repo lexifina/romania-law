@@ -3,6 +3,21 @@
  "shard": "local/ilfov/clinceni/2021",
  "acts": [
   {
+   "slug": "hcl-ilfov--clinceni-1-2021",
+   "path": "local/ilfov/clinceni/2021/1",
+   "short": "HCL Clinceni nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 1/2021 privind alegerea președintelui de ședință pe o perioadă de trei luni, respectiv ianuarie-martie 2021",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/41681",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/41681",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-10-2021",
    "path": "local/ilfov/clinceni/2021/10",
    "short": "HCL Clinceni nr. 10/2021",
@@ -123,6 +138,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-18-2021",
+   "path": "local/ilfov/clinceni/2021/18",
+   "short": "HCL Clinceni nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 18/2021 privind aprobarea acordării unui sprijin financiar femeilor însărcinate din comuna Clinceni pentru achitarea medicamentelor și serviciilor medicale",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/41713",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/41713",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-19-2021",
    "path": "local/ilfov/clinceni/2021/19",
    "short": "HCL Clinceni nr. 19/2021",
@@ -178,6 +208,21 @@
      "from": "2021-03-31",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/41716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-22-2021",
+   "path": "local/ilfov/clinceni/2021/22",
+   "short": "HCL Clinceni nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 22/2021 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2021",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/41723",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/41723",
      "sha256": null
     }
    ]

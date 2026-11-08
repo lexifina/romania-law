@@ -70,6 +70,29 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-4-2022",
+"path": "local/ilfov/peris/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 4/2022",
+"short": "HCL Periș nr. 4/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-06",
+"latest": "2022-01-06",
+"portal": "https://emol.ro/peris-if/registru-hcl/48876",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--peris-5-2022",
 "path": "local/ilfov/peris/2022/5",
 "kind": "local",
@@ -1042,6 +1065,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-49-2022",
+"path": "local/ilfov/peris/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 49/2022 Privind modificarea anexei la HCL 6/2022,la auto IF-67-PER, prin majorarea cotei de combustibil",
+"short": "HCL Periș nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-26",
+"latest": "2022-05-26",
+"portal": "https://emol.ro/peris-if/registru-hcl/67660",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-50-2022",
 "path": "local/ilfov/peris/2022/50",
 "kind": "local",
@@ -1416,6 +1461,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-67-2022",
+"path": "local/ilfov/peris/2022/67",
+"kind": "local",
+"year": "2022",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 67/2022 privind concesionarea prin licitație publică, în condițiile legii, a terenului situat în intravilan, aparținând domeniului public al comunei Peris, judeţul Ilfov, cu nr.cadastral 59784, având suprafața măsurată de 643 mp",
+"short": "HCL Periș nr. 67/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-08-24",
+"latest": "2022-08-24",
+"portal": "https://emol.ro/peris-if/registru-hcl/69500",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

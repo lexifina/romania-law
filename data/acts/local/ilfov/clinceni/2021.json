@@ -3,6 +3,28 @@
 "shard": "local/ilfov/clinceni/2021",
 "acts": [
 {
+"slug": "hcl-ilfov--clinceni-1-2021",
+"path": "local/ilfov/clinceni/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 1/2021 privind alegerea președintelui de ședință pe o perioadă de trei luni, respectiv ianuarie-martie 2021",
+"short": "HCL Clinceni nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41681",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-2-2021",
 "path": "local/ilfov/clinceni/2021/2",
 "kind": "local",
@@ -359,6 +381,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--clinceni-18-2021",
+"path": "local/ilfov/clinceni/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 18/2021 privind aprobarea acordării unui sprijin financiar femeilor însărcinate din comuna Clinceni pentru achitarea medicamentelor și serviciilor medicale",
+"short": "HCL Clinceni nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41713",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--clinceni-19-2021",
 "path": "local/ilfov/clinceni/2021/19",
 "kind": "local",
@@ -423,6 +467,28 @@
 "council_name": "Consiliul Local al Comunei Clinceni",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--clinceni-22-2021",
+"path": "local/ilfov/clinceni/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 22/2021 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2021",
+"short": "HCL Clinceni nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-28",
+"latest": "2021-04-28",
+"portal": "https://emol.ro/clinceni-if/registru-hcl/41723",
+"council": "ilfov/clinceni",
+"council_name": "Consiliul Local al Comunei Clinceni",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

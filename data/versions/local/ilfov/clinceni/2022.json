@@ -3,6 +3,21 @@
  "shard": "local/ilfov/clinceni/2022",
  "acts": [
   {
+   "slug": "hcl-ilfov--clinceni-1-2022",
+   "path": "local/ilfov/clinceni/2022/1",
+   "short": "HCL Clinceni nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 1/2022 privind alegerea președintelui de ședință pentru perioada ianuarie-martie 2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/57685",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/57685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-10-2022",
    "path": "local/ilfov/clinceni/2022/10",
    "short": "HCL Clinceni nr. 10/2022",
@@ -43,6 +58,36 @@
      "from": "2022-12-27",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/83310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-102-2022",
+   "path": "local/ilfov/clinceni/2022/102",
+   "short": "HCL Clinceni nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 102/2022 privind aprobarea măsurilor de punere în aplicare a prevederilor art. 9 din Legea nr. 226/2021 privind stabilirea măsurilor de protecție socială pentru consumatorul vulnerabile energie şi stabilirea cuantumului ajutorului de urgență pentru încălzirea locuinței",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/83311",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/83311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-103-2022",
+   "path": "local/ilfov/clinceni/2022/103",
+   "short": "HCL Clinceni nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 103/2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/83312",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/83312",
      "sha256": null
     }
    ]
@@ -303,6 +348,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-12-2022",
+   "path": "local/ilfov/clinceni/2022/12",
+   "short": "HCL Clinceni nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 12/2022 privind aprobarea concesionării unui imobil teren aflat în domeniul public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/57705",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/57705",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-120-2022",
    "path": "local/ilfov/clinceni/2022/120",
    "short": "HCL Clinceni nr. 120/2022",
@@ -468,6 +528,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-18-2022",
+   "path": "local/ilfov/clinceni/2022/18",
+   "short": "HCL Clinceni nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 18/2022 privind aprobarea încheierii acordului de cooperare între Județul Ilfov - Consiliul Județean, Direcția Generală pentru Asistență Socială și Protecția Copilului Ilfov, Spitalul de Obstetrică Ginecologie Buftea cu UAT -COMUNA CLINCENI din Județul Ilfov, în vederea realizării proiectului: „ Cooperarea privind creșterea capacității operaționale la nivelul Județului Ilfov în vederea asigurării eficiente și unitare a asistenței umanitare adecvate pentru persoanele refugiate/intrate pe teritoriul județului Ilfov în urma conflictului declanșat în Ucraina”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/61934",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/61934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-19-2022",
+   "path": "local/ilfov/clinceni/2022/19",
+   "short": "HCL Clinceni nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 19/2022 privind aprobarea execuţiei bugetului local de venituri şi cheltuieli a Consiliului Local Clinceni pe trimestrul lll aferent anului financiar 2021",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62065",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62065",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-2-2022",
    "path": "local/ilfov/clinceni/2022/2",
    "short": "HCL Clinceni nr. 2/2022",
@@ -483,6 +573,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-20-2022",
+   "path": "local/ilfov/clinceni/2022/20",
+   "short": "HCL Clinceni nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 20/2022 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2022, astfel cum a fost prezentat, pentru repartizarea orelor de muncă prestate lunar de către persoanele majore, apte de muncă din familiile beneficiare de ajutor social în conformitate cu prevederile Legii nr. 416/2001",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62066",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62066",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-21-2022",
    "path": "local/ilfov/clinceni/2022/21",
    "short": "HCL Clinceni nr. 21/2022",
@@ -493,6 +598,96 @@
      "from": "2022-05-31",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/62067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-22-2022",
+   "path": "local/ilfov/clinceni/2022/22",
+   "short": "HCL Clinceni nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 22/2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62068",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-23-2022",
+   "path": "local/ilfov/clinceni/2022/23",
+   "short": "HCL Clinceni nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 23/2022 privind dezmembrarea terenului in suprafata de 4613mp, proprietate a comunei Clinceni, situat in comuna Clinceni, judetul Ilfov, tarla 29 parcela 169, NC 62542",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62069",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-24-2022",
+   "path": "local/ilfov/clinceni/2022/24",
+   "short": "HCL Clinceni nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 24/2022 privind la modificarea pozitiei 78 din inventarul bunurilor ce alcatuiesc patrimonial comunei Clinceni - DE 220 – strada Artarului",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62070",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62070",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-25-2022",
+   "path": "local/ilfov/clinceni/2022/25",
+   "short": "HCL Clinceni nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 25/2022 privind atestarea apartenentei la domeniul public al comunei Clinceni a obiectivului \"Extindere retea de apa si canalizare-strada Cocorului-comuna Clinceni, judetul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62071",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-26-2022",
+   "path": "local/ilfov/clinceni/2022/26",
+   "short": "HCL Clinceni nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 26/2022 privind aprobarea amplasarii obiectivului de investitii de interés local SALA DE SPORT SCOLARA - COMUNA CLINCENI, JUDETUL ILFOV”",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62072",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-27-2022",
+   "path": "local/ilfov/clinceni/2022/27",
+   "short": "HCL Clinceni nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 27/2022 privind alegerea președintelui de ședință pentru perioada aprilie- iunie 2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62073",
+   "versions": [
+    {
+     "from": "2022-05-31",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62073",
      "sha256": null
     }
    ]
@@ -588,6 +783,51 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-33-2022",
+   "path": "local/ilfov/clinceni/2022/33",
+   "short": "HCL Clinceni nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 33/2022 privind anularea art 1 pct. 1 la HCL nr. 86/2019 privind strada rozelor – DS 1907",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62310",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62310",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-34-2022",
+   "path": "local/ilfov/clinceni/2022/34",
+   "short": "HCL Clinceni nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 34/2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62311",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62311",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-35-2022",
+   "path": "local/ilfov/clinceni/2022/35",
+   "short": "HCL Clinceni nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 35/2022 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (A.D.I.G.I.D.I)",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62312",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-36-2022",
    "path": "local/ilfov/clinceni/2022/36",
    "short": "HCL Clinceni nr. 36/2022",
@@ -598,6 +838,21 @@
      "from": "2022-06-03",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/62315",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-37-2022",
+   "path": "local/ilfov/clinceni/2022/37",
+   "short": "HCL Clinceni nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 37/2022 privind aprobarea cererii de finanțare si a valorii proiectului pentru obiectivul de investiție: ,,Digitalizarea activității comunei Clinceni, JUDETUL ILFOV” în cadrul finanțării din fondurile europene aferente Planului național de redresare și reziliență în cadrul apelului de proiecte Pilonul IV – Coeziune economică, socială și teritorială - Componenta C10 – Fondul local",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/62316",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/62316",
      "sha256": null
     }
    ]
@@ -738,6 +993,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-46-2022",
+   "path": "local/ilfov/clinceni/2022/46",
+   "short": "HCL Clinceni nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 46/2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/66346",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/66346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-47-2022",
+   "path": "local/ilfov/clinceni/2022/47",
+   "short": "HCL Clinceni nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 47/2022 privind aprobarea concesionării unui imobil teren aflat în domeniul public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/66347",
+   "versions": [
+    {
+     "from": "2022-07-19",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/66347",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-48-2022",
    "path": "local/ilfov/clinceni/2022/48",
    "short": "HCL Clinceni nr. 48/2022",
@@ -763,6 +1048,21 @@
      "from": "2022-07-19",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/66349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-5-2022",
+   "path": "local/ilfov/clinceni/2022/5",
+   "short": "HCL Clinceni nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 5/2022 privind aprobarea Planului urbanistic de detaliu Comuna Clinceni, judetul Ilfov, Tarla 3, parcela 8/13, nr. Cad 60473",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/57689",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/57689",
      "sha256": null
     }
    ]
@@ -858,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-56-2022",
+   "path": "local/ilfov/clinceni/2022/56",
+   "short": "HCL Clinceni nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 56/2022 privind alegerea presedintelui de sedinta pentru perioada iulie-septembrie 2022",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/70307",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/70307",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-57-2022",
    "path": "local/ilfov/clinceni/2022/57",
    "short": "HCL Clinceni nr. 57/2022",
@@ -913,6 +1228,21 @@
      "from": "2022-04-19",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/57690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-60-2022",
+   "path": "local/ilfov/clinceni/2022/60",
+   "short": "HCL Clinceni nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 60/2022 privind transferul dreptului de proprietate privata a Unitatii Administrativ-Teritoriale comuna Clinceni, in proprietatea publica a Unitatii Administrativ-Teritoriale orasul Bragadiru si in administarea expropriatorului Consiliul Local al orasului Bragadiru asupra terenurilor: -terenul intravilan in suprafata de 48 mp situat in T13/8, P60/8/24/2 adiacente strazii Iernii, terenul intravilan in suprafata de 30 mp -T 13/8, P60/8/8/1, adiacent strazii Iernii si terenul intravilan in suprafata de 31 mp - T 13/8, P60/8/8/1, adiacent strazii Toamnei –orasul Bragadiru judetul Ilfov",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/70311",
+   "versions": [
+    {
+     "from": "2022-07-29",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/70311",
      "sha256": null
     }
    ]
@@ -1023,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-68-2022",
+   "path": "local/ilfov/clinceni/2022/68",
+   "short": "HCL Clinceni nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 68/2022 privind la desemnarea reprezentatului Consiliului local Clinceni in asocierea Consiliul local Clinceni / SC ALCO ENTERTAINMENT CLUB SRL /SC Imperial Activ SRL conform contractului de asociere in participațiune nr. 9781/2004",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/74175",
+   "versions": [
+    {
+     "from": "2022-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/74175",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-69-2022",
    "path": "local/ilfov/clinceni/2022/69",
    "short": "HCL Clinceni nr. 69/2022",
@@ -1113,6 +1458,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-74-2022",
+   "path": "local/ilfov/clinceni/2022/74",
+   "short": "HCL Clinceni nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 74/2022 privind desemnarea reprezentantior CLC in CA al LPS HD",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/77984",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/77984",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-75-2022",
    "path": "local/ilfov/clinceni/2022/75",
    "short": "HCL Clinceni nr. 75/2022",
@@ -1173,6 +1533,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--clinceni-79-2022",
+   "path": "local/ilfov/clinceni/2022/79",
+   "short": "HCL Clinceni nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 79/2022 privind aprobarea concesionării unui imobil teren aflat în domeniul public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/78191",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/78191",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--clinceni-8-2022",
    "path": "local/ilfov/clinceni/2022/8",
    "short": "HCL Clinceni nr. 8/2022",
@@ -1183,6 +1558,21 @@
      "from": "2022-04-19",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/57701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-80-2022",
+   "path": "local/ilfov/clinceni/2022/80",
+   "short": "HCL Clinceni nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 80/2022 privind aprobarea concesionării unui imobil terasa nefinalizata aflat în domeniul public al comunei Clinceni",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/78192",
+   "versions": [
+    {
+     "from": "2022-11-02",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/78192",
      "sha256": null
     }
    ]
@@ -1408,6 +1798,21 @@
      "from": "2022-11-29",
      "units": 1,
      "source_url": "https://emol.ro/clinceni-if/registru-hcl/81162",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--clinceni-95-2022",
+   "path": "local/ilfov/clinceni/2022/95",
+   "short": "HCL Clinceni nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Clinceni nr. 95/2022 privind completarea art 1 din HCL nr. 19/27,02,2019- privind aprobarea indicatorilor tehnico economici ai proiectului de investiții “Modernizare străzi de interes local faza 2 in comuna Clinceni, Jud. Ilfov, proiect in valoare de 28.644.443,165 lei (TVA inclus)",
+   "url": "https://emol.ro/clinceni-if/registru-hcl/82301",
+   "versions": [
+    {
+     "from": "2022-12-12",
+     "units": 1,
+     "source_url": "https://emol.ro/clinceni-if/registru-hcl/82301",
      "sha256": null
     }
    ]

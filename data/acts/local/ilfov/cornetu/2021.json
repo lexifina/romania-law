@@ -137,6 +137,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-7-2021",
+"path": "local/ilfov/cornetu/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 7/2021 privind indexarea tarifelor de închiriere pentru spațiile cu alta destinație decât aceea de locuința și a terenurilor aferente, pentru anul 2021",
+"short": "HCL Cornetu nr. 7/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-29",
+"latest": "2021-01-29",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/27624",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-8-2021",
 "path": "local/ilfov/cornetu/2021/8",
 "kind": "local",
@@ -269,6 +291,29 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-14-2021",
+"path": "local/ilfov/cornetu/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 14/2021",
+"short": "HCL Cornetu nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/27631",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-15-2021",
 "path": "local/ilfov/cornetu/2021/15",
 "kind": "local",
@@ -332,6 +377,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-18-2021",
+"path": "local/ilfov/cornetu/2021/18",
+"kind": "local",
+"year": "2021",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 18/2021 privind actualizarea nomenclatorului stradal Cornetu prin includerea străzii Aleea Podisor",
+"short": "HCL Cornetu nr. 18/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/27635",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -645,6 +712,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-33-2021",
+"path": "local/ilfov/cornetu/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 33/2021 privind aprobarea încheierii unui act adițional la Contractul de concesionare a Serviciului Public de salubrizare al comunei Cornetu, aprobat prin Hotărârea Consiliului Local nr. 10/2008",
+"short": "HCL Cornetu nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-05",
+"latest": "2021-05-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/32139",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-34-2021",
 "path": "local/ilfov/cornetu/2021/34",
 "kind": "local",
@@ -686,6 +775,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-36-2021",
+"path": "local/ilfov/cornetu/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 36/2021 privind aprobarea încheierii unui act adițional la Contractul de concesionare a Serviciului Public de salubrizare al comunei Cornetu, aprobat prin Hotărârea Consiliului Local nr. 10/2008, cu modificările și completările ulterioare",
+"short": "HCL Cornetu nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/32142",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1153,6 +1264,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-58-2021",
+"path": "local/ilfov/cornetu/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 58/2021 privind desemnarea reprezentantilor Consiliului Local Cornetu pentru a deveni membri in Consiliul de administratie si in Comisia pentru Evaluarea si Asigurarea Calitatii ale Scolii Gimnaziale nr.1 Cornetu",
+"short": "HCL Cornetu nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/42347",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-59-2021",
 "path": "local/ilfov/cornetu/2021/59",
 "kind": "local",
@@ -1263,6 +1396,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-64-2021",
+"path": "local/ilfov/cornetu/2021/64",
+"kind": "local",
+"year": "2021",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 64/2021 privind desemnarea reprezentantilor Consiliului Local Cornetu pentru a deveni membri in Consiliul de Administratie si in Comisia pentru Evaluarea si Asigurarea Calitatii ale Scolii Gimnaziale nr.1 Cornetu",
+"short": "HCL Cornetu nr. 64/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/42725",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-65-2021",
 "path": "local/ilfov/cornetu/2021/65",
 "kind": "local",
@@ -1304,6 +1459,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-67-2021",
+"path": "local/ilfov/cornetu/2021/67",
+"kind": "local",
+"year": "2021",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 67/2021",
+"short": "HCL Cornetu nr. 67/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-29",
+"latest": "2021-09-29",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/42728",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

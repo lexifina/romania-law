@@ -3,6 +3,546 @@
  "shard": "local/ilfov/buftea/2016",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-1-2016",
+   "path": "local/ilfov/buftea/2016/1",
+   "short": "HCL Buftea nr. 1/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 1/2016 privind acoperirea definitivă din excedentul bugetului local a deficitului sectiunii de dezvoltare, înregistrat la data de 31.12.2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-08",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/1.pdf",
+     "sha256": "877899a132d5fdc2bf2e22d2a9814daf399b509b4f56ad59cb5b792826722ca3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-10-2016",
+   "path": "local/ilfov/buftea/2016/10",
+   "short": "HCL Buftea nr. 10/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 10/2016 privind aprobarea Planului de acţiuni sau de lucrări de interes local în vederea repartizării orelor de muncă prestate lunar de către persoanele majore apte de muncă, beneficiare ale Legii nr. 416/2001, pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/10.pdf",
+     "sha256": "7286c4761785a14230614df407c1c7d261f8d16bb4cca89c9d11676b2a7b7039"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-100-2016",
+   "path": "local/ilfov/buftea/2016/100",
+   "short": "HCL Buftea nr. 100/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 100/2016 privind aprobarea rectificării bugetului general al Oraşului Buftea pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/100.pdf",
+     "sha256": "1a844fb2f057420644da304c9a042993a65843a1a4171739b0cb8183ca3045b1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-101-2016",
+   "path": "local/ilfov/buftea/2016/101",
+   "short": "HCL Buftea nr. 101/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 101/2016 privind acordarea de stimulente financiare absolvenţilor care au obţinut media 10 la evaluarea naţională în anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/101.pdf",
+     "sha256": "7b06d8d55d12c071bd75e3a6b7c102a148c3f6728f0ccf8f5262040af0a53345"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-102-2016",
+   "path": "local/ilfov/buftea/2016/102",
+   "short": "HCL Buftea nr. 102/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 102/2016 privind aprobarea dezmembrării imobilului teren în suprafaţă de 4790 mp, situat în oraşul Buftea, strada 23 August, cu nr. cadastral 51605, înscris în cartea funciară a",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/102.pdf",
+     "sha256": "40fbeb92fa3514611a5cae14ad88a166cda915015218e6a45c148bb10998ca78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-103-2016",
+   "path": "local/ilfov/buftea/2016/103",
+   "short": "HCL Buftea nr. 103/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 103/2016 privind aprobarea asocierii Consiliului Local al oraşului Buftea cu",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/103.pdf",
+     "sha256": "904b736f45f7bcaa531953f9c0662a4782d46c1b1e4b772c92df29672125e7cf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-104-2016",
+   "path": "local/ilfov/buftea/2016/104",
+   "short": "HCL Buftea nr. 104/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 104/2016 privind aprobarea asocierii Consiliului Local al oraşului Buftea cu",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/104.pdf",
+     "sha256": "485440221125bc49c0a68c1205713f81c61726fc3e40165c2040eeb05b113aa5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-106-2016",
+   "path": "local/ilfov/buftea/2016/106",
+   "short": "HCL Buftea nr. 106/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 106/2016 privind aprobarea planului de ocupare a funcţiilor publice pentru anul 2017, pentru aparatul de specialitate al primarului oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/106.pdf",
+     "sha256": "edce34e157261c703c3f4952243fe55693a2849f34975d05caef57a36ac615f5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-109-2016",
+   "path": "local/ilfov/buftea/2016/109",
+   "short": "HCL Buftea nr. 109/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 109/2016 privind prelungirea mandatelor cenzorilor, numirea unui nou membru şi a unui supleant în comisia de cenzori a S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/109.pdf",
+     "sha256": "6f81ab55e08f74c2f07f307a2448d12cca6caa692908ed70b8ad56321e580070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-11-2016",
+   "path": "local/ilfov/buftea/2016/11",
+   "short": "HCL Buftea nr. 11/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 11/2016 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/11.pdf",
+     "sha256": "28a68090829ad6719c49c3753593746b2b04b17f239f808a8712411972759e50"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-110-2016",
+   "path": "local/ilfov/buftea/2016/110",
+   "short": "HCL Buftea nr. 110/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 110/2016 privind prelungirea şi modificarea contractului de asociere încheiat între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/110.pdf",
+     "sha256": "2f3c97b6827246b8ab764b10540aba63d91dd177c4924ae890bf6979496ea364"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-111-2016",
+   "path": "local/ilfov/buftea/2016/111",
+   "short": "HCL Buftea nr. 111/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 111/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/111.pdf",
+     "sha256": "dae4a245cbb6f6d7149ee50ecb5f94156502a4e97dbdbf69809e911a26d7a337"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-112-2016",
+   "path": "local/ilfov/buftea/2016/112",
+   "short": "HCL Buftea nr. 112/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 112/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/112.pdf",
+     "sha256": "f3c46b6d112516229f17def87b2a891a0c66b5ea398bfdd62e80f7f9c658830a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-113-2016",
+   "path": "local/ilfov/buftea/2016/113",
+   "short": "HCL Buftea nr. 113/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 113/2016 privind aprobarea schimbării destinaţiei unui imobil aparţinând domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/113.pdf",
+     "sha256": "25379c3cb0bf2b98785f14dafa8b9cc8ed3281783ecd8b200cafaa1804e387f6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-114-2016",
+   "path": "local/ilfov/buftea/2016/114",
+   "short": "HCL Buftea nr. 114/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 114/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/114.pdf",
+     "sha256": "ed377d821fecd8f8fb4fcf2cbd96f14bc739a78cf7afcc1c49f2294f8974a2d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-116-2016",
+   "path": "local/ilfov/buftea/2016/116",
+   "short": "HCL Buftea nr. 116/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 116/2016 privind aprobarea “Programului de măsuri şi acţiuni pentru prevenirea şi combaterea înzăpezirii şi poleiului pe drumurile din Oraşul Buftea”, pentru sezonul rece 2016 – 2017",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/116.pdf",
+     "sha256": "6043e3491b14673c6df6f29b836a3d4a60397af579a0a373ba1f932e9405bbb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-117-2016",
+   "path": "local/ilfov/buftea/2016/117",
+   "short": "HCL Buftea nr. 117/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 117/2016 privind aprobarea dezmembrării unui imobil teren aparţinând domeniului privat al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/117.pdf",
+     "sha256": "70e8227237c1a6b6f0b9459772bb052541dbd238636a43303a766db21ef878f0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-118-2016",
+   "path": "local/ilfov/buftea/2016/118",
+   "short": "HCL Buftea nr. 118/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 118/2016 privind asigurarea transportului elevilor care frecventează cursurile la Şcoala Gimnazială nr.1 Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/118.pdf",
+     "sha256": "d1a4161ddc7ed717ba071a80eb936fc3a0bd88d0889900837f66d7007d091f86"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-119-2016",
+   "path": "local/ilfov/buftea/2016/119",
+   "short": "HCL Buftea nr. 119/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 119/2016 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul III 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/119.pdf",
+     "sha256": "f6c4a25115f9bbb9f268df7aae9dc2097b5f98218a4a4c4052040850814efc71"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-12-2016",
+   "path": "local/ilfov/buftea/2016/12",
+   "short": "HCL Buftea nr. 12/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 12/2016 privind aprobarea Raportului pentru activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav din oraşul Buftea, pentru semestrul li al anului 2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/12.pdf",
+     "sha256": "741860822ea021ccce381e0d3d97c09fcf9dbed186eb27b276940f35ac907623"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-120-2016",
+   "path": "local/ilfov/buftea/2016/120",
+   "short": "HCL Buftea nr. 120/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 120/2016 privind rectificarea bugetului general al Oraşului Buftea în anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/120.pdf",
+     "sha256": "834def9c79737a98c851ac17b192e9fce36883d5027bf4d4d1083173ff1f5317"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-123-2016",
+   "path": "local/ilfov/buftea/2016/123",
+   "short": "HCL Buftea nr. 123/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 123/2016 privind rectificarea bugetului general al orașului Buftea pe anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-03",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/123.pdf",
+     "sha256": "a08342bcede6fa72695c84e7cd5e36685c2dfabb3c8788256b450d59429a72c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-124-2016",
+   "path": "local/ilfov/buftea/2016/124",
+   "short": "HCL Buftea nr. 124/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 124/2016 privind actualizarea Strategiei de dezvoltare a oraşului Buftea pentru perioada 2014 – 2020",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/124.pdf",
+     "sha256": "693dd9fd1d79446a0a131db6122be20605c98e44ce0159273136b90048987de9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-125-2016",
+   "path": "local/ilfov/buftea/2016/125",
+   "short": "HCL Buftea nr. 125/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 125/2016 privind aprobarea Studiului de fezabilitate şi a indicatorilor tehnico-economici pentru obiectivul de investiţii” Parc integrat pentru recreere, sport şi agrement” – Buftea, strada Ştirbei Vodă nr. 53 A, judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/125.pdf",
+     "sha256": "ee31a967b255d3717de35ce6c070a4c409547617848dd4345eb1f3117a218bed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-126-2016",
+   "path": "local/ilfov/buftea/2016/126",
+   "short": "HCL Buftea nr. 126/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 126/2016 privind aprobarea Studiului de fezabilitate şi a indicatorilor tehnico-economici pentru obiectivul de investiţii Amenajare Parc “Aviaţiei” – Buftea, T45, P 375, judeţ Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/126.pdf",
+     "sha256": "e9667bec58821f09fd5a737826ef36d59891e36b6430694b90fe8a33faf970c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-129-2016",
+   "path": "local/ilfov/buftea/2016/129",
+   "short": "HCL Buftea nr. 129/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 129/2016 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice pentru obiectivul de investiţii Eficientizarea energetică a clădirilor rezidenţiale – Lotul 1",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/129.pdf",
+     "sha256": "c87ed7abd1b3010c0ee38a46094732a7606edded056fa489278a34d72885052f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-13-2016",
+   "path": "local/ilfov/buftea/2016/13",
+   "short": "HCL Buftea nr. 13/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 13/2016 pentru aprobarea Raportului privind serviciile şi activităţile de asistenţă medicală comunitară derulate în oraşul Buftea pe semestrul li al anului 2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/13.pdf",
+     "sha256": "4a70ec5c2e6917f629b68bdd4acfb4087d22e9bb33ee521a05bd72d2e196400b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-130-2016",
+   "path": "local/ilfov/buftea/2016/130",
+   "short": "HCL Buftea nr. 130/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 130/2016 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice pentru obiectivul de investiţii Eficientizarea energetică a clădirilor rezidenţiale – Lotul 2",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/130.pdf",
+     "sha256": "148474df0324a6a88ec07cbc97718ea0804e372b61a5bf66e4836823b7890dc0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-131-2016",
+   "path": "local/ilfov/buftea/2016/131",
+   "short": "HCL Buftea nr. 131/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 131/2016 privind aprobarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice pentru obiectivul de investiţii Eficientizarea energetică a clădirilor rezidenţiale – Lotul 3",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-07",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/131.pdf",
+     "sha256": "44bce474dd205e5f7cee1ff972cb2d8a5f395a58109763b85ce407e26cd115ae"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-133-2016",
+   "path": "local/ilfov/buftea/2016/133",
+   "short": "HCL Buftea nr. 133/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 133/2016 privind aprobarea Strategiei de eficienţă energetică a oraşului Buftea pentru perioada 2016-2020",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/133.pdf",
+     "sha256": "ade8eca81fa1433103c878c47a208954071d716f6814257828ae90ebec242375"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-134-2016",
+   "path": "local/ilfov/buftea/2016/134",
+   "short": "HCL Buftea nr. 134/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 134/2016 privind aprobarea Registrului local al spaţiilor verzi din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/134.pdf",
+     "sha256": "622963d34009ec6c20ba0d31ece923c96e4d52348c036d492615117528e1b81f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-135-2016",
+   "path": "local/ilfov/buftea/2016/135",
+   "short": "HCL Buftea nr. 135/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 135/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic “Barbu A. Ştirbei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/135.pdf",
+     "sha256": "4230191ae96b322bd4547a170d1d57b7a6c478a62b94a2b148aa318d28b24e82"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-136-2016",
+   "path": "local/ilfov/buftea/2016/136",
+   "short": "HCL Buftea nr. 136/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 136/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru perioada septembrie – octombrie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/136.pdf",
+     "sha256": "00318ded7fecfee9af299d609b67cd527411b6749437ba9fb5a83b1404bc4b17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-137-2016",
+   "path": "local/ilfov/buftea/2016/137",
+   "short": "HCL Buftea nr. 137/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 137/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/137.pdf",
+     "sha256": "db6bedcbbf03e4f1ddbd019be2fd03d57e7693540c1b7a5dd27abe6fc6207389"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-138-2016",
+   "path": "local/ilfov/buftea/2016/138",
+   "short": "HCL Buftea nr. 138/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 138/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa “Căsuţa Copilăriei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/138.pdf",
+     "sha256": "ce2818cfc6da9dc2662a836724f187eba8c6c34cba478428136b1bf98469545a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-139-2016",
+   "path": "local/ilfov/buftea/2016/139",
+   "short": "HCL Buftea nr. 139/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 139/2016 privind organizarea serbării “Pomul de Crăciun 2016”",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/139.pdf",
+     "sha256": "13d2d908d3869a59745f199f6ce30f08c1f51e32f2574d46b936bed2763941d4"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-14-2016",
    "path": "local/ilfov/buftea/2016/14",
    "short": "HCL Buftea nr. 14/2016",
@@ -14,6 +554,321 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2016/14.pdf",
      "sha256": "702fddb0c8bf9cf73bdf0f3f370cdc49e91bd52dfddf3b59daa5ca69a995a353"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-140-2016",
+   "path": "local/ilfov/buftea/2016/140",
+   "short": "HCL Buftea nr. 140/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 140/2016 privind organizarea şi desfăşurarea evenimentului dedicat Zilei Naţionale a României 1 Decembrie",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/140.pdf",
+     "sha256": "48e9adb3375abba2b3619fd9dff6c2a35bfd99a64580716d6f5b8f03c1b2e8bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-141-2016",
+   "path": "local/ilfov/buftea/2016/141",
+   "short": "HCL Buftea nr. 141/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 141/2016 privind acordarea unui stimulent financiar pentru efectuarea unei perioade de studiu, în cadrul programului Erasmus",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/141.pdf",
+     "sha256": "9032c2af0907fcac5a5c73965266907642850d4496526d4a60d88e16c4f0de51"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-142-2016",
+   "path": "local/ilfov/buftea/2016/142",
+   "short": "HCL Buftea nr. 142/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 142/2016 privind aprobarea rectificării bugetului general al Oraşului Buftea în anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/142.pdf",
+     "sha256": "5ee9da74d79c0fdce61bcad0355f4f8eaa4387f35a3743ac36ffc4d74515e0b8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-143-2016",
+   "path": "local/ilfov/buftea/2016/143",
+   "short": "HCL Buftea nr. 143/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 143/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/143.pdf",
+     "sha256": "3a97a9ee4eff91d2bb91eccf66f7256653d2b5644acd8f5a83b1fb5d9ef5ffd6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-144-2016",
+   "path": "local/ilfov/buftea/2016/144",
+   "short": "HCL Buftea nr. 144/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 144/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/144.pdf",
+     "sha256": "a4eb81acc7e1b4b998fb1fa72444b62a653faa52badf3d1e854905aee2c99e5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-148-2016",
+   "path": "local/ilfov/buftea/2016/148",
+   "short": "HCL Buftea nr. 148/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 148/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/148.pdf",
+     "sha256": "d89ded1f10a915f1122b4895c351e6a4045989a08b232d1f5993cea7d1290535"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-149-2016",
+   "path": "local/ilfov/buftea/2016/149",
+   "short": "HCL Buftea nr. 149/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 149/2016 privind solicitarea prelungirii termenului de restituire a sumei de 5.000.000 lei primită din bugetul judeţului Ilfov, până la sfârşitul anului 2017",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/149.pdf",
+     "sha256": "a0784c7188d8ccdfba4a8dec26ae19897c17eb7b99bb11fc1473f5eb7da293a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-150-2016",
+   "path": "local/ilfov/buftea/2016/150",
+   "short": "HCL Buftea nr. 150/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 150/2016 privind aprobarea asocierii între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/150.pdf",
+     "sha256": "7b04086cc050ffd204cb390de45f78de315fdc395a2d4d866d98db7a7f001fc6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-151-2016",
+   "path": "local/ilfov/buftea/2016/151",
+   "short": "HCL Buftea nr. 151/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 151/2016 privind completarea contractului de asociere nr.102/01.10.2012 încheiat între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/151.pdf",
+     "sha256": "a001157c6c90837906483e1936a1253c2b79a9691a11c6ba0fa9dd1dfb923297"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-152-2016",
+   "path": "local/ilfov/buftea/2016/152",
+   "short": "HCL Buftea nr. 152/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 152/2016 privind însuşirea raportului de expertiză contabilă extrajudiciară şi încheierea unei tranzacţii având ca obiect compensarea obligaţiilor Unităţii Administrativ Teritoriale Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/152.pdf",
+     "sha256": "9472a5c664e70d397afa40a463739bfe33c6291e7cefab8c7943c3d66d3aa376"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-153-2016",
+   "path": "local/ilfov/buftea/2016/153",
+   "short": "HCL Buftea nr. 153/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 153/2016 privind aprobarea regulamentului de organizare şi funcţionare a pieţei centrale agroalimentare din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/153.pdf",
+     "sha256": "a3f52fe5d716c8fdbfae427f121cc3bafe08729c126d56aa0378aca412e90a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-154-2016",
+   "path": "local/ilfov/buftea/2016/154",
+   "short": "HCL Buftea nr. 154/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 154/2016 privind alegerea preşedintelui de şedinţă",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-11-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/154.pdf",
+     "sha256": "5c37b91633748dbd34df76ba4c32aed4cb620802080e5a74cb6356280251b64a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-155-2016",
+   "path": "local/ilfov/buftea/2016/155",
+   "short": "HCL Buftea nr. 155/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 155/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru perioada septembrie – octombrie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/155.pdf",
+     "sha256": "9dd68baba4cbe02664906f956fc65376f226787122416591ff77cceb0cde7d78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-156-2016",
+   "path": "local/ilfov/buftea/2016/156",
+   "short": "HCL Buftea nr. 156/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 156/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/156.pdf",
+     "sha256": "37b8ca25bab47af9e0160b2d97a57e198464f12545ff2b705270afa469804d42"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-157-2016",
+   "path": "local/ilfov/buftea/2016/157",
+   "short": "HCL Buftea nr. 157/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 157/2016 privind trecerea unui imobil teren din domeniul public al oraşului Buftea şi administrarea Consiliului local al oraşului Buftea, în domeniul public al statului, în vederea dării în administrare Parchetului de pe lângă Tribunalul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/157.pdf",
+     "sha256": "7fe6050afa4cbe3e06947fa391e2bfe3199bb8713651c4a9a730d0484b04d679"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-158-2016",
+   "path": "local/ilfov/buftea/2016/158",
+   "short": "HCL Buftea nr. 158/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 158/2016 privind prelungirea duratei unor contracte de închiriere pentru imobilele cu destinaţia de locuinţe şi pentru imobilele cu altă destinaţie decât cea de locuinţă, aflate în",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/158.pdf",
+     "sha256": "1db8991117dcc2a6f394c4ff05544c4883c2ad51f1e40e24c51e3b230857c5ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-159-2016",
+   "path": "local/ilfov/buftea/2016/159",
+   "short": "HCL Buftea nr. 159/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 159/2016 pentru aprobarea listei anuale privind ordinea de prioritate în soluţionarea cererilor de locuinţe pentru tineri, destinate închirierii, realizate în cadrul programelor Agenţiei",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/159.pdf",
+     "sha256": "792b44ed93f1132d4b45c7c1cc8623f419d317756a534f73abd112924aecbff9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-16-2016",
+   "path": "local/ilfov/buftea/2016/16",
+   "short": "HCL Buftea nr. 16/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 16/2016 privind aprobarea bugetului general al Oraşului Buftea pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/16.pdf",
+     "sha256": "f1cd84389471d795a83631a3d1aba9e2d06bde18c57cd3aac9444f0e10b9679c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-160-2016",
+   "path": "local/ilfov/buftea/2016/160",
+   "short": "HCL Buftea nr. 160/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 160/2016 privind aprobarea programului de activităţi cultural – educative şi artistice pentru anul 2017 al Centrului Cultural Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/160.pdf",
+     "sha256": "cd9d5feddc1a7037eef79fcf773f82d439e8fafd4ca5ff82d79c0ce6ca9408d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-161-2016",
+   "path": "local/ilfov/buftea/2016/161",
+   "short": "HCL Buftea nr. 161/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 161/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/161.pdf",
+     "sha256": "b1fdfbf053430d049e4ef71c536e22cb55dca2634322247fe13c2952aa559a78"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-162-2016",
+   "path": "local/ilfov/buftea/2016/162",
+   "short": "HCL Buftea nr. 162/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 162/2016 privind prelungirea duratei parteneriatului încheiat între Consiliul local al oraşului Buftea, prin Direcţia Asistenţă Socială şi Asociaţia „SOS Satele Copiilor” – România",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/162.pdf",
+     "sha256": "f77f68e9c0dc1fcaedc92b211b103d0251bb7191f182d267fe804b582274f231"
     }
    ]
   },
@@ -33,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-164-2016",
+   "path": "local/ilfov/buftea/2016/164",
+   "short": "HCL Buftea nr. 164/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 164/2016 privind rectificarea bugetului general al Oraşului Buftea în anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/164.pdf",
+     "sha256": "bd0ec3f14a32c0f864eb8d221e04c0f268f92d372ca9357d7c42b5aaba310f0a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-165-2016",
    "path": "local/ilfov/buftea/2016/165",
    "short": "HCL Buftea nr. 165/2016",
@@ -44,6 +914,276 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2016/165.pdf",
      "sha256": "600915fa827aa3d75206bbe7bc0a524d88ade5c9d724253c746bc88bc5ac8fb3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-166-2016",
+   "path": "local/ilfov/buftea/2016/166",
+   "short": "HCL Buftea nr. 166/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 166/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/166.pdf",
+     "sha256": "ff4b55918efcec52a0cc607697663ad77e7e70e3eb9685d2b58c917a2923030f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-167-2016",
+   "path": "local/ilfov/buftea/2016/167",
+   "short": "HCL Buftea nr. 167/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 167/2016 privind aprobarea planului de analiză şi acoperire a riscurilor la nivelul oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/167.pdf",
+     "sha256": "ce96cb29f7493444ddb24b178bb16f132690e1128d64e0fe7b22528e1798873b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-168-2016",
+   "path": "local/ilfov/buftea/2016/168",
+   "short": "HCL Buftea nr. 168/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 168/2016 privind atribuirea de denumiri de străzi în oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/168.pdf",
+     "sha256": "88c9b1da5fefdd4dadf2eeac8ee8e13f751850c378fb45f06aa80790386ee168"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-169-2016",
+   "path": "local/ilfov/buftea/2016/169",
+   "short": "HCL Buftea nr. 169/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 169/2016 privind completarea inventarului bunurilor care aparţin domeniului public al unităţii administrativ – teritoriale Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-12-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/169.pdf",
+     "sha256": "15377ebc56fc073448ebb48f936f924c2b894fe06841cf01aab232f557b99421"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-17-2016",
+   "path": "local/ilfov/buftea/2016/17",
+   "short": "HCL Buftea nr. 17/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 17/2016 privind încheierea parteneriatului între Consiliul Local al oraşului Buftea, Şcoala Gimnazială nr.1 Buftea şi Centrul Şcolar pentru Educaţie lncluzivă Periş",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/17.pdf",
+     "sha256": "20d44abb4ca96482a884eb2f300d7849e97a91bca4d023e2ea5e1fe0f9506c9f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-18-2016",
+   "path": "local/ilfov/buftea/2016/18",
+   "short": "HCL Buftea nr. 18/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 18/2016 privind aprobarea parteneriatului între Consiliul local al oraşului Buftea, prin Direcţia Asistenţă Socială şi Asociaţia „S.O.S",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/18.pdf",
+     "sha256": "5ac33fdce099fe8ce58f5ef64c9dca26a5ecb3f8854dee171cba44e3b2283c17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-19-2016",
+   "path": "local/ilfov/buftea/2016/19",
+   "short": "HCL Buftea nr. 19/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 19/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 şi Grădiniţa “Căsuţa Copilăriei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/19.pdf",
+     "sha256": "6aa0ea8a357c1a146da0843275ba60d51539f290ee764b97b14ce07646b2870c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-2-2016",
+   "path": "local/ilfov/buftea/2016/2",
+   "short": "HCL Buftea nr. 2/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 2/2016 privind aprobarea documentaţiei de urbanism Plan Urbanistic de Detaliu în oraşul Buftea, strada Răsăritului, nr. 94, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/2.pdf",
+     "sha256": "081ee3f1635167275571d6d27684d6b5d9b200a448374471515ae274a1139680"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-20-2016",
+   "path": "local/ilfov/buftea/2016/20",
+   "short": "HCL Buftea nr. 20/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 20/2016 privind modificarea componenţei comisiei de licitaţie pentru închirierea bunurilor imobile terenuri şi construcţii, proprietate publică şi privată a oraşului Buftea, aflate în administrarea Consiliului Local al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/20.pdf",
+     "sha256": "b112a2495c6fad4bb5ae711c4aa85d24d6b94865dac961fd4a90cee3ad0696c5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-21-2016",
+   "path": "local/ilfov/buftea/2016/21",
+   "short": "HCL Buftea nr. 21/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 21/2016 privind modificarea Regulamentului pentru stabilirea metodologiei de soluţionare a cererilor şi repartizare a terenurilor atribuite în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-02-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/21.pdf",
+     "sha256": "3fd037f03f30864175421648220d7ddcf55c61513822de7abf603a52b41d5e14"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-22-2016",
+   "path": "local/ilfov/buftea/2016/22",
+   "short": "HCL Buftea nr. 22/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 22/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/22.pdf",
+     "sha256": "8784d1e0c9a97ac765d6f3a90d538a046ccaa9a4ac1ef54265e313289cdc27b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-24-2016",
+   "path": "local/ilfov/buftea/2016/24",
+   "short": "HCL Buftea nr. 24/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 24/2016 privind aprobarea decontarii cheltuielilor aferente navetei cadrelor didactice care isi desfasoara activitatea la Scoala Gimnaziala nr. 2 din orasul Buftea pentru perioada decembrie 2015 – ianuarie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/24.pdf",
+     "sha256": "a915c3b086a80da4a9ff687ca8f29a62e173dc8fc8882c883708b0a65261d696"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-25-2016",
+   "path": "local/ilfov/buftea/2016/25",
+   "short": "HCL Buftea nr. 25/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 25/2016 privind achizitionarea serviciilor de consultanta, asistenta si reprezentare juridica in fata instantelor de judecata in dosarul nr. 2251.1/284/2009",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/25.pdf",
+     "sha256": "044e2e44b94c6bca8ee6be88955dad60f401035b2fdafa734f377e6dfa52599c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-26-2016",
+   "path": "local/ilfov/buftea/2016/26",
+   "short": "HCL Buftea nr. 26/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 26/2016 privind incheierea conventiei de colaborare intre Orasul Buftea – Consiliul local si Societatea Nationala de Cruce Rosie din Romania – Filiala judetului llfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/26.pdf",
+     "sha256": "145c01dd8c68b7ee80187e24372f718e4c87b720c5b26d789862a6f2587f7767"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-27-2016",
+   "path": "local/ilfov/buftea/2016/27",
+   "short": "HCL Buftea nr. 27/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 27/2016 privind incheierea unui protocol intre Orasul Buftea si Asociatia Columbofila Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/27.pdf",
+     "sha256": "26640164dc6344d3b8a9c003273a4a96b0614f3afaba0b0800c8cffcd4004dc4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-28-2016",
+   "path": "local/ilfov/buftea/2016/28",
+   "short": "HCL Buftea nr. 28/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 28/2016 privind prelungirea protocolului de colaborare incheiat intre Consiliul local al orasului Buftea si Baroul llfov potrivit Hotararii Consiliului local Buftea nr. 8/2013",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/28.pdf",
+     "sha256": "07a04c48766c92c6ef8656b451389b2a3ed0503294d9abb7d4eae95f1ba59e07"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-29-2016",
+   "path": "local/ilfov/buftea/2016/29",
+   "short": "HCL Buftea nr. 29/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 29/2016 privind aprobarea rectificarii bugetului general al Orasului Buftea pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-03-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/29.pdf",
+     "sha256": "f7b83023615af478f10445b4f46bc46fd9856a5be9622483f69d2f3443fe84ba"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-3-2016",
+   "path": "local/ilfov/buftea/2016/3",
+   "short": "HCL Buftea nr. 3/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 3/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/3.pdf",
+     "sha256": "1dfff65061fd873b015f52a5d476a9c24ef6b662cf5eb21554274465caeaee65"
     }
    ]
   },
@@ -78,6 +1218,186 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-32-2016",
+   "path": "local/ilfov/buftea/2016/32",
+   "short": "HCL Buftea nr. 32/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 32/2016 privind aprobarea retelei şcolare a unitătilor de învătământ de stat din oraşul Buftea, pentru anul şcolar 2016 – 2017",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/32.pdf",
+     "sha256": "4a304954bdb3445d6707bb2dd82ad0d88b524253e2e222cbdcfd3e863896dd08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-33-2016",
+   "path": "local/ilfov/buftea/2016/33",
+   "short": "HCL Buftea nr. 33/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 33/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic “Barbu A. Ştirbei” din oraşul Buftea, pentru luna februarie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/33.pdf",
+     "sha256": "f3bd94483d3c90ed7703881340ae5570fc7c94610eb980260a185f4593b9ee65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-34-2016",
+   "path": "local/ilfov/buftea/2016/34",
+   "short": "HCL Buftea nr. 34/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 34/2016 privind alocarea unor sume de bani din bugetul local pe anul 2016, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/34.pdf",
+     "sha256": "dc2c37dc56d94a52ee66f68c778ba0503ab903193ed58d350db78f032cc1bab6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-35-2016",
+   "path": "local/ilfov/buftea/2016/35",
+   "short": "HCL Buftea nr. 35/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 35/2016 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pentru anul 2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/35.pdf",
+     "sha256": "1d3694344ce06ab7860452f6afc804f16840f6df617f1c65523ed4b994e2562e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-36-2016",
+   "path": "local/ilfov/buftea/2016/36",
+   "short": "HCL Buftea nr. 36/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 36/2016 privind acceptarea ofertei de donaţie depusă de S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/36.pdf",
+     "sha256": "aa80ee94ced7ac1114df33b00e2722a33888efe9cb62de6c78d99fff681d267f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-37-2016",
+   "path": "local/ilfov/buftea/2016/37",
+   "short": "HCL Buftea nr. 37/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 37/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/37.pdf",
+     "sha256": "5ced4e7e1e11a705c9c1315853e63ffdf8ded1cac7a03d021d73c462e1e8a65f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-39-2016",
+   "path": "local/ilfov/buftea/2016/39",
+   "short": "HCL Buftea nr. 39/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 39/2016 privind aprobarea rectificării suprafeţei unui imobil teren aparţinând domeniului privat al oraşului Buftea, situat în Strada Ştirbei Vodă, nr. cadastral 50960",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/39.pdf",
+     "sha256": "5c7d39f6973946f6616c3cc3e0bd4ef7b227443baee60e94c807a70494842150"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-4-2016",
+   "path": "local/ilfov/buftea/2016/4",
+   "short": "HCL Buftea nr. 4/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 4/2016 pentru modificarea şi completarea Hotărârii consiliului local nr. 147 /27.11.2015 privind completarea inventarului bunurilor care aparţin domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/4.pdf",
+     "sha256": "f476b4b73b59965153cf6c9156a53283ef6e9a0069f206563154b43ac21dfe7e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-40-2016",
+   "path": "local/ilfov/buftea/2016/40",
+   "short": "HCL Buftea nr. 40/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 40/2016 privind aprobarea bugetului de venituri şi cheltuieli al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/40.pdf",
+     "sha256": "a1cbfeba07f8dda51e2c56a3c35b8ada5bcf79bb2fa50853039128225b7dc243"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-41-2016",
+   "path": "local/ilfov/buftea/2016/41",
+   "short": "HCL Buftea nr. 41/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 41/2016 privind aprobarea cuantumului şi a numărului de burse acordate elevilor din învătământul preuniversitar de stat din oraşul Buftea, pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/41.pdf",
+     "sha256": "37b9a77685e2b1c621f1d006834f04d7cfa0070db718a0ddc24845a2204dd1e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-42-2016",
+   "path": "local/ilfov/buftea/2016/42",
+   "short": "HCL Buftea nr. 42/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 42/2016 privind încheierea unui acord de colaborare între Oraşul Buftea, prin Centrul Cultural Buftea şi Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/42.pdf",
+     "sha256": "fd265bacc1ee98ae3db69de1ecfdc49d2f10eccf54d9de5efa29b4531e119625"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-43-2016",
+   "path": "local/ilfov/buftea/2016/43",
+   "short": "HCL Buftea nr. 43/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 43/2016 privind aprobarea rezultatului final al evaluării anuale a managementului Centrului Cultural Buftea pentru activitatea desfăşurată în anul 2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-04-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/43.pdf",
+     "sha256": "df8603be19f9c8c92eac0b91a8402543d2a8b7a6638dd49ab3c0f8d1204d34a2"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-44-2016",
    "path": "local/ilfov/buftea/2016/44",
    "short": "HCL Buftea nr. 44/2016",
@@ -89,6 +1409,81 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2016/44.pdf",
      "sha256": "41a8b922e5a42d344f3bf2213321505578a6ea64157b75486989b352bacd8af8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-45-2016",
+   "path": "local/ilfov/buftea/2016/45",
+   "short": "HCL Buftea nr. 45/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 45/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic “Barbu A. Ştirbei” din oraşul Buftea, pentru luna martie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/45.pdf",
+     "sha256": "cbc1232517e2fd609f3403df61c32d0f037c9431e9cb8489e02532f8ffb3d259"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-46-2016",
+   "path": "local/ilfov/buftea/2016/46",
+   "short": "HCL Buftea nr. 46/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 46/2016 privind decontarea cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 şi structurile arondate acesteia şi Grădiniţa “Căsuţa Copilăriei” din oraşul Buftea, pentru perioada ianuarie – aprilie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/46.pdf",
+     "sha256": "1f434feca6ee3b12aabf106cc1826e68a4c9a595c3aec899473eb004ebb65af9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-47-2016",
+   "path": "local/ilfov/buftea/2016/47",
+   "short": "HCL Buftea nr. 47/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 47/2016 pentru modificarea Hotărârii Consiliului local nr. 41/28.04.2016 privind aprobarea cuantumului şi a numărului de burse acordate elevilor din învăţământul preuniversitar de stat din oraşul Buftea, pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/47.pdf",
+     "sha256": "7564f594ba2fa5a837bc63685974cb4690340cc7e92365878c189bbf64968d47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-48-2016",
+   "path": "local/ilfov/buftea/2016/48",
+   "short": "HCL Buftea nr. 48/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 48/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/48.pdf",
+     "sha256": "be8f67b29d6b9ff23c808415b9b49ca1b07db7769b2b567c8e588bbd6235f555"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-49-2016",
+   "path": "local/ilfov/buftea/2016/49",
+   "short": "HCL Buftea nr. 49/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 49/2016 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul I 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/49.pdf",
+     "sha256": "223f631be1cfb7e9d9d3b7157a6320484e0af4966bf4b11186fa6dc88ed5a1cc"
     }
    ]
   },
@@ -108,6 +1503,366 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-51-2016",
+   "path": "local/ilfov/buftea/2016/51",
+   "short": "HCL Buftea nr. 51/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 51/2016 privind situaţiile financiare anuale ale S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/51.pdf",
+     "sha256": "09a030f24707afb400ccd57c2e4374d09494dda3c823cc13328c765671894f1e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-52-2016",
+   "path": "local/ilfov/buftea/2016/52",
+   "short": "HCL Buftea nr. 52/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 52/2016 privind aprobarea prelungirii contractului de transport public nr. 8699/ 3269 /C/ 02.07.2013, încheiat între Regia Autonomă de Transport Bucureşti şi oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/52.pdf",
+     "sha256": "0964d7e2d58dea3d6cc04e8d3d708848919423c8e4807d1d2f9cf4fcfd28a1a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-53-2016",
+   "path": "local/ilfov/buftea/2016/53",
+   "short": "HCL Buftea nr. 53/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 53/2016 privind completarea inventarului bunurilor care aparţin domeniului public al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/53.pdf",
+     "sha256": "91d7e9ba0bdaa85eb3e7befdf8bb8706522c439f6207b6cca4112a202e55438e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-54-2016",
+   "path": "local/ilfov/buftea/2016/54",
+   "short": "HCL Buftea nr. 54/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 54/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea pentru perioada februarie 2016 – aprilie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-05-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/54.pdf",
+     "sha256": "2d2046fa89379f7da006d23398cd34729585accd3253c02155a94b515cf0b6e0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-55-2016",
+   "path": "local/ilfov/buftea/2016/55",
+   "short": "HCL Buftea nr. 55/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 55/2016 privind alegerea comisiei de validare a mandatelor de consilieri în cadrul Consiliului Local al orasului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/55.pdf",
+     "sha256": "38b6913447d57488f0ee31157f6decf2500c31c0266c1043b7c990e25e55495f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-56-2016",
+   "path": "local/ilfov/buftea/2016/56",
+   "short": "HCL Buftea nr. 56/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 56/2016 privind validarea mandatelor consilierilor locali ai oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/56.pdf",
+     "sha256": "002f3b623330c0fcef16b32038f3be951f15c27af02d966c4b13e4d53e97fe08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-57-2016",
+   "path": "local/ilfov/buftea/2016/57",
+   "short": "HCL Buftea nr. 57/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 57/2016 privind declararea Consiliului local al oraşului Buftea ca legal constituit",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/57.pdf",
+     "sha256": "2d8b4f1aa8a57f0a55002ab6d69ccd3b0e9559856e3dc34a0c990c5a133077a1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-58-2016",
+   "path": "local/ilfov/buftea/2016/58",
+   "short": "HCL Buftea nr. 58/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 58/2016 privind alegerea preşedintelui de şedinţă",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/58.pdf",
+     "sha256": "076241144134e8eb36d2f7ee11166ef273776aa705bd100ea88ecbf1c19ab788"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-59-2016",
+   "path": "local/ilfov/buftea/2016/59",
+   "short": "HCL Buftea nr. 59/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 59/2016 privind alegerea viceprimarului oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/59.pdf",
+     "sha256": "626c9f16eba87ad13cdba879a5674540ae0375e884fe1b4076028068968f91d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-6-2016",
+   "path": "local/ilfov/buftea/2016/6",
+   "short": "HCL Buftea nr. 6/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 6/2016 privind modificarea componenţei comisiei speciale pentru întocmirea inventarului bunurilor care alcătuiesc domeniul public al oraşului Buftea, stabilită prin Hotărârea Consiliului local Buftea nr. 65/31.05.2013",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/6.pdf",
+     "sha256": "14e304ff5b30d96aa63a46f58726e7f7b744277f52e042b5105e2c21fa48608c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-60-2016",
+   "path": "local/ilfov/buftea/2016/60",
+   "short": "HCL Buftea nr. 60/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 60/2016 privind organizarea comisiilor de specialitate ale Consiliului local al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-06-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/60.pdf",
+     "sha256": "1c383e748841684d07f030e1ff6bcafb3d78d0e479e22a88085ce6724016a734"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-61-2016",
+   "path": "local/ilfov/buftea/2016/61",
+   "short": "HCL Buftea nr. 61/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 61/2016 privind aprobarea Regulamentului de organizare şi funcţionare al Consiliului Local al orasului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/61.pdf",
+     "sha256": "3da99cf91b617526c9a69adecc343092943aeb4aa5b2288337f4bd9443b7f1c2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-62-2016",
+   "path": "local/ilfov/buftea/2016/62",
+   "short": "HCL Buftea nr. 62/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 62/2016 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul lI 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/62.pdf",
+     "sha256": "b3c5bcf2ef149d10779fae171380bebb61037bc6f72a17babef5d46dfabb2cfe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-63-2016",
+   "path": "local/ilfov/buftea/2016/63",
+   "short": "HCL Buftea nr. 63/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 63/2016 privind rectificarea bugetului general al Oraşului Buftea pentru anul 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/63.pdf",
+     "sha256": "a0fa52aa418de725be24e55c01755b64a24d86c89ee27f5d1745ba174bee76f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-64-2016",
+   "path": "local/ilfov/buftea/2016/64",
+   "short": "HCL Buftea nr. 64/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 64/2016 privind desemnarea reprezentanţilor Consiliului Local al oraşului Buftea în Consiliile de Administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii în educaţie, în cadrul unităţilor de învăţământ preuniversitar de stat şi particular din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/64.pdf",
+     "sha256": "172a1dc0b22d5b85b4c2c70f35b0015316421059d8a7ed5be9a442a4ff72930d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-65-2016",
+   "path": "local/ilfov/buftea/2016/65",
+   "short": "HCL Buftea nr. 65/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 65/2016 privind modificarea componenţei nominale a comisiei de analiză a cererilor precum şi a comisiei de analiză a contestaţiilor pentru cererile depuse în baza Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personală",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/65.pdf",
+     "sha256": "b50757ac0b177e52c55250f07f392f63600238189c1f59e8cfebbe8c60e9f29f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-66-2016",
+   "path": "local/ilfov/buftea/2016/66",
+   "short": "HCL Buftea nr. 66/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 66/2016 privind modificarea componenţei comisiei pentru atestarea administratorilor de imobile existente pe raza administrativ teritorială a oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/66.pdf",
+     "sha256": "d6252752c2250144263a397d74485189399e54babdc3929f93723ea945434d69"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-67-2016",
+   "path": "local/ilfov/buftea/2016/67",
+   "short": "HCL Buftea nr. 67/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 67/2016 privind modificarea componenţei comisiei sociale pentru analiza solicitărilor privind repartizarea de locuinţe pentru tineri, destinate închirierii, realizate în cadrul programului de construcţii de locuinţe derulate prin Agenţia Naţională pentru Locuinţe şi a comp",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/67.pdf",
+     "sha256": "8c78225a3db0b54bef9c968db8e75df179ff9ecb5d97d7e512ae8e54096df2c3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-68-2016",
+   "path": "local/ilfov/buftea/2016/68",
+   "short": "HCL Buftea nr. 68/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 68/2016 privind actualizarea componenţei Grupului de lucru local pentru incluziunea cetăţenilor români aparţinând minorităţii rome, la nivelul oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/68.pdf",
+     "sha256": "ce14221ee003545f7a2cb00339a12c8f65df836fd9daf5a35cb0f65b494105aa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-69-2016",
+   "path": "local/ilfov/buftea/2016/69",
+   "short": "HCL Buftea nr. 69/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 69/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic “Barbu A. Ştirbei” din oraşul Buftea, pentru perioada aprilie – mai 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/69.pdf",
+     "sha256": "d2cfbca8d60dabaecd18601f8a2db08a67431f29990a592c6e81b8c99bb3f08d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-7-2016",
+   "path": "local/ilfov/buftea/2016/7",
+   "short": "HCL Buftea nr. 7/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 7/2016 privind aprobarea prelungirii duratei contractelor de închiriere pentru locuinţele construite prin Agenţia Naţională de Locuinţe, situate în oraşul Buftea strada Vlăsiei şi strada Oltului",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/7.pdf",
+     "sha256": "454a7a9d77184c7393ca783c6f04c0432931ccfe17824ca9116a71cc63d09f2c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-70-2016",
+   "path": "local/ilfov/buftea/2016/70",
+   "short": "HCL Buftea nr. 70/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 70/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/70.pdf",
+     "sha256": "9479104d9058afa3d903bfd829801e3831d72bff99b20560596d5b86f028fd0e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-71-2016",
+   "path": "local/ilfov/buftea/2016/71",
+   "short": "HCL Buftea nr. 71/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 71/2016 privind demararea procedurii de selecţie a candidaţilor în vederea completării membrilor Consiliului de administraţie al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/71.pdf",
+     "sha256": "7a8546cbdf771bbb31889cfc821b433e2ba577f4ee6a294772dd059dcddaeabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-72-2016",
+   "path": "local/ilfov/buftea/2016/72",
+   "short": "HCL Buftea nr. 72/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 72/2016 privind demararea procedurii de selecţie a candidaţilor în vederea completării membrilor Consiliului de administraţie al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/72.pdf",
+     "sha256": "0783d36b5a06e9b9becfe787651585972f2c5d6ab3150bc631fde7488c541da9"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-74-2016",
    "path": "local/ilfov/buftea/2016/74",
    "short": "HCL Buftea nr. 74/2016",
@@ -119,6 +1874,186 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2016/74.pdf",
      "sha256": "f246c2bc8c56b7310a765d9fdc1807ffb846c805e2e3b8d5e869e5c9ef3bc130"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-75-2016",
+   "path": "local/ilfov/buftea/2016/75",
+   "short": "HCL Buftea nr. 75/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 75/2016 privind acordarea autorizaţiei taxi nr. 055 transportatorului autorizat S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/75.pdf",
+     "sha256": "66dcdcf4422da38ed88eb3b5981ae9fbb4a0db380c707baa2bafc0fc18aaad0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-76-2016",
+   "path": "local/ilfov/buftea/2016/76",
+   "short": "HCL Buftea nr. 76/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 76/2016 privind acordarea autorizaţiilor taxi nr. 017, nr. 018, nr. 019, nr. 020, nr. 021, transportatorului autorizat S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/76.pdf",
+     "sha256": "165eaa3e30fdd6837b16178fea2716565b8ee9334131d768faf907c3cfe31faf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-77-2016",
+   "path": "local/ilfov/buftea/2016/77",
+   "short": "HCL Buftea nr. 77/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 77/2016 privind aprobarea participării consilierilor locali ai oraşului Buftea la cursuri de pregătire, formare şi perfecţionare profesională organizate de către instituţii specializate",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/77.pdf",
+     "sha256": "702e5956a28d7af4075b3fb27bfd0bd3f62ff5fa827e7b8204c453fc8e50f209"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-78-2016",
+   "path": "local/ilfov/buftea/2016/78",
+   "short": "HCL Buftea nr. 78/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 78/2016 privind încheierea unui protocol între Oraşul Buftea şi Asociaţia “Pegas Triatlon Club”",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/78.pdf",
+     "sha256": "7574ef79a271e60d6eed6a066992775c06d8f89e70306e2d6c6976bfc019926d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-79-2016",
+   "path": "local/ilfov/buftea/2016/79",
+   "short": "HCL Buftea nr. 79/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 79/2016 privind desemnarea reprezentantului unităţii administrativ teritoriale Buftea în Consiliul pentru Dezvoltare Regională Bucureşti – Ilfov, pentru perioada 2016 – 2020",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-07-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/79.pdf",
+     "sha256": "7aba221711fede2fc4da171b39a106750b4f89ccefe8919b83c76921f7f8e528"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-8-2016",
+   "path": "local/ilfov/buftea/2016/8",
+   "short": "HCL Buftea nr. 8/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 8/2016 privind acordarea unor facilităţi fiscale în conformitate cu art.12 din Ordonanţa de Urgenţă a Guvernului nr. 44/2015",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-01-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/8.pdf",
+     "sha256": "dd05b75d7f02b2003d1f2b396718c6a2160b880bd405bf492b9854e1979d63bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-80-2016",
+   "path": "local/ilfov/buftea/2016/80",
+   "short": "HCL Buftea nr. 80/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 80/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa “Căsuţa Copilăriei” din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/80.pdf",
+     "sha256": "39017734b0b233ea49bedc34a1cd77964dc51173b9c63f2666d64f6880a351d2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-81-2016",
+   "path": "local/ilfov/buftea/2016/81",
+   "short": "HCL Buftea nr. 81/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 81/2016 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea pentru perioada mai 2016 – iunie 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/81.pdf",
+     "sha256": "97dcfd918e65d9b29e53b2f9bf59eaa264543a3f93844b484831a15cd3c0b9c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-82-2016",
+   "path": "local/ilfov/buftea/2016/82",
+   "short": "HCL Buftea nr. 82/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 82/2016 privind însuşirea actului adiţional nr. 5 la contractul de transport public nr. 8699/ 3269 /C/ 02.07.2013, încheiat între Regia Autonomă de Transport Bucureşti şi oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/82.pdf",
+     "sha256": "3dc84eb865a16b1852c354ce4a4367cebb5a66a3d947c93575d1f129b930b20f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-83-2016",
+   "path": "local/ilfov/buftea/2016/83",
+   "short": "HCL Buftea nr. 83/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 83/2016 privind modificarea Hotărârii Consiliului Local nr. 44/13.12.1993, în sensul schimbării titularului dreptului de administrare a imobilului situat în judeţul Ilfov, oraşul Buftea, strada Eroilor, nr. 52",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/83.pdf",
+     "sha256": "cad573a87c73dc4851ad0349dc87f5ad32e63a9e671fa0c84524cb33677245ed"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-84-2016",
+   "path": "local/ilfov/buftea/2016/84",
+   "short": "HCL Buftea nr. 84/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 84/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/84.pdf",
+     "sha256": "ca0ea809c5dbd3e3c4d8ee92e472631e892a6e1d83995f56be2350713eee175d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-85-2016",
+   "path": "local/ilfov/buftea/2016/85",
+   "short": "HCL Buftea nr. 85/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 85/2016 privind aprobarea prelungirii contractului de asociere nr. 159/14.09.2012, încheiat între Consiliul Local al oraşului Buftea şi “Asociaţia Club Sportiv de Sănătate Voinţa Buftea”",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/85.pdf",
+     "sha256": "978039929fd62403f9c5b4f63c7db2f99768396dd72ccd911a66e90c236eaa18"
     }
    ]
   },
@@ -153,6 +2088,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-88-2016",
+   "path": "local/ilfov/buftea/2016/88",
+   "short": "HCL Buftea nr. 88/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 88/2016 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/88.pdf",
+     "sha256": "04d4341d93fcb253a23b15f795ad83dd3ea6443569b927585e0c35c5514a6d1d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-89-2016",
+   "path": "local/ilfov/buftea/2016/89",
+   "short": "HCL Buftea nr. 89/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 89/2016 privind modificarea reţelei şcolare a unităţilor de învăţământ de stat din oraşul Buftea, pentru anul şcolar 2016 – 2017, aprobată prin Hotărârea Consiliului Local nr. 32/28.04.2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/89.pdf",
+     "sha256": "1616996fa27caeb6928dd9d3921b2beec8ef76aa60f82fe8ab5395e9a20480fd"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-9-2016",
    "path": "local/ilfov/buftea/2016/9",
    "short": "HCL Buftea nr. 9/2016",
@@ -164,6 +2129,156 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2016/9.pdf",
      "sha256": "df22bf5a46f5fdb6d6191c5b8021c9ab9f7cdac061a8e5d9b78c11d21fee3e5f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-90-2016",
+   "path": "local/ilfov/buftea/2016/90",
+   "short": "HCL Buftea nr. 90/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 90/2016 privind desemnarea reprezentanţilor Consiliului Local Buftea în Consiliile de Administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii în educaţie, în cadrul unităţilor de învăţământ preuniversitar de stat şi particular din oraşul Buftea, pentru",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/90.pdf",
+     "sha256": "bcd9cd253c6bee15460b8c525bca6fc71da7e09861f5a1ca6260a4b99d5cd99f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-91-2016",
+   "path": "local/ilfov/buftea/2016/91",
+   "short": "HCL Buftea nr. 91/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 91/2016 privind modificarea componenţei nominale a comisiilor de specialitate ale Consiliului local al oraşului Buftea, stabilite prin Hotărârea nr. 60/23.06.2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/91.pdf",
+     "sha256": "abb704026f1c0d570b78d4dbf902b8a5b3e59862cf614fc968e05306815b175f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-92-2016",
+   "path": "local/ilfov/buftea/2016/92",
+   "short": "HCL Buftea nr. 92/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 92/2016 pentru aprobarea Raportului privind serviciile si activitatile de asistenta medicala comunitara derulate in orasul Buftea pe semestrul I al anului 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/92.pdf",
+     "sha256": "cb3e47a929765e94cc2fd082f96fea99d04ed30eea19eeaacc61621829ccb547"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-93-2016",
+   "path": "local/ilfov/buftea/2016/93",
+   "short": "HCL Buftea nr. 93/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 93/2016 privind aprobarea Raportului pentru activitatea desfasurata de asistentii personali ai persoanelor cu handicap grav din orasul Buftea, pentru semestrul I al anului 2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/93.pdf",
+     "sha256": "b123196f2972c09ba219df29dbaabd36535fe8482225251f1a630572e789e3c4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-94-2016",
+   "path": "local/ilfov/buftea/2016/94",
+   "short": "HCL Buftea nr. 94/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 94/2016",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/94.pdf",
+     "sha256": "775914e2e29fe204252f43366750ba4b374cc4554e2f9cbb67dd9c0d27634c13"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-95-2016",
+   "path": "local/ilfov/buftea/2016/95",
+   "short": "HCL Buftea nr. 95/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 95/2016 privind aprobarea unui schimb de locuinte destinate inchirierii",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/95.pdf",
+     "sha256": "2ea43effeab5481f8b3098912097f3bc9868447df3126b3203b905f96cdb8e30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-96-2016",
+   "path": "local/ilfov/buftea/2016/96",
+   "short": "HCL Buftea nr. 96/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 96/2016 privind aprobarea alipirii unor suprafete de teren situate in orasul Buftea, strada Stirbei Voda, nr. 53 A, judetul llfov",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/96.pdf",
+     "sha256": "a55563138d9b99ad0509b197745067d7cadb9abd0606c543e82c889af9e080a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-97-2016",
+   "path": "local/ilfov/buftea/2016/97",
+   "short": "HCL Buftea nr. 97/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 97/2016 privind acceptarea ofertei de donaţie a imobilului – teren în suprafaţă de 659,52 mp (664 mp conform măsurătorilor cadastrale), situat în oraşul Buftea, Aleea cu Brazi, cvartal 31, parcela 2400, judeţ Ilfov, nr. cadastral 58776, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/97.pdf",
+     "sha256": "2e82d0997e16f227f9a037e4fb77457a3821f944dd6ded2f1ac1c12daaf279f2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-98-2016",
+   "path": "local/ilfov/buftea/2016/98",
+   "short": "HCL Buftea nr. 98/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 98/2016 privind acceptarea ofertei de donaţie a imobilului – teren în suprafaţă de 11.109 mp, situat în oraşul Buftea, T4, P 31/3, nr. cadastral 58702, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/98.pdf",
+     "sha256": "ea60f139bd81ee6725a7b89c21954be1c8c2ca6b1aa92ebb9cf679d7dd350a83"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-99-2016",
+   "path": "local/ilfov/buftea/2016/99",
+   "short": "HCL Buftea nr. 99/2016",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 99/2016 privind actualizarea Regulamentului de organizare şi funcţionare al cimitirului orăşenesc Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-2016/",
+   "versions": [
+    {
+     "from": "2016-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2016/99.pdf",
+     "sha256": "ac6f8a6ac11f1ca28e5f0d164e803217d8ca68936c3a4376701ca998e7330958"
     }
    ]
   }

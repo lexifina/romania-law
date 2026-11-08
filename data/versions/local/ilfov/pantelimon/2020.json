@@ -1,0 +1,66 @@
+{
+ "country": "RO",
+ "shard": "local/ilfov/pantelimon/2020",
+ "acts": [
+  {
+   "slug": "hcl-ilfov--pantelimon-1-2020",
+   "path": "local/ilfov/pantelimon/2020/1",
+   "short": "HCL Pantelimon nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 1/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+   "url": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-12",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/HOTARAREA-NR-1-CLSU-PANTELIMON-2020271.pdf",
+     "sha256": "3896f229b2179a567ab840eee14f6235707ba09d3d67743b328c4ede343eadb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-102-2020",
+   "path": "local/ilfov/pantelimon/2020/102",
+   "short": "HCL Pantelimon nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 102/2020",
+   "url": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+   "versions": [
+    {
+     "from": "2020-05-18",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/HCL-nr.-102-din-18.05.2020-1.pdf",
+     "sha256": "3238bf74205aa41bc61d9e41b00a515248b45bf066d2ade88a3bd03d707dcfb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-2-2020",
+   "path": "local/ilfov/pantelimon/2020/2",
+   "short": "HCL Pantelimon nr. 2/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 2/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+   "url": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-20",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/HOTARAREA-NR-2-CLSU-PANTELIMON-2020-COVID-19251-2.pdf",
+     "sha256": "e8227e824ff5a5f8544ba31fcbe1cf0d90b0e87bae9a437360ea65d1ecb95bf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--pantelimon-3-2020",
+   "path": "local/ilfov/pantelimon/2020/3",
+   "short": "HCL Pantelimon nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 3/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+   "url": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+   "versions": [
+    {
+     "from": "2020-03-24",
+     "units": 1,
+     "source_url": "https://www.primariapantelimon.ro/assets/media0405/HOTARAREA-NR-3-CLSU-PANTELIMON-2020272.pdf",
+     "sha256": "92ba263d762bc31541dcf25737e072e3fc0dca44b406336ccca2117f4f3fb04d"
+    }
+   ]
+  }
+ ]
+}

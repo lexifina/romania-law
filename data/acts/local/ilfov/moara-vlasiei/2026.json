@@ -135,6 +135,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-7-2026",
+"path": "local/ilfov/moara-vlasiei/2026/7",
+"kind": "local",
+"year": "2026",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 7/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 7/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-23",
+"latest": "2026-02-23",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/253760",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-8-2026",
 "path": "local/ilfov/moara-vlasiei/2026/8",
 "kind": "local",
@@ -269,6 +291,51 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-14-2026",
+"path": "local/ilfov/moara-vlasiei/2026/14",
+"kind": "local",
+"year": "2026",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 14/2026",
+"short": "HCL Moara Vlăsiei nr. 14/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/257049",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-15-2026",
+"path": "local/ilfov/moara-vlasiei/2026/15",
+"kind": "local",
+"year": "2026",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 15/2026 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( martie, aprilie,mai 2026)",
+"short": "HCL Moara Vlăsiei nr. 15/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-14",
+"latest": "2026-07-14",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/257050",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-16-2026",
 "path": "local/ilfov/moara-vlasiei/2026/16",
 "kind": "local",
@@ -291,6 +358,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-17-2026",
+"path": "local/ilfov/moara-vlasiei/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 17/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/261971",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-18-2026",
 "path": "local/ilfov/moara-vlasiei/2026/18",
 "kind": "local",
@@ -310,6 +399,29 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-19-2026",
+"path": "local/ilfov/moara-vlasiei/2026/19",
+"kind": "local",
+"year": "2026",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 19/2026",
+"short": "HCL Moara Vlăsiei nr. 19/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-22",
+"latest": "2026-04-22",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/261973",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -424,6 +536,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-25-2026",
+"path": "local/ilfov/moara-vlasiei/2026/25",
+"kind": "local",
+"year": "2026",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 25/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 25/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/265884",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-26-2026",
 "path": "local/ilfov/moara-vlasiei/2026/26",
 "kind": "local",
@@ -443,6 +577,29 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-27-2026",
+"path": "local/ilfov/moara-vlasiei/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 27/2026",
+"short": "HCL Moara Vlăsiei nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-05-21",
+"latest": "2026-05-21",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/265886",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -490,6 +647,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-30-2026",
+"path": "local/ilfov/moara-vlasiei/2026/30",
+"kind": "local",
+"year": "2026",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 30/2026 privind atestarea la domeniul privat al Unității Administrativ-Teritoriale Comuna Moara Vlăsiei a unor suprafete de teren situate in intravilanul/extravilanul Comunei Moara Vlăsiei, Judetul Ilfov",
+"short": "HCL Moara Vlăsiei nr. 30/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/271485",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-31-2026",
+"path": "local/ilfov/moara-vlasiei/2026/31",
+"kind": "local",
+"year": "2026",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 31/2026 privind alegerea presedintelui de sedinta pentru următoarele 3 luni ( iunie, iulie,august 2026)",
+"short": "HCL Moara Vlăsiei nr. 31/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-06-21",
+"latest": "2026-06-21",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/271486",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-32-2026",
 "path": "local/ilfov/moara-vlasiei/2026/32",
 "kind": "local",
@@ -531,6 +732,28 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-34-2026",
+"path": "local/ilfov/moara-vlasiei/2026/34",
+"kind": "local",
+"year": "2026",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 34/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 34/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/278117",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -600,6 +823,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--moara-vlasiei-38-2026",
+"path": "local/ilfov/moara-vlasiei/2026/38",
+"kind": "local",
+"year": "2026",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 38/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 38/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/282014",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--moara-vlasiei-39-2026",
 "path": "local/ilfov/moara-vlasiei/2026/39",
 "kind": "local",
@@ -619,6 +864,50 @@
 "council_name": "Consiliul Local al Comunei Moara Vlăsiei",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-40-2026",
+"path": "local/ilfov/moara-vlasiei/2026/40",
+"kind": "local",
+"year": "2026",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 40/2026 privind alocarea de la bugetul local al comunei Moara Vlăsiei a unui sprijin financiar pentru ASOCIATIA CLUB SPORTIV VIITORUL MOARA VLASIEI din comuna Moara Vlăsiei, judetul Ilfov",
+"short": "HCL Moara Vlăsiei nr. 40/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/282016",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-41-2026",
+"path": "local/ilfov/moara-vlasiei/2026/41",
+"kind": "local",
+"year": "2026",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 41/2026 privind alocarea de la bugetul local al comunei Moara Vlăsiei a unui sprijin financiar pentru Asociatia Centrul Educational Moara Vlasiei în vederea finanţarii programelor scolare desfăşurate de catre aceasta in anul 2026",
+"short": "HCL Moara Vlăsiei nr. 41/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-08-19",
+"latest": "2026-08-19",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/282017",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -642,6 +931,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--moara-vlasiei-43-2026",
+"path": "local/ilfov/moara-vlasiei/2026/43",
+"kind": "local",
+"year": "2026",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Moara Vlăsiei nr. 43/2026 privind atribuirea unui teren în condiţiile Legii 15/ 2003 în vederea construirii de locuinţa proprietate personală",
+"short": "HCL Moara Vlăsiei nr. 43/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-09-15",
+"latest": "2026-09-15",
+"portal": "https://emol.ro/moaravlasiei-if/registru-hcl/284111",
+"council": "ilfov/moara-vlasiei",
+"council_name": "Consiliul Local al Comunei Moara Vlăsiei",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

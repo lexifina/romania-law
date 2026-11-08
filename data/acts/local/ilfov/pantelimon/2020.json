@@ -1,0 +1,94 @@
+{
+"country": "RO",
+"shard": "local/ilfov/pantelimon/2020",
+"acts": [
+{
+"slug": "hcl-ilfov--pantelimon-1-2020",
+"path": "local/ilfov/pantelimon/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 1/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+"short": "HCL Pantelimon nr. 1/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-12",
+"latest": "2020-03-12",
+"portal": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--pantelimon-2-2020",
+"path": "local/ilfov/pantelimon/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 2/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+"short": "HCL Pantelimon nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--pantelimon-3-2020",
+"path": "local/ilfov/pantelimon/2020/3",
+"kind": "local",
+"year": "2020",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 3/2020 PENTRU SITUAȚII DE URGENȚĂ HOTĂRÂREA NR. 1 / 12.03.2020 HOTĂRÂREA NR. 2 / 20.03.2020 HOTĂRÂREA NR.3 / 24.03.2020",
+"short": "HCL Pantelimon nr. 3/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-24",
+"latest": "2020-03-24",
+"portal": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--pantelimon-102-2020",
+"path": "local/ilfov/pantelimon/2020/102",
+"kind": "local",
+"year": "2020",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Pantelimon nr. 102/2020",
+"short": "HCL Pantelimon nr. 102/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-05-18",
+"latest": "2020-05-18",
+"portal": "https://www.primariapantelimon.ro/hotarari-2020-2/",
+"council": "ilfov/pantelimon",
+"council_name": "Consiliul Local al Orașului Pantelimon",
+"flags": {
+"metadata_only": "individual"
+}
+}
+]
+}

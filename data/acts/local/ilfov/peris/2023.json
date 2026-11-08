@@ -3,6 +3,29 @@
 "shard": "local/ilfov/peris/2023",
 "acts": [
 {
+"slug": "hcl-ilfov--peris-1-2023",
+"path": "local/ilfov/peris/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 1/2023",
+"short": "HCL Periș nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/peris-if/registru-hcl/86191",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--peris-2-2023",
 "path": "local/ilfov/peris/2023/2",
 "kind": "local",
@@ -66,6 +89,29 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-5-2023",
+"path": "local/ilfov/peris/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 5/2023",
+"short": "HCL Periș nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-10",
+"latest": "2023-01-10",
+"portal": "https://emol.ro/peris-if/registru-hcl/86195",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -445,6 +491,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-23-2023",
+"path": "local/ilfov/peris/2023/23",
+"kind": "local",
+"year": "2023",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 23/2023 privind aprobarea concesionării prin licitaţie publică, în condiţiile legii, a terenului situat în intravilanul, aparţinând domeniului privat al comunei Peris, judeţul Ilfov, cu nr.cadastral 60213, având suprafaţa măsurată de 586 mp",
+"short": "HCL Periș nr. 23/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-02",
+"latest": "2023-02-02",
+"portal": "https://emol.ro/peris-if/registru-hcl/90286",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-24-2023",
 "path": "local/ilfov/peris/2023/24",
 "kind": "local",
@@ -754,6 +822,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-38-2023",
+"path": "local/ilfov/peris/2023/38",
+"kind": "local",
+"year": "2023",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 38/2023 privind necesitatea și oportunitatea aprobării extinderii rețelei electrice de distribuție cât și a planului cadastral cu lotizarea terenurilor din str.Potcoavei (DE 824/12 partial,DE 828,De 828/1 în suprafața de 2034 mp)",
+"short": "HCL Periș nr. 38/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-03-22",
+"latest": "2023-03-22",
+"portal": "https://emol.ro/peris-if/registru-hcl/97703",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-39-2023",
 "path": "local/ilfov/peris/2023/39",
 "kind": "local",
@@ -795,6 +885,29 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--peris-41-2023",
+"path": "local/ilfov/peris/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 41/2023",
+"short": "HCL Periș nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-07",
+"latest": "2023-04-07",
+"portal": "https://emol.ro/peris-if/registru-hcl/100044",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -884,6 +997,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-46-2023",
+"path": "local/ilfov/peris/2023/46",
+"kind": "local",
+"year": "2023",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 46/2023 privind completarea inventarului bunurilor care fac parte din domeniul public al comunei Periș, județul Ilfov,cu terenul situat în comuna Periș, sat Periș, în Tarla 153, parcela 635/8, având o lungime de 235 m, cu o lățime variabilă de la 1,5 m la 3,9 m și atribuirea denumirii: Aleea Lalelelor",
+"short": "HCL Periș nr. 46/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-10",
+"latest": "2023-04-10",
+"portal": "https://emol.ro/peris-if/registru-hcl/104063",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1086,6 +1221,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-56-2023",
+"path": "local/ilfov/peris/2023/56",
+"kind": "local",
+"year": "2023",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 56/2023 Privind aprobarea organigramei, a statului de functii si a numarului de personal pentru Aparatul de specialitate al Primarului comunei Periș",
+"short": "HCL Periș nr. 56/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-04-27",
+"latest": "2023-04-27",
+"portal": "https://emol.ro/peris-if/registru-hcl/104796",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-57-2023",
 "path": "local/ilfov/peris/2023/57",
 "kind": "local",
@@ -1127,6 +1284,29 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-59-2023",
+"path": "local/ilfov/peris/2023/59",
+"kind": "local",
+"year": "2023",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 59/2023",
+"short": "HCL Periș nr. 59/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://emol.ro/peris-if/registru-hcl/110457",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1193,6 +1373,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-63-2023",
+"path": "local/ilfov/peris/2023/63",
+"kind": "local",
+"year": "2023",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 63/2023 privind aprobarea programului şi bugetului aferente organizării evenimentului „Ziua copilului - 1 iunie” 2023, în comuna Periș, județul Ilfov",
+"short": "HCL Periș nr. 63/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-05-24",
+"latest": "2023-05-24",
+"portal": "https://emol.ro/peris-if/registru-hcl/110461",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1306,6 +1508,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-69-2023",
+"path": "local/ilfov/peris/2023/69",
+"kind": "local",
+"year": "2023",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 69/2023 privind aprobarea transformarii postului de inspector superior din cadrul compartimentului Urbanism din Aparatul de specialitate al primarului comunei Peris in inspector superior , in cadrul Compartimentului Registrul Agricol și Resurse Umane",
+"short": "HCL Periș nr. 69/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-06-26",
+"latest": "2023-06-26",
+"portal": "https://emol.ro/peris-if/registru-hcl/113084",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-70-2023",
 "path": "local/ilfov/peris/2023/70",
 "kind": "local",
@@ -1325,6 +1549,29 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--peris-71-2023",
+"path": "local/ilfov/peris/2023/71",
+"kind": "local",
+"year": "2023",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 71/2023",
+"short": "HCL Periș nr. 71/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://emol.ro/peris-if/registru-hcl/113783",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1396,6 +1643,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-75-2023",
+"path": "local/ilfov/peris/2023/75",
+"kind": "local",
+"year": "2023",
+"number": "75",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 75/2023 privind aprobarea acordării unui sprijin financiar pentru Parohia Peris,comuna Periș Judeţul Ilfov",
+"short": "HCL Periș nr. 75/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-19",
+"latest": "2023-07-19",
+"portal": "https://emol.ro/peris-if/registru-hcl/113787",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-76-2023",
 "path": "local/ilfov/peris/2023/76",
 "kind": "local",
@@ -1415,6 +1684,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-77-2023",
+"path": "local/ilfov/peris/2023/77",
+"kind": "local",
+"year": "2023",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 77/2023 privind acordarea unui mandat special Asociației de Dezvoltare Intercomunitară pentru Gestionarea Integrată a Deșeurilor Ilfov (ADIGIDI) pentru delegarea gestiunii activității de tratare mecano-biologică a deşeurilor reziduale în instalaţiile integrate de tratare, inclusiv transportul deşeurilor stabilizate biologic la depozitele de deşeuri şi/sau la instalaţiile de valorificare energetică",
+"short": "HCL Periș nr. 77/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://emol.ro/peris-if/registru-hcl/119392",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1484,6 +1775,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-81-2023",
+"path": "local/ilfov/peris/2023/81",
+"kind": "local",
+"year": "2023",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 81/2023 privind reorganizarea aparatului de specialitate al Primarului Comunei Periș, aprobarea Organigramei, a Statului de Funcţii și a Regulamentului de Organizare și Funcționare",
+"short": "HCL Periș nr. 81/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-26",
+"latest": "2023-07-26",
+"portal": "https://emol.ro/peris-if/registru-hcl/119396",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-82-2023",
 "path": "local/ilfov/peris/2023/82",
 "kind": "local",
@@ -1528,6 +1841,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-84-2023",
+"path": "local/ilfov/peris/2023/84",
+"kind": "local",
+"year": "2023",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 84/2023 privind aprobarea cheltuielilor ocazionate de deplasarea, la Campionatul European de Karate Goju Ryu, în orasul Liege din Belgia , a sportivilor ce fac parte din lotul de karate",
+"short": "HCL Periș nr. 84/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-21",
+"latest": "2023-08-21",
+"portal": "https://emol.ro/peris-if/registru-hcl/120592",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-85-2023",
 "path": "local/ilfov/peris/2023/85",
 "kind": "local",
@@ -1547,6 +1882,28 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-86-2023",
+"path": "local/ilfov/peris/2023/86",
+"kind": "local",
+"year": "2023",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 86/2023 Privind aprobarea concesionarii prin licitație publica a terenului intravilan, în suprafaţa de 27 mp, categoria de folosinţa curți-construcții, situat în T 28, parcela 1041, comuna Periș,județul Ilfov, proprietate privata a comunei Periș,județul Ilfov",
+"short": "HCL Periș nr. 86/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-21",
+"latest": "2023-08-21",
+"portal": "https://emol.ro/peris-if/registru-hcl/120594",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1594,6 +1951,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-89-2023",
+"path": "local/ilfov/peris/2023/89",
+"kind": "local",
+"year": "2023",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 89/2023 privind completarea inventarului domeniului public cu 2 ha T235, Parcela 1104/3/1/4",
+"short": "HCL Periș nr. 89/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/peris-if/registru-hcl/120597",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-90-2023",
 "path": "local/ilfov/peris/2023/90",
 "kind": "local",
@@ -1616,6 +1995,206 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-91-2023",
+"path": "local/ilfov/peris/2023/91",
+"kind": "local",
+"year": "2023",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 91/2023 privind desemnare reprezentanti CA Liceul nr.1 Peris",
+"short": "HCL Periș nr. 91/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/peris-if/registru-hcl/120599",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-92-2023",
+"path": "local/ilfov/peris/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 92/2023",
+"short": "HCL Periș nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-06",
+"latest": "2023-09-06",
+"portal": "https://emol.ro/peris-if/registru-hcl/120600",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--peris-93-2023",
+"path": "local/ilfov/peris/2023/93",
+"kind": "local",
+"year": "2023",
+"number": "93",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 93/2023 privind rectificarea bugetului local pentru trimestrul al III-Iea si al IV-Iea din anul 2023, prin suplimentari si virări de credite bugetare, la capitolele deficitare in cadrul secţiuni de funcţionare, privind finanţarea cheltuielilor de personal la Cap. 68 - Asigurări si asistenta sociala, precum si a cheltuielilor cu bunuri si servicii la Cap. 65 - Invatamant",
+"short": "HCL Periș nr. 93/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/123151",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-94-2023",
+"path": "local/ilfov/peris/2023/94",
+"kind": "local",
+"year": "2023",
+"number": "94",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 94/2023 privind solicitarea adresata Ministerului Educatiei si Cercetarii , pentru emiterea avizului conform, in vederea schimbarii destinatiei imobilului -teren, in suprafata de 9 mp, situat in tarla 28, parcela 1040,1041,1042 in str Principala nr.580, situat in incinta curtii Liceului Teoretic nr.1 Peris",
+"short": "HCL Periș nr. 94/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/123152",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-95-2023",
+"path": "local/ilfov/peris/2023/95",
+"kind": "local",
+"year": "2023",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 95/2023 privind aprobarea Actului Aditional nr. 9 la Contractul de Delegare a Gestiunii serviciului de alimentare cu apa si de canalizare, incheiat la data de 09.11.2009, intre Asociatia de Dezvoltare Intercomunitara Apa-ADIA Ilfov, in numele si pe seama UAT membre, in calitate de Delegatar si SC Apa-Canal Ilfov SA , in calitate de Delegat(Operator)",
+"short": "HCL Periș nr. 95/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/123153",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-96-2023",
+"path": "local/ilfov/peris/2023/96",
+"kind": "local",
+"year": "2023",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 96/2023 privind aprobarea proiectului \"Siguranta rutiera, prim ajutor si educatie prin arta\"in comuna Peris , judetul Ilfov, program POCU/988/6/26/153602 Cos SMIS 153602",
+"short": "HCL Periș nr. 96/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/123154",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-97-2023",
+"path": "local/ilfov/peris/2023/97",
+"kind": "local",
+"year": "2023",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 97/2023",
+"short": "HCL Periș nr. 97/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-25",
+"latest": "2023-09-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/123155",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--peris-98-2023",
+"path": "local/ilfov/peris/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 98/2023 privind alegerea presedintelui de sedinta oct-dec 2023",
+"short": "HCL Periș nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/peris-if/registru-hcl/125160",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-99-2023",
+"path": "local/ilfov/peris/2023/99",
+"kind": "local",
+"year": "2023",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 99/2023 privind: completarea Comisiei de specialitate nr. 2 „COMISIA PENTRU ADMINISTRATIA PUBLICA LOCALA JURIDICA , APARAREA LINISTII SI ORDINII PUBLICE PRECUM SI DREPTURILE CETATENILOR” a Consiliului Local al comunei Periș, judeţul Ilfov",
+"short": "HCL Periș nr. 99/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/peris-if/registru-hcl/125161",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-100-2023",
 "path": "local/ilfov/peris/2023/100",
 "kind": "local",
@@ -1635,6 +2214,72 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-101-2023",
+"path": "local/ilfov/peris/2023/101",
+"kind": "local",
+"year": "2023",
+"number": "101",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 101/2023 privind completarea inventarului bunurilor care fac parte din domeniul public al comunei Periș, județul Ilfov și atribuire denumire următoarelor străzi: Ds 1638/1- Strada Monumentului, cu o suprafață de 809 mp sat Periș, comuna Periș și De 863/60, De 863/3- Strada Caisului, cu o lungime de 744 m situată în tarla T 177, Parcela 863, sat Periș, comuna Periș",
+"short": "HCL Periș nr. 101/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/peris-if/registru-hcl/125163",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-102-2023",
+"path": "local/ilfov/peris/2023/102",
+"kind": "local",
+"year": "2023",
+"number": "102",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 102/2023 privind revocarea HCL Peris nr.52/2023 Privind aprobarea Raportului de Evaluare întocmit de evaluator CARISTA VALUATION SRL, privind terenul ce aparține domeniului privat al comunei Periș, județul Ilfov, în suprafață de 4683 mp, situat în Tarlaua 39, Parcela A 1116/3, Carte Funciară nr.57810, în vederea concesionării prin licitație publică",
+"short": "HCL Periș nr. 102/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/peris-if/registru-hcl/125164",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-103-2023",
+"path": "local/ilfov/peris/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 103/2023 cu privire la revocarea HCL Peris nr.86/2023 privind aprobarea concesionarii prin licitație publica a terenului intravilan, în suprafaţa de 27 mp, categoria de folosinţa curți-construcții, situat în T 28, parcela 1041, comuna Periș,județul Ilfov, proprietate privata a comunei Periș,județul Ilfov",
+"short": "HCL Periș nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-04",
+"latest": "2023-10-04",
+"portal": "https://emol.ro/peris-if/registru-hcl/125165",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1748,6 +2393,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--peris-109-2023",
+"path": "local/ilfov/peris/2023/109",
+"kind": "local",
+"year": "2023",
+"number": "109",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 109/2023 privind acordarea de mandate speciale Asociației de Dezvoltare Intercomunitară pentru Transport Public București-Ilfov",
+"short": "HCL Periș nr. 109/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/128748",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--peris-110-2023",
 "path": "local/ilfov/peris/2023/110",
 "kind": "local",
@@ -1790,6 +2457,50 @@
 "council_name": "Consiliul Local al Comunei Periș",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--peris-112-2023",
+"path": "local/ilfov/peris/2023/112",
+"kind": "local",
+"year": "2023",
+"number": "112",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 112/2023 Privind aprobarea concesionarii prin licitație publica a terenului intravilan, în suprafaţa de 27 mp, categoria de folosinţa curți-construcții, număr cadastral 60445,din comuna Periș,județul Ilfov, proprietate privata a comunei Periș,județul Ilfov",
+"short": "HCL Periș nr. 112/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/128751",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--peris-113-2023",
+"path": "local/ilfov/peris/2023/113",
+"kind": "local",
+"year": "2023",
+"number": "113",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periș nr. 113/2023 privind aprobare inchirierii prin licitatie publica a terenului in suprafata de 9 mp",
+"short": "HCL Periș nr. 113/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-10-25",
+"latest": "2023-10-25",
+"portal": "https://emol.ro/peris-if/registru-hcl/128752",
+"council": "ilfov/peris",
+"council_name": "Consiliul Local al Comunei Periș",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,126 @@
  "shard": "local/ilfov/buftea/2019",
  "acts": [
   {
+   "slug": "hcl-ilfov--buftea-1-2019",
+   "path": "local/ilfov/buftea/2019/1",
+   "short": "HCL Buftea nr. 1/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 1/2019 privind alegerea preşedintelui de şedinţă pentru o perioadă de trei luni",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/1.pdf",
+     "sha256": "f9ba1aca6f8c68f82a7644cd65731be9c7a38c1848fa1624dacd6981f2b28b34"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-10-2019",
+   "path": "local/ilfov/buftea/2019/10",
+   "short": "HCL Buftea nr. 10/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 10/2019 pentru aprobarea Raportului privind serviciile şi activităţile de asistenţă medicală comunitară derulate în oraşul Buftea, pe semestrul II anul 2018",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/10.pdf",
+     "sha256": "f3953d510316184c15b3bf18d252d658873ff9d913b7d1e76d1c3d197d4e527a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-100-2019",
+   "path": "local/ilfov/buftea/2019/100",
+   "short": "HCL Buftea nr. 100/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 100/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 60346, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/100.pdf",
+     "sha256": "99cc151ae5a120249bef40104ac67decf44633082a64bf250f41c49261f1d63a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-101-2019",
+   "path": "local/ilfov/buftea/2019/101",
+   "short": "HCL Buftea nr. 101/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 101/2019 privind prelungirea şi modificarea autorizaţiei taxi nr. 055/03.08.2016 emisă transportatorului autorizat S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/101.pdf",
+     "sha256": "3ccd4ccef3cd3b56997308c5909afa179a89723e2236a0eb5a03b4b21c48d931"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-102-2019",
+   "path": "local/ilfov/buftea/2019/102",
+   "short": "HCL Buftea nr. 102/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 102/2019 privind prelungirea şi modificarea autorizaţiei taxi nr. 067 acordată transportatorului autorizat S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/102.pdf",
+     "sha256": "c65098565c28c0d64c821c41e938de0d9da9cea070a99f9bc5565158d6a34787"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-103-2019",
+   "path": "local/ilfov/buftea/2019/103",
+   "short": "HCL Buftea nr. 103/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 103/2019 privind modificarea autorizaţiilor de taxi nr. 065/28.12.2017, nr. 075/28.12.2017, nr. 076/28.12.2017 şi nr. 080/17.08.2017 emise transportatorului autorizat S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/103.pdf",
+     "sha256": "7ba3b074a38e7a906c65c973327325bf9c7f7682bf3ae1f64ab41c7386a66424"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-104-2019",
+   "path": "local/ilfov/buftea/2019/104",
+   "short": "HCL Buftea nr. 104/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 104/2019 privind rectificarea documentaţiei cadastrale a imobilului cu nr. cadastral 516 78 situat în oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/104.pdf",
+     "sha256": "70f82f11011fad04abbd04d2602c097a9892a87e72aa46f99fe48700cae314de"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-105-2019",
+   "path": "local/ilfov/buftea/2019/105",
+   "short": "HCL Buftea nr. 105/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 105/2019 privind încheierea unui protocol între Oraşul Buftea şi Asociaţia Pegas Triatlon Club",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/105.pdf",
+     "sha256": "9f4844bd54503389d3030384047ecc1117117e4dc867daaa7202e28de63e5176"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-106-2019",
    "path": "local/ilfov/buftea/2019/106",
    "short": "HCL Buftea nr. 106/2019",
@@ -14,6 +134,156 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/106.pdf",
      "sha256": "3a3c06d23a2bfcf286490d04d5424037ba1888c956f7907bada902418623a610"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-107-2019",
+   "path": "local/ilfov/buftea/2019/107",
+   "short": "HCL Buftea nr. 107/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 107/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru lunile martie, aprilie şi mai 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/107.pdf",
+     "sha256": "4c99511aa235e79103f33728d24bf0785b1f9424297236d9a5017db6c1a65084"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-108-2019",
+   "path": "local/ilfov/buftea/2019/108",
+   "short": "HCL Buftea nr. 108/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 108/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna mai 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/108.pdf",
+     "sha256": "55b5e88276342a08cdfe1a0231c5e85665df46a8c85636c73ed8ed86adcc682f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-109-2019",
+   "path": "local/ilfov/buftea/2019/109",
+   "short": "HCL Buftea nr. 109/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 109/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic „Barbu A. Ştirbey” din oraşul Buftea, pentru luna mai 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/109.pdf",
+     "sha256": "9f92632299c1cb5ca114be6acd34cfd013fa9d4f2fca488f90829998fd3febf9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-11-2019",
+   "path": "local/ilfov/buftea/2019/11",
+   "short": "HCL Buftea nr. 11/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 11/2019 privind acordarea unor mandate speciale Asociaţiei de Dezvoltare lntercomunitară în vederea modificării contractului de delegare a Gestiunii Serviciului de Transport Public de Călători în regiunea Bucureşti-Ilfov nr. 1/17.09.2018, încheiat cu operatorul regional",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/11.pdf",
+     "sha256": "fb7342fb70617e534df1166165ccfcba0ba70c294b9a9e0efaa3abbb90cee21b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-111-2019",
+   "path": "local/ilfov/buftea/2019/111",
+   "short": "HCL Buftea nr. 111/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 111/2019 privind aprobarea situaţiilor financiare anuale ale S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/111.pdf",
+     "sha256": "a02059468cafafd4b3703626d0c7054b4355837886d152cb9e739abdddcf9b3f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-112-2019",
+   "path": "local/ilfov/buftea/2019/112",
+   "short": "HCL Buftea nr. 112/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 112/2019 privind acordarea unor mandate speciale Asociaţiei de Dezvoltare lntercomunitară în vederea modificării contractului de delegare a Gestiunii Serviciului de Transport Public de Călători în regiunea Bucureşti-Ilfov nr.1/17.09.2018, încheiat cu operatorul regional So",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/112.pdf",
+     "sha256": "ab1e333aaeb8dfd548fa16294f82067534d5edc92ba320936c5f19981b74b7e9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-113-2019",
+   "path": "local/ilfov/buftea/2019/113",
+   "short": "HCL Buftea nr. 113/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 113/2019 privind asocierea unităţii administrativ-teritoriale oraş Buftea cu unitatea administrativteritorială comuna Corbeanca, în scopul înfiinţării unui Operator de Transport Public Regional care să opereze conform Planului de Mobilitate Urbană Durabilă",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/113.pdf",
+     "sha256": "31102ccf3a29ff26c15389cad597596eed1bb95a13cb96bf2645817e64930789"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-114-2019",
+   "path": "local/ilfov/buftea/2019/114",
+   "short": "HCL Buftea nr. 114/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 114/2019 privind aprobarea indicatorilor tehnico-economici pentru obiectivul de investiţii “Modernizare infrastructură rutieră oraş Buftea”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/114.pdf",
+     "sha256": "82e2db4b750a8ab8a511d68adf280da84c37126aa834fc81ec67e3a4d363c60d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-115-2019",
+   "path": "local/ilfov/buftea/2019/115",
+   "short": "HCL Buftea nr. 115/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 115/2019 privind aprobarea asocierii unităţii administrativ-teritoriale oraş Buftea – prin Consiliul Local al oraşului Buftea cu unitatea administrativ – teritorială Judeţ Ilfov – prin",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/115.pdf",
+     "sha256": "8ab57b073221f980e4ec66b18cc5e1789f5eff575203abfc0534fd0b6d692493"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-116-2019",
+   "path": "local/ilfov/buftea/2019/116",
+   "short": "HCL Buftea nr. 116/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 116/2019 privind modificarea autorizaţiei taxi nr. 061/25.05.2016 emisă transportatorului autorizat I.F",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/116.pdf",
+     "sha256": "47c05279f3913d3631ecaaff5d6be5babfa8b76c3a50ec5c4b6f7f2028c8d729"
     }
    ]
   },
@@ -33,6 +303,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-118-2019",
+   "path": "local/ilfov/buftea/2019/118",
+   "short": "HCL Buftea nr. 118/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 118/2019 privind reducerea capitalului social al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/118.pdf",
+     "sha256": "f26febcf1a42c8ddb726f4fdcd0f23fbb3247cc75365eec8d435419f9883bc95"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-119-2019",
    "path": "local/ilfov/buftea/2019/119",
    "short": "HCL Buftea nr. 119/2019",
@@ -44,6 +329,156 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/119.pdf",
      "sha256": "dad6464e3462f2d5bfb171a42ea79d339440120299582aa998306e5aeed1707c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-12-2019",
+   "path": "local/ilfov/buftea/2019/12",
+   "short": "HCL Buftea nr. 12/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 12/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Intrarea Cedrului, oraşul Buftea, Judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/12.pdf",
+     "sha256": "37348c8c3b4fe85ad0a31ae857692b5215d71e02ab55f627c1346b2835343546"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-120-2019",
+   "path": "local/ilfov/buftea/2019/120",
+   "short": "HCL Buftea nr. 120/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 120/2019 privind aprobarea documentaţiei de atribuire a contractului de delegare a gestiunii prin concesiune a serviciului de salubrizare în oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/120.pdf",
+     "sha256": "c09ef8f8fc9fa3985b8294ae0d02e83781dbc918da907d9d73a7dc210855c7e7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-121-2019",
+   "path": "local/ilfov/buftea/2019/121",
+   "short": "HCL Buftea nr. 121/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 121/2019 privind completarea şi modificarea art. 1 al Hotărârii Consiliului Local al oraşului Buftea nr. 98/30.05.2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din o",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-06-27",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/121.pdf",
+     "sha256": "bcd660e8f132146126cd6d757e4e7359a69ad10ceb538af4a32bf6e115e0e258"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-122-2019",
+   "path": "local/ilfov/buftea/2019/122",
+   "short": "HCL Buftea nr. 122/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 122/2019 pentru modificarea Hotărârii Consiliului local nr. 101/04.08.2017 privind actualizarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (faza DALI) pentru obiectivul de investiţii “Eficientizarea energetică a clădirilor rezidenţiale – lotul",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-15",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/122.pdf",
+     "sha256": "5442181b8d612e63b6c31f34ba98b54b7d82bbf77c3d5b246b1161769fb47b89"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-123-2019",
+   "path": "local/ilfov/buftea/2019/123",
+   "short": "HCL Buftea nr. 123/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 123/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-15",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/123.pdf",
+     "sha256": "a4526f5a7a6dae9d5cf318919434573d673fe74b602c10d459c6a0db6eeb5e79"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-125-2019",
+   "path": "local/ilfov/buftea/2019/125",
+   "short": "HCL Buftea nr. 125/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 125/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/125.pdf",
+     "sha256": "01308ce451f4727b42067ae5f972da01059406f9daed231a6818a9037cfc5eb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-126-2019",
+   "path": "local/ilfov/buftea/2019/126",
+   "short": "HCL Buftea nr. 126/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 126/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru luna mai 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/126.pdf",
+     "sha256": "10176993e7ac977a55a9044df9be1ccaf65e20ef32e4644d9f63895ead5a0d4e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-127-2019",
+   "path": "local/ilfov/buftea/2019/127",
+   "short": "HCL Buftea nr. 127/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 127/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru lunile aprilie, mai şi iunie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/127.pdf",
+     "sha256": "eb685d12c1b182d3122468ebf3f2f4683d705880a69cdb99327fc4d817a7e387"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-128-2019",
+   "path": "local/ilfov/buftea/2019/128",
+   "short": "HCL Buftea nr. 128/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 128/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna iunie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/128.pdf",
+     "sha256": "55f60c8d3f57a138496b3c78e3fcc199a6d561466a53835257f67dc2f174c5c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-129-2019",
+   "path": "local/ilfov/buftea/2019/129",
+   "short": "HCL Buftea nr. 129/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 129/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Pinului, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/129.pdf",
+     "sha256": "5f685dc0922120c13ccf7879fac8f680894ffe4a9891adcca685208f57b4b061"
     }
    ]
   },
@@ -63,6 +498,141 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-130-2019",
+   "path": "local/ilfov/buftea/2019/130",
+   "short": "HCL Buftea nr. 130/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 130/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Abatorului, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/130.pdf",
+     "sha256": "2c626b50a8eabcc21925a8a2e95ca6d5e5714e731e876568696f17e2046818bc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-131-2019",
+   "path": "local/ilfov/buftea/2019/131",
+   "short": "HCL Buftea nr. 131/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 131/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Intrarea Bucureşti-Târgovişte, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/131.pdf",
+     "sha256": "a5f49ce3bd54fd730e196c313835c44661f4cf4002b42cdf201786d3eaf8e13f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-132-2019",
+   "path": "local/ilfov/buftea/2019/132",
+   "short": "HCL Buftea nr. 132/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 132/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Bujorului, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/132.pdf",
+     "sha256": "b161bd901f6dc074a3f615e232c9d2ec04d996147efcfcb12a3928b7ae7cc3b9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-133-2019",
+   "path": "local/ilfov/buftea/2019/133",
+   "short": "HCL Buftea nr. 133/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 133/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Dropiei, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/133.pdf",
+     "sha256": "6c2790ab384665490c0bf6a0249bc2d80b829587caa3805b53c18189a11174c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-134-2019",
+   "path": "local/ilfov/buftea/2019/134",
+   "short": "HCL Buftea nr. 134/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 134/2019 privind încheierea actului adiţional nr.1 la contractul de comodat nr.54537/30.09.2014, încheiat între Oraşul Buftea – Consiliul local şi Oficiul Registrului Comerţului de pe lângă Tribunalul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/134.pdf",
+     "sha256": "b2fd35ee7dac2af4b3c88fb4a99cce1fe01956717dccd84d3fa522da782ad029"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-135-2019",
+   "path": "local/ilfov/buftea/2019/135",
+   "short": "HCL Buftea nr. 135/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 135/2019 privind modificarea obiectului asocierii încheiată între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/135.pdf",
+     "sha256": "2dd0f4c5ac1df8c753bc6357c609e8a462135bfe800d47cd84163bc8622ff6d5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-136-2019",
+   "path": "local/ilfov/buftea/2019/136",
+   "short": "HCL Buftea nr. 136/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 136/2019 privind darea în folosinţă gratuită a unui spaţiu Asociaţiei pentru diagnosticarea şi intervenţia precoce a copilului cu autism",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/136.pdf",
+     "sha256": "377442e89e5404880e89787980090c784c24d5b43a7a10ad2dd6cab8e8118f5e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-137-2019",
+   "path": "local/ilfov/buftea/2019/137",
+   "short": "HCL Buftea nr. 137/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 137/2019 privind completarea şi modificarea Hotărârii Consiliului Local al oraşului Buftea nr. 98/30.05.2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din oraşul Buft",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/137.pdf",
+     "sha256": "2f2e3f859c9efc969e57c4a39b3d51d1334e9c95815a7cb381c6465badeae8fd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-138-2019",
+   "path": "local/ilfov/buftea/2019/138",
+   "short": "HCL Buftea nr. 138/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 138/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/138.pdf",
+     "sha256": "66dd76dcf4da149971bc5ce0f68111e26577fdfc58c456ef6eb631199ee00f35"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-139-2019",
    "path": "local/ilfov/buftea/2019/139",
    "short": "HCL Buftea nr. 139/2019",
@@ -74,6 +644,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/139.pdf",
      "sha256": "3b315d3bb5119902257a519fde9e09d5cfc9eec04e387e2ba87a5e49648b09a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-14-2019",
+   "path": "local/ilfov/buftea/2019/14",
+   "short": "HCL Buftea nr. 14/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 14/2019 pentru modificarea Hotărârii Consiliului Local Buftea nr. 144/27.11.2015 privind darea în folosinţă gratuită către Asociaţia Hercules a unui imobil teren în suprafaţă",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/14.pdf",
+     "sha256": "8dbd97c0db3fec02a150525a0c045d7eb04d3682f12d8b9fd0c495845581e5dd"
     }
    ]
   },
@@ -138,6 +723,81 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-144-2019",
+   "path": "local/ilfov/buftea/2019/144",
+   "short": "HCL Buftea nr. 144/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 144/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/144.pdf",
+     "sha256": "a4682584f42b85a0bd4561151273618c7457be0eceec5805643a09134fbfa386"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-145-2019",
+   "path": "local/ilfov/buftea/2019/145",
+   "short": "HCL Buftea nr. 145/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 145/2019 privind încetarea mandatului unui membru al Consiliului de administraţie al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/145.pdf",
+     "sha256": "4448bb191f95dc1a30286c372a84771ee2317201d92493a981069849be1f5c9d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-146-2019",
+   "path": "local/ilfov/buftea/2019/146",
+   "short": "HCL Buftea nr. 146/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 146/2019 privind retragerea dreptului de a beneficia de atribuirea în folosinţă gratuită a unui teren în condiţiile Legii nr. 15/2003",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/146.pdf",
+     "sha256": "b1ff90d7619e084db9874473fe4204e2e6c496437238d7a26df9f1b39d9791d8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-147-2019",
+   "path": "local/ilfov/buftea/2019/147",
+   "short": "HCL Buftea nr. 147/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 147/2019 privind adoptarea unor măsuri pentru asigurarea continuităţii Serviciului public de salubrizare al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/147.pdf",
+     "sha256": "6e7fbedac5f09ee80e248b1d3f51fc64a32bc9473d05e4ea74ba89ed4f639425"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-148-2019",
+   "path": "local/ilfov/buftea/2019/148",
+   "short": "HCL Buftea nr. 148/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 148/2019 privind acordarea autorizaţiei taxi nr. 012 transportatorului autorizat P. F .A",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/148.pdf",
+     "sha256": "575e173a6256b9c6cee4d241022b8b206c59ed8da558528c5184b167dc967060"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-15-2019",
    "path": "local/ilfov/buftea/2019/15",
    "short": "HCL Buftea nr. 15/2019",
@@ -149,6 +809,21 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/15.pdf",
      "sha256": "0812c55e4ab47e45cf5c01d95cc9c4beac247e2764908954d77da4a31054ca01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-152-2019",
+   "path": "local/ilfov/buftea/2019/152",
+   "short": "HCL Buftea nr. 152/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 152/2019 privind acordarea de premii elevilor/sportivilor care au obţinut rezultate deosebite la concursuri/festivaluri/ competiţii sportive interne/internaţionale",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-07-26",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/152.pdf",
+     "sha256": "cb5c9d05d8da7724ef25e0dc8ed0e00726b332bccecbc0a7e8751027ecfaac68"
     }
    ]
   },
@@ -168,6 +843,96 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-154-2019",
+   "path": "local/ilfov/buftea/2019/154",
+   "short": "HCL Buftea nr. 154/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 154/2019 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul lI 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/154.pdf",
+     "sha256": "ed10cb30fe0679396058c92db592118d756fdc5cf325c3f122ce0567b734e781"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-155-2019",
+   "path": "local/ilfov/buftea/2019/155",
+   "short": "HCL Buftea nr. 155/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 155/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/155.pdf",
+     "sha256": "a91b621d440c286c60d9dfe89a283368df212c2ce2e72562e1a11c44c3fb17fb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-156-2019",
+   "path": "local/ilfov/buftea/2019/156",
+   "short": "HCL Buftea nr. 156/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 156/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru luna iunie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/156.pdf",
+     "sha256": "dcf6a5f35bc5da20fa515cf1b45c4ad6c7742ebb25039c854c4ae3ad400635a5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-157-2019",
+   "path": "local/ilfov/buftea/2019/157",
+   "short": "HCL Buftea nr. 157/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 157/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic „Barbu A. Ştirbey” din oraşul Buftea, pentru lunile iunie şi iulie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/157.pdf",
+     "sha256": "f42a8d85261c34e6dacdcea92e0c38ef2391c7cd4968cc0e25ec1754ce1a1689"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-158-2019",
+   "path": "local/ilfov/buftea/2019/158",
+   "short": "HCL Buftea nr. 158/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 158/2019 privind asocierea Oraşului Buftea – Consiliul local Buftea cu Clubul Sportiv Shagya, în vederea realizării Campionatului Naţional de Anduranţă Ecvestră şi a Concursului Internaţional de Anduranţă Ecvestră, Cupa Shagya Ediţia a VI-a",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/158.pdf",
+     "sha256": "8c554ab71e0133d7152739cd54271e3e9258a7b167932c6da261dc1411847117"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-159-2019",
+   "path": "local/ilfov/buftea/2019/159",
+   "short": "HCL Buftea nr. 159/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 159/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/159.pdf",
+     "sha256": "1bc82546b6ff4290b140c80e12bf935cc976cd846c225da05b685424adcef6d5"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-16-2019",
    "path": "local/ilfov/buftea/2019/16",
    "short": "HCL Buftea nr. 16/2019",
@@ -179,6 +944,291 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/16.pdf",
      "sha256": "24cfbd6d95e2379245b3565809c58077611850b47e3de9b8f5ebe96364f1a118"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-160-2019",
+   "path": "local/ilfov/buftea/2019/160",
+   "short": "HCL Buftea nr. 160/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 160/2019 privind modificarea redevenţei din contractul de concesiune nr.272/14.10.2005 pentru spaţiul cu destinaţia de cabinet medical, situat în oraşul Buftea, B-dul Mihai Eminescu, nr .15",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/160.pdf",
+     "sha256": "aaafc7afea97c0036b9d58773d8e58f0393382334e8764aee1f1347a3c72bf21"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-161-2019",
+   "path": "local/ilfov/buftea/2019/161",
+   "short": "HCL Buftea nr. 161/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 161/2019 privind modificarea redevenţei din contractul de concesiune nr.10/15.02.2005 pentru spaţiul cu destinaţia de cabinet medical, situat în oraşul Buftea, B-dul Mihai Eminescu, nr.15",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/161.pdf",
+     "sha256": "49402e3dfb54dab6496a05352bac4a4feaf99574bb55822d13472bca9fdda849"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-162-2019",
+   "path": "local/ilfov/buftea/2019/162",
+   "short": "HCL Buftea nr. 162/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 162/2019 privind retragerea autorizaţiei taxi nr. 055 emisă pentru S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/162.pdf",
+     "sha256": "860e6f52378379a2e01b49c382958fad9ffa9f16b7f8f6562cc03cbedb6360ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-163-2019",
+   "path": "local/ilfov/buftea/2019/163",
+   "short": "HCL Buftea nr. 163/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 163/2019 privind rectificarea bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/163.pdf",
+     "sha256": "52ef3f4ec24e30ac2769c9fb2cc93c32071e5ff755727e61626e0f1cb9ee3282"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-164-2019",
+   "path": "local/ilfov/buftea/2019/164",
+   "short": "HCL Buftea nr. 164/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 164/2019 privind acordarea de mandat special Asociaţiei de Dezvoltare lntercomunitară în vederea aprobării Actului Adiţional nr. 5 la Contractul de delegare a gestiunii serviciului de transport public local de călători nr. 1/17.09.2018, încheiat cu Societatea de Transport",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/164.pdf",
+     "sha256": "ac2090d5724425d25ff5095f8b0eb3d81670be88a6308bbad0dd40f50526f458"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-165-2019",
+   "path": "local/ilfov/buftea/2019/165",
+   "short": "HCL Buftea nr. 165/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 165/2019 privind acordarea mandatului special Asociaţiei de Dezvoltare lntercomunitară pentru Transport Public Bucureşti – Ilfov în vederea elaborării şi aprobării Studiului de oportunitate pentru stabilirea modalităţii de delegare şi a Documentaţiei de atribuire a contra",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/165.pdf",
+     "sha256": "c9b65274d4adde6b9ecd40964dc73afde794ec7c67e20aec4aa35371019091d1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-166-2019",
+   "path": "local/ilfov/buftea/2019/166",
+   "short": "HCL Buftea nr. 166/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 166/2019 privind acordarea de mandat special în cadrul Adunării Generale a Asociaţiei de Dezvoltare lntercomunitară pentru Gestionarea Integrată a Deşeurilor Ilfov (Asociaţia",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/166.pdf",
+     "sha256": "2ba8d8bb410959ce266c4ceb5d51788f0281b784fb44c86cd45195f53682b60b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-167-2019",
+   "path": "local/ilfov/buftea/2019/167",
+   "short": "HCL Buftea nr. 167/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 167/2019 privind neasumarea responsabilităţii organizării şi derulării procedurilor de atribuire a contractului pentru achiziţia de fructe: mere, în cadrul Programului pentru Şcoli al României şi a contractelor de prestare a serviciilor pentru derularea măsurilor educativ",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/167.pdf",
+     "sha256": "884fdab3fe36c44c6d95735f65965abac65ba16ee714dbce1e684965ae330070"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-168-2019",
+   "path": "local/ilfov/buftea/2019/168",
+   "short": "HCL Buftea nr. 168/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 168/2019 privind aprobarea listei de prioritate în vederea atribuirii de terenuri în baza Legii nr .15/2003",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/168.pdf",
+     "sha256": "696042a5f450999712483152785c8ce644e596b02eba5b6445e72d68d9080f46"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-169-2019",
+   "path": "local/ilfov/buftea/2019/169",
+   "short": "HCL Buftea nr. 169/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 169/2019 privind modificarea Hotărârii Consiliului local al oraşului Buftea nr. 98/30.05.2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/169.pdf",
+     "sha256": "c0a292c4b8766c560d2c3892aa27e189bfb610b9ee8cd417fe52ca933c6644cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-17-2019",
+   "path": "local/ilfov/buftea/2019/17",
+   "short": "HCL Buftea nr. 17/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 17/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/17.pdf",
+     "sha256": "70054dca1f3777cbf20efe38d6da586ec9cb74f229774c3ab78aa83053f3c67f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-171-2019",
+   "path": "local/ilfov/buftea/2019/171",
+   "short": "HCL Buftea nr. 171/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 171/2019 privind diminuarea suprafeţei de teren pusă la dispoziţia SC General Public Serv S.A ca bun de retur în baza Contractului de delegare a gestiunii serviciului de administrare a domeniului public şi privat din oraşul Buftea nr. 1810/15.02.2012",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/171.pdf",
+     "sha256": "c2693cf11ca437a8eaeb0a5891b5aa19e99285abc8c142620cbae7372ff9c7e6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-172-2019",
+   "path": "local/ilfov/buftea/2019/172",
+   "short": "HCL Buftea nr. 172/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 172/2019 privind aprobarea înfiinţării unui punct de lucru al SOCIETĂŢII REGIO SERV TRANSPORT S.R.l. în judeţul Ilfov, oraşul Buftea, str",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/172.pdf",
+     "sha256": "3cb2a4d5fddf838a7819e02ed918bec1e01b575f280f7ceaa5f84fbaedc17d17"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-173-2019",
+   "path": "local/ilfov/buftea/2019/173",
+   "short": "HCL Buftea nr. 173/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 173/2019 privind aprobarea organigramei, a statului de funcţii şi a Regulamentului de organizare şi funcţionare ale S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-08-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/173.pdf",
+     "sha256": "ab2ac81c7fe12fe047c70b6ebceaf67ebb2b56d7eb341061cded5cde00956811"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-174-2019",
+   "path": "local/ilfov/buftea/2019/174",
+   "short": "HCL Buftea nr. 174/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 174/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/174.pdf",
+     "sha256": "248bab78ef699d9fc32390493fba4c9382799fc92776a2eb7177fcf991afaed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-175-2019",
+   "path": "local/ilfov/buftea/2019/175",
+   "short": "HCL Buftea nr. 175/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 175/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/175.pdf",
+     "sha256": "e09f4e9148496367cb213bd9a68a91b959716d5baabc3bf05a425f1dc9c6fece"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-176-2019",
+   "path": "local/ilfov/buftea/2019/176",
+   "short": "HCL Buftea nr. 176/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 176/2019 privind desemnarea reprezentanţilor Consiliului Local Buftea în Consiliile de administraţie şi în Comisiile pentru evaluarea şi asigurarea calităţii în educaţie în cadrul unităţilor de învăţământ preuniversitar de stat din oraşul Buftea, pentru anul şcolar 201",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/176.pdf",
+     "sha256": "11398d9ab6ac03804119531b53b3d00e1a0493345f8ad91a2e048838ad2a9cff"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-177-2019",
+   "path": "local/ilfov/buftea/2019/177",
+   "short": "HCL Buftea nr. 177/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 177/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru luna iunie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/177.pdf",
+     "sha256": "c30391fe1da5d79d3225260491333e6aee51172b9ac7d78b83d99a36c143dd3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-178-2019",
+   "path": "local/ilfov/buftea/2019/178",
+   "short": "HCL Buftea nr. 178/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 178/2019 privind acordarea de mandat special Asociaţiei de Dezvoltare lntercomunitară pentru Transport Public Bucureşti – Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/178.pdf",
+     "sha256": "a37c1d02d0f87d5d0c45afcf45e393858b9b57307ebd0454831adb635a101aae"
     }
    ]
   },
@@ -198,6 +1248,171 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-18-2019",
+   "path": "local/ilfov/buftea/2019/18",
+   "short": "HCL Buftea nr. 18/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 18/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale pe Strada Independenţei, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/18.pdf",
+     "sha256": "2d376af38471ad1c22fea1b00947009531c0b173d0729b7f07a76af275b998a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-180-2019",
+   "path": "local/ilfov/buftea/2019/180",
+   "short": "HCL Buftea nr. 180/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 180/2019 privind darea în folosinţă gratuită Autorităţii Naţionale Pentru Protecţia Consumatorilor a unei suprafeţe de teren de 1.000 mp, situat în oraşul Buftea, strada Panselelor, nr. 31, judeţ Ilfov, în vederea edificării unui sediu şi a unui laborator pentru activi",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/180.pdf",
+     "sha256": "6b0420565ffbea4c309822ac0a41c7ffbfb100fdef5d2816922f2b0a663b6d9e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-181-2019",
+   "path": "local/ilfov/buftea/2019/181",
+   "short": "HCL Buftea nr. 181/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 181/2019 privind instituirea unor facilităţi fiscale şi aprobarea procedurii privind anularea accesoriilor aferente obligaţiilor bugetare principale restante la 31 decembrie 2018 datorate bugetului local al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/181.pdf",
+     "sha256": "52360cedc2501cbadf9f7c364f0761725bb744aa33397a852a07504f16aed8a6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-182-2019",
+   "path": "local/ilfov/buftea/2019/182",
+   "short": "HCL Buftea nr. 182/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 182/2019 privind aprobarea rectificării bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/182.pdf",
+     "sha256": "eccd643939e56c6aada9e7f4aefcd2a603663e8ef29af6044365ef966374621e"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-183-2019",
+   "path": "local/ilfov/buftea/2019/183",
+   "short": "HCL Buftea nr. 183/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 183/2019 privind aprobarea bugetului de venituri şi cheltuieli pe anul 2019 întocmit de S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/183.pdf",
+     "sha256": "007072cccc8315d4cfd25c10ffa389daac11f98f3e1a46bfeccc407202fd85ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-184-2019",
+   "path": "local/ilfov/buftea/2019/184",
+   "short": "HCL Buftea nr. 184/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 184/2019 privind acordarea unui împrumut temporar, de la bugetul Unităţii Administrativ Teritoriale Oraşul Buftea, către societatea Regio Serv Transport S.R.L",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/184.pdf",
+     "sha256": "eabec407d3f05f7cdebf9e5cf912ddd25cac3d574704e0a3a73e199371fd68ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-185-2019",
+   "path": "local/ilfov/buftea/2019/185",
+   "short": "HCL Buftea nr. 185/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 185/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/185.pdf",
+     "sha256": "043ecacf2d0a5828f4d54a529eeeb18b125584611b502c2ef822d8fea267aabb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-186-2019",
+   "path": "local/ilfov/buftea/2019/186",
+   "short": "HCL Buftea nr. 186/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 186/2019 privind darea în folosinţă gratuită către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/186.pdf",
+     "sha256": "0b226804a81b8850ccc3ed41a1b22951494fc5220152850224222e9bbdf0af47"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-187-2019",
+   "path": "local/ilfov/buftea/2019/187",
+   "short": "HCL Buftea nr. 187/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 187/2019 privind aprobarea Studiului de oportunitate pentru fundamentarea şi stabilirea soluţiei optime de delegare a gestiunii serviciului de utilitate publică – Iluminat Public din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/187.pdf",
+     "sha256": "38f051c15e668aee2099a89672ed1de2c2f4c67e7d7b19b308cecbe95540dd53"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-188-2019",
+   "path": "local/ilfov/buftea/2019/188",
+   "short": "HCL Buftea nr. 188/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 188/2019 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiţii „Construirea unei infrastructuri noi pentru învăţământul preşcolar – Grădiniţă şi creşă cu program prelungit şi dotarea acestora, prin desfiinţarea corpului vechi (C1) al Grăd",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/188.pdf",
+     "sha256": "3cfaff27aba7f06b06f8cf4cdc705064f6c8ed21b41d8aa08854170ea5668580"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-189-2019",
+   "path": "local/ilfov/buftea/2019/189",
+   "short": "HCL Buftea nr. 189/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 189/2019 privind încheierea unui acord de colaborare între Oraşul Buftea prin Consiliul local – Centrul Cultural Buftea şi Centrul Judeţean pentru Conservarea şi Promovarea Culturii Tradiţionale Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/189.pdf",
+     "sha256": "b77d2d3db531c1d3aaf3fec4a2e7f328083ae728817c582cc6edd816a69f7134"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-19-2019",
    "path": "local/ilfov/buftea/2019/19",
    "short": "HCL Buftea nr. 19/2019",
@@ -213,6 +1428,96 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-190-2019",
+   "path": "local/ilfov/buftea/2019/190",
+   "short": "HCL Buftea nr. 190/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 190/2019 privind transformarea a două posturi de natură contractuală de şofer şi gestionar şi stabilirea salariului de bază aferent funcţiei contractuale de execuţie din cadrul familiei ocupaţionale Administraţie la Direcţia Asistenţă Socială",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/190.pdf",
+     "sha256": "a5cde1bb69282bbda62b1d9d8b6a0c29577d83207b385c424cfa0f0fbbd91847"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-191-2019",
+   "path": "local/ilfov/buftea/2019/191",
+   "short": "HCL Buftea nr. 191/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 191/2019 privind desemnarea reprezentantului oraşului Buftea în Adunarea Generală a Asociaţiei de Dezvoltare lntercomunitară pentru Gestionarea Integrată a Deşeurilor Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/191.pdf",
+     "sha256": "9afd987472a8a3223992b0345f6271aa8e3fd45e373c451fd1136e1d5d3d5a4b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-192-2019",
+   "path": "local/ilfov/buftea/2019/192",
+   "short": "HCL Buftea nr. 192/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 192/2019 privind acceptarea ofertelor de donaţie autentificate cu nr.1767/10.09.2019 şi nr.1768/10.09.2019 pentru imobilele terenuri cu nr. cadastral 60365, respectiv nr. cadastral 60370 situate în oraşul Buftea, judeţ Ilfov, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/192.pdf",
+     "sha256": "5d12a9ab51ba84b750e75f5078761dd31d49d5a4ec97ceb1bdc66b92bc83b716"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-193-2019",
+   "path": "local/ilfov/buftea/2019/193",
+   "short": "HCL Buftea nr. 193/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 193/2019 privind acceptarea ofertelor de donaţie autentificate cu nr . 1769/10.09.2019 şi nr.1770/10.09.2019 pentru imobilele terenuri cu nr. cadastral 60362, respectiv nr. cadastral 60374, situate în oraşul Buftea, judeţ Ilfov, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/193.pdf",
+     "sha256": "6a2b35fa4e6db93511861c87e857bcbca8b5791e96b35a650048b430b7995125"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-195-2019",
+   "path": "local/ilfov/buftea/2019/195",
+   "short": "HCL Buftea nr. 195/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 195/2019 privind suportarea din bugetul local a cheltuielilor privind activitatea de transport public local de persoane în oraşul Buftea, pentru perioada 16.05.2019 – 30.06.2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/195.pdf",
+     "sha256": "59ce289f8497bc077f7c2e960da2e5c1130b5440dafa3ff53f208b16266ee2d7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-196-2019",
+   "path": "local/ilfov/buftea/2019/196",
+   "short": "HCL Buftea nr. 196/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 196/2019 privind încheierea unui parteneriat între Centrul Cultural Buftea- instituţie publică în subordinea Consiliului local al oraşului Buftea şi Parohia Sf. Cuv",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-09-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/196.pdf",
+     "sha256": "1499c420a5b343d90ccb90fef1b64816f7c0f30301cc641e5200ad2ef3610db6"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-197-2019",
    "path": "local/ilfov/buftea/2019/197",
    "short": "HCL Buftea nr. 197/2019",
@@ -224,6 +1529,471 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/197.pdf",
      "sha256": "4ac03170150c363b7c6d0e7559136b20090d90d30b5bfa7fde2e8c31857804fe"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-199-2019",
+   "path": "local/ilfov/buftea/2019/199",
+   "short": "HCL Buftea nr. 199/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 199/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/199.pdf",
+     "sha256": "5b7105bc4cb03e3cf5dad2e76f26158555e19e73aa8c71050803892aab4477cd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-2-2019",
+   "path": "local/ilfov/buftea/2019/2",
+   "short": "HCL Buftea nr. 2/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 2/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/2.pdf",
+     "sha256": "866c82aa9dbd1dc71e695bddad0124fa6aac4050217ec2ef0a4adf5735b497c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-20-2019",
+   "path": "local/ilfov/buftea/2019/20",
+   "short": "HCL Buftea nr. 20/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 20/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru lunile noiembrie şi decembrie 2018",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/20.pdf",
+     "sha256": "bd85887de25e780afbd43b91909e2d6c436e7359570fcd348f406fdef52f72a2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-200-2019",
+   "path": "local/ilfov/buftea/2019/200",
+   "short": "HCL Buftea nr. 200/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 200/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/200.pdf",
+     "sha256": "9486b54a0884f8bcd98ef43316dda7c859eeae651b31b1654e5e1f8f39143112"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-201-2019",
+   "path": "local/ilfov/buftea/2019/201",
+   "short": "HCL Buftea nr. 201/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 201/2019 pentru modificarea componenţei comisiei de validare a mandatelor de consilieri în cadrul Consiliului Local al oraşului Buftea, stabilită prin Hotărârea Consiliului local nr. 55/23.06.2016",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/201.pdf",
+     "sha256": "3fc48578eafe0759e3bc2c047ce7293ff03fc4d39e8fa502cd3fca563bb781ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-202-2019",
+   "path": "local/ilfov/buftea/2019/202",
+   "short": "HCL Buftea nr. 202/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 202/2019 privind modificarea componenţei nominale a comisiilor de specialitate ale Consiliului local al oraşului Buftea, organizate prin Hotărârea nr. 60/23.06.2016",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/202.pdf",
+     "sha256": "4ec4a2fe7bb76529bedb4427cc0555f270c5b38b465059c314b15eb8a8cad728"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-203-2019",
+   "path": "local/ilfov/buftea/2019/203",
+   "short": "HCL Buftea nr. 203/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 203/2019 privind desemnarea reprezentanţilor Consiliului Local al oraşului Buftea în Consiliul de administraţie şi în Comisia pentru evaluarea şi asigurarea calităţii în educaţie în cadrul unităţilor de învăţământ particular din oraşul Buftea, pentru anul şcolar 2019 20",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/203.pdf",
+     "sha256": "925f823685679dd4542bb97f3e0882d48c726e773c5909036b37fbefba125482"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-204-2019",
+   "path": "local/ilfov/buftea/2019/204",
+   "short": "HCL Buftea nr. 204/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 204/2019 privind rectificarea bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/204.pdf",
+     "sha256": "7e7293a2d575990bb73eff27fa9e65f589c0f467db36801a9ea2156f0f098d4c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-205-2019",
+   "path": "local/ilfov/buftea/2019/205",
+   "short": "HCL Buftea nr. 205/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 205/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/205.pdf",
+     "sha256": "147bba0e55b9874b9e1be885397e3ec6cae0f5161508d9012294fd1a2432d5f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-206-2019",
+   "path": "local/ilfov/buftea/2019/206",
+   "short": "HCL Buftea nr. 206/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 206/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna septembrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/206.pdf",
+     "sha256": "4ed4755a5a20d78bf7cc7f12eca024d6aa6b5c47f2160f6942437ce591fa27c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-207-2019",
+   "path": "local/ilfov/buftea/2019/207",
+   "short": "HCL Buftea nr. 207/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 207/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru luna septembrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/207.pdf",
+     "sha256": "54e547a483efd292040344779d902ce16bcfa01b5e3819f4b33e8c7edf7dcd10"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-208-2019",
+   "path": "local/ilfov/buftea/2019/208",
+   "short": "HCL Buftea nr. 208/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 208/2019 privind alegerea preşedintelui de şedinţă pentru perioada noiembrie-decembrie 2019 şi ianuarie 2020",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/208.pdf",
+     "sha256": "cadd75729ad0c312e22f2560b09a9254a43b3dcc49eb55e55589ca5f944dc246"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-209-2019",
+   "path": "local/ilfov/buftea/2019/209",
+   "short": "HCL Buftea nr. 209/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 209/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Nuferilor, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/209.pdf",
+     "sha256": "9e97acf6d9e3745309338ba33cc82717499ed227bf8b7143e1fedbd0c851edec"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-21-2019",
+   "path": "local/ilfov/buftea/2019/21",
+   "short": "HCL Buftea nr. 21/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 21/2019 privind desemnarea reprezentantului oraşului Buftea în Adunarea Generală a Asociaţiei de Dezvoltare lntercomunitară pentru Gestionarea Integrată a Deşeurilor Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/21.pdf",
+     "sha256": "ea70d18ec70e87685368c7987e20ec8ae172c4abb71606c14a45138be9a1e031"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-210-2019",
+   "path": "local/ilfov/buftea/2019/210",
+   "short": "HCL Buftea nr. 210/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 210/2019 privind modificarea Hotărârii Consiliului Local al oraşului Buftea nr. 98/30.05.2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/210.pdf",
+     "sha256": "53ecad92e8db7da2a7c291bf7e07a3cdfc4685ce91b15da73dcdc24bfd098caf"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-211-2019",
+   "path": "local/ilfov/buftea/2019/211",
+   "short": "HCL Buftea nr. 211/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 211/2019 privind aprobarea documentaţiei tehnico-economice Studiu de fezabilitate pentru obiectivul de investiţii Modernizare străzi În oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/211.pdf",
+     "sha256": "f16e055f0849287d7b4e3395d87111fe259a8bd369300d7fe2658ec462d33092"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-212-2019",
+   "path": "local/ilfov/buftea/2019/212",
+   "short": "HCL Buftea nr. 212/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 212/2019 privind asigurarea serviciilor juridice de consultanţă, asistenţă şi reprezentare 1n vederea dobândirii prin expropriere/transfer a unor imobile de pe raza oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/212.pdf",
+     "sha256": "85f3c11451fb94fc5bf8cf02343fc2e6b5e0fb4d4e8be593cf9dce5100c8b857"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-213-2019",
+   "path": "local/ilfov/buftea/2019/213",
+   "short": "HCL Buftea nr. 213/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 213/2019 privind aprobarea Programului de măsuri şi acţiuni pentru prevenirea şi combaterea înzăpezirii şi poleiului pe drumurile din Oraşul Buftea, în perioada 01.11.2019- 31.12.2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/213.pdf",
+     "sha256": "25cc53bf1578886e1acd70ded03c58be984e6032d7f86ebd0bc5234d291b3c6f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-214-2019",
+   "path": "local/ilfov/buftea/2019/214",
+   "short": "HCL Buftea nr. 214/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 214/2019 privind însuşirea Raportului de diagnostic arheologic non-intruziv- evaluare teoretică, oraşul Buftea, NC 51687 şi NC 56939, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/214.pdf",
+     "sha256": "2b938589ab11dcb7a1379b3915f8b3d209299876d7411518477f709ceaf5b2c9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-215-2019",
+   "path": "local/ilfov/buftea/2019/215",
+   "short": "HCL Buftea nr. 215/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 215/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la liceul Tehnologic „Barbu A. Ştirbey”din oraşul Buftea, pentru lunile august, septembrie şi octombrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/215.pdf",
+     "sha256": "b8c29f59cc44db3aeaaa328c326f52229beb5d69b40597edd6faf716dc8a75dc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-216-2019",
+   "path": "local/ilfov/buftea/2019/216",
+   "short": "HCL Buftea nr. 216/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 216/2019 privind organizarea şi desfăşurarea evenimentului dedicat Zilei Naţionale a României 1 Decembrie",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/216.pdf",
+     "sha256": "f4ea84e2a8545b109a8b023d41833c4323736907f3ab15046bd660418d2a5e63"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-217-2019",
+   "path": "local/ilfov/buftea/2019/217",
+   "short": "HCL Buftea nr. 217/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 217/2019 privind organizarea serbării Pomul de Crăciun 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/217.pdf",
+     "sha256": "effdf3756bebc8706b965940048f6aff4b533c4bd11cbe3ef1d31fe78c115492"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-218-2019",
+   "path": "local/ilfov/buftea/2019/218",
+   "short": "HCL Buftea nr. 218/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 218/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Gutuiului, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/218.pdf",
+     "sha256": "02bfc6d6ce2598f2a125ecf0517f3367749734e98076c57fce45310bd0a3def8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-219-2019",
+   "path": "local/ilfov/buftea/2019/219",
+   "short": "HCL Buftea nr. 219/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 219/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Intrarea Mărăşesti, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/219.pdf",
+     "sha256": "82dbb770c07aa57138b41b630bee9638e0c2464a320e1ab2f3c4419753434a23"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-22-2019",
+   "path": "local/ilfov/buftea/2019/22",
+   "short": "HCL Buftea nr. 22/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 22/2019 privind prelungirea contractului de delegare a gestiunii serviciului de transport local de călători în oraşul Buftea încheiat cu S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/22.pdf",
+     "sha256": "d195e5461a881119151fad8f401fb91f84f33b5a578f3d0ecc94f2fb7b4a21fc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-220-2019",
+   "path": "local/ilfov/buftea/2019/220",
+   "short": "HCL Buftea nr. 220/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 220/2019 pentru modificarea Hotărârii Consiliului local nr. 97/31.08.2015 privind condiţiile de refacere a domeniului public/privat al oraşului Buftea, modernizat/reabilitat, aflat în perioada de garanţie",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/220.pdf",
+     "sha256": "139feb3c8527aca868aaed004c0b0ff005a241dfa3fb1a3d6891a4c492fb883d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-221-2019",
+   "path": "local/ilfov/buftea/2019/221",
+   "short": "HCL Buftea nr. 221/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 221/2019 privind atribuirea unei denumiri de stradă în intravilanul existent, oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/221.pdf",
+     "sha256": "74ab59f316de1409c404c92cf7f8317254f62a16305e5af3eaefcc4158a4625f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-222-2019",
+   "path": "local/ilfov/buftea/2019/222",
+   "short": "HCL Buftea nr. 222/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 222/2019 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul III 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/222.pdf",
+     "sha256": "f453fd4a6cefcdd2aee14e1e867a68f89487c59f97601af9b424b9440e12516b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-223-2019",
+   "path": "local/ilfov/buftea/2019/223",
+   "short": "HCL Buftea nr. 223/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 223/2019 privind aprobarea rectificării bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/223.pdf",
+     "sha256": "20119df197cfa6bee0698a428c0ff7d1890f933c995245fbeb517b8b856cb516"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-224-2019",
+   "path": "local/ilfov/buftea/2019/224",
+   "short": "HCL Buftea nr. 224/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 224/2019 privind aprobarea asocierii între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/224.pdf",
+     "sha256": "e69551a0ee5b7ffb0acef4a408860e19f5734aa6cdf02a76aa577af6846e1b94"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-225-2019",
+   "path": "local/ilfov/buftea/2019/225",
+   "short": "HCL Buftea nr. 225/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 225/2019 privind aprobarea programului de activităţi cultural – artistice şi educative pentru anul 2020, propus de Centrul Cultural Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/225.pdf",
+     "sha256": "e55993fb84cbbcda567bc3ec735f0fcbe39edb7a28c7bfbc8e03fb0118bd9f31"
     }
    ]
   },
@@ -273,6 +2043,321 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-229-2019",
+   "path": "local/ilfov/buftea/2019/229",
+   "short": "HCL Buftea nr. 229/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 229/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 60378",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/229.pdf",
+     "sha256": "bf7672f9169101869501ba2f22469baaf6736e95845795653fd90f569e19ba3a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-23-2019",
+   "path": "local/ilfov/buftea/2019/23",
+   "short": "HCL Buftea nr. 23/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 23/2019 privind neexercitarea dreptului de preemţiune de către oraşul Buftea asupra imobilului cu nr. cadastral 59660, ce figurează în lista monumentelor istorice din oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/23.pdf",
+     "sha256": "42898f8e89816db9a760521de4fe74c52186c888b20e4053970325f809333b85"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-230-2019",
+   "path": "local/ilfov/buftea/2019/230",
+   "short": "HCL Buftea nr. 230/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 230/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 60384",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/230.pdf",
+     "sha256": "a674480f19aea8611f331ff92a58489558fc4b61c73dacfe2b5e809db8485c09"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-231-2019",
+   "path": "local/ilfov/buftea/2019/231",
+   "short": "HCL Buftea nr. 231/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 231/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 60552, cu destinaţia de drum de acces",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/231.pdf",
+     "sha256": "c61e15a541b30de5b6732d7508db157d161025a251ce962522aba0c17e0d7b5d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-232-2019",
+   "path": "local/ilfov/buftea/2019/232",
+   "short": "HCL Buftea nr. 232/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 232/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 60616",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/232.pdf",
+     "sha256": "d2b073c03c27861b4ad783b58a97300c72ca8fa1f04d28369a59a4066fade7fa"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-233-2019",
+   "path": "local/ilfov/buftea/2019/233",
+   "short": "HCL Buftea nr. 233/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 233/2019 privind propunerea de organizare a reţelei şcolare la nivelul Unităţii Administrativ Teritoriale oraşul Buftea, Judeţul Ilfov, pentru anul şcolar 2020 – 2021",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/233.pdf",
+     "sha256": "e409b5706182b928ffda8b3a9d0188f4d37ffa946b802cb9e2ed44cb7644d702"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-234-2019",
+   "path": "local/ilfov/buftea/2019/234",
+   "short": "HCL Buftea nr. 234/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 234/2019 privind acordarea de mandat special Asociaţiei de Dezvoltare lntercomunitară pentru Transport Public Bucureşti – Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/234.pdf",
+     "sha256": "d2b435a7e8002f15c4185f6f22b7855c995a6073b53320487b7244dc7d91436f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-235-2019",
+   "path": "local/ilfov/buftea/2019/235",
+   "short": "HCL Buftea nr. 235/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 235/2019 privind darea în folosinţă gratuită către S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/235.pdf",
+     "sha256": "8378889a684e123d3cbe43645231175318f94394a20f4cb26adcab38b6db2b72"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-236-2019",
+   "path": "local/ilfov/buftea/2019/236",
+   "short": "HCL Buftea nr. 236/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 236/2019 privind acordarea de premii elevilor/sportivilor care au obţinut rezultate deosebite la concursuri interne/internaţionale precum şi cadrelor didactice/antrenorilor care i-au pregătit pe aceştia",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-11-22",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/236.pdf",
+     "sha256": "0e94ad2c1a093c014e1f5b54b27354491594bbc190a3acae96737f007125e114"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-237-2019",
+   "path": "local/ilfov/buftea/2019/237",
+   "short": "HCL Buftea nr. 237/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 237/2019 privind atribuirea şi încheierea contractului de delegare de gestiune prin concesiune a serviciului public de salubrizare din oraşul Buftea – Lot 1 Delegare de gestiune prin concesiune a serviciului public de salubrizare în oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/237.pdf",
+     "sha256": "3e717a5b1714a72fc8720d45fa655864561bfc8470c87b1afec4bf0c121d0263"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-238-2019",
+   "path": "local/ilfov/buftea/2019/238",
+   "short": "HCL Buftea nr. 238/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 238/2019 privind atribuirea şi încheierea contractului de delegare de gestiune prin concesiune a serviciului public de salubrizare din oraşul Buftea – Lot 2 – Delegare de gestiune prin concesiune a activităţilor de dezinsecţie, dezinfecţie şi deratizare în oraşul Bufte",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/238.pdf",
+     "sha256": "d4640f9e22596e7641932a4e0fe542fc50acda7898bde05960cff640edcf1ed7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-239-2019",
+   "path": "local/ilfov/buftea/2019/239",
+   "short": "HCL Buftea nr. 239/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 239/2019 privind premierea elevilor/sportivilor precum şi a cadrelordidactice/antrenorilor care au obţinut rezultate deosebite la concursuri/competiţii interne /internaţionale",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/239.pdf",
+     "sha256": "fdbfbcd3f42346b1fa2cc6d771643650eece715524e20c9cf0d3f4ecc6575aef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-24-2019",
+   "path": "local/ilfov/buftea/2019/24",
+   "short": "HCL Buftea nr. 24/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 24/2019 pentru Transport Public Bucureşti – Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-14",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/24.pdf",
+     "sha256": "cf6ded7e505272fc955c28813410c83af579bb4526f1dfcb432a1631ac1cf816"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-240-2019",
+   "path": "local/ilfov/buftea/2019/240",
+   "short": "HCL Buftea nr. 240/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 240/2019 pentru modificarea Hotărârii Consiliului Local al oraşului Buftea nr. 98/30.05.2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-13",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/240.pdf",
+     "sha256": "bc36b2e3e06469e5c6d54f4287a827ab096c569672732cdb937658f174316a65"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-241-2019",
+   "path": "local/ilfov/buftea/2019/241",
+   "short": "HCL Buftea nr. 241/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 241/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa Căsuţa Copilăriei Buftea, pentru luna octombrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/241.pdf",
+     "sha256": "74fcb25548e0680cfd51ba740cfa0c66f500845fad8b246e7db1bdc77f9e0b2d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-242-2019",
+   "path": "local/ilfov/buftea/2019/242",
+   "short": "HCL Buftea nr. 242/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 242/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna octombrie şi luna noiembrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/242.pdf",
+     "sha256": "766d2927a098beee47f29a514c30e099ea25a344adc4efc579dc10406ecf0910"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-243-2019",
+   "path": "local/ilfov/buftea/2019/243",
+   "short": "HCL Buftea nr. 243/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 243/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/243.pdf",
+     "sha256": "44cd163db394f8c3d195d67fa8607985894ad1f3c8dc4c15f3584c11a2028cca"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-244-2019",
+   "path": "local/ilfov/buftea/2019/244",
+   "short": "HCL Buftea nr. 244/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 244/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru lunile septembrie şi octombrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/244.pdf",
+     "sha256": "a342ba5bae99a8dca9bbea5b6600e2a23d0b57e371bf62b8eafc5782533c3d54"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-245-2019",
+   "path": "local/ilfov/buftea/2019/245",
+   "short": "HCL Buftea nr. 245/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 245/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru lunile septembrie şi octombrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/245.pdf",
+     "sha256": "368488c5cd1771b0f98d97b94bd3873439fdd33fbf0328d46023f3074fb34c8d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-246-2019",
+   "path": "local/ilfov/buftea/2019/246",
+   "short": "HCL Buftea nr. 246/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 246/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic Barbu A. Ştirbey din oraşul Buftea, pentru luna noiembrie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/246.pdf",
+     "sha256": "cdec6ac786f7a7ecb9045802c21c3e4bba584049078b80da7c68c0cde327a794"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-247-2019",
+   "path": "local/ilfov/buftea/2019/247",
+   "short": "HCL Buftea nr. 247/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 247/2019 privind aprobarea rectificării bugetului de venituri şi cheltuieli al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/247.pdf",
+     "sha256": "8db70a3f320bb27569f34fae4185ea11f56fc855c8da3e58d0f527545393b0df"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-248-2019",
    "path": "local/ilfov/buftea/2019/248",
    "short": "HCL Buftea nr. 248/2019",
@@ -284,6 +2369,441 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/248.pdf",
      "sha256": "24660533efbdab5dfec8586eed928c7869ceda98a29d54a5454398ce187db9b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-249-2019",
+   "path": "local/ilfov/buftea/2019/249",
+   "short": "HCL Buftea nr. 249/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 249/2019 privind anularea creanţelor fiscale mai mici de 40 lei având data scadentă mai veche de 31.12.2015, aflate în sold la data de 31.12.2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/249.pdf",
+     "sha256": "abe3b67530a8a70bd8655018ca3e2b3219464db473339c92d8f74fece1c9d599"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-25-2019",
+   "path": "local/ilfov/buftea/2019/25",
+   "short": "HCL Buftea nr. 25/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 25/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru lunile decembrie 2018 şi ianuarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/25.pdf",
+     "sha256": "4fb99cc9ec17d777dc9fe780fcd5283da22fbb5870fd9b7b075b8e605307b6b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-250-2019",
+   "path": "local/ilfov/buftea/2019/250",
+   "short": "HCL Buftea nr. 250/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 250/2019 privind prelungirea duratei unor contracte de închiriere pentru imobilele cu destinaţia de locuinţă şi pentru imobilele cu altă destinaţie decât cea de locuinţă, aflate în proprietatea/administrarea Unităţii Administrativ Teritoriale oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/250.pdf",
+     "sha256": "07fe408822b341e217af5488ee91679d791d73da2b1a516c594eb8836da1f3ee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-251-2019",
+   "path": "local/ilfov/buftea/2019/251",
+   "short": "HCL Buftea nr. 251/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 251/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/251.pdf",
+     "sha256": "ed05bf143e4935d2b67fc1bf468e28dc1467b03ba192fea0df6aeae24a83977c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-252-2019",
+   "path": "local/ilfov/buftea/2019/252",
+   "short": "HCL Buftea nr. 252/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 252/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/252.pdf",
+     "sha256": "cd9cf0464304bef40af150c9227eda7bded260427c726cb5522a8bf918a15954"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-253-2019",
+   "path": "local/ilfov/buftea/2019/253",
+   "short": "HCL Buftea nr. 253/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 253/2019 privind prelungirea parteneriatului încheiat între Consiliul local al oraşului Buftea, prin Direcţia Asistenţă Socială şi Asociaţia SOS Satele Copiilor- România",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/253.pdf",
+     "sha256": "eea355cc4e1e4342483030093083b1092fcfe03cae8f87e8ca7bf7bde3c892c8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-254-2019",
+   "path": "local/ilfov/buftea/2019/254",
+   "short": "HCL Buftea nr. 254/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 254/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/254.pdf",
+     "sha256": "3b6dc1c5c2ff5b51cfd54537dcc070db530cca399932fe111e5bfcc98d139959"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-255-2019",
+   "path": "local/ilfov/buftea/2019/255",
+   "short": "HCL Buftea nr. 255/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 255/2019 privind aprobarea Programului de măsuri şi acţiuni pentru prevenirea şi combaterea înzăpezirii şi poleiului pe drumurile din Oraşul Buftea, pentru sezonul rece 2019-2020",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/255.pdf",
+     "sha256": "ad8f0af5f02a1f323afaefff4c5118dcc8485404c5d1c8699554edc86781b6c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-256-2019",
+   "path": "local/ilfov/buftea/2019/256",
+   "short": "HCL Buftea nr. 256/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 256/2019 privind rectificarea bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/256.pdf",
+     "sha256": "76bcafef3cbd3c5cee14beca08ba18b1a3db8c9ef08f321507b011ccf84b10f3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-257-2019",
+   "path": "local/ilfov/buftea/2019/257",
+   "short": "HCL Buftea nr. 257/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 257/2019 pentru completarea şi modificarea art. 2 al Hotărârii Consiliului Local al oraşului Buftea nr. 98/30.05.2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult di",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/257.pdf",
+     "sha256": "3f093bb30cfb710e4b2155af0efbf271e011a954ca04638008897770fb1e0c60"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-258-2019",
+   "path": "local/ilfov/buftea/2019/258",
+   "short": "HCL Buftea nr. 258/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 258/2019 privind aprobarea convenţiei de parteneriat între Consiliul Local al oraşului Buftea prin Direcţia Asistenţă Sodală – Serviciul social Centru rezidenţial pentru tinerii din centre de plasament şi Direcţia Generală de Asistenţă Socială şi Protecţia Copilului Ilf",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/258.pdf",
+     "sha256": "178f2ae62925c5f2d606e5d343d7a2b438f5a8214d63cf1db8c62f0e6e771c2b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-259-2019",
+   "path": "local/ilfov/buftea/2019/259",
+   "short": "HCL Buftea nr. 259/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 259/2019 privind stabilirea numărului de autoturisme necesare desfăşurării activităţilor specifice de către autoritatea publică locală a oraşului Buftea/instituţiile din subordine",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-12-23",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/259.pdf",
+     "sha256": "1e8b7f98cee8da24f90dbd8cebeb005a6704704190a7609ea52f4c89ea614cb6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-26-2019",
+   "path": "local/ilfov/buftea/2019/26",
+   "short": "HCL Buftea nr. 26/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 26/2019 privind nprobarea d2contării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic „Barbu A. Ştirbey” din oraşul Buftea, pentru lunile decembrie 2018 şi ianuarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/26.pdf",
+     "sha256": "feb830fe067857ed55ba142b221cd4017253ff76b2a523874535cb1e4bc9a965"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-27-2019",
+   "path": "local/ilfov/buftea/2019/27",
+   "short": "HCL Buftea nr. 27/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 27/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru perioada octombrie 2018 – ianuarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/27.pdf",
+     "sha256": "5b71071796889e643f408c48cf6fd8b5021ee375abb3a4ad704f5dffc07edd66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-28-2019",
+   "path": "local/ilfov/buftea/2019/28",
+   "short": "HCL Buftea nr. 28/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 28/2019 privind aprobarea decontării cheltuieli lor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru perioada octombrie – decembrie 2018",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/28.pdf",
+     "sha256": "8537a19c57c776794c34d2dcb87f990873de9560b492bb0a1c3380aeb8dd6691"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-3-2019",
+   "path": "local/ilfov/buftea/2019/3",
+   "short": "HCL Buftea nr. 3/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 3/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic „Barbu A. Ştirbey” din oraşul Buftea, pentru luna noiembrie 2018",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/3.pdf",
+     "sha256": "1c1a6c756ed9f1364192992962b07f0f9bda4b22bda2213b5e82cb2e23445edd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-30-2019",
+   "path": "local/ilfov/buftea/2019/30",
+   "short": "HCL Buftea nr. 30/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 30/2019 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe anul 2018",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/30.pdf",
+     "sha256": "4db2065e46f13cc8c003f782b0f54d326742d9e09d097dea2d9252a8c69be462"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-31-2019",
+   "path": "local/ilfov/buftea/2019/31",
+   "short": "HCL Buftea nr. 31/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 31/2019 privind însuşirea rezultatului reevaluării bunurilor din patrimoniul oraşului Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/31.pdf",
+     "sha256": "9f39e2c05ed15db787df5fc963041c1a2e09832f24aa6a5c3becd3ada55f573b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-32-2019",
+   "path": "local/ilfov/buftea/2019/32",
+   "short": "HCL Buftea nr. 32/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 32/2019 privind aprobarea realizării obiectivului de investiţii Extindere reţea gaze naturale Strada Garoafelor, oraşul Buftea, judeţul Ilfov, a contribuţiei oraşului Buftea şi încheierea contractului de cofinanţare",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/32.pdf",
+     "sha256": "273695ad0912a0089e3ed9513a2068a7b2b2f819b5465247311d84c1591bbcf1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-33-2019",
+   "path": "local/ilfov/buftea/2019/33",
+   "short": "HCL Buftea nr. 33/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 33/2019 pentru aprobarea listei anuale privind ordinea de prioritate în soluţionarea cererilor de locuinţe pentru tineri destinate închirierii, realizate în cadrul programelor Agenţiei Naţionale pentru Locuinţe, din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/33.pdf",
+     "sha256": "24ecc8eeba2f25385dbeaed60c59423e5ff0178c83af6cd7813c1eff6e87e17d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-34-2019",
+   "path": "local/ilfov/buftea/2019/34",
+   "short": "HCL Buftea nr. 34/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 34/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/34.pdf",
+     "sha256": "1b06d3b4052472b40c4f0e1ecee61862e3f3835f26c7a6547cb88cba22a60384"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-35-2019",
+   "path": "local/ilfov/buftea/2019/35",
+   "short": "HCL Buftea nr. 35/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 35/2019 privind desemnarea reprezentanţilor acţionarilor în Adunarea Generală a Actionarilor a societătii General Public Serv S.A",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/35.pdf",
+     "sha256": "3a4894349a6f00b6f4885796d57ccbdae7cee1618968b0e022d81535ace26087"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-36-2019",
+   "path": "local/ilfov/buftea/2019/36",
+   "short": "HCL Buftea nr. 36/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 36/2019 privind aprobarea trecerii unor suprafeţe de teren din domeniul public al Unităţii Administrativ-Teritoriale Buftea şi administrarea Consiliului local Buftea în domeniul public al Judeţului Ilfov şi administrarea Consiliului Judeţean Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/36.pdf",
+     "sha256": "acbbb89dc62cb1b58eac3694da6bfe7e90054f55684b5ba20521eebdda7916dd"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-37-2019",
+   "path": "local/ilfov/buftea/2019/37",
+   "short": "HCL Buftea nr. 37/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 37/2019 privind aprobarea componenţei Comisiei Tehnice de Amenajare a Teritoriului şi de Urbanism a oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/37.pdf",
+     "sha256": "89eec43db4014f334c03db7a70a343e03d3c0727289870d72b91aef05f1fd2ce"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-38-2019",
+   "path": "local/ilfov/buftea/2019/38",
+   "short": "HCL Buftea nr. 38/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 38/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 59197",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/38.pdf",
+     "sha256": "3e1e7427a3708f55dc68d1261f85ca40a5f83438abbfe55b21211506c4b0fa12"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-39-2019",
+   "path": "local/ilfov/buftea/2019/39",
+   "short": "HCL Buftea nr. 39/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 39/2019 privind acceptarea ofertei de donaţie a imobilului teren situat în oraşul Buftea, judeţ Ilfov, cu nr. cadastral 59745",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/39.pdf",
+     "sha256": "32897039ee7b5fa0f17d0b93c3a6edcf4380013fc744b84c8a3b301590ea94b4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-4-2019",
+   "path": "local/ilfov/buftea/2019/4",
+   "short": "HCL Buftea nr. 4/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 4/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/4.pdf",
+     "sha256": "fc5c09c01c600d279c091b1b3ce5ae577b179c602287729fa3c8927a97ad3c0d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-40-2019",
+   "path": "local/ilfov/buftea/2019/40",
+   "short": "HCL Buftea nr. 40/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 40/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/40.pdf",
+     "sha256": "cdd398b0b0233817cfc0faaa9c7574ad652034e2a95e3ad687583d72301ac1f8"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-41-2019",
+   "path": "local/ilfov/buftea/2019/41",
+   "short": "HCL Buftea nr. 41/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 41/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/41.pdf",
+     "sha256": "a04a977d6d34e863cde593feb5a3b960c39467b59bf58c768b96f4c06a7fc44e"
     }
    ]
   },
@@ -303,6 +2823,156 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-43-2019",
+   "path": "local/ilfov/buftea/2019/43",
+   "short": "HCL Buftea nr. 43/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 43/2019 privind aprobarea listei de prioritate în vederea atribuirii de terenuri în baza Legii nr.15/2003",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/43.pdf",
+     "sha256": "260bc518f8e7f4254e4b847367775e3e1f9ab797eaac8f0f71749624998e665b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-44-2019",
+   "path": "local/ilfov/buftea/2019/44",
+   "short": "HCL Buftea nr. 44/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 44/2019 privind aprobarea convenţiei de colaborare între UAT Oraş Buftea – Consiliul Local al oraşului Buftea prin Direcţia Asistenţă Socială şi Asociaţia „S.O.S",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-02-28",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/44.pdf",
+     "sha256": "48d842174790d28aa081ef6706b1615d65833ecafcf94ac648f4fe573b87823a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-45-2019",
+   "path": "local/ilfov/buftea/2019/45",
+   "short": "HCL Buftea nr. 45/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 45/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Grădiniţa „Căsuţa Copilăriei” din oraşul Buftea, pentru luna ianuarie şi luna februarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/45.pdf",
+     "sha256": "da2449ed891dd0be579197d9d550880270c134ab36d6ec9ab594f2d3f0be0d90"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-46-2019",
+   "path": "local/ilfov/buftea/2019/46",
+   "short": "HCL Buftea nr. 46/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 46/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru luna ianuarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/46.pdf",
+     "sha256": "52023544abee543e25a3ce0d3a3c2ac5b47f0bce4b0c73e6819d00b32ee16140"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-47-2019",
+   "path": "local/ilfov/buftea/2019/47",
+   "short": "HCL Buftea nr. 47/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 47/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna februarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/47.pdf",
+     "sha256": "52b087e96e73d8e2ec4b809f1bfd66c03a44dd6fa5ab47cbefa54abe3f90bca0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-48-2019",
+   "path": "local/ilfov/buftea/2019/48",
+   "short": "HCL Buftea nr. 48/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 48/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/48.pdf",
+     "sha256": "9afe611288d06deb566e7336bac80a5cf2c4df31527b0aabbfcbc0f89b51af81"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-49-2019",
+   "path": "local/ilfov/buftea/2019/49",
+   "short": "HCL Buftea nr. 49/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 49/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru luna februarie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/49.pdf",
+     "sha256": "ff22c74123070d3a207f28d4fcbb7f9c3b3feb1d2aae5153b6b479dae15b2538"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-5-2019",
+   "path": "local/ilfov/buftea/2019/5",
+   "short": "HCL Buftea nr. 5/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 5/2019 privind aprobarea Planului de asigurare a resurselor umane, materiale şi financiare necesare gestionării situaţiilor de urgenţă pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/5.pdf",
+     "sha256": "d46afaf1e3f2db098fbaebbd7780f0e4f8f40806b57a7ed9c37ce78a8853f6d4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-50-2019",
+   "path": "local/ilfov/buftea/2019/50",
+   "short": "HCL Buftea nr. 50/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 50/2019 privind aprobarea listei de repartizare a locuinţelor pentru tineri destinate închirierii, realizate în cadrul programelor Agenţiei Naţionale pentru Locuinţe, din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/50.pdf",
+     "sha256": "896849e126c1a706e73e3030987396d411f40a954ca5df83f4233aa65a0a022a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-51-2019",
+   "path": "local/ilfov/buftea/2019/51",
+   "short": "HCL Buftea nr. 51/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 51/2019 privind deplasarea unei delegaţii în Oraşul laloveni, Raionul laloveni – Republica Moldova",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-03-20",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/51.pdf",
+     "sha256": "afada92d94d274dbfc750d0a4a24da0927b5849af1c0aad68024a3e4196ba0d7"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-53-2019",
    "path": "local/ilfov/buftea/2019/53",
    "short": "HCL Buftea nr. 53/2019",
@@ -314,6 +2984,321 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/53.pdf",
      "sha256": "fd59293bb44749a764d3bc2b390b76861c59030d8f7a4aaeee6cffd59b052ca6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-54-2019",
+   "path": "local/ilfov/buftea/2019/54",
+   "short": "HCL Buftea nr. 54/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 54/2019 privind actualizarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (faza DALI) pentru obiectivul de investiţii “Eficientizarea energetică a clădirilor rezidenţiale – Lotul 1”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/54.pdf",
+     "sha256": "f1c4d84aa55b3e38b90de3cb8bdb43523c36e5552ec156d5be9229e0694c6f1c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-55-2019",
+   "path": "local/ilfov/buftea/2019/55",
+   "short": "HCL Buftea nr. 55/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 55/2019 privind actualizarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (faza DALI) pentru obiectivul de investiţii “Eficientizarea energetică a clădirilor rezidenţiale – Lotul 2”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/55.pdf",
+     "sha256": "b5a66bb73d2823ae73ca3831571ee4d6ab0a430159343cdd2b2d9ee4efc3f1b0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-56-2019",
+   "path": "local/ilfov/buftea/2019/56",
+   "short": "HCL Buftea nr. 56/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 56/2019 privind actualizarea indicatorilor tehnico-economici şi a documentaţiilor tehnico – economice (faza DALI) pentru obiectivul de investiţii “Eficientizarea energetică a clădirilor rezidenţiale – Lotul 3”",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/56.pdf",
+     "sha256": "4b259c837acedc1fe8d15c93e96ef6113c909afbacb6040bda41ea92d768a499"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-57-2019",
+   "path": "local/ilfov/buftea/2019/57",
+   "short": "HCL Buftea nr. 57/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 57/2019 pentru Consiliului local Buftea nr. 104/04.08.2017 privind aprobarea cererii de finanţare „Eficientizarea energetică a clădirilor rezidenţiale – Lot 1″ şi a cheltuielilor aferente acesteia, în vederea depunerii spre finanţare şi rambursării ulterioare a cheltuiel",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/57.pdf",
+     "sha256": "f7fe4e7bdcd60be658981dc6a5a97c007572f42d28fc72507f6fb0c762e31a01"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-59-2019",
+   "path": "local/ilfov/buftea/2019/59",
+   "short": "HCL Buftea nr. 59/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 59/2019 pentru modificarea Hotărârii Consiliului local Buftea nr. 106/04.08.2017 privind aprobarea cererii de finanţare „Eficientizarea energetică a clădirilor rezidenţiale – Lot 3″ şi a cheltuielilor aferente acesteia, în vederea depunerii spre finanţare şi rambursării",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-19",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/59.pdf",
+     "sha256": "0f15ecd4099902422d02de9c42f994f13e223369cbcbfc7bab6cba9fa0d1ffee"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-6-2019",
+   "path": "local/ilfov/buftea/2019/6",
+   "short": "HCL Buftea nr. 6/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 6/2019 privind aprobarea prelungirii contractelor de închiriere pentru locuinţele construite prin Agenţia Naţională de Locuinţe, situate în oraşul Buftea, strada Oltului şi strada Vlăsiei",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/6.pdf",
+     "sha256": "096828e1e32157892969761584759a0f37a1a18e2b655513076b63567cf2b77a"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-60-2019",
+   "path": "local/ilfov/buftea/2019/60",
+   "short": "HCL Buftea nr. 60/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 60/2019 privind alegerea preşedintelui de şedinţă pentru perioada mai – iulie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/60.pdf",
+     "sha256": "c8dc1d61da0382a098215312d46a8aeffb1b4928335df1da160afbba270de398"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-61-2019",
+   "path": "local/ilfov/buftea/2019/61",
+   "short": "HCL Buftea nr. 61/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 61/2019 privind aprobarea bugetului general al Oraşului Buftea pe anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/61.pdf",
+     "sha256": "d86adeda85d65b8c2e00fc503d8665ab6d951191523c3c078915d97730df957c"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-63-2019",
+   "path": "local/ilfov/buftea/2019/63",
+   "short": "HCL Buftea nr. 63/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 63/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru Consiliul local al oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/63.pdf",
+     "sha256": "d5bf90f91b239807c8e57105ac9b6de37d243f416b60c50cfb442bb9d59ed4bb"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-64-2019",
+   "path": "local/ilfov/buftea/2019/64",
+   "short": "HCL Buftea nr. 64/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 64/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna martie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/64.pdf",
+     "sha256": "0ec7745cb36d1f6f1c1d9b99a6b2c40de5c80068e1876cba901a2e0414b477d9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-65-2019",
+   "path": "local/ilfov/buftea/2019/65",
+   "short": "HCL Buftea nr. 65/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 65/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/65.pdf",
+     "sha256": "95be6fad539c3dc880614717678b5079110bc6f8e2ede85b8fc509dceaaf5434"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-66-2019",
+   "path": "local/ilfov/buftea/2019/66",
+   "short": "HCL Buftea nr. 66/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 66/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/66.pdf",
+     "sha256": "6ce00000aa2db0d6a85efd5811972303784a85e2b5b0ba8b3d54087675a472ea"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-67-2019",
+   "path": "local/ilfov/buftea/2019/67",
+   "short": "HCL Buftea nr. 67/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 67/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/67.pdf",
+     "sha256": "7214545a9ecc86d87499af97c1b43d5e66f03f0de3d58f713b1b76a920531eb7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-68-2019",
+   "path": "local/ilfov/buftea/2019/68",
+   "short": "HCL Buftea nr. 68/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 68/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/68.pdf",
+     "sha256": "0ad3f835c9b512ce796c55e53656dd7c356f1c6eeea34dfb81ccabb4e934fd30"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-69-2019",
+   "path": "local/ilfov/buftea/2019/69",
+   "short": "HCL Buftea nr. 69/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 69/2019 privind stabilirea componenţei echipei mobile pentru intervenţia de urgenţă în cazurile de violenţă domestică",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/69.pdf",
+     "sha256": "96b14cab61f822d3ef651a37eb89425eb8df5cd48bf6a50b239f3b40b905d13d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-7-2019",
+   "path": "local/ilfov/buftea/2019/7",
+   "short": "HCL Buftea nr. 7/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 7/2019 privind încetarea contractului de concesiune nr. 91/27.06.2011, încheiat între Oraşul Buftea şi Societatea Civilă Medicală „Dr",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/7.pdf",
+     "sha256": "6f7a858e02d758de2a6e92f45095812de2199a0ac1b04b107bc2326a6f4b95a7"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-70-2019",
+   "path": "local/ilfov/buftea/2019/70",
+   "short": "HCL Buftea nr. 70/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 70/2019 privind aprobarea ordinii de zi a AGA ADTPBI şi acordarea de mandat special Asociaţiei de Dezvoltare lntercomunitară pentru Transport Public Bucureşti – Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/70.pdf",
+     "sha256": "7187758a57ee5b1046262cf90c231a0f910e2b67f5d9173b581de8725530f3c0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-72-2019",
+   "path": "local/ilfov/buftea/2019/72",
+   "short": "HCL Buftea nr. 72/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 72/2019 privind aprobarea bugetului de venituri şi cheltuieli al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/72.pdf",
+     "sha256": "83977a1a4604ae2c52c9ef2271bfd3264acb12a0c407364c6284f2d3d2a1a1f9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-73-2019",
+   "path": "local/ilfov/buftea/2019/73",
+   "short": "HCL Buftea nr. 73/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 73/2019 privind aprobarea bugetului de venituri şi cheltuieli al S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/73.pdf",
+     "sha256": "f053e1d85a73c48290adef2a7b754a4b2c3483ff3d7027fb971b2b748f3babe2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-75-2019",
+   "path": "local/ilfov/buftea/2019/75",
+   "short": "HCL Buftea nr. 75/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 75/2019 privind stabilirea modalităţii de gestiune a serviciului de salubrizare în Oraşul Buftea şi aprobarea documentaţiei de atribuire a contractului de delegare a gestiunii prin concesiune",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/75.pdf",
+     "sha256": "694653658d64e013613999af5379d44c75257748d71a9418ca01d261a1c21165"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-76-2019",
+   "path": "local/ilfov/buftea/2019/76",
+   "short": "HCL Buftea nr. 76/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 76/2019 privind aprobarea încheierii unui parteneriat între Oraşul Buftea prin Consiliul local al oraşului Buftea şi Administraţia Naţională „Apele Române” – Administraţia Bazinală de apă Argeş-Vedea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/76.pdf",
+     "sha256": "06e67b0827b1922c8f165ae7d8ea4a6a67c7d3e8cd144c5f9b419e45864f99ad"
     }
    ]
   },
@@ -333,6 +3318,216 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--buftea-78-2019",
+   "path": "local/ilfov/buftea/2019/78",
+   "short": "HCL Buftea nr. 78/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 78/2019 privind premierea sportivilor, membri ai echipelor de fotbal din cadrul ASOCIAŢIEI CLUB SPORTIV DE SĂNĂTATE VOINŢA BUFTEA",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-04-24",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/78.pdf",
+     "sha256": "09f2c6c5989b315d7b6175f4011a2781d269c05425050f18612c2731367d3bc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-79-2019",
+   "path": "local/ilfov/buftea/2019/79",
+   "short": "HCL Buftea nr. 79/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 79/2019 pentru modificarea art. 2 al Hotărârii Consiliului local Buftea nr. 104/04.08. 2017 privind aprobarea cererii de finanţare „Eficientizarea energetică a clădirilor rezidenţiale – Lot 1″ şi a cheltuielilor aferente acesteia, în vederea depunerii spre finanţare şi rambu",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/79.pdf",
+     "sha256": "9376229d9022fbd95b2157a969af2e504553365cfcbdf4480bf64f75da30cf66"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-8-2019",
+   "path": "local/ilfov/buftea/2019/8",
+   "short": "HCL Buftea nr. 8/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 8/2019 privind retragerea dreptului de a beneficia de atribuirea în folosinţă gratuită a unui teren în condiţiile Legii nr. 15/2003",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/8.pdf",
+     "sha256": "03ef0b29594f511221bce35e5b9af1c4978d3d2b243590f4d4617b934451e5b2"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-80-2019",
+   "path": "local/ilfov/buftea/2019/80",
+   "short": "HCL Buftea nr. 80/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 80/2019 pentru modificarea art.2 al Hotărârii Consiliului local Buftea nr. 105/04.08. 2017 privind aprobarea cererii de finanţare „Eficientizarea energetică a clădirilor rezidenţiale – Lot 2″ şi a cheltuielilor aferente acesteia, în vederea depunerii spre finanţare şi rambur",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/80.pdf",
+     "sha256": "12ad0fda58c9cb01484ed923a5f9949410877e022c97df854081430885bb8fc3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-81-2019",
+   "path": "local/ilfov/buftea/2019/81",
+   "short": "HCL Buftea nr. 81/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 81/2019 pentru modificarea art.2 al Hotărârii Consiliului local Buftea nr. 106/04.08.2017 privind aprobarea cererii de finanţare „Eficientizarea energetică a clădirilor rezidenţiale – Lot 3″ şi a cheltuielilor aferente acesteia, în vederea depunerii spre finanţare şi ramburs",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/81.pdf",
+     "sha256": "8564420e8897e6ec92a64a740ae5a8ca9b9610905df9faaeef65d95fed1868e3"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-82-2019",
+   "path": "local/ilfov/buftea/2019/82",
+   "short": "HCL Buftea nr. 82/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 82/2019 privind încetarea contractului de delegare de gestiune prin concesiune a serviciului de salubrizare în oraşul Buftea, nr. 6/30891/26.02.2013, încheiat între Oraşul Buftea şi S.C",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/82.pdf",
+     "sha256": "4b7ed03dfde13e213b885705314b0a9f6fcfd7bf89b84d458782d5aa3b5c5161"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-84-2019",
+   "path": "local/ilfov/buftea/2019/84",
+   "short": "HCL Buftea nr. 84/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 84/2019 privind aprobarea cuantumului şi a numărului de burse acordate elevilor din unităţile de învăţământ preuniversitar de stat din oraşul Buftea, în anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-17",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/84.pdf",
+     "sha256": "a1aa07b307badb1872aa19da56eef36d78864d89126912ec0c7ec75dc28c50db"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-85-2019",
+   "path": "local/ilfov/buftea/2019/85",
+   "short": "HCL Buftea nr. 85/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 85/2019 privind aprobarea contului de execuţie al bugetului general al oraşului Buftea, pe trimestrul I 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/85.pdf",
+     "sha256": "11cf777c29465624a036d19a77c2e33b8bed0464238c811e8126541cdb8bd87d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-86-2019",
+   "path": "local/ilfov/buftea/2019/86",
+   "short": "HCL Buftea nr. 86/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 86/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/86.pdf",
+     "sha256": "60d7b549f8e47a36766fa615cc5357fa4b0e858e9e1069d12448dcbe410e0d76"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-87-2019",
+   "path": "local/ilfov/buftea/2019/87",
+   "short": "HCL Buftea nr. 87/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 87/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 2 din oraşul Buftea, pentru luna aprilie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/87.pdf",
+     "sha256": "00f56116dd6f7be25427dc6f4f8f1d1dd7576f68cd67c1ae17559fbd1b01058f"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-88-2019",
+   "path": "local/ilfov/buftea/2019/88",
+   "short": "HCL Buftea nr. 88/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 88/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Liceul Tehnologic „Barbu A. Ştirbey” din oraşul Buftea, pentru lunile martie şi aprilie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/88.pdf",
+     "sha256": "d0c7cc1e9f2c97f6cbb538f4a2c6dafc9145b9ab1dd957afc9fda14c34d46cb0"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-89-2019",
+   "path": "local/ilfov/buftea/2019/89",
+   "short": "HCL Buftea nr. 89/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 89/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 3 din oraşul Buftea, pentru luna aprilie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/89.pdf",
+     "sha256": "594e37fbcc40123d17085077d776aab79ff072ffe178e0d7de26102043940d3d"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-9-2019",
+   "path": "local/ilfov/buftea/2019/9",
+   "short": "HCL Buftea nr. 9/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 9/2019 privind aprobarea Planului de acţiuni şi lucrări de interes local în vederea repartizării orelor de muncă prestate lunar de către persoanele majore apte de muncă beneficiare ale Legii nr. 416/2001, pentru anul 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-01-29",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/9.pdf",
+     "sha256": "44eae16984e7fd505609ca6b94480ebc2a0c7c69170defe70393a03c0c39fc08"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-90-2019",
+   "path": "local/ilfov/buftea/2019/90",
+   "short": "HCL Buftea nr. 90/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 90/2019 privind aprobarea decontării cheltuielilor aferente navetei cadrelor didactice care îşi desfăşoară activitatea la Şcoala Gimnazială nr. 1 din oraşul Buftea, pentru lunile februarie şi martie 2019",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/90.pdf",
+     "sha256": "c493f0d23f7b655db9e97bb36657160d63278b3ca76e55aa07a43c6c834c356a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--buftea-91-2019",
    "path": "local/ilfov/buftea/2019/91",
    "short": "HCL Buftea nr. 91/2019",
@@ -344,6 +3539,111 @@
      "units": 1,
      "source_url": "https://www.primariabuftea.ro/hcl/2019/91.pdf",
      "sha256": "68714edf9d6e98050bd6178939370d39fbf37f5c7c99f8b50d4ffbfefe64aaa6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-92-2019",
+   "path": "local/ilfov/buftea/2019/92",
+   "short": "HCL Buftea nr. 92/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 92/2019 privind modificarea organigramei, a statului de funcţii şi a numărului de personal ce aparţin aparatului de specialitate al Primarului oraşului Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/92.pdf",
+     "sha256": "e2cb42927bf98de677d335c8320654c8dddfaad0fb5bd8685af30227d954f879"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-94-2019",
+   "path": "local/ilfov/buftea/2019/94",
+   "short": "HCL Buftea nr. 94/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 94/2019 privind prelungirea duratei protocolului de colaborare încheiat între Consiliul local al oraşului Buftea şi Baroul Ilfov prin Hotărârea Consiliului local Buftea nr. 8/2013",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/94.pdf",
+     "sha256": "77add49f243ab7245deb7ed7d84a60cfb0573844ac3cc97d4338d34d1b31e7f1"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-95-2019",
+   "path": "local/ilfov/buftea/2019/95",
+   "short": "HCL Buftea nr. 95/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 95/2019 privind aprobarea dezmembrării unui imobil teren aparţinând domeniului privat al oraşului Buftea, situat în oraşul Buftea, şos. Bucureşti -Târgovişte, nr.119, nr. cadastral 59800",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/95.pdf",
+     "sha256": "851764e7e64c3d95f2214ddfb42d2b94d7eb02c1a67421e343916d4c20a44def"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-96-2019",
+   "path": "local/ilfov/buftea/2019/96",
+   "short": "HCL Buftea nr. 96/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 96/2019",
+   "url": null,
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/96.pdf",
+     "sha256": "3458f4e935202268e74b73b09766967250266ae799a2c35566f0c2559bd5c9e4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-97-2019",
+   "path": "local/ilfov/buftea/2019/97",
+   "short": "HCL Buftea nr. 97/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 97/2019 privind aprobarea rezultatului evaluării anuale a managementului Centrului Cultural Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/97.pdf",
+     "sha256": "e1958e790588cc6ff51c42217949d532446ba6105d9b23eb9d17f30aad2056a9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-98-2019",
+   "path": "local/ilfov/buftea/2019/98",
+   "short": "HCL Buftea nr. 98/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 98/2019 privind alocarea unor sume de bani din bugetul local pe anul 2019, ca sprijin financiar pentru completarea fondurilor proprii ale unităţilor de cult din oraşul Buftea",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/98.pdf",
+     "sha256": "ed27cd3d15cd0ca4c4c7ee904d7ccaae618d5b8a8218af96912674f1356ac860"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--buftea-99-2019",
+   "path": "local/ilfov/buftea/2019/99",
+   "short": "HCL Buftea nr. 99/2019",
+   "title": "Hotărârea Consiliului Local al Orașului Buftea nr. 99/2019 privind aprobarea documentaţiei de urbanism Plan Urbanistic de Detaliu „Strada Iasomiei, nr .6″, oraşul Buftea, judeţul Ilfov",
+   "url": "https://www.primariabuftea.ro/hotarari-consiliul-local-buftea-2019/",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 1,
+     "source_url": "https://www.primariabuftea.ro/hcl/2019/99.pdf",
+     "sha256": "cd8ea4bd81c9d45f87d5d906845714a3c642817af766171a1e89e3af0b89c714"
     }
    ]
   }

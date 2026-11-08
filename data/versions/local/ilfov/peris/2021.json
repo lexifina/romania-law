@@ -303,6 +303,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-28-2021",
+   "path": "local/ilfov/peris/2021/28",
+   "short": "HCL Periș nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 28/2021 privind aprobarea acordării unui sprijin financiar pentru Parohia Brătulești, comuna Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/24654",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/24654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-29-2021",
+   "path": "local/ilfov/peris/2021/29",
+   "short": "HCL Periș nr. 29/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 29/2021 privind aprobarea acordării unui sprijin financiar pentru Parohia Periș, comuna Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/24655",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/24655",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-3-2021",
    "path": "local/ilfov/peris/2021/3",
    "short": "HCL Periș nr. 3/2021",
@@ -328,6 +358,21 @@
      "from": "2021-05-24",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/25288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-31-2021",
+   "path": "local/ilfov/peris/2021/31",
+   "short": "HCL Periș nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 31/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/29740",
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/29740",
      "sha256": null
     }
    ]
@@ -378,6 +423,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-35-2021",
+   "path": "local/ilfov/peris/2021/35",
+   "short": "HCL Periș nr. 35/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 35/2021 privind realizarea unui raport de expertiza in vederea stabilirii cuantumului despagubirilor pentru investitiile facute, ce se pot acorda delegatului serviciului public de alimentare cu apa al comunei Peris, in situatia in care delegatarul ar proceda la denuntarea unilaterala a Contractului nr. 8052 din 06.09.2011",
+   "url": "https://emol.ro/peris-if/registru-hcl/29748",
+   "versions": [
+    {
+     "from": "2021-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/29748",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-36-2021",
    "path": "local/ilfov/peris/2021/36",
    "short": "HCL Periș nr. 36/2021",
@@ -403,6 +463,21 @@
      "from": "2021-07-12",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/29825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-38-2021",
+   "path": "local/ilfov/peris/2021/38",
+   "short": "HCL Periș nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 38/2021 privind aprobarea încheierii unui contract de închiriere cu Alexe Alexandra-Miruna",
+   "url": "https://emol.ro/peris-if/registru-hcl/29826",
+   "versions": [
+    {
+     "from": "2021-07-12",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/29826",
      "sha256": null
     }
    ]
@@ -558,6 +633,36 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-48-2021",
+   "path": "local/ilfov/peris/2021/48",
+   "short": "HCL Periș nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 48/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/32977",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/32977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-49-2021",
+   "path": "local/ilfov/peris/2021/49",
+   "short": "HCL Periș nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 49/2021 privind aprobarea contractării serviciilor de capturare, transport şi gestionare a câinilor fără stăpân de pe domeniul public al comunei Peris, județul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/32978",
+   "versions": [
+    {
+     "from": "2021-08-19",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/32978",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-5-2021",
    "path": "local/ilfov/peris/2021/5",
    "short": "HCL Periș nr. 5/2021",
@@ -618,6 +723,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-53-2021",
+   "path": "local/ilfov/peris/2021/53",
+   "short": "HCL Periș nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 53/2021",
+   "url": "https://emol.ro/peris-if/registru-hcl/36577",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/36577",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-54-2021",
    "path": "local/ilfov/peris/2021/54",
    "short": "HCL Periș nr. 54/2021",
@@ -628,6 +748,21 @@
      "from": "2021-09-30",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/37148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-55-2021",
+   "path": "local/ilfov/peris/2021/55",
+   "short": "HCL Periș nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 55/2021 privind aprobarea acordării unui sprijin financiar pentru Parohia Peris, comuna Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/37149",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/37149",
      "sha256": null
     }
    ]
@@ -678,6 +813,21 @@
    ]
   },
   {
+   "slug": "hcl-ilfov--peris-59-2021",
+   "path": "local/ilfov/peris/2021/59",
+   "short": "HCL Periș nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 59/2021 privind închirierea, prin licitaţie publică,a unui bun situat în comuna Periș, str. George Coșbuc, nr. 14, aflat în domeniul privat al comunei Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/39280",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/39280",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-ilfov--peris-6-2021",
    "path": "local/ilfov/peris/2021/6",
    "short": "HCL Periș nr. 6/2021",
@@ -688,6 +838,21 @@
      "from": "2021-02-10",
      "units": 1,
      "source_url": "https://emol.ro/peris-if/registru-hcl/17116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-ilfov--peris-60-2021",
+   "path": "local/ilfov/peris/2021/60",
+   "short": "HCL Periș nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Periș nr. 60/2021 privind aprobarea acordării unui sprijin financiar pentru Parohia Brătulești, comuna Periș Judeţul Ilfov",
+   "url": "https://emol.ro/peris-if/registru-hcl/39281",
+   "versions": [
+    {
+     "from": "2021-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/peris-if/registru-hcl/39281",
      "sha256": null
     }
    ]

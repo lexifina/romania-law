@@ -91,6 +91,29 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-5-2022",
+"path": "local/ilfov/cornetu/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 5/2022",
+"short": "HCL Cornetu nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/49488",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-6-2022",
 "path": "local/ilfov/cornetu/2022/6",
 "kind": "local",
@@ -203,6 +226,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-11-2022",
+"path": "local/ilfov/cornetu/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 11/2022 privind indexarea tarifelor de inchiriere pentru spatiile cu alta destinatie decat aceea de locuinta si a terenurilor aferente pentru anul 2022",
+"short": "HCL Cornetu nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/49494",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-12-2022",
 "path": "local/ilfov/cornetu/2022/12",
 "kind": "local",
@@ -223,6 +268,28 @@
 "flags": {
 "text_pending": "source",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-13-2022",
+"path": "local/ilfov/cornetu/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 13/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Cornetu",
+"short": "HCL Cornetu nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-01-31",
+"latest": "2022-01-31",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/49496",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -271,6 +338,51 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-16-2022",
+"path": "local/ilfov/cornetu/2022/16",
+"kind": "local",
+"year": "2022",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 16/2022",
+"short": "HCL Cornetu nr. 16/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-10",
+"latest": "2022-02-10",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/50534",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-17-2022",
+"path": "local/ilfov/cornetu/2022/17",
+"kind": "local",
+"year": "2022",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 17/2022 privind desemnarea unui reprezentant al Consiliului Local Cornetu si a unui membru supleant, care sa faca parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director/director adjunct din unitatile de invatamant preuniversitar de stat de pe raza comunei Cornetu, judetul Ilfov",
+"short": "HCL Cornetu nr. 17/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/53011",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-18-2022",
 "path": "local/ilfov/cornetu/2022/18",
 "kind": "local",
@@ -290,6 +402,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-19-2022",
+"path": "local/ilfov/cornetu/2022/19",
+"kind": "local",
+"year": "2022",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 19/2022 privind aprobarea Planului local de asigurare a resurselor umane, materiale si financiare necesare gestionarii situatiilor de urgenta pe anul 2022",
+"short": "HCL Cornetu nr. 19/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-02-28",
+"latest": "2022-02-28",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/53013",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -560,6 +694,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-32-2022",
+"path": "local/ilfov/cornetu/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 32/2022 privind indexarea cu rata inflatiei a impozitelor si taxelor locale pentru anul 2023",
+"short": "HCL Cornetu nr. 32/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/59141",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-33-2022",
+"path": "local/ilfov/cornetu/2022/33",
+"kind": "local",
+"year": "2022",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 33/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Cornetu, judetul Ilfov",
+"short": "HCL Cornetu nr. 33/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-05-18",
+"latest": "2022-05-18",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/59142",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-34-2022",
 "path": "local/ilfov/cornetu/2022/34",
 "kind": "local",
@@ -781,6 +959,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-44-2022",
+"path": "local/ilfov/cornetu/2022/44",
+"kind": "local",
+"year": "2022",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 44/2022 privind suplimentarea numarului burselor scolare aferente semestrului al II-lea al anului scolar 2021-2022 pentru elevii din invatamantul preuniversitar de stat din comuna Cornetu",
+"short": "HCL Cornetu nr. 44/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-17",
+"latest": "2022-06-17",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/61596",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-45-2022",
 "path": "local/ilfov/cornetu/2022/45",
 "kind": "local",
@@ -800,6 +1000,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-46-2022",
+"path": "local/ilfov/cornetu/2022/46",
+"kind": "local",
+"year": "2022",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 46/2022",
+"short": "HCL Cornetu nr. 46/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-17",
+"latest": "2022-06-17",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/61598",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -846,6 +1069,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-49-2022",
+"path": "local/ilfov/cornetu/2022/49",
+"kind": "local",
+"year": "2022",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 49/2022",
+"short": "HCL Cornetu nr. 49/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-17",
+"latest": "2022-06-17",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/63479",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1004,6 +1250,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-57-2022",
+"path": "local/ilfov/cornetu/2022/57",
+"kind": "local",
+"year": "2022",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 57/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Cornetu, judetul Ilfov",
+"short": "HCL Cornetu nr. 57/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/66760",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-58-2022",
 "path": "local/ilfov/cornetu/2022/58",
 "kind": "local",
@@ -1045,6 +1313,29 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-60-2022",
+"path": "local/ilfov/cornetu/2022/60",
+"kind": "local",
+"year": "2022",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 60/2022",
+"short": "HCL Cornetu nr. 60/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/69813",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -1093,6 +1384,94 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-63-2022",
+"path": "local/ilfov/cornetu/2022/63",
+"kind": "local",
+"year": "2022",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 63/2022 privind desemnarea reprezentantilor Consiliului Local Cornetu pentru a deveni membri in Consiliul de Administratie si in Comisia pentru Evaluarea si Asigurarea Calitatii ale Scolii Gimnaziale nr.1 Cornetu",
+"short": "HCL Cornetu nr. 63/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/69816",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-64-2022",
+"path": "local/ilfov/cornetu/2022/64",
+"kind": "local",
+"year": "2022",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 64/2022 privind aprobarea raportului referitor la activitatea desfasurata de catre asistentii personali in semestrul I al anului 2022",
+"short": "HCL Cornetu nr. 64/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/69817",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-65-2022",
+"path": "local/ilfov/cornetu/2022/65",
+"kind": "local",
+"year": "2022",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 65/2022 privind desemnarea unui reprezentant al Consiliului Local Cornetu si a unui membru supleant, care sa faca parte din Comisia de evaluare a probei de interviu din cadrul concursului pentru ocuparea functiilor de director/director adjunct din unitatile de invatamant preuniversitar de stat de pe raza comunei Cornetu, judetul Ilfov",
+"short": "HCL Cornetu nr. 65/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/69818",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-66-2022",
+"path": "local/ilfov/cornetu/2022/66",
+"kind": "local",
+"year": "2022",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 66/2022 privind rectificarea anexei nr.2 la Hotararea Consiliului Local nr.43 din 26.05.2022, privind aprobarea declansarii procedurii de expropriere a imobilelor, proprietate privata, care constituie coridorul de expropriere al lucrarii de utilitate publica de interes local \"Colector evacuare exces ape pluviale in zona str.Rasaritului, Scolii si Aeroportului, comuna Cornetu, judetul Ilfov\"",
+"short": "HCL Cornetu nr. 66/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-09-20",
+"latest": "2022-09-20",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/69819",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-67-2022",
 "path": "local/ilfov/cornetu/2022/67",
 "kind": "local",
@@ -1137,6 +1516,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-69-2022",
+"path": "local/ilfov/cornetu/2022/69",
+"kind": "local",
+"year": "2022",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 69/2022 privind aprobarea prelungirii mandatului administratorului SC ADP CORNETU SERV SRL",
+"short": "HCL Cornetu nr. 69/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-06",
+"latest": "2022-12-06",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/74243",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-70-2022",
 "path": "local/ilfov/cornetu/2022/70",
 "kind": "local",
@@ -1156,6 +1557,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-71-2022",
+"path": "local/ilfov/cornetu/2022/71",
+"kind": "local",
+"year": "2022",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 71/2022 privind aprobarea acordarii unei diplome de fidelitate si a unui premiu in suma de 1500 lei cuplurilor care implinesc 50 de ani de casatorie neintrerupta in anul 2022 si a cate 750 lei pentru persoanele vaduve care in anul 2022 ar fi implinit 50 de ani de casatorie si care nu s-au mai recasatorit",
+"short": "HCL Cornetu nr. 71/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/74245",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1181,6 +1604,50 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-73-2022",
+"path": "local/ilfov/cornetu/2022/73",
+"kind": "local",
+"year": "2022",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 73/2022 privind modificarea și completarea Hotărârii Consiliului Local Cornetu nr. 48 din 16.06.2022, referitoare la aprobarea participării Comunei Cornetu din județul Ilfov, în calitate de partener, prin asocierea cu Orașul Popești-Leordeni (Lider), Județul Ilfov, precum și cu un număr de 23 Unității Administrativ-Teritoriale din județul Ilfov în cadrul proiectului „Sistem ITS integrat Smart & Green Mobility pentru regiunea București-Ilfov - Informarea călătorilor în stațiile de transport public”, apelul de proiecte PNRR/2022/C10",
+"short": "HCL Cornetu nr. 73/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/74933",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-74-2022",
+"path": "local/ilfov/cornetu/2022/74",
+"kind": "local",
+"year": "2022",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 74/2022 privind aprobarea planului de deszăpezire pentru iarna 2022-2023",
+"short": "HCL Cornetu nr. 74/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-01-05",
+"latest": "2023-01-05",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/74934",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-75-2022",
 "path": "local/ilfov/cornetu/2022/75",
 "kind": "local",
@@ -1203,6 +1670,28 @@
 }
 },
 {
+"slug": "hcl-ilfov--cornetu-76-2022",
+"path": "local/ilfov/cornetu/2022/76",
+"kind": "local",
+"year": "2022",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 76/2022 privind rectificarea anexei nr.2 la Hotararea Consiliului Local nr.61 din 30.08.2022, privind aprobarea declansarii procedurii de expropriere a imobilelor, proprietate privata, care constituie coridorul de expropriere al lucrarii de utilitate publica de interes local \"Centru Scolar Multifunctional in comuna Cornetu, judetul Ilfov\"",
+"short": "HCL Cornetu nr. 76/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/77936",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-ilfov--cornetu-77-2022",
 "path": "local/ilfov/cornetu/2022/77",
 "kind": "local",
@@ -1222,6 +1711,28 @@
 "council_name": "Consiliul Local al Comunei Cornetu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-ilfov--cornetu-78-2022",
+"path": "local/ilfov/cornetu/2022/78",
+"kind": "local",
+"year": "2022",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Cornetu nr. 78/2022 privind alegerea presedintelui de sedinta al Consiliului Local al comunei Cornetu, judetul Ilfov",
+"short": "HCL Cornetu nr. 78/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-12-08",
+"latest": "2022-12-08",
+"portal": "https://emol.ro/cornetu-if/registru-hcl/77938",
+"council": "ilfov/cornetu",
+"council_name": "Consiliul Local al Comunei Cornetu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
