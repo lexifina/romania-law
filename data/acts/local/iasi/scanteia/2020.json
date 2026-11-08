@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--scanteia-2-2020",
+"path": "local/iasi/scanteia/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2020 privind aprobarea procesului verbal ale şedinţei ordinare din 19.12.2019",
+"short": "HCL Scânteia nr. 2/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2372",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-3-2020",
 "path": "local/iasi/scanteia/2020/3",
 "kind": "local",
@@ -91,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--scanteia-6-2020",
+"path": "local/iasi/scanteia/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 6/2020 privind aprobarea utilizării sumelor din excedentul bugetului local pe anul 2019",
+"short": "HCL Scânteia nr. 6/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2376",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-7-2020",
 "path": "local/iasi/scanteia/2020/7",
 "kind": "local",
@@ -110,6 +154,28 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-8-2020",
+"path": "local/iasi/scanteia/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 8/2020 privind aprobarea întocmirii documentației în vederea închirierii unei părți din clădirea fostei case de nașteri în suprafaţă utilă de 23,26 mp, compus din 2 camere, 1 hol şi 1 baie situat în satul Scânteia, care face parte din domeniul public al comunei Scânteia, județul Iași",
+"short": "HCL Scânteia nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-01-30",
+"latest": "2020-01-30",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2378",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -223,6 +289,271 @@
 }
 },
 {
+"slug": "hcl-iasi--scanteia-14-2020",
+"path": "local/iasi/scanteia/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 14/2020 privind aprobarea cuantumului și a numărului burselor acordate elevilor din învățământul preuniversitar de stat cu frecvență, din Comuna Scânteia, în anul școlar 2019-2020",
+"short": "HCL Scânteia nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2384",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-15-2020",
+"path": "local/iasi/scanteia/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 15/2020 privind aprobarea bugetului propriu de venituri și cheltuieli al comunei Scânteia, județul Iași pe anul 2020 și a estimărilor pentru anii 2021-2023",
+"short": "HCL Scânteia nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2385",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-16-2020",
+"path": "local/iasi/scanteia/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 16/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 prin actul adițional nr. 34",
+"short": "HCL Scânteia nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2386",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-17-2020",
+"path": "local/iasi/scanteia/2020/17",
+"kind": "local",
+"year": "2020",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 17/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin actul adițional nr. 35",
+"short": "HCL Scânteia nr. 17/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2387",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-18-2020",
+"path": "local/iasi/scanteia/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 18/2020 privind aprobarea planurilor anuale 2020 pentru asigurarea resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru îndeplinirea celor 18 funcții de sprijin",
+"short": "HCL Scânteia nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2388",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-19-2020",
+"path": "local/iasi/scanteia/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 19/2020 privind aprobarea întocmirii documentației în vederea închirierii terenului în suprafață de 2.024 mp, situat în intravilan, satul Scânteia, în T. 11, P.283, care face parte din domeniul privat al comunei Scânteia, jud. Iași",
+"short": "HCL Scânteia nr. 19/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2389",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-20-2020",
+"path": "local/iasi/scanteia/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 20/2020",
+"short": "HCL Scânteia nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2390",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-21-2020",
+"path": "local/iasi/scanteia/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 21/2020 privind alegerea președintelui de ședințe ale Consiliului local Scânteia, județul Iași, pentru lunile Martie - Mai 2020",
+"short": "HCL Scânteia nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-19",
+"latest": "2020-02-19",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2391",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-22-2020",
+"path": "local/iasi/scanteia/2020/22",
+"kind": "local",
+"year": "2020",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 22/2020 privind aprobarea ordinii de zi a ședinței ordinare din 26.03.2020",
+"short": "HCL Scânteia nr. 22/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2392",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-23-2020",
+"path": "local/iasi/scanteia/2020/23",
+"kind": "local",
+"year": "2020",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 23/2020 privind aprobarea procesului verbal al ședinței ordinare din 19.02.2020",
+"short": "HCL Scânteia nr. 23/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2393",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-24-2020",
+"path": "local/iasi/scanteia/2020/24",
+"kind": "local",
+"year": "2020",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 24/2020 privind acordarea mandatului special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Statutului și Actului Constitutiv al Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+"short": "HCL Scânteia nr. 24/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2394",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-25-2020",
+"path": "local/iasi/scanteia/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 25/2020 privind aprobarea Programului anual al achizițiilor publice pe anul 2020, al comunei Scânteia, județul Iași, după aprobarea bugetului",
+"short": "HCL Scânteia nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2395",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-26-2020",
 "path": "local/iasi/scanteia/2020/26",
 "kind": "local",
@@ -245,6 +576,52 @@
 }
 },
 {
+"slug": "hcl-iasi--scanteia-27-2020",
+"path": "local/iasi/scanteia/2020/27",
+"kind": "local",
+"year": "2020",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 27/2020",
+"short": "HCL Scânteia nr. 27/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2397",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-28-2020",
+"path": "local/iasi/scanteia/2020/28",
+"kind": "local",
+"year": "2020",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 28/2020",
+"short": "HCL Scânteia nr. 28/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2398",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-29-2020",
 "path": "local/iasi/scanteia/2020/29",
 "kind": "local",
@@ -264,6 +641,28 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-30-2020",
+"path": "local/iasi/scanteia/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 30/2020 privind includerea în inventarul bunurilor care alcătuiesc domeniul privat al comunei Scânteia, a construcției C1-dig de pământ în suprafață de 1.968 mp aferent iazului La nuci de 2,00 ha, situat în extravilanul comunei Scânteia, județul Iași",
+"short": "HCL Scânteia nr. 30/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-26",
+"latest": "2020-03-26",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/2400",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -374,6 +773,29 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-36-2020",
+"path": "local/iasi/scanteia/2020/36",
+"kind": "local",
+"year": "2020",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 36/2020",
+"short": "HCL Scânteia nr. 36/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/8548",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -684,6 +1106,29 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-51-2020",
+"path": "local/iasi/scanteia/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 51/2020",
+"short": "HCL Scânteia nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-25",
+"latest": "2020-06-25",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/8573",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1110,6 +1555,50 @@
 }
 },
 {
+"slug": "hcl-iasi--scanteia-71-2020",
+"path": "local/iasi/scanteia/2020/71",
+"kind": "local",
+"year": "2020",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 71/2020 privind alegerea preşedintelui de şedinţe ale Consiliului local Scânteia, judetul Iasi, pentru lunile Octombrie – Decembrie 2020",
+"short": "HCL Scânteia nr. 71/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/11775",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-72-2020",
+"path": "local/iasi/scanteia/2020/72",
+"kind": "local",
+"year": "2020",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 72/2020 privind constituirea comisiilor de specialitate, numărul şi denumirea acestora, numărul membrilor fiecărei comisii, precum şi componenţa nominală a acestora",
+"short": "HCL Scânteia nr. 72/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-10-29",
+"latest": "2020-10-29",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/11776",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scanteia-73-2020",
 "path": "local/iasi/scanteia/2020/73",
 "kind": "local",
@@ -1129,6 +1618,28 @@
 "council_name": "Consiliul Local al Comunei Scânteia",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scanteia-74-2020",
+"path": "local/iasi/scanteia/2020/74",
+"kind": "local",
+"year": "2020",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 74/2020 privind alegerea viceprimarului comunei Scânteia, județul Iași",
+"short": "HCL Scânteia nr. 74/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/scanteia-is/registru-hcl/11870",
+"council": "iasi/scanteia",
+"council_name": "Consiliul Local al Comunei Scânteia",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

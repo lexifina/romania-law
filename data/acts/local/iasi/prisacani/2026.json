@@ -91,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-5-2026",
+"path": "local/iasi/prisacani/2026/5",
+"kind": "local",
+"year": "2026",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 5/2026 privind actualizarea cuantumului chiriilor pentru terenurile şi păşunile închiriate, precum şi a redevenţei pentru terenurile concesionate aflate pe raza Comunei Prisăcani, prin aplicarea ratei inflaţiei de 7,3% aferentă anului 2025, conform COMUNICATULUI DE PRESĂ nr. 9/14.01.2026 emis de INSTITUTUL NAŢIONAL DE STATISTICĂ, aplicabilă pentru anul fiscal 2026",
+"short": "HCL Prisăcani nr. 5/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-04-17",
+"latest": "2026-04-17",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/263219",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-6-2026",
 "path": "local/iasi/prisacani/2026/6",
 "kind": "local",
@@ -334,6 +356,29 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-17-2026",
+"path": "local/iasi/prisacani/2026/17",
+"kind": "local",
+"year": "2026",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 17/2026",
+"short": "HCL Prisăcani nr. 17/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/278291",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-18-2026",
 "path": "local/iasi/prisacani/2026/18",
 "kind": "local",
@@ -529,6 +574,29 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-27-2026",
+"path": "local/iasi/prisacani/2026/27",
+"kind": "local",
+"year": "2026",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 27/2026",
+"short": "HCL Prisăcani nr. 27/2026",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-07-13",
+"latest": "2026-07-13",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/278304",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

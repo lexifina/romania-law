@@ -641,6 +641,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-30-2025",
+"path": "local/iasi/tansa/2025/30",
+"kind": "local",
+"year": "2025",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 30/2025 privind acordarea unui ajutor de urgență unei familii afectate de incendiu",
+"short": "HCL Tansa nr. 30/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-07-23",
+"latest": "2025-07-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/217713",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-31-2025",
 "path": "local/iasi/tansa/2025/31",
 "kind": "local",

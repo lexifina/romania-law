@@ -468,6 +468,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rediu-13-2025",
+   "path": "local/iasi/rediu/2025/13",
+   "short": "HCL Rediu nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 13/2025",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253474",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253474",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rediu-130-2025",
    "path": "local/iasi/rediu/2025/130",
    "short": "HCL Rediu nr. 130/2025",
@@ -493,6 +508,21 @@
      "from": "2026-02-19",
      "units": 1,
      "source_url": "https://emol.ro/rediu-is/registru-hcl/253476",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-15-2025",
+   "path": "local/iasi/rediu/2025/15",
+   "short": "HCL Rediu nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 15/2025 privind modificarea și completarea contractelor ce au ca obiect concesionarea/închirierea bunurilor imobile aflate în domeniul public/privat al comunei Rediu",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253477",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253477",
      "sha256": null
     }
    ]
@@ -678,6 +708,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rediu-36-2025",
+   "path": "local/iasi/rediu/2025/36",
+   "short": "HCL Rediu nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 36/2025",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253593",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253593",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rediu-38-2025",
    "path": "local/iasi/rediu/2025/38",
    "short": "HCL Rediu nr. 38/2025",
@@ -748,6 +793,21 @@
      "from": "2026-02-19",
      "units": 1,
      "source_url": "https://emol.ro/rediu-is/registru-hcl/253623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-42-2025",
+   "path": "local/iasi/rediu/2025/42",
+   "short": "HCL Rediu nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 42/2025 privind darea în folosință gratuită către Parohia „Nașterea Maicii Domnului” a unui teren situat în comuna Rediu, Județul Iași",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253627",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253627",
      "sha256": null
     }
    ]
@@ -1048,6 +1108,21 @@
      "from": "2026-02-19",
      "units": 1,
      "source_url": "https://emol.ro/rediu-is/registru-hcl/253660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-61-2025",
+   "path": "local/iasi/rediu/2025/61",
+   "short": "HCL Rediu nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 61/2025 privind concesionarea, prin licitație publică cu strigare, a terenului în suprafață totală de 182 mp, având NC/CF 74712, situat în intravilanul comunei Rediu, județul Iași, Șos. Valea Rediului, Nr. 413 A, Tarla 7, parcela 10/1 aflat în domeniul privat al UAT Comuna Rediu, județul Iași",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253663",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253663",
      "sha256": null
     }
    ]
@@ -1473,6 +1548,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--rediu-88-2025",
+   "path": "local/iasi/rediu/2025/88",
+   "short": "HCL Rediu nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 88/2025 privind desemnarea reprezentanților Consiliului Local al comunei Rediu în cadrul Consiliului de administrație al Școlii Gimnaziale Rediu și în Comisiile pentru evaluarea și asigurarea calității constituită la nivelul Școlii Gimnaziale Rediu în anul școlar 2025-2026",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253729",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253729",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--rediu-89-2025",
    "path": "local/iasi/rediu/2025/89",
    "short": "HCL Rediu nr. 89/2025",
@@ -1498,6 +1588,51 @@
      "from": "2026-02-19",
      "units": 1,
      "source_url": "https://emol.ro/rediu-is/registru-hcl/253457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-90-2025",
+   "path": "local/iasi/rediu/2025/90",
+   "short": "HCL Rediu nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 90/2025",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253733",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-91-2025",
+   "path": "local/iasi/rediu/2025/91",
+   "short": "HCL Rediu nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 91/2025 privind rezilierea contractului de concesiune nr. 9853/ 20.11.2019, încheiat între Unitatea Administrativ Teritorială comuna Rediu, în calitate de concedent și ȘERBAN Florin-Cătălin, în calitate de concesionar",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253736",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--rediu-92-2025",
+   "path": "local/iasi/rediu/2025/92",
+   "short": "HCL Rediu nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Rediu nr. 92/2025 privind rezilierea contractului de concesiune nr. 7755/23/09.2019 încheiat între Unitatea Administrativ Teritorială comuna Rediu, în calitate de concedent și ȘERBAN Florin-Cătălin, în calitate de concesionar",
+   "url": "https://emol.ro/rediu-is/registru-hcl/253741",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/rediu-is/registru-hcl/253741",
      "sha256": null
     }
    ]

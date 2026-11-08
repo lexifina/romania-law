@@ -33,6 +33,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tansa-11-2026",
+   "path": "local/iasi/tansa/2026/11",
+   "short": "HCL Tansa nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 11/2026 privind analiza stadiului de înscriere a datelor în registrul agricol în anul 2025 și stabilirea măsurilor pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258493",
+   "versions": [
+    {
+     "from": "2026-03-19",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258493",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-12-2026",
    "path": "local/iasi/tansa/2026/12",
    "short": "HCL Tansa nr. 12/2026",
@@ -43,6 +58,21 @@
      "from": "2026-03-19",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/258494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-13-2026",
+   "path": "local/iasi/tansa/2026/13",
+   "short": "HCL Tansa nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 13/2026 privind actualizarea devizului general pentru obiectivul de investiții „Constituirea și dotarea unui centru de zi pentru copii aflați în situație de risc de separare, în comuna Tansa, județul Iași”",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258497",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258497",
      "sha256": null
     }
    ]
@@ -88,6 +118,21 @@
      "from": "2026-04-08",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/261366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-17-2026",
+   "path": "local/iasi/tansa/2026/17",
+   "short": "HCL Tansa nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 17/2026 privind aprobarea Planului anual de acțiune privind serviciile sociale aministrate și finanțate din bugetul Consiliului Local Tansa, 2026",
+   "url": "https://emol.ro/tansa-is/registru-hcl/261367",
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/261367",
      "sha256": null
     }
    ]
@@ -168,6 +213,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tansa-22-2026",
+   "path": "local/iasi/tansa/2026/22",
+   "short": "HCL Tansa nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 22/2026 privind aprobarea concesionării, prin licitație pubică, a terenului cu destinație agricolă, având suprafața totală de 114.937 mp, situat în extravilanul Tansa, comuna Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/268328",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/268328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-23-2026",
+   "path": "local/iasi/tansa/2026/23",
+   "short": "HCL Tansa nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 23/2026",
+   "url": "https://emol.ro/tansa-is/registru-hcl/268329",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/268329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-24-2026",
+   "path": "local/iasi/tansa/2026/24",
+   "short": "HCL Tansa nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 24/2026 privind concesionarea directă a terenului situat în intravilanul satului Tansa, comuna Tansa, județul Iași, în suprafață de 400 mp, înscris în Cartea Funciară nr. 63833 UAT Tansa, aparținând domeniului privat al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/268330",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/268330",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-27-2026",
    "path": "local/iasi/tansa/2026/27",
    "short": "HCL Tansa nr. 27/2026",
@@ -178,6 +268,81 @@
      "from": "2026-06-15",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/272827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-28-2026",
+   "path": "local/iasi/tansa/2026/28",
+   "short": "HCL Tansa nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 28/2026 privind aprobarea proiectului tehnic și a devizului general actualizat pentru obiectivul de investiții „CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC DIN COMUNA TANSA, JUDEȚUL IAȘI”, aprobat pentru finanțare prin Contractul de finanțare nr. 1714/F(GES)/30.12.2025, finanțat de Administrația Fondului pentru Mediu",
+   "url": "https://emol.ro/tansa-is/registru-hcl/272828",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/272828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-29-2026",
+   "path": "local/iasi/tansa/2026/29",
+   "short": "HCL Tansa nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 29/2026 privind revocarea Hotărârii Consiliului Local Tansa nr.22 din 30.04.2026, privind aprobarea concesionării, prin licitație publică, a terenului cu destinație agricolă, având suprafață totală 114.937 mp, situat în extravilanul satului Tansa, comuna Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/272829",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/272829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-3-2026",
+   "path": "local/iasi/tansa/2026/3",
+   "short": "HCL Tansa nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 3/2026 privind aprobarea concesionării, prin licitație publică, a imobilului teren situat în extravilanul satului Tansa, județul Iași, în suprafață de 34.000 mp din suprafața totală de 40.337, având număr cadastral 63095, înscris în Cartea Funciară nr. 63095 UAT Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258484",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-30-2026",
+   "path": "local/iasi/tansa/2026/30",
+   "short": "HCL Tansa nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 30/2026",
+   "url": "https://emol.ro/tansa-is/registru-hcl/272830",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/272830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-31-2026",
+   "path": "local/iasi/tansa/2026/31",
+   "short": "HCL Tansa nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 31/2026 privind revocarea HCL nr.24 din 30.04.2026 privind concesionarea directă a terenului situat în intravilanul satului Tansa, comuna Tansa , județul Iași, în suprafață de 400 mp, înscris în cartea Funciară nr. 63833 UAT Tansa, aparținând domeniului privat al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/272831",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/272831",
      "sha256": null
     }
    ]
@@ -298,6 +463,21 @@
      "from": "2026-07-28",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/279316",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-4-2026",
+   "path": "local/iasi/tansa/2026/4",
+   "short": "HCL Tansa nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 4/2026 privind aprobare concesionare terenuri extravilane aparținând domeniului public al comunei Tansa, județul Iași",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258485",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258485",
      "sha256": null
     }
    ]
@@ -453,6 +633,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--tansa-5-2026",
+   "path": "local/iasi/tansa/2026/5",
+   "short": "HCL Tansa nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 5/2026 privind aprobarea concesionării, prin licitație publică, a imobilului teren situat în intravilanul satului tansa, comuna Tansa, județul Iași, în suprafață de 400 mp, având număr cadastral 63833, înscris în Cartea Funciară nr. 63833 UAT Tansa",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258486",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258486",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--tansa-50-2026",
    "path": "local/iasi/tansa/2026/50",
    "short": "HCL Tansa nr. 50/2026",
@@ -523,6 +718,36 @@
      "from": "2026-10-28",
      "units": 1,
      "source_url": "https://emol.ro/tansa-is/registru-hcl/295131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-6-2026",
+   "path": "local/iasi/tansa/2026/6",
+   "short": "HCL Tansa nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 6/2026",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258487",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--tansa-7-2026",
+   "path": "local/iasi/tansa/2026/7",
+   "short": "HCL Tansa nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Tansa nr. 7/2026 privind organizarea pășunatului și stabilirea taxelor de pășunat în anul 2026, pentru persoanele care nu au închiriat pășune",
+   "url": "https://emol.ro/tansa-is/registru-hcl/258488",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://emol.ro/tansa-is/registru-hcl/258488",
      "sha256": null
     }
    ]

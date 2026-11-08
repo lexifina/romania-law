@@ -137,6 +137,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-7-2024",
+"path": "local/iasi/popricani/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 7/2024",
+"short": "HCL Popricani nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-28",
+"latest": "2024-02-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/145320",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-8-2024",
 "path": "local/iasi/popricani/2024/8",
 "kind": "local",
@@ -292,6 +315,117 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-15-2024",
+"path": "local/iasi/popricani/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 15/2024 privind aprobarea Planului Urbanistic Zonal pentru „Trecere teren în intravilan pentru construire locui nțe individuale și racord utilități” în comuna Popricani, județul Iași",
+"short": "HCL Popricani nr. 15/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149010",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-16-2024",
+"path": "local/iasi/popricani/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 16/2024 privind aprobarea Planului Urbanistic Zonal pentru „Schimbare destinație din zonă de locuințe în zonă activități productive, de depozitare, servicii, comerț, activități de tip agro-industrial” în comuna Popricani, județul Iași",
+"short": "HCL Popricani nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149011",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-17-2024",
+"path": "local/iasi/popricani/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 17/2024 privind aprobarea Regulamentului de acordare/decontare a cheltuielilor de transport pentru salariații din aparatul de specialitate al primarului comunei Popricani, jud. Iași, între localitatea de domiciliu și localitatea unde se află locul de muncă",
+"short": "HCL Popricani nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149012",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-18-2024",
+"path": "local/iasi/popricani/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 18/2024",
+"short": "HCL Popricani nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149013",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-19-2024",
+"path": "local/iasi/popricani/2024/19",
+"kind": "local",
+"year": "2024",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 19/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+"short": "HCL Popricani nr. 19/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149014",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popricani-20-2024",
 "path": "local/iasi/popricani/2024/20",
 "kind": "local",
@@ -311,6 +445,226 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-21-2024",
+"path": "local/iasi/popricani/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 21/2024 privind aprobarea amplasării pe domeniul public al comunei Popricani, jud. Iași, a rețelei electrice aferente lucrării „Modernizare LEA 0,4 KV, aferentă PTA 2 Popricani, localitatea Popricani, jud. Iași",
+"short": "HCL Popricani nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149016",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-22-2024",
+"path": "local/iasi/popricani/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 22/2024 privind aprobarea amplasării pe domeniul public al comunei Popricani, jud. Iași, a rețelei electrice aferente lucrării „Modernizare LEA 0,4 KV, aferentă PTA 1 Popricani, localitatea Popricani, jud. Iași",
+"short": "HCL Popricani nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149017",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-23-2024",
+"path": "local/iasi/popricani/2024/23",
+"kind": "local",
+"year": "2024",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 23/2024 privind aprobarea numărului asistenților personali ai persoanelor cu handicap și a indemnizațiilor acordate persoanelor cu handicap grav pentru anul 2024",
+"short": "HCL Popricani nr. 23/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149018",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-24-2024",
+"path": "local/iasi/popricani/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 24/2024 privind aprobarea atribuirii în folosință gratuită a terenului în suprafață de 4102 mp intravilan conform PUG sat Moimești comuna Popricani, jud. Iași (1616 mp arabil, tarla 47, parcela 835/114 - nr. cadastral 60910; 1621 mp arabil, tarla 47, parcela 835/113, tarla 160, parcela 113 nr. cadastral 64733; 865 mp arabil, tarla 160, parcela 2/5/3, nr. cadastral 64735) aparținând domeniului privat al comunei Popricani, jud. Iași cître „Parohia Moimești”, cu sediul în localitatea Moimești, comuna Popricani, județul Iași",
+"short": "HCL Popricani nr. 24/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149019",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-25-2024",
+"path": "local/iasi/popricani/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 25/2024 privind concesionarea prin licitație publică a unor suprafețe de teren, loc. Vânători, loc. Cârlig, comuna Popricani, jud. Iași proprietatea privată a comunei Popricani, jud. Iași pentru realizarea (intrarea în legalitate) a obiectivelor de locuințe și anexe aferente funcțiunii de locuințe; investiții, aprobarea studiului de oportunitate, a conținutului documentației de atribuire și a caietului de sarcini",
+"short": "HCL Popricani nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149020",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-26-2024",
+"path": "local/iasi/popricani/2024/26",
+"kind": "local",
+"year": "2024",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 26/2024 privind trecerea în domeniul privat al comunei Popricani, jud. Iași a unor suprafețe de teren",
+"short": "HCL Popricani nr. 26/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149021",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-27-2024",
+"path": "local/iasi/popricani/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 27/2024 privind aprobarea executării de lucrări pe domeniul public al comunei Popricani, jud. Iași, N-sat Cotu Morii, jud. Iași pentru realizarea de către ANIF a obiectivului de investiție „Reabilitarea canalelor de aducție CA1C, CA2C, CA3C și a construcțiilor hidrotehnice din subsistemul de irigații Lunca din cadrul amenajării de irigații Tabara-Trifești-Sculeni, jud. Iași",
+"short": "HCL Popricani nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149022",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-28-2024",
+"path": "local/iasi/popricani/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 28/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență familiilor și persoanelor care se află în situații de necesitate deosebite",
+"short": "HCL Popricani nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149023",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-29-2024",
+"path": "local/iasi/popricani/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 29/2024 privind vânzarea prin licitație publică a unei suprafețe de teren intravilan loc. Cârlig, comuna Popricani, jud. Iași aparținând domeniului privat al comunei Popricani, jud. Iași",
+"short": "HCL Popricani nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149024",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-30-2024",
+"path": "local/iasi/popricani/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 30/2024 privind dezmembrarea imobilului teren în surafață de 174.975 mp extravilan comuna Popricani, jud. Iași ( CF 66480, tarla 80, parcela 1357/1-173.980 mp pășune; tarla 80, parcela 1360-995 mp neproductiv) aparținând domeniului privat al comunei Popricani, jud. Iași, în două loturi (lot 1-6845 mp; lot 2-168.130 mp)",
+"short": "HCL Popricani nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-03-25",
+"latest": "2024-03-25",
+"portal": "https://emol.ro/popricani-is/registru-hcl/149025",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -580,6 +934,51 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-43-2024",
+"path": "local/iasi/popricani/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 43/2024 privind vânzarea prin licitație publică a unei suprafețe de teren intravilan conform PUG ( nr.cad.66576-tarla, parcela 1486/430) loc. Popricani aparținând domeniului privat al comunei Popricani",
+"short": "HCL Popricani nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/popricani-is/registru-hcl/155824",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-44-2024",
+"path": "local/iasi/popricani/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 44/2024",
+"short": "HCL Popricani nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/popricani-is/registru-hcl/155825",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-45-2024",
 "path": "local/iasi/popricani/2024/45",
 "kind": "local",
@@ -599,6 +998,28 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-46-2024",
+"path": "local/iasi/popricani/2024/46",
+"kind": "local",
+"year": "2024",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 46/2024 privind concesionarea prin licitație publică a unor suprafețe de teren intravilan loc Vânători, Vulturi, Rediu-Mitropoliei, Tipilești, comuna Popricani jud. Iași proprietate privată a comunei Popricani jud. Iași pentru realizarea ( intrarea în legalitate) a obiectivelor de locuințe și anexe aferente funcțiunii de locuire, aprobarea studiului de oportunitate , a conținutului documentației de atribuire și a caietului de sarcini",
+"short": "HCL Popricani nr. 46/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-16",
+"latest": "2024-05-16",
+"portal": "https://emol.ro/popricani-is/registru-hcl/155827",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -870,6 +1291,120 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-59-2024",
+"path": "local/iasi/popricani/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 59/2024",
+"short": "HCL Popricani nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/popricani-is/registru-hcl/161043",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-60-2024",
+"path": "local/iasi/popricani/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 60/2024",
+"short": "HCL Popricani nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/popricani-is/registru-hcl/161044",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-61-2024",
+"path": "local/iasi/popricani/2024/61",
+"kind": "local",
+"year": "2024",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 61/2024",
+"short": "HCL Popricani nr. 61/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/popricani-is/registru-hcl/161045",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-62-2024",
+"path": "local/iasi/popricani/2024/62",
+"kind": "local",
+"year": "2024",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 62/2024",
+"short": "HCL Popricani nr. 62/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/popricani-is/registru-hcl/161046",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-63-2024",
+"path": "local/iasi/popricani/2024/63",
+"kind": "local",
+"year": "2024",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 63/2024 privind concesionarea prin licitație publică a unor suprafețe de teren intravilan loc Cârlig, loc Popricani, comuna Popricani, jud. Iași proprietatea privată a comunei Popricani, jud. Iași pentru realizarea ( intrarea în legalitate) a obiectivelor de locuințe și anexe aferente funcțiunii de locuire- nr. cad.66540, investițiinr. cad 66625, aprobarea studiului de oportunitate a continutului documentației de atribuire și a caietului de sarcini",
+"short": "HCL Popricani nr. 63/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-07-01",
+"latest": "2024-07-01",
+"portal": "https://emol.ro/popricani-is/registru-hcl/161047",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--popricani-64-2024",
 "path": "local/iasi/popricani/2024/64",
 "kind": "local",
@@ -911,6 +1446,141 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-66-2024",
+"path": "local/iasi/popricani/2024/66",
+"kind": "local",
+"year": "2024",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 66/2024",
+"short": "HCL Popricani nr. 66/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166219",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-67-2024",
+"path": "local/iasi/popricani/2024/67",
+"kind": "local",
+"year": "2024",
+"number": "67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 67/2024",
+"short": "HCL Popricani nr. 67/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166220",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-68-2024",
+"path": "local/iasi/popricani/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 68/2024",
+"short": "HCL Popricani nr. 68/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166221",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-69-2024",
+"path": "local/iasi/popricani/2024/69",
+"kind": "local",
+"year": "2024",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 69/2024 privind vânzarea prin licitație publică a suprafeței de 87 mp teren intravilan conform PUG sat. Cârlig ( nr. cad.66536-tarla 157, 2563/11/1) comuna Popricani, județul Iași aparținând domeniului privat al comunei Popricani, județul Iași",
+"short": "HCL Popricani nr. 69/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166222",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-70-2024",
+"path": "local/iasi/popricani/2024/70",
+"kind": "local",
+"year": "2024",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 70/2024 privind modificarea HCL nr.57/31.05.2023 ( dezmembrarea imobilului teren în suprafață de 1000 m.p intravilan sat. Cârlig nr. cadastral 65889 ( tarla 148, parcela 2440/103) aparținând domeniului privat al comunei Popricani, județul Iași, în două loturi lot.1 688 mp lot 2-312",
+"short": "HCL Popricani nr. 70/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166223",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-71-2024",
+"path": "local/iasi/popricani/2024/71",
+"kind": "local",
+"year": "2024",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 71/2024 privind aprobarea salariilor de bază pentru aparatul de specialitate al primarului comunei Popricani, județul Iași inclusiv salariați ACOR-01.06.2024 ( conform O.U.G nr.53/2024 privind măsuri referitoare la salarizarea personalului din unele sectoare de activitate bugetară, precum și reglementarea unor aspecte organizatorice",
+"short": "HCL Popricani nr. 71/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-21",
+"latest": "2024-08-21",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166224",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1091,6 +1761,51 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-80-2024",
+"path": "local/iasi/popricani/2024/80",
+"kind": "local",
+"year": "2024",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 80/2024 privind concesionarea prin licitație publică a unei suprafețe de teren intravilan loc. Vânători, comuna Popricani, județul Iași proprietatea privată a comunei Popricani, jud. Iași pentru realizarea ( intrare în legalitate) a obiectivelor de locuințe și anexe aferente funcțiunii de locuire, aprobarea studiului de oportunitate a conținutului documentației de atribuire și a caietului de sarcini",
+"short": "HCL Popricani nr. 80/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166556",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--popricani-81-2024",
+"path": "local/iasi/popricani/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 81/2024",
+"short": "HCL Popricani nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-26",
+"latest": "2024-08-26",
+"portal": "https://emol.ro/popricani-is/registru-hcl/166557",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-82-2024",
 "path": "local/iasi/popricani/2024/82",
 "kind": "local",
@@ -1203,6 +1918,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-87-2024",
+"path": "local/iasi/popricani/2024/87",
+"kind": "local",
+"year": "2024",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 87/2024",
+"short": "HCL Popricani nr. 87/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/170347",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-88-2024",
 "path": "local/iasi/popricani/2024/88",
 "kind": "local",
@@ -1225,6 +1963,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-89-2024",
+"path": "local/iasi/popricani/2024/89",
+"kind": "local",
+"year": "2024",
+"number": "89",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 89/2024",
+"short": "HCL Popricani nr. 89/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/170349",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-90-2024",
 "path": "local/iasi/popricani/2024/90",
 "kind": "local",
@@ -1244,6 +2005,29 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-91-2024",
+"path": "local/iasi/popricani/2024/91",
+"kind": "local",
+"year": "2024",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 91/2024",
+"short": "HCL Popricani nr. 91/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/170351",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1315,6 +2099,52 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-95-2024",
+"path": "local/iasi/popricani/2024/95",
+"kind": "local",
+"year": "2024",
+"number": "95",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 95/2024",
+"short": "HCL Popricani nr. 95/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/174061",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-96-2024",
+"path": "local/iasi/popricani/2024/96",
+"kind": "local",
+"year": "2024",
+"number": "96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 96/2024",
+"short": "HCL Popricani nr. 96/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/174062",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-97-2024",
 "path": "local/iasi/popricani/2024/97",
 "kind": "local",
@@ -1359,6 +2189,52 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-99-2024",
+"path": "local/iasi/popricani/2024/99",
+"kind": "local",
+"year": "2024",
+"number": "99",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 99/2024",
+"short": "HCL Popricani nr. 99/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/174065",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-100-2024",
+"path": "local/iasi/popricani/2024/100",
+"kind": "local",
+"year": "2024",
+"number": "100",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 100/2024",
+"short": "HCL Popricani nr. 100/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/174066",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-101-2024",
 "path": "local/iasi/popricani/2024/101",
 "kind": "local",
@@ -1400,6 +2276,29 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-103-2024",
+"path": "local/iasi/popricani/2024/103",
+"kind": "local",
+"year": "2024",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 103/2024",
+"short": "HCL Popricani nr. 103/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-28",
+"latest": "2024-10-28",
+"portal": "https://emol.ro/popricani-is/registru-hcl/174069",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },
@@ -1560,6 +2459,29 @@
 }
 },
 {
+"slug": "hcl-iasi--popricani-111-2024",
+"path": "local/iasi/popricani/2024/111",
+"kind": "local",
+"year": "2024",
+"number": "111",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 111/2024",
+"short": "HCL Popricani nr. 111/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-11-18",
+"latest": "2024-11-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/176966",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--popricani-112-2024",
 "path": "local/iasi/popricani/2024/112",
 "kind": "local",
@@ -1691,6 +2613,121 @@
 "council_name": "Consiliul Local al Comunei Popricani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--popricani-118-2024",
+"path": "local/iasi/popricani/2024/118",
+"kind": "local",
+"year": "2024",
+"number": "118",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 118/2024",
+"short": "HCL Popricani nr. 118/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/183210",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-119-2024",
+"path": "local/iasi/popricani/2024/119",
+"kind": "local",
+"year": "2024",
+"number": "119",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 119/2024",
+"short": "HCL Popricani nr. 119/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/183211",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-120-2024",
+"path": "local/iasi/popricani/2024/120",
+"kind": "local",
+"year": "2024",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 120/2024",
+"short": "HCL Popricani nr. 120/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/183212",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-121-2024",
+"path": "local/iasi/popricani/2024/121",
+"kind": "local",
+"year": "2024",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 121/2024",
+"short": "HCL Popricani nr. 121/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/183213",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--popricani-122-2024",
+"path": "local/iasi/popricani/2024/122",
+"kind": "local",
+"year": "2024",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Popricani nr. 122/2024",
+"short": "HCL Popricani nr. 122/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-12-18",
+"latest": "2024-12-18",
+"portal": "https://emol.ro/popricani-is/registru-hcl/183214",
+"council": "iasi/popricani",
+"council_name": "Consiliul Local al Comunei Popricani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

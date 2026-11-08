@@ -25,6 +25,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-2-2021",
+"path": "local/iasi/tansa/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 2/2021 privind aprobarea încheierii Contractului de prestări servicii pentru depozitarea deșeurilor menajere și similare cu SALUBRIS S.A IAȘI",
+"short": "HCL Tansa nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27126",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-3-2021",
+"path": "local/iasi/tansa/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 3/2021 privind organizarea reţelei şcolare pentru anul 2020-2021 de pe raza comunei Tansa, judeţul Iaşi",
+"short": "HCL Tansa nr. 3/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27127",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-4-2021",
 "path": "local/iasi/tansa/2021/4",
 "kind": "local",
@@ -44,6 +88,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-5-2021",
+"path": "local/iasi/tansa/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 5/2021 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr.33",
+"short": "HCL Tansa nr. 5/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-23",
+"latest": "2021-01-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27129",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -201,6 +267,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-13-2021",
+"path": "local/iasi/tansa/2021/13",
+"kind": "local",
+"year": "2021",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 13/2021 privind aprobarea indicatorilor tehnico-economici și a devizului general, reprezentând valoarea investiției pentru obiectivul: ,,EXTINDERE ȘCOALĂ GIMNAZIALĂ SUHULEȚ CU GRUPURILE SANITARE AMENAJARE CURTE ÎMPREJMUIRE ȘI RACORD LA UTILITĂȚI ĂN SAT SUHULEȚ, COMUNA TANSA, JUDEȚUL IAȘI\"",
+"short": "HCL Tansa nr. 13/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27289",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-14-2021",
+"path": "local/iasi/tansa/2021/14",
+"kind": "local",
+"year": "2021",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 14/2021 privind actualizarea devizului general pentru obiectivul de investiții :„ Reabilitare Grădinița cu Program Normal în Localitatea Tansa, Comuna Tansa, Județul Iași ”",
+"short": "HCL Tansa nr. 14/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27290",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-15-2021",
 "path": "local/iasi/tansa/2021/15",
 "kind": "local",
@@ -355,6 +465,72 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-22-2021",
+"path": "local/iasi/tansa/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 22/2021 privind aprobarea modelului legitimației pentru aleșii locali și a modelului semnului distinctiv al calității acestora",
+"short": "HCL Tansa nr. 22/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27298",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-23-2021",
+"path": "local/iasi/tansa/2021/23",
+"kind": "local",
+"year": "2021",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 23/2021 privind aprobarea Devizului General aferent investiții,,RENOVARE ȘI MODERNIZARE CENTRU DE ZI BUNICII COMUNITĂȚII\"",
+"short": "HCL Tansa nr. 23/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-05",
+"latest": "2021-03-05",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27299",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-24-2021",
+"path": "local/iasi/tansa/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 24/2021 privind aprobarea Devizului general la obiectivul:Reparații și Împrejmuri Dispensar și sediu Poliție în comuna Tansa, județul Iași",
+"short": "HCL Tansa nr. 24/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-17",
+"latest": "2021-03-17",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27319",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-25-2021",
 "path": "local/iasi/tansa/2021/25",
 "kind": "local",
@@ -487,6 +663,72 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-31-2021",
+"path": "local/iasi/tansa/2021/31",
+"kind": "local",
+"year": "2021",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 31/2021 privind dezmembrarea imobilului-teren extravilan situat în sat Tansa, comuna Tansa, județul Iași, imobil ce aparține domeniului public al Comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 31/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-26",
+"latest": "2021-03-26",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27328",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-32-2021",
+"path": "local/iasi/tansa/2021/32",
+"kind": "local",
+"year": "2021",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 32/2021 privind aprobarea indicatorilor tehnico-economici, ca urmare a actualizării devizului general în urma încheierii contractelor de achiziție publică și a actelor adiționale aferente , pentru investiția: „ Reabilitare Grădinița cu Program Normal în Localitatea Tansa, Comuna Tansa, Județul Iași ”",
+"short": "HCL Tansa nr. 32/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27338",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-33-2021",
+"path": "local/iasi/tansa/2021/33",
+"kind": "local",
+"year": "2021",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 33/2021 privind asigurarea finanțării de la bugetul local, ca urmare a actualizării devizului general în urma încheierii contractelor de achiziție publică și a actelor adiționale aferente , pentru investiția:„ Reabilitare Grădinița cu Program Normal în Localitatea Tansa, Comuna Tansa, Județul Iași ”",
+"short": "HCL Tansa nr. 33/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-03-31",
+"latest": "2021-03-31",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27339",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-34-2021",
 "path": "local/iasi/tansa/2021/34",
 "kind": "local",
@@ -528,6 +770,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-36-2021",
+"path": "local/iasi/tansa/2021/36",
+"kind": "local",
+"year": "2021",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 36/2021 privind aprobarea cuantumului burselor școlare pentru elevii Școlii Gimnaziale Tansa și Școlii Gimnaziale cu clasele I-VIII Suhuleț , județul Iași, pentru anul școlar 2020-2021",
+"short": "HCL Tansa nr. 36/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27353",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -641,6 +905,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-42-2021",
+"path": "local/iasi/tansa/2021/42",
+"kind": "local",
+"year": "2021",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 42/2021 privind alegerea preşedintelui de şedinţă al Consiliului Local al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 42/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-04-23",
+"latest": "2021-04-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27359",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-43-2021",
 "path": "local/iasi/tansa/2021/43",
 "kind": "local",
@@ -751,6 +1037,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-48-2021",
+"path": "local/iasi/tansa/2021/48",
+"kind": "local",
+"year": "2021",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 48/2021 privind aprobarea transformării funcției publice de execuție din inspector , clasa I.grad profesional superior , în consilier , grad profesional asistent, clasa I-Compartiment Fond Funciar, precum și modificarea și aprobarea Organigramei și statului de Funcții din aparatul de specialitate al primarului comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 48/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-07",
+"latest": "2021-06-07",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27375",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-49-2021",
+"path": "local/iasi/tansa/2021/49",
+"kind": "local",
+"year": "2021",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 49/2021 privind aprobarea concesionării unei constructii (grajdi din piatră C8) în suprafață de 500.00 mp situat în intravilanul satului Tansa, T74-domeniul privat al comunei",
+"short": "HCL Tansa nr. 49/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-07",
+"latest": "2021-06-07",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27376",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-50-2021",
 "path": "local/iasi/tansa/2021/50",
 "kind": "local",
@@ -792,6 +1122,29 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-52-2021",
+"path": "local/iasi/tansa/2021/52",
+"kind": "local",
+"year": "2021",
+"number": "52",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 52/2021",
+"short": "HCL Tansa nr. 52/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-06-25",
+"latest": "2021-06-25",
+"portal": "https://emol.ro/tansa-is/registru-hcl/28190",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -883,6 +1236,118 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-57-2021",
+"path": "local/iasi/tansa/2021/57",
+"kind": "local",
+"year": "2021",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 57/2021 privind aprobarea PUZ ''Construire și dotare sediul primăriei comunei Tansa, pe teren având număr cadastral 62715 UAT Tansa''",
+"short": "HCL Tansa nr. 57/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37794",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-58-2021",
+"path": "local/iasi/tansa/2021/58",
+"kind": "local",
+"year": "2021",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 58/2021",
+"short": "HCL Tansa nr. 58/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37795",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-59-2021",
+"path": "local/iasi/tansa/2021/59",
+"kind": "local",
+"year": "2021",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 59/2021 privind alegerea președintelui de ședință al Consiliului Local al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 59/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37796",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-60-2021",
+"path": "local/iasi/tansa/2021/60",
+"kind": "local",
+"year": "2021",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 60/2021",
+"short": "HCL Tansa nr. 60/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-07-30",
+"latest": "2021-07-30",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37797",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-61-2021",
+"path": "local/iasi/tansa/2021/61",
+"kind": "local",
+"year": "2021",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 61/2021 privind aprobarea concesionării, prin licitație publică, a imobilului situat în localitatea Tansa, comuna Tansa, județul Iași, în suprafață de 27 mp, compus din cabinet în suprafață de 15,03 mp și sală de tratament în suprafață de 11,97 mp, ce face parte din imobilul înscris în Cartea Funciară nr. 60418 UAT Tansa, având număr cadastral 60418, ce aparține domeniului public al comunei Tansa (Dispensar Uman Tansa)",
+"short": "HCL Tansa nr. 61/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-12",
+"latest": "2021-08-12",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37798",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-62-2021",
 "path": "local/iasi/tansa/2021/62",
 "kind": "local",
@@ -946,6 +1411,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-65-2021",
+"path": "local/iasi/tansa/2021/65",
+"kind": "local",
+"year": "2021",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 65/2021 privind alocarea din fonduri proprii a sumei de 15.705,90 lei, reprezentând 5% din valoarea totală a contractului de achiziții de caterig nr. 789/06.03.2020, încheiat cu Fundația Solidaritate și Speranță, CIF 14832064",
+"short": "HCL Tansa nr. 65/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-27",
+"latest": "2021-08-27",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37802",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1081,6 +1568,74 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-72-2021",
+"path": "local/iasi/tansa/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 72/2021",
+"short": "HCL Tansa nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37825",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-73-2021",
+"path": "local/iasi/tansa/2021/73",
+"kind": "local",
+"year": "2021",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 73/2021",
+"short": "HCL Tansa nr. 73/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37826",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-74-2021",
+"path": "local/iasi/tansa/2021/74",
+"kind": "local",
+"year": "2021",
+"number": "74",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 74/2021 privind dezmembrarea imobilului teren situat în extravilanul comunei Tansa, județul Iași, aflat în domeniul public al UAT Comuna Tansa, județul Iași, rezerva Comisiei Locale de Fond Funciar Tansa, având număr cadastral 61842, înscris în Cartea Funciară în 61842 UAT Tansa",
+"short": "HCL Tansa nr. 74/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-16",
+"latest": "2021-09-16",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37827",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-75-2021",
 "path": "local/iasi/tansa/2021/75",
 "kind": "local",
@@ -1100,6 +1655,182 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-76-2021",
+"path": "local/iasi/tansa/2021/76",
+"kind": "local",
+"year": "2021",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 76/2021 privind aprobarea Regulamentului privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri cu caracter normativ, supuse adoptării Consiliului Local al Comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 76/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37829",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-77-2021",
+"path": "local/iasi/tansa/2021/77",
+"kind": "local",
+"year": "2021",
+"number": "77",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 77/2021 privind aprobarea Regulamentului de Organizare și Funcționare a aparatului de specialitate al Primarului Comunei Tansa",
+"short": "HCL Tansa nr. 77/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37830",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-78-2021",
+"path": "local/iasi/tansa/2021/78",
+"kind": "local",
+"year": "2021",
+"number": "78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 78/2021 privind aprobarea Strategiei Locale a Serviciilor sociale în domeniul asistenței sociale și a planului de acțiuni și lucrări de interes local pe anul 2021, ce vor fi executate de către beneficiarii de ajutor social, conform Legii nr. 416/2001, cu modificările și completările ulterioare",
+"short": "HCL Tansa nr. 78/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37831",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-79-2021",
+"path": "local/iasi/tansa/2021/79",
+"kind": "local",
+"year": "2021",
+"number": "79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 79/2021 privind stabilirea graficului de ședință al Consiliului Local Tansa, pentru trimestrul IV 2021",
+"short": "HCL Tansa nr. 79/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37832",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-80-2021",
+"path": "local/iasi/tansa/2021/80",
+"kind": "local",
+"year": "2021",
+"number": "80",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 80/2021 privind desemnarea reprezentanților Consiliului Local al comunei Tansa în Consiliul de Administrație al Școlii Gimnaziale Tansa, județul Iași pentru anul școlar 2020-2021",
+"short": "HCL Tansa nr. 80/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37833",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-81-2021",
+"path": "local/iasi/tansa/2021/81",
+"kind": "local",
+"year": "2021",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 81/2021 privind aprobarea indicatorilor tehnico-economici, actualizați ca urmare a aplicării prevederilor art.1 din OUG din 93/2021, pentru investiția ” REABILITARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA SUHULUȚ, COMUNA TANSA, JUDEȚUL IAȘI”",
+"short": "HCL Tansa nr. 81/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37834",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-82-2021",
+"path": "local/iasi/tansa/2021/82",
+"kind": "local",
+"year": "2021",
+"number": "82",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 82/2021 privind asigurarea finanțării de la bugetul local, ca urmare a aplicării prevederilor art.1 din OUG Nr.93/2021 pentru investiția ”REABILITARE GRĂDINIȚĂ CU PROGRAM NORMAL ÎN LOCALITATEA SUHULEȚ, COMUNA TANSA, JUDEȚUL IAȘI”",
+"short": "HCL Tansa nr. 82/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37835",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-83-2021",
+"path": "local/iasi/tansa/2021/83",
+"kind": "local",
+"year": "2021",
+"number": "83",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 83/2021 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 83/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-23",
+"latest": "2021-09-23",
+"portal": "https://emol.ro/tansa-is/registru-hcl/37836",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1257,6 +1988,51 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-91-2021",
+"path": "local/iasi/tansa/2021/91",
+"kind": "local",
+"year": "2021",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 91/2021",
+"short": "HCL Tansa nr. 91/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/tansa-is/registru-hcl/43220",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--tansa-92-2021",
+"path": "local/iasi/tansa/2021/92",
+"kind": "local",
+"year": "2021",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 92/2021 privind inscrierea in domeniul privat al comunei Tansa a imobilului situat in intravilanul satului Tansa, str. Brutariei, nr. 59, T74, comuna Tansa, constand in teren in suprafata de 931 mp",
+"short": "HCL Tansa nr. 92/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/tansa-is/registru-hcl/43221",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-93-2021",
 "path": "local/iasi/tansa/2021/93",
 "kind": "local",
@@ -1342,6 +2118,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-97-2021",
+"path": "local/iasi/tansa/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 97/2021 privind desemnarea unui reprezentant al Consiliului Local Tansa care face parte din Comisia de evaluare a probei de interviu, in calitate de membru",
+"short": "HCL Tansa nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-29",
+"latest": "2021-10-29",
+"portal": "https://emol.ro/tansa-is/registru-hcl/43226",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-10-2025",
+   "path": "local/iasi/strunga/2025/10",
+   "short": "HCL Strunga nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2025 privind aprobarea concesionării unor suprafețe de pajiști permanente aflate în domeniul public al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, prin atribuire directă",
+   "url": "https://emol.ro/strunga-is/registru-hcl/233953",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/233953",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-100-2025",
    "path": "local/iasi/strunga/2025/100",
    "short": "HCL Strunga nr. 100/2025",
@@ -88,6 +103,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/233981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-14-2025",
+   "path": "local/iasi/strunga/2025/14",
+   "short": "HCL Strunga nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 14/2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/233982",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/233982",
      "sha256": null
     }
    ]
@@ -208,6 +238,21 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/233989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-22-2025",
+   "path": "local/iasi/strunga/2025/22",
+   "short": "HCL Strunga nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2025 privind aprobarea înlocuirii reprezentantului legal al Unității Administrativ Teritoriale Comuna Strunga, județul Iași în cadrul parteneriatului Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud-Vest, pentru perioada 2023 – 2027",
+   "url": "https://emol.ro/strunga-is/registru-hcl/233990",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/233990",
      "sha256": null
     }
    ]
@@ -828,6 +873,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-60-2025",
+   "path": "local/iasi/strunga/2025/60",
+   "short": "HCL Strunga nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 60/2025 privind desemnarea reprezentantului Consiliului local al comunei Strunga, judeţul Iaşi în Consiliul de Administraţie al Şcolii Gimnaziale Strunga, pentru anul şcolar 2025 – 2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/234256",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/234256",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-61-2025",
    "path": "local/iasi/strunga/2025/61",
    "short": "HCL Strunga nr. 61/2025",
@@ -838,6 +898,36 @@
      "from": "2025-11-05",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/234257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-62-2025",
+   "path": "local/iasi/strunga/2025/62",
+   "short": "HCL Strunga nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 62/2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/234258",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/234258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-63-2025",
+   "path": "local/iasi/strunga/2025/63",
+   "short": "HCL Strunga nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 63/2025",
+   "url": "https://emol.ro/strunga-is/registru-hcl/234259",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/234259",
      "sha256": null
     }
    ]

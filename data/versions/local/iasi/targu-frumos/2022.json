@@ -3,6 +3,21 @@
  "shard": "local/iasi/targu-frumos/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--targu-frumos-101-2022",
+   "path": "local/iasi/targu-frumos/2022/101",
+   "short": "HCL Târgu Frumos nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 101/2022 privind desemnarea reprezentanților Consiliului local al orașului Târgu Frumos în Comisia de evaluare a probei interviu, pentru unitățile de învăţământ cu personalitate juridică de pe raza administrativ – teritorială a orașului Târgu Frumos, județul Iași, pentru care au fost vacantate posturi de director / directori adjuncți",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#29587",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%244HCdMbcZhZv6THWygFnppuQJyR1hOfRQC.BqOC4vgh4CPKA60Qqje/4605",
+     "sha256": "87bc5ebd367db3615274146e972b6adc888147700d350e4887447ed90a2e334d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-106-2022",
    "path": "local/iasi/targu-frumos/2022/106",
    "short": "HCL Târgu Frumos nr. 106/2022",
@@ -59,6 +74,81 @@
      "units": 1,
      "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24fL40H7W9Lr2SgENnCOGGtegd3/E90acqa2YdQebJ.20ICnlvNRbuy/4605",
      "sha256": "15a05bfd8fa97e9484aa8121429c2f11a7f43bc1ed7baf63db73d3431aa116b5"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-115-2022",
+   "path": "local/iasi/targu-frumos/2022/115",
+   "short": "HCL Târgu Frumos nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 115/2022 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Ion Creangă” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2022 - 2023",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#30487",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24eaFgora7rhdOkk6XeAXkdOfr/ygvSEiLvAPRyueo7yeg67G11FUI./4605",
+     "sha256": "58999b8de01adec6fd3b8285a0d3614a46d3126260fd4783442ca4d001a5b8ef"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-116-2022",
+   "path": "local/iasi/targu-frumos/2022/116",
+   "short": "HCL Târgu Frumos nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 116/2022 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Liceului Teoretic “Ion Neculce” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2022 - 2023",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#30489",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24InmvFg9BLOo6oFQ3Hgqqde2QDtuBAOMp62Za1M1qKxmdlPCLBzd9K/4605",
+     "sha256": "65bacda19ef4e3d5ad283a357a00fdb339a6955306094df8c1a8daf5c3aeb456"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-117-2022",
+   "path": "local/iasi/targu-frumos/2022/117",
+   "short": "HCL Târgu Frumos nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 117/2022 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Grădiniței cu program prelungit Târgu Frumos precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2022 – 2",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#30491",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24dMdDk04P2bFwY32vL5dmZOxUSjMG0SXLgLgJ8L4gpaqxZNQ93TDUW/4605",
+     "sha256": "7e25386d949f7c3b33f35e283c040d8e0bc412973f9a7bef43eb2752b5581fc9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-118-2022",
+   "path": "local/iasi/targu-frumos/2022/118",
+   "short": "HCL Târgu Frumos nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 118/2022 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Garabet Ibrăileanu” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2022 - 2023",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#30493",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%247XBpKDl5gYMNZFGUoCmzQOGe.vHkLH8JIHeN9UR6Y6eRebVuuP7uO/4605",
+     "sha256": "69f43b4c3cb9281a395e72d4232b7886364d50104bacf8fd01b3c01b98a68fdc"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-119-2022",
+   "path": "local/iasi/targu-frumos/2022/119",
+   "short": "HCL Târgu Frumos nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 119/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e041480d02d678ccd2a00dbb799eb304e84c404716964828bcbeecfaa5b87f88"
     }
    ]
   },
@@ -134,6 +224,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "b87f81755248d8a0c05b0446339ab7fcf45d069c8a36d9dd89e09912c2b9dd16"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-126-2022",
+   "path": "local/iasi/targu-frumos/2022/126",
+   "short": "HCL Târgu Frumos nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 126/2022 pentru modificarea Hotărârii nr. 76 din data de 12.10.2016 privind desemnarea reprezentanţilor Consiliului Local al Oraşului Târgu Frumos în comisia pentru vânzarea spaţiilor medicale din incinta Policlinicii Orăşeneşti “Dr. Titu Scântee”",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#32339",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%245jMwsIAmuKBAB.E4cAur0OmzGKFJba20JtBTiwBjIzXwcU/ivfdsq/4605",
+     "sha256": "92f60a0b7e1fbe7310ef78f6944b5f24b38cff7fc18c024215c3e750ee3520e8"
     }
    ]
   },
@@ -254,6 +359,36 @@
      "units": 1,
      "source_url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#36728",
      "sha256": "ec3d8612a0cec7ecc32b6ad152ff728be4c747135667434009d2b072a1140c6b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-147-2022",
+   "path": "local/iasi/targu-frumos/2022/147",
+   "short": "HCL Târgu Frumos nr. 147/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 147/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": null,
+     "sha256": "84d335a1d9735bcf043a4a638c9cc708de383675f9b183c7aec16d07386d2ec9"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-148-2022",
+   "path": "local/iasi/targu-frumos/2022/148",
+   "short": "HCL Târgu Frumos nr. 148/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 148/2022 privind stabilirea componenței comisiei de evaluare a ofertelor pentru atribuirea prin licitație a contractelor de concesiune de bunuri proprietate publică și numirea reprezentanților Consiliului local al orașului Târgu Frumos în comisia de evaluare a ofertelor pentru atribuirea prin licitație publică a contractului de concesiune al imobilului – teren înscris în CF 61469, Orașul Târgu Frumos, județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#36739",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24QT2PF3bIjNAOwMLvDKSTPe0lGIOqDsqcv.ep3hWBfvhbGFseWxKci/4605",
+     "sha256": "a8e04311a329f0d536c73cc2b5a0a62dba56e743aee626687b74d4d191641a1b"
     }
    ]
   },
@@ -423,6 +558,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-50-2022",
+   "path": "local/iasi/targu-frumos/2022/50",
+   "short": "HCL Târgu Frumos nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 50/2022 privind aprobarea acordării unui sprijin financiar Bisericii cu hramul „Pogorârea Duhului Sfânt”(Măicuța), din Parohia Bisericii „Sf. Nicolae” Târgu Frumos, Județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#29394",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24jYYrtbuJKCC5MSUwzHyOUeyYRhbGkjlsLcwqTEjVL5Bfu5MNrbp2S/4605",
+     "sha256": "483660e90db961b196af602ee7aa65d106524d6a9b557167f868eb4b675c35c6"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-51-2022",
+   "path": "local/iasi/targu-frumos/2022/51",
+   "short": "HCL Târgu Frumos nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 51/2022 privind aprobarea acordării unui sprijin financiar Parohiei de Rit Vechi Lipovenească Târgu Frumos, Județul Iași",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#29396",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%248kI.wylBOVmqVUwHWYBSL.EHnjELoCSRRzgOqVlV7rWqlV9qAhdbm/4605",
+     "sha256": "e046d801bcfa6dfccea9e12e4dd49713a50a568e834c52ccb0fd075f22d27d6a"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-54-2022",
    "path": "local/iasi/targu-frumos/2022/54",
    "short": "HCL Târgu Frumos nr. 54/2022",
@@ -528,6 +693,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-65-2022",
+   "path": "local/iasi/targu-frumos/2022/65",
+   "short": "HCL Târgu Frumos nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 65/2022 privind decontarea cheltuielilor pentru navetă la și de la locul de muncă pentru personalul din cadrul aparatului de specialitate al primarului Orașului Târgu Frumos cu domiciliul în altă localitate",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#29443",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24Z1cXcpc9Sl0AYKeFmAs3A.dR8hYemvpon0QpubtOpVjeuaHiIV1W./4605",
+     "sha256": "361558b1bc24ceffbbe75d485abb15933c030986f358e70073f1392a43c170f8"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-66-2022",
    "path": "local/iasi/targu-frumos/2022/66",
    "short": "HCL Târgu Frumos nr. 66/2022",
@@ -558,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--targu-frumos-7-2022",
+   "path": "local/iasi/targu-frumos/2022/7",
+   "short": "HCL Târgu Frumos nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 7/2022 privind modificarea Hotărârii nr. 85 din data de 27.09.2021 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Garabet Ibrăileanu” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2021 - 2022",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15678",
+   "versions": [
+    {
+     "from": "2022-01-27",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%2454uj4R41vS38z.xZi/UkouGYkkcV.Vw1s4mzfq8pH8Iifj6/jUWMu/4605",
+     "sha256": "f51f210369f277b0010192802d54470dc56c46848c381833e3c8572326108e4d"
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--targu-frumos-73-2022",
    "path": "local/iasi/targu-frumos/2022/73",
    "short": "HCL Târgu Frumos nr. 73/2022",
@@ -569,6 +764,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "60ec886e790f0d76062206f7d3bfc11b7602f28a49e4d169e7a9ae953d21afd4"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-76-2022",
+   "path": "local/iasi/targu-frumos/2022/76",
+   "short": "HCL Târgu Frumos nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 76/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": null,
+     "sha256": "e7e24ffe5b23e14f19f33a5ffc743ba5904260b167e4ec8216c490130721d44a"
     }
    ]
   },
@@ -689,6 +899,21 @@
      "units": 1,
      "source_url": null,
      "sha256": "d8bd4b51df0015d577f516fa1cb2488b02946717875791ae47bcb486f4bdf75b"
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--targu-frumos-93-2022",
+   "path": "local/iasi/targu-frumos/2022/93",
+   "short": "HCL Târgu Frumos nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 93/2022 pentru revocarea Hotărârii nr. 65 din data de 26.05.2022 privind decontarea cheltuielilor pentru navetă la și de la locul de muncă pentru personalul din cadrul aparatului de specialitate al primarului Orașului Târgu Frumos cu domiciliul în altă localitate",
+   "url": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#29573",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://targufrumos.regista.ro/counter/download_approved_council_decision_files/%242y%2410%24d73VCOrtIrDaDUGl6ENH1uonmnsQQE6zTO27FVIrXRCwewZzWDx1C/4605",
+     "sha256": "ce36d9ee5a59a1483a5f93a07b1f5de6a1892fad843316c41c7850458e82e9c1"
     }
    ]
   },

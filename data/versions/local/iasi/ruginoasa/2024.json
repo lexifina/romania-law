@@ -3,6 +3,876 @@
  "shard": "local/iasi/ruginoasa/2024",
  "acts": [
   {
+   "slug": "hcl-iasi--ruginoasa-1-2024",
+   "path": "local/iasi/ruginoasa/2024/1",
+   "short": "HCL Ruginoasa nr. 1/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 1/2024 privind aprobarea Strategiei locale de dezvoltare a serviciilor sociale acordate la nivelul comunei Ruginoasa, judeţul Iaşi pentru perioada 2024-2034",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140745",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140745",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-10-2024",
+   "path": "local/iasi/ruginoasa/2024/10",
+   "short": "HCL Ruginoasa nr. 10/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 10/2024 privind acordarea unui sprijin financiar Parohiei ortodoxe „Sf. Arhangheli Mihail şi Gavril” din comuna Ruginoasa, jud. Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/144684",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/144684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-11-2024",
+   "path": "local/iasi/ruginoasa/2024/11",
+   "short": "HCL Ruginoasa nr. 11/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 11/2024 privind aprobarea decontării și a modalității de decontare, a cheltuielilor de transport pentru funcționarii publici și personalul contractual, din cadrul aparatului de specialitate al primarului comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/144685",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/144685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-12-2024",
+   "path": "local/iasi/ruginoasa/2024/12",
+   "short": "HCL Ruginoasa nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 12/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/148811",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/148811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-13-2024",
+   "path": "local/iasi/ruginoasa/2024/13",
+   "short": "HCL Ruginoasa nr. 13/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 13/2024 privind alegerea preşedintelui de şedinţă şi aprobarea graficului de şedinţă pentru trimestrul II/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/148812",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/148812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-14-2024",
+   "path": "local/iasi/ruginoasa/2024/14",
+   "short": "HCL Ruginoasa nr. 14/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 14/2024 privind organizarea, administrarea şi exploatarea pajiștilor permanente, din domeniul privat al comunei Ruginoasa, județul Iași",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/148813",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/148813",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-15-2024",
+   "path": "local/iasi/ruginoasa/2024/15",
+   "short": "HCL Ruginoasa nr. 15/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 15/2024 privind acordarea unui sprijin financiar Parohiei ortodoxe „Adormirea Maicii Domnului” din comuna Ruginoasa, jud. Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/148814",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/148814",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-16-2024",
+   "path": "local/iasi/ruginoasa/2024/16",
+   "short": "HCL Ruginoasa nr. 16/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 16/2024 privind acordarea unui sprijin financiar Parohiei ortodoxe „Sf. Împărați Constantin şi Elena” din comuna Ruginoasa, jud. Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/148815",
+   "versions": [
+    {
+     "from": "2024-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/148815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-17-2024",
+   "path": "local/iasi/ruginoasa/2024/17",
+   "short": "HCL Ruginoasa nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 17/2024 privind aprobarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a reziduurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor la Depozitul de deșeuri nepericuloase Țuțora",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/154166",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/154166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-18-2024",
+   "path": "local/iasi/ruginoasa/2024/18",
+   "short": "HCL Ruginoasa nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 18/2024 privind aprobarea execuției bugetare la data de 31.03.2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/154167",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/154167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-19-2024",
+   "path": "local/iasi/ruginoasa/2024/19",
+   "short": "HCL Ruginoasa nr. 19/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 19/2024 privind rectificarea bugetului local al comunei Ruginoasa pentru trim. II; III şi IV/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/154168",
+   "versions": [
+    {
+     "from": "2024-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/154168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-2-2024",
+   "path": "local/iasi/ruginoasa/2024/2",
+   "short": "HCL Ruginoasa nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 2/2024 privind aprobarea Programului de acţiuni comunitare pentru prevenirea şi combaterea riscului de sărăcie şi excluziune socială la nivelul comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140746",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140746",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-20-2024",
+   "path": "local/iasi/ruginoasa/2024/20",
+   "short": "HCL Ruginoasa nr. 20/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 20/2024 privind alegerea preşedintelui de şedinţă pentru şedinţa ordinară din data de 30.05.2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/158234",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/158234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-21-2024",
+   "path": "local/iasi/ruginoasa/2024/21",
+   "short": "HCL Ruginoasa nr. 21/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 21/2024 privind delegarea gestiunii Serviciul pentru gestionarea câinilor fără stăpân în comuna Ruginoasa, județul Iași",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/158235",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/158235",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-22-2024",
+   "path": "local/iasi/ruginoasa/2024/22",
+   "short": "HCL Ruginoasa nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 22/2024 privind rectificarea bugetului local al comunei Ruginoasa pentru trim. II/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/158236",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/158236",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-23-2024",
+   "path": "local/iasi/ruginoasa/2024/23",
+   "short": "HCL Ruginoasa nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 23/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr. 6",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/158237",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/158237",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-24-2024",
+   "path": "local/iasi/ruginoasa/2024/24",
+   "short": "HCL Ruginoasa nr. 24/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 24/2024 privind aprobarea documentației tehnico-economice (FAZA SF) și a indicatorilor tehnico-economici pentru proiectul de investiție: „Înființare sistem inteligent de monitorizare şi siguranță a spațiului public în comuna Ruginoasa, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/158238",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/158238",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-25-2024",
+   "path": "local/iasi/ruginoasa/2024/25",
+   "short": "HCL Ruginoasa nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 25/2024 privind alegerea preşedintelui de şedinţă şi aprobarea graficului de şedinţe pe trim. III/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/160792",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/160792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-26-2024",
+   "path": "local/iasi/ruginoasa/2024/26",
+   "short": "HCL Ruginoasa nr. 26/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 26/2024 privind neasumarea responsabilității organizării şi derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului şi a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, pentru anul școlar 2024 – 2025",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/160793",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/160793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-27-2024",
+   "path": "local/iasi/ruginoasa/2024/27",
+   "short": "HCL Ruginoasa nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 27/2024 privind alocarea fondurilor necesare organizării şi desfăşurării „Târgului meșterilor populari” ediția a X -a",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/160794",
+   "versions": [
+    {
+     "from": "2024-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/160794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-28-2024",
+   "path": "local/iasi/ruginoasa/2024/28",
+   "short": "HCL Ruginoasa nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 28/2024 privind alocarea fondurilor necesare organizării Festivalului de Datini şi Obiceiuri de Anul Nou „Datini din Străbuni”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163828",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-29-2024",
+   "path": "local/iasi/ruginoasa/2024/29",
+   "short": "HCL Ruginoasa nr. 29/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 29/2024 privind validarea situației terenurilor disponibile aflate în domeniul privat al comunei Ruginoasa, din intravilanul localității Ruginoasa, judeţul Iaşi, care pot fi atribuite în folosință gratuită potrivit Legii nr. 15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuințe proprietate personală",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163829",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-3-2024",
+   "path": "local/iasi/ruginoasa/2024/3",
+   "short": "HCL Ruginoasa nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 3/2024 privind aprobarea Regulamentului de acordare a ajutoarelor de urgență, în bani sau în natură, familiilor sau persoanelor singure aflate în situaţii de necesitate datorate calamităților naturale, incendiilor, accidentelor, precum şi pentru alte situaţii deosebite, respectiv ajutoare comunitare, în bani şi/sau în natură, destinate persoanelor singure şi familiilor aflate în situaţii de dificultate",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140747",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140747",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-30-2024",
+   "path": "local/iasi/ruginoasa/2024/30",
+   "short": "HCL Ruginoasa nr. 30/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 30/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163830",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-31-2024",
+   "path": "local/iasi/ruginoasa/2024/31",
+   "short": "HCL Ruginoasa nr. 31/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 31/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163831",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-32-2024",
+   "path": "local/iasi/ruginoasa/2024/32",
+   "short": "HCL Ruginoasa nr. 32/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 32/2024 privind aprobarea execuției bugetare la data de 30.06.2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163832",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-33-2024",
+   "path": "local/iasi/ruginoasa/2024/33",
+   "short": "HCL Ruginoasa nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 33/2024 privind rectificarea bugetului local al comunei Ruginoasa pentru trim. III/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163833",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-34-2024",
+   "path": "local/iasi/ruginoasa/2024/34",
+   "short": "HCL Ruginoasa nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 34/2024 privind aprobarea documentației tehnico-economice (FAZA PTh) și a indicatorilor tehnico-economici pentru proiectul de investiție: „Înființare sistem inteligent de monitorizare şi siguranță a spațiului public în comuna Ruginoasa, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163834",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-35-2024",
+   "path": "local/iasi/ruginoasa/2024/35",
+   "short": "HCL Ruginoasa nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 35/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163835",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163835",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-36-2024",
+   "path": "local/iasi/ruginoasa/2024/36",
+   "short": "HCL Ruginoasa nr. 36/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 36/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163836",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-37-2024",
+   "path": "local/iasi/ruginoasa/2024/37",
+   "short": "HCL Ruginoasa nr. 37/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 37/2024 privind aprobarea indicatorilor tehnico-economici pentru realizarea investiției „Sistem electronic de securitate la Şcoala Gimnazială Dumbrăviţa, comuna Ruginoasa, județul Iași”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/163837",
+   "versions": [
+    {
+     "from": "2024-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/163837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-38-2024",
+   "path": "local/iasi/ruginoasa/2024/38",
+   "short": "HCL Ruginoasa nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 38/2024 privind aprobarea încheierii unui contract de asistenţă şi reprezentare juridică, pentru apărarea intereselor comunei Ruginoasa, judeţul Iaşi şi ale Consiliului Local Ruginoasa în Dosarul nr. 2410/99/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167693",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-39-2024",
+   "path": "local/iasi/ruginoasa/2024/39",
+   "short": "HCL Ruginoasa nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 39/2024 privind aprobarea delegării gestiunii prin concesiune a Serviciul de iluminat public al comunei Ruginoasa, județul Iași, a Studiului de fundamentare a deciziei de delegare a Serviciului de iluminat public al comunei Ruginoasa, a Regulamentului de organizare și funcționare al serviciului de iluminat public, a Caietului de Sarcini, a documentației de atribuire prin procedura simplificată",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167694",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-4-2024",
+   "path": "local/iasi/ruginoasa/2024/4",
+   "short": "HCL Ruginoasa nr. 4/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 4/2024 privind aprobarea rețelei școlare a unităților de învățământ care vor funcționa în anul școlar 2024 – 2025 la nivelul comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140748",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140748",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-40-2024",
+   "path": "local/iasi/ruginoasa/2024/40",
+   "short": "HCL Ruginoasa nr. 40/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 40/2024 privind aprobarea alocării fondurilor necesare pentru plata serviciilor de salubrizare de pe domeniul public şi privat al U.A.T - Comuna Ruginoasa, jud. Iaşi din bugetul local comunei Ruginoasa, jud. Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167695",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-41-2024",
+   "path": "local/iasi/ruginoasa/2024/41",
+   "short": "HCL Ruginoasa nr. 41/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 41/2024 privind aprobarea implementării unor proiecte de investiţii",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167696",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-42-2024",
+   "path": "local/iasi/ruginoasa/2024/42",
+   "short": "HCL Ruginoasa nr. 42/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 42/2024 privind rectificarea bugetului local al comunei Ruginoasa pentru trim. III/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167697",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-43-2024",
+   "path": "local/iasi/ruginoasa/2024/43",
+   "short": "HCL Ruginoasa nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 43/2024 privind achiziționarea a trei autovehicule prin Programul privind reducerea emisiilor de gaze cu efect de seră în transporturi, prin promovarea vehiculelor de transport rutier nepoluante şi eficiente din punct de vedere energetic, 2020 – 2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/167698",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/167698",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-44-2024",
+   "path": "local/iasi/ruginoasa/2024/44",
+   "short": "HCL Ruginoasa nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 44/2024 privind declararea unui imobil ca fiind bun de uz și interes public local şi înscrierea acestuia în inventarul centralizat al bunurilor din domeniul public al comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169288",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-45-2024",
+   "path": "local/iasi/ruginoasa/2024/45",
+   "short": "HCL Ruginoasa nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 45/2024 privind aprobarea indicatorilor tehnico-economici actualizaţi ai investiției „Înființare sistem inteligent de distribuție gaze naturale în comunele Ruginoasa, Strunga, Al. I. Cuza, Costești, judeţul Iaşi” pentru partea de investiție a comunei Ruginoasa, judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169289",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-46-2024",
+   "path": "local/iasi/ruginoasa/2024/46",
+   "short": "HCL Ruginoasa nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 46/2024 privind acordarea dreptului de ocupare temporară şi definitivă a unor suprafețe de teren din domeniul public al comunei Ruginoasa, judeţul Iaşi în vederea realizării investiției „Înființare sistem inteligent de distribuție gaze naturale în comunele Ruginoasa, Strunga, Al. I. Cuza, Costești, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169290",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-47-2024",
+   "path": "local/iasi/ruginoasa/2024/47",
+   "short": "HCL Ruginoasa nr. 47/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 47/2024 privind aprobarea inițierii procedurii de concesionare a serviciului de utilitate publică de distribuție a gazelor naturale, în comuna Ruginoasa, jud. Iaşi în cadrul proiectului „Înființare sistem inteligent de distribuție gaze naturale în comunele Ruginoasa, Strunga, Al. I. Cuza, Costești, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169291",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-48-2024",
+   "path": "local/iasi/ruginoasa/2024/48",
+   "short": "HCL Ruginoasa nr. 48/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 48/2024 privind rectificarea bugetului local al comunei Ruginoasa pentru trim. III şi IV/2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169292",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169292",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-49-2024",
+   "path": "local/iasi/ruginoasa/2024/49",
+   "short": "HCL Ruginoasa nr. 49/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 49/2024 privind aprobarea Planului de afaceri, Strategiei de tarifare aferentă Planului de afaceri, formula de ajustare tarifară, strategia privind redevența, modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021, prin Actul Adițional nr. 7",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169856",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-5-2024",
+   "path": "local/iasi/ruginoasa/2024/5",
+   "short": "HCL Ruginoasa nr. 5/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 5/2024 privind majorarea drepturilor salariale pentru funcţionarii publici şi personalul contractual din cadrul aparatului de specialitate al primarului comunei Ruginoasa, județul Iași",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140749",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140749",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-50-2024",
+   "path": "local/iasi/ruginoasa/2024/50",
+   "short": "HCL Ruginoasa nr. 50/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 50/2024 privind aprobarea închirierii utilajului buldoexcavator aflat în proprietatea privată a comunei Ruginoasa, judeţul Iaşi și a Regulamentului privind modalitatea de închiriere a acestuia",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169857",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-51-2024",
+   "path": "local/iasi/ruginoasa/2024/51",
+   "short": "HCL Ruginoasa nr. 51/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 51/2024 privind alegerea preşedintelui de şedinţă pentru luna octombrie 2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/169858",
+   "versions": [
+    {
+     "from": "2024-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/169858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-52-2024",
+   "path": "local/iasi/ruginoasa/2024/52",
+   "short": "HCL Ruginoasa nr. 52/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 52/2024 privind alegerea preşedintelui de şedinţă şi aprobarea graficului de şedinţă pentru lunile noiembrie şi decembrie 2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/175667",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/175667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-53-2024",
+   "path": "local/iasi/ruginoasa/2024/53",
+   "short": "HCL Ruginoasa nr. 53/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 53/2024 privind organizarea comisiilor de specialitate ale Consiliului Local al Ruginoasa, judeţul Iaşi constituit ca urmare a alegerilor administraţiei publice locale din 09.06.2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/175668",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/175668",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-54-2024",
+   "path": "local/iasi/ruginoasa/2024/54",
+   "short": "HCL Ruginoasa nr. 54/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 54/2024 privind aprobarea implementării obiectivului de investiție „Reabilitare şi modernizare străzi afectate de calamități naturale în comuna Ruginoasa, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/175669",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/175669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-55-2024",
+   "path": "local/iasi/ruginoasa/2024/55",
+   "short": "HCL Ruginoasa nr. 55/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 55/2024 privind aprobarea actualizării Strategiei de dezvoltare locală a comunei Ruginoasa, județul Iași pentru perioada 2016-2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/175670",
+   "versions": [
+    {
+     "from": "2024-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/175670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-56-2024",
+   "path": "local/iasi/ruginoasa/2024/56",
+   "short": "HCL Ruginoasa nr. 56/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 56/2024 privind alegerea viceprimarului comunei Ruginoasa, jud. Iaşi, ca urmare a alegerilor administraţiei publice locale din 09.06.2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176631",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-57-2024",
+   "path": "local/iasi/ruginoasa/2024/57",
+   "short": "HCL Ruginoasa nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 57/2024 privind aprobarea încheierii protocolului de colaborare între Autoritatea Pentru Digitalizarea României și Comuna Ruginoasa, judeţul Iaşi pentru asigurarea cadrului interinstituțional necesar înrolării în aplicația ROeID",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176632",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-58-2024",
+   "path": "local/iasi/ruginoasa/2024/58",
+   "short": "HCL Ruginoasa nr. 58/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 58/2024 privind înregistrarea Comunei Ruginoasa, judeţul Iaşi în Sistemul Național Electronic de Plată (SNEP) online a taxelor și impozitelor utilizând cardul bancar, și implicit înrolarea în sistemul „Ghișeul.ro” și stabilirea modului în care este suportat comisionul bancar",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176633",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-59-2024",
+   "path": "local/iasi/ruginoasa/2024/59",
+   "short": "HCL Ruginoasa nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 59/2024 privind aprobarea indicatorilor tehnico-economici pentru realizarea obiectivul de investiție „Realizare parcare adiacentă strada Unirii – Şcoala Ruginoasa”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176634",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-6-2024",
+   "path": "local/iasi/ruginoasa/2024/6",
+   "short": "HCL Ruginoasa nr. 6/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 6/2024 privind aprobarea execuției bugetare la data de 31.12.2023",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/140750",
+   "versions": [
+    {
+     "from": "2024-02-08",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/140750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-60-2024",
+   "path": "local/iasi/ruginoasa/2024/60",
+   "short": "HCL Ruginoasa nr. 60/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 60/2024 privind rectificarea Devizelor generale pentru cheltuielile eligibile – neeligibile - Faza PTh – aferente lucrărilor pentru „Amplasare stații încărcare pentru mașini electrice” din cadrul proiectului de investiție: „Înființare sistem inteligent de monitorizare şi siguranță a spațiului public în comuna Ruginoasa, judeţul Iaşi”",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176635",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-61-2024",
+   "path": "local/iasi/ruginoasa/2024/61",
+   "short": "HCL Ruginoasa nr. 61/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 61/2024 privind aprobarea participării Comunei RUGINOASA în cadrul Programului privind creşterea eficientei energetice a infrastructurii de iluminat public, precum si aprobarea documentației tehnico-economice şi a indicatorilor tehnico-economici pentru proiectul Modernizarea sistemului de iluminat public stradal în comuna Ruginoasa, Judeţul Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/176636",
+   "versions": [
+    {
+     "from": "2024-11-22",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/176636",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ruginoasa-62-2024",
    "path": "local/iasi/ruginoasa/2024/62",
    "short": "HCL Ruginoasa nr. 62/2024",
@@ -118,6 +988,21 @@
      "from": "2024-12-06",
      "units": 1,
      "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/179772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-7-2024",
+   "path": "local/iasi/ruginoasa/2024/7",
+   "short": "HCL Ruginoasa nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 7/2024 privind aprobarea bugetului general al comunei Ruginoasa pentru anul 2024",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/142652",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/142652",
      "sha256": null
     }
    ]
@@ -273,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--ruginoasa-8-2024",
+   "path": "local/iasi/ruginoasa/2024/8",
+   "short": "HCL Ruginoasa nr. 8/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 8/2024 privind aprobarea indicatorilor tehnico - economici rezultați în urma aplicării clauzelor de ajustare a prețurilor în vederea suplimentării sumelor din contractului de finanţare pentru obiectivul de investiții „Modernizare prin asfaltare străzi în comuna Ruginoasa, judeţul Iaşi - în lungime totală de 4,400 km”, aprobat pentru finanţare prin Programul naţional de investiţii „Anghel Saligny”, precum şi a sumei reprezentând categoriile de cheltuieli finanţate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/142653",
+   "versions": [
+    {
+     "from": "2024-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/142653",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--ruginoasa-80-2024",
    "path": "local/iasi/ruginoasa/2024/80",
    "short": "HCL Ruginoasa nr. 80/2024",
@@ -298,6 +1198,21 @@
      "from": "2025-01-03",
      "units": 1,
      "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/183887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--ruginoasa-9-2024",
+   "path": "local/iasi/ruginoasa/2024/9",
+   "short": "HCL Ruginoasa nr. 9/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Ruginoasa nr. 9/2024 privind acordarea unui sprijin financiar Parohiei ortodoxe „Sf. Apostoli Petru şi Pavel” din comuna Ruginoasa, jud. Iaşi",
+   "url": "https://emol.ro/ruginoasa-is/registru-hcl/144683",
+   "versions": [
+    {
+     "from": "2024-03-04",
+     "units": 1,
+     "source_url": "https://emol.ro/ruginoasa-is/registru-hcl/144683",
      "sha256": null
     }
    ]

@@ -18,6 +18,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-10-2022",
+   "path": "local/iasi/scobinti/2022/10",
+   "short": "HCL Scobinți nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 10/2022 privind aprobarea închiriere spațiu 11,3 mp - cam 3, etaj sediu primăriei, documentație atribuire și raport evaluare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64287",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-11-2022",
+   "path": "local/iasi/scobinti/2022/11",
+   "short": "HCL Scobinți nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 11/2022 privind desemnarea unui reprezentant al Consiliului Local Scobinți în comisia de concurs pentru școli",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64288",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64288",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-12-2022",
    "path": "local/iasi/scobinti/2022/12",
    "short": "HCL Scobinți nr. 12/2022",
@@ -28,6 +58,21 @@
      "from": "2022-06-24",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/64289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-13-2022",
+   "path": "local/iasi/scobinti/2022/13",
+   "short": "HCL Scobinți nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 13/2022 privind desemnare președinte de ședință trimestru II an 2022",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64356",
+   "versions": [
+    {
+     "from": "2022-06-24",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64356",
      "sha256": null
     }
    ]
@@ -168,6 +213,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-22-2022",
+   "path": "local/iasi/scobinti/2022/22",
+   "short": "HCL Scobinți nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 22/2022 privind aprobare inchiriere 20 mp, documentație atribuire , raport evaluare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65019",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65019",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-23-2022",
    "path": "local/iasi/scobinti/2022/23",
    "short": "HCL Scobinți nr. 23/2022",
@@ -238,6 +298,21 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/65024",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-28-2022",
+   "path": "local/iasi/scobinti/2022/28",
+   "short": "HCL Scobinți nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 28/2022 privind închiriere, documentație de atribuire și raport de evaluare spațiu de 118 mp și 50 mp aferent fost magazin Bădeni",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/65025",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/65025",
      "sha256": null
     }
    ]
@@ -568,6 +643,21 @@
      "from": "2022-09-29",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/73575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-5-2022",
+   "path": "local/iasi/scobinti/2022/5",
+   "short": "HCL Scobinți nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 5/2022 privind aprobarea închirierii suprafeței de 20mp teren din domeniul public al comunei Scobinți, în vederea desfășurării unei activități comerciale",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/64174",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/64174",
      "sha256": null
     }
    ]

@@ -1,6 +1,7 @@
 act,status,last_verified,check_due,method,newest_change,newest_change_date,change_in_repo,official_url
 hcl-iasi--erbiceni-1-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/56067
 hcl-iasi--erbiceni-10-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/56076
+hcl-iasi--erbiceni-100-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87515
 hcl-iasi--erbiceni-101-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87516
 hcl-iasi--erbiceni-102-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87517
 hcl-iasi--erbiceni-103-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87563
@@ -12,6 +13,7 @@ hcl-iasi--erbiceni-108-2022,current,2026-11-08,2026-12-08,register-read,,,,https
 hcl-iasi--erbiceni-109-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87569
 hcl-iasi--erbiceni-11-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/56077
 hcl-iasi--erbiceni-110-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87578
+hcl-iasi--erbiceni-111-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87579
 hcl-iasi--erbiceni-112-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87580
 hcl-iasi--erbiceni-113-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87581
 hcl-iasi--erbiceni-114-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87582
@@ -114,6 +116,7 @@ hcl-iasi--erbiceni-81-2022,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-iasi--erbiceni-82-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87474
 hcl-iasi--erbiceni-83-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87475
 hcl-iasi--erbiceni-84-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87493
+hcl-iasi--erbiceni-85-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87494
 hcl-iasi--erbiceni-86-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87495
 hcl-iasi--erbiceni-87-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87496
 hcl-iasi--erbiceni-88-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87497
@@ -124,6 +127,7 @@ hcl-iasi--erbiceni-91-2022,current,2026-11-08,2026-12-08,register-read,,,,https:
 hcl-iasi--erbiceni-92-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87501
 hcl-iasi--erbiceni-93-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87502
 hcl-iasi--erbiceni-94-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87503
+hcl-iasi--erbiceni-95-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87510
 hcl-iasi--erbiceni-96-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87511
 hcl-iasi--erbiceni-97-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87512
 hcl-iasi--erbiceni-98-2022,current,2026-11-08,2026-12-08,register-read,,,,https://emol.ro/erbiceni-is/registru-hcl/87513

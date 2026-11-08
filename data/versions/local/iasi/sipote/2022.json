@@ -93,6 +93,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-104-2022",
+   "path": "local/iasi/sipote/2022/104",
+   "short": "HCL Șipote nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 104/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/68955",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/68955",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-105-2022",
    "path": "local/iasi/sipote/2022/105",
    "short": "HCL Șipote nr. 105/2022",
@@ -423,6 +438,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-125-2022",
+   "path": "local/iasi/sipote/2022/125",
+   "short": "HCL Șipote nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 125/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77213",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77213",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-126-2022",
+   "path": "local/iasi/sipote/2022/126",
+   "short": "HCL Șipote nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 126/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru lunile iulie 2022 , august 2022 și septembrie 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77214",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77214",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-127-2022",
    "path": "local/iasi/sipote/2022/127",
    "short": "HCL Șipote nr. 127/2022",
@@ -508,6 +553,21 @@
      "from": "2022-10-26",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/77219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-132-2022",
+   "path": "local/iasi/sipote/2022/132",
+   "short": "HCL Șipote nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 132/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/77220",
+   "versions": [
+    {
+     "from": "2022-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/77220",
      "sha256": null
     }
    ]
@@ -843,6 +903,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-16-2022",
+   "path": "local/iasi/sipote/2022/16",
+   "short": "HCL Șipote nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 16/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru luna decembrie 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/50771",
+   "versions": [
+    {
+     "from": "2022-02-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/50771",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-17-2022",
    "path": "local/iasi/sipote/2022/17",
    "short": "HCL Șipote nr. 17/2022",
@@ -943,6 +1018,36 @@
      "from": "2022-02-25",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/52446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-23-2022",
+   "path": "local/iasi/sipote/2022/23",
+   "short": "HCL Șipote nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 23/2022 privind desemnarea unui reprezentant al consiliului local, care face parte din Comisia de evaluare a probei de interviu,în calitate de membru , din cadrul concursului pentru ocuparea funcțiilor de director și director adjunct la Școala Gimnazială Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52447",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-24-2022",
+   "path": "local/iasi/sipote/2022/24",
+   "short": "HCL Șipote nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 24/2022 privind modificarea și completarea bugetului local de venituri si cheltuieli pe anul 2022 si estimarile pentru anii 2023 – 2025,adoptat prin Hotararea Consiliului local nr.14 din 10.02.2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/52448",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/52448",
      "sha256": null
     }
    ]
@@ -1143,6 +1248,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-37-2022",
+   "path": "local/iasi/sipote/2022/37",
+   "short": "HCL Șipote nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 37/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru lunile ianuarie 2022 - februarie 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/55903",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/55903",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-38-2022",
    "path": "local/iasi/sipote/2022/38",
    "short": "HCL Șipote nr. 38/2022",
@@ -1248,6 +1368,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-44-2022",
+   "path": "local/iasi/sipote/2022/44",
+   "short": "HCL Șipote nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 44/2022 privind aprobarea Regulamentului de organizare și funcționare a Pieței Agroalimentare Comuna Șipote ,județul Iași;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/56731",
+   "versions": [
+    {
+     "from": "2022-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/56731",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-45-2022",
    "path": "local/iasi/sipote/2022/45",
    "short": "HCL Șipote nr. 45/2022",
@@ -1338,6 +1473,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-50-2022",
+   "path": "local/iasi/sipote/2022/50",
+   "short": "HCL Șipote nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 50/2022 privind alocarea unei sume de bani în valoare de 3.000 lei din bugetul propriu al Consiliului local al comunei Şipote , judeţul Iaşi, pe anul 2022 , ca sprijin financiar pentru Biserica Parohiei Ortodoxe din sat Chișcăreni , comuna Șipote , județul Iași ”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/57684",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/57684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-51-2022",
+   "path": "local/iasi/sipote/2022/51",
+   "short": "HCL Șipote nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 51/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 28 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58664",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-52-2022",
+   "path": "local/iasi/sipote/2022/52",
+   "short": "HCL Șipote nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 52/2022 privind aprobarea procesului verbal al ședinței ” extraordinare ” din data 19 aprilie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58665",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58665",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-53-2022",
    "path": "local/iasi/sipote/2022/53",
    "short": "HCL Șipote nr. 53/2022",
@@ -1363,6 +1543,21 @@
      "from": "2022-04-28",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/58667",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-55-2022",
+   "path": "local/iasi/sipote/2022/55",
+   "short": "HCL Șipote nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 55/2022",
+   "url": "https://emol.ro/sipote-is/registru-hcl/58668",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/58668",
      "sha256": null
     }
    ]
@@ -1513,6 +1708,21 @@
      "from": "2022-05-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/61894",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-65-2022",
+   "path": "local/iasi/sipote/2022/65",
+   "short": "HCL Șipote nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 65/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru lunile martie 2022 – aprilie 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/61895",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/61895",
      "sha256": null
     }
    ]
@@ -1713,6 +1923,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-78-2022",
+   "path": "local/iasi/sipote/2022/78",
+   "short": "HCL Șipote nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 78/2022 privind alocarea sumei de 50.000 lei din bugetul local al anului 2022 cu privire la aprobarea manifestărilor organizate cu ocazia „Zilei comunei Sipote ,acordarea diplomei pentru aniversarea a 50 de ani de la căsătorie (nunta de aur), conferirea titlului de „Cetăţean de onoare al comunei Șipote a unui număr de 7 (șapte)cadre didactice pentru întreaga sa activitate desfășurată în domeniul învățământului ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65230",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65230",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-79-2022",
    "path": "local/iasi/sipote/2022/79",
    "short": "HCL Șipote nr. 79/2022",
@@ -1783,6 +2008,21 @@
      "from": "2022-06-29",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/65234",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-83-2022",
+   "path": "local/iasi/sipote/2022/83",
+   "short": "HCL Șipote nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 83/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru luna mai 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/65235",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/65235",
      "sha256": null
     }
    ]
@@ -1863,6 +2103,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-89-2022",
+   "path": "local/iasi/sipote/2022/89",
+   "short": "HCL Șipote nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 89/2022 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 28 iulie 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67245",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67245",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-9-2022",
    "path": "local/iasi/sipote/2022/9",
    "short": "HCL Șipote nr. 9/2022",
@@ -1903,6 +2158,21 @@
      "from": "2022-07-28",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/67247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-92-2022",
+   "path": "local/iasi/sipote/2022/92",
+   "short": "HCL Șipote nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 92/2022 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care nu dețin locuință pe teritoriul comunei Șipote ,pentru luna iunie 2022;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/67248",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/67248",
      "sha256": null
     }
    ]

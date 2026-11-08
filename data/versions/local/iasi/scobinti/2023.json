@@ -93,6 +93,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-104-2023",
+   "path": "local/iasi/scobinti/2023/104",
+   "short": "HCL Scobinți nr. 104/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 104/2023 privind acordarea unui premiu în valoare de 1500 de lei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148706",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-105-2023",
+   "path": "local/iasi/scobinti/2023/105",
+   "short": "HCL Scobinți nr. 105/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 105/2023 privind acordarea unui premiu în valoare de 3000 de lei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148707",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148707",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-106-2023",
    "path": "local/iasi/scobinti/2023/106",
    "short": "HCL Scobinți nr. 106/2023",
@@ -103,6 +133,21 @@
      "from": "2024-03-22",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/148757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-107-2023",
+   "path": "local/iasi/scobinti/2023/107",
+   "short": "HCL Scobinți nr. 107/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 107/2023 privind acordarea din bugetul local al Comunei Scobinți, a sumei de 3070 lei ajutoare de înmormantare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148758",
+   "versions": [
+    {
+     "from": "2024-03-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148758",
      "sha256": null
     }
    ]
@@ -798,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-17-2023",
+   "path": "local/iasi/scobinti/2023/17",
+   "short": "HCL Scobinți nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 17/2023 privind acordare ajutor financiar",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125693",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125693",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-18-2023",
    "path": "local/iasi/scobinti/2023/18",
    "short": "HCL Scobinți nr. 18/2023",
@@ -808,6 +868,21 @@
      "from": "2023-10-25",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/125694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-19-2023",
+   "path": "local/iasi/scobinti/2023/19",
+   "short": "HCL Scobinți nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 19/2023 privind închiriere suprafață pășune",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125695",
+   "versions": [
+    {
+     "from": "2023-10-25",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125695",
      "sha256": null
     }
    ]
@@ -883,6 +958,21 @@
      "from": "2023-10-26",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/125801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-24-2023",
+   "path": "local/iasi/scobinti/2023/24",
+   "short": "HCL Scobinți nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 24/2023 privind acordarea unui loc de casă",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125802",
+   "versions": [
+    {
+     "from": "2023-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125802",
      "sha256": null
     }
    ]
@@ -1068,6 +1158,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-36-2023",
+   "path": "local/iasi/scobinti/2023/36",
+   "short": "HCL Scobinți nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 36/2023 privind anularea Contractului de schimb nr. 103/17.01.2000 și încheierea unui nou contract de schimb",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125824",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125824",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-37-2023",
    "path": "local/iasi/scobinti/2023/37",
    "short": "HCL Scobinți nr. 37/2023",
@@ -1108,6 +1213,36 @@
      "from": "2023-10-26",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/125827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-4-2023",
+   "path": "local/iasi/scobinti/2023/4",
+   "short": "HCL Scobinți nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 4/2023 privind aprobarea suma bani, ajutor de înmormantare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/117825",
+   "versions": [
+    {
+     "from": "2023-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/117825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-40-2023",
+   "path": "local/iasi/scobinti/2023/40",
+   "short": "HCL Scobinți nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 40/2023 privind aprobarea documentației privind închirierea suprafeșei de 7500 mp pajiște comunală",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125828",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125828",
      "sha256": null
     }
    ]
@@ -1218,6 +1353,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-48-2023",
+   "path": "local/iasi/scobinti/2023/48",
+   "short": "HCL Scobinți nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 48/2023 privind aprobarea închirierii suprafeței de 11,41 ha teren arabil și fâneață din domeniul privat al Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/128774",
+   "versions": [
+    {
+     "from": "2023-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/128774",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-49-2023",
    "path": "local/iasi/scobinti/2023/49",
    "short": "HCL Scobinți nr. 49/2023",
@@ -1228,6 +1378,21 @@
      "from": "2023-11-15",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/128775",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-5-2023",
+   "path": "local/iasi/scobinti/2023/5",
+   "short": "HCL Scobinți nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 5/2023 privind închirierea unei suprafețe de 901,67 ha pășune",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/125044",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/125044",
      "sha256": null
     }
    ]
@@ -1338,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-57-2023",
+   "path": "local/iasi/scobinti/2023/57",
+   "short": "HCL Scobinți nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 57/2023 privind aprobarea unui schimb de teren",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/128830",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/128830",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-58-2023",
    "path": "local/iasi/scobinti/2023/58",
    "short": "HCL Scobinți nr. 58/2023",
@@ -1393,6 +1573,21 @@
      "from": "2023-11-15",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/128833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-61-2023",
+   "path": "local/iasi/scobinti/2023/61",
+   "short": "HCL Scobinți nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 61/2023 privind aprobarea acordare loc de casă",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/128834",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/128834",
      "sha256": null
     }
    ]
@@ -1498,6 +1693,21 @@
      "from": "2024-03-21",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/148397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-69-2023",
+   "path": "local/iasi/scobinti/2023/69",
+   "short": "HCL Scobinți nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 69/2023 privind acordare din bugetul local suma de 1500 lei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148398",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148398",
      "sha256": null
     }
    ]
@@ -1633,6 +1843,21 @@
      "from": "2024-03-21",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/148442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-78-2023",
+   "path": "local/iasi/scobinti/2023/78",
+   "short": "HCL Scobinți nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 78/2023 privind aprobarea alocarea sumei de 4691 lei din bugetul local pentru ajutoare de urgență pentru înmormântare la 3 persoane din comuna Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148443",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148443",
      "sha256": null
     }
    ]
@@ -1788,6 +2013,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-88-2023",
+   "path": "local/iasi/scobinti/2023/88",
+   "short": "HCL Scobinți nr. 88/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 88/2023",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148564",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-89-2023",
+   "path": "local/iasi/scobinti/2023/89",
+   "short": "HCL Scobinți nr. 89/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 89/2023",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148565",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148565",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-9-2023",
    "path": "local/iasi/scobinti/2023/9",
    "short": "HCL Scobinți nr. 9/2023",
@@ -1858,6 +2113,21 @@
      "from": "2024-03-21",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/148569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-94-2023",
+   "path": "local/iasi/scobinti/2023/94",
+   "short": "HCL Scobinți nr. 94/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 94/2023 privind desemnarea unui reprezentant al Consiliului Local Scobinți în cadrul Consiliului de Administrație în unitățile de învățământ din Comuna Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/148586",
+   "versions": [
+    {
+     "from": "2024-03-21",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/148586",
      "sha256": null
     }
    ]

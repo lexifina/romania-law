@@ -113,6 +113,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-6-2025",
+"path": "local/iasi/prisacani/2025/6",
+"kind": "local",
+"year": "2025",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 6/2025 privind actualizarea cuantumului chiriilor pentru terenurile şi păşunile închiriate şi a redevenţei terenurilor concesionate de pe raza Comunei Prisăcani, cu rata inflaţiei de 5,1% aferentă anului 2024 conform COMUNICATULUI DE PRESĂ nr. 10/14.01.2025 emis de INSTITUTUL NAŢIONAL DE STATISTICĂ pentru anul fiscal 2025",
+"short": "HCL Prisăcani nr. 6/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-04-09",
+"latest": "2025-04-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/201467",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-7-2025",
 "path": "local/iasi/prisacani/2025/7",
 "kind": "local",
@@ -465,6 +487,29 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-23-2025",
+"path": "local/iasi/prisacani/2025/23",
+"kind": "local",
+"year": "2025",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 23/2025",
+"short": "HCL Prisăcani nr. 23/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-06-03",
+"latest": "2025-06-03",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/210802",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-24-2025",
 "path": "local/iasi/prisacani/2025/24",
 "kind": "local",
@@ -574,6 +619,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-29-2025",
+"path": "local/iasi/prisacani/2025/29",
+"kind": "local",
+"year": "2025",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 29/2025 privind concesionarea serviciului specializat pentru gestionarea câinilor fără stăpân din comuna Prisăcani , judetul Iași",
+"short": "HCL Prisăcani nr. 29/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/220230",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -755,6 +822,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-38-2025",
+"path": "local/iasi/prisacani/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 38/2025 privind modificarea HCL Prisacani nr. 49/ 30.06.2023 privind aprobarea studiului de oportunitate, caietului de sarcini, documentatiei de atribuire, raportului de evaluare, redeventa, si comisia de evaluare a ofertelor pentru licitatia privind concesionarea a 13 loturi teren intravilan numar cadastral 61592 = 656 mp , 61593 = 655 mp , 61594 = 655 mp, 61595 = 512 mp, 61596 = 512 mp, 61597 = 512 mp, 61598 = 512 mp, 61599 = 512 mp, 61600 = 512 mp, 61601 = 512 mp, 61602 = 512 mp, 61603 = 512 mp, 61604 = 512 mp, apartinand domeniului privat al UAT Comuna Prisacani",
+"short": "HCL Prisăcani nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235789",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-39-2025",
 "path": "local/iasi/prisacani/2025/39",
 "kind": "local",
@@ -774,6 +863,29 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-40-2025",
+"path": "local/iasi/prisacani/2025/40",
+"kind": "local",
+"year": "2025",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 40/2025",
+"short": "HCL Prisăcani nr. 40/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235791",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -843,6 +955,162 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-44-2025",
+"path": "local/iasi/prisacani/2025/44",
+"kind": "local",
+"year": "2025",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 44/2025 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul TRIM. III și actualizarea Listei obiectivelor de investiții pe anul 2025, sursa 2A (buget local) Iasi",
+"short": "HCL Prisăcani nr. 44/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235797",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-45-2025",
+"path": "local/iasi/prisacani/2025/45",
+"kind": "local",
+"year": "2025",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 45/2025 privind aprobarea actului aditional nr.2 referitor la prelungirea termenului de executie a lucrarilor cu 6 luni de la ordinul de reluare a lucrarilor cu nr 1774/26.02.2025 pentru contractul de executie lucrari nr. 6370/28.06.2024 ,,Cresterea eficientei energetice a cladirii primariei Prisacani din com.Prisacani, judet Iasi,, pana la data de 12.01.2026",
+"short": "HCL Prisăcani nr. 45/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235798",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-46-2025",
+"path": "local/iasi/prisacani/2025/46",
+"kind": "local",
+"year": "2025",
+"number": "46",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 46/2025 privind aprobarea actului aditional nr.2 referitor la prelungirea termenului de executie a lucrarilor cu 6 luni de la ordinul de reluare a lucrarilor cu nr 1773/26.02.2025 pentru contractul de executie lucrari nr. 7190/24.07.2024 ,,Cresterea eficientei energetice a cladirii scolii primare din sat Moreni, com.Prisacani, judet Iasi,, pana la data de 23.01.2026",
+"short": "HCL Prisăcani nr. 46/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235799",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-47-2025",
+"path": "local/iasi/prisacani/2025/47",
+"kind": "local",
+"year": "2025",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 47/2025",
+"short": "HCL Prisăcani nr. 47/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235800",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-48-2025",
+"path": "local/iasi/prisacani/2025/48",
+"kind": "local",
+"year": "2025",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 48/2025",
+"short": "HCL Prisăcani nr. 48/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235801",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-49-2025",
+"path": "local/iasi/prisacani/2025/49",
+"kind": "local",
+"year": "2025",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 49/2025 privind aprobarea încheierii unui contract de comodat între UAT Comuna Prisăcani și Asociația de Dezvoltare Intercomunitară Transport Public PRISĂCANI-GROZEȘTI-RĂDUCĂNENI",
+"short": "HCL Prisăcani nr. 49/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235802",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-50-2025",
+"path": "local/iasi/prisacani/2025/50",
+"kind": "local",
+"year": "2025",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 50/2025 privind modificarea organigramei la Primaria comunei Prisacani, judetul Iasi",
+"short": "HCL Prisăcani nr. 50/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235803",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-51-2025",
 "path": "local/iasi/prisacani/2025/51",
 "kind": "local",
@@ -909,6 +1177,138 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-54-2025",
+"path": "local/iasi/prisacani/2025/54",
+"kind": "local",
+"year": "2025",
+"number": "54",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 54/2025 privind alegerea presedintelui de sedinta a Consiliului Local Prisacani pentru perioada august 2025 – octombrie 2025",
+"short": "HCL Prisăcani nr. 54/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235807",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-55-2025",
+"path": "local/iasi/prisacani/2025/55",
+"kind": "local",
+"year": "2025",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 55/2025 privind actualizarea Anexei Programului Anual al Achizitiilor Publice - Achizitiile directe pentru anul 2025 a Comunei Prisacani, judetul Iasi",
+"short": "HCL Prisăcani nr. 55/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235808",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-56-2025",
+"path": "local/iasi/prisacani/2025/56",
+"kind": "local",
+"year": "2025",
+"number": "56",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 56/2025 privind majorarea cu 2% a contractelor de executie lucrari aflate in derulare din Lista de investitii a Comunei Prisacani prin incheierea de acte aditionale",
+"short": "HCL Prisăcani nr. 56/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235811",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-57-2025",
+"path": "local/iasi/prisacani/2025/57",
+"kind": "local",
+"year": "2025",
+"number": "57",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 57/2025 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul TRIM. III și actualizarea Listei obiectivelor de investiții pe anul 2025, sursa 2A (buget local) Iasi",
+"short": "HCL Prisăcani nr. 57/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235812",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-58-2025",
+"path": "local/iasi/prisacani/2025/58",
+"kind": "local",
+"year": "2025",
+"number": "58",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 58/2025 privind demararea procedurilor pentru concesiunea prin licitație a unei suprafețe de 18900 mp mp teren extravilan din domeniul public al Comunei Prisăcani, județul Iași conform indicatorului cadastral nr. 60813, în vederea construirii unei baze de producție industriale",
+"short": "HCL Prisăcani nr. 58/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235813",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-59-2025",
+"path": "local/iasi/prisacani/2025/59",
+"kind": "local",
+"year": "2025",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 59/2025 privind privind demararea procedurilor pentru concesiunea prin licitatie a unei suprafete de 7555 mp teren extravilan din domeniul public al Comunei Prisacani, judetul Iasi conform indicatorului cadastral nr. 60825, in vederea construirii unei baze de depozitare industriale",
+"short": "HCL Prisăcani nr. 59/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235814",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-60-2025",
 "path": "local/iasi/prisacani/2025/60",
 "kind": "local",
@@ -931,6 +1331,138 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-61-2025",
+"path": "local/iasi/prisacani/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 61/2025 privind privind rectificarea Bugetului local de venituri și cheltuieli la nivelul TRIM. III și actualizarea Listei obiectivelor de investiții pe anul 2025, sursa 2A (buget local) a comunei Prisacani, judetul Iasi",
+"short": "HCL Prisăcani nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235830",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-62-2025",
+"path": "local/iasi/prisacani/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 62/2025 privind actualizarea Anexei Programului Anual al Achizitiilor Publice - Achizitiile directe pentru anul 2025 a Comunei Prisacani, judetul Iasi",
+"short": "HCL Prisăcani nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235831",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-63-2025",
+"path": "local/iasi/prisacani/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 63/2025 privind actualizarea personalului echipei mobile din cadrul Serviciului Public de Asistenta Sociala (SPAS) la nivelul UAT Comuna Prisacani, judetul Iasi, conform HCL Prisacani nr. 64/27.06.2019",
+"short": "HCL Prisăcani nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235832",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-64-2025",
+"path": "local/iasi/prisacani/2025/64",
+"kind": "local",
+"year": "2025",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 64/2025 privind vânzarea prin licitație publică a terenului în suprafata de 12500 mp nr. cadastral 61426 proprietate privată a Comunei Prisacani, județul Iasi, situat in sat Prisacani , com. Prisacani",
+"short": "HCL Prisăcani nr. 64/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235833",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-65-2025",
+"path": "local/iasi/prisacani/2025/65",
+"kind": "local",
+"year": "2025",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 65/2025 privind vânzarea prin licitație publică a terenului în suprafata de 7270 mp nr. cadastral 61430 proprietate privată a Comunei Prisacani, județul Iasi, situat in sat Prisacani, com.Prisacani",
+"short": "HCL Prisăcani nr. 65/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235834",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-66-2025",
+"path": "local/iasi/prisacani/2025/66",
+"kind": "local",
+"year": "2025",
+"number": "66",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 66/2025 privind desemnarea a doi reprezentanti din partea Consiliului Local Prisacani, unul pentru functia de membru in Consiliul de Administratie si unul pentru functia de membru in Comisia pentru evaluarea si asigurarea calitatii a Scolii Gimnaziale Prisacani, judetul Iasi in anul scolar 2025 - 2026",
+"short": "HCL Prisăcani nr. 66/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-18",
+"latest": "2025-11-18",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/235835",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-67-2025",
 "path": "local/iasi/prisacani/2025/67",
 "kind": "local",
@@ -950,6 +1482,138 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-68-2025",
+"path": "local/iasi/prisacani/2025/68",
+"kind": "local",
+"year": "2025",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 68/2025 privind rectificarea Bugetului local de venituri și cheltuieli la nivelul TRIM. IV sursa 2A (buget local) și actualizarea Listei obiectivelor de investiții pe anul 2025, a comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 68/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239118",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-69-2025",
+"path": "local/iasi/prisacani/2025/69",
+"kind": "local",
+"year": "2025",
+"number": "69",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 69/2025 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achizițiile directe pentru anul 2025 a Comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 69/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239119",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-70-2025",
+"path": "local/iasi/prisacani/2025/70",
+"kind": "local",
+"year": "2025",
+"number": "70",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 70/2025 privind modificarea organigramei, statelor de funcții și de personal la Primăria comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 70/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239120",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-71-2025",
+"path": "local/iasi/prisacani/2025/71",
+"kind": "local",
+"year": "2025",
+"number": "71",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 71/2025 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru perioada noiembrie 2025-iauarie 2026",
+"short": "HCL Prisăcani nr. 71/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239121",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-72-2025",
+"path": "local/iasi/prisacani/2025/72",
+"kind": "local",
+"year": "2025",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 72/2025 privind aprobarea actului adițional nr.4 la contractul de execuție lucrări nr. 6370/28.06.2024 pentru obiectivul de investiției: „Creșterea eficienței energetice a clădirii primăriei Prisăcani din comuna Prisăcani, județul Iași” încheiat cu SC YARDS Construct Project SRL",
+"short": "HCL Prisăcani nr. 72/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239122",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-73-2025",
+"path": "local/iasi/prisacani/2025/73",
+"kind": "local",
+"year": "2025",
+"number": "73",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 73/2025 privind aprobarea actului adițional nr. 4 la contractul de execuție lucrări nr. 7190/24.07.2024 pentru obiectivul de investiției: „Creșterea eficienței energetice a clădirii Școlii Primare din satul Moreni, comuna Prisăcani, județul Iași” încheiat cu SC YARDS Construct project SRL",
+"short": "HCL Prisăcani nr. 73/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-09",
+"latest": "2026-02-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/239123",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

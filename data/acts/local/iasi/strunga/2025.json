@@ -201,6 +201,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-10-2025",
+"path": "local/iasi/strunga/2025/10",
+"kind": "local",
+"year": "2025",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2025 privind aprobarea concesionării unor suprafețe de pajiști permanente aflate în domeniul public al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, prin atribuire directă",
+"short": "HCL Strunga nr. 10/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-04",
+"latest": "2025-11-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/233953",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-11-2025",
 "path": "local/iasi/strunga/2025/11",
 "kind": "local",
@@ -264,6 +286,29 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-14-2025",
+"path": "local/iasi/strunga/2025/14",
+"kind": "local",
+"year": "2025",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 14/2025",
+"short": "HCL Strunga nr. 14/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/strunga-is/registru-hcl/233982",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -419,6 +464,28 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-22-2025",
+"path": "local/iasi/strunga/2025/22",
+"kind": "local",
+"year": "2025",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2025 privind aprobarea înlocuirii reprezentantului legal al Unității Administrativ Teritoriale Comuna Strunga, județul Iași în cadrul parteneriatului Asociația Grupul de Acțiune Locală (G.A.L.) Iași Sud-Vest, pentru perioada 2023 – 2027",
+"short": "HCL Strunga nr. 22/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/strunga-is/registru-hcl/233990",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1238,6 +1305,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-60-2025",
+"path": "local/iasi/strunga/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 60/2025 privind desemnarea reprezentantului Consiliului local al comunei Strunga, judeţul Iaşi în Consiliul de Administraţie al Şcolii Gimnaziale Strunga, pentru anul şcolar 2025 – 2026",
+"short": "HCL Strunga nr. 60/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/strunga-is/registru-hcl/234256",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-61-2025",
 "path": "local/iasi/strunga/2025/61",
 "kind": "local",
@@ -1257,6 +1346,52 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-62-2025",
+"path": "local/iasi/strunga/2025/62",
+"kind": "local",
+"year": "2025",
+"number": "62",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 62/2025",
+"short": "HCL Strunga nr. 62/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/strunga-is/registru-hcl/234258",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-63-2025",
+"path": "local/iasi/strunga/2025/63",
+"kind": "local",
+"year": "2025",
+"number": "63",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 63/2025",
+"short": "HCL Strunga nr. 63/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-11-05",
+"latest": "2025-11-05",
+"portal": "https://emol.ro/strunga-is/registru-hcl/234259",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

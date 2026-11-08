@@ -25,6 +25,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-2-2025",
+"path": "local/iasi/targu-frumos/2025/2",
+"kind": "local",
+"year": "2025",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 2/2025 pentru modificare H C L Orasul Tg Frumos nr. 167/19.12.2024 (privind stabilirea componenței comisiei de evaluare a ofertelor pentru atribuirea prin licitație a contractelor de concesiune de bunuri proprietate publică și numirea reprezentanților Consiliului local al orașului Târgu Frumos în comisia de evaluare a ofertelor pentru atribuirea prin licitație publică a contractelor de concesiune)",
+"short": "HCL Târgu Frumos nr. 2/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-15",
+"latest": "2025-01-15",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#91697",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-4-2025",
 "path": "local/iasi/targu-frumos/2025/4",
 "kind": "local",
@@ -88,6 +110,28 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-11-2025",
+"path": "local/iasi/targu-frumos/2025/11",
+"kind": "local",
+"year": "2025",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 11/2025 , privind suspendarea aplicabilitatii in anul 2025 a prevederilor H C L nr. 33/28.03.2024 (privind aprobarea decontării cheltuielilor cu efectuarea navetei funcționarilor publici din cadrul Unității Administrației- Teritoriale Orașul Târgu Frumos, județul Iași și a Regulamentului pentru decontarea cheltuielilor cu naveta pentru funcționarii publici din cadrul Unității Administrației- Teritoriale Orașul Târgu Frumos, județul Iași)",
+"short": "HCL Târgu Frumos nr. 11/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-29",
+"latest": "2025-01-29",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#92894",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -176,6 +220,28 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-27-2025",
+"path": "local/iasi/targu-frumos/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 27/2025 , privind modificarea H C L Orasul Tg Frumos, jud. Iasi nr. 11 din 29.01.2025. (privind suspendarea aplicabilitatii in anul 2025 a prevederilor H C L nr. 33/28.03.2024 (privind aprobarea decontării cheltuielilor cu efectuarea navetei funcționarilor publici din cadrul Unității Administrației- Teritoriale Orașul Târgu Frumos, județul Iași și a Regulamentului pentru decontarea cheltuielilor cu naveta pentru funcționarii publici din cadrul Unității Administrației- Teritoriale Orașul Târgu Frumos, județul Iași))",
+"short": "HCL Târgu Frumos nr. 27/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-10",
+"latest": "2025-02-10",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#93378",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -308,6 +374,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_withheld": "personal_data",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-38-2025",
+"path": "local/iasi/targu-frumos/2025/38",
+"kind": "local",
+"year": "2025",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 38/2025",
+"short": "HCL Târgu Frumos nr. 38/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-02-26",
+"latest": "2025-02-26",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
 "title_withheld": "personal_data"
 }
 },

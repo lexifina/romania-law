@@ -3,6 +3,36 @@
  "shard": "local/iasi/strunga/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--strunga-1-2023",
+   "path": "local/iasi/strunga/2023/1",
+   "short": "HCL Strunga nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 1/2023 privind alegerea președintelui de ședință pentru perioada ianuari 2023 -martie-2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110570",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-10-2023",
+   "path": "local/iasi/strunga/2023/10",
+   "short": "HCL Strunga nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110610",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110610",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-100-2023",
    "path": "local/iasi/strunga/2023/100",
    "short": "HCL Strunga nr. 100/2023",
@@ -148,6 +178,21 @@
      "from": "2024-01-10",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136958",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-11-2023",
+   "path": "local/iasi/strunga/2023/11",
+   "short": "HCL Strunga nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2023 privind aprobarea Planului de acțiuni și lucrări de interes local pentru anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110611",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110611",
      "sha256": null
     }
    ]
@@ -303,6 +348,606 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-12-2023",
+   "path": "local/iasi/strunga/2023/12",
+   "short": "HCL Strunga nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 12/2023 privind aprobarea Programului anual al achizițiilor publice pe anul 2023, la nivelul Unității Administrativ-Teritoriale Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110612",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-13-2023",
+   "path": "local/iasi/strunga/2023/13",
+   "short": "HCL Strunga nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 13/2023 privind aprobarea achiziționării serviciilor juridice de consultanță, asistență și de reprezentare a Unității Administrativ-Teritoriale Comuna Strunga, județul Iași, a Primarului comunei Strunga și a consiliului Local al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110613",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-14-2023",
+   "path": "local/iasi/strunga/2023/14",
+   "short": "HCL Strunga nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 14/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110614",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110614",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-15-2023",
+   "path": "local/iasi/strunga/2023/15",
+   "short": "HCL Strunga nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 15/2023 privind aprobarea achiziționării serviciilor de cadastru la nivelul Unității Administrativ-Teritoriale Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110615",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110615",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-16-2023",
+   "path": "local/iasi/strunga/2023/16",
+   "short": "HCL Strunga nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 16/2023 privind aprobarea achiziționării srviciilor de întocmire a documentației tehnice pentru obținerea autorizației de gospodărire a apelor la nivelul Unității Administrativ-Teritoriale Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110616",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-17-2023",
+   "path": "local/iasi/strunga/2023/17",
+   "short": "HCL Strunga nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 17/2023 privind aprobarea amplasamentului pentru „Groapă de neutralizare prin îngropare a cadavrelor de animale” și elaborarea documentației tehnice necesare obținerii avizului de gospodărire a apelor",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110617",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-18-2023",
+   "path": "local/iasi/strunga/2023/18",
+   "short": "HCL Strunga nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 18/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110618",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-19-2023",
+   "path": "local/iasi/strunga/2023/19",
+   "short": "HCL Strunga nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 19/2023 privind aprobarea completării și modificării Hotărârii nr. 57/25.11.2022 a Consiliului local al comunei Strunga, județul Iași, privind aprobarea înființării „Serviciului pentru gestionarea câinilor fără stăpân”și aprobarea gestiunii delegate a acestuia",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110633",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-2-2023",
+   "path": "local/iasi/strunga/2023/2",
+   "short": "HCL Strunga nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 2/2023 privind încheierea exercițiului bugetar al Consiliului local al comunei Strunga, județul Iași, pe anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110571",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-20-2023",
+   "path": "local/iasi/strunga/2023/20",
+   "short": "HCL Strunga nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 20/2023 privind aprobarea modificării bugetului propriu al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul I, anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110634",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110634",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-21-2023",
+   "path": "local/iasi/strunga/2023/21",
+   "short": "HCL Strunga nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 21/2023 privind aprobarea solicitării luării în administrare a terenului aferent obiectivul de investiție„EXTINDERE REȚEA CANALIZARE ÎN COMUNA STRUNGA, JUDEȚUL IAȘI”prin Programul Național de Investiții, „Anghel Saligny”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110635",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110635",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-22-2023",
+   "path": "local/iasi/strunga/2023/22",
+   "short": "HCL Strunga nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2023 privind buna gospodărire, îmfrumusețare și întreținere a comunei Strunga, județul Iași în anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110639",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-23-2023",
+   "path": "local/iasi/strunga/2023/23",
+   "short": "HCL Strunga nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 23/2023 privind aprobarea execuției bugetare a Unității Administrativ Teritoriale Comuna Strunga, județul Iași pe anul 2022",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110640",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-24-2023",
+   "path": "local/iasi/strunga/2023/24",
+   "short": "HCL Strunga nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 24/2023 privind reorganizarea Structurii Comunitare Consultative a Unității Administrativ Teritoriale Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110641",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-25-2023",
+   "path": "local/iasi/strunga/2023/25",
+   "short": "HCL Strunga nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 25/2023 privind aprobarea Planului de acțiune privind serviciile sociale acordate de Compartimentul de asistență socială din aparatul de specialitate al primarului comunei Strunga, județul Iași, în cadrul Unității Administrativ Teritoriale Comuna Strunga, județul Iași, în anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110642",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-26-2023",
+   "path": "local/iasi/strunga/2023/26",
+   "short": "HCL Strunga nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 26/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110643",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-27-2023",
+   "path": "local/iasi/strunga/2023/27",
+   "short": "HCL Strunga nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 27/2023 privind aprobarea modificării bugetul propriu al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110644",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-28-2023",
+   "path": "local/iasi/strunga/2023/28",
+   "short": "HCL Strunga nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 28/2023 privind aprobarea documentației de avizare a lucrărilor de intervenție (D.A.L.I.), a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții„Reabilitare energetică moderată dispensar sat Fărcășeni, comuna Strunga, județul Iași”,aprobat pentru finanțare prin Planull Național de Redresare și Reziliență - Componenta 10 - Fondul local, Investiția I.3 - Reabilitare moderată a clădirilor publice pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110645",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-29-2023",
+   "path": "local/iasi/strunga/2023/29",
+   "short": "HCL Strunga nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 29/2023 privind aprobarea completării Hotărârii nr.9/26.02.2021 a Consiliului local al comunei Strunga, județul Iași, privind aprobarea normativelor proprii pentru consumul lunar de carburanți necesar autovehiculelor și utilajelor aflate în dotarea Primăriei comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110646",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-3-2023",
+   "path": "local/iasi/strunga/2023/3",
+   "short": "HCL Strunga nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 3/2023 privind aprobarea utilizării sumei de 90.000 lei din excedentul anilor precedenți, pentru proiectele de investiții „Demolare și construire grădiniță cu program normal, sat Crivești, comuna Strunga”, „Actualizare PUG în comuna Strunga, județul Iași” și „Extindere rețea canalizare în comuna Srunga, juețul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110572",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-30-2023",
+   "path": "local/iasi/strunga/2023/30",
+   "short": "HCL Strunga nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 30/2023 privind aprobarea modificării și completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, consolidat în anul 2021, prin Actul adițional nr.3",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110647",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-31-2023",
+   "path": "local/iasi/strunga/2023/31",
+   "short": "HCL Strunga nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 31/2023 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110656",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-32-2023",
+   "path": "local/iasi/strunga/2023/32",
+   "short": "HCL Strunga nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 32/2023 privind aprobarea transformării unei funcții contractuale de execuție vacantă din aparatul de specialitate al primarului comunei Strunga, județul Iași, aprobarea organigramei aparatului de specialitate al primarului comunei Strunga, județul Iași, precum și a statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110657",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-33-2023",
+   "path": "local/iasi/strunga/2023/33",
+   "short": "HCL Strunga nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 33/2023 privind aprobarea aderării Unității Administrativ Teritoriale Comuna Strunga, județul Iași la parteneriatul Asociația Grupul de Acțiune Locală(G.A.L.) Iași Sud-Vest, pentru perioada 2023 - 2027",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110658",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-34-2023",
+   "path": "local/iasi/strunga/2023/34",
+   "short": "HCL Strunga nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 34/2023 privind aprobarea Strategiei de Dezvoltare a serviciilor publice de alimentare cu apă și canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110659",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-35-2023",
+   "path": "local/iasi/strunga/2023/35",
+   "short": "HCL Strunga nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 35/2023 privind aprobarea indexării impozitelor și taxelor locale pentru anul fiscal 2024 cu rata inflației în procent de 13,80%",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110660",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-36-2023",
+   "path": "local/iasi/strunga/2023/36",
+   "short": "HCL Strunga nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 36/2023 privind aprobarea realizării obiectivului de investiții„Construire teren de sport pentru copii și tineret, în satul Strunga, comuna Strunga, județul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110661",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-37-2023",
+   "path": "local/iasi/strunga/2023/37",
+   "short": "HCL Strunga nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 37/2023 privind stabilirea salariilor de bază brute pentru personalul din aparatul de specialitate al primarului comunei Strunga, județul Iași, funcționari publici și personal contractual, începând cu data de 01.05.2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110662",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-38-2023",
+   "path": "local/iasi/strunga/2023/38",
+   "short": "HCL Strunga nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 38/2023 privind acordarea drepturilor cu caracter reparatoriu, drepturi salariale neacordate personalul din aparatul de specilitate al primarului comunei Strunga, județul Iași, funcționari publici și personal contractual, pentru peroada 1 noiembrie 2022 - 30 aprilie 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110663",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-39-2023",
+   "path": "local/iasi/strunga/2023/39",
+   "short": "HCL Strunga nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 39/2023 privind aprobarea execuției bugetare a Unității Administrativ Teritoriale Comuna Strunga, județul Iași pe trimestrul I, anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110664",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-4-2023",
+   "path": "local/iasi/strunga/2023/4",
+   "short": "HCL Strunga nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 4/2023 privind aprobarea bugetului propriu de venituri și cheltuieli al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe anul 2023 și a estimărilor pentru anii 2024-2026",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110573",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-40-2023",
+   "path": "local/iasi/strunga/2023/40",
+   "short": "HCL Strunga nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 40/2023 privind aprobarea modificării bugetului local al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul II, anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110676",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-41-2023",
+   "path": "local/iasi/strunga/2023/41",
+   "short": "HCL Strunga nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 41/2023 privind aprobarea modificării și completarea anexei la Hotărârea nr.34/30.06.2017 a Consiliului Local al Comunei Strunga, județul Iași privind reactualizarea domeniului public al Comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110677",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-42-2023",
+   "path": "local/iasi/strunga/2023/42",
+   "short": "HCL Strunga nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 42/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110678",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-43-2023",
+   "path": "local/iasi/strunga/2023/43",
+   "short": "HCL Strunga nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 43/2023 privind aprobarea Regulamentului de organizare și funcționare a Structurii Comunitare Consultative a Unității Administrativ Teritoriale Comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110679",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110679",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-44-2023",
+   "path": "local/iasi/strunga/2023/44",
+   "short": "HCL Strunga nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 44/2023 privind aprobarea realizării obiectivului de investiție „Amenajare teren sport în satul Brătulești, comnuna Strunga, județul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110680",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110680",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-45-2023",
+   "path": "local/iasi/strunga/2023/45",
+   "short": "HCL Strunga nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 45/2023 privind aprobarea Devizului general actualizat pentru obiectivul de investiție„Modernizare și reabilitare parc în comuna Strunga, județul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110681",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-46-2023",
+   "path": "local/iasi/strunga/2023/46",
+   "short": "HCL Strunga nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 46/2023 privind aprobarea realizării obiectivului de investiție „Reabilitare gard Școala Cucova, comuna Strunga, județul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110682",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-47-2023",
+   "path": "local/iasi/strunga/2023/47",
+   "short": "HCL Strunga nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 47/2023 privind aprobarea realizării obiectivului de investiție„Amenajare spațiu de joacă pentru copii în satul Hăbășești, comuna Strunga, județul Iași”",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110683",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-48-2023",
+   "path": "local/iasi/strunga/2023/48",
+   "short": "HCL Strunga nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 48/2023 privind aprobarea cheltuielilor de reprezentare a comunei Strunga, județul Iași, pentru deplasarea unei delegații în străinătate",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110684",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110684",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-49-2023",
    "path": "local/iasi/strunga/2023/49",
    "short": "HCL Strunga nr. 49/2023",
@@ -313,6 +958,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136778",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-5-2023",
+   "path": "local/iasi/strunga/2023/5",
+   "short": "HCL Strunga nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 5/2023 privind organizarea rețelei școlare a unităților de învățământ de pe raza comunei Strunga, județul Iași, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110574",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110574",
      "sha256": null
     }
    ]
@@ -373,6 +1033,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136782",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-54-2023",
+   "path": "local/iasi/strunga/2023/54",
+   "short": "HCL Strunga nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 54/2023 privind ...alegerea președintelui de ședință pentru perioada iulie-septembrie 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/136800",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/136800",
      "sha256": null
     }
    ]
@@ -448,6 +1123,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-6-2023",
+   "path": "local/iasi/strunga/2023/6",
+   "short": "HCL Strunga nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 6/2023 privind aprobarea numărului de asistenți personali ai persoanelor cu handicap de pe raza comunei Strunga, județul Iași, pe anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110575",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110575",
      "sha256": null
     }
    ]
@@ -543,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-66-2023",
+   "path": "local/iasi/strunga/2023/66",
+   "short": "HCL Strunga nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 66/2023 privind ...aprobarea suplimentării numărului de indemnizații lunare de îngrijire pentru persoanele cu handicap de pe raza comunei Strunga, județul Iași, pentru anul 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/136814",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/136814",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-67-2023",
    "path": "local/iasi/strunga/2023/67",
    "short": "HCL Strunga nr. 67/2023",
@@ -553,6 +1258,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136815",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-68-2023",
+   "path": "local/iasi/strunga/2023/68",
+   "short": "HCL Strunga nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 68/2023 privind ...alocarea din bugetul local al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe anul 2023, a unui sprijin financiar unor parohii din comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/136816",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/136816",
      "sha256": null
     }
    ]
@@ -573,6 +1293,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-7-2023",
+   "path": "local/iasi/strunga/2023/7",
+   "short": "HCL Strunga nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 7/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110576",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110576",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-70-2023",
    "path": "local/iasi/strunga/2023/70",
    "short": "HCL Strunga nr. 70/2023",
@@ -583,6 +1318,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-71-2023",
+   "path": "local/iasi/strunga/2023/71",
+   "short": "HCL Strunga nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 71/2023 privind ...desemnarea reprezentantului Consiliului Local al comunei Strunga, județul Iași în consiliul de Administrație al Școlii Gimnaziale Strunga, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/strunga-is/registru-hcl/136819",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/136819",
      "sha256": null
     }
    ]
@@ -678,6 +1428,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-78-2023",
+   "path": "local/iasi/strunga/2023/78",
+   "short": "HCL Strunga nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 78/2023 privind ...alegerea președintelui de ședință pentru perioada octombrie-decembrie 2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/136827",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/136827",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-79-2023",
    "path": "local/iasi/strunga/2023/79",
    "short": "HCL Strunga nr. 79/2023",
@@ -688,6 +1453,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-8-2023",
+   "path": "local/iasi/strunga/2023/8",
+   "short": "HCL Strunga nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 8/2023",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110577",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110577",
      "sha256": null
     }
    ]
@@ -838,6 +1618,21 @@
      "from": "2024-01-09",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/136861",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-9-2023",
+   "path": "local/iasi/strunga/2023/9",
+   "short": "HCL Strunga nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 9/2023 privind aprobarea delegării depunerii cererii de finanțare referitoare la Apelul de proiecte „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe” cu finanțare prin Programul Național de Reformă și Reziliență(P.N.R.R.)-Componenta C15:Educație, către Consiliul Județean Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/110578",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/110578",
      "sha256": null
     }
    ]

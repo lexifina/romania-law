@@ -3,6 +3,50 @@
 "shard": "local/iasi/strunga/2021",
 "acts": [
 {
+"slug": "hcl-iasi--strunga-1-2021",
+"path": "local/iasi/strunga/2021/1",
+"kind": "local",
+"year": "2021",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 1/2021 privind alegerea președintelui de ședință pentru ianuarie 2021- martie 2021",
+"short": "HCL Strunga nr. 1/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23573",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-2-2021",
+"path": "local/iasi/strunga/2021/2",
+"kind": "local",
+"year": "2021",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 2/2021 privind ratificarea Dispoziție nr. 2/05.01.2021 emisă de primarul comunei Strunga, județul Iași, cu privire la încheierea exercițiului bugetar al Consiliului local al comunei Strunga, județul iași, pe anul 2020",
+"short": "HCL Strunga nr. 2/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23574",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-3-2021",
 "path": "local/iasi/strunga/2021/3",
 "kind": "local",
@@ -154,6 +198,29 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-10-2021",
+"path": "local/iasi/strunga/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2021",
+"short": "HCL Strunga nr. 10/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-02-26",
+"latest": "2021-02-26",
+"portal": "https://emol.ro/strunga-is/registru-hcl/23582",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

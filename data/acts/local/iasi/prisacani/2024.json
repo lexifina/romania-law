@@ -47,6 +47,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-3-2024",
+"path": "local/iasi/prisacani/2024/3",
+"kind": "local",
+"year": "2024",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 3/2024 privind indexarea cuantumului chiriei pentru terenurile, pășunile și clădirile închiriate, a redevenței terenurilor, păsunilor și clădirilor concesionate cu 13,8% ce reprezintă coeficientul de inflație pe anul 2022, în comuna Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 3/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/151202",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-4-2024",
 "path": "local/iasi/prisacani/2024/4",
 "kind": "local",
@@ -198,6 +220,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-11-2024",
+"path": "local/iasi/prisacani/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 11/2024 privind decontarea/rambursarea cheltuielilor aferente dispozitivelor de corectie speciale, inclusiv ochelari de vedere, astfel cum sunt reglementate prin Hotărărea Guvernului nr. 1028/2006 privind cerințele minime de securitate și sănătate în munca referitoare la utilizarea echipamentelor cu ecran de vizualizare, personalului angajat în cadrul Aparatului de Specialitate al Primarului",
+"short": "HCL Prisăcani nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-04-10",
+"latest": "2024-04-10",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/151309",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -488,6 +532,29 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-25-2024",
+"path": "local/iasi/prisacani/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 25/2024",
+"short": "HCL Prisăcani nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/156029",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-26-2024",
 "path": "local/iasi/prisacani/2024/26",
 "kind": "local",
@@ -507,6 +574,94 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-27-2024",
+"path": "local/iasi/prisacani/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 27/2024 privind aprobarea studiului de oportunitate, caietul de sarcini, documentației de atribuire, raportului de evaluare, redevență și comisia de evaluare a ofertelor pentru licitația privind concesionarea suprafeței de 71 mp teren intravilan număr cadastral 61917 domeniu public UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 27/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/156031",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-28-2024",
+"path": "local/iasi/prisacani/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 28/2024 privind aprobarea studiului de oportunitate, caietului de sarcini, documentației de atribuire, raportului de evaluare, redevență și comisia de evaluare a ofertelor pentru licitația privind concesionarea suprafeței de 679 mp teren intravilan număr cadastral 62528 domeniu public UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/156032",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-29-2024",
+"path": "local/iasi/prisacani/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 29/2024 privind aprobarea studiului de oportunitate, caietului de sarcini, documentației de atribuire, raportului de evaluare, redevență și comisia de evaluare a ofertelor pentru licitația privind concesionarea suprafeței de 415 mp teren intravilan număr cadastral 61948 domeniu public UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/156033",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-30-2024",
+"path": "local/iasi/prisacani/2024/30",
+"kind": "local",
+"year": "2024",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 30/2024 privind aprobarea studiului de oportunitate, caietului de sarcini, documentației de atribuire, raportului de evaluare, redevență și comisia de evaluare a ofertelor pentru licitația privind concesionarea suprafeței de 22527 mp teren intravilan numere cadastrale 61904, 60166 aparținând domeniului public UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 30/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-05-21",
+"latest": "2024-05-21",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/156034",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1127,6 +1282,50 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-59-2024",
+"path": "local/iasi/prisacani/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 59/2024 privind modificarea HCL Prisăcani nr.88 din 26.10.2018 privind rectificarea HCL Prisăcani nr. 42 din 25.05.2018 privind acordarea unei indemnizații de 50 lei din BVC Comuna Prisăcani pentru fiecare membru ce participă la intervenții în cadrul Serviciului Voluntar de Situații de Urgență Prisăcani",
+"short": "HCL Prisăcani nr. 59/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/170086",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-60-2024",
+"path": "local/iasi/prisacani/2024/60",
+"kind": "local",
+"year": "2024",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 60/2024 privind modificarea Hotărârii Consiliului Local Prisăcani nr.11 din 29.02.2024 privind decontarea/rambursarea cheltuielilor aferente dispozitivelor de corecție speciale, inclusiv ocherari de vedere, astfel cum sunt reglementate prin Hotărârea Guvernului nr.1028/2006 privind cerințele minime de securitate și sănătate in muncă referitoare la utilizarea echipamentelor cu ecran vizualizate, personalului angajat în cadrul Aparatului de Specialitate al Primarului",
+"short": "HCL Prisăcani nr. 60/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-10-01",
+"latest": "2024-10-01",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/170087",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-61-2024",
 "path": "local/iasi/prisacani/2024/61",
 "kind": "local",
@@ -1568,6 +1767,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-81-2024",
+"path": "local/iasi/prisacani/2024/81",
+"kind": "local",
+"year": "2024",
+"number": "81",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 81/2024 privind cumpărarea a 305 corpuri de iluminat și 6 puncte de aprindere la valoarea totală de 20.230.00 lei cu TVA",
+"short": "HCL Prisăcani nr. 81/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/185692",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-82-2024",
 "path": "local/iasi/prisacani/2024/82",
 "kind": "local",
@@ -1631,6 +1852,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-85-2024",
+"path": "local/iasi/prisacani/2024/85",
+"kind": "local",
+"year": "2024",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 85/2024 privind desemnarea a doi reprezentanți din partea Consiliului Local Prisăcani, unul pentru funcția de membru în Consiliul de Administrație și unul pentru funcția de membru în Comisia pentru evaluarea și asigurarea calității Școlii Gimnaziale Prisăcani, județul Iași în anul școlar 2024-2025",
+"short": "HCL Prisăcani nr. 85/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2025-01-17",
+"latest": "2025-01-17",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/185696",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

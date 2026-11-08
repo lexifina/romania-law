@@ -3,6 +3,486 @@
  "shard": "local/iasi/scobinti/2025",
  "acts": [
   {
+   "slug": "hcl-iasi--scobinti-1-2025",
+   "path": "local/iasi/scobinti/2025/1",
+   "short": "HCL Scobinți nr. 1/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 1/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pe anul 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201938",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-10-2025",
+   "path": "local/iasi/scobinti/2025/10",
+   "short": "HCL Scobinți nr. 10/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 10/2025 privind aprobarea actualizării indicatorilor tehnico-economici în vederea atribuirii contractului de execuție pentru proiectul Dezvoltarea infrastructurii sportive în comuna Scobinți județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201947",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201947",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-100-2025",
+   "path": "local/iasi/scobinti/2025/100",
+   "short": "HCL Scobinți nr. 100/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 100/2025 privind alegerea președintelui de ședință pentru trimestrul IV al anului 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230822",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-101-2025",
+   "path": "local/iasi/scobinti/2025/101",
+   "short": "HCL Scobinți nr. 101/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 101/2025 privind aprobarea realizării obiectivului de investiții - Proiect \"Construire parc în comuna Scobinți, județul Iași\" și a cofinanțării Proiectelor prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2025-2030;",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230836",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230836",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-102-2025",
+   "path": "local/iasi/scobinti/2025/102",
+   "short": "HCL Scobinți nr. 102/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 102/2025 privind alocarea și plata din bugetul local al comunei Scobinți a sumei de 1500 lei reprezentând servicii de transport - Ansamblul Basaraba la evenimentul din 4-5 Octombrie 2025 la Iași - Festivalul Internațional \"Trandafir de la Moldova\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230837",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230837",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-103-2025",
+   "path": "local/iasi/scobinti/2025/103",
+   "short": "HCL Scobinți nr. 103/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 103/2025 privind modificarea și completarea Hotărârii nr. 100 din 30.09.2025, privind aprobarea realizării obiectivului de investii - Proiect \" Construire parc de joacă în comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230843",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230843",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-104-2025",
+   "path": "local/iasi/scobinti/2025/104",
+   "short": "HCL Scobinți nr. 104/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 104/2025 privind implementarea proiectului \"Înființare parc de recreere în comuna Scobinți, județul Iași\" prin PLANUL STRATEGIC PAC 2023-2027",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245506",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-105-2025",
+   "path": "local/iasi/scobinti/2025/105",
+   "short": "HCL Scobinți nr. 105/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 105/2025 privind aprobarea contractarii unui imprumut in valoare de 452.723 lei in conformitate cu prevederile art. 1 din Ordonanta de urgenta a Guvernului nr. 25/2025 pentru asigurarea unor imprumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245507",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-106-2025",
+   "path": "local/iasi/scobinti/2025/106",
+   "short": "HCL Scobinți nr. 106/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 106/2025 privind aprobarea rectificării Bugetului Local pentru anul 2025 și modificarea listei de investiții conform anexelor la prezenta hotărâre",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245508",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245508",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-107-2025",
+   "path": "local/iasi/scobinti/2025/107",
+   "short": "HCL Scobinți nr. 107/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 107/2025 privind renunțarea de către UAT Scobinți la proiectul Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245509",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-108-2025",
+   "path": "local/iasi/scobinti/2025/108",
+   "short": "HCL Scobinți nr. 108/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 108/2025 privind aprobarea participării comunei Scobinți la Programul CERV - 2025 - CITIZENS -TOWN - TT și la contractarea serviciilor de consultantă aferente",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245510",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-109-2025",
+   "path": "local/iasi/scobinti/2025/109",
+   "short": "HCL Scobinți nr. 109/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 109/2025 privind aprobarea sumelor necesare pentru transportul elevilor dus-întors de la Școala Gimnazială Bădeni către Școala Gimnazială Scobinți pentru perioada 08.09.2025- 19.12.2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245511",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-11-2025",
+   "path": "local/iasi/scobinti/2025/11",
+   "short": "HCL Scobinți nr. 11/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 11/2025 privind aprobarea Proiectului tehnic și a indicatorilor tehnico-economici pentru obiectivul de investiții Extindere sistem de canalizare în localitatea Sticlăria, com Scobinți , județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201948",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201948",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-110-2025",
+   "path": "local/iasi/scobinti/2025/110",
+   "short": "HCL Scobinți nr. 110/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 110/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247385",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-111-2025",
+   "path": "local/iasi/scobinti/2025/111",
+   "short": "HCL Scobinți nr. 111/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 111/2025 privind aprobarea devizului general actualizat - rest de executat - aferent proiectului REABILITARE SEDIU PRIMĂRIE COMUNA SCOBINȚI, JUDEȚUL IAȘI, aprobat pentru finanțarea prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245513",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-112-2025",
+   "path": "local/iasi/scobinti/2025/112",
+   "short": "HCL Scobinți nr. 112/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 112/2025 privind aprobarea execuției bugetare a activității economico-financiare pe trimestrul III al anului 2025 conform cifrelor cuprinse în raportul de venituri și chetuieli prezentat în anexa care face parte din prezenta hotărâre",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245522",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-113-2025",
+   "path": "local/iasi/scobinti/2025/113",
+   "short": "HCL Scobinți nr. 113/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 113/2025 privind aprobarea demolării construcției anexe - șopron metalic - amplasata în vecinatatea clădirii Primaria Comunei Scobinți, județul Iași, în vederea amplasamentului pentru executarea lucrărilor de reabilitare, modernizare și eficientizare energetică a sediului administrativ, finanțate prin fonduri europene",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245523",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-114-2025",
+   "path": "local/iasi/scobinti/2025/114",
+   "short": "HCL Scobinți nr. 114/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 114/2025 privind demolarea construcției existente C2 - anexă amplasată în curtea Școlii din satul Bădeni, comuna Scobinți, județul Iași, identificată în cartea funciară cu nr. 66526 prin C2 - construcții anexe în vederea eliberării amplasementului pentru implementarea proiectului Construire teren de sport sintetic în incinta Școlii Bădeni din comuna Scobinți, finanțat prin fonduri europene",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245524",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-115-2025",
+   "path": "local/iasi/scobinti/2025/115",
+   "short": "HCL Scobinți nr. 115/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 115/2025 privind aprobarea devizului - centralizator de lucrări - reparații perete exterior - Cămin Cultural Scobinți latura Vestică, comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245525",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-116-2025",
+   "path": "local/iasi/scobinti/2025/116",
+   "short": "HCL Scobinți nr. 116/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 116/2025 privind închirierea în condițiile legii a suprafeței de 27,10 ha pajiste comunală situată în extravilanul comunei Scobinți , județul Iași, T 40, T 41, BF 917, 879 în punctul denumit popular \"Valea Rusului \";",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245526",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-117-2025",
+   "path": "local/iasi/scobinti/2025/117",
+   "short": "HCL Scobinți nr. 117/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 117/2025 privind aprobarea valorificării materialelor rezultate în urma demolării construcției anexa ( magazie șopron metalic - amplasată lângă clădirea Primăriei Scobinți), deasemenea materialele rezultate în urma implementării proiectelor cu finanțare prin fonduri europene \"Reabilitare sediul Primăriei Scobinți, județul Iași ; Reabilitare moderată școală gimnazială Bădeni - corp C1, comuna Scobinți, județul Iași, Reabilitare școală generală Sticlăria - corp C1, comuna Scobinți, județul Iași\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245527",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245527",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-118-2025",
+   "path": "local/iasi/scobinti/2025/118",
+   "short": "HCL Scobinți nr. 118/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 118/2025 privind modificarea HCL nr. 104/24.10.2025 ce are ca obiect aprobarea contractării unui împrumut în valoare de 452,723 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 25/2025 pentru asigurarea unui împrumut din Trezoreria Statului",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/245530",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/245530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-119-2025",
+   "path": "local/iasi/scobinti/2025/119",
+   "short": "HCL Scobinți nr. 119/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 119/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247840",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247840",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-12-2025",
+   "path": "local/iasi/scobinti/2025/12",
+   "short": "HCL Scobinți nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 12/2025 privind aprobarea acordării cu titlu gratuit a dreptului de uz și servitute către SC Delgaz Grid SA a suprafeței de teren de 462 mp",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201949",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201949",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-120-2025",
+   "path": "local/iasi/scobinti/2025/120",
+   "short": "HCL Scobinți nr. 120/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 120/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247841",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247841",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-121-2025",
+   "path": "local/iasi/scobinti/2025/121",
+   "short": "HCL Scobinți nr. 121/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 121/2025 privind rectificarea Bugetului Local pentru anul 2025 si modificarea listei de investirii, conform anexelor la prezenta hotarare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247850",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-122-2025",
+   "path": "local/iasi/scobinti/2025/122",
+   "short": "HCL Scobinți nr. 122/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 122/2025 privind aprobarea raportului de evaluare pentru valorificarea construcției anexe - șopron metalic - amplasată în imediata vecinătate a clădirii Primăriei Comunei Scobinți, județul Iași și a caietului de sarcini pentru vânzarea acestuia conform procedurilor legale in vigoare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247851",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-123-2025",
+   "path": "local/iasi/scobinti/2025/123",
+   "short": "HCL Scobinți nr. 123/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 123/2025 privind modificarea art. 2 din HCL nr. 43/30.04.2025 ce are ca obiect \"Construire piațaă în comuna Scobinți județul Iași\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247852",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-124-2025",
+   "path": "local/iasi/scobinti/2025/124",
+   "short": "HCL Scobinți nr. 124/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 124/2025 privind aprobarea modificărilor tehnico-economice survenite în urma Dispoziției de șantier nr. 2 ca urmare a adaptării proiectului tehnic la situația din teren în cadrul proiectului \"REABILITARE ȘCOALĂ GENERALĂ STICLĂRIA CORP C1, COMUNA SCOBINȚI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247853",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-125-2025",
+   "path": "local/iasi/scobinti/2025/125",
+   "short": "HCL Scobinți nr. 125/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 125/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247854",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-126-2025",
+   "path": "local/iasi/scobinti/2025/126",
+   "short": "HCL Scobinți nr. 126/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 126/2025 privind alocarea din bugetul local a sumei de 3.000 lei pentru organizarea zilei de 1 Decembrie 2025 - Ziua Națională a României",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247855",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-127-2025",
+   "path": "local/iasi/scobinti/2025/127",
+   "short": "HCL Scobinți nr. 127/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 127/2025 privind aprobarea din bugetul local al comunei Scobinti a sumei de 60.000 lei pentru achizitionarea de dulciuri pentru copiii din scolile comunei Scobinti cu ocazia sarbatorii \"Mos Craciun Acasa la Scobinti \"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/247856",
+   "versions": [
+    {
+     "from": "2026-01-22",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/247856",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-128-2025",
    "path": "local/iasi/scobinti/2025/128",
    "short": "HCL Scobinți nr. 128/2025",
@@ -28,6 +508,21 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/247858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-13-2025",
+   "path": "local/iasi/scobinti/2025/13",
+   "short": "HCL Scobinți nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 13/2025 privind aprobarea dării în administrare a bunurilor imobile (clădiri și terenuri) către Școala Gimnazială Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201950",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201950",
      "sha256": null
     }
    ]
@@ -183,6 +678,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scobinti-14-2025",
+   "path": "local/iasi/scobinti/2025/14",
+   "short": "HCL Scobinți nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 14/2025 privind acceptarea dezmembrării unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201951",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201951",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scobinti-140-2025",
    "path": "local/iasi/scobinti/2025/140",
    "short": "HCL Scobinți nr. 140/2025",
@@ -298,6 +808,1401 @@
      "from": "2026-01-22",
      "units": 1,
      "source_url": "https://emol.ro/scobinti-is/registru-hcl/247910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-15-2025",
+   "path": "local/iasi/scobinti/2025/15",
+   "short": "HCL Scobinți nr. 15/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 15/2025 privind aprobarea dezmembrării unui imobil înscris cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201952",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-16-2025",
+   "path": "local/iasi/scobinti/2025/16",
+   "short": "HCL Scobinți nr. 16/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 16/2025 privind aprobarea realizării unui raport de evaluare a suprafeței de 2000 mp teren situat în intravilan sat Fetești, comuna Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201953",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-17-2025",
+   "path": "local/iasi/scobinti/2025/17",
+   "short": "HCL Scobinți nr. 17/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 17/2025 privind aprobarea bugetului local pentru anul 2025 și a listei de investiții",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202038",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-18-2025",
+   "path": "local/iasi/scobinti/2025/18",
+   "short": "HCL Scobinți nr. 18/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 18/2025 privind aprobarea mandatării primarului comunei Scobinți în vederea semnării contractului de vânzare-cumpărare pentru suprafața de 1000 mp situat în T 10, parcelele 300/3, 301/1 în sat Zagavia, com. Scobinți, jud Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202039",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202039",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-19-2025",
+   "path": "local/iasi/scobinti/2025/19",
+   "short": "HCL Scobinți nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 19/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202040",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202040",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-2-2025",
+   "path": "local/iasi/scobinti/2025/2",
+   "short": "HCL Scobinți nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 2/2025 privind aprobarea actualizării indicatorilor tehnico-economici în vederea atribuirii contractului de execuție pentru proiectul Modernizare Școală în localitatea Zagavia, comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201939",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-20-2025",
+   "path": "local/iasi/scobinti/2025/20",
+   "short": "HCL Scobinți nr. 20/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 20/2025 privind aprobarea Planului anual de acțiune pentru serviciile sociale administrate și finanțate de bugetul Consiliului Local Scobinți, județul Iași pentru anul 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202041",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202041",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-21-2025",
+   "path": "local/iasi/scobinti/2025/21",
+   "short": "HCL Scobinți nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 21/2025 privind dobândirea calității de membru asociat în cadrul Organizației de Management al Destinației Turistice OMD Colindele Moldovei",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202042",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202042",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-22-2025",
+   "path": "local/iasi/scobinti/2025/22",
+   "short": "HCL Scobinți nr. 22/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 22/2025 privind aprobarea regulamentului pentru acordarea/decontarea cheltuielilor de transport salariaților care nu au domiciliul pe raza UAT Scobinți, comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202043",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202043",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-23-2025",
+   "path": "local/iasi/scobinti/2025/23",
+   "short": "HCL Scobinți nr. 23/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 23/2025 privind aprobarea implementării și co-finanțării proiectului Connecting cross-border communities through education",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202044",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202044",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-24-2025",
+   "path": "local/iasi/scobinti/2025/24",
+   "short": "HCL Scobinți nr. 24/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 24/2025 privind aprobarea Regulamentului de organizare și funcționare al Structurii Comunitare Consultative și aprobarea Structurii Comunitare Consultative",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202045",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202045",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-25-2025",
+   "path": "local/iasi/scobinti/2025/25",
+   "short": "HCL Scobinți nr. 25/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 25/2025 privind aprobarea radierii din domeniul privat al comunei Scobinți a suprafeței de 1562 mp",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202046",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202046",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-26-2025",
+   "path": "local/iasi/scobinti/2025/26",
+   "short": "HCL Scobinți nr. 26/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 26/2025 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202047",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202047",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-27-2025",
+   "path": "local/iasi/scobinti/2025/27",
+   "short": "HCL Scobinți nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 27/2025 privind aprobarea procesului verbal de inventariere nr. 17081/31.12.2024, ce are ca obiect finalizarea operațiunilor de inventariere a elementelor de natura activelor, datoriilor și capitalurilor proprii ale UAT Scobinți la data de 31.12.2024",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202048",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202048",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-28-2025",
+   "path": "local/iasi/scobinti/2025/28",
+   "short": "HCL Scobinți nr. 28/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 28/2025 privind alegerea președintelui de ședință pentru trimestrul II al anului 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/202049",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/202049",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-29-2025",
+   "path": "local/iasi/scobinti/2025/29",
+   "short": "HCL Scobinți nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 29/2025 privind aprobarea Regulamentului de organizare și funcționare al aparatului de specialitate al primarului comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216072",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-3-2025",
+   "path": "local/iasi/scobinti/2025/3",
+   "short": "HCL Scobinți nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 3/2025 privind aprobarea indicatorilor tehnico-economici în vederea atribuirii contractului de execuție lucrări pentru proiectul Modernizare Școală Primară Scobinți nr. 1- Corp C comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201940",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-30-2025",
+   "path": "local/iasi/scobinti/2025/30",
+   "short": "HCL Scobinți nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 30/2025 privind aprobarea colaborării interinstituționale din cadrul proiectului \"Furnizare de servicii integrate în comunitățile rurale - facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216073",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-31-2025",
+   "path": "local/iasi/scobinti/2025/31",
+   "short": "HCL Scobinți nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 31/2025 privind aprobarea activității economico-financiare pe trimestrul I al anului 2025 conform cifrelor cuprinse în raportul de venituri și cheltuieli prezentat în anexa care face parte din prezenta hotărâre",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216074",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-32-2025",
+   "path": "local/iasi/scobinti/2025/32",
+   "short": "HCL Scobinți nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 32/2025 privind aprobarea raportului privind activitatea asistenților personali ai persoanelor cu handicap",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216075",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216075",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-33-2025",
+   "path": "local/iasi/scobinti/2025/33",
+   "short": "HCL Scobinți nr. 33/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 33/2025 privind aprobare Strategie de dezvoltare a serviciilor sociale la nivelul comunei Scobinți pentru perioada 2025-2030",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216076",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216076",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-34-2025",
+   "path": "local/iasi/scobinti/2025/34",
+   "short": "HCL Scobinți nr. 34/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 34/2025 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor afente Programului pentru școli al României pentru anul școlar 2025-2026 și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul Comunei Scobinți, jud. Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216077",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216077",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-35-2025",
+   "path": "local/iasi/scobinti/2025/35",
+   "short": "HCL Scobinți nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 35/2025 privind aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216078",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216078",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-36-2025",
+   "path": "local/iasi/scobinti/2025/36",
+   "short": "HCL Scobinți nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 36/2025 privind aprobarea procesului verbal încheiat în data de 08.05.2025 ce are ca obiect evaluarea proiectelor depuse în cadrul procedurii de atribuire a contractelor de finanțare nerambursabilă din fonduri publice alocate de la bugetul local al comunei Scobinți pe anul 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216079",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-37-2025",
+   "path": "local/iasi/scobinti/2025/37",
+   "short": "HCL Scobinți nr. 37/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 37/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216180",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216180",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-38-2025",
+   "path": "local/iasi/scobinti/2025/38",
+   "short": "HCL Scobinți nr. 38/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 38/2025 privind acceptarea dezmembrării unor imobile înscrise cu număr cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216181",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-39-2025",
+   "path": "local/iasi/scobinti/2025/39",
+   "short": "HCL Scobinți nr. 39/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 39/2025 privind aprobarea cheltuielilor ocazionate de întocmirea și comunicarea documentelor de executare silită prin postă, în sumă de 12 lei/comunicare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216182",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216182",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-4-2025",
+   "path": "local/iasi/scobinti/2025/4",
+   "short": "HCL Scobinți nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 4/2025 privind aprobarea indicatorilor tehnico-economici actualizați după încheierea contractului de execuție lucrări aferente proiectului Reabilitare Școală Generală Sticlăria Corp C1, comuna Scobinți, județul Iași, prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201941",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-40-2025",
+   "path": "local/iasi/scobinti/2025/40",
+   "short": "HCL Scobinți nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 40/2025 privind aprobarea publicării anuale a listei nominale a contribuabililor care înregistrează datorii restante",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216183",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216183",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-41-2025",
+   "path": "local/iasi/scobinti/2025/41",
+   "short": "HCL Scobinți nr. 41/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 41/2025 privind analiza stadiului de înscriere a datelor în Registrul Agricol al Comunei Scobinți și stabilirea unor măsuri pentru eficientizarea acestei activități",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216184",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216184",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-42-2025",
+   "path": "local/iasi/scobinti/2025/42",
+   "short": "HCL Scobinți nr. 42/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 42/2025 privind aprobarea listei cuprinzând documentele de interes public de la nivelul UAT Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216185",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216185",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-43-2025",
+   "path": "local/iasi/scobinti/2025/43",
+   "short": "HCL Scobinți nr. 43/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 43/2025 privind aprobarea procedurilor operaționale și de sistem ale UAT Scobinți, comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216186",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216186",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-44-2025",
+   "path": "local/iasi/scobinti/2025/44",
+   "short": "HCL Scobinți nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 44/2025 privind alocarea sumei de 11.000 lei din bugetul local al Comunei Scobinți pentru participarea ansamblului folcloric Basaraba la festivalul \"Romania ești TU\" organizat la Alba Iulia în perioada 28/29 Iulie 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216187",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-45-2025",
+   "path": "local/iasi/scobinti/2025/45",
+   "short": "HCL Scobinți nr. 45/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 45/2025 privind trecerea unor suprafețe de teren în domeniul privat al comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216188",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-46-2025",
+   "path": "local/iasi/scobinti/2025/46",
+   "short": "HCL Scobinți nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 46/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216189",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-47-2025",
+   "path": "local/iasi/scobinti/2025/47",
+   "short": "HCL Scobinți nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 47/2025 privind darea în folosință gratuită către Școala Gimnazială Scobinți a bunurilor achiziționate în cadrul proiectului \"Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ din comuna Scobinți, județul Iași\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216190",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-48-2025",
+   "path": "local/iasi/scobinti/2025/48",
+   "short": "HCL Scobinți nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 48/2025 privind dezmembrarea unui imobil înscris cu număr cadastral în cartea funciară a comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216191",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-49-2025",
+   "path": "local/iasi/scobinti/2025/49",
+   "short": "HCL Scobinți nr. 49/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 49/2025 privind aprobarea modificarii art. 37 alin (4) din Regulamentul de organizare și funcționare al consiliului local Scobinti aprobat prin HCL nr. 152/19.12.2024",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216192",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216192",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-5-2025",
+   "path": "local/iasi/scobinti/2025/5",
+   "short": "HCL Scobinți nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 5/2025 privind aprobarea activității economico-financiare pe trimestrul IV al anului 2024 conform cifrelor cuprinse în raportul de venituri și cheltuieli prezentat în anexă",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201942",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-50-2025",
+   "path": "local/iasi/scobinti/2025/50",
+   "short": "HCL Scobinți nr. 50/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 50/2025 privind Statutul Comunei Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216193",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216193",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-51-2025",
+   "path": "local/iasi/scobinti/2025/51",
+   "short": "HCL Scobinți nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 51/2025 privind modificarea organigramei și statului de funcții al aparatului de specialitate condus de primarul comunei Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216194",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216194",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-52-2025",
+   "path": "local/iasi/scobinti/2025/52",
+   "short": "HCL Scobinți nr. 52/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 52/2025 privind darea în folosință gratuită a autovehiculelor proprietate UAT Scobinți în vederea exercitării atribuțiilor de serviciu",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216195",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-53-2025",
+   "path": "local/iasi/scobinti/2025/53",
+   "short": "HCL Scobinți nr. 53/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 53/2025 privind aprobarea indicatorilor tehnico-economici și documentația tehnică în vederea atribuirii contractului de \"Lucrări de întreținere și reparații pentru drumul comunal DC 145 Scobinți - Zagavia\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/216196",
+   "versions": [
+    {
+     "from": "2025-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/216196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-54-2025",
+   "path": "local/iasi/scobinti/2025/54",
+   "short": "HCL Scobinți nr. 54/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 54/2025 privind acceptarea dezmembrării unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220433",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220433",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-55-2025",
+   "path": "local/iasi/scobinti/2025/55",
+   "short": "HCL Scobinți nr. 55/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 55/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220434",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-56-2025",
+   "path": "local/iasi/scobinti/2025/56",
+   "short": "HCL Scobinți nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 56/2025 privind rectificarea Bugetului Local pentru anul 2025 și modificarea listei de investiții, conform anexelor la prezenta hotărare",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220435",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220435",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-57-2025",
+   "path": "local/iasi/scobinti/2025/57",
+   "short": "HCL Scobinți nr. 57/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 57/2025 privind aprobarea plății cheltuielilor efectuate din bugetul local al comunei Scobinți in sumă de 11.000 lei cu ocazia zilei de 1 Iunie 2025 eveniment cultural \"Copil Frumos și bun, azi e ziua ta\", organizat de Școala Gimnazială Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220436",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-58-2025",
+   "path": "local/iasi/scobinti/2025/58",
+   "short": "HCL Scobinți nr. 58/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 58/2025 privind aprobarea suplimentării din bugetul local a sumei de 2050 lei a HCL nr. 44/30.05.2025 pentru participarea ansamblului folcloric Basaraba la festivalul \"România ești TU\" organizat la Alba Iulia în perioada 28/29 Iulie 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220437",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220437",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-59-2025",
+   "path": "local/iasi/scobinti/2025/59",
+   "short": "HCL Scobinți nr. 59/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 59/2025 privind aprobarea trecerii în inventarul domeniului public al comunei Scobinți a suprafeței de 250 mp situată pe raza comunei Scobinți în T 64 CAT 721",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220438",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-6-2025",
+   "path": "local/iasi/scobinti/2025/6",
+   "short": "HCL Scobinți nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 6/2025 privind aprobarea indicatorilor tehnico-economici în vederea atribuirii contractului de execuție lucrări pentru proiectul Dezvoltarea infrastructurii sportive în comuna Scobinți județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201943",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-60-2025",
+   "path": "local/iasi/scobinti/2025/60",
+   "short": "HCL Scobinți nr. 60/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 60/2025 privind aprobarea documentației tehnico-economică - faza de proiect tehnic pentru obiectivul de investiție ''MODERNIZARE ȘCOALĂ ÎN LOCALITATEA ZAGAVIA, COMUNA SCOBINȚI, JUDEȚUL IAȘI''",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220439",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-61-2025",
+   "path": "local/iasi/scobinti/2025/61",
+   "short": "HCL Scobinți nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 61/2025 privind aprobarea documentației tehnico-economice actualizate pentru obiectivul de investiții \"Modernizare drumuri de interes local în comuna Scobinți, județul Iași\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220440",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220440",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-62-2025",
+   "path": "local/iasi/scobinti/2025/62",
+   "short": "HCL Scobinți nr. 62/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 62/2025 privind aprobarea indicatorilor tehnico-economici a proiectului \"DEZVOLTAREA INFRASTRUCTURII SPORTIVE ÎN COMUNA SCOBINȚI, JUDEȚUL IAȘI\"",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220441",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220441",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-63-2025",
+   "path": "local/iasi/scobinti/2025/63",
+   "short": "HCL Scobinți nr. 63/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 63/2025 privind aprobarea documentației tehnico-economice - faza proiect tehnic pentru obiectivul de investiție ''DEZVOLTAREA INFRASTRUCTURII SPORTIVE ÎN COMUNA SCOBINȚI, JUDEȚUL IAȘI''",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220442",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-64-2025",
+   "path": "local/iasi/scobinti/2025/64",
+   "short": "HCL Scobinți nr. 64/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 64/2025 privind aprobarea documentației tehnico-economice - faza proiect tehnic pentru obiectivul de investiție 'MODERNIZARE SCOALĂ PRIMARĂ SCOBINȚI NR. 1 - CORP C, COMUNA SCOBINȚI, JUDEȚUL IAȘI'",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220443",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-65-2025",
+   "path": "local/iasi/scobinti/2025/65",
+   "short": "HCL Scobinți nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 65/2025 privind aprobarea indicatorilor tehnico-economici pentru proiectul ''MODERNIZARE ȘCOALĂ PRIMARĂ SCOBINȚI NR. 1 CORP C, COMUNA SCOBINȚI, JUDEȚUL IAȘI''",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220444",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-66-2025",
+   "path": "local/iasi/scobinti/2025/66",
+   "short": "HCL Scobinți nr. 66/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 66/2025 privind aprobarea proiectului ''MODERNIZARE ȘCOALĂ ÎN LOCALITATEA ZAGAVIA, COMUNA SCOBINȚI, JUDEȚUL IAȘI''",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220445",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-67-2025",
+   "path": "local/iasi/scobinti/2025/67",
+   "short": "HCL Scobinți nr. 67/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 67/2025 privind aprobarea înființării Serviciului pentru gestionarea câinilor fără stăpân al Comuniei Scobinți, județul Iași, fără personalitate juridică",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220446",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-68-2025",
+   "path": "local/iasi/scobinti/2025/68",
+   "short": "HCL Scobinți nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 68/2025 privind dezmembrarea unui imobile inscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220447",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-69-2025",
+   "path": "local/iasi/scobinti/2025/69",
+   "short": "HCL Scobinți nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 69/2025 privind alegerea președintelui de ședință pentru trimestrul III al anului 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220448",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-7-2025",
+   "path": "local/iasi/scobinti/2025/7",
+   "short": "HCL Scobinți nr. 7/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 7/2025 privind aprobarea programului de acțiuni comunitare pentru combaterea sărăciei și marginalizării sociale la nivelul comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201944",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-70-2025",
+   "path": "local/iasi/scobinti/2025/70",
+   "short": "HCL Scobinți nr. 70/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 70/2025 privind aprobarea sumelor alocate pentru transportul elevilor dus-întors de la Școala Gimnazială Bădeni către Școala Gimnazială Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/220449",
+   "versions": [
+    {
+     "from": "2025-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/220449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-71-2025",
+   "path": "local/iasi/scobinti/2025/71",
+   "short": "HCL Scobinți nr. 71/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 71/2025 privind demararea proiectului de investiții \"AER-CURAT: Model de Guvernanță Regională pentru Îmbunătățirea Calității Aerului și Protejarea Sănătății Publice\" prin Programul INTERREG NEXT România-Republica Moldova",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221413",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-72-2025",
+   "path": "local/iasi/scobinti/2025/72",
+   "short": "HCL Scobinți nr. 72/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 72/2025 privind demararea proiectului de investiții \"CONECT-REZILIENȚĂ: Asigurarea Accesibilității și Protecția Ecosistemelor în Zonele Rurale Izolate\" prin Programul INTERREG NEXT România-Republica Moldova",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221414",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-73-2025",
+   "path": "local/iasi/scobinti/2025/73",
+   "short": "HCL Scobinți nr. 73/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 73/2025 privind aprobarea Raportului de evaluare proprietate imobiliară - spatiu magazie în suprafață de 543 mp și suprafață utilă 496 mp - parte din imobilul clădire anexă cu destinație magazie situat în sat Fetești, comuna Scobinți, județul Iași , înscris în cartea funciară nr. 66498",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221415",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-74-2025",
+   "path": "local/iasi/scobinti/2025/74",
+   "short": "HCL Scobinți nr. 74/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 74/2025 privind alocarea din bugetul local a sumei de 13.000 lei pentru servicii transport efectuate cu transportul elevilor premianți, ansamblul Cetinioara din Scobinți și ansamblul Basaraba",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221416",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-75-2025",
+   "path": "local/iasi/scobinti/2025/75",
+   "short": "HCL Scobinți nr. 75/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 75/2025 privind stabilirea de măsuri necesare pentru interzicerea abandonării, necontrolate a deșeurilor sau gestionării neconforme cu ierarhia deșeurilor",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221417",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-76-2025",
+   "path": "local/iasi/scobinti/2025/76",
+   "short": "HCL Scobinți nr. 76/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 76/2025 privind includerea unor lucrări de relocare conducte de distribuție gaze naturale în comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221418",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-77-2025",
+   "path": "local/iasi/scobinti/2025/77",
+   "short": "HCL Scobinți nr. 77/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 77/2025 privind aprobarea Registrului Spațiilor Verzi al comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221419",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-78-2025",
+   "path": "local/iasi/scobinti/2025/78",
+   "short": "HCL Scobinți nr. 78/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 78/2025 privind aprobarea activității economico-financiare pe trimestrul II din anul 2025 conform cifrelor cuprinse în raportul de venituri și cheltuieli prezentat în anexa care face parte din prezenta hotărâre",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221420",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-79-2025",
+   "path": "local/iasi/scobinti/2025/79",
+   "short": "HCL Scobinți nr. 79/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 79/2025 privind alegerea președintelui de ședință pentru luniile August și Septembrie ale anului 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221486",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221486",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-8-2025",
+   "path": "local/iasi/scobinti/2025/8",
+   "short": "HCL Scobinți nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 8/2025 privind aprobarea folosirii excedentului bugetar",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201945",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-80-2025",
+   "path": "local/iasi/scobinti/2025/80",
+   "short": "HCL Scobinți nr. 80/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 80/2025 privind referatul de aprobare al primarului comunei Scobinți, prin care se solicită aprobarea rectificării bugetului local pe anul 2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221487",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221487",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-81-2025",
+   "path": "local/iasi/scobinti/2025/81",
+   "short": "HCL Scobinți nr. 81/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 81/2025 privind referatul de aprobare al primarului comunei Scobinți , prin care se solicită aprobarea încheierii unui contract de consultanță, asistență și reprezentare juridică în vederea apărăriii intereselor UAT Scobinți, ale autorităților admninistrației publice locale (Consiliul Local și Primar), având ca obiect litigiile în materie de contencios administrativ și fiscal",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221488",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221488",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-82-2025",
+   "path": "local/iasi/scobinti/2025/82",
+   "short": "HCL Scobinți nr. 82/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 82/2025 privind acceptarea dezmembrării unui imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221489",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221489",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-83-2025",
+   "path": "local/iasi/scobinti/2025/83",
+   "short": "HCL Scobinți nr. 83/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 83/2025 privind aprobarea modificării art. 1 din Hotărârea Consiliului Local Scobinți nr. 25/07.04.2022 modificată și completată privind stabilirea: stații taxii, tarif pornire, tarif de zi, tarif noapte, pentru transportul în regim de taxi, în comuna Scobinți, județul Iași; model autorizație, model ecuson, model contract de atribuire în gestiune delegată a serviciilor de transport în regim de taxi sau regim de închiriere, așa cum sunt prevăzute în regulametul de organizare și desfășurare a activității de transport în regim de taxi sau regim de închiriere în comuna Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221490",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221490",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-84-2025",
+   "path": "local/iasi/scobinti/2025/84",
+   "short": "HCL Scobinți nr. 84/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 84/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221491",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-85-2025",
+   "path": "local/iasi/scobinti/2025/85",
+   "short": "HCL Scobinți nr. 85/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 85/2025 privind referatul de aprobare al primarului, prin care se solicită aprobarea participării Școlii Gimnaziale Scobinți în calitate de partener în cadrul proiectului \"Conect - Conectat la nevoile persoanelor cu nivel de calificare scăzut\" depus în cadrul Programului Educație și Ocupare 2021-2027 (PEO), Prioritatea P09- Consolidarea participării populației în procesul de învățare pe tot parcursul vieții pentru facilitarea tranzițiilor și a mobilității",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221492",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-86-2025",
+   "path": "local/iasi/scobinti/2025/86",
+   "short": "HCL Scobinți nr. 86/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 86/2025 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 9",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221493",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-87-2025",
+   "path": "local/iasi/scobinti/2025/87",
+   "short": "HCL Scobinți nr. 87/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 87/2025 privind exercitarea funcției de audit public intern în sistemul de cooperare în cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221494",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-88-2025",
+   "path": "local/iasi/scobinti/2025/88",
+   "short": "HCL Scobinți nr. 88/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 88/2025 privind aprobarea actualizării indicatorilor tehnico-economici, conform cotei de 21% TVA, începând cu data de 01.08.2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/221495",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/221495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-89-2025",
+   "path": "local/iasi/scobinti/2025/89",
+   "short": "HCL Scobinți nr. 89/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 89/2025 privind aprobarea modificărilor tehnico-economice survenite în Dispoziției de șantier nr. 1 ca urmare a adaptării proiectului tehnic la situația din teren și a modificării Legii 141/2025 în cadrul proiectului \"Reabilitare moderată Școala Gimnazială Bădeni corp C1, comuna Scobinți, județul Iași\" aprobat pentru finanțare prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227639",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227639",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-9-2025",
+   "path": "local/iasi/scobinti/2025/9",
+   "short": "HCL Scobinți nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 9/2025 privind aprobarea Planului Urbanistic Zonal (PUZ) și a Regulamentului Local de Urbanism pentru obiectivul de investiții Construire Capacitate Energetică Scobinți situat in județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/201946",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/201946",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-90-2025",
+   "path": "local/iasi/scobinti/2025/90",
+   "short": "HCL Scobinți nr. 90/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 90/2025 privind aprobarea indicatorilor tehnico-economici actualizați conform modificării Legii 141/2025 aferenți proiectului \"REABILITARE ȘCOALĂ GENERALĂ STICLĂRIA - CORP C1, COMUNA SCOBINȚI, JUDEȚUL IAȘI\" aprobat pentru finanțare prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227640",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227640",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-91-2025",
+   "path": "local/iasi/scobinti/2025/91",
+   "short": "HCL Scobinți nr. 91/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 91/2025 privind acceptarea dezmembrării unui imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227641",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227641",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-92-2025",
+   "path": "local/iasi/scobinti/2025/92",
+   "short": "HCL Scobinți nr. 92/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 92/2025 privind cu privire la dezmembrarea unor imobile înscrise cu nr. cadastral în cartea funciară a Comunei Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227642",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227642",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-93-2025",
+   "path": "local/iasi/scobinti/2025/93",
+   "short": "HCL Scobinți nr. 93/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 93/2025 privind retragerea din Acordul de cooperare nr. 400 din 02 iulie 2014 pentru exercitarea funcției de audit intern în sistem de cooperare din cadrul Filialei Județene Iași a Asociației Comunelor din România",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227643",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-94-2025",
+   "path": "local/iasi/scobinti/2025/94",
+   "short": "HCL Scobinți nr. 94/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 94/2025 privind transferul cu titlu gratuit al bunurilor achiziționate în cadrul proiectului \"Construire grădiniță cu program prelungit în comuna Scobinți, județul Iași\" către Școala Gimnazială Scobinți",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227644",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227644",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-95-2025",
+   "path": "local/iasi/scobinti/2025/95",
+   "short": "HCL Scobinți nr. 95/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 95/2025 privind referatul de aprobare al primarului comunei Scobinți prin care solicită alocarea din bugetul local a sumei de 4500 lei pentru servicii transport efectuate cu transportul ansamblului Basaraba la Festivalul Național din Brașov în perioada 5-7 septembrie",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/227645",
+   "versions": [
+    {
+     "from": "2025-10-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/227645",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-96-2025",
+   "path": "local/iasi/scobinti/2025/96",
+   "short": "HCL Scobinți nr. 96/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 96/2025 privind rectificarea Bugetului Local pentru anul 2025 și modificarea listei de investii",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230818",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-97-2025",
+   "path": "local/iasi/scobinti/2025/97",
+   "short": "HCL Scobinți nr. 97/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 97/2025 privind aprobarea indicatorilor tehnico-economici actualizată pentru obiectivul de investiții Modernizare drumuri de interes local în comuna Scobinți, județul Iași",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230819",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-98-2025",
+   "path": "local/iasi/scobinti/2025/98",
+   "short": "HCL Scobinți nr. 98/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 98/2025",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230820",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scobinti-99-2025",
+   "path": "local/iasi/scobinti/2025/99",
+   "short": "HCL Scobinți nr. 99/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 99/2025 privind aprobarea devizului general actualizat conform modificărilor Legii 141/2025 aferenți proiectului - ''REABILITARE SEDIU PRIMĂRIE COMUNA SCOBINȚI, JUDEȚUL IAȘI'' aprobat pentru finanțare prin Planul Național de Redresare și Reziliență",
+   "url": "https://emol.ro/scobinti-is/registru-hcl/230821",
+   "versions": [
+    {
+     "from": "2025-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scobinti-is/registru-hcl/230821",
      "sha256": null
     }
    ]

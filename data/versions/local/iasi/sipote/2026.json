@@ -3,6 +3,621 @@
  "shard": "local/iasi/sipote/2026",
  "acts": [
   {
+   "slug": "hcl-iasi--sipote-1-2026",
+   "path": "local/iasi/sipote/2026/1",
+   "short": "HCL Șipote nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 1/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 30 ianuarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250053",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250053",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-10-2026",
+   "path": "local/iasi/sipote/2026/10",
+   "short": "HCL Șipote nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 10/2026 privind darea în folosință gratuită, către Școala Gimnazială din Șipote județul Iași, a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componența C15 Educaţie, pentru perioada de implementare a Proiectului, prin Contractul nr. 3955/04/02/2025 de furnizare echipamente digitale/IT pentru cabinetele școlare(inclusiv cabinete consiliere și asistență psihopedagogică, de sprijin,logopedice și alte terapii specifice,etc) și săli de sport ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250062",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250062",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-100-2026",
+   "path": "local/iasi/sipote/2026/100",
+   "short": "HCL Șipote nr. 100/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 100/2026 privind stabilirea perioadei de organizare si sărbătorirea Zilei comunei Șipote,precum și acordarea diplomei pentru aniversarea a 50 de ani de la căsătorie (nunta de aur);",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281619",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-101-2026",
+   "path": "local/iasi/sipote/2026/101",
+   "short": "HCL Șipote nr. 101/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 101/2026 privind acordarea consimțământului Consiliului Local Șipote pentru efectuarea demersurilor și obținerea calității de prosumator de către Școala Gimnazială Șipote în vederea încheierii documentelor aferente cu operatorul de distribuție și furnizorul de energie electrică ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281620",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-102-2026",
+   "path": "local/iasi/sipote/2026/102",
+   "short": "HCL Șipote nr. 102/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 102/2026 privind trecerea din domeniul public al Comunei Șipote in domeniul privat al Comunei Șipote a suprafetei de 6700 mp.,având destinația Cimitir, situată in intravilanul satului Mitoc, comuna Sipote, jud. Iasi, și extravilanul Comunei Șipote, județul Iași, amplasată in T 80, P 1245, identificat cu numar cadastral 61306, inscris in Cartea Funciara 61306 a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281621",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281621",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-103-2026",
+   "path": "local/iasi/sipote/2026/103",
+   "short": "HCL Șipote nr. 103/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 103/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281622",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281622",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-104-2026",
+   "path": "local/iasi/sipote/2026/104",
+   "short": "HCL Șipote nr. 104/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 104/2026 privind aprobarea documentației de atribuire pentru delegarea activității de colectare separată și transport separat al deșeurilor menajere și al deșeurilor similare provenind din activități comerciale din industrie și instituții, inclusiv fracții colectate separat, în cadrul Sistemului de Management Integrat al Deșeurilor din județul Iași, cu excepția municipiului Iași;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281623",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-105-2026",
+   "path": "local/iasi/sipote/2026/105",
+   "short": "HCL Șipote nr. 105/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 105/2026 privind aprobarea Studiului de oportunitate şi a modalităţii de gestiune a serviciului de iluminat public al Comunei Șipote , a Regulamentului de organizare şi funcţionare a serviciului de iluminat public şi a Caietului de sarcini ,precum şi a proiectului de contract de delegare a gestiunii serviciului de iluminat public in Comuna Șipote, județul Iași;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281624",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-106-2026",
+   "path": "local/iasi/sipote/2026/106",
+   "short": "HCL Șipote nr. 106/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 106/2026 privind aprobarea „Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav pe semestrul I al anului 2026 , angajaţi ai Primariei comunei Șipote “, judeţul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281625",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-107-2026",
+   "path": "local/iasi/sipote/2026/107",
+   "short": "HCL Șipote nr. 107/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 107/2026 privind rectificarea numărul 2 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281626",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-108-2026",
+   "path": "local/iasi/sipote/2026/108",
+   "short": "HCL Șipote nr. 108/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 108/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 14 august 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/283188",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/283188",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-109-2026",
+   "path": "local/iasi/sipote/2026/109",
+   "short": "HCL Șipote nr. 109/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 109/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 30 iulie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/283189",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/283189",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-11-2026",
+   "path": "local/iasi/sipote/2026/11",
+   "short": "HCL Șipote nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 11/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250063",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-110-2026",
+   "path": "local/iasi/sipote/2026/110",
+   "short": "HCL Șipote nr. 110/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 110/2026 privind actualizarea Hotararii Consiliului Local Șipote nr. 75 din 27.06.2025 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizati in urma atribuirii contractului de executie lucrari și a cheltuielilor proiectului pentru obiectivul de investiții ,,Dezvoltarea infrastructurii sportive in comuna Șipote, judetul Iași” – Teren de sport la Școala Iazu-Nou propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/283190",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/283190",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-111-2026",
+   "path": "local/iasi/sipote/2026/111",
+   "short": "HCL Șipote nr. 111/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 111/2026 privind revocarea Hotărârii Consiliului Local Șipote nr 102 din 30 iulie 2026 privind trecerea din domeniul public al Comunei Șipote in domeniul privat al Comunei Șipote a suprafetei de 6700 mp.,având destinația Cimitir, situată in intravilanul satului Mitoc, comuna Sipote, județul Iasi, și extravilanul Comunei Șipote, județul Iași, amplasată in T 80, P 1245, identificat cu numar cadastral 61306, inscris in Cartea Funciara 61306 a Comunei Sipote;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/283191",
+   "versions": [
+    {
+     "from": "2026-08-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/283191",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-112-2026",
+   "path": "local/iasi/sipote/2026/112",
+   "short": "HCL Șipote nr. 112/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 112/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 27 august 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284848",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-113-2026",
+   "path": "local/iasi/sipote/2026/113",
+   "short": "HCL Șipote nr. 113/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 113/2026 privind aprobarea procesului verbal al ședinței” extraordinare” din data de 14 august 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284849",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-114-2026",
+   "path": "local/iasi/sipote/2026/114",
+   "short": "HCL Șipote nr. 114/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 114/2026 privind rectificarea numărul 3 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284850",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-115-2026",
+   "path": "local/iasi/sipote/2026/115",
+   "short": "HCL Șipote nr. 115/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 115/2026 privind stabilirea unei suprafețe de teren în suprafață de 5817 mp în vederea depozitării temporare a deșeurilor inerte provenite din activitățile de construcții si demolări de pe raza comunei Șipote , județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284851",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-116-2026",
+   "path": "local/iasi/sipote/2026/116",
+   "short": "HCL Șipote nr. 116/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 116/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284852",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-117-2026",
+   "path": "local/iasi/sipote/2026/117",
+   "short": "HCL Șipote nr. 117/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 117/2026 privind aprobarea relocării temporare a activității didactice a Școlii Gimnaziale Iazu Nou și a Grădiniței cu Program Normal Iazu Nou , ca urmare a execuției lucrărilor de construcție, într-un spațiu aflat în proprietatea publică a Comunei Șipote,județul Iasi ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284853",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284853",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-118-2026",
+   "path": "local/iasi/sipote/2026/118",
+   "short": "HCL Șipote nr. 118/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 118/2026 privind nominalizarea reprezentanților Consiliului Local Șipote in Consiliul de Administratie a Scolii Gimnaziale Șipote și în Comisia pentru Evaluarea și Asigurarea calității în Învățământul preuniversitar al Școlii Gimnaziale Șipote în anul școlar 2026 – 2027 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284854",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284854",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-119-2026",
+   "path": "local/iasi/sipote/2026/119",
+   "short": "HCL Șipote nr. 119/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 119/2026 privind aprobarea devizului general actualizat si a indicatorilor tehnico-economici actualizati ca urmare a finalizarii obiectivului de investiții „Extindere retea de canalizare in comuna Sipote, Judetul Iasi”, în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA 1 – Managementul apei;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284855",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284855",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-12-2026",
+   "path": "local/iasi/sipote/2026/12",
+   "short": "HCL Șipote nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 12/2026 privind constituirea structurii comunitare consultative ca formă de sprijin în activitatea de asistență socială și protecția copilului;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250064",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250064",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-120-2026",
+   "path": "local/iasi/sipote/2026/120",
+   "short": "HCL Șipote nr. 120/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 120/2026 privind aprobarea preluării, din domeniul privat al Unității Administrativ Teritoriale Județul Iași în domeniul privat al UAT Comuna Șipote a bunurilor mobile achiziţionate prin Proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie precum și transmiterea acestora cu titlu gratuit, din domeniul privat al Unității Administrativ Teritoriale Comuna Șipote în proprietatea unităților de învățământ preuniversitar/unități conexe din subordinea Consiliului Local al Comunei Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/284856",
+   "versions": [
+    {
+     "from": "2026-09-04",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/284856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-121-2026",
+   "path": "local/iasi/sipote/2026/121",
+   "short": "HCL Șipote nr. 121/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 121/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 2 septembrie 2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/286480",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/286480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-122-2026",
+   "path": "local/iasi/sipote/2026/122",
+   "short": "HCL Șipote nr. 122/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 122/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 27 august 2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/286481",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/286481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-123-2026",
+   "path": "local/iasi/sipote/2026/123",
+   "short": "HCL Șipote nr. 123/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 123/2026 privind modificarea art. 4 și art. 5 si ANEXA 1 si 3 - din Hotărârea Consiliului Local al Comunei Șipote nr. 110 din 13.08.2026 privind actualizarea Hotărârii Consiliului Local nr. 75 din 27.06.2025 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizat în urma atribuirii contractului de execuție lucrări și a cheltuielilor proiectului pentru obiectivul de investiții „Dezvoltarea infrastructurii sportive în comuna Șipote, județul Iași – Teren de sport la Școala Iazu-Nou”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/286482",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/286482",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-124-2026",
+   "path": "local/iasi/sipote/2026/124",
+   "short": "HCL Șipote nr. 124/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 124/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 16 septembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/287596",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/287596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-125-2026",
+   "path": "local/iasi/sipote/2026/125",
+   "short": "HCL Șipote nr. 125/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 125/2026 privind aprobarea procesului verbal al ședinței ” extraordinare” din data de 2 septembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/287597",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/287597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-126-2026",
+   "path": "local/iasi/sipote/2026/126",
+   "short": "HCL Șipote nr. 126/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 126/2026 privind de actualizare a Hotararii nr. 73 din 27.06.2025 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizati in urma semnării contractului de executie lucrari nr. 6558/28.08.2026 și a cheltuielilor proiectului pentru obiectivul de investiții ,,Dezvoltarea infrastructurii sportive in comuna Șipote, judetul Iași” – Teren de sport la Școala Iazu-Nou propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/287598",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/287598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-127-2026",
+   "path": "local/iasi/sipote/2026/127",
+   "short": "HCL Șipote nr. 127/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 127/2026 privind aprobarea achiziționării de servicii de transport elevi (șofer microbuz școlar) pentru unitățile de învățământ din comuna Șipote și aprobarea modelului de contract de prestări servicii;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/287599",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/287599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-128-2026",
+   "path": "local/iasi/sipote/2026/128",
+   "short": "HCL Șipote nr. 128/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 128/2026 privind implementarea proiectului „Capacităţi de producere energie din surse regenerabile cu capacitati de stocare, pentru consum propriu în Comuna Șipote, Județul Iasi”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/287600",
+   "versions": [
+    {
+     "from": "2026-09-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/287600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-129-2026",
+   "path": "local/iasi/sipote/2026/129",
+   "short": "HCL Șipote nr. 129/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 129/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 28 septembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290142",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-13-2026",
+   "path": "local/iasi/sipote/2026/13",
+   "short": "HCL Șipote nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 13/2026 privind aprobarea Studiului de fezabilitate si a actualizării indicatorilor tehnico-economice și a devizului general pentru obiectivul de investiție: „Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote si Fântânele din județul Iași”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250065",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-130-2026",
+   "path": "local/iasi/sipote/2026/130",
+   "short": "HCL Șipote nr. 130/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 130/2026 privind privind aprobarea procesului verbal al ședinței” extraordinare” din data de 16 septembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290143",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-131-2026",
+   "path": "local/iasi/sipote/2026/131",
+   "short": "HCL Șipote nr. 131/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 131/2026 privind alegerea preşedintelui de şedinţă pentru lunile octombrie 2026, noiembrie 2026, decembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290144",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-132-2026",
+   "path": "local/iasi/sipote/2026/132",
+   "short": "HCL Șipote nr. 132/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 132/2026 privind aprobarea Graficului de ședințe pe Trimestrul IV 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290145",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290145",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-133-2026",
+   "path": "local/iasi/sipote/2026/133",
+   "short": "HCL Șipote nr. 133/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 133/2026 privind validarea Dispozitiei primarului comunei Șipote nr 144 din 16 septembrie 2026 privind rectificarea bugetului local de venituri și cheltuieli pe anul 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290146",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290146",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-134-2026",
+   "path": "local/iasi/sipote/2026/134",
+   "short": "HCL Șipote nr. 134/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 134/2026 privind rectificarea numărul 5 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290147",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290147",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-135-2026",
+   "path": "local/iasi/sipote/2026/135",
+   "short": "HCL Șipote nr. 135/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 135/2026 privind aprobarea actualizării indicatorilor tehnico-economici și a devizului general pentru obectivul de investiție: „Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote si Fântânele din județul Iași”;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/290148",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/290148",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-136-2026",
    "path": "local/iasi/sipote/2026/136",
    "short": "HCL Șipote nr. 136/2026",
@@ -58,6 +673,21 @@
      "from": "2026-10-15",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/292376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-14-2026",
+   "path": "local/iasi/sipote/2026/14",
+   "short": "HCL Șipote nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 14/2026 privind aprobarea utilizării domeniului public pentru implementarea obiectivul de investitii :„Înființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Sipote si Fântânele din județul Iași”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250066",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250066",
      "sha256": null
     }
    ]
@@ -213,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-15-2026",
+   "path": "local/iasi/sipote/2026/15",
+   "short": "HCL Șipote nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 15/2026 privind aprobarea inițierii procedurii de concesionare a serviciului de utilitate publica de distribuție a gazelor naturale în comuna Șipote, județul Iași in cadrul proiectului „Inființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote si Fântânele din județul Iași”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250067",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250067",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-150-2026",
    "path": "local/iasi/sipote/2026/150",
    "short": "HCL Șipote nr. 150/2026",
@@ -298,6 +943,1386 @@
      "from": "2026-11-05",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/297681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-16-2026",
+   "path": "local/iasi/sipote/2026/16",
+   "short": "HCL Șipote nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 16/2026 privind aprobarea Studiului de fundamentare a deciziei de concesionare conform cu Ghidul Solicitantului si aplicatia de finantare, a serviciului de utilitate publica de distributie a gazelor naturale in comuna Șipote, judetul Iasi in cadrul proiectului „Inființare rețea de distribuție gaze naturale în comunele Coarnele Caprei, Șipote si Fântânele din județul Iași”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250068",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-17-2026",
+   "path": "local/iasi/sipote/2026/17",
+   "short": "HCL Șipote nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 17/2026 privind trecerea in domeniul public al Comunei Șipote,județul Iași ,a unor drumuri,spații adiacente conform Anexelor necesare demarării procedurilor de înscriere în cartea funciară ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250069",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-18-2026",
+   "path": "local/iasi/sipote/2026/18",
+   "short": "HCL Șipote nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 18/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 11 februarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/252493",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/252493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-19-2026",
+   "path": "local/iasi/sipote/2026/19",
+   "short": "HCL Șipote nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 19/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 30 ianuarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/252494",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/252494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-2-2026",
+   "path": "local/iasi/sipote/2026/2",
+   "short": "HCL Șipote nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 2/2026 privind aprobarea procesului verbal al ședinței ”extraordinare ” din data de 29 decembrie 2025 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250054",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250054",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-20-2026",
+   "path": "local/iasi/sipote/2026/20",
+   "short": "HCL Șipote nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 20/2026 privind aprobarea Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții: “CONSOLIDAREA ȘI RENOVAREA ENERGETICĂ A DISPENSARULUI DIN COMUNA ȘIPOTE, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/252495",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/252495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-21-2026",
+   "path": "local/iasi/sipote/2026/21",
+   "short": "HCL Șipote nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 21/2026 privind aprobarea rezultatului privind inventarierea generala a elementelor de natura activelor, datoriilor si a capitalurilor proprii aflate in patrimoniul UAT Comuna Șipote la data de 31.12.2025;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/252496",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/252496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-22-2026",
+   "path": "local/iasi/sipote/2026/22",
+   "short": "HCL Șipote nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 22/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 27 februarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256244",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-23-2026",
+   "path": "local/iasi/sipote/2026/23",
+   "short": "HCL Șipote nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 23/2026 privind aprobarea procesului verbal al ședinței ”extraordinare ” din data de 11 februarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256245",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-24-2026",
+   "path": "local/iasi/sipote/2026/24",
+   "short": "HCL Șipote nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 24/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfașoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna ianuarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256246",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-25-2026",
+   "path": "local/iasi/sipote/2026/25",
+   "short": "HCL Șipote nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 25/2026 privind aprobarea Raportului Primarului comunei Șipote,in calitate de autoritate executivă, referitor la situația gestionării bunurilor aparținând domeniului public și privat al comunei Șipote , județul Iași pe anul 2025;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256247",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-26-2026",
+   "path": "local/iasi/sipote/2026/26",
+   "short": "HCL Șipote nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 26/2026 privind aprobarea Raportului Primarului comunei Șipote privind starea economică , socială și de mediu a unității administrativ teritoriale Șipote pe anul 2025 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256248",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-27-2026",
+   "path": "local/iasi/sipote/2026/27",
+   "short": "HCL Șipote nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 27/2026 privind aprobarea masei impozabile pentru anul 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256249",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-28-2026",
+   "path": "local/iasi/sipote/2026/28",
+   "short": "HCL Șipote nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 28/2026 privind modificarea și completarea Anexei nr. 1 și Anexei nr 2 la Hotărârea Consiliului Local Șipote nr 17 din 30 ianuarie 2026 privind trecerea in domeniul public al Comunei Șipote,județul Iași ,a unor drumuri,spații adiacente conform Anexelor necesare demarării procedurilor de înscriere în cartea funciară ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256250",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-29-2026",
+   "path": "local/iasi/sipote/2026/29",
+   "short": "HCL Șipote nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 29/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256251",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-3-2026",
+   "path": "local/iasi/sipote/2026/3",
+   "short": "HCL Șipote nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 3/2026 privind analiza stadiului de înscriere a datelor în registrul agricol pentru trimestrul IV al anului 2025 și stabilirea măsurilor pentru eficientizarea acestei activități ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250055",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250055",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-30-2026",
+   "path": "local/iasi/sipote/2026/30",
+   "short": "HCL Șipote nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 30/2026 privind aprobarea Strategiei de Dezvoltare Locală (SDL) a Asociației de Dezvoltare Intercomunitară - Dezvoltare Sustenabilă și Integrată în Țara de Sus pentru perioada 2026-2035 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256252",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-31-2026",
+   "path": "local/iasi/sipote/2026/31",
+   "short": "HCL Șipote nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 31/2026 privind aprobarea,,Programului de măsuri privind gospodărirea și infrumusețarea comunei Șipote , județul Iași pe anul 2026\";",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256253",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256253",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-32-2026",
+   "path": "local/iasi/sipote/2026/32",
+   "short": "HCL Șipote nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 32/2026 aprobarea indicatorilor tehnico-economici ai obiectivului de investiții:,,MODERNIZARE INFRASTRUCTURĂ RUTIERĂ IN COMUNA ȘIPOTE, JUDETUL IASI”;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256254",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-33-2026",
+   "path": "local/iasi/sipote/2026/33",
+   "short": "HCL Șipote nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 33/2026 privind aprobarea Programului de actiune comunitară destinat prevenirii si combaterii riscului de sărăcie si excluziune socială pentru anul 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/256255",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/256255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-34-2026",
+   "path": "local/iasi/sipote/2026/34",
+   "short": "HCL Șipote nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 34/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 6 martie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257492",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-35-2026",
+   "path": "local/iasi/sipote/2026/35",
+   "short": "HCL Șipote nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 35/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 27 februarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257493",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-36-2026",
+   "path": "local/iasi/sipote/2026/36",
+   "short": "HCL Șipote nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 36/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257494",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-37-2026",
+   "path": "local/iasi/sipote/2026/37",
+   "short": "HCL Șipote nr. 37/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 37/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257495",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-38-2026",
+   "path": "local/iasi/sipote/2026/38",
+   "short": "HCL Șipote nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 38/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257496",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-39-2026",
+   "path": "local/iasi/sipote/2026/39",
+   "short": "HCL Șipote nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 39/2026 privind aprobarea concesionării prin licitaţie deschisă cu plic închis (atribuire directă, în cazul în care după două licitaţii deschise cu plic închis, consecutive, nu s-a depus decât o ofertă), a terenurilor aferente Lotului nr.1-Teren extravilan Iaz-Pionier , în suprafaţă de 193.546,00 mp, amplasată în T 11, P196,141/1, 141/2, nr. cadastral 62741 ;Lotului nr.2-Teren extravilan-Iaz Sorocanu (DREAPTA), in suprafată de 109.656,00 mp. amplasată în T 11, P 135/2, 125/2, nr. cadastral 62769 și Teren extravilan-Iaz Sorocanu (STÂNGA), in suprafata de 95.397,00 mp. amplasată în T 11, P 135/1, 125/1, nr. cadastral 62774,aflate în domeniul privat al comunei Şipote, judetul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/257497",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/257497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-4-2026",
+   "path": "local/iasi/sipote/2026/4",
+   "short": "HCL Șipote nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 4/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250056",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-40-2026",
+   "path": "local/iasi/sipote/2026/40",
+   "short": "HCL Șipote nr. 40/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 40/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 30 martie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260730",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-41-2026",
+   "path": "local/iasi/sipote/2026/41",
+   "short": "HCL Șipote nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 41/2026 privind aprobarea procesului verbal al ședinței”extraordinare ” din data de 6 martie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260731",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-42-2026",
+   "path": "local/iasi/sipote/2026/42",
+   "short": "HCL Șipote nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 42/2026 privind alegerea preşedintelui de şedinţă pentru lunile aprilie 2026, mai 2026, iunie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260732",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260732",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-43-2026",
+   "path": "local/iasi/sipote/2026/43",
+   "short": "HCL Șipote nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 43/2026 privind aprobarea Graficului de ședințe pe trimestrul II 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260733",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260733",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-44-2026",
+   "path": "local/iasi/sipote/2026/44",
+   "short": "HCL Șipote nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 44/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfașoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna februarie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260734",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260734",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-45-2026",
+   "path": "local/iasi/sipote/2026/45",
+   "short": "HCL Șipote nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 45/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260735",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260735",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-46-2026",
+   "path": "local/iasi/sipote/2026/46",
+   "short": "HCL Șipote nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 46/2026 privind aprobarea vânzării prin licitaţie publică a terenului în suprafaţă de 3647 mp, situat în intravilanul satului Chișcăreni , având număr cadastral 62682 înscris în cartea funciară 62682 UAT Șipote, aparţinând domeniului privat al Comunei Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260736",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260736",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-47-2026",
+   "path": "local/iasi/sipote/2026/47",
+   "short": "HCL Șipote nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 47/2026 privind completarea și actualizarea inventarului bunurilor mobile si imobile care alcătuiesc domeniului privat al comunei Șipote ,județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260737",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260737",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-48-2026",
+   "path": "local/iasi/sipote/2026/48",
+   "short": "HCL Șipote nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 48/2026 privind modificarea și completarea hotărârii Consiliului Local Șipote numărul 20 din 11 februarie 2026 privind aprobarea Documentației de avizare a lucrărilor de intervenții și a indicatorilor tehnico-economici pentru obiectivul de investiții: “CONSOLIDAREA ȘI RENOVAREA ENERGETICĂ A DISPENSARULUI DIN COMUNA ȘIPOTE, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260738",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260738",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-49-2026",
+   "path": "local/iasi/sipote/2026/49",
+   "short": "HCL Șipote nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 49/2026 privind referitor la modificarea și completarea Hotărârii Consiliului Local Șipote numărul 73 din 27.06.2025 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizati in urma atribuirii contractului de executie lucrari și a cheltuielilor proiectului pentru obiectivul de investiții ,,Dezvoltarea infrastructurii sportive in comuna Șipote, judetul Iași” – Teren de sport la Școala Chișcăreni propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260739",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260739",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-5-2026",
+   "path": "local/iasi/sipote/2026/5",
+   "short": "HCL Șipote nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 5/2026 privind aprobarea normativului propriu de cheltuieli privind consumul lunar de carburanți pentru autoturismele și utilajele care deservesc parcul auto al UAT Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250057",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-50-2026",
+   "path": "local/iasi/sipote/2026/50",
+   "short": "HCL Șipote nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 50/2026 privind referitor la modificarea și completarea Hotărârii Consiliului Local Șipote numărul 77 din 27.06.2025 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizati in urma atribuirii contractului de executie lucrari și a cheltuielilor proiectului pentru obiectivul de investiții ,,Dezvoltarea infrastructurii sportive in comuna Șipote, judetul Iași” – Sală de sport la Școala Chișcăreni propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260740",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260740",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-51-2026",
+   "path": "local/iasi/sipote/2026/51",
+   "short": "HCL Șipote nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 51/2026 privind referitor la modificarea si completarea Anexei 1 si Anexei 2 la Hotărârea Consiliului Local Șipote numărul 17 din 30 ianuarie 2026 privind trecerea în domneiul public a Comunei Șipote, județul Iași a unor drumuri, spații adiacente conform Anexelor, necesare demarării procedurilor de înscriere în Cartea Funciară,",
+   "url": "https://emol.ro/sipote-is/registru-hcl/260741",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/260741",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-52-2026",
+   "path": "local/iasi/sipote/2026/52",
+   "short": "HCL Șipote nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 52/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 7 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262006",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-53-2026",
+   "path": "local/iasi/sipote/2026/53",
+   "short": "HCL Șipote nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 53/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 30 martie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262007",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-54-2026",
+   "path": "local/iasi/sipote/2026/54",
+   "short": "HCL Șipote nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 54/2026 privind implementarea proiectului „Achizitie panouri fotovoltaice pentru reducerea consumului energetic din surse convenționale in comuna Sipote, județul Iasi”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262008",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-55-2026",
+   "path": "local/iasi/sipote/2026/55",
+   "short": "HCL Șipote nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 55/2026 privind modul de organizare a activității de apărare împotriva incendiilor in comuna Șipote, județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262009",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-56-2026",
+   "path": "local/iasi/sipote/2026/56",
+   "short": "HCL Șipote nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 56/2026 privind aprobarea organigramei și statului de funcții al presonaluilui din cadrul unității administrativ-teritoriale Șipote ca urmare a reorganizării prevăzută de art.XL din OUG nr.7/2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262010",
+   "versions": [
+    {
+     "from": "2026-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-57-2026",
+   "path": "local/iasi/sipote/2026/57",
+   "short": "HCL Șipote nr. 57/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 57/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 15 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262873",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-58-2026",
+   "path": "local/iasi/sipote/2026/58",
+   "short": "HCL Șipote nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 58/2026 privind aprobarea procesului verbal al ședinței ”extraordinare” din data de 7 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262874",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-59-2026",
+   "path": "local/iasi/sipote/2026/59",
+   "short": "HCL Șipote nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 59/2026 privind modificarea și completarea Hotărârii Consiliului Local Șipote numărul 49 din 30 martie 2026 privind aprobarea indicatorilor tehnico-economici, a proiectului actualizati in urma atribuirii contractului de executie lucrari și a cheltuielilor proiectului pentru obiectivul de investiții ,,Dezvoltarea infrastructurii sportive in comuna Șipote, judetul Iași” – Teren de sport la Școala Chișcăreni propus pentru finanțare prin Programul Regional Nord-Est 2021-2027 PRIORITATEA P6 NORD-EST – O REGIUNE EDUCATĂ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/262875",
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/262875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-6-2026",
+   "path": "local/iasi/sipote/2026/6",
+   "short": "HCL Șipote nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 6/2026 privind aprobarea numărului de asistenţi personali ai persoanelor cu handicap grav pentru anul 2026 și a numărului de îndemnizații pentru anul 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250058",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250058",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-60-2026",
+   "path": "local/iasi/sipote/2026/60",
+   "short": "HCL Șipote nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 60/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 30 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265591",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-61-2026",
+   "path": "local/iasi/sipote/2026/61",
+   "short": "HCL Șipote nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 61/2026 privind aprobarea procesului verbal al ședinței”extraordinare” din data de 15 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265592",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265592",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-62-2026",
+   "path": "local/iasi/sipote/2026/62",
+   "short": "HCL Șipote nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 62/2026 privind aprobarea Planului de analiză și acoperire a riscurilor pe teritoriul comunei Șipote in forma actualizată;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265593",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265593",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-63-2026",
+   "path": "local/iasi/sipote/2026/63",
+   "short": "HCL Șipote nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 63/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfașoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna martie 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265594",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-64-2026",
+   "path": "local/iasi/sipote/2026/64",
+   "short": "HCL Șipote nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 64/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265595",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265595",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-65-2026",
+   "path": "local/iasi/sipote/2026/65",
+   "short": "HCL Șipote nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 65/2026 privind aprobarea vânzării prin licitaţie publică a terenului în suprafată de 1017 mp. și construcția C1 având o suprafață construită la sol de 458 mp. amplasat în intravilanul satului Chișcăreni, Comuna Șipote, având număr cadastral 61682 înscris în cartea funciară 61682 UAT Șipote ,aparținând domeniului privat al comunei Sipote, judetul Iasi;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265596",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265596",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-66-2026",
+   "path": "local/iasi/sipote/2026/66",
+   "short": "HCL Șipote nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 66/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265597",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265597",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-67-2026",
+   "path": "local/iasi/sipote/2026/67",
+   "short": "HCL Șipote nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 67/2026 privind aprobarea vânzării prin licitație publică a imobilului compus din teren în suprafață de 593 mp., și construcția C1- locuintă, având o suprafață construită la sol de 78 mp., identificat cu numar cadastral 61459, inscris in Cartea Funciara 61459, precum și cota de ½ din teren – cale de acces –în suprafață de 84,00 mp., identificat cu numar cadastral 61458, inscris in Cartea Funciara 61458, amplasat în intravilanul satului Chișcăreni, Comuna Șipote, aparținând domeniului privat al Comunei Șipote, județul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265598",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-68-2026",
+   "path": "local/iasi/sipote/2026/68",
+   "short": "HCL Șipote nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 68/2026 privind trecerea in domeniul public al comunei Șipote,județul Iași a unor terenuri categoria de folosință neproductiv , în vederea compensării suprafeței de 19165 mp,pășune în vederea schimbării categoriei de folosință;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265599",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265599",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-69-2026",
+   "path": "local/iasi/sipote/2026/69",
+   "short": "HCL Șipote nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 69/2026 privind Organizarea protecției civile la nivelul unității administrativ-teritoriale UAT Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/265600",
+   "versions": [
+    {
+     "from": "2026-05-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/265600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-7-2026",
+   "path": "local/iasi/sipote/2026/7",
+   "short": "HCL Șipote nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 7/2026 privind aprobarea „Raportului privind activitatea desfăşurată de asistenţii personali ai persoanelor cu handicap grav pe semestrul II al anului 2025 , angajaţi ai Primariei comunei Șipote “, judeţul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250059",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250059",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-70-2026",
+   "path": "local/iasi/sipote/2026/70",
+   "short": "HCL Șipote nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 70/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 5 mai 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/266165",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/266165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-71-2026",
+   "path": "local/iasi/sipote/2026/71",
+   "short": "HCL Șipote nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 71/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 30 aprilie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/266166",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/266166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-72-2026",
+   "path": "local/iasi/sipote/2026/72",
+   "short": "HCL Șipote nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 72/2026 privind aprobarea Bugetului local de Venituri şi Cheltuieli și a Programului obiectivelor de investiții, cu finanțare de la bugetul local și alte surse de finanțare al Comunei Sipote , judetul Iasi, pe anul 2026 și estimările anilor 2027-2029;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/266167",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/266167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-73-2026",
+   "path": "local/iasi/sipote/2026/73",
+   "short": "HCL Șipote nr. 73/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 73/2026 privind aprobarea Strategiei anuale de achizitii publice a comunei Sipote , judetul Iasi pe anul 2026 si a Anexelor la Strategia anuala a achizitiilor publice a comunei Sipote (Programul Anual al Achizițiilor Publice) pentru anul 2026 în urma aprobării bugetului de venituri și cheltuieli ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/266168",
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/266168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-74-2026",
+   "path": "local/iasi/sipote/2026/74",
+   "short": "HCL Șipote nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 74/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 29 mai 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276927",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-75-2026",
+   "path": "local/iasi/sipote/2026/75",
+   "short": "HCL Șipote nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 75/2026 privind aprobarea procesului verbal al ședinței”extraordinare” din data de 5 mai 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276928",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-76-2026",
+   "path": "local/iasi/sipote/2026/76",
+   "short": "HCL Șipote nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 76/2026 privind aprobarea neasumării responsabilității organizării și derulării procedurilor de atribuire a contractelor /acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/ acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative aferente programului pentru anul școlar 2026-2027;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276929",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-77-2026",
+   "path": "local/iasi/sipote/2026/77",
+   "short": "HCL Șipote nr. 77/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 77/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfașoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna aprilie 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276930",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276930",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-78-2026",
+   "path": "local/iasi/sipote/2026/78",
+   "short": "HCL Șipote nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 78/2026 privind completarea și actualizarea inventarului bunurilor imobile care alcătuiesc domeniului privat al comunei Șipote ,județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276931",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276931",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-79-2026",
+   "path": "local/iasi/sipote/2026/79",
+   "short": "HCL Șipote nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 79/2026 privind modificarea Hotărârii Consiliului Local Șipote numărul 122 din 25 octombrie 2024 cu privire la stabilirea numărului și denumirii comisiilor de specialitate ale Consiliului Local Șipote pe principalele domenii de activitate pentru mandatul 2024-2028, precum și a numărului de consilieri pe fiecare comisie în parte ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276932",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276932",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-8-2026",
+   "path": "local/iasi/sipote/2026/8",
+   "short": "HCL Șipote nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 8/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfasoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna decembrie 2025 și restanță luna noiembrie 2025 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250060",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250060",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-80-2026",
+   "path": "local/iasi/sipote/2026/80",
+   "short": "HCL Șipote nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 80/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 30 iunie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276933",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276933",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-81-2026",
+   "path": "local/iasi/sipote/2026/81",
+   "short": "HCL Șipote nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 81/2026 privind aprobarea procesului verbal al ședinței” ordinare” din data de 29 mai 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276934",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276934",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-82-2026",
+   "path": "local/iasi/sipote/2026/82",
+   "short": "HCL Șipote nr. 82/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 82/2026 privind alegerea preşedintelui de şedinţă pentru lunile iulie 2026, august 2026, septembrie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276935",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276935",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-83-2026",
+   "path": "local/iasi/sipote/2026/83",
+   "short": "HCL Șipote nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 83/2026 privind aprobarea Graficului de ședințe pe trimestrul III 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276936",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276936",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-84-2026",
+   "path": "local/iasi/sipote/2026/84",
+   "short": "HCL Șipote nr. 84/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 84/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 consolidat 2021, prin Actul Adițional nr. 11 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276937",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276937",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-85-2026",
+   "path": "local/iasi/sipote/2026/85",
+   "short": "HCL Șipote nr. 85/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 85/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfașoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna mai 2026;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276938",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276938",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-86-2026",
+   "path": "local/iasi/sipote/2026/86",
+   "short": "HCL Șipote nr. 86/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 86/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276939",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276939",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-87-2026",
+   "path": "local/iasi/sipote/2026/87",
+   "short": "HCL Șipote nr. 87/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 87/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276940",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-88-2026",
+   "path": "local/iasi/sipote/2026/88",
+   "short": "HCL Șipote nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 88/2026 privind rectificarea numărul 1 a Bugetului local de venituri și cheltuieli al Comunei Șipote ,pe anul 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276941",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276941",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-89-2026",
+   "path": "local/iasi/sipote/2026/89",
+   "short": "HCL Șipote nr. 89/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 89/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276942",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-9-2026",
+   "path": "local/iasi/sipote/2026/9",
+   "short": "HCL Șipote nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 9/2026 privind transferul dreptului de proprietate al comunei Șipote prin donare cu titlu gratuit către „Parohia Adormirea Maicii Domnului” din satul Mitoc, Comuna Șipote, județul Iași, a suprafeței de teren de 3000 mp. din acte, 3115 mp. suprafață măsurată, aparținând domeniului privat, situat in intravilanul satului Mitoc, comuna Sipote, județul Iasi, amplasată in T 14, P 348, identificată cu număr cadastral 61456, înscrisă în Cartea Funciară nr 61456 a Comunei Șipote, pentru construirea unei biserici în localitatea Mitoc, comuna Șipote,județul Iași ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/250061",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/250061",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-90-2026",
+   "path": "local/iasi/sipote/2026/90",
+   "short": "HCL Șipote nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 90/2026 privind aprobarea documentatiei de dezmembrare a unui imobil în suprafață de 3005 mp,identificat cu numar cadastral 62675 înscris în Cartea Funciară 62675 a Comunei Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276943",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-91-2026",
+   "path": "local/iasi/sipote/2026/91",
+   "short": "HCL Șipote nr. 91/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 91/2026 privind aprobarea documentatiei de dezmembrare a unui imobil în suprafață de 2258 mp, identificat cu numar cadastral 62677 înscris în Cartea Funciară 62677 a Comunei Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276944",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-92-2026",
+   "path": "local/iasi/sipote/2026/92",
+   "short": "HCL Șipote nr. 92/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 92/2026",
+   "url": "https://emol.ro/sipote-is/registru-hcl/276945",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/276945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-93-2026",
+   "path": "local/iasi/sipote/2026/93",
+   "short": "HCL Șipote nr. 93/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 93/2026 privind aprobarea ordinii de zi a ședinței „extraordinară” din data de 17 iulie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/279020",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/279020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-94-2026",
+   "path": "local/iasi/sipote/2026/94",
+   "short": "HCL Șipote nr. 94/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 94/2026 privind aprobarea procesului verbal al ședinței ”ordinare” din data de 30 iunie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/279021",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/279021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-95-2026",
+   "path": "local/iasi/sipote/2026/95",
+   "short": "HCL Șipote nr. 95/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 95/2026 privind darea în folosință gratuită, către Scoala Gimnazială Șipote , judetul Iasi,a bunurilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe din Județul Iași”,cod F-PNRR-dotari-2023-0426,finantat prin PNNR –Componenta C15 Educatie, pentru perioada de implementare a proiectului ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/279022",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/279022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-96-2026",
+   "path": "local/iasi/sipote/2026/96",
+   "short": "HCL Șipote nr. 96/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 96/2026 privind aprobarea solicitării transferului proprietății de la UAT Județul Iași -Consiliul Județean Iași către UAT Comuna Șipote ,a bunurilor achiziţionate prin proiectul „Dotarea cu mobilier, materiale didactice şi echipamente digitale a unităţilor de învăţământ preuniversitar şi a unităţilor conexe din Judeţul Iaşi\", cod F-PNRR-Dotări-2023-0426, finanţat prin PNRR — Componenta C15 Educaţie ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/279023",
+   "versions": [
+    {
+     "from": "2026-07-27",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/279023",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-97-2026",
+   "path": "local/iasi/sipote/2026/97",
+   "short": "HCL Șipote nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 97/2026 privind aprobarea ordinii de zi a ședinței „ordinară” din data de 30 iulie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281616",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-98-2026",
+   "path": "local/iasi/sipote/2026/98",
+   "short": "HCL Șipote nr. 98/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 98/2026 privind privind aprobarea procesului verbal al ședinței” extraordinare” din data de 17 iulie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281617",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-99-2026",
+   "path": "local/iasi/sipote/2026/99",
+   "short": "HCL Șipote nr. 99/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 99/2026 privind decontarea cheltuielilor pentru naveta cadrelor didactice din învățământul preuniversitar de stat care care iși desfasoară activitatea in unitățile de invățământ pe raza comunei Șipote , pentru luna iunie 2026 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/281618",
+   "versions": [
+    {
+     "from": "2026-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/281618",
      "sha256": null
     }
    ]

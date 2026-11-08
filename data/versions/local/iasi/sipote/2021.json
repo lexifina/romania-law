@@ -123,6 +123,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-106-2021",
+   "path": "local/iasi/sipote/2021/106",
+   "short": "HCL Șipote nr. 106/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 106/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/39659",
+   "versions": [
+    {
+     "from": "2021-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/39659",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-107-2021",
    "path": "local/iasi/sipote/2021/107",
    "short": "HCL Șipote nr. 107/2021",
@@ -183,6 +198,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-110-2021",
+   "path": "local/iasi/sipote/2021/110",
+   "short": "HCL Șipote nr. 110/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 110/2021 privind desemnarea unui reprezentant al consiliului local, care face parte din Comisia de evaluare a probei de interviu,în calitate de membru , din cadrul concursului pentru ocuparea funcțiilor de director și de director adjunct la Școala Gimnazială Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/40629",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/40629",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-111-2021",
    "path": "local/iasi/sipote/2021/111",
    "short": "HCL Șipote nr. 111/2021",
@@ -193,6 +223,51 @@
      "from": "2021-11-08",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/40630",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-112-2021",
+   "path": "local/iasi/sipote/2021/112",
+   "short": "HCL Șipote nr. 112/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 112/2021 privind completarea Anexei nr.1 a Hotararii nr.12/30.01.2020 pentru aprobarea salariilor de bază pentru functionarii publici si personalul contractual din cadrul aparatulului de specialitate al primarului comunei Șipote, judeţul Iași;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/40631",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/40631",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-113-2021",
+   "path": "local/iasi/sipote/2021/113",
+   "short": "HCL Șipote nr. 113/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 113/2021 privind aprobarea ordinii de zi a ședinței „extraordinară de îndată ” din data de 15 noiembrie 2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/41113",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/41113",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-114-2021",
+   "path": "local/iasi/sipote/2021/114",
+   "short": "HCL Șipote nr. 114/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 114/2021 privind aprobarea procesului verbal al ședinței ” extraordinare ”din data 08.11.2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/41114",
+   "versions": [
+    {
+     "from": "2021-11-15",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/41114",
      "sha256": null
     }
    ]
@@ -588,6 +663,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-16-2021",
+   "path": "local/iasi/sipote/2021/16",
+   "short": "HCL Șipote nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 16/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38258",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38258",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-17-2021",
    "path": "local/iasi/sipote/2021/17",
    "short": "HCL Șipote nr. 17/2021",
@@ -688,6 +778,21 @@
      "from": "2021-02-25",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/38264",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-23-2021",
+   "path": "local/iasi/sipote/2021/23",
+   "short": "HCL Șipote nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 23/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38265",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38265",
      "sha256": null
     }
    ]
@@ -853,6 +958,21 @@
      "from": "2021-03-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/38275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-34-2021",
+   "path": "local/iasi/sipote/2021/34",
+   "short": "HCL Șipote nr. 34/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 34/2021 privindalegerea preşedintelui de şedinţă pentru lunile aprilie 2021, mai 2021, iunie 2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38276",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38276",
      "sha256": null
     }
    ]
@@ -1083,6 +1203,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-49-2021",
+   "path": "local/iasi/sipote/2021/49",
+   "short": "HCL Șipote nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 49/2021 privind aprobarea concesionării prin licitaţie publică deschisă cu plic închis (atribuire directă,în cazul în care după două licitaţii deschise cu plic închis,consecutive, nu s-a depus decât o ofertă),a pășunii comunale în suprafaţă de 22,49 ha ,evidențiată în inventarul domeniului public al comunei Şipote, judetul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38312",
+   "versions": [
+    {
+     "from": "2021-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38312",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-5-2021",
    "path": "local/iasi/sipote/2021/5",
    "short": "HCL Șipote nr. 5/2021",
@@ -1243,6 +1378,21 @@
      "from": "2021-05-31",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/38326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-6-2021",
+   "path": "local/iasi/sipote/2021/6",
+   "short": "HCL Șipote nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 6/2021 privind aprobare numar asistenti personali si indemnizatii persoana cu handicap pentru anul 2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38244",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38244",
      "sha256": null
     }
    ]
@@ -1548,6 +1698,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-79-2021",
+   "path": "local/iasi/sipote/2021/79",
+   "short": "HCL Șipote nr. 79/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 79/2021 privind aprobarea ordinii de zi a ședinței „ordinară ” din data de 30.08.2021;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38388",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-8-2021",
+   "path": "local/iasi/sipote/2021/8",
+   "short": "HCL Șipote nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 8/2021 privind insusire numar asistenti persoanli si numar de indemnizatii persoana cu handicap pentru anul 2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38246",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38246",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-80-2021",
    "path": "local/iasi/sipote/2021/80",
    "short": "HCL Șipote nr. 80/2021",
@@ -1578,6 +1758,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-82-2021",
+   "path": "local/iasi/sipote/2021/82",
+   "short": "HCL Șipote nr. 82/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 82/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38391",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-83-2021",
+   "path": "local/iasi/sipote/2021/83",
+   "short": "HCL Șipote nr. 83/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 83/2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38392",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-84-2021",
+   "path": "local/iasi/sipote/2021/84",
+   "short": "HCL Șipote nr. 84/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 84/2021 privind acordarea diplomei pentru aniversarea a 50 de ani de la căsătorie (nunta de aur)şi a unui premiu în valoare netă de 400 lei, din bugetul local pe anul 2021, cuplurilor din comuna Șipote ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38393",
+   "versions": [
+    {
+     "from": "2021-08-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38393",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-85-2021",
    "path": "local/iasi/sipote/2021/85",
    "short": "HCL Șipote nr. 85/2021",
@@ -1603,6 +1828,51 @@
      "from": "2021-08-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/38395",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-87-2021",
+   "path": "local/iasi/sipote/2021/87",
+   "short": "HCL Șipote nr. 87/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 87/2021 privind aprobarea ordinii de zi a ședinței „extraordinară ” de îndată din data de 17 septembrie 2021",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38396",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-88-2021",
+   "path": "local/iasi/sipote/2021/88",
+   "short": "HCL Șipote nr. 88/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 88/2021 privind aprobarea procesului verbal al ședinței ” ordinare ”din data 30.08.2021 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38397",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-89-2021",
+   "path": "local/iasi/sipote/2021/89",
+   "short": "HCL Șipote nr. 89/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 89/2021 privind pentru modificarea Hotărârii Consiliului Local Șipote nr 71 din 29 iunie 2021 privind aprobarea Documentației de Avizare a Lucrărilor de Interventie și a principalilor indicatori tehnico-economici pentru obiectivul de investiții: „Cresterea eficientei energetice si gestionarea inteligentă a energiei la Scoala Gimnaziala Halceni, comuna Sipote”",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38398",
+   "versions": [
+    {
+     "from": "2021-09-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38398",
      "sha256": null
     }
    ]
@@ -1678,6 +1948,36 @@
      "from": "2021-09-29",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/38402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-94-2021",
+   "path": "local/iasi/sipote/2021/94",
+   "short": "HCL Șipote nr. 94/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 94/2021 privind aprobarea concesionării prin licitaţie publică deschisă cu plic închis (atribuire directă,în cazul în care după două licitaţii deschise cu plic închis,consecutive, nu s-a depus decât o ofertă),a terenurilor aferente Lotului nr.1 teren împrejmuit,în suprafață de 2824 mp, număr cadastral 60868, identificat în T 73,Parcela 1127/1 ;Lotului nr.2 teren împrejmuit, în suprafață de 10256 mp, număr cadastral 60869, identificat în T73,P1127/1 și 1128/1;Lotului nr.3 teren împrejmuit , în suprafață de 453 mp,număr cadastral 60503,identificat în T1 , parcela 1; Lotului nr. 4 teren împrejmuit, în suprafață de 1352 mp, număr cadastral 60504,identificat în T1, parcela 1; Lotului nr 5 teren împrejmuit , în suprafață de 6074,00 mp, număr cadastral 60505, identificat în T1, parcela 1, Lotului nr. 6 cota ½ din terenul în suprafață de 373 mp,număr cadastral 60506, identificat în T1, Parcela 1, care constituie cale de acces, aflate în domeniul",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38403",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-95-2021",
+   "path": "local/iasi/sipote/2021/95",
+   "short": "HCL Șipote nr. 95/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 95/2021 privind nominalizarea reprezentanților Consiliului Local Șipote in Consiliul de Administratie a Scoli Gimnaziale Șipote și în Comisia pentru Evaluarea și Asigurarea calității în Învățământul preuniversitar al Școlii Gimnaziale Șipote în anul școlar 2021 – 2022 ;",
+   "url": "https://emol.ro/sipote-is/registru-hcl/38404",
+   "versions": [
+    {
+     "from": "2021-09-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/38404",
      "sha256": null
     }
    ]

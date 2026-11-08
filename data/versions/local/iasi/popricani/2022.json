@@ -3,6 +3,366 @@
  "shard": "local/iasi/popricani/2022",
  "acts": [
   {
+   "slug": "hcl-iasi--popricani-1-2022",
+   "path": "local/iasi/popricani/2022/1",
+   "short": "HCL Popricani nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 1/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62681",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62681",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-10-2022",
+   "path": "local/iasi/popricani/2022/10",
+   "short": "HCL Popricani nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 10/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62706",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62706",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-100-2022",
+   "path": "local/iasi/popricani/2022/100",
+   "short": "HCL Popricani nr. 100/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 100/2022 privind apartenența la domeniul public al comunei Popricani, județul Iași a unor suprafețe de teren (poz. nr.281-nr.286)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77108",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-101-2022",
+   "path": "local/iasi/popricani/2022/101",
+   "short": "HCL Popricani nr. 101/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 101/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77109",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-102-2022",
+   "path": "local/iasi/popricani/2022/102",
+   "short": "HCL Popricani nr. 102/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 102/2022 privind aprobarea indicatorilor tehnico-economici ai obiectivului de investiții: ”Refacerea și reabilitarea drumurilor pentru eliminarea efectelor inundațiilor în comuna Popricani, județul Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77123",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-103-2022",
+   "path": "local/iasi/popricani/2022/103",
+   "short": "HCL Popricani nr. 103/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 103/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77124",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77124",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-104-2022",
+   "path": "local/iasi/popricani/2022/104",
+   "short": "HCL Popricani nr. 104/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 104/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77125",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-105-2022",
+   "path": "local/iasi/popricani/2022/105",
+   "short": "HCL Popricani nr. 105/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 105/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78410",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-106-2022",
+   "path": "local/iasi/popricani/2022/106",
+   "short": "HCL Popricani nr. 106/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 106/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78411",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-107-2022",
+   "path": "local/iasi/popricani/2022/107",
+   "short": "HCL Popricani nr. 107/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 107/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78412",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-108-2022",
+   "path": "local/iasi/popricani/2022/108",
+   "short": "HCL Popricani nr. 108/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 108/2022 privind aprobarea instalării și achiziției centralizate de către Ministerul Dezvoltării, Lucrărilor Publice și Administrației a stațiilor de încărcare pentru vehicule electrice din cadrul proiectului cu titlul „Realizare sistem de supraveghere video în comuna Popricani, județul Iași” depus în cadrul Planului Național de Redresare și Reziliență al României, COMPONENTA C10-Fondul local",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78413",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-109-2022",
+   "path": "local/iasi/popricani/2022/109",
+   "short": "HCL Popricani nr. 109/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 109/2022 privind concesionarea suprafeței de 255 mp teren intravilan sat Vânători, str Petrache Poenaru, comuna Popricani, județul Iași, nr. cad./carte funciară 66090 (tarla 69, parcela 1116/65/1) aparținând domeniului privat al comunei Popricani, județul Iași, d-nului/d-nei-Panciuc Alexandru-Iulian și Panciuc Georgiana-Ioana pentru extinderea construcțiilor",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78414",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-11-2022",
+   "path": "local/iasi/popricani/2022/11",
+   "short": "HCL Popricani nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 11/2022 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al comunei Popricani, jud. Iași-anul 2021",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62707",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-110-2022",
+   "path": "local/iasi/popricani/2022/110",
+   "short": "HCL Popricani nr. 110/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 110/2022 privind aprobarea procedurii de acordare a înlesnirilor fiscale prevăzute la art. 185 din Legea nr. 207/2015, privind Codul de procedură fiscală, la nivelul comunei Popricani, jud. Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78415",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-111-2022",
+   "path": "local/iasi/popricani/2022/111",
+   "short": "HCL Popricani nr. 111/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 111/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78416",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-112-2022",
+   "path": "local/iasi/popricani/2022/112",
+   "short": "HCL Popricani nr. 112/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 112/2022 privind validarea dispoziției nr. 489/26.09.2022, a primarului comunei Popricani, jud. Iași privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022 și a listei de investiții",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78417",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-113-2022",
+   "path": "local/iasi/popricani/2022/113",
+   "short": "HCL Popricani nr. 113/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 113/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78418",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-114-2022",
+   "path": "local/iasi/popricani/2022/114",
+   "short": "HCL Popricani nr. 114/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 114/2022 privind apartenența la domeniul privat al comunei Popricani, județul Iași a unor suprafețe de teren (poz. 1258 - poz. nr. 1260)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78419",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-115-2022",
+   "path": "local/iasi/popricani/2022/115",
+   "short": "HCL Popricani nr. 115/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 115/2022 privind modificarea elementelor de identificare a poziției 211 din domeniul public al comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78420",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-116-2022",
+   "path": "local/iasi/popricani/2022/116",
+   "short": "HCL Popricani nr. 116/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 116/2022 privind concesionarea prin licitație publică a unor suprafețe de teren intravilan loc. Popricani, comuna Popricani, jud. Iași (T 93 parcela 1557/650-nr. cadastral 66027 și parcela 1557/637-nr. cadastral 63912; T 25, parcela 359/17 și 361/4-nr. cadastral 66045) proprietatea privată a comunei Popricani, jud. Iași pentru realizarea obiectivelor de locuințe și anexe aferente funcțiunii de locuire; aprobarea studiului de oportunitate, a conținutului documentației de atribuire, caietul de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78421",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-117-2022",
+   "path": "local/iasi/popricani/2022/117",
+   "short": "HCL Popricani nr. 117/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 117/2022 privind aprobarea Regulamentului privind compensarea și autorizarea mijloacelor de publicitate pe raza comunei Popricani, jud. Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78422",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-118-2022",
+   "path": "local/iasi/popricani/2022/118",
+   "short": "HCL Popricani nr. 118/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 118/2022 privind oportunitatea și necesitatea punerii la dispoziție pentru concesionarea prin licitație publică a unei suprafețe de teren extravilan - (241-070 mp categoria de folosință - pășune) ce aparține domeniului privat al comunei Popricani, județul Iași, în vederea înființării unui „Parc industrial, platformă de dezvoltare a afacerilor pe raza comunei Popricani, județul Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/78423",
+   "versions": [
+    {
+     "from": "2022-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/78423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-119-2022",
+   "path": "local/iasi/popricani/2022/119",
+   "short": "HCL Popricani nr. 119/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 119/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81981",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81981",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-12-2022",
+   "path": "local/iasi/popricani/2022/12",
+   "short": "HCL Popricani nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 12/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62708",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62708",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-120-2022",
    "path": "local/iasi/popricani/2022/120",
    "short": "HCL Popricani nr. 120/2022",
@@ -33,6 +393,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-122-2022",
+   "path": "local/iasi/popricani/2022/122",
+   "short": "HCL Popricani nr. 122/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 122/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81984",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-123-2022",
+   "path": "local/iasi/popricani/2022/123",
+   "short": "HCL Popricani nr. 123/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 123/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022 și a listei de investiții-2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81985",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81985",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-124-2022",
    "path": "local/iasi/popricani/2022/124",
    "short": "HCL Popricani nr. 124/2022",
@@ -48,6 +438,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-125-2022",
+   "path": "local/iasi/popricani/2022/125",
+   "short": "HCL Popricani nr. 125/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 125/2022 privind aprobarea înființării Serviciului pentru gestionarea câinilor fără stăpân UAT comuna Popricani, județul Iași; concesionarea Serviciilor specializate pentru gestionarea câinilor fără stăpân-UAT comuna Popricani, județul Iași persoanelor juridice, asociațiilor sau fundațiilor care desfășoară activități în domeniul protecției animalelor",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81987",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-126-2022",
+   "path": "local/iasi/popricani/2022/126",
+   "short": "HCL Popricani nr. 126/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 126/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81988",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-127-2022",
+   "path": "local/iasi/popricani/2022/127",
+   "short": "HCL Popricani nr. 127/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 127/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81989",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-128-2022",
+   "path": "local/iasi/popricani/2022/128",
+   "short": "HCL Popricani nr. 128/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 128/2022 privind aparteneța la domeniul public al comunei Popricani, județul Iași a unor suprafețe de teren (poz.nr.293-295)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/81990",
+   "versions": [
+    {
+     "from": "2022-12-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/81990",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-129-2022",
+   "path": "local/iasi/popricani/2022/129",
+   "short": "HCL Popricani nr. 129/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 129/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85552",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85552",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-13-2022",
    "path": "local/iasi/popricani/2022/13",
    "short": "HCL Popricani nr. 13/2022",
@@ -58,6 +523,96 @@
      "from": "2022-06-08",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/62709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-130-2022",
+   "path": "local/iasi/popricani/2022/130",
+   "short": "HCL Popricani nr. 130/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 130/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85553",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-131-2022",
+   "path": "local/iasi/popricani/2022/131",
+   "short": "HCL Popricani nr. 131/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 131/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85554",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-132-2022",
+   "path": "local/iasi/popricani/2022/132",
+   "short": "HCL Popricani nr. 132/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 132/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85555",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-133-2022",
+   "path": "local/iasi/popricani/2022/133",
+   "short": "HCL Popricani nr. 133/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 133/2022 privind aprobarea înființării Serviciului Public de Alimentare și Distribuție Gaze Naturale din comuna Popricani, județul Iași; aprobarea concesionării prin licitație publică deschisă a exploatării ”SERVICIULUI PUBLIC DE ALIMENTARE ȘI DISTRIBUȚIE GAZE NATURALE DIN COMUNA POPRICANI, JUDEȚUL IAȘI”, aprobarea documentației de atribuire/caietul de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85556",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-134-2022",
+   "path": "local/iasi/popricani/2022/134",
+   "short": "HCL Popricani nr. 134/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 134/2022 privind aprobarea Protocolului de Colaborare încheiat între Ministerul Muncii și Solidarității Sociale-MMSS și UAT comuna Popricani, județul Iași, referitor la colaborarea interinstituțională în cadrul Proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130969",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85557",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-135-2022",
+   "path": "local/iasi/popricani/2022/135",
+   "short": "HCL Popricani nr. 135/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 135/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/85558",
+   "versions": [
+    {
+     "from": "2023-01-10",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/85558",
      "sha256": null
     }
    ]
@@ -118,6 +673,21 @@
      "from": "2023-01-10",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/85562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-14-2022",
+   "path": "local/iasi/popricani/2022/14",
+   "short": "HCL Popricani nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 14/2022 privind aprobarea numărului asistenților personali ai persoanelor cu handicap și a indemnizațiilor acordate persoanelor cu handicap grav pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62710",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62710",
      "sha256": null
     }
    ]
@@ -273,6 +843,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-15-2022",
+   "path": "local/iasi/popricani/2022/15",
+   "short": "HCL Popricani nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 15/2022 privind aprobarea rezultatelor privind inventarierea generală a elementelor de natură activelor, datoriilor și capitalurilor proprii aflate în patrimoniul comunei Popricani, județul Iași pentru anul 2021",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62711",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62711",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-150-2022",
    "path": "local/iasi/popricani/2022/150",
    "short": "HCL Popricani nr. 150/2022",
@@ -378,6 +963,276 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-17-2022",
+   "path": "local/iasi/popricani/2022/17",
+   "short": "HCL Popricani nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 17/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62713",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-18-2022",
+   "path": "local/iasi/popricani/2022/18",
+   "short": "HCL Popricani nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 18/2022 privind concesionarea prin licitație publică a unor suprafețe de teren din intravilanul loc. Cârlig, Moimești, Rediu-Mitropoliei, Vânători, Vulturi, Popricani comuna Popricani, jud. Iași proprietatea privată a comunei Popricani, jud. Iași pentru realizarea (intrarea în legalitatea) a obiectivelor de locuințe și anexe aferente funcțiunii de locuire, investiții-aprobarea studiului de oportunitate, a conținutului documentației de atribuire, caietul de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62714",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-19-2022",
+   "path": "local/iasi/popricani/2022/19",
+   "short": "HCL Popricani nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 19/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62715",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62715",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-2-2022",
+   "path": "local/iasi/popricani/2022/2",
+   "short": "HCL Popricani nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 2/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62682",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-20-2022",
+   "path": "local/iasi/popricani/2022/20",
+   "short": "HCL Popricani nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 20/2022 privind completarea Hotărârii Consiliului Local Popricani, județul Iași nr.8/10.02.2022 privind bugetul de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62716",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62716",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-21-2022",
+   "path": "local/iasi/popricani/2022/21",
+   "short": "HCL Popricani nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 21/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62717",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62717",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-22-2022",
+   "path": "local/iasi/popricani/2022/22",
+   "short": "HCL Popricani nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 22/2022 privind prelungirea/modificarea contractelor de concesiune a spațiilor cu destinația de cabinete medicale situate în sat. Popricani, comuna Popricani, județul Iași, aparținând domeniului privat al comunei Popricani, jud. Iași (nr.cadastral-65251-C1)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62718",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62718",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-23-2022",
+   "path": "local/iasi/popricani/2022/23",
+   "short": "HCL Popricani nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 23/2022 privind desemnarea reprezentanților Consiliului Local Popricani, județul Iași, în comisia de evaluare a probei interviu pentru ocuparea postului de director al Școlii Gimnaziale Vânători com. Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62719",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62719",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-24-2022",
+   "path": "local/iasi/popricani/2022/24",
+   "short": "HCL Popricani nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 24/2022 privind alegerea președintelui de ședință luna Martie 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62897",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62897",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-25-2022",
+   "path": "local/iasi/popricani/2022/25",
+   "short": "HCL Popricani nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 25/2022 privind modificarea și completarea HCL nr. 23/25.02.2021 privind avizarea fluxului de călători, stațiile de îmbarcare/debarcare a călătorilor din localitățile componente ale comunei Popricani, județul Iași, (tranzitate de traseele județene) pentru transportul public de persoane",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62898",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62898",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-26-2022",
+   "path": "local/iasi/popricani/2022/26",
+   "short": "HCL Popricani nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 26/2022 privind suplimentarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62899",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62899",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-27-2022",
+   "path": "local/iasi/popricani/2022/27",
+   "short": "HCL Popricani nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 27/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62900",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62900",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-28-2022",
+   "path": "local/iasi/popricani/2022/28",
+   "short": "HCL Popricani nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 28/2022 privind dezmembrarea imobilului teren în suprafață de 1231mp intravilan sat. Rediu-Mitropoliei aparținând domeniului privat al comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62901",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62901",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-29-2022",
+   "path": "local/iasi/popricani/2022/29",
+   "short": "HCL Popricani nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 29/2022 privind alegerea președintelui de ședință luna Aprilie",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62907",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-3-2022",
+   "path": "local/iasi/popricani/2022/3",
+   "short": "HCL Popricani nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 3/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62683",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-30-2022",
+   "path": "local/iasi/popricani/2022/30",
+   "short": "HCL Popricani nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 30/2022 privind aparteneța la domeniul privat al comunei Popricani, județul Iași a unor suprafețe de teren",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62908",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62908",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-31-2022",
+   "path": "local/iasi/popricani/2022/31",
+   "short": "HCL Popricani nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 31/2022 privind trecerea în domeniul public al comunei Popricani, județul Iași a unor suprafețe de teren",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62909",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-32-2022",
+   "path": "local/iasi/popricani/2022/32",
+   "short": "HCL Popricani nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 32/2022 privind suplimentarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62910",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62910",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-33-2022",
    "path": "local/iasi/popricani/2022/33",
    "short": "HCL Popricani nr. 33/2022",
@@ -408,6 +1263,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-35-2022",
+   "path": "local/iasi/popricani/2022/35",
+   "short": "HCL Popricani nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 35/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62913",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62913",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-36-2022",
+   "path": "local/iasi/popricani/2022/36",
+   "short": "HCL Popricani nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 36/2022 privind aparteneța la domeniul privat al comunei Popricani, județul Iași a unor suprafețe de teren",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62914",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62914",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-37-2022",
+   "path": "local/iasi/popricani/2022/37",
+   "short": "HCL Popricani nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 37/2022 privind trecerea din domeniul privat al comunei Popricani, județul Iași, în domeniul public al comunei Popricani, județul Iași a unor suprafețe de teren (728mp-poz.277, 2218 mp-poz.278)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62915",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62915",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-38-2022",
+   "path": "local/iasi/popricani/2022/38",
+   "short": "HCL Popricani nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 38/2022 privind modificarea elementelor de indentificare pentru poziția nr.1185 din domeniul privat al comunei Popricani, județul Iași (art.2 al Hotărârii Consiliului Local Popricani, județul Iași nr.116/28.12.2020 privind aparteneța la domeniul privat a unor suprafețe de teren poz 1181-1185)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62916",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62916",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-39-2022",
    "path": "local/iasi/popricani/2022/39",
    "short": "HCL Popricani nr. 39/2022",
@@ -418,6 +1333,66 @@
      "from": "2022-06-08",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/62917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-4-2022",
+   "path": "local/iasi/popricani/2022/4",
+   "short": "HCL Popricani nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 4/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62684",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-40-2022",
+   "path": "local/iasi/popricani/2022/40",
+   "short": "HCL Popricani nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 40/2022 privind concesionarea prin licitație publică a suprafeței de 38146 mp (tarla 49; parcela 898, parcela 899, parcela 894/2, parcela 895/2, parcela 895/1, parcela 894/1)nr.cadastral 63402, proprietatea publică a comunei Popricani, județul Iași pentru realizarea unor obiective de investiții",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62918",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62918",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-41-2022",
+   "path": "local/iasi/popricani/2022/41",
+   "short": "HCL Popricani nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 41/2022 privind suplimentarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022, modificarea listei de investiții pe anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62919",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62919",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-42-2022",
+   "path": "local/iasi/popricani/2022/42",
+   "short": "HCL Popricani nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 42/2022 privind modificarea planului de achiziții publice pe anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62920",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62920",
      "sha256": null
     }
    ]
@@ -448,6 +1423,906 @@
      "from": "2022-06-08",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/62922",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-45-2022",
+   "path": "local/iasi/popricani/2022/45",
+   "short": "HCL Popricani nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 45/2022 privind modificarea organigramei, a statului de funcții pentru aparatul de specialitate al Primarului comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62923",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-46-2022",
+   "path": "local/iasi/popricani/2022/46",
+   "short": "HCL Popricani nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 46/2022 privind aprobarea trecerii pe cheltuieli a sumelor plătite din bugetul local al Comunei Popricani, județul Iași aferente perioadei 2016-2018 pentru colectarea, transportul și depozitarea deșeurilor menajere colectate de pe domeniul public/privat al Comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62924",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62924",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-47-2022",
+   "path": "local/iasi/popricani/2022/47",
+   "short": "HCL Popricani nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 47/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65818",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-48-2022",
+   "path": "local/iasi/popricani/2022/48",
+   "short": "HCL Popricani nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 48/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65819",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65819",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-49-2022",
+   "path": "local/iasi/popricani/2022/49",
+   "short": "HCL Popricani nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 49/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65820",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65820",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-5-2022",
+   "path": "local/iasi/popricani/2022/5",
+   "short": "HCL Popricani nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 5/2022 privind extinderea „Acordului de cooperare cu Asociația Comunelor din România în vederea organizării și exercitării unor activități stabilite prin Codul Administrativ”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62685",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-50-2022",
+   "path": "local/iasi/popricani/2022/50",
+   "short": "HCL Popricani nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 50/2022 privind concesionarea prin licitație publică a unor suprafețe de teren din intravilanul localitatea Vânători, comuna Popricani, Jud. Iași proprietatea privată a comunei Popricani, județul Iași pentru realizarea (intrarea în legalitate) obiectivelor de locuințe și anexe aferente funcțiunii de locuire, investiții: aprobarea studiului de oportunitate, a conținutului documentației de atribuire, caietul de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65821",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65821",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-51-2022",
+   "path": "local/iasi/popricani/2022/51",
+   "short": "HCL Popricani nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 51/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65822",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65822",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-52-2022",
+   "path": "local/iasi/popricani/2022/52",
+   "short": "HCL Popricani nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 52/2022 privind suplimentarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022; listei de investiții",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65823",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65823",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-53-2022",
+   "path": "local/iasi/popricani/2022/53",
+   "short": "HCL Popricani nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 53/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65824",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65824",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-54-2022",
+   "path": "local/iasi/popricani/2022/54",
+   "short": "HCL Popricani nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 54/2022 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor cadru pentru achiziția produselor aferente Programului pentru școli al României și a contractelor/acordurilor cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Popricani, județul Iași pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65825",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-55-2022",
+   "path": "local/iasi/popricani/2022/55",
+   "short": "HCL Popricani nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 55/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65826",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65826",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-56-2022",
+   "path": "local/iasi/popricani/2022/56",
+   "short": "HCL Popricani nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 56/2022 privind aprobarea indicatorilor tehnico-economici actualizați, devizul general actualizat, devizul general pentru lucrările rest de executat defalcat pe categorii de lucrări și categorii de cheltuieli pentru obiectivul de investiții „ÎNFIINȚARE SISTEM CENTRALIZAT DE ALIMENTARE CU APĂ ȘI CANALIZARE ÎN SATELE COTU-MORII, CUZA-VODĂ ȘI ȚIPILEȘTI, COMUNA POPRICANI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65827",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65827",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-57-2022",
+   "path": "local/iasi/popricani/2022/57",
+   "short": "HCL Popricani nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 57/2022 privind dezmembrarea imobilului teren în suprafața de 51961 mp intravilan conform PUG sat Vânători și extravilan comuna Popricani, județul Iași aparținând domeniului privat al comunei Popricani, județul Iași, CF/Nr. cad.66005 în două loturi (lot.1 -49547 mp; lot. 2 -2414 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65828",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65828",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-58-2022",
+   "path": "local/iasi/popricani/2022/58",
+   "short": "HCL Popricani nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 58/2022 privind dezmembrarea imobilului teren în suprafața de 10310 mp., nr. cadastral-66016-intravilan conform PUG sat Vânători și extravilan comuna Poprican, județul Iași (tarla 71, parcela 1212), aparținând domeniului privat al comunei Popricani, județul Iași în patru loturi: (lot.I-7886 mp; lot. II-1718 mp; lot III-41 mp; lot IV-665 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65829",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-59-2022",
+   "path": "local/iasi/popricani/2022/59",
+   "short": "HCL Popricani nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 59/2022 privind aprobarea Acordului de Înfrățire între Comuna Popricani, județul Iași din România și Comuna Sculeni, Raionul Ungheni din Republica Moldova",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65830",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-6-2022",
+   "path": "local/iasi/popricani/2022/6",
+   "short": "HCL Popricani nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 6/2022 privind prelungirea aplicării până la data de 30.06.2022 inclusiv, a Procedurii de anulare a acesoriilor aferente obligațiilor bugetare principale restante la data de 31.03.2020 inclusiv, datorate bugetului local al comunei Popricani, județul Iași, procedura aprobată prin HCL nr. 70/30.06.2020, respectiv HCL nr.107/27.11.2021 și în conformitate cu Ordonanța de Urgență a Guvernului nr.130/2021 privind unele măsuri fiscal-bugetare, prorogarea unor termeni, precum și pentru modificarea și completarea unor acte normative",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62686",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-60-2022",
+   "path": "local/iasi/popricani/2022/60",
+   "short": "HCL Popricani nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 60/2022 privind aparteneța la domeniul privat al comunei Popricani, județul Iași a unor suprafețe de teren (poz.1241-poz. nr.1248);-modificarea elementelor de identificare pentru pozițiile nr.480, 481, 494, 845, 846 din domeniul privat al comunei Popricani, jud. Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65831",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65831",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-61-2022",
+   "path": "local/iasi/popricani/2022/61",
+   "short": "HCL Popricani nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 61/2022 privind aprobarea depunerii proiectului „ACHIZIȚIE SISTEME ITS ȘI TIC PENTRU ÎMBUNĂTĂȚIREA MOBILITĂȚII LOCALE ÎN COMUNA POPRICANI, JUDEȚUL IAȘI”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65832",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65832",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-62-2022",
+   "path": "local/iasi/popricani/2022/62",
+   "short": "HCL Popricani nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 62/2022 privind aprobarea a depunerii proiectului; ”Realizare sistem de supraveghere video în comuna Popricani, județul Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65833",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65833",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-63-2022",
+   "path": "local/iasi/popricani/2022/63",
+   "short": "HCL Popricani nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 63/2022 privind aprobarea atribuirii temporare, în folosință gratuită, a unei suprafețe de teren necesar pentru organizare de șantier în vederea realizării obiectivului ”Extinderea sistemului de apă și canalizare în județul Iași-axa 1-Iași-Popricani (proiectul Dezvoltarea Infrastructurii de Apă șo Apă Uzată din Județul Iași, în perioada 2014-2020) în cadrul acordului contractual-contractual de execuție lucrări nr. 137/11.04.2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/65834",
+   "versions": [
+    {
+     "from": "2022-07-11",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/65834",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-64-2022",
+   "path": "local/iasi/popricani/2022/64",
+   "short": "HCL Popricani nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 64/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70317",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-65-2022",
+   "path": "local/iasi/popricani/2022/65",
+   "short": "HCL Popricani nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 65/2022 privind aparteneța la domeniul privat al comunei Popricani, județul Iași a unor suprafețe de teren (poz. 1250-poz.nr.1252); modificarea elementelor de indentificare pentru poziția nr. 81 din domeniul privat al comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70318",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70318",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-66-2022",
+   "path": "local/iasi/popricani/2022/66",
+   "short": "HCL Popricani nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 66/2022 privind oportunitatea și necesitatea punerii la dispoziție pentru concesionarea prin licitație publică a suprafeței de 732.847 mp, teren extravilan (categoria de folosință-pășune) ce aparține domeniului privat al comunei Popricani, județul Iași, în vederea realizării unor investiții pentru crearea de noi capacități de producție de energie regenerabilă-instalații panouri fotovoltaice",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70319",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-67-2022",
+   "path": "local/iasi/popricani/2022/67",
+   "short": "HCL Popricani nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 67/2022 privind dezmembrarea imobilului teren în suprafață de 3895 mp intravilan (conform PUG) sat Vânători, str. Regele Ferdinand, nr. cadastral/C.F.65340 (tarla 72, parcelele 1222 și 1221/7 comuna Popricani, județul Iași aparținând domeniului privat al comunei Popricani, județul Iași, în două loturi: (lot.I-2461 mp: lot.II-1434 mp;)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70320",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-68-2022",
+   "path": "local/iasi/popricani/2022/68",
+   "short": "HCL Popricani nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 68/2022 privind modificarea organigramei, a statului de funcții pentru aparatul de specalitate al Primarului comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70321",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-69-2022",
+   "path": "local/iasi/popricani/2022/69",
+   "short": "HCL Popricani nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 69/2022 privind modificarea contractului de concesiune nr.74/23.08.2021 (nr.11230/23.08.2021) încheiat între comuna Popricani, județul Iași și S.C.DOMUS OPTIC S.R.L",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70322",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-7-2022",
+   "path": "local/iasi/popricani/2022/7",
+   "short": "HCL Popricani nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 7/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62687",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-70-2022",
+   "path": "local/iasi/popricani/2022/70",
+   "short": "HCL Popricani nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 70/2022 privind dezmembrarea imobilului teren în suprafață de 299 mp intravilan conform PUG sat. Vulturi, comuna Popricani, județul Iași, CF/Nr. cad. 63425 în două loturi (lot.1-161 mp; lot.2-138 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70323",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-71-2022",
+   "path": "local/iasi/popricani/2022/71",
+   "short": "HCL Popricani nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 71/2022 privind concesionarea prin licitație publică a suprafeței de 10.000 mp teren intravilan loc. Vulturi comuna Popricani, județul Iași (Tarla 81, parcela 1428 nr. cad 64885) proprietatea privată a comunei Popricani, județul Iași pentru realizarea obiectivului de investiție-teren sport/activități sportive;-aprobarea studiului de oportunitate, a conținutului documentației de atribuire, caietul de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70324",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-72-2022",
+   "path": "local/iasi/popricani/2022/72",
+   "short": "HCL Popricani nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 72/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70325",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-73-2022",
+   "path": "local/iasi/popricani/2022/73",
+   "short": "HCL Popricani nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 73/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70326",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-74-2022",
+   "path": "local/iasi/popricani/2022/74",
+   "short": "HCL Popricani nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 74/2022 privind modificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022 și a listei de investiții",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70327",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70327",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-75-2022",
+   "path": "local/iasi/popricani/2022/75",
+   "short": "HCL Popricani nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 75/2022 privind modificarea planului de achiziții publice pe anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70328",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70328",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-76-2022",
+   "path": "local/iasi/popricani/2022/76",
+   "short": "HCL Popricani nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 76/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70329",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70329",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-77-2022",
+   "path": "local/iasi/popricani/2022/77",
+   "short": "HCL Popricani nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 77/2022 privind aprobare documentației pentru concesionarea prin licitație publică a suprafeței de 732.847 mp teren (pășune) aparținând domeniului privat al comunei Popricani, jud. Iași indentificat cadastral cu nr. 65983-228.675 mp); (nr.65986-372.728 mp); (nr.65987-100.000 mp); (66001-31.444 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70330",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70330",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-78-2022",
+   "path": "local/iasi/popricani/2022/78",
+   "short": "HCL Popricani nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 78/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70331",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70331",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-79-2022",
+   "path": "local/iasi/popricani/2022/79",
+   "short": "HCL Popricani nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 79/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70332",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70332",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-8-2022",
+   "path": "local/iasi/popricani/2022/8",
+   "short": "HCL Popricani nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 8/2022 privind bugetul de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62688",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-80-2022",
+   "path": "local/iasi/popricani/2022/80",
+   "short": "HCL Popricani nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 80/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70333",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-81-2022",
+   "path": "local/iasi/popricani/2022/81",
+   "short": "HCL Popricani nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 81/2022 privind dezmembrarea imobilului teren în suprafața de 1000 mp intravilan conform PUG sat. Popricani, comuna Popriani, jud. Iași aparținând domeniului privat al comunei Popricani, județul Iași, CF/Nr. cad. 61275 în două loturi (lot. 1-500 mp; lot.2-500 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70334",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-82-2022",
+   "path": "local/iasi/popricani/2022/82",
+   "short": "HCL Popricani nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 82/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70335",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-83-2022",
+   "path": "local/iasi/popricani/2022/83",
+   "short": "HCL Popricani nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 83/2022 privind aparteneța la domeniul privat al comunei Popricani, jud. Iași a unor suprafețe de teren (poz.1253-poz.nr.1257); modificarea elementelor de identificare pentru pozițiile nr.500, 546, 655, 656-H.C.L nr.115/23.12.2015, respectiv poziția nr.1241-H.C.L nr.60/19.05.2022 din domeniul privat al comunei Popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70336",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-84-2022",
+   "path": "local/iasi/popricani/2022/84",
+   "short": "HCL Popricani nr. 84/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 84/2022 privind trecerea unor suprafețe de teren din domeniul privat (poziția 785-nr.cadastral 66066-1718 mp), (poz.775-nr. cadastral 66073-2414 mp) al comunei Popricani, județul Iași, în domeniul public al comunei Popricani, județul Iași (poz.279-nr.cadastral 66066-1718 mp), (poz.280-nr.cadastral 66073-2414 mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70337",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-85-2022",
+   "path": "local/iasi/popricani/2022/85",
+   "short": "HCL Popricani nr. 85/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 85/2022 privind scoaterea la licitație pentru închiriere apartament în suprafață construită de 50 mp (utilă 40,8 m.p.) aparținând domeniului privat al comunei Popricani, situat în sat. Popricani, Fndc Frasinului, și aprobarea documentației de atribuire",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70338",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-86-2022",
+   "path": "local/iasi/popricani/2022/86",
+   "short": "HCL Popricani nr. 86/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 86/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/70339",
+   "versions": [
+    {
+     "from": "2022-09-01",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/70339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-87-2022",
+   "path": "local/iasi/popricani/2022/87",
+   "short": "HCL Popricani nr. 87/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 87/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71555",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-88-2022",
+   "path": "local/iasi/popricani/2022/88",
+   "short": "HCL Popricani nr. 88/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 88/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71556",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-89-2022",
+   "path": "local/iasi/popricani/2022/89",
+   "short": "HCL Popricani nr. 89/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 89/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71557",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-9-2022",
+   "path": "local/iasi/popricani/2022/9",
+   "short": "HCL Popricani nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 9/2022 privind planul de achiziții publice pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/62689",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/62689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-90-2022",
+   "path": "local/iasi/popricani/2022/90",
+   "short": "HCL Popricani nr. 90/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 90/2022 privind dezmembrarea imobilului teren în suprafață de 960 mp intravilan conf. PUG, sat. Vânători, comuna Popricani, județul Iași aparținând domeniului privat al comunei Popricani, județul Iași, CF/Nr. cad.66103 în două loturi (lot.1-nr.cadastral 66103-480 mp; lot.2 nr.cadastral 66104-480mp)",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71558",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-91-2022",
+   "path": "local/iasi/popricani/2022/91",
+   "short": "HCL Popricani nr. 91/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 91/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71559",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-92-2022",
+   "path": "local/iasi/popricani/2022/92",
+   "short": "HCL Popricani nr. 92/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 92/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71560",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-93-2022",
+   "path": "local/iasi/popricani/2022/93",
+   "short": "HCL Popricani nr. 93/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 93/2022 privind desemnarea reprezentanților Consiliului Local Popricani, județul Iași în Consiliul de Administrație și CEAC (Comisia de Evaluare și Asigurare a Calității) al Școlii Gimnaziale Popricani comuna Popricani, județul Iași, respectiv Școala Gimnazială Vânători, comuna popricani, județul Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71561",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-94-2022",
+   "path": "local/iasi/popricani/2022/94",
+   "short": "HCL Popricani nr. 94/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 94/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71562",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71562",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-95-2022",
+   "path": "local/iasi/popricani/2022/95",
+   "short": "HCL Popricani nr. 95/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 95/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71563",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-96-2022",
+   "path": "local/iasi/popricani/2022/96",
+   "short": "HCL Popricani nr. 96/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 96/2022 privind dezmembrarea imobilului teren în suprafață de 1000 mp intravilan sat. Vânători, comuna Popricani, jud. Iași aparținând domeniului privat al comunei Popricani, județul Iași, CF/Nr. cad 61782 în două loturi (lot. nr.1-nr. cadastral 66105-542mp; lot.2 nr.cadastral 66106-458mp",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71564",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71564",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-97-2022",
+   "path": "local/iasi/popricani/2022/97",
+   "short": "HCL Popricani nr. 97/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 97/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/71565",
+   "versions": [
+    {
+     "from": "2022-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/71565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-98-2022",
+   "path": "local/iasi/popricani/2022/98",
+   "short": "HCL Popricani nr. 98/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 98/2022",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77106",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77106",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-99-2022",
+   "path": "local/iasi/popricani/2022/99",
+   "short": "HCL Popricani nr. 99/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 99/2022 privind rectificarea bugetului de venituri și cheltuieli al comunei Popricani, județul Iași pentru anul 2022 și a listei de investiții",
+   "url": "https://emol.ro/popricani-is/registru-hcl/77107",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/77107",
      "sha256": null
     }
    ]

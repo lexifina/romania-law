@@ -3,6 +3,291 @@
  "shard": "local/iasi/scanteia/2023",
  "acts": [
   {
+   "slug": "hcl-iasi--scanteia-1-2023",
+   "path": "local/iasi/scanteia/2023/1",
+   "short": "HCL Scânteia nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 1/2023 privind aprobarea Planului de Ordine şi Siguranţă Publică al Poliției locale Scânteia, judeţul Iaşi, pentru anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87570",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-10-2023",
+   "path": "local/iasi/scanteia/2023/10",
+   "short": "HCL Scânteia nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 10/2023 privind aprobarea modificării structurii organizatorice a organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Scânteia, județul Iași şi a unor servicii de interes public local în anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91340",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-11-2023",
+   "path": "local/iasi/scanteia/2023/11",
+   "short": "HCL Scânteia nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 11/2023 privind aprobarea coeficienților pentru stabilirea salariului de bază pentru postul contractual de execuție de Șef SVSU din cadrul aparatului de specialitate al primarului comunei Scânteia, județul Iași, Serviciul Voluntar pentru Situații de Urgență, începând cu 1 Martie 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91341",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-12-2023",
+   "path": "local/iasi/scanteia/2023/12",
+   "short": "HCL Scânteia nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 12/2023 privind aprobarea încheierii Protocolului de colaborare interinstituțională între Ministerul Muncii și Solidarității Sociale și UAT Comuna Scânteia, județul Iași, în cadrul proiectului ”HUB de servicii MMSS-SII MMSS”, Cod MySmis 130963",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91342",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-13-2023",
+   "path": "local/iasi/scanteia/2023/13",
+   "short": "HCL Scânteia nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 13/2023 privind aprobarea planurilor de asigurare cu resurselor umane, materiale și financiare necesare gestionării situațiilor de urgență pentru anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91343",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-14-2023",
+   "path": "local/iasi/scanteia/2023/14",
+   "short": "HCL Scânteia nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 14/2023 privind aprobarea inventarierii anuale a patrimoniului comunei Scânteia, județul Iași pentru anul 2022",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91344",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91344",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-15-2023",
+   "path": "local/iasi/scanteia/2023/15",
+   "short": "HCL Scânteia nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 15/2023 privind aprobarea depunerii cererii de finanțare și încheierii Acordului de cooperare interinstituțională între Consiliul Județean Iași și UAT Comuna Scânteia, județul Iași, în vederea finanțării și realizării în comun a proiectului ”Maraton cultural: 600 de ani de atestare documentară a comunei Scânteia (31 martie 1423 - 31 martie 2023)”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91345",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91345",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-16-2023",
+   "path": "local/iasi/scanteia/2023/16",
+   "short": "HCL Scânteia nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 16/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91346",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-17-2023",
+   "path": "local/iasi/scanteia/2023/17",
+   "short": "HCL Scânteia nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 17/2023 privind schimbarea titularului contractului de concesionare nr. 1.088/19.03.2008 cu privire la terenul în suprafață de 1.018 mp măsurată (1.000 mp din acte), având număr cadastral al bunului imobil 60639, întabulat în cartea funciară nr. 60639 a localității Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/91347",
+   "versions": [
+    {
+     "from": "2023-03-02",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/91347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-18-2023",
+   "path": "local/iasi/scanteia/2023/18",
+   "short": "HCL Scânteia nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 18/2023 privind aprobarea programului de măsuri pentru gospodărirea comunei Scânteia, judeţul Iaşi, începând cu anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97686",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97686",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-19-2023",
+   "path": "local/iasi/scanteia/2023/19",
+   "short": "HCL Scânteia nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 19/2023 privind alegerea preşedintelui de şedinţe ale consiliului local al comunei Scânteia, judetul Iasi, din trimestrul II anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97687",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-2-2023",
+   "path": "local/iasi/scanteia/2023/2",
+   "short": "HCL Scânteia nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 2/2023 privind aprobarea Planului de Pază al comunei Scânteia, judetul Iasi, pentru anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87571",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-20-2023",
+   "path": "local/iasi/scanteia/2023/20",
+   "short": "HCL Scânteia nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 20/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97688",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97688",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-21-2023",
+   "path": "local/iasi/scanteia/2023/21",
+   "short": "HCL Scânteia nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 21/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97689",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-22-2023",
+   "path": "local/iasi/scanteia/2023/22",
+   "short": "HCL Scânteia nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 22/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97690",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97690",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-23-2023",
+   "path": "local/iasi/scanteia/2023/23",
+   "short": "HCL Scânteia nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 23/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97691",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-24-2023",
+   "path": "local/iasi/scanteia/2023/24",
+   "short": "HCL Scânteia nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 24/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97692",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-25-2023",
+   "path": "local/iasi/scanteia/2023/25",
+   "short": "HCL Scânteia nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 25/2023 privind validarea Dispoziției primarului comunei Scânteia, județul Iași nr. 54 din 23 martie 2023 privind modificarea bugetului local al comunei Scânteia, județul Iași în anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/97693",
+   "versions": [
+    {
+     "from": "2023-04-06",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/97693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-26-2023",
+   "path": "local/iasi/scanteia/2023/26",
+   "short": "HCL Scânteia nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 26/2023 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Grădiniței cu program normal Scânteia, din localitatea Scânteia, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/99360",
+   "versions": [
+    {
+     "from": "2023-04-18",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/99360",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scanteia-27-2023",
    "path": "local/iasi/scanteia/2023/27",
    "short": "HCL Scânteia nr. 27/2023",
@@ -18,6 +303,141 @@
    ]
   },
   {
+   "slug": "hcl-iasi--scanteia-28-2023",
+   "path": "local/iasi/scanteia/2023/28",
+   "short": "HCL Scânteia nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 28/2023 privind aprobarea menținerii comunei Scânteia, județul Iași la parteneriatul tip DLRC/LEADER a Asociației Grupul de Acțiune Locală „Colinele Iașilor”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101007",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-29-2023",
+   "path": "local/iasi/scanteia/2023/29",
+   "short": "HCL Scânteia nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 29/2023 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009 - consolidat 2021, prin Actul Adițional nr. 3",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101008",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-3-2023",
+   "path": "local/iasi/scanteia/2023/3",
+   "short": "HCL Scânteia nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 3/2023 privind aprobarea Actului Adiţional nr. 1 la Actul Constitutiv și aprobarea Actului Adiţional nr. 1 la Statutul Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS, revizuite 2021",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87572",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87572",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-30-2023",
+   "path": "local/iasi/scanteia/2023/30",
+   "short": "HCL Scânteia nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 30/2023 privind aprobarea Strategia de Dezvoltare a serviciilor publice de alimentare cu apă și de canalizare la nivelul ariei delegării, pentru perioada 2023-2028",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101009",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101009",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-31-2023",
+   "path": "local/iasi/scanteia/2023/31",
+   "short": "HCL Scânteia nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 31/2023 privind aprobarea Regulamentrului pentru achiziția de imobile, construcții și/sau terenuri de către UAT Comuna Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101010",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-32-2023",
+   "path": "local/iasi/scanteia/2023/32",
+   "short": "HCL Scânteia nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 32/2023 privind aprobarea realizării obiectivului de investiții – Proiect „Înființare piață agroalimentară în Comuna Scânteia, județul Iași” și a cofinanțării Proiectului prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2021-2024",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101011",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101011",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-33-2023",
+   "path": "local/iasi/scanteia/2023/33",
+   "short": "HCL Scânteia nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 33/2023 privind aprobarea demarării procedurii de cumpărare a unui teren intravilan în suprafață de 2.186 mp, înscris în Cartea Funciară nr. 62843 a comunei Scânteia, județul Iași, situat în intravilanul satului Scânteia, comuna Scânteia, județul Iași, în vederea construirii unui nou sediu de primărie și amenajarea unei parcări moderne",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/101012",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/101012",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-34-2023",
+   "path": "local/iasi/scanteia/2023/34",
+   "short": "HCL Scânteia nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 34/2023 privind aprobarea execuției bugetelor întocmite pe cele două secțiuni pe trimestrul I anul 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/102179",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/102179",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-35-2023",
+   "path": "local/iasi/scanteia/2023/35",
+   "short": "HCL Scânteia nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 35/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/102180",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/102180",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--scanteia-36-2023",
    "path": "local/iasi/scanteia/2023/36",
    "short": "HCL Scânteia nr. 36/2023",
@@ -28,6 +448,456 @@
      "from": "2023-06-07",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-is/registru-hcl/105764",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-37-2023",
+   "path": "local/iasi/scanteia/2023/37",
+   "short": "HCL Scânteia nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 37/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105765",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-38-2023",
+   "path": "local/iasi/scanteia/2023/38",
+   "short": "HCL Scânteia nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 38/2023 privind aprobarea transferului sumei de 315 mii lei prevăzută în bugetul local al comunei Scânteia, județul Iași pe anul 2023 la capitolul ”Cultură, recrere, religie”, unor unități de cult din comuna Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105766",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-39-2023",
+   "path": "local/iasi/scanteia/2023/39",
+   "short": "HCL Scânteia nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 39/2023 privind aprobarea coeficienților pentru stabilirea salariile de bază pentru funcțiile publice locale, precum şi pentru personalul contractual din cadrul aparatului de specialitate al primarului comunei Scânteia, județul Iași și din serviciile publice din subordinea Consiliului local al comunei Scânteia, județul Iași, aplicabili începând cu 01 Iunie 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105767",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105767",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-4-2023",
+   "path": "local/iasi/scanteia/2023/4",
+   "short": "HCL Scânteia nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 4/2023 privind punerea la dispoziția proiectului „Proiectul Regional de Dezvoltare a Infrastructurii de apă și apă uzată din județul Iași, în perioada 2014 – 2020” a terenului pentru constructia/extinderea/reabilitarea noilor investiții aferente acestuia",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87573",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87573",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-40-2023",
+   "path": "local/iasi/scanteia/2023/40",
+   "short": "HCL Scânteia nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 40/2023 privind aprobarea indicatorilor tehnico economici actualizați și finanțarea lucrărilor suplimentare, apărute în faza de execuție față de proiectul tehnic la obiectivul de investiție \" Reabilitarea, modernizarea, extinderea și dotarea Școlii Gimnaziale ‘’Axinte Uricariul’’, corp A și corp B, din localitatea Scânteia, comuna Scânteia, județul Iași \"",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105768",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-41-2023",
+   "path": "local/iasi/scanteia/2023/41",
+   "short": "HCL Scânteia nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 41/2023 privind aprobarea cumpărarii terenului intravilan în suprafață de 2.186 mp, înscris în Cartea Funciară nr. 62843 a comunei Scânteia, județul Iași, situat în intravilanul satului Scânteia, comuna Scânteia, județul Iași, în vederea construirii unui nou sediu de primărie și amenajarea unei parcări moderne",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105769",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-42-2023",
+   "path": "local/iasi/scanteia/2023/42",
+   "short": "HCL Scânteia nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 42/2023 privind aprobarea organizării protecției civile la nivelul unității administrativ teritoriale comuna Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105770",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105770",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-43-2023",
+   "path": "local/iasi/scanteia/2023/43",
+   "short": "HCL Scânteia nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 43/2023 privind aprobarea inlcuderii teritoriului comunei Scânteia, județul Iași la parteneriatul LEADER „Colinele Iașilor” înființat la nivelul Asociației Grupul de Acțiune Locală „Colinele Iașilor”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105771",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105771",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-44-2023",
+   "path": "local/iasi/scanteia/2023/44",
+   "short": "HCL Scânteia nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 44/2023 privind alegerea preşedintelui şedinţei ordinare a Consiliului local al comunei Scânteia, judetul Iasi, din ziua de joi 25 Mai 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/105772",
+   "versions": [
+    {
+     "from": "2023-06-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/105772",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-45-2023",
+   "path": "local/iasi/scanteia/2023/45",
+   "short": "HCL Scânteia nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 45/2023 privind aprobarea documentației tehnico-economică pentru obiectivul de investiție „Construire și dotare dispensar uman în localitatea Scânteia, comuna Scânteia, județul Iași\"",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/110065",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/110065",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-46-2023",
+   "path": "local/iasi/scanteia/2023/46",
+   "short": "HCL Scânteia nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 46/2023 privind alegerea preşedintelui de şedinţe ale consiliului local al comunei Scânteia, judetul Iasi, din trimestrul III al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/110066",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/110066",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-47-2023",
+   "path": "local/iasi/scanteia/2023/47",
+   "short": "HCL Scânteia nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 47/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Modernizare drumuri de interes local în comuna Scânteia, județul Iași” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/110067",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/110067",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-48-2023",
+   "path": "local/iasi/scanteia/2023/48",
+   "short": "HCL Scânteia nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 48/2023 privind aprobarea Actului Adițional pentru modificarea, completarea și actualizarea Statutului Asociaţiei Regionale a Serviciilor de Apă Canal Iaşi – ARSACIS",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/110068",
+   "versions": [
+    {
+     "from": "2023-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/110068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-49-2023",
+   "path": "local/iasi/scanteia/2023/49",
+   "short": "HCL Scânteia nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 49/2023 privind validarea Dispoziției primarului comunei Scânteia, județul Iași nr. 204 din 27 iunie 2023 privind modificarea bugetului local al comunei Scânteia, județul Iași în trimestrul II al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114515",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-5-2023",
+   "path": "local/iasi/scanteia/2023/5",
+   "short": "HCL Scânteia nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 5/2023 privind acordul pentru realizarea investiției din cadrul proiectului „Proiectul Regional de Dezvoltare a Infrastructurii de apă și apă uzată din județul Iași, în perioada 2014 – 2020” pe domeniul public al comunei Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87574",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-50-2023",
+   "path": "local/iasi/scanteia/2023/50",
+   "short": "HCL Scânteia nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 50/2023 privind aprobarea modificării bugetului local al comunei Scânteia, județul Iași în trimestrul III al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114516",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-51-2023",
+   "path": "local/iasi/scanteia/2023/51",
+   "short": "HCL Scânteia nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 51/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114517",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114517",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-52-2023",
+   "path": "local/iasi/scanteia/2023/52",
+   "short": "HCL Scânteia nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 52/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici actualizați și a devizului general actualizat pentru obiectivul de investiții „Extindere sistem de alimentare cu apă și de canalizare în comuna Scânteia, județul Iași” aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114518",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114518",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-53-2023",
+   "path": "local/iasi/scanteia/2023/53",
+   "short": "HCL Scânteia nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 53/2023 privind aprobarea execuției bugetelor întocmite pe cele două secțiuni pe trimestrul II al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114519",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-54-2023",
+   "path": "local/iasi/scanteia/2023/54",
+   "short": "HCL Scânteia nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 54/2023 privind schimbarea reprezentantului legal pentru reprezentarea în numele și pentru comuna Scânteia, județul Iași în relația cu AFIR Iași pentru proiectul “Achiziția de dotări și echipamente corporale și necorporale pentru Căminul cultural din satul Borosești, comuna Scânteia, județul Iași“",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/114520",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/114520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-55-2023",
+   "path": "local/iasi/scanteia/2023/55",
+   "short": "HCL Scânteia nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 55/2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118285",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-56-2023",
+   "path": "local/iasi/scanteia/2023/56",
+   "short": "HCL Scânteia nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 56/2023 privind neasumarea responsabilității organizarii și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul comunei Scânteia, județul Iași, aferente Programului pentru școli al România în perioada 2023-2029",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118286",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-57-2023",
+   "path": "local/iasi/scanteia/2023/57",
+   "short": "HCL Scânteia nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 57/2023 privind aprobarea modificării bugetului local al comunei Scânteia, județul Iași în trimestrul III al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118287",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-58-2023",
+   "path": "local/iasi/scanteia/2023/58",
+   "short": "HCL Scânteia nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 58/2023 privind desemnarea reprezentanţilor consiliului local al comunei Scânteia, județul Iași în consililiul de administraţie al școlii gimnaziale cu personalitate juridică “Axinte Uricariul” Scânteia, județul Iași în anul școlar 2023 - 2024",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118288",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-59-2023",
+   "path": "local/iasi/scanteia/2023/59",
+   "short": "HCL Scânteia nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 59/2023 privind aprobarea modificării structurii organizatorice a organigramei şi statului de funcţii ale aparatului de specialitate al primarului comunei Scânteia, județul Iași şi a unor servicii de interes public local începând cu data de 31 august 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118289",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-6-2023",
+   "path": "local/iasi/scanteia/2023/6",
+   "short": "HCL Scânteia nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 6/2023 privind aprobarea contului de încheiere a exercițiului bugetar pe anul 2022",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87575",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-60-2023",
+   "path": "local/iasi/scanteia/2023/60",
+   "short": "HCL Scânteia nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 60/2023 privind aprobarea Contractului de Finanțare în vederea realizării obiectivului de investiții „Înființare piață agroalimentară în Comuna Scânteia, județul Iași” prin Programul Județean de Dezvoltare Economico-Socială Iași pentru perioada 2021-2024",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/118290",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/118290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-61-2023",
+   "path": "local/iasi/scanteia/2023/61",
+   "short": "HCL Scânteia nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 61/2023 privind alegerea preşedintelui de şedinţe ale consiliului local al comunei Scânteia, judetul Iasi, din trimestrul IV al anului 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/122844",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/122844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-62-2023",
+   "path": "local/iasi/scanteia/2023/62",
+   "short": "HCL Scânteia nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 62/2023 privind includerea în inventarul bunurilor care aparțin domeniului public al comunei Scânteia, județul Iași, a suprafeţei de teren 2.186 mp intravilan satul Scânteia, comuna Scânteia, județul Iași",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/122845",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/122845",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-63-2023",
+   "path": "local/iasi/scanteia/2023/63",
+   "short": "HCL Scânteia nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 63/2023 privind aprobarea coeficienților pentru stabilirea salariilor de bază pentru posturile contractuale de execuție nou înființate din cadrul aparatului de specialitate al primarului comunei Scânteia, județul Iași, aplicabili începând cu 28 Septembrie 2023",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/122846",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/122846",
      "sha256": null
     }
    ]
@@ -118,6 +988,21 @@
      "from": "2023-11-03",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-is/registru-hcl/126057",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-7-2023",
+   "path": "local/iasi/scanteia/2023/7",
+   "short": "HCL Scânteia nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 7/2023 privind aprobarea Devizului General actualizat pentru obiectivul de investiții “Reabilitarea, modernizarea, extinderea și dotarea Grădiniței cu program normal Scânteia, din localitatea Scânteia, comuna Scânteia, judetul Iași”",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87576",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87576",
      "sha256": null
     }
    ]
@@ -268,6 +1153,21 @@
      "from": "2024-01-04",
      "units": 1,
      "source_url": "https://emol.ro/scanteia-is/registru-hcl/135210",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--scanteia-8-2023",
+   "path": "local/iasi/scanteia/2023/8",
+   "short": "HCL Scânteia nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Scânteia nr. 8/2023 privind aprobarea bugetului local al comunei Scânteia, judeţul Iaşi pe anul 2023 şi a estimărilor pentru anii 2024-2026",
+   "url": "https://emol.ro/scanteia-is/registru-hcl/87577",
+   "versions": [
+    {
+     "from": "2023-02-07",
+     "units": 1,
+     "source_url": "https://emol.ro/scanteia-is/registru-hcl/87577",
      "sha256": null
     }
    ]

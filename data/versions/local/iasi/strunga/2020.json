@@ -3,6 +3,51 @@
  "shard": "local/iasi/strunga/2020",
  "acts": [
   {
+   "slug": "hcl-iasi--strunga-1-2020",
+   "path": "local/iasi/strunga/2020/1",
+   "short": "HCL Strunga nr. 1/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 1/2020 privind alegerea președintelui de ședință pentru perioada ianuarie 2020-martie 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8420",
+   "versions": [
+    {
+     "from": "2020-01-08",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-10-2020",
+   "path": "local/iasi/strunga/2020/10",
+   "short": "HCL Strunga nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2020 privind aprobarea modificării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8436",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8436",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-11-2020",
+   "path": "local/iasi/strunga/2020/11",
+   "short": "HCL Strunga nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2020 privind aprobarea modificării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8437",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8437",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-12-2020",
    "path": "local/iasi/strunga/2020/12",
    "short": "HCL Strunga nr. 12/2020",
@@ -13,6 +58,36 @@
      "from": "2020-02-20",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/8438",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-13-2020",
+   "path": "local/iasi/strunga/2020/13",
+   "short": "HCL Strunga nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 13/2020 privind aprobarea solicitării de prelungire a scrisorii de garanție din partea Fondului de garantare și aprobarea comisionului de garantare în vederea implementării proiectului de investiții - Modernizare drumuri în comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8439",
+   "versions": [
+    {
+     "from": "2020-02-20",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8439",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-14-2020",
+   "path": "local/iasi/strunga/2020/14",
+   "short": "HCL Strunga nr. 14/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 14/2020 privind aprobarea majorării valorii neeligibile a proiectului de investiții - Modernizare și reabilitare parc în comuna Strunga, județul Iași - conform Devizului general actualizat",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8440",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8440",
      "sha256": null
     }
    ]
@@ -33,6 +108,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-16-2020",
+   "path": "local/iasi/strunga/2020/16",
+   "short": "HCL Strunga nr. 16/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 16/2020 privind alegerea președintelui de ședință pentru perioada aprilie 2020 - iunie 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8442",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8442",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-17-2020",
+   "path": "local/iasi/strunga/2020/17",
+   "short": "HCL Strunga nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 17/2020 privind aprobarea indicatorilor tehnico- economici ai obiectivului de investiție - Modernizarea drumuri în satele Fedeleșeni, Brătulești și Fărcășeni, comuna strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8443",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8443",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-18-2020",
+   "path": "local/iasi/strunga/2020/18",
+   "short": "HCL Strunga nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 18/2020 privind aprobarea actualizării/modificării și completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 36",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8444",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-19-2020",
+   "path": "local/iasi/strunga/2020/19",
+   "short": "HCL Strunga nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 19/2020 privind modificarea Hotărârii nr. 48/29.11.2018 a Consiliului local al comunei Strunga, județul Iași, privind stabilirea indemnizațiilor personalului angajat și voluntar, pentru timpul efectiv de lucru prestat la intervenții și la celelalte activități prevăzute în programul Serviciului Voluntar pentru Situații de Urgență al comunei Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8454",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8454",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-2-2020",
    "path": "local/iasi/strunga/2020/2",
    "short": "HCL Strunga nr. 2/2020",
@@ -43,6 +178,21 @@
      "from": "2020-01-08",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/8421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-20-2020",
+   "path": "local/iasi/strunga/2020/20",
+   "short": "HCL Strunga nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 20/2020 privind alocarea din bugetul propriu al Consiliului local al comunei Strunga, județul Iași, pe anul 2020, a unui sprijin financiar unor parohii din comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8455",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8455",
      "sha256": null
     }
    ]
@@ -63,6 +213,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-22-2020",
+   "path": "local/iasi/strunga/2020/22",
+   "short": "HCL Strunga nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2020 privind asigurarea suportului IT în vederea organizării și dezvoltării Sistemului de control intern managerial prin intermediul platformei ''Soluția e-SCIM, www.e-scim.ro",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8457",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8457",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-23-2020",
+   "path": "local/iasi/strunga/2020/23",
+   "short": "HCL Strunga nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 23/2020 privind acordarea mandatului special reprezentantului UAT în AGA ADIS Iași în vederea aprobării modificării tarifului de colectare și transport a deșeurilor menajere și similare, altele decât reciclabile, în cadrul Proiectului ''Sistem de Management Integrat al Deșeurilor din județul Iași'' și împuternicirea Președintelui ADIS Iași să semneze Actul Adițional nr. 3 la Contractul de delegare a gestiunii serviciului de colectare și transport a deșeurilor municipale în județul Iași nr. 357/30.10.2018",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8458",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8458",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-24-2020",
    "path": "local/iasi/strunga/2020/24",
    "short": "HCL Strunga nr. 24/2020",
@@ -73,6 +253,21 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/8459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-25-2020",
+   "path": "local/iasi/strunga/2020/25",
+   "short": "HCL Strunga nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 25/2020 privind aprobarea modificării Contractului de delegare nr. 48/2009 prin Actul Adițional nr. 37, act ce cuprinde modificarea prețului pentru apa potabilă produsă, transportată și distribuită, a prețului pentru apa industrială, a tarifului pentru canalizare și a tarifului pentru epurare, pentru întreaga arie de operare",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8460",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8460",
      "sha256": null
     }
    ]
@@ -103,6 +298,21 @@
      "from": "2020-05-29",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/8462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-28-2020",
+   "path": "local/iasi/strunga/2020/28",
+   "short": "HCL Strunga nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 28/2020 privind aprobarea delegării gestiunii Serviciului de iluminat public din comuna Strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8463",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8463",
      "sha256": null
     }
    ]
@@ -153,6 +363,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-31-2020",
+   "path": "local/iasi/strunga/2020/31",
+   "short": "HCL Strunga nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 31/2020 privind alegerea președintelui de ședință pentru perioada iulie 2020 - septembrie 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8478",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8478",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-32-2020",
    "path": "local/iasi/strunga/2020/32",
    "short": "HCL Strunga nr. 32/2020",
@@ -193,6 +418,21 @@
      "from": "2020-07-31",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/8481",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-35-2020",
+   "path": "local/iasi/strunga/2020/35",
+   "short": "HCL Strunga nr. 35/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 35/2020 privind aprobarea completării Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr. 48/2009, prin Actul Adițional nr. 39",
+   "url": "https://emol.ro/strunga-is/registru-hcl/8482",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/8482",
      "sha256": null
     }
    ]
@@ -273,6 +513,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--strunga-40-2020",
+   "path": "local/iasi/strunga/2020/40",
+   "short": "HCL Strunga nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 40/2020 privind desemnarea reprezentantului Consiliului local al comunei Strunga, județul Iași, în Consiliul de Administrație al Școlii Gimnaziale Strunga, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23420",
+   "versions": [
+    {
+     "from": "2020-08-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-41-2020",
+   "path": "local/iasi/strunga/2020/41",
+   "short": "HCL Strunga nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 41/2020 privind alegerea președintelui de ședință pentru perioada octombrie 2020 - decembrie 2020",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23508",
+   "versions": [
+    {
+     "from": "2020-10-19",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23508",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--strunga-42-2020",
    "path": "local/iasi/strunga/2020/42",
    "short": "HCL Strunga nr. 42/2020",
@@ -283,6 +553,21 @@
      "from": "2020-10-19",
      "units": 1,
      "source_url": "https://emol.ro/strunga-is/registru-hcl/23509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--strunga-43-2020",
+   "path": "local/iasi/strunga/2020/43",
+   "short": "HCL Strunga nr. 43/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Strunga nr. 43/2020 privind alegerea viceprimarului comunei strunga, județul Iași",
+   "url": "https://emol.ro/strunga-is/registru-hcl/23510",
+   "versions": [
+    {
+     "from": "2020-10-26",
+     "units": 1,
+     "source_url": "https://emol.ro/strunga-is/registru-hcl/23510",
      "sha256": null
     }
    ]

@@ -3,6 +3,205 @@
 "shard": "local/iasi/prisacani/2023",
 "acts": [
 {
+"slug": "hcl-iasi--prisacani-1-2023",
+"path": "local/iasi/prisacani/2023/1",
+"kind": "local",
+"year": "2023",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 1/2023 privind aprobarea Bugetului Local Inițial de Venituri și Cheltuieli pe anul 2023 și a Listei Obiectivelor de Investiții pe anul 2023 și a Estimărilor pe anii 2024-2026",
+"short": "HCL Prisăcani nr. 1/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/100999",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-2-2023",
+"path": "local/iasi/prisacani/2023/2",
+"kind": "local",
+"year": "2023",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 2/2023 privind aprobarea Anexei Programului Anual al Achizițiilor Publice-Achiziții directe pentru anul 2023, al Comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 2/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101000",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-3-2023",
+"path": "local/iasi/prisacani/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 3/2023 privind punerea la dispoziția operatorului regional APAVITAL SA A terenului de 1470 mp nr. cadastral 61905, propus ca amplasament pentru gospodărire de apa aferentă proiectului „ Interconectarea conductei de aducțiune din satul Moreni la sistemul de alimentare cu apa a satului Macaresti, din com. Prisăcani, inclusiv realizarea unei gospodării de apa în satul Moreni, etapa I” în vederea operării, administrării și exploatării, în baza Contractului de delegare a gestiunii serviciilor publice de alimentare cu apa și de canalizare nr. 48/2009 consolidat 2021",
+"short": "HCL Prisăcani nr. 3/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101001",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-4-2023",
+"path": "local/iasi/prisacani/2023/4",
+"kind": "local",
+"year": "2023",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 4/2023 privind aprobarea planului de acțiuni și lucrări de interes local pe anul 2023, a listei cuprizând beneficiarii de ajutor social precum și persoanele care urmează să efectueze acțiuni și lucrări de interes local conform Legii nr. 416/2001",
+"short": "HCL Prisăcani nr. 4/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101002",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-5-2023",
+"path": "local/iasi/prisacani/2023/5",
+"kind": "local",
+"year": "2023",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 5/2023 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru perioada februarie 2023-aprilie 2023",
+"short": "HCL Prisăcani nr. 5/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101003",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-6-2023",
+"path": "local/iasi/prisacani/2023/6",
+"kind": "local",
+"year": "2023",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 6/2023 privind alegerea președintelui de ședință al Consiliului Local Prisăcani pentru perioada februarie 2023-aprilie 2023",
+"short": "HCL Prisăcani nr. 6/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101032",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-7-2023",
+"path": "local/iasi/prisacani/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 7/2023",
+"short": "HCL Prisăcani nr. 7/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101033",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-8-2023",
+"path": "local/iasi/prisacani/2023/8",
+"kind": "local",
+"year": "2023",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 8/2023 privind actualizarea Anexei Programului Anual al Achizițiilor Publice-Achiziții directe pentru anul 2023, al Comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 8/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101034",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-9-2023",
+"path": "local/iasi/prisacani/2023/9",
+"kind": "local",
+"year": "2023",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 9/2023 privind aprobarea împuternicirii UAT Județul Iași-Consiliul Județean Iași în vederea depunerii și implementării, pentru UAT COMUNA PRISĂCANI-Consiliul Local al Comunei Prisăcani, județul Iași a aplicației de finanțare pentru apelul de proiecte „Dotarea cu mobilier, materiale didactice și echipamente digitale a unităților de învățământ preuniversitar și a unităților conexe”, finanțat prin Programul Național de Redresare și Reziliență-Componenta C15 Educație",
+"short": "HCL Prisăcani nr. 9/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101035",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-10-2023",
 "path": "local/iasi/prisacani/2023/10",
 "kind": "local",
@@ -25,6 +224,50 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-11-2023",
+"path": "local/iasi/prisacani/2023/11",
+"kind": "local",
+"year": "2023",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 11/2023 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru ședința din data de 23.03.2023",
+"short": "HCL Prisăcani nr. 11/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101052",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-12-2023",
+"path": "local/iasi/prisacani/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 12/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Construire anexă gospodărească și garaj pentru mașini pompieri” sat Prisăcani, comuna Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101053",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-13-2023",
 "path": "local/iasi/prisacani/2023/13",
 "kind": "local",
@@ -44,6 +287,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-14-2023",
+"path": "local/iasi/prisacani/2023/14",
+"kind": "local",
+"year": "2023",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 14/2023 privind actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Modernizare camera tehnică Școala Gimnazială Prisăcani, com Prisăcani, jud. Iași”",
+"short": "HCL Prisăcani nr. 14/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/101055",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -291,6 +556,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-26-2023",
+"path": "local/iasi/prisacani/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 26/2023 privind modificarea și completarea Contractului de delegare a gestiunii sericiilor publice de alimentare cu apă și de canalizare nr. 48/2009- consolidat 2021, prin Actul Adițional nr.3",
+"short": "HCL Prisăcani nr. 26/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115860",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-27-2023",
 "path": "local/iasi/prisacani/2023/27",
 "kind": "local",
@@ -357,6 +644,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-30-2023",
+"path": "local/iasi/prisacani/2023/30",
+"kind": "local",
+"year": "2023",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 30/2023 privind acordarea unui ajutor de urgență în suma de 10000 lei din BVC Comuna Priscani pentru familia RUPANU Vasile-Petru și Elena-Irina din Sat Prisăcani, com Prisăcani",
+"short": "HCL Prisăcani nr. 30/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115864",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-31-2023",
 "path": "local/iasi/prisacani/2023/31",
 "kind": "local",
@@ -376,6 +685,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-32-2023",
+"path": "local/iasi/prisacani/2023/32",
+"kind": "local",
+"year": "2023",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 32/2023 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru perioada mai 2023-iulie 2023",
+"short": "HCL Prisăcani nr. 32/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115866",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -512,6 +843,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-39-2023",
+"path": "local/iasi/prisacani/2023/39",
+"kind": "local",
+"year": "2023",
+"number": "39",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 39/2023 privind alegerea președintelui de ședință a Consiliului Local Prisăcani pentru ședința din data de 9.06.2023",
+"short": "HCL Prisăcani nr. 39/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115885",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-40-2023",
 "path": "local/iasi/prisacani/2023/40",
 "kind": "local",
@@ -531,6 +884,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-41-2023",
+"path": "local/iasi/prisacani/2023/41",
+"kind": "local",
+"year": "2023",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 41/2023 privind actualizarea anexei 3 pentru anul 2023 pentru obiectivul de investiții \" Modernizare drumuri comunale și vicinale din Comuna Prisăcani, județul Iași în lungime de 2105 ml\"",
+"short": "HCL Prisăcani nr. 41/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115887",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -685,6 +1060,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-49-2023",
+"path": "local/iasi/prisacani/2023/49",
+"kind": "local",
+"year": "2023",
+"number": "49",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 49/2023 privind aprobarea studiului de oportunitate, caietul de sarcini, documentației de atribuire, raportului de evaluare, redevența și comisia de evaluare a ofertelor pentru licitația privind concesionarea a 13 loturi teren intravilan număr cadastral 61592=656mp, 61593=655, 61594=655, 61595=512, 61596=512, 61597=512, 61598=512, 61599=512mp, 61600=512mp, 61601=512mp, 61602=512mp, 61603=512mp, 61604=512mp, aparținând domeniului privat al UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 49/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-09",
+"latest": "2023-08-09",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/115901",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -996,6 +1393,51 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-64-2023",
+"path": "local/iasi/prisacani/2023/64",
+"kind": "local",
+"year": "2023",
+"number": "64",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 64/2023",
+"short": "HCL Prisăcani nr. 64/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/136871",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-65-2023",
+"path": "local/iasi/prisacani/2023/65",
+"kind": "local",
+"year": "2023",
+"number": "65",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 65/2023 privind aprobarea caietului de sarcini, a studiului de oportunitate, documentației de atribuire, raportul de evaluare, redevență și comisia de evaluare a ofertelor pentru licitația privind închirierea de spații cu destinație cabinete medicale aflate la parterul unei clădiri administrativ social-culturale-vestiar, situate în sat Prisăcani aparținând domeniului public al UAT Comuna Prisăcani",
+"short": "HCL Prisăcani nr. 65/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/136872",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-66-2023",
 "path": "local/iasi/prisacani/2023/66",
 "kind": "local",
@@ -1216,6 +1658,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-76-2023",
+"path": "local/iasi/prisacani/2023/76",
+"kind": "local",
+"year": "2023",
+"number": "76",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 76/2023 privind desemnarea a doi reprezentanți din partea Consiliului Local Prisăcani pentru funcția de membru în Consiliul de Administrație și 1 ( unul ) pentru funcția de membru în Comisia pentru evaluarea și asigurarea calității a Școlii Gimnaziale Prisăcani, județul Iași pentru anul școlar 2023-2024",
+"short": "HCL Prisăcani nr. 76/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/136889",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-77-2023",
 "path": "local/iasi/prisacani/2023/77",
 "kind": "local",
@@ -1393,6 +1857,28 @@
 }
 },
 {
+"slug": "hcl-iasi--prisacani-85-2023",
+"path": "local/iasi/prisacani/2023/85",
+"kind": "local",
+"year": "2023",
+"number": "85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 85/2023 privind alegerea președintelui de ședință al Consiliului Local Prisăcani pentru perioada noiembrie 2023 - ianuarie 2024",
+"short": "HCL Prisăcani nr. 85/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144012",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--prisacani-86-2023",
 "path": "local/iasi/prisacani/2023/86",
 "kind": "local",
@@ -1434,6 +1920,28 @@
 "council_name": "Consiliul Local al Comunei Prisăcani",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--prisacani-88-2023",
+"path": "local/iasi/prisacani/2023/88",
+"kind": "local",
+"year": "2023",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Prisăcani nr. 88/2023 privind actualizarea Anexei Programului Anual al Achizițiilor Publice - Achiziții directe pentru anul 2023, al comunei Prisăcani, județul Iași",
+"short": "HCL Prisăcani nr. 88/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-27",
+"latest": "2024-02-27",
+"portal": "https://emol.ro/prisacani-is/registru-hcl/144015",
+"council": "iasi/prisacani",
+"council_name": "Consiliul Local al Comunei Prisăcani",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

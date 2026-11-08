@@ -92,6 +92,28 @@
 }
 },
 {
+"slug": "hcl-iasi--scobinti-5-2022",
+"path": "local/iasi/scobinti/2022/5",
+"kind": "local",
+"year": "2022",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 5/2022 privind aprobarea închirierii suprafeței de 20mp teren din domeniul public al comunei Scobinți, în vederea desfășurării unei activități comerciale",
+"short": "HCL Scobinți nr. 5/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-23",
+"latest": "2022-06-23",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/64174",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scobinti-6-2022",
 "path": "local/iasi/scobinti/2022/6",
 "kind": "local",
@@ -180,6 +202,50 @@
 }
 },
 {
+"slug": "hcl-iasi--scobinti-10-2022",
+"path": "local/iasi/scobinti/2022/10",
+"kind": "local",
+"year": "2022",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 10/2022 privind aprobarea închiriere spațiu 11,3 mp - cam 3, etaj sediu primăriei, documentație atribuire și raport evaluare",
+"short": "HCL Scobinți nr. 10/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/64287",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--scobinti-11-2022",
+"path": "local/iasi/scobinti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 11/2022 privind desemnarea unui reprezentant al Consiliului Local Scobinți în comisia de concurs pentru școli",
+"short": "HCL Scobinți nr. 11/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/64288",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scobinti-12-2022",
 "path": "local/iasi/scobinti/2022/12",
 "kind": "local",
@@ -199,6 +265,28 @@
 "council_name": "Consiliul Local al Comunei Scobinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scobinti-13-2022",
+"path": "local/iasi/scobinti/2022/13",
+"kind": "local",
+"year": "2022",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 13/2022 privind desemnare președinte de ședință trimestru II an 2022",
+"short": "HCL Scobinți nr. 13/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-24",
+"latest": "2022-06-24",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/64356",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -379,6 +467,28 @@
 }
 },
 {
+"slug": "hcl-iasi--scobinti-22-2022",
+"path": "local/iasi/scobinti/2022/22",
+"kind": "local",
+"year": "2022",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 22/2022 privind aprobare inchiriere 20 mp, documentație atribuire , raport evaluare",
+"short": "HCL Scobinți nr. 22/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/65019",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--scobinti-23-2022",
 "path": "local/iasi/scobinti/2022/23",
 "kind": "local",
@@ -486,6 +596,28 @@
 "council_name": "Consiliul Local al Comunei Scobinți",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--scobinti-28-2022",
+"path": "local/iasi/scobinti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Scobinți nr. 28/2022 privind închiriere, documentație de atribuire și raport de evaluare spațiu de 118 mp și 50 mp aferent fost magazin Bădeni",
+"short": "HCL Scobinți nr. 28/2022",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2022-06-30",
+"latest": "2022-06-30",
+"portal": "https://emol.ro/scobinti-is/registru-hcl/65025",
+"council": "iasi/scobinti",
+"council_name": "Consiliul Local al Comunei Scobinți",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

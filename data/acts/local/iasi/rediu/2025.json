@@ -271,6 +271,29 @@
 }
 },
 {
+"slug": "hcl-iasi--rediu-13-2025",
+"path": "local/iasi/rediu/2025/13",
+"kind": "local",
+"year": "2025",
+"number": "13",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 13/2025",
+"short": "HCL Rediu nr. 13/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253474",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--rediu-14-2025",
 "path": "local/iasi/rediu/2025/14",
 "kind": "local",
@@ -290,6 +313,28 @@
 "council_name": "Consiliul Local al Comunei Rediu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rediu-15-2025",
+"path": "local/iasi/rediu/2025/15",
+"kind": "local",
+"year": "2025",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 15/2025 privind modificarea și completarea contractelor ce au ca obiect concesionarea/închirierea bunurilor imobile aflate în domeniul public/privat al comunei Rediu",
+"short": "HCL Rediu nr. 15/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253477",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -518,6 +563,29 @@
 }
 },
 {
+"slug": "hcl-iasi--rediu-36-2025",
+"path": "local/iasi/rediu/2025/36",
+"kind": "local",
+"year": "2025",
+"number": "36",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 36/2025",
+"short": "HCL Rediu nr. 36/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253593",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--rediu-38-2025",
 "path": "local/iasi/rediu/2025/38",
 "kind": "local",
@@ -604,6 +672,28 @@
 "council_name": "Consiliul Local al Comunei Rediu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rediu-42-2025",
+"path": "local/iasi/rediu/2025/42",
+"kind": "local",
+"year": "2025",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 42/2025 privind darea în folosință gratuită către Parohia „Nașterea Maicii Domnului” a unui teren situat în comuna Rediu, Județul Iași",
+"short": "HCL Rediu nr. 42/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253627",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1003,6 +1093,28 @@
 "council_name": "Consiliul Local al Comunei Rediu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rediu-61-2025",
+"path": "local/iasi/rediu/2025/61",
+"kind": "local",
+"year": "2025",
+"number": "61",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 61/2025 privind concesionarea, prin licitație publică cu strigare, a terenului în suprafață totală de 182 mp, având NC/CF 74712, situat în intravilanul comunei Rediu, județul Iași, Șos. Valea Rediului, Nr. 413 A, Tarla 7, parcela 10/1 aflat în domeniul privat al UAT Comuna Rediu, județul Iași",
+"short": "HCL Rediu nr. 61/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253663",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1578,6 +1690,28 @@
 }
 },
 {
+"slug": "hcl-iasi--rediu-88-2025",
+"path": "local/iasi/rediu/2025/88",
+"kind": "local",
+"year": "2025",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 88/2025 privind desemnarea reprezentanților Consiliului Local al comunei Rediu în cadrul Consiliului de administrație al Școlii Gimnaziale Rediu și în Comisiile pentru evaluarea și asigurarea calității constituită la nivelul Școlii Gimnaziale Rediu în anul școlar 2025-2026",
+"short": "HCL Rediu nr. 88/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253729",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--rediu-89-2025",
 "path": "local/iasi/rediu/2025/89",
 "kind": "local",
@@ -1597,6 +1731,73 @@
 "council_name": "Consiliul Local al Comunei Rediu",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--rediu-90-2025",
+"path": "local/iasi/rediu/2025/90",
+"kind": "local",
+"year": "2025",
+"number": "90",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 90/2025",
+"short": "HCL Rediu nr. 90/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253733",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--rediu-91-2025",
+"path": "local/iasi/rediu/2025/91",
+"kind": "local",
+"year": "2025",
+"number": "91",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 91/2025 privind rezilierea contractului de concesiune nr. 9853/ 20.11.2019, încheiat între Unitatea Administrativ Teritorială comuna Rediu, în calitate de concedent și ȘERBAN Florin-Cătălin, în calitate de concesionar",
+"short": "HCL Rediu nr. 91/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253736",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--rediu-92-2025",
+"path": "local/iasi/rediu/2025/92",
+"kind": "local",
+"year": "2025",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Rediu nr. 92/2025 privind rezilierea contractului de concesiune nr. 7755/23/09.2019 încheiat între Unitatea Administrativ Teritorială comuna Rediu, în calitate de concedent și ȘERBAN Florin-Cătălin, în calitate de concesionar",
+"short": "HCL Rediu nr. 92/2025",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2026-02-19",
+"latest": "2026-02-19",
+"portal": "https://emol.ro/rediu-is/registru-hcl/253741",
+"council": "iasi/rediu",
+"council_name": "Consiliul Local al Comunei Rediu",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

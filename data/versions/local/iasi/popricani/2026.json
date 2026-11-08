@@ -18,6 +18,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-10-2026",
+   "path": "local/iasi/popricani/2026/10",
+   "short": "HCL Popricani nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 10/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258166",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258166",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-100-2026",
    "path": "local/iasi/popricani/2026/100",
    "short": "HCL Popricani nr. 100/2026",
@@ -163,6 +178,21 @@
      "from": "2026-10-20",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/293923",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-11-2026",
+   "path": "local/iasi/popricani/2026/11",
+   "short": "HCL Popricani nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 11/2026 privind trecerea în domeniul privat al com. Popricani, jud. Iași a unor suprafețe de teren",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258167",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258167",
      "sha256": null
     }
    ]
@@ -318,6 +348,96 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-12-2026",
+   "path": "local/iasi/popricani/2026/12",
+   "short": "HCL Popricani nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 12/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258168",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-13-2026",
+   "path": "local/iasi/popricani/2026/13",
+   "short": "HCL Popricani nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 13/2026 privind aprobarea contului de execuție al bugetului de venituri și cheltuieli al comunei Popricani, jud. Iași - anul 2025",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258169",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-14-2026",
+   "path": "local/iasi/popricani/2026/14",
+   "short": "HCL Popricani nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 14/2026 privind aprobarea rezultatelor privind inventarierea generală a elementelor de natura activelor, datoriilor și capitalurilor proprii aflate în patrimoniul comunei Popricani, județul Iași pentru anul 2025",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258170",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-15-2026",
+   "path": "local/iasi/popricani/2026/15",
+   "short": "HCL Popricani nr. 15/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 15/2026 privind trecerea în domeniul public al comunei Popricani, jud. Iași a unor suprafețe de teren extravilan com. Popricani, jud. Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258171",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-16-2026",
+   "path": "local/iasi/popricani/2026/16",
+   "short": "HCL Popricani nr. 16/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 16/2026 privind alegerea d-nului consilier Constantin-Adelin ENUȚĂ ca președinte de ședință Martie 2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/259079",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/259079",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-17-2026",
+   "path": "local/iasi/popricani/2026/17",
+   "short": "HCL Popricani nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 17/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/259080",
+   "versions": [
+    {
+     "from": "2026-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/259080",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-18-2026",
    "path": "local/iasi/popricani/2026/18",
    "short": "HCL Popricani nr. 18/2026",
@@ -343,6 +463,21 @@
      "from": "2026-04-21",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/262757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-2-2026",
+   "path": "local/iasi/popricani/2026/2",
+   "short": "HCL Popricani nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 2/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/252854",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/252854",
      "sha256": null
     }
    ]
@@ -423,6 +558,96 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-25-2026",
+   "path": "local/iasi/popricani/2026/25",
+   "short": "HCL Popricani nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 25/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/267862",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/267862",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-26-2026",
+   "path": "local/iasi/popricani/2026/26",
+   "short": "HCL Popricani nr. 26/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 26/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/267863",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/267863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-27-2026",
+   "path": "local/iasi/popricani/2026/27",
+   "short": "HCL Popricani nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 27/2026 privind implementarea proiectului „Achiziție dotări pentru serviciul voluntar pentru situații de urgență, al comunei Popricani, județul Iași”",
+   "url": "https://emol.ro/popricani-is/registru-hcl/267864",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/267864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-28-2026",
+   "path": "local/iasi/popricani/2026/28",
+   "short": "HCL Popricani nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 28/2026 privind dezlipirea imobilului teren 4224 mp intravilan județul Iași, UAT Popricani, loc. Cuza-Vodă, nr. cadastral 63285:- (tarla 174 parcele 139/2 aparținând domeniului public al comunei Popricani, județul Iași, în două loturi:-lot.1 - 4194 mp: lot 2- 30mp",
+   "url": "https://emol.ro/popricani-is/registru-hcl/267865",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/267865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-29-2026",
+   "path": "local/iasi/popricani/2026/29",
+   "short": "HCL Popricani nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 29/2026 privind trecerea suprafeței de 620 mp teren pe care există o construcție, (Centru Comunitar Integrat) din domeniul privat al comunei Popricani, județul Iași, (nr.cadastral 67502;poz.200 și 203-parțial), în domeniul public al comunei Popricani, jud. Iași",
+   "url": "https://emol.ro/popricani-is/registru-hcl/267866",
+   "versions": [
+    {
+     "from": "2026-05-12",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/267866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-3-2026",
+   "path": "local/iasi/popricani/2026/3",
+   "short": "HCL Popricani nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 3/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/252855",
+   "versions": [
+    {
+     "from": "2026-02-16",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/252855",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-30-2026",
    "path": "local/iasi/popricani/2026/30",
    "short": "HCL Popricani nr. 30/2026",
@@ -463,6 +688,36 @@
      "from": "2026-05-20",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/269125",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-33-2026",
+   "path": "local/iasi/popricani/2026/33",
+   "short": "HCL Popricani nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 33/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/269338",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/269338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-34-2026",
+   "path": "local/iasi/popricani/2026/34",
+   "short": "HCL Popricani nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 34/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/269339",
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/269339",
      "sha256": null
     }
    ]
@@ -618,6 +873,81 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-44-2026",
+   "path": "local/iasi/popricani/2026/44",
+   "short": "HCL Popricani nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 44/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274794",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274794",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-45-2026",
+   "path": "local/iasi/popricani/2026/45",
+   "short": "HCL Popricani nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 45/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274795",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274795",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-46-2026",
+   "path": "local/iasi/popricani/2026/46",
+   "short": "HCL Popricani nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 46/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274796",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-47-2026",
+   "path": "local/iasi/popricani/2026/47",
+   "short": "HCL Popricani nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 47/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274797",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-48-2026",
+   "path": "local/iasi/popricani/2026/48",
+   "short": "HCL Popricani nr. 48/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 48/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274798",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274798",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-49-2026",
    "path": "local/iasi/popricani/2026/49",
    "short": "HCL Popricani nr. 49/2026",
@@ -643,6 +973,111 @@
      "from": "2026-02-16",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/252857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-50-2026",
+   "path": "local/iasi/popricani/2026/50",
+   "short": "HCL Popricani nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 50/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274800",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274800",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-51-2026",
+   "path": "local/iasi/popricani/2026/51",
+   "short": "HCL Popricani nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 51/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274801",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274801",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-52-2026",
+   "path": "local/iasi/popricani/2026/52",
+   "short": "HCL Popricani nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 52/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274802",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274802",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-53-2026",
+   "path": "local/iasi/popricani/2026/53",
+   "short": "HCL Popricani nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 53/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274803",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274803",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-54-2026",
+   "path": "local/iasi/popricani/2026/54",
+   "short": "HCL Popricani nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 54/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274804",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274804",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-55-2026",
+   "path": "local/iasi/popricani/2026/55",
+   "short": "HCL Popricani nr. 55/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 55/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274805",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274805",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-56-2026",
+   "path": "local/iasi/popricani/2026/56",
+   "short": "HCL Popricani nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 56/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/274806",
+   "versions": [
+    {
+     "from": "2026-06-21",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/274806",
      "sha256": null
     }
    ]
@@ -708,6 +1143,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-60-2026",
+   "path": "local/iasi/popricani/2026/60",
+   "short": "HCL Popricani nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 60/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281752",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281752",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-61-2026",
    "path": "local/iasi/popricani/2026/61",
    "short": "HCL Popricani nr. 61/2026",
@@ -723,6 +1173,96 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-62-2026",
+   "path": "local/iasi/popricani/2026/62",
+   "short": "HCL Popricani nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 62/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281754",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-63-2026",
+   "path": "local/iasi/popricani/2026/63",
+   "short": "HCL Popricani nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 63/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281755",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281755",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-64-2026",
+   "path": "local/iasi/popricani/2026/64",
+   "short": "HCL Popricani nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 64/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281756",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-65-2026",
+   "path": "local/iasi/popricani/2026/65",
+   "short": "HCL Popricani nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 65/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281757",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-66-2026",
+   "path": "local/iasi/popricani/2026/66",
+   "short": "HCL Popricani nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 66/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281758",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-67-2026",
+   "path": "local/iasi/popricani/2026/67",
+   "short": "HCL Popricani nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 67/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281759",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281759",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-68-2026",
    "path": "local/iasi/popricani/2026/68",
    "short": "HCL Popricani nr. 68/2026",
@@ -733,6 +1273,36 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/281760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-69-2026",
+   "path": "local/iasi/popricani/2026/69",
+   "short": "HCL Popricani nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 69/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281761",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281761",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-7-2026",
+   "path": "local/iasi/popricani/2026/7",
+   "short": "HCL Popricani nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 7/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258163",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258163",
      "sha256": null
     }
    ]
@@ -768,6 +1338,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-72-2026",
+   "path": "local/iasi/popricani/2026/72",
+   "short": "HCL Popricani nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 72/2026 privind completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009, consolidat 2021, prin Actul Adițional nr.11",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281764",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281764",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-73-2026",
    "path": "local/iasi/popricani/2026/73",
    "short": "HCL Popricani nr. 73/2026",
@@ -778,6 +1363,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/281765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-74-2026",
+   "path": "local/iasi/popricani/2026/74",
+   "short": "HCL Popricani nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 74/2026 privind aprobarea numărului asistenților personali ai persoanelor cu handicap și a indemnizațiilor acordate persoanelor cu handicap grav pentru anul-2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/281766",
+   "versions": [
+    {
+     "from": "2026-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/281766",
      "sha256": null
     }
    ]
@@ -853,6 +1453,21 @@
      "from": "2026-08-03",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/281786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-8-2026",
+   "path": "local/iasi/popricani/2026/8",
+   "short": "HCL Popricani nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 8/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258164",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258164",
      "sha256": null
     }
    ]
@@ -978,6 +1593,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--popricani-88-2026",
+   "path": "local/iasi/popricani/2026/88",
+   "short": "HCL Popricani nr. 88/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 88/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/286147",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/286147",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--popricani-89-2026",
    "path": "local/iasi/popricani/2026/89",
    "short": "HCL Popricani nr. 89/2026",
@@ -988,6 +1618,36 @@
      "from": "2026-09-02",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/286148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-9-2026",
+   "path": "local/iasi/popricani/2026/9",
+   "short": "HCL Popricani nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 9/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/258165",
+   "versions": [
+    {
+     "from": "2026-03-17",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/258165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-90-2026",
+   "path": "local/iasi/popricani/2026/90",
+   "short": "HCL Popricani nr. 90/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 90/2026",
+   "url": "https://emol.ro/popricani-is/registru-hcl/286149",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/286149",
      "sha256": null
     }
    ]
@@ -1078,6 +1738,21 @@
      "from": "2026-09-22",
      "units": 1,
      "source_url": "https://emol.ro/popricani-is/registru-hcl/288249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--popricani-97-2026",
+   "path": "local/iasi/popricani/2026/97",
+   "short": "HCL Popricani nr. 97/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Popricani nr. 97/2026 privind concesionarea prin licitație publică a unor suprafete de teren intravilan loc.Moimesti, Popricani,Vânători, Cârlig comuna Popricani, jud. lași proprietatea privată a comunei Popricani, jud. lași ( nr.cad.67417, nr.cad. 67405, nr.cad. 67400, nr.cad. 67399, nr.cad. 67276, nr.cad.67187, nr.cad. 67106, nr.cad. 67594, , nr.cad. 66874, nr.cad. 66278 ) pentru realizarea (intrarea in legalitate) a obiectivelor de locuinte/anexe cu functiuni de locuire, aprobarea studiului de oportunitate, a conținutului documentației de atribuire și a caietului de sarcini",
+   "url": "https://emol.ro/popricani-is/registru-hcl/288250",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/popricani-is/registru-hcl/288250",
      "sha256": null
     }
    ]

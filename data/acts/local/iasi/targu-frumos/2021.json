@@ -48,6 +48,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-72-2021",
+"path": "local/iasi/targu-frumos/2021/72",
+"kind": "local",
+"year": "2021",
+"number": "72",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 72/2021 privind aprobarea dării în administrarea Grădiniței cu Program Prelungit Târgu Frumos a imobilului cladire situat în strada Cuza Vodă, nr.28B, oraș Târgu Frumos (până la finalizarea și recepționarea lucrărilor la imobilul situat în strada Petru Rareș, nr.13, oras Târgu Frumos)",
+"short": "HCL Târgu Frumos nr. 72/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-08-26",
+"latest": "2021-08-26",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9256",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-76-2021",
 "path": "local/iasi/targu-frumos/2021/76",
 "kind": "local",
@@ -201,6 +223,95 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-84-2021",
+"path": "local/iasi/targu-frumos/2021/84",
+"kind": "local",
+"year": "2021",
+"number": "84",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 84/2021 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Ion Creangă” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2021 - 2022",
+"short": "HCL Târgu Frumos nr. 84/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9295",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-86-2021",
+"path": "local/iasi/targu-frumos/2021/86",
+"kind": "local",
+"year": "2021",
+"number": "86",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 86/2021 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Liceului Teoretic “Ion Neculce” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2021 - 2022",
+"short": "HCL Târgu Frumos nr. 86/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9297",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-87-2021",
+"path": "local/iasi/targu-frumos/2021/87",
+"kind": "local",
+"year": "2021",
+"number": "87",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 87/2021",
+"short": "HCL Târgu Frumos nr. 87/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-88-2021",
+"path": "local/iasi/targu-frumos/2021/88",
+"kind": "local",
+"year": "2021",
+"number": "88",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 88/2021 privind desemnarea reprezentantului Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Grădiniței cu program prelungit Târgu Frumos precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.), pentru anul şcolar 2021 - 2022",
+"short": "HCL Târgu Frumos nr. 88/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9299",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -358,6 +469,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-97-2021",
+"path": "local/iasi/targu-frumos/2021/97",
+"kind": "local",
+"year": "2021",
+"number": "97",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 97/2021 privind aprobarea scoaterii la licitaţie publică în vederea închirierii suprafetei de 80,50 mp, spatiul public din incinta Pietei agroalimentare, situat în strada Tudor Vladimirescu, nr. 1, oraș Târgu Frumos",
+"short": "HCL Târgu Frumos nr. 97/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-09-27",
+"latest": "2021-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#9309",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-98-2021",
 "path": "local/iasi/targu-frumos/2021/98",
 "kind": "local",
@@ -488,6 +621,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-105-2021",
+"path": "local/iasi/targu-frumos/2021/105",
+"kind": "local",
+"year": "2021",
+"number": "105",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 105/2021",
+"short": "HCL Târgu Frumos nr. 105/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-10-26",
+"latest": "2021-10-26",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -739,6 +895,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-117-2021",
+"path": "local/iasi/targu-frumos/2021/117",
+"kind": "local",
+"year": "2021",
+"number": "117",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 117/2021 privind aprobarea scoaterii la licitaţie publică în vederea închirierii a suprafetei de 28,00 mp înscris în Cartea Funciară nr. 63638, nr. cadastral 63638, situat în strada Petru Rareș, zona bl. 18, parter, oraş Târgu Frumos, jud. Iaşi",
+"short": "HCL Târgu Frumos nr. 117/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15362",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-118-2021",
 "path": "local/iasi/targu-frumos/2021/118",
 "kind": "local",
@@ -828,6 +1006,28 @@
 "flags": {
 "text_pending": "review",
 "title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-122-2021",
+"path": "local/iasi/targu-frumos/2021/122",
+"kind": "local",
+"year": "2021",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 122/2021 privind aprobarea cumpărării suprafeței de 716,00 mp. teren, înscris în Cartea Funciară nr. 63017, situat în strada Gospodari, nr. 32A, oraşul Târgu Frumos",
+"short": "HCL Târgu Frumos nr. 122/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#15368",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -1051,6 +1251,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-135-2021",
+"path": "local/iasi/targu-frumos/2021/135",
+"kind": "local",
+"year": "2021",
+"number": "135",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 135/2021",
+"short": "HCL Târgu Frumos nr. 135/2021",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2021-12-15",
+"latest": "2021-12-15",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {

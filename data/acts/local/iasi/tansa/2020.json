@@ -26,6 +26,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-8-2020",
+"path": "local/iasi/tansa/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 8/2020 privind revocarea Hotărârii Consiliul Local Tansa nr.7 din 23.01.2020",
+"short": "HCL Tansa nr. 8/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-07",
+"latest": "2020-02-07",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27132",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-9-2020",
 "path": "local/iasi/tansa/2020/9",
 "kind": "local",
@@ -137,6 +159,72 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-14-2020",
+"path": "local/iasi/tansa/2020/14",
+"kind": "local",
+"year": "2020",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 14/2020 privind reorganizarea Serviciului Voluntar pentru Situații de Urgență din comuna Tansa, județul Iași",
+"short": "HCL Tansa nr. 14/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27138",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-15-2020",
+"path": "local/iasi/tansa/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 15/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 34",
+"short": "HCL Tansa nr. 15/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27139",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-16-2020",
+"path": "local/iasi/tansa/2020/16",
+"kind": "local",
+"year": "2020",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 16/2020 privind modificarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și canalizare nr. 48/2009, prin Actul Adițional nr. 35",
+"short": "HCL Tansa nr. 16/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-02-21",
+"latest": "2020-02-21",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27140",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-17-2020",
 "path": "local/iasi/tansa/2020/17",
 "kind": "local",
@@ -159,6 +247,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-18-2020",
+"path": "local/iasi/tansa/2020/18",
+"kind": "local",
+"year": "2020",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 18/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași-ARSACIS",
+"short": "HCL Tansa nr. 18/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27142",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-19-2020",
 "path": "local/iasi/tansa/2020/19",
 "kind": "local",
@@ -178,6 +288,50 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-20-2020",
+"path": "local/iasi/tansa/2020/20",
+"kind": "local",
+"year": "2020",
+"number": "20",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 20/2020 privind alegerea unui președinte de ședință pentru lunile ianuarie, februarie , martie anul 2020",
+"short": "HCL Tansa nr. 20/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27144",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-21-2020",
+"path": "local/iasi/tansa/2020/21",
+"kind": "local",
+"year": "2020",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 21/2020 privind rectificarea bugetului de venituri și cheltuieli al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 21/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-03-20",
+"latest": "2020-03-20",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27145",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -244,6 +398,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-25-2020",
+"path": "local/iasi/tansa/2020/25",
+"kind": "local",
+"year": "2020",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 25/2020 privind concesionare clădire și teren aparținând Școlii vechi Suhuleț, intravilan sat Suhuleț, comuna Tansa, județul Iași",
+"short": "HCL Tansa nr. 25/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-04-24",
+"latest": "2020-04-24",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27149",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -354,6 +530,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-31-2020",
+"path": "local/iasi/tansa/2020/31",
+"kind": "local",
+"year": "2020",
+"number": "31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 31/2020 privind alegerea unui președinte de ședință pentru lunile iulie, august, septembrie anul 2020",
+"short": "HCL Tansa nr. 31/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-06-19",
+"latest": "2020-06-19",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27165",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -577,6 +775,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-42-2020",
+"path": "local/iasi/tansa/2020/42",
+"kind": "local",
+"year": "2020",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 42/2020 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordorilor-cadru pentru achiziția produselor aferente Programului pentru Școli a României și a contractelor/acordurilor-cadru de prestare a serviciilor pentru derularea măsurilor educative, la nivelul UAT comuna TAnsa, pe anul școlar 2020-2021",
+"short": "HCL Tansa nr. 42/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27201",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-43-2020",
 "path": "local/iasi/tansa/2020/43",
 "kind": "local",
@@ -621,6 +841,28 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-45-2020",
+"path": "local/iasi/tansa/2020/45",
+"kind": "local",
+"year": "2020",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 45/2020 privind actualizarea devizului general pentru obiectivul de investiții „Reabilitare Grădinăță cu Program Normal în localitatea Tansa, comuna TAnsa, județul Iași”",
+"short": "HCL Tansa nr. 45/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-09-22",
+"latest": "2020-09-22",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27204",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-46-2020",
 "path": "local/iasi/tansa/2020/46",
 "kind": "local",
@@ -640,6 +882,50 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-47-2020",
+"path": "local/iasi/tansa/2020/47",
+"kind": "local",
+"year": "2020",
+"number": "47",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 47/2020 privind alegerea președintelui de ședință al Consiliului LOcal al comunei Tansa, pentru perioada noiembrie 2020-ianuarie 2021",
+"short": "HCL Tansa nr. 47/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27219",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-48-2020",
+"path": "local/iasi/tansa/2020/48",
+"kind": "local",
+"year": "2020",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 48/2020 privind alegerea viceprimarului comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 48/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-10",
+"latest": "2020-11-10",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27220",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -665,6 +951,50 @@
 }
 },
 {
+"slug": "hcl-iasi--tansa-50-2020",
+"path": "local/iasi/tansa/2020/50",
+"kind": "local",
+"year": "2020",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 50/2020 privind alegerea președintelui de ședință al Consiliului Local al comunei Tansa",
+"short": "HCL Tansa nr. 50/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27228",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--tansa-51-2020",
+"path": "local/iasi/tansa/2020/51",
+"kind": "local",
+"year": "2020",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 51/2020 privind revocarea Hotărârii Consiliului Local nr.25/27.04.2020 privind concesionarea teren și clădire Școala veche Suhuleț aparținând domeniului public al comunei Tansa, județul Iași",
+"short": "HCL Tansa nr. 51/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27229",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--tansa-52-2020",
 "path": "local/iasi/tansa/2020/52",
 "kind": "local",
@@ -684,6 +1014,28 @@
 "council_name": "Consiliul Local al Comunei Tansa",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--tansa-53-2020",
+"path": "local/iasi/tansa/2020/53",
+"kind": "local",
+"year": "2020",
+"number": "53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Tansa nr. 53/2020 privind propunerea de schimbare a destinației terenului și clădire Școala veche Suhuleț, în imobil destinat altor activități de strictă necesitate pentru comunitate și anume construire Complex Sportiv",
+"short": "HCL Tansa nr. 53/2020",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2020-11-27",
+"latest": "2020-11-27",
+"portal": "https://emol.ro/tansa-is/registru-hcl/27231",
+"council": "iasi/tansa",
+"council_name": "Consiliul Local al Comunei Tansa",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

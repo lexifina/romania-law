@@ -135,6 +135,50 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-12-2023",
+"path": "local/iasi/targu-frumos/2023/12",
+"kind": "local",
+"year": "2023",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 12/2023 pentru completarea Hotărârii nr. 81 din data de 10.09.2021 privind numirea reprezentanților Consiliului local al orașului Târgu Frumos în Consiliul de administrație al Spitalului de boli cronice “Sfântul Ioan”, unitate sanitară din rețeaua autorităților administrației publice locale a orașului Târgu Frumos, județul Iași",
+"short": "HCL Târgu Frumos nr. 12/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-01",
+"latest": "2023-02-01",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#41905",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-21-2023",
+"path": "local/iasi/targu-frumos/2023/21",
+"kind": "local",
+"year": "2023",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 21/2023 privind aprobarea acordării unui sprijin financiar Parohiei de Rit Vechi Lipovenească Târgu Frumos, Județul Iași",
+"short": "HCL Târgu Frumos nr. 21/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-02-21",
+"latest": "2023-02-21",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#44125",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-22-2023",
 "path": "local/iasi/targu-frumos/2023/22",
 "kind": "local",
@@ -602,6 +646,29 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-92-2023",
+"path": "local/iasi/targu-frumos/2023/92",
+"kind": "local",
+"year": "2023",
+"number": "92",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 92/2023",
+"short": "HCL Târgu Frumos nr. 92/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-95-2023",
 "path": "local/iasi/targu-frumos/2023/95",
 "kind": "local",
@@ -647,6 +714,28 @@
 }
 },
 {
+"slug": "hcl-iasi--targu-frumos-98-2023",
+"path": "local/iasi/targu-frumos/2023/98",
+"kind": "local",
+"year": "2023",
+"number": "98",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 98/2023 pentru modificarea Hotărârii nr. 81 din data de 10.09.2021 privind numirea reprezentanților Consiliului local al orașului Târgu Frumos în Consiliul de administrație al Spitalului de boli cronice “Sfântul Ioan”, unitate sanitară din rețeaua autorităților administrației publice locale a orașului Târgu Frumos, județul Iași",
+"short": "HCL Târgu Frumos nr. 98/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-07-27",
+"latest": "2023-07-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#55130",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--targu-frumos-102-2023",
 "path": "local/iasi/targu-frumos/2023/102",
 "kind": "local",
@@ -666,6 +755,29 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-103-2023",
+"path": "local/iasi/targu-frumos/2023/103",
+"kind": "local",
+"year": "2023",
+"number": "103",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 103/2023",
+"short": "HCL Târgu Frumos nr. 103/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-08-30",
+"latest": "2023-08-30",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
 }
 },
 {
@@ -799,6 +911,117 @@
 "council_name": "Consiliul Local al Orașului Târgu Frumos",
 "flags": {
 "text_pending": "review"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-120-2023",
+"path": "local/iasi/targu-frumos/2023/120",
+"kind": "local",
+"year": "2023",
+"number": "120",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 120/2023 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Grădiniței cu program prelungit Târgu Frumos precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2023 – 2024",
+"short": "HCL Târgu Frumos nr. 120/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#59252",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-121-2023",
+"path": "local/iasi/targu-frumos/2023/121",
+"kind": "local",
+"year": "2023",
+"number": "121",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 121/2023 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Garabet Ibrăileanu” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2023 - 2024",
+"short": "HCL Târgu Frumos nr. 121/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#59253",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-122-2023",
+"path": "local/iasi/targu-frumos/2023/122",
+"kind": "local",
+"year": "2023",
+"number": "122",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 122/2023 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Liceului Teoretic “Ion Neculce” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2023 - 2024",
+"short": "HCL Târgu Frumos nr. 122/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#59254",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-123-2023",
+"path": "local/iasi/targu-frumos/2023/123",
+"kind": "local",
+"year": "2023",
+"number": "123",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 123/2023",
+"short": "HCL Târgu Frumos nr. 123/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": null,
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--targu-frumos-124-2023",
+"path": "local/iasi/targu-frumos/2023/124",
+"kind": "local",
+"year": "2023",
+"number": "124",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Orașului Târgu Frumos nr. 124/2023 privind desemnarea reprezentanţilor Consiliului local al oraşului Târgu Frumos în Consiliul de administraţie al Şcolii Gimnaziale “Ion Creangă” precum şi a reprezentantului în Comisia pentru evaluarea şi asigurarea calităţii (C.E.A.C.) pentru anul şcolar 2023 - 2024",
+"short": "HCL Târgu Frumos nr. 124/2023",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2023-09-27",
+"latest": "2023-09-27",
+"portal": "https://targufrumos.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/4605#59256",
+"council": "iasi/targu-frumos",
+"council_name": "Consiliul Local al Orașului Târgu Frumos",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

@@ -3,6 +3,28 @@
 "shard": "local/iasi/strunga/2024",
 "acts": [
 {
+"slug": "hcl-iasi--strunga-1-2024",
+"path": "local/iasi/strunga/2024/1",
+"kind": "local",
+"year": "2024",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 1/2024 privind ...alegerea președintelui de ședință pentru perioada ianuarie-martie 2024",
+"short": "HCL Strunga nr. 1/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/strunga-is/registru-hcl/144099",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-2-2024",
 "path": "local/iasi/strunga/2024/2",
 "kind": "local",
@@ -69,6 +91,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-5-2024",
+"path": "local/iasi/strunga/2024/5",
+"kind": "local",
+"year": "2024",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 5/2024 privind ...concesionarea unor suprafețe de pajiști permanente aflate în domeniul public al Unității Administrativ Teritoriale comuna Strunga, județul Iași, prin atribuire directă",
+"short": "HCL Strunga nr. 5/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/strunga-is/registru-hcl/144103",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-6-2024",
 "path": "local/iasi/strunga/2024/6",
 "kind": "local",
@@ -88,6 +132,28 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-7-2024",
+"path": "local/iasi/strunga/2024/7",
+"kind": "local",
+"year": "2024",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 7/2024 privind ...decontarea cheltuielilor de transport pentru personalul funcționari publici și personalul contractual din aparatul de specialitate al primarului comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 7/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-02-21",
+"latest": "2024-02-21",
+"portal": "https://emol.ro/strunga-is/registru-hcl/144105",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -132,6 +198,73 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-10-2024",
+"path": "local/iasi/strunga/2024/10",
+"kind": "local",
+"year": "2024",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 10/2024 privind însușirea Raportului de evaluare nr.6753/27.12.2023 a bunurilor de retur ce aparțin domeniului public al Unității Administrativ Teritoriale comuna Strunga, județul Iași, bunuri care sunt date în administrarea Apavital S.A",
+"short": "HCL Strunga nr. 10/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168355",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-11-2024",
+"path": "local/iasi/strunga/2024/11",
+"kind": "local",
+"year": "2024",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 11/2024",
+"short": "HCL Strunga nr. 11/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168356",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-iasi--strunga-12-2024",
+"path": "local/iasi/strunga/2024/12",
+"kind": "local",
+"year": "2024",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 12/2024 privind aprobarea Actului Adițional pentru completarea și actualizarea Statului Asociației Regionale a Serviciilor de Apă Canal Iași- A.R.S.A.C.I.S",
+"short": "HCL Strunga nr. 12/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168357",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -202,6 +335,72 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-16-2024",
+"path": "local/iasi/strunga/2024/16",
+"kind": "local",
+"year": "2024",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 16/2024 privind aprobarea execuției bugetare a Unității Administrativ Teritoriale comuna Strunga, județul Iași pe trimestrul IV, anul 2023",
+"short": "HCL Strunga nr. 16/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168361",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-17-2024",
+"path": "local/iasi/strunga/2024/17",
+"kind": "local",
+"year": "2024",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 17/2024 privind rectificarea Dispoziției nr.33/12.03.2024 cu privire la modificarea bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale comun Strunga, județul Iași pe anul 2024",
+"short": "HCL Strunga nr. 17/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168375",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-18-2024",
+"path": "local/iasi/strunga/2024/18",
+"kind": "local",
+"year": "2024",
+"number": "18",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 18/2024 privind modificarea Hotătârii nr.59/28.07.2023 a Consiliului local al comunei Strunga, județul Iași cu privire la aprobarea modificărilor unor poziții din anexa la Hotărârea nr.35/30.06.2017 a Consiliului Local al comunei Strunga, județul Iași privind reactualizarea domeniului privat al comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 18/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168376",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-19-2024",
 "path": "local/iasi/strunga/2024/19",
 "kind": "local",
@@ -243,6 +442,50 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-21-2024",
+"path": "local/iasi/strunga/2024/21",
+"kind": "local",
+"year": "2024",
+"number": "21",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 21/2024 privind aprobarea introducerii în domeniul privat al comunei Strunga, județul Iași a unei suprafețe de teren",
+"short": "HCL Strunga nr. 21/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168379",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-22-2024",
+"path": "local/iasi/strunga/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 22/2024 privind aprobarea transformării unei funcții contractuale de execuție vacante din aparatul de specialitate al primarului comunei Strunga, județul Iași, a organigramei, precum și a statului de funcții pentru personalul din aparatul de specialitate al primarului comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 22/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168380",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -290,6 +533,28 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-25-2024",
+"path": "local/iasi/strunga/2024/25",
+"kind": "local",
+"year": "2024",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 25/2024 privind modificarea unei poziții din anexa nr.74 la Hotărârea nr.24/1999 a Consiliului Local al comunei Strunga, județul Iași- Inventarul bunurilor care aparțin domeniului public al comunei Strunga",
+"short": "HCL Strunga nr. 25/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168383",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-26-2024",
 "path": "local/iasi/strunga/2024/26",
 "kind": "local",
@@ -334,6 +599,50 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-28-2024",
+"path": "local/iasi/strunga/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 28/2024 privind alegerea președintelui de ședință pentru perioada aprilie-iunie 2024",
+"short": "HCL Strunga nr. 28/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168404",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-29-2024",
+"path": "local/iasi/strunga/2024/29",
+"kind": "local",
+"year": "2024",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 29/2024 privind revocarea Hotărârii nr.19/29.03.2024 a Consiliului local al comunei Strunga, județul Iași privind aprobarea documentației de atribuire pentru delegarea gestiunii activității de eliminare prin depozitare a deșeurilor reziduale, a deșeurilor stradale, a deșeurilor de pământ și pietre provenite de pe căile publice, a rezidurilor rezultate de la instalațiile de tratare a deșeurilor municipale, precum și a deșeurilor care nu pot fi valorificate, provenite din activități de reamenajare și reabilitare interioară și/sau exterioară a locuințelor la Depozitul de deșeuri nepericuloase Țuțora",
+"short": "HCL Strunga nr. 29/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168405",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-30-2024",
 "path": "local/iasi/strunga/2024/30",
 "kind": "local",
@@ -375,6 +684,94 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-32-2024",
+"path": "local/iasi/strunga/2024/32",
+"kind": "local",
+"year": "2024",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 32/2024 privind aprobarea încheierii unui contract în vederea realizării nomenclaturii stradale de pe raza Unității Administrativ Teritoriale comuna Strunga, județul Iași și înscrierea datelor în Registrul electronic național al nomenclaturilor stradale (RENNS)",
+"short": "HCL Strunga nr. 32/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168408",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-33-2024",
+"path": "local/iasi/strunga/2024/33",
+"kind": "local",
+"year": "2024",
+"number": "33",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 33/2024 privind aprobarea modificării bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale comuna Strunga, județul Iași, pe trimestrul II, anul 2024",
+"short": "HCL Strunga nr. 33/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168409",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-34-2024",
+"path": "local/iasi/strunga/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 34/2024 privind modificarea și completarea Contractului de delegare a gestiunii serviciilor publice de alimentare cu apă și de canalizare nr.48/2009- consolidat 2021 cu modificările și completările ulterioare, prin Actul Adițional nr.6",
+"short": "HCL Strunga nr. 34/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168410",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-35-2024",
+"path": "local/iasi/strunga/2024/35",
+"kind": "local",
+"year": "2024",
+"number": "35",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 35/2024 privind aprobarea modificării bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale Comuna Strunga, județul Iași, pe trimestrul II, anul 2024",
+"short": "HCL Strunga nr. 35/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168415",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {
@@ -466,6 +863,138 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-40-2024",
+"path": "local/iasi/strunga/2024/40",
+"kind": "local",
+"year": "2024",
+"number": "40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 40/2024 privind alegerea președintelui de ședință pentru perioada iulie-septembrie 2024",
+"short": "HCL Strunga nr. 40/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168428",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-41-2024",
+"path": "local/iasi/strunga/2024/41",
+"kind": "local",
+"year": "2024",
+"number": "41",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 41/2024 privind aprobarea rectificării bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale comuna Strunga, județul Iași, pe trimestrul III, anul 2024",
+"short": "HCL Strunga nr. 41/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168429",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-42-2024",
+"path": "local/iasi/strunga/2024/42",
+"kind": "local",
+"year": "2024",
+"number": "42",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 42/2024 privind aprobarea introducerii în domeniul privat al comunei Strunga, județul Iași a unor suprafețe de teren",
+"short": "HCL Strunga nr. 42/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168430",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-43-2024",
+"path": "local/iasi/strunga/2024/43",
+"kind": "local",
+"year": "2024",
+"number": "43",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 43/2024 privind aprobarea modificării Hotărârii nr.35/30.06.2017 a Consiliului Local al comunei Strunga, județul Iași privind reactualizarea domeniului privat al comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 43/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168431",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-44-2024",
+"path": "local/iasi/strunga/2024/44",
+"kind": "local",
+"year": "2024",
+"number": "44",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 44/2024 privind aprobarea instalării unui terminal de plată POS la nivelul Unității Adiminstrativ Teritoriale comuna Strunga, județul Iași",
+"short": "HCL Strunga nr. 44/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168432",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
+"slug": "hcl-iasi--strunga-45-2024",
+"path": "local/iasi/strunga/2024/45",
+"kind": "local",
+"year": "2024",
+"number": "45",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 45/2024 privind aprobarea însușirii rapoartele de evaluare, întocmite pentru două suprafețe de teren din domeniul privat al comunei Strunga, județul Iași",
+"short": "HCL Strunga nr. 45/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168433",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
+}
+},
+{
 "slug": "hcl-iasi--strunga-46-2024",
 "path": "local/iasi/strunga/2024/46",
 "kind": "local",
@@ -510,6 +1039,29 @@
 }
 },
 {
+"slug": "hcl-iasi--strunga-48-2024",
+"path": "local/iasi/strunga/2024/48",
+"kind": "local",
+"year": "2024",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 48/2024",
+"short": "HCL Strunga nr. 48/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-09-04",
+"latest": "2024-09-04",
+"portal": "https://emol.ro/strunga-is/registru-hcl/168436",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual",
+"title_withheld": "personal_data"
+}
+},
+{
 "slug": "hcl-iasi--strunga-49-2024",
 "path": "local/iasi/strunga/2024/49",
 "kind": "local",
@@ -551,6 +1103,28 @@
 "council_name": "Consiliul Local al Comunei Strunga",
 "flags": {
 "text_pending": "source"
+}
+},
+{
+"slug": "hcl-iasi--strunga-51-2024",
+"path": "local/iasi/strunga/2024/51",
+"kind": "local",
+"year": "2024",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Strunga nr. 51/2024 privind aprobarea rectificării bugetului general de venituri și cheltuieli al Unității Administrativ Teritoriale comuna Strunga, județul Iași, pe trimestrul III, anul 2024",
+"short": "HCL Strunga nr. 51/2024",
+"code": null,
+"status": "metadata only (individual decision)",
+"versions": 1,
+"from": "2024-08-08",
+"latest": "2024-08-08",
+"portal": "https://emol.ro/strunga-is/registru-hcl/179998",
+"council": "iasi/strunga",
+"council_name": "Consiliul Local al Comunei Strunga",
+"flags": {
+"metadata_only": "individual"
 }
 },
 {

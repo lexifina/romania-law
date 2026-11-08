@@ -258,6 +258,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-13-2020",
+   "path": "local/iasi/sipote/2020/13",
+   "short": "HCL Șipote nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 13/2020 privind prelungire prin Act adițional contracte de închiriere pentru spațiile cu destinația de locuință Chișcăreni",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9622",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9622",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-14-2020",
    "path": "local/iasi/sipote/2020/14",
    "short": "HCL Șipote nr. 14/2020",
@@ -298,6 +313,51 @@
      "from": "2020-02-19",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-17-2020",
+   "path": "local/iasi/sipote/2020/17",
+   "short": "HCL Șipote nr. 17/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 17/2020 privind procedură de concesionare a bunurilor imobile ce aparțin domeniului publiv și privat",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9626",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-18-2020",
+   "path": "local/iasi/sipote/2020/18",
+   "short": "HCL Șipote nr. 18/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 18/2020 privind procedură de închiriere a bunurilor imobile care aparțin domeniului public și privat al UAT Șipote",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9627",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-19-2020",
+   "path": "local/iasi/sipote/2020/19",
+   "short": "HCL Șipote nr. 19/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 19/2020 privind procedură de vânzare prin licitație publică a bunurilor imobile care aparțin domeniului privat al UAT Șipote",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9628",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9628",
      "sha256": null
     }
    ]
@@ -438,6 +498,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-28-2020",
+   "path": "local/iasi/sipote/2020/28",
+   "short": "HCL Șipote nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 28/2020 privind aprobarea procesului verbal al ședinței ordinare din data de 19 februarie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9674",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-29-2020",
+   "path": "local/iasi/sipote/2020/29",
+   "short": "HCL Șipote nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 29/2020 privind aprobarea necesității și oportunității achiziționării unei mașini autospeciale pentru stingereaincendiilor, pentru dotarea Serviciului Voluntar pentru Situații de Urgență pentru Comuna Șipote, județul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9675",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9675",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-3-2020",
    "path": "local/iasi/sipote/2020/3",
    "short": "HCL Șipote nr. 3/2020",
@@ -448,6 +538,66 @@
      "from": "2020-01-09",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9612",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-30-2020",
+   "path": "local/iasi/sipote/2020/30",
+   "short": "HCL Șipote nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 30/2020 privind achiziționarea directă de granule, criblură, nisip fin, pietre mici, pietriș, piatră fărâmițată și concasată, amestec de nisip și pietriș și alte agregate (refuz ciur), cod CPV 14212000-0",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9676",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-31-2020",
+   "path": "local/iasi/sipote/2020/31",
+   "short": "HCL Șipote nr. 31/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 31/2020 privind aprobarea achiziționării directe a unui număr de 20 buc tuburi cu diametrul de 500 de tuburi, conducte și racorduri din beton",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9677",
+   "versions": [
+    {
+     "from": "2020-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-32-2020",
+   "path": "local/iasi/sipote/2020/32",
+   "short": "HCL Șipote nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 32/2020 privind aprobarea ordinii de zi a ședinței ''extraordinară'' din data de 5 martie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9678",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-33-2020",
+   "path": "local/iasi/sipote/2020/33",
+   "short": "HCL Șipote nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 33/2020 privind aprobarea procesului verbal al ședinței extraordinare din data de 25 februarie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9679",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9679",
      "sha256": null
     }
    ]
@@ -483,6 +633,66 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-36-2020",
+   "path": "local/iasi/sipote/2020/36",
+   "short": "HCL Șipote nr. 36/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 36/2020 privind modificarea și completarea HCL nr. 11 din 30.01.2020 privind însușirea raportului de activitate al personalului din cadrul aparatului de specialitate al primarului comunei Șipote pe anul 2019",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9682",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9682",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-37-2020",
+   "path": "local/iasi/sipote/2020/37",
+   "short": "HCL Șipote nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 37/2020 privind modificarea și completarea HCL nr. 18 din 19.02.2020 privind aprobarea Procedurii de închiriere a bunurilor care aparțin domeniului public și domeniului privat al comunei Șipote, județul Iași, aflate în administrarea Consiliului Local al Comunei Șipote",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9683",
+   "versions": [
+    {
+     "from": "2020-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9683",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-38-2020",
+   "path": "local/iasi/sipote/2020/38",
+   "short": "HCL Șipote nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 38/2020 privind aprobarea ordinii de zi a ședinței ''ordinară'' din data de 30 martie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9684",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9684",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-39-2020",
+   "path": "local/iasi/sipote/2020/39",
+   "short": "HCL Șipote nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 39/2020 privind aprobarea procesului verbal al ședinței extraordinare din data de 5 martie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9685",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-4-2020",
    "path": "local/iasi/sipote/2020/4",
    "short": "HCL Șipote nr. 4/2020",
@@ -493,6 +703,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9613",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-40-2020",
+   "path": "local/iasi/sipote/2020/40",
+   "short": "HCL Șipote nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 40/2020 privind aprobarea Graficului de ședințe ordinare pentru Trimestrul II 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9686",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9686",
      "sha256": null
     }
    ]
@@ -513,6 +738,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-42-2020",
+   "path": "local/iasi/sipote/2020/42",
+   "short": "HCL Șipote nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 42/2020 privind acordarea de mandat special în vederea exprimării votului în AGA ARSACIS referitor la completarea, modificarea și actualizarea Actului Constitutiv și Statutului Asociației Regionale a Serviciilor de Apă Canal Iași - ARSACIS",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9688",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9688",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-43-2020",
    "path": "local/iasi/sipote/2020/43",
    "short": "HCL Șipote nr. 43/2020",
@@ -523,6 +763,21 @@
      "from": "2020-03-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9689",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-44-2020",
+   "path": "local/iasi/sipote/2020/44",
+   "short": "HCL Șipote nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 44/2020 privind aprobarea Statutului Comunei Șipote, județul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9690",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9690",
      "sha256": null
     }
    ]
@@ -573,6 +828,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-48-2020",
+   "path": "local/iasi/sipote/2020/48",
+   "short": "HCL Șipote nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 48/2020 privind aprobarea concesionării prin licitație publică deschisă cu plic închis (atribuire directă, în cazul în care după două licitații deschise cu plic închis, consecutive, nu s-a depus decât o ofertă), a pășunii comunale în suprafață de 118,72 ha, evidențiată în inventarul domeniului public al comunei Șipote, județul Iași",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9694",
+   "versions": [
+    {
+     "from": "2020-03-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9694",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-49-2020",
    "path": "local/iasi/sipote/2020/49",
    "short": "HCL Șipote nr. 49/2020",
@@ -618,6 +888,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-51-2020",
+   "path": "local/iasi/sipote/2020/51",
+   "short": "HCL Șipote nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 51/2020 privind aprobarea ordinii de zi a ședinței ''ordinară'' din data de 29 aprilie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9698",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9698",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-52-2020",
    "path": "local/iasi/sipote/2020/52",
    "short": "HCL Șipote nr. 52/2020",
@@ -633,6 +918,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-53-2020",
+   "path": "local/iasi/sipote/2020/53",
+   "short": "HCL Șipote nr. 53/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 53/2020 privind aprobarea procesului verbal al ședinței ordinare din data de 30 martie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9700",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9700",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-54-2020",
    "path": "local/iasi/sipote/2020/54",
    "short": "HCL Șipote nr. 54/2020",
@@ -643,6 +943,21 @@
      "from": "2020-04-29",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-55-2020",
+   "path": "local/iasi/sipote/2020/55",
+   "short": "HCL Șipote nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 55/2020 privind aprobarea achiziției directă de pietriș, nisip, piatră concasată și agregate",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9702",
+   "versions": [
+    {
+     "from": "2020-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9702",
      "sha256": null
     }
    ]
@@ -738,6 +1053,36 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-61-2020",
+   "path": "local/iasi/sipote/2020/61",
+   "short": "HCL Șipote nr. 61/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 61/2020 privind aprobare proces verbal sedinta ordinara 29 aprilie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19355",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19355",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-62-2020",
+   "path": "local/iasi/sipote/2020/62",
+   "short": "HCL Șipote nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 62/2020 privind alegere președinte de ședință pe lunile iunie , iulie, august 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19356",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19356",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-63-2020",
    "path": "local/iasi/sipote/2020/63",
    "short": "HCL Șipote nr. 63/2020",
@@ -798,6 +1143,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-67-2020",
+   "path": "local/iasi/sipote/2020/67",
+   "short": "HCL Șipote nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 67/2020 privind acordare mandat modificare tarif colectare si transport deseuri menajere",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19361",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-68-2020",
+   "path": "local/iasi/sipote/2020/68",
+   "short": "HCL Șipote nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 68/2020 privind aprobare ordine de zi ședință ordinara 28 mai 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19362",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-69-2020",
+   "path": "local/iasi/sipote/2020/69",
+   "short": "HCL Șipote nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 69/2020 privind aprobare proces verbal ședință ordinară 28 mai 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19363",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19363",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-7-2020",
    "path": "local/iasi/sipote/2020/7",
    "short": "HCL Șipote nr. 7/2020",
@@ -808,6 +1198,21 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9616",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-70-2020",
+   "path": "local/iasi/sipote/2020/70",
+   "short": "HCL Șipote nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 70/2020 privind aprobare Act aditional nr 37 la contract de delegare nr 48/2009",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19364",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19364",
      "sha256": null
     }
    ]
@@ -828,6 +1233,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-72-2020",
+   "path": "local/iasi/sipote/2020/72",
+   "short": "HCL Șipote nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 72/2020 privind aprobarea graficului de ședințe pe trimestrul III 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19366",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19366",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-73-2020",
    "path": "local/iasi/sipote/2020/73",
    "short": "HCL Șipote nr. 73/2020",
@@ -843,6 +1263,111 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-74-2020",
+   "path": "local/iasi/sipote/2020/74",
+   "short": "HCL Șipote nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 74/2020 privind insusire si aprobare documentatie cadastrala CF 60711",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19368",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-75-2020",
+   "path": "local/iasi/sipote/2020/75",
+   "short": "HCL Șipote nr. 75/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 75/2020 privind însușire și aprobare documentație cadastrală CF 60598",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19369",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-76-2020",
+   "path": "local/iasi/sipote/2020/76",
+   "short": "HCL Șipote nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 76/2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19370",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19370",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-77-2020",
+   "path": "local/iasi/sipote/2020/77",
+   "short": "HCL Șipote nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 77/2020 privind aprobare ordine de zi ședință ordinară 29 iunie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19371",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19371",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-78-2020",
+   "path": "local/iasi/sipote/2020/78",
+   "short": "HCL Șipote nr. 78/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 78/2020 privind aprobare proces verbal ședință ordinară 29 iunie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19383",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-79-2020",
+   "path": "local/iasi/sipote/2020/79",
+   "short": "HCL Șipote nr. 79/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 79/2020 privind aprobare ordine de zi ședință de îndată 6 iulie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19384",
+   "versions": [
+    {
+     "from": "2020-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-8-2020",
+   "path": "local/iasi/sipote/2020/8",
+   "short": "HCL Șipote nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 8/2020 privind modificarea și completarea Organigramei și Statului de funcții",
+   "url": "https://emol.ro/sipote-is/registru-hcl/9617",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/9617",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-80-2020",
    "path": "local/iasi/sipote/2020/80",
    "short": "HCL Șipote nr. 80/2020",
@@ -853,6 +1378,36 @@
      "from": "2020-07-06",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/19385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-81-2020",
+   "path": "local/iasi/sipote/2020/81",
+   "short": "HCL Șipote nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 81/2020 privind aprobare proces verbal sedință de îndată 6 iulie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19386",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-82-2020",
+   "path": "local/iasi/sipote/2020/82",
+   "short": "HCL Șipote nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 82/2020 privind aprobare ordine de zi ședință extraordinară 10 iulie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19387",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19387",
      "sha256": null
     }
    ]
@@ -888,6 +1443,51 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-85-2020",
+   "path": "local/iasi/sipote/2020/85",
+   "short": "HCL Șipote nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 85/2020 privind vânzarea prin licitație publică deschisă cu ofertă la plic închis (negociere directă) a unui număr de 3 apartamente situate in domeniul privat",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19390",
+   "versions": [
+    {
+     "from": "2020-07-10",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-86-2020",
+   "path": "local/iasi/sipote/2020/86",
+   "short": "HCL Șipote nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 86/2020 privind aprobare proces verbal ședință extraordinară 10 iulie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19391",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-87-2020",
+   "path": "local/iasi/sipote/2020/87",
+   "short": "HCL Șipote nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 87/2020 privind aprobare ordine de zi ședință ordinară 20 iulie 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19392",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19392",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-88-2020",
    "path": "local/iasi/sipote/2020/88",
    "short": "HCL Șipote nr. 88/2020",
@@ -903,6 +1503,21 @@
    ]
   },
   {
+   "slug": "hcl-iasi--sipote-89-2020",
+   "path": "local/iasi/sipote/2020/89",
+   "short": "HCL Șipote nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 89/2020 privind alocare sprijin financiar Parohiilor de pe raza Comunei Șipote",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19394",
+   "versions": [
+    {
+     "from": "2020-07-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19394",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-iasi--sipote-9-2020",
    "path": "local/iasi/sipote/2020/9",
    "short": "HCL Șipote nr. 9/2020",
@@ -913,6 +1528,36 @@
      "from": "2020-01-30",
      "units": 1,
      "source_url": "https://emol.ro/sipote-is/registru-hcl/9618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-90-2020",
+   "path": "local/iasi/sipote/2020/90",
+   "short": "HCL Șipote nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 90/2020 privind aprobarea procesului verbal al ședinței de îndată din data de 24.07.2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19401",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-iasi--sipote-91-2020",
+   "path": "local/iasi/sipote/2020/91",
+   "short": "HCL Șipote nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Șipote nr. 91/2020 privind aprobarea procesului verbal al sedintei de indata din 06 august 2020",
+   "url": "https://emol.ro/sipote-is/registru-hcl/19402",
+   "versions": [
+    {
+     "from": "2020-07-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sipote-is/registru-hcl/19402",
      "sha256": null
     }
    ]
