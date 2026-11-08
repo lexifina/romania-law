@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/dorobantu/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--dorobantu-39-2024",
+   "path": "local/tulcea/dorobantu/2024/39",
+   "short": "HCL Dorobanțu nr. 39/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 39/2024 privind aprobarea procedurii referitoare la anularea dobânzilor, penalităților și a tuturor accesoriile aferente obligațiilor bugetare principale, restante la data de 31 august 2024 inclusiv, datorate bugetului local de catre contribuabilii de pe raza administrativ teritoriala a comunei Dorobantu , judetul Tulcea",
+   "url": "https://emol.ro/dorobantu-tl/registru-hcl/176704",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 1,
+     "source_url": "https://emol.ro/dorobantu-tl/registru-hcl/176704",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--dorobantu-45-2024",
+   "path": "local/tulcea/dorobantu/2024/45",
+   "short": "HCL Dorobanțu nr. 45/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 45/2024 privind stabilirea impozitelor și taxelor locale ce constitue venituri proprii ale Comunei Dorobantu , judetul Tulcea pentru anul fiscal 2025",
+   "url": "https://emol.ro/dorobantu-tl/registru-hcl/185219",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dorobantu-tl/registru-hcl/185219",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--dorobantu-46-2024",
+   "path": "local/tulcea/dorobantu/2024/46",
+   "short": "HCL Dorobanțu nr. 46/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 46/2024 privind însușirea Acordului de cooperare privind organizarea și exercitarea activității de gestionare a câinilor fără stăpăn",
+   "url": "https://emol.ro/dorobantu-tl/registru-hcl/185220",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/dorobantu-tl/registru-hcl/185220",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

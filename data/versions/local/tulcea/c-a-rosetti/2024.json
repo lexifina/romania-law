@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/c-a-rosetti/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-12-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/12",
+   "short": "HCL C.A. Rosetti nr. 12/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 12/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/160201",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/160201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-23-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/23",
+   "short": "HCL C.A. Rosetti nr. 23/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 23/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/174196",
+   "versions": [
+    {
+     "from": "2024-10-31",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/174196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-3-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/3",
+   "short": "HCL C.A. Rosetti nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 3/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/144464",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/144464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-33-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/33",
+   "short": "HCL C.A. Rosetti nr. 33/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 33/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/181873",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/181873",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-34-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/34",
+   "short": "HCL C.A. Rosetti nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 34/2024 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/181874",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/181874",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-35-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/35",
+   "short": "HCL C.A. Rosetti nr. 35/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 35/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/181875",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/181875",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-7-2024",
+   "path": "local/tulcea/c-a-rosetti/2024/7",
+   "short": "HCL C.A. Rosetti nr. 7/2024",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 7/2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/144468",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/144468",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -181,6 +181,186 @@
      "sha256": null
     }
    ]
+  },
+  {
+   "slug": "hcl-timis--masloc-23-2020",
+   "path": "local/timis/masloc/2020/23",
+   "short": "HCL Mașloc nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 23/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20884",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20884",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-24-2020",
+   "path": "local/timis/masloc/2020/24",
+   "short": "HCL Mașloc nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 24/2020 privind organizarea comisiilor de specialitate pe principalele domenii de activitate",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20885",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20885",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-25-2020",
+   "path": "local/timis/masloc/2020/25",
+   "short": "HCL Mașloc nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 25/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local Mașloc",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20886",
+   "versions": [
+    {
+     "from": "2020-11-04",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20886",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-26-2020",
+   "path": "local/timis/masloc/2020/26",
+   "short": "HCL Mașloc nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 26/2020 privind rectificarea bugetului local",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20887",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20887",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-29-2020",
+   "path": "local/timis/masloc/2020/29",
+   "short": "HCL Mașloc nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 29/2020 privind aprobarea organizării reţelei şcolare de pe raza UAT com. Mașloc, pentru anul şcolar 2021 - 2022",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20890",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20890",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-3-2020",
+   "path": "local/timis/masloc/2020/3",
+   "short": "HCL Mașloc nr. 3/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 3/2020 privind aprobarea statului de funcții și organigramei",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/2160",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/2160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-30-2020",
+   "path": "local/timis/masloc/2020/30",
+   "short": "HCL Mașloc nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 30/2020 privind stabilirea impozitelor şi taxelor locale aplicabile în anul fiscal 2021",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20891",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20891",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-4-2020",
+   "path": "local/timis/masloc/2020/4",
+   "short": "HCL Mașloc nr. 4/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 4/2020 privind aprobarea indicatorilor tehnico-economici și a Devizului General actualizat după licitația de execuție lucrări pentru obiectivul de investiții: ”Construire corp Școală Gimnazială comuna Mașloc, în comuna Mașloc, loc. Mașloc, jud. Timiș”",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/2161",
+   "versions": [
+    {
+     "from": "2020-02-19",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/2161",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-6-2020",
+   "path": "local/timis/masloc/2020/6",
+   "short": "HCL Mașloc nr. 6/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 6/2020 privind rectificarea bugetului local",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20856",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20856",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-7-2020",
+   "path": "local/timis/masloc/2020/7",
+   "short": "HCL Mașloc nr. 7/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 7/2020 privind acordarea de burse elevilor",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20857",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20857",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-8-2020",
+   "path": "local/timis/masloc/2020/8",
+   "short": "HCL Mașloc nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 8/2020 privind prelungirea termenului de valabilitate a documentației PLAN URBANISTIC GENERAL și REGULAMNENT LOCAL DE URBANISM",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20858",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20858",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--masloc-9-2020",
+   "path": "local/timis/masloc/2020/9",
+   "short": "HCL Mașloc nr. 9/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Mașloc nr. 9/2020 privind declararea ca investiție de utilitate publică obiectivului „Construire capelă mortuară în loc. Maşloc\"",
+   "url": "https://emol.ro/masloc-tm/registru-hcl/20859",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/masloc-tm/registru-hcl/20859",
+     "sha256": null
+    }
+   ]
   }
  ]
 }

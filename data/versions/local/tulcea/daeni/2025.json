@@ -1,0 +1,156 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/daeni/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--daeni-2-2025",
+   "path": "local/tulcea/daeni/2025/2",
+   "short": "HCL Dăeni nr. 2/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 2/2025 privind aprobarea Programului de salubrizare al comunei Dăeni, județul Tulcea, pe anul 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189710",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-21-2025",
+   "path": "local/tulcea/daeni/2025/21",
+   "short": "HCL Dăeni nr. 21/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 21/2025 privind aprobarea Programului de acțiuni comunitare la nivelul comunei Dăeni, aferent anului 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/209320",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/209320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-3-2025",
+   "path": "local/tulcea/daeni/2025/3",
+   "short": "HCL Dăeni nr. 3/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 3/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pentru persoanele apte de muncă, din familiile beneficiare de venit minim de incluziune, pentru anul 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189711",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-36-2025",
+   "path": "local/tulcea/daeni/2025/36",
+   "short": "HCL Dăeni nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 36/2025 privind aprobarea Planului de măsuri edilitar gospodărești la nivelul comunei Dăeni, județul Tulcea",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/225516",
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/225516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-4-2025",
+   "path": "local/tulcea/daeni/2025/4",
+   "short": "HCL Dăeni nr. 4/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 4/2025 privind aprobarea Planului de acțiuni și lucrări de interes local pentru persoanele care vor presta muncă neremunerată în folosul comunității, ca obligație stabilită de instanța de judecată, pentru anul 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189712",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189712",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-5-2025",
+   "path": "local/tulcea/daeni/2025/5",
+   "short": "HCL Dăeni nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 5/2025 privind aprobarea cantității de apă pierdută prin procesul tehnologic la Serviciul de alimentare cu apă și canalizare Dăeni în anul 2024",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189713",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189713",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-51-2025",
+   "path": "local/tulcea/daeni/2025/51",
+   "short": "HCL Dăeni nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 51/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/240917",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/240917",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-56-2025",
+   "path": "local/tulcea/daeni/2025/56",
+   "short": "HCL Dăeni nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 56/2025 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale, pentru anul 2026",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/243333",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/243333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-6-2025",
+   "path": "local/tulcea/daeni/2025/6",
+   "short": "HCL Dăeni nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 6/2025 privind aprobarea cotei de carburanți pentru autovehiculele și utilajele ce fac parte din parcul auto al Primăriei comunei Dăeni pentru anul 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189714",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--daeni-8-2025",
+   "path": "local/tulcea/daeni/2025/8",
+   "short": "HCL Dăeni nr. 8/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dăeni nr. 8/2025 privind actualizarea Planului de analiză și acoperire a riscurilor pe teritoriul comunei Dăeni pentru anul 2025",
+   "url": "https://emol.ro/daeni-tl/registru-hcl/189716",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://emol.ro/daeni-tl/registru-hcl/189716",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

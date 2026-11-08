@@ -1,0 +1,756 @@
+{
+ "country": "RO",
+ "shard": "local/timis/traian-vuia/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--traian-vuia-1-2022",
+   "path": "local/timis/traian-vuia/2022/1",
+   "short": "HCL Traian Vuia nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 1/2022 privind bugetul local inițial al Comunei Traian Vuia pe anul 2022 și estimările pe anii 2023,2024 și 2025",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53246",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-10-2022",
+   "path": "local/timis/traian-vuia/2022/10",
+   "short": "HCL Traian Vuia nr. 10/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 10/2022 privind aprobarea inventarului domeniului privat al U.A.T Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53254",
+   "versions": [
+    {
+     "from": "2022-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-12-2022",
+   "path": "local/timis/traian-vuia/2022/12",
+   "short": "HCL Traian Vuia nr. 12/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 12/2022 privind aprobarea modificării Organigramei și Statului de funcții pentru funcționarii publici si personalul contractual din cadrul aparatului de specialitate al primarului comunei Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/57669",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/57669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-13-2022",
+   "path": "local/timis/traian-vuia/2022/13",
+   "short": "HCL Traian Vuia nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 13/2022 privind îndreptarea unor erori materiale din cuprinsul Hotărârii Consiliului Local al comunei Traian Vuia nr.36/24.11.2021, prin care se aproba stabilirea impozitelor și taxelor locale pentru anu 2022, în comuna Traian Vuia, neconcordată din art.238 sin legea nr.98/2016, privind achizițiile publice",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/57670",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/57670",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-14-2022",
+   "path": "local/timis/traian-vuia/2022/14",
+   "short": "HCL Traian Vuia nr. 14/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 14/2022 privind aprobarea lanului de acțiuni și lucrări de interes local pentru persoanele apte de mucă din familiile beneficiare de venit minim garantat pentru anul 2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/57671",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/57671",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-15-2022",
+   "path": "local/timis/traian-vuia/2022/15",
+   "short": "HCL Traian Vuia nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 15/2022 privind aprobarea indicatorilor tehno-economici, cofinanțarea si participarea la Programul Național de Investiții Anghel Saligny pentru obiectivul de investiție ; ÎNFIINȚARE REȚELE DE DISTRIBUȚIE A GAZELOR NATURALE ÎN UNITĂȚILE ADMINISTRATIV TERITORIALE MEMBRE ÎN CADRUL ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNITARĂ DISTRIBUȚIE GAZ TIMIS EST",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/58317",
+   "versions": [
+    {
+     "from": "2022-04-21",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/58317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-16-2022",
+   "path": "local/timis/traian-vuia/2022/16",
+   "short": "HCL Traian Vuia nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 16/2022 privind aprobarea indexarii nivelurilor impozitelor si taxelor locale care constau intr-o anumita suma in lei care sunt stabilite pe baza unei anumite sume in lei, a taxelor speciale precum si limitele amenzilor care se fac venit la bugetul local, aplicabile in anul fiscal 2023, cu rata inflatiei de 5.1%",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/64258",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/64258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-17-2022",
+   "path": "local/timis/traian-vuia/2022/17",
+   "short": "HCL Traian Vuia nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 17/2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/64259",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/64259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-18-2022",
+   "path": "local/timis/traian-vuia/2022/18",
+   "short": "HCL Traian Vuia nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 18/2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/64260",
+   "versions": [
+    {
+     "from": "2022-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/64260",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-19-2022",
+   "path": "local/timis/traian-vuia/2022/19",
+   "short": "HCL Traian Vuia nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 19/2022 privind acordarea unui mandat special imputernicitului Consiliului Local al comunei Traian Vuia in Adunarea Generala ordinara a Asociatilor Asociatiei de Dezvoltare Intercomunitara Apa-Canal Timis",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/64261",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/64261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-2-2022",
+   "path": "local/timis/traian-vuia/2022/2",
+   "short": "HCL Traian Vuia nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 2/2022 privind utilizarea excedentului bugetului comunei Traian Vuia din anul 2021 în anul 2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53247",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-20-2022",
+   "path": "local/timis/traian-vuia/2022/20",
+   "short": "HCL Traian Vuia nr. 20/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 20/2022 privind aprobarea contului de incheiere a executiei bugetare pe anul 2021",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/64262",
+   "versions": [
+    {
+     "from": "2022-05-30",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/64262",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-22-2022",
+   "path": "local/timis/traian-vuia/2022/22",
+   "short": "HCL Traian Vuia nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 22/2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/68304",
+   "versions": [
+    {
+     "from": "2022-06-16",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/68304",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-23-2022",
+   "path": "local/timis/traian-vuia/2022/23",
+   "short": "HCL Traian Vuia nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 23/2022 privind prelungirea până la data de 24,03,2023 a Scrisorii de garanție de la FNGCIMMSA IFM nr. 75/21.02.2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/68305",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/68305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-24-2022",
+   "path": "local/timis/traian-vuia/2022/24",
+   "short": "HCL Traian Vuia nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 24/2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/68306",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/68306",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-25-2022",
+   "path": "local/timis/traian-vuia/2022/25",
+   "short": "HCL Traian Vuia nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 25/2022 privind schimbarea destinației imobilului cu numărul cadastral 401724, situat în localitatea Traian Vuia nr.31, comuna Traian Vuia, județul Timiș din CLĂDIRE ADMINISTRATIVĂ în imobil cu lată destinație, respectiv DISPENSAR MEDICAL aparținând domeniului privat de interes local al comunei Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69376",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-26-2022",
+   "path": "local/timis/traian-vuia/2022/26",
+   "short": "HCL Traian Vuia nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 26/2022 privind îndreptarea unei erori materiale din cuprinsul Hotărârii Consiliului Local al comunei Traian Vuia nr.10 din 25,02,2022, prin care se peroba inventarul domeniului privat al comunei Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69377",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-27-2022",
+   "path": "local/timis/traian-vuia/2022/27",
+   "short": "HCL Traian Vuia nr. 27/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 27/2022 privind revocarea HCL nr.18 din data de 13,05,2022 privind aprobarea cererii de finațare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor publice și administrației a proiectului privind obiectivul Asigurarea infrastructurii pentru transportul verde în comuna Traian Vuia - realizarea de piste de biciclete la nivel local",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69378",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-28-2022",
+   "path": "local/timis/traian-vuia/2022/28",
+   "short": "HCL Traian Vuia nr. 28/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 28/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69404",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-29-2022",
+   "path": "local/timis/traian-vuia/2022/29",
+   "short": "HCL Traian Vuia nr. 29/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 29/2022 privind participarea comunei Traian Vuia la Programul privind creșterea eficienței energetice a infrastructurii de iluminat public și pentru aprobarea devizului general pentru proiectul MODERNIZARE ILUMINAT PUBLIC STRADAL ÎN COMUNA TRAIAN VUIA, JUDEȚUL TIMIȘ PRIN PROGRAMUL PRIVIND CREȘTEREA EFICIENȚEI ENERGETICE A INFRASTRUCTURII DE ILUMINAT PUBLIC",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69405",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-3-2022",
+   "path": "local/timis/traian-vuia/2022/3",
+   "short": "HCL Traian Vuia nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 3/2022 privind majorarea taxei de salubrizare",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/68317",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/68317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-30-2022",
+   "path": "local/timis/traian-vuia/2022/30",
+   "short": "HCL Traian Vuia nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 30/2022 privind aprobarea modicărilor Statutului ASOCIAȚIEI DE DEZVOLTARE INTERCOMUNICARĂ DISTRIBUȚIE GAZ TIMIȘ EST ( A.D.I GAZ TIMIȘ EST)",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/69406",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/69406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-31-2022",
+   "path": "local/timis/traian-vuia/2022/31",
+   "short": "HCL Traian Vuia nr. 31/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 31/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE ÎN COMUNA TRAIAN VUIA - REALIZAREA DE PISTE PENTRU BICICLETE LA NIVEL LOCAL",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/75522",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/75522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-32-2022",
+   "path": "local/timis/traian-vuia/2022/32",
+   "short": "HCL Traian Vuia nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 32/2022 privind aprobarea modificării folosirii excedentului repartizat în bugetul de venituri și cheltuieli inițial",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/75523",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/75523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-33-2022",
+   "path": "local/timis/traian-vuia/2022/33",
+   "short": "HCL Traian Vuia nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 33/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022, în comuna Traian Vuia , Județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/75524",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/75524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-34-2022",
+   "path": "local/timis/traian-vuia/2022/34",
+   "short": "HCL Traian Vuia nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 34/2022 privind încheierea contractului de concesiune a spațiului cu destinația de dispensar medical situat în localitatea Traian Vuia, nr. 31, înscris în CF nr. 401724 Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/75535",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/75535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-35-2022",
+   "path": "local/timis/traian-vuia/2022/35",
+   "short": "HCL Traian Vuia nr. 35/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 35/2022 privind atestarea apartenenței la domeniul privat al comunei Traian Vuia și administrarea Consiliului Local Traian Vuia, a terenului înscris in CF nr. 401821 în suprafața de 5000 mp",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/75536",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/75536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-36-2022",
+   "path": "local/timis/traian-vuia/2022/36",
+   "short": "HCL Traian Vuia nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 36/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE ÎN COMUNA TRAIAN VUIA - REALIZAREA DE PISTE PENTRU BICICLETE LA NIVEL LOCAL, ETAPA 2",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/78256",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/78256",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-37-2022",
+   "path": "local/timis/traian-vuia/2022/37",
+   "short": "HCL Traian Vuia nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 37/2022 privind asocierea între Comuna Traian Vuia prin Consiliul Local al Comunei Traian Vuia cu Municipiul Lugoj și cu celelalte unități administrativ-teritoriale aflate în teritoriul metropolitan, în vederea constituirii pe bază de parteneriat a unei Asociații de Dezvoltare Intercomunitară -Zona Metropolitană Lugoj",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/78257",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/78257",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-38-2022",
+   "path": "local/timis/traian-vuia/2022/38",
+   "short": "HCL Traian Vuia nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 38/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022, pe trim. III, în comuna Traian Vuia , Județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/78258",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/78258",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-39-2022",
+   "path": "local/timis/traian-vuia/2022/39",
+   "short": "HCL Traian Vuia nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 39/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE ÎN COMUNA TRAIAN VUIA - REALIZAREA DE PISTE PENTRU BICICLETE LA NIVEL LOCAL",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/78259",
+   "versions": [
+    {
+     "from": "2022-12-29",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/78259",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-4-2022",
+   "path": "local/timis/traian-vuia/2022/4",
+   "short": "HCL Traian Vuia nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 4/2022 privind majorarea valorii contractului de prestări servicii nr. 616/09,03,2021",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53248",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-40-2022",
+   "path": "local/timis/traian-vuia/2022/40",
+   "short": "HCL Traian Vuia nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 40/2022 privind aprobarea cererii de finanțare și a devizului general estimativ pentru depunerea la Ministerul Dezvoltării, Lucrărilor Publice și Administrației a proiectului privind obiectivul EXTINDERE REȚEA DE CANALIZRE SI STAȚIE DE EPURARE ÎN COMUNA TRAIAN VUIA, JUDEȚUL TIMIȘ",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85606",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-41-2022",
+   "path": "local/timis/traian-vuia/2022/41",
+   "short": "HCL Traian Vuia nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 41/2022 privind aprobarea studiului de fezabilitate/documentația de avizare a lucrărilor de intervenții aferentă investiției aprobate prin lista obiectivelor de investiții finanțate prin Programul Național de Investiții ANGHEL SALIGHNY, aprobare indicatori tehnico-economici inițiali ai investiției și a indicatorii actualizați, anexați la prezenta hotărâre, a obiectivului EXTINDERE REȚEA DE CANALIZARE ȘI STAȚIE DE EPURARE ÎN COMUNA TRAIAN VUIA, JUDEȚUL TIMIȘ",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85607",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85607",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-42-2022",
+   "path": "local/timis/traian-vuia/2022/42",
+   "short": "HCL Traian Vuia nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 42/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022, în Comuna Traian Vuia , județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85608",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85608",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-43-2022",
+   "path": "local/timis/traian-vuia/2022/43",
+   "short": "HCL Traian Vuia nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 43/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022, în comuna Traian Vuia, județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85700",
+   "versions": [
+    {
+     "from": "2023-01-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-44-2022",
+   "path": "local/timis/traian-vuia/2022/44",
+   "short": "HCL Traian Vuia nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 44/2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023, în comuna traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85707",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85707",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-45-2022",
+   "path": "local/timis/traian-vuia/2022/45",
+   "short": "HCL Traian Vuia nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 45/2022 privind aprobarea Proietului privind Rețeaua Școlară a unitățiilor de învățământ preuniversitar de stat de pe raza Comunei Traian Vuia, pentru anul școlar 2023-2024",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85708",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-46-2022",
+   "path": "local/timis/traian-vuia/2022/46",
+   "short": "HCL Traian Vuia nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 46/2022 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2022, trimestrul IV, în comuna Traian Vuia, Judeșul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85709",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85709",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-47-2022",
+   "path": "local/timis/traian-vuia/2022/47",
+   "short": "HCL Traian Vuia nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 47/2022 privind participarea comunei Traian Vuia la implementarea proiectului din investiția I.4 IMPLEMENTAREA A 3000 KM DE TRASEE CICLOTURISTICE LA NIVEL NATIONAL finanțat prin PNRR, Componenta 11 - Turism și Cultură",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85710",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-48-2022",
+   "path": "local/timis/traian-vuia/2022/48",
+   "short": "HCL Traian Vuia nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 48/2022 privind aprobarea documentației a cheltuielilor legate de proiect și a indicatorilor legați acestuia pentru proiectul de investiție UTILIZAREA ENERGIEI DIN SURSE REGENERABILE ÎN CLĂDIRILE PUBLICE DIN COMUNA TRAIAN VUIA, JUDEȚUL TIMIȘ",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85711",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85711",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-49-2022",
+   "path": "local/timis/traian-vuia/2022/49",
+   "short": "HCL Traian Vuia nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 49/2022 privind revocarea Hotarârii Nr. 35 din data de 30,09,2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85757",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-5-2022",
+   "path": "local/timis/traian-vuia/2022/5",
+   "short": "HCL Traian Vuia nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 5/2022 privind aprobarea Rețelei Școlare a unităților de învățământ preuniversitar se stat de pe raza comunei Traian Vuia, pentru anul 2022-2023",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53249",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-50-2022",
+   "path": "local/timis/traian-vuia/2022/50",
+   "short": "HCL Traian Vuia nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 50/2022 privind aprobare solicitare prelugirii până la data de 24,09,2023 a Scrisorii de garanție de la FNGCIMM SA IFN nr. 75/21,02,2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85758",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85758",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-51-2022",
+   "path": "local/timis/traian-vuia/2022/51",
+   "short": "HCL Traian Vuia nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 51/2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85759",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85759",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-52-2022",
+   "path": "local/timis/traian-vuia/2022/52",
+   "short": "HCL Traian Vuia nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 52/2022 privind rectificarea bugetului de Venituri și Cheltuieli pe anul 2022, în Comuna Traian Vuia, Județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/85760",
+   "versions": [
+    {
+     "from": "2023-05-15",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/85760",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-6-2022",
+   "path": "local/timis/traian-vuia/2022/6",
+   "short": "HCL Traian Vuia nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 6/2022 privind aprobarea documentației cadastrale de dezlipire (dezmembrare) CF 403578",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53250",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-7-2022",
+   "path": "local/timis/traian-vuia/2022/7",
+   "short": "HCL Traian Vuia nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 7/2022 privind aprobarea documentației cadastrale de dezlipire (dezmembrare) CF 400105",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53251",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53251",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-8-2022",
+   "path": "local/timis/traian-vuia/2022/8",
+   "short": "HCL Traian Vuia nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 8/2022 privind aprobarea documentației cadastrale de dezlipire (dezmembrare) CF 403142",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53252",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-9-2022",
+   "path": "local/timis/traian-vuia/2022/9",
+   "short": "HCL Traian Vuia nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 9/2022 privind întocmirea documentației de intabulare pentru drumul de exploatare DE1482/4/2 situat în localitatea Surducu-Mic, comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/53253",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/53253",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

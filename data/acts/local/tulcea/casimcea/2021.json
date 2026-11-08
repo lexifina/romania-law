@@ -1,0 +1,72 @@
+{
+"country": "RO",
+"shard": "local/tulcea/casimcea/2021",
+"acts": [
+{
+"slug": "hcl-tulcea--casimcea-5-2021",
+"path": "local/tulcea/casimcea/2021/5",
+"kind": "local",
+"year": "2021",
+"number": "5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 5/2021 privind aprobarea înrolării Primărie Casimcea în sistemul Ghișeul .ro",
+"short": "HCL Casimcea nr. 5/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://emol.ro/casimcea-tl/registru-hcl/22116",
+"council": "tulcea/casimcea",
+"council_name": "Consiliul Local al Comunei Casimcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--casimcea-11-2021",
+"path": "local/tulcea/casimcea/2021/11",
+"kind": "local",
+"year": "2021",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 11/2021 privind indexarea impozitelor și Txelor locale pentru anul 2022 cu rata infației de 2,6%",
+"short": "HCL Casimcea nr. 11/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-12",
+"latest": "2021-03-12",
+"portal": "https://emol.ro/casimcea-tl/registru-hcl/22122",
+"council": "tulcea/casimcea",
+"council_name": "Consiliul Local al Comunei Casimcea",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--casimcea-12-2021",
+"path": "local/tulcea/casimcea/2021/12",
+"kind": "local",
+"year": "2021",
+"number": "12",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 12/2021 privind radierea unor debite restante fără posibilitate de recuperare și desființarea rolurilor cu pricina",
+"short": "HCL Casimcea nr. 12/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-03-12",
+"latest": "2021-03-12",
+"portal": "https://emol.ro/casimcea-tl/registru-hcl/22123",
+"council": "tulcea/casimcea",
+"council_name": "Consiliul Local al Comunei Casimcea",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

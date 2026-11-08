@@ -1,0 +1,1476 @@
+{
+ "country": "RO",
+ "shard": "local/timis/sacalaz/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--sacalaz-10-2020",
+   "path": "local/timis/sacalaz/2020/10",
+   "short": "HCL Săcălaz nr. 10/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 10/2020 privind stabilirea de măsuri privind Registrul agricol pentru perioada 2020-2024",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6544",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-100-2020",
+   "path": "local/timis/sacalaz/2020/100",
+   "short": "HCL Săcălaz nr. 100/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 100/2020 privind stabilirea categoriilor d epersoane care beneficiaza de gratuitati sau reduceri la plata transportului si aprobarea tarifelor aplicabile pe rutele Timisoara-Sacalaz-beregsau Mare-Beregsau Mic si retur, incepand cu luna septembrie 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11569",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-102-2020",
+   "path": "local/timis/sacalaz/2020/102",
+   "short": "HCL Săcălaz nr. 102/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 102/2020 privind aprobarea depunerii proiectului,, Infiinatrea retea de distributie gaze naturale presiune medie in zona Sacalaz, Beregsau Mare si Beregsau Mic si achizitionarea servicilor de consultanta aferente",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11581",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11581",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-103-2020",
+   "path": "local/timis/sacalaz/2020/103",
+   "short": "HCL Săcălaz nr. 103/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 103/2020 privind aprobarea solicitatii de prelungire a Scrisorii de garantie pentru restituirea avansului nr. 244 din 27.06.2017 de la Fondul National de Garantare a Creditelor pentru Intreprinderile Mici si Mijlocii SA-IFN",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11582",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11582",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-104-2020",
+   "path": "local/timis/sacalaz/2020/104",
+   "short": "HCL Săcălaz nr. 104/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 104/2020 privind aprobarea solicitarii prelungirii Scrisorii de Garantie pentrurestitutirea avansului nr. 706 din 10.10.2017 de la Fondul National de Garantare a Creditelor pentru Intreprinderile Mic si Miklocii SA-IFN",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11583",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11583",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-105-2020",
+   "path": "local/timis/sacalaz/2020/105",
+   "short": "HCL Săcălaz nr. 105/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 105/2020 privind aprobarea solciitarii de prelungire a Scrisorii de garantie pentru restituirea avansului nr. 241 din 27.06.2017 de la Fondul National de garantare a creditelor pentru investitia,, Realizare retea de canalizare menajera si statie de epurare in localitatea Beregsau Mare",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11584",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11584",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-106-2020",
+   "path": "local/timis/sacalaz/2020/106",
+   "short": "HCL Săcălaz nr. 106/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 106/2020 privind aprobarea documentatiei PUZ ZONA COMERCIALA SUPERMARKET LIDL- Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11585",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11585",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-108-2020",
+   "path": "local/timis/sacalaz/2020/108",
+   "short": "HCL Săcălaz nr. 108/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 108/2020 privind aprobarea preluarii de catre UAT comuna sacalaz a valorii investitiei realizata pe terenul Inscris in CF nr. 412188 in suprafata de 26100 mp, investitie ce a fost realizata de catre MERPANO in baza HCL nr. 105/26.09.2019 si HCL nr. 121/09.10.2019 si a Protocolului Anexa HCL nr. 121 /09.10.2019",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11587",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11587",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-109-2020",
+   "path": "local/timis/sacalaz/2020/109",
+   "short": "HCL Săcălaz nr. 109/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 109/2020 privind aprobarea Documentatie de alipire a parcelelor inscrise in CF 404681 in suprafata de 4693 mp",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11588",
+   "versions": [
+    {
+     "from": "2020-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11588",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-11-2020",
+   "path": "local/timis/sacalaz/2020/11",
+   "short": "HCL Săcălaz nr. 11/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 11/2020 privind utilizarea excedentului de la finele anului 2019 și anilor precedenți pentru finanțarea cheltuielilor secțiunilor de funcționare și dezvoltare",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6553",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-110-2020",
+   "path": "local/timis/sacalaz/2020/110",
+   "short": "HCL Săcălaz nr. 110/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 110/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11591",
+   "versions": [
+    {
+     "from": "2020-09-08",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-111-2020",
+   "path": "local/timis/sacalaz/2020/111",
+   "short": "HCL Săcălaz nr. 111/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 111/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11617",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11617",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-112-2020",
+   "path": "local/timis/sacalaz/2020/112",
+   "short": "HCL Săcălaz nr. 112/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 112/2020 privind preluarea imobilului din Sacalaz CF nr.413347 in suprafata de 8014 mp in domeniul privat al UAT comuna Saclaz precum si incrierea in inventarul bunurilor al UAT comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11618",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11618",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-113-2020",
+   "path": "local/timis/sacalaz/2020/113",
+   "short": "HCL Săcălaz nr. 113/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 113/2020 privind preluarea imobilului din Sacalaz CF nr. 404276 in suprafata de 7179 mp in domeniul privat al UAT comuna Sacalaz precum si inscrierea in inventarul bunurilor UAT comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11619",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11619",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-114-2020",
+   "path": "local/timis/sacalaz/2020/114",
+   "short": "HCL Săcălaz nr. 114/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 114/2020 privind preluarea imobilului din Sacalaz CF nr. 413418 in suprafata de 2506 si CF nr. 413435 in suprafata de 6032 mp in domeniul privat al UAT comuna Sacalaz precum si inscrierea in inventarul bunurilor al UAT comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11620",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11620",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-118-2020",
+   "path": "local/timis/sacalaz/2020/118",
+   "short": "HCL Săcălaz nr. 118/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 118/2020 privind aprobarea incheierii uni contract de sponsorizare intre SC AGROCOMERT HOLDING SA in calitate de sponsor si UAT comuna Sacalaz in calitate de beneficiar si preluarea in inventarul UAT a mijloacelor fixe care fac obiectul contractului sponsorizarii",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11624",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11624",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-119-2020",
+   "path": "local/timis/sacalaz/2020/119",
+   "short": "HCL Săcălaz nr. 119/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 119/2020 privind aprobarea incheierii unui contract de sponsorizare intre SC MEWI IMPORT EXPORT AGRAR INDUStRIETECHNIK SRL in calitate de sponsor si UAT comuna Sacalaz in calitate de beneficiar si preluarea in inventarul UAT a mijloacelor fixe care fac obiectul contractului sponsorizarii",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11625",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-12-2020",
+   "path": "local/timis/sacalaz/2020/12",
+   "short": "HCL Săcălaz nr. 12/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 12/2020 privind achiziționarea de servicii de consultață juridică pentru dosarele menționate în raportul de follow-up al Camerei de Conturi Timiș, pentru verificarea modului de ducere la îndeplinire a măsurilor dispuse prin Decizia nr. 118/1/16.01.2017 la Decizia nr. 48/26.05.2014 la Decizia nr. 118/22.11.2013, cât și a măsurilor dispuse prin Decizia nr. 50/1/04.05.2018 la Decizia nr. 50/16.12.2016",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6554",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-120-2020",
+   "path": "local/timis/sacalaz/2020/120",
+   "short": "HCL Săcălaz nr. 120/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 120/2020 privind preluarea partiala a investitiei privind amenajarea Parcului public cu locuri de joaca pentru copii efectuata de catre SC MERPANO SRL conform contractului de sponsorizare nr. 17/2019 a carui beneficiar este UAT comuna Sacalaz preluarea in inventarul UAT a mijloacelor fixe ,a materialelor consumabile cat si a costurilor aferente prestarilor de servicii",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11626",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-121-2020",
+   "path": "local/timis/sacalaz/2020/121",
+   "short": "HCL Săcălaz nr. 121/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 121/2020 privind aprobarea proiectului și a principalilor indicatori tehnico-economici ai investiției în vederea depunerii cererii de finanțare și a implementării Proiectului: ACHIZIȚIONARE TABLETE ȘCOLARE ȘI ALTE ECHIPAMENTE IT PENTRU DOTAREA ȘCOLII GIMNAZIALE COMUNA SĂCĂLAZ, JUDEȚUL TIMIȘ„",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11627",
+   "versions": [
+    {
+     "from": "2020-09-22",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11627",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-122-2020",
+   "path": "local/timis/sacalaz/2020/122",
+   "short": "HCL Săcălaz nr. 122/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 122/2020 privind alegerea Presedintelui de Sedinta dintre membrii Consiliului Local al comunei Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20418",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20418",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-123-2020",
+   "path": "local/timis/sacalaz/2020/123",
+   "short": "HCL Săcălaz nr. 123/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 123/2020 privind aprobarea Regulamentului de Organizare si Functionare al Consiliului Local al comunei Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20419",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20419",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-124-2020",
+   "path": "local/timis/sacalaz/2020/124",
+   "short": "HCL Săcălaz nr. 124/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 124/2020 privind constituirea Comisiilor de Specialitate ale Consiliului Local Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20420",
+   "versions": [
+    {
+     "from": "2020-11-11",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20420",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-125-2020",
+   "path": "local/timis/sacalaz/2020/125",
+   "short": "HCL Săcălaz nr. 125/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 125/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20421",
+   "versions": [
+    {
+     "from": "2020-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-128-2020",
+   "path": "local/timis/sacalaz/2020/128",
+   "short": "HCL Săcălaz nr. 128/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 128/2020 privind aprobarea structurii organizatorice și a statului de funcții ai comunei Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20589",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-129-2020",
+   "path": "local/timis/sacalaz/2020/129",
+   "short": "HCL Săcălaz nr. 129/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 129/2020 privind modificarea organigramei, anexa I și statului de funcții, anexa II în cadrul Serviciului Public de Gospodărie Comunală Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20590",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-13-2020",
+   "path": "local/timis/sacalaz/2020/13",
+   "short": "HCL Săcălaz nr. 13/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 13/2020 privind achiziționarea de servicii de consultanță juridică pentru formulare și înregistrare contestație către Camera de Conturi Timiș împotriva Deciziei nr. 63 din data de 16.01.2020, precum și reprezentarea intereselor UAT Comuna Săcălaz în instanța de judecată",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6555",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-130-2020",
+   "path": "local/timis/sacalaz/2020/130",
+   "short": "HCL Săcălaz nr. 130/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 130/2020 privind aprobarea rectificării bugetului local de venituri și cheltuieli pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20591",
+   "versions": [
+    {
+     "from": "2020-11-26",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20591",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-131-2020",
+   "path": "local/timis/sacalaz/2020/131",
+   "short": "HCL Săcălaz nr. 131/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 131/2020 privind validarea modificarilor bugetului local de venituri si cheltuieli al comunei Sacalaz pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20783",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20783",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-132-2020",
+   "path": "local/timis/sacalaz/2020/132",
+   "short": "HCL Săcălaz nr. 132/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 132/2020 privind aprobarea achizitionarii serviciilor de ridicari topografice , prelucrare date , intocmire documentatii in vederea depunerii proiectului ,, Infiintare retea de distributie gaze naturale presiune medie in zona Sacalaz Vest, localitatile Beregsau Mare si Beregsau Mic, comuna Sacalaz,, si achizitionarea serviciilor de consultanta aferente acestuia",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20784",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20784",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-133-2020",
+   "path": "local/timis/sacalaz/2020/133",
+   "short": "HCL Săcălaz nr. 133/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 133/2020 privind aprobarea indicatorilor tehnico economici a investiției , realizată de UAT comuna Săcălaz, în vederea depunerii cererii de finanțare și implementării Proiectului ,, Inființare rețea de distribuție gaze naturale presiune medie în zona Săcălaz Vest, județul Timiș",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20785",
+   "versions": [
+    {
+     "from": "2020-12-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20785",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-134-2020",
+   "path": "local/timis/sacalaz/2020/134",
+   "short": "HCL Săcălaz nr. 134/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 134/2020 privind aprobarea Proiectului Rețelei școlare de pe raza UAT comuna Săcălaz pentru anul școlar 2021-2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20786",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-135-2020",
+   "path": "local/timis/sacalaz/2020/135",
+   "short": "HCL Săcălaz nr. 135/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 135/2020 privind completarea Comisiilor de Specialitate ale Consiliului Local al comunei Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20787",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-136-2020",
+   "path": "local/timis/sacalaz/2020/136",
+   "short": "HCL Săcălaz nr. 136/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 136/2020 privind aprobarea rectificării bugetului local de venituri și cheltuilei pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20810",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-137-2020",
+   "path": "local/timis/sacalaz/2020/137",
+   "short": "HCL Săcălaz nr. 137/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 137/2020 privind aprobarea solicitării Scrisorii de garanție pentru restituirea avansului nr. 706 din 10.10.2017 de la Fondul Național de Garantare a Creditelor pentru Întreprinderile Mici și Mijlocii SA_FN, în conformitate cu prevederile OUG 79/2009 pentru realizarea investiției ,, MODERNIZARE ȘI RENOVARE CĂMIN CULTURAL ÎN LOCALITATEA BEGERSĂU MARE, JUDEȚUL TIMIȘ,, _ contract cu finanțare nr. C0760CN00011653700042 / 22.09.2017",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20811",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20811",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-138-2020",
+   "path": "local/timis/sacalaz/2020/138",
+   "short": "HCL Săcălaz nr. 138/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 138/2020 privind alegerea viceprimarului comunei Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20812",
+   "versions": [
+    {
+     "from": "2020-12-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20812",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-139-2020",
+   "path": "local/timis/sacalaz/2020/139",
+   "short": "HCL Săcălaz nr. 139/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 139/2020 privind aprobarea impozitelor și taxelor locale precum și taxelor speciale petru anul fiscal 2021",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20829",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20829",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-140-2020",
+   "path": "local/timis/sacalaz/2020/140",
+   "short": "HCL Săcălaz nr. 140/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 140/2020 privind completarea Hotărârii nr 139 din 29.12.2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/20830",
+   "versions": [
+    {
+     "from": "2020-12-31",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/20830",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-15-2020",
+   "path": "local/timis/sacalaz/2020/15",
+   "short": "HCL Săcălaz nr. 15/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 15/2020 privind introducerea unei linii de transport",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6557",
+   "versions": [
+    {
+     "from": "2020-02-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-21-2020",
+   "path": "local/timis/sacalaz/2020/21",
+   "short": "HCL Săcălaz nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 21/2020 privind modificarea Art. 4 din Regulamentul de organizare și funcționare al Clubului Sportiv Comunal Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6571",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6571",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-24-2020",
+   "path": "local/timis/sacalaz/2020/24",
+   "short": "HCL Săcălaz nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 24/2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6574",
+   "versions": [
+    {
+     "from": "2020-03-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6574",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-26-2020",
+   "path": "local/timis/sacalaz/2020/26",
+   "short": "HCL Săcălaz nr. 26/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 26/2020 privind modificarea și completarea Hotărârii Consiliului Local nr. 35/2016 privind aprobarea Regulamentului de organizare și funcționare a Consiliului Local al Unității Administrativ Teritoriale comuna Săcălaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6576",
+   "versions": [
+    {
+     "from": "2020-04-03",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6576",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-27-2020",
+   "path": "local/timis/sacalaz/2020/27",
+   "short": "HCL Săcălaz nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 27/2020 privind amanarea concursului din data de 15 .04.2020 si angajarilor din cadrul UAT comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6577",
+   "versions": [
+    {
+     "from": "2020-04-14",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6577",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-28-2020",
+   "path": "local/timis/sacalaz/2020/28",
+   "short": "HCL Săcălaz nr. 28/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 28/2020 privind aprobarea Impozitelor si taxelor locale, precum si a limitele amenziilor care se fac venit l abugetul local, cu rata inflatiei pentru anul fiscal 2021",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6578",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6578",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-30-2020",
+   "path": "local/timis/sacalaz/2020/30",
+   "short": "HCL Săcălaz nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 30/2020 privind aprobarea Planului de actiuni sau lucrari de interes public local, ce vor fi efectuae in anul 2020 de catre persoanele apte de munca, beneficiare de ajutor social Legea 416/2001",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6580",
+   "versions": [
+    {
+     "from": "2020-04-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6580",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-34-2020",
+   "path": "local/timis/sacalaz/2020/34",
+   "short": "HCL Săcălaz nr. 34/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 34/2020 privind aprobarea documentatie pentru intabularea drumului DE 602/15, insuprafata de 4067 mp , DE 602/16, in suprafata de 3909 mp si DE 602/17, in suprafata de 4966 mp, ca domeniu public al comunei Sacalaz, in administrarea Consiliului Local Sacalaz la OCPI Timis",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11448",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-37-2020",
+   "path": "local/timis/sacalaz/2020/37",
+   "short": "HCL Săcălaz nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 37/2020 privind trecerea din domeniul privat al comunei Sacalaz in domeniul public al comunei Sacalaz , a imobilului teren intravilan inscris in CF........ in suprafata de 5600 mp, situatin PUZ Sorocul ,Beregsau Mare, cu destinatia zona dotari sociale, conform PU aprobat",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11451",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-38-2020",
+   "path": "local/timis/sacalaz/2020/38",
+   "short": "HCL Săcălaz nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 38/2020 privind aprobarea solicitarii prelungirii Scrisorii de garantie nr. 482/29.08.2017 de la FNGCIMM SA IFN in valoare de 656.000 lei in vederea garantarii obligatiilor de plata a avansului de 656.000 lei din fonduri nerambursabile pentru implementarea proiectului intitulat ,, Demolare constructie existenta si infiintare gradinita cu program prelungit in localitatea Beregsau Mare, comuna Sacalaz, judetul Timis,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11452",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11452",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-39-2020",
+   "path": "local/timis/sacalaz/2020/39",
+   "short": "HCL Săcălaz nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 39/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli si alistei de investitii pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11453",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-40-2020",
+   "path": "local/timis/sacalaz/2020/40",
+   "short": "HCL Săcălaz nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 40/2020 privind aprobarea actualizarii devizului general, e indicatorilor tehnico economici, in conformitate cu OUG n. 114/2018 pentru obiectivul de investitii,, Reabilitatrea sistemului dealimentare cu apa si statie de tratare a apei in satul Beregsau Mic, comuna Sacalaz, judetul Timis,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11454",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11454",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-41-2020",
+   "path": "local/timis/sacalaz/2020/41",
+   "short": "HCL Săcălaz nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 41/2020 privind aprobarea devizului general, aindicatorilor tehnico economici dupa licitatie, pentru obiectivul de investitii,, Reabilitarea sistemului de alimentare cu apa si statie de tratare a apei in satul Beregsau Mic, comuna Sacalaz, judetul Timis,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11455",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-44-2020",
+   "path": "local/timis/sacalaz/2020/44",
+   "short": "HCL Săcălaz nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 44/2020 privind includerea de noi mijloace fixe in Anexa V ( bunuri proprietate publica ) a Ctr. de delegare a gestiunii serviciilor publice de alimentare cu apa si canalizare nr. 932/19.01.2010 si terenul aferent",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11458",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11458",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-46-2020",
+   "path": "local/timis/sacalaz/2020/46",
+   "short": "HCL Săcălaz nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 46/2020 privind aprobarea Proiectului Tehnic si a indicatorilor tehnico economici pentru investitia,, Infiintare distributie gaze naturale de presiune medie in satul Beregsau Mare, comuna Sacalaz, judetul Timis",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11460",
+   "versions": [
+    {
+     "from": "2020-05-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-47-2020",
+   "path": "local/timis/sacalaz/2020/47",
+   "short": "HCL Săcălaz nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 47/2020 privind aprobarea depunerii unui proiect de achizitionare instalatii de dezinfectie si dezinsectie finantat prin PNDR si achizitionarea serviciilor de consultanta aferente acestuia",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11471",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11471",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-48-2020",
+   "path": "local/timis/sacalaz/2020/48",
+   "short": "HCL Săcălaz nr. 48/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 48/2020 privind aprobarea Proiectului tehnic si a indicatorilor tehnico economici pentru investitia ,,Realizare racorduri canalizare menajera in localitatea Beregsau Mare, comuna Sacalaz,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11472",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-49-2020",
+   "path": "local/timis/sacalaz/2020/49",
+   "short": "HCL Săcălaz nr. 49/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 49/2020 privind aprobarea intocmirii Studiului de fezabilitate privind investitia,, Infiintare/extindere distributie gaze naturale de presiune medie in localitatea Beregsau Mic, comuna Sacalaz, judetul Timis,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11473",
+   "versions": [
+    {
+     "from": "2020-05-20",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11473",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-50-2020",
+   "path": "local/timis/sacalaz/2020/50",
+   "short": "HCL Săcălaz nr. 50/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 50/2020 privind aprobarea proiectului de investitii si a documentatie tehnico-economice pentru investitia ,, Cresterea Capacitatii operationale a comunei Sacalaz de prevenire a aparitiei pestei porcine africane prin achizitionarea de instalatii de dezinfectie si dezinsectie ,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11474",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11474",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-51-2020",
+   "path": "local/timis/sacalaz/2020/51",
+   "short": "HCL Săcălaz nr. 51/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 51/2020 privind implementarea proiectului,, Cresterea capacitatii operationale a comunei Sacalaz de prevenire a pestei porcine africane prin achizitionarea de instalatii de dezinfectie si dezinsectie ,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11475",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-54-2020",
+   "path": "local/timis/sacalaz/2020/54",
+   "short": "HCL Săcălaz nr. 54/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 54/2020 privind preluarea imobilului din Sacalaz CF nr. 413087 in suprafata totala de 14.982 mp indomeniul privat al UAT comuna Sacalaz precum si inscrierea in inventarul bunurilor al UAT comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11478",
+   "versions": [
+    {
+     "from": "2020-05-29",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11478",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-55-2020",
+   "path": "local/timis/sacalaz/2020/55",
+   "short": "HCL Săcălaz nr. 55/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 55/2020 privind aporbarea solicitarii prelungirii Scrisorii de garantie pentru resttutirea avansului nr. 480/29.08.2017 d ela FNGCIMM SA IFN in valoare de 1.063.000, 00 LEI in vederea garantarii obligatiilor de plata a avansului din fondurile nerambursabile pentru implementarea proiectului intitulat,, Construire statie de tratare, filtrare si stocare apa in localitatea Beregsau Mare",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11483",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11483",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-56-2020",
+   "path": "local/timis/sacalaz/2020/56",
+   "short": "HCL Săcălaz nr. 56/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 56/2020 privind aprobarea depunerii unui proiect,, Sprijin pentru persoanele vulnerabile in contextul epidemiei COVID-19",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11484",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11484",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-57-2020",
+   "path": "local/timis/sacalaz/2020/57",
+   "short": "HCL Săcălaz nr. 57/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 57/2020 privind aporbarea depunerii unui proiect privind eficientizarea si modernizarea sistemelor de iluminat public",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11485",
+   "versions": [
+    {
+     "from": "2020-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11485",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-58-2020",
+   "path": "local/timis/sacalaz/2020/58",
+   "short": "HCL Săcălaz nr. 58/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 58/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11496",
+   "versions": [
+    {
+     "from": "2020-06-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11496",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-59-2020",
+   "path": "local/timis/sacalaz/2020/59",
+   "short": "HCL Săcălaz nr. 59/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 59/2020 privind propunerea de proiect de modificare si completarea anexei 69 cu privire la inventarul bunurilor care apartin domeniului public al comunei Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11497",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11497",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-62-2020",
+   "path": "local/timis/sacalaz/2020/62",
+   "short": "HCL Săcălaz nr. 62/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 62/2020 privind constituirea unei comisii de negociere cu Asociatia de Dezvoltare Intercomunitara,, Societatea Metropolitana de Transport Timisoara,, in vederea degelarii serviciului public de transport",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11500",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11500",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-63-2020",
+   "path": "local/timis/sacalaz/2020/63",
+   "short": "HCL Săcălaz nr. 63/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 63/2020 privind aprobarea documentatiei in vederea dezmembrarii, respectiv alipirea in vederea dezmembrarii imobilelor cu nr cadasatral 400282 s.a conform documentatiei PUZ aprobata prin HCL nr. 24 din 03.03.2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11501",
+   "versions": [
+    {
+     "from": "2020-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11501",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-64-2020",
+   "path": "local/timis/sacalaz/2020/64",
+   "short": "HCL Săcălaz nr. 64/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 64/2020 privind aporbarea Documentatiei de Avizare a Lucrarilor de Interventie si a indicatorilor tehnico economici aferenti obiectivului de investitii,, Modernizarea iluminatului public in comuna Sacalaz,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11513",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-65-2020",
+   "path": "local/timis/sacalaz/2020/65",
+   "short": "HCL Săcălaz nr. 65/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 65/2020 privind aprobarea Documentatiei de avizare a lucrarilor de interventii pentru investitia ,, Modernizare infrastructura rutiera in comuna Sacalaz,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11514",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-66-2020",
+   "path": "local/timis/sacalaz/2020/66",
+   "short": "HCL Săcălaz nr. 66/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 66/2020 privind implementarea proiectului,, Modernizare infrastructura rutiera in comuna Sacalaz,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11515",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-67-2020",
+   "path": "local/timis/sacalaz/2020/67",
+   "short": "HCL Săcălaz nr. 67/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 67/2020 privind aprobarea rectificarii bugetului local de venituri si cheltuieli si a listei de investitii pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11516",
+   "versions": [
+    {
+     "from": "2020-07-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11516",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-68-2020",
+   "path": "local/timis/sacalaz/2020/68",
+   "short": "HCL Săcălaz nr. 68/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 68/2020 privind aprobarea studiului de oportunitate pentru delegarea serviciului de transport persoane prin curse regulate de catre Asociatia de Dezvoltare Intercomunitara,, Societatea Metropolitana de Transport Timisoara,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11519",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11519",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-69-2020",
+   "path": "local/timis/sacalaz/2020/69",
+   "short": "HCL Săcălaz nr. 69/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 69/2020 privind acordarea unui mandat special Asociatiei de Dezvoltare Intercomunitara ,, Societatea Metropolitana de Transport Timisoara,, pentru delegarea serviciului public de transport",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11520",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11520",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-70-2020",
+   "path": "local/timis/sacalaz/2020/70",
+   "short": "HCL Săcălaz nr. 70/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 70/2020 privind aprobarea angajarii pe perioada nedeterminata a unui numar de 17 salariati in cadrul ACOR, Filiala Judeteana Timis",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11524",
+   "versions": [
+    {
+     "from": "2020-07-23",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11524",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-71-2020",
+   "path": "local/timis/sacalaz/2020/71",
+   "short": "HCL Săcălaz nr. 71/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 71/2020 privind arobarea procedurii de emitere,, ACord lucrari bransamente si racorduri executate pe domeniul public la infrastructura tehnico edilitara pe teritoriul comunei Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11540",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-72-2020",
+   "path": "local/timis/sacalaz/2020/72",
+   "short": "HCL Săcălaz nr. 72/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 72/2020 privind aprbarea solciitarii prelungirii Scrisorii de garantie pentru restituirea avansului nr. 725/11.10.2017 in valoarea de 1.805.000, 00 lei in vederea garantarii obligatiilor de plata a aavansului din fonduri nerambursabile pentru implementarea proiectului ,,Modernizare infrastructura rutiera in comuna Sacalaz, Jud. Timis",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11541",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-73-2020",
+   "path": "local/timis/sacalaz/2020/73",
+   "short": "HCL Săcălaz nr. 73/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 73/2020 privind aprobarea completarii semnalizarii rutiere in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11542",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-74-2020",
+   "path": "local/timis/sacalaz/2020/74",
+   "short": "HCL Săcălaz nr. 74/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 74/2020 privind aprobarea tarifelor unice si distinct practicate de catre RETIM Ecologic Service",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11543",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-76-2020",
+   "path": "local/timis/sacalaz/2020/76",
+   "short": "HCL Săcălaz nr. 76/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 76/2020 privind aprobarea nomenclatorului stradal pentru atribuirea denumirii strazilor din Sacalaz PUZ TRANZITARIA si PUZ SOLE CAPITAL",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11545",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-77-2020",
+   "path": "local/timis/sacalaz/2020/77",
+   "short": "HCL Săcălaz nr. 77/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 77/2020 privind punerea la dispozitia SC DEGRAN ROM SRL a imobilelor ...in vederea amenajarii strazilor si realizarii retelelor de utilitati in cadtul ,,PUZ LA PAUSA ,,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11546",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-8-2020",
+   "path": "local/timis/sacalaz/2020/8",
+   "short": "HCL Săcălaz nr. 8/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 8/2020 privind aprobarea rețelei școlare de pe raza UAT comuna Săcălaz, pentru anul școlar 2020-2021",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/6542",
+   "versions": [
+    {
+     "from": "2020-01-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/6542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-80-2020",
+   "path": "local/timis/sacalaz/2020/80",
+   "short": "HCL Săcălaz nr. 80/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 80/2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11549",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11549",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-81-2020",
+   "path": "local/timis/sacalaz/2020/81",
+   "short": "HCL Săcălaz nr. 81/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 81/2020 privind aprobarea inscrierii in CF in proprietatea Comunei Sacalaz domeniul public a imobilului in suprafata de 29198 mp, situat in comuna Sacalaz,",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11550",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-82-2020",
+   "path": "local/timis/sacalaz/2020/82",
+   "short": "HCL Săcălaz nr. 82/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 82/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz , domeniul public, a imobilului DS3 in suprafata de 10173 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11551",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-83-2020",
+   "path": "local/timis/sacalaz/2020/83",
+   "short": "HCL Săcălaz nr. 83/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 83/2020 privind aprobarea inscrierii in cartea funciara in prorpietatea comunei Sacalaz, domeniul public, a mobilui DE 623/4 in suprafata de 3813 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11552",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-84-2020",
+   "path": "local/timis/sacalaz/2020/84",
+   "short": "HCL Săcălaz nr. 84/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 84/2020 privind aprobarea inscrierii in cartea funciara in prorpietatea comunei Sacalaz, domeniul public,a imobilului DS36 in suprafaat de 803 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11553",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11553",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-85-2020",
+   "path": "local/timis/sacalaz/2020/85",
+   "short": "HCL Săcălaz nr. 85/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 85/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz, domeniul public, a imobilului DS 20/2 in suprafata de 16806 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11554",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11554",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-86-2020",
+   "path": "local/timis/sacalaz/2020/86",
+   "short": "HCL Săcălaz nr. 86/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 86/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz ,dmeniul public, a imobilului De738/4/1/3 in suprafata de 2555 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11555",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11555",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-87-2020",
+   "path": "local/timis/sacalaz/2020/87",
+   "short": "HCL Săcălaz nr. 87/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 87/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz, domeniul public, a imobilului DS20/3 in suprafata de 18131 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11556",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11556",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-88-2020",
+   "path": "local/timis/sacalaz/2020/88",
+   "short": "HCL Săcălaz nr. 88/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 88/2020 privind aprobarea inscrieriii in cartea funciara in prorpietatea comunei Sacalaz , domeniul public, a imobilului DS26/3 in suprafata de 5028 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11557",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-89-2020",
+   "path": "local/timis/sacalaz/2020/89",
+   "short": "HCL Săcălaz nr. 89/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 89/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz a imobilului DS26/2 in suprafata de 6018 mp , situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11558",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-90-2020",
+   "path": "local/timis/sacalaz/2020/90",
+   "short": "HCL Săcălaz nr. 90/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 90/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz, domeniul public, a imobilului De556/8 in suprafata de 996 mp, situat in localitatea Sacalaz, comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11559",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-91-2020",
+   "path": "local/timis/sacalaz/2020/91",
+   "short": "HCL Săcălaz nr. 91/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 91/2020 privind aprobarea inscrierii in cartea funciara in proprietatea comunei Sacalaz , domeniul public a imobilului cu nr cadastral 412922 in suprafata de 13400 mp, situat in comuna Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11560",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-92-2020",
+   "path": "local/timis/sacalaz/2020/92",
+   "short": "HCL Săcălaz nr. 92/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 92/2020 privind aprobarea rectificarii bugetului local d evenituri si clehtuieli si a listei de investitii pe anul 2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11561",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-94-2020",
+   "path": "local/timis/sacalaz/2020/94",
+   "short": "HCL Săcălaz nr. 94/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 94/2020",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11563",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-96-2020",
+   "path": "local/timis/sacalaz/2020/96",
+   "short": "HCL Săcălaz nr. 96/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 96/2020 privind aprobarea angajarii unui numar de 21 persoane in cadrul Servicului Public de Gospodarie Comunala Sacalaz",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11565",
+   "versions": [
+    {
+     "from": "2020-07-30",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11565",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-97-2020",
+   "path": "local/timis/sacalaz/2020/97",
+   "short": "HCL Săcălaz nr. 97/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 97/2020 privind revocarea HCL 119/30.10.2014 de incetare a efectuarii transportului public local Timisoara Sacalaz Beregsau Mare si Beregsau Mic si retur de catre Societatea Metropolitana de Transport Timisoara",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11566",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11566",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-98-2020",
+   "path": "local/timis/sacalaz/2020/98",
+   "short": "HCL Săcălaz nr. 98/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 98/2020 privind reluarea transportului public pe ruta Timisoara-Sacalaz-beregsau Mare-Beregsau Mic si retur",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11567",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11567",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sacalaz-99-2020",
+   "path": "local/timis/sacalaz/2020/99",
+   "short": "HCL Săcălaz nr. 99/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Săcălaz nr. 99/2020 privind transmiterea in folosinta gratuita a statiilor de autobuz,, Societatii Transport Public Timisoara,, in calitate de operator comun al Asocietiei Societatea Metropolitana de Transport Timisoara",
+   "url": "https://emol.ro/sacalaz-tm/registru-hcl/11568",
+   "versions": [
+    {
+     "from": "2020-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/sacalaz-tm/registru-hcl/11568",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

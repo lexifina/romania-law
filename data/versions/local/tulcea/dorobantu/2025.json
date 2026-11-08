@@ -1,0 +1,36 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/dorobantu/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--dorobantu-29-2025",
+   "path": "local/tulcea/dorobantu/2025/29",
+   "short": "HCL Dorobanțu nr. 29/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 29/2025 privind aprobarea\" Planului operativ de actiune pe timpul iernii 2025-2026 pe reteaua de drumuri comunale si stradale din comuna Dorobantu , judetul Tulcea",
+   "url": "https://emol.ro/dorobantu-tl/registru-hcl/230088",
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "units": 1,
+     "source_url": "https://emol.ro/dorobantu-tl/registru-hcl/230088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--dorobantu-44-2025",
+   "path": "local/tulcea/dorobantu/2025/44",
+   "short": "HCL Dorobanțu nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Dorobanțu nr. 44/2025 privind privind stabilirea impozitelor și taxelor ce reprezintă venituri proprii ale Comunei Dorobanțu Județul Tulcea, pentru anul 2026",
+   "url": "https://emol.ro/dorobantu-tl/registru-hcl/244207",
+   "versions": [
+    {
+     "from": "2025-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/dorobantu-tl/registru-hcl/244207",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

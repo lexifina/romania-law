@@ -1,0 +1,17 @@
+# Hotărârea Consiliului Local al Comunei Otelec nr. 30/2026 privind aprobarea aderării la Asociația de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ” a UAT-urilor: Peciu Nou, Jimbolia, Iecea Mare, Remetea Mare, Cenad, Recaș, Teremia Mare, Periam, Pesac, Tormac și Giuvăz
+
+HCL Otelec nr. 30/2026 · 1 versions, from 2026-06-16 (latest in force: 2026-06-16) · <https://emol.ro/otelec-tm/registru-hcl/274128>
+
+**Status:** Text not yet included: no document of it is held. It will be added when it is.
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Metadata | [metadata.md](metadata.md) | 0 |  |
+
+Act id: `hcl-timis--otelec-30-2026` (tags `hcl-timis--otelec-30-2026/<day>`; `python tools/on.py <day> hcl-timis--otelec-30-2026`).
+
+## Decisions made by hand
+
+- HCL Otelec nr. 30/2026: listed from Consiliul Local al Comunei Otelec (emol.ro); metadata only for now: no document of it is held.
+- HCL Otelec nr. 30/2026: dated from 16 June 2026, the day the council's register gives it as published (adopted 30 April 2026).
+- HCL Otelec nr. 30/2026: its title and links were screened for natural persons' names, personal numerical codes and home addresses before publishing; none was found in what is shown.

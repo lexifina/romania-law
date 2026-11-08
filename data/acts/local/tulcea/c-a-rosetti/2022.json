@@ -1,0 +1,182 @@
+{
+"country": "RO",
+"shard": "local/tulcea/c-a-rosetti/2022",
+"acts": [
+{
+"slug": "hcl-tulcea--c-a-rosetti-2-2022",
+"path": "local/tulcea/c-a-rosetti/2022/2",
+"kind": "local",
+"year": "2022",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 2/2022 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 2/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-03",
+"latest": "2022-05-03",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/50997",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-4-2022",
+"path": "local/tulcea/c-a-rosetti/2022/4",
+"kind": "local",
+"year": "2022",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 4/2022 privind aprobarea rectificării bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 4/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-05-03",
+"latest": "2022-05-03",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/55439",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-11-2022",
+"path": "local/tulcea/c-a-rosetti/2022/11",
+"kind": "local",
+"year": "2022",
+"number": "11",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 11/2022 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale ale comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+"short": "HCL C.A. Rosetti nr. 11/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-15",
+"latest": "2022-07-15",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/63168",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-14-2022",
+"path": "local/tulcea/c-a-rosetti/2022/14",
+"kind": "local",
+"year": "2022",
+"number": "14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 14/2022 privind aprobarea rectificării bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 14/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-07-15",
+"latest": "2022-07-15",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/64379",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-24-2022",
+"path": "local/tulcea/c-a-rosetti/2022/24",
+"kind": "local",
+"year": "2022",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 24/2022 privind aprobarea rectificării bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 24/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-11-21",
+"latest": "2022-11-21",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/78380",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-28-2022",
+"path": "local/tulcea/c-a-rosetti/2022/28",
+"kind": "local",
+"year": "2022",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 28/2022 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2023",
+"short": "HCL C.A. Rosetti nr. 28/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/83477",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-29-2022",
+"path": "local/tulcea/c-a-rosetti/2022/29",
+"kind": "local",
+"year": "2022",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 29/2022 privind aprobarea rectificării bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 29/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-21",
+"latest": "2022-12-21",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/83478",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-32-2022",
+"path": "local/tulcea/c-a-rosetti/2022/32",
+"kind": "local",
+"year": "2022",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 32/2022 privind aprobarea rectificării bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 32/2022",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2022-12-29",
+"latest": "2022-12-29",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/83913",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

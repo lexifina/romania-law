@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/timis/sandra/2025",
+"acts": [
+{
+"slug": "hcl-timis--sandra-16-2025",
+"path": "local/timis/sandra/2025/16",
+"kind": "local",
+"year": "2025",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 16/2025 privind aprobarea agendei cultural-sportivă a comunei Şandra pe anul 2025",
+"short": "HCL Șandra nr. 16/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/198271",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-17-2025",
+"path": "local/timis/sandra/2025/17",
+"kind": "local",
+"year": "2025",
+"number": "17",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 17/2025",
+"short": "HCL Șandra nr. 17/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/198272",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--sandra-26-2025",
+"path": "local/timis/sandra/2025/26",
+"kind": "local",
+"year": "2025",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 26/2025 privind aprobarea bugetului de venituri si cheltuieli al comunei Şandra pe anul 2025",
+"short": "HCL Șandra nr. 26/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-04-07",
+"latest": "2025-04-07",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/198946",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-27-2025",
+"path": "local/timis/sandra/2025/27",
+"kind": "local",
+"year": "2025",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 27/2025 privind stabilirea impozitelor şi taxelor locale în Comuna SANDRA pentru anul 2026",
+"short": "HCL Șandra nr. 27/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2025-05-08",
+"latest": "2025-05-08",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/203275",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-60-2025",
+"path": "local/timis/sandra/2025/60",
+"kind": "local",
+"year": "2025",
+"number": "60",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 60/2025 privind modificarea anexei nr. 1 a Hotararii consiliului local nr. 27 din 15.04.2025 privind stabilirea impozitelor şi taxelor locale în Comuna SANDRA pentru anul 2026",
+"short": "HCL Șandra nr. 60/2025",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-01-21",
+"latest": "2026-01-21",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/243855",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

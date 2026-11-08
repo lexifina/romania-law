@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/baia/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--baia-2-2024",
+   "path": "local/tulcea/baia/2024/2",
+   "short": "HCL Baia nr. 2/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Baia nr. 2/2024 privind organizarea rețelei școlare pentru anul școlar 2024-2025 în comuna Baia",
+   "url": "https://emol.ro/baia-tl/registru-hcl/138523",
+   "versions": [
+    {
+     "from": "2024-01-09",
+     "units": 1,
+     "source_url": "https://emol.ro/baia-tl/registru-hcl/138523",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

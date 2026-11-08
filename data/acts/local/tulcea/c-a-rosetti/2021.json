@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/tulcea/c-a-rosetti/2021",
+"acts": [
+{
+"slug": "hcl-tulcea--c-a-rosetti-3-2021",
+"path": "local/tulcea/c-a-rosetti/2021/3",
+"kind": "local",
+"year": "2021",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 3/2021 privind validarea Dispoziției primarului comunei nr.43 din 22 decembrie 2020 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+"short": "HCL C.A. Rosetti nr. 3/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-01-28",
+"latest": "2021-01-28",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/16685",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-7-2021",
+"path": "local/tulcea/c-a-rosetti/2021/7",
+"kind": "local",
+"year": "2021",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 7/2021 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+"short": "HCL C.A. Rosetti nr. 7/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/22525",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-8-2021",
+"path": "local/tulcea/c-a-rosetti/2021/8",
+"kind": "local",
+"year": "2021",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 8/2021 privind utilizarea excedentului anual al bugetului local al comunei C.A.Rosetti, județul Tulcea la închiderea exercițiului bugetar al anului 2020, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2021",
+"short": "HCL C.A. Rosetti nr. 8/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-04-20",
+"latest": "2021-04-20",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/22526",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-10-2021",
+"path": "local/tulcea/c-a-rosetti/2021/10",
+"kind": "local",
+"year": "2021",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 10/2021 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+"short": "HCL C.A. Rosetti nr. 10/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-05-27",
+"latest": "2021-05-27",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/25480",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-22-2021",
+"path": "local/tulcea/c-a-rosetti/2021/22",
+"kind": "local",
+"year": "2021",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 22/2021 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+"short": "HCL C.A. Rosetti nr. 22/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-11-25",
+"latest": "2021-11-25",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/42534",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-24-2021",
+"path": "local/tulcea/c-a-rosetti/2021/24",
+"kind": "local",
+"year": "2021",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 24/2021 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2022",
+"short": "HCL C.A. Rosetti nr. 24/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/44953",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-25-2021",
+"path": "local/tulcea/c-a-rosetti/2021/25",
+"kind": "local",
+"year": "2021",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 25/2021 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+"short": "HCL C.A. Rosetti nr. 25/2021",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2021-12-21",
+"latest": "2021-12-21",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/44954",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/c-a-rosetti/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-12-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/12",
+   "short": "HCL C.A. Rosetti nr. 12/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 12/2025 privind modificarea taxei de salubrizare pentru utilizatorii casnici, începând cu data de 01.05.2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/206511",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/206511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-13-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/13",
+   "short": "HCL C.A. Rosetti nr. 13/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 13/2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/212714",
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/212714",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-30-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/30",
+   "short": "HCL C.A. Rosetti nr. 30/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 30/2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/242648",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/242648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-31-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/31",
+   "short": "HCL C.A. Rosetti nr. 31/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 31/2025 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2026",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/245254",
+   "versions": [
+    {
+     "from": "2026-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/245254",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-5-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/5",
+   "short": "HCL C.A. Rosetti nr. 5/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 5/2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/200463",
+   "versions": [
+    {
+     "from": "2025-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/200463",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-6-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/6",
+   "short": "HCL C.A. Rosetti nr. 6/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 6/2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/200464",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/200464",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-9-2025",
+   "path": "local/tulcea/c-a-rosetti/2025/9",
+   "short": "HCL C.A. Rosetti nr. 9/2025",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 9/2025",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/206508",
+   "versions": [
+    {
+     "from": "2025-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/206508",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

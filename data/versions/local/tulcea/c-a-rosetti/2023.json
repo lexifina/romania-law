@@ -1,0 +1,81 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/c-a-rosetti/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-16-2023",
+   "path": "local/tulcea/c-a-rosetti/2023/16",
+   "short": "HCL C.A. Rosetti nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 16/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economic și a devizului general pentru obiectivul de investiție „Modernizare drum comunal DC 2 C.A.ROSETTI - Cardon tronson 1 = 3710 m, comuna C.A.ROSETTI, județul TULCEA” aprobat pentru finanțare prin Programul național de investiții ” Anghel Saligny”",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/121324",
+   "versions": [
+    {
+     "from": "2023-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/121324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-25-2023",
+   "path": "local/tulcea/c-a-rosetti/2023/25",
+   "short": "HCL C.A. Rosetti nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 25/2023",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/133200",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/133200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-26-2023",
+   "path": "local/tulcea/c-a-rosetti/2023/26",
+   "short": "HCL C.A. Rosetti nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 26/2023 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2024",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/133201",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/133201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-3-2023",
+   "path": "local/tulcea/c-a-rosetti/2023/3",
+   "short": "HCL C.A. Rosetti nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 3/2023 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2023",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/90511",
+   "versions": [
+    {
+     "from": "2023-02-23",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/90511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-7-2023",
+   "path": "local/tulcea/c-a-rosetti/2023/7",
+   "short": "HCL C.A. Rosetti nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 7/2023 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale ale comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/104070",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/104070",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

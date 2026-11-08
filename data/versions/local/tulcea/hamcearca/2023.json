@@ -1,0 +1,591 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/hamcearca/2023",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--hamcearca-10-2023",
+   "path": "local/tulcea/hamcearca/2023/10",
+   "short": "HCL Hamcearca nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 10/2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89255",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89255",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-12-2023",
+   "path": "local/tulcea/hamcearca/2023/12",
+   "short": "HCL Hamcearca nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 12/2023 privind aprobarea contului de execuție bugetara pe trimestrul IV 2022 al UAT Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/93140",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/93140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-14-2023",
+   "path": "local/tulcea/hamcearca/2023/14",
+   "short": "HCL Hamcearca nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 14/2023 privind stabilirea zilei comunei Hamcearca, județul Tulcea si masuri de organizare a acestora",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/93142",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/93142",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-15-2023",
+   "path": "local/tulcea/hamcearca/2023/15",
+   "short": "HCL Hamcearca nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 15/2023 privind revocarea unor articole din HCL nr.54/19.12.2022 privind stabilirea impozitelor și taxelor locale pentru anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/93143",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/93143",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-16-2023",
+   "path": "local/tulcea/hamcearca/2023/16",
+   "short": "HCL Hamcearca nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 16/2023 privind revocarea Hotărârii de Consiliu Local Hamcearca nr.48/28.10.2023 privind atestarea inventarului domeniului public al comunei Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/93144",
+   "versions": [
+    {
+     "from": "2023-03-08",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/93144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-17-2023",
+   "path": "local/tulcea/hamcearca/2023/17",
+   "short": "HCL Hamcearca nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 17/2023 privind aprobarea unor măsuri pentru organizarea și alocarea sumelor pentru susținerea financiară a manifestărilor culturale, artistice și educative organizate de consiliul local Hamcearca pentru anul 2023, conform Procesului Verbal nr. 2 din 28.02.2023 însușit și aprobat de consiliul local Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/97274",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/97274",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-18-2023",
+   "path": "local/tulcea/hamcearca/2023/18",
+   "short": "HCL Hamcearca nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 18/2023 privind rectificarea bugetului local al Comunei Hamcearca, Județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/97275",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/97275",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-19-2023",
+   "path": "local/tulcea/hamcearca/2023/19",
+   "short": "HCL Hamcearca nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 19/2023 privind transmiterea către UAT comuna Hamcearca a unor imobile care sunt sedii ale circumscripțiilor sanitare veterinare, amplasate pe teritoriul UAT Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/97276",
+   "versions": [
+    {
+     "from": "2023-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/97276",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-2-2023",
+   "path": "local/tulcea/hamcearca/2023/2",
+   "short": "HCL Hamcearca nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 2/2023 privind aprobarea Bugetului Local al Comunei Hamcearca, Județul Tulcea, pe anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89247",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89247",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-21-2023",
+   "path": "local/tulcea/hamcearca/2023/21",
+   "short": "HCL Hamcearca nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 21/2023 privind aprobarea contului de execuție bugetara de venituri și cheltuieli pe trimestrul I 2023 al Comunei Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/102131",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/102131",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-22-2023",
+   "path": "local/tulcea/hamcearca/2023/22",
+   "short": "HCL Hamcearca nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 22/2023 privind mentinerea participarii Comunei Hamcearca la Grupul de Actiune Locala Muntii Macinului - Dunarea Veche",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/102132",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/102132",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-23-2023",
+   "path": "local/tulcea/hamcearca/2023/23",
+   "short": "HCL Hamcearca nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 23/2023 privind actualizarea comisiilor pe domenii de specialitate ale Consiliului local al comunei Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/102133",
+   "versions": [
+    {
+     "from": "2023-05-10",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/102133",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-25-2023",
+   "path": "local/tulcea/hamcearca/2023/25",
+   "short": "HCL Hamcearca nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 25/2023 privind rectificarea bugetului local al Comunei Hamcearca, Județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/107240",
+   "versions": [
+    {
+     "from": "2023-06-22",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/107240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-27-2023",
+   "path": "local/tulcea/hamcearca/2023/27",
+   "short": "HCL Hamcearca nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 27/2023 privind rectificarea bugetului local pe anul 2023 al Comunei Hamcearca, Județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/111115",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/111115",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-28-2023",
+   "path": "local/tulcea/hamcearca/2023/28",
+   "short": "HCL Hamcearca nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 28/2023 privind privind modificarea HCL nr. 18 din 24.05.2022 pentru înlocuirea unei activități în cadrul proiectului „Asigurarea infrastructurii TIC (sisteme inteligente de management local) la nivelul comunei Hamcearca” în cadrul apelului de proiecte cu titlul PNRR/2022/C10/I.1.2-Fondul local I.1.2 - Asigurarea infrastructurii pentru transportul verde – ITS/alte infrastructuri TIC (sisteme inteligente de management urban/local)",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/111116",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/111116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-29-2023",
+   "path": "local/tulcea/hamcearca/2023/29",
+   "short": "HCL Hamcearca nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 29/2023 privind aprobarea unor măsuri pentru organizarea si alocarea sumelor necesare pentru sustinerea financiara cu privire la gestionarea câinilor fără stăpân la nivel de Comuna Hamcearca, Județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/114015",
+   "versions": [
+    {
+     "from": "2023-08-16",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/114015",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-3-2023",
+   "path": "local/tulcea/hamcearca/2023/3",
+   "short": "HCL Hamcearca nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 3/2023 privind aprobarea Bugetului instituțiilor publice si activităților finanțate integral sau parțial din venituri proprii pe anul 2023 Învățământ",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89248",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89248",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-30-2023",
+   "path": "local/tulcea/hamcearca/2023/30",
+   "short": "HCL Hamcearca nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 30/2023 privind actualizarea tarifului pentru colectarea, sortarea și transportul deșeurilor municipale pentru anul 2023, începând cu 1.07.2023, în comuna Hamcearca, județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/115648",
+   "versions": [
+    {
+     "from": "2023-08-28",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/115648",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-32-2023",
+   "path": "local/tulcea/hamcearca/2023/32",
+   "short": "HCL Hamcearca nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 32/2023 privind actualizarea cotizației aferentă acordului de cooperare nr. 161/16.12.2020 încheiat cu Filiala Județeană Tulcea a Asociației Comunelor din România",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/118411",
+   "versions": [
+    {
+     "from": "2023-09-20",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/118411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-33-2023",
+   "path": "local/tulcea/hamcearca/2023/33",
+   "short": "HCL Hamcearca nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 33/2023 privind rectificarea bugetului local al comunei Hamcearca pe anul 2023 și a listei de investiții",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120444",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120444",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-34-2023",
+   "path": "local/tulcea/hamcearca/2023/34",
+   "short": "HCL Hamcearca nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 34/2023 privind rectificarea Bugetului de venituri si cheltuieli al Serviciului Public Apa Hamcearca pentru anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120445",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120445",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-35-2023",
+   "path": "local/tulcea/hamcearca/2023/35",
+   "short": "HCL Hamcearca nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 35/2023 privind aprobarea Planului de acțiune pe timpul iernii 2023-2024 in comuna Hamcearca, judetul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120446",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-36-2023",
+   "path": "local/tulcea/hamcearca/2023/36",
+   "short": "HCL Hamcearca nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 36/2023 privind neasumarea responsabilității organizării și derulării procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor aferente programului lapte-corn",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120447",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-37-2023",
+   "path": "local/tulcea/hamcearca/2023/37",
+   "short": "HCL Hamcearca nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 37/2023 privind înființarea Serviciului Voluntar Pentru Situații de Urgență, aprobarea regulamentului de organizare și fiuncționare, precum și a organigramei acestuia, din comuna Hamcearca, județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120448",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-38-2023",
+   "path": "local/tulcea/hamcearca/2023/38",
+   "short": "HCL Hamcearca nr. 38/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 38/2023 privind acordul de înscriere în favoarea Federalcoop Tulcea Cooperativă de Consum de Gradul 1 pentru suprafața de 1870 mp aferent imobilului cu destinația ”Magazin cu bufet” situat în satul Nifon, str. Tămădău, nr. 63, comuna Hamcearca, județul Tulcea, în baza Hotărârii nr.193/03.09.2021 emisă de Comisia Județeană pentru stabilirea Dreptului de Proprietate Privată asupra Terenurilor Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120449",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-39-2023",
+   "path": "local/tulcea/hamcearca/2023/39",
+   "short": "HCL Hamcearca nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 39/2023 privind acordul de înscriere în favoarea Federalcoop Tulcea Cooperativă de Consum de Gradul 1 pentru suprafața de 2524 mp aferent imobilului cu destinația ”Magazin cu bufet” situat în satul Hamcearca, str. Cooperației, nr.5, comuna Hamcearca, județul Tulcea, în baza Hotărârii nr.194/03.09.2021 emisă de Comisia Județeană pentru stabilirea Dreptului de Proprietate Privată asupra Terenurilor Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/120450",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/120450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-4-2023",
+   "path": "local/tulcea/hamcearca/2023/4",
+   "short": "HCL Hamcearca nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 4/2023 privind aprobarea Bugetului de venituri si cheltuieli al Serviciului Public Apa Hamcearca pentru anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89249",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89249",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-41-2023",
+   "path": "local/tulcea/hamcearca/2023/41",
+   "short": "HCL Hamcearca nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 41/2023 privind darea în administrare a gestiunii Serviciului Public Apă Hamcearca aflat în subordinea Consiliului Local al Comunei Hamcearca, județul Tulcea, către Serviciul Public Apă Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/123626",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/123626",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-42-2023",
+   "path": "local/tulcea/hamcearca/2023/42",
+   "short": "HCL Hamcearca nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 42/2023 privind rectificarea bugetului local al comunei Hamcearca pe anul 2023 și a listei de investiții",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/126267",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/126267",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-44-2023",
+   "path": "local/tulcea/hamcearca/2023/44",
+   "short": "HCL Hamcearca nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 44/2023 privind aprobarea modului de valorificare a masei lemnoase din fondul forestier proprietate publică al Comunei Hamcearca, județul Tulcea",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/126269",
+   "versions": [
+    {
+     "from": "2023-11-09",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/126269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-49-2023",
+   "path": "local/tulcea/hamcearca/2023/49",
+   "short": "HCL Hamcearca nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 49/2023 privind rectificarea bugetului local al comunei Hamcearca pe anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/130082",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/130082",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-5-2023",
+   "path": "local/tulcea/hamcearca/2023/5",
+   "short": "HCL Hamcearca nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 5/2023 privind aprobarea Bugetului fondurilor Externe Nerambursabile la nivelul Comunei Hamcearca pentru anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89250",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89250",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-50-2023",
+   "path": "local/tulcea/hamcearca/2023/50",
+   "short": "HCL Hamcearca nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 50/2023 privind aprobarea contului de execuție bugetara pe trimestrul III 2023 al comunei Hamcearca",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/130083",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/130083",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-51-2023",
+   "path": "local/tulcea/hamcearca/2023/51",
+   "short": "HCL Hamcearca nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 51/2023 privind aprobarea participarii in cadrul Programului privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, finantare AFM, cu proiectul „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE-CAMIN CULTURAL BALABANCEA”, precum și aprobarea DALI-ului, a devizului general si a indicatorilor tehnico-economici aferenti",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/130084",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/130084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-52-2023",
+   "path": "local/tulcea/hamcearca/2023/52",
+   "short": "HCL Hamcearca nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 52/2023 privind aprobarea participarii in cadrul Programului privind cresterea eficientei energetice si gestionarea inteligenta a energiei in cladirile publice, finantare AFM, cu proiectul „CRESTEREA EFICIENTEI ENERGETICE SI GESTIONAREA INTELIGENTA A ENERGIEI IN CLADIRILE PUBLICE-PRIMARIE HAMCEARCA”, precum și aprobarea DALI-ului, a devizului general si a indicatorilor tehnico-economici aferenti",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/130085",
+   "versions": [
+    {
+     "from": "2023-12-13",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/130085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-53-2023",
+   "path": "local/tulcea/hamcearca/2023/53",
+   "short": "HCL Hamcearca nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 53/2023 privind rectificarea bugetului de venituri și cheltuieli al comunei Hamcearca pe anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/133869",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/133869",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-54-2023",
+   "path": "local/tulcea/hamcearca/2023/54",
+   "short": "HCL Hamcearca nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 54/2023 privind aprobarea impozitelor și taxelor locale la nivelul comunei Hamcearca, județul Tulcea pentru anul 2024",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/133870",
+   "versions": [
+    {
+     "from": "2024-01-05",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/133870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-7-2023",
+   "path": "local/tulcea/hamcearca/2023/7",
+   "short": "HCL Hamcearca nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 7/2023 privind aprobarea rețelei școlare din comuna Hamcearca în anul școlar 2023- 2024",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89252",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89252",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--hamcearca-9-2023",
+   "path": "local/tulcea/hamcearca/2023/9",
+   "short": "HCL Hamcearca nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Hamcearca nr. 9/2023 privind aprobarea planului de acțiuni şi lucrări de interes local pentru beneficiarii dreptului la ajutor social, acordat în baza legii 416/2001, în anul 2023",
+   "url": "https://emol.ro/hamcearca-tl/registru-hcl/89254",
+   "versions": [
+    {
+     "from": "2023-03-29",
+     "units": 1,
+     "source_url": "https://emol.ro/hamcearca-tl/registru-hcl/89254",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

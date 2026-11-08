@@ -3,6 +3,66 @@
  "shard": "cnsc/2023",
  "acts": [
   {
+   "slug": "cnsc-decizie-2023-1773",
+   "path": "cnsc/decizie/2023/1773",
+   "short": "Decizia CNSC nr. 1773/C11/2148 din 27.06.2023",
+   "title": "Decizia CNSC nr. 1773/C11/2148 din 27.06.2023: contestația B BRAUN - MEDICAL SRL în contradictoriu cu INSTITUTUL DE BOLI CARDIOVASCULARE PROF. DR. I. M. GEORGESCU",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTIyZjFhM2UtN2QzNC00MTZkLTlkNjctZmFlYjk5NjcxNTcz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzczLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-06-27",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTIyZjFhM2UtN2QzNC00MTZkLTlkNjctZmFlYjk5NjcxNTcz&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xNzczLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "bf6d16dc20607b097ffdf232d929231747bd99144ae15785a265f8a58d050df5"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-1955",
+   "path": "cnsc/decizie/2023/1955",
+   "short": "Decizia CNSC nr. 1955/C4/2110 din 12.07.2023",
+   "title": "Decizia CNSC nr. 1955/C4/2110 din 12.07.2023: contestația SC OVO DESIGN FURNITURE GROUP SRL, SC OZICON SRL în contradictoriu cu U.M. 02031 BUCURESTI",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzliN2JkMzYtMTIxYy00MmY2LWI4MWYtZmYwOGNiMmM2MGE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTU1LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-07-12",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MzliN2JkMzYtMTIxYy00MmY2LWI4MWYtZmYwOGNiMmM2MGE4&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8xOTU1LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "909982195569aee4b6dcf9854b52fd38ff00f2d5431ad820f348f3391d1076ee"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-2022",
+   "path": "cnsc/decizie/2023/2022",
+   "short": "Decizia CNSC nr. 2022/C2/2023 din 19.07.2023",
+   "title": "Decizia CNSC nr. 2022/C2/2023 din 19.07.2023: contestația TECNIC CONSULTING ENGINEERING ROMANIA SRL, MODERN POWER SYSTEMS SRL în contradictoriu cu MUNICIPIUL CLUJ-NAPOCA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE4ZjVkMjMtZWIxZi00ZDVkLWFhNzAtZDA3Nzg1YTE1OWY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDIyLnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-07-19",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=MmE4ZjVkMjMtZWIxZi00ZDVkLWFhNzAtZDA3Nzg1YTE1OWY3&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMDIyLnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "8e8f9fc4eb451a7bfbf0888d31a608060c447cbcb10e39c094c2a1c8cec10620"
+    }
+   ]
+  },
+  {
+   "slug": "cnsc-decizie-2023-2159",
+   "path": "cnsc/decizie/2023/2159",
+   "short": "Decizia CNSC nr. 2159/C11/2624 din 31.07.2023",
+   "title": "Decizia CNSC nr. 2159/C11/2624 din 31.07.2023: contestația NOVITRADE SRL în contradictoriu cu SPITALUL CLINIC JUDETEAN DE URGENTA CRAIOVA",
+   "url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTE2YTBkN2UtNjRiMi00MTNhLWFjNWYtYzJmMGFiN2M3MGUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTU5LnBkZg==&action=YXR0YWNobWVudA==",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 3,
+     "source_url": "http://portal.cnsc.ro/sivadoc/download.aspx?docUID=YTE2YTBkN2UtNjRiMi00MTNhLWFjNWYtYzJmMGFiN2M3MGUw&pdfa1=ZmFsc2U=&filename=RGVjaXppZV8yMTU5LnBkZg==&action=YXR0YWNobWVudA==",
+     "sha256": "df0556b08d189d065c16dd512cd93348732acc1c45d78699ee09706440f789e2"
+    }
+   ]
+  },
+  {
    "slug": "cnsc-decizie-2023-2322",
    "path": "cnsc/decizie/2023/2322",
    "short": "Decizia CNSC nr. 2322/C4/2413 din 19.08.2023",

@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/c-a-rosetti/2021",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-10-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/10",
+   "short": "HCL C.A. Rosetti nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 10/2021 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/25480",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/25480",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-22-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/22",
+   "short": "HCL C.A. Rosetti nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 22/2021 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/42534",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/42534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-24-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/24",
+   "short": "HCL C.A. Rosetti nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 24/2021 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2022",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/44953",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/44953",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-25-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/25",
+   "short": "HCL C.A. Rosetti nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 25/2021 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/44954",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/44954",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-3-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/3",
+   "short": "HCL C.A. Rosetti nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 3/2021 privind validarea Dispoziției primarului comunei nr.43 din 22 decembrie 2020 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/16685",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/16685",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-7-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/7",
+   "short": "HCL C.A. Rosetti nr. 7/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 7/2021 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2021",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/22525",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/22525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--c-a-rosetti-8-2021",
+   "path": "local/tulcea/c-a-rosetti/2021/8",
+   "short": "HCL C.A. Rosetti nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 8/2021 privind utilizarea excedentului anual al bugetului local al comunei C.A.Rosetti, județul Tulcea la închiderea exercițiului bugetar al anului 2020, ca sursă de finanțare a cheltuielilor secțiunii de dezvoltare în anul 2021",
+   "url": "https://emol.ro/carosetti-tl/registru-hcl/22526",
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "units": 1,
+     "source_url": "https://emol.ro/carosetti-tl/registru-hcl/22526",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

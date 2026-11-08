@@ -1,0 +1,205 @@
+{
+"country": "RO",
+"shard": "local/timis/sandra/2026",
+"acts": [
+{
+"slug": "hcl-timis--sandra-22-2026",
+"path": "local/timis/sandra/2026/22",
+"kind": "local",
+"year": "2026",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 22/2026 privind aprobarea bugetului de venituri si cheltuieli al comunei Şandra pe anul 2026",
+"short": "HCL Șandra nr. 22/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/266417",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-23-2026",
+"path": "local/timis/sandra/2026/23",
+"kind": "local",
+"year": "2026",
+"number": "23",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 23/2026 privind aprobarea agendei cultural-sportivă a comunei Şandra pe anul 2026",
+"short": "HCL Șandra nr. 23/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/266418",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-24-2026",
+"path": "local/timis/sandra/2026/24",
+"kind": "local",
+"year": "2026",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 24/2026",
+"short": "HCL Șandra nr. 24/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/266419",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--sandra-26-2026",
+"path": "local/timis/sandra/2026/26",
+"kind": "local",
+"year": "2026",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 26/2026 privind aprobarea implementării proiectului „Achiziție tractor de către Comuna Șandra, Județul Timiș” prin PLANUL STRATEGIC PAC 2023 - 2027",
+"short": "HCL Șandra nr. 26/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-05-25",
+"latest": "2026-05-25",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/266421",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-32-2026",
+"path": "local/timis/sandra/2026/32",
+"kind": "local",
+"year": "2026",
+"number": "32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 32/2026 privind modificarea art. 2 din Hotararea consiliului local Șandra nr. 26 din 06.05.2026 privind aprobarea implementării proiectului „Achiziție tractor de către Comuna Șandra, Județul Timiș” prin PLANUL STRATEGIC PAC 2023 - 2027",
+"short": "HCL Șandra nr. 32/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-07-17",
+"latest": "2026-07-17",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/276887",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-48-2026",
+"path": "local/timis/sandra/2026/48",
+"kind": "local",
+"year": "2026",
+"number": "48",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 48/2026 privind modificarea Hotararii consiliului local nr. 3 din 28.01.2021 privind aprobarea preţului pentru furnizarea apei potabile in comuna Sandra",
+"short": "HCL Șandra nr. 48/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/294146",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-50-2026",
+"path": "local/timis/sandra/2026/50",
+"kind": "local",
+"year": "2026",
+"number": "50",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 50/2026 privind stabilirea impozitelor şi taxelor locale în Comuna SANDRA pentru anul 2027",
+"short": "HCL Șandra nr. 50/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/294148",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-51-2026",
+"path": "local/timis/sandra/2026/51",
+"kind": "local",
+"year": "2026",
+"number": "51",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 51/2026 privind aprobarea rectificarii bugetului de venituri si cheltuieli al comunei Şandra pe anul 2026",
+"short": "HCL Șandra nr. 51/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/294149",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--sandra-55-2026",
+"path": "local/timis/sandra/2026/55",
+"kind": "local",
+"year": "2026",
+"number": "55",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Șandra nr. 55/2026 privind aprobarea finalizarii si inchiderii proiectului ,, INFIINTAREA UNUI CENTRU DE COLECTARE DESEURI PRIN APORT VOLUNTAR IN COMUNA ȘANDRA”, cod proiect C3I1A0122000590, finantat in cadrul Proiectului National de Redresare si Rezilienta prin apelul nr. PNRR/2022/C3/S/I.1.A precum si asigurarea sustenabilitatii investitiei",
+"short": "HCL Șandra nr. 55/2026",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2026-10-30",
+"latest": "2026-10-30",
+"portal": "https://emol.ro/sandra-tm/registru-hcl/294153",
+"council": "timis/sandra",
+"council_name": "Consiliul Local al Comunei Șandra",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

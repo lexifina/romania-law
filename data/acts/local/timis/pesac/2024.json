@@ -1,0 +1,51 @@
+{
+"country": "RO",
+"shard": "local/timis/pesac/2024",
+"acts": [
+{
+"slug": "hcl-timis--pesac-15-2024",
+"path": "local/timis/pesac/2024/15",
+"kind": "local",
+"year": "2024",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pesac nr. 15/2024",
+"short": "HCL Pesac nr. 15/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-02",
+"latest": "2024-04-02",
+"portal": "https://emol.ro/pesac-tm/registru-hcl/149465",
+"council": "timis/pesac",
+"council_name": "Consiliul Local al Comunei Pesac",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-timis--pesac-24-2024",
+"path": "local/timis/pesac/2024/24",
+"kind": "local",
+"year": "2024",
+"number": "24",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Pesac nr. 24/2024 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul Comunei Pesac, Județul Timiș, pe anul 2025",
+"short": "HCL Pesac nr. 24/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-05-08",
+"latest": "2024-05-08",
+"portal": "https://emol.ro/pesac-tm/registru-hcl/153814",
+"council": "timis/pesac",
+"council_name": "Consiliul Local al Comunei Pesac",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

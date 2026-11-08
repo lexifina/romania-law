@@ -1,0 +1,636 @@
+{
+ "country": "RO",
+ "shard": "local/timis/topolovatu-mare/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--topolovatu-mare-1-2021",
+   "path": "local/timis/topolovatu-mare/2021/1",
+   "short": "HCL Topolovățu Mare nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 1/2021 privind scutirea de la plata impozitelor pe clădiri și teren, aflate în proprietatea Asociației Bucuria Copiilor în anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/19975",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/19975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-10-2021",
+   "path": "local/timis/topolovatu-mare/2021/10",
+   "short": "HCL Topolovățu Mare nr. 10/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 10/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52282",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52282",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-13-2021",
+   "path": "local/timis/topolovatu-mare/2021/13",
+   "short": "HCL Topolovățu Mare nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 13/2021 privind aprobarea Agendei Culturale și a sumelor necesare Comunei Topolovatu Mare, pentru anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52285",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52285",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-14-2021",
+   "path": "local/timis/topolovatu-mare/2021/14",
+   "short": "HCL Topolovățu Mare nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 14/2021 privind creșterea calității și accesibilității școlilor",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52286",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52286",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-15-2021",
+   "path": "local/timis/topolovatu-mare/2021/15",
+   "short": "HCL Topolovățu Mare nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 15/2021 privind Însușirea raportului de evaluare asupra terenurilor supuse schimbului între Comuna Topolovatu Mare și SC PROD MAGI SRL",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52287",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-16-2021",
+   "path": "local/timis/topolovatu-mare/2021/16",
+   "short": "HCL Topolovățu Mare nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 16/2021 privind propunerile de variante a proiectului de steag al comunei TOPOLOVAȚU MARE, județul Timiș",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52288",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-17-2021",
+   "path": "local/timis/topolovatu-mare/2021/17",
+   "short": "HCL Topolovățu Mare nr. 17/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 17/2021 privind aprobarea instituirii unei taxe speciale pentru întocmirea și transmiterea dosarelor cu propuneri de vânzare a terenurilor în baza Legii 17/2014",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52289",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52289",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-18-2021",
+   "path": "local/timis/topolovatu-mare/2021/18",
+   "short": "HCL Topolovățu Mare nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 18/2021 privind AMENAJARE IRIGAȚII TOPOLOVĂȚU MARE - REȚEA DISTRIBUȚIE APA INGROPATA",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52290",
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-19-2021",
+   "path": "local/timis/topolovatu-mare/2021/19",
+   "short": "HCL Topolovățu Mare nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 19/2021 privind aprobarea actualizării principalilor indicatori tehnico-economici ai Proiectului „ACHIZIȚIONARE TABLETE ȘCOLARE PENTRU DOTAREA ȘCOLILOR DE PE RAZA COMUNEI TOPOLOVĂȚU MARE”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52291",
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52291",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-2-2021",
+   "path": "local/timis/topolovatu-mare/2021/2",
+   "short": "HCL Topolovățu Mare nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 2/2021 privind aprobarea principalelor investiții, propuse a se realiza la nivelul comunei Topolovățu Mare în anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/19976",
+   "versions": [
+    {
+     "from": "2021-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/19976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-22-2021",
+   "path": "local/timis/topolovatu-mare/2021/22",
+   "short": "HCL Topolovățu Mare nr. 22/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 22/2021 privind aprobarea înscrierii pe ordinea de zi a Proiectului de Hotarare nr. 23/21.05.2021 privind dezmembrarea și intabularea în cartea funciară a suprafețelor de teren Aparținând Domeniului Privat al Comunei Topolovatu Mare cuprinse în PUZ Topolovatu Mare, conform CF nr. 405012, Topolovatu Mare și a Documentatiei Cadastrale nr. 16518/23.04.2021, în vederea construirii Bazin de Inot în Topolovatu Mare prin C.N.I",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52294",
+   "versions": [
+    {
+     "from": "2021-05-27",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52294",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-23-2021",
+   "path": "local/timis/topolovatu-mare/2021/23",
+   "short": "HCL Topolovățu Mare nr. 23/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 23/2021 privind aprobarea introducerii în circuitul funciar a unor drumuri de exploatare, canale, ape curgătoare și stătătoare",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52302",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52302",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-24-2021",
+   "path": "local/timis/topolovatu-mare/2021/24",
+   "short": "HCL Topolovățu Mare nr. 24/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 24/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52303",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52303",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-26-2021",
+   "path": "local/timis/topolovatu-mare/2021/26",
+   "short": "HCL Topolovățu Mare nr. 26/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 26/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52305",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52305",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-28-2021",
+   "path": "local/timis/topolovatu-mare/2021/28",
+   "short": "HCL Topolovățu Mare nr. 28/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 28/2021 privind rectificarea I-a bugetului de venituri și cheltuieli al Comunei Topolovatu Mare, pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52307",
+   "versions": [
+    {
+     "from": "2021-06-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52307",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-31-2021",
+   "path": "local/timis/topolovatu-mare/2021/31",
+   "short": "HCL Topolovățu Mare nr. 31/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 31/2021 privind aprobarea variantei de steag al comunei TOPOLOVĂȚU MARE, județul Timiș",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52312",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52312",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-36-2021",
+   "path": "local/timis/topolovatu-mare/2021/36",
+   "short": "HCL Topolovățu Mare nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 36/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52317",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52317",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-38-2021",
+   "path": "local/timis/topolovatu-mare/2021/38",
+   "short": "HCL Topolovățu Mare nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 38/2021 privind aprobarea înființării Serviciului de iluminat public al comunei Topolovatu Mare, Regulamentului de organizare și funcționare, Caietului de sarcini și formei de gestiune ale Serviciului de iluminat public",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52319",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52319",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-39-2021",
+   "path": "local/timis/topolovatu-mare/2021/39",
+   "short": "HCL Topolovățu Mare nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 39/2021 privind aprobarea Încheierii Procesului Verbal de Predare-Primire a infrastructurii sistemului de alimentare cu apa si canalizare de catre primaria comunei Topolovaru Mare cu Serviciul Public de alimentare cu apa și canalizare a comunei Topolovatu Mare",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52320",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52320",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-40-2021",
+   "path": "local/timis/topolovatu-mare/2021/40",
+   "short": "HCL Topolovățu Mare nr. 40/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 40/2021 privind aprobarea actualizării indicatorilor tehnico-economici cuprinși în devizul general, pentru punerea în aplicarea a OUG 93/2021 privind instituirea unor măsuri pentru derularea PNDL II și cofinanțarea de la bugetul local pentru obiectivul de investiții „Pod peste râul Bega la Ictar Budinți în comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52321",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52321",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-41-2021",
+   "path": "local/timis/topolovatu-mare/2021/41",
+   "short": "HCL Topolovățu Mare nr. 41/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 41/2021 privind rectificarea II-a bugetului de venituri și cheltuieli al Comunei Topolovatu Mare, pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52322",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-43-2021",
+   "path": "local/timis/topolovatu-mare/2021/43",
+   "short": "HCL Topolovățu Mare nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 43/2021 privind aprobarea unificării parcelelor de terenuri extravilane înscrise în CF nr 403857, Topolovatu Mare, în suprafață de 24.123 mp și CF 403724 în suprafața de 12.000 mp înscrise în Domeniul Privat al comunei Topolovatu Mare, conform planului de situație cu propunere de unificare și înscrierea acestei suprafete într-un CF nou",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52324",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52324",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-45-2021",
+   "path": "local/timis/topolovatu-mare/2021/45",
+   "short": "HCL Topolovățu Mare nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 45/2021 privind modificarea funcției publice de Consilier Principal în funcție publica de Consilier Superior la compartimentul Urbanism și Amenajare Teritoriului, cuprinsa în Organigram și Statul de Functii, precum și modificarea Organigramei și Statului de functii al aparatului de specialitate al primarului comunei Topolovatu Mare și judetul Timiș, începand cu 01.10.2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52326",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-46-2021",
+   "path": "local/timis/topolovatu-mare/2021/46",
+   "short": "HCL Topolovățu Mare nr. 46/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 46/2021 privind aprobarea proiectului de investiții și a documentației tehnice - Documentația de avizare a lucrarilor de interventii pentru investitia „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII ȘCOLII GIMNAZIALE DIN LOCALITATEA TOPOLOVĂȚU MARE, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52333",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52333",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-47-2021",
+   "path": "local/timis/topolovatu-mare/2021/47",
+   "short": "HCL Topolovățu Mare nr. 47/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 47/2021 privind implementarea proiectului „CREȘTEREA EFICIENȚEI ENERGETICE A CLĂDIRII ȘCOLII GIMNAZIALE DIN LOCALITATEA TOPOLOVĂȚU MARE, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52334",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52334",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-48-2021",
+   "path": "local/timis/topolovatu-mare/2021/48",
+   "short": "HCL Topolovățu Mare nr. 48/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 48/2021 privind aprobarea depunerii cererii de finanțare prin programul Național de Investiții „Anghel Saligny” și devizului general estimativ pentru obiectivul de investiții „Modernizare străzi în comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52335",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52335",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-49-2021",
+   "path": "local/timis/topolovatu-mare/2021/49",
+   "short": "HCL Topolovățu Mare nr. 49/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 49/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții „Anghel Saligny” și devizului general estimativ pentru obiectivul de investiții „Realizare foraje, rețele de distribuție în localitățile Topolovățu Mare, Ictar-Budinți și Iosifalău, stație de tratare în localitatea Topolovățu Mare, comuna Topolovățu Mare, jud. Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52336",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-5-2021",
+   "path": "local/timis/topolovatu-mare/2021/5",
+   "short": "HCL Topolovățu Mare nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 5/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52270",
+   "versions": [
+    {
+     "from": "2021-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52270",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-50-2021",
+   "path": "local/timis/topolovatu-mare/2021/50",
+   "short": "HCL Topolovățu Mare nr. 50/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 50/2021 privind aprobarea depunerii cererii de finanțare prin Programul Național de Investiții „Anghel Saligny” și devizului general estimativ pentru obiectivul de investiții ”ÎNFIINȚARE SISTEM DE DISTRIBUȚIE GAZE NATURALE în comuna Topolovățu Mare, satele Topolovățu Mare, Iosifalău și Suștra județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52337",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52337",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-51-2021",
+   "path": "local/timis/topolovatu-mare/2021/51",
+   "short": "HCL Topolovățu Mare nr. 51/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 51/2021 privind aprobarea indicatorilor tehnico-economici pentru lucrările REST DE EXECUTAT și cofinanțarea din bugetul local pentur obiectivul investițional „Canalizare menajeră și stație de epurare în localitatea Topolovățu Mare, comuna Topolovățu Mare”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52338",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-52-2021",
+   "path": "local/timis/topolovatu-mare/2021/52",
+   "short": "HCL Topolovățu Mare nr. 52/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 52/2021 privind aprobarea indicatorilor tehnico-economici pentru lucrările REST DE EXECUTAT și cofinanțarea din bugetul local pentru obiectivul investițional „Modernizare drum comunal DC 77 și străzi în sat Cralovăț, comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52339",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-53-2021",
+   "path": "local/timis/topolovatu-mare/2021/53",
+   "short": "HCL Topolovățu Mare nr. 53/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 53/2021 privind aprobarea indicatorilor tehnico-economici pentru lucrările REST DE EXECUTAT și cofinanțarea din bugetul local pentru obiectivul investițional „Pod peste râul Bega la Ictar-Budinți în comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52340",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52340",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-54-2021",
+   "path": "local/timis/topolovatu-mare/2021/54",
+   "short": "HCL Topolovățu Mare nr. 54/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 54/2021 privind aprobarea indicatorilor tehnico-economici pentru lucrările „RACORDURI CANALIZARE MENAJERA ÎN LOCALITATEA TOPOLOVĂȚU MARE, comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52341",
+   "versions": [
+    {
+     "from": "2021-10-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52341",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-55-2021",
+   "path": "local/timis/topolovatu-mare/2021/55",
+   "short": "HCL Topolovățu Mare nr. 55/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 55/2021 privind rectificarea III-a bugetului de venituri și cheltuieli al Comunei Topolovățu Mare, pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52342",
+   "versions": [
+    {
+     "from": "2021-10-29",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52342",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-57-2021",
+   "path": "local/timis/topolovatu-mare/2021/57",
+   "short": "HCL Topolovățu Mare nr. 57/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 57/2021 privind Proiectul Planului rețelei școlare de pe raza Comunei Topolovățu Mare pentru anul școlar 2022-2023",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57084",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57084",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-58-2021",
+   "path": "local/timis/topolovatu-mare/2021/58",
+   "short": "HCL Topolovățu Mare nr. 58/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 58/2021 privind aprobarea solicitării prelungirii Scrisorii de granație nr. 41/20.03.2018 de la FNGCIMM SA IFN în valoare de 1.854.000,00 lei în vederea garantării obligațiilor de plată a avansului de 1.854.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat - „Modernizarea infrastructurii rutiere în satele Topolovățu Mare și Șuștra, comuna Topolovățu Mare, județul Timiș”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57085",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57085",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-59-2021",
+   "path": "local/timis/topolovatu-mare/2021/59",
+   "short": "HCL Topolovățu Mare nr. 59/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 59/2021 privind înscrierea în evidențele de publicitate imobiliară, domeniul privat al comunei Topolovățu Mare - administrarea Consiliului Local Topolovățu Mare a imobilelor terenuri în suprafață de 405.2607 ha situate comuna Topolovățu Mare, terenuri care nu au fost atribuite și rămase la dispoziția comisiei locale de fond funciar, conform anexa la prezenta hotarare",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57086",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-6-2021",
+   "path": "local/timis/topolovatu-mare/2021/6",
+   "short": "HCL Topolovățu Mare nr. 6/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 6/2021 privind aprobarea Bugetului Local al comunei Topolovățu Mare pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/52271",
+   "versions": [
+    {
+     "from": "2021-04-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/52271",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-60-2021",
+   "path": "local/timis/topolovatu-mare/2021/60",
+   "short": "HCL Topolovățu Mare nr. 60/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 60/2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57087",
+   "versions": [
+    {
+     "from": "2021-11-25",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57087",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-61-2021",
+   "path": "local/timis/topolovatu-mare/2021/61",
+   "short": "HCL Topolovățu Mare nr. 61/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 61/2021 privind participarea Comunei Topolovățu Mare la ”Programul privind creșterea eficienței energetice a infrastructurii de iluminat public” și aprobarea indicatorilor tehnico-economici ai proiectului ”Modernizare iluminat public stradal în comuna Topolovățu Mare”",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57088",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57088",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-62-2021",
+   "path": "local/timis/topolovatu-mare/2021/62",
+   "short": "HCL Topolovățu Mare nr. 62/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 62/2021 privind rectificarea IV-a bugetului de venituri și cheltuieli al Comunei Topolovățu Mare, pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57089",
+   "versions": [
+    {
+     "from": "2021-12-20",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57089",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--topolovatu-mare-63-2021",
+   "path": "local/timis/topolovatu-mare/2021/63",
+   "short": "HCL Topolovățu Mare nr. 63/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Topolovățu Mare nr. 63/2021 privind rectificarea a-V-a bugetului de venituri și cheluieli al Comunei Topolovățu Mare, pe anul 2021",
+   "url": "https://emol.ro/topolovatumare-tm/registru-hcl/57090",
+   "versions": [
+    {
+     "from": "2021-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/topolovatumare-tm/registru-hcl/57090",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

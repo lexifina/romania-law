@@ -1,0 +1,186 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/cerna/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--cerna-17-2024",
+   "path": "local/tulcea/cerna/2024/17",
+   "short": "HCL Cerna nr. 17/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 17/2024",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210338",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210338",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-18-2024",
+   "path": "local/tulcea/cerna/2024/18",
+   "short": "HCL Cerna nr. 18/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 18/2024 privind aprobarea efectuării lucrărilor de reparații curente corp clădire Școala General Praporgescu",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210339",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210339",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-22-2024",
+   "path": "local/tulcea/cerna/2024/22",
+   "short": "HCL Cerna nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 22/2024 privind aprobarea Actului adițional nr.1 la Contractul de delegare a gestiunii prin concesiune a serviciului public de alimentare cu apă și de canalizare al comunei Cerna nr.6988/11.12.2023",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210343",
+   "versions": [
+    {
+     "from": "2024-03-05",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210343",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-25-2024",
+   "path": "local/tulcea/cerna/2024/25",
+   "short": "HCL Cerna nr. 25/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 25/2024 privind menținerea adeziunii Comunei Cerna, inclusiv cu teritoriul, la zona pescărească Dunărea Veche – Brațul Măcin, definită de parteneriatul constituit juridic sub denumirea Asociația Grupul de Acțiune Locală în domeniul pescuitului Dunărea Veche – Brațul Măcinului (FLAG Dunărea Veche – Brațul Măcin)",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210346",
+   "versions": [
+    {
+     "from": "2024-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210346",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-3-2024",
+   "path": "local/tulcea/cerna/2024/3",
+   "short": "HCL Cerna nr. 3/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 3/2024 privind reducerea impozitului pe mijloacele de transport în cazul mijloacelor de transport hibride",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210269",
+   "versions": [
+    {
+     "from": "2024-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210269",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-34-2024",
+   "path": "local/tulcea/cerna/2024/34",
+   "short": "HCL Cerna nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 34/2024 privind aprobarea Planului Urbanistic Zonal „Construire stație de bază pentru servicii de comunicații electronice”, satul Traian, comuna Cerna, județul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210365",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210365",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-38-2024",
+   "path": "local/tulcea/cerna/2024/38",
+   "short": "HCL Cerna nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 38/2024 privind actualizarea inventarului bunurilor care alcătuiesc domeniul privat al Comunei Cerna, judeţul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210369",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210369",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-43-2024",
+   "path": "local/tulcea/cerna/2024/43",
+   "short": "HCL Cerna nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 43/2024 privind aprobarea prețului de deversare a vidanjelor în sistemul de canalizare al Comunei Cerna",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210377",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-44-2024",
+   "path": "local/tulcea/cerna/2024/44",
+   "short": "HCL Cerna nr. 44/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 44/2024 privind aprobarea Contractului de concesiune a unui teren în suprafață totală de 30000 mp, situat în extravilanul comunei Cerna, judeţul Tulcea, T 61, Nb 792, Nb 799, în vederea realizării unui parc eolian și instalație de stocare energie electrică",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210378",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210378",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-57-2024",
+   "path": "local/tulcea/cerna/2024/57",
+   "short": "HCL Cerna nr. 57/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 57/2024 privind aprobarea Planului de acţiune pe timpul iernii 2024-2025 în Comuna Cerna, judeţul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210391",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-77-2024",
+   "path": "local/tulcea/cerna/2024/77",
+   "short": "HCL Cerna nr. 77/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 77/2024",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210606",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210606",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-83-2024",
+   "path": "local/tulcea/cerna/2024/83",
+   "short": "HCL Cerna nr. 83/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 83/2024 privind însușirea Acordului de cooperare privind activitatea de gestionare a câinilor fără stăpân",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210612",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210612",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

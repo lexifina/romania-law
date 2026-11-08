@@ -1,0 +1,117 @@
+{
+"country": "RO",
+"shard": "local/tulcea/c-a-rosetti/2023",
+"acts": [
+{
+"slug": "hcl-tulcea--c-a-rosetti-3-2023",
+"path": "local/tulcea/c-a-rosetti/2023/3",
+"kind": "local",
+"year": "2023",
+"number": "3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 3/2023 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2023",
+"short": "HCL C.A. Rosetti nr. 3/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-02-23",
+"latest": "2023-02-23",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/90511",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-7-2023",
+"path": "local/tulcea/c-a-rosetti/2023/7",
+"kind": "local",
+"year": "2023",
+"number": "7",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 7/2023 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale ale comunei C.A.Rosetti, județul Tulcea pe anul 2022",
+"short": "HCL C.A. Rosetti nr. 7/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-05-10",
+"latest": "2023-05-10",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/104070",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-16-2023",
+"path": "local/tulcea/c-a-rosetti/2023/16",
+"kind": "local",
+"year": "2023",
+"number": "16",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 16/2023 privind aprobarea documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economic și a devizului general pentru obiectivul de investiție „Modernizare drum comunal DC 2 C.A.ROSETTI - Cardon tronson 1 = 3710 m, comuna C.A.ROSETTI, județul TULCEA” aprobat pentru finanțare prin Programul național de investiții ” Anghel Saligny”",
+"short": "HCL C.A. Rosetti nr. 16/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-09-23",
+"latest": "2023-09-23",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/121324",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-25-2023",
+"path": "local/tulcea/c-a-rosetti/2023/25",
+"kind": "local",
+"year": "2023",
+"number": "25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 25/2023",
+"short": "HCL C.A. Rosetti nr. 25/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/133200",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-26-2023",
+"path": "local/tulcea/c-a-rosetti/2023/26",
+"kind": "local",
+"year": "2023",
+"number": "26",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 26/2023 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2024",
+"short": "HCL C.A. Rosetti nr. 26/2023",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2023-12-15",
+"latest": "2023-12-15",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/133201",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

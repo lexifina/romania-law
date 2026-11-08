@@ -1,0 +1,861 @@
+{
+ "country": "RO",
+ "shard": "local/timis/teremia-mare/2022",
+ "acts": [
+  {
+   "slug": "hcl-timis--teremia-mare-1-2022",
+   "path": "local/timis/teremia-mare/2022/1",
+   "short": "HCL Teremia Mare nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 1/2022 privind aprobarea executiei bugetare pentru anul 2021",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55971",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55971",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-16-2022",
+   "path": "local/timis/teremia-mare/2022/16",
+   "short": "HCL Teremia Mare nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 16/2022 privind documentatia cadastrală de primă inscriere a imobilului 1, aflat in intravilanul UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55986",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55986",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-17-2022",
+   "path": "local/timis/teremia-mare/2022/17",
+   "short": "HCL Teremia Mare nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 17/2022 privind documentația cadastrala de prima inscriere a imobilelor Sonda si drum, aflate in extravilanul UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55987",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55987",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-18-2022",
+   "path": "local/timis/teremia-mare/2022/18",
+   "short": "HCL Teremia Mare nr. 18/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 18/2022 privind executarea lucrării de amenajare a unei terase din lemn, pe domeniul public in parcul din Teremia Mare, UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55988",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55988",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-19-2022",
+   "path": "local/timis/teremia-mare/2022/19",
+   "short": "HCL Teremia Mare nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 19/2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55989",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55989",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-2-2022",
+   "path": "local/timis/teremia-mare/2022/2",
+   "short": "HCL Teremia Mare nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 2/2022 privind aprobarea deficitului sectiunii de dezvoltare la data de 31.12.2021",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55972",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55972",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-21-2022",
+   "path": "local/timis/teremia-mare/2022/21",
+   "short": "HCL Teremia Mare nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 21/2022 privind aprobarea inființării Serviciul de Gospodarie Comunala Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58940",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58940",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-23-2022",
+   "path": "local/timis/teremia-mare/2022/23",
+   "short": "HCL Teremia Mare nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 23/2022 privind aprobarea cererii de finantare și a devizului general estimativ pentru investiția “ÎNFIINTARE SISTEM DE DISTRIBUȚIE GAZE NATURALE ÎN COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58942",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58942",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-24-2022",
+   "path": "local/timis/teremia-mare/2022/24",
+   "short": "HCL Teremia Mare nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 24/2022 privind înfințarea Serviciului de Transport în cadrul Primariei Comunei Teremia Mare, judetul Timis",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58943",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-25-2022",
+   "path": "local/timis/teremia-mare/2022/25",
+   "short": "HCL Teremia Mare nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 25/2022 privind executarea lucrării de amenajare a unei terase, pe domeniul public în fața imobilului cu nr. poștal 558 din Teremia Mare, UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58944",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-26-2022",
+   "path": "local/timis/teremia-mare/2022/26",
+   "short": "HCL Teremia Mare nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 26/2022 privind executarea lucrării de amenajare a unei terase, pe domeniul public din Teremia Mare, UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58945",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-3-2022",
+   "path": "local/timis/teremia-mare/2022/3",
+   "short": "HCL Teremia Mare nr. 3/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 3/2022 privind aprobarea Bugetului Local Initial al Comunei Teremia Mare pe anul 2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55973",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55973",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-33-2022",
+   "path": "local/timis/teremia-mare/2022/33",
+   "short": "HCL Teremia Mare nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 33/2022 privind aprobarea rectificarii suprafeței de teren din CF-ul cu nr. 400659, nr. CF vechi 699, cu număr cadastral 273/b, având numar postal 219, Teremia Mica, UAT Teremia Mare, conform documentației cadastrale de modificare a suprafeței",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/58952",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/58952",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-36-2022",
+   "path": "local/timis/teremia-mare/2022/36",
+   "short": "HCL Teremia Mare nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 36/2022 privind aprobarea '' Regulamentului de organizare și funcționare a spațiilor de joacă situate pe domeniul public și privat al Comunei Teremia Mare, județul Timiș ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75364",
+   "versions": [
+    {
+     "from": "2022-04-13",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-37-2022",
+   "path": "local/timis/teremia-mare/2022/37",
+   "short": "HCL Teremia Mare nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 37/2022 privind aprobarea stabilirii impozitelor și taxelor locale la nivelul comunei Teremia Mare, județul Timiș pentru anul 2023",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75376",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-38-2022",
+   "path": "local/timis/teremia-mare/2022/38",
+   "short": "HCL Teremia Mare nr. 38/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 38/2022 privind aprobarea cuantumului și plății cotizației anuale către Asociația de dezvoltare intercomunitară ''Distribuție Gaz Timiș Vest'', pentru anul 2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75377",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75377",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-4-2022",
+   "path": "local/timis/teremia-mare/2022/4",
+   "short": "HCL Teremia Mare nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 4/2022 privind aprobarea Organigramei si a Statutului de functii al aparatului de specialitate al primarului comunei Teremia Mare,județul Timis",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55974",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55974",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-40-2022",
+   "path": "local/timis/teremia-mare/2022/40",
+   "short": "HCL Teremia Mare nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 40/2022 privind aprobarea actualizării Statutului Unității Administrativ Teritoriale Teremia Mare, județul Timiș și Regulamentul de organizare și funcționare al Consiliului Local, Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75379",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-41-2022",
+   "path": "local/timis/teremia-mare/2022/41",
+   "short": "HCL Teremia Mare nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 41/2022 privind modificarea și completarea HCL nr. 83/11.10.2019 privind înfințarea echipei mobile pentru investiții de urgență în cazurile de violență domestică",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75380",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75380",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-42-2022",
+   "path": "local/timis/teremia-mare/2022/42",
+   "short": "HCL Teremia Mare nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 42/2022 privind aprobarea rectificării suprafeței de teren din CF-ul cu nr. 400472, nr. CF vechi 1668, cu număr cadastral 2262/508, avănd număr poștal 531, Teremia Mare, UAT Teremia Mare, conform documentației cadastrale de modificare a suprafeței, alăturat anexată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75381",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75381",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-43-2022",
+   "path": "local/timis/teremia-mare/2022/43",
+   "short": "HCL Teremia Mare nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 43/2022 privind aprobarea rectificării suprafeței de teren din CF-ul cu nr. 400445, nr. CF vechi 947, cu număr cadastral 153/a, Teremia Mare, conform documentației cadastrale de modificare a suprafeței, alăturat anexată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75382",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75382",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-44-2022",
+   "path": "local/timis/teremia-mare/2022/44",
+   "short": "HCL Teremia Mare nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 44/2022 privind aprobarea rectificării suprafeței de teren din CF-ul cu nr. 400851, nr. CF vechi 2920, cu număr cadastral 230-231/b/2-232-233/1/a/2, Teremia Mare, UAT Teremia Mare, conform documentației cadastrale de modificare a suprafeței, alăturat anexată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75383",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75383",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-45-2022",
+   "path": "local/timis/teremia-mare/2022/45",
+   "short": "HCL Teremia Mare nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 45/2022 privind aprobarea rectificării suprafeței de teren din CF-ul cu nr. 400835, nr. CF vechi 836, cu număr cadastral 400835, Teremia Mare, UAT Teremia Mare, conform documentației cadastrale de modificare a suprafeței, alăturat anexată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75384",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75384",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-46-2022",
+   "path": "local/timis/teremia-mare/2022/46",
+   "short": "HCL Teremia Mare nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 46/2022 privind aprobarea reparării trotuarului și a podețului, aparținănd domeniului public, din fața imobilului cu nr. poștal 185, din localitatea Teremia Mare, UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75385",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75385",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-47-2022",
+   "path": "local/timis/teremia-mare/2022/47",
+   "short": "HCL Teremia Mare nr. 47/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 47/2022 privind aprobarea înfințării unei asociații, construite în scopul realizării în comuna, a unui proiect de dezvoltare de interes local privind dezvoltarea infrastructurii în zona membrilor asociați, respectiv reabilitarea și modernizarea drumului comunal ce face legătura între UAT Tomnatic și Localitatea Nerău de pe raza UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75386",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75386",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-48-2022",
+   "path": "local/timis/teremia-mare/2022/48",
+   "short": "HCL Teremia Mare nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 48/2022 privind declararea proiectului ''PUZ- ZONĂ INDUSTRIALĂ ''să fie de interes local",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75387",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75387",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-49-2022",
+   "path": "local/timis/teremia-mare/2022/49",
+   "short": "HCL Teremia Mare nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 49/2022 privind transformare post vacant în statul de funcții al aparatului de specialitate al primarului comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75388",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75388",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-5-2022",
+   "path": "local/timis/teremia-mare/2022/5",
+   "short": "HCL Teremia Mare nr. 5/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 5/2022 privind aprobarea cuantumului minim al burselor de performanță, de merit, de studiu si de ajutor social pentru elevii din invățământul preuniversitar de stat, cu frecventa, care se acordă in semestrul al-II-lea al anului scolar 2021-2022 la Școala Gimnaziala Teremia Mare,județul Timis",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55975",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55975",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-50-2022",
+   "path": "local/timis/teremia-mare/2022/50",
+   "short": "HCL Teremia Mare nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 50/2022 privind aprobarea începerii documentației tehnico-economică pentru organizarea și amenajarea platformei de depozitare a deșeurilor pentru imobilului înscris în CF nr. 402544, cu nr. cad. NGL 211 Teremia Mică, UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75389",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-51-2022",
+   "path": "local/timis/teremia-mare/2022/51",
+   "short": "HCL Teremia Mare nr. 51/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 51/2022 privind alegerea președintelui de ședință al Consiliului Local Teremia Mare pentru perioada iulie 2022-sepetembrie 2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75399",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75399",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-52-2022",
+   "path": "local/timis/teremia-mare/2022/52",
+   "short": "HCL Teremia Mare nr. 52/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 52/2022 privind rectificarea bugetară pentru anul 2022 trimestrul al III-lea, varianta I și a Listei de investiții, varianta I",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75400",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75400",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-53-2022",
+   "path": "local/timis/teremia-mare/2022/53",
+   "short": "HCL Teremia Mare nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 53/2022 privind înfințarea, Regulamentul și indicatorii de performanță, Caietul de sarcini, Contractul de furnizare și alte măsuri ce asigură funcționarea legală a Serviciului de alimentare cu apă și canalizare al comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75401",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-54-2022",
+   "path": "local/timis/teremia-mare/2022/54",
+   "short": "HCL Teremia Mare nr. 54/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 54/2022 privind modificarea și completarea HCL nr. 38/12.06.2019 privind acordarea unui stimulent financiar pentru nou-născut",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75402",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75402",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-55-2022",
+   "path": "local/timis/teremia-mare/2022/55",
+   "short": "HCL Teremia Mare nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 55/2022 privind aprobarea cuantumului și plății cotizației către Asociația de Dezvoltare Intercomunitară Deșeuri Timiș pentru anul 2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75403",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-56-2022",
+   "path": "local/timis/teremia-mare/2022/56",
+   "short": "HCL Teremia Mare nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 56/2022 privind aprobarea actualizării Devizului General și a indicatorilor tehnico-economici din cadrul investiției ''CONSTRUIRE PUNCT MEDICAL TEREMIA MICĂ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75404",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75404",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-57-2022",
+   "path": "local/timis/teremia-mare/2022/57",
+   "short": "HCL Teremia Mare nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 57/2022 privind aprobarea actualizării Devizului General și a indicatorilor tehnico-economici din cadrul investiției ''CONSTRUIRE PUNCT MEDICAL NERĂU ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75405",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-58-2022",
+   "path": "local/timis/teremia-mare/2022/58",
+   "short": "HCL Teremia Mare nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 58/2022 privind actualizarea Devizului General și a indicatorilor tehnico-economici din cadrul investiției ''CONSTRUIRE CREȘĂ ȘI REACTUALIZARE ÎMPREJMUIRE, COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75406",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75406",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-59-2022",
+   "path": "local/timis/teremia-mare/2022/59",
+   "short": "HCL Teremia Mare nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 59/2022 privind asigurarea finanțării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul : ''REABILITAREA SISTEMULUI DE ALIMENTARE CU APĂ ÎN LOCALITATEA TEREMIA MARE ȘI NERĂU, COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75407",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75407",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-6-2022",
+   "path": "local/timis/teremia-mare/2022/6",
+   "short": "HCL Teremia Mare nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 6/2022 privind aprobarea Retelei scolare valabile pentru anul scolar 2022-2023 invatamant de stat Teremia Mare, județul Timis",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55976",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55976",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-60-2022",
+   "path": "local/timis/teremia-mare/2022/60",
+   "short": "HCL Teremia Mare nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 60/2022 privind aprobarea actualizării documentației tehnico-economice pentru investiția '' CONSTRUIRE CĂMIN CULTURAL SAT TEREMIA MICĂ, NR.299, COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75408",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75408",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-61-2022",
+   "path": "local/timis/teremia-mare/2022/61",
+   "short": "HCL Teremia Mare nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 61/2022 privind acordul de colaborare între A.J.V.P.S Timiș, gestionarul Fondului Cinegeticnr.85 Tomnatic și Consiliul Local al comunei Teremia Mare din județul Timiș, conform O.M nr. 1570/2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75409",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75409",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-62-2022",
+   "path": "local/timis/teremia-mare/2022/62",
+   "short": "HCL Teremia Mare nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 62/2022 privind cerea RADEF Romănia cu nr. 1857/21.06.2022, avănd nr. de înregistrare administrativ 3105/26.06.2022, prin care se solicită scutirea taxelor și impozitelor, invocăndu-se aplicarea prevederilor art. 456, alin.1, lit a și art. 464, alin 1. lit. a din Codul Fiscal, pentru imobilul, constănd în construcție și teren, înscris în CF nr. 403979, nr. top. 2349/349-351 UAT Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75410",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75410",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-63-2022",
+   "path": "local/timis/teremia-mare/2022/63",
+   "short": "HCL Teremia Mare nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 63/2022 privind completarea și modificarea HCL Teremia Mare nr.5/25.01.2017 cu privire la darea în administrare către Școala Gimnazială cu clasele I-VIII Teremia Mare, a bunurilor imobile- clădiri, terenuri-a mijloacelor fixe prin protocol de predare-primire",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75411",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-64-2022",
+   "path": "local/timis/teremia-mare/2022/64",
+   "short": "HCL Teremia Mare nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 64/2022 privind aprobarea vănzării prin licitație publică, conform legislației în vigoare, a imobilului înscris în CF nr. 404367, nr. CF vecgi 2858, nr. cadastral 2495/508/d/110/h/2/120, Teremia Mare, UAT Teremia Mare, reprezentând construcție, proprietatea comunei Teremia Mare, domeniul privat, cota 1/1",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75412",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75412",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-65-2022",
+   "path": "local/timis/teremia-mare/2022/65",
+   "short": "HCL Teremia Mare nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 65/2022 privind aprobarea rectificării suprafeței de teren din CF-ul cu nr.400687, nr. VF vechi 259, cu număr cadastral 180-181, Teremia Mică, UAT Teremia Mare, conform documentației cadastrale de modificare a suprafeței, alăturat anexată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75413",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-7-2022",
+   "path": "local/timis/teremia-mare/2022/7",
+   "short": "HCL Teremia Mare nr. 7/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 7/2022 privind aprobarea cotei de carburanti pe anul 2022",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55977",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55977",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-70-2022",
+   "path": "local/timis/teremia-mare/2022/70",
+   "short": "HCL Teremia Mare nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 70/2022 privind rectificarea bugetară pentru anul 2022 trimestrul al III-lea, varianta a II-a și a Listei de investiții, varianta a II-a",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75422",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-71-2022",
+   "path": "local/timis/teremia-mare/2022/71",
+   "short": "HCL Teremia Mare nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 71/2022 privind acordul de colaborare între A.V Triplex Beba Veche, gestinarul Fondului Cinegetic nr. 86 Teremia și Consiliul Local al comuni Teremia Mare din județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75423",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-74-2022",
+   "path": "local/timis/teremia-mare/2022/74",
+   "short": "HCL Teremia Mare nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 74/2022 privind aprobarea terenului agricol din extravilanul comunei Teremia Mare, județul Timiș, înscris în C.F nr. 404541, nr. cad. 404541, nr. topo.A823,HB824, proprietataea comunei Teremia Mare, județul Timiș, domeniul privat, cota 1/1 pentru realizarea obiectivului de interes public, finanțat de la bugetul local, a cărăr beneficiari sunt autoritățiile și instituțiile administrației publice, prin Planul urbanistic zonal",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75426",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75426",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-75-2022",
+   "path": "local/timis/teremia-mare/2022/75",
+   "short": "HCL Teremia Mare nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 75/2022 privind aprobarea actualizării Devizului General și a indicatorilor tehnico-economici din cadrul investiției ''CONSTRUIRE CREȘĂ ȘI REALIZARE ÎMPREJMUIRE, COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75427",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75427",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-76-2022",
+   "path": "local/timis/teremia-mare/2022/76",
+   "short": "HCL Teremia Mare nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 76/2022 privind aprobarea asigurării finanțării de la bugetul local pentru categoriile de cheltuieli, care nu se finanțează de la bugetul de stat prin PNDL pentru obiectivul : '' REABILITAREA SISTEMULUI DE ALIMENTARE CU APĂ ÎN LOCALITATEA TEREMIA MARE ȘI NERĂU, COMUNA TEREMIA MARE, JUDEȚUL TIMIȘ ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75428",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75428",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-77-2022",
+   "path": "local/timis/teremia-mare/2022/77",
+   "short": "HCL Teremia Mare nr. 77/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 77/2022 privind rectificarea H.C.L nr.74/07.09.2022 privind aprobarea terenului agricol din extravilanul comunei Teremia Mare, județul Timiș, înscris în C.F nr. 404541, nr. cad. 404541, nr.topo.A823, HB824, proprietataea comunei Teremia Mare, județul Timiș, domeniul privat, cota 1/1 pentru realizarea obiectivului de interes public, finanțat de la bugetul local, a căror beneficiari sunt autoritățiile și instituțiile administrației publice, prin Planul urbanistic zonal",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75434",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75434",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-78-2022",
+   "path": "local/timis/teremia-mare/2022/78",
+   "short": "HCL Teremia Mare nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 78/2022 privind aprobarea indicatorilor tehnico-economici pentru semnarea contractului cu Ministerul Dezvoltării, Lucrărilor Publice și Admnistrație prin programul Național de Investiții ''Anghel Saligny '' a proiectului privind obiectivul ''ASFALTAREA STRĂZI ÎN COMUNA TEREMIA MARE ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75448",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-79-2022",
+   "path": "local/timis/teremia-mare/2022/79",
+   "short": "HCL Teremia Mare nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 79/2022 privind aprobarea cofinanțării de la bugetul local pentru categoriile de cheltuieli neeligibile pentru obiectivul'' ASFALTAREA STRĂZI ÎN COMUNA TEREMIA MARE '' prin Programul Național de Investiții ''Anghel Saligny ''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75449",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-8-2022",
+   "path": "local/timis/teremia-mare/2022/8",
+   "short": "HCL Teremia Mare nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 8/2022 privind achiziționarea de Servicii de consultanță privind implementarea si dezvoltarea Sistemului de Control Intern Managerial (SCIM) la nivelul Primariei comunei Teremia Mare",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55978",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55978",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-80-2022",
+   "path": "local/timis/teremia-mare/2022/80",
+   "short": "HCL Teremia Mare nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 80/2022 privind rectificarea bugetară pentru anul 2022 trimestrul al III-lea, varianta a III-a",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/75450",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/75450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-9-2022",
+   "path": "local/timis/teremia-mare/2022/9",
+   "short": "HCL Teremia Mare nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 9/2022 privind aprobarea Planului de acțiuni sau lucrări pentru beneficiarii de ajutor social apti de muncă 2022 Teremia Mare,județul Timis",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/55979",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/55979",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/casimcea/2024",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--casimcea-43-2024",
+   "path": "local/tulcea/casimcea/2024/43",
+   "short": "HCL Casimcea nr. 43/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 43/2024 privind stabilirea impozitelor și taxelor locale pentru anul 2025",
+   "url": "https://emol.ro/casimcea-tl/registru-hcl/186085",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 1,
+     "source_url": "https://emol.ro/casimcea-tl/registru-hcl/186085",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

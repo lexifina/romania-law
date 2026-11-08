@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/timis/traian-vuia/2020",
+ "acts": [
+  {
+   "slug": "hcl-timis--traian-vuia-20-2020",
+   "path": "local/timis/traian-vuia/2020/20",
+   "short": "HCL Traian Vuia nr. 20/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 20/2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12691",
+   "versions": [
+    {
+     "from": "2020-05-28",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-21-2020",
+   "path": "local/timis/traian-vuia/2020/21",
+   "short": "HCL Traian Vuia nr. 21/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 21/2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12693",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-22-2020",
+   "path": "local/timis/traian-vuia/2020/22",
+   "short": "HCL Traian Vuia nr. 22/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 22/2020 privind combaterea buruienii ambrozia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12694",
+   "versions": [
+    {
+     "from": "2020-06-29",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-23-2020",
+   "path": "local/timis/traian-vuia/2020/23",
+   "short": "HCL Traian Vuia nr. 23/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 23/2020 privind rectificarea Bugetului de Venituri și Cheltuieli, pe anul 2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12695",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-24-2020",
+   "path": "local/timis/traian-vuia/2020/24",
+   "short": "HCL Traian Vuia nr. 24/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 24/2020 privind aprobare Deviz General-actualizat al obiectivului de investiții „Rețea de canalizare și stație de epurare în localitatea Traian Vuia, Comuna Traian Vuia, județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12696",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12696",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-25-2020",
+   "path": "local/timis/traian-vuia/2020/25",
+   "short": "HCL Traian Vuia nr. 25/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 25/2020 privind aprobarea sumei de 10 mii lei pentru Asociația de Cultură și Turism „AUTENTIC MEDIA TV„",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12697",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12697",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-27-2020",
+   "path": "local/timis/traian-vuia/2020/27",
+   "short": "HCL Traian Vuia nr. 27/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 27/2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12699",
+   "versions": [
+    {
+     "from": "2020-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12699",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-29-2020",
+   "path": "local/timis/traian-vuia/2020/29",
+   "short": "HCL Traian Vuia nr. 29/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 29/2020 privind aprobarea Regulamentului de organizare și funcționare a Consiliului local al comunei Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12983",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-30-2020",
+   "path": "local/timis/traian-vuia/2020/30",
+   "short": "HCL Traian Vuia nr. 30/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 30/2020 privind alegerea viceprimarului",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/12984",
+   "versions": [
+    {
+     "from": "2020-11-18",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/12984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-32-2020",
+   "path": "local/timis/traian-vuia/2020/32",
+   "short": "HCL Traian Vuia nr. 32/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 32/2020 privind stabilirea impozitelor și taxelor locale pentru anul 2021, în comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16538",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-33-2020",
+   "path": "local/timis/traian-vuia/2020/33",
+   "short": "HCL Traian Vuia nr. 33/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 33/2020 privind aprobarea PROIECTULUI de organizare a rețelei unităților de învățământ preuniversitar de pe raza Comunei Traian Vuia, pentru anul școlar 2021-2022",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16539",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-37-2020",
+   "path": "local/timis/traian-vuia/2020/37",
+   "short": "HCL Traian Vuia nr. 37/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 37/2020 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2020, în Comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16543",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-38-2020",
+   "path": "local/timis/traian-vuia/2020/38",
+   "short": "HCL Traian Vuia nr. 38/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 38/2020 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2020, în Comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16544",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-39-2020",
+   "path": "local/timis/traian-vuia/2020/39",
+   "short": "HCL Traian Vuia nr. 39/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 39/2020 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2020, În Comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16545",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-40-2020",
+   "path": "local/timis/traian-vuia/2020/40",
+   "short": "HCL Traian Vuia nr. 40/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 40/2020 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2020, în Comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16546",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16546",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-41-2020",
+   "path": "local/timis/traian-vuia/2020/41",
+   "short": "HCL Traian Vuia nr. 41/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 41/2020",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16547",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16547",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-42-2020",
+   "path": "local/timis/traian-vuia/2020/42",
+   "short": "HCL Traian Vuia nr. 42/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 42/2020 privind aprobare „Raportul de analiză a capacității de apărare împotriva incendiilor și a activității de protecție civilă în comuna Traian Vuia și măsurile de optimizare a acestora, pentru semestrul II din anul 2020„",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16548",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16548",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-44-2020",
+   "path": "local/timis/traian-vuia/2020/44",
+   "short": "HCL Traian Vuia nr. 44/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 44/2020 privind aprobarea achiziționării a unui număr de 135 tablete pentru elevii din unitățile de învățământ primar și gimnazial în vederea asigurării condițiilor pentru elevi în învățământul online",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16550",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16550",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-45-2020",
+   "path": "local/timis/traian-vuia/2020/45",
+   "short": "HCL Traian Vuia nr. 45/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 45/2020 privind aprobarea alocării sumei de 8.008,27 lei, din bugetul local pe anul 2020, pentru plata debitului datorat la Administrația Fondului de Mediu",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16551",
+   "versions": [
+    {
+     "from": "2020-12-04",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16551",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-46-2020",
+   "path": "local/timis/traian-vuia/2020/46",
+   "short": "HCL Traian Vuia nr. 46/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 46/2020 privind rectificarea Bugetului de Venituri și Cheltuieli pe anul 2020, în Comuna Traian Vuia",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16552",
+   "versions": [
+    {
+     "from": "2020-12-16",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16552",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--traian-vuia-47-2020",
+   "path": "local/timis/traian-vuia/2020/47",
+   "short": "HCL Traian Vuia nr. 47/2020",
+   "title": "Hotărârea Consiliului Local al Comunei Traian Vuia nr. 47/2020 privind rectificarea Bugetului Local al Comunei Traian Vuia, pe anul 2020 în Comuna Traian Vuia, Județul Timiș",
+   "url": "https://emol.ro/traianvuia-tm/registru-hcl/16557",
+   "versions": [
+    {
+     "from": "2020-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/traianvuia-tm/registru-hcl/16557",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

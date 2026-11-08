@@ -1,0 +1,741 @@
+{
+ "country": "RO",
+ "shard": "local/timis/pesac/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--pesac-1-2023",
+   "path": "local/timis/pesac/2023/1",
+   "short": "HCL Pesac nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 1/2023 privind validarea și însușirea Dispoziţiei Primarului Comunei Pesac nr. 99/23.12.2022 privind rectificarea bugetului local al Comunei Pesac pe trimestrul IV al anului 2022",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91017",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91017",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-10-2023",
+   "path": "local/timis/pesac/2023/10",
+   "short": "HCL Pesac nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 10/2023 privind aprobarea bugetului local al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91038",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91038",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-2-2023",
+   "path": "local/timis/pesac/2023/2",
+   "short": "HCL Pesac nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 2/2023 privind acoperirea definitivă din excedentul bugetului local al Comunei Pesac a excedentului / deficitului secțiunii de dezvoltare la data de 30.12.2022",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91018",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91018",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-20-2023",
+   "path": "local/timis/pesac/2023/20",
+   "short": "HCL Pesac nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 20/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/98415",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/98415",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-21-2023",
+   "path": "local/timis/pesac/2023/21",
+   "short": "HCL Pesac nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 21/2023 privind aprobarea Raportului de analiză a capacităţii de apărare împotriva incendiilor și a activității de protecție civilă în Comuna Pesac şi a măsurilor de optimizare a acestora, pentru semestrul II din anul 2022",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/98416",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/98416",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-22-2023",
+   "path": "local/timis/pesac/2023/22",
+   "short": "HCL Pesac nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 22/2023 pentru modificarea și completarea Hotărârii Consiliului Local Pesac nr. 81 din 16.12.2019 privind aprobarea înființării Serviciului Voluntar pentru Situaţii de Urgenţă (S.V.S.U.) al Comunei Pesac, conform prevederilor O.A.P nr. 75/2019",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/98417",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/98417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-23-2023",
+   "path": "local/timis/pesac/2023/23",
+   "short": "HCL Pesac nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 23/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/100609",
+   "versions": [
+    {
+     "from": "2023-04-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/100609",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-24-2023",
+   "path": "local/timis/pesac/2023/24",
+   "short": "HCL Pesac nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 24/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale la nivelul Comunei Pesac, Județul Timiș, pe anul 2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/102586",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/102586",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-27-2023",
+   "path": "local/timis/pesac/2023/27",
+   "short": "HCL Pesac nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 27/2023 privind aprobarea actualizării Programului Anual al Achiziţiilor Publice al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/102589",
+   "versions": [
+    {
+     "from": "2023-05-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/102589",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-3-2023",
+   "path": "local/timis/pesac/2023/3",
+   "short": "HCL Pesac nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 3/2023 privind aprobarea efectuării unui împrumut din excedentul bugetului local al Comunei Pesac pe anul 2022",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91019",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91019",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-31-2023",
+   "path": "local/timis/pesac/2023/31",
+   "short": "HCL Pesac nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 31/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/107108",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/107108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-32-2023",
+   "path": "local/timis/pesac/2023/32",
+   "short": "HCL Pesac nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 32/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/107109",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/107109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-33-2023",
+   "path": "local/timis/pesac/2023/33",
+   "short": "HCL Pesac nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 33/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/107110",
+   "versions": [
+    {
+     "from": "2023-06-09",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/107110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-36-2023",
+   "path": "local/timis/pesac/2023/36",
+   "short": "HCL Pesac nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 36/2023 privind actualizarea, la faza proiectului tehnic (PT), a indicatorilor tehnico-economici și a devizului general general pentru obiectivul de investiții „Modernizare drumuri de interes local în Comuna Pesac, Județul Timiș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/111022",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/111022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-39-2023",
+   "path": "local/timis/pesac/2023/39",
+   "short": "HCL Pesac nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 39/2023 privind trecerea unor bunurilor imobile din domeniului privat în domeniul public al Comunei Pesac, Județul Timiș",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/111025",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/111025",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-4-2023",
+   "path": "local/timis/pesac/2023/4",
+   "short": "HCL Pesac nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 4/2023 privind aprobarea valorilor reevaluate ale bunurilor ce aparţin domeniului public și privat al Comunei Pesac, Județul Timiș, la data de 31.12.2022",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91020",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-40-2023",
+   "path": "local/timis/pesac/2023/40",
+   "short": "HCL Pesac nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 40/2023 privind aprobarea Studiului de Fezabilitate, a indicatorilor tehnico-economici și a devizului general pentru obiectivul de investiții cu titlul „Asigurarea infrastructurii pentru transportul verde în comuna PESAC – realizarea de piste pentru biciclete la nivel local”",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/111026",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/111026",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-41-2023",
+   "path": "local/timis/pesac/2023/41",
+   "short": "HCL Pesac nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 41/2023 privind aprobarea contractării unui împrumut în valoare de 1.500.000 lei, în conformitate cu prevederile art. 1 din Ordonanța de urgență a Guvernului nr. 24/2023 privind unele măsuri fiscal-bugetare destinate acordării unor împrumuturi din Trezoreria Statului",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/111027",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/111027",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-42-2023",
+   "path": "local/timis/pesac/2023/42",
+   "short": "HCL Pesac nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 42/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/111028",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/111028",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-43-2023",
+   "path": "local/timis/pesac/2023/43",
+   "short": "HCL Pesac nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 43/2023 privind înscrierea definitivă a unor bunuri imobile în domeniul public al Comunei Pesac, Județul Timiș",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/112010",
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/112010",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-44-2023",
+   "path": "local/timis/pesac/2023/44",
+   "short": "HCL Pesac nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 44/2023 privind înscrierea definitivă a unor bunuri imobile în domeniul public al Comunei Pesac, Județul Timiș",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/113632",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/113632",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-45-2023",
+   "path": "local/timis/pesac/2023/45",
+   "short": "HCL Pesac nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 45/2023 pentru modificarea și completarea Hotărârii Consiliului Local Pesac nr. 81/20.12.2022 privind aprobarea proiectului „EXTINDERE SISTEM DE CANALIZARE MENAJERĂ ÎN COMUNA PESAC, JUDEȚUL TIMIȘ” în vederea finanțării acestuia în cadrul Planului Național de Redresare și Reziliență, Componenta 1: Managementul Apei, Investiția 1 – Extinderea sistemelor de apă și canalizare în aglomerări mai mari de 2000 de locuitori echivalenți, prioritizate prin Planul accelerat de conformare cu directivele europene",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/113633",
+   "versions": [
+    {
+     "from": "2023-07-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/113633",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-46-2023",
+   "path": "local/timis/pesac/2023/46",
+   "short": "HCL Pesac nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 46/2023 privind aprobarea Nomenclatorului stradal al Comunei Pesac, Județul Timiş",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/114692",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/114692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-47-2023",
+   "path": "local/timis/pesac/2023/47",
+   "short": "HCL Pesac nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 47/2023 privind rectificarea bugetului local al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/114693",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/114693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-48-2023",
+   "path": "local/timis/pesac/2023/48",
+   "short": "HCL Pesac nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 48/2023 privind aprobarea Planului de acţiuni sau de lucrări de interes local care trebuie prestate pentru sumele acordate ca ajutor social potrivit Legii nr. 416/2001, pentru anul 2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/114694",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/114694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-49-2023",
+   "path": "local/timis/pesac/2023/49",
+   "short": "HCL Pesac nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 49/2023 privind aprobarea actualizării Programului Anual al Achiziţiilor Publice al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/117906",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/117906",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-50-2023",
+   "path": "local/timis/pesac/2023/50",
+   "short": "HCL Pesac nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 50/2023 privind neasumarea responsabilităţii Comunei Pesac cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru şcoli al României, în perioada 2023-2029 pentru unitățile de învățământ din Comuna Pesac",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/117907",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/117907",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-52-2023",
+   "path": "local/timis/pesac/2023/52",
+   "short": "HCL Pesac nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 52/2023 privind rectificarea bugetului local al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/117909",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/117909",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-53-2023",
+   "path": "local/timis/pesac/2023/53",
+   "short": "HCL Pesac nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 53/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/117910",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/117910",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-54-2023",
+   "path": "local/timis/pesac/2023/54",
+   "short": "HCL Pesac nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 54/2023 privind rectificarea bugetului local al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/121943",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/121943",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-55-2023",
+   "path": "local/timis/pesac/2023/55",
+   "short": "HCL Pesac nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 55/2023 privind prelungirea valabilităţii Planului Urbanistic General (P.U.G.) al Comunei Pesac aprobat prin Hotărârea Consiliului Local Pesac nr. 52/03.06.2009 și prelungit ulterior prin Hotărârile Consiliului Local Pesac nr. 94/23.12.2015 și nr. 59/30.07.2018, până la intrarea în vigoare a noului Plan urbanistic general și a Regulamentului Local de Urbanism, dar nu mai târziu de data de 31.12.2026",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/121944",
+   "versions": [
+    {
+     "from": "2023-10-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/121944",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-6-2023",
+   "path": "local/timis/pesac/2023/6",
+   "short": "HCL Pesac nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 6/2023 privind organizarea rețelei unităților de învățământ preuniversitar de stat la nivelul Comunei Pesac, rețea care va funcționa în anul școlar 2023-2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/91034",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/91034",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-60-2023",
+   "path": "local/timis/pesac/2023/60",
+   "short": "HCL Pesac nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 60/2023 privind trecerea unui bun imobil din domeniul privat în domeniul public al Comunei Pesac, Județul Timiș",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/125557",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/125557",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-61-2023",
+   "path": "local/timis/pesac/2023/61",
+   "short": "HCL Pesac nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 61/2023 privind aprobarea numărului și a cuantumului burselor școlare aferente anului școlar 2023-2024 pentru elevii din învățământul preuniversitar de stat, la nivelul Comunei Pesac",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/125558",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/125558",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-62-2023",
+   "path": "local/timis/pesac/2023/62",
+   "short": "HCL Pesac nr. 62/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 62/2023 privind aprobarea Agendei Culturale a Comunei Pesac privind principalele manifestări cultural-artistice şi sportive pentru anul 2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/125559",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/125559",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-63-2023",
+   "path": "local/timis/pesac/2023/63",
+   "short": "HCL Pesac nr. 63/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 63/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/125560",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/125560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-64-2023",
+   "path": "local/timis/pesac/2023/64",
+   "short": "HCL Pesac nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 64/2023 privind aprobarea documentației tehnico-economice și a indicatorilor tehnico-economici aferenți proiectului „ÎNFIINȚARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD, COMUNA PESAC”, precum și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/126491",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/126491",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-65-2023",
+   "path": "local/timis/pesac/2023/65",
+   "short": "HCL Pesac nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 65/2023 privind aprobarea implementării proiectului „ÎNFIINȚARE SISTEM INTEGRAT DE COLECTARE ȘI VALORIFICARE A GUNOIULUI DE GRAJD, COMUNA PESAC”, precum și a cheltuielilor legate de acesta",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/126492",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/126492",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-66-2023",
+   "path": "local/timis/pesac/2023/66",
+   "short": "HCL Pesac nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 66/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/126493",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/126493",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-67-2023",
+   "path": "local/timis/pesac/2023/67",
+   "short": "HCL Pesac nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 67/2023 privind rectificarea bugetului local al Comunei Pesac pe anul 2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128239",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128239",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-68-2023",
+   "path": "local/timis/pesac/2023/68",
+   "short": "HCL Pesac nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 68/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128240",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128240",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-69-2023",
+   "path": "local/timis/pesac/2023/69",
+   "short": "HCL Pesac nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 69/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128241",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128241",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-70-2023",
+   "path": "local/timis/pesac/2023/70",
+   "short": "HCL Pesac nr. 70/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 70/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128242",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128242",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-71-2023",
+   "path": "local/timis/pesac/2023/71",
+   "short": "HCL Pesac nr. 71/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 71/2023 pentru îndreptarea unei erori materiale strecurată în Hotărârea Consiliului Local Pesac nr. 66/30.10.2023, precum și modificarea și completarea acestei hotărâri",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128243",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128243",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-72-2023",
+   "path": "local/timis/pesac/2023/72",
+   "short": "HCL Pesac nr. 72/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 72/2023 privind rectificarea bugetului local al Comunei Pesac pe anul 2023 în ceea ce privește finanțarea burselor elevilor din învățământul de masă",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/128244",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/128244",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-74-2023",
+   "path": "local/timis/pesac/2023/74",
+   "short": "HCL Pesac nr. 74/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 74/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/130536",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/130536",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-77-2023",
+   "path": "local/timis/pesac/2023/77",
+   "short": "HCL Pesac nr. 77/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 77/2023",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/133983",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/133983",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-78-2023",
+   "path": "local/timis/pesac/2023/78",
+   "short": "HCL Pesac nr. 78/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 78/2023 privind aprobarea Programului Anual al Achizițiilor Publice al Clubului Sportiv „ȘOIMII Pesac” pe anul 2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/133984",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/133984",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pesac-79-2023",
+   "path": "local/timis/pesac/2023/79",
+   "short": "HCL Pesac nr. 79/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pesac nr. 79/2023 privind aprobarea Programului Anual al Achizițiilor Publice al Comunei Pesac pe anul 2024",
+   "url": "https://emol.ro/pesac-tm/registru-hcl/133985",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pesac-tm/registru-hcl/133985",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

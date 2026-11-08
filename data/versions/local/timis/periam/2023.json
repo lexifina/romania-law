@@ -1,0 +1,456 @@
+{
+ "country": "RO",
+ "shard": "local/timis/periam/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--periam-1-2023",
+   "path": "local/timis/periam/2023/1",
+   "short": "HCL Periam nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 1/2023 privind aprobarea efectuării unui împrumut din excedentul bugetului local al Comunei Periam pe anul 2022",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99107",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99107",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-11-2023",
+   "path": "local/timis/periam/2023/11",
+   "short": "HCL Periam nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 11/2023 privind aprobarea Programului Anual al Achizițiilor Publice al Serviciului Public de Alimentare cu Apă și Canalizare (S.P.A.A.C.) al Comunei Periam pe anul 2023 – actualizat și definitivat după aprobarea bugetului local al Comunei Periam pe anul 2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99245",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99245",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-12-2023",
+   "path": "local/timis/periam/2023/12",
+   "short": "HCL Periam nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 12/2023 privind organizarea rețelei unităților de învățământ preuniversitar de stat la nivelul comunei Periam, rețea care va funcționa în anul școlar 2023-2024",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99246",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99246",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-14-2023",
+   "path": "local/timis/periam/2023/14",
+   "short": "HCL Periam nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 14/2023 privind modificarea structurii organizatorice şi a statului de funcţii ale aparatului de specialitate al primarului comunei Periam și ale SPCLEP Periam, pentru anul 2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99504",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99504",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-15-2023",
+   "path": "local/timis/periam/2023/15",
+   "short": "HCL Periam nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 15/2023 privind aprobarea Statutului Comunei Periam, Județul Timiș",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99505",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99505",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-16-2023",
+   "path": "local/timis/periam/2023/16",
+   "short": "HCL Periam nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 16/2023 privind aprobarea aprobarea Strategiei de Dezvoltare Locală a Comunei Periam, Județul Timiș",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99506",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-17-2023",
+   "path": "local/timis/periam/2023/17",
+   "short": "HCL Periam nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 17/2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99507",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99507",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-19-2023",
+   "path": "local/timis/periam/2023/19",
+   "short": "HCL Periam nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 19/2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99513",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-2-2023",
+   "path": "local/timis/periam/2023/2",
+   "short": "HCL Periam nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 2/2023 privind aprobarea efectuării unui împrumut din excedentul bugetului de venituri și cheltuieli al Serviciului Public de Alimentare cu Apă și Canalizare (S.P.A.A.C.) al Comunei Periam, pe anul 2022",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99108",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99108",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-22-2023",
+   "path": "local/timis/periam/2023/22",
+   "short": "HCL Periam nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 22/2023 privind aprobarea scoaterii din funcțiune și casarea unor mijloace fixe și obiecte de inventar aflate în patrimoniul Comunei Periam",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99540",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-24-2023",
+   "path": "local/timis/periam/2023/24",
+   "short": "HCL Periam nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 24/2023 privind stabilirea impozitelor şi taxelor locale în Comuna Periam, pentru anul 2024",
+   "url": "https://emol.ro/periam-tm/registru-hcl/114126",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/114126",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-3-2023",
+   "path": "local/timis/periam/2023/3",
+   "short": "HCL Periam nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 3/2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99109",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99109",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-4-2023",
+   "path": "local/timis/periam/2023/4",
+   "short": "HCL Periam nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 4/2023 privind stabilirea salariilor de bază pentru personalul contractual din cadrul Serviciului Public de Alimentare cu Apă și Canalizare (S.P.A.A.C.) al Comunei Periam, începând cu data de 1 ianuarie 2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99110",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99110",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-43-2023",
+   "path": "local/timis/periam/2023/43",
+   "short": "HCL Periam nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 43/2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/114356",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/114356",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-45-2023",
+   "path": "local/timis/periam/2023/45",
+   "short": "HCL Periam nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 45/2023 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Înființarea unui centru de colectare deșeuri prin aport voluntar în comuna Periam” aprobat pentru finanțare prin Planul Național de Redresare și Reziliență, componenta C3 - Managementul deșeurilor Apel nr. PNRR/2022/C3/S/I.1",
+   "url": "https://emol.ro/periam-tm/registru-hcl/114401",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/114401",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-5-2023",
+   "path": "local/timis/periam/2023/5",
+   "short": "HCL Periam nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 5/2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99111",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99111",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-54-2023",
+   "path": "local/timis/periam/2023/54",
+   "short": "HCL Periam nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 54/2023 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Asigurarea infrastructurii pentru transportul verde în Comuna Periam - realizare de piste pentru biciclete la nivel local” aprobat pentru finanțare prin Programul Național de Redresare și Reziliență, Componenta 10 - Fondul local, Axa I.1.4 - Asigurarea infrastructurii pentru transportul verde-infrastructurii pentru biciclete la nivel local/metropolitan",
+   "url": "https://emol.ro/periam-tm/registru-hcl/114432",
+   "versions": [
+    {
+     "from": "2023-07-31",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/114432",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-55-2023",
+   "path": "local/timis/periam/2023/55",
+   "short": "HCL Periam nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 55/2023 privind rectificarea bugetului local al Comunei Periam pe anul 2023;",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124396",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-56-2023",
+   "path": "local/timis/periam/2023/56",
+   "short": "HCL Periam nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 56/2023 privind aprobarea „Planului de Apărare în cazul producerii unei situații de urgență specifice provocate de cutremure și/sau alunecări de teren la nivelul Comunei Periam, Judeţul Timiş”",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124397",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124397",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-57-2023",
+   "path": "local/timis/periam/2023/57",
+   "short": "HCL Periam nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 57/2023 privind aprobarea „Planului de Evacuare în situații de urgență a populației și a unor bunuri materiale din Comuna Periam, Județul Timiș”;",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124398",
+   "versions": [
+    {
+     "from": "2023-10-13",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124398",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-58-2023",
+   "path": "local/timis/periam/2023/58",
+   "short": "HCL Periam nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 58/2023 privind aprobarea asocierii Comunei Periam, Județul Timiș, cu Județul Timiș - Consiliul Județean Timiș, precum și cu unele unități administrative teritoriale din Județul Timiș, în vederea constituirii Asociației de Dezvoltare Intercomunitară ”SAL-VET-TIM”",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124449",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124449",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-59-2023",
+   "path": "local/timis/periam/2023/59",
+   "short": "HCL Periam nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 59/2023 privind rectificarea bugetului local al comunei Periam pe anul 2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124450",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124450",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-6-2023",
+   "path": "local/timis/periam/2023/6",
+   "short": "HCL Periam nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 6/2023 privind modificarea structurii organizatorice şi a statului de funcţii ale aparatului de specialitate al Primarului Comunei Periam și ale SPCLEP Periam, pentru anul 2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/99112",
+   "versions": [
+    {
+     "from": "2023-04-10",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/99112",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-60-2023",
+   "path": "local/timis/periam/2023/60",
+   "short": "HCL Periam nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 60/2023 privind neasumarea responsabilităţii comunei Periam cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru şcoli al României, în perioada 2023-2029 pentru unitățile de învățământ din comuna Periam",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124451",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124451",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-61-2023",
+   "path": "local/timis/periam/2023/61",
+   "short": "HCL Periam nr. 61/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 61/2023 privind aprobarea documentației tehnico-economice (faza SF) și a indicatorilor tehnico-economici pentru obiectivul de investiții „Asigurarea infrastructurii pentru transportul verde în Comuna Periam - realizare de piste pentru biciclete la nivel local-etapa a II-a” aprobat pentru finanțare prin Programul Național de Redresare și Reziliență, Componenta 10 - Fondul local, Axa I.1.4 - Asigurarea infrastructurii pentru transportul verde-infrastructurii pentru biciclete la nivel local/metropolitan",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124475",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124475",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-64-2023",
+   "path": "local/timis/periam/2023/64",
+   "short": "HCL Periam nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 64/2023 privind aprobarea finanțării cheltuielilor necesare asigurării mentenanței obiectivului de investiții: Proiect tip „Construire bazin de înot didactic și agrement în comuna Periam, sat Periam, judeţul Timiş”",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124509",
+   "versions": [
+    {
+     "from": "2023-10-16",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124509",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-65-2023",
+   "path": "local/timis/periam/2023/65",
+   "short": "HCL Periam nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 65/2023 privind revocarea Hotărârii Consiliului Local Periam nr. 62/23.08.2023;",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124598",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-67-2023",
+   "path": "local/timis/periam/2023/67",
+   "short": "HCL Periam nr. 67/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 67/2023 privind rectificarea bugetului local al Comunei Periam pe anul 2023;",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124600",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124600",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-68-2023",
+   "path": "local/timis/periam/2023/68",
+   "short": "HCL Periam nr. 68/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 68/2023 privind aprobarea documentației tehnico-economice (faza PT) și actualizarea indicatorilor tehnico-economici pentru obiectivul de investiții „Înființarea unui centru de colectare deșeuri prin aport voluntar în comuna Periam” aprobat pentru finanțare prin Planul Național de Redresare și Reziliență, componenta C3 - Managementul deșeurilor Apel nr. PNRR/2022/C3/S/I.1.A",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124601",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124601",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-69-2023",
+   "path": "local/timis/periam/2023/69",
+   "short": "HCL Periam nr. 69/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 69/2023 privind aprobarea documentațiilor tehnico-economice (faza DALI și PT), actualizarea indicatorilor tehnico-economici și a devizului general actualizat pentru obiectivul de investiții „Modernizare infrastructură rutieră în Comuna Periam” prin Programul Național de Investiții „Anghel Saligny",
+   "url": "https://emol.ro/periam-tm/registru-hcl/124602",
+   "versions": [
+    {
+     "from": "2024-02-15",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/124602",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

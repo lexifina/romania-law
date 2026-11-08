@@ -1,0 +1,906 @@
+{
+ "country": "RO",
+ "shard": "local/timis/pietroasa/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--pietroasa-1-2023",
+   "path": "local/timis/pietroasa/2023/1",
+   "short": "HCL Pietroasa nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 1/2023 privind aprobarea participării U.A.T Comuna PIETROASA în cadrul Programului privind dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice și/sau hibrid plug-in în localități, prin instalarea de stații de reîncărcare cu putere normală aprobat prin Ghidul de Finanțare din 3 octombrie 2022, pentru a îmbunătăți furnizarea de servicii publice de către unitățile administrativ-teritoriale și aprobarea proiectului “Dezvoltarea infrastructurii de reîncărcare pentru vehicule electrice și/sau hibrid plug-in în localități, prin instalarea de stații de reîncărcare cu putere normala în Comuna PIETROASA, județ Timiș”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/86494",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/86494",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-10-2023",
+   "path": "local/timis/pietroasa/2023/10",
+   "short": "HCL Pietroasa nr. 10/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 10/2023 privind înscrierea definitivă în Cartea Funciară a dreptului de proprietate publică a comunei Pietroasa, asupra unor imobile - strazi situate în localitatea Poieni, comuna Pietroasa, județul Timiș, în cotă de 1/1 părți",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/92513",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/92513",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-11-2023",
+   "path": "local/timis/pietroasa/2023/11",
+   "short": "HCL Pietroasa nr. 11/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 11/2023 privind înscrierea definitivă în Cartea Funciară a dreptului de proprietate publică a comunei Pietroasa, asupra unui imobil - drum în extravilan, situat în localitatea Pietroasa, comuna Pietroasa, județul Timiș, în cotă de 1/1 părți",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/92514",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/92514",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-12-2023",
+   "path": "local/timis/pietroasa/2023/12",
+   "short": "HCL Pietroasa nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 12/2023 privind înscrierea definitivă în Cartea Funciară a dreptului de proprietate publică a comunei Pietroasa, asupra unui imobil - teren cu categoria de folosință ,, curți construcții,, in suprafața de 350 mp, situat în intravilanul localității Pietroasa, comuna Pietroasa, județul Timiș, nr. cadastral 400918, în cotă de 1/1 părți",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/92515",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/92515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-13-2023",
+   "path": "local/timis/pietroasa/2023/13",
+   "short": "HCL Pietroasa nr. 13/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 13/2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/94116",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/94116",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-14-2023",
+   "path": "local/timis/pietroasa/2023/14",
+   "short": "HCL Pietroasa nr. 14/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 14/2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/96347",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/96347",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-15-2023",
+   "path": "local/timis/pietroasa/2023/15",
+   "short": "HCL Pietroasa nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 15/2023 privind însuşirea Acordului de cooperare privind organizarea şi exercitarea unor activități necesare comunei Pietroasa, în scopul realizării unor atribuţii stabilite prin lege autorităţilor administraţiei publice locale",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/96348",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/96348",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-16-2023",
+   "path": "local/timis/pietroasa/2023/16",
+   "short": "HCL Pietroasa nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 16/2023 privind Acordul Consiliului Local privind efectuarea expertizării seisemice a clădirilor unităților de învățământ de pe raza comunei Pietroasa și încadrarea lor în grad de risc seismic",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/96349",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/96349",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-17-2023",
+   "path": "local/timis/pietroasa/2023/17",
+   "short": "HCL Pietroasa nr. 17/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 17/2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/96350",
+   "versions": [
+    {
+     "from": "2023-03-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/96350",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-18-2023",
+   "path": "local/timis/pietroasa/2023/18",
+   "short": "HCL Pietroasa nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 18/2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „Modernizare infrastructură rutieră în comuna Pietroasa, județul Timiș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/98200",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/98200",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-19-2023",
+   "path": "local/timis/pietroasa/2023/19",
+   "short": "HCL Pietroasa nr. 19/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 19/2023 privind aprobarea rețelei școlare de pe raza comunei Pietroasa, județul Timiș, pentru anul şcolar 2023-2024",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/98201",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/98201",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-2-2023",
+   "path": "local/timis/pietroasa/2023/2",
+   "short": "HCL Pietroasa nr. 2/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 2/2023 privind însușirea, completarea și actualizarea inventarului bunurilor ce alcătuiesc domeniul public al comunei Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/86495",
+   "versions": [
+    {
+     "from": "2023-01-31",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/86495",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-20-2023",
+   "path": "local/timis/pietroasa/2023/20",
+   "short": "HCL Pietroasa nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 20/2023 privind aprobarea cuantumului cotizatiei anuale din partea Comunei Pietroasa către Asociația pentru Promovarea și Dezvoltarea Turismului Timiș - APDT",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/98202",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/98202",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-21-2023",
+   "path": "local/timis/pietroasa/2023/21",
+   "short": "HCL Pietroasa nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 21/2023 privind aprobarea Studiului de oportunitate pentru delegarea de gestiune prin concesiune a serviciilor de colectare - transport al deseurilor municipale pentru Zona 4 – Făget din județul Timiş, a Indicatorilor de performanţă şi a Documentației de atribuire pentru delegarea gestiunii prin concesiune a serviciilor de colectare - transport al deșeurilor municipale pentru Zona 4 – Făget din județul Timiş",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/98203",
+   "versions": [
+    {
+     "from": "2023-04-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/98203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-22-2023",
+   "path": "local/timis/pietroasa/2023/22",
+   "short": "HCL Pietroasa nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 22/2023 privind aprobarea participării comunei Pietroasa, jud. Timiș, la Programul privind casarea autovehiculelor uzate, program finanţat din Fondul pentru mediu",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/101692",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/101692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-23-2023",
+   "path": "local/timis/pietroasa/2023/23",
+   "short": "HCL Pietroasa nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 23/2023 privind trecerea unor bunuri imobile din domeniul public al comunei Pietroasa, în domeniul public al județului Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/102389",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/102389",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-24-2023",
+   "path": "local/timis/pietroasa/2023/24",
+   "short": "HCL Pietroasa nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 24/2023 privind acceptarea ofertei de donație imobiliară, înaintată de către Biserica Ortodoxă Pietroasa pentru o suprafață de 320 mp din terenul intravilan, înscris în CF nr.400916 Pietroasa, cu nr. cad.400916",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/102390",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/102390",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-25-2023",
+   "path": "local/timis/pietroasa/2023/25",
+   "short": "HCL Pietroasa nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 25/2023 privind aprobarea Agendei culturale a comunei Pietroasa, pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/102391",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/102391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-26-2023",
+   "path": "local/timis/pietroasa/2023/26",
+   "short": "HCL Pietroasa nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 26/2023 privind aprobarea Organigramei și a Statului de Funcții al Primăriei comunei Pietroasa, județul Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/102392",
+   "versions": [
+    {
+     "from": "2023-05-08",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/102392",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-27-2023",
+   "path": "local/timis/pietroasa/2023/27",
+   "short": "HCL Pietroasa nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 27/2023 privind aprobarea salariilor de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei comunei Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/102393",
+   "versions": [
+    {
+     "from": "2023-04-28",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/102393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-28-2023",
+   "path": "local/timis/pietroasa/2023/28",
+   "short": "HCL Pietroasa nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 28/2023 privind aprobarea Acordului de Parteneriat cu ASOCIATIA DE DEZVOLTARE INTERCOMUNITARA DEȘEURI TIMIȘ al Comunei PIETROASA",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/104005",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/104005",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-29-2023",
+   "path": "local/timis/pietroasa/2023/29",
+   "short": "HCL Pietroasa nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 29/2023 privind privind acordarea unui mandat special împuternicitului Consiliului Local al comunei Pietroasa în Adunarea Generală ordinară a Asociaţilor Asociaţiei de Dezvoltare Intercomunitară Apă-Canal Timiş",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/104006",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/104006",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-3-2023",
+   "path": "local/timis/pietroasa/2023/3",
+   "short": "HCL Pietroasa nr. 3/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 3/2023 privind aprobarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/89228",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/89228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-30-2023",
+   "path": "local/timis/pietroasa/2023/30",
+   "short": "HCL Pietroasa nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 30/2023 privind aprobarea participării Comunei Pietroasa, județul Timiș la Parteneriatul LEADER cu denumirea ,,ASOCIAȚIA MICROREGIONALĂ ȚARA FĂGETULUI,,",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/104007",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/104007",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-31-2023",
+   "path": "local/timis/pietroasa/2023/31",
+   "short": "HCL Pietroasa nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 31/2023 privind rectificarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/104008",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/104008",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-32-2023",
+   "path": "local/timis/pietroasa/2023/32",
+   "short": "HCL Pietroasa nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 32/2023 privind aprobarea contului de încheiere a exercițiului bugetului local pe anul 2022 și a situațiilor financiare anuale pe anul 2022",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/107195",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/107195",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-33-2023",
+   "path": "local/timis/pietroasa/2023/33",
+   "short": "HCL Pietroasa nr. 33/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 33/2023 privind aprobarea Planului de Analiză și Acoperire a Riscurilor din Comuna Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/107196",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/107196",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-34-2023",
+   "path": "local/timis/pietroasa/2023/34",
+   "short": "HCL Pietroasa nr. 34/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 34/2023 privind delegarea dreptului de depunere a proiectului ”Microbuze electrice pentru elevi” prin aplicația aferentă Planului Național de Redresare și Reziliență, Componenta C15: Educație, Investiția 10: Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi, pentru UAT -Comuna Pietroasa către unitatea administrativ-teritorială la nivel de județ Timiș, reprezentată de Consiliul Județean Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/107197",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/107197",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-35-2023",
+   "path": "local/timis/pietroasa/2023/35",
+   "short": "HCL Pietroasa nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 35/2023 privind aprobarea modificării/actualizării Strategiei de Dezvoltare Locală a Comunei Pietroasa, județul Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/108765",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/108765",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-36-2023",
+   "path": "local/timis/pietroasa/2023/36",
+   "short": "HCL Pietroasa nr. 36/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 36/2023 privind instrumentarea proiectului ,,ACHIZIȚIA UNUI TRACTOR CU REMORCĂ PENTRU DOTAREA SERVICIULUI VOLUNTAR PENTRU SITUAȚII DE URGENȚĂ DIN COMUNA PIETROASA, JUDEȚUL TIMIȘ,,",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/108766",
+   "versions": [
+    {
+     "from": "2023-06-20",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/108766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-37-2023",
+   "path": "local/timis/pietroasa/2023/37",
+   "short": "HCL Pietroasa nr. 37/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 37/2023 pentru aprobarea modificării și completării anexei nr.1 la Hotărârea Consiliului Local nr. 18 din 31 martie 2023 privind aprobarea studiului de fezabilitate/documentației de avizare a lucrărilor de intervenții, a indicatorilor tehnico-economici/ indicatorilor tehnico-economici actualizați și a devizului general/devizului general actualizat pentru obiectivul de investiții „Modernizare infrastructură rutieră în comuna Pietroasa, județul Timiș”, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/109455",
+   "versions": [
+    {
+     "from": "2023-06-26",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/109455",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-4-2023",
+   "path": "local/timis/pietroasa/2023/4",
+   "short": "HCL Pietroasa nr. 4/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 4/2023 privind aprobarea modificării/actualizării Strategiei de Dezvoltare Locală a Comunei Pietroasa, județul Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/89229",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/89229",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-41-2023",
+   "path": "local/timis/pietroasa/2023/41",
+   "short": "HCL Pietroasa nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 41/2023 privind rectificarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/110651",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/110651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-42-2023",
+   "path": "local/timis/pietroasa/2023/42",
+   "short": "HCL Pietroasa nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 42/2023 pentru aprobarea STUDIULUI DE FEZABILITATE (S.F) aferent proiectului ”Construirea de locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ in comuna Pietroasa, județul Timiș”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/110652",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/110652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-43-2023",
+   "path": "local/timis/pietroasa/2023/43",
+   "short": "HCL Pietroasa nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 43/2023 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,,Executare lucrări de reparații a clădirii Școlii Primare Fărășești și a clădirii Grădiniței cu Program Normal Fărășești,,",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/110653",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/110653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-44-2023",
+   "path": "local/timis/pietroasa/2023/44",
+   "short": "HCL Pietroasa nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 44/2023 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,, Executare lucrări de reparații drumuri în localitățile Fărășești, Poieni și Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/110654",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/110654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-45-2023",
+   "path": "local/timis/pietroasa/2023/45",
+   "short": "HCL Pietroasa nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 45/2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/110655",
+   "versions": [
+    {
+     "from": "2023-07-04",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/110655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-46-2023",
+   "path": "local/timis/pietroasa/2023/46",
+   "short": "HCL Pietroasa nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 46/2023 privind însușirea, completarea și actualizarea inventarului bunurilor ce alcătuiesc domeniul public și privat al comunei Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/113962",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/113962",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-47-2023",
+   "path": "local/timis/pietroasa/2023/47",
+   "short": "HCL Pietroasa nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 47/2023 privind aprobarea regulilor și măsurilor privind utilizarea focului deschis, precum și pentru reglementarea fumatului din punct de vedere al prevenirii incendiilor",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/113963",
+   "versions": [
+    {
+     "from": "2023-08-03",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/113963",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-48-2023",
+   "path": "local/timis/pietroasa/2023/48",
+   "short": "HCL Pietroasa nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 48/2023 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,,Construire capela mortuară în localitatea Poieni, comuna Pietroasa\"",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118166",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118166",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-49-2023",
+   "path": "local/timis/pietroasa/2023/49",
+   "short": "HCL Pietroasa nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 49/2023 privind rectificarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118167",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118167",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-5-2023",
+   "path": "local/timis/pietroasa/2023/5",
+   "short": "HCL Pietroasa nr. 5/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 5/2023 privind aprobarea Organigramei (Anexa I) și a Statului de Funcții (Anexa II) al Primăriei Comunei Pietroasa, județul Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/89230",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/89230",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-50-2023",
+   "path": "local/timis/pietroasa/2023/50",
+   "short": "HCL Pietroasa nr. 50/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 50/2023 privind neasumarea responsabilității comunei Pietroasa cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor - cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru școli al României, în perioada 2023-2029 pentru unitățile de învățământ din comuna Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118168",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118168",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-51-2023",
+   "path": "local/timis/pietroasa/2023/51",
+   "short": "HCL Pietroasa nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 51/2023 privind darea în folosință gratuită către Consiliul Județean Timiș - Direcția de Prestări Servicii Timiș, a unor spații din incinta Centrului Social de Tip After School Poieni, situat în localitatea Poieni, comuna Pietroasa, județul Timiș, în vederea desfășurării activității echipei de Salvamont Montan;",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118169",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-52-2023",
+   "path": "local/timis/pietroasa/2023/52",
+   "short": "HCL Pietroasa nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 52/2023 privind aprobarea PROIECTULUI TEHNIC (PTH – DDE - DTAC) aferent proiectului ”Construirea de locuințe nZEB plus pentru tineri/locuințe de serviciu pentru specialiști din sănătate și învățământ în comuna Pietroasa, județul Timiș”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118170",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-53-2023",
+   "path": "local/timis/pietroasa/2023/53",
+   "short": "HCL Pietroasa nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 53/2023 privind aprobarea indicatorilor tehnico-economici la obiectivul de investiții ,,Construire capela mortuară în localitatea Pietroasa, comuna Pietroasa\"",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/118171",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/118171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-54-2023",
+   "path": "local/timis/pietroasa/2023/54",
+   "short": "HCL Pietroasa nr. 54/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 54/2023 privind aprobarea PROIECTULUI TEHNIC (PTH – DDE - DTAC) aferent proiectului ”MODERNIZARE INFRASTRUCTURĂ RUTIERĂ ÎN COMUNA PIETROASA, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/119379",
+   "versions": [
+    {
+     "from": "2023-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/119379",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-55-2023",
+   "path": "local/timis/pietroasa/2023/55",
+   "short": "HCL Pietroasa nr. 55/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 55/2023 privind aprobarea indexării nivelurilor impozitelor și taxelor locale care constau într-o anumită sumă în lei sau care sunt stabilite pe baza unei anumite sume în lei, a taxelor speciale precum și limitele amenzilor care se fac venituri la bugetul local, aplicate în anul 2024",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/126925",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/126925",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-56-2023",
+   "path": "local/timis/pietroasa/2023/56",
+   "short": "HCL Pietroasa nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 56/2023 privind stabilirea impozitelor și taxelor locale pentru anul 2024",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/126926",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/126926",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-57-2023",
+   "path": "local/timis/pietroasa/2023/57",
+   "short": "HCL Pietroasa nr. 57/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 57/2023 privind aprobarea aprovizionării cu lemn de foc a școlilor și grădinițelor de pe teritoriul comunei Pietroasa, necesar pentru încălzire în perioada sezonului rece",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/126927",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/126927",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-58-2023",
+   "path": "local/timis/pietroasa/2023/58",
+   "short": "HCL Pietroasa nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 58/2023 privind aprobarea normativelor proprii de cheltuieli pentru acțiunile de protocol, dotarea cu autoturisme și consumul de carburanți, precum și costurile pentru convorbiri telefonice",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/126928",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/126928",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-59-2023",
+   "path": "local/timis/pietroasa/2023/59",
+   "short": "HCL Pietroasa nr. 59/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 59/2023 privind aprobarea solicitãrii prelungirii Scrisorii de garantie nr. 152/14.05.2018 de la FNGCIMM SA IFN in valoare de 600.000,00 lei in vederea garantarii obligatiilor de plata a avansului de 600.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „ Modernizarea, reabilitarea, extinderea si dotarea cãminelor culturale din satul Fãrãșești și satul Pietroasa, comuna Pietroasa, județul Timiș ”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/126929",
+   "versions": [
+    {
+     "from": "2023-11-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/126929",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-6-2023",
+   "path": "local/timis/pietroasa/2023/6",
+   "short": "HCL Pietroasa nr. 6/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 6/2023 privind aprobarea coeficienților de ierarhizare și salariile de bază pentru funcționarii publici și personalul contractual din cadrul Primăriei comunei Pietroasa",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/89231",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/89231",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-60-2023",
+   "path": "local/timis/pietroasa/2023/60",
+   "short": "HCL Pietroasa nr. 60/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 60/2023 privind aprobarea schimbării denumirii Asociației pentru Promovarea și Dezvoltarea Turismului în Organizația de management al destinației ,,JUDEȚUL TIMIȘ,, și aprobarea noului statut",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/128314",
+   "versions": [
+    {
+     "from": "2023-11-17",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/128314",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-64-2023",
+   "path": "local/timis/pietroasa/2023/64",
+   "short": "HCL Pietroasa nr. 64/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 64/2023 privind aprobarea Proiectului rețelei școlare de pe raza comunei Pietroasa, județul Timiș, pentru anul şcolar 2024-2025",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/133676",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/133676",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-65-2023",
+   "path": "local/timis/pietroasa/2023/65",
+   "short": "HCL Pietroasa nr. 65/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 65/2023 privind rectificarea bugetului local pentru anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/133677",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/133677",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-66-2023",
+   "path": "local/timis/pietroasa/2023/66",
+   "short": "HCL Pietroasa nr. 66/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 66/2023 privind aprobarea prelungirii termenului de valabilitate a Planului Urbanistic General și a Regulamentului Teritorial de Urbanism, elaborate la nivelul comunei Pietroasa, judeţul Timiş şi aprobate prin Hotărârea Consiliului Local nr.14 din 19 mai 2000, modificată prin HCL nr.7 din 26 februarie 2013, HCL nr.4 din 29 ianuarie 2016 și HCL nr.5 din 31 ianuarie 2019",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/133678",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/133678",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-7-2023",
+   "path": "local/timis/pietroasa/2023/7",
+   "short": "HCL Pietroasa nr. 7/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 7/2023 privind aprobarea solicitării prelungirii Scrisorii de garanție nr. 152/14.05.2018 de la FNGCIMM SA IFN in valoare de 600.000,00 lei in vederea garantării obligațiilor de plata a avansului de 600.000,00 lei din fonduri nerambursabile pentru implementarea proiectului intitulat – „Modernizarea, reabilitarea, extinderea si dotarea căminelor culturale din satul Fãrãșești și satul Pietroasa, comuna Pietroasa, județul Timiș ”",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/89232",
+   "versions": [
+    {
+     "from": "2023-02-06",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/89232",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-8-2023",
+   "path": "local/timis/pietroasa/2023/8",
+   "short": "HCL Pietroasa nr. 8/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 8/2023 privind aprobarea Planului de acțiune și lucrări de interes local pentru persoanele apte de muncă din familiile beneficiare de ajutor social, pe anul 2023",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/92511",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/92511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--pietroasa-9-2023",
+   "path": "local/timis/pietroasa/2023/9",
+   "short": "HCL Pietroasa nr. 9/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Pietroasa nr. 9/2023 privind aprobarea Raportului Primarului privind inventarierea bunurilor din domeniul public și privat al comunei Pietroasa, județul Timiș",
+   "url": "https://emol.ro/pietroasa-tm/registru-hcl/92512",
+   "versions": [
+    {
+     "from": "2023-03-07",
+     "units": 1,
+     "source_url": "https://emol.ro/pietroasa-tm/registru-hcl/92512",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

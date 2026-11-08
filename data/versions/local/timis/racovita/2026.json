@@ -1,0 +1,966 @@
+{
+ "country": "RO",
+ "shard": "local/timis/racovita/2026",
+ "acts": [
+  {
+   "slug": "hcl-timis--racovita-1-2026",
+   "path": "local/timis/racovita/2026/1",
+   "short": "HCL Racovița nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 1/2026 privind aprobarea proiectului cu titlul ,,EFICIENTIZARE ENERGETICĂ ȘI DOTARE ȘCOALĂ GIMNAZIALĂ, CLASELE I-VIII, LOCALITATEA RACOVIȚA, JUDEȚUL TIMIȘ” și a cheltuielilor aferente investiției pentru UAT COMUNA RACOVIȚA",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/246265",
+   "versions": [
+    {
+     "from": "2026-01-20",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/246265",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-10-2026",
+   "path": "local/timis/racovita/2026/10",
+   "short": "HCL Racovița nr. 10/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 10/2026 privind implementarea proiectului “Îmbunătățirea serviciilor de gospodărire și întreținere prin achiziția de utilaj multifuncțional în comuna Racovița, județul Timiș”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/260322",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/260322",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-11-2026",
+   "path": "local/timis/racovita/2026/11",
+   "short": "HCL Racovița nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 11/2026 privind transmiterea cu titlu gratuit a dreptului de proprietate asupra imobilului situat în sat Drăgoiești, înscris în CF nr. 408378 Racovița, către Parohia Ortodoxă Română Drăgoiești",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/260323",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/260323",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-13-2026",
+   "path": "local/timis/racovita/2026/13",
+   "short": "HCL Racovița nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 13/2026 privind aprobarea diminuării suprafeței imobilului înscris în CF nr. 406264 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/260325",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/260325",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-14-2026",
+   "path": "local/timis/racovita/2026/14",
+   "short": "HCL Racovița nr. 14/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 14/2026 privind aprobarea trecerii din domeniul privat în domeniul public al Comunei Racovița a imobilului înscris în CF 406515 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/260326",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/260326",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-17-2026",
+   "path": "local/timis/racovita/2026/17",
+   "short": "HCL Racovița nr. 17/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 17/2026 privind reorganizarea aparatului de specialitate al primarului comunei Racovița, precum și aprobarea organigramei și a statului de funcții",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/262020",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/262020",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-18-2026",
+   "path": "local/timis/racovita/2026/18",
+   "short": "HCL Racovița nr. 18/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 18/2026 privind aprobarea Agendei culturale și de tineret pe anul 2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/262021",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/262021",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-19-2026",
+   "path": "local/timis/racovita/2026/19",
+   "short": "HCL Racovița nr. 19/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 19/2026 privind validarea unor documente ale Asociației de Dezvoltare Intercomunitară Deșeuri Timiș",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/262022",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/262022",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-2-2026",
+   "path": "local/timis/racovita/2026/2",
+   "short": "HCL Racovița nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 2/2026 privind aprobarea proiectului cu titlul ”CONSTRUIRE GRĂDINIȚĂ CU PROGRAM PRELUNGIT IN LOCALITATEA RACOVIȚA, JUDEȚUL TIMIȘ” și a cheltuielilor aferente investiției pentru Comuna RACOVIȚA",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/246598",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/246598",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-20-2026",
+   "path": "local/timis/racovita/2026/20",
+   "short": "HCL Racovița nr. 20/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 20/2026 privind modificarea și completarea statutului Asociației de Dezvoltare Intercomunitară Distribuție Gaz Timiș Centru",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265530",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265530",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-21-2026",
+   "path": "local/timis/racovita/2026/21",
+   "short": "HCL Racovița nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 21/2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265531",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265531",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-22-2026",
+   "path": "local/timis/racovita/2026/22",
+   "short": "HCL Racovița nr. 22/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 22/2026 privind atestarea apartenenței la domeniul privat al comunei Racovița a imobilului cu nr. top 254/1, neînscris în cartea funciară",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265532",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-23-2026",
+   "path": "local/timis/racovita/2026/23",
+   "short": "HCL Racovița nr. 23/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 23/2026 privind atestarea apartenenței la domeniul public al comunei Racovița a imobilului identificat cu nr. top 435/1, înscris în CF nr. 406509 Racovița, situat în intravilanul localității Hitiaș",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265533",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265533",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-24-2026",
+   "path": "local/timis/racovita/2026/24",
+   "short": "HCL Racovița nr. 24/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 24/2026 privind atestarea apartenenței la domeniul privat al comunei Racovița și actualizarea suprafeței a imobilului înscris în CF 402121 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265534",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265534",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-25-2026",
+   "path": "local/timis/racovita/2026/25",
+   "short": "HCL Racovița nr. 25/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 25/2026 privind atestarea apartenenței la domeniul privat al comunei Racovița a unui imobil situat în localitatea Hitiaș",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265535",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-27-2026",
+   "path": "local/timis/racovita/2026/27",
+   "short": "HCL Racovița nr. 27/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 27/2026 privind mandatarea Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”, în vederea atribuirii gestiunii serviciului de transport public local de persoane, pe raza administrativ teritorială a Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265537",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265537",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-28-2026",
+   "path": "local/timis/racovita/2026/28",
+   "short": "HCL Racovița nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 28/2026 privind acordarea unor mandate speciale Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265538",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265538",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-29-2026",
+   "path": "local/timis/racovita/2026/29",
+   "short": "HCL Racovița nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 29/2026 privind stabilirea modalităţii de gestiune a serviciilor de transport public de persoane prin curse regulate în aria de competență teritorială a Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265539",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265539",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-30-2026",
+   "path": "local/timis/racovita/2026/30",
+   "short": "HCL Racovița nr. 30/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 30/2026 privind aprobarea contractelor de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competenţă a Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265540",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-31-2026",
+   "path": "local/timis/racovita/2026/31",
+   "short": "HCL Racovița nr. 31/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 31/2026 privind modificarea, prin act adițional, a contractelor de delegare a gestiunii serviciilor publice de transport persoane în aria teritorială de competenţă a Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265541",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265541",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-32-2026",
+   "path": "local/timis/racovita/2026/32",
+   "short": "HCL Racovița nr. 32/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 32/2026 privind aprobarea politicii tarifare la nivelul Asociației de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265542",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265542",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-33-2026",
+   "path": "local/timis/racovita/2026/33",
+   "short": "HCL Racovița nr. 33/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 33/2026 privind aprobarea indicatorilor tehnico-economici în vederea demarării procedurii de achiziție a obiectului de investiții „Elaborarea/Actualizare Plan Urbanistic General Comunei Racovița,,",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265543",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265543",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-34-2026",
+   "path": "local/timis/racovita/2026/34",
+   "short": "HCL Racovița nr. 34/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 34/2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265544",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265544",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-35-2026",
+   "path": "local/timis/racovita/2026/35",
+   "short": "HCL Racovița nr. 35/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 35/2026 privind suplimentarea ramurilor sportive desfășurate de Clubul Sportiv Comunal Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/265545",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/265545",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-36-2026",
+   "path": "local/timis/racovita/2026/36",
+   "short": "HCL Racovița nr. 36/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 36/2026 privind aprobarea bugetuluI local al comunei Racovița pe anul 2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/267261",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/267261",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-38-2026",
+   "path": "local/timis/racovita/2026/38",
+   "short": "HCL Racovița nr. 38/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 38/2026 privind aprobarea onorariilor pentru asistență juridică și reprezentare",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/267263",
+   "versions": [
+    {
+     "from": "2026-06-05",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/267263",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-39-2026",
+   "path": "local/timis/racovita/2026/39",
+   "short": "HCL Racovița nr. 39/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 39/2026 privind aprobarea dezmembrării în două loturi a imobilului în suprafață de 1748 mp, înscris în CF nr. 405006 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270844",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270844",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-4-2026",
+   "path": "local/timis/racovita/2026/4",
+   "short": "HCL Racovița nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 4/2026 privind actualizarea Serviciului Voluntar pentru Situații de Urgență (SVSU) din Comuna Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/250459",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/250459",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-41-2026",
+   "path": "local/timis/racovita/2026/41",
+   "short": "HCL Racovița nr. 41/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 41/2026 privind constatarea încetării de drept a dreptului de folosință înscris în Cartea Funciară nr. 408324 Racovița, ca urmare a radierii construcției C1 și aprobarea efectuării demersurilor necesare pentru radierea sarcinilor aferente",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270846",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270846",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-42-2026",
+   "path": "local/timis/racovita/2026/42",
+   "short": "HCL Racovița nr. 42/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 42/2026 privind transmiterea în administrare și folosință gratuită către Școala Gimnazială Racovița a bunurilor/dotărilor achiziționate prin proiectul „Dotarea cu mobilier, materiale didactice și echipamente digitale ale unităților de învățământ preuniversitar și a unităților conexe din județul Timiș”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270847",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270847",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-43-2026",
+   "path": "local/timis/racovita/2026/43",
+   "short": "HCL Racovița nr. 43/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 43/2026 privind validarea Dispoziției Primarului nr. 67 din 18.05.2026 privind rectificarea nr. 1 a bugetului local al comunei Racovița pe anul 2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270848",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270848",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-44-2026",
+   "path": "local/timis/racovita/2026/44",
+   "short": "HCL Racovița nr. 44/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 44/2026 privind atestarea apartenenței la domeniul privat al Comunei Racovița a construcției înscrise în CF nr. 406870-C1 Racovița și înscrierea dreptului de proprietate în Cartea Funciară",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270849",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270849",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-45-2026",
+   "path": "local/timis/racovita/2026/45",
+   "short": "HCL Racovița nr. 45/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 45/2026 privind aprobarea contului anual de execuţie a bugetului local pe anul 2025 al comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270850",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270850",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-46-2026",
+   "path": "local/timis/racovita/2026/46",
+   "short": "HCL Racovița nr. 46/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 46/2026 privind aprobarea dezmembrării în trei loturi a imobilului în suprafață de 44310 mp, înscris în CF nr. 407191 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270851",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270851",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-47-2026",
+   "path": "local/timis/racovita/2026/47",
+   "short": "HCL Racovița nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 47/2026 privind aprobarea dezmembrării în trei loturi a imobilului în suprafață de 49505 mp, înscris în CF nr. 411232 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/270852",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/270852",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-49-2026",
+   "path": "local/timis/racovita/2026/49",
+   "short": "HCL Racovița nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 49/2026 privind modificarea Hotărârii Consiliului Local Racovița nr. 10 din 26.03.2026 privind implementarea proiectului “Îmbunătățirea serviciilor de gospodărire și întreținere prin achiziția de utilaj multifuncțional în comuna Racovița, județul Timiș”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/271945",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/271945",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-5-2026",
+   "path": "local/timis/racovita/2026/5",
+   "short": "HCL Racovița nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 5/2026 privind atestarea apartenenței la domeniul public al Comunei Racovița și acordul privind intabularea dreptului de proprietate publică a imobilelor înscrise în CF 406489 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/256361",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/256361",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-50-2026",
+   "path": "local/timis/racovita/2026/50",
+   "short": "HCL Racovița nr. 50/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 50/2026 privind aprobarea preluării cu titlu gratuit, în domeniul privat al Comunei Racovița, a terenului în suprafață de 225 mp, înscris în CF 411203 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/273506",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/273506",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-51-2026",
+   "path": "local/timis/racovita/2026/51",
+   "short": "HCL Racovița nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 51/2026 privind declararea, certificarea și motivarea tehnico-juridică a caracterului de interes public local al investiției proiectului „Realizare conductă de aducțiune apă potabilă Racovița–Căpăt”, comuna Racovița, județul Timiș, realizată prin operatorul regional Aquatim S.A",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/274720",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/274720",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-52-2026",
+   "path": "local/timis/racovita/2026/52",
+   "short": "HCL Racovița nr. 52/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 52/2026 privind aprobarea proiectului cu titlul ,,EFICIENTIZARE ENERGETICĂ ȘI DOTARE ȘCOALĂ GIMNAZIALĂ, CLASELE I-VIII, LOCALITATEA RACOVIȚA, JUDEȚUL TIMIȘ”, a documentației tehnico-economice aferente fazei Proiect tehnic, a indicatorilor tehnico-economici și a cheltuielilor aferente investiției pentru UAT COMUNA RACOVIȚA",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/274721",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/274721",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-53-2026",
+   "path": "local/timis/racovita/2026/53",
+   "short": "HCL Racovița nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 53/2026 privind aprobarea proiectului cu titlul ,,EFICIENTIZARE ENERGETICĂ ȘI DOTARE ȘCOALĂ GIMNAZIALĂ, CLASELE I-VIII, LOCALITATEA RACOVIȚA, JUDEȚUL TIMIȘ”, a documentației tehnico-economice aferente fazei Proiect tehnic, a indicatorilor tehnico-economici și a cheltuielilor aferente investiției pentru UAT COMUNA RACOVIȚA",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/276187",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/276187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-58-2026",
+   "path": "local/timis/racovita/2026/58",
+   "short": "HCL Racovița nr. 58/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 58/2026 privind aprobarea dezmembrării în două loturi a imobilului în suprafață de 40692 mp, înscris în CF nr. 411289 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/277623",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/277623",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-6-2026",
+   "path": "local/timis/racovita/2026/6",
+   "short": "HCL Racovița nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 6/2026 privind atestarea apartenenței la domeniul privat al Comunei Racovița a unui imobil (teren și construcție) situat în intravilanul comunei Racovița , CF 401718 Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/256362",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/256362",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-60-2026",
+   "path": "local/timis/racovita/2026/60",
+   "short": "HCL Racovița nr. 60/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 60/2026 privind modificarea Anexelor nr. 1 și 2 aprobate prin HCL nr. 17 din 06.04.2026 privind reorganizarea aparatului de specialitate al Primarului comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/277625",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/277625",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-61-2026",
+   "path": "local/timis/racovita/2026/61",
+   "short": "HCL Racovița nr. 61/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 61/2026 privind aprobarea proiectului cu titlul ”Construire grădiniță cu program prelungit în localitatea Racovița, Județul Timiș” și a cheltuielilor aferente investiției pentru Comuna Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/277657",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/277657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-62-2026",
+   "path": "local/timis/racovita/2026/62",
+   "short": "HCL Racovița nr. 62/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 62/2026 privind aprobarea contractării unei finanțări rambursabile interne în valoare de 150.000 lei",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/278336",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/278336",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-64-2026",
+   "path": "local/timis/racovita/2026/64",
+   "short": "HCL Racovița nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 64/2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/279560",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/279560",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-65-2026",
+   "path": "local/timis/racovita/2026/65",
+   "short": "HCL Racovița nr. 65/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 65/2026 privind aprobarea colaborării interinstituționale din cadrul proiectului „Furnizare de servicii integrate în comunitățile rurale – facilitarea accesului persoanelor vulnerabile la servicii de bază eficiente și de calitate”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/279561",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/279561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-66-2026",
+   "path": "local/timis/racovita/2026/66",
+   "short": "HCL Racovița nr. 66/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 66/2026 privind aprobarea modificării Organigramei și a Statului de funcții ale aparatului de specialitate al Primarului comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/282086",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/282086",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-67-2026",
+   "path": "local/timis/racovita/2026/67",
+   "short": "HCL Racovița nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 67/2026 privind aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/284169",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/284169",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-68-2026",
+   "path": "local/timis/racovita/2026/68",
+   "short": "HCL Racovița nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 68/2026 privind aprobarea Regulamentului de organizare şi funcţionare al aparatului de specialitate al Primarului Comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/284170",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/284170",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-69-2026",
+   "path": "local/timis/racovita/2026/69",
+   "short": "HCL Racovița nr. 69/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 69/2026 privind aprobarea măsurilor necesare pentru relocarea temporară a activității didactice a Școlii Gimnaziale Racovița începând cu anul școlar 2026-2027, pe perioada realizării lucrărilor aferente proiectului „Eficientizare energetică și dotare Școală gimnazială clasele I-VIII, localitatea Racovița, județul Timiș”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/284171",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/284171",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-70-2026",
+   "path": "local/timis/racovita/2026/70",
+   "short": "HCL Racovița nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 70/2026 privind stabilirea prețului de valorificare a sortimentelor de lemn de foc rășinoase și lemn de foc diverse specii moi",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/284172",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/284172",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-71-2026",
+   "path": "local/timis/racovita/2026/71",
+   "short": "HCL Racovița nr. 71/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 71/2026 privind prima înscriere în Cartea Funciara a imobilului cu nr. cadastral Cc466/2 și atestarea apartenenței la domeniul privat al comunei Racovita",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/284173",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/284173",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-72-2026",
+   "path": "local/timis/racovita/2026/72",
+   "short": "HCL Racovița nr. 72/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 72/2026 privind aprobarea documentației cadastrale de apartamentare a imobilului înscris în CF nr. 406489-C2 și trecerea unei unități individuale din domeniul public în domeniul privat al Comunei Racovița",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/287515",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/287515",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-74-2026",
+   "path": "local/timis/racovita/2026/74",
+   "short": "HCL Racovița nr. 74/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 74/2026 privind aprobarea Studiului de Fezabilitate si a indicatorilor tehnico-economici pentru obiectivul de investiții cu denumirea ,,CREȘTEREA GRADULUI DE AUTONOMIE ENERGETICĂ A COMUNEI RACOVIȚA, JUDEȚUL TIMIȘ, PRIN REALIZAREA UNEI CAPACITĂȚI DE PRODUCERE A ENERGIEI ELECTRICE DIN SURSE SOLARE CU STOCARE INTEGRATĂ”, finanțat prin Fondul de Modernizare, din cadrul Programului-cheie 1: “Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice.”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/289462",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/289462",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-75-2026",
+   "path": "local/timis/racovita/2026/75",
+   "short": "HCL Racovița nr. 75/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 75/2026 privind aprobarea retragerii Comunei Giroc din Asociația de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/291522",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/291522",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-76-2026",
+   "path": "local/timis/racovita/2026/76",
+   "short": "HCL Racovița nr. 76/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 76/2026 privind aprobarea aderării Orașului Sânnicolau Mare și a Orașului Deta la Asociația de Dezvoltare Intercomunitară Transport Județean „TRANSTIMIȘ”",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/291523",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/291523",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-78-2026",
+   "path": "local/timis/racovita/2026/78",
+   "short": "HCL Racovița nr. 78/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 78/2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/291525",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/291525",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-79-2026",
+   "path": "local/timis/racovita/2026/79",
+   "short": "HCL Racovița nr. 79/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 79/2026 privind asocierea comunei Racovița cu comuna Belinț în vederea constituirii Consorțiului Administrativ „Belinț-Racovița” și aprobarea actelor constitutive ale acestuia",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/291526",
+   "versions": [
+    {
+     "from": "2026-10-15",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/291526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-8-2026",
+   "path": "local/timis/racovita/2026/8",
+   "short": "HCL Racovița nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 8/2026 privind înființarea Serviciului public de gestionare a câinilor fără stăpân în cadrul UAT Comuna Racovița, județul Timiș",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/256364",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/256364",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-80-2026",
+   "path": "local/timis/racovita/2026/80",
+   "short": "HCL Racovița nr. 80/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 80/2026 privind aprobarea rectificării nr. 2 a bugetului local al comunei Racovița pe anul 2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/294446",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/294446",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-81-2026",
+   "path": "local/timis/racovita/2026/81",
+   "short": "HCL Racovița nr. 81/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 81/2026 privind aprobarea completării Hotărârii Consiliului Local al Comunei Racovița nr. 18 din 06.04.2026 privind aprobarea Agendei culturale și de tineret a comunei Racovița pentru anul 2026",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/294447",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/294447",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--racovita-83-2026",
+   "path": "local/timis/racovita/2026/83",
+   "short": "HCL Racovița nr. 83/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Racovița nr. 83/2026 privind atestarea apartenenței la domeniul public al comunei Racovița a unor drumuri de exploatare situate în extravilan și efectuarea demersurilor necesare înscrierii în sistemul integrat de cadastru și carte funciară",
+   "url": "https://emol.ro/racovita-tm/registru-hcl/294914",
+   "versions": [
+    {
+     "from": "2026-10-27",
+     "units": 1,
+     "source_url": "https://emol.ro/racovita-tm/registru-hcl/294914",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

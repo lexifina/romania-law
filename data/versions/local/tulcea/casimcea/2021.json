@@ -1,0 +1,51 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/casimcea/2021",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--casimcea-11-2021",
+   "path": "local/tulcea/casimcea/2021/11",
+   "short": "HCL Casimcea nr. 11/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 11/2021 privind indexarea impozitelor și Txelor locale pentru anul 2022 cu rata infației de 2,6%",
+   "url": "https://emol.ro/casimcea-tl/registru-hcl/22122",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/casimcea-tl/registru-hcl/22122",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--casimcea-12-2021",
+   "path": "local/tulcea/casimcea/2021/12",
+   "short": "HCL Casimcea nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 12/2021 privind radierea unor debite restante fără posibilitate de recuperare și desființarea rolurilor cu pricina",
+   "url": "https://emol.ro/casimcea-tl/registru-hcl/22123",
+   "versions": [
+    {
+     "from": "2021-03-12",
+     "units": 1,
+     "source_url": "https://emol.ro/casimcea-tl/registru-hcl/22123",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--casimcea-5-2021",
+   "path": "local/tulcea/casimcea/2021/5",
+   "short": "HCL Casimcea nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Casimcea nr. 5/2021 privind aprobarea înrolării Primărie Casimcea în sistemul Ghișeul .ro",
+   "url": "https://emol.ro/casimcea-tl/registru-hcl/22116",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 1,
+     "source_url": "https://emol.ro/casimcea-tl/registru-hcl/22116",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

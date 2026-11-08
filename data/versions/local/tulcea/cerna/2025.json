@@ -1,0 +1,261 @@
+{
+ "country": "RO",
+ "shard": "local/tulcea/cerna/2025",
+ "acts": [
+  {
+   "slug": "hcl-tulcea--cerna-14-2025",
+   "path": "local/tulcea/cerna/2025/14",
+   "short": "HCL Cerna nr. 14/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 14/2025 privind aprobarea pierderilor tehnologice pentru sistemul de alimentare cu apă al Comunei Cerna, judeţul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210675",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210675",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-19-2025",
+   "path": "local/tulcea/cerna/2025/19",
+   "short": "HCL Cerna nr. 19/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 19/2025 privind acordul Consiliului Local al Comunei Cerna, judetul Tulcea pentru scoaterea din circuitul agricol a unui teren pentru realizarea obiectivului ”Eficientizarea consumului de energie electrică la UAT Comuna Cerna, județul Tulcea prin instalarea de panouri solare fotovoltaice cu puterea de 200 KWp”",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210710",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210710",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-27-2025",
+   "path": "local/tulcea/cerna/2025/27",
+   "short": "HCL Cerna nr. 27/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 27/2025 privind aprobarea revizuirii conținutului contractului de furnizare/prestare a serviciului de alimentare cu apă şi de canalizare",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/210730",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/210730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-32-2025",
+   "path": "local/tulcea/cerna/2025/32",
+   "short": "HCL Cerna nr. 32/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 32/2025 privind aprobarea schimbării denumirii unor drumuri",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235136",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235136",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-35-2025",
+   "path": "local/tulcea/cerna/2025/35",
+   "short": "HCL Cerna nr. 35/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 35/2025",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235139",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235139",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-36-2025",
+   "path": "local/tulcea/cerna/2025/36",
+   "short": "HCL Cerna nr. 36/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 36/2025 privind aprobarea Planului de analiză și acoperire a riscurilor la nivelul Comunei Cerna, judeţul Tulcea pentru anul 2025",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235140",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235140",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-40-2025",
+   "path": "local/tulcea/cerna/2025/40",
+   "short": "HCL Cerna nr. 40/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 40/2025 privind acordul consiliului local pentru amplasarea capacității energetice proiectată în scopul imbunătățirii tensiunii pe circuite electrice existente în comuna Cerna",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235144",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235144",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-44-2025",
+   "path": "local/tulcea/cerna/2025/44",
+   "short": "HCL Cerna nr. 44/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 44/2025 privind aprobarea dezmembrării unui imobil",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235148",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235148",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-46-2025",
+   "path": "local/tulcea/cerna/2025/46",
+   "short": "HCL Cerna nr. 46/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 46/2025 privind aprobarea Devizului general actualizat după licitație și a indicatorilor tehnico-economici pentru obiectivul de investiții „Asfaltare străzi în Comuna Cerna, județul Tulcea” – etapa III, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235150",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235150",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-47-2025",
+   "path": "local/tulcea/cerna/2025/47",
+   "short": "HCL Cerna nr. 47/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 47/2025 privind aprobarea Devizului general actualizare cota TVA 21% și a indicatorilor tehnico-economici pentru obiectivul de investiții „Asfaltare străzi în Comuna Cerna, județul Tulcea” – etapa III, aprobat pentru finanțare prin Programul național de investiții „Anghel Saligny”, precum și a sumei reprezentând categoriile de cheltuieli finanțate de la bugetul local pentru realizarea obiectivului",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235151",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235151",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-48-2025",
+   "path": "local/tulcea/cerna/2025/48",
+   "short": "HCL Cerna nr. 48/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 48/2025 privind aprobarea Planului de măsuri privind interzicerea abandonării, aruncării necontrolate a deșeurilor sau gestionării necontrolate a deșeurilor",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235152",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235152",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-51-2025",
+   "path": "local/tulcea/cerna/2025/51",
+   "short": "HCL Cerna nr. 51/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 51/2025 privind aprobarea Planului de acţiune pe timpul iernii 2025-2026 în Comuna Cerna, judeţul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/235155",
+   "versions": [
+    {
+     "from": "2025-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/235155",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-56-2025",
+   "path": "local/tulcea/cerna/2025/56",
+   "short": "HCL Cerna nr. 56/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 56/2025 privind aprobarea achiziționării serviciilor de microcipare a câinilor de pe raza comunei Cerna, județul Tulcea",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/247056",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/247056",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-61-2025",
+   "path": "local/tulcea/cerna/2025/61",
+   "short": "HCL Cerna nr. 61/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 61/2025 privind aprobarea alocării unor sume de bani în vederea organizării unor activităţi cu ocazia sărbătorilor de iarnă",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/247063",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/247063",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-65-2025",
+   "path": "local/tulcea/cerna/2025/65",
+   "short": "HCL Cerna nr. 65/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 65/2025",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/247068",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/247068",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-68-2025",
+   "path": "local/tulcea/cerna/2025/68",
+   "short": "HCL Cerna nr. 68/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 68/2025 privind aprobarea nivelului anual al redevenței pentru serviciul de canalizare-epurare",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/247071",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/247071",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-tulcea--cerna-69-2025",
+   "path": "local/tulcea/cerna/2025/69",
+   "short": "HCL Cerna nr. 69/2025",
+   "title": "Hotărârea Consiliului Local al Comunei Cerna nr. 69/2025 privind aprobarea nivelurilor pentru valorile impozabile, impozitele şi taxele locale şi alte taxe asimilate acestora, precum şi amenzile, aplicabile în anul 2026",
+   "url": "https://emol.ro/cerna-tl/registru-hcl/247072",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 1,
+     "source_url": "https://emol.ro/cerna-tl/registru-hcl/247072",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

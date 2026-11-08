@@ -1,0 +1,321 @@
+{
+ "country": "RO",
+ "shard": "local/timis/sandra/2021",
+ "acts": [
+  {
+   "slug": "hcl-timis--sandra-1-2021",
+   "path": "local/timis/sandra/2021/1",
+   "short": "HCL Șandra nr. 1/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 1/2021 privind aprobarea Planului de acțiuni sau de lucrări de interes local pentru anul 2021, acțiuni sau lucrări stabilite în conformitate cu art. 6 alin. 7 din Legea nr. 416/2001",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35691",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35691",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-12-2021",
+   "path": "local/timis/sandra/2021/12",
+   "short": "HCL Șandra nr. 12/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 12/2021 privind aprobarea Regulamentului privind organizarea și funcționarea Serviciului Public Comunitar Local de Evidență a Persoanelor al comunei Șandra, modificat",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35750",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35750",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-13-2021",
+   "path": "local/timis/sandra/2021/13",
+   "short": "HCL Șandra nr. 13/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 13/2021 privind aprobarea contului de încheiere a exercițiului bugetar al comunei Șandra pe anul 2020",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35751",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35751",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-14-2021",
+   "path": "local/timis/sandra/2021/14",
+   "short": "HCL Șandra nr. 14/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 14/2021 privind stabilirea impozitelor și taxelor locale în comuna Șandra pe anul 2022",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35752",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35752",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-15-2021",
+   "path": "local/timis/sandra/2021/15",
+   "short": "HCL Șandra nr. 15/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 15/2021 privind aprobarea Statutului comunei Șandra, județul Timiș",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35753",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35753",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-16-2021",
+   "path": "local/timis/sandra/2021/16",
+   "short": "HCL Șandra nr. 16/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 16/2021 privind aprobarea Regulamentului privind facilitățile acordate unor categorii de cetățeni și entități la transportul public prestat cu tramvai, troleibuz, autobuz și vapoare în aria de competență a Societății Metropolitane de Transport Timișoara",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35754",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35754",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-18-2021",
+   "path": "local/timis/sandra/2021/18",
+   "short": "HCL Șandra nr. 18/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 18/2021 privind aprobarea modelelor Contractelor de furnizare/prestare a serviciului de alimentare cu apă pentru persoanele fizice și juridice",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35756",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35756",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-19-2021",
+   "path": "local/timis/sandra/2021/19",
+   "short": "HCL Șandra nr. 19/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 19/2021 privind aprobarea Caietului de sarcini al Serviciului public de alimentare cu apă al comunei Șandra, având personalitate juridică și aflat în subordinea Consiliului Local",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35757",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35757",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-2-2021",
+   "path": "local/timis/sandra/2021/2",
+   "short": "HCL Șandra nr. 2/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 2/2021 privind aprobarea rețelei școlare a unităților de învățământ a comunei Șandra ce va funcționa în anul șoclar 2021-2022",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35692",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35692",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-25-2021",
+   "path": "local/timis/sandra/2021/25",
+   "short": "HCL Șandra nr. 25/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 25/2021 privind aprobarea Normelor procedurale privind vânzarea prin licitație publică a bunurilor imobile aflate în domeniul privat al comunei Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35763",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35763",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-3-2021",
+   "path": "local/timis/sandra/2021/3",
+   "short": "HCL Șandra nr. 3/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 3/2021 privind aprobarea prețului pentru furnizarea apei potabile în comuna Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35693",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35693",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-36-2021",
+   "path": "local/timis/sandra/2021/36",
+   "short": "HCL Șandra nr. 36/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 36/2021 privind aprobarea acordului de asociere între UAT Șandra și UAT Biled pentru realizarea unui Studiu de Fezabilitate pentru Rețeaua de Distribuție Gaze Naturale",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35774",
+   "versions": [
+    {
+     "from": "2021-03-24",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35774",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-37-2021",
+   "path": "local/timis/sandra/2021/37",
+   "short": "HCL Șandra nr. 37/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 37/2021 privind aprobarea ''Regulamentului propriu privind măsurile metodologice, organizatorice, termenele și circulația proiectelor de hotărâri care se înaintează Consiliului Local Șandra spre adoptare''",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35863",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35863",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-38-2021",
+   "path": "local/timis/sandra/2021/38",
+   "short": "HCL Șandra nr. 38/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 38/2021 privind aprobarea bugetului de venituri și cheltuieli al comunei Șandra pe anul 2021",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35864",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-39-2021",
+   "path": "local/timis/sandra/2021/39",
+   "short": "HCL Șandra nr. 39/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 39/2021 privind aprobarea Programului Anual al Achizițiilor Publice pentru anul 2021",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35865",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-4-2021",
+   "path": "local/timis/sandra/2021/4",
+   "short": "HCL Șandra nr. 4/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 4/2021 privind aprobarea cuantumului unei burse aferente anului școlar 2020-2021 pentru elevii din învățământul preuniveristar de stat",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35694",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35694",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-42-2021",
+   "path": "local/timis/sandra/2021/42",
+   "short": "HCL Șandra nr. 42/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 42/2021 privind aprobarea transferului unor sume încasate de la bugetul local al Comunei Șandra către Serviciul Public de Alimentare cu Apă și Canalizare",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35867",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35867",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-43-2021",
+   "path": "local/timis/sandra/2021/43",
+   "short": "HCL Șandra nr. 43/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 43/2021 privind aprobarea Protocolului de predare-preluare încheiat între Primăria Comunei Șandra și Serviciul public de alimentare cu apă și canalizare al comunei Șandra, având personalitate juridică, înființat în subordinea Consiliului Local al comunei Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35868",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35868",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-45-2021",
+   "path": "local/timis/sandra/2021/45",
+   "short": "HCL Șandra nr. 45/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 45/2021 privind modificarea HCL nr. 15/28.03.2019 privind aprobarea Regulamentului de organizare și funcționare al Serviciului public de alimentare cu apă și de canalizare al comunei Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35870",
+   "versions": [
+    {
+     "from": "2021-04-19",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35870",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-5-2021",
+   "path": "local/timis/sandra/2021/5",
+   "short": "HCL Șandra nr. 5/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 5/2021 privind stabilirea Organigramei și Statul de Funcții al aparatului de specialitate al Primarului comunei Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35695",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35695",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--sandra-8-2021",
+   "path": "local/timis/sandra/2021/8",
+   "short": "HCL Șandra nr. 8/2021",
+   "title": "Hotărârea Consiliului Local al Comunei Șandra nr. 8/2021 privind aprobarea arondării Unității Administrativ Teritoriale Biled, județul Timiș, la Serviciul Public Comunitar de Evidență a Persoanelor al comunei Șandra",
+   "url": "https://emol.ro/sandra-tm/registru-hcl/35698",
+   "versions": [
+    {
+     "from": "2021-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/sandra-tm/registru-hcl/35698",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+"country": "RO",
+"shard": "local/timis/periam/2024",
+"acts": [
+{
+"slug": "hcl-timis--periam-22-2024",
+"path": "local/timis/periam/2024/22",
+"kind": "local",
+"year": "2024",
+"number": "22",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 22/2024 privind actualizarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al Comunei Periam, Județul Timiș",
+"short": "HCL Periam nr. 22/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/periam-tm/registru-hcl/154511",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-27-2024",
+"path": "local/timis/periam/2024/27",
+"kind": "local",
+"year": "2024",
+"number": "27",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 27/2024 privind aprobarea scoaterii din funcţiune şi casarea unor mijloace fixe şi obiecte de inventor aflate în patrimoniul Comunei Periam",
+"short": "HCL Periam nr. 27/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/periam-tm/registru-hcl/154569",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-28-2024",
+"path": "local/timis/periam/2024/28",
+"kind": "local",
+"year": "2024",
+"number": "28",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 28/2024 privind încetarea aplicabilității Hotărârii Consiliului Local Periam nr. 87/21.12.2023",
+"short": "HCL Periam nr. 28/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/periam-tm/registru-hcl/154570",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-34-2024",
+"path": "local/timis/periam/2024/34",
+"kind": "local",
+"year": "2024",
+"number": "34",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 34/2024 privind stabilirea impozitelor şi taxelor locale în Comuna Periam, pentru anul 2025",
+"short": "HCL Periam nr. 34/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/periam-tm/registru-hcl/154590",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-38-2024",
+"path": "local/timis/periam/2024/38",
+"kind": "local",
+"year": "2024",
+"number": "38",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 38/2024 privind aprobarea menținerii Serviciului Public de Alimentare cu Apă și Canalizare (S.P.A.A.C.) al Comunei Periam",
+"short": "HCL Periam nr. 38/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-04-29",
+"latest": "2024-04-29",
+"portal": "https://emol.ro/periam-tm/registru-hcl/154594",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-59-2024",
+"path": "local/timis/periam/2024/59",
+"kind": "local",
+"year": "2024",
+"number": "59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 59/2024 privind aprobarea devizului general actualizat și a indicatorilor economici actualizați pentru obiectivul de investiții „Înființarea unui centru de colectare deșeuri prin aport voluntar în comuna Periam” aprobat pentru finanțare prin Planul Național de Redresare și Reziliență, componenta C3 - Managementul deșeurilor Apel nr. PNRR/2022/C3/S/I.1.A",
+"short": "HCL Periam nr. 59/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-09-13",
+"latest": "2024-09-13",
+"portal": "https://emol.ro/periam-tm/registru-hcl/165069",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-timis--periam-68-2024",
+"path": "local/timis/periam/2024/68",
+"kind": "local",
+"year": "2024",
+"number": "68",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei Periam nr. 68/2024 privind rectificarea bugetului local al Comunei Periam pe anul 2024",
+"short": "HCL Periam nr. 68/2024",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2024-11-12",
+"latest": "2024-11-12",
+"portal": "https://emol.ro/periam-tm/registru-hcl/171135",
+"council": "timis/periam",
+"council_name": "Consiliul Local al Comunei Periam",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

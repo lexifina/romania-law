@@ -1,0 +1,111 @@
+{
+ "country": "RO",
+ "shard": "local/timis/periam/2024",
+ "acts": [
+  {
+   "slug": "hcl-timis--periam-22-2024",
+   "path": "local/timis/periam/2024/22",
+   "short": "HCL Periam nr. 22/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 22/2024 privind actualizarea Inventarului bunurilor imobile care alcătuiesc domeniul privat al Comunei Periam, Județul Timiș",
+   "url": "https://emol.ro/periam-tm/registru-hcl/154511",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/154511",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-27-2024",
+   "path": "local/timis/periam/2024/27",
+   "short": "HCL Periam nr. 27/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 27/2024 privind aprobarea scoaterii din funcţiune şi casarea unor mijloace fixe şi obiecte de inventor aflate în patrimoniul Comunei Periam",
+   "url": "https://emol.ro/periam-tm/registru-hcl/154569",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/154569",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-28-2024",
+   "path": "local/timis/periam/2024/28",
+   "short": "HCL Periam nr. 28/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 28/2024 privind încetarea aplicabilității Hotărârii Consiliului Local Periam nr. 87/21.12.2023",
+   "url": "https://emol.ro/periam-tm/registru-hcl/154570",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/154570",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-34-2024",
+   "path": "local/timis/periam/2024/34",
+   "short": "HCL Periam nr. 34/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 34/2024 privind stabilirea impozitelor şi taxelor locale în Comuna Periam, pentru anul 2025",
+   "url": "https://emol.ro/periam-tm/registru-hcl/154590",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/154590",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-38-2024",
+   "path": "local/timis/periam/2024/38",
+   "short": "HCL Periam nr. 38/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 38/2024 privind aprobarea menținerii Serviciului Public de Alimentare cu Apă și Canalizare (S.P.A.A.C.) al Comunei Periam",
+   "url": "https://emol.ro/periam-tm/registru-hcl/154594",
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/154594",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-59-2024",
+   "path": "local/timis/periam/2024/59",
+   "short": "HCL Periam nr. 59/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 59/2024 privind aprobarea devizului general actualizat și a indicatorilor economici actualizați pentru obiectivul de investiții „Înființarea unui centru de colectare deșeuri prin aport voluntar în comuna Periam” aprobat pentru finanțare prin Planul Național de Redresare și Reziliență, componenta C3 - Managementul deșeurilor Apel nr. PNRR/2022/C3/S/I.1.A",
+   "url": "https://emol.ro/periam-tm/registru-hcl/165069",
+   "versions": [
+    {
+     "from": "2024-09-13",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/165069",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--periam-68-2024",
+   "path": "local/timis/periam/2024/68",
+   "short": "HCL Periam nr. 68/2024",
+   "title": "Hotărârea Consiliului Local al Comunei Periam nr. 68/2024 privind rectificarea bugetului local al Comunei Periam pe anul 2024",
+   "url": "https://emol.ro/periam-tm/registru-hcl/171135",
+   "versions": [
+    {
+     "from": "2024-11-12",
+     "units": 1,
+     "source_url": "https://emol.ro/periam-tm/registru-hcl/171135",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

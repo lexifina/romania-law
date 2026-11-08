@@ -1,0 +1,531 @@
+{
+ "country": "RO",
+ "shard": "local/timis/otelec/2023",
+ "acts": [
+  {
+   "slug": "hcl-timis--otelec-1-2023",
+   "path": "local/timis/otelec/2023/1",
+   "short": "HCL Otelec nr. 1/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 1/2023 privind actualizarea comisiilor de specialitate ale Consiliului Local Otelec",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119604",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119604",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-12-2023",
+   "path": "local/timis/otelec/2023/12",
+   "short": "HCL Otelec nr. 12/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 12/2023 privind rectificarea bugetului local al Comunei Otelec din 30.03.2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119643",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119643",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-15-2023",
+   "path": "local/timis/otelec/2023/15",
+   "short": "HCL Otelec nr. 15/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 15/2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119646",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119646",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-16-2023",
+   "path": "local/timis/otelec/2023/16",
+   "short": "HCL Otelec nr. 16/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 16/2023 privind aprobarea cotizației anuale a Comunei Otelec pe anul 2023, la Asociația pentru Promovarea și Dezvoltarea Turismului în Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119647",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119647",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-18-2023",
+   "path": "local/timis/otelec/2023/18",
+   "short": "HCL Otelec nr. 18/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 18/2023 privind aprobarea REGULAMENTULUI ACORDARE A FINANȚĂRILOR PENTRU PROGRAME SPORTIVE DIN FONDURI PUBLICE ALE COMUNEI OTELEC",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119649",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119649",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-20-2023",
+   "path": "local/timis/otelec/2023/20",
+   "short": "HCL Otelec nr. 20/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 20/2023 privind modificarea și completarea HCL-lui nr. 3/2022 privind aprobarea Regulamentului de organizare și funcționare al comunei Otelec",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119651",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119651",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-21-2023",
+   "path": "local/timis/otelec/2023/21",
+   "short": "HCL Otelec nr. 21/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 21/2023 privind aprobarea actualizării structurii organizatorice și a statului de funcții, modificarea coeficienților de salarizare, stabilirea salariilor de bază, începând cu luna Mai 2023, pentru funcționarii publici și personalul contractual din cadrul aparatului de specialitate al Primarului Comunei Otelec pentru anul 2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119652",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119652",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-22-2023",
+   "path": "local/timis/otelec/2023/22",
+   "short": "HCL Otelec nr. 22/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 22/2023 privind aprobarea participării Comunei Otelec, Județul Timiș la Parteneriatul LEADER cu denumirea ”GRUP DE ACȚIUNE LOCALĂ BANAT-VEST 2023-2027”",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119653",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119653",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-23-2023",
+   "path": "local/timis/otelec/2023/23",
+   "short": "HCL Otelec nr. 23/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 23/2023 privind acordarea unui mandat special împuternicitului Consiliului Local al comunei Otelec în Adunarea Generală ordinară a Asociaților Asociației de Dezvoltare Intercomunitară Apă-Canal Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119654",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119654",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-24-2023",
+   "path": "local/timis/otelec/2023/24",
+   "short": "HCL Otelec nr. 24/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 24/2023 privind aprobarea rezultatului privind inventarierea generală a elementelor de natura activelor, datoriilor și a capitalurilor proprii aflate în patrimoniul UAT Comuna Otelec la data de 31.12.2022",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119655",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119655",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-25-2023",
+   "path": "local/timis/otelec/2023/25",
+   "short": "HCL Otelec nr. 25/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 25/2023 privind aprobarea proiectului și a documentației tehnico-economice - Memoriu justificativ - pentru investiția ”ACHIZIȚIONAREA DE ECHIPAMENTE PENTRU DOTAREA COMPARTIMENTULUI DE GOSPODĂRIRE COMUNALĂ ȘI SITUAȚII DE URGENȚĂ AL COMUNEI OTELEC, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119656",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119656",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-26-2023",
+   "path": "local/timis/otelec/2023/26",
+   "short": "HCL Otelec nr. 26/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 26/2023 privind implementarea proiectului ”ACHIZIȚIONAREA DE ECHIPAMENTE PENTRU DOTAREA COMPARTIMENTULUI DE GOSPODĂRIRE COMUNALĂ ȘI SITUAȚII DE URGENȚĂ AL COMUNEI OTELEC, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119657",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119657",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-27-2023",
+   "path": "local/timis/otelec/2023/27",
+   "short": "HCL Otelec nr. 27/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 27/2023 privind aprobarea Acordului de Parteneriat cu ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ DEȘEURI TIMIȘ al Comunei Otelec",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119658",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119658",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-28-2023",
+   "path": "local/timis/otelec/2023/28",
+   "short": "HCL Otelec nr. 28/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 28/2023 privind aprobarea - REGULAMENTULUI DE AUTORIZARE A VULACANIZĂRILOR, SPĂLĂTORIILOR AUTO ȘI SERVICE-URILOR AUTO PE RAZA COMUNEI OTELEC",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119659",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119659",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-29-2023",
+   "path": "local/timis/otelec/2023/29",
+   "short": "HCL Otelec nr. 29/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 29/2023 privind modificarea denumirii obiectivelor de investiții „Reabilitare cămine culturale clădire + curte Otelec” și „Reabilitare cămine culturale clădire + curte Iohanisfeld” în „Reparații curente cămin cultural Otelec” și „Reparații curente cămin cultural Iohanisfeld” cuprinse în HCL nr. 5/2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119660",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119660",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-30-2023",
+   "path": "local/timis/otelec/2023/30",
+   "short": "HCL Otelec nr. 30/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 30/2023 privind aprobarea delegării către Unitatea Administrativ Teritorială - Județul Timiș în vederea depunerii spre finanțare a proiectului „Microbuze electrice pentru elevi” finanțat din componenta C15: Educație, Reforma 6. Actualizarea cadrului legislativ pentru a asigura standardele ecologice de proiectare, construcție și dotare în sistemul de învățământ preuniversitar, Investiția 10. Dezvoltarea rețelei de școli verzi și achiziționarea de microbuze verzi",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119661",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-31-2023",
+   "path": "local/timis/otelec/2023/31",
+   "short": "HCL Otelec nr. 31/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 31/2023 privind înscrierea în cartea funciară a unor documentații de dezmembrare",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119662",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119662",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-32-2023",
+   "path": "local/timis/otelec/2023/32",
+   "short": "HCL Otelec nr. 32/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 32/2023 privind modificarea și completarea Anexei la HCL nr. 6 din 09.02.2023 privind aprobarea agendei culturale a Comunei Otelec pe anul 2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119663",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119663",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-35-2023",
+   "path": "local/timis/otelec/2023/35",
+   "short": "HCL Otelec nr. 35/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 35/2023 privind aprobarea Statutului Comunei Otelec, județul Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119666",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119666",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-39-2023",
+   "path": "local/timis/otelec/2023/39",
+   "short": "HCL Otelec nr. 39/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 39/2023 privind modificarea denumirii obiectivului de investiții „Reparații curente cămin cultural Otelec” în „Reparații capitale + amenajare curte cămin cultural Otelec” cuprinse în HCL nr. 29/2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/119674",
+   "versions": [
+    {
+     "from": "2023-09-07",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/119674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-40-2023",
+   "path": "local/timis/otelec/2023/40",
+   "short": "HCL Otelec nr. 40/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 40/2023 privind modificarea HCL nr. 26/2023 privind implementarea proiectului ”ACHIZIȚIONAREA DE ECHIPAMENTE PENTRU DOTAREA COMPARTIMENTULUI DE GOSPODĂRIRE COMUNALĂ ȘI SITUAȚII DE URGENȚĂ AL COMUNEI OTELEC, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/120366",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/120366",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-41-2023",
+   "path": "local/timis/otelec/2023/41",
+   "short": "HCL Otelec nr. 41/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 41/2023 privind modificarea HCL nr. 25/2003 de aprobare a proiectului și a documentației tehnico-economice - Memoriu justificativ - pentru investiția ”ACHIZIȚIONAREA DE ECHIPAMENTE PENTRU DOTAREA COMPARTIMENTULUI DE GOSPODĂRIRE COMUNALĂ ȘI SITUAȚII DE URGENȚĂ AL COMUNEI OTELEC, JUDEȚUL TIMIȘ”",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/120367",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/120367",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-42-2023",
+   "path": "local/timis/otelec/2023/42",
+   "short": "HCL Otelec nr. 42/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 42/2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/120368",
+   "versions": [
+    {
+     "from": "2023-09-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/120368",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-43-2023",
+   "path": "local/timis/otelec/2023/43",
+   "short": "HCL Otelec nr. 43/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 43/2023 privind neasumarea responsabilităţii comunei Otelec cu privire la organizarea și derularea procedurilor de atribuire a contractelor/acordurilor-cadru pentru achiziția produselor și pentru derularea măsurilor educative aferente Programului pentru şcoli al României, în perioada 2023-2029 pentru unitățile de învățământ din comuna Otelec",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/121376",
+   "versions": [
+    {
+     "from": "2023-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/121376",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-44-2023",
+   "path": "local/timis/otelec/2023/44",
+   "short": "HCL Otelec nr. 44/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 44/2023 privind alegerea preşedintelui de şedinţă pentru ședințele Consiliului Local al Comunei Otelec, pentru perioada octombrie - decembrie 2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/127864",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/127864",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-45-2023",
+   "path": "local/timis/otelec/2023/45",
+   "short": "HCL Otelec nr. 45/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 45/2023 privind rectificarea bugetului local al Comunei Otelec 13.10.2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/127865",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/127865",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-46-2023",
+   "path": "local/timis/otelec/2023/46",
+   "short": "HCL Otelec nr. 46/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 46/2023 privind retragerea dreptului de folosinta a unor terenuri atribuite in baza Legii nr.15/2003 privind sprijinul acordat tinerilor pentru construirea unei locuinţe proprietate personal",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/127866",
+   "versions": [
+    {
+     "from": "2023-11-06",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/127866",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-47-2023",
+   "path": "local/timis/otelec/2023/47",
+   "short": "HCL Otelec nr. 47/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 47/2023 privind aprobarea emiterii adeverinței de ,,contrasemnare a documentelor tehnice’’ care să confirme însușirea de către reprezentantul autorității publice locale Otelec, a informațiilor cuprinse în Documentele Tehnice ale Cadastrului în intravilanul localității Iohanisfeld, comuna Otelec, județul Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136000",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136000",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-48-2023",
+   "path": "local/timis/otelec/2023/48",
+   "short": "HCL Otelec nr. 48/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 48/2023 privind aprobarea actualizării informațiilor tehnice și diminuarea suprafeței imobilului înscris în cartea funciară nr. 405336, nr. cad. 405336, UAT Otelec, aparținând domeniului privat al comunei Otelec, județul Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136001",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136001",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-49-2023",
+   "path": "local/timis/otelec/2023/49",
+   "short": "HCL Otelec nr. 49/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 49/2023 privind aprobarea schimbarii denumirii Asociatiei pentru Promovarea si Dezvoltarea Turismului Timis in Organizatia de managment al destinatiei „JUDETUL TIMIS” si aprobarea noului statut",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136002",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136002",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-51-2023",
+   "path": "local/timis/otelec/2023/51",
+   "short": "HCL Otelec nr. 51/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 51/2023 privind implementarea proiectului ”MODERNIZARE STRĂZI ÎN COMUNA OTELEC, JUDEȚUL TIMIȘ”)",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136072",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136072",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-52-2023",
+   "path": "local/timis/otelec/2023/52",
+   "short": "HCL Otelec nr. 52/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 52/2023 privind propunerea de scoatere definitiva din circuitul agricol a suprafetei de 4176mp teren extravilan, categorie de folosinta pasune CF nr. 405320 situat in comuna Otelec,sat Iohanisfeld, Județul Timiș",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136073",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136073",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-53-2023",
+   "path": "local/timis/otelec/2023/53",
+   "short": "HCL Otelec nr. 53/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 53/2023",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/136074",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/136074",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-56-2023",
+   "path": "local/timis/otelec/2023/56",
+   "short": "HCL Otelec nr. 56/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 56/2023 privind stabilirea impozitelor și taxelor locale, precum și a taxelor speciale pentru anul 2024",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/143129",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/143129",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--otelec-58-2023",
+   "path": "local/timis/otelec/2023/58",
+   "short": "HCL Otelec nr. 58/2023",
+   "title": "Hotărârea Consiliului Local al Comunei Otelec nr. 58/2023 privind organizarea rețelei de învățământ preuniversitar de stat al Comunei Otelec pentru anul scolar 2024-2025",
+   "url": "https://emol.ro/otelec-tm/registru-hcl/143131",
+   "versions": [
+    {
+     "from": "2024-02-14",
+     "units": 1,
+     "source_url": "https://emol.ro/otelec-tm/registru-hcl/143131",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}

@@ -3,6 +3,51 @@
  "shard": "local/timis/saravale/2022",
  "acts": [
   {
+   "slug": "hcl-timis--saravale-1-2022",
+   "path": "local/timis/saravale/2022/1",
+   "short": "HCL Saravale nr. 1/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 1/2022 privind alegerea PREȘEDINTELUI DE ȘEDINȚĂ dintre membrii Consiliului Local al comunei Saravale pentru o perioada de trei luni",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#13273",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#13273",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-11-2022",
+   "path": "local/timis/saravale/2022/11",
+   "short": "HCL Saravale nr. 11/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 11/2022 privind aprobarea bugetului de venituri si cheltuieli a Comunei Saravale pe anul 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#16568",
+   "versions": [
+    {
+     "from": "2022-02-11",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#16568",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-13-2022",
+   "path": "local/timis/saravale/2022/13",
+   "short": "HCL Saravale nr. 13/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 13/2022 privind înființarea Serviciului de iluminat public al comunei Saravale și aprobarea Regulamentului de organizare și funcționare și a Caietului de sarcini al Serviciului de iluminat public",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#20942",
+   "versions": [
+    {
+     "from": "2022-02-28",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#20942",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-14-2022",
    "path": "local/timis/saravale/2022/14",
    "short": "HCL Saravale nr. 14/2022",
@@ -18,6 +63,81 @@
    ]
   },
   {
+   "slug": "hcl-timis--saravale-15-2022",
+   "path": "local/timis/saravale/2022/15",
+   "short": "HCL Saravale nr. 15/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 15/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-03-04",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-16-2022",
+   "path": "local/timis/saravale/2022/16",
+   "short": "HCL Saravale nr. 16/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 16/2022 aprobarea cuantumului lunar al burselor școlare și al numărului de beneficiari pentru elevii din învățământ preuniversitar de stat din Comuna Saravale, în anul școlar 2021-2022, semestru II",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22661",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22661",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-17-2022",
+   "path": "local/timis/saravale/2022/17",
+   "short": "HCL Saravale nr. 17/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 17/2022 scutirea de la taxa de salubritate a unor categorii de persoane",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22664",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22664",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-19-2022",
+   "path": "local/timis/saravale/2022/19",
+   "short": "HCL Saravale nr. 19/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 19/2022 privind aprobarea contului de execuție al bugetului local al Comunei Saravale la 31 decembrie 2021",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22701",
+   "versions": [
+    {
+     "from": "2022-03-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22701",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-2-2022",
+   "path": "local/timis/saravale/2022/2",
+   "short": "HCL Saravale nr. 2/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 2/2022 privind aprobarea acoperirii definitive a deficitului secţiunii de dezvoltare a bugetului local al comunei Saravale pe anul 2021 din excedentul bugetar al bugetului local al comunei Saravale, înregistrat la sfârșitul anului 2021 și aprobarea efectuării unui împrumut din excedentul bugetului local al Comunei Saravale pe anul 2021",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15208",
+   "versions": [
+    {
+     "from": "2022-01-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15208",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-20-2022",
    "path": "local/timis/saravale/2022/20",
    "short": "HCL Saravale nr. 20/2022",
@@ -28,6 +148,96 @@
      "from": "2022-04-06",
      "units": 1,
      "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22708",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-21-2022",
+   "path": "local/timis/saravale/2022/21",
+   "short": "HCL Saravale nr. 21/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 21/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-22-2022",
+   "path": "local/timis/saravale/2022/22",
+   "short": "HCL Saravale nr. 22/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 22/2022 transmiterea unor mijloace fixe si a terenurilor aferente acestora care fac parte din bunurile proprietate publica a comunei Saravale către Aquatim SA",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22728",
+   "versions": [
+    {
+     "from": "2022-04-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22728",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-23-2022",
+   "path": "local/timis/saravale/2022/23",
+   "short": "HCL Saravale nr. 23/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 23/2022 aprobă DEVIZUL GENERAL si CEREREA DE FINANTARE privind obiectivul de investiție «ÎNFIINȚARE REȚEA DE DISTRIBUȚIE GAZE NATURALE ÎN LOCALITATEA SARAVALE, COMUNA SARAVALE , JUDEȚUL TIMIȘ",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22730",
+   "versions": [
+    {
+     "from": "2022-04-19",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22730",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-24-2022",
+   "path": "local/timis/saravale/2022/24",
+   "short": "HCL Saravale nr. 24/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 24/2022 aprobarea cererii de finantare si a devizului general estimativ pentru depunerea la Ministerul Dezvoltarii, Lucrarilor Publice si Administratiei a proiectului privind obiectivul “ASIGURAREA INFRASTRUCTURII PENTRU TRANSPORTUL VERDE ÎN COMUNA SARAVALE-REALIZAREA DE PISTE PENTRU BICICLETE LA NIVEL LOCAL”",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22731",
+   "versions": [
+    {
+     "from": "2022-05-04",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22731",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-25-2022",
+   "path": "local/timis/saravale/2022/25",
+   "short": "HCL Saravale nr. 25/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 25/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-26-2022",
+   "path": "local/timis/saravale/2022/26",
+   "short": "HCL Saravale nr. 26/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 26/2022 HCL PNRR VARIANTA NOUA PISTE DE BICICLETE",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22734",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22734",
      "sha256": null
     }
    ]
@@ -63,6 +273,66 @@
    ]
   },
   {
+   "slug": "hcl-timis--saravale-30-2022",
+   "path": "local/timis/saravale/2022/30",
+   "short": "HCL Saravale nr. 30/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 30/2022 privind aprobarea utilizării unei sume de 100.377 lei din excedentul bugetar al anului 2021, pentru acoperirea golului de casă",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22766",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22766",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-32-2022",
+   "path": "local/timis/saravale/2022/32",
+   "short": "HCL Saravale nr. 32/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 32/2022 privind aprobarea cotizației la Asociația de Dezvoltare Intercomunitară Distribuţie Gaz Timiş Vest pe anul 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22768",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22768",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-33-2022",
+   "path": "local/timis/saravale/2022/33",
+   "short": "HCL Saravale nr. 33/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 33/2022 privind aprobarea Regulamentului privind condițiile de amplasare și func-ționare a teraselor sezoniere de pe raza comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22769",
+   "versions": [
+    {
+     "from": "2022-05-18",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#22769",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-34-2022",
+   "path": "local/timis/saravale/2022/34",
+   "short": "HCL Saravale nr. 34/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 34/2022 privind rectificarea bugetului de venituri si cheltuieli pe anul 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26388",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26388",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-35-2022",
    "path": "local/timis/saravale/2022/35",
    "short": "HCL Saravale nr. 35/2022",
@@ -73,6 +343,36 @@
      "from": "2022-06-30",
      "units": 1,
      "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26391",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-36-2022",
+   "path": "local/timis/saravale/2022/36",
+   "short": "HCL Saravale nr. 36/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 36/2022 privind însușirea documentației cadastrale de alipire a două loturi de teren identificate prin CF nr.401964 Saravale în suprafața de 1635 mp, respectiv prin CF nr. 406001 Saravale în suprafața de 135 mp",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26393",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26393",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-37-2022",
+   "path": "local/timis/saravale/2022/37",
+   "short": "HCL Saravale nr. 37/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 37/2022 Privind aprobarea prelungirii prin act adițional a contractului de administrare nr. 4365/2016 încheiat între Comuna Saravale și Parohia Ortodoxă Română Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26395",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26395",
      "sha256": null
     }
    ]
@@ -93,6 +393,141 @@
    ]
   },
   {
+   "slug": "hcl-timis--saravale-39-2022",
+   "path": "local/timis/saravale/2022/39",
+   "short": "HCL Saravale nr. 39/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 39/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-4-2022",
+   "path": "local/timis/saravale/2022/4",
+   "short": "HCL Saravale nr. 4/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 4/2022 privind aprobarea rețelei școlare a unităților de învățământ preuniversitar de pe raza teritorială a Unității Administrative Teritoriale Comuna Saravale, pentru anul școlar 2022-2023",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15225",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15225",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-40-2022",
+   "path": "local/timis/saravale/2022/40",
+   "short": "HCL Saravale nr. 40/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 40/2022 privind rectificarea bugetului de venituri si cheltuieli al comunei Saravale pe anul fiscal 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26411",
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26411",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-41-2022",
+   "path": "local/timis/saravale/2022/41",
+   "short": "HCL Saravale nr. 41/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 41/2022 privind rectificarea bugetului de venituri si cheltuieli al comunei Saravale pe anul fiscal 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26422",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-42-2022",
+   "path": "local/timis/saravale/2022/42",
+   "short": "HCL Saravale nr. 42/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 42/2022 privind aprobarea acordurilor de colaborare cu toți gestionarii a Fondului Cinegetic aflați pe teritoriul Unității Administrativ Teritoriale al Comunei Saravale, județul Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26424",
+   "versions": [
+    {
+     "from": "2022-07-25",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#26424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-43-2022",
+   "path": "local/timis/saravale/2022/43",
+   "short": "HCL Saravale nr. 43/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 43/2022 privind rectificarea bugetului de venituri si cheltuieli al comunei Saravale pe anul fiscal 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29160",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29160",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-44-2022",
+   "path": "local/timis/saravale/2022/44",
+   "short": "HCL Saravale nr. 44/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 44/2022 privind aprobarea Agendei culturale-sportive al comunei Saravale pentru anul 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29165",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29165",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-45-2022",
+   "path": "local/timis/saravale/2022/45",
+   "short": "HCL Saravale nr. 45/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 45/2022 aprobarea modificării taxei de închiriere a utilajului buldoexcavator , aflat în patrimoniul Comunei Saravale, jud. Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29187",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29187",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-46-2022",
+   "path": "local/timis/saravale/2022/46",
+   "short": "HCL Saravale nr. 46/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 46/2022 privind asigurarea transportului școlar a elevilor și a preșcolarilor din Comuna Saravale, jud. Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29198",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29198",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-47-2022",
    "path": "local/timis/saravale/2022/47",
    "short": "HCL Saravale nr. 47/2022",
@@ -103,6 +538,51 @@
      "from": "2022-08-31",
      "units": 1,
      "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#29203",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-48-2022",
+   "path": "local/timis/saravale/2022/48",
+   "short": "HCL Saravale nr. 48/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 48/2022 RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32669",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32669",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-49-2022",
+   "path": "local/timis/saravale/2022/49",
+   "short": "HCL Saravale nr. 49/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 49/2022 MONTAREA LIMITATOARELOR DE VITEZA ÎN ZONELE CU POTENȚIAL RIDICAT DE CIRCULAȚIE RUTIERA ȘI PIETONALA DIN COMUNA SARAVALE",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32674",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32674",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-50-2022",
+   "path": "local/timis/saravale/2022/50",
+   "short": "HCL Saravale nr. 50/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 50/2022 Însușirea raportului de evaluare a terenurilor intravilane care aparțin domeniului privat al com. Saravale și introducerea lor in inventar",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32677",
+   "versions": [
+    {
+     "from": "2022-09-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32677",
      "sha256": null
     }
    ]
@@ -138,6 +618,21 @@
    ]
   },
   {
+   "slug": "hcl-timis--saravale-53-2022",
+   "path": "local/timis/saravale/2022/53",
+   "short": "HCL Saravale nr. 53/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 53/2022 RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32685",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32685",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-54-2022",
    "path": "local/timis/saravale/2022/54",
    "short": "HCL Saravale nr. 54/2022",
@@ -153,6 +648,351 @@
    ]
   },
   {
+   "slug": "hcl-timis--saravale-55-2022",
+   "path": "local/timis/saravale/2022/55",
+   "short": "HCL Saravale nr. 55/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 55/2022 Schimbarea destinației imobilului inscris in CF nr. 400307 din casa in locuinte de serviciu și trecerea in domeniul public al comunei",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32687",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32687",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-56-2022",
+   "path": "local/timis/saravale/2022/56",
+   "short": "HCL Saravale nr. 56/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 56/2022 Stabilirea impozitelor și taxelor locale pe anul 2023",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32700",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#32700",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-57-2022",
+   "path": "local/timis/saravale/2022/57",
+   "short": "HCL Saravale nr. 57/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 57/2022 privind stabilirea obligaților , responsabilităților și sancțiunilor pentru faptele săvârșite de instituții publice , agenți economici și cetățeni în domeniul bunei gospodăriri a Comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33456",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-58-2022",
+   "path": "local/timis/saravale/2022/58",
+   "short": "HCL Saravale nr. 58/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 58/2022 privind stabilirea locației de depozitare a deșeurilor colectate de la locuitorii comunei Saravale, județul Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33472",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33472",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-59-2022",
+   "path": "local/timis/saravale/2022/59",
+   "short": "HCL Saravale nr. 59/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 59/2022 privind modificarea denumirii obiectivului de investiții Realizare rețea electrică iluminat cimitir sârbesc în Extindere rețea electrică iluminat stradal cimitir sârbesc",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33510",
+   "versions": [
+    {
+     "from": "2022-10-12",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#33510",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-6-2022",
+   "path": "local/timis/saravale/2022/6",
+   "short": "HCL Saravale nr. 6/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 6/2022 privind aprobarea Planului de acţiuni sau de lucrări de interes local pentru anul 2022, acţiuni sau lucrări stabilite in conformitate cu art. 6 alin 7 din Legea nr. 416/2001, cu modificările si completările ulterioare , la nivelul Comunei Saravale, jud. Timiş",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15228",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15228",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-60-2022",
+   "path": "local/timis/saravale/2022/60",
+   "short": "HCL Saravale nr. 60/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 60/2022 RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36403",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36403",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-61-2022",
+   "path": "local/timis/saravale/2022/61",
+   "short": "HCL Saravale nr. 61/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 61/2022 Însușirea raportului de evaluare a terenului intravilan înscris în CF nr. 401043 Saravale, care aparțin domeniului public al com. Saravale și introducerea lui in inventar",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36405",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36405",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-62-2022",
+   "path": "local/timis/saravale/2022/62",
+   "short": "HCL Saravale nr. 62/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 62/2022 privind aprobarea valorii finale a obiectivului de investiții «Reabilitare sala de sport», în urmă finalizării lucrărilor",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36413",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36413",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-63-2022",
+   "path": "local/timis/saravale/2022/63",
+   "short": "HCL Saravale nr. 63/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 63/2022 privind trecerea din domeniul privat al comunei Saravale în domeniului public al comunei Saravale, județul Timiș a imobilului în suprafața de 2787 mp cu nr. cadastral /CF 401043 Saravale, situat în intravilanul Comunei Saravale, strada Școlii, nr. 346B, jud. Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36414",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36414",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-64-2022",
+   "path": "local/timis/saravale/2022/64",
+   "short": "HCL Saravale nr. 64/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 64/2022 privind aprobarea primei intabulări a documentației cadastrale întocmite S.C.TERRA TOP SRL conform Anexei nr. 1, pentru imobilul teren cu destinația drum de exploatație DE 7, în suprafața de 1744 mp, din intravilanul comunei Saravale , introducerea acestuia în baza de date integrata și atribuirea unui Nr. cadastral",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36417",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36417",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-65-2022",
+   "path": "local/timis/saravale/2022/65",
+   "short": "HCL Saravale nr. 65/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 65/2022 privind trecerea din domeniul privat al comunei Saravale în domeniului public al comunei Saravale, județul Timiș a terenului în suprafața de 36.000 mp cu nr. cadastral /CF 403965 Saravale, respectiv a terenului în suprafața de 30.000 mp cu nr. cadastral /CF 404040 Saravale, situate în extravilanul Comunei Saravale, dobândite prin act notarial - Certificat de vacanță succesorală nr. 565/24.10.2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36421",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36421",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-66-2022",
+   "path": "local/timis/saravale/2022/66",
+   "short": "HCL Saravale nr. 66/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 66/2022 privind aprobarea Amenajamentului Pastoral pentru pajiștile din Comuna Saravale, județul Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36422",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36422",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-67-2022",
+   "path": "local/timis/saravale/2022/67",
+   "short": "HCL Saravale nr. 67/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 67/2022 privind însușirea raportului de evaluare a terenurilor agricole situate în extravilanul localității Saravale, județul Timiş și completarea inventarului bunurilor care aparțin domeniului privat al comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36423",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36423",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-68-2022",
+   "path": "local/timis/saravale/2022/68",
+   "short": "HCL Saravale nr. 68/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 68/2022 privind însușirea raportului de evaluare a terenului indentificat prin CF nr. 406060 Saravale situata în intravilanul localității Saravale, județul Timiş și completarea inventarului bunurilor care aparțin domeniului privat al comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36424",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36424",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-69-2022",
+   "path": "local/timis/saravale/2022/69",
+   "short": "HCL Saravale nr. 69/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 69/2022 privind aprobarea taxei de închiriere veselă și mobilier aflate în dotarea căminului cultural din localitatea Saravale, județul Timiș, în cuantum de 200 lei/eveniment",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36425",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36425",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-70-2022",
+   "path": "local/timis/saravale/2022/70",
+   "short": "HCL Saravale nr. 70/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 70/2022 privind trecerea din domeniul privat al comunei Saravale în domeniului public al comunei Saravale, județul Timiș a terenului în suprafața de 12.100 mp cu nr. cadastral /CF 404225 Saravale, a terenului în suprafața de 2.500 mp cu nr. cadastral /CF 404655 Saravale, a terenului în suprafața de 4.000 mp cu nr. cadastral /CF 405238, a terenului în suprafața de 3.900 mp cu nr. cadastral /CF 405138 situate în extravilanul Comunei Saravale, a terenului în suprafața de 5000 mp cu nr. cadastral /CF 405303, a terenului în suprafața de 5000 mp cu nr. cadastral /CF 405304, respectiv a terenului în suprafața de 13.000 mp cu nr. cadastral /CF 405298 dobândite prin Sentință Civilă nr. 584/2021 emisă de Judecătoria Sânnicolau Mare în dosarul nr. 2817/295/2020",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36431",
+   "versions": [
+    {
+     "from": "2022-11-16",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#36431",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-71-2022",
+   "path": "local/timis/saravale/2022/71",
+   "short": "HCL Saravale nr. 71/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 71/2022 APROBAREA CUANTUMULUI SI NUMARULUI BURSELOR SCOLARE PENTRU ELEVII SCOLII GIMNAZIALE COMUNA SARAVALE",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37526",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37526",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-72-2022",
+   "path": "local/timis/saravale/2022/72",
+   "short": "HCL Saravale nr. 72/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 72/2022 RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37532",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37532",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-73-2022",
+   "path": "local/timis/saravale/2022/73",
+   "short": "HCL Saravale nr. 73/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 73/2022 PARTICIPAREA COMUNEI SARAVALE LA IMPLEMENTAREA PROIECTULUI DE INVESTITII I4 IMPLEMENTARE A 3000 KM DE TRASEE CICLOTURISTICE LA NIVEL NATIONAL FINANTAT PRIN PNRR COMPONENTA 11",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37535",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37535",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-74-2022",
+   "path": "local/timis/saravale/2022/74",
+   "short": "HCL Saravale nr. 74/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 74/2022 APROBAREA PROIECTULUI DE RETEA A UNITATILOR DE INVATAMANT PREUNIVERSITAR DE PE RAZA COMUNEI SARAVALE PENTRU ANUL SCOLAR 2023-2024",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37540",
+   "versions": [
+    {
+     "from": "2022-12-07",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#37540",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-75-2022",
+   "path": "local/timis/saravale/2022/75",
+   "short": "HCL Saravale nr. 75/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 75/2022 proiect de hotarare nr. 12535 din 12.12.2022privind darea în folosință gratuită pe perioada de 5 ani de zile a imobilului « SALA DE SPORT», care aparține domeniului public al Comunei Saravale, înscris în CF nr. 401043 Saravale, Școlii Gimnaziale din Comuna Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42792",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-76-2022",
+   "path": "local/timis/saravale/2022/76",
+   "short": "HCL Saravale nr. 76/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 76/2022 Privind înscrierea definitivă în Carte Funciară a dreptului de proprietate al comunei Saravale- a unor drumuri de exploatare -DE și ape curgătoare și stătătoare -HCN , situate pe raza Unității Administrativ Teritoriale Comuna Saravale, județul Timiș și completarea inventarului bunurilor care aparțin domeniului public al Comunei Saravale , județul Timiș",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42857",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42857",
+     "sha256": null
+    }
+   ]
+  },
+  {
    "slug": "hcl-timis--saravale-77-2022",
    "path": "local/timis/saravale/2022/77",
    "short": "HCL Saravale nr. 77/2022",
@@ -163,6 +1003,126 @@
      "from": "2022-12-21",
      "units": 1,
      "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-78-2022",
+   "path": "local/timis/saravale/2022/78",
+   "short": "HCL Saravale nr. 78/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 78/2022 privind însușirea raportului de evaluare a drumurilor de exploatare agricole –DE, situate în extravilanul localității Saravale, județul Timiş și completarea inventarului bunurilor care aparțin domeniului public al comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42876",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42876",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-79-2022",
+   "path": "local/timis/saravale/2022/79",
+   "short": "HCL Saravale nr. 79/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 79/2022 privind însușirea raportului de evaluare a canalelor agricole (ape curgătoare și stătătoare-HCN), situate în extravilanul localității Saravale, județul Timiş și completarea inventarului bunurilor care aparțin domeniului public al comunei Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42877",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42877",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-8-2022",
+   "path": "local/timis/saravale/2022/8",
+   "short": "HCL Saravale nr. 8/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 8/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-80-2022",
+   "path": "local/timis/saravale/2022/80",
+   "short": "HCL Saravale nr. 80/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 80/2022 privind aprobarea indicatorilor tehnico-economici aferenți ”Proiectului regional de dezvoltare a infrastructurii de apă și apă uzată din județul Timiș, în perioada 2014-2020” – localitatea Saravale",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42878",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42878",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-81-2022",
+   "path": "local/timis/saravale/2022/81",
+   "short": "HCL Saravale nr. 81/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 81/2022 privind aprobarea cofinanţării \"Proiectului regional de dezvoltare a infrastructurii de apă şi apă uzată din judeţul Timiş, în perioada 2014-2020\" prin POIM in vederea asigurarii cofinantarii proiectului",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42881",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42881",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-82-2022",
+   "path": "local/timis/saravale/2022/82",
+   "short": "HCL Saravale nr. 82/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 82/2022",
+   "url": null,
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": null,
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-83-2022",
+   "path": "local/timis/saravale/2022/83",
+   "short": "HCL Saravale nr. 83/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 83/2022 RECTIFICAREA BUGETULUI DE VENITURI ȘI CHELTUIELI PE ANUL 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42892",
+   "versions": [
+    {
+     "from": "2022-12-21",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#42892",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--saravale-9-2022",
+   "path": "local/timis/saravale/2022/9",
+   "short": "HCL Saravale nr. 9/2022",
+   "title": "Hotărârea Consiliului Local al Comunei Saravale nr. 9/2022 privind aprobarea inventarierii la nivelul Unității Administrativ Teritoriale Comuna Saravale a materiei impozabile pentru anul fiscal 2022",
+   "url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15234",
+   "versions": [
+    {
+     "from": "2022-01-26",
+     "units": 1,
+     "source_url": "https://saravale.regista.ro/monitorul-oficial-local/hotararile-autoritatii-deliberative/registrul-pentru-evidenta-hotararilor-autoritatii-deliberative/31660#15234",
      "sha256": null
     }
    ]

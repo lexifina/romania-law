@@ -1,0 +1,249 @@
+{
+"country": "RO",
+"shard": "local/tulcea/c-a-rosetti/2020",
+"acts": [
+{
+"slug": "hcl-tulcea--c-a-rosetti-1-2020",
+"path": "local/tulcea/c-a-rosetti/2020/1",
+"kind": "local",
+"year": "2020",
+"number": "1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 1/2020 privind aprobarea rețelei școlare a unităților de învăţământ preuniversitar din comuna C.A.Rosetti , județul Tulcea în anul școlar 2020 - 2021",
+"short": "HCL C.A. Rosetti nr. 1/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2034",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-2-2020",
+"path": "local/tulcea/c-a-rosetti/2020/2",
+"kind": "local",
+"year": "2020",
+"number": "2",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 2/2020 privind validarea Dispoziției primarului comunei nr.68 din 30 decembrie 2019 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2019",
+"short": "HCL C.A. Rosetti nr. 2/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2035",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-4-2020",
+"path": "local/tulcea/c-a-rosetti/2020/4",
+"kind": "local",
+"year": "2020",
+"number": "4",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 4/2020 privind aprobarea regulamentului privind instituirea taxei pentru serviciul public de salubrizare în comuna C.A.Rosetti, județul Tulcea",
+"short": "HCL C.A. Rosetti nr. 4/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-01-31",
+"latest": "2020-01-31",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2037",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-6-2020",
+"path": "local/tulcea/c-a-rosetti/2020/6",
+"kind": "local",
+"year": "2020",
+"number": "6",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 6/2020 privind aprobarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+"short": "HCL C.A. Rosetti nr. 6/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-02-17",
+"latest": "2020-02-17",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2039",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-8-2020",
+"path": "local/tulcea/c-a-rosetti/2020/8",
+"kind": "local",
+"year": "2020",
+"number": "8",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 8/2020 privind aprobarea bugetului aferent implementării proiectului ” Reabilitare, modernizare și dotare Școala primară Letea, comuna C.A.Rosetti, județul Tulcea ”",
+"short": "HCL C.A. Rosetti nr. 8/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-03-30",
+"latest": "2020-03-30",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2041",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-9-2020",
+"path": "local/tulcea/c-a-rosetti/2020/9",
+"kind": "local",
+"year": "2020",
+"number": "9",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 9/2020 privind aprobarea contului anual de execuție al bugetului local și a situațiilor financiare anuale pe anul 2019",
+"short": "HCL C.A. Rosetti nr. 9/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2547",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-10-2020",
+"path": "local/tulcea/c-a-rosetti/2020/10",
+"kind": "local",
+"year": "2020",
+"number": "10",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 10/2020 privind înregistrarea Comunei C.A.Rosetti în Sistemul național electronic de plată online a taxelor și impozitelor utilizând cardul bancar (SNEP) și modul de suportare a comisionului bancar la tranzacțiile online",
+"short": "HCL C.A. Rosetti nr. 10/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-04-30",
+"latest": "2020-04-30",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/2548",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-15-2020",
+"path": "local/tulcea/c-a-rosetti/2020/15",
+"kind": "local",
+"year": "2020",
+"number": "15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 15/2020 privind aprobarea indicatorilor tehnico-economici, actualizați, ai proiectului de investiție „MODERNIZARE DRUM LETEA - C.A.ROSETTI, COMUNA C.A.ROSETTI, JUDEȚUL TULCEA”",
+"short": "HCL C.A. Rosetti nr. 15/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-07-31",
+"latest": "2020-07-31",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/7592",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-19-2020",
+"path": "local/tulcea/c-a-rosetti/2020/19",
+"kind": "local",
+"year": "2020",
+"number": "19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 19/2020",
+"short": "HCL C.A. Rosetti nr. 19/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-09-23",
+"latest": "2020-09-23",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/9765",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source",
+"title_withheld": "personal_data"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-29-2020",
+"path": "local/tulcea/c-a-rosetti/2020/29",
+"kind": "local",
+"year": "2020",
+"number": "29",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 29/2020 privind rectificarea bugetului local al comunei C.A.Rosetti, județul Tulcea pe anul 2020",
+"short": "HCL C.A. Rosetti nr. 29/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/12989",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+},
+{
+"slug": "hcl-tulcea--c-a-rosetti-30-2020",
+"path": "local/tulcea/c-a-rosetti/2020/30",
+"kind": "local",
+"year": "2020",
+"number": "30",
+"withdrawn_by": null,
+"reason": null,
+"title": "Hotărârea Consiliului Local al Comunei C.A. Rosetti nr. 30/2020 privind stabilirea impozitelor, taxelor locale și tarifelor pentru anul 2021",
+"short": "HCL C.A. Rosetti nr. 30/2020",
+"code": null,
+"status": "metadata only (text not yet included)",
+"versions": 1,
+"from": "2020-12-17",
+"latest": "2020-12-17",
+"portal": "https://emol.ro/carosetti-tl/registru-hcl/12990",
+"council": "tulcea/c-a-rosetti",
+"council_name": "Consiliul Local al Comunei C.A. Rosetti",
+"flags": {
+"text_pending": "source"
+}
+}
+]
+}

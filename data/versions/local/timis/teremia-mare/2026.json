@@ -1,0 +1,411 @@
+{
+ "country": "RO",
+ "shard": "local/timis/teremia-mare/2026",
+ "acts": [
+  {
+   "slug": "hcl-timis--teremia-mare-1-2026",
+   "path": "local/timis/teremia-mare/2026/1",
+   "short": "HCL Teremia Mare nr. 1/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 1/2026 privind modificare și completare HCL Teremia Mare nr. 161/18.11.2024 cu privire la aprobarea Regulamentului de Organizare și Funcționare a Consiliului Local al Comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254786",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254786",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-11-2026",
+   "path": "local/timis/teremia-mare/2026/11",
+   "short": "HCL Teremia Mare nr. 11/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 11/2026 privind aprobarea rectificării suprafeței de teren din CF nr. 404263, nr. CF vechi 2242, cu nr. top. 2945/508/b/20, Teremia Mare, UAT Teremia Mare, de la Sa=719 mp, la Sm=792 mp",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254796",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254796",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-12-2026",
+   "path": "local/timis/teremia-mare/2026/12",
+   "short": "HCL Teremia Mare nr. 12/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 12/2026 privind aprobarea rectificării suprafeței de teren din CF nr. 403958, nr. CF vechi 1489, cu nr. top. 83-85/b, Teremia Mare, UAT Teremia Mare, de la Sa=1413 mp, la Sm=1444 mp",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254797",
+   "versions": [
+    {
+     "from": "2026-01-28",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254797",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-13-2026",
+   "path": "local/timis/teremia-mare/2026/13",
+   "short": "HCL Teremia Mare nr. 13/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 13/2026 privind completarea și modificarea HCL Teremia Mare nr. 122/24.10.2018, cu privire la evidențierea imobilelor în proprietatea comunei Teremia Mare aflate pe teritoriul unității administrativ teritoriale Teremia Mare, respectiv în intravilanul localităților",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254825",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254825",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-2-2026",
+   "path": "local/timis/teremia-mare/2026/2",
+   "short": "HCL Teremia Mare nr. 2/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 2/2026 privind modificare și completare HCL Teremia Mare nr. 162/18.11.2024 privind organizarea comisiilor de specialitate ale Consiliului local Teremia Mare, pe principalele domenii de activitate",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254787",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254787",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-21-2026",
+   "path": "local/timis/teremia-mare/2026/21",
+   "short": "HCL Teremia Mare nr. 21/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 21/2026 privind modificare și completare HCL Teremia Mare nr. 5/28.01.2026 privind stabilirea nivelurilor impozitelor și taxelor locale și altor taxe asimilate acestora, aplicabile începând cu anul 2026 la nivelul Comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/258818",
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/258818",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-28-2026",
+   "path": "local/timis/teremia-mare/2026/28",
+   "short": "HCL Teremia Mare nr. 28/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 28/2026 privind aprobarea actualizării Studiului de Fezabilitate, a devizului general, a indicatorilor tehnico-economici și a finanțării pentru investiția ''Instalarea unei noi capacități de producere a energiei electrice din surse solare cu o capacitate de minim 900 Kw în Comuna Teremia Mare''",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/260809",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/260809",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-29-2026",
+   "path": "local/timis/teremia-mare/2026/29",
+   "short": "HCL Teremia Mare nr. 29/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 29/2026 privind reorganizarea aparatului de specialitate al primarului, aprobarea organigramei și a statului de funcții, al aparatului de specialitate al primarului Comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/260810",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/260810",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-3-2026",
+   "path": "local/timis/teremia-mare/2026/3",
+   "short": "HCL Teremia Mare nr. 3/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 3/2026",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254788",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254788",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-4-2026",
+   "path": "local/timis/teremia-mare/2026/4",
+   "short": "HCL Teremia Mare nr. 4/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 4/2026",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254789",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254789",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-47-2026",
+   "path": "local/timis/teremia-mare/2026/47",
+   "short": "HCL Teremia Mare nr. 47/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 47/2026 privind rectificarea bugetară pentru anul 2026, trimestrul al II-lea, varianta a II-a, Teremia Mare, județul Timiș și Lista de investiții, varianta I",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282561",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282561",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-49-2026",
+   "path": "local/timis/teremia-mare/2026/49",
+   "short": "HCL Teremia Mare nr. 49/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 49/2026 privind atribuirea terenului intravilan înscris în CF nr.404663, nr.CF vechi 403564 având nr. top 404663, al localității Teremia Mică, UAT Teremia Mare, în suprafață de 1000/1439 mp în folosință gratuită, conform Legii nr. 15/2003, modificată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282563",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282563",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-5-2026",
+   "path": "local/timis/teremia-mare/2026/5",
+   "short": "HCL Teremia Mare nr. 5/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 5/2026 privind modificare și completare HCL Teremia Mare nr. 76/22.12.2025 privind stabilirea nivelurilor impozitelor și taxelor locale și a altor taxe asimilate acestora, aplicabile începând cu anul 2026 la nivelul Comunei Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254790",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254790",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-51-2026",
+   "path": "local/timis/teremia-mare/2026/51",
+   "short": "HCL Teremia Mare nr. 51/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 51/2026 privind aprobarea revizuirii devizului general și a indicatorilor tehnic-economici pentru investiția „Construire și dotare Școala Gimnazială cu clasele I-VIII în localitatea Teremia Mare, comuna Teremia Mare, județul Timiș”",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282575",
+   "versions": [
+    {
+     "from": "2026-08-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282575",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-53-2026",
+   "path": "local/timis/teremia-mare/2026/53",
+   "short": "HCL Teremia Mare nr. 53/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 53/2026 privind rectificarea bugetară pentru anul 2026, trimestrul al III-lea, varianta a III-a, Teremia Mare, județul Timiș și Lista de investiții, varianta a II-a",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282287",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282287",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-54-2026",
+   "path": "local/timis/teremia-mare/2026/54",
+   "short": "HCL Teremia Mare nr. 54/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 54/2026 privind aderarea Comunei Teremia Mare la ASOCIAȚIA DE DEZVOLTARE INTERCOMUNITARĂ RESURSE GEOTERMALE BANAT",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282288",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282288",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-56-2026",
+   "path": "local/timis/teremia-mare/2026/56",
+   "short": "HCL Teremia Mare nr. 56/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 56/2026 privind aprobarea aderării UAT Livezile, UAT Banloc și UAT Giera la Asociația de Dezvoltare Intercomunitară Transport Județean TRANSTIMIȘ",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/282290",
+   "versions": [
+    {
+     "from": "2026-08-05",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/282290",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-59-2026",
+   "path": "local/timis/teremia-mare/2026/59",
+   "short": "HCL Teremia Mare nr. 59/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 59/2026 privind rectificarea bugetară pentru anul 2026, trimestrul al III-lea, varianta a IV-a, Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/289396",
+   "versions": [
+    {
+     "from": "2026-09-25",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/289396",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-6-2026",
+   "path": "local/timis/teremia-mare/2026/6",
+   "short": "HCL Teremia Mare nr. 6/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 6/2026",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254791",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254791",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-63-2026",
+   "path": "local/timis/teremia-mare/2026/63",
+   "short": "HCL Teremia Mare nr. 63/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 63/2026 privind aprobarea rectificării suprafeței de teren din CF. nr. 402328, nr. CF vechi 8, cu nr. top. 19-20/b Teremua Mare, UAT Teremia Mare, de la Sa=1439 mp, la Sm=1697",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/292448",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/292448",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-64-2026",
+   "path": "local/timis/teremia-mare/2026/64",
+   "short": "HCL Teremia Mare nr. 64/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 64/2026 privind aprobarea aderării UAT Sânnicolau Mare și UAT Deta la Asociația de Dezvoltare Intercomunitară Transport Județean TRANSTIMIȘ",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/292453",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/292453",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-67-2026",
+   "path": "local/timis/teremia-mare/2026/67",
+   "short": "HCL Teremia Mare nr. 67/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 67/2026 privind atribuirea terenului intravilan înscris în CF nr. 402171, nr. CF vechi 663, având nr. top 215-216/b, al localității Teremia Mică, în suprafață de 1000/1295 mp în folosință gratuită, conform Legii nr. 15/2003, modificată",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/292456",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/292456",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-68-2026",
+   "path": "local/timis/teremia-mare/2026/68",
+   "short": "HCL Teremia Mare nr. 68/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 68/2026 privind aprobarea depunerii proiectului „Realizarea unei capacități de stocare a energiei electrice (baterii) pentru Comuna Teremia Mare” și a cheluielilor legate de acest proiect, în vederea finanțării în cadrul Fondului pentru Modernizare - Programul-cheie 1: Surse regenerabile de energie și stocarea energiei - „Sprijinirea investițiilor în dezvoltarea de noi capacități de stocare a energiei electrice produsă din surse regenerabile de energie pentru entități publice”",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/292460",
+   "versions": [
+    {
+     "from": "2026-10-07",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/292460",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-7-2026",
+   "path": "local/timis/teremia-mare/2026/7",
+   "short": "HCL Teremia Mare nr. 7/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 7/2026 privind aprobarea „Planului de acțiuni sau lucrări pentru beneficiarii de ajutor social apți de muncă 2026 Teremia Mare, județul Timiș”",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254792",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254792",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-70-2026",
+   "path": "local/timis/teremia-mare/2026/70",
+   "short": "HCL Teremia Mare nr. 70/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 70/2026 privind rectificarea bugetară pentru anul 2026, trimestrul al IV-lea, varianta a V-a și Lista de investiții, varianta III-a, Teremia Mare, județul Timiș",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/295181",
+   "versions": [
+    {
+     "from": "2026-10-28",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/295181",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-8-2026",
+   "path": "local/timis/teremia-mare/2026/8",
+   "short": "HCL Teremia Mare nr. 8/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 8/2026 privind aprobarea Raportului privind activitatea desfășurată de asistenții personali ai persoanelor cu handicap grav, pe semestrul al II-lea al anului 2025",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254793",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254793",
+     "sha256": null
+    }
+   ]
+  },
+  {
+   "slug": "hcl-timis--teremia-mare-9-2026",
+   "path": "local/timis/teremia-mare/2026/9",
+   "short": "HCL Teremia Mare nr. 9/2026",
+   "title": "Hotărârea Consiliului Local al Comunei Teremia Mare nr. 9/2026 privind aprobarea Caietului de sarcini pentru achiziția de Servicii de catering, respectiv pregătirea, prepararea și livrarea zilnică a suportului alimentar pentru preșcolarii și elevii Școlii Gimnaziale Teremia Mare, acordat în baza HG nr. 1171/2025 privind instituirea Programului național „MASĂ SĂNĂTOASĂ” (PNMS) în anul 2026 (16 februarie 2026 - 18 decembrie 2026)",
+   "url": "https://emol.ro/teremiamare-tm/registru-hcl/254794",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 1,
+     "source_url": "https://emol.ro/teremiamare-tm/registru-hcl/254794",
+     "sha256": null
+    }
+   ]
+  }
+ ]
+}
